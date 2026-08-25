@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-08-25 it sits at `ledger_version` 2.8, 545 rules, 25 batches, zero duplicate rule IDs.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-08-25 it sits at `ledger_version` 2.9, 557 rules, 26 batches, zero duplicate rule IDs.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -23,7 +23,7 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 
 ## Merge script pattern
 
-Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 26): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
+Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 27): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
 
 ## Standing conventions
 
@@ -34,7 +34,7 @@ Every batch gets its own script (`merge_batchN_description.py`, N is the next se
 
 ## Currently queued, not yet started
 
-- The standalone Domus Inviolate Dossier deep-read.
+- ~~The standalone Domus Inviolate Dossier deep-read~~ **done, Batch 26, 2026-08-25 (`CULT-182` through `CULT-193`).** This was the payoff batch several earlier cult-network rules had been waiting on — `CULT-022`, `CULT-030`, `CULT-035`, `CULT-036`, and `CULT-134` all planted forward cross-references anticipating it, and all resolved clean, no contradictions.
 - ~~The remaining Ashkeel batches~~ **all done, 2026-08-25.** The Seven High Arts (Batch 22, `ASH-023`-`ASH-030`), the collar/legal hierarchy and the Basalt Codex (Batch 23, `ASH-031`-`ASH-042`), internal geography and the merchant guilds (Batch 24, `ASH-043`-`ASH-049`), and named characters (Batch 25, `ASH-050`-`ASH-057`) — this closes out "Guild of the Extraordinary" (Google Drive fileId `1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM`) as a source document entirely, nothing further queued from it. Two things worth remembering if it's ever revisited: the house-name translation table (Solaas/Kaelen/Nyxos/Thorne/Val-Cian -> Corvessa/Kragmoor/Vhaerlow/Kestrion/Aurelock, Vane and Moros unchanged), and that its Phase I Iron Collar recruitment trial text ("ages 16 and 22") reads as a child-safety violation unless cross-checked against the already-locked `ASH-016`/`ASH-036` age of 30 first.
 - The 173-file Character Codex zip (curatorial extraction, Talisman of Mao lore flagged as priority).
 - The World Adaptation Blueprint.
