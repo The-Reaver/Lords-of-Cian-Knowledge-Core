@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "3.0",
+  "ledger_version": "3.1",
   "last_updated": "2026-08-25",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -253,6 +253,16 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad approved locking all 79 draft CC- rules from Batch 10 in one pass: \"Yes, lock all 79 now\". CC-045 and CC-046 revised with an in-universe-misdirection annotation (matching SBD-010's precedent) before locking, since both still carried the pre-MCD-131/132/133 \"killed/ended\" framing. The other 77 draft rules lock unchanged. CC-025 stays \"superseded\" (already correct, Lilith Cyzak resolved via MCD-134). This closes the Character Codex extraction (Batch 10) fully."
+    },
+    {
+      "batch": 28,
+      "source_doc": "World_Adaptation_Blueprint (Avatar count + Kares Prime reconciliation only; full document not yet extracted)",
+      "source_id": "1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA",
+      "rule_count": 2,
+      "status": "complete",
+      "conflicts_found": 1,
+      "conflicts_resolved": 1,
+      "note": "Abad resolved the Avatar count in two follow-up passes after the initial \"17, Kanja included\" ruling didn't match the Blueprint's 20-entry table: confirmed Onyx isn't an Avatar (\"20 is a broader list than 'Avatars'\"), then confirmed the resulting 19 is the real count (\"19 is the real count\"), superseding the earlier 17 ruling. The Kares Prime reconciliation and the full draft were then approved together: \"lock it\""
     }
   ],
   "rules": [
@@ -1515,8 +1525,8 @@
     },
     {
       "id": "WC-014",
-      "statement": "The Talisman of Mao is a shifting Living Drakma sphere functioning as a synchronization server for 17 Avatars, with a Triple-Tiered Cascade: Sovereign Umbrella (crew-level) -> Grounded Bastion (planetary) -> Internal Quench (Kanja, currently 99.9% capacity). Stage 2 (Grounded Bastion) channels Kanja's radiance into the planet's crust as Architectural Reinforcement; Stage 3's Governor's Shackle uses the Gravity-Fetter pendant as its physical interface, and severing it triggers the Pi-Awakening.",
-      "status": "draft",
+      "statement": "The Talisman of Mao is a shifting Living Drakma sphere functioning as a synchronization server for 19 Avatars (corrected from an earlier 17 figure; see MCD-140), with a Triple-Tiered Cascade: Sovereign Umbrella (crew-level) -> Grounded Bastion (planetary) -> Internal Quench (Kanja, currently 99.9% capacity). Stage 2 (Grounded Bastion) channels Kanja's radiance into the planet's crust as Architectural Reinforcement; Stage 3's Governor's Shackle uses the Gravity-Fetter pendant as its physical interface, and severing it triggers the Pi-Awakening.",
+      "status": "locked",
       "source": "World Codex v3.4, Sections 3.7, XX",
       "note": "Cross-checked against already-locked MCD-060/MCD-061 (CONFLICT-001 resolution, blended Gravity-Fetter containment + Architectural Reinforcement overflow) -- this document's account is CONSISTENT with and elaborates on that lock, not in conflict with it."
     },
@@ -4054,6 +4064,20 @@
       "statement": "The community has no clean post-Breach ideological schism, only a silent, structurally unresolvable one. Members who walked to Karkosa during the suspension returned holding outside information the Ledger has no language for, specifically the concept of containment, which contradicts the Accountant's 'Resumption complete' declaration. The household's structure provides no mechanism to challenge the Accountant's authority, so the contradiction goes unspoken rather than unresolved: held silently by returning members in a community that has never before had to hold a contradiction the Ledger couldn't settle.",
       "status": "locked",
       "source": "'Domus_Inviolate_Dossier' (Google Drive fileId 19FOKjvEaBqCU39_wkOX6GCFMokHDKPgYsw_f4U4w90U, Lore Vault folder; two other byte-identical copies exist at Drive root, 1TeMFE2qZBRNWgxRhz6llYR_wQ5uH9um8-LtMX8sZITc and .docx 1a0_sTug3IibEYSmTGaSz6vFAUTHTNYuR, not separately extracted). Resolves the forward cross-references planted at CULT-022, CULT-030, CULT-035, CULT-036, and CULT-134 in earlier cult-network batches, all of which explicitly anticipated this batch."
+    },
+    {
+      "id": "MCD-140",
+      "category": "World Mechanics",
+      "statement": "The Talisman of Mao's Sovereign Umbrella protects nineteen Avatars, not sixteen or seventeen as various source documents state -- those figures are undercounts. The confirmed roster, per the World Adaptation Blueprint's own Stress Profile Table: Kanja Rexmar, Ozmund Verehimu, Valen, Sephtis, Bloodreaver (Torian), Ironbane (Darius), Anansi (Shadowforge), Stormbreaker (Kaelen), Blades Fury (Anirak), Dreadlord (Azar), Drown-Warden Varkul, Sorya, Varruk, Pyro (Ignis Rexmar), Voidbreaker (Jax), Stormreaver (Kairo), Soulreaver Zora, Ghostwind (Sylas), and Abyss (Ren). Onyx of Oblivion appears in the same table but is explicitly excluded from the count: it is a sentient weapon, not a person, and the table itself describes it as 'a node in the planetary lattice' rather than a stress source the Talisman protects against. This resolves the inconsistency documented at CC-075 and supersedes the '17 Avatars' figure formerly in draft WC-014.",
+      "status": "locked",
+      "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section III (the Stress Profile Table) and the 'CANON RECONCILIATION -- KARES PRIME AND THE KARETH WAR-MATRIARCHY' preface. Resolves the inconsistency documented at CC-075 (16 vs 17 Avatars) and the missing world qualifier in MCD-034, both per Abad's rulings, 2026-08-25."
+    },
+    {
+      "id": "MCD-141",
+      "category": "World Mechanics",
+      "statement": "MCD-034 ('Lauris Letitia is the last born pure-blood Karesian before the men died and the women ruled alone') is amended to specify a world: this happened on Kares Prime, Lauris's homeworld, classified High-Gravity Warborn, not on Cian. The Kareth War-Matriarchy on Cian (the institution behind Val Saeryn Kareth and Val Mirel Kareth) is a separate, distant descendant institution: the surviving line of a Karesian colonial expedition that left Kares Prime roughly 122,000 years ago during a period of catastrophic decline. The split is old enough that neither branch recognizes the other as the same people anymore -- the Kareth on Cian remember themselves as an independent War-Order; what remains on Kares Prime remembers itself as a dying root population. Lauris carries the source population's biology; the Kareth sisters carry the descended, diluted version. MCD-034's substance (last pure-blood, biological ceiling, the men-died/women-ruled history) is otherwise unchanged.",
+      "status": "locked",
+      "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section III (the Stress Profile Table) and the 'CANON RECONCILIATION -- KARES PRIME AND THE KARETH WAR-MATRIARCHY' preface. Resolves the inconsistency documented at CC-075 (16 vs 17 Avatars) and the missing world qualifier in MCD-034, both per Abad's rulings, 2026-08-25."
     }
   ],
   "open_decisions": [
