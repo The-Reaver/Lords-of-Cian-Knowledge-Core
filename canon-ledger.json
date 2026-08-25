@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "3.6",
+  "ledger_version": "3.7",
   "last_updated": "2026-08-25",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -306,6 +306,15 @@
       "source_doc": "World_Adaptation_Blueprint (Section VI, Era C: the Women's Rule)",
       "source_id": "1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA",
       "rule_count": 4,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad approved the full draft as pasted in-conversation: \"lock it\""
+    },
+    {
+      "batch": 34,
+      "source_doc": "World_Adaptation_Blueprint (Section VI, Era D: birth and the Threnarr childhood)",
+      "source_id": "1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA",
+      "rule_count": 5,
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad approved the full draft as pasted in-conversation: \"lock it\""
@@ -4264,6 +4273,41 @@
       "statement": "The Sister-Hold civilization Lauris was raised in was calm rather than despairing -- its grief was thousands of years in the past -- and had instead developed a deep culture of memory: every adult woman knew her direct lineage back at least twelve generations (~180,000 years), and every Sister-Hold kept its own internal archive nested inside its Vask's larger one. Lauris's first inheritance from this culture wasn't her density or biology but the practice of careful witness: watching, recording, and withholding judgment until the data is complete. This is specifically what Ezio recognized and hired her for on first meeting -- her combat capability mattered less to him than her capacity to witness without rushing to a verdict.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era C ('The Women's Rule')."
+    },
+    {
+      "id": "MCD-162",
+      "category": "World Mechanics",
+      "statement": "Lauris was born at Vask Threnarr, concluding the 1,200-year, 47-donor selection process (MCD-157). Her maternal candidate, Selene Aldreth-Vorr, was 38,200 years old at conception (mature second adulthood, MCD-149) and relocated from her home Vask Aldreth to Threnarr roughly three years before conception to begin the maternal-candidate protocols; the fertilization succeeded on the first attempt, and Lauris presented at birth as the highest-integrity Karesian genome documented in the previous 7,200 years. The senior archivist present, Drenneth Threnarr-Vask, recorded the birth in two sentences: 'The conception held. The civilization continues for one more lifespan.' Lauris read the entry herself at age 230 and has never discussed the experience.",
+      "status": "locked",
+      "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era D ('Birth and the Threnarr Childhood')."
+    },
+    {
+      "id": "MCD-163",
+      "category": "World Mechanics",
+      "statement": "The Iron-Speakers knew at Lauris's birth that she was the civilization's last possible preservation -- their attempts to identify second and third candidate profiles had already failed by the time she was conceived. They did not yet know what the 47-donor recombination had actually produced (MCD-157); they expected a cooperative-era baseline and treated her accordingly. The gap between what they expected and what she actually was didn't become visible until her first anomalous density reading roughly 1,400 years later.",
+      "status": "locked",
+      "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era D ('Birth and the Threnarr Childhood')."
+    },
+    {
+      "id": "MCD-164",
+      "category": "World Mechanics",
+      "statement": "Selene raised Lauris within a five-member Threnarr Sister-Hold assembled specifically for the purpose, all sharing full daily authority over her under Karesian collective-childcare tradition: Selene herself (first among equals, biological lineage carrier); Drenneth Threnarr-Vask (the senior archivist, eldest of the Hold at 71,400 years); Mira Threnarr-Olmedrin (a combat instructor relocated from Vask Karth-Ven for Lauris's early physical training); Veth Threnarr-Karth (a pediatric-development medical archivist); and Olda Threnarr-Iralek (a historical archivist who ran Lauris's lineage and archival education). This arrangement held for the first 1,400 years of Lauris's life.",
+      "status": "locked",
+      "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era D ('Birth and the Threnarr Childhood')."
+    },
+    {
+      "id": "MCD-165",
+      "category": "World Mechanics",
+      "statement": "The Sister-Hold deliberately withheld from Lauris that she was the civilization's final preservation -- not to shield her, but to preserve the integrity of her childhood as data: the Iron-Speakers wanted to know what the unmodified genome produced when raised without that knowledge. To support this, the entire civilization's remaining parthenogenic-conception schedule was adjusted to produce a cohort of 47 other children at Vask Threnarr around her birth, none of them told either. Her closest cohort friend, Velith, was killed in a Vask Threnarr defensive operation when Lauris was ~1,200 years old; Lauris's archive entry recording Velith's death remains the longest single entry she has ever written.",
+      "status": "locked",
+      "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era D ('Birth and the Threnarr Childhood')."
+    },
+    {
+      "id": "MCD-166",
+      "category": "World Mechanics",
+      "statement": "Lauris's early childhood curriculum ran three tracks: physical conditioning from age 3 (stationary-density holds, controlled-fall training -- she tracked within cohort norms, static density 800-1,400x like her peers), archival training from age 5 under Olda (daily observation logs -- by age 8 her structural awareness already exceeded cohort average, noted privately but not flagged), and lineage education from age 7-12, taught only through Selene's maternal line, with her K-strand donor lineage deliberately withheld. At age 14, a routine cohort density assessment registered her at 2,800x -- double the cohort ceiling, confirmed after recalibration and repeat testing ruled out instrument error. After a three-day deliberation, the Sister-Hold relocated her training to Vask Karth-Ven; Lauris took the news calmly, asked only whether she'd still see her cohort, and left Threnarr two months later with Selene accompanying her.",
+      "status": "locked",
+      "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era D ('Birth and the Threnarr Childhood')."
     }
   ],
   "open_decisions": [
