@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-08-23 it sits at `ledger_version` 2.4, 510 rules, 21 batches, zero duplicate rule IDs.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-08-25 it sits at `ledger_version` 2.5, 518 rules, 22 batches, zero duplicate rule IDs.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -23,7 +23,7 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 
 ## Merge script pattern
 
-Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 22): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
+Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 23): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
 
 ## Standing conventions
 
@@ -34,7 +34,11 @@ Every batch gets its own script (`merge_batchN_description.py`, N is the next se
 ## Currently queued, not yet started
 
 - The standalone Domus Inviolate Dossier deep-read.
-- The remaining Ashkeel batches: the Seven High Arts as a formal system, the collar/legal hierarchy and the Basalt Codex, internal geography and the merchant guilds, and named characters.
+- The remaining Ashkeel batches: ~~the Seven High Arts as a formal system~~ **done, Batch 22, 2026-08-25 (`ASH-023` through `ASH-030`)**; still queued: the collar/legal hierarchy and the Basalt Codex, internal geography and the merchant guilds, and named characters.
+  - All four come from the same source document as Batch 19 (Ashkeel founding/governance): "Guild of the Extraordinary" (Google Drive fileId `1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM`). Two quirks confirmed there that will resurface in the remaining three batches:
+    - **House-name translation is required, not optional.** The raw document still uses the pre-rename house names (Solaas, Kaelen, Nyxos, Thorne, Val-Cian). `ASH-014`/`ASH-015`/`ASH-016` already locked these as Corvessa, Kragmoor, Vhaerlow, Kestrion, and Aurelock respectively (Vane and Moros unchanged) under Abad's full-renaming-autonomy grant. Translate every occurrence before drafting; do not reintroduce the document's literal names.
+    - **Enforcer/Iron-Collar recruitment age is 25, not the document's stated "16 and 22."** Abad corrected this verbally 2026-08-25 after the source text's Phase I admission trial ("The Labyrinth of Desire") combined that age range with mandatory sexualized content — a child-safety hard stop. The correction has not been written back into the source Google Doc itself, only ruled on in conversation, so a future session drafting the collar/legal-hierarchy batch (which covers this same "Mandate of the Iron Collars" section) needs to apply the 25-and-up floor rather than re-reading the raw 16-22 text and re-tripping the same stop.
+    - The document also reuses "Cian" (the world's own name) as an in-world proper-noun component in several places (Sanctuary of Cian, Redoubts of Cian, Apothecaries of Cian, and — before this batch's correction — the Vapor of Cian, now the Obsidian Vapor). Abad's standing call: decide per-instance, not a blanket rule; flag each occurrence with a read and let him confirm.
 - The 173-file Character Codex zip (curatorial extraction, Talisman of Mao lore flagged as priority).
 - The World Adaptation Blueprint.
 - C-001 through C-023 Codex-text corrections.
