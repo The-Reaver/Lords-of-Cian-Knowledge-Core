@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "3.2",
+  "ledger_version": "3.3",
   "last_updated": "2026-08-25",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -269,6 +269,15 @@
       "source_doc": "World_Adaptation_Blueprint (Sections I-II: mechanism + timeline)",
       "source_id": "1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA",
       "rule_count": 4,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad approved the full draft as pasted in-conversation: \"lock it\""
+    },
+    {
+      "batch": 30,
+      "source_doc": "World_Adaptation_Blueprint (Section V: world response pattern + capacity)",
+      "source_id": "1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA",
+      "rule_count": 2,
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad approved the full draft as pasted in-conversation: \"lock it\""
@@ -4115,6 +4124,20 @@
       "statement": "T.D.K., during his Era 11-12 containment program, independently performed his own geological hardening of his subterranean kingdom using Ionic Rite resonance loops (CULT-001, CULT-005) embedded in the deep crust, both to contain the Ever-Haunt and to maintain structural integrity against the mantle's pressure -- this predates and is independent of the Talisman's tuning pulse. Where the two systems' effects overlap at the Broken Meridian, the interaction is constructive: hardening doubles versus either system alone. In Book 5, the Orlok-Vakas collision at the Broken Meridian gate exceeds local tuning and nearly breaches it; the Talisman performs an emergency power reallocation to save the gate, leaving the rest of the planet's hardening at a deficit for approximately 48 hours -- the exact window T.D.K. times his climactic attack around. The system's absolute failure ceiling is approximately 42,000x sustained at a single contact point for over 0.4 seconds against unprepared substrate; beyond that, catastrophic de-coherence cascades to the Mao reservoir itself. This threshold is never crossed on-page (Avatars strike each other, not the planet), except for the Book 5 deficit window, during which several minor named catastrophes occur off-page as evidence the system was briefly down.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section I ('The Mechanism -- How the World Hardens') and Section II ('The Timeline -- Five Books of Hardening')."
+    },
+    {
+      "id": "MCD-146",
+      "category": "World Mechanics",
+      "statement": "The Talisman of Mao's planetary protection (MCD-142) runs a fixed four-phase response to applied density stress: Detection (continuous Sovereign Umbrella monitoring, ~0.04 second latency); Pre-Stress Reinforcement (a lattice-coherence pulse to a ~200-meter radius around the projected impact point, compensating 30-60% of the impact depending on local Living Drakma density); Distributive Absorption (force spread laterally through the reinforced mineral grain, so a 2-meter-radius crater instead distributes as visible strain across ~15 meters); and Post-Stress Re-Tuning (4 hours for small impacts, up to 96 hours for Sovereign-tier ones, during which the affected zone sits at reduced capacity -- sequential strikes within this window are absorbed less effectively, the mechanism behind the Book 5 48-hour deficit at MCD-145).",
+      "status": "locked",
+      "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section V ('The World as Character -- Response Pattern, Capacity, Ceiling'), 5.1 and 5.2/5.5. Section IV (Reader Breadcrumbs) reviewed and deliberately not extracted -- it is writer's-room scene-placement notes restating Sections I/II/V's facts as breadcrumbs, not new world-building. Section V's 5.3/5.4 (the ceiling and failure mode) also not re-extracted here, already locked at MCD-145."
+    },
+    {
+      "id": "MCD-147",
+      "category": "World Mechanics",
+      "statement": "The system's capacity is bounded by three finite resources. Living Drakma deposit density is distributed unevenly across the crust -- heaviest beneath Jicome (the Mao Volcano region), the Verehimu Wetlands, the Broken Meridian, and certain coastal seams, much thinner under the Sovereign Trust's interior holdings -- so combat fought near Mao is measurably better protected than combat fought in the Trust's interior. Talisman broadcast power is shared in real time across all three Stages simultaneously (Sovereign Umbrella, Grounded Bastion, Internal Quench) and currently runs at 99.9% utilization, a 0.1% margin between functioning and collapse; the Pi-Awakening cascade, when it triggers, temporarily redistributes this power and elevates risk during the redistribution window. Re-tuning latency (MCD-146) is a hard physical floor that cannot be shortened. During the Book 5 48-hour reallocation deficit, the harbor floor at Karkosa still holds T.D.K.'s landing because three centuries of pre-loading kept its local capacity above threshold even at reduced power; elsewhere on the planet during the same window, it does not -- a small Verehimu Archipelago island partially submerges, a Sovereign Trust coastal cliff collapses with a fishing village on it, and two aging bridges fail, roughly 400 dead combined, reported off-page as evidence of the deficit rather than depicted directly.",
+      "status": "locked",
+      "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section V ('The World as Character -- Response Pattern, Capacity, Ceiling'), 5.1 and 5.2/5.5. Section IV (Reader Breadcrumbs) reviewed and deliberately not extracted -- it is writer's-room scene-placement notes restating Sections I/II/V's facts as breadcrumbs, not new world-building. Section V's 5.3/5.4 (the ceiling and failure mode) also not re-extracted here, already locked at MCD-145."
     }
   ],
   "open_decisions": [
