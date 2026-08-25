@@ -1,7 +1,7 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "2.4",
-  "last_updated": "2026-08-23",
+  "ledger_version": "2.5",
+  "last_updated": "2026-08-25",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
     "Voice Bible governs tone/language only, not facts.",
@@ -98,7 +98,7 @@
       "rule_count": 80,
       "status": "draft_pending_operator_discussion",
       "conflicts_found": 3,
-      "note": "Processed by a subagent given its size (~771KB), reviewed and merged by this session. This 'definitive' codex is internally messier than its filename suggests. (1) Biggest substantive conflict: the document repeatedly and consistently (in Kanja's, Pyro's, and Stormbreaker's own sections) states Pyro's mother was 'killed' during the Living Gate event and that Stormbreaker 'ended the vessel' \u2014 language that directly contradicts the ledger-locked fact that she is NOT dead but was fused into the Living Gate. This isn't a stray typo; it's the document's consistent internal framing, so it needs a human call on which version is canon. (2) The document gives two flatly incompatible identities for 'Lilith Cyzak' \u2014 a physical Karesian-adjacent 'Void-Dancer' bodyguard/anchor for Ozmund in one entry, and a desk-bound former Trust economic analyst with no physical power in a second, later entry (#31) \u2014 both claiming to be Ozmund's love interest/calibration point. (3) Structural oddities mirroring the kind you flagged before: the doc declares '\u2500\u2500\u2500 END OF CHARACTER CODEX (26 entries) \u2500\u2500\u2500' partway through, then keeps going for nine more entries with an entry-numbering scheme ('#25\u201329,' then '#30,' '#31') that double-counts against the entries already included in the '26.' (4) The title page says 'v1.0' and a mid-document footer independently repeats 'v1.0,' yet the source file is named '...definitive.docx' \u2014 a version-label/filename mismatch worth flagging per your team's prior pattern of catching these. (5) Minor internal inconsistency: the Talisman of Mao's Stage 1 (Sovereign Umbrella) is said to protect '16 Avatars' in Kanja's own section, but Sephtis's, Anansi's, and Zora's sections all reference '17 Avatars' / Zora as the '17th crewmate.' (6) The opening ~130 lines of the document (before the first character header) begin mid-sentence and contain an entire block of battle-summary text duplicated verbatim back-to-back \u2014 almost certainly a copy-paste artifact from the docx export rather than intentional content, but worth a spot-check against the source file. On the positive side: every fact I checked against your existing locked ledger (Density Spike exclusivity, Kanja recovering rather than forging Onyx, the Crown-Scar being installed before the Verehimu ancestor's betrayal, Ezio/Valen as first cousins, the Triad Guardians originating from the Living Gate event, Anansi/Valeria as secret sisters, Archon Meridian as T.D.K.'s unknowing hidden son, and T.D.K.'s true name being Anu Un Ra with an explicit in-document note correcting an earlier 'Argul') was either confirmed outright or extended with compatible new detail \u2014 no other contradictions found."
+      "note": "Processed by a subagent given its size (~771KB), reviewed and merged by this session. This 'definitive' codex is internally messier than its filename suggests. (1) Biggest substantive conflict: the document repeatedly and consistently (in Kanja's, Pyro's, and Stormbreaker's own sections) states Pyro's mother was 'killed' during the Living Gate event and that Stormbreaker 'ended the vessel' — language that directly contradicts the ledger-locked fact that she is NOT dead but was fused into the Living Gate. This isn't a stray typo; it's the document's consistent internal framing, so it needs a human call on which version is canon. (2) The document gives two flatly incompatible identities for 'Lilith Cyzak' — a physical Karesian-adjacent 'Void-Dancer' bodyguard/anchor for Ozmund in one entry, and a desk-bound former Trust economic analyst with no physical power in a second, later entry (#31) — both claiming to be Ozmund's love interest/calibration point. (3) Structural oddities mirroring the kind you flagged before: the doc declares '─── END OF CHARACTER CODEX (26 entries) ───' partway through, then keeps going for nine more entries with an entry-numbering scheme ('#25–29,' then '#30,' '#31') that double-counts against the entries already included in the '26.' (4) The title page says 'v1.0' and a mid-document footer independently repeats 'v1.0,' yet the source file is named '...definitive.docx' — a version-label/filename mismatch worth flagging per your team's prior pattern of catching these. (5) Minor internal inconsistency: the Talisman of Mao's Stage 1 (Sovereign Umbrella) is said to protect '16 Avatars' in Kanja's own section, but Sephtis's, Anansi's, and Zora's sections all reference '17 Avatars' / Zora as the '17th crewmate.' (6) The opening ~130 lines of the document (before the first character header) begin mid-sentence and contain an entire block of battle-summary text duplicated verbatim back-to-back — almost certainly a copy-paste artifact from the docx export rather than intentional content, but worth a spot-check against the source file. On the positive side: every fact I checked against your existing locked ledger (Density Spike exclusivity, Kanja recovering rather than forging Onyx, the Crown-Scar being installed before the Verehimu ancestor's betrayal, Ezio/Valen as first cousins, the Triad Guardians originating from the Living Gate event, Anansi/Valeria as secret sisters, Archon Meridian as T.D.K.'s unknowing hidden son, and T.D.K.'s true name being Anu Un Ra with an explicit in-document note correcting an earlier 'Argul') was either confirmed outright or extended with compatible new detail — no other contradictions found."
     },
     {
       "batch": 11,
@@ -198,6 +198,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Third and final of the three full-expansion-from-scratch cults from the original cult-network plan (Slab Compact was batch 18, the Null Caucus batch 20). Unlike those two, this cult already had three locked reference rules (CULT-063, CULT-066, CULT-137) describing it as a splinter sect inside the Pavilion of the True Weight's own institution, so this batch is an expansion of an already-partially-established entity rather than a pure invention. Built from scratch against everything already locked (CULT-058 through CULT-066, CULT-136/137, MCD-050, MCD-135, MCD-097/098/099, CULT-138, WC-021, MCD-001). Anchored the Vigil's mission shift to T.D.K.'s containment (MCD-099, CULT-138), which the ledger's current cult material treats as an already-established current-state fact distinct from the Great Breach, rather than to the Great Breach itself, since CULT-066 already describes the Vigil as 'actively undermining T.D.K.'s containment' in the present tense. Resolved a timeline question the existing rules left implicit: the Vigil predates the Pavilion by twenty years, both operating inside the same Celestial Zenith natural philosophy division without knowing of each other. Established the Vigil as a Division 5 (Bolo Troth) planted asset per MCD-135's existing 'runs the Legion-corruption cult network' claim, with a single Warden as the only member aware of that connection, and a sincerely-held, close-to-true cover doctrine for the rest of the membership. This closes out the full cult-network execution plan's three from-scratch entries. Approved verbatim by Abad: 'lock it'."
+    },
+    {
+      "batch": 22,
+      "source_doc": "Guild of the Extraordinary (Ashkeel, Seven High Arts)",
+      "source_id": "1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM",
+      "rule_count": 8,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad approved the draft as pasted in-conversation, with two corrections (rename \"the Vapor of Cian\" and update \"the Nyxos Blindfold\" to match the Vhaerlow rename), then confirmed: \"lock it\""
     }
   ],
   "rules": [
@@ -1549,149 +1558,149 @@
       "id": "CC-001",
       "statement": "Kanja's full name is Kanja Haku Rexmar; \"Haku\" is a middle name taken from the ancestor who defeated T.D.K.",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Mandates"
+      "source": "Character Codex, Kanja Rexmar — Canon Mandates"
     },
     {
       "id": "CC-002",
       "statement": "Kanja's Density Spike ability is post-Awakening only and is exclusive to the Rexmar and Verehimu bloodlines.",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Mandates",
+      "source": "Character Codex, Kanja Rexmar — Canon Mandates",
       "note": "Consistent with locked fact (Density Spike exclusive to Kanja and Ozmund); adds the \"post-Awakening only\" qualifier as new detail, not a contradiction."
     },
     {
       "id": "CC-003",
       "statement": "Kanja recovered Onyx of Oblivion; he did not forge it, and it pre-dates his smithing career by millennia.",
       "status": "draft",
-      "source": "Character Codex, Onyx of Oblivion \u2014 Canon Mandates",
+      "source": "Character Codex, Onyx of Oblivion — Canon Mandates",
       "note": "Reinforces locked fact that Kanja recovered rather than forged Onyx."
     },
     {
       "id": "CC-004",
       "statement": "Kanja and Ozmund are cousins through their mothers, who were Kareth War-Order war-sisters (Val Saeryn Kareth and Val Mirel Kareth).",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 Key Relationships; Ozmund Verehimu \u2014 Key Relationships"
+      "source": "Character Codex, Kanja Rexmar — Key Relationships; Ozmund Verehimu — Key Relationships"
     },
     {
       "id": "CC-005",
       "statement": "Kanja's Long Mask persona lasted 284 years, ending when the Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening.",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Mandates"
+      "source": "Character Codex, Kanja Rexmar — Canon Mandates"
     },
     {
       "id": "CC-006",
       "statement": "Kanja's Pi-Awakening occurs between his 314th and 315th birthday (\"Day 0\" = age 314).",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Mandates",
+      "source": "Character Codex, Kanja Rexmar — Canon Mandates",
       "note": "Consistent with locked fact that Pi-Awakening occurs at 314."
     },
     {
       "id": "CC-007",
       "statement": "The Gravity-Fetter pendant is the physical interface for the Talisman of Mao's \"Governor's Shackle\" function, not a separate object; severing it destabilizes the Shackle and triggers Pi-Awakening completion.",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Lock (explicit in-document canon lock statement)"
+      "source": "Character Codex, Kanja Rexmar — Canon Lock (explicit in-document canon lock statement)"
     },
     {
       "id": "CC-008",
       "statement": "Kanja fought 22 documented battles between ages 18 and 30 (10 conventional victories, 6 infrastructure/labor victories, 6 classified 'Unwinnable' victories) before surrendering the Trinity to his father, King Maro Rexmar.",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 The Ten Victories / Unwinnable Victories"
+      "source": "Character Codex, Kanja Rexmar — The Ten Victories / Unwinnable Victories"
     },
     {
       "id": "CC-009",
       "statement": "King Maro Rexmar negotiated the secret Sovereign Pier Accords with Aethelgard Verehimu, promising Directorate recognition of Maro as sovereign King of Jicome in exchange for Kanja surrendering the Trinity; the pact died when Aethelgard was murdered at the Sovereignty Summit (Book 1 opening).",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 Battle 10 (The Sovereign Pier)"
+      "source": "Character Codex, Kanja Rexmar — Battle 10 (The Sovereign Pier)"
     },
     {
       "id": "CC-010",
       "statement": "Kanja's SBD designation is SBD-001.",
       "status": "draft",
-      "source": "Character Codex, Pyro \u2014 Biological Standard"
+      "source": "Character Codex, Pyro — Biological Standard"
     },
     {
       "id": "CC-011",
       "statement": "Onyx of Oblivion is a sentient Drakma longsword (Living Blade/Heuristic Engine), not a person, and is the primary Third Person Limited narrator for all Kanja POV chapters.",
       "status": "draft",
-      "source": "Character Codex, Onyx of Oblivion \u2014 What Onyx Is / Canon Mandates"
+      "source": "Character Codex, Onyx of Oblivion — What Onyx Is / Canon Mandates"
     },
     {
       "id": "CC-012",
       "statement": "Onyx was sealed in the Directorate Vaults (L9, \"the Silent Infinite\") for the entire 284-year Long Mask period.",
       "status": "draft",
-      "source": "Character Codex, Onyx of Oblivion \u2014 The 284-Year Abandonment"
+      "source": "Character Codex, Onyx of Oblivion — The 284-Year Abandonment"
     },
     {
       "id": "CC-013",
-      "statement": "Onyx's Black Ledger is Drakma lattice-memory \u2014 a permanent, un-redactable record of everything the blade witnesses.",
+      "statement": "Onyx's Black Ledger is Drakma lattice-memory — a permanent, un-redactable record of everything the blade witnesses.",
       "status": "draft",
-      "source": "Character Codex, Onyx of Oblivion \u2014 The Black Ledger"
+      "source": "Character Codex, Onyx of Oblivion — The Black Ledger"
     },
     {
       "id": "CC-014",
       "statement": "Ozmund Verehimu's birth name is Ozmund Verehimu; he adopts the surname Venim during Book 1 after rejecting the throne.",
       "status": "draft",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Identity / Canon Mandates"
+      "source": "Character Codex, Ozmund Verehimu — Identity / Canon Mandates"
     },
     {
       "id": "CC-015",
       "statement": "Ozmund is 203 years old and his Density Spike activated at age 2, two years ahead of the standard trigger age.",
       "status": "draft",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Identity / Background"
+      "source": "Character Codex, Ozmund Verehimu — Identity / Background"
     },
     {
       "id": "CC-016",
       "statement": "Ozmund's bloodline is Verehimu (paternal) plus Kareth War-Matriarchy (maternal, via Val Mirel Kareth).",
       "status": "draft",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Identity"
+      "source": "Character Codex, Ozmund Verehimu — Identity"
     },
     {
       "id": "CC-017",
       "statement": "Unlike Kanja, Ozmund has full conscious control of his Density Spike without requiring an Awakening.",
       "status": "draft",
-      "source": "Character Codex, Ozmund Verehimu \u2014 The Gravity Specialist"
+      "source": "Character Codex, Ozmund Verehimu — The Gravity Specialist"
     },
     {
       "id": "CC-018",
       "statement": "The Crown-Scar is a hereditary neural residue graft of T.D.K.'s (Anu Un Ra's) command architecture, engineered into the first Verehimu BEFORE the ancestor's betrayal of T.D.K., as a succession tool.",
       "status": "draft",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Background; Anu Un Ra \u2014 The Crown-Scar",
+      "source": "Character Codex, Ozmund Verehimu — Background; Anu Un Ra — The Crown-Scar",
       "note": "Confirms/reinforces the locked correction that the Crown-Scar was installed before the betrayal, not during or after."
     },
     {
       "id": "CC-019",
       "statement": "The Crown-Scar's root-access tether to T.D.K. was severed during Haku's (Kanja's ancestor's) campaigns; if the tether is ever re-established, every living Verehimu (including Ozmund) becomes T.D.K.'s asset.",
       "status": "draft",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Canon Mandates; Anu Un Ra \u2014 The Crown-Scar"
+      "source": "Character Codex, Ozmund Verehimu — Canon Mandates; Anu Un Ra — The Crown-Scar"
     },
     {
       "id": "CC-020",
       "statement": "Red Beard, not Ozmund, narrates all Ozmund POV chapters; the two are explicitly stated to be separate individuals frequently conflated in-world.",
       "status": "draft",
-      "source": "Character Codex, Red Beard \u2014 Identity / Canon Mandates"
+      "source": "Character Codex, Red Beard — Identity / Canon Mandates"
     },
     {
       "id": "CC-021",
       "statement": "Red Beard's true name is Tarn Cestari; \"Cestari\" is a slave-caste brand, not a surname, and he was born property in the Old Dominion's Maw gladiatorial economy.",
       "status": "draft",
-      "source": "Character Codex, Red Beard \u2014 Identity / Origin"
+      "source": "Character Codex, Red Beard — Identity / Origin"
     },
     {
       "id": "CC-022",
       "statement": "Red Beard's publicly known density is 4,800x (upper Branded Peak); his actual concealed density is 16,000x and climbing, known only to have been trained with Ozmund in secret.",
       "status": "draft",
-      "source": "Character Codex, Red Beard \u2014 Identity"
+      "source": "Character Codex, Red Beard — Identity"
     },
     {
       "id": "CC-023",
       "statement": "Red Beard defected to Ozmund's Unchained Legion during Book 1, bringing roughly 150,000 freed Cestari fighters and their families.",
       "status": "draft",
-      "source": "Character Codex, Red Beard \u2014 The Defection"
+      "source": "Character Codex, Red Beard — The Defection"
     },
     {
       "id": "CC-024",
-      "statement": "Lilith Cyzak is Ozmund's love interest and \"calibration point\"; per Ozmund's own Canon Mandates, \"Valeria is Kanja's \u2014 Lilith is Ozmund's.\"",
+      "statement": "Lilith Cyzak is Ozmund's love interest and \"calibration point\"; per Ozmund's own Canon Mandates, \"Valeria is Kanja's — Lilith is Ozmund's.\"",
       "status": "draft",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Canon Mandates",
+      "source": "Character Codex, Ozmund Verehimu — Canon Mandates",
       "note": " Consistent with MCD-134's fuller profile."
     },
     {
@@ -1705,329 +1714,329 @@
       "id": "CC-026",
       "statement": "Ezio Valcari and Valen (Sinisterblade) are first cousins of House Valcari, sharing the 'Sinister Bloodline' martial tradition.",
       "status": "draft",
-      "source": "Character Codex, Ezio Valcari \u2014 The Sinister Bloodline; Valen \u2014 The Sinister Bloodline",
+      "source": "Character Codex, Ezio Valcari — The Sinister Bloodline; Valen — The Sinister Bloodline",
       "note": "Confirms the locked fact that Ezio and Valen/Sinisterblade are first cousins."
     },
     {
       "id": "CC-027",
       "statement": "Ezio Valcari is publicly known as a theorist/spymaster, but is classified as an elite close-quarters combatant capable of killing a room in three seconds; this is known only to Valen, Sephtis, Kanja, and Anansi.",
       "status": "draft",
-      "source": "Character Codex, Ezio Valcari \u2014 Identity / Canon Mandates"
+      "source": "Character Codex, Ezio Valcari — Identity / Canon Mandates"
     },
     {
       "id": "CC-028",
       "statement": "Ezio Valcari is 75 years old with 750 years of wisdom-equivalence gained through training under Sephtis.",
       "status": "draft",
-      "source": "Character Codex, Ezio Valcari \u2014 Identity"
+      "source": "Character Codex, Ezio Valcari — Identity"
     },
     {
       "id": "CC-029",
       "statement": "Ezio's patron is Lady Nadea Thren, a defected SBD analyst operating independently.",
       "status": "draft",
-      "source": "Character Codex, Ezio Valcari \u2014 Identity"
+      "source": "Character Codex, Ezio Valcari — Identity"
     },
     {
       "id": "CC-030",
       "statement": "The movement's 'revolutionary trio' is Ezio Valcari (the Architect/strategy), Fermand/Hermes (the Unbroken/endurance and synthesis), and Anansi (the Spark/morale and agitation).",
       "status": "draft",
-      "source": "Character Codex, Ezio Valcari \u2014 The Revolutionary Trio"
+      "source": "Character Codex, Ezio Valcari — The Revolutionary Trio"
     },
     {
       "id": "CC-031",
       "statement": "Lauris Letitia is a Karesian (Kares Prime) warrior serving as Ezio Valcari's Attia (Sergeant-at-Arms); she is a former top-tier Sealbound Directorate external contractor who defected after discovering the Directorate's structural ignorance of its own legacy systems.",
       "status": "draft",
-      "source": "Character Codex, Lauris Letitia \u2014 Identity / SBD History"
+      "source": "Character Codex, Lauris Letitia — Identity / SBD History"
     },
     {
       "id": "CC-032",
       "statement": "Lauris's signature weapon, Attia's Rite (a leaf-shaped breaker), was forged by Kanja Rexmar as a gift to Ezio for his Sergeant-at-Arms.",
       "status": "draft",
-      "source": "Character Codex, Lauris Letitia \u2014 The Attia / Arsenal"
+      "source": "Character Codex, Lauris Letitia — The Attia / Arsenal"
     },
     {
       "id": "CC-033",
       "statement": "Hermes' true name is Fermand Aurelias; he is a pure human (no exotic biology) and a former high-ranking intelligence officer of a Free State, captured and tortured for years at the Black Iron Citadel before escaping.",
       "status": "draft",
-      "source": "Character Codex, Hermes \u2014 Identity / Origin"
+      "source": "Character Codex, Hermes — Identity / Origin"
     },
     {
       "id": "CC-034",
-      "statement": "Fermand (Hermes) narrates all Ezio and Lauris POV chapters in a Baroque/Zaf\u00f3n-Noir voice, distinct from Onyx's narration of Kanja.",
+      "statement": "Fermand (Hermes) narrates all Ezio and Lauris POV chapters in a Baroque/Zafón-Noir voice, distinct from Onyx's narration of Kanja.",
       "status": "draft",
-      "source": "Character Codex, Hermes \u2014 Narrative Voice"
+      "source": "Character Codex, Hermes — Narrative Voice"
     },
     {
       "id": "CC-035",
-      "statement": "Valen's true name is Valen; his ship title is Sinisterblade, SBD designation SBD-008, and his biology is the 'Precision Variant' with lower static density than heavyweights but shatter-proof durability exceeding Branded Peak (2,200x\u20134,900x).",
+      "statement": "Valen's true name is Valen; his ship title is Sinisterblade, SBD designation SBD-008, and his biology is the 'Precision Variant' with lower static density than heavyweights but shatter-proof durability exceeding Branded Peak (2,200x–4,900x).",
       "status": "draft",
-      "source": "Character Codex, Valen \u2014 Identity"
+      "source": "Character Codex, Valen — Identity"
     },
     {
       "id": "CC-036",
       "statement": "Valen is identified as T.D.K.'s single worst-case Warbody opponent because his gap-finding, nerve-strike combat style turns the Warbody's structural interfaces into liabilities.",
       "status": "draft",
-      "source": "Character Codex, Valen \u2014 Warbody Matchup / Canon Mandates",
+      "source": "Character Codex, Valen — Warbody Matchup / Canon Mandates",
       "note": "Consistent with Anu Un Ra's own Warbody matchup table, which separately confirms Valen as the WORST-CASE matchup."
     },
     {
       "id": "CC-037",
       "statement": "Sephtis's true name is Vrail; he is 1,997 years old, SBD designation SBD-003, and is the Lords of Cian's lead tactician/logistician.",
       "status": "draft",
-      "source": "Character Codex, Sephtis \u2014 Identity"
+      "source": "Character Codex, Sephtis — Identity"
     },
     {
       "id": "CC-038",
-      "statement": "Sephtis personally knew the Kareth War-Order and both Kareth sisters (Val Saeryn and Val Mirel) \u2014 the mothers of Kanja and Ozmund respectively.",
+      "statement": "Sephtis personally knew the Kareth War-Order and both Kareth sisters (Val Saeryn and Val Mirel) — the mothers of Kanja and Ozmund respectively.",
       "status": "draft",
-      "source": "Character Codex, Sephtis \u2014 Role & Philosophy / Key Relationships"
+      "source": "Character Codex, Sephtis — Role & Philosophy / Key Relationships"
     },
     {
       "id": "CC-039",
       "statement": "Sephtis does not know that Archon Meridian is secretly Archon Un Ra, T.D.K.'s hidden son; he privately regards Archon as merely 'a Tenant in Default.'",
       "status": "draft",
-      "source": "Character Codex, Sephtis \u2014 Key Relationships / Canon Mandates",
+      "source": "Character Codex, Sephtis — Key Relationships / Canon Mandates",
       "note": "Consistent with the locked fact that Archon Meridian is secretly T.D.K.'s hidden son and does not know it himself; this adds that Sephtis also does not know."
     },
     {
       "id": "CC-040",
-      "statement": "Bloodreaver's true name is Torian; his Cruor-Kin biology runs blood at near-boiling temperature, and per an explicit in-document canon rule, all of his combat effects are physical/thermodynamic only \u2014 he has no Tongue (frequency-craft) application.",
+      "statement": "Bloodreaver's true name is Torian; his Cruor-Kin biology runs blood at near-boiling temperature, and per an explicit in-document canon rule, all of his combat effects are physical/thermodynamic only — he has no Tongue (frequency-craft) application.",
       "status": "draft",
-      "source": "Character Codex, Bloodreaver \u2014 Identity / Canon Rule (explicit in-document canon rule)"
+      "source": "Character Codex, Bloodreaver — Identity / Canon Rule (explicit in-document canon rule)"
     },
     {
       "id": "CC-041",
-      "statement": "Ironbane's true name is Darius, SBD designation SBD-005; his bio-electric powers require the Ionic Ground bracer as life support \u2014 removing or damaging it causes fatal self-incineration (Critical Overload).",
+      "statement": "Ironbane's true name is Darius, SBD designation SBD-005; his bio-electric powers require the Ionic Ground bracer as life support — removing or damaging it causes fatal self-incineration (Critical Overload).",
       "status": "draft",
-      "source": "Character Codex, Ironbane \u2014 Identity / Weaknesses"
+      "source": "Character Codex, Ironbane — Identity / Weaknesses"
     },
     {
       "id": "CC-042",
       "statement": "Anansi's true name is Anansi; his SBD/enemy designation 'Shadowforge' is an explicit in-document canon correction stating these are the SAME person, not two separate identities.",
       "status": "draft",
-      "source": "Character Codex, Anansi \u2014 Identity (explicit 'CANON CORRECTION' statement)"
+      "source": "Character Codex, Anansi — Identity (explicit 'CANON CORRECTION' statement)"
     },
     {
       "id": "CC-043",
       "statement": "Anansi is secretly the brother of Valeria Korth; this is classified and not known to Ozmund or the Sovereign Trust.",
       "status": "draft",
-      "source": "Character Codex, Anansi \u2014 Key Relationships / Canon Mandates",
+      "source": "Character Codex, Anansi — Key Relationships / Canon Mandates",
       "note": "Confirms the locked fact that Anansi and Valeria Korth are secretly siblings."
     },
     {
       "id": "CC-044",
-      "statement": "Stormbreaker's true name is Kaelen; he is explicitly a separate Avatar from Stormreaver (Kairo) \u2014 the document notes them as distinct characters who are sometimes conflated.",
+      "statement": "Stormbreaker's true name is Kaelen; he is explicitly a separate Avatar from Stormreaver (Kairo) — the document notes them as distinct characters who are sometimes conflated.",
       "status": "draft",
-      "source": "Character Codex, Stormbreaker \u2014 Canon Mandates; Stormreaver \u2014 Canon Note"
+      "source": "Character Codex, Stormbreaker — Canon Mandates; Stormreaver — Canon Note"
     },
     {
       "id": "CC-045",
       "statement": "Stormbreaker (Kaelen) is the one who killed the Demaron entity possessing Pyro's mother during the Living Gate event, ending her body's vessel with Kanja's consent, and also serves as Pyro's guardian without Pyro knowing this history.",
       "status": "draft",
-      "source": "Character Codex, Stormbreaker \u2014 Key Relationships / Canon Mandates; Pyro \u2014 Origin",
+      "source": "Character Codex, Stormbreaker — Key Relationships / Canon Mandates; Pyro — Origin",
       "note": "RESOLVED per CONFLICT-005 and MCD-133 (2026-08-22): this 'killed' language is deliberate in-world misdirection by design, not a contradiction to fix. MCD-131/MCD-132 remain the objective truth that she survived, fused into the Living Gate."
     },
     {
       "id": "CC-046",
       "statement": "The Living Gate event: T.D.K. (Anu Un Ra) installed a voice-keyed 'Living Gate' curse into Kanja's first and only wife (a veil-reader) as a containment response to her discovering his hidden architecture; her pregnancy amplified the Gate, a Demaron entity inhabited her, and her body's vessel was ultimately ended, producing Pyro and the three Dhar-Kael guardians (Varkul, Varruk, Sorya) as her final act.",
       "status": "draft",
-      "source": "Character Codex, Pyro \u2014 Origin (The Living Gate)",
+      "source": "Character Codex, Pyro — Origin (The Living Gate)",
       "note": "Reinforces the locked fact that the Triad Guardians (Varkul, Varruk, Sorya) originated from the Living Gate event involving Pyro's mother. See CC-045/MCD-133: the 'her body's vessel was ultimately ended' language is deliberate in-world misdirection, not an unresolved conflict."
     },
     {
       "id": "CC-047",
       "statement": "Pyro's hidden birth name is Ignis Rexmar; he is Kanja's biological son and does not know his own parentage.",
       "status": "draft",
-      "source": "Character Codex, Pyro \u2014 Identity / Secrets"
+      "source": "Character Codex, Pyro — Identity / Secrets"
     },
     {
       "id": "CC-048",
-      "statement": "The three Dhar-Kael ('last of the Bound Ones' \u2014 Varkul, Varruk, Sorya) are permanently and non-transferably bonded to Pyro specifically, not to the ship or crew as a whole.",
+      "statement": "The three Dhar-Kael ('last of the Bound Ones' — Varkul, Varruk, Sorya) are permanently and non-transferably bonded to Pyro specifically, not to the ship or crew as a whole.",
       "status": "draft",
-      "source": "Character Codex, Pyro \u2014 Identity / Triad Bond; Drown-Warden Varkul, Sorya, Varruk \u2014 Identity & Classification"
+      "source": "Character Codex, Pyro — Identity / Triad Bond; Drown-Warden Varkul, Sorya, Varruk — Identity & Classification"
     },
     {
       "id": "CC-049",
       "statement": "Drown-Warden Varkul is designated TRIAD-1, homages the mythic figure Svadilfari, and can morph between a ~4,025 lb Land Form and an 88%-larger Hydro-Titan Form as a natural adaptive (not shapeshifting-power) response to submersion.",
       "status": "draft",
-      "source": "Character Codex, Drown-Warden Varkul \u2014 Morphology / Canon Mandates"
+      "source": "Character Codex, Drown-Warden Varkul — Morphology / Canon Mandates"
     },
     {
       "id": "CC-050",
       "statement": "Sorya is designated TRIAD-3, homages Muninn (Memory), and physically senses the vibration of a broken vow (Vow-Taste) as her primary betrayal-detection ability.",
       "status": "draft",
-      "source": "Character Codex, Sorya \u2014 Identity & Classification / Capabilities"
+      "source": "Character Codex, Sorya — Identity & Classification / Capabilities"
     },
     {
       "id": "CC-051",
       "statement": "Varruk is designated TRIAD-2, homages Huginn (Thought), and provides aerial reconnaissance and pattern reconstruction via an ability called Angle-Whisper.",
       "status": "draft",
-      "source": "Character Codex, Varruk \u2014 Identity & Classification / Capabilities",
-      "note": "Note the name collision: Kanja's telepathic bone-conduction communication method with Onyx is also called 'Angle-Whisper' elsewhere in the codex \u2014 the document reuses the same term for two unrelated abilities belonging to different characters."
+      "source": "Character Codex, Varruk — Identity & Classification / Capabilities",
+      "note": "Note the name collision: Kanja's telepathic bone-conduction communication method with Onyx is also called 'Angle-Whisper' elsewhere in the codex — the document reuses the same term for two unrelated abilities belonging to different characters."
     },
     {
       "id": "CC-052",
       "statement": "Anu Un Ra's true name is confirmed as Anu Un Ra, with the document explicitly noting this corrects a prior/alternate name 'Argul.'",
       "status": "draft",
-      "source": "Character Codex, Anu Un Ra \u2014 Identity / Canon Mandates (explicit in-document correction)",
+      "source": "Character Codex, Anu Un Ra — Identity / Canon Mandates (explicit in-document correction)",
       "note": "Confirms the locked fact that T.D.K.'s true name is Anu Un Ra."
     },
     {
       "id": "CC-053",
-      "statement": "Anu Un Ra is 30,000+ years old and, per an explicit in-document canon rule, uses no Tongue (frequency-craft) application \u2014 all his capabilities are physical, engineered, biological, procedural, or psychological.",
+      "statement": "Anu Un Ra is 30,000+ years old and, per an explicit in-document canon rule, uses no Tongue (frequency-craft) application — all his capabilities are physical, engineered, biological, procedural, or psychological.",
       "status": "draft",
-      "source": "Character Codex, Anu Un Ra \u2014 Identity / Canon Rule (explicit in-document canon rule)"
+      "source": "Character Codex, Anu Un Ra — Identity / Canon Rule (explicit in-document canon rule)"
     },
     {
       "id": "CC-054",
       "statement": "Anu Un Ra's hidden son is Archon Meridian (true identity Archon Un Ra), who leads the Meridian Compact and does not know his own parentage.",
       "status": "draft",
-      "source": "Character Codex, Anu Un Ra \u2014 Identity / What He Built That Still Stands",
+      "source": "Character Codex, Anu Un Ra — Identity / What He Built That Still Stands",
       "note": "Confirms the locked fact that Archon Meridian is secretly T.D.K.'s hidden son who does not know it."
     },
     {
       "id": "CC-055",
       "statement": "Anu Un Ra's Pi-Vulnerability is the only thing in 30,000 years that has ever forced him to retreat; he cannot touch a Pi-Awakened Rexmar directly and must rely on proxies.",
       "status": "draft",
-      "source": "Character Codex, Anu Un Ra \u2014 The Pi-Vulnerability"
+      "source": "Character Codex, Anu Un Ra — The Pi-Vulnerability"
     },
     {
       "id": "CC-056",
       "statement": "Haku (Kanja's ancestor) is the only being who ever forced Anu Un Ra to retreat, roughly 5,000 years ago, deposing him from the Old Dominion; Anu Un Ra sees Kanja as 'Haku's echo.'",
       "status": "draft",
-      "source": "Character Codex, Anu Un Ra \u2014 The Pi-Vulnerability / Canon Mandates"
+      "source": "Character Codex, Anu Un Ra — The Pi-Vulnerability / Canon Mandates"
     },
     {
       "id": "CC-057",
-      "statement": "The Kingdoms of Merak were a civilization of individually ancient sovereign rulers (including a younger Anu Un Ra) that predates the Old Dominion by tens of thousands of years; Anu Un Ra dismantled nearly all of them over an estimated 30,000\u201340,000 years, and the 'Shattered Kingdoms' are named for this ancient purge, not the Old Dominion's collapse roughly 5,000 years ago.",
+      "statement": "The Kingdoms of Merak were a civilization of individually ancient sovereign rulers (including a younger Anu Un Ra) that predates the Old Dominion by tens of thousands of years; Anu Un Ra dismantled nearly all of them over an estimated 30,000–40,000 years, and the 'Shattered Kingdoms' are named for this ancient purge, not the Old Dominion's collapse roughly 5,000 years ago.",
       "status": "draft",
-      "source": "Character Codex, Orlok \u2014 III-B. What Orlok Knows: The Kingdoms of Merak"
+      "source": "Character Codex, Orlok — III-B. What Orlok Knows: The Kingdoms of Merak"
     },
     {
       "id": "CC-058",
       "statement": "Orlok is approximately 76,003 years old, a self-taught S-Tier fighter who reaches 20,000x density (equal to Vargo Vakas's static ceiling) temporarily through cultivation rather than augmentation; he is younger only than T.D.K. (Anu Un Ra).",
       "status": "draft",
-      "source": "Character Codex, Orlok \u2014 Identity / Age"
+      "source": "Character Codex, Orlok — Identity / Age"
     },
     {
       "id": "CC-059",
       "statement": "Orlok's staff, the Zenith-Rod, was reforged by Kanja using Living Drakma sourced from Moonvault reserves, raising Orlok's Kinetic Ascension ceiling from 18,000x to 20,000x.",
       "status": "draft",
-      "source": "Character Codex, Orlok \u2014 Arsenal: The Zenith-Rod"
+      "source": "Character Codex, Orlok — Arsenal: The Zenith-Rod"
     },
     {
       "id": "CC-060",
       "statement": "Voidbreaker's true name is Jax; his 'Spatial Variant' negative-density biology makes him effectively uncapturable by standard restraints.",
       "status": "draft",
-      "source": "Character Codex, Voidbreaker \u2014 Identity / Abilities"
+      "source": "Character Codex, Voidbreaker — Identity / Abilities"
     },
     {
       "id": "CC-061",
       "statement": "Ghostwind's true name is Sylas; he has the lowest static density ('Hollowed Density') of any Avatar and serves as forward scout/atmospheric stealth specialist.",
       "status": "draft",
-      "source": "Character Codex, Ghostwind \u2014 Identity / Physical Description & Biology"
+      "source": "Character Codex, Ghostwind — Identity / Physical Description & Biology"
     },
     {
       "id": "CC-062",
       "statement": "Stormreaver's true name is Kairo; his Aero Variant biology (hollow-core bones, Falcon-Pack wings) is explicitly noted as a separate character from Stormbreaker (Kaelen), whose siege-artillery role is unrelated.",
       "status": "draft",
-      "source": "Character Codex, Stormreaver \u2014 Identity (explicit 'Canon Note')"
+      "source": "Character Codex, Stormreaver — Identity (explicit 'Canon Note')"
     },
     {
       "id": "CC-063",
       "statement": "Soulreaver Zora's true name is Zora; she is the ship's Bosun/Deck Disciplinarian with Atmospheric Variant (barometric/asphyxiation) biology, and is romantically paired with Ironbane.",
       "status": "draft",
-      "source": "Character Codex, Soulreaver Zora \u2014 Identity / Key Relationships"
+      "source": "Character Codex, Soulreaver Zora — Identity / Key Relationships"
     },
     {
       "id": "CC-064",
       "statement": "Damu's true name is Julian Dael-Koss; his Cruor-Variant biology lets him read a person's complete physiological state through blood contact, and he was the first person to confirm Kanja's Pi-Awakening (by feeling the chemistry shift through the ship's hull).",
       "status": "draft",
-      "source": "Character Codex, Damu \u2014 Identity / Capability"
+      "source": "Character Codex, Damu — Identity / Capability"
     },
     {
       "id": "CC-065",
       "statement": "Damu (Julian) monitors the 99.9% energy drain of Kanja's Internal Quench and has tracked its progression for over a century, but has never told Kanja the full results.",
       "status": "draft",
-      "source": "Character Codex, Damu \u2014 Relationships"
+      "source": "Character Codex, Damu — Relationships"
     },
     {
       "id": "CC-066",
-      "statement": "Abyss's true name is Ren Oshaal; his Negative-Density biology generates a localized gravitational-pressure field (passive +30% within 5m, active +200% within 15m, or a maximum-output 'Depth-Charge' crush within 1m), and he carries no weapons \u2014 his body is the arsenal.",
+      "statement": "Abyss's true name is Ren Oshaal; his Negative-Density biology generates a localized gravitational-pressure field (passive +30% within 5m, active +200% within 15m, or a maximum-output 'Depth-Charge' crush within 1m), and he carries no weapons — his body is the arsenal.",
       "status": "draft",
-      "source": "Character Codex, Abyss \u2014 Identity / Capability / Arsenal"
+      "source": "Character Codex, Abyss — Identity / Capability / Arsenal"
     },
     {
       "id": "CC-067",
       "statement": "Matar has no surname and no known origin beyond having been brought to Kanja by Sephtis roughly 400 years ago; he is a Termination Specialist with standard (non-variant) biology operating at 800x through methodology and discipline rather than density.",
       "status": "draft",
-      "source": "Character Codex, Matar \u2014 Identity / Origin"
+      "source": "Character Codex, Matar — Identity / Origin"
     },
     {
       "id": "CC-068",
       "statement": "Cooper's true name is Ronan Kellsward; his Mass-Compression Variant biology lets him absorb external mass through contact to temporarily raise his density (200x resting up to ~4,500x loaded), and he serves as the crew's Quartermaster/logistics architect.",
       "status": "draft",
-      "source": "Character Codex, Cooper \u2014 Identity / Capability"
+      "source": "Character Codex, Cooper — Identity / Capability"
     },
     {
       "id": "CC-069",
       "statement": "Valeria Korth's Thread-Perception biology lets her read structural/causal connections as visible threads; she has escaped three separate Sealbound Directorate containment attempts.",
       "status": "draft",
-      "source": "Character Codex, Valeria Korth \u2014 Identity / Capability"
+      "source": "Character Codex, Valeria Korth — Identity / Capability"
     },
     {
       "id": "CC-070",
       "statement": "Valeria Korth is Kanja's best friend, love interest, and emotional anchor; the document carries an explicit hard canon mandate that 'VALERIA MUST SURVIVE.'",
       "status": "draft",
-      "source": "Character Codex, Valeria Korth \u2014 Identity / Canon Mandates (explicit in-document canon mandate)"
+      "source": "Character Codex, Valeria Korth — Identity / Canon Mandates (explicit in-document canon mandate)"
     },
     {
       "id": "CC-071",
       "statement": "Valeria Korth knows Ozmund carries T.D.K.'s Crown-Scar architecture (perceiving it as a 'thread' in her web) but has told Kanja rather than Ozmund, judging the secret 'not hers to cut.'",
       "status": "draft",
-      "source": "Character Codex, Valeria Korth \u2014 Relationships"
+      "source": "Character Codex, Valeria Korth — Relationships"
     },
     {
       "id": "CC-072",
       "statement": "Lady Nadea Thren is an independent operator, explicitly NOT T.D.K.'s champion or under anyone's control, who defected from the SBD's Division of Perceptual Analytics after discovering the Founder's Blueprints proving the SBD's containment doctrine was built on T.D.K.'s Ionic Rite architecture.",
       "status": "draft",
-      "source": "Character Codex, Lady Nadea Thren \u2014 Identity / The Defection"
+      "source": "Character Codex, Lady Nadea Thren — Identity / The Defection"
     },
     {
       "id": "CC-073",
       "statement": "Lady Nadea Thren is Ezio Valcari's patron and is genuinely, secretly in love with him; Ezio figured out years ago that she is 'the Viper' and stays anyway.",
       "status": "draft",
-      "source": "Character Codex, Lady Nadea Thren \u2014 The Ezio Dynamic"
+      "source": "Character Codex, Lady Nadea Thren — The Ezio Dynamic"
     },
     {
       "id": "CC-074",
       "statement": "Lady Nadea Thren was Fermand's (Hermes') Case Officer during his Black Iron Citadel interrogation period and has read his unredacted file.",
       "status": "draft",
-      "source": "Character Codex, Lady Nadea Thren \u2014 The Ezio Dynamic"
+      "source": "Character Codex, Lady Nadea Thren — The Ezio Dynamic"
     },
     {
       "id": "CC-075",
       "statement": "The document's own internal count of Talisman-protected Avatars is inconsistent: Kanja's Talisman of Mao section states the Sovereign Umbrella (Stage 1) protects '16 Avatars,' while Sephtis's and Anansi's sections both reference '17 Avatars,' and Soulreaver Zora's Canon Mandates calls her the '17th crewmate.'",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 5-B Talisman System (Stage 1) vs Sephtis \u2014 Role & Philosophy; Anansi \u2014 Abilities; Soulreaver Zora \u2014 Canon Mandates",
-      "note": "Internal document inconsistency (16 vs 17), not a conflict with the outside ledger \u2014 flagging for the team's own continuity tracking."
+      "source": "Character Codex, Kanja Rexmar — 5-B Talisman System (Stage 1) vs Sephtis — Role & Philosophy; Anansi — Abilities; Soulreaver Zora — Canon Mandates",
+      "note": "Internal document inconsistency (16 vs 17), not a conflict with the outside ledger — flagging for the team's own continuity tracking."
     },
     {
       "id": "CC-076",
-      "statement": "The document declares itself complete at '\u2500\u2500\u2500 END OF CHARACTER CODEX (26 entries) \u2500\u2500\u2500' immediately after Lady Nadea Thren's entry, then continues with nine additional entries (Damu, Abyss, Matar, Cooper, Valeria Korth, Orlok, and a second, contradictory Lilith Cyzak entry) that are themselves separately labeled 'entries #25\u201329' and 'Entry #30'/'#31' \u2014 numbering that overlaps with the entries already counted in the '26 entries' total.",
+      "statement": "The document declares itself complete at '─── END OF CHARACTER CODEX (26 entries) ───' immediately after Lady Nadea Thren's entry, then continues with nine additional entries (Damu, Abyss, Matar, Cooper, Valeria Korth, Orlok, and a second, contradictory Lilith Cyzak entry) that are themselves separately labeled 'entries #25–29' and 'Entry #30'/'#31' — numbering that overlaps with the entries already counted in the '26 entries' total.",
       "status": "draft",
-      "source": "Character Codex, structural end-marker at Soulreaver Zora's close, and subsequent 'ENTRIES #25\u201329: THE FINAL FIVE' / 'Character Codex Entry #30' / 'CC Entry #31' headers",
-      "note": "Document self-contradicts its own completion marker and entry numbering \u2014 flagged in document_notes as well."
+      "source": "Character Codex, structural end-marker at Soulreaver Zora's close, and subsequent 'ENTRIES #25–29: THE FINAL FIVE' / 'Character Codex Entry #30' / 'CC Entry #31' headers",
+      "note": "Document self-contradicts its own completion marker and entry numbering — flagged in document_notes as well."
     },
     {
       "id": "CC-077",
-      "statement": "The opening pages of the document (before the first '# CHARACTER' header) begin mid-sentence describing Kanja's biology and contain a large duplicated block of text \u2014 the same set of battle summaries (Battles 11\u201322 and their section headers) appears twice in immediate succession.",
+      "statement": "The opening pages of the document (before the first '# CHARACTER' header) begin mid-sentence describing Kanja's biology and contain a large duplicated block of text — the same set of battle summaries (Battles 11–22 and their section headers) appears twice in immediate succession.",
       "status": "draft",
       "source": "Character Codex, opening pages (Kanja Rexmar section, pre-header material)",
       "note": "Likely a docx export/copy-paste artifact rather than intentional canon; flagged in document_notes."
     },
     {
       "id": "CC-078",
-      "statement": "The document's version label is 'v1.0 \u2014 Comprehensive Character Bible' on its title page, and a later section footer independently repeats 'The Lords of Cian | Character Codex v1.0,' but the filename supplied for this review is 'LORDS_OF_CIAN_Character_Codex_definitive.docx.'",
+      "statement": "The document's version label is 'v1.0 — Comprehensive Character Bible' on its title page, and a later section footer independently repeats 'The Lords of Cian | Character Codex v1.0,' but the filename supplied for this review is 'LORDS_OF_CIAN_Character_Codex_definitive.docx.'",
       "status": "draft",
       "source": "Character Codex, title page and Soulreaver Zora section-end footer",
       "note": "Flagging the version-label vs filename mismatch ('v1.0' internally vs 'definitive' in the filename) for the team's tracking, per the pattern of prior version-stamp oddities found in other documents."
@@ -2036,13 +2045,13 @@
       "id": "CC-079",
       "statement": "Kanja considers Pyro his son and is aware of this, but hides it from Pyro; multiple guardians (Stormbreaker, Azar/Dreadlord) also know or suspect the lineage while Pyro himself does not.",
       "status": "draft",
-      "source": "Character Codex, Kanja Rexmar \u2014 Key Relationships; Pyro \u2014 Secrets"
+      "source": "Character Codex, Kanja Rexmar — Key Relationships; Pyro — Secrets"
     },
     {
       "id": "CC-080",
       "statement": "Bloodreaver (Torian) is described as the only crew member, besides Kanja himself, physically able to restrain Kanja without being crushed.",
       "status": "draft",
-      "source": "Character Codex, Bloodreaver \u2014 Key Relationships"
+      "source": "Character Codex, Bloodreaver — Key Relationships"
     },
     {
       "id": "MCD-133",
@@ -3670,6 +3679,62 @@
       "statement": "The crew's investigation has no awareness the Frequency Vigil exists. What little institutional friction the natural philosophy division has generated has never risen to a level requiring the crew's attention, and nothing currently connects it to any thread the crew is actively pursuing.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-08-23, no source document. Full expansion-from-scratch for the Frequency Vigil per the original cult-network execution plan. Batch 21, approved by Abad 2026-08-23: 'lock it'"
+    },
+    {
+      "id": "ASH-023",
+      "category": "Ashkeel",
+      "statement": "Ashkeel formalizes seven master disciplines collectively known as the Seven High Arts, each governed by specific Houses and taught through a dedicated master guild or order: Ars Funis (the Cord & Span, rope-craft and suspension), Ars Pulsus (the Kinetic Cadence, impact and sensation), Ars Vacui (the Sensory Void, deprivation and immersion), Ars Acûs et Minium (the Needle & Cinnabar, piercing and contract tattooing), Ars Foci (the Hearth Service, domestic protocol), Ars Vaginae et Acuminis (the Edge & Sheath, arousal regulation), and Ars Unguenti (the Scent & Balm, apothecary aftercare).",
+      "status": "locked",
+      "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
+    },
+    {
+      "id": "ASH-024",
+      "category": "Ashkeel",
+      "statement": "Ars Funis, the Cord & Span, is House Vane's founding discipline and its master guild is the Guild of the Flushed Tether (Promenade Tier). It governs rope suspension as a synthesis of structural engineering and kinetic meditation: cords are prepared through a four-stage rite (caustic wash, singe and scrub, beeswax/camellia/clove balm infusion, basalt-kiln tempering), rated to a minimum 850 lbs static break-strength, and load is always routed through skeletal anchor points, never soft tissue, with the pelvic cradle (the Hesselbach Saddle) bearing 70-80% of suspended mass. Three classical forms exist: the Grounded Tether (floor work), the Transitional Cradle (semi-suspension), and the Flight of the Basalt (full suspension). The induced trance state is termed Sopor Funis.",
+      "status": "locked",
+      "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
+    },
+    {
+      "id": "ASH-025",
+      "category": "Ashkeel",
+      "statement": "Ars Pulsus, the Kinetic Cadence, is the discipline of rhythmic impact play. Unlike the other six High Arts, the source material names no single governing House or master order for it, it stands institutionally unassigned. It classifies impact into four sensory harmonics (the Sting, the Thud, the Bite, the Flush), enforces absolute zero-strike zones (the kidney bed T12-L3, the coccyx and spine, all major joints), and structures a scene in four movements (the Warming Ripple, the Ascent, the Plateau, the Resolution). Named implements include the Basalt Flogger, the Obsidian Dragon, the Honeycomb Paddle, and the Silk Crop.",
+      "status": "locked",
+      "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
+    },
+    {
+      "id": "ASH-026",
+      "category": "Ashkeel",
+      "statement": "Ars Vacui, the Sensory Void, is governed jointly by House Vhaerlow and House Moros, centered in the Sub-Basalt Wells (-30,000 to -38,000 ft). It strips external stimuli through three immersion enclaves: the Cradle of the Tide (magnesium-sulfate brine pools), the Anechoic Vaults (sound-deadened chambers), and the Cocoon of the Shadow (dermal restraint suits), and requires constant vital-sign telemetry with zero unmonitored isolation. Named gear includes the Vhaerlow Blindfold and the Acoustic Plugs of Moros. Safety tether is maintained via the Thread of Ariadne, with a mandatory Three-Stage Return triggered if heart rate exceeds 110 or drops below 42 BPM for over two minutes.",
+      "status": "locked",
+      "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
+    },
+    {
+      "id": "ASH-027",
+      "category": "Ashkeel",
+      "statement": "Ars Acûs et Minium, the Needle & Cinnabar, covers dermal piercing, temporary suspension piercing, and permanent contract tattooing. Its master order is the Scribes of the Crimson Point, jointly of House Kestrion and House Moros, operating under mandatory scribe-witness and sterile-crucible protocol. Permanent contract marks (the Contract Codex) are tattooed beneath the left clavicle in cinnabar ink at Silver Collar elevation, with a hash mark added per contract renewal. Flesh suspension via curved steel hooks is termed Scapular Flight (upper back) or Oculus Hang (chest); the spinal furrow and inguinal canal/femoral vein are strict zero-piercing zones.",
+      "status": "locked",
+      "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
+    },
+    {
+      "id": "ASH-028",
+      "category": "Ashkeel",
+      "statement": "Ars Foci, the Hearth Service, is the foundational discipline of domestic protocol, governed by House Vane and the Wardens of the Lower Hearth. It defines four classical postures (the Resting Bond, the Stone Flank, the Chalice Dais, the Prostration of the Altar) and a fixed morning-vestment ritual (the Wake, the Steam Tray, the Attendance, the Vesting, the Collar Check, 05:30-06:30). It is treated as prerequisite to the dynamic hierarchy the other six Arts operate within.",
+      "status": "locked",
+      "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
+    },
+    {
+      "id": "ASH-029",
+      "category": "Ashkeel",
+      "statement": "Ars Vaginae et Acuminis, the Edge & Sheath, governs arousal regulation and release control. Its master order is the Wardens of the Silver Lock, jointly of House Corvessa and House Moros. Devices are custom-molded, locked via a bespoke four-bladed Signet Key kept on the Dominus's neck chain, and removed every 72 hours under Council health edict for inspection. The edging ritual (the Nine Waves) runs four stages, Ignition, Crest, Still Command, Descent, and release itself is termed the Sovereign Harvest, granted only under specified conditions.",
+      "status": "locked",
+      "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
+    },
+    {
+      "id": "ASH-030",
+      "category": "Ashkeel",
+      "statement": "Ars Unguenti, the Scent & Balm, is Ashkeel's apothecary aftercare discipline, legally mandated under the Basalt Codex, Section IV, Articles 190-214, with a compulsory 60-minute post-scene grounding window. Its master order is the Apothecaries of the Cloistered Flask, House Moros. Four formulations are canonical: the Blue Resin (bruise/hyperemia treatment), the Cord-Balm (friction/dermal restoration), the Obsidian Vapor (olfactory de-escalation, distilled frankincense, atlas cedarwood, and sweet spikenard, slowing respiration to 6 breaths/minute), and the Crucible Nectar (electrolyte/glucose draught). Legal penalties attach to aftercare failure: a Dominus may not leave the premises for at least two hours after a Tier III/IV scene, and leaving a Vessel unattended and cold (\"the Cold Floor Infraction\") suspends the Dominus's registry.",
+      "status": "locked",
+      "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
     }
   ],
   "open_decisions": [
