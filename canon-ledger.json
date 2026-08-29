@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "4.2",
+  "ledger_version": "4.3",
   "last_updated": "2026-08-25",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -365,6 +365,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad approved the full draft as pasted in-conversation: \"proceed\""
+    },
+    {
+      "batch": 40,
+      "source_doc": "MASTER CANON DECISIONS.docx (cross-checked against the live ledger; nearly all content already locked, only two genuinely new items found)",
+      "source_id": "1NLOAu4Qh_ICV30Yd9tKVoBpX2GNBRiBb",
+      "rule_count": 2,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad approved the full draft as pasted in-conversation, including the Zenith-Prime definition and the standalone correction-note approach for the stale geography section: \"lock it\""
     }
   ],
   "rules": [
@@ -4782,6 +4791,20 @@
       "statement": "Kanja's Book 1 baseline density is 6,000x resting with a combat ceiling of approximately 18,000x. Ozmund's Book 5 combat ceiling reaches 26,000x-28,000x through calibrated Crown-Scar integration -- distinct from, and well above, his fixed 15,000x resting baseline (MCD-219).",
       "status": "locked",
       "source": "'Tier_4_Preparation_Checklist.docx' (Google Drive fileId 1M9AgpCP8Q_E7a2y6-N3kbQRYlP5abxaS, two byte-identical copies also exist: 1xHYC2Q4YEm8CFSCHK5GCZKpnCn73OAJL). A QA checklist for auditing three structural-outline documents (Book1/Book2/Books 3-5) against a 'Session Lock April 11, 2026' authority document, itself not found in Drive (like the earlier OPEN-005 'Session Lock 2', it likely never existed as a standalone file distinct from the session-lock-2026-03-25 material already in this ledger). Most of the checklist's content -- the Ronin reckonings, the Beloved, Shattered Kingdoms geography, the Archipelago names, Orlok's stats, the Gate Battle roster, 'T.D.K. contained not killed,' and the hard style constraints (no antithesis, Mythic Realism, no borrowed terminology) -- is already locked under MCD-090 through MCD-100 and the Voice Bible rules. This batch locks only the checklist's genuinely new numeric/narrative specifics not previously in the ledger. The 'verify the structural outlines comply' instruction itself is a book-editing task outside the ledger's scope and is not acted on here."
+    },
+    {
+      "id": "MCD-228",
+      "category": "World Mechanics",
+      "statement": "After Haku united Jicome's Rex mainland and Mar archipelago into one kingdom, the Rexmar line held it as functional Kings of the Sea before five successive generations traded functional power for ceremonial royalty, each losing the kingdom through one named concession (extends the bare name list at MCD-121): Turey Rexmar ('the Traditionalist') locked the family into the restrictive Sacred Pact; Amaru Rexmar ('the Visionary') let the Elite gain a foothold in Jicome in exchange for prospering from the Zephyr Root trade; Yabura Rexmar ('the Connector') traded the family's pilotage rights for short-term wealth under the Treaty of Fathoms; Yaro Rexmar ('the Binder') agreed to the Salt Act trying to undo past mistakes, losing the common sailors' support; and Maro Rexmar (Kanja's father) collateralized the family's drydocks and flagship under the Harbor Bank Indenture and was assassinated at the Sovereignty Summit for it. No single concession was unreasonable; together they let the Meridian Compact (already locked as distinct from the Sovereign Trust) take the kingdom by treaty, title, and debt rather than by force.",
+      "status": "locked",
+      "source": "'MASTER CANON DECISIONS.docx' (Google Drive fileId 1NLOAu4Qh_ICV30Yd9tKVoBpX2GNBRiBb, Lore Vault) -- the ledger's own designated tie-breaker authority per its authority_order field. Despite its 797KB file size, the document's actual text is only ~28KB (the rest is embedded font data); nearly all of it was already reflected in the live ledger on cross-check, with zero unresolved contradictions on any load-bearing fact (Lauris's biology, T.D.K.'s identity, Ozmund/Kanja lineage, the Kareth sisters, the Meridian Compact/Sovereign Trust split, the Zenith-Rod). The document's own 'SESSION LOCKS -- GEOGRAPHY (August 12, 2026)' section is stale (superseded by the already-locked MCD-110/MCD-111, dated one day after this document's last edit); since the tool available in this session cannot edit an existing Drive file's content in place, Abad had a standalone correction note created alongside the original in the Lore Vault ('Master_Canon_Decisions_CORRECTIONS', Drive fileId 1FDWJXBgsdf4oeuHBFDRIIbm1vsj7YEn8AB2GaXJbNVM) rather than editing the ledger itself, since the ledger already carries the correct ruling. MCD-229's Zenith-Prime definition is original invention, chat-drafted 2026-08-25, no source document defines the term beyond naming it as the source of Orlok's Book 4 enlightenment insight; built to fit the already-locked Celestial Zenith 'Cultivated Sovereignty' framing from the Shattered Kingdoms Political Atlas."
+    },
+    {
+      "id": "MCD-229",
+      "category": "World Mechanics",
+      "statement": "Orlok's Book 4 enlightenment (extends MCD-096) is triggered by the Vakas draw; the catalyzing insight comes from Zenith-Prime, the paramount spiritual-political authority of Celestial Zenith (Orlok's home nation, already locked as a 'Cultivated Sovereignty' of floating monasteries) -- doctrinal counsel on releasing fixed ceilings and form, delivered in the draw's aftermath, not a combat technique. The enlightenment itself occurs at the end of Book 4 or the opening of Book 5.",
+      "status": "locked",
+      "source": "'MASTER CANON DECISIONS.docx' (Google Drive fileId 1NLOAu4Qh_ICV30Yd9tKVoBpX2GNBRiBb, Lore Vault) -- the ledger's own designated tie-breaker authority per its authority_order field. Despite its 797KB file size, the document's actual text is only ~28KB (the rest is embedded font data); nearly all of it was already reflected in the live ledger on cross-check, with zero unresolved contradictions on any load-bearing fact (Lauris's biology, T.D.K.'s identity, Ozmund/Kanja lineage, the Kareth sisters, the Meridian Compact/Sovereign Trust split, the Zenith-Rod). The document's own 'SESSION LOCKS -- GEOGRAPHY (August 12, 2026)' section is stale (superseded by the already-locked MCD-110/MCD-111, dated one day after this document's last edit); since the tool available in this session cannot edit an existing Drive file's content in place, Abad had a standalone correction note created alongside the original in the Lore Vault ('Master_Canon_Decisions_CORRECTIONS', Drive fileId 1FDWJXBgsdf4oeuHBFDRIIbm1vsj7YEn8AB2GaXJbNVM) rather than editing the ledger itself, since the ledger already carries the correct ruling. MCD-229's Zenith-Prime definition is original invention, chat-drafted 2026-08-25, no source document defines the term beyond naming it as the source of Orlok's Book 4 enlightenment insight; built to fit the already-locked Celestial Zenith 'Cultivated Sovereignty' framing from the Shattered Kingdoms Political Atlas."
     }
   ],
   "open_decisions": [
