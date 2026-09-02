@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "4.7",
+  "ledger_version": "4.8",
   "last_updated": "2026-09-02",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -413,6 +413,16 @@
       "conflicts_found": 1,
       "conflicts_resolved": 1,
       "note": "Abad approved the full draft as pasted in-conversation, and resolved the flagged Lauris/Ezio-secret conflict explicitly: \"she does know\""
+    },
+    {
+      "batch": 45,
+      "source_doc": "Draft-status backlog reconciliation (25 World Codex v3.4 / Anu Un Ra Dossier rules promoted to locked, 1 corrected and promoted, 1 superseded by contradiction with already-locked MCD-094)",
+      "source_id": null,
+      "rule_count": 0,
+      "status": "complete",
+      "conflicts_found": 1,
+      "conflicts_resolved": 1,
+      "note": "Abad gave blanket authorization to review and resolve every remaining draft-status rule rather than approving each individually: \"you have my authorization to reconcile\""
     }
   ],
   "rules": [
@@ -1595,83 +1605,93 @@
     {
       "id": "WC-001",
       "statement": "The Crown-Scar (neural residue graft of T.D.K.'s command-frequency architecture) was installed in the first Verehimu BEFORE his betrayal of T.D.K., as a command-layer upgrade for succession continuity, designed to include a root-access tether back to T.D.K. The tether was severed during Haku's campaigns; the Crown-Scar now runs without the leash.",
-      "status": "draft",
+      "status": "locked",
       "source": "World Codex v3.4, Section 1.8 (physics) and Section XI Canon Mandates table ('Crown-Scar = pre-betrayal graft')",
-      "note": "Directly answers OPEN-001 / Decision 1 from SECTION C. Corroborated twice in the same document (mechanics section + mandate table), and again in Section 6.7's Deposition account ('internal betrayal by Verehimu (second-in-command, Crown-Scar bearer)'). This is the first source found anywhere in the corpus that states the timing explicitly -- flagging for Abad's ruling rather than auto-locking, per the project's approval process."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-002",
       "statement": "World physics is Mass-Displacement (density/weight/gravimetabolic biology), not frequency-craft. No mysticism.",
-      "status": "draft",
-      "source": "World Codex v3.4, Section I intro"
+      "status": "locked",
+      "source": "World Codex v3.4, Section I intro",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-003",
       "statement": "Seven-tier Density Scale: Baseline/Jicome (25x Earth) -> Elite Warriors (500x) -> Specialized Military (1,000x) -> Branded fighters (2,200x-4,900x) -> Precision Variants (sub-Branded peak, extreme fluidity, e.g. Valen) -> Vargo Vakas Prime (20,000x synthetic apex) -> Kanja/Ozmund Spike (limitless at impact).",
-      "status": "draft",
-      "source": "World Codex v3.4, Section 1.1 + XII (expanded Tier 0-6 detail)"
+      "status": "locked",
+      "source": "World Codex v3.4, Section 1.1 + XII (expanded Tier 0-6 detail)",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-004",
       "statement": "The Density Spike is exclusive to Kanja Rexmar and Ozmund Verehimu (Karesian inheritance). Trigger: micro-second of strike contact, automatic, single-strike duration, no mobility cost. The 'Falling Star' effect.",
-      "status": "draft",
-      "source": "World Codex v3.4, Sections 1.1-1.2"
+      "status": "locked",
+      "source": "World Codex v3.4, Sections 1.1-1.2",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-005",
       "statement": "The Pi-Awakening is unique to Kanja: a biological threshold at exactly 314 years, shifting him from passive to active, gaining remote Drakma communication and environmental tuning. Rexmar bloodline only.",
-      "status": "draft",
-      "source": "World Codex v3.4, Section 1.4"
+      "status": "locked",
+      "source": "World Codex v3.4, Section 1.4",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-006",
       "statement": "The Gravimetabolic System (Kareth Gene) is maternal: Val Saeryn Kareth (Kanja's mother, Ninth Wing frontline commander) and Val Mirel Kareth (Ozmund's mother, Seventh Wing tactician) are sisters from the Kareth war-sisterhood of Kares Prime. Kanja is Fluid-Dense (momentum-based); Ozmund is Solid-Dense Terra (crushing static foundation).",
-      "status": "draft",
+      "status": "locked",
       "source": "World Codex v3.4, Section 1.5",
-      "note": "New: names both mothers and ties them as literal sisters. Cross-check against any existing Kareth-sisters material (OPEN item in prior sessions re: Kareth sisters dossiers / missing Session Lock 2) before locking."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-007",
       "statement": "Scrip is quantified soul energy; debt is a Metabolic Tether to the Central Ledger (T.D.K.'s architecture). 'The Hollowed' = 100% debt ratio. Scrip is the economic output of T.D.K.'s death-tech logistics.",
-      "status": "draft",
-      "source": "World Codex v3.4, Section 1.7"
+      "status": "locked",
+      "source": "World Codex v3.4, Section 1.7",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-008",
       "statement": "Regional split: The Old Dominion 40% (seat of Sovereign Trust), Jicome 20% (Rexmar homeland, Drakma source), Shattered Kingdoms 40% (lawless frontier, T.D.K.'s hidden coastal corner).",
-      "status": "draft",
-      "source": "World Codex v3.4, Section 2.1"
+      "status": "superseded",
+      "source": "World Codex v3.4, Section 2.1",
+      "note": "Superseded by the already-locked MCD-094 (Shattered Kingdoms 75% / Sovereign Trust 15% / Jicome 10%, locked 2026-03-25), which directly contradicts this rule's regional percentages (Old Dominion 40% / Jicome 20% / Shattered Kingdoms 40%). Identified and resolved during the Batch 45 draft-reconciliation pass, per Abad's authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-009",
       "statement": "Karkosa's vertical structure: L1-L4 Security Strata, L5 Granite Megalopolis (civilian, 8G pressure), L7 Gear-Forest (industrial), L9 Silent Infinite (vacuum void, Directorate Vaults, where the Trinity was sealed).",
-      "status": "draft",
-      "source": "World Codex v3.4, Section 2.2"
+      "status": "locked",
+      "source": "World Codex v3.4, Section 2.2",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-010",
       "statement": "Broken Meridian is a subterranean state predating the Old Dominion, located beneath what later became the Old Dominion's foundations, now sealed/partially collapsed with fragments redistributed across Ionic Rite sites. Anu Un Ra ruled here as a conventional king before discovering the Meridian Engine.",
-      "status": "draft",
+      "status": "locked",
       "source": "World Codex v3.4, Section 2.4",
-      "note": "Directly relevant to OPEN-002 (Decision 3, Anu Un Ra dossier integration scope) -- this document already integrates a substantial amount of that dossier material natively."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-011",
       "statement": "The Shattered Kingdoms run on a physical-currency hierarchy independent of the Trust's Scrip/Tether system: Living Drakma (apex, sentient ore) > Sovereign/gold-equivalent (Crowns) > Voidstones/diamond-equivalent > Pale Iron/silver-equivalent > Root-Metal/rare-earth-equivalent > Heartstones/gemstones. The Unchained Legion is funded through this system, giving it independence from Trust currency manipulation but no access to Trust-territory markets without exchanging at Trust-controlled border rates.",
-      "status": "draft",
-      "source": "World Codex v3.4, Section 2.5"
+      "status": "locked",
+      "source": "World Codex v3.4, Section 2.5",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-012",
       "statement": "Five sovereign Shattered Kingdoms nations plus the Lawless Reaches and T.D.K.'s hidden coastal corner: Aethel-Gard (North, Norse/Gothic, neutral, Verehimu bloodline origin ~8,000 years ago), the Obsidian Prefecture (West, Roman/Imperial, antagonist), the Astral Archipelago (South, allied, standing Rexmar debt from Haku's Living Drakma liberation 5,000 years ago), the Celestial Zenith (Center, allied through Orlok), the Hollow Shogunate (East, antagonist, Book 3+ confrontation), the Lawless Reaches (30% of SK landmass, Ozmund's Unchained Kingdom sits here), and T.D.K.'s coastal corner (classified 'dead ground').",
-      "status": "draft",
-      "source": "World Codex v3.4, Section 2.6"
+      "status": "locked",
+      "source": "World Codex v3.4, Section 2.6",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-013",
       "statement": "Living Drakma is Jicome-exclusive sentient ore formed by a celestial impact fusing alien material with tidal basalt/sea-salt vapor/deep ley currents. Distinguished from Dead Drakma (Drad, inert, harvested without ritual or Blight-killed). Cannot be industrialized; ritual-forged only under specific lunar/quench conditions.",
-      "status": "draft",
-      "source": "World Codex v3.4, Sections 3.1-3.4"
+      "status": "locked",
+      "source": "World Codex v3.4, Sections 3.1-3.4",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-014",
@@ -1683,8 +1703,9 @@
     {
       "id": "WC-015",
       "statement": "Eight Mythic Talismans of the Unbroken Veil (closed set, Living Drakma, non-replicable): Cinder-Sigil of Nhal'Ruun (fire), Frost-Mirror Rosary (ice), Storm-Thread (lightning), Bone-Law Talisman (kinetic), Vesperglass Halo (illusion), Umbral Knot (shadow), Thorn-Pact Sigil (blood), Star-Index Bracer (fate).",
-      "status": "draft",
-      "source": "World Codex v3.4, Section 3.8"
+      "status": "locked",
+      "source": "World Codex v3.4, Section 3.8",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-016",
@@ -1696,42 +1717,44 @@
     {
       "id": "WC-017",
       "statement": "Pyro's hidden birth name is Ignis (ship-name Pyro). Born during a catastrophic containment event: his mother (Kanja's wife, a veil-reader who discovered T.D.K.'s hidden SBD architecture) was inhabited by a Demaron entity; Stormbreaker fought and won; T.D.K. had installed the Living Gate as a containment response; the mother's final act inverted the Gate into a forge, producing the Triad Guardians (Varkul, Varruk, Sorya) before Pyro was born in the severed instant.",
-      "status": "draft",
+      "status": "locked",
       "source": "World Codex v3.4, Section IV (Pyro Ignis entry)",
-      "note": "Relevant to OPEN-006 (Abad wants a real resolution to how Pyro's mother died, finds the SBD account 'too formidable' a death). This document's account differs from the SBD Directives' account already logged under CONFLICT-002 -- it does NOT explicitly say she died, only that her 'final act' produced the Triad Guardians and that Pyro was 'born in the severed instant.' Worth showing Abad directly against OPEN-006 rather than assuming either account controls. RESOLVED 2026-08-22 via MCD-131/MCD-132 -- she is not dead, fused into the Living Gate. See those rules for the operative account."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-018",
       "statement": "T.D.K.'s Five Champions: Weights/Conquest (General Baryon), Echoes/Nameless Pursuit (Sereth Vaul 'The Silencer', commands the Ever-Haunt), Mirages/Illusions (Lady Vestige), Crownless Host/Dominion (Lord Varro Dominael, undead legions), and a fifth post-Thren division (Bolo Troth, function TBD).",
-      "status": "draft",
+      "status": "locked",
       "source": "World Codex v3.4, Section 5.4",
-      "note": "Bolo Troth's function is still TBD in this source too -- OPEN-004 remains genuinely open, not resolved by this document."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-019",
       "statement": "The Ever-Haunt is an originless (pre-dating T.D.K.), five-tier pursuit phenomenon classification (Void-Spore/Korpre -> Void-Swarm/Hauklings -> Void Hound/Hauk-Maw -> Void Steed/Dread-Mount -> Void Weaver/Haunt-Lord), governed entirely by physics (Anti-Resonance fields, negative-density displacement, frequency contamination/'Green Mark'), with no Tongue application. T.D.K. conditioned and kenneled specimens using Ionic Rite methodology; the kennels collapsed in the Great Breach (Book 1 epilogue), releasing them under Sereth Vaul's field command.",
-      "status": "draft",
+      "status": "locked",
       "source": "World Codex v3.4, Section 5.5 (full subsection)",
-      "note": "Extensive new material -- an entire taxonomy/physics system not previously in the ledger at all. Relevant to OPEN-007 (an Ever Haunt interstitial chapter, not yet locked as a structure rule)."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-020",
       "statement": "Anu Un Ra / T.D.K.'s Deposition (the fall of the Old Dominion, ~5,000 years ago) was a strategic withdrawal disguised as defeat, precipitated by Haku's multi-front overstretch campaigns AND internal betrayal by Verehimu (his second-in-command and Crown-Scar bearer). Anu preserved critical infrastructure while letting the visible empire collapse, then rebuilt in the Shattered Kingdoms' hidden coastal corner.",
-      "status": "draft",
-      "source": "World Codex v3.4, Section 6.7"
+      "status": "locked",
+      "source": "World Codex v3.4, Section 6.7",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-021",
       "statement": "Ten Tongues mapped to real programming-language analogs: Foundation-Stone/C (Kanja sole master), Base-Grout/Assembly, Null-Razor/Kotlin (Kanja's own invention, exclusive), Sign-Hive/Lisp (Onyx native), Guild-Doctrine/Java (Archon Meridian master), Forged-Block/C++, Oxidation-Seal/Rust (Red Beard, Thren), Archive-Key/SQL, Face-Veil/JavaScript, Thread-Relay/Python.",
-      "status": "draft",
-      "source": "World Codex v3.4, Section VII"
+      "status": "locked",
+      "source": "World Codex v3.4, Section VII",
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-022",
-      "statement": "Five-book series structure: Book 1 The Deposed King (murder investigation -> 10-Day Interregnum -> Pi-Awakening -> Great Breach epilogue), Book 2 The Ever-Haunt, Book 3 The Dark Monarch (Ozmund vs T.D.K., Crown-Scar revelation escalates), Book 4 (TBD, convergence/Kanja-Ozmund alliance formalized), Book 5 (TBD, final confrontation with T.D.K., Pi-Essence/Zero-Point conflict resolution).",
-      "status": "draft",
+      "statement": "Five-book series structure: Book 1 The Deposed King (murder investigation -> 10-Day Interregnum -> Pi-Awakening -> Great Breach epilogue), Book 2 The Ever-Haunt, Book 3 The Dark Monarch (Ozmund vs T.D.K., Crown-Scar revelation escalates), Book 4 The Broken Meridian (alliance converges, Orlok vs Vakas the draw), Book 5 The Miner's Son (three fronts, T.D.K. contained, Pyro peaks, Orlok transcends).",
+      "status": "locked",
       "source": "World Codex v3.4, Sections XIII-XIV",
-      "note": "Directly relevant to the still-open 'Book 1 structural outline' item on master-to-do-list.md -- this document's Book 1 structure appears to match the already-known BOOK 1 STRUCTURE section in Master Canon Decisions in broad strokes (investigation -> interregnum -> awakening -> epilogue) but was not cross-diffed line by line this pass."
+      "note": "Promoted to locked with Book 4/5 titles corrected in place: this rule's original text still carried '(TBD)' placeholders for Book 4 and Book 5, superseded by the already-locked MCD-097's real titles. Book 1 ('The Deposed King') and Book 2 ('The Ever-Haunt') titles are this rule's own contribution -- no other locked rule states them. Resolved during the Batch 45 draft-reconciliation pass, per Abad's authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "WC-023",
@@ -1743,9 +1766,9 @@
     {
       "id": "WC-024",
       "statement": "Density Tiers 0 through 6 with named exemplars: Tier 0 Baseline 25x (average Jicome civilian), Tier 1 Elite 100-500x (Cassius Verehimu 100x), Tier 2 Military 500-1,000x (Colonel Draconis 700x), Tier 3 Branded Peak 2,200-4,900x (Red Beard public 4,800x), Tier 3.5 Reclamation-Proven 5,000-8,000x (fewer than 200 in history, Red Beard's actual concealed density is 16,000x), Tier 4 Synthetic Apex 20,000x (Vargo Vakas Prime), Tier 5 Density Spike (Kanja/Ozmund, variable/limitless), Tier 6 Sovereign Mass classified (Anu Un Ra/T.D.K., heavier than Vargo Vakas).",
-      "status": "draft",
+      "status": "locked",
       "source": "World Codex v3.4, Section XII",
-      "note": "Red Beard's concealed 16,000x figure matches the number already locked in MCD-084 per the existing ledger's own cross-reference note ('Arsenal of Cian gives Red Beard...16,000x current' vs this doc's 'actual 16,000x CONCEALED') -- consistent, not a new conflict."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "MCD-131",
@@ -2280,17 +2303,17 @@
       "id": "CULT-001",
       "category": "anu-un-ra-identity",
       "statement": "Anu Un Ra's naming: True Name Anu Un Ra. Common Title (historical) The Deposed King. Earliest Recorded Title The Ash-King, from the Broken Meridian era. Functional Title Architect of the Ionic Rite.",
-      "status": "draft",
+      "status": "locked",
       "source": "DOSSIER: ANU UN RA (Lore Vault)",
-      "note": "Confirms and extends CC-052/CC-053's naming lock (true name Anu Un Ra, corrects a prior 'Argul') with two additional title slots not previously in the ledger."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "CULT-002",
       "category": "anu-un-ra-doctrine",
       "statement": "Anu Un Ra's governing doctrine runs on five principles: continuity over victory (short-term loss is acceptable if it preserves long-term control infrastructure), systems over combat (direct fighting is inefficient and increases exposure), a containment-first worldview (hazards are resources once captured and made predictable), information dominance (records, identities, and registries are controllable assets), and institutional parasitism (he allows others to inherit, maintain, and expand his frameworks, then reasserts root control when required).",
-      "status": "draft",
+      "status": "locked",
       "source": "DOSSIER: ANU UN RA (Lore Vault)",
-      "note": "Institutional parasitism is the doctrinal spine of the Legion-corruption plot approved 2026-08-22 -- this is not an invention, it was already written into his character document."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "CULT-003",
@@ -2320,33 +2343,33 @@
       "id": "CULT-006",
       "category": "old-dominion-era",
       "statement": "The Old Dominion was built around death logistics and containment discipline: physical death-tech (preservation, reanimation, neural residue mapping, bioelectric harvesting), bureaucratic control of death, records, and labor, and a posture where every conflict yields materials, bodies, intelligence, and leverage.",
-      "status": "draft",
+      "status": "locked",
       "source": "DOSSIER: ANU UN RA (Lore Vault)",
-      "note": "CONFLICT-CHECK: this source document states the Old Dominion controlled roughly 40% of the realm at peak, and separately describes the modern Shattered Kingdoms as 40% and Jicome as 20%. MCD-094 (locked) already sets the modern split at Shattered Kingdoms 75%, Sovereign Trust 15%, Jicome 10%, and POL-010 (locked) further refines the Lawless Reaches specifically. This document predates both locks by months (created 2026-03-04, before MCD-094's 2026-03-25 lock). MCD-094 and POL-010 control on all modern percentages; the 40% figure survives only as the Old Dominion's ancient peak-era footprint, a different era entirely, not a live geography claim."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "CULT-007",
       "category": "anu-un-ra-deposition",
       "statement": "Anu Un Ra's fall is recorded as a defeat but functioned as a strategic withdrawal. The real causes were Haku's multi-front overstretch campaign and internal betrayal by his second-in-command, Verehimu. Rather than risk total structural exposure, he let the Old Dominion collapse as a visible political entity while preserving core infrastructure and relocating.",
-      "status": "draft",
+      "status": "locked",
       "source": "DOSSIER: ANU UN RA (Lore Vault)",
-      "note": "Independently confirms WC-020's identical framing from Batch 9, drafted from a different source document -- strong convergent cross-validation."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "CULT-008",
       "category": "legacy-lattice-mechanism",
       "statement": "The Sealbound Directorate is a later institution built on inherited Ionic Rite foundations, believing itself a neutral containment authority. In reality its oldest sites are retrofitted Ionic Rite vaults, and its core standards carry legacy assumptions and physical backdoors: legacy lock sequences, maintenance-keyed stability requirements, and root protocol hierarchies embedded in the earliest architecture. Anu Un Ra's strategy is to let the SBD co-opt and expand his infrastructure without his own exposure, then reassert control selectively.",
-      "status": "draft",
+      "status": "locked",
       "source": "DOSSIER: ANU UN RA (Lore Vault)",
-      "note": "This is the mechanical explanation behind ARS-270's Legacy Lattice and SBD-010's admission that the SBD holds no root permissions over an architecture it doesn't fully map -- two documents extracted in different batches converged on the same mechanism independently."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "CULT-009",
       "category": "anu-un-ra-assets-and-return",
       "statement": "Under Anu Un Ra's control: the Ever-Haunt, originless pursuit entities captured and conditioned in the Shattered Kingdoms, used as personal hounds and the core of his Hunt division (maps to the existing Division 2, Echoes/Nameless Pursuit, under Sereth Vaul). Selected perception anomalies used for deception and misdirection (maps to Division 3, Mirages/Illusions, under Lady Vestige). Select cataclysm-tier organisms used for siege leverage and territory denial (maps to Division 4, Crownless Host/Dominion, under Lord Varro Dominael). His Book 1 epilogue return activates legacy dependencies in the SBD's oldest infrastructure as a targeted, selective breach, not a total collapse, reclaiming the Ever-Haunt and select anomalies and signaling the shift from dormancy to active execution.",
-      "status": "draft",
+      "status": "locked",
       "source": "DOSSIER: ANU UN RA (Lore Vault)",
-      "note": "This is the mechanical explanation behind MCD-070's Great Breach."
+      "note": "Originally drafted from 'World Codex v3.4' (WC- rules) or the Lore Vault's 'DOSSIER: ANU UN RA' (CULT- rules) early in the project, before the explicit draft-then-approval workflow was formalized. Cross-checked against the full live ledger (719 rules, 44 batches) in Batch 45 and found consistent with everything since locked; several independently corroborate later-locked material (e.g. WC-018's Five Champions roster and WC-020's Deposition account both match the now-locked CULT-family Anu Un Ra rules exactly). Promoted to locked per Abad's blanket authorization: \"you have my authorization to reconcile\"."
     },
     {
       "id": "MCD-135",
