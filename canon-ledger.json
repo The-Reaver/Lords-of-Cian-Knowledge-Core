@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "5.0",
+  "ledger_version": "5.1",
   "last_updated": "2026-09-02",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -443,6 +443,15 @@
       "conflicts_found": 8,
       "conflicts_resolved": 4,
       "note": "Abad approved the full draft as pasted in-conversation: \"is editor approved\""
+    },
+    {
+      "batch": 48,
+      "source_doc": "Chronicles I-VIII (written manuscript) -- three recurring named crew members (Garren Hask, Callum Breck, Dol Maren) surfaced during the compliance pass with zero prior ledger presence",
+      "source_id": null,
+      "rule_count": 7,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad approved the full draft as pasted in-conversation: \"lock it\""
     }
   ],
   "rules": [
@@ -5520,6 +5529,55 @@
       "statement": "Extends MCD-231: the Scrip-Forge Raid's charcoal-rubbing evidence (age 18) additionally documented a Sovereign Trust-wide wage-underpayment scheme -- roughly 1.2 million workers underpaid by 40% over twelve years -- beyond the raid's original Forge-7 Drakma-debasement finding. This statistic belongs to the Scrip-Forge Raid's evidence chain, not the separate Sewer War of Killane (MCD-234), which used a different method (four months of undetected Scrip-Registry copying).",
       "status": "locked",
       "source": "Reconciliation from the full Chronicles I-VIII compliance pass (Abad's standing instruction, 2026-08-25: once the ledger is more complete, cross-check every written chapter against the *entire* locked ledger, not just its original batch pairing). Eight parallel background agents read each chapter in full and cross-referenced it against all 733 rules; eight apparent conflicts surfaced across five chapters (III, V, VI, VII, VIII). Four were resolved here as ledger reconciliations (compatible readings requiring new or amended rules, not manuscript changes); four others were manuscript-side slips (misattributed battle details in chapter closing/summary passages) left for Abad's own editing pass rather than bent into the ledger."
+    },
+    {
+      "id": "CC-115",
+      "category": "character-crew",
+      "statement": "Garren Hask: a dock-smith on Dock-Row Six/Lower Portside with 31 years' tenure, recruited into the rebellion at its founding when his wife's years of suspecting Scrip fraud are confirmed by the Forge-7 evidence. Becomes the crew's 'counter' -- tallying casualties (Black Trench: 93 of 120 survive) and later the 12,006 Cestari freed at Maw-9 -- and its ledger-keeper, a role the text frames as the form his loyalty takes. Personally named both of the fleet's flagship-class vessels, The Audit and The Receipt.",
+      "status": "locked",
+      "source": "Compiled from the written manuscript, Chronicle_I through Chronicle_VIII (Google Drive, 'My Rivals Distance' folder), via three parallel background-agent full-text passes (one per character), each independently confirming zero prior ledger presence via grep. Garren Hask's stated age (53) does not increment between the age-18 (Chronicle I) and age-19 (Chronicle III) chapters -- a manuscript-internal inconsistency, not resolved here, added to Abad's editing punch list alongside the four items from Batch 47. Callum Breck's role in coining the already-locked 'Trench Monarch' alias (MCD-230) is an extension, not a contradiction: MCD-230 only states the alias belongs to Kanja in the sense the world uses it, not who invented it."
+    },
+    {
+      "id": "CC-116",
+      "category": "character-crew",
+      "statement": "Garren Hask, relationships: the first person shown calling Kanja by his bare name rather than 'boy' or 'son' (Dredge-Line Ambush, age 18) -- narration frames this as recognition, not familiarity. Explicitly compared in-text to Sephtis as a parallel 'ledger' figure. Serves as a rear-base caretaking conduit alongside his logistics role, relaying news of Callum Breck's recovery and his daughter Sera's milestones to Breck in the field.",
+      "status": "locked",
+      "source": "Compiled from the written manuscript, Chronicle_I through Chronicle_VIII (Google Drive, 'My Rivals Distance' folder), via three parallel background-agent full-text passes (one per character), each independently confirming zero prior ledger presence via grep. Garren Hask's stated age (53) does not increment between the age-18 (Chronicle I) and age-19 (Chronicle III) chapters -- a manuscript-internal inconsistency, not resolved here, added to Abad's editing punch list alongside the four items from Batch 47. Callum Breck's role in coining the already-locked 'Trench Monarch' alias (MCD-230) is an extension, not a contradiction: MCD-230 only states the alias belongs to Kanja in the sense the world uses it, not who invented it."
+    },
+    {
+      "id": "CC-117",
+      "category": "character-crew",
+      "statement": "Callum Breck: a 22-year-old dockhand on Pier Nine's night shift at recruitment (four years older than Kanja), with a wife (unnamed throughout) and an infant daughter, Sera, born roughly four months before the Scrip-Forge Raid. Recruited on the eve of Sera's naming ceremony, which he misses to execute the raid.",
+      "status": "locked",
+      "source": "Compiled from the written manuscript, Chronicle_I through Chronicle_VIII (Google Drive, 'My Rivals Distance' folder), via three parallel background-agent full-text passes (one per character), each independently confirming zero prior ledger presence via grep. Garren Hask's stated age (53) does not increment between the age-18 (Chronicle I) and age-19 (Chronicle III) chapters -- a manuscript-internal inconsistency, not resolved here, added to Abad's editing punch list alongside the four items from Batch 47. Callum Breck's role in coining the already-locked 'Trench Monarch' alias (MCD-230) is an extension, not a contradiction: MCD-230 only states the alias belongs to Kanja in the sense the world uses it, not who invented it."
+    },
+    {
+      "id": "CC-118",
+      "category": "character-crew",
+      "statement": "Extends MCD-230: the 'Trench Monarch' alias (already locked as one of Kanja's names) was personally and unilaterally coined by Callum Breck during the Dredge-Line Ambush (age 18) -- he chalked 'THE TRENCH MONARCH' on captured Compliance Officer Tavin Greer's forehead unprompted, while thinking of his own daughter, without asking or informing Kanja beforehand. Kanja did not choose or sanction the name; it reached him already given by the district.",
+      "status": "locked",
+      "source": "Compiled from the written manuscript, Chronicle_I through Chronicle_VIII (Google Drive, 'My Rivals Distance' folder), via three parallel background-agent full-text passes (one per character), each independently confirming zero prior ledger presence via grep. Garren Hask's stated age (53) does not increment between the age-18 (Chronicle I) and age-19 (Chronicle III) chapters -- a manuscript-internal inconsistency, not resolved here, added to Abad's editing punch list alongside the four items from Batch 47. Callum Breck's role in coining the already-locked 'Trench Monarch' alias (MCD-230) is an extension, not a contradiction: MCD-230 only states the alias belongs to Kanja in the sense the world uses it, not who invented it."
+    },
+    {
+      "id": "CC-119",
+      "category": "character-crew",
+      "statement": "Callum Breck's silence arc: his assigned pair-partner, 16-year-old Nev Torr, dies under his watch at the Black Trench (age 19), and Breck goes four months without speaking to anyone but his infant daughter. He breaks his silence only to confirm Iron Shallows' zero-casualty headcount ('Two hundred'), then rebuilds his voice gradually through purely functional, navigational speech across the following battles, culminating in a 26-word channel-navigation call that personally guides the fleet's escape at Ghost Harbor (age 21).",
+      "status": "locked",
+      "source": "Compiled from the written manuscript, Chronicle_I through Chronicle_VIII (Google Drive, 'My Rivals Distance' folder), via three parallel background-agent full-text passes (one per character), each independently confirming zero prior ledger presence via grep. Garren Hask's stated age (53) does not increment between the age-18 (Chronicle I) and age-19 (Chronicle III) chapters -- a manuscript-internal inconsistency, not resolved here, added to Abad's editing punch list alongside the four items from Batch 47. Callum Breck's role in coining the already-locked 'Trench Monarch' alias (MCD-230) is an extension, not a contradiction: MCD-230 only states the alias belongs to Kanja in the sense the world uses it, not who invented it."
+    },
+    {
+      "id": "CC-120",
+      "category": "character-crew",
+      "statement": "Dol Maren: a crane operator at recruitment (mid-30s), following his father's 34-year career operating 'Crane Six.' Marked by near-total verbal economy and a fixed reporting format -- a number, a material, and a conclusion -- with trust expressed only through verified calculation, never faith. Coincidentally shares a name with the unrelated, much-later Trust Governor Maren Tallis (MCD-260, appears roughly 178 years afterward in a different role); no connection between them.",
+      "status": "locked",
+      "source": "Compiled from the written manuscript, Chronicle_I through Chronicle_VIII (Google Drive, 'My Rivals Distance' folder), via three parallel background-agent full-text passes (one per character), each independently confirming zero prior ledger presence via grep. Garren Hask's stated age (53) does not increment between the age-18 (Chronicle I) and age-19 (Chronicle III) chapters -- a manuscript-internal inconsistency, not resolved here, added to Abad's editing punch list alongside the four items from Batch 47. Callum Breck's role in coining the already-locked 'Trench Monarch' alias (MCD-230) is an extension, not a contradiction: MCD-230 only states the alias belongs to Kanja in the sense the world uses it, not who invented it."
+    },
+    {
+      "id": "CC-121",
+      "category": "character-crew",
+      "statement": "Dol Maren's arc: builds and load-tests 17 plank-bridges at the Dredge-Line Ambush (age 18); disassembles eight captured siege guns into four working ones after the Black Trench (age 19); verifies the no-kill demolition math at Maw-9 (age 20); maps structural load points during the Killane tunnel infiltration (age 20); becomes the fleet's shipwright from Ghost Harbor onward (ages 21-22), assessing and repairing vessels under the same materials-competence framework he's applied to bridges, guns, and tunnels throughout.",
+      "status": "locked",
+      "source": "Compiled from the written manuscript, Chronicle_I through Chronicle_VIII (Google Drive, 'My Rivals Distance' folder), via three parallel background-agent full-text passes (one per character), each independently confirming zero prior ledger presence via grep. Garren Hask's stated age (53) does not increment between the age-18 (Chronicle I) and age-19 (Chronicle III) chapters -- a manuscript-internal inconsistency, not resolved here, added to Abad's editing punch list alongside the four items from Batch 47. Callum Breck's role in coining the already-locked 'Trench Monarch' alias (MCD-230) is an extension, not a contradiction: MCD-230 only states the alias belongs to Kanja in the sense the world uses it, not who invented it."
     }
   ],
   "open_decisions": [
