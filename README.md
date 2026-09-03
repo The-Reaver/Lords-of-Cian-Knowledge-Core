@@ -55,6 +55,12 @@ access should treat this repo and the device Core as two copies of the same thin
 merge (dedup notes, don't just overwrite), not assume this repo is already the complete picture.
 
 Two live, unrelated threads both still need attention and are tracked in their own docs above,
-not here: the Anansi close-out from 2026-08-03 (still OPEN), and the interactive archive app's
-Phase 0 blockers (the connected GitHub repo has zero commits; RLS/email-confirmation status may
-be leaving reader data exposed on a live public URL).
+not here: the Anansi close-out from 2026-08-03 (still OPEN), and the interactive archive app (see
+CLAUDE.md's "Separate, unrelated thread" section for its updated 2026-09-03 status -- the
+zero-commits and RLS flags from 2026-08-23 are largely resolved on inspection, not independently
+verified live).
+
+**Added 2026-09-03:** a cloud session confirmed it has no `mcp__remote-devices__*` tools and
+cannot run the merge below itself. Real Brain Trust review (needed before adopting any SEO/GEO
+content-structuring changes for the archive) is blocked on this merge running first -- see
+CLAUDE.md's "Standing blocker" section and `research/knowledge-home/structure-notes/core-merge-instructions.md`.
