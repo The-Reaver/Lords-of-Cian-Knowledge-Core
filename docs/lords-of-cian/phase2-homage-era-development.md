@@ -883,7 +883,8 @@ translated into what this world actually has.
   Standing Decisions above for the two conditions it would need (cultural framing as cowardly,
   and total mechanical ineffectiveness against density-scaled combatants) before it's built for
   real.
-- **Converting the Chicago/survival/Duro-Doss material into locked canon-ledger.json** -- not yet
-  done as of this writing; queued as the next concrete step, following the same amendment
-  (Baálé/Kra/Ohun's already-locked entries) plus new-rule (Chicago, Sauti, Duro/Doss, the survival
-  policy) pattern used for Batch 59.
+- ~~Converting the Chicago/survival/Duro-Doss material into locked canon-ledger.json~~ **done,
+  Batch 60, 2026-09-05 (`PH2-035` through `PH2-049`, plus `PH2-021`/`PH2-030` amended in place).**
+  Ledger now at version 6.3, 897 rules, 60 batches. No open Phase 2 threads remain. Next concrete
+  step, whenever Abad wants it: drafting the actual Kanja Chronicles these homage-era comrades
+  guest-appear in, spanning his Rebellion and post-Rebellion eras.
