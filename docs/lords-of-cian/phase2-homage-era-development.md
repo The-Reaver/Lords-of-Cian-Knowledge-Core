@@ -26,17 +26,18 @@ exists so that pass survives past any one session instead of living only in chat
   ability mechanically distinct from the other leaders' — each built on a different axis so the
   three (so far) don't repeat each other.
 
-## The four territories and leaders built so far
+## The five territories and leaders built so far
 
-Note, 2026-09-05: there will be no Staten Island homage. The fifth territory (Borikén, below)
-is Abad's own invention rather than a fifth NYC borough -- same rigor (real historical anchor,
-wholly invented place and leader names), just freed from mapping to a literal borough.
+Note, 2026-09-05: there will be no Staten Island homage. Borikén is Abad's own invention rather
+than a fifth NYC borough -- same rigor (real historical anchor, wholly invented place and leader
+names), just freed from mapping to a literal borough.
 
 | Real-world anchor | In-world name | Etymology | Leader (real-world anchor) | In-world name |
 |---|---|---|---|---|
 | The Bronx | **Xaragua** | Real Taíno chiefdom name (in what is now Haiti), ruled by Anacaona | Jean-Jacques Dessalines | **Ogoun Xarey** |
 | Harlem | **Areíto** | Real Taíno word: the ceremonial song/dance/gathering held in the batey | Malcolm X | **Kwame Ade** |
 | Brooklyn | **Yara** | Real word/place tied to the 1868 "Grito de Yara," the opening cry of Cuba's Ten Years' War | Shirley Chisholm | **Yalokona** |
+| Queens | **Guanín** | Real Taíno/pan-Caribbean term for the prestige gold-copper alloy caciques traded as a mark of status | Jackie Robinson | **Eri Kotoko** |
 | Invented (no borough mapping) | **Borikén** | Real pre-colonial Taíno name for Puerto Rico, root of "Boricua" | Felipe Luciano / the NYC Young Lords | **Guaní** |
 
 ### Ogoun Xarey (Xaragua's "Mightiest Hero" -- Abad's own mandated title, kept as-is)
@@ -102,6 +103,32 @@ ruling -- not a force-multiplier archetype, matched combat-tier)
 - **Augmentation 2 -- "The Door That Stays Open":** any barrier she personally breaks stays
   broken behind her, permanently, for everyone who comes after, even in rooms she never returns
   to. A legacy-mechanic relevant to the wider "unlocking game" content-release structure.
+
+### Eri Kotoko (leads Guanín, locked 2026-09-05)
+
+- **Name etymology:** "Eri" is Yoruba for witness/proof/evidence. "Kotoko" is the Akan (Ashanti)
+  word for porcupine, tied to a real, still-current Twi proverb -- "Kum apem a, apem beba" ("kill
+  a thousand, a thousand more will come") -- the porcupine as a symbol that never strikes first
+  but makes attacking it a mistake made only once.
+- **Real-world research anchor:** Jackie Robinson -- the man who integrated Major League
+  Baseball in 1947 under an explicit, years-long non-retaliation agreement, later an NAACP board
+  member and vocal civil rights advocate. Fills the discipline/endurance axis none of the other
+  four leaders occupy.
+- **Rewritten history:** chosen by a patron who needs him to succeed, on the condition that
+  whatever is done to him, he cannot answer in kind, not for years. He enters a space built to
+  break him and holds it anyway, becoming undeniable through sheer excellence while everyone
+  waits for him to crack. When the bargain ends, he becomes one of the loudest, most
+  uncompromising voices in Guanín -- funding, organizing, testifying -- precisely because he
+  spent so long being told to be quiet. His real, documented public friction with Kwame Ade
+  (their real-world counterparts sharply disagreed, in print, over strategy) is kept as genuine,
+  unresolved tension inside the alliance rather than smoothed over.
+- **Signature ability -- "The Unanswered Blow":** every insult, attack, or provocation he chooses
+  not to answer in the moment isn't dissipated -- it's banked, and the full accumulated weight of
+  it returns later, at a time and target of his own choosing, aimed with total precision at
+  whoever actually caused it. The longer he withholds, the more devastating the eventual
+  reckoning. The cost: this only works through deliberate, conscious release -- if he ever lashes
+  out in real anger instead of choosing the moment, the banked force resets to nothing. His
+  greatest weapon requires the exact discipline that is also his heaviest personal toll.
 
 ### Guaní (leads Borikén, locked 2026-09-05)
 
@@ -289,11 +316,14 @@ Areíto's Renaissance (art, music, the exemplary and beautiful elements Abad exp
 required alongside the underworld) is the legitimacy and recruitment engine. Yara supplies the
 one thing neither of the other two can generate alone: a seat at any table that isn't secretly
 rigged, and -- per "The Caucus" -- the reason the alliance's internal tensions don't break it.
-Borikén supplies what none of the other three can replicate: the network itself -- clinics,
-breakfast programs, occupied buildings turned into shelters -- meaning the alliance can survive
-losing a fight in any one place because Guaní's structure was never dependent on holding one
-place to begin with. None of the four fully trusts the other three; that tension is the balance
-Abad asked for, not a flaw in it.
+Guanín supplies patience turned into leverage -- Eri Kotoko's banked reckonings and the
+credibility his years of forced restraint bought him make him the alliance's most trusted broker
+with outside institutions, even as his real, unresolved friction with Kwame Ade keeps the
+alliance from ever being fully comfortable with itself. Borikén supplies what none of the other
+four can replicate: the network itself -- clinics, breakfast programs, occupied buildings turned
+into shelters -- meaning the alliance can survive losing a fight in any one place because Guaní's
+structure was never dependent on holding one place to begin with. None of the five fully trusts
+the other four; that tension is the balance Abad asked for, not a flaw in it.
 
 ## Open threads
 
@@ -309,10 +339,7 @@ Abad asked for, not a flaw in it.
   the true name changed. `MCD-142`, which references his Death-Impression Reading ability, was
   also amended -- a genuine hit missed in the earlier grep pass and caught during Batch 58's
   drafting.
-- **Queens** -- a fourth territory/leader pair was proposed (Guanín, a real Taíno/pan-Caribbean
-  term for the prestige gold-copper alloy caciques traded as a mark of status, led by Eri Kotoko
-  -- Yoruba "witness/proof" + Akan "porcupine," homage to Jackie Robinson) but not yet confirmed
-  or locked; still open.
+- ~~Queens~~ **done, 2026-09-05.** Guanín/Eri Kotoko confirmed and locked above.
 - **Twist-character pattern, established 2026-09-05:** per Abad's explicit direction, at least
   one character per era should be an original Black/brown character built on a well-known
   crime-fiction character's arc as a structural skeleton (never reusing the fictional character's
