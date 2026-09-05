@@ -1,10 +1,12 @@
 # Chronicle IX: The Ledger and the Chain
 
-*Locked canon, Batch 61, 2026-09-05 (`MCD-331`). Narrator: Onyx of Oblivion, per `VB-020`/`VB-021`.
-Slots into the already-locked Maw Cascade campaign (`MCD-264`), specifically Maw-15, age 165 --
-public-pressure liberation via Ezio's published financial records, 5,100 Cestari freed, zero
-casualties. First guest appearance of a Phase 2 homage-era comrade in a Kanja Chronicle: Ogoun
-Xarey (Xaragua), per the survival/mainline-integration standing decision (`PH2-048`).*
+*WITHDRAWN, 2026-09-05, superseded by
+[`xaragua-chronicle-i-the-line-that-did-not-break.md`](xaragua-chronicle-i-the-line-that-did-not-break.md).
+Abad corrected the series' structure: these are Chronicles belonging to each homage-era territory, with
+Kanja as guest, not "Kanja Chronicles" with the homage-era figure as guest. This piece had it backwards
+-- Ogoun Xarey guesting in a Kanja battle rather than the reverse. Kept here for the project's own
+record; `MCD-331` is superseded by the replacement's rule, not amended. Do not treat any fact below as
+canon.*
 
 ---
 

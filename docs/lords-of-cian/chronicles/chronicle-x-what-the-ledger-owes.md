@@ -1,13 +1,11 @@
 # Chronicle X: What the Ledger Owes
 
-*Locked canon, Batch 62, 2026-09-05 (`MCD-332`). Narrator: Onyx of Oblivion, per `VB-020`/`VB-021`.
-Slots into the already-locked Furnace District Strike (`MCD-244`), Kanja's twenty-first victory, age 21 --
-four days asking 4,000 smelting-district workers a single question, Ezio's documented 340%-average debt
-structure, eleven days at the gate without a blow struck. Second guest appearance of a Phase 2 homage-era
-comrade in a Kanja Chronicle, per the survival/mainline-integration standing decision (`PH2-048`): Kofi
-(Umoja), unnamed on-page, matching the Chronicle IX precedent. Kofi's canonical ability, One Fire --
-binding separated groups into one shared cause by standing between them and speaking -- is shown in
-effect, never named on the page.*
+*WITHDRAWN, 2026-09-05, superseded by
+[`umoja-chronicle-i-the-man-who-mapped-the-door.md`](umoja-chronicle-i-the-man-who-mapped-the-door.md).
+Abad corrected the series' structure: these are Chronicles belonging to each homage-era territory, with
+Kanja as guest, not "Kanja Chronicles" with the homage-era figure as guest. This piece had it backwards
+-- Kofi guesting in a Kanja battle rather than the reverse. Kept here for the project's own record;
+`MCD-332` is superseded by the replacement's rule, not amended. Do not treat any fact below as canon.*
 
 ---
 
