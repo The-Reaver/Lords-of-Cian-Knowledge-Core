@@ -189,6 +189,98 @@ entry above).
   reason Kwasi's opposite trait (discipline) is what ultimately wins. His organization is referred
   to as "the Downtown Combine" rather than any named real-world family.
 
+## Xaragua's supporting-cast pool (locked 2026-09-05)
+
+Twenty-one real Dominican, Cuban, Haitian, and Nicaraguan revolutionary figures Abad pasted as
+research material, researched in full via five parallel background passes (web-search-verified
+facts, not memory) before drafting, then given invented names under the same Taíno/Yoruba/Akan/
+Kikongo convention as the five territory leaders. All real, documented cross-connections between
+these historical figures (who fought under whom, who trained whom, who recruited whom) are kept
+intact as in-world relationships rather than invented from scratch. Two of them fold directly
+into Ogoun Xarey's own already-locked profile as named mentors/officers.
+
+### Cluster 1 — Xaragua's own roots (Dominican)
+
+- **Cibao** (homage: Sebastián Lemba) -- name from the real Taíno term for Hispaniola's central
+  mountain stronghold region. A half-legendary ancestral figure from centuries before Ogoun
+  Xarey: the first man to turn the mountains into a refuge for the escaped and hunted.
+- **Guarocuya** (homage: Juan Pablo Duarte) -- the real Taíno name of Enriquillo, borrowed as a
+  personal name. The idealist who lights Xaragua's independence movement generations before
+  Ogoun Xarey, founds the secret society that starts it all, refuses the throne he made possible,
+  dies sidelined by harder men -- the road not taken that Ogoun Xarey's total-war doctrine
+  implicitly argues against.
+- **Kwabena** (homage: Gregorio Urbano Gilbert) -- Akan Tuesday-born name, linked to a fierce
+  temperament. An 18-year-old who shoots an occupier alone, unordered; years later crosses the
+  sea to fight beside Xaragua's foreign ally-in-exile (**Yaque**, below -- a real historical
+  connection: Gilbert served under Sandino, rising to Captain).
+- **Baiguate** (homage: Francisco Caamaño) -- a real Taíno waterfall name meaning roughly "hidden
+  water." Trains for years in secret with allies abroad (a real historical tie to revolutionary
+  Cuba), returns, and dies within two weeks of landing.
+
+### Cluster 2 — the 19th-century Cuban line
+
+- **Akewi** (homage: José Martí) -- Yoruba for "poet." Unites rival factions through conviction,
+  breaks publicly with his own generals over principle, reconciles years later, dies riding at
+  the enemy line in his first battle.
+- **Chuma** (homage: Antonio Maceo) -- a pan-Bantu word for iron. Refuses a peace that leaves
+  slavery intact even when refusing costs him everything; serves directly under **Bohío**.
+- **Bohío** (homage: Carlos Manuel de Céspedes) -- Taíno for house/home. Frees the enslaved
+  people of his own household and arms them before declaring anything to anyone else.
+
+### Cluster 3 — the 20th-century Cuban underground
+
+- **Kwaku** (homage: Julio Antonio Mella) -- Akan Wednesday-born, linked to sharp/clever
+  temperament. A student agitator, exiled, shot in the back at 25 -- chronologically the outlier
+  of this cluster, no direct tie to the other four.
+- **Imole** (homage: Frank País) -- Yoruba for "light." Runs the underground by principle, times
+  a city-wide uprising to a landing that comes late by hours, dies in the street at 22; recruits
+  and mentors **Ina** and **Iranti** directly.
+- **Ina** (homage: Vilma Espín) -- Yoruba for "fire." An engineer who builds weapons for the
+  cause, recruited by Imole, becomes courier between the mountains and the exiles abroad.
+- **Aabo** (homage: Haydée Santamaría) -- Yoruba for "shelter." Survives torture and the murder
+  of everyone she loved in one failed attack, later builds an institution sheltering exactly who
+  her own revolution might otherwise discard.
+- **Iranti** (homage: Celia Sánchez) -- Yoruba for "memory." Builds the reception network years
+  before it's needed, keeps the record of the whole war, works side by side with Ina.
+
+### Cluster 4 — Haiti, folded directly into Ogoun Xarey's own history
+
+- **Mino** (homage: Victoria "Gran Toya" Montou) -- the real Fon/Dahomey term for the warrior
+  women Europeans called "Amazons," meaning "our mothers." **Direct addition to Ogoun Xarey's
+  profile**: the woman who taught a young Ogoun Xarey to fight with his hands and a blade before
+  he ever held a banner -- enslaved beside him, later honored as kin. A second, distinct mentor
+  from the political-mentor figure already in his backstory: one taught him ideas, the other
+  taught him war.
+- **Ngo** (homage: Sanité Bélair) -- Kikongo for "leopard." An officer under Ogoun Xarey's
+  command, captured in an ambush; when sentenced to a lesser death than her husband, demands the
+  harder one instead so they die together, facing forward, no blindfold.
+- **Jagunjagun** (homage: Charlemagne Péralte) -- Yoruba for "warrior." A generation-later
+  guerrilla leader against a different occupier, betrayed and killed by infiltrators in his own
+  camp, his corpse displayed as a warning that instead becomes a martyr-icon.
+- **Otito** (homage: Baron de Vastey) -- Yoruba for "truth." The philosopher who writes the first
+  real unmasking of the whole colonial system by name, becoming the intellectual root of what
+  Xaragua later claims to stand for.
+
+### Cluster 5 — the bridge across the water
+
+- **Yaque** (homage: Augusto César Sandino) -- a real Taíno river name meaning roughly "the
+  path." A foreign ally, not Xaragua's own son: refuses to disarm when every other faction does,
+  assassinated the same night he dined as a guest of the government that promised him peace.
+  Kwabena fought at his side and rose to captain under him.
+
+### Cluster 6 — the Mirabal Sisters (three files opened, one survivor)
+
+- **Ile** (homage: Patria Mirabal) -- Yoruba for "home." The eldest, devout, quiet; turns her own
+  house into the weapons cache and safe house nobody suspects.
+- **Akin** (homage: Minerva Mirabal) -- Yoruba for "brave/heroic." The ringleader: earns a law
+  degree the state then refuses to let her use, recruits her own sisters, the fiercest of the
+  three.
+- **Itan** (homage: María Teresa Mirabal) -- Yoruba for "story." The youngest, radicalized
+  through love and loyalty before ideology; keeps a diary from childhood to the eve of her death.
+- **Nkrabea** (homage: Dedé Mirabal) -- Akan for "destiny/one's allotted portion," a real
+  philosophical concept. The sister who survives, raises the orphaned children, and spends her
+  life making sure the other three are never forgotten.
+
 ## The alliance structure
 
 Xaragua supplies raw, uncompromising force. Areíto's underworld (numbers, corners, the
@@ -227,13 +319,9 @@ Abad asked for, not a flaw in it.
   name), layered with real history from the period. First instance done above (Kwasi Owolabi/
   Nzinga/Nunzio Ferro, Areíto's Policy-era backstory). Worth applying again as other territories
   get built out.
-- **Supporting cast pool** -- the Dominican, Cuban, and Haitian revolutionaries Abad pasted
-  (Mirabal Sisters, Gregorio Urbano Gilbert, Francisco Caamaño, Sebastián Lemba, Juan Pablo
-  Duarte, Augusto César Sandino, Frank País, Antonio Maceo, Vilma Espín, Julio Antonio Mella,
-  Carlos Manuel de Céspedes, Haydée Santamaría, Celia Sánchez, José Martí, Sanité Bélair,
-  Victoria "Gran Toya" Montou, Charlemagne Péralte, Baron de Vastey) read as the deep bench for
-  Xaragua specifically, given the real Bronx's Dominican, Puerto Rican, and Caribbean
-  immigrant history. Not yet built out into named in-world characters -- each would need its
-  own invented name under the same convention before use.
+- ~~Supporting cast pool~~ **done, 2026-09-05** -- all 21 figures (the 18 pasted names, with
+  the Mirabal Sisters expanded into Patria/Minerva/María Teresa/Dedé individually) built out and
+  locked above, grouped into six clusters, with two (Mino, Ngo) folded directly into Ogoun
+  Xarey's own profile as his combat mentor and an officer under his command.
 - **LA** -- Abad's original Phase 2 vision named both "80s/90s NYC and LA" as the twin poles of
   the subculture homage. NYC's boroughs/Borikén are in progress; LA hasn't been started.
