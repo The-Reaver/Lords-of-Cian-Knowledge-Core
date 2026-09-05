@@ -1,11 +1,10 @@
 # Chronicle IX: The Ledger and the Chain
 
-*Draft, 2026-09-05. Narrator: Onyx of Oblivion, per `VB-020`/`VB-021`. Slots into the already-locked
-Maw Cascade campaign (`MCD-264`), specifically Maw-15, age 165 -- public-pressure liberation via
-Ezio's published financial records, 5,100 Cestari freed, zero casualties. First guest appearance
-of a Phase 2 homage-era comrade in a Kanja Chronicle: Ogoun Xarey (Xaragua), per the survival/
-mainline-integration standing decision (`PH2-048`). Not yet in canon-ledger.json -- conversational
-draft pending Abad's review before any lock.*
+*Locked canon, Batch 61, 2026-09-05 (`MCD-331`). Narrator: Onyx of Oblivion, per `VB-020`/`VB-021`.
+Slots into the already-locked Maw Cascade campaign (`MCD-264`), specifically Maw-15, age 165 --
+public-pressure liberation via Ezio's published financial records, 5,100 Cestari freed, zero
+casualties. First guest appearance of a Phase 2 homage-era comrade in a Kanja Chronicle: Ogoun
+Xarey (Xaragua), per the survival/mainline-integration standing decision (`PH2-048`).*
 
 ---
 

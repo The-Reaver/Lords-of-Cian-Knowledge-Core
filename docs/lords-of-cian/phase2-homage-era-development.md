@@ -885,6 +885,19 @@ translated into what this world actually has.
   real.
 - ~~Converting the Chicago/survival/Duro-Doss material into locked canon-ledger.json~~ **done,
   Batch 60, 2026-09-05 (`PH2-035` through `PH2-049`, plus `PH2-021`/`PH2-030` amended in place).**
-  Ledger now at version 6.3, 897 rules, 60 batches. No open Phase 2 threads remain. Next concrete
-  step, whenever Abad wants it: drafting the actual Kanja Chronicles these homage-era comrades
-  guest-appear in, spanning his Rebellion and post-Rebellion eras.
+  Ledger now at version 6.3, 897 rules, 60 batches.
+- ~~Drafting the first Kanja Chronicle with a homage-era comrade guest appearance~~ **done, Batch
+  61, 2026-09-05 (`MCD-331`).** Chronicle IX ("The Ledger and the Chain," full text at
+  `docs/lords-of-cian/chronicles/chronicle-ix-the-ledger-and-the-chain.md`) slots into the
+  already-locked Maw-15 operation (`MCD-264`, age 165, Long Mask era): seven days before Kanja's
+  public-pressure liberation of Maw-15 goes public, Ogoun Xarey (Xaragua) arrives independently
+  intending to burn the facility down immediately; Kanja persuades him to wait, the liberation
+  succeeds without violence (5,100 freed, matching `MCD-264` exactly), and Ogoun Xarey departs
+  before it completes, leaving an untranslated word cut into the seawall stone as a deliberate,
+  unresolved hook for a future Chronicle once more homage-era comrades accumulate. He is never
+  named on-page, matching the Toussaint Louverture/Legbara Kalunga backstory-only precedent.
+  Narrated by Onyx of Oblivion per `VB-020`/`VB-021`. Abad approved the full drafted text as sent,
+  then said "lock it." Ledger now at version 6.4, 898 rules, 61 batches. No open Phase 2 threads
+  remain. Next step, whenever Abad wants it: more Kanja Chronicles, spanning his Rebellion and
+  post-Rebellion/Long Mask eras, with further homage-era comrades guest-appearing as their numbers
+  accumulate -- no specific next one queued yet.

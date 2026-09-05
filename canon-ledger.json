@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "6.3",
+  "ledger_version": "6.4",
   "last_updated": "2026-09-05",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -565,6 +565,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Every piece in this batch was drafted in full and explicitly approved in-conversation across the same 2026-09-05 session. Kofi/Hampton's survival: \"this will be along with New York City and LA Kanja's comrades... that's what we'll bleed into book one and start turning the tide Midway through the series.\" Scope of the survival principle: \"Hampton now, a default going forward\" (existing deaths elsewhere stay as built). Expanding it to Salazar and Huggins, and the journalist design principle: \"I think that Salazar and Huggins will live and journalists will live cuz I want a regular person people can connect with on a human level... they will have attributes that will Aid in their survival but they will not be World beating Crushers in the physical sense... especially the journalists and The Whistleblower.\" Confirming survival is hand-picked, not automatic: \"not every journalist will be able to survive but I will hand-pick those that will as we go.\" The Duro/Doss world-tech correction: \"there are no on air or broadcasts here... this world should [not] have those type of communications because of its if you see my world there are no engines or anything like that.\" Final confirmation: \"confirmed.\""
+    },
+    {
+      "batch": 61,
+      "source_doc": "Chronicle IX ('The Ledger and the Chain') -- the first Kanja Chronicle written under the new survival/mainline-integration standing decision (PH2-048), depicting Ogoun Xarey's first guest appearance, slotted into the already-locked Maw-15 operation (MCD-264, age 165).",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad approved the full drafted Chronicle text as sent (a shared file) and then said: \"lock it\""
     }
   ],
   "rules": [
@@ -6763,6 +6772,13 @@
       "statement": "World tech level, reconfirmed for the homage era (standing decision): this world is firmly pre-industrial (Norse/Gothic and Roman/Imperial-styled nations per WC-012, ritual-forged Drakma weapons that explicitly cannot be industrialized per WC-013, no engines beyond the Drakma-resonance Hymn-Engine and the ancient Meridian Engine, no firearms, no electronic or broadcast media of any kind -- CULT-199 bans modern-tech metaphors outright). Homage-era characters whose real anchors used period tech that doesn't exist here (broadcast television, radios, etc.) get translated to period-appropriate in-world equivalents (public criers, hand-copied broadsheets and pamphlets) rather than keeping the real mechanism -- see PH2-047 (Duro and Doss). A possible future addition, floated but not yet drafted: early firearms (draftable/armor-piercing bullets), which if ever introduced would need to be culturally framed as cowardly by this world's own standards AND mechanically incapable of harming a density-scaled combatant regardless of sophistication.",
       "status": "locked",
       "source": "Phase 2 pre-Book-1 homage-era conversational development, chat-drafted 2026-09-05, no external source document -- original invention. Fully tracked at docs/lords-of-cian/phase2-homage-era-development.md. Chicago, the survival/mainline-integration standing decision, the world-tech-level reconfirmation, Sauti, and Duro/Doss were each drafted in full and explicitly approved in-conversation before this batch converted them into the ledger."
+    },
+    {
+      "id": "MCD-331",
+      "category": "World Mechanics",
+      "statement": "Chronicle IX ('The Ledger and the Chain') is the first Kanja Chronicle depicting a Phase 2 homage-era comrade's guest appearance, per the survival/mainline-integration standing decision (PH2-048). Slots into the already-locked Maw-15 operation (MCD-264, age 165): seven days before Kanja's public-pressure liberation of Maw-15 goes public, Ogoun Xarey (Xaragua) arrives independently, intending to burn the facility down immediately. Kanja persuades him to wait the seven days instead; the liberation succeeds without violence, 5,100 freed, matching MCD-264's locked numbers exactly. Ogoun Xarey is never named on-page (matching the Toussaint Louverture/Legbara Kalunga backstory-only precedent) -- he departs before the liberation completes, leaving an untranslated word cut into the seawall stone as a deliberate, unresolved hook for future Chronicles once more homage-era comrades accumulate. Narrated by Onyx of Oblivion per VB-020/021.",
+      "status": "locked",
+      "source": "Chronicle IX ('The Ledger and the Chain'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-ix-the-ledger-and-the-chain.md."
     }
   ],
   "open_decisions": [
