@@ -23,8 +23,19 @@ exists so that pass survives past any one session instead of living only in chat
   convention draws on **Nahuatl** rather than Taíno/Yoruba/Akan -- the real Chicano movement
   already named itself from this vocabulary (Aztlán as the movement's own invoked ancestral
   homeland), so pulling from Nahuatl is the same "actual linguistic heritage" principle applied
-  correctly to a different heritage, not a deviation from the rule. Used for East LA/Aztlán and
-  its leader Cuauhtli, below.
+  correctly to a different heritage, not a deviation from the rule. Used for East LA/Aztlán,
+  below.
+- **Convention loosened further, 2026-09-05 (Abad's explicit direction):** two more standing
+  rules going forward. (1) No real-world proper nouns anywhere, full stop -- this includes
+  institutions (schools, hospitals, businesses), not only people and places; an oversight where
+  a real high school name slipped into a rewritten history got caught and fixed. (2)
+  Pronounceability now outranks etymological purity: names can freely blend across Taíno,
+  Yoruba, Akan, Kikongo, Nahuatl, Swahili, or any other real Black/brown-diasporic vocabulary
+  rather than staying "pure" to one tradition per figure, and going forward every name should be
+  short and easy for an English-reading audience to say and remember on sight. Several earlier
+  names were swapped out under this rule on 2026-09-05 (word-initial consonant clusters English
+  doesn't use, like "Nz-," "Ng-," "Nkr-," and the Nahuatl "tl" sound, were the main culprits) --
+  see each affected entry below for the old name and why it changed.
 - **Structural pattern per named leader:** one real historical figure as the core inspiration,
   a wholly invented true name (see table below) that carries etymological resonance rather than
   disguising the real name phonetically, a rewritten-vivid biography that keeps the real
@@ -198,11 +209,14 @@ entry above).
   patient, precise dismantling of the rival organization piece by piece rather than one act of
   vengeance, when they finally burn down what he built.
 
-### Nzinga, Kwasi's mentor and the one who built Policy before him
+### Nia, Kwasi's mentor and the one who built Policy before him
 
-- **Name etymology:** named for the historical Angolan warrior-queen Nzinga of Ndongo and
-  Matamba, who fought Portuguese colonization -- honoring her real-world anchor's own Afro-
-  Martinican (French Caribbean) roots.
+- **Name etymology:** Swahili for "purpose" -- already familiar to most readers via Kwanzaa,
+  short and easy to say. (Renamed 2026-09-05 from an earlier pick, "Nzinga," after the historical
+  Angolan warrior-queen Nzinga of Ndongo and Matamba -- a real and resonant reference, but "Nz-"
+  at the start of a word is a genuine stumbling block for English readers. Queen Nzinga's real
+  history, and the character's real-world anchor's own Afro-Martinican/French Caribbean roots,
+  stay as the inspiration; only the in-world name changed.)
 - **Real-world research anchor (not her in-world name):** Stephanie "Madame Queen" St. Clair,
   Bumpy Johnson's real historical mentor and boss, an Afro-Martinican immigrant who fiercely and
   publicly resisted the same mob incursion (she really did take out newspaper ads exposing
@@ -237,11 +251,13 @@ into Ogoun Xarey's own already-locked profile as named mentors/officers.
 - **Cibao** (homage: Sebastián Lemba) -- name from the real Taíno term for Hispaniola's central
   mountain stronghold region. A half-legendary ancestral figure from centuries before Ogoun
   Xarey: the first man to turn the mountains into a refuge for the escaped and hunted.
-- **Guarocuya** (homage: Juan Pablo Duarte) -- the real Taíno name of Enriquillo, borrowed as a
-  personal name. The idealist who lights Xaragua's independence movement generations before
-  Ogoun Xarey, founds the secret society that starts it all, refuses the throne he made possible,
-  dies sidelined by harder men -- the road not taken that Ogoun Xarey's total-war doctrine
-  implicitly argues against.
+- **Guama** (homage: Juan Pablo Duarte) -- a real Taíno cacique name (Guamá led real resistance
+  in Cuba), short and easy to say. (Renamed 2026-09-05 from an earlier pick, "Guarocuya" --
+  Enriquillo's real Taíno name, a strong reference but four syllables and awkward for most
+  readers to land on sight.) The idealist who lights Xaragua's independence movement generations
+  before Ogoun Xarey, founds the secret society that starts it all, refuses the throne he made
+  possible, dies sidelined by harder men -- the road not taken that Ogoun Xarey's total-war
+  doctrine implicitly argues against.
 - **Kwabena** (homage: Gregorio Urbano Gilbert) -- Akan Tuesday-born name, linked to a fierce
   temperament. An 18-year-old who shoots an occupier alone, unordered; years later crosses the
   sea to fight beside Xaragua's foreign ally-in-exile (**Yaque**, below -- a real historical
@@ -284,12 +300,16 @@ into Ogoun Xarey's own already-locked profile as named mentors/officers.
   he ever held a banner -- enslaved beside him, later honored as kin. A second, distinct mentor
   from the political-mentor figure already in his backstory: one taught him ideas, the other
   taught him war.
-- **Ngo** (homage: Sanité Bélair) -- Kikongo for "leopard." An officer under Ogoun Xarey's
+- **Chui** (homage: Sanité Bélair) -- Swahili for "leopard," easy to say. (Renamed 2026-09-05
+  from "Ngo," the Kikongo word for the same animal -- an authentic pick, but a word-initial "Ng-"
+  cluster is close to unpronounceable for English readers.) An officer under Ogoun Xarey's
   command, captured in an ambush; when sentenced to a lesser death than her husband, demands the
   harder one instead so they die together, facing forward, no blindfold.
-- **Jagunjagun** (homage: Charlemagne Péralte) -- Yoruba for "warrior." A generation-later
-  guerrilla leader against a different occupier, betrayed and killed by infiltrators in his own
-  camp, his corpse displayed as a warning that instead becomes a martyr-icon.
+- **Jagun** (homage: Charlemagne Péralte) -- Yoruba for "warrior," the root of the earlier pick
+  "Jagunjagun" (a reduplicated compound, "warrior-warrior," renamed 2026-09-05 to just the root
+  word for a shorter, easier name). A generation-later guerrilla leader against a different
+  occupier, betrayed and killed by infiltrators in his own camp, his corpse displayed as a
+  warning that instead becomes a martyr-icon.
 - **Otito** (homage: Baron de Vastey) -- Yoruba for "truth." The philosopher who writes the first
   real unmasking of the whole colonial system by name, becoming the intellectual root of what
   Xaragua later claims to stand for.
@@ -310,9 +330,11 @@ into Ogoun Xarey's own already-locked profile as named mentors/officers.
   three.
 - **Itan** (homage: María Teresa Mirabal) -- Yoruba for "story." The youngest, radicalized
   through love and loyalty before ideology; keeps a diary from childhood to the eve of her death.
-- **Nkrabea** (homage: Dedé Mirabal) -- Akan for "destiny/one's allotted portion," a real
-  philosophical concept. The sister who survives, raises the orphaned children, and spends her
-  life making sure the other three are never forgotten.
+- **Kesho** (homage: Dedé Mirabal) -- Swahili for "tomorrow," easy to say and still carries the
+  "carries the future forward" meaning. (Renamed 2026-09-05 from "Nkrabea," the Akan word for
+  "destiny/one's allotted portion" -- a real philosophical concept, but the word-initial "Nkr-"
+  cluster is hard for English readers.) The sister who survives, raises the orphaned children,
+  and spends her life making sure the other three are never forgotten.
 
 ## The alliance structure
 
@@ -345,7 +367,7 @@ built so far (NYC's five included).
 | Real-world anchor | In-world name | Etymology | Leader (real-world anchor) | In-world name |
 |---|---|---|---|---|
 | South Central | **Sankofa** | Akan for "go back and get it" | Bunchy Carter | **Baálé** |
-| East LA | **Aztlán** | The real mythic ancestral homeland the Chicano movement invoked for itself | David Sánchez | **Cuauhtli** |
+| East LA | **Aztlán** | The real mythic ancestral homeland the Chicano movement invoked for itself | David Sánchez | **Ollin** |
 | Watts | **Atunbi** | Yoruba for "reborn," a core Yoruba spiritual concept | Ted Watkins | **Oluwole** |
 | Compton | **Ijoko** | Yoruba for "seat/throne," root of "ijoba" (government) | Doris Davis | **Adwoa** |
 | Leimert Park | **Orin** | Yoruba for "song" | Horace Tapscott | **Onilu** |
@@ -372,11 +394,13 @@ built so far (NYC's five included).
   cannot reach across distance, through intermediaries, or through a conspiracy that never shows
   its face -- exactly the kind of threat that killed the real man.
 
-### Cuauhtli (leads Aztlán)
+### Ollin (leads Aztlán)
 
-- **Name etymology:** Nahuatl for "eagle," evoking the Aztec eagle-warrior caste -- fitting a
-  founder who built an explicitly paramilitary, uniformed organization and took the self-styled
-  title "Prime Minister."
+- **Name etymology:** Nahuatl for "movement," also one of the twenty real day-signs of the Aztec
+  calendar -- fits an organizer whose whole legacy is a movement, and it's short and easy to say.
+  (Renamed 2026-09-05 from "Cuauhtli," Nahuatl for "eagle" -- a real, resonant reference to the
+  Aztec eagle-warrior caste, but the Nahuatl "tl" sound doesn't exist in English and is a genuine
+  stumbling block; Ollin keeps the language and swaps only the specific word.)
 - **Real-world research anchor:** David Sánchez, founder of the Brown Berets, central organizer
   of the 1968 East LA school walkouts (alongside teacher **Sal Castro**) and the 1970 Chicano
   Moratorium, where journalist **Rubén Salazar** was killed by a Sheriff's tear-gas projectile
@@ -386,7 +410,7 @@ built so far (NYC's five included).
 - **Rewritten history:** builds the first real paramilitary structure his community has ever had,
   wins two of the era's defining victories through sheer organized discipline -- then loses the
   whole thing from the inside, because he never listened to the people who built it beside him.
-- **Signature ability -- "The Formation":** when Cuauhtli stands at the center of a group he's
+- **Signature ability -- "The Formation":** when Ollin stands at the center of a group he's
   personally organized and drilled, that group fights, moves, and endures as a single,
   dramatically amplified force. The cost: the moment real, ignored grievance inside his own ranks
   reaches its breaking point, the formation doesn't just fail -- it fractures explosively, leaving
@@ -450,11 +474,42 @@ built so far (NYC's five included).
 ### LA's five signature-ability axes, distinct from all five NYC axes
 
 Conversion-through-presence, vulnerable to indirect conspiracy (Baálé); collective amplification,
-vulnerable to internal neglect (Cuauhtli); slow permanent rebuilding, vulnerable to speed
+vulnerable to internal neglect (Ollin); slow permanent rebuilding, vulnerable to speed
 (Oluwole); composure-immunity to social attack, vulnerable to structural/economic forces (Adwoa);
 music-based lasting community bonds, vulnerable to commercialization (Onilu). None repeat
 Xaragua/Areíto/Yara/Guanín/Borikén's axes (control-immunity, doubt-immunity, "stop/comply/
 disappear"-immunity in the light only, banked-retribution discipline, distributed presence).
+
+## LA supporting-cast pool (locked 2026-09-05)
+
+The four real figures already named in context inside Baálé's and Ollin's entries above, given
+full dossier treatment the same way Xaragua's 21-figure pool was. One correction folded in here:
+the real school Sal Castro taught at was referenced by its actual name in an earlier draft --
+caught and fixed per the "no real-world proper nouns anywhere, including institutions" rule --
+it's now **East Gate High**, wholly invented.
+
+- **Mati** (homage: Sal Castro) -- Nahuatl root meaning "to know," short and easy to say. A
+  history teacher at East Gate High who builds pride in Chicano students by teaching the history
+  the district won't, then becomes the inside-the-schools instigator of Aztlán's defining
+  walkout -- Ollin organizes the outside paramilitary support, Mati lights the fuse from within
+  the classroom. Arrested and charged alongside a dozen others; the charges collapse two years
+  later, and he spends the next forty years rebuilding what he was punished for teaching.
+- **Ohun** (homage: Rubén Salazar) -- Yoruba for "voice/sound." A journalist who covers Aztlán's
+  rise from inside the community rather than outside it -- the walkouts, the Berets, the whole
+  movement -- becoming its most trusted chronicler. Killed mid-sentence, in a bar, by a
+  projectile fired into a crowd he was only ever documenting, on the same day the Moratorium he
+  was covering turned into the very violence he'd spent years warning could happen.
+- **Iya** (homage: Gloria Arellanes) -- Yoruba for "mother," short and warm. Aztlán's first
+  woman minister, holding real institutional power inside Ollin's organization -- until the day
+  the men she built it beside choose comfort over equity one time too many. She doesn't ask
+  twice. She walks, and every woman in the organization walks with her, founding something of
+  their own rather than staying to be managed. The single most consequential decision in
+  Aztlán's history, and it isn't Ollin's.
+- **Kra** (homage: John Huggins) -- Akan for "soul." Baálé's co-founder and the other half of
+  Sankofa's founding partnership -- not a lieutenant, a genuine equal. Killed in the same room,
+  the same moment, by the same manufactured conflict. His widow carries the work forward in a
+  different chapter entirely, a continuation Sankofa's story treats as a real, ongoing legacy
+  rather than a closed wound.
 
 ## Open threads
 
@@ -475,16 +530,22 @@ disappear"-immunity in the light only, banked-retribution discipline, distribute
   one character per era should be an original Black/brown character built on a well-known
   crime-fiction character's arc as a structural skeleton (never reusing the fictional character's
   name), layered with real history from the period. First instance done above (Kwasi Owolabi/
-  Nzinga/Nunzio Ferro, Areíto's Policy-era backstory). Worth applying again as other territories
+  Nia/Nunzio Ferro, Areíto's Policy-era backstory). Worth applying again as other territories
   get built out.
 - ~~Supporting cast pool~~ **done, 2026-09-05** -- all 21 figures (the 18 pasted names, with
   the Mirabal Sisters expanded into Patria/Minerva/María Teresa/Dedé individually) built out and
-  locked above, grouped into six clusters, with two (Mino, Ngo) folded directly into Ogoun
+  locked above, grouped into six clusters, with two (Mino, Chui) folded directly into Ogoun
   Xarey's own profile as his combat mentor and an officer under his command.
 - ~~LA~~ **done, 2026-09-05.** All five territories and leaders built and locked above (Sankofa/
-  Baálé, Aztlán/Cuauhtli, Atunbi/Oluwole, Ijoko/Adwoa, Orin/Onilu). Both cities in Abad's original
-  "80s/90s NYC and LA" vision are now fully built at the territory-and-leader level. Not yet
-  built out for LA: an equivalent supporting-cast pool (Sal Castro, Rubén Salazar, Gloria
-  Arellanes, and John Huggins are named/kept in the leader entries above but not given their own
-  full dossiers the way Xaragua's 21-figure pool was) and any LA-side twist character. Both
-  remain open if Abad wants them.
+  Baálé, Aztlán/Ollin, Atunbi/Oluwole, Ijoko/Adwoa, Orin/Onilu). Both cities in Abad's original
+  "80s/90s NYC and LA" vision are now fully built at the territory-and-leader level.
+  ~~LA supporting-cast pool~~ **done, 2026-09-05** -- Mati, Ohun, Iya, and Kra built out above.
+  Not yet built: an LA-side twist character (crime-fiction-skeleton original, mirroring Kwasi
+  Owolabi's trio). Still open if Abad wants it.
+- **Naming cleanup pass, 2026-09-05.** Per Abad's explicit direction, nine earlier names were
+  swapped for short, simple, easy-to-pronounce replacements, and one real-world institution name
+  (a real high school, referenced in Mati's backstory) was caught and replaced with the invented
+  East Gate High. See each affected entry above for the old name, the new name, and why. Standing
+  rule going forward, recorded in Standing Decisions above: no real-world proper nouns of any
+  kind, and pronounceability/memorability now outrank strict etymological purity -- names may
+  blend freely across Taíno/Yoruba/Akan/Kikongo/Nahuatl/Swahili/etc.
