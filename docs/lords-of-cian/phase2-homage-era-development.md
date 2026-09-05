@@ -48,6 +48,37 @@ postdates Batch 59 as pre-ledger conversational material again, same as before.
   person's defining throughline while fictionalizing every specific event, and one signature
   ability mechanically distinct from the other leaders' — each built on a different axis so the
   three (so far) don't repeat each other.
+- **Survival, mainline integration, and the "what if" principle, locked 2026-09-05 (Abad's
+  explicit direction):** the homage era is not a sealed-off side story. Every homage-era character,
+  across every city, is a comrade of Kanja's. This world's baseline lifespans already run hundreds
+  to tens of thousands of years -- a character who survives their own origin-era conflict, rather
+  than dying the way the real person did, has the intervening time to grow into an extraordinarily
+  skilled, ancient veteran by Kanja's own era. New Chronicles will be written featuring Kanja
+  himself, spanning both his Rebellion (ages 18-30) and his post-Rebellion/Long Mask era, with
+  guest appearances by these now-ancient figures. The growing, accumulating number of them is the
+  payoff: they bleed into Book 1 and become the reinforcement that turns the tide roughly midway
+  through the five-book series -- a standing army of legends the story has quietly been building
+  the whole time. Survival is **hand-picked by Abad, case by case, not an automatic rule** --
+  reserved especially for figures whose real deaths left a genuine "what if" feeling. Already
+  applied: Kofi (Fred Hampton, Chicago), Baálé and Kra (Bunchy Carter and John Huggins, LA), and
+  Ohun (Rubén Salazar, LA). Everything else built before this ruling stays exactly as written --
+  those deaths were deliberate, weighty story beats, not casualties of this new option.
+  Journalists and whistleblowers specifically get a design principle of their own: they're written
+  as "regular people," not combat-tier leaders -- their signature traits keep them alive and
+  effective in their own domain (documentation, sourcing, credibility, persistence) rather than
+  granting physical combat power. The point is a character a reader can recognize as human, not
+  another "world-beating crusher."
+- **World tech level, reconfirmed 2026-09-05:** this world is firmly pre-industrial (Norse/Gothic
+  and Roman/Imperial-styled nations per `WC-012`, ritual-forged Drakma weapons that explicitly
+  cannot be industrialized per `WC-013`, no engines beyond the Drakma-resonance Hymn-Engine and the
+  ancient Meridian Engine, no firearms, no electronic or broadcast media of any kind -- `CULT-199`
+  bans modern-tech metaphors outright). Homage-era characters whose real anchors used period tech
+  that doesn't exist here (broadcast television, radios, etc.) get translated to period-appropriate
+  in-world equivalents (crying/reciting in public, hand-copied broadsheets and pamphlets) rather
+  than keeping the real mechanism. A possible future addition, floated but not yet drafted: early
+  firearms (draftable/armor-piercing bullets), which if ever introduced would need to be culturally
+  framed as cowardly by this world's own standards AND mechanically incapable of harming a
+  density-scaled combatant regardless of sophistication -- not drafted until Abad asks for it.
 
 ## The five territories and leaders built so far
 
@@ -392,13 +423,18 @@ built so far (NYC's five included).
 - **Rewritten history:** commands total loyalty from men who used to answer to no one -- not
   through force, but because everyone who's ever raised a hand against him ends up serving him
   afterward. His real gift, the one that turned a street gang into an army overnight, is turning
-  enemies into followers face to face. Dies not in open combat but in a room, ambushed by a
-  conflict manufactured by people who never once confronted him directly.
+  enemies into followers face to face. **Survives, per Abad's 2026-09-05 ruling** (revised from
+  an earlier draft where he died as the real man did): a conflict manufactured by people who never
+  once confront him directly nearly kills him and does kill several of his own -- Kra included, in
+  the earlier draft -- but this time the ambush fails. Both Baálé and Kra live, the closest of
+  several close calls in a life that keeps going, precisely so their survival can go on mattering
+  rather than ending the story where the real history did.
 - **Signature ability -- "The Turn":** anyone who attacks Baálé directly, if they survive the
   exchange, becomes bound to serve him from that point on -- not mind control, charisma at an
   almost physical intensity. The cost: it only works in person, one at a time, face to face. It
   cannot reach across distance, through intermediaries, or through a conspiracy that never shows
-  its face -- exactly the kind of threat that killed the real man.
+  its face -- exactly the kind of threat that almost killed the real man, and in this telling,
+  still doesn't.
 
 ### Ollin (leads Aztlán)
 
@@ -502,9 +538,14 @@ it's now **East Gate High**, wholly invented.
   later, and he spends the next forty years rebuilding what he was punished for teaching.
 - **Ohun** (homage: Rubén Salazar) -- Yoruba for "voice/sound." A journalist who covers Aztlán's
   rise from inside the community rather than outside it -- the walkouts, the Berets, the whole
-  movement -- becoming its most trusted chronicler. Killed mid-sentence, in a bar, by a
-  projectile fired into a crowd he was only ever documenting, on the same day the Moratorium he
-  was covering turned into the very violence he'd spent years warning could happen.
+  movement -- becoming its most trusted chronicler. **Survives, per Abad's 2026-09-05 ruling**
+  (revised from an earlier draft where a stray projectile killed him mid-sentence in a bar, the
+  same day the Moratorium he covered turned violent): the same projectile finds the wall beside
+  him instead, close enough to end the story if it had landed an inch over. Built as a "regular
+  person" per the standing design principle below -- no combat ability, no physical invincibility,
+  just the caution, sourcing instincts, and real luck that keep an ordinary man alive long enough
+  to keep doing the one thing he's actually good at: writing down what he sees and making sure it
+  survives him telling it.
 - **Iya** (homage: Gloria Arellanes) -- Yoruba for "mother," short and warm. Aztlán's first
   woman minister, holding real institutional power inside Ollin's organization -- until the day
   the men she built it beside choose comfort over equity one time too many. She doesn't ask
@@ -512,10 +553,11 @@ it's now **East Gate High**, wholly invented.
   their own rather than staying to be managed. The single most consequential decision in
   Aztlán's history, and it isn't Ollin's.
 - **Kra** (homage: John Huggins) -- Akan for "soul." Baálé's co-founder and the other half of
-  Sankofa's founding partnership -- not a lieutenant, a genuine equal. Killed in the same room,
-  the same moment, by the same manufactured conflict. His widow carries the work forward in a
-  different chapter entirely, a continuation Sankofa's story treats as a real, ongoing legacy
-  rather than a closed wound.
+  Sankofa's founding partnership -- not a lieutenant, a genuine equal. **Survives alongside
+  Baálé, per Abad's 2026-09-05 ruling** (revised from an earlier draft where the same manufactured
+  conflict killed them both in the same room, the same moment): the ambush that was meant to end
+  both of them fails, and Kra's marriage and partnership continue as a real, ongoing thread in
+  Sankofa's story rather than a legacy his widow is left to carry alone.
 
 ## Underworld-era characters: Sankofa's crack-era saga (locked 2026-09-05)
 
@@ -569,6 +611,212 @@ had ties to CIA-linked Nicaraguan Contra fundraising.
   restraint stands against, and part of what eventually makes Kasi vulnerable: Kasi won't fight
   Moto's way, and that refusal has a cost.
 
+### Sauti, "the Whistleblower" (added 2026-09-05)
+
+- **Name etymology:** Swahili for "voice," matching the register already set by Kasi and Moto.
+- **Real-world research anchor:** Gary Webb, the real journalist whose 1996 "Dark Alliance"
+  reporting is the actual source of the CIA-Contra allegation Doyle's whole thread is built from.
+  Real Webb's story ends in professional destruction and a disputed death; rewritten here, he
+  lives and keeps working the story.
+- **Rewritten history:** an investigative reporter who won't let the story die even after his own
+  paper backs away from it and his career takes the hit the real man's did -- he keeps working it
+  quietly, for years, because he was never chasing a byline, he was chasing the truth of what
+  happened to his own city. Built per the standing "regular person" design principle above: no
+  combat ability, survives on caution and sourcing, not invincibility.
+- **Signature ability -- "The Nuisance":** once Sauti has personally confirmed three independent
+  sources for a claim, it can't be fully suppressed -- someone, somewhere, always has a copy, a
+  memory, a lead that survives any attempt to bury it. Cost: this protects the *story*, never the
+  man. He has no personal protection, no combat capability -- caution, the loyalty of people who
+  believe him, and real luck are the only reasons he's still alive to keep being a nuisance.
+
+## Chicago: the third city (locked 2026-09-05)
+
+Five territories, same rigor as NYC/LA, researched via six parallel web-search-verified
+background passes. Real, documented connections between the leaders (Kasa personally ran Ofin's
+mayoral campaign; Omoba personally built the Latino coalition that helped elect him; Omoba and
+Kofi personally founded the real original Rainbow Coalition together) are kept intact as
+in-world relationships.
+
+| Real-world anchor | In-world name | Etymology | Leader (real-world anchor) | In-world name |
+|---|---|---|---|---|
+| Bronzeville | **Ide** | Yoruba for "bronze," honoring Bronzeville's real self-given community nickname | Ida B. Wells | **Ase** |
+| West Side | **Kwan** | Akan for "road/path" | Al Raby | **Kasa** |
+| West Garfield Park | **Umoja** | Swahili for "unity" (a real Kwanzaa principle) | Fred Hampton | **Kofi** |
+| Lincoln Park | **Jibaro** | A real, proud Puerto Rican folk-identity term for the island's rural mountain people | José "Cha Cha" Jiménez | **Omoba** |
+| Citywide/City Hall | **Uhuru** | Swahili for "freedom" -- the capstone territory, institutional power rather than one neighborhood | Harold Washington | **Ofin** |
+
+### Ase (leads Ide)
+
+- **Name etymology:** Yoruba for the life-force/power that makes a spoken or written thing
+  binding and real -- "let it be so."
+- **Real-world research anchor:** Ida B. Wells -- born enslaved, became an anti-lynching
+  investigative journalist after being forced off a train in Memphis, moved to Chicago in 1893,
+  co-founded the Negro Fellowship League and the Alpha Suffrage Club (the first Black women's
+  suffrage organization in Illinois), documented lynchings by name, date, and witness against
+  white newspapers' own reporting.
+- **Rewritten history:** starts as a woman who refuses to be moved from a train seat and turns
+  that refusal into a life's method: document everything, name every name, count every death, and
+  make the truth impossible to take back. Builds her own institutions in Ide when the ones that
+  should have welcomed her wouldn't. Steps into the front of a suffrage parade after being told to
+  march at the back, simply because she decided to (the real 1913 Washington march).
+- **Signature ability -- "Named and Numbered":** any atrocity Ase personally documents -- names,
+  dates, witnesses -- becomes permanently impossible to erase, deny, or cover up, spreading faster
+  than any institution can suppress it. Cost: only works after the fact. No power to stop violence
+  in the moment, only to make its truth unkillable afterward -- a slower, different kind of
+  justice than anyone else in the alliance wields. Built per the "regular person" design principle:
+  no combat ability, all effectiveness in her own domain.
+
+### Kasa (leads Kwan)
+
+- **Name etymology:** Akan for "speak/voice" -- quietly ironic, since the real Raby was famous
+  for being personally soft-spoken while his organizing voice moved a national movement.
+- **Real-world research anchor:** Al Raby -- a self-taught school dropout turned teacher who
+  became the chief organizer/spokesman of the coalition that invited Martin Luther King Jr. to
+  Chicago in 1966, co-led the Chicago Freedom Movement's open-housing marches into hostile white
+  neighborhoods, later returned in 1982 specifically to run Harold Washington's mayoral campaign.
+- **Rewritten history:** quietly builds the coalition that talks a legendary outside leader
+  (shaped by the real Martin Luther King Jr., referenced in backstory only, not a separate named
+  character, matching Ogoun Xarey's Toussaint-Louverture precedent) into coming north -- then
+  marches at the front of it, not behind, into a mob throwing rocks. Wins an agreement that looks
+  like victory on paper and delivers far less in practice, a real bittersweet cost this project
+  doesn't smooth over. Years later, personally runs the campaign that finally elects Ofin.
+- **Signature ability -- "The Invitation":** anyone Kasa personally invites into a cause gains
+  real, almost binding legitimacy and national attention they couldn't generate alone. Cost:
+  purely reputational, not physical -- doesn't stop a thrown rock or a mob, only ensures the world
+  can't look away or pretend it didn't happen.
+
+### Kofi (leads Umoja)
+
+- **Name etymology:** Akan day-name (Friday-born).
+- **Real-world research anchor:** Fred Hampton -- NAACP Youth Council organizer turned, at 20,
+  chairman of the Illinois Black Panther Party; personally built the real original "Rainbow
+  Coalition" alliance with the Young Lords (Omoba) and the Young Patriots Organization; ran free
+  breakfast and medical-clinic survival programs; his own bodyguard was a paid FBI informant who
+  mapped his apartment for the raid meant to kill him.
+- **Rewritten history:** a magnetic 21-year-old who personally sits down with leaders of groups
+  Chicago's own segregation was built to keep apart and welds them into one alliance through sheer
+  conviction. **Survives, per Abad's explicit direction:** his own chosen head of security is
+  secretly the informant who maps his apartment for the raid meant to kill him in his sleep -- he
+  survives it, and survives what comes after it, the closest of several close calls across a life
+  that keeps going.
+- **Signature ability -- "One Fire":** Kofi can permanently bind two or more separate groups into
+  a genuine shared cause simply by standing between them and speaking -- the bond holds on its own
+  afterward, without him. Cost: this exact gift is what makes him uniquely vulnerable -- his power
+  runs on trust and proximity, meaning the person he's let closest is always his single greatest
+  point of failure. No defense exists against betrayal from someone let all the way in; it's just,
+  this time, not the thing that finally gets him.
+
+### Omoba (leads Jibaro)
+
+- **Name etymology:** Yoruba for "prince," literally "child of the king."
+- **Real-world research anchor:** José "Cha Cha" Jiménez -- founded the *original* Young Lords
+  Organization in Chicago's Lincoln Park in 1968, predating and directly inspiring the later NYC
+  chapter (already honored via Guaní); occupied a seminary and a church, running free breakfast,
+  health, and daycare programs from the latter (renamed the "People's Church"); personally
+  co-founded the Rainbow Coalition with Kofi in 1969; later helped build the Latino coalition that
+  elected Ofin in 1983.
+- **Rewritten history:** a gang leader who reads himself into a different person during a stint
+  in solitary confinement, walks out and turns his own street organization into a political one
+  overnight, then takes over a church and a seminary building by simply walking in and staying --
+  winning funded clinics and breakfast programs from institutions that had never given his
+  community anything before. Real, documented alliance with Kofi -- the two personally found
+  Chicago's own version of this alliance together.
+- **Signature ability -- "The Occupation":** wherever Omoba and those loyal to him physically
+  hold a space for more than a day, it permanently becomes a sanctuary no outside authority can
+  reclaim by force -- only by the people inside choosing to leave. Cost: only works on space
+  belonging to an institution he can shame into complicity (a church, a school); doesn't work on
+  open ground or purely private property.
+
+### Ofin (leads Uhuru)
+
+- **Name etymology:** Yoruba for "law."
+- **Real-world research anchor:** Harold Washington -- lawyer and legislator who broke from
+  Chicago's Democratic Machine, elected the city's first Black mayor in 1983 on a coalition Al
+  Raby personally managed and Cha Cha Jiménez helped build the Latino vote for; spent 1983-1986
+  blocked by a hostile 29-alderman council bloc ("Council Wars") before a court-ordered
+  redistricting finally broke the deadlock; died suddenly of a heart attack at his City Hall desk
+  in 1987, less than a year into his second term.
+- **Rewritten history:** a lawyer and legislator who breaks from the machine that raised him and
+  is elected on the exact coalition Kasa personally organizes and Omoba personally delivers --
+  then is blocked, appointment by appointment, by a hostile council for years, before the wall
+  finally, completely breaks. Dies suddenly, at his own desk, at the height of his power -- the
+  one death in this Chicago build kept as-built, not flipped, since it lands as the capstone's own
+  real cost rather than an assassination "what if."
+- **Signature ability -- "The Override":** any single act of obstruction against Ofin, no matter
+  how coordinated, eventually breaks if he simply refuses to stop pushing -- and once it breaks,
+  it breaks completely and permanently. Cost: runs on time and endurance, not force -- cannot be
+  rushed, and the same engine that breaks every wall against him burns him from the inside; there's
+  a real, foreshadowed limit to how long he can keep paying for it.
+
+### Meji and Oluso: the Blackstone Rangers/TWO saga
+
+Chicago's twist-character thread, kept genuinely disputed rather than resolved into a clean hero
+or villain, matching the real historical record's own unresolved dual readings.
+
+- **Meji** (homage: Jeff Fort) -- Yoruba for "two/twin," reflecting a man simultaneously courted
+  by City Hall and under federal investigation in the same year (1968). Composite skeleton:
+  Thomas Shelby's tightrope-walk between legitimate and outlaw power; Michael Corleone's tragedy
+  of a real chance at legitimacy (the real 1967 federal OEO anti-poverty grant funneled through
+  his organization) that corrupts rather than redeems; a late-life Gyp-Rosetti-flavored turn
+  toward paranoid insularity as the organization hardens into something crueler (mirroring the
+  real 1970s-80s El Rukns/Libya-terrorism trajectory).
+- **Oluso** (homage: Rev. Arthur Brazier) -- Yoruba for "shepherd/guardian." A genuine good-faith
+  community organizer (the real Woodlawn Organization) who brokers the real funding-for-
+  transformation deal with Meji's organization, whose real intentions get complicated by an
+  outcome he never controls -- not a co-conspirator, a well-meaning partner in something that
+  goes wrong.
+
+## Duro and Doss: a standalone "what if" (added 2026-09-05)
+
+A different kind of homage-era addition -- not tied to any of the ten built territories, a single
+"what if" story Abad specifically wanted added, set in a small-town setting adjacent to the NYC
+cluster rather than inside one of its five boroughs.
+
+**Real-world research anchor:** Clay Tiffany, a real citizen journalist and public-access cable
+host broadcasting out of two small Westchester County, NY towns in the late 1990s/early 2000s --
+a six-foot-plus, red-afro'd local eccentric who used his platform for years to accuse a violent
+local police officer of corruption and organized-crime ties. The officer retaliated with real,
+escalating violence (1997-1999), including a beating that broke Tiffany's ribs and an orbital
+bone while shouting "You can't tell lies about me on your television show!" Tiffany won an FBI
+investigation and a real $200,000 settlement, but was dismissed by many as a paranoid nuisance for
+years. He died alone in March 2015 -- months before the officer he'd warned about for two decades
+was revealed, in 2016, as a quadruple murderer (and later a real Jeffrey Epstein cellmate),
+verified against CNN/NBC/Fox reporting on the 2023 conviction and 2024 life sentence.
+
+**World-tech correction:** this world has no broadcast media of any kind (see Standing Decisions
+above). Duro is rebuilt as a public crier and pamphleteer, not a cable-TV host -- the same fight,
+translated into what this world actually has.
+
+### Duro, "the Broadcast" [name kept, mechanism rebuilt]
+
+- **Name etymology:** Yoruba for "stand/persist/hold firm."
+- **Rewritten history -- the actual "what if":** Duro stands in the same market square day after
+  day, reciting what he's uncovered about corrupt officials aloud to whoever gathers, then presses
+  hand-copied broadsheets into their hands afterward so the words outlive the moment he stops
+  talking (his standing pamphlet series: "Last Rites for Liars"). He doesn't just survive the
+  beating and win the reckoning the way the real man did -- he survives long enough, and keeps
+  pushing hard enough, that the reckoning he forces gets Doss removed from power years before Doss
+  ever gets the chance to become a killer. The real quadruple murder that defined the real
+  officer's later infamy simply never happens here, because the "paranoid nuisance" everyone
+  dismissed turned out to be right early enough to matter.
+- **Signature ability -- "The Copy That Survives":** once Duro has spoken and written something
+  down, copies multiply hand to hand faster than anyone can burn or confiscate them all -- someone,
+  somewhere, always has a copy, a memorized recitation, a duplicate broadsheet that resurfaces no
+  matter how hard someone tries to destroy the original. Cost: protects the words, never the man --
+  no combat capability, no physical invincibility. Stubbornness, luck, and Doss stopping just short
+  of killing him are the only reasons he's alive at all.
+
+### Doss -- built from Gyp Rosetti
+
+- **Real-world research anchor:** Nicholas Tartaglione, the real corrupt Briarcliff Manor, NY
+  police officer who assaulted Tiffany repeatedly, later convicted (2023) of an unrelated 2016
+  quadruple murder and sentenced (2024) to four consecutive life sentences.
+- **Skeleton:** Gyp Rosetti's exact psychology -- a fragile ego that treats public exposure as a
+  mortal insult and answers it with brutal, escalating violence, matching the real "you can't tell
+  lies about me" line almost word for word (rebuilt here as "...in the square"). In this telling,
+  Duro's persistence gets him stopped years before that psychology ever gets the chance to
+  escalate into murder.
+
 ## Open threads
 
 - ~~Toussaint Louverture rename (mainline Cian, not Phase 2)~~ **done, Batch 58, 2026-09-05
@@ -616,6 +864,26 @@ had ties to CIA-linked Nicaraguan Contra fundraising.
   into six cluster rules), LA's 4-figure supporting cast, and the naming convention itself are
   now locked canon, not just conversational development. This document remains the authoritative
   full-prose version of each entry.
-- **Chicago, queued 2026-09-05.** A third city in Abad's homage-era world. Not yet researched or
-  started -- same process as NYC/LA: identify real historically significant Black/brown
-  civil-rights areas and figures first, before any naming or drafting.
+- ~~Chicago, queued 2026-09-05~~ **done, 2026-09-05.** All five territories and leaders built and
+  locked above (Ide/Ase, Kwan/Kasa, Umoja/Kofi, Jibaro/Omoba, Uhuru/Ofin), plus the Meji/Oluso
+  Blackstone Rangers/TWO twist thread. Three cities now built at the full territory/leader level.
+- **Survival, mainline integration, and the "what if" principle -- done, 2026-09-05** (see
+  Standing Decisions above for the full rule). Applied so far: Kofi (Hampton), Baálé and Kra
+  (Carter and Huggins), and Ohun (Salazar) all now survive their real-world-mirrored close calls.
+  Journalists/whistleblowers get a "regular person" design principle -- domain-suited survival
+  traits, not combat power. Also added under this principle: Sauti (homage: Gary Webb, LA's
+  missing journalist voice for the crack-era saga) and a standalone "what if" pair, Duro and Doss
+  (homage: Clay Tiffany and Nicholas Tartaglione, rebuilt for this world's tech level as a public
+  crier/pamphleteer rather than a cable-TV host -- see the world-tech-level standing decision
+  above). Future survival calls remain Abad's own hand-picks, not automatic.
+- **World tech level -- reconfirmed 2026-09-05, no open action needed unless Abad wants firearms
+  drafted.** This world has no broadcast media, engines (beyond the Hymn-Engine/Meridian Engine),
+  or firearms. Homage-era characters built on period tech that doesn't exist here get translated
+  to period-appropriate equivalents. A future firearms addition was floated, not drafted -- see
+  Standing Decisions above for the two conditions it would need (cultural framing as cowardly,
+  and total mechanical ineffectiveness against density-scaled combatants) before it's built for
+  real.
+- **Converting the Chicago/survival/Duro-Doss material into locked canon-ledger.json** -- not yet
+  done as of this writing; queued as the next concrete step, following the same amendment
+  (Baálé/Kra/Ohun's already-locked entries) plus new-rule (Chicago, Sauti, Duro/Doss, the survival
+  policy) pattern used for Batch 59.
