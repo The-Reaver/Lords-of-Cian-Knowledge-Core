@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "6.5",
+  "ledger_version": "6.6",
   "last_updated": "2026-09-05",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -583,6 +583,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad approved the full drafted Chronicle text as sent (a shared file) and then said: \"approved\""
+    },
+    {
+      "batch": 63,
+      "source_doc": "Chronicle XI ('What Holds in the Light') -- the third Kanja Chronicle written under the survival/mainline-integration standing decision (PH2-048), depicting Yalokona's first guest appearance, slotted into the already-locked Second Century Mark (MCD-260, age 200).",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad approved the full drafted Chronicle text as sent (a shared file) and then said: \"locked\""
     }
   ],
   "rules": [
@@ -6795,6 +6804,13 @@
       "statement": "Chronicle X ('What the Ledger Owes') is the second Kanja Chronicle depicting a Phase 2 homage-era comrade's guest appearance, per the survival/mainline-integration standing decision (PH2-048). Slots into the already-locked Furnace District Strike (MCD-244, age 21, Rebellion era): during the four days Kanja spends asking 4,000 smelting-district workers how much they are owed, Kofi (Umoja) is present among the hauler-line workers and welds the district's two mutually distrustful factions (tenders and haulers) into one unified strike front by standing at the seam between them and speaking -- his canonical One Fire ability (PH2-040), shown in effect but never named on the page. The strike proceeds and resolves exactly as MCD-244 already records (4,000 workers, Ezio's documented 340%-average debt structure, the workers striking on their own initiative, eleven days at the gate, the twenty-first victory without a blow struck). Kofi's stated age (21) matches Kanja's age at this battle exactly, a deliberate mirror left as subtext. He is never named on-page (matching the Chronicle IX/Ogoun Xarey precedent) -- he departs before the terms are signed, leaving behind a folk phrase ('same fire, different hands') that outlives the strike, a second unresolved hook alongside Chronicle IX's carved word for a future Chronicle to draw together once more homage-era comrades accumulate. Narrated by Onyx of Oblivion per VB-020/021.",
       "status": "locked",
       "source": "Chronicle X ('What the Ledger Owes'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-x-what-the-ledger-owes.md."
+    },
+    {
+      "id": "MCD-333",
+      "category": "World Mechanics",
+      "statement": "Chronicle XI ('What Holds in the Light') is the third Kanja Chronicle depicting a Phase 2 homage-era comrade's guest appearance, per the survival/mainline-integration standing decision (PH2-048). Slots into the already-locked Second Century Mark (MCD-260, age 200, Long Mask era): during Trust Governor Maren Tallis's twelve-year truce negotiation, Yalokona (Yara) arrives unannounced and blocks Tallis's attempt to append a private, unsigned side-agreement, forcing all terms to be stated once, aloud, in the light and witnessed -- her canonical Caucus (any alliance she personally brokers becomes binding in a way neither side can secretly break) and Unbought and Unbossed (immune to being made to comply, stop, or disappear through money, threat, or force so long as it happens witnessed or on record) abilities, both shown in effect but never named on the page. The negotiation resolves exactly as MCD-260 already records (the twelve-year truce, the Governor's Shackle named, the 114-year Pi-Awakening countdown set). She is never named on-page (matching the Chronicle IX/X precedent) -- she departs before the formal signing, leaving behind an unidentified ledger filing recording only that the accord was witnessed, a third unresolved hook alongside Chronicle IX's carved word and Chronicle X's folk phrase, for a future Chronicle to draw together once more homage-era comrades accumulate. Narrated by Onyx of Oblivion per VB-020/021.",
+      "status": "locked",
+      "source": "Chronicle XI ('What Holds in the Light'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-xi-what-holds-in-the-light.md."
     }
   ],
   "open_decisions": [

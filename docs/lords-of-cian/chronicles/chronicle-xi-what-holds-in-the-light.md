@@ -1,6 +1,6 @@
 # Chronicle XI: What Holds in the Light
 
-*Draft, 2026-09-05, pending Abad's review before any lock. Narrator: Onyx of Oblivion, per `VB-020`/`VB-021`.
+*Locked canon, Batch 63, 2026-09-05 (`MCD-333`). Narrator: Onyx of Oblivion, per `VB-020`/`VB-021`.
 Slots into the already-locked Second Century Mark (`MCD-260`), age 200 -- Trust Governor Maren Tallis
 negotiates the twelve-year truce recognizing the Scourge's economy has outgrown Trust taxation, the same
 battle where the Talisman of Mao's Governor's Shackle is named and the 114-year countdown to Pi-Awakening

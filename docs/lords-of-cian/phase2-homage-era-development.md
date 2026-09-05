@@ -912,7 +912,31 @@ translated into what this world actually has.
   the Chronicle IX/Ogoun Xarey precedent, and leaves his own hook behind (a folk phrase, "same
   fire, different hands") alongside Chronicle IX's carved word -- both waiting for a future
   Chronicle to draw together once more homage-era comrades accumulate. Abad approved the drafted
-  text, then said "approved." Ledger now at version 6.5, 899 rules, 62 batches. No open Phase 2
-  threads remain. Next step, whenever Abad wants it: more Kanja Chronicles, spanning his Rebellion
-  and post-Rebellion/Long Mask eras, with further homage-era comrades guest-appearing as their
-  numbers accumulate -- no specific next one queued yet.
+  text, then said "approved." Ledger now at version 6.5, 899 rules, 62 batches.
+- ~~Third Kanja Chronicle with a homage-era comrade guest appearance~~ **done, Batch 63,
+  2026-09-05 (`MCD-333`).** Chronicle XI ("What Holds in the Light," full text at
+  `docs/lords-of-cian/chronicles/chronicle-xi-what-holds-in-the-light.md`) slots into the
+  already-locked Second Century Mark (`MCD-260`, age 200): during Trust Governor Maren Tallis's
+  twelve-year truce negotiation, Yalokona (Yara) -- arriving unannounced -- blocks Tallis's attempt
+  to append a private, unsigned side-agreement, forcing all terms to be stated once, aloud, in the
+  light and witnessed. Her canonical Caucus (any alliance she personally brokers becomes binding in
+  a way neither side can secretly break) and Unbought and Unbossed (immune to being made to comply,
+  stop, or disappear through money, threat, or force so long as it's witnessed or on record)
+  abilities (`PH2-006`) are both shown in effect, never named on the page. The negotiation resolves
+  exactly as `MCD-260` already records (the twelve-year truce, the Governor's Shackle named, the
+  114-year Pi-Awakening countdown set). She is never named on-page, matching the Chronicle IX/X
+  precedent, and leaves a third hook behind (an unidentified ledger filing recording only that the
+  accord was "witnessed, in full, by one present") alongside Chronicle IX's carved word and
+  Chronicle X's folk phrase. Abad approved the drafted text, then said "locked." Ledger now at
+  version 6.6, 900 rules, 63 batches. No open Phase 2 threads remain. Next step, whenever Abad
+  wants it: more Kanja Chronicles, spanning his Rebellion and post-Rebellion/Long Mask eras, with
+  further homage-era comrades guest-appearing as their numbers accumulate -- no specific next one
+  queued yet.
+- **New pending item flagged 2026-09-05, tracked in full at
+  `docs/lords-of-cian/project-roadmap-and-status.md`:** Abad wants the original manuscript
+  Chronicles I-VIII rewritten once Phase 2 material has settled -- their geography and place
+  references don't match the locked Atlas, plus the specific errors already surfaced in the Batch
+  46-47/48 cross-check punch list need fixing. He also floated that the world Atlas itself may need
+  to be redone. He asked for a standing roadmap/status document covering everything done and
+  outstanding across the whole project (old material corrections, new material, anything else
+  queued) -- built this session as `project-roadmap-and-status.md`.
