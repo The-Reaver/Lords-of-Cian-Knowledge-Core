@@ -26,13 +26,18 @@ exists so that pass survives past any one session instead of living only in chat
   ability mechanically distinct from the other leaders' — each built on a different axis so the
   three (so far) don't repeat each other.
 
-## The three territories and leaders built so far
+## The four territories and leaders built so far
+
+Note, 2026-09-05: there will be no Staten Island homage. The fifth territory (Borikén, below)
+is Abad's own invention rather than a fifth NYC borough -- same rigor (real historical anchor,
+wholly invented place and leader names), just freed from mapping to a literal borough.
 
 | Real-world anchor | In-world name | Etymology | Leader (real-world anchor) | In-world name |
 |---|---|---|---|---|
 | The Bronx | **Xaragua** | Real Taíno chiefdom name (in what is now Haiti), ruled by Anacaona | Jean-Jacques Dessalines | **Ogoun Xarey** |
 | Harlem | **Areíto** | Real Taíno word: the ceremonial song/dance/gathering held in the batey | Malcolm X | **Kwame Ade** |
 | Brooklyn | **Yara** | Real word/place tied to the 1868 "Grito de Yara," the opening cry of Cuba's Ten Years' War | Shirley Chisholm | **Yalokona** |
+| Invented (no borough mapping) | **Borikén** | Real pre-colonial Taíno name for Puerto Rico, root of "Boricua" | Felipe Luciano / the NYC Young Lords | **Guaní** |
 
 ### Ogoun Xarey (Xaragua's "Mightiest Hero" -- Abad's own mandated title, kept as-is)
 
@@ -97,6 +102,35 @@ ruling -- not a force-multiplier archetype, matched combat-tier)
 - **Augmentation 2 -- "The Door That Stays Open":** any barrier she personally breaks stays
   broken behind her, permanently, for everyone who comes after, even in rooms she never returns
   to. A legacy-mechanic relevant to the wider "unlocking game" content-release structure.
+
+### Guaní (leads Borikén, locked 2026-09-05)
+
+- **Name etymology:** the real Taíno word for hummingbird (colibrí) -- small, disproportionately
+  fast and fiercely territorial in real life, not just poetically.
+- **Real-world research anchor:** Felipe Luciano -- poet, co-founder of the Last Poets (a real,
+  direct root of hip-hop, tying straight into the wider "cool subculture" homage) and chairman
+  of the NYC Young Lords, one of Abad's own two named flagship organizations for the founding
+  struggle era (the other being the Black Panthers, already echoed in Xaragua/Areíto's
+  self-defense and institution-building elements). Fills the one thematic gap the other three
+  territories didn't cover: organized mutual aid and direct action as community institution-
+  building, mirroring the real 1969 Garbage Offensive (piling the city's own uncollected trash
+  in the street to force action) and the Young Lords' free breakfast and health-clinic programs.
+- **Rewritten history:** starts as a voice before he's a leader -- a street poet whose words
+  spread faster than he can travel. When the city lets his neighborhood rot, he doesn't wait for
+  permission: he puts the city's own refused garbage back at its front door, and takes over a
+  hospital wing to run health screenings the city won't fund. Both work because a hundred people
+  who never spoke to each other move on his word at the same hour -- the rewritten core of him
+  is that he was never one man giving orders, he was the first voice a distributed network
+  learned to move on together.
+- **Signature ability -- "No Single Point":** Guaní's real self is never located in only one
+  place -- every clinic, every occupied building, every rooftop meeting carries a genuine
+  fragment of his authority and awareness, so capturing or killing "him" in one location doesn't
+  end him. The cost: this power is entirely relational, not personal -- an enemy who attacks the
+  institutions themselves (burn the clinics, starve the breakfast program, isolate the people)
+  rather than hunting the man is the one force that actually wears him down, piece by piece,
+  mirroring how real counter-intelligence campaigns targeted infrastructure rather than only
+  leaders. A fifth axis distinct from all the others: not force, not underworld-culture, not
+  incorruptibility, not disciplined restraint, but distributed presence.
 
 ## Underworld-era characters: Areíto's Policy years (locked 2026-09-05)
 
@@ -163,8 +197,11 @@ Areíto's Renaissance (art, music, the exemplary and beautiful elements Abad exp
 required alongside the underworld) is the legitimacy and recruitment engine. Yara supplies the
 one thing neither of the other two can generate alone: a seat at any table that isn't secretly
 rigged, and -- per "The Caucus" -- the reason the alliance's internal tensions don't break it.
-None of the three fully trusts the other two; that tension is the balance Abad asked for, not
-a flaw in it.
+Borikén supplies what none of the other three can replicate: the network itself -- clinics,
+breakfast programs, occupied buildings turned into shelters -- meaning the alliance can survive
+losing a fight in any one place because Guaní's structure was never dependent on holding one
+place to begin with. None of the four fully trusts the other three; that tension is the balance
+Abad asked for, not a flaw in it.
 
 ## Open threads
 
@@ -198,7 +235,5 @@ a flaw in it.
   Xaragua specifically, given the real Bronx's Dominican, Puerto Rican, and Caribbean
   immigrant history. Not yet built out into named in-world characters -- each would need its
   own invented name under the same convention before use.
-- **Staten Island** -- not yet addressed; likely the thinnest of the five boroughs for this
-  purpose per the project's own working assumption, unconfirmed.
 - **LA** -- Abad's original Phase 2 vision named both "80s/90s NYC and LA" as the twin poles of
-  the subculture homage. NYC's boroughs are in progress; LA hasn't been started.
+  the subculture homage. NYC's boroughs/Borikén are in progress; LA hasn't been started.
