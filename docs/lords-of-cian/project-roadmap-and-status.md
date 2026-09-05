@@ -2,7 +2,14 @@
 
 *Compiled 2026-09-05, at the request of Abad Morel: a single reference for everything asked for
 across this project so far, what's been done, and what's still on the menu. Reflects the ledger
-through Batch 63 (`ledger_version` 6.6, 900 rules).*
+through Batch 64 (`ledger_version` 6.7, 903 rules).*
+
+**Update, Batch 64:** the Chronicles concept was corrected -- each homage-era territory has its own
+Chronicle series with its own leader as protagonist and Kanja as an unnamed guest, not "Kanja
+Chronicles" with the reverse. Xaragua Chronicle I, Umoja Chronicle I, and Yara Chronicle I replaced
+the three original Chronicle IX/X/XI (`MCD-334`-`336`, superseding `MCD-331`-`333`). Detroit was also
+locked as the fourth Phase 2 homage-era city (`OPEN-011`) -- city choice only, territories/leaders
+not yet built.
 
 ---
 

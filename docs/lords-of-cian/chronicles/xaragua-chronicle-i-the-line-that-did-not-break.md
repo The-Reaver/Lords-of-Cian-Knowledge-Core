@@ -1,14 +1,13 @@
 # Xaragua Chronicle I: The Line That Did Not Break
 
-*Draft, 2026-09-05, pending Abad's review before any lock. Reworked from the withdrawn Chronicle IX
-("The Ledger and the Chain") to correct the series' structure per Abad's direction: this is the first
-entry in Xaragua's own Chronicles, its protagonist Ogoun Xarey (PH2-002), not a Kanja Chronicle. Kanja
-appears only as a guest, arriving partway through and departing before the story's resolution is his to
-claim. Narration is close-third on Ogoun Xarey throughout, not Onyx of Oblivion (Onyx's designated scope
-per VB-020 is Kanja chapters specifically, and this is not one) -- the four Voice Bible Pillars (VB-001-005)
-still govern tone and language. Draws on Ogoun Xarey's already-locked profile (PH2-002, PH2-017: Mino
-his combat mentor, Chui an officer under his command) but slots into no existing mainline MCD- rule --
-this is original homage-era material, not an extension of a locked Cian battle.*
+*Locked canon, Batch 64, 2026-09-05 (`MCD-334`), superseding `MCD-331`. First entry in Xaragua's own
+Chronicles, its protagonist Ogoun Xarey (PH2-002), not a Kanja Chronicle. Kanja appears only as a guest,
+arriving partway through and departing before the story's resolution is his to claim. Narration is
+close-third on Ogoun Xarey throughout, not Onyx of Oblivion (Onyx's designated scope per VB-020 is Kanja
+chapters specifically, and this is not one) -- the four Voice Bible Pillars (VB-001-005) still govern tone
+and language. Draws on Ogoun Xarey's already-locked profile (PH2-002, PH2-017: Mino his combat mentor,
+Chui an officer under his command) but slots into no existing mainline MCD- rule -- this is original
+homage-era material, not an extension of a locked Cian battle.*
 
 ---
 

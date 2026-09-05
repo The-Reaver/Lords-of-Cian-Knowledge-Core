@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "6.6",
+  "ledger_version": "6.7",
   "last_updated": "2026-09-05",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -592,6 +592,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad approved the full drafted Chronicle text as sent (a shared file) and then said: \"locked\""
+    },
+    {
+      "batch": 64,
+      "source_doc": "Rework of the withdrawn Chronicle IX/X/XI into the corrected territory-Chronicle structure (Xaragua Chronicle I, Umoja Chronicle I, Yara Chronicle I), superseding MCD-331/332/333, plus OPEN-011: Detroit selected as the fourth Phase 2 homage-era city.",
+      "source_id": null,
+      "rule_count": 3,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it. and lock Detroit.\""
     }
   ],
   "rules": [
@@ -6795,22 +6804,46 @@
       "id": "MCD-331",
       "category": "World Mechanics",
       "statement": "Chronicle IX ('The Ledger and the Chain') is the first Kanja Chronicle depicting a Phase 2 homage-era comrade's guest appearance, per the survival/mainline-integration standing decision (PH2-048). Slots into the already-locked Maw-15 operation (MCD-264, age 165): seven days before Kanja's public-pressure liberation of Maw-15 goes public, Ogoun Xarey (Xaragua) arrives independently, intending to burn the facility down immediately. Kanja persuades him to wait the seven days instead; the liberation succeeds without violence, 5,100 freed, matching MCD-264's locked numbers exactly. Ogoun Xarey is never named on-page (matching the Toussaint Louverture/Legbara Kalunga backstory-only precedent) -- he departs before the liberation completes, leaving an untranslated word cut into the seawall stone as a deliberate, unresolved hook for future Chronicles once more homage-era comrades accumulate. Narrated by Onyx of Oblivion per VB-020/021.",
-      "status": "locked",
-      "source": "Chronicle IX ('The Ledger and the Chain'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-ix-the-ledger-and-the-chain.md."
+      "status": "superseded",
+      "source": "Chronicle IX ('The Ledger and the Chain'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-ix-the-ledger-and-the-chain.md.",
+      "note": "Superseded 2026-09-05 (Batch 64) by MCD-334 (Xaragua Chronicle I, 'The Line That Did Not Break'). The withdrawn version had Kanja as protagonist and Ogoun Xarey as guest -- Abad corrected this: each homage-era territory has its own Chronicles with its own leader as protagonist and Kanja as guest, not the reverse. The withdrawn narrative text is kept in docs/lords-of-cian/chronicles/chronicle-ix-the-ledger-and-the-chain.md, marked WITHDRAWN, for the project's own record only."
     },
     {
       "id": "MCD-332",
       "category": "World Mechanics",
       "statement": "Chronicle X ('What the Ledger Owes') is the second Kanja Chronicle depicting a Phase 2 homage-era comrade's guest appearance, per the survival/mainline-integration standing decision (PH2-048). Slots into the already-locked Furnace District Strike (MCD-244, age 21, Rebellion era): during the four days Kanja spends asking 4,000 smelting-district workers how much they are owed, Kofi (Umoja) is present among the hauler-line workers and welds the district's two mutually distrustful factions (tenders and haulers) into one unified strike front by standing at the seam between them and speaking -- his canonical One Fire ability (PH2-040), shown in effect but never named on the page. The strike proceeds and resolves exactly as MCD-244 already records (4,000 workers, Ezio's documented 340%-average debt structure, the workers striking on their own initiative, eleven days at the gate, the twenty-first victory without a blow struck). Kofi's stated age (21) matches Kanja's age at this battle exactly, a deliberate mirror left as subtext. He is never named on-page (matching the Chronicle IX/Ogoun Xarey precedent) -- he departs before the terms are signed, leaving behind a folk phrase ('same fire, different hands') that outlives the strike, a second unresolved hook alongside Chronicle IX's carved word for a future Chronicle to draw together once more homage-era comrades accumulate. Narrated by Onyx of Oblivion per VB-020/021.",
-      "status": "locked",
-      "source": "Chronicle X ('What the Ledger Owes'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-x-what-the-ledger-owes.md."
+      "status": "superseded",
+      "source": "Chronicle X ('What the Ledger Owes'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-x-what-the-ledger-owes.md.",
+      "note": "Superseded 2026-09-05 (Batch 64) by MCD-335 (Umoja Chronicle I, 'The Man Who Mapped the Door'). The withdrawn version had Kanja as protagonist and Kofi as guest -- Abad corrected this: each homage-era territory has its own Chronicles with its own leader as protagonist and Kanja as guest, not the reverse. The withdrawn narrative text is kept in docs/lords-of-cian/chronicles/chronicle-x-what-the-ledger-owes.md, marked WITHDRAWN, for the project's own record only."
     },
     {
       "id": "MCD-333",
       "category": "World Mechanics",
       "statement": "Chronicle XI ('What Holds in the Light') is the third Kanja Chronicle depicting a Phase 2 homage-era comrade's guest appearance, per the survival/mainline-integration standing decision (PH2-048). Slots into the already-locked Second Century Mark (MCD-260, age 200, Long Mask era): during Trust Governor Maren Tallis's twelve-year truce negotiation, Yalokona (Yara) arrives unannounced and blocks Tallis's attempt to append a private, unsigned side-agreement, forcing all terms to be stated once, aloud, in the light and witnessed -- her canonical Caucus (any alliance she personally brokers becomes binding in a way neither side can secretly break) and Unbought and Unbossed (immune to being made to comply, stop, or disappear through money, threat, or force so long as it happens witnessed or on record) abilities, both shown in effect but never named on the page. The negotiation resolves exactly as MCD-260 already records (the twelve-year truce, the Governor's Shackle named, the 114-year Pi-Awakening countdown set). She is never named on-page (matching the Chronicle IX/X precedent) -- she departs before the formal signing, leaving behind an unidentified ledger filing recording only that the accord was witnessed, a third unresolved hook alongside Chronicle IX's carved word and Chronicle X's folk phrase, for a future Chronicle to draw together once more homage-era comrades accumulate. Narrated by Onyx of Oblivion per VB-020/021.",
+      "status": "superseded",
+      "source": "Chronicle XI ('What Holds in the Light'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-xi-what-holds-in-the-light.md.",
+      "note": "Superseded 2026-09-05 (Batch 64) by MCD-336 (Yara Chronicle I, 'The Seat She Did Not Wait For'). The withdrawn version had Kanja as protagonist and Yalokona as guest -- Abad corrected this: each homage-era territory has its own Chronicles with its own leader as protagonist and Kanja as guest, not the reverse. The withdrawn narrative text is kept in docs/lords-of-cian/chronicles/chronicle-xi-what-holds-in-the-light.md, marked WITHDRAWN, for the project's own record only."
+    },
+    {
+      "id": "MCD-334",
+      "category": "World Mechanics",
+      "statement": "Xaragua Chronicle I ('The Line That Did Not Break') is the first entry in Xaragua's own Chronicle series, per the corrected structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest -- not the reverse. Ogoun Xarey (Xaragua) holds a coastal redoubt against a besieging force alongside Mino and Chui (PH2-017), thinning his own center to hold the gate. An unnamed stranger arrives partway through, fights in the thinned center as one more body under Ogoun Xarey's doctrine (no command taken, no persuasion offered), and the extra eleven minutes he buys is what lets the gate close on the fleeing settlement's full eight hundred rather than fewer. He departs before the battle's aftermath is fully counted, leaving behind only a rumor among the defenders. Slots into no existing mainline battle -- original homage-era material set in Xaragua itself. Supersedes MCD-331 in full.",
       "status": "locked",
-      "source": "Chronicle XI ('What Holds in the Light'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-xi-what-holds-in-the-light.md."
+      "source": "Reworked homage-era territory Chronicles, chat-drafted 2026-09-05, original invention, no external source document. Full narrative text in docs/lords-of-cian/chronicles/."
+    },
+    {
+      "id": "MCD-335",
+      "category": "World Mechanics",
+      "statement": "Umoja Chronicle I ('The Man Who Mapped the Door') is the first entry in Umoja's own Chronicle series, per the corrected structure above. Kofi (Umoja) hosts a late-night meeting; his own chosen head of security -- the secret informant already established at PH2-040 -- has mapped the apartment for a raid meant to kill him in his sleep. An unnamed stranger arrives just ahead of the raid, identifies the compromised window, and fights off the roof team without taking command of Kofi's own response (Kofi's own instinct is to warn his neighbors, not flee). This is the specific factor that converts Kofi's already-locked close call into a clean survival. The informant is not confronted on-page and is gone by dawn, his fate left open for a future entry. Slots into no existing mainline battle -- original homage-era material set in Umoja itself. Supersedes MCD-332 in full.",
+      "status": "locked",
+      "source": "Reworked homage-era territory Chronicles, chat-drafted 2026-09-05, original invention, no external source document. Full narrative text in docs/lords-of-cian/chronicles/."
+    },
+    {
+      "id": "MCD-336",
+      "category": "World Mechanics",
+      "statement": "Yara Chronicle I ('The Seat She Did Not Wait For') is the first entry in Yara's own Chronicle series, per the corrected structure above. Yalokona (Yara) is pressured by her own movement's leadership to defer her candidacy for a 'more electable' figure, per the already-locked detail at PH2-006; she refuses and announces publicly instead, in a roofless hall at midday, in front of a crowd. An unnamed stranger stands among the witnesses, present only as one more pair of eyes satisfying her own Unbought and Unbossed ability's witnessed/on-record condition (PH2-006) -- he offers no advice, no dialogue, and is never identified. She wins the seat that year on the strength of having refused to ask permission in public. Slots into no existing mainline battle -- original homage-era material set in Yara itself. Supersedes MCD-333 in full.",
+      "status": "locked",
+      "source": "Reworked homage-era territory Chronicles, chat-drafted 2026-09-05, original invention, no external source document. Full narrative text in docs/lords-of-cian/chronicles/."
     }
   ],
   "open_decisions": [
@@ -6866,6 +6899,12 @@
       "statement": "Whether Haku the Unifier is still alive -- floated by Abad 2026-09-04 during Batch 51's close-out; no source document anywhere states how or whether he died.",
       "status": "resolved",
       "resolution": "RESOLVED 2026-09-04, see MCD-314. Confirmed alive, the reveal held for a mainline-book beat (Book 5 or a late-book moment) rather than Phase 2. Ruled by Abad: \"Confirmed alive, held for a mainline-book reveal (Book 5, or a late-book beat) -- biggest possible payoff, lands right when Titan-scale stakes peak, pairs 'indomitable will' against the Titans' own longevity at the moment that comparison means the most.\""
+    },
+    {
+      "id": "OPEN-011",
+      "statement": "Which real-world U.S. city should be the fourth Phase 2 homage-era city, on the same weight class as NYC, LA, and Chicago?",
+      "status": "resolved",
+      "resolution": "RESOLVED 2026-09-05: Detroit. Per background research at research/phase2-homage-source-material/fourth-city-candidates-research.md: Detroit is the only city independently corroborated three ways by the existing source directory (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, all Detroit-based, none overlapping NYC/LA/Chicago), with a throughline (industrial labor militancy fused with Black nationalism, plus the RNA's literal land-sovereignty project) distinct from the first three cities. Ruled by Abad: \"lock it. and lock Detroit.\" This resolves the CITY CHOICE only -- Detroit's five territories/leaders have not yet been built; that conversational world-building step (matching how NYC/LA/Chicago were built before their own PH2- lock) is the next concrete step whenever Abad wants it."
     }
   ],
   "conflicts": [

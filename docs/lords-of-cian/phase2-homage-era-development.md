@@ -940,3 +940,13 @@ translated into what this world actually has.
   to be redone. He asked for a standing roadmap/status document covering everything done and
   outstanding across the whole project (old material corrections, new material, anything else
   queued) -- built this session as `project-roadmap-and-status.md`.
+- ~~Structural correction: the Chronicles concept was backwards~~ **done, Batch 64, 2026-09-05
+  (`MCD-334`-`336`, `OPEN-011`; supersedes `MCD-331`/`332`/`333`).** Abad corrected the concept: each
+  homage-era territory has its own Chronicle series with its own leader as protagonist, Kanja as an
+  unnamed guest -- not "Kanja Chronicles" with the homage figure guesting. Withdrew and rewrote all
+  three (Xaragua Chronicle I, Umoja Chronicle I, Yara Chronicle I; full text in
+  `docs/lords-of-cian/chronicles/`, old versions marked WITHDRAWN in place, kept for the record).
+  Same batch locked `OPEN-011`: Detroit is the fourth Phase 2 homage-era city (city choice only --
+  its five territories/leaders are the next concrete step, whenever Abad wants it). See
+  `research/phase2-homage-source-material/fourth-city-candidates-research.md` for the research
+  behind the pick. Ledger now at version 6.7, 903 rules, 64 batches.

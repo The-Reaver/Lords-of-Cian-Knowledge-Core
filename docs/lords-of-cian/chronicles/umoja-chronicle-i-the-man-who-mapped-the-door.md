@@ -1,13 +1,12 @@
 # Umoja Chronicle I: The Man Who Mapped the Door
 
-*Draft, 2026-09-05, pending Abad's review before any lock. Reworked from the withdrawn Chronicle X
-("What the Ledger Owes") to correct the series' structure per Abad's direction: this is the first entry
-in Umoja's own Chronicles, its protagonist Kofi (PH2-040), not a Kanja Chronicle. Kanja appears only as
-a guest -- his presence is the specific factor that tips Kofi's already-established survival (PH2-040:
-"his own chosen head of security is secretly the informant who maps his apartment for the raid meant to
-kill him in his sleep -- he survives it") from bare survival into a clean one, without taking authorship
-of Kofi's own courage or doctrine. Narration is close-third on Kofi throughout, not Onyx of Oblivion.
-Slots into no existing mainline MCD- rule -- original homage-era material set in Umoja itself.*
+*Locked canon, Batch 64, 2026-09-05 (`MCD-335`), superseding `MCD-332`. First entry in Umoja's own
+Chronicles, its protagonist Kofi (PH2-040), not a Kanja Chronicle. Kanja appears only as a guest -- his
+presence is the specific factor that tips Kofi's already-established survival (PH2-040: "his own chosen
+head of security is secretly the informant who maps his apartment for the raid meant to kill him in his
+sleep -- he survives it") from bare survival into a clean one, without taking authorship of Kofi's own
+courage or doctrine. Narration is close-third on Kofi throughout, not Onyx of Oblivion. Slots into no
+existing mainline MCD- rule -- original homage-era material set in Umoja itself.*
 
 ---
 

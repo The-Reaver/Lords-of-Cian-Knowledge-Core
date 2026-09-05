@@ -1,15 +1,14 @@
 # Yara Chronicle I: The Seat She Did Not Wait For
 
-*Draft, 2026-09-05, pending Abad's review before any lock. Reworked from the withdrawn Chronicle XI
-("What Holds in the Light") to correct the series' structure per Abad's direction: this is the first
-entry in Yara's own Chronicles, its protagonist Yalokona (PH2-006), not a Kanja Chronicle. Kanja appears
-only as a guest, one witness among several whose presence matters mechanically to Yalokona's own
-Unbought and Unbossed ability (immune to pressure so long as it happens witnessed, in the light) -- his
-role is structural, not authorial: he does not persuade her, does not advise her, only stands where a
-witness is needed. Narration is close-third on Yalokona throughout, not Onyx of Oblivion. Slots into no
-existing mainline MCD- rule -- original homage-era material set in Yara itself. Draws on the
-already-locked detail in PH2-006 that "her own movement" once wanted her to wait her turn for someone
-more electable, and that she ran anyway.*
+*Locked canon, Batch 64, 2026-09-05 (`MCD-336`), superseding `MCD-333`. First entry in Yara's own
+Chronicles, its protagonist Yalokona (PH2-006), not a Kanja Chronicle. Kanja appears only as a guest, one
+witness among several whose presence matters mechanically to Yalokona's own Unbought and Unbossed ability
+(immune to pressure so long as it happens witnessed, in the light) -- his role is structural, not
+authorial: he does not persuade her, does not advise her, only stands where a witness is needed.
+Narration is close-third on Yalokona throughout, not Onyx of Oblivion. Slots into no existing mainline
+MCD- rule -- original homage-era material set in Yara itself. Draws on the already-locked detail in
+PH2-006 that "her own movement" once wanted her to wait her turn for someone more electable, and that she
+ran anyway.*
 
 ---
 
