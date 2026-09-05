@@ -98,6 +98,63 @@ ruling -- not a force-multiplier archetype, matched combat-tier)
   broken behind her, permanently, for everyone who comes after, even in rooms she never returns
   to. A legacy-mechanic relevant to the wider "unlocking game" content-release structure.
 
+## Underworld-era characters: Areíto's Policy years (locked 2026-09-05)
+
+A "twist" character type per Abad's explicit direction: an original Black/brown character with
+their own invented name and story, built using a well-known crime-fiction character's arc as a
+structural skeleton (Vito Corleone, Michael Corleone, Michael Sullivan Sr., Nikolai Luzhin, Gyp
+Rosetti, Alfie Solomons, Thomas Shelby, Tommy Angelo, Vito Scaletta, Lincoln Clay -- explicitly
+not reused as names, only as narrative DNA), then layered with real history from the era this
+world is homaging. First one built: the underworld power structure standing above a young,
+not-yet-reinvented Kwame Ade during his Areíto street years (already referenced in his own
+entry above).
+
+### Kwasi Owolabi, the Policy King of Areíto
+
+- **Name etymology:** "Kwasi," an Akan (Twi) day-name for a boy born on Sunday, traditionally
+  linked to a witty, unbothered, philosophical temperament. "Owolabi," a real Yoruba name
+  meaning roughly "wealth is born of honor."
+- **Real-world research anchor (not his in-world name):** Ellsworth "Bumpy" Johnson, the real
+  Harlem numbers-racket power broker of the Great Migration era -- a Charleston-born transplant
+  known for a strict personal code, a love of poetry and chess, sharp tailoring, and his real
+  historical stand against an Italian mob incursion into Harlem's Policy racket in the 1930s.
+- **Composite skeleton:** Vito Corleone's outsider-arrives-with-nothing-and-builds-respect arc;
+  Michael Corleone's tragic cost-of-power isolation as the fight to protect Areíto's Policy
+  racket coldens him; Thomas Shelby's WWI-veteran, always-three-moves-ahead campaign mind, haunted
+  by one dead brother-in-arms; Alfie Solomons' digressive, scripture-and-slang negotiating style
+  that flips from warmth to a named threat inside one sentence; Nikolai Luzhin's hidden layer --
+  Policy profits quietly funding the underground resource network a young Kwame Ade first
+  encounters, unknown to Kwasi's own crew; Michael Sullivan Sr./Tommy Angelo's conscience thread
+  -- one absolute, never-bent rule (nothing touches a child), a private hand-written accounting
+  of every person the business has cost him, and one boy (not blood, as good as) he shields from
+  the life entirely; Vito Scaletta/Lincoln Clay's veteran-turned-operator arc, paying off in a
+  patient, precise dismantling of the rival organization piece by piece rather than one act of
+  vengeance, when they finally burn down what he built.
+
+### Nzinga, Kwasi's mentor and the one who built Policy before him
+
+- **Name etymology:** named for the historical Angolan warrior-queen Nzinga of Ndongo and
+  Matamba, who fought Portuguese colonization -- honoring her real-world anchor's own Afro-
+  Martinican (French Caribbean) roots.
+- **Real-world research anchor (not her in-world name):** Stephanie "Madame Queen" St. Clair,
+  Bumpy Johnson's real historical mentor and boss, an Afro-Martinican immigrant who fiercely and
+  publicly resisted the same mob incursion (she really did take out newspaper ads exposing
+  police corruption). Given full treatment rather than a footnote, per Abad's standing rule that
+  a revolutionary's known collaborators get researched and detailed too. She chose Kwasi as her
+  successor specifically because he was the only man in her organization who never once tried to
+  take Policy from her by force.
+
+### Nunzio Ferro, the antagonist -- built from Gyp Rosetti
+
+- **Real-world research anchor (not his in-world name):** the era's real Italian-American mob
+  incursion into Harlem's Policy racket (the historical Dutch Schultz conflict), reframed here
+  through an original character rather than the real or the fictionalized-TV name.
+- **Skeleton:** Gyp Rosetti's exact psychology -- a fragile ego that reads even a neutral "good
+  luck" as a mortal insult, launching disproportionate, spiraling retaliation out of pure spite.
+  He is the reason the conflict escalates far past anything business logic would justify, and the
+  reason Kwasi's opposite trait (discipline) is what ultimately wins. His organization is referred
+  to as "the Downtown Combine" rather than any named real-world family.
+
 ## The alliance structure
 
 Xaragua supplies raw, uncompromising force. Areíto's underworld (numbers, corners, the
@@ -123,7 +180,16 @@ a flaw in it.
   the true name changed. `MCD-142`, which references his Death-Impression Reading ability, was
   also amended -- a genuine hit missed in the earlier grep pass and caught during Batch 58's
   drafting.
-- **Queens** -- not yet started. Next territory in the "five boroughs equivalent" sequence.
+- **Queens** -- a fourth territory/leader pair was proposed (Guanín, a real Taíno/pan-Caribbean
+  term for the prestige gold-copper alloy caciques traded as a mark of status, led by Eri Kotoko
+  -- Yoruba "witness/proof" + Akan "porcupine," homage to Jackie Robinson) but not yet confirmed
+  or locked; still open.
+- **Twist-character pattern, established 2026-09-05:** per Abad's explicit direction, at least
+  one character per era should be an original Black/brown character built on a well-known
+  crime-fiction character's arc as a structural skeleton (never reusing the fictional character's
+  name), layered with real history from the period. First instance done above (Kwasi Owolabi/
+  Nzinga/Nunzio Ferro, Areíto's Policy-era backstory). Worth applying again as other territories
+  get built out.
 - **Supporting cast pool** -- the Dominican, Cuban, and Haitian revolutionaries Abad pasted
   (Mirabal Sisters, Gregorio Urbano Gilbert, Francisco Caamaño, Sebastián Lemba, Juan Pablo
   Duarte, Augusto César Sandino, Frank País, Antonio Maceo, Vilma Espín, Julio Antonio Mella,
