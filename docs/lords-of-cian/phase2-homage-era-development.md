@@ -1,9 +1,15 @@
 # Phase 2 pre-Book-1 homage era — development notes
 
-Status: IN PROGRESS, pre-ledger. Nothing in this document is in `canon-ledger.json` yet.
-Per the roadmap in `CLAUDE.md`, Phase 2 is deliberately being built as a conversational
-creative-development pass before any of it converts into locked Cian material — this file
-exists so that pass survives past any one session instead of living only in chat history.
+Status, updated 2026-09-05: everything below through the LA twist-character trio is now
+**locked in canon-ledger.json** as of Batch 59 (`PH2-001` through `PH2-034`, a new prefix).
+Per the roadmap in `CLAUDE.md`, Phase 2 was deliberately built as a conversational
+creative-development pass first, with each piece drafted and explicitly approved in this
+document/chat before Batch 59 converted the whole set into the ledger in condensed, atomic-rule
+form. This file remains the authoritative full-prose version of each entry (etymology, rewritten
+history, signature ability in full) -- the ledger's `PH2-` rules are deliberately more compact,
+several bundling multiple named figures into one rule to keep the count manageable. Chicago (a
+third city) is queued next and is NOT yet in the ledger -- treat anything below this point that
+postdates Batch 59 as pre-ledger conversational material again, same as before.
 
 ## Standing decisions (locked, 2026-09-05)
 
@@ -604,3 +610,12 @@ had ties to CIA-linked Nicaraguan Contra fundraising.
   rule going forward, recorded in Standing Decisions above: no real-world proper nouns of any
   kind, and pronounceability/memorability now outrank strict etymological purity -- names may
   blend freely across Taíno/Yoruba/Akan/Kikongo/Nahuatl/Swahili/etc.
+- ~~Convert everything above into locked canon-ledger.json material~~ **done, Batch 59,
+  2026-09-05 (`PH2-001` through `PH2-034`, new prefix).** All ten territories/leaders (five NYC,
+  five LA), both underworld/twist-character trios, Xaragua's 21-figure supporting cast (bundled
+  into six cluster rules), LA's 4-figure supporting cast, and the naming convention itself are
+  now locked canon, not just conversational development. This document remains the authoritative
+  full-prose version of each entry.
+- **Chicago, queued 2026-09-05.** A third city in Abad's homage-era world. Not yet researched or
+  started -- same process as NYC/LA: identify real historically significant Black/brown
+  civil-rights areas and figures first, before any naming or drafting.
