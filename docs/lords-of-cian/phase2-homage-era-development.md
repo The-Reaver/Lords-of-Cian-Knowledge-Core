@@ -19,6 +19,12 @@ exists so that pass survives past any one session instead of living only in chat
   homage practice (e.g. Toussaint Louverture, already locked in mainline Cian canon as an
   original S-tier Champion's true name, predates this convention and is queued for its own
   cleanup -- see Open Threads below).
+- **Convention extended, 2026-09-05 (LA build):** for a Chicano-anchored figure/place, the
+  convention draws on **Nahuatl** rather than Taíno/Yoruba/Akan -- the real Chicano movement
+  already named itself from this vocabulary (Aztlán as the movement's own invoked ancestral
+  homeland), so pulling from Nahuatl is the same "actual linguistic heritage" principle applied
+  correctly to a different heritage, not a deviation from the rule. Used for East LA/Aztlán and
+  its leader Cuauhtli, below.
 - **Structural pattern per named leader:** one real historical figure as the core inspiration,
   a wholly invented true name (see table below) that carries etymological resonance rather than
   disguising the real name phonetically, a rewritten-vivid biography that keeps the real
@@ -325,6 +331,131 @@ into shelters -- meaning the alliance can survive losing a fight in any one plac
 structure was never dependent on holding one place to begin with. None of the five fully trusts
 the other four; that tension is the balance Abad asked for, not a flaw in it.
 
+## Los Angeles: the second city (locked 2026-09-05)
+
+Abad's original Phase 2 vision named "80s/90s NYC and LA" as the twin poles of the subculture
+homage. LA doesn't map onto a clean "five boroughs" structure the way NYC does, but per Abad's
+explicit ruling this is built to the same five-territory symmetry anyway, using LA's own most
+historically significant real Black/brown civil-rights areas rather than forcing a borough
+analogy. Same rigor throughout: real historical anchor, researched via five parallel
+web-search-verified background passes, wholly invented territory and leader names, a
+rewritten-vivid biography, and one signature ability on a distinct axis from every other leader
+built so far (NYC's five included).
+
+| Real-world anchor | In-world name | Etymology | Leader (real-world anchor) | In-world name |
+|---|---|---|---|---|
+| South Central | **Sankofa** | Akan for "go back and get it" | Bunchy Carter | **Baálé** |
+| East LA | **Aztlán** | The real mythic ancestral homeland the Chicano movement invoked for itself | David Sánchez | **Cuauhtli** |
+| Watts | **Atunbi** | Yoruba for "reborn," a core Yoruba spiritual concept | Ted Watkins | **Oluwole** |
+| Compton | **Ijoko** | Yoruba for "seat/throne," root of "ijoba" (government) | Doris Davis | **Adwoa** |
+| Leimert Park | **Orin** | Yoruba for "song" | Horace Tapscott | **Onilu** |
+
+### Baálé (leads Sankofa)
+
+- **Name etymology:** a real Yoruba title for a local community head/neighborhood chief -- a
+  direct translation of the real Bunchy Carter's own nickname, "Mayor of the Ghetto."
+- **Real-world research anchor:** Alprentice "Bunchy" Carter -- leader of the Slauson Renegades
+  street gang, radicalized in prison (first toward Malcolm X/the Nation of Islam, then toward
+  Eldridge Cleaver's Black Panther politics), founder of the Southern California Black Panther
+  chapter. Assassinated January 17, 1969, at UCLA alongside **John Huggins** (kept as a named
+  companion, not renamed) during a Panther/US-Organization conflict a real, documented FBI
+  COINTELPRO campaign deliberately inflamed with forged letters and cartoons designed to look
+  authentic enough to provoke violence.
+- **Rewritten history:** commands total loyalty from men who used to answer to no one -- not
+  through force, but because everyone who's ever raised a hand against him ends up serving him
+  afterward. His real gift, the one that turned a street gang into an army overnight, is turning
+  enemies into followers face to face. Dies not in open combat but in a room, ambushed by a
+  conflict manufactured by people who never once confronted him directly.
+- **Signature ability -- "The Turn":** anyone who attacks Baálé directly, if they survive the
+  exchange, becomes bound to serve him from that point on -- not mind control, charisma at an
+  almost physical intensity. The cost: it only works in person, one at a time, face to face. It
+  cannot reach across distance, through intermediaries, or through a conspiracy that never shows
+  its face -- exactly the kind of threat that killed the real man.
+
+### Cuauhtli (leads Aztlán)
+
+- **Name etymology:** Nahuatl for "eagle," evoking the Aztec eagle-warrior caste -- fitting a
+  founder who built an explicitly paramilitary, uniformed organization and took the self-styled
+  title "Prime Minister."
+- **Real-world research anchor:** David Sánchez, founder of the Brown Berets, central organizer
+  of the 1968 East LA school walkouts (alongside teacher **Sal Castro**) and the 1970 Chicano
+  Moratorium, where journalist **Rubén Salazar** was killed by a Sheriff's tear-gas projectile
+  (both kept as named context figures). His real downfall came from within: **Gloria Arellanes**,
+  the Brown Berets' first woman minister, led every woman in the organization out in 1970 over
+  unaddressed sexism -- a schism that outlasted the group's external enemies.
+- **Rewritten history:** builds the first real paramilitary structure his community has ever had,
+  wins two of the era's defining victories through sheer organized discipline -- then loses the
+  whole thing from the inside, because he never listened to the people who built it beside him.
+- **Signature ability -- "The Formation":** when Cuauhtli stands at the center of a group he's
+  personally organized and drilled, that group fights, moves, and endures as a single,
+  dramatically amplified force. The cost: the moment real, ignored grievance inside his own ranks
+  reaches its breaking point, the formation doesn't just fail -- it fractures explosively, leaving
+  everyone in it, himself included, worse off than if they'd never organized at all.
+
+### Oluwole (leads Atunbi)
+
+- **Name etymology:** a real Yoruba name meaning roughly "the Lord builds the house" -- a literal
+  fit for a man whose answer to a riot was planting gardens in the rubble.
+- **Real-world research anchor:** Ted Watkins -- fled a lynching threat in Mississippi as a
+  teenager, became a UAW organizer, founded the Watts Labor Community Action Committee in the
+  direct aftermath of the August 1965 Watts uprising, built job programs, housing, and a hospital
+  under the real motto "Don't Move... Improve."
+- **Rewritten history:** answers a burned neighborhood not with anger but with his hands --
+  clearing vacant lots himself, turning rubble into gardens, then hospitals, then jobs, refusing
+  every offer of charity that doesn't come with ownership attached.
+- **Signature ability -- "Don't Move, Improve":** wherever Oluwole stays rooted for a sustained
+  stretch, the ground itself becomes more resilient and livable, a slow reclamation nothing can
+  permanently undo -- destroy what he built and he simply starts again, faster the second time.
+  The cost: it's glacially slow and requires him to stay in place, useless against anything fast
+  enough to strike and leave before it takes hold.
+
+### Adwoa (leads Ijoko)
+
+- **Name etymology:** an Akan name for a girl born on Monday, traditionally linked to a calm,
+  composed temperament -- fitting a leader famous for meeting condescension with humor and never
+  losing the room.
+- **Real-world research anchor:** Doris Davis -- Compton's first female City Clerk, elected mayor
+  in 1973, among the first Black women to govern a U.S. city of real size, governing through
+  white flight and a hollowing tax base with sharp wit rather than confrontation. Research
+  explicitly confirmed no real throughline connects her era to Compton's later gangsta-rap-era
+  reputation (NWA emerged roughly a decade later, under different city leadership) -- that stays
+  a separate, later chapter of Compton's real history, not conflated here.
+- **Rewritten history:** takes the chair everyone told her a woman shouldn't sit in, runs the
+  room with an iron hand under a warm laugh, and spends her whole term holding the line against a
+  decline no amount of composure alone can actually reverse.
+- **Signature ability -- "The Iron Hand in the Velvet Glove":** no insult, mockery, or attempt to
+  destabilize her through disrespect can rattle her -- every jab thrown at her makes her grip on
+  the room visibly steadier, not shakier. The cost: this composure only defends against social and
+  political attacks. It does nothing against the real, impersonal economic forces working against
+  her -- no amount of personal steadiness can out-will capital leaving a city, and that's the one
+  fight her power can only manage, never win outright.
+
+### Onilu (leads Orin)
+
+- **Name etymology:** Yoruba for "drummer" -- someone whose entire life is an instrument for
+  other people, not himself.
+- **Real-world research anchor:** Horace Tapscott -- walked away from a touring jazz career with
+  Lionel Hampton to found the Underground Musicians Association / Pan Afrikan Peoples Arkestra, a
+  real "cultural safe house for the music" that played parks, churches, and prisons instead of
+  chasing commercial success, central to the real "Watts Renaissance" cultural movement.
+- **Rewritten history:** quits the road at the height of a real career because none of it was
+  going home with him, and spends the rest of his life building something that can't be bought,
+  only shared.
+- **Signature ability -- "The Ark":** everyone who genuinely hears Onilu play, together, in the
+  same room, carries a real and lasting bond to everyone else who heard it with them, whether they
+  ever meet again or not. The cost: the instant anyone tries to sell, commercialize, or perform it
+  for fame, the binding vanishes completely for that performance, permanently -- the one thing his
+  gift cannot survive is being turned into product.
+
+### LA's five signature-ability axes, distinct from all five NYC axes
+
+Conversion-through-presence, vulnerable to indirect conspiracy (Baálé); collective amplification,
+vulnerable to internal neglect (Cuauhtli); slow permanent rebuilding, vulnerable to speed
+(Oluwole); composure-immunity to social attack, vulnerable to structural/economic forces (Adwoa);
+music-based lasting community bonds, vulnerable to commercialization (Onilu). None repeat
+Xaragua/Areíto/Yara/Guanín/Borikén's axes (control-immunity, doubt-immunity, "stop/comply/
+disappear"-immunity in the light only, banked-retribution discipline, distributed presence).
+
 ## Open threads
 
 - ~~Toussaint Louverture rename (mainline Cian, not Phase 2)~~ **done, Batch 58, 2026-09-05
@@ -350,5 +481,10 @@ the other four; that tension is the balance Abad asked for, not a flaw in it.
   the Mirabal Sisters expanded into Patria/Minerva/María Teresa/Dedé individually) built out and
   locked above, grouped into six clusters, with two (Mino, Ngo) folded directly into Ogoun
   Xarey's own profile as his combat mentor and an officer under his command.
-- **LA** -- Abad's original Phase 2 vision named both "80s/90s NYC and LA" as the twin poles of
-  the subculture homage. NYC's boroughs/Borikén are in progress; LA hasn't been started.
+- ~~LA~~ **done, 2026-09-05.** All five territories and leaders built and locked above (Sankofa/
+  Baálé, Aztlán/Cuauhtli, Atunbi/Oluwole, Ijoko/Adwoa, Orin/Onilu). Both cities in Abad's original
+  "80s/90s NYC and LA" vision are now fully built at the territory-and-leader level. Not yet
+  built out for LA: an equivalent supporting-cast pool (Sal Castro, Rubén Salazar, Gloria
+  Arellanes, and John Huggins are named/kept in the leader entries above but not given their own
+  full dossiers the way Xaragua's 21-figure pool was) and any LA-side twist character. Both
+  remain open if Abad wants them.
