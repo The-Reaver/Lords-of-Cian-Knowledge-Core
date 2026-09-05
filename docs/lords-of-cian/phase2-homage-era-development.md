@@ -41,8 +41,8 @@ exists so that pass survives past any one session instead of living only in chat
   real Haitian Revolution, and Haitian folklore holds Ogou rode the real Dessalines into
   battle. "Xarey" is a shortened echo of Xaragua, tying him to the land he leads.
 - **Rewritten history:** rose under a mentor who believed the old empire could be reasoned
-  with (a Toussaint-Louverture-shaped figure, referenced in his backstory prose only, not as a
-  new locked/named character -- see Open Threads on the real Toussaint Louverture collision).
+  with (a figure shaped by the real Toussaint Louverture, referenced in his backstory prose only,
+  not as a new locked/named character).
   That mentor was taken by a lie dressed as a peace conference and died in a foreign cell.
   Ogoun Xarey's response defines him: there is no partial freedom, no negotiating with the hand
   that held the chain. He tore the negotiated middle out of the old banner himself. Revered as
@@ -111,14 +111,18 @@ a flaw in it.
 
 ## Open threads
 
-- **Toussaint Louverture rename (mainline Cian, not Phase 2).** Real Toussaint Louverture
-  surfaced in the Haiti research Abad pasted, and collides with an already-locked mainline Cian
-  character: the Event Horizon / Master Void-Cusp, the Singularity's Champion, true name
-  "Toussaint Louverture" (`MCD-095`, `MCD-098`, `MCD-220`, `MCD-221`, `CC-128`). Abad wants this
-  "cleaned up" per the new naming convention above -- this needs the full grep-draft-approve-
-  amend workflow since it touches five already-locked rules, not a conversational rename. Three
-  name options were proposed (Dorian Vashe / Corvane Dusai / Kaelis Vondrel) but none chosen
-  yet; still open.
+- ~~Toussaint Louverture rename (mainline Cian, not Phase 2)~~ **done, Batch 58, 2026-09-05
+  (`CC-129`, plus `MCD-095`/`098`/`142`/`220`/`221` and `CC-128` amended in place).** The
+  already-locked mainline character (the Event Horizon / Master Void-Cusp, the Singularity's
+  Champion) is now named **Legbara Kalunga** -- "Legbara" from Elegbara/Legba, the Vodou/Yoruba
+  crossroads orisha/lwa who governs the threshold between the living and spirit worlds;
+  "Kalunga," the Kikongo term for the sacred boundary between the living and the dead, root of
+  the historical term for the Middle Passage crossing point. Two earlier option sets (Dorian
+  Vashe/Corvane Dusai/Kaelis Vondrel, then a first Taíno/diasporic pass) were superseded before
+  landing here. Epithets, role, age (3,181 years), and density (14,000x) are unchanged -- only
+  the true name changed. `MCD-142`, which references his Death-Impression Reading ability, was
+  also amended -- a genuine hit missed in the earlier grep pass and caught during Batch 58's
+  drafting.
 - **Queens** -- not yet started. Next territory in the "five boroughs equivalent" sequence.
 - **Supporting cast pool** -- the Dominican, Cuban, and Haitian revolutionaries Abad pasted
   (Mirabal Sisters, Gregorio Urbano Gilbert, Francisco Caamaño, Sebastián Lemba, Juan Pablo

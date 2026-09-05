@@ -1,7 +1,7 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "6.0",
-  "last_updated": "2026-09-04",
+  "ledger_version": "6.1",
+  "last_updated": "2026-09-05",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
     "Voice Bible governs tone/language only, not facts.",
@@ -538,6 +538,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad approved the full draft as pasted in-conversation: \"lock it\""
+    },
+    {
+      "batch": 58,
+      "source_doc": "Original invention -- renamed the mainline character 'Toussaint Louverture' (the Event Horizon / Master Void-Cusp) to 'Legbara Kalunga' to resolve a naming collision with real-world Haitian Revolution research pasted for Phase 2 homage-era work, aligning him with the stricter Phase 2 naming convention. Amended MCD-095, MCD-098, MCD-142, MCD-220, MCD-221, and CC-128 in place; added CC-129 documenting the rename and its etymology.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad approved the name in-conversation: \"approved\""
     }
   ],
   "rules": [
@@ -799,7 +808,7 @@
     {
       "id": "MCD-095",
       "category": "session-lock-2026-03-25",
-      "statement": "Archipelago characters: Soledad Keme is the true name of the Singularity (First Seat). Toussaint Louverture is the true name of the Event Horizon / Master Void-Cusp, the Singularity's Champion.",
+      "statement": "Archipelago characters: Soledad Keme is the true name of the Singularity (First Seat). Legbara Kalunga is the true name of the Event Horizon / Master Void-Cusp, the Singularity's Champion.",
       "status": "LOCKED",
       "locked_date": "2026-03-25"
     },
@@ -820,7 +829,7 @@
     {
       "id": "MCD-098",
       "category": "book5-gate-battle",
-      "statement": "Book 5 Gate Battle: Orlok holds the Broken Meridian entrance. Gate team: Orlok, Anansi, Ezio, Fermand, Toussaint Louverture. Ezio's cover dies at the gate; the gate lives.",
+      "statement": "Book 5 Gate Battle: Orlok holds the Broken Meridian entrance. Gate team: Orlok, Anansi, Ezio, Fermand, Legbara Kalunga. Ezio's cover dies at the gate; the gate lives.",
       "status": "LOCKED",
       "locked_date": "2026-03-25"
     },
@@ -4373,7 +4382,7 @@
     {
       "id": "MCD-142",
       "category": "World Mechanics",
-      "statement": "The Talisman of Mao has operated the Grounded Bastion stage (MCD-060) fully autonomously for three hundred years, without Kanja's knowledge or authorization -- he believes it is merely a synchronization server with a density suppressor. Its mission is preventing his Aethelgard Kinetic Radiance from detonating outward and killing him; planetary structural repair is a means to that end, since a planet that fractures under the combat he's destined for is a planet on which he can't survive. Mechanically: the Talisman broadcasts a tuning pulse that aligns dormant Living Drakma ore veins running through the crust beneath three of the four continents (Living Drakma being a self-repairing, resonance-responsive crystalline organism, sourced from the Mao Volcano). Foundry Anvil channels compensatory tuning pulses into the crust within roughly 2,000 km of any high-density combat event, distributing impact load through the mineral grain; Heavy Hand extends micro-reinforcement to surfaces and structures in direct contact with the Avatars; Architectural Reinforcement gradually converts existing constructed structures (bridges, harbor walls, defensive walls) toward Living Drakma resonance over time, extending MCD-061's Gravity-Fetter/overflow mechanic to a planetary scale. None of this is detectable to the unaided eye; it registers to the Blueprint Eye as amber resonance signatures, to Orlok's Density Sight as anomalous mass distribution, and to Toussaint's Death-Impression Reading as a forensic absence of damage that should have occurred.",
+      "statement": "The Talisman of Mao has operated the Grounded Bastion stage (MCD-060) fully autonomously for three hundred years, without Kanja's knowledge or authorization -- he believes it is merely a synchronization server with a density suppressor. Its mission is preventing his Aethelgard Kinetic Radiance from detonating outward and killing him; planetary structural repair is a means to that end, since a planet that fractures under the combat he's destined for is a planet on which he can't survive. Mechanically: the Talisman broadcasts a tuning pulse that aligns dormant Living Drakma ore veins running through the crust beneath three of the four continents (Living Drakma being a self-repairing, resonance-responsive crystalline organism, sourced from the Mao Volcano). Foundry Anvil channels compensatory tuning pulses into the crust within roughly 2,000 km of any high-density combat event, distributing impact load through the mineral grain; Heavy Hand extends micro-reinforcement to surfaces and structures in direct contact with the Avatars; Architectural Reinforcement gradually converts existing constructed structures (bridges, harbor walls, defensive walls) toward Living Drakma resonance over time, extending MCD-061's Gravity-Fetter/overflow mechanic to a planetary scale. None of this is detectable to the unaided eye; it registers to the Blueprint Eye as amber resonance signatures, to Orlok's Density Sight as anomalous mass distribution, and to Legbara's Death-Impression Reading as a forensic absence of damage that should have occurred.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section I ('The Mechanism -- How the World Hardens') and Section II ('The Timeline -- Five Books of Hardening')."
     },
@@ -4919,14 +4928,14 @@
     {
       "id": "MCD-220",
       "category": "World Mechanics",
-      "statement": "The Anansi/Valeria sibling-bond reveal occurs on-page during the Book 5 Gate Battle (already locked at MCD-098). Toussaint Louverture arrives at the battle's crossroads moment and delivers the line 'The weight is equal'; Soledad Keme moves immediately in response, and the Archipelago nation answers -- committing its support at that moment.",
+      "statement": "The Anansi/Valeria sibling-bond reveal occurs on-page during the Book 5 Gate Battle (already locked at MCD-098). Legbara Kalunga arrives at the battle's crossroads moment and delivers the line 'The weight is equal'; Soledad Keme moves immediately in response, and the Archipelago nation answers -- committing its support at that moment.",
       "status": "locked",
       "source": "'Tier_4_Preparation_Checklist.docx' (Google Drive fileId 1M9AgpCP8Q_E7a2y6-N3kbQRYlP5abxaS, two byte-identical copies also exist: 1xHYC2Q4YEm8CFSCHK5GCZKpnCn73OAJL). A QA checklist for auditing three structural-outline documents (Book1/Book2/Books 3-5) against a 'Session Lock April 11, 2026' authority document, itself not found in Drive (like the earlier OPEN-005 'Session Lock 2', it likely never existed as a standalone file distinct from the session-lock-2026-03-25 material already in this ledger). Most of the checklist's content -- the Ronin reckonings, the Beloved, Shattered Kingdoms geography, the Archipelago names, Orlok's stats, the Gate Battle roster, 'T.D.K. contained not killed,' and the hard style constraints (no antithesis, Mythic Realism, no borrowed terminology) -- is already locked under MCD-090 through MCD-100 and the Voice Bible rules. This batch locks only the checklist's genuinely new numeric/narrative specifics not previously in the ledger. The 'verify the structural outlines comply' instruction itself is a book-editing task outside the ledger's scope and is not acted on here."
     },
     {
       "id": "MCD-221",
       "category": "World Mechanics",
-      "statement": "Book 5's three fronts (already locked in general at MCD-097) break down as: Engine front -- Kanja, Ozmund, Pyro. Gate front -- Orlok, Anansi, Ezio, Fermand, Toussaint (matching the already-locked Gate team of MCD-098). Line front -- commanded independently by Red Beard (not literally alone), comprising Anirak, Ironbane's fleet, Aethel-Gard heavy infantry, Celestial Zenith warriors under Loyalty-Quasar, and the Astral Archipelago fleet.",
+      "statement": "Book 5's three fronts (already locked in general at MCD-097) break down as: Engine front -- Kanja, Ozmund, Pyro. Gate front -- Orlok, Anansi, Ezio, Fermand, Legbara (matching the already-locked Gate team of MCD-098). Line front -- commanded independently by Red Beard (not literally alone), comprising Anirak, Ironbane's fleet, Aethel-Gard heavy infantry, Celestial Zenith warriors under Loyalty-Quasar, and the Astral Archipelago fleet.",
       "status": "locked",
       "source": "'Tier_4_Preparation_Checklist.docx' (Google Drive fileId 1M9AgpCP8Q_E7a2y6-N3kbQRYlP5abxaS, two byte-identical copies also exist: 1xHYC2Q4YEm8CFSCHK5GCZKpnCn73OAJL). A QA checklist for auditing three structural-outline documents (Book1/Book2/Books 3-5) against a 'Session Lock April 11, 2026' authority document, itself not found in Drive (like the earlier OPEN-005 'Session Lock 2', it likely never existed as a standalone file distinct from the session-lock-2026-03-25 material already in this ledger). Most of the checklist's content -- the Ronin reckonings, the Beloved, Shattered Kingdoms geography, the Archipelago names, Orlok's stats, the Gate Battle roster, 'T.D.K. contained not killed,' and the hard style constraints (no antithesis, Mythic Realism, no borrowed terminology) -- is already locked under MCD-090 through MCD-100 and the Voice Bible rules. This batch locks only the checklist's genuinely new numeric/narrative specifics not previously in the ledger. The 'verify the structural outlines comply' instruction itself is a book-editing task outside the ledger's scope and is not acted on here.",
       "note": "Amended in Batch 49: the Lauris_Anirak_Threat_Blueprint and the Complete Structural Outline documents both independently describe a fuller Line front roster, contradicting this rule's original 'Red Beard, operating alone.' Reframed as Red Beard commanding the front independently of the other two fronts' oversight, not literally solo."
@@ -6299,7 +6308,7 @@
     {
       "id": "CC-128",
       "category": "character-crew",
-      "statement": "Extends MCD-095/098/220: Toussaint Louverture is 3,181 years old with a resting density of 14,000x.",
+      "statement": "Extends MCD-095/098/220: Legbara Kalunga is 3,181 years old with a resting density of 14,000x.",
       "status": "locked",
       "source": "My_Rivals_Distance_Complete_Structural_Outline_Definitive (Google Drive fileId 1T-q9EfqxHVIyN9p8CZg8nqdA7FrTqx63d_9JcCC1gzg, the Lore Vault copy). Sixth document drafted under Phase 1b of the pre-Book-1-era roadmap. A background triage pass found this document to be a near-duplicate planning draft of MRD Five Book Arcs (Batch 55) -- nearly every load-bearing plot beat, named villain, and major mechanic is already locked, largely from the same underlying source material. Two real conflicts were found and resolved before drafting: the document's claim that the Sovereign Pier Accords were negotiated ~284 years before the Fulfillment Ceremony contradicts the already-locked MCD-091 (~296 years), likely a conflation with Kanja's unrelated 284-year Long Mask duration -- MCD-091 controls per Abad's ruling, and this document's figure is not drafted. The document names Red Beard's reckoning technique against the Silence 'the Manumission,' which collides with the already-locked ARS-140 (Azar Dreadlord's kit) -- renamed 'the Unchaining' per Abad's ruling, tying it to the already-established Unchained Legion/Unchained Kingdom terminology."
     },
@@ -6386,6 +6395,13 @@
       "statement": "Extends HLD-001: Dead Drakma composite is banded into a great seat's wall core for battering resistance beyond bare masonry; Living Drakma is never spent on walls under any circumstance -- no fortification is considered worth what a single Living-Drakma blade is worth. Every named hold, tower, and line is catalogued on the Continental Atlas (by region, class, tier, and grid cell), with this Codex serving as the Atlas's structural-terminology key.",
       "status": "locked",
       "source": "Codex_of_Holdfasts.docx (Google Drive fileId 1kPNoq3QbQio_ORshHGkSyn6i25Fwbn7Y, the Lore Vault copy -- several byte-identical non-Lore-Vault copies also exist). Seventh and final document drafted under Phase 1b of the pre-Book-1-era roadmap. The fortification-typology naming taxonomy in this document was already locked (HLD-001, HLD-010 through HLD-014, confirmed clean with zero overlap at lock time); this batch adds the mechanical detail -- garrison sizes, structural functions, and full siege-doctrine sequences -- that those name-only rules did not yet carry. Purely self-contained reference material: no named characters, no plot content, no contradictions found."
+    },
+    {
+      "id": "CC-129",
+      "category": "character-crew",
+      "statement": "The Event Horizon / Master Void-Cusp's true name was renamed from 'Toussaint Louverture' to 'Legbara Kalunga' to align with the Phase 2 homage-era naming convention (locked 2026-09-05) that real-world historical figures' names are never used directly in-world. 'Legbara' derives from Elegbara/Legba, the Vodou and Yoruba orisha/lwa of the crossroads who governs the threshold between the living and spirit worlds; 'Kalunga' is the Kikongo term for the sacred boundary between the world of the living and the dead, historically the root of the term for the Middle Passage crossing point. His epithets (the Event Horizon, Master Void-Cusp), role as the Singularity's Champion, age (3,181 years), and resting density (14,000x) are all unchanged -- only the true name changes.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-05, no source document"
     }
   ],
   "open_decisions": [
