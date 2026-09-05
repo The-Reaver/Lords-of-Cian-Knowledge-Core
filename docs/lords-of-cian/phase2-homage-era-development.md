@@ -511,6 +511,58 @@ it's now **East Gate High**, wholly invented.
   different chapter entirely, a continuation Sankofa's story treats as a real, ongoing legacy
   rather than a closed wound.
 
+## Underworld-era characters: Sankofa's crack-era saga (locked 2026-09-05)
+
+LA's twist-character trio, set as a direct generational sequel to Baálé's own story: after
+COINTELPRO crushes Sankofa's political movement, the next generation's only remaining path to
+real power runs through the underground economy instead -- and that economy turns out to be
+secretly weaponized by the same kind of institutional forces that killed Baálé. Real historical
+anchor: "Freeway" Rick Ross, who grew up in South Central LA, built one of the most extensive
+crack-cocaine distribution networks in the country in the 1980s, and was later implicated in
+journalist Gary Webb's real, still-disputed "Dark Alliance" reporting alleging his supply chain
+had ties to CIA-linked Nicaraguan Contra fundraising.
+
+### Kasi (the lead)
+
+- **Name etymology:** Swahili for "speed" -- short, easy, and a direct echo of the real
+  "Freeway" nickname (the Harbor Freeway ran through the real operation).
+- **Composite skeleton:** Vito Corleone's rise-from-nothing-to-empire arc, minus inherited power.
+  Thomas Shelby's haunted, always-three-moves-ahead paranoia about betrayal from bigger forces.
+  Tommy Angelo/Vito Scaletta's surprising personal restraint -- business-focused, almost naive
+  about the darker mechanics of his own trade, letting others carry the violence he'd rather not
+  touch. A partial Nikolai Luzhin thread: his own network was never fully his -- someone above
+  him was always using it for a purpose he didn't understand until far too late. Michael
+  Corleone's real cost: the empire he builds hollows out the very Sankofa community that raised
+  him, and he doesn't reckon with it until the truth breaks him open. A late-arc Lincoln Clay
+  payoff: once he learns his rise was fueled and protected by a hidden operation funding a war on
+  the other side of the world, he turns -- methodically dismantling the apparatus that built him.
+- **Rewritten history:** comes up in a Sankofa still grieving Baálé, a generation where the
+  political door got shot closed, so the only remaining path to real power runs through the
+  street instead. Builds fast, builds huge, tells himself it's business, not war -- until the day
+  he finds out someone was always three steps above him, running his whole empire as a funding
+  line for something that has nothing to do with him or his home.
+
+### Doyle (the handler) -- built from Nikolai Luzhin
+
+- **Name etymology:** a plain, deliberately ordinary name -- the point is that he doesn't sound
+  like he belongs to any of this world's vivid diasporic naming; he's the cold, bureaucratic,
+  institutional hand in the room, and he's supposed to be forgettable.
+- **Skeleton:** Nikolai Luzhin's full deep-cover patience -- presents as a reliable, unremarkable
+  supplier, plays a much longer game than anyone around him grasps. His loyalty was never to
+  Kasi or to Sankofa, only to the operation above him.
+- **Real-world echo:** built from the real, still-disputed allegation at the center of Gary
+  Webb's reporting -- that parts of the supply chain feeding the 1980s crack epidemic in South
+  Central had ties to a Contra-fundraising operation. Doyle is the invented, fictionalized face
+  of that thread, not a real person under a different name.
+
+### Moto (the rival) -- built from Gyp Rosetti
+
+- **Name etymology:** a widespread Bantu word for "fire" -- short, immediate, easy to say.
+- **Skeleton:** Gyp Rosetti's exact psychology -- a fragile ego that reads a neutral slight as a
+  mortal insult and answers with wildly disproportionate violence. He's the chaos Kasi's own
+  restraint stands against, and part of what eventually makes Kasi vulnerable: Kasi won't fight
+  Moto's way, and that refusal has a cost.
+
 ## Open threads
 
 - ~~Toussaint Louverture rename (mainline Cian, not Phase 2)~~ **done, Batch 58, 2026-09-05
@@ -540,8 +592,11 @@ it's now **East Gate High**, wholly invented.
   Baálé, Aztlán/Ollin, Atunbi/Oluwole, Ijoko/Adwoa, Orin/Onilu). Both cities in Abad's original
   "80s/90s NYC and LA" vision are now fully built at the territory-and-leader level.
   ~~LA supporting-cast pool~~ **done, 2026-09-05** -- Mati, Ohun, Iya, and Kra built out above.
-  Not yet built: an LA-side twist character (crime-fiction-skeleton original, mirroring Kwasi
-  Owolabi's trio). Still open if Abad wants it.
+  ~~LA-side twist character~~ **done, 2026-09-05** -- Kasi, Doyle, and Moto built out above
+  (Sankofa's crack-era saga, homaging "Freeway" Rick Ross, set as a direct generational sequel to
+  Baálé's own story). This closes out every open Phase 2 thread tracked in this document as of
+  2026-09-05 -- both NYC and LA are fully built at the territory/leader/supporting-cast/twist-
+  character level, per Abad's original "80s/90s NYC and LA" vision.
 - **Naming cleanup pass, 2026-09-05.** Per Abad's explicit direction, nine earlier names were
   swapped for short, simple, easy-to-pronounce replacements, and one real-world institution name
   (a real high school, referenced in Mati's backstory) was caught and replaced with the invented
