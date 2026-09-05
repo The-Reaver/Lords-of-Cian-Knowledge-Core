@@ -897,7 +897,22 @@ translated into what this world actually has.
   unresolved hook for a future Chronicle once more homage-era comrades accumulate. He is never
   named on-page, matching the Toussaint Louverture/Legbara Kalunga backstory-only precedent.
   Narrated by Onyx of Oblivion per `VB-020`/`VB-021`. Abad approved the full drafted text as sent,
-  then said "lock it." Ledger now at version 6.4, 898 rules, 61 batches. No open Phase 2 threads
-  remain. Next step, whenever Abad wants it: more Kanja Chronicles, spanning his Rebellion and
-  post-Rebellion/Long Mask eras, with further homage-era comrades guest-appearing as their numbers
-  accumulate -- no specific next one queued yet.
+  then said "lock it." Ledger now at version 6.4, 898 rules, 61 batches.
+- ~~Second Kanja Chronicle with a homage-era comrade guest appearance~~ **done, Batch 62,
+  2026-09-05 (`MCD-332`).** Chronicle X ("What the Ledger Owes," full text at
+  `docs/lords-of-cian/chronicles/chronicle-x-what-the-ledger-owes.md`) shifts to the Rebellion era
+  (age 21, vs. Chronicle IX's Long Mask age 165), slotted into the already-locked Furnace District
+  Strike (`MCD-244`): during the four days Kanja spends asking 4,000 smelting-district workers how
+  much they're owed, Kofi (Umoja) -- present among the hauler-line workers -- welds the district's
+  two mutually distrustful factions (tenders and haulers) into one unified strike front, his
+  canonical One Fire ability (`PH2-040`) shown in effect but never named on the page. The strike
+  resolves exactly as `MCD-244` already records (4,000 workers, Ezio's 340%-average debt ledger,
+  eleven days at the gate, the twenty-first victory). Kofi's stated age (21) deliberately mirrors
+  Kanja's own age at this battle, left as unremarked subtext. He is never named on-page, matching
+  the Chronicle IX/Ogoun Xarey precedent, and leaves his own hook behind (a folk phrase, "same
+  fire, different hands") alongside Chronicle IX's carved word -- both waiting for a future
+  Chronicle to draw together once more homage-era comrades accumulate. Abad approved the drafted
+  text, then said "approved." Ledger now at version 6.5, 899 rules, 62 batches. No open Phase 2
+  threads remain. Next step, whenever Abad wants it: more Kanja Chronicles, spanning his Rebellion
+  and post-Rebellion/Long Mask eras, with further homage-era comrades guest-appearing as their
+  numbers accumulate -- no specific next one queued yet.

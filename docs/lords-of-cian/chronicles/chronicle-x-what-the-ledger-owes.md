@@ -1,6 +1,6 @@
 # Chronicle X: What the Ledger Owes
 
-*Draft, 2026-09-05, pending Abad's review before any lock. Narrator: Onyx of Oblivion, per `VB-020`/`VB-021`.
+*Locked canon, Batch 62, 2026-09-05 (`MCD-332`). Narrator: Onyx of Oblivion, per `VB-020`/`VB-021`.
 Slots into the already-locked Furnace District Strike (`MCD-244`), Kanja's twenty-first victory, age 21 --
 four days asking 4,000 smelting-district workers a single question, Ezio's documented 340%-average debt
 structure, eleven days at the gate without a blow struck. Second guest appearance of a Phase 2 homage-era

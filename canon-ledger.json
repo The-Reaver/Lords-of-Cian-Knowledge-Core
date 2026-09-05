@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "6.4",
+  "ledger_version": "6.5",
   "last_updated": "2026-09-05",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -574,6 +574,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad approved the full drafted Chronicle text as sent (a shared file) and then said: \"lock it\""
+    },
+    {
+      "batch": 62,
+      "source_doc": "Chronicle X ('What the Ledger Owes') -- the second Kanja Chronicle written under the survival/mainline-integration standing decision (PH2-048), depicting Kofi's first guest appearance, slotted into the already-locked Furnace District Strike (MCD-244, age 21).",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad approved the full drafted Chronicle text as sent (a shared file) and then said: \"approved\""
     }
   ],
   "rules": [
@@ -6779,6 +6788,13 @@
       "statement": "Chronicle IX ('The Ledger and the Chain') is the first Kanja Chronicle depicting a Phase 2 homage-era comrade's guest appearance, per the survival/mainline-integration standing decision (PH2-048). Slots into the already-locked Maw-15 operation (MCD-264, age 165): seven days before Kanja's public-pressure liberation of Maw-15 goes public, Ogoun Xarey (Xaragua) arrives independently, intending to burn the facility down immediately. Kanja persuades him to wait the seven days instead; the liberation succeeds without violence, 5,100 freed, matching MCD-264's locked numbers exactly. Ogoun Xarey is never named on-page (matching the Toussaint Louverture/Legbara Kalunga backstory-only precedent) -- he departs before the liberation completes, leaving an untranslated word cut into the seawall stone as a deliberate, unresolved hook for future Chronicles once more homage-era comrades accumulate. Narrated by Onyx of Oblivion per VB-020/021.",
       "status": "locked",
       "source": "Chronicle IX ('The Ledger and the Chain'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-ix-the-ledger-and-the-chain.md."
+    },
+    {
+      "id": "MCD-332",
+      "category": "World Mechanics",
+      "statement": "Chronicle X ('What the Ledger Owes') is the second Kanja Chronicle depicting a Phase 2 homage-era comrade's guest appearance, per the survival/mainline-integration standing decision (PH2-048). Slots into the already-locked Furnace District Strike (MCD-244, age 21, Rebellion era): during the four days Kanja spends asking 4,000 smelting-district workers how much they are owed, Kofi (Umoja) is present among the hauler-line workers and welds the district's two mutually distrustful factions (tenders and haulers) into one unified strike front by standing at the seam between them and speaking -- his canonical One Fire ability (PH2-040), shown in effect but never named on the page. The strike proceeds and resolves exactly as MCD-244 already records (4,000 workers, Ezio's documented 340%-average debt structure, the workers striking on their own initiative, eleven days at the gate, the twenty-first victory without a blow struck). Kofi's stated age (21) matches Kanja's age at this battle exactly, a deliberate mirror left as subtext. He is never named on-page (matching the Chronicle IX/Ogoun Xarey precedent) -- he departs before the terms are signed, leaving behind a folk phrase ('same fire, different hands') that outlives the strike, a second unresolved hook alongside Chronicle IX's carved word for a future Chronicle to draw together once more homage-era comrades accumulate. Narrated by Onyx of Oblivion per VB-020/021.",
+      "status": "locked",
+      "source": "Chronicle X ('What the Ledger Owes'), chat-drafted 2026-09-05, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/chronicle-x-what-the-ledger-owes.md."
     }
   ],
   "open_decisions": [
