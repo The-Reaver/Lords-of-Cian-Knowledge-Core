@@ -11,6 +11,10 @@ the three original Chronicle IX/X/XI (`MCD-334`-`336`, superseding `MCD-331`-`33
 locked as the fourth Phase 2 homage-era city (`OPEN-011`) -- city choice only, territories/leaders
 not yet built.
 
+**Update, Batch 65:** Detroit's five territories and leaders are now built and locked (`PH2-050`
+through `PH2-059`), same depth as NYC/LA/Chicago -- Kazi/Irin, Taifa/Osei, Hekalu/Adom, Nyansa/Adisa,
+Kiti/Owusu. Ledger now at version 6.8, 913 rules, 65 batches.
+
 ---
 
 ## 1. Where things stand right now

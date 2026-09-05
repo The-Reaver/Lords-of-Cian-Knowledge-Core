@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "6.7",
+  "ledger_version": "6.8",
   "last_updated": "2026-09-05",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -601,6 +601,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"lock it. and lock Detroit.\""
+    },
+    {
+      "batch": 65,
+      "source_doc": "Detroit's five homage-era territories and leaders (the fourth Phase 2 city, per OPEN-011), drawing on the League of Revolutionary Black Workers, the Republic of New Afrika, the Shrine of the Black Madonna, James Boggs, and Coleman Young.",
+      "source_id": null,
+      "rule_count": 10,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it\""
     }
   ],
   "rules": [
@@ -6844,6 +6853,76 @@
       "statement": "Yara Chronicle I ('The Seat She Did Not Wait For') is the first entry in Yara's own Chronicle series, per the corrected structure above. Yalokona (Yara) is pressured by her own movement's leadership to defer her candidacy for a 'more electable' figure, per the already-locked detail at PH2-006; she refuses and announces publicly instead, in a roofless hall at midday, in front of a crowd. An unnamed stranger stands among the witnesses, present only as one more pair of eyes satisfying her own Unbought and Unbossed ability's witnessed/on-record condition (PH2-006) -- he offers no advice, no dialogue, and is never identified. She wins the seat that year on the strength of having refused to ask permission in public. Slots into no existing mainline battle -- original homage-era material set in Yara itself. Supersedes MCD-333 in full.",
       "status": "locked",
       "source": "Reworked homage-era territory Chronicles, chat-drafted 2026-09-05, original invention, no external source document. Full narrative text in docs/lords-of-cian/chronicles/."
+    },
+    {
+      "id": "PH2-050",
+      "category": "Phase 2 Homage Era",
+      "statement": "Kazi is the fourth homage-era city's (Detroit's) first territory, named for the Swahili word for 'work/labor,' matching the Swahili register already established in Chicago (Umoja, Uhuru). Homage to the League of Revolutionary Black Workers and its DRUM (Dodge Revolutionary Union Movement) wildcat-strike organizing, anchored on the auto-plant floor rather than any single building or neighborhood.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
+    },
+    {
+      "id": "PH2-051",
+      "category": "Phase 2 Homage Era",
+      "statement": "Irin leads Kazi, homage to General Baker, the League of Revolutionary Black Workers' central founding organizer. 'Irin' is Yoruba for 'iron.' An assembly-line worker who turns the plant floor itself into the site of struggle, refusing to let the line's own leverage go to waste. Two lieutenants drawn from the real DRUM/League leadership circle (homage to John Watson, Mike Hamlin, and Ken Cockrel Sr.) stand as his founding co-organizers, not yet individually named or detailed. Signature ability, 'The Line Stops': when Irin calls a halt, everyone bound into the same production chain feels it and understands why, instantly, without a word passed hand to hand. Cost: only works on people already structurally bound into the same chain of labor -- useless as leverage on anyone standing outside that relationship.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
+    },
+    {
+      "id": "PH2-052",
+      "category": "Phase 2 Homage Era",
+      "statement": "Taifa is Detroit's second territory, named for the Swahili word for 'nation.' Homage to the Republic of New Afrika (RNA/PGNA), the era's most literal land-sovereignty project -- a Black nationalist movement that drafted its own constitution and sought its own claimed territory.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
+    },
+    {
+      "id": "PH2-053",
+      "category": "Phase 2 Homage Era",
+      "statement": "Osei leads Taifa, homage to Richard Henry (Imari Obadele), who built and ran the Republic of New Afrika day to day for decades. 'Osei' is Akan for 'noble one.' His brother Yaw (Akan, a Thursday-born day-name, matching the already-established Akan day-name convention used for Kofi and Kwame Ade) stands beside him as co-founder, homage to Milton Henry (Gaidi Obadele). The RNA's real first (exiled, in-absentia) president stays backstory-only and unnamed on-page, matching the Toussaint Louverture/ Legbara Kalunga and Al Raby/MLK precedent for major real figures who don't need a separate locked card. Signature ability, 'Kin at a Distance': everyone who has sworn Osei's same oath acts in coordinated concert even scattered and out of contact, as if still standing in the same room. Cost: only binds those who already chose the cause themselves -- cannot compel anyone who hasn't sworn it.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
+    },
+    {
+      "id": "PH2-054",
+      "category": "Phase 2 Homage Era",
+      "statement": "Hekalu is Detroit's third territory, named for the Swahili word for 'temple/shrine.' Homage to the Shrine of the Black Madonna (Pan-African Orthodox Christian Church), which fused radical Black liberation theology with cooperative economic institution-building -- farms, a press, self-sustaining cultural complexes.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
+    },
+    {
+      "id": "PH2-055",
+      "category": "Phase 2 Homage Era",
+      "statement": "Adom leads Hekalu, homage to Rev. Albert Cleage Jr. 'Adom' is Akan for 'grace/mercy.' A pastor who breaks from his own church's cautious theology toward a liberationist reading of scripture, then builds it into lived cooperative economics rather than leaving it as a congregation's creed. Signature ability, 'The Common Table': anyone who breaks bread at his table is bound into a mutual-obligation network that quietly enforces itself, no oath required. Cost: only holds among people who chose to sit down together -- cannot be forced on the unwilling.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
+    },
+    {
+      "id": "PH2-056",
+      "category": "Phase 2 Homage Era",
+      "statement": "Nyansa is Detroit's fourth territory, named for the Akan word for 'wisdom.' Homage to James Boggs, the autoworker-turned-theorist whose writing constantly revised movement doctrine against lived reality rather than importing it wholesale from elsewhere.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
+    },
+    {
+      "id": "PH2-057",
+      "category": "Phase 2 Homage Era",
+      "statement": "Adisa leads Nyansa, homage to James Boggs. 'Adisa' is Yoruba for 'one who makes clear.' His real, deeply documented lifelong co-theorist and life partner (homage to Grace Lee Boggs) is referenced as present throughout his work but is deliberately left backstory-only, not a separate named or invented character -- the same technique already used for MLK and the Republic of New Afrika's exiled first president (PH2-053), applied here specifically because her real heritage falls outside this era's Black/brown-diasporic naming palette (PH2-034) and inventing a name for her would misrepresent rather than honor that partnership. Signature ability, 'The Long Correction': a contradiction in a movement's own logic, once Adisa says it aloud correctly, can't be quietly un-thought by that movement again. Cost: only surfaces truths already latent in the group -- can't implant a belief that isn't already half-formed there.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
+    },
+    {
+      "id": "PH2-058",
+      "category": "Phase 2 Homage Era",
+      "statement": "Kiti is Detroit's fifth and capstone territory, named for the Swahili word for 'seat' -- the seat of power, paralleling Chicago's Uhuru as an electoral/civic capstone without reusing its name. Homage to the office of Detroit's mayoralty as broken open by its first Black mayor.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
+    },
+    {
+      "id": "PH2-059",
+      "category": "Phase 2 Homage Era",
+      "statement": "Owusu leads Kiti, homage to Coleman Young, Detroit's first Black mayor. 'Owusu' is Akan for 'one who overcomes.' A labor-and-civil-rights organizer, blacklisted for it decades earlier, who breaks the political machine's hold on the city's highest office and holds it for a generation. Signature ability, 'The Long Tenure': while Owusu holds the seat, every attempt to wear him down through attrition instead strengthens his grip, because he has already outlasted worse. Cost: purely defensive and purely institutional -- does nothing to expand his reach beyond the seat itself, and lapses completely the moment he is out of office.",
+      "status": "locked",
+      "source": "Detroit homage-era territories, chat-drafted 2026-09-05, original invention drawing on real-world research at research/phase2-homage-source-material/fourth-city-candidates-research.md (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, James Boggs, Coleman Young). No fictional-name source document -- homage conversion only, per the Phase 2 naming convention (PH2-034)."
     }
   ],
   "open_decisions": [
@@ -6904,7 +6983,7 @@
       "id": "OPEN-011",
       "statement": "Which real-world U.S. city should be the fourth Phase 2 homage-era city, on the same weight class as NYC, LA, and Chicago?",
       "status": "resolved",
-      "resolution": "RESOLVED 2026-09-05: Detroit. Per background research at research/phase2-homage-source-material/fourth-city-candidates-research.md: Detroit is the only city independently corroborated three ways by the existing source directory (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, all Detroit-based, none overlapping NYC/LA/Chicago), with a throughline (industrial labor militancy fused with Black nationalism, plus the RNA's literal land-sovereignty project) distinct from the first three cities. Ruled by Abad: \"lock it. and lock Detroit.\" This resolves the CITY CHOICE only -- Detroit's five territories/leaders have not yet been built; that conversational world-building step (matching how NYC/LA/Chicago were built before their own PH2- lock) is the next concrete step whenever Abad wants it."
+      "resolution": "RESOLVED 2026-09-05: Detroit. Per background research at research/phase2-homage-source-material/fourth-city-candidates-research.md: Detroit is the only city independently corroborated three ways by the existing source directory (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, all Detroit-based, none overlapping NYC/LA/Chicago), with a throughline (industrial labor militancy fused with Black nationalism, plus the RNA's literal land-sovereignty project) distinct from the first three cities. Ruled by Abad: \"lock it. and lock Detroit.\" This resolves the CITY CHOICE only -- Detroit's five territories/leaders have not yet been built; that conversational world-building step (matching how NYC/LA/Chicago were built before their own PH2- lock) is the next concrete step whenever Abad wants it. Territories/leaders built and locked in Batch 65 (PH2-050 through PH2-059): Kazi/Irin, Taifa/Osei, Hekalu/Adom, Nyansa/Adisa, Kiti/Owusu."
     }
   ],
   "conflicts": [

@@ -950,3 +950,11 @@ translated into what this world actually has.
   its five territories/leaders are the next concrete step, whenever Abad wants it). See
   `research/phase2-homage-source-material/fourth-city-candidates-research.md` for the research
   behind the pick. Ledger now at version 6.7, 903 rules, 64 batches.
+- ~~Detroit's five territories/leaders~~ **done, Batch 65, 2026-09-05 (`PH2-050`-`059`).** Same
+  depth as NYC/LA/Chicago: Kazi/Irin (League of Revolutionary Black Workers/DRUM, "The Line
+  Stops"), Taifa/Osei+Yaw (Republic of New Afrika, "Kin at a Distance"), Hekalu/Adom (Shrine of the
+  Black Madonna, "The Common Table"), Nyansa/Adisa (James Boggs, "The Long Correction" -- Grace Lee
+  Boggs referenced as his real co-theorist/partner but left backstory-only, her heritage falling
+  outside this era's naming palette), Kiti/Owusu (Coleman Young, "The Long Tenure"). Detroit is now
+  built to full depth; supporting-cast detail (naming the League's other co-founders, etc.) remains
+  open for a future pass. Ledger now at version 6.8, 913 rules, 65 batches.
