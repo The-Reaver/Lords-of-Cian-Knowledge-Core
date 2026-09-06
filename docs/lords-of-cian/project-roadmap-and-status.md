@@ -1,7 +1,7 @@
 # Lords of Cian Canon Project — Path to Pre-Book-1 Foundation Complete
 
 *Refreshed 2026-09-06, at Abad's request for a roadmap to completion so canon work can hand off
-cleanly to the archive app. Reflects the ledger through Batch 73 (`ledger_version` 7.6, 928 rules).*
+cleanly to the archive app. Reflects the ledger through Batch 74 (`ledger_version` 7.7, 929 rules).*
 
 ## What "completion" means here
 
@@ -20,7 +20,7 @@ blocked on canon work to begin with.
 
 | | |
 |---|---|
-| **Canon ledger** | `canon-ledger.json` — 928 rules, 73 batches, 0 duplicate IDs, 0 rules stuck in draft |
+| **Canon ledger** | `canon-ledger.json` — 929 rules, 74 batches, 0 duplicate IDs, 0 rules stuck in draft |
 | **Foundational lore extraction** | Done (Batches 1–49) |
 | **Phase 1b (7 triaged Lore Vault documents)** | Done (Batches 50–57) |
 | **Phase 2 (homage era: NYC, LA, Chicago, Detroit)** | Done — 4 cities built (Batches 58–65); ongoing expansion (5th+ cities, more Chronicles) is open-ended by design, not part of this checklist |
@@ -29,8 +29,8 @@ blocked on canon work to begin with.
 | **Foundation item 1 — 3 genuinely-open decisions** | **Done (Batch 69)** |
 | **Foundation item 2 — World Atlas scope/redo** | **Done (Batch 68)** — `GEO-003`/`GEO-005` corrected against the live Atlas source |
 | **Foundation item 3 — Chronicles I–VIII rewrite** | **Done (Batch 71)** — all 8 chapters clean or corrected |
-| **Foundation item 4 — small backlog triage** | In progress (Batch 73) — Efa Gol/Pell Ostra done, Undertow done, 2 docs' confirm-redundant checks running |
-| **Foundation item 5 — formal Foundation-Complete declaration** | Blocked on item 4 only |
+| **Foundation item 4 — small backlog triage** | **Done (Batch 74)** |
+| **Foundation item 5 — formal Foundation-Complete declaration** | Unblocked — ready to declare |
 | **Interactive archive app** (separate repo) | Scaffolded, not blocked on canon work |
 | **Real Brain Trust review (SEO/GEO charter)** | Blocked — needs a device-bridge session (see §7) |
 
@@ -164,7 +164,7 @@ end at age 30), so no voice-structure changes were needed for Chronicle III and 
 VI–VIII either; `VB-026` is a calibration rule for future growth, not a retrofit these early chapters
 already satisfy.
 
-### Step 4: Quick triage of the remaining small backlog — in progress (Batch 72)
+### Step 4: Quick triage of the remaining small backlog — DONE (Batches 72–74)
 
 Not full drafts — a decide-or-defer pass, so nothing load-bearing gets missed before declaring the
 foundation done:
@@ -177,9 +177,19 @@ foundation done:
 - ~~`Undertow`, the last undetailed item of the Captain's Five treasures~~ **done, Batch 73,
   2026-09-06 (`ARS-388`).** Homage to Rán's net, the offensive/naval-denial counterpart to the
   Whalebone Tether's restraint function. Abad's approval: "confirmed."
-- `Five_Book_Construction.docx` and `04_Lauris_Psychological_Profile.docx` — confirm-redundant checks
-  running via background agents (full-text fetch + cross-check against the ledger, including the two
-  sibling five-book-outline documents already extracted in Batches 55-56).
+- ~~`Five_Book_Construction.docx` and `04_Lauris_Psychological_Profile.docx`~~ **done, Batch 74,
+  2026-09-06 (`CC-134`).** Confirm-redundant checks ran via background agents. `Five_Book_
+  Construction.docx` confirmed overwhelmingly redundant with the already-extracted MRD Five Book Arcs/
+  Complete Structural Outline (Batches 55-56) — no batch needed; two minor non-load-bearing craft
+  items (a "Line Held" three-deployment motif for Red Beard, the Zenith-Prime's catalyzing dialogue
+  for Orlok's Enlightenment) left open for an optional future light-touch Voice Bible pass, plus one
+  soft phrasing tension on Red Beard's Book 3 awakening line worth reconciling only if the exact
+  wording is ever needed. `04_Lauris_Psychological_Profile.docx` was NOT redundant — every other
+  major character has a locked epithet, Lauris didn't. `CC-134` locks "She Who is Crowned with Joy"/
+  "The Joyful Victor," her combat-joy defining trait, and the source's framing of her as the series'
+  emotional counterweight to the other leads' burdens. Abad's approval: "lock it."
+
+**Step 4 is now fully closed — all four backlog items done.**
 
 ### Step 5: Formally declare Pre-Book-1 Foundation Complete
 
@@ -272,8 +282,8 @@ Everything below is Abad's call — this is a suggested order, not a decision:
 2. ~~Step 2 (scope the Atlas)~~ **done, Batch 68.**
 3. ~~Step 3 (Chronicles I–VIII rewrite)~~ **done, Batches 70–71.** All 8 chapters confirmed clean or
    corrected.
-4. **Step 4** (backlog triage), now the only remaining item — genuinely optional, low-cost.
-5. **Step 5** (formal declaration) once Step 4 is done.
+4. ~~Step 4 (backlog triage)~~ **done, Batches 72–74.**
+5. **Step 5** (formal declaration) — the only remaining item, ready to run.
 6. **The archive-app device-bridge session** can happen any time, independent of the above — it just
    needs a Cowork/local session with the bridge live, which this session doesn't have.
 

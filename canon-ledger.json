@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "7.6",
+  "ledger_version": "7.7",
   "last_updated": "2026-09-06",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -682,6 +682,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"confirmed\""
+    },
+    {
+      "batch": 74,
+      "source_doc": "Roadmap Step 4 backlog triage, part 3/4 (closes the triage): Lauris Letitia's epithet/psychology (CC-134), sourced from 04_Lauris_Psychological_Profile.docx, confirmed not redundant. Five_Book_Construction.docx, checked in the same pass, confirmed fully redundant with MRD Five Book Arcs/Complete Structural Outline (Batches 55-56) -- no rules drafted from it.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it\""
     }
   ],
   "rules": [
@@ -7100,6 +7109,13 @@
       "statement": "Undertow (Kanja, Captain's Five): homage to Ran, the Norse sea-goddess whose net drags drowned sailors down to her hall. A Living Drakma net-line, deployable by hand or from the Foldtide, that generates a violent localized downward current on contact with open water -- capable of capsizing, grounding, or dragging under an enemy vessel, or briefly pulling down a Titan-class target caught in open water. The offensive/naval-denial counterpart to the Whalebone Tether's restraint function (ARS-383): where the Tether holds, the Undertow takes.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-06, no source document -- roadmap Step 4 backlog triage, filling in ARS-340's last named-only slot, following the source document's own Norse-artifact homage pattern established in Batch 54."
+    },
+    {
+      "id": "CC-134",
+      "category": "character-crew",
+      "statement": "Lauris Letitia's epithet and psychology: 'She Who is Crowned with Joy' / 'The Joyful Victor' -- her defining trait is combat-joy, not bloodlust or arrogance: an empirical confidence born of a body operating at full design capacity in Cian's comparatively low gravity (extends MCD-143/MCD-149's Hexa-Lamellar/Gravimetabolic/Ironstorm Blood biology). Positioned by the source as the series' emotional counterweight to the other leads' burdens: where Kanja carries grief, Ozmund carries doubt, Ezio carries deception, Anansi carries rage, Valeria carries perception's burden, and Sephtis carries time, Lauris carries joy.",
+      "status": "locked",
+      "source": "04_Lauris_Psychological_Profile.docx ('The Joyful Weight', Google Drive fileId 1jukjjvzgjgkmtfEEUuCn0TBsy5wihnst), roadmap Step 4 backlog triage confirm-redundant pass, 2026-09-06."
     }
   ],
   "open_decisions": [

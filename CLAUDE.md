@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.6, 928 rules, 73 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.7, 929 rules, 74 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -23,7 +23,7 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 
 ## Merge script pattern
 
-Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 74): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
+Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 75): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
 
 ## Standing conventions
 
@@ -170,7 +170,21 @@ Whalebone Tether/Gleipnir: homage to Ran, the sea-goddess whose net drags drowne
 Living Drakma net-line generating a localized downward current capable of capsizing, grounding, or
 dragging under an enemy vessel or briefly pulling down a Titan-class target in open water -- the
 offensive/naval-denial counterpart to the Whalebone Tether's restraint function. Abad's approval:
-"confirmed." Only the two unopened-doc confirm-redundant checks remain to close out Step 4.
+"confirmed."
+
+**Step 4 closed, Batch 74, 2026-09-06 (`CC-134`).** The two unopened-doc confirm-redundant checks ran
+via background agents. `Five_Book_Construction.docx` confirmed overwhelmingly redundant with the
+already-extracted MRD Five Book Arcs/Complete Structural Outline (Batches 55-56) -- no batch needed;
+two minor non-load-bearing craft items surfaced (a "Line Held" three-deployment motif for Red Beard,
+the Zenith-Prime's catalyzing dialogue for Orlok's Enlightenment) left for an optional future
+light-touch Voice Bible pass, plus one soft phrasing tension on Red Beard's Book 3 awakening line
+worth reconciling only if the exact wording is ever needed. `04_Lauris_Psychological_Profile.docx`
+("The Joyful Weight") was NOT redundant -- every other major character has a locked epithet, Lauris
+didn't. `CC-134` locks it: "She Who is Crowned with Joy"/"The Joyful Victor," her combat-joy defining
+trait (empirical confidence from a body at full design capacity in Cian's lower gravity, extending
+`MCD-143`/`149`), and the source's framing of her as the series' emotional counterweight to the other
+leads' burdens. Abad's approval: "lock it." **This closes roadmap Step 4 -- all four Foundation-Complete
+checklist items are done; only Step 5's formal declaration remains.**
 
 ## Separate, unrelated thread: the interactive archive app
 
