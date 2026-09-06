@@ -11,12 +11,13 @@ spanning all five NYC-equivalent territories (Xaragua, Areito, Yara, Guanin, Bor
 peacekeeping figurehead -- introduced here for the first time, not yet locked as a PH2- character. His
 signature ability, Blood Debt (biochemical control: protective clotting/detox at close range, its dark
 reverse almost never used, and his own arrested aging as its personal application), is shown in effect.
-Departure from the established pattern: Kanja is named on-page here, a deliberate choice -- Arturo is
-specifically the one figure in NYC who comes to know him properly, which is the whole point of a
-"point of contact." The individual territory leaders (Ogoun Xarey, Yalokona) still never learn his name
-in their own Chronicles; this one explains why Arturo could vouch for a stranger neither of them ever
-identified. Kept period-appropriate per the world's locked pre-industrial tech level (PH2-049) -- no
-electric light, radios, firearms, or engines; oil lamps, acoustic instruments, blades.*
+Kanja stays unnamed here too, per Abad's explicit direction to keep that mystery going as long as
+possible -- even to Arturo, the one figure positioned to actually learn it. Arturo doesn't get the name
+and, notably, doesn't ask for it past the one offer the stranger declines: his trust is built entirely on
+tested behavior, never on identity, which if anything sharpens his character rather than diluting the
+point-of-contact concept -- passage granted on what a man does, not on what he's called. Kept
+period-appropriate per the world's locked pre-industrial tech level (PH2-049) -- no electric light,
+radios, firearms, or engines; oil lamps, acoustic instruments, blades.*
 
 ---
 
@@ -94,20 +95,30 @@ That's not a boast. It's the actual physics of the room you're sitting in."
 than he can count. "I didn't build five families out of Xaragua's own dead by being soft about who
 gets protected and who doesn't."
 
-"Kanja," the stranger said, finally, unprompted -- the first thing about himself he had offered
-freely in three days. "If we're trading things that cost something to say."
+"You never asked what to call me," the stranger said. Not quite a question -- Rorschach-cut,
+noticing what had been left out rather than what had been offered.
 
-Arturo turned the name over once behind his own stillness, filing it the way he filed everything
-that might matter later. He did not ask what it meant, where it came from, or what waited behind
-it. A name freely given, in a room built on things carefully withheld, was itself the whole answer
-to whatever test the evening had actually been.
+"I don't collect names first. I collect what a man does with three unwatched days, and you've
+already handed me that." Arturo studied him a moment longer, filing the shape of him -- not the
+details, the shape, the way he filed everything that might matter later. "You can keep it. Whatever
+it is. A name's the one thing at this table I never ask a man to trade before he's earned the right
+to keep it his own."
 
-"Kanja," he repeated. "You'll have your passage. Xaragua, Areito, Yara, Guanin, Boriken -- five
-doors, one key, and the key is that I've decided you're not the kind of storm that needs stopping
-at the water's edge." A pause, the only warmth he spent that night, and even that one measured close
-to the vest. "I won't tell the other four houses your name. That's not distrust. It's that a name
-travels faster than a man, and I'd rather they judge you the way I did -- by what you do at their
-own table, not by what I already decided at mine."
+"Most men in your seat would want it anyway. Leverage."
+
+"Most men in my seat learned the hard way that a name's worth less than what a man's already shown
+you he'll do without one." No warmth in it, and no performance either -- a fact laid down flat, the
+way a man states a load he's tested with his own weight more times than he can count. "You'll have
+your passage. Xaragua, Areito, Yara, Guanin, Boriken -- five doors, one key, and the key is that
+I've decided you're not the kind of storm that needs stopping at the water's edge."
+
+"And the other four houses. What do I tell them, when they ask who let me through."
+
+"Tell them nothing. Let them test you themselves, the way I did, and decide the same way I did --
+by what you do at their own table, not by a name that could've been handed to me by anyone with a
+reason to lie." A pause, the only warmth he spent that night, and even that one measured close to
+the vest. "A name would only give them something to be wrong about before you've said a word to
+them."
 
 "That's fair."
 
@@ -117,18 +128,21 @@ endings did -- without ceremony, because ceremony was one more thing that could 
 carefulness, in his experience, could not. "Xaragua raised me before it made me its own kind of
 weapon. I know what it costs a stranger to be trusted here. Don't make me count that cost twice."
 
-He did not offer his hand to shake. Some men, Kanja understood without needing to be told, save
-their touch for the moments it actually means something.
+He did not offer his hand to shake. Some men save their touch for the moments it actually means
+something.
 
 ---
 
 *Continuity notes (not narrative): places this chronologically before Xaragua Chronicle I and Yara
 Chronicle I -- Arturo's granted passage is the retroactive mechanism explaining how an unidentified
-stranger could already be trusted enough to appear, unchallenged, in both. Ogoun Xarey and Yalokona
-never learn Kanja's name in their own Chronicles; only Arturo does, by deliberate design, which is what
-makes him a genuine point of contact rather than a fourth unnamed-guest repeat. His Blood Debt ability
-is shown once, small and controlled (the self-inflicted cut, sealed instantly) rather than demonstrated
-at full extent -- consistent with a character whose defining restraint is almost never showing what he's
-actually capable of. Introduces no contradiction with any locked mainline fact; introduces the Five
-Families structure and Arturo himself for the first time, pending Abad's approval before any of it is
-drafted into canon-ledger.json.*
+stranger could already be trusted enough to appear, unchallenged, in both. Kanja stays unnamed to
+Arturo too -- the stranger declines the one opening to give it, and Arturo doesn't press, which is
+consistent with (not a departure from) the pattern across Ogoun Xarey's and Yalokona's own Chronicles.
+The "point of contact" concept still holds: what makes Arturo different from a fourth unnamed-guest
+repeat isn't that he knows the name, but that he's the one figure who deliberately chooses not to need
+it, and grants passage on tested character alone -- arguably a sharper, more consistent version of the
+same idea. His Blood Debt ability is shown once, small and controlled (the self-inflicted cut, sealed
+instantly) rather than demonstrated at full extent -- consistent with a character whose defining
+restraint is almost never showing what he's actually capable of. Introduces no contradiction with any
+locked mainline fact; introduces the Five Families structure and Arturo himself for the first time,
+pending Abad's approval before any of it is drafted into canon-ledger.json.*
