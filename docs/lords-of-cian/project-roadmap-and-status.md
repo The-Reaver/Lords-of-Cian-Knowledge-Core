@@ -1,7 +1,7 @@
 # Lords of Cian Canon Project — Path to Pre-Book-1 Foundation Complete
 
 *Refreshed 2026-09-06, at Abad's request for a roadmap to completion so canon work can hand off
-cleanly to the archive app. Reflects the ledger through Batch 69 (`ledger_version` 7.2, 922 rules).*
+cleanly to the archive app. Reflects the ledger through Batch 70 (`ledger_version` 7.3, 923 rules).*
 
 ## What "completion" means here
 
@@ -20,7 +20,7 @@ blocked on canon work to begin with.
 
 | | |
 |---|---|
-| **Canon ledger** | `canon-ledger.json` — 918 rules, 67 batches, 0 duplicate IDs, 0 rules stuck in draft |
+| **Canon ledger** | `canon-ledger.json` — 923 rules, 70 batches, 0 duplicate IDs, 0 rules stuck in draft |
 | **Foundational lore extraction** | Done (Batches 1–49) |
 | **Phase 1b (7 triaged Lore Vault documents)** | Done (Batches 50–57) |
 | **Phase 2 (homage era: NYC, LA, Chicago, Detroit)** | Done — 4 cities built (Batches 58–65); ongoing expansion (5th+ cities, more Chronicles) is open-ended by design, not part of this checklist |
@@ -28,7 +28,7 @@ blocked on canon work to begin with.
 | **`VB-026`** (progressive Onyx-narrator handoff for Book 1 / Chronicles I–VIII) | Locked (Batch 67), not yet applied to any text |
 | **Foundation item 1 — 3 genuinely-open decisions** | **Done (Batch 69)** |
 | **Foundation item 2 — World Atlas scope/redo** | **Done (Batch 68)** — `GEO-003`/`GEO-005` corrected against the live Atlas source |
-| **Foundation item 3 — Chronicles I–VIII rewrite** | Not started, now unblocked |
+| **Foundation item 3 — Chronicles I–VIII rewrite** | In progress (Batch 70) — 1 of 8 rewritten (III), 4 confirmed clean (I, II, IV, V), 3 left (VI, VII, VIII) |
 | **Foundation item 4 — small backlog triage** | Not started |
 | **Foundation item 5 — formal Foundation-Complete declaration** | Blocked on items 1–4 |
 | **Interactive archive app** (separate repo) | Scaffolded, not blocked on canon work |
@@ -100,29 +100,65 @@ Deferred as `OPEN-012`, not blocking Step 3: the live sheet's own remaining unde
 orphan map codes, two sizeable undefined areas `RA`/`UK`, an undefined `##` symbol, and "the
 Throat"/"the Teeth" having no located placement) — Abad doesn't currently recall their intent.
 
-### Step 3: Rewrite Chronicles I–VIII — now unblocked
+### Step 3: Rewrite Chronicles I–VIII — in progress (Batch 70)
 
 The original manuscript chapters (found in the separate "My Rivals Distance" Drive folder, covering
-battles I–VIII of the Twenty-Two Victories) get rewritten against the now-corrected Atlas from Step 2,
-fixing five already-identified errors from the Batch 46–48 punch list in the same pass — these were
-found during the original compliance cross-check but never corrected in the manuscript prose itself,
-only flagged:
+battles I–VIII of the Twenty-Two Victories) get rewritten against the now-corrected Atlas from Step 2.
+8 parallel background-agent audits (2026-09-06) fetched each chapter's full text and cross-checked it
+against `research/atlas-live-sheet-audit.md` and locked canon. Results:
 
-- Chronicle VI's closing section misattributes the "Blue-Collar Titan" alias and the
-  4,000-worker/eleven-day strike details to an age-18 pre-rebellion event — those specifics belong to
-  the Furnace District Strike (`MCD-244`, age 21).
-- Chronicle VI calls Maw-9 "a quarry," where canon uses Maw/arena terminology throughout.
-- Chronicle VIII describes *The Receipt*'s capture as a routine patrol intercept, where the locked
-  account (`MCD-242`) has it captured during the eleven-week Reef-Chain Blockade.
-- Chronicle VIII's charcoal-rubbing evidence passage is labeled "Killane," but the method belongs to
-  the Scrip-Forge Raid, not Killane (whose own evidence method is different, `MCD-234`).
-- Garren Hask's stated age (53) doesn't increment between Chronicle I (age-18 Kanja) and Chronicle
-  III (age-19 Kanja).
+**Clean, no rewrite needed:**
+- **Chronicle I** (Scrip-Forge Raid, age 18) — clean. Confirms Hask's baseline age (53) at this point.
+- **Chronicle II** (Dredge-Line Ambush, age 18) — clean.
+- **Chronicle IV** (Iron Shallows, age 19) — clean, but doesn't dramatize the naval *Audit*-capture
+  reconciliation locked at `ARS-341`/`342` (Batch 47) — not a contradiction, just unshown; could be
+  added in a future pass if Abad wants it on the page.
+- **Chronicle V** (Siege of Maw-9, age 20) — clean. Its "quarry" usages are all historical/physical
+  description of the site's origin, not an operative-name error (distinct from Chronicle VI's real
+  error below); correctly frames Corren Halst/Danne Sok/Maret Vos as already-established crew from
+  Black Trench, not first meeting Kanja here.
 
-This is also the first place `VB-026` (the progressive Onyx-of-Oblivion narrator handoff, locked
-Batch 67) actually gets applied to prose — Chronicles I–VIII are exactly the Kanja-POV,
-Rebellion-era material that rule was written for: normal narration at the start, Onyx bleeding in
-gradually, fully in Onyx's voice by the Rebellion's end.
+**Fixed — Chronicle III** (Battle of the Black Trench, age 19) — **done, Batch 70.** Corrected text at
+`docs/lords-of-cian/chronicles/chronicle-iii-the-battle-of-the-black-trench.md`. Two fixes: Garren
+Hask's stated age corrected from fifty-three to fifty-four (the punch-list's non-incrementing-age
+error); and Corren Halst, Danne Sok, and Maret Vos added as Black Trench participants, matching
+`MCD-234`'s Batch-41 correction (they fought alongside Kanja here, one battle before Maw-9) and
+Chronicle V's own opening line, which already presupposed their presence — a real internal
+inconsistency the original manuscript never resolved. No geography changes needed; this chapter's
+place names read clean against the Atlas.
+
+**Still to fix — 3 chapters, all with confirmed errors:**
+- **Chronicle VI** (Sewer War of Killane, age 20) — both flagged punch-list errors confirmed present
+  verbatim: the closing section misattributes the "Blue-Collar Titan" alias and the
+  4,000-worker/eleven-day strike details to this age-20 event, when those specifics belong to the
+  later Furnace District Strike (`MCD-244`, age 21); and Maw-9 is called "a quarry" as an operative
+  name, not a historical description (the real error Chronicle V's similar phrasing turned out not to
+  be). Also: Killane itself didn't exist anywhere in the live Atlas — now placed and locked at
+  `GEO-006` (Batch 70, see below), so this chapter's rewrite can reference it as a real Jicome-region
+  site.
+- **Chronicle VII** (Siege of the Ghost Harbor, age 21) — one new geography gap found: "Ash Harbor"
+  (the site's name before the battle earns it "Ghost Harbor") didn't match any known Jicome site in
+  the live Atlas — same `GEO-006` fix as Killane resolves this.
+- **Chronicle VIII** (Ash-Wharf Massacre, age 22) — both flagged punch-list errors confirmed present
+  verbatim: *The Receipt*'s capture is described as a routine patrol intercept south of "the Jicome
+  Strait" (a place name absent from the Atlas), where the locked account (`MCD-242`) has it captured
+  during the eleven-week Reef-Chain Blockade/Kothrane Narrows; and the charcoal-rubbing evidence
+  statistic (1.2 million workers, 40%, twelve years) is labeled "from Killane," but that method and
+  statistic belong to the Scrip-Forge Raid (`MCD-286`) — Killane's real, locked evidence method is
+  four months of undetected Scrip-Registry copying (`MCD-234`), no charcoal rubbings at all.
+
+**Geography fix, done alongside Chronicle III (Batch 70):** `GEO-006` locks Killane (Hold,
+Corehold-class fortress-city, Jicome's southern district) and Ash Harbor (Settlement, Port-class,
+Jicome's southern coast, informally renamed Ghost Harbor in-story) within Jicome's existing Atlas
+grid — neither existed anywhere in the live Regional Atlas before this. `GEO-005`'s count amended to
+note these two sit outside its free-to-rename 52.
+
+All 8 chapters currently use the pre-`VB-026` structure (neutral third-person body + a short,
+separately-headed end-of-chapter Onyx-of-Oblivion coda) — this already matches `VB-026`'s intended
+*early*-Rebellion state (short coda, growing chapter by chapter, full narrator only by the Rebellion's
+end at age 30), so no voice-structure changes were needed for Chronicle III and likely won't be for
+VI–VIII either; `VB-026` is a calibration rule for future growth, not a retrofit these early chapters
+already satisfy.
 
 ### Step 4: Quick triage of the remaining small backlog
 
@@ -224,8 +260,8 @@ Everything below is Abad's call — this is a suggested order, not a decision:
 
 1. ~~Step 1 (close the 3 open decisions)~~ **done, Batch 69.**
 2. ~~Step 2 (scope the Atlas)~~ **done, Batch 68.**
-3. **Step 3** (Chronicles I–VIII rewrite), now unblocked and the only large item left — this is the
-   biggest single piece of the checklist.
+3. **Step 3** (Chronicles I–VIII rewrite), in progress — Chronicle III done (Batch 70), 4 chapters
+   confirmed clean (I, II, IV, V), 3 chapters left with confirmed fixes queued (VI, VII, VIII).
 4. **Step 4** (backlog triage) whenever there's a lull — genuinely optional, low-cost.
 5. **Step 5** (formal declaration) once 3 and 4 are done — Steps 1 and 2 are already closed.
 6. **The archive-app device-bridge session** can happen any time, independent of the above — it just
