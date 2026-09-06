@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.7, 929 rules, 74 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.8, 929 rules, 75 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -23,7 +23,7 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 
 ## Merge script pattern
 
-Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 75): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
+Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 76): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
 
 ## Standing conventions
 
@@ -75,18 +75,19 @@ Abad also flagged, 2026-09-05, a larger pending item: the original manuscript Ch
 
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
-## Roadmap to Pre-Book-1 Foundation Complete
+## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
-Refreshed 2026-09-06 in `docs/lords-of-cian/project-roadmap-and-status.md` -- the authoritative
-sequencing document for the bounded, achievable milestone that lets canon work hand off cleanly to
-the archive app, distinct from the open-ended Phase 2 expansion log above (more cities, more
-territory Chronicles, Arturo's prequels -- none of that is meant to ever fully stop, and none of it
-gates this milestone). Five steps: (1) close the 3 genuinely-open `open_decisions` (`OPEN-005`,
-`OPEN-007`, `OPEN-008`); (2) scope and resolve the World Atlas question, before (3) rewriting
-Chronicles I-VIII against it (fixing the five already-identified punch-list errors in the same pass,
-and applying `VB-026`'s progressive Onyx-narrator handoff to Kanja-POV Rebellion prose for the first
-time); (4) a quick triage of the small remaining backlog (Efa Gol/Pell Ostra depth, Undertow, two
-unopened low-priority docs); (5) formally declare the milestone reached. Separately and not
+**PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
+closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
+lets canon work hand off cleanly to the archive app -- it does not mean canon work stops. The
+open-ended Phase 2 expansion log above (more cities, more territory Chronicles, Arturo's prequels,
+more Kanja Chronicles, general world-building) was never gated by this milestone and continues
+indefinitely in parallel, exactly as it has throughout. The five steps, for the record: (1) close the
+3 genuinely-open `open_decisions` (`OPEN-005`, `OPEN-007`, `OPEN-008`) -- done, Batch 69; (2) scope
+and resolve the World Atlas question -- done, Batch 68; (3) rewrite Chronicles I-VIII against it,
+fixing the five already-identified punch-list errors -- done, Batches 70-71; (4) triage the small
+remaining backlog (Efa Gol/Pell Ostra depth, Undertow, two unopened low-priority docs) -- done,
+Batches 72-74; (5) formally declare the milestone reached -- done, Batch 75. Separately and not
 sequenced against the above: the archive-app device-bridge session (see the standing blocker below)
 can run any time Abad has a Cowork/local session available.
 
@@ -183,8 +184,18 @@ worth reconciling only if the exact wording is ever needed. `04_Lauris_Psycholog
 didn't. `CC-134` locks it: "She Who is Crowned with Joy"/"The Joyful Victor," her combat-joy defining
 trait (empirical confidence from a body at full design capacity in Cian's lower gravity, extending
 `MCD-143`/`149`), and the source's framing of her as the series' emotional counterweight to the other
-leads' burdens. Abad's approval: "lock it." **This closes roadmap Step 4 -- all four Foundation-Complete
-checklist items are done; only Step 5's formal declaration remains.**
+leads' burdens. Abad's approval: "lock it." This closed roadmap Step 4 -- all four Foundation-Complete
+checklist items were done, leaving only Step 5's formal declaration.
+
+**PRE-BOOK-1 FOUNDATION COMPLETE, Batch 75, 2026-09-06.** All five roadmap steps are closed. Logged
+as a milestone marker in `batches_completed` (not an in-fiction fact, no new rules). This closes the
+bounded, achievable "foundation" milestone that lets canon work hand off cleanly toward the archive
+app -- it does NOT mean canon work stops: the genuinely open-ended Phase 2 homage-era expansion (more
+cities, more territory Chronicles, Arturo's prequels, more Kanja Chronicles, general world-building)
+was never gated by this milestone and continues indefinitely in parallel, exactly as it has
+throughout. Separately and still unresolved: the archive-app device-bridge session (real Brain Trust
+review) remains blocked pending a Cowork/local session with the device bridge live -- see the standing
+blocker section below. Abad's approval: "lock it."
 
 ## Separate, unrelated thread: the interactive archive app
 

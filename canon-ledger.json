@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "7.7",
+  "ledger_version": "7.8",
   "last_updated": "2026-09-06",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -688,6 +688,15 @@
       "source_doc": "Roadmap Step 4 backlog triage, part 3/4 (closes the triage): Lauris Letitia's epithet/psychology (CC-134), sourced from 04_Lauris_Psychological_Profile.docx, confirmed not redundant. Five_Book_Construction.docx, checked in the same pass, confirmed fully redundant with MRD Five Book Arcs/Complete Structural Outline (Batches 55-56) -- no rules drafted from it.",
       "source_id": null,
       "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it\""
+    },
+    {
+      "batch": 75,
+      "source_doc": "Pre-Book-1 Foundation Complete declaration (roadmap Step 5). The 'Pre-Book-1 Foundation Complete' checklist (docs/lords-of-cian/project-roadmap-and-status.md) is fully closed: (1) the 3 genuinely-open decisions (OPEN-005/007/008) resolved, Batch 69; (2) World Atlas scoping and correction, Batch 68; (3) Chronicles I-VIII rewrite against the corrected Atlas, Batches 70-71; (4) small backlog triage (Efa Gol/Pell Ostra, Undertow, two unopened docs), Batches 72-74; (5) this declaration. This closes the bounded, achievable 'foundation' milestone that lets canon work hand off cleanly toward the archive app. It does not mean canon work stops: the genuinely open-ended Phase 2 homage-era expansion (more cities, more territory Chronicles, Arturo's prequels, more Kanja Chronicles, general world-building) was never gated by this milestone and continues indefinitely in parallel, exactly as it has throughout. Separately and still unresolved: the archive-app device-bridge session (real Brain Trust review) remains blocked pending a Cowork/local session with the device bridge live -- unrelated to and not gated by this milestone.",
+      "source_id": null,
+      "rule_count": 0,
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"lock it\""

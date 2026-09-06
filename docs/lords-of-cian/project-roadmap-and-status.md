@@ -1,7 +1,10 @@
 # Lords of Cian Canon Project — Path to Pre-Book-1 Foundation Complete
 
 *Refreshed 2026-09-06, at Abad's request for a roadmap to completion so canon work can hand off
-cleanly to the archive app. Reflects the ledger through Batch 74 (`ledger_version` 7.7, 929 rules).*
+cleanly to the archive app. Reflects the ledger through Batch 75 (`ledger_version` 7.8, 929 rules).*
+
+**PRE-BOOK-1 FOUNDATION COMPLETE — declared 2026-09-06, Batch 75.** All five steps below are done.
+This milestone does not mean canon work stops — see §6 and the note under Step 5.
 
 ## What "completion" means here
 
@@ -20,7 +23,7 @@ blocked on canon work to begin with.
 
 | | |
 |---|---|
-| **Canon ledger** | `canon-ledger.json` — 929 rules, 74 batches, 0 duplicate IDs, 0 rules stuck in draft |
+| **Canon ledger** | `canon-ledger.json` — 929 rules, 75 batches, 0 duplicate IDs, 0 rules stuck in draft |
 | **Foundational lore extraction** | Done (Batches 1–49) |
 | **Phase 1b (7 triaged Lore Vault documents)** | Done (Batches 50–57) |
 | **Phase 2 (homage era: NYC, LA, Chicago, Detroit)** | Done — 4 cities built (Batches 58–65); ongoing expansion (5th+ cities, more Chronicles) is open-ended by design, not part of this checklist |
@@ -30,7 +33,7 @@ blocked on canon work to begin with.
 | **Foundation item 2 — World Atlas scope/redo** | **Done (Batch 68)** — `GEO-003`/`GEO-005` corrected against the live Atlas source |
 | **Foundation item 3 — Chronicles I–VIII rewrite** | **Done (Batch 71)** — all 8 chapters clean or corrected |
 | **Foundation item 4 — small backlog triage** | **Done (Batch 74)** |
-| **Foundation item 5 — formal Foundation-Complete declaration** | Unblocked — ready to declare |
+| **Foundation item 5 — formal Foundation-Complete declaration** | **Done (Batch 75)** |
 | **Interactive archive app** (separate repo) | Scaffolded, not blocked on canon work |
 | **Real Brain Trust review (SEO/GEO charter)** | Blocked — needs a device-bridge session (see §7) |
 
@@ -191,12 +194,18 @@ foundation done:
 
 **Step 4 is now fully closed — all four backlog items done.**
 
-### Step 5: Formally declare Pre-Book-1 Foundation Complete
+### Step 5: Formally declare Pre-Book-1 Foundation Complete — DONE (Batch 75)
 
-Once Steps 1–4 land, lock a short standing note in the ledger declaring the milestone reached, with
-an explicit statement that ongoing Phase 2 expansion — further homage cities, more territory
-Chronicles, Arturo's prequels, the Kanja-becomes-family arc, more Kanja Chronicles generally —
-continues indefinitely as parallel creative work, not something this milestone closes off.
+Logged as a milestone marker in `batches_completed` (not an in-fiction fact, no new rules), with an
+explicit statement that ongoing Phase 2 expansion — further homage cities, more territory Chronicles,
+Arturo's prequels, the Kanja-becomes-family arc, more Kanja Chronicles generally — continues
+indefinitely as parallel creative work, not something this milestone closes off. Abad's approval:
+"lock it."
+
+**PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps are closed. Canon work continues exactly as
+before — this milestone only marks that the bounded, already-scoped loose threads flagged as of
+2026-09-05/06 are done, clearing the way for the archive app to build against a settled foundation
+whenever Abad is ready for that separate track.
 
 ---
 
@@ -283,7 +292,7 @@ Everything below is Abad's call — this is a suggested order, not a decision:
 3. ~~Step 3 (Chronicles I–VIII rewrite)~~ **done, Batches 70–71.** All 8 chapters confirmed clean or
    corrected.
 4. ~~Step 4 (backlog triage)~~ **done, Batches 72–74.**
-5. **Step 5** (formal declaration) — the only remaining item, ready to run.
+5. ~~Step 5 (formal declaration)~~ **done, Batch 75. Pre-Book-1 Foundation Complete.**
 6. **The archive-app device-bridge session** can happen any time, independent of the above — it just
    needs a Cowork/local session with the bridge live, which this session doesn't have.
 
