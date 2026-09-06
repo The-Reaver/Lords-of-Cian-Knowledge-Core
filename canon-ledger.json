@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "7.1",
+  "ledger_version": "7.2",
   "last_updated": "2026-09-06",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -637,6 +637,15 @@
       "status": "complete",
       "conflicts_found": 2,
       "note": "Abad: \"confirmed\""
+    },
+    {
+      "batch": 69,
+      "source_doc": "Roadmap Step 1 closeout: resolves OPEN-005 (Session Lock 2, confirmed nonexistent), OPEN-007 (Ever Haunt/Painter interstitial chapter structure, MCD-338), and OPEN-008 (House Marlunar/Marvault/Marossen heads, POL-097 through 099).",
+      "source_id": null,
+      "rule_count": 4,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it\""
     }
   ],
   "rules": [
@@ -6985,6 +6994,34 @@
       "statement": "Book 1, and any future Kanja-POV treatment of the Rebellion (ages 18-30, including a rewrite of Chronicles I-VIII), uses a progressive narrator handoff. Prose opens in a normal, neutral narrative voice; Onyx of Oblivion appears only as a short coda at each chapter's end. Across the Rebellion's twelve years, Onyx's presence grows steadily more prominent, bleeding further into the main narration with each successive chapter, until by the Rebellion's end (age 30, the Trinity's surrender, MCD-246) Onyx has fully become the narrator -- matching the already-established steady-state credit at VB-020/021 for all Long Mask-era and later Kanja material. The transition must read as smooth and subtle, never an abrupt jump. Does not apply to the Phase 2 homage-era territory Chronicles (Xaragua, Umoja, Yara, etc.), which are close-third on their own territory protagonists, not Kanja-POV, per VB-020's narrator scope.",
       "status": "locked",
       "source": "VB-026 and the Arturo colonizer-backstory amendment, chat-drafted 2026-09-06, original invention, no external source document."
+    },
+    {
+      "id": "MCD-338",
+      "category": "World Mechanics",
+      "statement": "Two interstitial world-phenomena chapters are structurally confirmed as standalone -- not folded into any POV character's ongoing chapters: an Ever Haunt chapter (elaborating the pursuit-phenomenon classification already locked at WC-019, CULT-197/198) and a Painter chapter (elaborating the ancient wandering predator already locked at CHAR-001). Both are atmospheric/phenomena-focused interludes rather than tied to a single POV character's arc, slotted between books rather than embedded within existing chapters. Exact book placement and full chapter content remain undrafted, reserved for a future dedicated pass.",
+      "status": "locked",
+      "source": "Roadmap Step 1 closeout (OPEN-005/007/008), chat-drafted 2026-09-06, original invention, no external source document."
+    },
+    {
+      "id": "POL-097",
+      "category": "Politics",
+      "statement": "House Marlunar holds one of the Astral Archipelago's nine Council of Crossroads seats hereditarily, the other eight split between two more hereditary seats (Marvault, Marossen) and six rotating/elected seats from the outer islands. Marlunar governs the Archipelago's navy and navigation traditions. Its head, Fleetmaster Ythan Marlunar, commands the fleet and holds the Council's maritime-affairs seat.",
+      "status": "locked",
+      "source": "Roadmap Step 1 closeout (OPEN-005/007/008), chat-drafted 2026-09-06, original invention, no external source document."
+    },
+    {
+      "id": "POL-098",
+      "category": "Politics",
+      "statement": "House Marvault holds a second hereditary Council of Crossroads seat, governing the Astral Archipelago's treasury, trade tariffs, and the ongoing logistics of repaying the standing Rexmar debt (POL-050, WC-012) accrued from Haku's Living Drakma liberation 5,000 years ago. Its head, Warden of the Vault Cassia Marvault, holds the Council's commerce seat.",
+      "status": "locked",
+      "source": "Roadmap Step 1 closeout (OPEN-005/007/008), chat-drafted 2026-09-06, original invention, no external source document."
+    },
+    {
+      "id": "POL-099",
+      "category": "Politics",
+      "statement": "House Marossen holds the third hereditary Council of Crossroads seat, governing the Astral Archipelago's marine infantry and coastal defense. Its head, Shield-Marshal Doric Marossen, holds the Council's defense seat.",
+      "status": "locked",
+      "source": "Roadmap Step 1 closeout (OPEN-005/007/008), chat-drafted 2026-09-06, original invention, no external source document."
     }
   ],
   "open_decisions": [
@@ -7014,7 +7051,9 @@
     },
     {
       "id": "OPEN-005",
-      "statement": "'Session Lock 2 (April 11, 2026)' is referenced repeatedly but has not yet been located in this corpus."
+      "statement": "'Session Lock 2 (April 11, 2026)' is referenced repeatedly but has not yet been located in this corpus.",
+      "status": "resolved",
+      "note": "RESOLVED 2026-09-06: confirmed never existed as a standalone document. Reconfirmed dead-end three separate times (the original search, Batch 39, Batch 40), with Master Canon Decisions itself repeatedly deferring to this same missing file without it ever surfacing. Formally closed, not pursued further."
     },
     {
       "id": "OPEN-006",
@@ -7023,11 +7062,15 @@
     },
     {
       "id": "OPEN-007",
-      "statement": "Interstitial world-phenomena chapters: an Ever Haunt chapter and a Painter chapter (see CHAR-001), not yet locked as a structure rule."
+      "statement": "Interstitial world-phenomena chapters: an Ever Haunt chapter and a Painter chapter (see CHAR-001), not yet locked as a structure rule.",
+      "status": "resolved",
+      "note": "RESOLVED 2026-09-06, see MCD-338: the Ever Haunt and Painter chapters are standalone interstitials between books, not folded into existing POV chapters. Structural decision only -- full chapter content remains undrafted."
     },
     {
       "id": "OPEN-008",
-      "statement": "House Marlunar, House Marvault, and House Marossen need heads/rulers and individual character detail."
+      "statement": "House Marlunar, House Marvault, and House Marossen need heads/rulers and individual character detail.",
+      "status": "resolved",
+      "note": "RESOLVED 2026-09-06, see POL-097/098/099: House Marlunar (Fleetmaster Ythan Marlunar), House Marvault (Warden of the Vault Cassia Marvault), and House Marossen (Shield-Marshal Doric Marossen) each have heads locked, one per hereditary Council of Crossroads seat."
     },
     {
       "id": "OPEN-009",

@@ -1,7 +1,7 @@
 # Lords of Cian Canon Project — Path to Pre-Book-1 Foundation Complete
 
 *Refreshed 2026-09-06, at Abad's request for a roadmap to completion so canon work can hand off
-cleanly to the archive app. Reflects the ledger through Batch 68 (`ledger_version` 7.1, 918 rules).*
+cleanly to the archive app. Reflects the ledger through Batch 69 (`ledger_version` 7.2, 922 rules).*
 
 ## What "completion" means here
 
@@ -26,7 +26,7 @@ blocked on canon work to begin with.
 | **Phase 2 (homage era: NYC, LA, Chicago, Detroit)** | Done — 4 cities built (Batches 58–65); ongoing expansion (5th+ cities, more Chronicles) is open-ended by design, not part of this checklist |
 | **Territory Chronicles** (Xaragua, Umoja, Yara) | 4 written and locked, open-ended; see §5 |
 | **`VB-026`** (progressive Onyx-narrator handoff for Book 1 / Chronicles I–VIII) | Locked (Batch 67), not yet applied to any text |
-| **Foundation item 1 — 3 genuinely-open decisions** | Not started |
+| **Foundation item 1 — 3 genuinely-open decisions** | **Done (Batch 69)** |
 | **Foundation item 2 — World Atlas scope/redo** | **Done (Batch 68)** — `GEO-003`/`GEO-005` corrected against the live Atlas source |
 | **Foundation item 3 — Chronicles I–VIII rewrite** | Not started, now unblocked |
 | **Foundation item 4 — small backlog triage** | Not started |
@@ -67,20 +67,20 @@ the *remaining* work, not a re-derivation of everything already settled.
 
 ## 3. The Foundation-Complete checklist — 5 steps
 
-### Step 1: Close the 3 genuinely-open decisions
+### Step 1: Close the 3 genuinely-open decisions — DONE (Batch 69)
 
-Of the ledger's 11 `open_decisions`, 8 are already resolved. 3 are not, and each is small — a single
-clarifying conversation with Abad, not a research task:
+All three resolved in one pass:
 
-- **`OPEN-005`** — "Session Lock 2 (April 11, 2026)" has been searched for and come up empty three
-  separate times (Batch 39, Batch 40, and originally). Action: formally close it as "confirmed never
-  existed as a standalone document" rather than leaving it open indefinitely.
-- **`OPEN-007`** — the interstitial world-phenomena chapters (an Ever Haunt chapter, a Painter
-  chapter). Action: needs Abad's call on scope — standalone chapters of their own, or folded into
-  material that already exists.
-- **`OPEN-008`** — House Marlunar, House Marvault, and House Marossen need heads/rulers and
-  individual character detail. Action: invent and lock these three at the same rigor as other named
-  houses, once Abad wants to sit down for it.
+- **`OPEN-005`** — "Session Lock 2 (April 11, 2026)" formally closed as confirmed never existed as a
+  standalone document (reconfirmed dead-end three separate times: Batch 39, Batch 40, and
+  originally).
+- **`OPEN-007`** — resolved as a structural decision (`MCD-338`): the Ever Haunt and Painter chapters
+  are standalone interstitials slotted between books, not folded into existing POV chapters. Full
+  chapter content remains undrafted, reserved for a future dedicated pass.
+- **`OPEN-008`** — heads locked for all three Astral Archipelago founding families (`POL-097` through
+  `099`, extending `POL-095`/`096`): Fleetmaster Ythan Marlunar (navy/navigation), Warden of the
+  Vault Cassia Marvault (treasury/the standing Rexmar debt), Shield-Marshal Doric Marossen (marine
+  infantry/coastal defense) — each holding one of the Council of Crossroads' nine seats hereditarily.
 
 ### Step 2: Scope and resolve the World Atlas question — DONE (Batch 68)
 
@@ -222,12 +222,12 @@ Foundation-Complete checklist in §3 — Abad can run this in parallel, or after
 
 Everything below is Abad's call — this is a suggested order, not a decision:
 
-1. **Step 1** (close the 3 open decisions) — short conversations, not drafting work.
+1. ~~Step 1 (close the 3 open decisions)~~ **done, Batch 69.**
 2. ~~Step 2 (scope the Atlas)~~ **done, Batch 68.**
-3. **Step 3** (Chronicles I–VIII rewrite), now unblocked — this is the largest single item on the
-   checklist.
+3. **Step 3** (Chronicles I–VIII rewrite), now unblocked and the only large item left — this is the
+   biggest single piece of the checklist.
 4. **Step 4** (backlog triage) whenever there's a lull — genuinely optional, low-cost.
-5. **Step 5** (formal declaration) once 1, 3, and 4 are done.
+5. **Step 5** (formal declaration) once 3 and 4 are done — Steps 1 and 2 are already closed.
 6. **The archive-app device-bridge session** can happen any time, independent of the above — it just
    needs a Cowork/local session with the bridge live, which this session doesn't have.
 
