@@ -75,6 +75,21 @@ Abad also flagged, 2026-09-05, a larger pending item: the original manuscript Ch
 
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
+## Roadmap to Pre-Book-1 Foundation Complete
+
+Refreshed 2026-09-06 in `docs/lords-of-cian/project-roadmap-and-status.md` -- the authoritative
+sequencing document for the bounded, achievable milestone that lets canon work hand off cleanly to
+the archive app, distinct from the open-ended Phase 2 expansion log above (more cities, more
+territory Chronicles, Arturo's prequels -- none of that is meant to ever fully stop, and none of it
+gates this milestone). Five steps: (1) close the 3 genuinely-open `open_decisions` (`OPEN-005`,
+`OPEN-007`, `OPEN-008`); (2) scope and resolve the World Atlas question, before (3) rewriting
+Chronicles I-VIII against it (fixing the five already-identified punch-list errors in the same pass,
+and applying `VB-026`'s progressive Onyx-narrator handoff to Kanja-POV Rebellion prose for the first
+time); (4) a quick triage of the small remaining backlog (Efa Gol/Pell Ostra depth, Undertow, two
+unopened low-priority docs); (5) formally declare the milestone reached. Separately and not
+sequenced against the above: the archive-app device-bridge session (see the standing blocker below)
+can run any time Abad has a Cowork/local session available.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

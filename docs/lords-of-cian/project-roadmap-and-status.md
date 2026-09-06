@@ -1,19 +1,18 @@
-# Lords of Cian Canon Project — Roadmap & Status
+# Lords of Cian Canon Project — Path to Pre-Book-1 Foundation Complete
 
-*Compiled 2026-09-05, at the request of Abad Morel: a single reference for everything asked for
-across this project so far, what's been done, and what's still on the menu. Reflects the ledger
-through Batch 64 (`ledger_version` 6.7, 903 rules).*
+*Refreshed 2026-09-06, at Abad's request for a roadmap to completion so canon work can hand off
+cleanly to the archive app. Reflects the ledger through Batch 67 (`ledger_version` 7.0, 918 rules).*
 
-**Update, Batch 64:** the Chronicles concept was corrected -- each homage-era territory has its own
-Chronicle series with its own leader as protagonist and Kanja as an unnamed guest, not "Kanja
-Chronicles" with the reverse. Xaragua Chronicle I, Umoja Chronicle I, and Yara Chronicle I replaced
-the three original Chronicle IX/X/XI (`MCD-334`-`336`, superseding `MCD-331`-`333`). Detroit was also
-locked as the fourth Phase 2 homage-era city (`OPEN-011`) -- city choice only, territories/leaders
-not yet built.
+## What "completion" means here
 
-**Update, Batch 65:** Detroit's five territories and leaders are now built and locked (`PH2-050`
-through `PH2-059`), same depth as NYC/LA/Chicago -- Kazi/Irin, Taifa/Osei, Hekalu/Adom, Nyansa/Adisa,
-Kiti/Owusu. Ledger now at version 6.8, 913 rules, 65 batches.
+The canon project is open-ended by design — more homage-era cities, more territory Chronicles,
+Arturo's prequels, more Kanja Chronicles, all still to come, and none of that is meant to ever
+fully stop. "Completion" doesn't mean finishing the story. It means a specific, bounded milestone:
+**Pre-Book-1 Foundation Complete** — the handful of already-identified, already-scoped loose threads
+below, closed out. Once those five items land, the ongoing creative work (new cities, new
+Chronicles, prequels) continues exactly as before, in parallel, but no longer gates anything else —
+including starting work on the archive app, which per Abad's own standing instruction was never
+blocked on canon work to begin with.
 
 ---
 
@@ -21,152 +20,164 @@ Kiti/Owusu. Ledger now at version 6.8, 913 rules, 65 batches.
 
 | | |
 |---|---|
-| **Canon ledger** | `canon-ledger.json` — 900 rules, 63 batches, 0 duplicate IDs, 0 rules stuck in draft |
+| **Canon ledger** | `canon-ledger.json` — 918 rules, 67 batches, 0 duplicate IDs, 0 rules stuck in draft |
 | **Foundational lore extraction** | Done (Batches 1–49) |
 | **Phase 1b (7 triaged Lore Vault documents)** | Done (Batches 50–57) |
-| **Phase 2 (homage era: NYC, LA, Chicago)** | Done (Batches 58–63) |
-| **Kanja Chronicles (new prose, homage-era guest appearances)** | In progress — 3 written and locked (IX, X, XI), open-ended |
-| **Chronicles I–VIII rewrite (geography/Atlas fixes)** | **Not started** — newly flagged 2026-09-05 |
-| **World Atlas redo** | **Not started** — newly flagged 2026-09-05, scope not yet defined |
-| **Interactive archive app** (separate repo) | Scaffolded, not blocked on canon work, not actively worked this session |
-| **Real Brain Trust review (SEO/GEO charter)** | Blocked — needs a device-bridge session (see §6) |
+| **Phase 2 (homage era: NYC, LA, Chicago, Detroit)** | Done — 4 cities built (Batches 58–65); ongoing expansion (5th+ cities, more Chronicles) is open-ended by design, not part of this checklist |
+| **Territory Chronicles** (Xaragua, Umoja, Yara) | 4 written and locked, open-ended; see §5 |
+| **`VB-026`** (progressive Onyx-narrator handoff for Book 1 / Chronicles I–VIII) | Locked (Batch 67), not yet applied to any text |
+| **Foundation item 1 — 3 genuinely-open decisions** | Not started |
+| **Foundation item 2 — World Atlas scope/redo** | Not started, scope undefined |
+| **Foundation item 3 — Chronicles I–VIII rewrite** | Not started, waiting on item 2 |
+| **Foundation item 4 — small backlog triage** | Not started |
+| **Foundation item 5 — formal Foundation-Complete declaration** | Blocked on items 1–4 |
+| **Interactive archive app** (separate repo) | Scaffolded, not blocked on canon work |
+| **Real Brain Trust review (SEO/GEO charter)** | Blocked — needs a device-bridge session (see §7) |
 
 ---
 
-## 2. Foundational canon — DONE
+## 2. Already done — no action needed
 
-Batches 1–49 extracted and locked essentially every pre-existing source document into the ledger:
-the Master Canon Decisions doc, the World Adaptation Blueprint (Lauris's ~4,000-year chronicle),
-the Tier 4 Prep Checklist, the Character Codex (89 `CC-` rules), the Domus Inviolate Dossier, the
-full Ashkeel institution (`ASH-`), the Twenty-Two Victories manuscript chronicle (Kanja's Rebellion,
-ages 18–30), the Long Mask Chronicles (ages 30–314), all 8 Psychological Profile companion docs, and
-a full compliance cross-check of the actual written manuscript (Chronicles I–VIII) against the whole
-ledger. This closed with the 27-rule draft-status backlog cleared (Batch 45) and a full audit of six
-previously-unaccounted-for Lore Vault documents (Batch 46).
+**Foundational lore extraction (Batches 1–49) — complete.** Every pre-existing source document
+extracted into the ledger: the Master Canon Decisions doc, the World Adaptation Blueprint (Lauris's
+~4,000-year chronicle), the Tier 4 Prep Checklist, the Character Codex, the Domus Inviolate Dossier,
+the full Ashkeel institution, the Twenty-Two Victories manuscript chronicle, the Long Mask
+Chronicles, all 8 Psychological Profiles, and a full compliance cross-check of the manuscript
+Chronicles I–VIII against the ledger (which is *where* the five punch-list errors in item 3 below
+were originally found).
 
-**Status: complete.** Nothing further queued from any of these sources except the items flagged below.
+**Phase 1b — the 7 triaged pre-Book-1 documents (Batches 50–57) — complete.** Kanja_Tactical_Architecture,
+Rexmar_Civilization_Codex_Entry, Lauris_Anirak_Threat_Blueprint, Treasures_of_the_Moonvault, MRD Five
+Book Arcs, the Complete Structural Outline, and Codex_of_Holdfasts — all drafted and locked.
 
-### Loose ends still open from this era (minor, optional)
+**Phase 2 homage era — four cities built (Batches 58–65) — complete at this depth.** NYC (`PH2-001`–`019`),
+LA (`PH2-020`–`034`), Chicago (`PH2-035`–`049`), Detroit (`PH2-050`–`059`), each at full
+territory/leader depth, plus the standing decisions governing the whole era: survival &
+mainline integration (`PH2-048`), world tech level (`PH2-049`), and the naming convention (`PH2-034`).
+A fifth character layer — Arturo "de la Muerte" Salvatierra Duho and NYC's Five Families
+(`PH2-060`–`062`) — was added in Batch 66 as Kanja's standing point of contact, distinct from the
+territory leaders. None of this is "finished" in the sense of never growing again — a 5th+ city,
+Naya, Arturo's prequels, and more territory Chronicles are all open threads — but the structure and
+rigor are established and don't need re-litigating.
+
+None of the above needs any action. It's listed here only so the checklist in §3 reads as genuinely
+the *remaining* work, not a re-derivation of everything already settled.
+
+---
+
+## 3. The Foundation-Complete checklist — 5 steps
+
+### Step 1: Close the 3 genuinely-open decisions
+
+Of the ledger's 11 `open_decisions`, 8 are already resolved. 3 are not, and each is small — a single
+clarifying conversation with Abad, not a research task:
+
+- **`OPEN-005`** — "Session Lock 2 (April 11, 2026)" has been searched for and come up empty three
+  separate times (Batch 39, Batch 40, and originally). Action: formally close it as "confirmed never
+  existed as a standalone document" rather than leaving it open indefinitely.
+- **`OPEN-007`** — the interstitial world-phenomena chapters (an Ever Haunt chapter, a Painter
+  chapter). Action: needs Abad's call on scope — standalone chapters of their own, or folded into
+  material that already exists.
+- **`OPEN-008`** — House Marlunar, House Marvault, and House Marossen need heads/rulers and
+  individual character detail. Action: invent and lock these three at the same rigor as other named
+  houses, once Abad wants to sit down for it.
+
+### Step 2: Scope and resolve the World Atlas question
+
+Abad has floated that the world's geography reference (the Atlas) may need to be redone, likely
+connected to the same mismatch driving Step 3. Currently undefined: does "redone" mean correcting
+specific already-locked `GEO-` rules, producing a new consolidated map/reference document, or
+something else. This needs a short scoping conversation before any drafting — the non-negotiable
+draft-then-approval rule applies here same as everywhere else.
+
+**This step must happen before Step 3.** Rewriting the Chronicles against a still-undefined Atlas
+risks doing the rewrite twice.
+
+### Step 3: Rewrite Chronicles I–VIII
+
+The original manuscript chapters (found in the separate "My Rivals Distance" Drive folder, covering
+battles I–VIII of the Twenty-Two Victories) get rewritten against the now-settled Atlas from Step 2,
+fixing five already-identified errors from the Batch 46–48 punch list in the same pass — these were
+found during the original compliance cross-check but never corrected in the manuscript prose itself,
+only flagged:
+
+- Chronicle VI's closing section misattributes the "Blue-Collar Titan" alias and the
+  4,000-worker/eleven-day strike details to an age-18 pre-rebellion event — those specifics belong to
+  the Furnace District Strike (`MCD-244`, age 21).
+- Chronicle VI calls Maw-9 "a quarry," where canon uses Maw/arena terminology throughout.
+- Chronicle VIII describes *The Receipt*'s capture as a routine patrol intercept, where the locked
+  account (`MCD-242`) has it captured during the eleven-week Reef-Chain Blockade.
+- Chronicle VIII's charcoal-rubbing evidence passage is labeled "Killane," but the method belongs to
+  the Scrip-Forge Raid, not Killane (whose own evidence method is different, `MCD-234`).
+- Garren Hask's stated age (53) doesn't increment between Chronicle I (age-18 Kanja) and Chronicle
+  III (age-19 Kanja).
+
+This is also the first place `VB-026` (the progressive Onyx-of-Oblivion narrator handoff, locked
+Batch 67) actually gets applied to prose — Chronicles I–VIII are exactly the Kanja-POV,
+Rebellion-era material that rule was written for: normal narration at the start, Onyx bleeding in
+gradually, fully in Onyx's voice by the Rebellion's end.
+
+### Step 4: Quick triage of the remaining small backlog
+
+Not full drafts — a decide-or-defer pass, so nothing load-bearing gets missed before declaring the
+foundation done:
+
 - Deeper physiology treatment of Efa Gol and Pell Ostra beyond their thin `MCD-233` mentions.
-- `Undertow`, the last item of the Captain's Five treasures, remains undetailed.
-- `Five_Book_Construction.docx` and `04_Lauris_Psychological_Profile.docx` remain unopened — flagged
-  low-priority/likely-redundant, never picked up.
-- Three long-open decisions: `OPEN-005` (locating "Session Lock 2" — probably never existed as a
-  standalone file), `OPEN-007` (interstitial world-phenomena chapters), `OPEN-008` (House
-  Marlunar/Marvault/Marossen heads).
+- `Undertow`, the last undetailed item of the Captain's Five treasures.
+- `Five_Book_Construction.docx` and `04_Lauris_Psychological_Profile.docx` — both remain unopened,
+  flagged low-priority/likely-redundant with material already extracted elsewhere. Worth a quick
+  confirm-redundant pass rather than a full read.
 
-None of these are blocking anything; they're sitting exactly where they were left, available any time
-Abad wants a dedicated pass.
+### Step 5: Formally declare Pre-Book-1 Foundation Complete
 
----
-
-## 3. Phase 1b — the 7 triaged pre-Book-1 documents — DONE
-
-All seven documents flagged as containing contradictions with locked canon were resolved and then
-expanded into full batches (Batches 49–57): Kanja_Tactical_Architecture (gear specs, `MCD-291`–`293`,
-`ARS-344`–`356`), Rexmar_Civilization_Codex_Entry (`MCD-294`–`312`),
-Lauris_Anirak_Threat_Blueprint (`ARS-357`–`374`), Treasures_of_the_Moonvault (`MCD-315`–`318`,
-`ARS-375`–`383`), MRD Five Book Arcs (`CC-123`–`126`, `MCD-319`), the Complete Structural Outline
-(`CC-127`–`128`, `MCD-320`–`330`, `ARS-384`–`387`), and Codex_of_Holdfasts (`HLD-015`–`021`).
-
-**Status: complete.** Phase 1b is fully closed.
+Once Steps 1–4 land, lock a short standing note in the ledger declaring the milestone reached, with
+an explicit statement that ongoing Phase 2 expansion — further homage cities, more territory
+Chronicles, Arturo's prequels, the Kanja-becomes-family arc, more Kanja Chronicles generally —
+continues indefinitely as parallel creative work, not something this milestone closes off.
 
 ---
 
-## 4. Phase 2 — the homage era — DONE
-
-Three homage-era cities, each built at territory/leader/supporting-cast/twist-character depth, then
-converted into locked canon under the new `PH2-` prefix:
+## 4. Phase 2 homage era — reference (already done, see §2)
 
 | City | Batch locked | Territories/leaders | Rules |
 |---|---|---|---|
 | NYC | 59 | Xaragua/Ogoun Xarey, Areíto/Kwame Ade, Yara/Yalokona, Guanín/Eri Kotoko, Boriken/Guaní | `PH2-001`–`019` |
 | LA | 59 | Sankofa/Baálé, Aztlán/Ollin, Atunbi/Oluwole, Ijoko/Adwoa, Orin/Onilu | `PH2-020`–`034` |
-| Chicago | 60 | Ide/Ase, Kwan/Kasa, Umoja/Kofi, Jibaro/Omoba, Uhuru/Ofin | `PH2-035`–`047` |
+| Chicago | 60 | Ide/Ase, Kwan/Kasa, Umoja/Kofi, Jibaro/Omoba, Uhuru/Ofin | `PH2-035`–`049` |
+| Detroit | 65 | Kazi/Irin, Taifa/Osei, Hekalu/Adom, Nyansa/Adisa, Kiti/Owusu | `PH2-050`–`059` |
 
-Plus two standing decisions locked in Batch 60:
-- **Survival & mainline integration (`PH2-048`):** every homage-era character is a comrade of
-  Kanja's; survivors of their own real-world-mirrored near-deaths (hand-picked by Abad, not
-  automatic) live long enough, given this world's baseline lifespans, to become ancient veterans by
-  Kanja's own era and guest-appear in new Chronicles. Applied so far: Kofi (Hampton), Baálé and Kra
-  (Carter and Huggins), Ohun (Salazar).
-- **World tech level (`PH2-049`):** pre-industrial, no broadcast media, no firearms — homage
-  characters built on incompatible real-world tech get translated to period-appropriate equivalents
-  (e.g., Duro/Doss rebuilt as a public crier, not a cable-TV host).
-
-Also locked: the naming convention itself (invented names only, no real-world proper nouns, blended
-Taíno/Yoruba/Akan/Kikongo/Nahuatl/Swahili vocabulary, pronounceability over etymological purity,
-`PH2-034`), and the Toussaint Louverture → Legbara Kalunga rename (Batch 58) that brought an
-already-locked mainline character into alignment with this convention.
-
-**Status: complete.** No open Phase 2 threads remain.
+Plus NYC's Five Families layer (Arturo Salvatierra Duho, Yaisa — `PH2-060`–`062`, Batch 66), and the
+standing decisions governing the whole era: survival & mainline integration (`PH2-048`), world tech
+level (`PH2-049`), the naming convention (`PH2-034`).
 
 ---
 
-## 5. The Kanja Chronicles — new prose — IN PROGRESS, open-ended
+## 5. The territory Chronicles — reference (open-ended, not part of the checklist)
 
-Once Phase 2 characters existed, work began on new narrative prose — "Chronicles" — depicting Kanja
-himself, spanning his Rebellion (ages 18–30) and Long Mask (ages 31–314) eras, with guest appearances
-by homage-era comrades. Three written and locked so far, each slotted into an already-locked mainline
-battle/event so no existing fact is disturbed, each guest left unnamed on-page, each leaving its own
-unresolved narrative hook:
+Four written and locked so far. Each is close-third on its own territory protagonist, with Kanja
+appearing only as an unnamed guest — the structure corrected in Batch 64 after the first three
+attempts (withdrawn `MCD-331`–`333`) had it backwards:
 
-| Chronicle | Batch | Rule | Slots into | Guest | Hook left behind |
-|---|---|---|---|---|---|
-| IX, "The Ledger and the Chain" | 61 | `MCD-331` | Maw-15 liberation (`MCD-264`, age 165) | Ogoun Xarey (Xaragua) | A carved, untranslated word in the seawall stone |
-| X, "What the Ledger Owes" | 62 | `MCD-332` | Furnace District Strike (`MCD-244`, age 21) | Kofi (Umoja) | A folk phrase, "same fire, different hands" |
-| XI, "What Holds in the Light" | 63 | `MCD-333` | Second Century Mark truce (`MCD-260`, age 200) | Yalokona (Yara) | An unidentified ledger filing |
+| Chronicle | Batch | Rule | Protagonist | What happens |
+|---|---|---|---|---|
+| Xaragua I, "The Line That Did Not Break" | 64 | `MCD-334` | Ogoun Xarey | Holds a coastal redoubt; unnamed Kanja fights in the thinned line, buying the minutes that save the evacuation |
+| Umoja I, "The Man Who Mapped the Door" | 64 | `MCD-335` | Kofi | Survives an assassination raid mapped by his own informant; unnamed Kanja is the factor that tips it to a clean survival |
+| Xaragua II, "The Man at the Head of the Table" | 66 | `MCD-337` | Arturo Salvatierra Duho | Introduces Arturo and the Five Families; chronologically first, explains how Kanja became trusted across NYC |
+| Yara I, "The Seat She Did Not Wait For" | 64 | `MCD-336` | Yalokona | Defies her movement's leadership to announce her candidacy; unnamed Kanja is one more witness |
 
-Full narrative text for each lives in `docs/lords-of-cian/chronicles/`.
-
-**Status: ongoing.** No specific next Chronicle is queued — this continues as long as Abad wants more
-written. The stated long-term payoff: the growing, accumulating number of these guest appearances
-"bleeds into Book 1" and becomes the reinforcement that turns the tide roughly midway through the
-five-book series.
+Full narrative text lives in `docs/lords-of-cian/chronicles/`. **Status: ongoing, open-ended by
+design** — not gated by, or gating, the Foundation-Complete checklist above.
 
 ---
 
-## 6. NEW items flagged 2026-09-05 — NOT YET STARTED
+## 6. Flagged future directions — not yet drafted, no action needed now
 
-Raised this session, distinct from everything above:
-
-### 6a. Chronicles I–VIII rewrite
-The original manuscript chapters (the finished prose found in the separate "My Rivals Distance" Drive
-folder, covering battles I–VIII of the Twenty-Two Victories) need a rewrite pass. Two kinds of
-problems:
-
-1. **Geography/place-name mismatch.** Abad's read: the manuscript's sense of where characters are and
-   what they're facing at a given moment doesn't line up with the locked Atlas. This hasn't been
-   audited chapter-by-chapter yet — it needs a fresh pass specifically checking each chapter's
-   geography against the locked `GEO-`/`MCD-090`–`111`-family rules, not just the plot-fact
-   cross-check Batches 46–48 already did.
-2. **Specific errors already on record**, from the Batch 46–47/48 cross-check punch list, never
-   corrected because the manuscript itself was never edited (only the ledger was, where the
-   underlying fact needed fixing):
-   - Chronicle VI's closing section misattributes the "Blue-Collar Titan" alias and the
-     4,000-worker/eleven-day strike details to an age-18 pre-rebellion event — those specifics belong
-     to the Furnace District Strike (`MCD-244`, age 21).
-   - Chronicle VI calls Maw-9 "a quarry," where canon uses Maw/arena terminology throughout.
-   - Chronicle VIII describes *The Receipt*'s capture as a routine patrol intercept, where the locked
-     account (`MCD-242`) has it captured during the eleven-week Reef-Chain Blockade.
-   - Chronicle VIII's charcoal-rubbing evidence passage is labeled "Killane," but the method belongs
-     to the Scrip-Forge Raid, not Killane (whose own evidence method is different, `MCD-234`).
-   - Garren Hask's stated age (53) doesn't increment between Chronicle I (age-18 Kanja) and Chronicle
-     III (age-19 Kanja).
-
-**Status: not started.** Per Abad's direction, this waits until Phase 2 material has fully settled.
-
-### 6b. World Atlas redo
-Abad floated that the Atlas itself — the world's geography reference — may also need to be redone,
-likely as a consequence of the same mismatch driving the Chronicles I–VIII rewrite. Scope not yet
-defined: whether this means correcting specific already-locked `GEO-` rules, producing a new
-consolidated map/reference document, or something else hasn't been specified yet.
-
-**Status: not started, scope undefined.** Worth a short scoping conversation before any drafting
-begins, given the non-negotiable draft-then-approval rule applies here too.
-
-**Suggested order:** Atlas review before the Chronicles I–VIII rewrite, not after — fixing the
-Chronicles against a still-uncertain Atlas risks a second rewrite once the Atlas itself changes.
+- **Naya**, Arturo's protegee — deliberately left for a future Xaragua Chronicle.
+- **Kanja eventually becomes one of Arturo's loved ones** capable of unguarded banter — a long-arc
+  promise across future Chronicles, not dramatized yet.
+- **Arturo's prequel Chronicles** — set before Xaragua Chronicle II, intended to show his
+  vulnerabilities, breakdowns, and the genuinely tragic journey behind how he became unflappable.
+- **A 5th+ Phase 2 homage city** — no candidate chosen yet beyond Detroit.
 
 ---
 
@@ -195,26 +206,23 @@ The real fix is written and waiting, unexecuted: `research/knowledge-home/struct
 core-merge-instructions.md`, which merges this repo with the operator's real Knowledge Core and pulls
 in the missing `brain-trust-on-demand-protocol.md`. Needs a device-bridge session to run.
 
-**Status: blocked**, pending a session with the device bridge live.
+**Status: blocked**, pending a session with the device bridge live. Not sequenced against the
+Foundation-Complete checklist in §3 — Abad can run this in parallel, or after, whichever he prefers.
 
 ---
 
-## 9. Suggested sequencing going forward
+## 9. Suggested sequencing
 
 Everything below is Abad's call — this is a suggested order, not a decision:
 
-1. **Keep writing Chronicles** as the mood strikes — this is explicitly open-ended and doesn't block
-   or get blocked by anything else.
-2. **Scope the Atlas redo** — a short conversation on what "redone" means before any drafting, since
-   it's currently undefined and touches already-locked `GEO-` rules.
-3. **Rewrite Chronicles I–VIII** once the Atlas question is settled, fixing both the geography mismatch
-   and the five already-identified punch-list errors in the same pass.
-4. **Optional cleanup pass**, whenever there's a lull: the Efa Gol/Pell Ostra deeper treatment,
-   Undertow, and the two unopened low-priority documents (`Five_Book_Construction.docx`,
-   `04_Lauris_Psychological_Profile.docx`) — none of these are blocking anything, just unfinished
-   threads sitting exactly where they were left.
-5. **Run the device-bridge merge** whenever a Cowork/local session is available, to unblock the real
-   Brain Trust review and close out the SEO/GEO charter question for the archive app.
+1. **Steps 1–2 first** (close the 3 open decisions, scope the Atlas) — both are short conversations,
+   not drafting work, and Step 2 has to land before Step 3 can start.
+2. **Step 3** (Chronicles I–VIII rewrite) once the Atlas is settled — this is the largest single item
+   on the checklist.
+3. **Step 4** (backlog triage) whenever there's a lull — genuinely optional, low-cost.
+4. **Step 5** (formal declaration) once 1–4 are done.
+5. **The archive-app device-bridge session** can happen any time, independent of 1–4 — it just needs
+   a Cowork/local session with the bridge live, which this session doesn't have.
 
-None of the above is sequenced by urgency beyond what's listed — work whichever thread Abad points to
-next, same as always.
+Keep writing territory Chronicles and expanding Phase 2 (§5, §6) whenever the mood strikes throughout
+all of the above — that thread was never blocked by any of this and isn't part of the checklist.
