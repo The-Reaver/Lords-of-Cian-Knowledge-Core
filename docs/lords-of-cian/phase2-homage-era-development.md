@@ -913,6 +913,25 @@ translated into what this world actually has.
   fire, different hands") alongside Chronicle IX's carved word -- both waiting for a future
   Chronicle to draw together once more homage-era comrades accumulate. Abad approved the drafted
   text, then said "approved." Ledger now at version 6.5, 899 rules, 62 batches.
+- **New standing NYC character, Batch 66, 2026-09-06 (`MCD-337`, `PH2-060` through `PH2-062`).**
+  Arturo "de la Muerte" Salvatierra Duho, a Xaragua native leading the Five Families -- a citywide
+  organized-crime/peacekeeping layer above NYC's five territories, one family per territory,
+  extending Areito's Policy-era underworld (`PH2-011`). Unlike every other homage-era guest so far,
+  he's not a one-off appearance in a Kanja battle -- he's Kanja's standing point of contact across
+  all five NYC territories. Physics deliberately non-density (a biochemical branch): his ability
+  "Blood Debt" has three faces (protective clotting/detox at close range, an almost-never-used
+  lethal reverse, and his own arrested aging spent each time the reverse is used). Two surnames per
+  Abad's direction (Salvatierra kept, Duho -- the real Taino word for a cacique's ceremonial seat of
+  judgment -- added). His tormented-past backstory (a dock-boy cohort nearly wiped out by war and
+  Xaragua's own street war, leaving only him and Yaisa) is the actual source of his authority, not
+  color. Introduced in Xaragua Chronicle II, "The Man at the Head of the Table" (`MCD-337`) --
+  chronologically the *first* Xaragua Chronicle, explaining how Kanja was already trusted enough to
+  appear unchallenged in Chronicle I and Yara Chronicle I. Kanja stays unnamed to Arturo too (an
+  intentional walk-back of an earlier draft that named him) -- passage granted on tested behavior
+  alone. Yaisa (`PH2-062`), the sole other survivor of Arturo's generation and his second-in-command,
+  is seeded silently in the same Chronicle. Naya (his protegee) and the flagged promise that Kanja
+  himself eventually becomes one of Arturo's loved ones are both left for future Chronicles. Ledger
+  now at version 6.9, 917 rules, 66 batches.
 - ~~Third Kanja Chronicle with a homage-era comrade guest appearance~~ **done, Batch 63,
   2026-09-05 (`MCD-333`).** Chronicle XI ("What Holds in the Light," full text at
   `docs/lords-of-cian/chronicles/chronicle-xi-what-holds-in-the-light.md`) slots into the

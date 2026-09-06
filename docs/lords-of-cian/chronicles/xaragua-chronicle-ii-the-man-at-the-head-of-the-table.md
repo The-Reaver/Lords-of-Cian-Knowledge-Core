@@ -1,6 +1,7 @@
 # Xaragua Chronicle II: The Man at the Head of the Table
 
-*Draft, 2026-09-06, pending Abad's review before any lock. Second entry in Xaragua's own Chronicles,
+*Locked canon, Batch 66, 2026-09-06 (`MCD-337`, plus `PH2-060` through `PH2-062` for the Five
+Families, Arturo, and Yaisa). Second entry in Xaragua's own Chronicles,
 chronologically the *first* of the two in-universe -- it precedes Xaragua Chronicle I and Yara Chronicle
 I, and is written here to retroactively establish the mechanism that let Kanja move through both of
 them. Protagonist: Arturo "de la Muerte" Salvatierra Duho -- two surnames, per Abad's direction, the
