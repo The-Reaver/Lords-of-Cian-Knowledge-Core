@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.3, 923 rules, 70 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.4, 923 rules, 71 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -23,7 +23,7 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 
 ## Merge script pattern
 
-Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 71): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
+Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 72): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
 
 ## Standing conventions
 
@@ -135,8 +135,21 @@ Chronicle V's fine historical usage), and Chronicle VIII (*The Receipt*'s captur
 a routine patrol intercept instead of the Reef-Chain Blockade per `MCD-242`, and the charcoal-rubbing
 evidence statistic mislabeled "from Killane" when it belongs to the Scrip-Forge Raid per `MCD-286`).
 All 8 chapters already use the pre-`VB-026` short-end-coda Onyx structure, which matches that rule's
-intended early-Rebellion state -- no voice-structure rewrite has been needed so far. Abad's approval
-for Batch 70: "lock it."
+intended early-Rebellion state -- no voice-structure rewrite has been needed anywhere in the pass.
+Abad's approval for Batch 70: "lock it."
+
+**Step 3 closed, Batch 71, 2026-09-06.** The remaining two chapters fixed, no new canon facts --
+pure prose corrections to match already-locked material. Chronicle VI: the Blue-Collar Titan/
+4,000-worker misattribution (which forward-referenced the not-yet-happened Furnace District Strike)
+replaced with a correct callback to the Scrip-Forge Raid, already discussed earlier in the same
+chapter; "liberated twelve thousand human beings from a quarry" corrected to "from Maw-9." Chronicle
+VIII: *The Receipt*'s capture corrected to the eleven-week Reef-Chain Blockade/Kothrane Narrows per
+`MCD-242`; the 1.2-million-worker charcoal-rubbing evidence relabeled from "Killane" to "the
+Scrip-Forge Raid" per `MCD-286`. Chronicle VII needed no prose changes at all -- its own claim that
+Ash Harbor sits on "Jicome's southern coast" was already correct; it just needed `GEO-006` to exist.
+Corrected texts at `docs/lords-of-cian/chronicles/chronicle-vi-the-sewer-war-of-killane.md` and
+`chronicle-viii-the-ash-wharf-massacre.md`. **All 8 manuscript Chronicles are now clean or corrected
+-- roadmap Step 3 is done.** Abad's approval: "lock it."
 
 ## Separate, unrelated thread: the interactive archive app
 

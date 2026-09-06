@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "7.3",
+  "ledger_version": "7.4",
   "last_updated": "2026-09-06",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -652,6 +652,15 @@
       "source_doc": "Chronicles I-VIII rewrite (roadmap Step 3), first pass: locks GEO-006 (Killane, Ash Harbor placed within Jicome's Atlas grid) and amends GEO-005's count. Chronicle III's corrected narrative text (Hask's age fix, Corren Halst/Danne Sok/Maret Vos added to the Black Trench) saved at docs/lords-of-cian/chronicles/chronicle-iii-the-battle-of-the-black-trench.md.",
       "source_id": null,
       "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it\""
+    },
+    {
+      "batch": 71,
+      "source_doc": "Chronicles I-VIII rewrite (roadmap Step 3), final pass: corrects Chronicle VI's Blue-Collar Titan misattribution and 'quarry'-as-Maw-9 terminology, and Chronicle VIII's Receipt-capture account and Killane evidence mislabeling, against locked canon (MCD-234, MCD-242, MCD-244, MCD-286). Chronicle VII needed no prose changes once GEO-006 (Batch 70) placed Ash Harbor on the Atlas. No new canon facts; corrected texts saved to docs/lords-of-cian/chronicles/. Closes roadmap Step 3 -- all 8 manuscript Chronicles now clean or corrected.",
+      "source_id": null,
+      "rule_count": 0,
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"lock it\""

@@ -1,7 +1,7 @@
 # Lords of Cian Canon Project — Path to Pre-Book-1 Foundation Complete
 
 *Refreshed 2026-09-06, at Abad's request for a roadmap to completion so canon work can hand off
-cleanly to the archive app. Reflects the ledger through Batch 70 (`ledger_version` 7.3, 923 rules).*
+cleanly to the archive app. Reflects the ledger through Batch 71 (`ledger_version` 7.4, 923 rules).*
 
 ## What "completion" means here
 
@@ -20,7 +20,7 @@ blocked on canon work to begin with.
 
 | | |
 |---|---|
-| **Canon ledger** | `canon-ledger.json` — 923 rules, 70 batches, 0 duplicate IDs, 0 rules stuck in draft |
+| **Canon ledger** | `canon-ledger.json` — 923 rules, 71 batches, 0 duplicate IDs, 0 rules stuck in draft |
 | **Foundational lore extraction** | Done (Batches 1–49) |
 | **Phase 1b (7 triaged Lore Vault documents)** | Done (Batches 50–57) |
 | **Phase 2 (homage era: NYC, LA, Chicago, Detroit)** | Done — 4 cities built (Batches 58–65); ongoing expansion (5th+ cities, more Chronicles) is open-ended by design, not part of this checklist |
@@ -28,9 +28,9 @@ blocked on canon work to begin with.
 | **`VB-026`** (progressive Onyx-narrator handoff for Book 1 / Chronicles I–VIII) | Locked (Batch 67), not yet applied to any text |
 | **Foundation item 1 — 3 genuinely-open decisions** | **Done (Batch 69)** |
 | **Foundation item 2 — World Atlas scope/redo** | **Done (Batch 68)** — `GEO-003`/`GEO-005` corrected against the live Atlas source |
-| **Foundation item 3 — Chronicles I–VIII rewrite** | In progress (Batch 70) — 1 of 8 rewritten (III), 4 confirmed clean (I, II, IV, V), 3 left (VI, VII, VIII) |
-| **Foundation item 4 — small backlog triage** | Not started |
-| **Foundation item 5 — formal Foundation-Complete declaration** | Blocked on items 1–4 |
+| **Foundation item 3 — Chronicles I–VIII rewrite** | **Done (Batch 71)** — all 8 chapters clean or corrected |
+| **Foundation item 4 — small backlog triage** | Not started, now unblocked |
+| **Foundation item 5 — formal Foundation-Complete declaration** | Blocked on item 4 only |
 | **Interactive archive app** (separate repo) | Scaffolded, not blocked on canon work |
 | **Real Brain Trust review (SEO/GEO charter)** | Blocked — needs a device-bridge session (see §7) |
 
@@ -100,7 +100,7 @@ Deferred as `OPEN-012`, not blocking Step 3: the live sheet's own remaining unde
 orphan map codes, two sizeable undefined areas `RA`/`UK`, an undefined `##` symbol, and "the
 Throat"/"the Teeth" having no located placement) — Abad doesn't currently recall their intent.
 
-### Step 3: Rewrite Chronicles I–VIII — in progress (Batch 70)
+### Step 3: Rewrite Chronicles I–VIII — DONE (Batches 70–71)
 
 The original manuscript chapters (found in the separate "My Rivals Distance" Drive folder, covering
 battles I–VIII of the Twenty-Two Victories) get rewritten against the now-corrected Atlas from Step 2.
@@ -127,31 +127,35 @@ Chronicle V's own opening line, which already presupposed their presence — a r
 inconsistency the original manuscript never resolved. No geography changes needed; this chapter's
 place names read clean against the Atlas.
 
-**Still to fix — 3 chapters, all with confirmed errors:**
-- **Chronicle VI** (Sewer War of Killane, age 20) — both flagged punch-list errors confirmed present
-  verbatim: the closing section misattributes the "Blue-Collar Titan" alias and the
-  4,000-worker/eleven-day strike details to this age-20 event, when those specifics belong to the
-  later Furnace District Strike (`MCD-244`, age 21); and Maw-9 is called "a quarry" as an operative
-  name, not a historical description (the real error Chronicle V's similar phrasing turned out not to
-  be). Also: Killane itself didn't exist anywhere in the live Atlas — now placed and locked at
-  `GEO-006` (Batch 70, see below), so this chapter's rewrite can reference it as a real Jicome-region
-  site.
-- **Chronicle VII** (Siege of the Ghost Harbor, age 21) — one new geography gap found: "Ash Harbor"
-  (the site's name before the battle earns it "Ghost Harbor") didn't match any known Jicome site in
-  the live Atlas — same `GEO-006` fix as Killane resolves this.
-- **Chronicle VIII** (Ash-Wharf Massacre, age 22) — both flagged punch-list errors confirmed present
-  verbatim: *The Receipt*'s capture is described as a routine patrol intercept south of "the Jicome
-  Strait" (a place name absent from the Atlas), where the locked account (`MCD-242`) has it captured
-  during the eleven-week Reef-Chain Blockade/Kothrane Narrows; and the charcoal-rubbing evidence
-  statistic (1.2 million workers, 40%, twelve years) is labeled "from Killane," but that method and
-  statistic belong to the Scrip-Forge Raid (`MCD-286`) — Killane's real, locked evidence method is
-  four months of undetected Scrip-Registry copying (`MCD-234`), no charcoal rubbings at all.
+**Fixed — Chronicle VI and Chronicle VIII (Batch 71).** No new canon facts, pure prose corrections to
+match already-locked material:
+
+- **Chronicle VI** (Sewer War of Killane, age 20) — both flagged punch-list errors confirmed and
+  fixed: the closing section's "Blue-Collar Titan"/4,000-worker misattribution (which forward-
+  referenced the not-yet-happened Furnace District Strike, `MCD-244`, age 21) replaced with a correct
+  callback to the Scrip-Forge Raid, already discussed earlier in the same chapter; "liberated twelve
+  thousand human beings from a quarry" corrected to "from Maw-9," matching arena/Maw terminology
+  (distinct from Chronicle V's fine historical "quarry" usages describing the site's origin).
+- **Chronicle VII** (Siege of the Ghost Harbor, age 21) — needed **no prose changes at all**. Its own
+  claim that Ash Harbor sits on "Jicome's southern coast" was already correct; it just needed
+  `GEO-006` (below) to exist so the Atlas had somewhere to place it.
+- **Chronicle VIII** (Ash-Wharf Massacre, age 22) — both flagged punch-list errors confirmed and
+  fixed: *The Receipt*'s capture corrected from "a patrol intercept south of the Jicome Strait" to the
+  eleven-week Reef-Chain Blockade/Kothrane Narrows per `MCD-242`; the charcoal-rubbing evidence
+  statistic (1.2 million workers, 40%, twelve years) relabeled from "Killane" to "the Scrip-Forge
+  Raid" per `MCD-286` — Killane's real, locked evidence method is four months of undetected
+  Scrip-Registry copying (`MCD-234`), no charcoal rubbings at all.
+
+Corrected texts at `docs/lords-of-cian/chronicles/chronicle-vi-the-sewer-war-of-killane.md` and
+`chronicle-viii-the-ash-wharf-massacre.md`.
 
 **Geography fix, done alongside Chronicle III (Batch 70):** `GEO-006` locks Killane (Hold,
 Corehold-class fortress-city, Jicome's southern district) and Ash Harbor (Settlement, Port-class,
 Jicome's southern coast, informally renamed Ghost Harbor in-story) within Jicome's existing Atlas
 grid — neither existed anywhere in the live Regional Atlas before this. `GEO-005`'s count amended to
 note these two sit outside its free-to-rename 52.
+
+**All 8 manuscript Chronicles are now clean or corrected. Step 3 is done.**
 
 All 8 chapters currently use the pre-`VB-026` structure (neutral third-person body + a short,
 separately-headed end-of-chapter Onyx-of-Oblivion coda) — this already matches `VB-026`'s intended
@@ -260,10 +264,10 @@ Everything below is Abad's call — this is a suggested order, not a decision:
 
 1. ~~Step 1 (close the 3 open decisions)~~ **done, Batch 69.**
 2. ~~Step 2 (scope the Atlas)~~ **done, Batch 68.**
-3. **Step 3** (Chronicles I–VIII rewrite), in progress — Chronicle III done (Batch 70), 4 chapters
-   confirmed clean (I, II, IV, V), 3 chapters left with confirmed fixes queued (VI, VII, VIII).
-4. **Step 4** (backlog triage) whenever there's a lull — genuinely optional, low-cost.
-5. **Step 5** (formal declaration) once 3 and 4 are done — Steps 1 and 2 are already closed.
+3. ~~Step 3 (Chronicles I–VIII rewrite)~~ **done, Batches 70–71.** All 8 chapters confirmed clean or
+   corrected.
+4. **Step 4** (backlog triage), now the only remaining item — genuinely optional, low-cost.
+5. **Step 5** (formal declaration) once Step 4 is done.
 6. **The archive-app device-bridge session** can happen any time, independent of the above — it just
    needs a Cowork/local session with the bridge live, which this session doesn't have.
 
