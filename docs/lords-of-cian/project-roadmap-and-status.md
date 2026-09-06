@@ -1,7 +1,7 @@
 # Lords of Cian Canon Project — Path to Pre-Book-1 Foundation Complete
 
 *Refreshed 2026-09-06, at Abad's request for a roadmap to completion so canon work can hand off
-cleanly to the archive app. Reflects the ledger through Batch 67 (`ledger_version` 7.0, 918 rules).*
+cleanly to the archive app. Reflects the ledger through Batch 68 (`ledger_version` 7.1, 918 rules).*
 
 ## What "completion" means here
 
@@ -27,8 +27,8 @@ blocked on canon work to begin with.
 | **Territory Chronicles** (Xaragua, Umoja, Yara) | 4 written and locked, open-ended; see §5 |
 | **`VB-026`** (progressive Onyx-narrator handoff for Book 1 / Chronicles I–VIII) | Locked (Batch 67), not yet applied to any text |
 | **Foundation item 1 — 3 genuinely-open decisions** | Not started |
-| **Foundation item 2 — World Atlas scope/redo** | Not started, scope undefined |
-| **Foundation item 3 — Chronicles I–VIII rewrite** | Not started, waiting on item 2 |
+| **Foundation item 2 — World Atlas scope/redo** | **Done (Batch 68)** — `GEO-003`/`GEO-005` corrected against the live Atlas source |
+| **Foundation item 3 — Chronicles I–VIII rewrite** | Not started, now unblocked |
 | **Foundation item 4 — small backlog triage** | Not started |
 | **Foundation item 5 — formal Foundation-Complete declaration** | Blocked on items 1–4 |
 | **Interactive archive app** (separate repo) | Scaffolded, not blocked on canon work |
@@ -82,21 +82,28 @@ clarifying conversation with Abad, not a research task:
   individual character detail. Action: invent and lock these three at the same rigor as other named
   houses, once Abad wants to sit down for it.
 
-### Step 2: Scope and resolve the World Atlas question
+### Step 2: Scope and resolve the World Atlas question — DONE (Batch 68)
 
-Abad has floated that the world's geography reference (the Atlas) may need to be redone, likely
-connected to the same mismatch driving Step 3. Currently undefined: does "redone" mean correcting
-specific already-locked `GEO-` rules, producing a new consolidated map/reference document, or
-something else. This needs a short scoping conversation before any drafting — the non-negotiable
-draft-then-approval rule applies here same as everywhere else.
+Turned out to be a bounded correction, not a full rebuild. `GEO-004` had already flagged the locked
+`GEO-` rules as extracted from a stale pre-correction snapshot; the live source (a Google Sheet,
+`The Lords_of_Cian_Regional_Atlas`) was located and audited in full against them
+(`research/atlas-live-sheet-audit.md`). Two real mismatches, both corrected per Abad's ruling that
+the live sheet controls:
 
-**This step must happen before Step 3.** Rewriting the Chronicles against a still-undefined Atlas
-risks doing the rewrite twice.
+- `GEO-003` was missing Lawless Reaches' capital/Maw sites entirely (now includes Ironhold plus its
+  Maw-class venue cluster) and wrongly named Khorvane as Old Dominion Ruins' capital (OD genuinely
+  has none in the live source; Khorvane is a plain Hold).
+- `GEO-005`'s "roughly 40" Hold/Settlement estimate corrected to the live Gazetteer's actual count
+  (52, plus one Wardline).
 
-### Step 3: Rewrite Chronicles I–VIII
+Deferred as `OPEN-012`, not blocking Step 3: the live sheet's own remaining undefined artifacts (two
+orphan map codes, two sizeable undefined areas `RA`/`UK`, an undefined `##` symbol, and "the
+Throat"/"the Teeth" having no located placement) — Abad doesn't currently recall their intent.
+
+### Step 3: Rewrite Chronicles I–VIII — now unblocked
 
 The original manuscript chapters (found in the separate "My Rivals Distance" Drive folder, covering
-battles I–VIII of the Twenty-Two Victories) get rewritten against the now-settled Atlas from Step 2,
+battles I–VIII of the Twenty-Two Victories) get rewritten against the now-corrected Atlas from Step 2,
 fixing five already-identified errors from the Batch 46–48 punch list in the same pass — these were
 found during the original compliance cross-check but never corrected in the manuscript prose itself,
 only flagged:
@@ -215,14 +222,14 @@ Foundation-Complete checklist in §3 — Abad can run this in parallel, or after
 
 Everything below is Abad's call — this is a suggested order, not a decision:
 
-1. **Steps 1–2 first** (close the 3 open decisions, scope the Atlas) — both are short conversations,
-   not drafting work, and Step 2 has to land before Step 3 can start.
-2. **Step 3** (Chronicles I–VIII rewrite) once the Atlas is settled — this is the largest single item
-   on the checklist.
-3. **Step 4** (backlog triage) whenever there's a lull — genuinely optional, low-cost.
-4. **Step 5** (formal declaration) once 1–4 are done.
-5. **The archive-app device-bridge session** can happen any time, independent of 1–4 — it just needs
-   a Cowork/local session with the bridge live, which this session doesn't have.
+1. **Step 1** (close the 3 open decisions) — short conversations, not drafting work.
+2. ~~Step 2 (scope the Atlas)~~ **done, Batch 68.**
+3. **Step 3** (Chronicles I–VIII rewrite), now unblocked — this is the largest single item on the
+   checklist.
+4. **Step 4** (backlog triage) whenever there's a lull — genuinely optional, low-cost.
+5. **Step 5** (formal declaration) once 1, 3, and 4 are done.
+6. **The archive-app device-bridge session** can happen any time, independent of the above — it just
+   needs a Cowork/local session with the bridge live, which this session doesn't have.
 
 Keep writing territory Chronicles and expanding Phase 2 (§5, §6) whenever the mood strikes throughout
 all of the above — that thread was never blocked by any of this and isn't part of the checklist.

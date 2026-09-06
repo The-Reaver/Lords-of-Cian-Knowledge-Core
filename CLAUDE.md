@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.0, 918 rules, 67 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.1, 918 rules, 68 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -23,7 +23,7 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 
 ## Merge script pattern
 
-Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 68): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
+Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 69): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
 
 ## Standing conventions
 
@@ -89,6 +89,19 @@ time); (4) a quick triage of the small remaining backlog (Efa Gol/Pell Ostra dep
 unopened low-priority docs); (5) formally declare the milestone reached. Separately and not
 sequenced against the above: the archive-app device-bridge session (see the standing blocker below)
 can run any time Abad has a Cowork/local session available.
+
+~~Step 2, World Atlas scoping~~ **done, Batch 68, 2026-09-06 (`GEO-003`/`GEO-005` amended,
+`OPEN-012`).** Found the live Regional Atlas Google Sheet (`The Lords_of_Cian_Regional_Atlas`, Drive
+fileId `1uhvmYi-52L4lpfbDn44WE1HiJwu8TgWDlGHVVPG524c`) that `GEO-004` already flagged the locked
+rules as a stale snapshot of. Full audit at `research/atlas-live-sheet-audit.md`. Two real
+mismatches corrected: `GEO-003` was missing Lawless Reaches entirely (now has its capital, Ironhold,
+plus its Maw-class venues) and wrongly named Khorvane as Old Dominion Ruins' capital (per Abad's
+ruling the live sheet controls -- OD genuinely has no capital, Khorvane is a plain Hold); `GEO-005`'s
+"roughly 40" Hold/Settlement estimate corrected to the live Gazetteer's actual 52 + one Wardline. The
+live sheet's own remaining undefined artifacts (two orphan codes, two sizeable undefined areas
+`RA`/`UK`, an undefined `##` symbol, and "the Throat"/"the Teeth" having no located placement) are
+deferred as `OPEN-012` -- Abad doesn't currently recall their intent. This closes the Atlas scoping
+question; the Chronicles I-VIII rewrite (Step 3) can now proceed against a corrected Atlas.
 
 ## Separate, unrelated thread: the interactive archive app
 

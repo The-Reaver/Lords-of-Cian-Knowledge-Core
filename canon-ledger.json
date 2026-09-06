@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "7.0",
+  "ledger_version": "7.1",
   "last_updated": "2026-09-06",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -628,6 +628,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"Onyx of Oblivion is confirmed. and I approve the colonizer backstory Amendment\""
+    },
+    {
+      "batch": 68,
+      "source_doc": "World Atlas scoping (roadmap Step 2): corrects GEO-003 (adds Lawless Reaches' capital, removes Khorvane as Old Dominion Ruins' capital) and GEO-005 (accurate Hold/Settlement count) against the live Regional Atlas Google Sheet, per research/atlas-live-sheet-audit.md. Locks OPEN-012 for the sheet's remaining undefined artifacts.",
+      "source_id": null,
+      "rule_count": 0,
+      "status": "complete",
+      "conflicts_found": 2,
+      "note": "Abad: \"confirmed\""
     }
   ],
   "rules": [
@@ -1691,7 +1700,7 @@
     {
       "id": "GEO-003",
       "category": "atlas-canon-sites",
-      "statement": "The atlas's canon-locked Capital/Maw sites, one per region: Rexhaven, Ironmere, The Spire, Praetura/Maw-15, Kairo, Skyvault, Khorvane, Karkosa/Maw-7 Slab, Frontier Maw/Moonvault, Dark Spire.",
+      "statement": "The atlas's canon-locked Capital/Maw sites, one per region: Rexhaven (Jicome), Ironmere (Aethel-Gard), The Spire (Zenith), Praetura/Maw-15 (The Prefecture), Kairo (The Shogunate), Skyvault (Astral Archipelago), Karkosa/Maw-7 Slab (Sovereign Trust Domain), Ironhold plus the Ash Maw Scar/Maw-1 Mother/Maw-3 Belly cluster (Lawless Reaches), Frontier Maw/Moonvault (Shattered Kingdoms), Dark Spire (T.D.K. Peninsula). Old Dominion Ruins has no canon-locked capital or Maw site -- fitting its fallen-civilization theming. Khorvane is a Hold within Old Dominion Ruins, not its capital; the earlier draft's naming of Khorvane as OD's capital is corrected here, per Abad's ruling that the live Atlas source controls over the earlier stale extraction.",
       "status": "LOCKED",
       "source": "Lords_of_Cian_Regional_Atlas.xlsx"
     },
@@ -1705,7 +1714,7 @@
     {
       "id": "GEO-005",
       "category": "atlas-flavor-infrastructure",
-      "statement": "Beyond canon-locked sites, the atlas names roughly 40 additional Holds and Settlements that are not canon-locked, free to rename.",
+      "statement": "Beyond canon-locked sites, the atlas names 52 additional Holds and Settlements (23 Holds, 29 Settlements) plus one Wardline (The March, in The Prefecture), none of them canon-locked, free to rename -- correcting the earlier draft's rough estimate of 'roughly 40' against the live Atlas source's actual Gazetteer count.",
       "status": "LOCKED",
       "source": "Lords_of_Cian_Regional_Atlas.xlsx"
     },
@@ -7037,6 +7046,12 @@
       "statement": "Which real-world U.S. city should be the fourth Phase 2 homage-era city, on the same weight class as NYC, LA, and Chicago?",
       "status": "resolved",
       "resolution": "RESOLVED 2026-09-05: Detroit. Per background research at research/phase2-homage-source-material/fourth-city-candidates-research.md: Detroit is the only city independently corroborated three ways by the existing source directory (League of Revolutionary Black Workers, Republic of New Afrika, Shrine of the Black Madonna, all Detroit-based, none overlapping NYC/LA/Chicago), with a throughline (industrial labor militancy fused with Black nationalism, plus the RNA's literal land-sovereignty project) distinct from the first three cities. Ruled by Abad: \"lock it. and lock Detroit.\" This resolves the CITY CHOICE only -- Detroit's five territories/leaders have not yet been built; that conversational world-building step (matching how NYC/LA/Chicago were built before their own PH2- lock) is the next concrete step whenever Abad wants it. Territories/leaders built and locked in Batch 65 (PH2-050 through PH2-059): Kazi/Irin, Taifa/Osei, Hekalu/Adom, Nyansa/Adisa, Kiti/Owusu."
+    },
+    {
+      "id": "OPEN-012",
+      "statement": "What do the undefined map codes RA (10 cells, clustered in Lawless Reaches) and UK (5 cells, tied to a road named 'UK Spur') represent, and where are the canon-locked 'the Throat' and 'the Teeth' actually located?",
+      "status": null,
+      "note": "The live Regional Atlas sheet contains these unresolved artifacts (see research/atlas-live-sheet-audit.md) with no defining legend entry anywhere. Abad does not currently recall their intended meaning, per his answer 2026-09-06 ('I have forgotten'). Deferred -- possibly resolvable by reviewing the live Sheet's native UI (cell coloring/shapes the text export can't capture) or by fresh invention later."
     }
   ],
   "conflicts": [
