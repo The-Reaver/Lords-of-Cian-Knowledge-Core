@@ -17,7 +17,15 @@ and, notably, doesn't ask for it past the one offer the stranger declines: his t
 tested behavior, never on identity, which if anything sharpens his character rather than diluting the
 point-of-contact concept -- passage granted on what a man does, not on what he's called. Kept
 period-appropriate per the world's locked pre-industrial tech level (PH2-049) -- no electric light,
-radios, firearms, or engines; oil lamps, acoustic instruments, blades.*
+radios, firearms, or engines; oil lamps, acoustic instruments, blades. Two light additions this pass:
+a short passage grounding Arturo's "every level of person" read of the world in the tormented-past
+backstory Abad approved (street kid, war, a decade that killed nearly everyone from his own generation,
+the Five Families built as a direct answer to that), and a silent, unnamed-in-dialogue seed of Yaisa --
+the one survivor of that same generation, now his second-in-command and eventually the person who can
+banter with him unguarded -- present at the room's edge without a scene of her own. Naya, the protegee
+he's raising as a likely successor, is deliberately left for a future Xaragua Chronicle rather than
+introduced here; this was a business meeting, not the right room for her. The "Kanja becomes one of
+Arturo's loved ones eventually" thread stays a long-arc promise, not dramatized in this Chronicle.*
 
 ---
 
@@ -30,6 +38,10 @@ the green bite of plantain leaves someone had wrapped the evening meal in an hou
 oil lamp burned low at the table's center, throwing more shadow than light, which was, Arturo had
 long ago decided, exactly the correct amount of light for a room where men came to say things they
 would deny having said.
+
+A woman stood at the room's far edge, past where the lamplight thinned to nothing -- close enough
+to hear everything, far enough to never be mistaken for part of the conversation. Nobody in Xaragua
+asked why Yaisa stood where she stood. Everyone who mattered already knew.
 
 He was not old to look at. Forty, maybe, if you didn't know better, and everyone in that room knew
 better. He sat with his hands flat on the table, palms down, the way a man sits when he wants both
@@ -47,6 +59,13 @@ right question.
 The stranger sat when told to sit, which was itself a piece of information -- an equal doesn't sit
 on command, and a subordinate doesn't sit that unbothered by the asking. This was a third thing
 Arturo hadn't yet named.
+
+He'd learned to read that shape the long way, not the easy one. Every rung of Xaragua's own ladder
+had held him at some point in his life -- dock boy, soldier, the man nobody wanted to hire back, and
+after that, more funerals in five years than a man should attend in fifty. Understanding was the
+word people used for what he carried. It undersold it. He hadn't studied the criminal world. He'd
+survived every floor of it on the way up, and buried nearly everyone who'd started that climb beside
+him.
 
 "You've been walking through my streets for three days," Arturo said. Modern Laconic, no ornament in
 it. "Asking nothing. Taking nothing. That's either a very patient man or a very careful one."
@@ -93,7 +112,8 @@ That's not a boast. It's the actual physics of the room you're sitting in."
 "Are not my concern until they try to make themselves one." No warmth in it, and no cruelty either
 -- a fact laid down flat, the way a man states a load he's tested with his own weight more times
 than he can count. "I didn't build five families out of Xaragua's own dead by being soft about who
-gets protected and who doesn't."
+gets protected and who doesn't. I built it because I ran out of names to carve into anything, and
+decided I was done adding to that list."
 
 "You never asked what to call me," the stranger said. Not quite a question -- Rorschach-cut,
 noticing what had been left out rather than what had been offered.
@@ -143,6 +163,9 @@ repeat isn't that he knows the name, but that he's the one figure who deliberate
 it, and grants passage on tested character alone -- arguably a sharper, more consistent version of the
 same idea. His Blood Debt ability is shown once, small and controlled (the self-inflicted cut, sealed
 instantly) rather than demonstrated at full extent -- consistent with a character whose defining
-restraint is almost never showing what he's actually capable of. Introduces no contradiction with any
-locked mainline fact; introduces the Five Families structure and Arturo himself for the first time,
-pending Abad's approval before any of it is drafted into canon-ledger.json.*
+restraint is almost never showing what he's actually capable of. Yaisa appears silently, unnamed to
+the stranger and never given dialogue in this Chronicle -- her role (the one survivor of Arturo's own
+lost generation, now his second-in-command) is established for the reader, not for the scene's other
+occupant. Introduces no contradiction with any locked mainline fact; introduces the Five Families
+structure, Arturo, and Yaisa for the first time, pending Abad's approval before any of it is drafted
+into canon-ledger.json.*
