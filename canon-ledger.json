@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "7.4",
+  "ledger_version": "7.5",
   "last_updated": "2026-09-06",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -661,6 +661,15 @@
       "source_doc": "Chronicles I-VIII rewrite (roadmap Step 3), final pass: corrects Chronicle VI's Blue-Collar Titan misattribution and 'quarry'-as-Maw-9 terminology, and Chronicle VIII's Receipt-capture account and Killane evidence mislabeling, against locked canon (MCD-234, MCD-242, MCD-244, MCD-286). Chronicle VII needed no prose changes once GEO-006 (Batch 70) placed Ash Harbor on the Atlas. No new canon facts; corrected texts saved to docs/lords-of-cian/chronicles/. Closes roadmap Step 3 -- all 8 manuscript Chronicles now clean or corrected.",
       "source_id": null,
       "rule_count": 0,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it\""
+    },
+    {
+      "batch": 72,
+      "source_doc": "Roadmap Step 4 backlog triage, part 1: Efa Gol and Pell Ostra dossiers (CC-130 through CC-133), sourced from the Chronicles I-VIII manuscript already fetched for Batches 70-71, matching the Batch 48 Hask/Breck/Maren dossier pattern.",
+      "source_id": null,
+      "rule_count": 4,
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"lock it\""
@@ -7047,6 +7056,34 @@
       "statement": "Beyond GEO-003's Capital/Maw roster, two Jicome-region sites carry Rebellion-era narrative weight and are locked here rather than left as free-to-rename flavor: Killane (Hold, Corehold-class fortress-city, cell C09, Jicome's southern district -- site of the Sewer War of Killane, MCD-234) and Ash Harbor (Settlement, Port-class, cell A09, Jicome's southern coast -- site of the Siege of the Ghost Harbor, MCD-235, informally renamed Ghost Harbor after the battle, per the Chronicle's own in-story renaming). GEO-005's count updates from 52 to 54 (24 Holds, 30 Settlements) to include them.",
       "status": "locked",
       "source": "Chronicles I-VIII rewrite (roadmap Step 3), cross-checked against research/atlas-live-sheet-audit.md via 8 parallel background-agent chapter audits, 2026-09-06. Killane (MCD-234, Sewer War of Killane) and Ash Harbor (MCD-235, Siege of the Ghost Harbor) do not appear anywhere in the live Regional Atlas Google Sheet; placed fresh within Jicome's existing grid rather than left unmapped."
+    },
+    {
+      "id": "CC-130",
+      "category": "character-crew",
+      "statement": "Efa Gol: a cargo-press operator at Warehouse Twelve before the rebellion, recruited in its early wave. Blunt, precise demeanor -- the text pairs her assessment style directly against panic: she reads a man surveying a problem correctly because she's done the same herself. Commands decoy and diversion forces repeatedly across the Rebellion: the 30-fighter decoy at Iron Shallows (MCD-233, age 19) and, per Chronicle VII/VIII's own back-references, the diversion force at the Maw-9 liberation (age 20) as well -- nothing in MCD-234 names a diversion commander, so this extends rather than conflicts with it.",
+      "status": "locked",
+      "source": "Chronicles I-VIII manuscript (Google Drive, 'My Rivals Distance' folder), fetched in full for the Chronicles I-VIII rewrite pass (Batches 70-71), roadmap Step 4 backlog triage, 2026-09-06."
+    },
+    {
+      "id": "CC-131",
+      "category": "character-crew",
+      "statement": "Efa Gol's pair-partner, dock rigger Tam Sullen (31), dies under her watch at the Black Trench (age 19) -- she kills the two soldiers responsible, covers Sullen's body so the enemy can't count the dead, and her hands shake for exactly ten seconds before she picks her weapon back up and returns to the fog alone, re-pairing with another single fighter rather than breaking the way Callum Breck does after Nev Torr's death (CC-119) -- the text frames this as the crew's pair-system design working as intended, not as Gol being harder than Breck. Pilots the fourth ship through Ghost Harbor's reef gap (age 21), trusting Breck's called bearing outright. Commands the wharf evacuation's crowd flow at the Ash-Wharf Massacre (age 22, MCD-242), her voice 'a current' civilians follow without needing it raised.",
+      "status": "locked",
+      "source": "Chronicles I-VIII manuscript (Google Drive, 'My Rivals Distance' folder), fetched in full for the Chronicles I-VIII rewrite pass (Batches 70-71), roadmap Step 4 backlog triage, 2026-09-06."
+    },
+    {
+      "id": "CC-132",
+      "category": "character-crew",
+      "statement": "Pell Ostra: a demolitions and chemistry specialist present from the Black Trench onward (age 19) -- no recruitment origin is given in the source material, so none is asserted here. Marked by a signature trait distinct from every other named crew member: she talks to her materials rather than to people, addressing charges, acid, and compounds by what she's asking them to do, the way a colleague requests cooperation rather than commands obedience.",
+      "status": "locked",
+      "source": "Chronicles I-VIII manuscript (Google Drive, 'My Rivals Distance' folder), fetched in full for the Chronicles I-VIII rewrite pass (Batches 70-71), roadmap Step 4 backlog triage, 2026-09-06."
+    },
+    {
+      "id": "CC-133",
+      "category": "character-crew",
+      "statement": "Pell Ostra's arc: inspects and resolders the detonation wiring at the Black Trench (age 19), improvising thrown shear-pins mid-battle as the most precisely balanced objects she owns. Part of the six-charge demolition crew at Iron Shallows (MCD-233, age 19). At Killane (age 20), collects hydrochloric waste-pipe acid over four days to dissolve the Registry vault's mortar ceiling and separately loosens the garrison's artillery-platform bolts with the same compound. At Ghost Harbor (age 21), works incendiary devices during the siege's waiting period. At the Ash-Wharf Massacre (age 22, MCD-242), scales the Scrip-Forge Raid's original accelerant by roughly a thousandfold to detonate the rebellion's entire 800-ton Dead Drakma stockpile rather than let it fall into a naval engagement that would kill more civilians than the bombardment itself -- asks no questions, understanding the arithmetic ('supplies rebuild... the dead do not') as her own form of the crew's shared ethic.",
+      "status": "locked",
+      "source": "Chronicles I-VIII manuscript (Google Drive, 'My Rivals Distance' folder), fetched in full for the Chronicles I-VIII rewrite pass (Batches 70-71), roadmap Step 4 backlog triage, 2026-09-06."
     }
   ],
   "open_decisions": [

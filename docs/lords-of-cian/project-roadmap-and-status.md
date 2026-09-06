@@ -1,7 +1,7 @@
 # Lords of Cian Canon Project — Path to Pre-Book-1 Foundation Complete
 
 *Refreshed 2026-09-06, at Abad's request for a roadmap to completion so canon work can hand off
-cleanly to the archive app. Reflects the ledger through Batch 71 (`ledger_version` 7.4, 923 rules).*
+cleanly to the archive app. Reflects the ledger through Batch 72 (`ledger_version` 7.5, 927 rules).*
 
 ## What "completion" means here
 
@@ -20,7 +20,7 @@ blocked on canon work to begin with.
 
 | | |
 |---|---|
-| **Canon ledger** | `canon-ledger.json` — 923 rules, 71 batches, 0 duplicate IDs, 0 rules stuck in draft |
+| **Canon ledger** | `canon-ledger.json` — 927 rules, 72 batches, 0 duplicate IDs, 0 rules stuck in draft |
 | **Foundational lore extraction** | Done (Batches 1–49) |
 | **Phase 1b (7 triaged Lore Vault documents)** | Done (Batches 50–57) |
 | **Phase 2 (homage era: NYC, LA, Chicago, Detroit)** | Done — 4 cities built (Batches 58–65); ongoing expansion (5th+ cities, more Chronicles) is open-ended by design, not part of this checklist |
@@ -29,7 +29,7 @@ blocked on canon work to begin with.
 | **Foundation item 1 — 3 genuinely-open decisions** | **Done (Batch 69)** |
 | **Foundation item 2 — World Atlas scope/redo** | **Done (Batch 68)** — `GEO-003`/`GEO-005` corrected against the live Atlas source |
 | **Foundation item 3 — Chronicles I–VIII rewrite** | **Done (Batch 71)** — all 8 chapters clean or corrected |
-| **Foundation item 4 — small backlog triage** | Not started, now unblocked |
+| **Foundation item 4 — small backlog triage** | In progress (Batch 72) — Efa Gol/Pell Ostra done, Undertow drafted (awaiting approval), 2 docs left to confirm-redundant |
 | **Foundation item 5 — formal Foundation-Complete declaration** | Blocked on item 4 only |
 | **Interactive archive app** (separate repo) | Scaffolded, not blocked on canon work |
 | **Real Brain Trust review (SEO/GEO charter)** | Blocked — needs a device-bridge session (see §7) |
@@ -164,13 +164,19 @@ end at age 30), so no voice-structure changes were needed for Chronicle III and 
 VI–VIII either; `VB-026` is a calibration rule for future growth, not a retrofit these early chapters
 already satisfy.
 
-### Step 4: Quick triage of the remaining small backlog
+### Step 4: Quick triage of the remaining small backlog — in progress (Batch 72)
 
 Not full drafts — a decide-or-defer pass, so nothing load-bearing gets missed before declaring the
 foundation done:
 
-- Deeper physiology treatment of Efa Gol and Pell Ostra beyond their thin `MCD-233` mentions.
-- `Undertow`, the last undetailed item of the Captain's Five treasures.
+- ~~Deeper physiology treatment of Efa Gol and Pell Ostra beyond their thin `MCD-233` mentions~~
+  **done, Batch 72, 2026-09-06 (`CC-130` through `CC-133`).** Sourced from the Chronicles I-VIII
+  manuscript already fetched for the Step 3 rewrite — both had real page-time across Chronicles III,
+  IV, VI, VII, and VIII despite only one thin ledger mention each. Same one-identity/one-arc-rule
+  pattern as Batch 48's Hask/Breck/Maren dossiers.
+- `Undertow`, the last undetailed item of the Captain's Five treasures — drafted (`ARS-388`, homage to
+  Rán's net, the offensive/naval-denial counterpart to the Whalebone Tether's restraint function),
+  awaiting Abad's approval.
 - `Five_Book_Construction.docx` and `04_Lauris_Psychological_Profile.docx` — both remain unopened,
   flagged low-priority/likely-redundant with material already extracted elsewhere. Worth a quick
   confirm-redundant pass rather than a full read.

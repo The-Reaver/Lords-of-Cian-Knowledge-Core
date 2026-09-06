@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.4, 923 rules, 71 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.5, 927 rules, 72 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -23,7 +23,7 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 
 ## Merge script pattern
 
-Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 72): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
+Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 73): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
 
 ## Standing conventions
 
@@ -150,6 +150,18 @@ Ash Harbor sits on "Jicome's southern coast" was already correct; it just needed
 Corrected texts at `docs/lords-of-cian/chronicles/chronicle-vi-the-sewer-war-of-killane.md` and
 `chronicle-viii-the-ash-wharf-massacre.md`. **All 8 manuscript Chronicles are now clean or corrected
 -- roadmap Step 3 is done.** Abad's approval: "lock it."
+
+**Step 4 backlog triage, part 1, Batch 72, 2026-09-06 (`CC-130` through `CC-133`).** Efa Gol and Pell
+Ostra dossiers, matching the Batch 48 Hask/Breck/Maren pattern -- both were thin, single-mention crew
+members (`MCD-233` only) despite real page-time across Chronicles III, IV, VI, VII, and VIII, already
+fetched in full for the Step 3 rewrite. Gol: a Warehouse Twelve cargo-press operator who commands
+decoy/diversion forces repeatedly (Iron Shallows, Maw-9, the Ash-Wharf evacuation's crowd flow) and
+loses her pair-partner Tam Sullen at the Black Trench without breaking the way Callum Breck does --
+framed as the crew's pair-system design working, not toughness. Ostra: a demolitions/chemistry
+specialist who talks to her materials rather than to people, running the Black Trench and Iron
+Shallows charges, the Killane acid work, and scaling the Scrip-Forge accelerant to detonate the
+rebellion's entire 800-ton Dead Drakma stockpile at the Ash-Wharf Massacre. Abad's approval: "lock
+it."
 
 ## Separate, unrelated thread: the interactive archive app
 
