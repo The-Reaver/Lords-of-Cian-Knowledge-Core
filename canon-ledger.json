@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "7.5",
+  "ledger_version": "7.6",
   "last_updated": "2026-09-06",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -673,6 +673,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"lock it\""
+    },
+    {
+      "batch": 73,
+      "source_doc": "Roadmap Step 4 backlog triage, part 2: Undertow (ARS-388), the last undetailed Captain's-Five treasure, filling ARS-340's remaining named-only slot.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"confirmed\""
     }
   ],
   "rules": [
@@ -7084,6 +7093,13 @@
       "statement": "Pell Ostra's arc: inspects and resolders the detonation wiring at the Black Trench (age 19), improvising thrown shear-pins mid-battle as the most precisely balanced objects she owns. Part of the six-charge demolition crew at Iron Shallows (MCD-233, age 19). At Killane (age 20), collects hydrochloric waste-pipe acid over four days to dissolve the Registry vault's mortar ceiling and separately loosens the garrison's artillery-platform bolts with the same compound. At Ghost Harbor (age 21), works incendiary devices during the siege's waiting period. At the Ash-Wharf Massacre (age 22, MCD-242), scales the Scrip-Forge Raid's original accelerant by roughly a thousandfold to detonate the rebellion's entire 800-ton Dead Drakma stockpile rather than let it fall into a naval engagement that would kill more civilians than the bombardment itself -- asks no questions, understanding the arithmetic ('supplies rebuild... the dead do not') as her own form of the crew's shared ethic.",
       "status": "locked",
       "source": "Chronicles I-VIII manuscript (Google Drive, 'My Rivals Distance' folder), fetched in full for the Chronicles I-VIII rewrite pass (Batches 70-71), roadmap Step 4 backlog triage, 2026-09-06."
+    },
+    {
+      "id": "ARS-388",
+      "category": "avatar-arsenal",
+      "statement": "Undertow (Kanja, Captain's Five): homage to Ran, the Norse sea-goddess whose net drags drowned sailors down to her hall. A Living Drakma net-line, deployable by hand or from the Foldtide, that generates a violent localized downward current on contact with open water -- capable of capsizing, grounding, or dragging under an enemy vessel, or briefly pulling down a Titan-class target caught in open water. The offensive/naval-denial counterpart to the Whalebone Tether's restraint function (ARS-383): where the Tether holds, the Undertow takes.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-06, no source document -- roadmap Step 4 backlog triage, filling in ARS-340's last named-only slot, following the source document's own Norse-artifact homage pattern established in Batch 54."
     }
   ],
   "open_decisions": [

@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.5, 927 rules, 72 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.6, 928 rules, 73 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -23,7 +23,7 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 
 ## Merge script pattern
 
-Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 73): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
+Every batch gets its own script (`merge_batchN_description.py`, N is the next sequential batch number, currently 74): load the ledger, define a `SOURCE` string describing where the material came from (a real source document, or `"Original invention, chat-drafted <date>, no source document"` for from-scratch material), append each new rule as `{"id":, "category":, "statement":, "status": "locked", "source":}`, assert no ID collisions, append a `batches_completed` entry with the batch number, source doc, rule count, and a `note` quoting Abad's approval verbatim, bump `ledger_version` and `last_updated`, write the file back. Then verify with a one-liner that there are zero duplicate IDs and print the new total.
 
 ## Standing conventions
 
@@ -162,6 +162,15 @@ specialist who talks to her materials rather than to people, running the Black T
 Shallows charges, the Killane acid work, and scaling the Scrip-Forge accelerant to detonate the
 rebellion's entire 800-ton Dead Drakma stockpile at the Ash-Wharf Massacre. Abad's approval: "lock
 it."
+
+**Step 4 backlog triage, part 2, Batch 73, 2026-09-06 (`ARS-388`).** Undertow, the last undetailed
+Captain's-Five treasure (`ARS-340`) -- original invention, following the same Norse-artifact homage
+pattern as Batch 54's Bastion/Svalinn, King's Mantle/Brisingamen, Lodestone Lens/Heimdall's sight, and
+Whalebone Tether/Gleipnir: homage to Ran, the sea-goddess whose net drags drowned sailors down. A
+Living Drakma net-line generating a localized downward current capable of capsizing, grounding, or
+dragging under an enemy vessel or briefly pulling down a Titan-class target in open water -- the
+offensive/naval-denial counterpart to the Whalebone Tether's restraint function. Abad's approval:
+"confirmed." Only the two unopened-doc confirm-redundant checks remain to close out Step 4.
 
 ## Separate, unrelated thread: the interactive archive app
 
