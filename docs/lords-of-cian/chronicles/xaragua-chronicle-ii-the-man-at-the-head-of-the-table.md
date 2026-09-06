@@ -3,7 +3,10 @@
 *Draft, 2026-09-06, pending Abad's review before any lock. Second entry in Xaragua's own Chronicles,
 chronologically the *first* of the two in-universe -- it precedes Xaragua Chronicle I and Yara Chronicle
 I, and is written here to retroactively establish the mechanism that let Kanja move through both of
-them. Protagonist: Arturo "de la Muerte" Salvatierra, a Xaragua native who leads the Five Families
+them. Protagonist: Arturo "de la Muerte" Salvatierra Duho -- two surnames, per Abad's direction, the
+Spanish one kept alongside a Taino one added to it ("Duho," the real Taino word for a cacique's
+ceremonial seat of judgment, chosen deliberately to echo the Chronicle's own title) -- a Xaragua native
+who leads the Five Families
 spanning all five NYC-equivalent territories (Xaragua, Areito, Yara, Guanin, Boriken) as their citywide
 peacekeeping figurehead -- introduced here for the first time, not yet locked as a PH2- character. His
 signature ability, Blood Debt (biochemical control: protective clotting/detox at close range, its dark
