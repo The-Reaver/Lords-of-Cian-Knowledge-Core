@@ -932,6 +932,19 @@ translated into what this world actually has.
   is seeded silently in the same Chronicle. Naya (his protegee) and the flagged promise that Kanja
   himself eventually becomes one of Arturo's loved ones are both left for future Chronicles. Ledger
   now at version 6.9, 917 rules, 66 batches.
+- **Batch 67, 2026-09-06 (`VB-026`, `PH2-061` amended twice).** A new craft-level standing rule
+  (`VB-026`): Book 1 and any future Kanja-POV rewrite of Chronicles I-VIII use a progressive
+  narrator handoff -- normal prose at the Rebellion's start, Onyx of Oblivion growing from a short
+  end-of-chapter coda into the full narrator by the Rebellion's end (age 30). Does not apply to the
+  Phase 2 territory Chronicles, which stay close-third on their own protagonists. Arturo's backstory
+  deepens: "Arturo Salvatierra" is the name Spanish colonization imposed on his lineage, kept
+  deliberately as a reminder; "Duho" is his real clan name, recovered through his own investigation
+  of what colonization tried to erase. He's purposefully and deliberately adversarial toward anyone
+  descended from that colonial lineage -- a chosen, peaceful-with-it position, not loss of control,
+  pursued with full awareness that race is a category the same colonial system invented rather than
+  a pre-existing fact. Flagged for later: prequel Chronicles are the intended place to show the
+  breaking, vulnerable version of him before this stillness was earned. Ledger now at version 7.0,
+  918 rules, 67 batches.
 - ~~Third Kanja Chronicle with a homage-era comrade guest appearance~~ **done, Batch 63,
   2026-09-05 (`MCD-333`).** Chronicle XI ("What Holds in the Light," full text at
   `docs/lords-of-cian/chronicles/chronicle-xi-what-holds-in-the-light.md`) slots into the
