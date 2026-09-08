@@ -1,14 +1,12 @@
 # Guanín Chronicle I: The Debt Comes Due
 
-*DRAFT, pending Abad's explicit approval — per this project's non-negotiable draft-then-approval
-rule, nothing here is canon until he says so in conversation, and this file's status will be
-corrected to "Locked canon" (with its batch number and MCD- rule ID) only once that happens. Draft
-target: first entry in Guanín's own Chronicles, protagonist Eri Kotoko (`PH2-008`), not a Kanja
-Chronicle. Kanja appears only as a guest, present throughout but granted no command, no
-intervention, and no resolution credit, matching the established convention from Xaragua Chronicle I
-(`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`), and Areíto Chronicle I
-(`MCD-339`). Narration is close-third on Eri Kotoko throughout, not Onyx of Oblivion. Slots into no
-existing mainline battle — original homage-era material set in Guanín itself.*
+*Locked canon, Batch 77, 2026-09-08 (`MCD-340`). First entry in Guanín's own Chronicles, its
+protagonist Eri Kotoko (`PH2-008`), not a Kanja Chronicle. Kanja appears only as a guest, present
+throughout but granted no command, no intervention, and no resolution credit, matching the
+established convention from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara
+Chronicle I (`MCD-336`), and Areíto Chronicle I (`MCD-339`). Narration is close-third on Eri Kotoko
+throughout, not Onyx of Oblivion. Slots into no existing mainline battle — original homage-era
+material set in Guanín itself.*
 
 ---
 

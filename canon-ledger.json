@@ -1,7 +1,7 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "7.9",
-  "last_updated": "2026-09-07",
+  "ledger_version": "8.0",
+  "last_updated": "2026-09-08",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
     "Voice Bible governs tone/language only, not facts.",
@@ -709,6 +709,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"lock it\""
+    },
+    {
+      "batch": 77,
+      "source_doc": "Guanin Chronicle I ('The Debt Comes Due', MCD-340) -- the second territory Chronicle for NYC's remaining untouched leaders (Eri Kotoko/Guanin), continuing the open-ended Phase 2 territory-Chronicle expansion (alongside Xaragua I/II, Umoja I, Yara I, Areito I) that was never gated by the Pre-Book-1 Foundation Complete milestone (Batch 75).",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"locked\""
     }
   ],
   "rules": [
@@ -7141,6 +7150,13 @@
       "statement": "Areito Chronicle I ('What Doesn't Land') is the first entry in Areito's own Chronicle series, per the established structure (MCD-334/335/336): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Kwame Ade (PH2-004), eleven days after the public break that marks his second reinvention, sits unguarded in a barbershop back room awaiting retaliation from three former allies. An unnamed stranger arrives an hour ahead of them and stands aside, present but uninvolved. When the three arrive, Kwame Ade's signature ability ('conviction as armor,' PH2-004) is shown directly in operation: two honest blows thrown by a man still torn by love and betrayal simply don't land, a drawn blade is sheathed unused, and the third man leaves without striking at all -- Kwame Ade never raises a hand. The stranger departs afterward, leaving one line as a deliberate forward reference to PH2-004's own stated vulnerability: the one man who will eventually land a blow on Kwame Ade is someone who shares his exact certainty, not his doubt -- left as foreshadowing, unresolved here. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Areito itself.",
       "status": "locked",
       "source": "Areito Chronicle I ('What Doesn't Land'), chat-drafted 2026-09-07, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-i-what-doesnt-land.md."
+    },
+    {
+      "id": "MCD-340",
+      "category": "World Mechanics",
+      "statement": "Guanin Chronicle I ('The Debt Comes Due') is the first entry in Guanin's own Chronicle series, per the established structure (MCD-334/335/336/339): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Eri Kotoko (PH2-008), on the evening his six-year forced-restraint bargain finally ends, is watched by an unnamed stranger who arrives on a dockside bench and stays present but uninvolved through the night. Eri Kotoko's signature ability ('The Unanswered Blow,' PH2-008) is shown directly in operation for the first time: six years of deliberately, consciously banked provocation, released in a single precise strike against the man who actually caused it (an unnamed counting-house figure who spent those six years needling him personally, believing the silence permanent) rather than a proxy, consistent with the ability's stated deliberate-release mechanic and its cost (anger, rather than conscious release, would have reset the banked force to nothing -- the scene is explicit that no anger is shown). PH2-008's already-locked friction with Kwame Ade is not dramatized here, left open for a future entry. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Guanin itself.",
+      "status": "locked",
+      "source": "Guanin Chronicle I ('The Debt Comes Due'), chat-drafted 2026-09-08, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-i-the-debt-comes-due.md."
     }
   ],
   "open_decisions": [
