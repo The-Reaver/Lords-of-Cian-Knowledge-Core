@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "9.7",
+  "ledger_version": "9.8",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -867,6 +867,13 @@
       "source": "Original invention, chat-drafted 2026-09-09, no source document",
       "rule_count": 1,
       "note": "Guanin Chronicle II (MCD-357), 'What He Chose to Print' -- dramatizes PH2-008's already-locked, genuine unresolved public friction between Eri Kotoko and Kwame Ade for the first time, via a banked rhetorical reply rather than violence. Abad: \"lock it.\""
+    },
+    {
+      "batch": 95,
+      "date": "2026-09-09",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document",
+      "rule_count": 1,
+      "note": "Uhuru Chronicle II (MCD-358), 'What He Finished First' -- pays off PH2-044's own stated capstone cost, Ofin's 1987 death at his own desk, kept as-built per that rule's own instruction. Abad: \"lock it.\""
     }
   ],
   "rules": [
@@ -7425,6 +7432,13 @@
       "statement": "Guanin Chronicle II, \"What He Chose to Print\" (full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-ii-what-he-chose-to-print.md), the second entry in Guanin's own Chronicles, protagonist Eri Kotoko (PH2-008), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present at two separate moments months apart, taking no side and granted no command, intervention, or resolution credit. Dramatizes PH2-008's already-locked 'real, documented public friction with Kwame Ade... kept as genuine unresolved alliance tension' for the first time: Kwame Ade's Areito press prints a pamphlet, circulated by crier, calling Eri Kotoko's patient institution-building strategy a form of collaboration; Eri Kotoko, provoked in public, does not answer in the moment, instead spending four months building a documented account of Guanin's institutions raised without violence, then publishing his own pamphlet setting that account beside Kwame Ade's words without conceding either side, closing on one precisely aimed line. This puts 'The Unanswered Blow' (PH2-008) on the page in a new register -- a banked, deliberately delayed rhetorical reply rather than physical retaliation against a wrongdoer (as in Guanin Chronicle I, MCD-340) -- while matching the ability's stated mechanic exactly (deliberate, conscious release only; anger in the moment resets it to nothing). The alliance tension is deliberately left genuinely unresolved at the close, per PH2-008's own framing, with no side conceded. Eri Kotoko's closing line carries a deliberate, ambiguous echo of Areito Chronicle II's (MCD-356) events (Adeyemi's wound) without asserting he has specific knowledge of them. No new named characters; the scene is carried by the two already-locked leaders plus unnamed criers and distributors, consistent with the world's established pre-industrial crier/pamphlet media system (PH2-049, WC-012/WC-013). First Chronicle to put two already-locked homage-era leaders in direct dialogue (at a distance, through print) with each other.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-09, no source document. Third entry in Guanin's own Chronicles, dramatizing PH2-008's already-locked, genuine unresolved public friction with Kwame Ade, first flagged as undramatized in Guanin Chronicle I's (MCD-340) own continuity notes. Full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-ii-what-he-chose-to-print.md."
+    },
+    {
+      "id": "MCD-358",
+      "category": "phase2-homage-chronicle",
+      "statement": "Uhuru Chronicle II, \"What He Finished First\" (full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-ii-what-he-finished-first.md), the second entry in Uhuru's own Chronicles, protagonist Ofin (PH2-044), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present in City Hall's late-hour orbit throughout the night but explicitly sent home and absent from the room itself at the moment of Ofin's death, granted no intervention or resolution authorship. Pays off PH2-044's own stated capstone cost directly: the last standing obstruction, a years-long appointment blockade, breaks completely and permanently one final time on the page ('The Override' shown in full effect), and the same night, having sent everyone home to sit alone with the win and finish some paperwork in his own hand, Ofin dies of a heart attack at his own desk -- dramatizing PH2-044's stated mechanic ('the same engine that breaks every wall against him burns him from the inside') as immediately and literally as the ability's own text implies. Kept explicitly 'as-built, not flipped' per PH2-044's own instruction, matching the real historical record of Harold Washington being found by his own staff the following morning: nothing is prevented, altered, or intervened upon. Kasa (PH2-038) and Omoba (PH2-042) are referenced consistently with their already-locked coalition roles, not independently detailed here. No new named characters; no new proper nouns requiring a collision check. Closes Ofin's own arc as the deliberate capstone cost his signature ability always foreshadowed.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Uhuru's own Chronicles, paying off PH2-044's own stated capstone cost, explicitly flagged as unresolved in Uhuru Chronicle I's (MCD-345) continuity notes. Full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-ii-what-he-finished-first.md."
     }
   ],
   "open_decisions": [

@@ -141,6 +141,27 @@ Third territory (after Xaragua and Areíto) to receive a second Chronicle entry.
 process as recent batches: drafted and committed as an unlocked/pending draft first, header
 corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 
+**Uhuru's second Chronicle, Batch 95, 2026-09-09 (`MCD-358`).** The next strongest unpaid hook: not
+a friction thread like Areíto's and Guanín's, but `PH2-044`'s own stated capstone cost, explicitly
+flagged as unresolved in Uhuru Chronicle I's continuity notes -- "his 1987 death at his own desk
+remains the deliberate, as-built capstone cost for a future entry." **Uhuru Chronicle II, "What He
+Finished First"** (full narrative text at
+`docs/lords-of-cian/chronicles/uhuru-chronicle-ii-what-he-finished-first.md`) pays it off directly.
+The last standing obstruction against Ofin -- a years-long appointment blockade -- breaks
+completely and permanently one final time on the page, "The Override" shown in full effect; that
+same night, having sent everyone home to sit alone with the win and finish some paperwork in his
+own hand, he dies of a heart attack at his own desk, dramatizing `PH2-044`'s stated mechanic ("the
+same engine that breaks every wall against him burns him from the inside") as immediately and
+literally as the rule's own text implies. Kept explicitly "as-built, not flipped" per `PH2-044`'s
+own instruction, matching the real historical record of Harold Washington being found by his own
+staff the following morning: an unnamed Kanja is present in City Hall's orbit throughout the night
+but is sent home and is absent from the room itself at the moment it happens -- no intervention, no
+resolution authorship, nothing prevented or altered. Kasa (`PH2-038`) and Omoba (`PH2-042`) are
+referenced consistently with their already-locked coalition roles. No new named characters. Closes
+Ofin's own arc as the deliberate capstone cost his signature ability always foreshadowed. Same
+two-commit process as recent batches: drafted and committed as an unlocked/pending draft first,
+header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75

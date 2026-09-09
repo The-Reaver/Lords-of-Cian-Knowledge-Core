@@ -1,7 +1,7 @@
 # Uhuru Chronicle II: What He Finished First
 
-*DRAFT -- pending Abad's approval, not yet locked canon. Batch 95 candidate (`MCD-358`
-candidate). Second entry in Uhuru's own Chronicles, its protagonist Ofin (`PH2-044`), not a Kanja
+*Locked canon, Batch 95, 2026-09-09 (`MCD-358`). Second entry in Uhuru's own Chronicles, its
+protagonist Ofin (`PH2-044`), not a Kanja
 Chronicle. Kanja appears only as a guest, present in City Hall's late-hour orbit throughout the
 night but absent from the room itself at the moment of Ofin's death -- matching `PH2-044`'s own
 explicit instruction that this is "the one death in the Chicago build kept as-built, not flipped,"
