@@ -1,7 +1,7 @@
 # Sankofa Chronicle II: What His Gift Could Not Reach
 
-*DRAFT -- pending Abad's approval, not yet locked canon. Batch 97 candidate (`MCD-360`
-candidate). Second entry in Sankofa's own Chronicles, its protagonist Baálé (`PH2-021`), not a
+*Locked canon, Batch 97, 2026-09-09 (`MCD-360`). Second entry in Sankofa's own Chronicles, its
+protagonist Baálé (`PH2-021`), not a
 Kanja Chronicle. Kanja appears only as a guest, present but granted no command, no intervention, and
 no resolution credit, matching the established convention. Narration is close-third on Baálé
 throughout, not Onyx of Oblivion. Directly dramatizes `PH2-021`'s own stated vulnerability, left as

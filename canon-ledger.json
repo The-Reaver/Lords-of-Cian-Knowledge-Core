@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "9.9",
+  "ledger_version": "10.0",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -881,6 +881,13 @@
       "source": "Original invention, chat-drafted 2026-09-09, no source document",
       "rule_count": 1,
       "note": "Aztlan Chronicle II (MCD-359), 'The Half He Never Carried' -- pays off PH2-023's own stated backstory event, Iya's 1970 walkout over unaddressed sexism, dramatized without redeeming Ollin's failure. Abad: \"lock it.\""
+    },
+    {
+      "batch": 97,
+      "date": "2026-09-09",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document",
+      "rule_count": 1,
+      "note": "Sankofa Chronicle II (MCD-360), 'What His Gift Could Not Reach' -- dramatizes PH2-021's own stated vulnerability, a faceless coordinated threat Baale's gift cannot reach, deliberately leaving the threat unresolved. Abad: \"lock it.\""
     }
   ],
   "rules": [
@@ -7453,6 +7460,13 @@
       "statement": "Aztlan Chronicle II, \"The Half He Never Carried\" (full narrative text at docs/lords-of-cian/chronicles/aztlan-chronicle-ii-the-half-he-never-carried.md), the second entry in Aztlan's own Chronicles, protagonist Ollin (PH2-023), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present throughout but granted no command, intervention, or resolution credit, notably including no intervention or advice at the confrontation itself. Pays off PH2-023's own stated backstory event directly: three weeks before a major march, Iya (PH2-030), having raised the same concern in six prior meetings, calls out Ollin's repeated exclusion of women from leadership credit and decision-making despite their equal organizing labor; when he again defers it, she leads every woman in the organization out that night. The march proceeds three weeks later with real, uncompensated structural losses (water shortages, lost contacts) even though 'The Formation' (PH2-023) still holds mechanically -- precisely dramatizing the ability's stated cost that ignored internal grievance costs the organization something real. Ollin's failure is deliberately not redeemed or walked back, matching PH2-023's own unsparing framing that he 'never listened to the people who built it beside him'; Iya's grievance is kept specific (real, structurally uncredited organizing labor) and is not minimized or resolved by the narrative. No new named characters -- Iya and Ollin are both already-locked figures. Fifth territory (after Xaragua, Areito, Guanin, and Uhuru) to receive a second Chronicle entry.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Aztlan's own Chronicles, paying off PH2-023's own stated backstory event, left as a deliberate unresolved forward reference at the close of Aztlan Chronicle I (MCD-347). Full narrative text at docs/lords-of-cian/chronicles/aztlan-chronicle-ii-the-half-he-never-carried.md."
+    },
+    {
+      "id": "MCD-360",
+      "category": "phase2-homage-chronicle",
+      "statement": "Sankofa Chronicle II, \"What His Gift Could Not Reach\" (full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-ii-what-his-gift-could-not-reach.md), the second entry in Sankofa's own Chronicles, protagonist Baale (PH2-021), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present across the night and the one who finds and delivers a second forged letter, without taking command, credit, or resolution authorship, and explicitly not identifying or investigating the letters' author. Dramatizes PH2-021's own stated vulnerability directly for the first time: a forged letter, shaped in the same manner as the real COINTELPRO-style letters behind Baale's already-locked backstory near-death event (kept backstory-only, not restaged here), reaches Kojo (introduced in Sankofa Chronicle I, MCD-346, left open as a minor recurring figure) claiming falsely to carry Baale's own hand and threatening Kojo's old crew. Kojo brings it directly to Baale rather than acting on it, resolving this instance of the threat through an ordinary act of trust rather than 'The Turn' itself, which requires a direct face-to-face attack and is confirmed explicitly useless against a conspiracy that never shows its face. A second, unsigned, unaddressed letter left to be found confirms the threat is not finished. The letters' true author is deliberately left unidentified and the threat deliberately left unresolved, consistent with PH2-021's own framing. No new named characters; no new proper nouns requiring a collision check. Sixth territory (after Xaragua, Areito, Guanin, Uhuru, and Aztlan) to receive a second Chronicle entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Sankofa's own Chronicles, dramatizing PH2-021's own stated vulnerability, left as live unresolved tension at the close of Sankofa Chronicle I (MCD-346). Full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-ii-what-his-gift-could-not-reach.md."
     }
   ],
   "open_decisions": [

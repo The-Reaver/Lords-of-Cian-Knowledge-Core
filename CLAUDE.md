@@ -184,6 +184,26 @@ Guanín, and Uhuru) to receive a second Chronicle entry. Same two-commit process
 drafted and committed as an unlocked/pending draft first, header corrected to "Locked canon" only
 after approval. Abad's approval: "lock it."
 
+**Sankofa's second Chronicle, Batch 97, 2026-09-09 (`MCD-360`).** The next strongest unpaid hook:
+`PH2-021` itself states Baálé's gift stops short of "a conspiracy that never shows its face," and
+Sankofa Chronicle I's continuity notes left this as live, unresolved tension rather than a settled
+fact. **Sankofa Chronicle II, "What His Gift Could Not Reach"** (full narrative text at
+`docs/lords-of-cian/chronicles/sankofa-chronicle-ii-what-his-gift-could-not-reach.md`) dramatizes it
+directly, deliberately without resolving it. A forged letter, shaped in the same manner as the real
+COINTELPRO-style letters behind Baálé's already-locked backstory near-death event (kept
+backstory-only, not restaged), reaches Kojo — brought back from Chronicle I, where he was left open
+as a minor recurring figure — falsely claiming to carry Baálé's own hand and threatening Kojo's old
+crew. Kojo brings it straight to Baálé rather than acting on it alone, resolving this instance
+through an ordinary act of trust rather than "The Turn" itself, which is confirmed explicitly
+useless against a threat with no face to strike. A second, unsigned letter left to be found confirms
+whoever is behind it isn't finished. The letters' true author is deliberately left unidentified and
+the threat deliberately left unresolved, consistent with `PH2-021`'s own framing. An unnamed Kanja
+finds and delivers the second letter without investigating or resolving its origin, granted no
+command or credit. No new named characters. Sixth territory (after Xaragua, Areíto, Guanín, Uhuru,
+and Aztlán) to receive a second Chronicle entry. Same two-commit process as recent batches: drafted
+and committed as an unlocked/pending draft first, header corrected to "Locked canon" only after
+approval. Abad's approval: "lock it." Ledger crosses `ledger_version` 10.0 with this batch.
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
