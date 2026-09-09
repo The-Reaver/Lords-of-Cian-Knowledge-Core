@@ -1,7 +1,7 @@
 # Areíto Chronicle II: The One Who Stood Where He Stood
 
-*DRAFT -- pending Abad's approval, not yet locked canon. Batch 93 candidate (`MCD-356`
-candidate). Second entry in Areíto's own Chronicles, its protagonist Kwame Ade (`PH2-004`), not a
+*Locked canon, Batch 93, 2026-09-09 (`MCD-356`). Second entry in Areíto's own Chronicles, its
+protagonist Kwame Ade (`PH2-004`), not a
 Kanja Chronicle. Kanja appears only as a guest, present but granted no command, no intervention, and
 no resolution credit, matching the established convention. Narration is close-third on Kwame Ade
 throughout, not Onyx of Oblivion. Directly pays off the explicit, unresolved hook left at the close

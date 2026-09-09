@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "9.5",
+  "ledger_version": "9.6",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -853,6 +853,13 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA and Detroit territory Chronicles, applied per-batch as they are drafted."
+    },
+    {
+      "batch": 93,
+      "date": "2026-09-09",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document",
+      "rule_count": 1,
+      "note": "Areito Chronicle II (MCD-356), 'The One Who Stood Where He Stood' -- pays off the explicit hook left at the close of Areito Chronicle I (MCD-339), dramatizing PH2-004's stated vulnerability for the first time via a new named character, Adeyemi. Abad: \"lock it.\""
     }
   ],
   "rules": [
@@ -7397,6 +7404,13 @@
       "statement": "Kiti Chronicle I ('What Wore Down Instead') is the first entry in Kiti's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A manufactured scandal, run for three weeks by the old machine, is meant to wear Owusu (PH2-059) down; instead his next election comes in stronger. Owusu's signature ability ('The Long Tenure,' PH2-059) is shown directly in operation for the first time: sustained attrition against him while he holds the seat strengthens his grip rather than weakening it, exactly matching the ability's stated mechanic. The ability's cost is stated explicitly as foreshadowing rather than dramatized in the moment, matching the same restraint used for Ofin's capstone cost in Uhuru Chronicle I (MCD-345): Owusu states plainly, unprompted, that the strength is purely institutional and lapses completely the instant he leaves the seat, matching PH2-059's stated limitation exactly. The old machine's operatives are deliberately left unnamed. An unnamed Kanja is a quiet presence around the office across the stretch without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Kiti itself, and completes a first Chronicle entry for every one of Detroit's five territories (Kazi, Taifa, Hekalu, Nyansa, Kiti), which in turn completes territory-Chronicle coverage at the first-Chronicle level for all four homage-era cities built so far (NYC, Chicago, LA, Detroit).",
       "status": "locked",
       "source": "Kiti Chronicle I ('What Wore Down Instead'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/kiti-chronicle-i-what-wore-down-instead.md."
+    },
+    {
+      "id": "MCD-356",
+      "category": "phase2-homage-chronicle",
+      "statement": "Areito Chronicle II, \"The One Who Stood Where He Stood\" (full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-ii-the-one-who-stood-where-he-stood.md), the second entry in Areito's own Chronicles, protagonist Kwame Ade (PH2-004), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present throughout but granted no command, intervention, or resolution credit. Set seven years after Areito Chronicle I (MCD-339): Adeyemi, a new named character (Yoruba, 'the crown befits me') and former cellmate from Kwame Ade's first prison reinvention (the same conversion PH2-004 locks as the origin of his certainty, distinct from the second-reinvention era that produced Chronicle I's three unnamed attackers), confronts him alone and unarmed, arguing that spending their shared cell-forged conviction on strangers rather than the six men who forged it with him was a betrayal wearing conviction's own clothes. Adeyemi throws one blow matching his own genuine, unhesitating certainty and it lands, drawing the first blood anyone has ever drawn from Kwame Ade -- directly dramatizing PH2-004's own stated vulnerability ('only someone matching his own absolute certainty can hurt him... the one real threat to him was always going to come from someone who once stood exactly where he stood') as a literal, physical fact for the first time. Adeyemi does not finish the blow, finding himself newly and genuinely uncertain in a way he has not been in seven years, and departs with his own arc deliberately left open -- whether he returns, and which side of his new uncertainty he lands on, is unresolved. The unnamed Kanja offers one small, wordless, uncredited act of aid (a cloth pressed into Kwame Ade's hand for the wound) after Adeyemi leaves. No collision: Adeyemi is checked against the full live ledger and confirmed distinct from the already-locked Xaragua supporting-cast figures Kwabena (PH2-014) and Kwaku (PH2-016).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Areito's own Chronicles, directly paying off the explicit hook left at the close of Areito Chronicle I (MCD-339). Full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-ii-the-one-who-stood-where-he-stood.md."
     }
   ],
   "open_decisions": [
