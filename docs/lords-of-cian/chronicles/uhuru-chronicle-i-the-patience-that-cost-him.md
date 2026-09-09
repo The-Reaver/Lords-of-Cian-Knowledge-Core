@@ -1,10 +1,10 @@
 # Uhuru Chronicle I: The Patience That Cost Him
 
-*DRAFT, pending Abad's explicit approval. First entry in Uhuru's own Chronicles, its protagonist
-Ofin (`PH2-044`), not a Kanja Chronicle. Kanja appears only as a guest, present but granted no
-command, no intervention, and no resolution credit, matching the established convention from
-Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`), Areíto
-Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`), Ide
+*Locked canon, Batch 82, 2026-09-09 (`MCD-345`). First entry in Uhuru's own Chronicles, its
+protagonist Ofin (`PH2-044`), not a Kanja Chronicle. Kanja appears only as a guest, present but
+granted no command, no intervention, and no resolution credit, matching the established convention
+from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`),
+Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`), Ide
 Chronicle I (`MCD-342`), Kwan Chronicle I (`MCD-343`), and Jibaro Chronicle I (`MCD-344`). Narration
 is close-third on Ofin throughout, not Onyx of Oblivion. Completes a first Chronicle entry for all
 five Chicago territories. Slots into no existing mainline battle — original homage-era material set
