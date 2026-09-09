@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "8.5",
+  "ledger_version": "8.6",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -758,6 +758,15 @@
     {
       "batch": 82,
       "source_doc": "Uhuru Chronicle I ('The Patience That Cost Him', MCD-345) -- the eleventh territory Chronicle overall and Uhuru's first (Ofin), completing a first Chronicle entry for all five Chicago territories, continuing the open-ended Phase 2 territory-Chronicle expansion (alongside Xaragua I/II, Umoja I, Yara I, Areito I, Guanin I, Boriken I, Ide I, Kwan I, Jibaro I) that was never gated by the Pre-Book-1 Foundation Complete milestone (Batch 75).",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it\""
+    },
+    {
+      "batch": 83,
+      "source_doc": "Sankofa Chronicle I ('The Man Who Turned Against Himself', MCD-346) -- the twelfth territory Chronicle overall and Sankofa's first (Baale), opening Los Angeles's own run of territory Chronicles, continuing the open-ended Phase 2 territory-Chronicle expansion (alongside Xaragua I/II, Umoja I, Yara I, Areito I, Guanin I, Boriken I, Ide I, Kwan I, Jibaro I, Uhuru I) that was never gated by the Pre-Book-1 Foundation Complete milestone (Batch 75).",
       "source_id": null,
       "rule_count": 1,
       "status": "complete",
@@ -7237,6 +7246,13 @@
       "statement": "Uhuru Chronicle I ('The Patience That Cost Him') is the first entry in Uhuru's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341/342/343/344): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Ofin (PH2-044), blocked by a hostile council bloc's repeated defeat of the fair-housing review board's funding (the same board Kwan Chronicle I's ward broker once staked one public sentence on, MCD-343), refuses to stop resubmitting it across dozens of votes. Ofin's signature ability ('The Override,' PH2-044) is shown directly in operation for the first time: the specific obstruction breaks completely and permanently once a court-ordered redistricting finally shifts the council's composition, exactly matching the ability's stated mechanic. The ability's cost is honored explicitly without resolving into the character's already-locked capstone death: the same engine wearing the obstruction down is shown visibly wearing Ofin down in turn (reduced sleep, a physician his wife wants him to see, looking older than his years), left as foreshadowing per PH2-044's own stated 'foreshadowed limit to how long he can keep paying for it' rather than paid off here -- his 1987 death at his own desk remains the deliberate, as-built capstone cost for a future entry. This Chronicle also closes the continuity thread opened in Kwan Chronicle I: the fair-housing agreement left there as 'a victory of uncertain real weight' is confirmed here, years later, as genuinely made real through Ofin's endurance rather than Kasa's original legitimacy-granting act, honoring both leaders' distinct signature abilities without either doing the other's work. An unnamed Kanja is present in City Hall's late-hour orbit across several nights without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Uhuru itself, and completes a first Chronicle entry for every one of Chicago's five territories (Ide, Kwan, Umoja, Jibaro, Uhuru), matching NYC's own completed set.",
       "status": "locked",
       "source": "Uhuru Chronicle I ('The Patience That Cost Him'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-i-the-patience-that-cost-him.md."
+    },
+    {
+      "id": "MCD-346",
+      "category": "World Mechanics",
+      "statement": "Sankofa Chronicle I ('The Man Who Turned Against Himself') is the first entry in Sankofa's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341/342/343/344/345): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A rival lieutenant, Kojo (a new named character, Akan Monday-born day-name per the standing PH2 naming convention), attacks Baale (PH2-021) face to face in broad daylight over disputed western-block territory. Baale's signature ability ('The Turn,' PH2-021) is shown directly in operation for the first time via this fresh one-on-one attacker, deliberately distinct from the ability's own already-locked backstory event (the COINTELPRO-orchestrated ambush that nearly killed Baale and Kra, which per PH2-021 remains backstory only and is not restaged here, matching the Toussaint-Louverture/Ogoun-Xarey precedent for events referenced rather than dramatized): surviving the direct exchange, Kojo becomes bound to serve Baale within the week, exactly matching the ability's stated mechanic. The ability's cost is honored explicitly and left as live, unresolved tension rather than a settled fact -- Baale states plainly that a faceless, coordinated threat, the same shape as the COINTELPRO conspiracy in his backstory, is exactly what his gift cannot reach, foreshadowing rather than restaging that already-locked near-death event. An unnamed Kanja watches from the crowd's edge, entirely uninvolved, matching the Umoja/Yara/Areito pure-witness end of the established range. Kojo is left open as a minor recurring figure for future entries. Slots into no existing mainline battle -- original homage-era material set in Sankofa itself, and opens Los Angeles's own run of territory Chronicles (Aztlan, Atunbi, Ijoko, and Orin still have none).",
+      "status": "locked",
+      "source": "Sankofa Chronicle I ('The Man Who Turned Against Himself'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-i-the-man-who-turned-against-himself.md."
     }
   ],
   "open_decisions": [

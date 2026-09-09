@@ -1,10 +1,10 @@
 # Sankofa Chronicle I: The Man Who Turned Against Himself
 
-*DRAFT, pending Abad's explicit approval. First entry in Sankofa's own Chronicles, its protagonist
-Baálé (`PH2-021`), not a Kanja Chronicle. Kanja appears only as a guest, present but granted no
-command, no intervention, and no resolution credit, matching the established convention from
-Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`), Areíto
-Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`), Ide
+*Locked canon, Batch 83, 2026-09-09 (`MCD-346`). First entry in Sankofa's own Chronicles, its
+protagonist Baálé (`PH2-021`), not a Kanja Chronicle. Kanja appears only as a guest, present but
+granted no command, no intervention, and no resolution credit, matching the established convention
+from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`),
+Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`), Ide
 Chronicle I (`MCD-342`), Kwan Chronicle I (`MCD-343`), Jibaro Chronicle I (`MCD-344`), and Uhuru
 Chronicle I (`MCD-345`). Narration is close-third on Baálé throughout, not Onyx of Oblivion. Opens
 Los Angeles's own run of territory Chronicles. Slots into no existing mainline battle — original
