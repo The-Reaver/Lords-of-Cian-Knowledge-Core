@@ -1,13 +1,13 @@
 # Jibaro Chronicle I: What the Walls Refused
 
-*DRAFT, pending Abad's explicit approval. First entry in Jibaro's own Chronicles, its protagonist
-Omoba (`PH2-042`), not a Kanja Chronicle. Kanja appears only as a guest, present but granted no
-command, no intervention, and no resolution credit, matching the established convention from
-Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`), Areíto
-Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`), and Ide
+*Locked canon, Batch 81, 2026-09-09 (`MCD-344`). First entry in Jibaro's own Chronicles, its
+protagonist Omoba (`PH2-042`), not a Kanja Chronicle. Kanja appears only as a guest, present but
+granted no command, no intervention, and no resolution credit, matching the established convention
+from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`),
+Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`), Ide
 Chronicle I (`MCD-342`), and Kwan Chronicle I (`MCD-343`). Narration is close-third on Omoba
 throughout, not Onyx of Oblivion. Slots into no existing mainline battle — original homage-era
-material set in Jibaro itself.*
+material set in Jibaro itself. Continues Chicago's own run of territory Chronicles.*
 
 ---
 
