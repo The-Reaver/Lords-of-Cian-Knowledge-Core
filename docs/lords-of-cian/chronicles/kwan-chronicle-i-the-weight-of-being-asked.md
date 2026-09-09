@@ -1,12 +1,13 @@
 # Kwan Chronicle I: The Weight of Being Asked
 
-*DRAFT, pending Abad's explicit approval. First entry in Kwan's own Chronicles, its protagonist
-Kasa (`PH2-038`), not a Kanja Chronicle. Kanja appears only as a guest, present but granted no
-command, no intervention, and no resolution credit, matching the established convention from
-Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`),
+*Locked canon, Batch 80, 2026-09-09 (`MCD-343`). First entry in Kwan's own Chronicles, its
+protagonist Kasa (`PH2-038`), not a Kanja Chronicle. Kanja appears only as a guest, present but
+granted no command, no intervention, and no resolution credit, matching the established convention
+from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`),
 Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`),
 and Ide Chronicle I (`MCD-342`). Narration is close-third on Kasa throughout, not Onyx of Oblivion.
-Slots into no existing mainline battle — original homage-era material set in Kwan itself.*
+Slots into no existing mainline battle — original homage-era material set in Kwan itself.
+Continues Chicago's own run of territory Chronicles.*
 
 ---
 
