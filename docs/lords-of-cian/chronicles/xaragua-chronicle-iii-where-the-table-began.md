@@ -1,7 +1,7 @@
 # Xaragua Chronicle III: Where the Table Began
 
-*DRAFT -- pending Abad's approval, not yet locked canon. Batch 98 candidate (`MCD-361`
-candidate). Third Xaragua Chronicle written, but chronologically the earliest of all three by
+*Locked canon, Batch 98, 2026-09-09 (`MCD-361`). Third Xaragua Chronicle written, but
+chronologically the earliest of all three by
 decades -- it precedes both Xaragua Chronicle II (`MCD-337`, itself already chronologically first
 among the previously-locked pair) and Xaragua Chronicle I (`MCD-334`), matching the same
 write-order-versus-in-universe-order pattern `MCD-337` already established. Protagonist Arturo

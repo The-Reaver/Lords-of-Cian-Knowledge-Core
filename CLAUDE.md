@@ -204,6 +204,35 @@ and Aztlán) to receive a second Chronicle entry. Same two-commit process as rec
 and committed as an unlocked/pending draft first, header corrected to "Locked canon" only after
 approval. Abad's approval: "lock it." Ledger crosses `ledger_version` 10.0 with this batch.
 
+**Arturo's prequel, Batch 98, 2026-09-09 (`MCD-361`).** A different thread from the run of
+territory-Chronicle-II hook payoffs above -- the flagged material Batch 67 held open: "prequel
+Chronicles predating Xaragua Chronicle II are the intended place to show the vulnerable, breaking
+version of him before this stillness was earned." **Xaragua Chronicle III, "Where the Table
+Began"** (full narrative text at
+`docs/lords-of-cian/chronicles/xaragua-chronicle-iii-where-the-table-began.md`) is the third
+Xaragua Chronicle written but chronologically the earliest of all three by decades, preceding both
+Xaragua Chronicle II (`MCD-337`) and Xaragua Chronicle I (`MCD-334`) -- matching the same
+write-order-versus-in-universe-order pattern `MCD-337` already established. Protagonist Arturo,
+decades before "de la Muerte": returning from eleven days running a supply line, he finds his
+dock-boy cohort — Nzila, Tunde, and Bendu, three new named characters — dead in Xaragua's own
+street war, with only Yaisa left alive. Dramatizes the origin of all three faces of "Blood Debt" for
+the first time: the protective face's first real use (saving Yaisa in a cellar), the dark reverse's
+one deliberate, formative use (against the man responsible, left unnamed), and the personal cost
+landing visibly and permanently in his own aging, matching `PH2-061`'s own statement that "every
+true use of the reverse face visibly ages him." Also dramatizes the founding moment of "No Blood at
+My Table" and the Five Families' original two-person nucleus, matching `PH2-061`'s framing that this
+is "his direct answer to that decade -- a debt he is still paying, not resolved grief." An unnamed
+Kanja appears only briefly at the margins — one indistinct face among several strangers helping in
+the aftermath, no dialogue, no interaction — deliberately explaining why Arturo doesn't recognize or
+remember him decades later in Xaragua Chronicle II, where their first real meeting is written as a
+first meeting. Process note: caught and fixed a real naming collision mid-draft, before it was ever
+presented — an earlier pass named one cohort member "Tomas," which collides with the already-locked
+mainline character Tomas Grieve (`MCD-093`/Batch 55); renamed to Tunde, and a second name, "Cofi,"
+was also changed to "Nzila" to avoid reading as a near-duplicate of Kofi (Umoja), even though it
+wasn't a technical collision. Same two-commit process as recent batches: drafted and committed as an
+unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's
+approval: "lock it."
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75

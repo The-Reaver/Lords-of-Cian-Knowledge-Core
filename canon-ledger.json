@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "10.0",
+  "ledger_version": "10.1",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -888,6 +888,13 @@
       "source": "Original invention, chat-drafted 2026-09-09, no source document",
       "rule_count": 1,
       "note": "Sankofa Chronicle II (MCD-360), 'What His Gift Could Not Reach' -- dramatizes PH2-021's own stated vulnerability, a faceless coordinated threat Baale's gift cannot reach, deliberately leaving the threat unresolved. Abad: \"lock it.\""
+    },
+    {
+      "batch": 98,
+      "date": "2026-09-09",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document",
+      "rule_count": 1,
+      "note": "Xaragua Chronicle III (MCD-361), 'Where the Table Began' -- the flagged Arturo prequel material held open since Batch 67, showing the vulnerable, breaking version of him and the founding of 'No Blood at My Table.' Abad: \"lock it.\""
     }
   ],
   "rules": [
@@ -7467,6 +7474,13 @@
       "statement": "Sankofa Chronicle II, \"What His Gift Could Not Reach\" (full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-ii-what-his-gift-could-not-reach.md), the second entry in Sankofa's own Chronicles, protagonist Baale (PH2-021), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present across the night and the one who finds and delivers a second forged letter, without taking command, credit, or resolution authorship, and explicitly not identifying or investigating the letters' author. Dramatizes PH2-021's own stated vulnerability directly for the first time: a forged letter, shaped in the same manner as the real COINTELPRO-style letters behind Baale's already-locked backstory near-death event (kept backstory-only, not restaged here), reaches Kojo (introduced in Sankofa Chronicle I, MCD-346, left open as a minor recurring figure) claiming falsely to carry Baale's own hand and threatening Kojo's old crew. Kojo brings it directly to Baale rather than acting on it, resolving this instance of the threat through an ordinary act of trust rather than 'The Turn' itself, which requires a direct face-to-face attack and is confirmed explicitly useless against a conspiracy that never shows its face. A second, unsigned, unaddressed letter left to be found confirms the threat is not finished. The letters' true author is deliberately left unidentified and the threat deliberately left unresolved, consistent with PH2-021's own framing. No new named characters; no new proper nouns requiring a collision check. Sixth territory (after Xaragua, Areito, Guanin, Uhuru, and Aztlan) to receive a second Chronicle entry.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Sankofa's own Chronicles, dramatizing PH2-021's own stated vulnerability, left as live unresolved tension at the close of Sankofa Chronicle I (MCD-346). Full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-ii-what-his-gift-could-not-reach.md."
+    },
+    {
+      "id": "MCD-361",
+      "category": "phase2-homage-chronicle",
+      "statement": "Xaragua Chronicle III, \"Where the Table Began\" (full narrative text at docs/lords-of-cian/chronicles/xaragua-chronicle-iii-where-the-table-began.md), the third Xaragua Chronicle written but chronologically the earliest of all three by decades -- it precedes both Xaragua Chronicle II (MCD-337) and Xaragua Chronicle I (MCD-334), matching the same write-order-versus-in-universe-order pattern MCD-337 already established. Protagonist Arturo Salvatierra Duho (PH2-061), decades before 'de la Muerte.' Dramatizes for the first time the loss PH2-061 already locks (his dock-boy cohort -- Nzila, Tunde, and Bendu, three new named characters, collision-checked against the full live ledger, zero prior hits -- lost to war and Xaragua's own street war, leaving only Arturo and Yaisa) and the origin of all three faces of 'Blood Debt': the protective face's first real use (saving Yaisa, dying in a cellar), the dark reverse's one deliberate, formative use (against the man responsible for the street war, deliberately left unnamed), and the personal cost of the reverse face landing visibly and permanently in his own aging, consistent with PH2-061's statement that 'every true use of the reverse face visibly ages him.' Also dramatizes the founding moment of 'No Blood at My Table' and the Five Families' original two-person nucleus (Arturo and Yaisa), matching PH2-061's framing that this is 'his direct answer to that decade -- a debt he is still paying, not resolved grief.' An unnamed Kanja appears only briefly and at the margins, one indistinct face among several strangers helping in the aftermath, given no dialogue and no interaction with Arturo -- deliberately consistent with why Arturo does not recognize or remember him by the time of Xaragua Chronicle II, decades later, where their first real meeting is written as a first meeting. Yaisa (PH2-062) appears as a wounded survivor, not yet Arturo's second-in-command. This Chronicle slots into no existing MCD- rule -- original homage-era material set in Xaragua itself, decades before any other Xaragua Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document. Third Xaragua Chronicle written, chronologically the earliest by decades. This is the flagged prequel material Batch 67 held open: 'the intended place to show the vulnerable, breaking version of him before this stillness was earned.' Full narrative text at docs/lords-of-cian/chronicles/xaragua-chronicle-iii-where-the-table-began.md."
     }
   ],
   "open_decisions": [
