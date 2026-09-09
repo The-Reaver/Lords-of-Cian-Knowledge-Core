@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "9.8",
+  "ledger_version": "9.9",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -874,6 +874,13 @@
       "source": "Original invention, chat-drafted 2026-09-09, no source document",
       "rule_count": 1,
       "note": "Uhuru Chronicle II (MCD-358), 'What He Finished First' -- pays off PH2-044's own stated capstone cost, Ofin's 1987 death at his own desk, kept as-built per that rule's own instruction. Abad: \"lock it.\""
+    },
+    {
+      "batch": 96,
+      "date": "2026-09-09",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document",
+      "rule_count": 1,
+      "note": "Aztlan Chronicle II (MCD-359), 'The Half He Never Carried' -- pays off PH2-023's own stated backstory event, Iya's 1970 walkout over unaddressed sexism, dramatized without redeeming Ollin's failure. Abad: \"lock it.\""
     }
   ],
   "rules": [
@@ -7439,6 +7446,13 @@
       "statement": "Uhuru Chronicle II, \"What He Finished First\" (full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-ii-what-he-finished-first.md), the second entry in Uhuru's own Chronicles, protagonist Ofin (PH2-044), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present in City Hall's late-hour orbit throughout the night but explicitly sent home and absent from the room itself at the moment of Ofin's death, granted no intervention or resolution authorship. Pays off PH2-044's own stated capstone cost directly: the last standing obstruction, a years-long appointment blockade, breaks completely and permanently one final time on the page ('The Override' shown in full effect), and the same night, having sent everyone home to sit alone with the win and finish some paperwork in his own hand, Ofin dies of a heart attack at his own desk -- dramatizing PH2-044's stated mechanic ('the same engine that breaks every wall against him burns him from the inside') as immediately and literally as the ability's own text implies. Kept explicitly 'as-built, not flipped' per PH2-044's own instruction, matching the real historical record of Harold Washington being found by his own staff the following morning: nothing is prevented, altered, or intervened upon. Kasa (PH2-038) and Omoba (PH2-042) are referenced consistently with their already-locked coalition roles, not independently detailed here. No new named characters; no new proper nouns requiring a collision check. Closes Ofin's own arc as the deliberate capstone cost his signature ability always foreshadowed.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Uhuru's own Chronicles, paying off PH2-044's own stated capstone cost, explicitly flagged as unresolved in Uhuru Chronicle I's (MCD-345) continuity notes. Full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-ii-what-he-finished-first.md."
+    },
+    {
+      "id": "MCD-359",
+      "category": "phase2-homage-chronicle",
+      "statement": "Aztlan Chronicle II, \"The Half He Never Carried\" (full narrative text at docs/lords-of-cian/chronicles/aztlan-chronicle-ii-the-half-he-never-carried.md), the second entry in Aztlan's own Chronicles, protagonist Ollin (PH2-023), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present throughout but granted no command, intervention, or resolution credit, notably including no intervention or advice at the confrontation itself. Pays off PH2-023's own stated backstory event directly: three weeks before a major march, Iya (PH2-030), having raised the same concern in six prior meetings, calls out Ollin's repeated exclusion of women from leadership credit and decision-making despite their equal organizing labor; when he again defers it, she leads every woman in the organization out that night. The march proceeds three weeks later with real, uncompensated structural losses (water shortages, lost contacts) even though 'The Formation' (PH2-023) still holds mechanically -- precisely dramatizing the ability's stated cost that ignored internal grievance costs the organization something real. Ollin's failure is deliberately not redeemed or walked back, matching PH2-023's own unsparing framing that he 'never listened to the people who built it beside him'; Iya's grievance is kept specific (real, structurally uncredited organizing labor) and is not minimized or resolved by the narrative. No new named characters -- Iya and Ollin are both already-locked figures. Fifth territory (after Xaragua, Areito, Guanin, and Uhuru) to receive a second Chronicle entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Aztlan's own Chronicles, paying off PH2-023's own stated backstory event, left as a deliberate unresolved forward reference at the close of Aztlan Chronicle I (MCD-347). Full narrative text at docs/lords-of-cian/chronicles/aztlan-chronicle-ii-the-half-he-never-carried.md."
     }
   ],
   "open_decisions": [

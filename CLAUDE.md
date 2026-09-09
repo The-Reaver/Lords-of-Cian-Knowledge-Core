@@ -162,6 +162,28 @@ Ofin's own arc as the deliberate capstone cost his signature ability always fore
 two-commit process as recent batches: drafted and committed as an unlocked/pending draft first,
 header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 
+**Aztlán's second Chronicle, Batch 96, 2026-09-09 (`MCD-359`).** The next strongest unpaid hook,
+this one already tied to a specific real-world event: `PH2-023` itself states Ollin "never listened
+to the people who built it beside him," naming Iya's 1970 walkout over unaddressed sexism as the
+schism that "outlasted the group's external enemies" -- left as a deliberate, unresolved forward
+reference at the close of Aztlán Chronicle I (`MCD-347`). **Aztlán Chronicle II, "The Half He Never
+Carried"** (full narrative text at
+`docs/lords-of-cian/chronicles/aztlan-chronicle-ii-the-half-he-never-carried.md`) pays it off
+directly and does not redeem or soften Ollin's failure, matching `PH2-023`'s own unsparing framing.
+Three weeks before a major march, Iya — having raised the same concern in six prior meetings —
+calls out Ollin's repeated exclusion of women from leadership credit and decision-making despite
+their equal organizing labor; when he defers it again, she leads every woman in the organization out
+that night. The march proceeds three weeks later with real, uncompensated structural losses (water
+shortages, lost contacts) even though "The Formation" still holds mechanically — dramatizing the
+ability's stated cost precisely: ignored internal grievance costs the organization something real,
+not just a future risk. Iya's grievance is kept specific and is not minimized or resolved by the
+narrative; an unnamed Kanja is present throughout, granted no command, intervention, or resolution
+credit, notably including no advice at the confrontation itself. No new named characters — Iya
+(`PH2-030`) and Ollin are both already-locked figures. Fifth territory (after Xaragua, Areíto,
+Guanín, and Uhuru) to receive a second Chronicle entry. Same two-commit process as recent batches:
+drafted and committed as an unlocked/pending draft first, header corrected to "Locked canon" only
+after approval. Abad's approval: "lock it."
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75

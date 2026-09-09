@@ -1,7 +1,7 @@
 # Aztlán Chronicle II: The Half He Never Carried
 
-*DRAFT -- pending Abad's approval, not yet locked canon. Batch 96 candidate (`MCD-359`
-candidate). Second entry in Aztlán's own Chronicles, its protagonist Ollin (`PH2-023`), not a Kanja
+*Locked canon, Batch 96, 2026-09-09 (`MCD-359`). Second entry in Aztlán's own Chronicles, its
+protagonist Ollin (`PH2-023`), not a Kanja
 Chronicle. Kanja appears only as a guest, present but granted no command, no intervention, and no
 resolution credit, matching the established convention. Narration is close-third on Ollin
 throughout, not Onyx of Oblivion. Directly pays off `PH2-023`'s own stated backstory event, left as
