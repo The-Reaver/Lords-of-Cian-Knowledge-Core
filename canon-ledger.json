@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "9.0",
+  "ledger_version": "9.5",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -803,6 +803,51 @@
     {
       "batch": 87,
       "source_doc": "Orin Chronicle I ('What Can't Be Sold', MCD-350) -- the sixteenth territory Chronicle overall and Orin's first (Onilu), completing a first Chronicle entry for all five Los Angeles territories, matching NYC's and Chicago's own completed sets.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA and Detroit territory Chronicles, applied per-batch as they are drafted."
+    },
+    {
+      "batch": 88,
+      "source_doc": "Kazi Chronicle I ('The Line That Heard Him', MCD-351) -- the seventeenth territory Chronicle overall and Kazi's first (Irin), opening Detroit's own run of territory Chronicles.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA and Detroit territory Chronicles, applied per-batch as they are drafted."
+    },
+    {
+      "batch": 89,
+      "source_doc": "Taifa Chronicle I ('Bound Without a Word', MCD-352) -- the eighteenth territory Chronicle overall and Taifa's first (Osei), continuing Detroit's own run of territory Chronicles.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA and Detroit territory Chronicles, applied per-batch as they are drafted."
+    },
+    {
+      "batch": 90,
+      "source_doc": "Hekalu Chronicle I ('Whoever Sits Down', MCD-353) -- the nineteenth territory Chronicle overall and Hekalu's first (Adom), continuing Detroit's own run of territory Chronicles.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA and Detroit territory Chronicles, applied per-batch as they are drafted."
+    },
+    {
+      "batch": 91,
+      "source_doc": "Nyansa Chronicle I ('The Word That Stuck', MCD-354) -- the twentieth territory Chronicle overall and Nyansa's first (Adisa), continuing Detroit's own run of territory Chronicles.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA and Detroit territory Chronicles, applied per-batch as they are drafted."
+    },
+    {
+      "batch": 92,
+      "source_doc": "Kiti Chronicle I ('What Wore Down Instead', MCD-355) -- the twenty-first territory Chronicle overall and Kiti's first (Owusu), completing a first Chronicle entry for all five Detroit territories and closing out territory-Chronicle coverage for every homage-era city built so far (NYC, Chicago, LA, Detroit).",
       "source_id": null,
       "rule_count": 1,
       "status": "complete",
@@ -7317,6 +7362,41 @@
       "statement": "Orin Chronicle I ('What Can't Be Sold') is the first entry in Orin's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. During a small storefront performance, everyone genuinely listening comes away carrying a real bond to everyone else who heard it with them. Onilu's signature ability ('The Ark,' PH2-029) is shown directly in operation for the first time, then its cost dramatized in the same episode: Onilu deliberately allows a would-be promoter to record the final number, and the binding is demonstrably absent from the resulting recording when played back to a room that never stood together in it, exactly matching PH2-029's stated limitation that commercializing the performance destroys the binding completely and permanently for that performance. An unnamed Kanja is present at the back of the room and stays after to help stack chairs, without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Orin itself, and completes a first Chronicle entry for every one of Los Angeles's five territories (Sankofa, Aztlan, Atunbi, Ijoko, Orin), matching NYC's and Chicago's own completed sets.",
       "status": "locked",
       "source": "Orin Chronicle I ('What Can't Be Sold'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/orin-chronicle-i-what-cant-be-sold.md."
+    },
+    {
+      "id": "MCD-351",
+      "category": "World Mechanics",
+      "statement": "Kazi Chronicle I ('The Line That Heard Him') is the first entry in Kazi's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. When a foreman keeps the assembly line running around a jammed press rather than relieving the two men absorbing its backlog, Irin (PH2-051) calls a halt from his own station. Irin's signature ability ('The Line Stops,' PH2-051) is shown directly in operation for the first time: every man bound into the same production chain feels the halt instantly, without a word passed hand to hand, exactly matching the ability's stated mechanic. The same episode dramatizes the ability's stated cost precisely: three outside hires brought in to break the standstill feel nothing at all, since they were never structurally bound into the same chain of labor, exactly matching PH2-051's stated limitation. The foreman is deliberately left unnamed, matching established precedent for undetailed antagonists. An unnamed Kanja is hired onto the line itself for the week and present at his own station without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Kazi itself, and opens Detroit's own run of territory Chronicles (Taifa, Hekalu, Nyansa, and Kiti still have none).",
+      "status": "locked",
+      "source": "Kazi Chronicle I ('The Line That Heard Him'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/kazi-chronicle-i-the-line-that-heard-him.md."
+    },
+    {
+      "id": "MCD-352",
+      "category": "World Mechanics",
+      "statement": "Taifa Chronicle I ('Bound Without a Word') is the first entry in Taifa's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. When a dawn raid hits the claimed land's outer post faster than any rider could warn the other sworn cells, Osei (PH2-053) feels the need arrive whole, and sworn hands converge from three unconnected cities within minutes of each other. Osei's signature ability ('Kin at a Distance,' PH2-053) is shown directly in operation for the first time, exactly matching its stated mechanic. The ability's cost is dramatized explicitly: Osei states plainly that people who merely agree with or admire the cause, without having sworn the oath and meant it, feel nothing and are never reached, matching PH2-053's stated limitation ('cannot compel anyone who hasn't sworn it'). Yaw (PH2-053) is referenced consistently with his already-locked co-founder role, not separately detailed. The RNA's real exiled first president remains backstory-only per PH2-053's own precedent. An unnamed Kanja watches from the post's edge without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Taifa itself, continuing Detroit's own run of territory Chronicles (Kazi already has one; Hekalu, Nyansa, and Kiti still do not).",
+      "status": "locked",
+      "source": "Taifa Chronicle I ('Bound Without a Word'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/taifa-chronicle-i-bound-without-a-word.md."
+    },
+    {
+      "id": "MCD-353",
+      "category": "World Mechanics",
+      "statement": "Hekalu Chronicle I ('Whoever Sits Down') is the first entry in Hekalu's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A rival cooperative owner, suspicious of Adom's (PH2-055) table, freely chooses to sit and eat, and returns days later with an unprompted joint wage-floor proposal he cannot fully explain offering. Adom's signature ability ('The Common Table,' PH2-055) is shown directly in operation for the first time, exactly matching its stated mechanic. The ability's cost is dramatized explicitly through both the rival's own required free choice to sit and a referenced past case of a man who sat down without ever meaning to be there and left entirely unchanged, matching PH2-055's stated limitation ('cannot be forced on the unwilling'). An unnamed Kanja is seated at the table itself throughout without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Hekalu itself, continuing Detroit's own run of territory Chronicles (Kazi and Taifa already have one; Nyansa and Kiti still do not).",
+      "status": "locked",
+      "source": "Hekalu Chronicle I ('Whoever Sits Down'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/hekalu-chronicle-i-whoever-sits-down.md."
+    },
+    {
+      "id": "MCD-354",
+      "category": "World Mechanics",
+      "statement": "Nyansa Chronicle I ('The Word That Stuck') is the first entry in Nyansa's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Adisa (PH2-057) names, aloud, his own organizing committee's unexamined exclusion of night-shift workers from its votes; the argument never returns to its old unresolved shape afterward, and the night shift wins its vote within the month. Adisa's signature ability ('The Long Correction,' PH2-057) is shown directly in operation for the first time, exactly matching its stated mechanic. The same episode dramatizes the ability's stated cost via a deliberate contrast case: Adisa tries the identical technique on a rival faction leader whose program has no latent doubt underneath it, and it fails completely, matching PH2-057's stated limitation ('can't implant a belief that isn't already half-formed there'). Adisa's real co-theorist and life partner (homage to Grace Lee Boggs) remains backstory-only per PH2-057's own precedent and is not referenced on-page. The rival faction leader is deliberately left unnamed. An unnamed Kanja watches from the back of both meetings without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Nyansa itself, continuing Detroit's own run of territory Chronicles (Kazi, Taifa, and Hekalu already have one; only Kiti still does not).",
+      "status": "locked",
+      "source": "Nyansa Chronicle I ('The Word That Stuck'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/nyansa-chronicle-i-the-word-that-stuck.md."
+    },
+    {
+      "id": "MCD-355",
+      "category": "World Mechanics",
+      "statement": "Kiti Chronicle I ('What Wore Down Instead') is the first entry in Kiti's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A manufactured scandal, run for three weeks by the old machine, is meant to wear Owusu (PH2-059) down; instead his next election comes in stronger. Owusu's signature ability ('The Long Tenure,' PH2-059) is shown directly in operation for the first time: sustained attrition against him while he holds the seat strengthens his grip rather than weakening it, exactly matching the ability's stated mechanic. The ability's cost is stated explicitly as foreshadowing rather than dramatized in the moment, matching the same restraint used for Ofin's capstone cost in Uhuru Chronicle I (MCD-345): Owusu states plainly, unprompted, that the strength is purely institutional and lapses completely the instant he leaves the seat, matching PH2-059's stated limitation exactly. The old machine's operatives are deliberately left unnamed. An unnamed Kanja is a quiet presence around the office across the stretch without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Kiti itself, and completes a first Chronicle entry for every one of Detroit's five territories (Kazi, Taifa, Hekalu, Nyansa, Kiti), which in turn completes territory-Chronicle coverage at the first-Chronicle level for all four homage-era cities built so far (NYC, Chicago, LA, Detroit).",
+      "status": "locked",
+      "source": "Kiti Chronicle I ('What Wore Down Instead'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/kiti-chronicle-i-what-wore-down-instead.md."
     }
   ],
   "open_decisions": [
