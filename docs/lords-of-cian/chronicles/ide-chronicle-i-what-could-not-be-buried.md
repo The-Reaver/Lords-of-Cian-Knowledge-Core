@@ -1,12 +1,13 @@
 # Ide Chronicle I: What Could Not Be Buried
 
-*DRAFT, pending Abad's explicit approval. First entry in Ide's own Chronicles, its protagonist Ase
-(`PH2-036`), not a Kanja Chronicle. Kanja appears only as a guest, present but granted no command,
-no intervention, and no resolution credit, matching the established convention from Xaragua
-Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`), Areíto
-Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), and Borikén Chronicle I (`MCD-341`).
+*Locked canon, Batch 79, 2026-09-09 (`MCD-342`). First entry in Ide's own Chronicles, its
+protagonist Ase (`PH2-036`), not a Kanja Chronicle. Kanja appears only as a guest, present but
+granted no command, no intervention, and no resolution credit, matching the established convention
+from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`),
+Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), and Borikén Chronicle I (`MCD-341`).
 Narration is close-third on Ase throughout, not Onyx of Oblivion. Slots into no existing mainline
-battle — original homage-era material set in Ide itself.*
+battle — original homage-era material set in Ide itself. Opens Chicago's own run of territory
+Chronicles.*
 
 ---
 

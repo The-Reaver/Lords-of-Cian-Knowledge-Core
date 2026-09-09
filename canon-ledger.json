@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "8.1",
+  "ledger_version": "8.2",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -722,6 +722,15 @@
     {
       "batch": 78,
       "source_doc": "Boriken Chronicle I ('The Fire That Found No Center', MCD-341) -- the fifth and final first-Chronicle entry for NYC's five territories (Guani/Boriken), continuing the open-ended Phase 2 territory-Chronicle expansion (alongside Xaragua I/II, Umoja I, Yara I, Areito I, Guanin I) that was never gated by the Pre-Book-1 Foundation Complete milestone (Batch 75).",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it\""
+    },
+    {
+      "batch": 79,
+      "source_doc": "Ide Chronicle I ('What Could Not Be Buried', MCD-342) -- the eighth territory Chronicle overall and Ide's first (Ase), opening Chicago's own run of territory Chronicles, continuing the open-ended Phase 2 territory-Chronicle expansion (alongside Xaragua I/II, Umoja I, Yara I, Areito I, Guanin I, Boriken I) that was never gated by the Pre-Book-1 Foundation Complete milestone (Batch 75).",
       "source_id": null,
       "rule_count": 1,
       "status": "complete",
@@ -7173,6 +7182,13 @@
       "statement": "Boriken Chronicle I ('The Fire That Found No Center') is the first entry in Boriken's own Chronicle series, per the established structure (MCD-334/335/336/339/340): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. An unnamed career administrator (the Commissioner), after five failed raids each capturing only a fragment of Guani's (PH2-010) distributed authority, shifts strategy from hunting the man to burning five of his institutions simultaneously in one night (the hospital wing, the garbage depot, two rooftop meeting halls, and a church hall). Guani's signature ability ('No Single Point,' PH2-010) is shown directly in operation for the first time: no single location holds the real him, so none of the five strikes ends him. The ability's stated cost is also dramatized as the story's actual engine, not just a caveat -- the church hall's six-year debt ledger burns and cannot be fully rebuilt from the memory of the forty people who held pieces of it, a real, uncompensated loss rather than a disguised win. An unnamed stranger is present at the church-hall raid and helps carry people to safety, without taking command, credit, or narrative authorship of the outcome. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Boriken itself. Completes the first Chronicle entry for all five NYC territories (Xaragua, Areito, Yara, Guanin, Boriken).",
       "status": "locked",
       "source": "Boriken Chronicle I ('The Fire That Found No Center'), chat-drafted 2026-09-08, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-i-the-fire-that-found-no-center.md."
+    },
+    {
+      "id": "MCD-342",
+      "category": "World Mechanics",
+      "statement": "Ide Chronicle I ('What Could Not Be Buried') is the first entry in Ide's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. An unnamed local authority (the Magistrate of Ide) publicly executes an innocent man over a granary theft he did not commit, deciding guilt within the hour before anyone can establish the truth. Ase (PH2-036), arriving three streets away too late to intervene, spends the following days documenting the dead man's name, every witness, and the Magistrate's own words with total precision. Ase's signature ability ('Named and Numbered,' PH2-036) is shown directly in operation for the first time, honoring both its mechanic and its stated cost: she has no power to have stopped the execution (she arrives after, as the ability requires), but her account, once copied and carried out of Ide by multiple independent routes before the Magistrate's men can seize the original plates, becomes permanently impossible to erase or deny. An unnamed Kanja is present at the execution itself, equally unable to intervene, and later helps smuggle one copy of the account out of the city without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Ide itself, and opens Chicago's own run of territory Chronicles (Umoja already has one, Umoja Chronicle I, MCD-335; Ide, Kwan, Jibaro, and Uhuru had none before this entry).",
+      "status": "locked",
+      "source": "Ide Chronicle I ('What Could Not Be Buried'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/ide-chronicle-i-what-could-not-be-buried.md."
     }
   ],
   "open_decisions": [
