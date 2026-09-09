@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "8.6",
+  "ledger_version": "9.0",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -772,6 +772,42 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"lock it\""
+    },
+    {
+      "batch": 84,
+      "source_doc": "Aztlan Chronicle I ('One Body, Many Hands', MCD-347) -- the thirteenth territory Chronicle overall and Aztlan's first (Ollin), continuing Los Angeles's own run of territory Chronicles.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA (4) and Detroit (5) territory Chronicles, applied per-batch as they are drafted."
+    },
+    {
+      "batch": 85,
+      "source_doc": "Atunbi Chronicle I ('What Takes Root', MCD-348) -- the fourteenth territory Chronicle overall and Atunbi's first (Oluwole), continuing Los Angeles's own run of territory Chronicles.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA and Detroit territory Chronicles, applied per-batch as they are drafted."
+    },
+    {
+      "batch": 86,
+      "source_doc": "Ijoko Chronicle I ('What Laughter Couldn't Move', MCD-349) -- the fifteenth territory Chronicle overall and Ijoko's first (Adwoa), continuing Los Angeles's own run of territory Chronicles.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA and Detroit territory Chronicles, applied per-batch as they are drafted."
+    },
+    {
+      "batch": 87,
+      "source_doc": "Orin Chronicle I ('What Can't Be Sold', MCD-350) -- the sixteenth territory Chronicle overall and Orin's first (Onilu), completing a first Chronicle entry for all five Los Angeles territories, matching NYC's and Chicago's own completed sets.",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin and google drive\" -- blanket authorization covering all remaining LA and Detroit territory Chronicles, applied per-batch as they are drafted."
     }
   ],
   "rules": [
@@ -7253,6 +7289,34 @@
       "statement": "Sankofa Chronicle I ('The Man Who Turned Against Himself') is the first entry in Sankofa's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341/342/343/344/345): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A rival lieutenant, Kojo (a new named character, Akan Monday-born day-name per the standing PH2 naming convention), attacks Baale (PH2-021) face to face in broad daylight over disputed western-block territory. Baale's signature ability ('The Turn,' PH2-021) is shown directly in operation for the first time via this fresh one-on-one attacker, deliberately distinct from the ability's own already-locked backstory event (the COINTELPRO-orchestrated ambush that nearly killed Baale and Kra, which per PH2-021 remains backstory only and is not restaged here, matching the Toussaint-Louverture/Ogoun-Xarey precedent for events referenced rather than dramatized): surviving the direct exchange, Kojo becomes bound to serve Baale within the week, exactly matching the ability's stated mechanic. The ability's cost is honored explicitly and left as live, unresolved tension rather than a settled fact -- Baale states plainly that a faceless, coordinated threat, the same shape as the COINTELPRO conspiracy in his backstory, is exactly what his gift cannot reach, foreshadowing rather than restaging that already-locked near-death event. An unnamed Kanja watches from the crowd's edge, entirely uninvolved, matching the Umoja/Yara/Areito pure-witness end of the established range. Kojo is left open as a minor recurring figure for future entries. Slots into no existing mainline battle -- original homage-era material set in Sankofa itself, and opens Los Angeles's own run of territory Chronicles (Aztlan, Atunbi, Ijoko, and Orin still have none).",
       "status": "locked",
       "source": "Sankofa Chronicle I ('The Man Who Turned Against Himself'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-i-the-man-who-turned-against-himself.md."
+    },
+    {
+      "id": "MCD-347",
+      "category": "World Mechanics",
+      "statement": "Aztlan Chronicle I ('One Body, Many Hands') is the first entry in Aztlan's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. During an East LA walkout, a counter-crowd attacks the march's flank where the police line thins; Ollin's forty personally drilled people hold a defensive line together. Ollin's signature ability ('The Formation,' PH2-023) is shown directly in operation for the first time: the drilled group fights and moves as a single, dramatically amplified force, exactly matching the ability's stated mechanic. The ability's cost (fracturing explosively once ignored internal grievance reaches its breaking point) is deliberately not shown here -- this Chronicle is set before the ability's own already-locked backstory event (Iya's 1970 walkout over unaddressed sexism), and Ollin's closing line is a deliberate, unresolved forward reference to that future rupture rather than a payoff. An unnamed Kanja is embedded inside the formation itself during the confrontation without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Aztlan itself, continuing Los Angeles's own run of territory Chronicles (Sankofa already has one; Atunbi, Ijoko, and Orin still do not).",
+      "status": "locked",
+      "source": "Aztlan Chronicle I ('One Body, Many Hands'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/aztlan-chronicle-i-one-body-many-hands.md."
+    },
+    {
+      "id": "MCD-348",
+      "category": "World Mechanics",
+      "statement": "Atunbi Chronicle I ('What Takes Root') is the first entry in Atunbi's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A demolition crew attacks a garden lot Oluwole (PH2-025) has held and worked at dawn, before the block can organize a response. Oluwole's signature ability ('Don't Move, Improve,' PH2-025) is shown directly in operation for the first time -- the ground he has stayed rooted on has become genuinely more resilient -- while the scene also dramatizes the ability's stated cost precisely: the demolition crew takes a third of the garden before the ability's own slow mechanism can do anything about it, exactly matching PH2-025's stated limitation ('useless against anything fast enough to strike and leave before it takes hold'). What actually stops the attack is ordinary human numbers arriving in time, not the gift itself, stated plainly on the page rather than left implicit. An unnamed Kanja is present helping turn soil across several mornings and during the confrontation without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Atunbi itself, continuing Los Angeles's own run of territory Chronicles (Sankofa and Aztlan already have one; Ijoko and Orin still do not).",
+      "status": "locked",
+      "source": "Atunbi Chronicle I ('What Takes Root'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/atunbi-chronicle-i-what-takes-root.md."
+    },
+    {
+      "id": "MCD-349",
+      "category": "World Mechanics",
+      "statement": "Ijoko Chronicle I ('What Laughter Couldn't Move') is the first entry in Ijoko's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Across repeated council sessions, hostile members test Adwoa (PH2-027) with deniable, sideways mockery meant to destabilize her. Adwoa's signature ability ('The Iron Hand in the Velvet Glove,' PH2-027) is shown directly in operation for the first time: every jab leaves her grip on the room visibly steadier rather than shaken, exactly matching the ability's stated mechanic. The same episode dramatizes the ability's stated cost precisely: the ability does nothing against the real, impersonal economic decline (a thinning tax base, capital flight) working against her, and the Chronicle states explicitly that this is a different fight entirely, one composure cannot touch, matching PH2-027's stated limitation rather than leaving it abstract. An unnamed Kanja is a recurring back-row presence across sessions without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Ijoko itself, continuing Los Angeles's own run of territory Chronicles (Sankofa, Aztlan, and Atunbi already have one; only Orin still does not).",
+      "status": "locked",
+      "source": "Ijoko Chronicle I ('What Laughter Couldn't Move'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/ijoko-chronicle-i-what-laughter-couldnt-move.md."
+    },
+    {
+      "id": "MCD-350",
+      "category": "World Mechanics",
+      "statement": "Orin Chronicle I ('What Can't Be Sold') is the first entry in Orin's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. During a small storefront performance, everyone genuinely listening comes away carrying a real bond to everyone else who heard it with them. Onilu's signature ability ('The Ark,' PH2-029) is shown directly in operation for the first time, then its cost dramatized in the same episode: Onilu deliberately allows a would-be promoter to record the final number, and the binding is demonstrably absent from the resulting recording when played back to a room that never stood together in it, exactly matching PH2-029's stated limitation that commercializing the performance destroys the binding completely and permanently for that performance. An unnamed Kanja is present at the back of the room and stays after to help stack chairs, without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Orin itself, and completes a first Chronicle entry for every one of Los Angeles's five territories (Sankofa, Aztlan, Atunbi, Ijoko, Orin), matching NYC's and Chicago's own completed sets.",
+      "status": "locked",
+      "source": "Orin Chronicle I ('What Can't Be Sold'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/orin-chronicle-i-what-cant-be-sold.md."
     }
   ],
   "open_decisions": [
