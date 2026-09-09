@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "9.6",
+  "ledger_version": "9.7",
   "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -860,6 +860,13 @@
       "source": "Original invention, chat-drafted 2026-09-09, no source document",
       "rule_count": 1,
       "note": "Areito Chronicle II (MCD-356), 'The One Who Stood Where He Stood' -- pays off the explicit hook left at the close of Areito Chronicle I (MCD-339), dramatizing PH2-004's stated vulnerability for the first time via a new named character, Adeyemi. Abad: \"lock it.\""
+    },
+    {
+      "batch": 94,
+      "date": "2026-09-09",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document",
+      "rule_count": 1,
+      "note": "Guanin Chronicle II (MCD-357), 'What He Chose to Print' -- dramatizes PH2-008's already-locked, genuine unresolved public friction between Eri Kotoko and Kwame Ade for the first time, via a banked rhetorical reply rather than violence. Abad: \"lock it.\""
     }
   ],
   "rules": [
@@ -7411,6 +7418,13 @@
       "statement": "Areito Chronicle II, \"The One Who Stood Where He Stood\" (full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-ii-the-one-who-stood-where-he-stood.md), the second entry in Areito's own Chronicles, protagonist Kwame Ade (PH2-004), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present throughout but granted no command, intervention, or resolution credit. Set seven years after Areito Chronicle I (MCD-339): Adeyemi, a new named character (Yoruba, 'the crown befits me') and former cellmate from Kwame Ade's first prison reinvention (the same conversion PH2-004 locks as the origin of his certainty, distinct from the second-reinvention era that produced Chronicle I's three unnamed attackers), confronts him alone and unarmed, arguing that spending their shared cell-forged conviction on strangers rather than the six men who forged it with him was a betrayal wearing conviction's own clothes. Adeyemi throws one blow matching his own genuine, unhesitating certainty and it lands, drawing the first blood anyone has ever drawn from Kwame Ade -- directly dramatizing PH2-004's own stated vulnerability ('only someone matching his own absolute certainty can hurt him... the one real threat to him was always going to come from someone who once stood exactly where he stood') as a literal, physical fact for the first time. Adeyemi does not finish the blow, finding himself newly and genuinely uncertain in a way he has not been in seven years, and departs with his own arc deliberately left open -- whether he returns, and which side of his new uncertainty he lands on, is unresolved. The unnamed Kanja offers one small, wordless, uncredited act of aid (a cloth pressed into Kwame Ade's hand for the wound) after Adeyemi leaves. No collision: Adeyemi is checked against the full live ledger and confirmed distinct from the already-locked Xaragua supporting-cast figures Kwabena (PH2-014) and Kwaku (PH2-016).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Areito's own Chronicles, directly paying off the explicit hook left at the close of Areito Chronicle I (MCD-339). Full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-ii-the-one-who-stood-where-he-stood.md."
+    },
+    {
+      "id": "MCD-357",
+      "category": "phase2-homage-chronicle",
+      "statement": "Guanin Chronicle II, \"What He Chose to Print\" (full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-ii-what-he-chose-to-print.md), the second entry in Guanin's own Chronicles, protagonist Eri Kotoko (PH2-008), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present at two separate moments months apart, taking no side and granted no command, intervention, or resolution credit. Dramatizes PH2-008's already-locked 'real, documented public friction with Kwame Ade... kept as genuine unresolved alliance tension' for the first time: Kwame Ade's Areito press prints a pamphlet, circulated by crier, calling Eri Kotoko's patient institution-building strategy a form of collaboration; Eri Kotoko, provoked in public, does not answer in the moment, instead spending four months building a documented account of Guanin's institutions raised without violence, then publishing his own pamphlet setting that account beside Kwame Ade's words without conceding either side, closing on one precisely aimed line. This puts 'The Unanswered Blow' (PH2-008) on the page in a new register -- a banked, deliberately delayed rhetorical reply rather than physical retaliation against a wrongdoer (as in Guanin Chronicle I, MCD-340) -- while matching the ability's stated mechanic exactly (deliberate, conscious release only; anger in the moment resets it to nothing). The alliance tension is deliberately left genuinely unresolved at the close, per PH2-008's own framing, with no side conceded. Eri Kotoko's closing line carries a deliberate, ambiguous echo of Areito Chronicle II's (MCD-356) events (Adeyemi's wound) without asserting he has specific knowledge of them. No new named characters; the scene is carried by the two already-locked leaders plus unnamed criers and distributors, consistent with the world's established pre-industrial crier/pamphlet media system (PH2-049, WC-012/WC-013). First Chronicle to put two already-locked homage-era leaders in direct dialogue (at a distance, through print) with each other.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-09, no source document. Third entry in Guanin's own Chronicles, dramatizing PH2-008's already-locked, genuine unresolved public friction with Kwame Ade, first flagged as undramatized in Guanin Chronicle I's (MCD-340) own continuity notes. Full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-ii-what-he-chose-to-print.md."
     }
   ],
   "open_decisions": [

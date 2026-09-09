@@ -1,7 +1,7 @@
 # Guanín Chronicle II: What He Chose to Print
 
-*DRAFT -- pending Abad's approval, not yet locked canon. Batch 94 candidate (`MCD-357`
-candidate). Second entry in Guanín's own Chronicles, its protagonist Eri Kotoko (`PH2-008`), not a
+*Locked canon, Batch 94, 2026-09-09 (`MCD-357`). Second entry in Guanín's own Chronicles, its
+protagonist Eri Kotoko (`PH2-008`), not a
 Kanja Chronicle. Kanja appears only as a guest, present but granted no command, no intervention, and
 no resolution credit, matching the established convention. Narration is close-third on Eri Kotoko
 throughout, not Onyx of Oblivion. Directly dramatizes the friction `PH2-008` already locks and

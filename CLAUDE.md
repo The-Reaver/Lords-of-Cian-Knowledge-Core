@@ -118,6 +118,29 @@ Chronicle and the second territory (after Xaragua) to receive one. Process note:
 pattern as Batches 77-83 -- drafted and committed as an unlocked/pending draft first, header
 corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 
+**Guanín's second Chronicle, Batch 94, 2026-09-09 (`MCD-357`).** The next strongest unpaid hook
+after Areíto's: `PH2-008` itself locks "real, documented public friction with Kwame Ade... kept as
+genuine unresolved alliance tension," and Guanín Chronicle I's own continuity notes flagged it as
+"left undramatized, open for a future entry." **Guanín Chronicle II, "What He Chose to Print"**
+(full narrative text at `docs/lords-of-cian/chronicles/guanin-chronicle-ii-what-he-chose-to-print.md`)
+dramatizes it directly, and is the first Chronicle to put two already-locked homage-era leaders in
+direct dialogue (at a distance, through print) with each other. Kwame Ade's Areíto press circulates
+a pamphlet calling Eri Kotoko's patient institution-building a form of collaboration; provoked in
+public, Eri Kotoko doesn't answer in the moment, instead spending four months documenting Guanín's
+institutions raised without violence before publishing his own pamphlet, setting that account beside
+Kwame Ade's without conceding either side, closing on one precisely aimed line. This puts "The
+Unanswered Blow" (`PH2-008`) on the page in a new register — a banked, deliberately delayed
+rhetorical reply rather than physical retaliation against a wrongdoer (as in Guanín Chronicle I,
+`MCD-340`) — while matching the ability's stated mechanic exactly. The alliance tension is
+deliberately left genuinely unresolved at the close, per `PH2-008`'s own framing; Eri Kotoko's
+closing line carries a deliberate, ambiguous echo of Areíto Chronicle II's (`MCD-356`) events
+(Adeyemi's wound) without asserting specific knowledge of them. No new named characters — the scene
+is carried by the two already-locked leaders plus unnamed criers and distributors, consistent with
+the world's established pre-industrial crier/pamphlet media system (`PH2-049`, `WC-012`/`WC-013`).
+Third territory (after Xaragua and Areíto) to receive a second Chronicle entry. Same two-commit
+process as recent batches: drafted and committed as an unlocked/pending draft first, header
+corrected to "Locked canon" only after approval. Abad's approval: "lock it."
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
