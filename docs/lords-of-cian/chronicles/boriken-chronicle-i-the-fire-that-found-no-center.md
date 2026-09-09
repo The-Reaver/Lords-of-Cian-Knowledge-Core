@@ -1,12 +1,13 @@
 # Borikén Chronicle I: The Fire That Found No Center
 
-*DRAFT, pending Abad's explicit approval. First entry in Borikén's own Chronicles, its protagonist
-Guaní (`PH2-010`), not a Kanja Chronicle. Kanja appears only as a guest, present but granted no
-command, no intervention, and no resolution credit, matching the established convention from
-Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`), Areíto
-Chronicle I (`MCD-339`), and Guanín Chronicle I (`MCD-340`). Narration is close-third on Guaní
-throughout, not Onyx of Oblivion. Slots into no existing mainline battle — original homage-era
-material set in Borikén itself.*
+*Locked canon, Batch 78, 2026-09-09 (`MCD-341`). First entry in Borikén's own Chronicles, its
+protagonist Guaní (`PH2-010`), not a Kanja Chronicle. Kanja appears only as a guest, present but
+granted no command, no intervention, and no resolution credit, matching the established convention
+from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`),
+Areíto Chronicle I (`MCD-339`), and Guanín Chronicle I (`MCD-340`). Narration is close-third on
+Guaní throughout, not Onyx of Oblivion. Slots into no existing mainline battle — original
+homage-era material set in Borikén itself. Completes the first Chronicle entry for all five NYC
+territories.*
 
 ---
 

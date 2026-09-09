@@ -1,7 +1,7 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "8.0",
-  "last_updated": "2026-09-08",
+  "ledger_version": "8.1",
+  "last_updated": "2026-09-09",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
     "Voice Bible governs tone/language only, not facts.",
@@ -718,6 +718,15 @@
       "status": "complete",
       "conflicts_found": 0,
       "note": "Abad: \"locked\""
+    },
+    {
+      "batch": 78,
+      "source_doc": "Boriken Chronicle I ('The Fire That Found No Center', MCD-341) -- the fifth and final first-Chronicle entry for NYC's five territories (Guani/Boriken), continuing the open-ended Phase 2 territory-Chronicle expansion (alongside Xaragua I/II, Umoja I, Yara I, Areito I, Guanin I) that was never gated by the Pre-Book-1 Foundation Complete milestone (Batch 75).",
+      "source_id": null,
+      "rule_count": 1,
+      "status": "complete",
+      "conflicts_found": 0,
+      "note": "Abad: \"lock it\""
     }
   ],
   "rules": [
@@ -7157,6 +7166,13 @@
       "statement": "Guanin Chronicle I ('The Debt Comes Due') is the first entry in Guanin's own Chronicle series, per the established structure (MCD-334/335/336/339): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Eri Kotoko (PH2-008), on the evening his six-year forced-restraint bargain finally ends, is watched by an unnamed stranger who arrives on a dockside bench and stays present but uninvolved through the night. Eri Kotoko's signature ability ('The Unanswered Blow,' PH2-008) is shown directly in operation for the first time: six years of deliberately, consciously banked provocation, released in a single precise strike against the man who actually caused it (an unnamed counting-house figure who spent those six years needling him personally, believing the silence permanent) rather than a proxy, consistent with the ability's stated deliberate-release mechanic and its cost (anger, rather than conscious release, would have reset the banked force to nothing -- the scene is explicit that no anger is shown). PH2-008's already-locked friction with Kwame Ade is not dramatized here, left open for a future entry. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Guanin itself.",
       "status": "locked",
       "source": "Guanin Chronicle I ('The Debt Comes Due'), chat-drafted 2026-09-08, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-i-the-debt-comes-due.md."
+    },
+    {
+      "id": "MCD-341",
+      "category": "World Mechanics",
+      "statement": "Boriken Chronicle I ('The Fire That Found No Center') is the first entry in Boriken's own Chronicle series, per the established structure (MCD-334/335/336/339/340): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. An unnamed career administrator (the Commissioner), after five failed raids each capturing only a fragment of Guani's (PH2-010) distributed authority, shifts strategy from hunting the man to burning five of his institutions simultaneously in one night (the hospital wing, the garbage depot, two rooftop meeting halls, and a church hall). Guani's signature ability ('No Single Point,' PH2-010) is shown directly in operation for the first time: no single location holds the real him, so none of the five strikes ends him. The ability's stated cost is also dramatized as the story's actual engine, not just a caveat -- the church hall's six-year debt ledger burns and cannot be fully rebuilt from the memory of the forty people who held pieces of it, a real, uncompensated loss rather than a disguised win. An unnamed stranger is present at the church-hall raid and helps carry people to safety, without taking command, credit, or narrative authorship of the outcome. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Boriken itself. Completes the first Chronicle entry for all five NYC territories (Xaragua, Areito, Yara, Guanin, Boriken).",
+      "status": "locked",
+      "source": "Boriken Chronicle I ('The Fire That Found No Center'), chat-drafted 2026-09-08, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-i-the-fire-that-found-no-center.md."
     }
   ],
   "open_decisions": [
