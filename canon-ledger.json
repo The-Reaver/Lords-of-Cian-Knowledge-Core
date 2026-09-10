@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "11.3",
+  "ledger_version": "11.4",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -979,6 +979,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document.",
       "rule_count": 3,
       "note": "Locks the Sovereign Ghost of the Great Sea's three-entry Alias Chronicle wave (MCD-377 through MCD-379), the fourth of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
+    },
+    {
+      "batch": 111,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Scourge's three-entry Alias Chronicle wave (MCD-380 through MCD-382), the fifth of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
     }
   ],
   "rules": [
@@ -7892,6 +7899,27 @@
       "id": "MCD-379",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Lantern Watch Prayed For\" (full narrative text at docs/lords-of-cian/chronicles/what-the-lantern-watch-prayed-for.md), Sovereign Ghost Alias Chronicle III, closing the wave. A young Trust supply-vessel lantern watchman, who never once sights The Audit across an entire season of night watches, learns from an older hand that the legend now does the ghost's work without her needing to appear again -- the Ghost Harbor casualty list is real, but every quiet watch since has been the fear doing the rest on its own. Extends VB-060's presence doctrine to reputation alone, absent any actual appearance. No new named characters. Closes the Sovereign Ghost of the Great Sea's three-Chronicle wave (with 'A Ship That Was Already Gone,' MCD-377, and 'The Chains That Remembered the Anchor,' MCD-378).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-380",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What He Chose to Burn\" (full narrative text at docs/lords-of-cian/chronicles/what-he-chose-to-burn.md), the Scourge Alias Chronicle I. Rebellion era, the morning after the Ash-Wharf Massacre (MCD-235, age 22). Efa Gol (already-locked crew member, CC-130) finds Kanja still wearing his ruined, smoke-damaged coat at the harbor's edge; he reflects that unlike his other Directorate- or crew-given aliases, this persona was neither chosen nor given by anyone, including himself -- it happened by accident, standing still through his own detonated stockpile, and he does not yet know what it will end up costing before it's finished. Dramatizes MCD-235's own stated 'unplanned, emergent' origin directly. First entry in the Scourge's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-381",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Shape the Smoke Remembers\" (full narrative text at docs/lords-of-cian/chronicles/the-shape-the-smoke-remembers.md), the Scourge Alias Chronicle II. Long Mask era, Pirate Dawn (ages 48-52, MCD-250), a new naval engagement distinct from the already-locked Boiling Strait (a different character's battle). A slaver galleon's crew is disabled and 211 captives freed in a detailed showcase of the early Scourge loadout: the Forge-Coat V1 (ARS-347) venting Terror-mode smoke (ARS-354), the Sovereign Eyes V1's unintended predator-eyed glow (ARS-350), the Ironhand Gauntlets V1 (ARS-352) absorbing and returning a boarding-axe strike, the Ironfall Boots' impact-sole tremor (ARS-353), and the Rexmar Machete (ARS-260, not a Trinity relic) winning the captain's duel through plain swordsmanship -- the freed captives' own later account deliberately contrasts the theatrical smoke-and-eyes reputation against the mundane skill actually doing the work. No new named characters. Second entry in the Scourge's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-382",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Signal Honest Ships Learned\" (full narrative text at docs/lords-of-cian/chronicles/the-signal-honest-ships-learned.md), the Scourge Alias Chronicle III, closing the wave. Long Mask era, Pirate Dawn (ages 48-52). A merchant captain deliberately signals for the Scourge's protection when a suspicious Gale Straits patrol closes in the dark; a single vessel holds position a half-mile off until the patrol withdraws rather than risk its own manifest facing the same scrutiny. Dramatizes MCD-250's 'recognized and surrendered to on sight without verification' fact from the opposite angle -- protection extended to honest cargo rather than only judgment against dishonest. No new named characters. Closes the Scourge's three-Chronicle wave (with 'What He Chose to Burn,' MCD-380, and 'The Shape the Smoke Remembers,' MCD-381).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document."
     }
