@@ -233,6 +233,27 @@ wasn't a technical collision. Same two-commit process as recent batches: drafted
 unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's
 approval: "lock it."
 
+**Naya, Batch 99, 2026-09-10 (`MCD-362`).** The other flagged-but-undramatized Arturo thread from
+Batch 66: "Naya (his protegee) and the flagged long-arc promise that Kanja himself 'becomes one' of
+Arturo's loved ones eventually are both deliberately left undramatized for future Chronicles." **Xaragua
+Chronicle IV, "The One He Chose to Teach"** (full narrative text at
+`docs/lords-of-cian/chronicles/xaragua-chronicle-iv-the-one-he-chose-to-teach.md`) dramatizes Naya
+directly for the first time -- the fourth Xaragua Chronicle, chronologically the most recent of the
+four, set after Xaragua Chronicle II in the "modern" Arturo era. A new named character
+(collision-checked against the full live ledger, zero prior hits): Arturo found her as a six-year-old
+sole survivor of a tenement fire, her grief-held stillness deliberately mirroring, not restaging, his
+own dock-boy-cohort loss (`MCD-361`). Sixteen years later he hands her sole authority, for the first
+time, to hear and resolve a dispute between two of the Five Families' captains, which she resolves
+through patience and listening rather than force, matching "No Blood at My Table." Arturo confirms
+afterward the real test was never her judgment (already proven for years) but his own willingness to
+let someone else's judgment carry equal weight to his own. Explicitly reaffirms Yaisa's (`PH2-062`)
+unique standing as the only person who can banter with Arturo unguarded, declining to extend it to
+Naya -- the separate long-arc Kanja thread stays untouched. An unnamed Kanja appears only briefly at
+the margins; his passage through NYC was already granted in Xaragua Chronicle II, so no
+re-introduction or re-testing occurs here. Same two-commit process as recent batches: drafted and
+committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval.
+Abad's approval: "lock it."
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75

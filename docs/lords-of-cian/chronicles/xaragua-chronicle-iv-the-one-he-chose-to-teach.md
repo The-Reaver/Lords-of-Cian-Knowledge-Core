@@ -1,7 +1,7 @@
 # Xaragua Chronicle IV: The One He Chose to Teach
 
-*DRAFT -- pending Abad's approval, not yet locked canon. Batch 99 candidate (`MCD-362`
-candidate). Fourth Xaragua Chronicle, set after Xaragua Chronicle II (`MCD-337`) in the "modern"
+*Locked canon, Batch 99, 2026-09-10 (`MCD-362`). Fourth Xaragua Chronicle, set after Xaragua
+Chronicle II (`MCD-337`) in the "modern"
 Arturo era -- chronologically the most recent of the four Xaragua Chronicles. Protagonist Arturo
 Salvatierra Duho (`PH2-061`), with Naya, his protegee, dramatized directly for the first time --
 `PH2-061` names her only in passing ("flagged for future payoff, not yet dramatized"). Introduces
