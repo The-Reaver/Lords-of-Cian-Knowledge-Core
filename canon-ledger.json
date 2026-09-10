@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "11.2",
+  "ledger_version": "11.3",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -972,6 +972,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document.",
       "rule_count": 3,
       "note": "Locks the Blue-Collar Titan's three-entry Alias Chronicle wave (MCD-374 through MCD-376), the third of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
+    },
+    {
+      "batch": 110,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Sovereign Ghost of the Great Sea's three-entry Alias Chronicle wave (MCD-377 through MCD-379), the fourth of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
     }
   ],
   "rules": [
@@ -7864,6 +7871,27 @@
       "id": "MCD-376",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Titan's Own Hands\" (full narrative text at docs/lords-of-cian/chronicles/the-titans-own-hands.md), Blue-Collar Titan Alias Chronicle III, closing the wave. Rebellion era, during the Sewer War of Killane (MCD-234, age 20). A conscripted sixty-one-year-old tunnel engineer is startled to find Kanja personally setting shoring timber alongside the crew, with genuine, practiced competence rather than performative labor; Kanja states plainly that his trade came before his war, and that he'd rather stay the kind of titan who remembers which of the two still feels like work. Grounds the Blue-Collar Titan's dignity-of-labor theme (VB-061) in a direct physical scene. No new named characters; the engineer is unnamed and one-scene. Closes the Blue-Collar Titan's three-Chronicle wave (with 'The Six-Week Silence,' MCD-374, and 'What the Titan Carries,' MCD-375).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-377",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"A Ship That Was Already Gone\" (full narrative text at docs/lords-of-cian/chronicles/a-ship-that-was-already-gone.md), Sovereign Ghost of the Great Sea Alias Chronicle I. Rebellion era, weeks after the Siege of the Ghost Harbor (MCD-235, age 21). A Trust patrol boat's lookout spots The Audit running dark and low-draft at half a mile; by the time the patrol closes to investigate she is gone without trace, and the sighting is never officially reported for fear of reading as incompetence or superstition. Kanja deliberately allows the sighting and then deliberately vanishes rather than fight, reasoning that a witnessed-then-unfindable ghost spreads further than an unseen rumor. References Dol Maren's already-locked shipwright role (CC-121) without restaging it. No new named characters. First entry in the Sovereign Ghost's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-378",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Chains That Remembered the Anchor\" (full narrative text at docs/lords-of-cian/chronicles/the-chains-that-remembered-the-anchor.md), Sovereign Ghost Alias Chronicle II. Rebellion era, a new naval engagement distinct from the Siege of the Ghost Harbor (MCD-235). A convoy escort gunship is disabled at range by the anchor-chain magnetic-interference weapon (MCD-235, captured Iron Shallows chain reforged into the housing), seizing every iron fitting aboard; Kanja boards personally during the paralysis, demonstrating Mafesto's Kinetic Transfer System absorbing the drop's impact, Onyx's Whisper of Shadows in close multi-attacker quarters, and Obsidian Malice's stored-charge discharge clearing the deck in one motion. The gunship surrenders without a hull breach. No new named characters; the surrendering captain is unnamed and one-scene. Second entry in the Sovereign Ghost's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-379",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Lantern Watch Prayed For\" (full narrative text at docs/lords-of-cian/chronicles/what-the-lantern-watch-prayed-for.md), Sovereign Ghost Alias Chronicle III, closing the wave. A young Trust supply-vessel lantern watchman, who never once sights The Audit across an entire season of night watches, learns from an older hand that the legend now does the ghost's work without her needing to appear again -- the Ghost Harbor casualty list is real, but every quiet watch since has been the fear doing the rest on its own. Extends VB-060's presence doctrine to reputation alone, absent any actual appearance. No new named characters. Closes the Sovereign Ghost of the Great Sea's three-Chronicle wave (with 'A Ship That Was Already Gone,' MCD-377, and 'The Chains That Remembered the Anchor,' MCD-378).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document."
     }
