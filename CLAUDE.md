@@ -448,6 +448,99 @@ first, headers corrected to "Locked canon" only after approval. No new named cha
 entry. Per the pacing rule above, the next Alias Chronicle wave (a different alias, three entries)
 starts whenever Abad points at it -- not queued automatically. Abad's approval: "lock it."
 
+**All ten remaining alias waves completed in one continuous pass, Batches 107-116, 2026-09-10
+(`MCD-368` through `MCD-397`, 30 new Chronicles), under Abad's blanket authorization: "continue
+uninterrupted until completion this includes test, commit, push to main origin," plus a standing
+craft instruction for this run specifically: any Chronicle where Kanja wears his armor and fights
+with his weapons should be "super detailed, super battle intense and coordinated in an interesting
+way," highlighting his gear's different abilities and the skill behind the technique, not just the
+outcome. Every named alias now has a completed first three-Chronicle wave -- the Trench Monarch,
+Bane (already done, Batch 106), the Industrial Myth, the Blue-Collar Titan, the Sovereign Ghost of
+the Great Sea, the Scourge, the Crow King, the Iron Bastard, the Lord of Embers, the Storm That
+Walks, and Captain. Written directly with "Locked canon" headers per batch, matching the Batches
+84-92 blanket-authorization pattern (no two-commit pending step), each batch tested (duplicate-ID
+check), committed, and pushed before starting the next. One merge script and one commit per alias
+wave, in order:
+
+- **Batch 107, the Trench Monarch (`MCD-368`-`370`).** "The Name He Didn't Choose" (the alias's
+  reputation arriving ahead of any actual confrontation, extending `CC-118`'s own "he did not
+  choose or sanction the name" fact); "What the Sword Remembers" (a solo-blade showcase putting all
+  five of Onyx of Oblivion's named powers -- Cadence Ruin, Whisper of Shadows, Veil Piercer,
+  Soulbound Edge, the Black Ledger -- on the page in sequence for the first time, since Mafesto and
+  Obsidian Malice remain dormant/undeployed until the Black Trench); "The Ones Who Called Him That
+  First" (a dredge-site tally worker's account of why the reputation is trusted, grounded in
+  `MCD-231`'s proof-not-violence method).
+- **Batch 108, the Industrial Myth (`MCD-371`-`373`).** Kept deliberately unarmed throughout, per
+  `MCD-244`'s own ethos, rather than forcing a combat showcase into an alias built around not
+  fighting: "The Worst-Off First" (working a dye-works district backward from its worst-treated
+  workers); "The Hand That Stayed Open" (a forty-strong armed column unable to find a fight against
+  a seated, unarmed man holding only a ledger); "The Boy Who Kept the Numbers Honest" (Ezio
+  Valcari's own corrective role during the Furnace District Strike itself, quietly adjusting
+  frightened workers' under-claimed figures upward).
+- **Batch 109, the Blue-Collar Titan (`MCD-374`-`376`).** "The Six-Week Silence" (a near-discovery
+  during the Sewer War of Killane resolved through genuine tradesman's knowledge); "What the Titan
+  Carries" (the Trinity's first extended *combined*-use showcase since the Black Trench debut --
+  Mafesto's Kinetic Transfer System, Obsidian Malice's discharge cycle, and Onyx's Cadence Ruin/Veil
+  Piercer handing a 90-strong ambush to each other in sequence, "one weapon that happens to be
+  wearing a man"); "The Titan's Own Hands" (Kanja personally setting shoring timber alongside a
+  conscripted engineer).
+- **Batch 110, the Sovereign Ghost of the Great Sea (`MCD-377`-`379`).** "A Ship That Was Already
+  Gone" (a deliberately-allowed-then-vanished sighting, teaching fear rather than fighting for it);
+  "The Chains That Remembered the Anchor" (a detailed showcase of the Iron-Shallows-anchor-chain
+  magnetic-interference weapon disabling a gunship's ironwork, combined with Mafesto/Onyx/Obsidian
+  Malice in a boarding action); "What the Lantern Watch Prayed For" (a Trust sailor who never once
+  sights the ghost fleet across a full season, extending `VB-060` to reputation alone).
+- **Batch 111, the Scourge (`MCD-380`-`382`).** The alias with the deepest well (born age 22 at
+  Ash-Wharf, sustained as the 284-year Long Mask disguise identity, `ARS-310`): "What He Chose to
+  Burn" (the morning after Ash-Wharf, with Efa Gol, on the persona's unplanned/emergent origin);
+  "The Shape the Smoke Remembers" (the deepest gear showcase of the run so far, set during Pirate
+  Dawn ages 48-52 -- the early-version Forge-Coat, Sovereign Eyes' unintended predator-glow,
+  Ironhand Gauntlets, Ironfall Boots, Smoke System Terror mode, and the Rexmar Machete freeing 211
+  captives, deliberately contrasting the theatrical reputation against plain swordsmanship);
+  "The Signal Honest Ships Learned" (a merchant crew invoking the reputation for protection rather
+  than fleeing it). Ledger crossed 1,000 rules during this batch.
+- **Batch 112, the Crow King (`MCD-383`-`385`).** "The Second Scarecrow" (a second Hymn-Engine
+  evasion on open terrain built specifically to deny the original marsh trick, exposing that the
+  real exploit was always a pursuer's own patrol predictability); "Three Hundred Voices, One Lie"
+  (a detailed Hymn-Engine showcase, three interleaved false signals -- "the Braid" -- defeating a
+  purpose-built triple-redundant sensor grid); "What Commandant Voris Kept" (the alias's own
+  defining opponent, already locked, reflecting on the scarecrow he still keeps).
+- **Batch 113, the Iron Bastard (`MCD-386`-`388`).** "No Ground Worth Taking" (a new solo stand on
+  open terrain, proving the advantage was never geography -- the original Stand was already on open
+  ground too, a deliberate irony the pursuing general misses); "What Held Together Stopped Holding"
+  (a detailed Aegis-Talisman-plus-Trinity showcase, diagnostic listening before broadcast, defeating
+  a four-alloy Crawler variant engineered to deny the single-frequency resonance); "Ninety Minutes
+  Inside a Crawler" (the original Stand's ninety minutes from inside one of the twelve targeted
+  vehicles).
+- **Batch 114, the Lord of Embers (`MCD-389`-`391`).** "The Second Burning" (a second punitive
+  burning, rebuilt even faster using willing self-demolition rather than salvaged material, defeating
+  a countermeasure built to deny the original tactic); "What the Forge Refused to Return" (a
+  detailed Trinity showcase defending an active forge session, fought deliberately away from sixty
+  unarmed apprentices); "An Apprenticeship That Outlasted the War" (a settlement resident's lasting
+  hinge-truing lesson aboard The Anvil during the Rolling Foundry Campaign).
+- **Batch 115, the Storm That Walks (`MCD-392`-`394`).** "The Second Envelopment" (a dispersed-
+  squadron doctrine defeated by exploiting the coordination seam between two allied commands rather
+  than any single formation); "The Flagship That Would Not Flood" (a detailed Trinity boarding-action
+  showcase against a flood-proofed flagship -- boarded rather than sunk, a hatch jammed rather than
+  a hull breached); "What Admiral Krael Told His Successor" (the alias's own defeated admiral,
+  already locked, handing his successor the real lesson -- patience with visible uncertainty --
+  deliberately distinct in register from Commandant Voris's kept-trophy entry).
+- **Batch 116, Captain (`MCD-395`-`397`).** The one alias never Directorate-classified, warmer
+  register throughout: "The Word Before the Alias" (Garren Hask's private naming of "Captain" as a
+  title of trust rather than fear, extending his already-locked bare-name/flagship-naming role);
+  "The Thirty Feet He Refused to Lose" (a purely defensive, crew-protective Trinity showcase saving
+  eleven unarmored new recruits from an ambush); "The Word Callum Breck Chose" (set six weeks after
+  Breck's own already-locked first post-silence words, dramatizing his deliberate adoption of
+  "Captain" over the "Trench Monarch" alias he himself originally coined, tied to Kanja's refusal to
+  let Nev Torr's death be assigned as Breck's fault). Completes the run.
+
+Ledger reached `ledger_version` 11.9, 1,017 rules, 116 batches by the end of this run -- zero
+duplicate IDs verified after every single batch. Genuinely open for whenever Abad wants it next: a
+second wave (three more entries) for any specific alias, or new aliases from later eras (the
+Long Mask's later personas, if any get named) once material exists for them. Per the standing
+pacing rule above, no further wave starts automatically -- work whichever alias, or whichever other
+thread, Abad points at next.
+
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
