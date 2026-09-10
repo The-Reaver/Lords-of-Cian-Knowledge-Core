@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "11.4",
+  "ledger_version": "11.5",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -986,6 +986,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document.",
       "rule_count": 3,
       "note": "Locks the Scourge's three-entry Alias Chronicle wave (MCD-380 through MCD-382), the fifth of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
+    },
+    {
+      "batch": 112,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Crow King's three-entry Alias Chronicle wave (MCD-383 through MCD-385), the sixth of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
     }
   ],
   "rules": [
@@ -7920,6 +7927,27 @@
       "id": "MCD-382",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Signal Honest Ships Learned\" (full narrative text at docs/lords-of-cian/chronicles/the-signal-honest-ships-learned.md), the Scourge Alias Chronicle III, closing the wave. Long Mask era, Pirate Dawn (ages 48-52). A merchant captain deliberately signals for the Scourge's protection when a suspicious Gale Straits patrol closes in the dark; a single vessel holds position a half-mile off until the patrol withdraws rather than risk its own manifest facing the same scrutiny. Dramatizes MCD-250's 'recognized and surrendered to on sight without verification' fact from the opposite angle -- protection extended to honest cargo rather than only judgment against dishonest. No new named characters. Closes the Scourge's three-Chronicle wave (with 'What He Chose to Burn,' MCD-380, and 'The Shape the Smoke Remembers,' MCD-381).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-383",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Second Scarecrow\" (full narrative text at docs/lords-of-cian/chronicles/the-second-scarecrow.md), Crow King Alias Chronicle I. Rebellion era, months after the Night of the Crow King (MCD-236, age 23). A Korren Highlands checkpoint captain, having built his doctrine specifically to deny the marsh-and-drainage-channel trick, finds the same coat-and-feather-crown scarecrow at his own open-sightline command post: the compound emptied not through concealment but through timing precise enough to move only within the checkpoint's own ninety-second patrol gap. Establishes the alias's underlying principle -- exploiting a pursuer's own procedural predictability, not terrain -- distinct from the original Hymn-Engine trick. No new named characters. First entry in the Crow King's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-384",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Three Hundred Voices, One Lie\" (full narrative text at docs/lords-of-cian/chronicles/three-hundred-voices-one-lie.md), Crow King Alias Chronicle II. Rebellion era, a new deployment of the Hymn-Engine (MCD-236) against a purpose-built triple-redundant thermal sensor grid designed specifically to prevent a single coordinated false signal. Three hundred voices sing three interleaved false patterns at once ('the Braid'), each sub-group falsifying exactly one of the three arrays while leaving the other two reading true from that position, so the redundant systems cross-confirm three fabricated truths instead of exposing one lie. The Coalfell compound empties over four hours undetected. No new named characters. Second entry in the Crow King's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-385",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Commandant Voris Kept\" (full narrative text at docs/lords-of-cian/chronicles/what-commandant-voris-kept.md), Crow King Alias Chronicle III, closing the wave. Years after the Night of the Crow King, from Commandant Voris's own perspective (already locked, MCD-236). Voris has kept the original scarecrow against regulation, treating it as the only honest teacher of his career; he explains to a young inquiry officer that the Crow King's actual gift is finding the seam where a system's confidence in its own procedures becomes a blind spot, and that no defense exists short of an unpredictability no army has ever been willing to afford. Ties together both prior Chronicles' events into Voris's own retrospective understanding. No new named characters beyond the already-locked Commandant Voris. Closes the Crow King's three-Chronicle wave (with 'The Second Scarecrow,' MCD-383, and 'Three Hundred Voices, One Lie,' MCD-384).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document."
     }
