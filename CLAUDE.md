@@ -301,6 +301,37 @@ second Chronicle entry. Same two-commit process as recent batches: drafted and c
 unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's
 approval: "lock it."
 
+**`OPEN-012` correction, Batch 102, 2026-09-10.** Abad uploaded `Maw_Codex_Definitive_Edition_3.docx`
+directly, believing it might resolve `OPEN-012`'s "the Throat"/"the Teeth" placement question. It
+turned out the question itself was stale: `MAW-060` and `MAW-061` (sourced from
+`Maw_Codex_Definitive_Edition.docx`, no `_3` suffix, extracted in a session predating this
+session's tracked batch log) already place both names -- the Throat is the Grand Maw of Karkosa, in
+Central Karkosa, the Sovereign Trust Domain's capital already locked on the Atlas at `GEO-003`; the
+Teeth is the Frontier Maw (Maw-12, "the Edge"), on the border between the Sovereign Trust's
+territory and the Shattered Kingdoms. `GEO-001` even already lists both names in the Atlas's own
+"canon-locked" legend. Batch 68 (which wrote `OPEN-012`) simply never cross-referenced the
+already-locked `MAW-` rules against the Atlas audit. `OPEN-012` amended in place to drop the
+Throat/Teeth half and keep only the genuinely still-unresolved `RA`/`UK` map codes. No new rules --
+an `open_decisions` correction only, reconciled directly against the existing ledger without a
+draft/present cycle since the "new" material introduced no facts beyond what was already locked.
+Abad's approval: "lock it."
+
+**Queued: a fuller pass on the Maw Codex.** The uploaded `Maw_Codex_Definitive_Edition_3.docx` runs
+~287K characters of extracted text; the already-locked `MAW-` prefix (31 rules) covers the major
+systems (the Cestari caste system, the Seven Pillar/named Banner Houses, the Pits, the Shapers'
+Compact, the Maw economy and Reckoner betting system, named venues, historical scandals, era
+periodization) but a first-pass skim during the `OPEN-012` check turned up real depth not yet
+reflected in those 31 rules: a roughly 100-entry Reclamation Chronicle (Vargo Vakas's every-fifty-year
+test of the reigning Apex Champion across the Maw's ~5,000-year history, of which only a handful of
+highlights are currently locked -- `MAW-011`, `022`, `023`, `024`), full venue-by-venue tactical
+profiles (which Houses/doctrines each of the seven named Grand Maws favors or punishes, e.g. the
+Throat's Resonance Dome acoustics, the Teeth's political-tension/riot-risk profile), and the "Four
+Eras of the Maw" historical framework only thinly summarized at `MAW-090`. Abad confirmed, 2026-09-10:
+"do the fuller pass later" -- queued, not started. Abad's own local upload path for the source file is
+`/root/.claude/uploads/195feb94-2811-5ec6-b57d-6031cdaf1569/a796c2cd-Maw_Codex_Definitive_Edition_3.docx`,
+session-specific and not guaranteed to persist -- a future session should ask Abad to re-share the
+document (or locate it in the Lore Vault/Drive) before starting this pass.
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
