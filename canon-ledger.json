@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "11.1",
+  "ledger_version": "11.2",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -965,6 +965,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document.",
       "rule_count": 3,
       "note": "Locks the Industrial Myth's three-entry Alias Chronicle wave (MCD-371 through MCD-373), the second of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
+    },
+    {
+      "batch": 109,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Blue-Collar Titan's three-entry Alias Chronicle wave (MCD-374 through MCD-376), the third of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
     }
   ],
   "rules": [
@@ -7836,6 +7843,27 @@
       "id": "MCD-373",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Boy Who Kept the Numbers Honest\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-who-kept-the-numbers-honest.md), Industrial Myth Alias Chronicle III, closing the wave. Set during the Furnace District Strike itself (MCD-244, age 21), from Ezio Valcari's perspective (already a locked named character, roughly sixteen at this point). Dramatizes Ezio's unstated corrective role in the strike's documented method: cross-checking worker testimony against the district's own production records and quietly adjusting entries upward whenever a frightened worker under-claimed what they were actually owed, rather than accepting testimony at face value. No new named characters beyond the already-locked Ezio Valcari. Closes the Industrial Myth's three-Chronicle wave (with 'The Worst-Off First,' MCD-371, and 'The Hand That Stayed Open,' MCD-372).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-374",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Six-Week Silence\" (full narrative text at docs/lords-of-cian/chronicles/the-six-week-silence.md), Blue-Collar Titan Alias Chronicle I. Rebellion era, during the Sewer War of Killane (MCD-234, age 20). A burst clay sewer main draws municipal repair crews directly above the tunnel where the Southern District's Scrip-Registry copy is being transcribed; Kanja surfaces alone, diagnoses the pipe failure with genuine tradesman's knowledge, and leaves before either crewman thinks to question a helpful passerby -- avoiding a security escalation that a stranger's silent disappearance would have triggered. Establishes the alias's defining trait as genuine working competence, not reputation alone. No new named characters. First entry in the Blue-Collar Titan's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-375",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Titan Carries\" (full narrative text at docs/lords-of-cian/chronicles/what-the-titan-carries.md), Blue-Collar Titan Alias Chronicle II. Rebellion era, the final night of the Sewer War of Killane (MCD-234, age 20) -- the Trinity's first extended combined-use showcase since its debut at the Black Trench (MCD-232). A 90-strong rapid-response detachment nearly catches the extraction at the surface breach; Kanja holds the line alone for the full forty minutes the crew needs to clear through, demonstrating Mafesto's Kinetic Transfer System (ARS-010, corrected per MCD-291 to grounding/conductance) absorbing volley fire, Obsidian Malice (ARS-030) discharging the gathered kinetic charge in a single shield-breaking strike, and Onyx of Oblivion's Cadence Ruin and Veil Piercer (ARS-020) covering the club's 3-5 second recharge window -- three systems handing the fight to each other in sequence rather than one weapon acting alone. A recovered Trust after-action report is quoted: 'he does not fight like a man carrying three weapons. He fights like one weapon that happens to be wearing a man.' No new named characters. Second entry in the Blue-Collar Titan's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-376",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Titan's Own Hands\" (full narrative text at docs/lords-of-cian/chronicles/the-titans-own-hands.md), Blue-Collar Titan Alias Chronicle III, closing the wave. Rebellion era, during the Sewer War of Killane (MCD-234, age 20). A conscripted sixty-one-year-old tunnel engineer is startled to find Kanja personally setting shoring timber alongside the crew, with genuine, practiced competence rather than performative labor; Kanja states plainly that his trade came before his war, and that he'd rather stay the kind of titan who remembers which of the two still feels like work. Grounds the Blue-Collar Titan's dignity-of-labor theme (VB-061) in a direct physical scene. No new named characters; the engineer is unnamed and one-scene. Closes the Blue-Collar Titan's three-Chronicle wave (with 'The Six-Week Silence,' MCD-374, and 'What the Titan Carries,' MCD-375).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document."
     }
