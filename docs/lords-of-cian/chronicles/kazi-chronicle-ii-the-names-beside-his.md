@@ -1,8 +1,7 @@
 # Kazi Chronicle II: The Names Beside His
 
-*DRAFT -- pending Abad's approval, not yet locked canon. Batch 100 candidate (`MCD-363`
-candidate, `PH2-063`/`PH2-064` candidates). Second entry in Kazi's own Chronicles, its protagonist
-Irin (`PH2-051`), not a Kanja Chronicle. Kanja appears only as a guest, present but granted no
+*Locked canon, Batch 100, 2026-09-10 (`MCD-363`, `PH2-063`, `PH2-064`). Second entry in Kazi's own
+Chronicles, its protagonist Irin (`PH2-051`), not a Kanja Chronicle. Kanja appears only as a guest, present but granted no
 command, no intervention, and no resolution credit, matching the established convention. Narration
 is close-third on Irin throughout, not Onyx of Oblivion. Names and details the two lieutenants
 `PH2-051` already flags but leaves undetailed: "Two lieutenants drawn from the real DRUM/League

@@ -254,6 +254,29 @@ re-introduction or re-testing occurs here. Same two-commit process as recent bat
 committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval.
 Abad's approval: "lock it."
 
+**Kazi's two lieutenants, Batch 100, 2026-09-10 (`MCD-363`, `PH2-063`, `PH2-064`).** `PH2-051`
+itself flagged a real gap: "Two lieutenants drawn from the real DRUM/League leadership circle
+(homage to John Watson, Mike Hamlin, and Ken Cockrel Sr.) stand as his founding co-organizers, not
+yet individually named or detailed" -- three real homages compressed into two undetailed slots.
+**Kazi Chronicle II, "The Names Beside His"** (full narrative text at
+`docs/lords-of-cian/chronicles/kazi-chronicle-ii-the-names-beside-his.md`) names and dramatizes
+both directly: Kunle (`PH2-063`, homage to Ken Cockrel Sr., a radical defense lawyer who treats the
+courtroom itself as a site of struggle) and Kalamu (`PH2-064`, a composite homage to John Watson and
+Mike Hamlin, a journalist/organizer whose printed sheets turn individual cases into citywide,
+documented accountings, distributed through the world's established pre-industrial crier/pamphlet
+network). Eleven days after Kazi Chronicle I (`MCD-351`), the plant retaliates against a single
+striker, Bakari (a new minor named character), with a trumped-up charge; Kunle mounts the legal
+defense while Kalamu publicizes the retaliatory timing to four thousand readers ahead of trial, and
+the charge doesn't hold. Irin explicitly reflects that "The Line Stops" has its own stated limits --
+it moves men bound into the same chain of labor but can't catch one man isolated in a room with no
+one watching -- and that Kunle's and Kalamu's gifts aren't a deficiency in his own but a genuinely
+different kind of power the movement needs alongside it. All three new names (Kunle, Kalamu,
+Bakari) collision-checked against the full live ledger before drafting, zero prior hits. Seventh
+territory overall (after Xaragua, Areíto, Guanín, Uhuru, Aztlán, and Sankofa) to receive a second
+Chronicle entry, and the first Detroit territory to do so. Same two-commit process as recent
+batches: drafted and committed as an unlocked/pending draft first, header corrected to "Locked
+canon" only after approval. Abad's approval: "lock it." Batch 100.
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
