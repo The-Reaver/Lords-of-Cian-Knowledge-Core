@@ -1,13 +1,15 @@
 # The Pivotal Piece
 
-*Draft only — not yet locked, pending Abad's approval. Rebellion era, age 19, the night after
+*Locked canon, Batch 104, 2026-09-10 (`MCD-365`). Rebellion era, age 19, the night after
 the Battle of the Black Trench (`MCD-232`). Not a territory Chronicle — a new standalone
 Kanja-era scene under the "Bane" alias, the Directorate's own classification for a threat that
 destroys the force built to destroy it. Embeds the corrected quote, "I am the pivotal piece to
 the scheme of all things," delivered in person to an unnamed senior Sovereign Trust official as
-a deliberate act of terror rather than a boast. Narrated in neutral third-person prose per
-`VB-026`'s progressive narrator-handoff rule — this early in the Rebellion, Onyx of Oblivion has
-not yet begun appearing even as an end-of-chapter coda. No new named characters.*
+a deliberate act of terror rather than a boast. First on-page dramatization of the "Already-
+Finished Negotiation" standing presence trait (`VB-060`) that recurs across Kanja's every alias
+and era. Narrated in neutral third-person prose per `VB-026`'s progressive narrator-handoff
+rule — this early in the Rebellion, Onyx of Oblivion has not yet begun appearing even as an
+end-of-chapter coda. No new named characters.*
 
 ---
 

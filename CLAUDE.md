@@ -358,22 +358,34 @@ remains queued for future batches, not gated by this one. Abad's approval: "lock
 as Batch 103 (20 rules)... Section D's four drafted rules could ride along... fix the
 contradictions logically against our Ledger. Blended in logically."
 
-**A new standalone Kanja-era Chronicle, "The Pivotal Piece," Batch 104-in-progress, 2026-09-10.**
-Prompted by Abad wanting more quotes tributed to Kanja, starting with the exact line "I am the
-pivotal piece to the scheme of all things," delivered in a terrifying manner to someone powerful
-and part of the ruling class. Set the night after the Battle of the Black Trench (`MCD-232`), age
-19 -- not a territory Chronicle, a new standalone scene under the "Bane" alias, the Directorate's
-own classification for Kanja at that point in the Rebellion. An unnamed senior Sovereign Trust
-Undersecretary arrives under parley to buy Bane off with a House seat and protection; Bane,
-without standing or raising his voice, delivers the corrected line as a declaration that he serves
-something beyond the Trust's ledgers, and the Undersecretary leaves shaken. The closing paragraph
-plants a deliberate, unscripted forward link to the line's later fame under the Scourge/pirate-era
-persona (ages 48-52) -- legend's own drift, not a repeated callback. Full text at
-`docs/lords-of-cian/chronicles/the-pivotal-piece.md`. Committed to the repo as an unlocked/pending
-draft (per the Batch 77+ two-commit pattern, satisfying the Stop hook's clean-working-tree
-requirement without pre-empting Abad's approval) -- not yet locked in `canon-ledger.json`. The
-broader `VB-060` quotes-catalog rule (citing this Chronicle plus further Blue-Collar-register
-quotes for other aliases) remains queued alongside it, pending Abad's review.
+**"The Pivotal Piece" locked, plus a new standing Voice Bible presence trait, Batch 104,
+2026-09-10 (`MCD-365`, `VB-060`).** Prompted by Abad wanting more quotes tributed to Kanja,
+starting with the exact line "I am the pivotal piece to the scheme of all things," delivered in a
+terrifying manner to someone powerful and part of the ruling class. Set the night after the Battle
+of the Black Trench (`MCD-232`), age 19 -- not a territory Chronicle, a new standalone scene under
+the "Bane" alias, the Directorate's own classification for Kanja at that point in the Rebellion. An
+unnamed senior Sovereign Trust Undersecretary arrives under parley to buy Bane off with a House
+seat and protection; Bane, without standing or raising his voice, delivers the corrected line as a
+declaration that he serves something beyond the Trust's ledgers, and the Undersecretary leaves
+shaken. The closing paragraph plants a deliberate, unscripted forward link to the line's later fame
+under the Scourge/pirate-era persona (ages 48-52) -- legend's own drift, not a repeated callback.
+Full text at `docs/lords-of-cian/chronicles/the-pivotal-piece.md`. Abad singled out one specific
+craft choice as something that should recur throughout the entire series: the Undersecretary
+experiencing Bane not as someone negotiating in the room with him, but as someone who had "already
+finished the negotiation somewhere he wasn't invited, and was only now informing him of the
+result." That's now locked as its own standing Voice Bible rule, `VB-060`, the "Already-Finished
+Negotiation" presence trait -- explicitly a character trait, not a supernatural power, meant to
+recur across every alias and era whenever a POV character shares a scene with Kanja at real stakes,
+and framed as an early, personal-scale precursor to the already-locked "legend is the weapon"
+doctrine (False Dragon's Wake, age 35). Committed first as an unlocked/pending draft (per the Batch
+77+ two-commit pattern, satisfying the Stop hook's clean-working-tree requirement), header
+corrected to locked canon only after Abad's approval landed. The broader `VB-060`-adjacent
+quotes-catalog material (Blue-Collar-register quotes for other aliases) remains queued, pending
+Abad's review. Abad's approval: "lock it. I love the description of someone describing how they
+felt and his presence I'm referring to Bane. it is something that should live out through the
+series everyone feels that when in this presence. it was a great description of someone
+negotiating in a room they weren't in and just informing them now of what the results was
+brilliant writing."
 
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
