@@ -277,6 +277,30 @@ Chronicle entry, and the first Detroit territory to do so. Same two-commit proce
 batches: drafted and committed as an unlocked/pending draft first, header corrected to "Locked
 canon" only after approval. Abad's approval: "lock it." Batch 100.
 
+**Borikén's second Chronicle, Batch 101, 2026-09-10 (`MCD-364`).** A ledger-wide check confirmed
+the strongest pre-flagged hooks are now spent -- only Sankofa's deliberately unresolved conspiracy
+and the deliberately untouched Kanja/Arturo long-arc thread remain, neither meant to close yet. This
+batch shifts to extending rather than paying off: Borikén Chronicle I's own text said the burned
+church-hall ledger "cannot be *fully* rebuilt from the memory of the forty people who held pieces
+of it" -- implying partial recovery was always possible, just never shown. **Borikén Chronicle II,
+"What Memory Could Carry Back"** (full narrative text at
+`docs/lords-of-cian/chronicles/boriken-chronicle-ii-what-memory-could-carry-back.md`) dramatizes it:
+over four years of monthly sessions, the original forty contributors dwindle to twenty-six while
+reconstructing roughly four-fifths of the six-year account from memory alone. Doña Alma, a new
+minor named character, dies shortly after recovering a key eleven-month gap, honoring the
+Chronicle's theme of memory as a finite, mortal resource; Guaní explicitly reframes the unnamed
+Commissioner's arson as a category error — burning a record while mistaking it for the debt itself
+— and states plainly that some of what burned is permanently gone, never resolving that loss into a
+clean win. An unnamed Kanja is present across all four years, transcribing others' memories without
+contributing any of his own or taking command or credit. Process note: caught and fixed two naming
+issues before presenting — an initial name read as culturally mismatched for Borikén's Taíno
+register and was swapped, and a real Spanish surname ("Alvarado") was removed per the standing
+colonial-surname convention (the same category of fix as "Diaz" in Sankofa Chronicle I). Eighth
+territory overall (after Xaragua, Areíto, Guanín, Uhuru, Aztlán, Sankofa, and Kazi) to receive a
+second Chronicle entry. Same two-commit process as recent batches: drafted and committed as an
+unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's
+approval: "lock it."
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75

@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "10.3",
+  "ledger_version": "10.4",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -909,6 +909,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document",
       "rule_count": 3,
       "note": "Kunle (PH2-063) and Kalamu (PH2-064), Kazi's two founding lieutenants PH2-051 flagged but left undetailed, dramatized directly in Kazi Chronicle II (MCD-363), 'The Names Beside His.' Abad: \"lock it.\""
+    },
+    {
+      "batch": 101,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document",
+      "rule_count": 1,
+      "note": "Boriken Chronicle II (MCD-364), 'What Memory Could Carry Back' -- extends Boriken Chronicle I's own wording that the burned ledger 'cannot be fully rebuilt,' dramatizing four-fifths partial recovery across four years. Abad: \"lock it.\""
     }
   ],
   "rules": [
@@ -7523,6 +7530,13 @@
       "statement": "Kazi Chronicle II, \"The Names Beside His\" (full narrative text at docs/lords-of-cian/chronicles/kazi-chronicle-ii-the-names-beside-his.md), the second entry in Kazi's own Chronicles, protagonist Irin (PH2-051), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present at the jailhouse and helping distribute printed sheets before dawn, granted no command, intervention, or resolution credit. Names and dramatizes the two lieutenants PH2-051 already flags: Kunle (PH2-063) and Kalamu (PH2-064). Eleven days after the events of Kazi Chronicle I (MCD-351), the plant retaliates against a single striker, Bakari (a new minor named character), with a trumped-up charge over a torn gate. Kunle mounts his legal defense while Kalamu publicizes the retaliatory timing to four thousand readers ahead of trial; the charge does not hold. Irin explicitly reflects that 'The Line Stops' (PH2-051) has its own stated limits -- it moves men bound into the same chain of labor but cannot catch a single man isolated in a room with no one watching -- and that Kunle's and Kalamu's distinct gifts are not a deficiency in his own but a genuinely different kind of power the movement needs alongside it. Bakari and the unnamed plant management are deliberately left minor/undetailed. All three new names (Kunle, Kalamu, Bakari) collision-checked against the full live ledger before drafting, zero prior hits. Seventh territory overall (after Xaragua, Areito, Guanin, Uhuru, Aztlan, and Sankofa) to receive a second Chronicle entry, and the first Detroit territory to do so.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document. Names and details the two Kazi lieutenants PH2-051 flags but leaves undetailed ('homage to John Watson, Mike Hamlin, and Ken Cockrel Sr. ... not yet individually named or detailed'), and dramatizes them directly in Kazi Chronicle II. Full narrative text at docs/lords-of-cian/chronicles/kazi-chronicle-ii-the-names-beside-his.md."
+    },
+    {
+      "id": "MCD-364",
+      "category": "phase2-homage-chronicle",
+      "statement": "Boriken Chronicle II, \"What Memory Could Carry Back\" (full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-ii-what-memory-could-carry-back.md), the second entry in Boriken's own Chronicles, protagonist Guani (PH2-010), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present across four years of reconstruction sessions, transcribing others' memories without contributing any of his own or taking command, credit, or resolution authorship. Extends a specific, deliberate detail in Boriken Chronicle I's (MCD-341) own wording: the church hall's six-year debt ledger, burned in the raid, 'cannot be fully rebuilt from the memory of the forty people who held pieces of it' -- implying partial recovery, dramatized here for the first time. Over four years of monthly sessions, the original forty contributors dwindle to twenty-six (through relocation, attrition, and death) while reconstructing roughly four-fifths of the six-year account from memory alone. Dona Alma, a new minor named character (collision-checked against the full live ledger, zero prior hits), dies shortly after recovering a key eleven-month gap in the ledger, in keeping with the Chronicle's theme of memory as a finite, mortal resource. Guani explicitly reframes the unnamed Commissioner's original arson as a category error -- burning a record while mistaking it for the debt itself, which lived on in the people who remembered it -- and states plainly that some portion of what burned is permanently, irrecoverably gone, honoring rather than resolving that loss. The unnamed Commissioner from Chronicle I is referenced but not brought back on-page; his fate stays deliberately unaddressed. No new proper nouns beyond Dona Alma requiring a collision check. Eighth territory overall (after Xaragua, Areito, Guanin, Uhuru, Aztlan, Sankofa, and Kazi) to receive a second Chronicle entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document. Second entry in Boriken's own Chronicles, extending (not paying off a pre-flagged hook) a specific, deliberate detail in Boriken Chronicle I's (MCD-341) own wording. Full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-ii-what-memory-could-carry-back.md."
     }
   ],
   "open_decisions": [

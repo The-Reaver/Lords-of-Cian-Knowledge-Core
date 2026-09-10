@@ -1,7 +1,7 @@
 # Borikén Chronicle II: What Memory Could Carry Back
 
-*DRAFT -- pending Abad's approval, not yet locked canon. Batch 101 candidate (`MCD-364`
-candidate). Second entry in Borikén's own Chronicles, its protagonist Guaní (`PH2-010`), not a
+*Locked canon, Batch 101, 2026-09-10 (`MCD-364`). Second entry in Borikén's own Chronicles, its
+protagonist Guaní (`PH2-010`), not a
 Kanja Chronicle. Kanja appears only as a guest, present across several years but granted no
 command, no intervention, and no resolution credit, matching the established convention. Narration
 is close-third on Guaní throughout, not Onyx of Oblivion. Extends, rather than pays off a
