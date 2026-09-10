@@ -316,21 +316,64 @@ an `open_decisions` correction only, reconciled directly against the existing le
 draft/present cycle since the "new" material introduced no facts beyond what was already locked.
 Abad's approval: "lock it."
 
-**Queued: a fuller pass on the Maw Codex.** The uploaded `Maw_Codex_Definitive_Edition_3.docx` runs
-~287K characters of extracted text; the already-locked `MAW-` prefix (31 rules) covers the major
-systems (the Cestari caste system, the Seven Pillar/named Banner Houses, the Pits, the Shapers'
-Compact, the Maw economy and Reckoner betting system, named venues, historical scandals, era
-periodization) but a first-pass skim during the `OPEN-012` check turned up real depth not yet
-reflected in those 31 rules: a roughly 100-entry Reclamation Chronicle (Vargo Vakas's every-fifty-year
-test of the reigning Apex Champion across the Maw's ~5,000-year history, of which only a handful of
-highlights are currently locked -- `MAW-011`, `022`, `023`, `024`), full venue-by-venue tactical
-profiles (which Houses/doctrines each of the seven named Grand Maws favors or punishes, e.g. the
-Throat's Resonance Dome acoustics, the Teeth's political-tension/riot-risk profile), and the "Four
-Eras of the Maw" historical framework only thinly summarized at `MAW-090`. Abad confirmed, 2026-09-10:
-"do the fuller pass later" -- queued, not started. Abad's own local upload path for the source file is
-`/root/.claude/uploads/195feb94-2811-5ec6-b57d-6031cdaf1569/a796c2cd-Maw_Codex_Definitive_Edition_3.docx`,
-session-specific and not guaranteed to persist -- a future session should ask Abad to re-share the
-document (or locate it in the Lore Vault/Drive) before starting this pass.
+**The Maw Codex fuller pass, Batch 103, 2026-09-10 (`MAW-013`/`014`/`025`/`026`/`052`/`053`/`063`
+through `066`/`091`/`092`/`101`/`110` through `121`, plus `MAW-024` and `GEO-003` amended in
+place).** A background agent (Opus 5, 1M context) read the complete 290,977-character extracted
+text of `Maw_Codex_Definitive_Edition_3.docx` in sequential chunks and cross-checked it in full
+against all 31 previously-locked `MAW-` rules and the entire live ledger, per Abad's "do the
+fuller pass now" direction. Locked 24 new rules across four areas: the full 15-entry Reclamation
+Chronicle (Vargo Vakas's every-~50-year test of the reigning Apex Champion, R-1 through R-~99,
+including the First Exception's origin of the Proven tier itself, Mordecai the Harvest's discovery
+that Vakas is not invulnerable, and Red Beard's own Reclamation extending `MCD-084`); full
+venue-by-venue tactical favor/punish profiles for all seven Grand Maws plus construction/seating
+specs; the "Four Eras of the Maw" historical framework in full (extending the thin `MAW-090`); the
+complete 16-fighter Apex Championship field (14 named, 2 deliberately open slots, extending
+`MAW-100`); and four Section-D rules that rode along (the seven Pillar compound architectures and
+patron dynasties, the Blood Writ's five competencies, the Compact's three organs and three
+political factions). Two naming collisions were resolved by renaming during drafting: Draveen (the
+Dravos patron dynasty) -> Ferrenhall, avoiding a four-way cluster with the already-locked Houses
+Dravos/Draeven and the new Draven the First Blood; and the Apex field's Mirel "The Dancer" ->
+Ysolen "The Dancer," avoiding confusion with Val Mirel Kareth. Three contradictions the source
+document carried were resolved logically against the live ledger, per Abad's authorization ("fix
+the contradictions logically against our Ledger. Blended in logically"): `MAW-024`'s claim that
+the Iron Veil is "the only" Exception survivor was narrowed in place to "the only undefeated Apex
+Champion... and the only... survivor to face Vakas at his maximum recorded 300% escalation," since
+the Codex's own Chronicle names four other Exception survivors at lower escalations; `MAW-013`
+deliberately omits a specific Exception-event count rather than pick one, since the Codex's own
+tally is internally inconsistent three ways; and a new rule, `MAW-066`, resolves a Maw-1/Maw-9
+numbering conflation by establishing that the Grand Maw capital-registry numbering (`MAW-061`) is
+administratively distinct from at least one regional network's own local numbering, per the
+Codex's own internal commentary -- historical references like the Siege of Maw-9 (`MCD-234`) and
+the Maw Cascade at Maw-15 (`MCD-264`) are not assumed to share a venue with the capital registry's
+numbered list absent other evidence. A related Atlas fix rode along: `GEO-003`'s stale
+"Karkosa/Maw-7 Slab" label was corrected to "Karkosa/The Throat" (Karkosa is the unnumbered Throat
+per `MAW-060`; Maw-7 is a separate venue at Keldane per `MAW-061`), and `MAW-063`'s venue profiles
+for the Mother and the Scar were aligned to `GEO-003`'s already-locked Lawless Reaches cluster
+rather than the Codex's own Southern Seaboard/Shattered Kingdoms claims, since the Atlas controls
+per established precedent. Section D's larger remaining inventory -- the 18 Branded Legends (11
+entirely new), the doctrinal matchup grid's real percentages, the ten Banners in full, the Pits'
+real scale, the current seven-seat Iron Council (six new names), named Shapers' methods, deeper
+Cestari operational depth, the Marker Rebellion/Long Walk in full, and betting-economics depth --
+remains queued for future batches, not gated by this one. Abad's approval: "lock Sections A/B/C/E
+as Batch 103 (20 rules)... Section D's four drafted rules could ride along... fix the
+contradictions logically against our Ledger. Blended in logically."
+
+**A new standalone Kanja-era Chronicle, "The Pivotal Piece," Batch 104-in-progress, 2026-09-10.**
+Prompted by Abad wanting more quotes tributed to Kanja, starting with the exact line "I am the
+pivotal piece to the scheme of all things," delivered in a terrifying manner to someone powerful
+and part of the ruling class. Set the night after the Battle of the Black Trench (`MCD-232`), age
+19 -- not a territory Chronicle, a new standalone scene under the "Bane" alias, the Directorate's
+own classification for Kanja at that point in the Rebellion. An unnamed senior Sovereign Trust
+Undersecretary arrives under parley to buy Bane off with a House seat and protection; Bane,
+without standing or raising his voice, delivers the corrected line as a declaration that he serves
+something beyond the Trust's ledgers, and the Undersecretary leaves shaken. The closing paragraph
+plants a deliberate, unscripted forward link to the line's later fame under the Scourge/pirate-era
+persona (ages 48-52) -- legend's own drift, not a repeated callback. Full text at
+`docs/lords-of-cian/chronicles/the-pivotal-piece.md`. Committed to the repo as an unlocked/pending
+draft (per the Batch 77+ two-commit pattern, satisfying the Stop hook's clean-working-tree
+requirement without pre-empting Abad's approval) -- not yet locked in `canon-ledger.json`. The
+broader `VB-060` quotes-catalog rule (citing this Chronicle plus further Blue-Collar-register
+quotes for other aliases) remains queued alongside it, pending Abad's review.
 
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
