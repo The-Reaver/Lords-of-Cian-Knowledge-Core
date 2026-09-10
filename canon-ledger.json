@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "11.6",
+  "ledger_version": "11.7",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1000,6 +1000,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document.",
       "rule_count": 3,
       "note": "Locks the Iron Bastard's three-entry Alias Chronicle wave (MCD-386 through MCD-388), the seventh of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
+    },
+    {
+      "batch": 114,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Lord of Embers' three-entry Alias Chronicle wave (MCD-389 through MCD-391), the eighth of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
     }
   ],
   "rules": [
@@ -7976,6 +7983,27 @@
       "id": "MCD-388",
       "category": "kanja-alias-chronicle",
       "statement": "\"Ninety Minutes Inside a Crawler\" (full narrative text at docs/lords-of-cian/chronicles/ninety-minutes-inside-a-crawler.md), Iron Bastard Alias Chronicle III, closing the wave. Set during the original Iron Bastard's Stand (MCD-238) itself, from inside one of the twelve targeted Crawlers -- a driver and gunner experience the ninety-minute resonance effect as their own vehicle progressively shaking itself apart from the inside with no visible cause, refusing to return to the field afterward. First human/crew-scale account of that engagement. No new named characters. Closes the Iron Bastard's three-Chronicle wave (with 'No Ground Worth Taking,' MCD-386, and 'What Held Together Stopped Holding,' MCD-387).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-389",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Second Burning\" (full narrative text at docs/lords-of-cian/chronicles/the-second-burning.md), Lord of Embers Alias Chronicle I. Rebellion era, weeks after the Free Quarter's fourteen-day rebuild (MCD-241, age 27). A garrison prefect, believing the first rebuild succeeded only because of salvaged Trust incendiary equipment, burns a second district and recovers every scrap before withdrawing; Kanja and 6,000 fighters rebuild in eleven days anyway, stripping the district's own undamaged western half for material rather than relying on salvage, proving the alias's 'metabolizes punishment' trait was never about equipment. The prefect's own report is quoted: 'material denial achieved; strategic objective not achieved; unknown variable identified as the population itself.' No new named characters. First entry in the Lord of Embers' three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-390",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Forge Refused to Return\" (full narrative text at docs/lords-of-cian/chronicles/what-the-forge-refused-to-return.md), Lord of Embers Alias Chronicle II. Rebellion era, during the Rolling Foundry Campaign (MCD-241, age 27), aboard The Anvil. A raiding detachment strikes an active re-forging session at a coastal settlement with incendiary charges; Kanja fights deliberately away from the forge and its sixty unarmed apprentices, demonstrating Mafesto's Kinetic Transfer System absorbing a thrown charge's blast directly into stored kinetic charge, Obsidian Malice discharging it into the raiders' line, and Onyx's Cadence Ruin redirecting a three-charge volley as one collapsible pattern into open water. No apprentice is harmed and the season's tool-stock finishes on schedule. No new named characters. Second entry in the Lord of Embers' three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-391",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"An Apprenticeship That Outlasted the War\" (full narrative text at docs/lords-of-cian/chronicles/an-apprenticeship-that-outlasted-the-war.md), Lord of Embers Alias Chronicle III, closing the wave. Set during the Rolling Foundry Campaign (MCD-241), from the perspective of a fourteen-year-old settlement resident (one of the 120,000 reached across the eighteen-month tour) whom Kanja personally teaches to true a bent hinge, using the lesson to speak obliquely about patience under pressure. She becomes her settlement's own smith and, decades later, passes the same lesson to her own apprentices. No new named characters. Closes the Lord of Embers' three-Chronicle wave (with 'The Second Burning,' MCD-389, and 'What the Forge Refused to Return,' MCD-390).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document."
     }
