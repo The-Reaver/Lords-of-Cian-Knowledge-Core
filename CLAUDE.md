@@ -432,6 +432,22 @@ the actual stopping condition for this whole track, not a fixed rule count. This
 draft-then-explicit-approval discipline for any individual Chronicle -- it's a pacing/scale
 directive, not a blanket authorization to draft ahead of approval.
 
+**Bane's wave closed, Batch 106, 2026-09-10 (`MCD-366`, `MCD-367`).** The first completed
+Alias Chronicle wave: three entries for Bane, matching the three-per-alias pacing above. "The
+Trap Built From His Own Shape" (`MCD-366`) -- a Directorate officer who survived the Black Trench
+spends months reverse-engineering Kanja's own ravine-sealing tactic into a countermeasure, an
+ambush wash rigged to collapse on Bane the way he collapsed one on Suppression Brigade Kethane;
+Bane walks in forty minutes early, reads the trap from fresh-cut timber alone, and the officer
+never pulls the lever, extending `VB-060`'s presence trait into a combat/ambush register. "What the
+Conscripts Wouldn't Do" (`MCD-367`) -- a nineteen-year-old conscript's salt-flat causeway line
+breaks before contact, a third of nine hundred men setting down their weapons and walking away on
+dread alone, Bane never engaging the line directly; extends `VB-060` to collective/army scale.
+Together with "The Pivotal Piece" (`MCD-365`), this closes Bane's three-Chronicle wave. Same
+two-commit process as the territory Chronicles: both drafted and committed as unlocked/pending
+first, headers corrected to "Locked canon" only after approval. No new named characters in either
+entry. Per the pacing rule above, the next Alias Chronicle wave (a different alias, three entries)
+starts whenever Abad points at it -- not queued automatically. Abad's approval: "lock it."
+
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
