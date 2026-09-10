@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "11.5",
+  "ledger_version": "11.6",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -993,6 +993,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document.",
       "rule_count": 3,
       "note": "Locks the Crow King's three-entry Alias Chronicle wave (MCD-383 through MCD-385), the sixth of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
+    },
+    {
+      "batch": 113,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Iron Bastard's three-entry Alias Chronicle wave (MCD-386 through MCD-388), the seventh of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
     }
   ],
   "rules": [
@@ -7948,6 +7955,27 @@
       "id": "MCD-385",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Commandant Voris Kept\" (full narrative text at docs/lords-of-cian/chronicles/what-commandant-voris-kept.md), Crow King Alias Chronicle III, closing the wave. Years after the Night of the Crow King, from Commandant Voris's own perspective (already locked, MCD-236). Voris has kept the original scarecrow against regulation, treating it as the only honest teacher of his career; he explains to a young inquiry officer that the Crow King's actual gift is finding the seam where a system's confidence in its own procedures becomes a blind spot, and that no defense exists short of an unpredictability no army has ever been willing to afford. Ties together both prior Chronicles' events into Voris's own retrospective understanding. No new named characters beyond the already-locked Commandant Voris. Closes the Crow King's three-Chronicle wave (with 'The Second Scarecrow,' MCD-383, and 'Three Hundred Voices, One Lie,' MCD-384).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-386",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"No Ground Worth Taking\" (full narrative text at docs/lords-of-cian/chronicles/no-ground-worth-taking.md), Iron Bastard Alias Chronicle I. Rebellion era, a new solo stand distinct from the original Iron Bastard's Stand (MCD-238, age 25). A general who studied only Kanja's terrain-dependent victories chooses open salt-pan specifically to strip away what he believes is a terrain advantage, not realizing the original Iron Bastard's Stand was already fought on open ground with no exploitable terrain -- the engagement proves the alias's advantage was never geography, ending the general's career when his own accurate report reads to his superiors as an admission of failure. No new named characters. First entry in the Iron Bastard's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-387",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Held Together Stopped Holding\" (full narrative text at docs/lords-of-cian/chronicles/what-held-together-stopped-holding.md), Iron Bastard Alias Chronicle II. Rebellion era, a new engagement against a Trust Crawler variant engineered with four independent fitting alloys specifically to defeat the single-frequency resonance that exposed the original vulnerability. Kanja uses the Aegis-Talisman's frequency-inversion lens (MCD-238's 'off-hand shield/talisman... forged separately') diagnostically first, cataloguing all four alloy signatures before cycling a sequential harmonic through each; Mafesto's Kinetic Transfer System absorbs answering fire, Obsidian Malice discharges into the already-loosened lead Crawler's plating, and Onyx's Cadence Ruin clears the boarding crew. Eleven of twelve Crawlers are disabled -- the four-alloy countermeasure produces four points of entry instead of one. No new named characters. Second entry in the Iron Bastard's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-388",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Ninety Minutes Inside a Crawler\" (full narrative text at docs/lords-of-cian/chronicles/ninety-minutes-inside-a-crawler.md), Iron Bastard Alias Chronicle III, closing the wave. Set during the original Iron Bastard's Stand (MCD-238) itself, from inside one of the twelve targeted Crawlers -- a driver and gunner experience the ninety-minute resonance effect as their own vehicle progressively shaking itself apart from the inside with no visible cause, refusing to return to the field afterward. First human/crew-scale account of that engagement. No new named characters. Closes the Iron Bastard's three-Chronicle wave (with 'No Ground Worth Taking,' MCD-386, and 'What Held Together Stopped Holding,' MCD-387).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document."
     }
