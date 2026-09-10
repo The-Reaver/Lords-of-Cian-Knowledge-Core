@@ -389,6 +389,37 @@ brilliant writing."
 
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
+## Standing direction: Alias Chronicles, a new sub-series (Abad, 2026-09-10)
+
+A second Chronicle track, distinct from the territory Chronicles above. Territory Chronicles keep
+their existing shape (a homage-era leader as protagonist, Kanja an unnamed background guest with
+no command/credit/resolution authorship). **Alias Chronicles are different: Kanja himself, under a
+given Directorate-classified alias (Bane, the Blue-Collar Titan, the Scourge, the Crow King, the
+Iron Bastard, the Lord of Embers, the Storm That Walks, the Industrial Myth, the Trench Monarch,
+Sovereign Ghost of the Great Sea, Captain, and any later-era aliases still undrafted), is the
+central figure of his own scene** -- "The Pivotal Piece" (`MCD-365`, Bane) is the first one and the
+template: a standalone battle/adventure/confrontation that does not appear in the already-locked
+Twenty-Two Victories or Long Mask battle lists, set in "the new world" (this session's own phrasing
+for the Phase 2 homage-era setting and beyond), giving readers a different angle on each alias than
+the Rebellion/Long Mask summaries already provide. Abad's explicit craft note: keep doing exactly
+what "The Pivotal Piece" did (he called it "brilliant" and "masterful," singling out `VB-060`'s
+presence-trait technique specifically) but let future entries run a bit longer than that first one.
+
+**Long-term scale, explicitly not a near-term task list:** the goal, over time, is roughly 50-100
+Alias Chronicle "tales" total once the sub-series matures -- covering battles and conquests in
+between and beyond what the Twenty-Two Victories/Long Mask ledger entries already summarize in
+compressed form. This is a large, open-ended target, not something to front-load.
+
+**Pacing, Abad's own words paraphrased for the record:** work it in batches; do three Alias
+Chronicles per alias, then wrap that wave up; then hold -- wait until the project is "completely
+loaded and functional with the archive," because the underlying goal is to reach the end of
+pre-Book-1 material-building at some point, so that everything drafted before Book 1 is what
+populates the archive app. So: draft in batched waves of three-per-alias, pause deliberately between
+waves rather than racing to the 50-100 target, and treat "the archive is loaded and functional" as
+the actual stopping condition for this whole track, not a fixed rule count. This does not change the
+draft-then-explicit-approval discipline for any individual Chronicle -- it's a pacing/scale
+directive, not a blanket authorization to draft ahead of approval.
+
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
