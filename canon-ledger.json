@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "11.0",
+  "ledger_version": "11.1",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -958,6 +958,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document.",
       "rule_count": 3,
       "note": "Locks the Trench Monarch's three-entry Alias Chronicle wave (MCD-368 through MCD-370), the first of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves, starting with the Trench Monarch)."
+    },
+    {
+      "batch": 108,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Industrial Myth's three-entry Alias Chronicle wave (MCD-371 through MCD-373), the second of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves)."
     }
   ],
   "rules": [
@@ -7808,6 +7815,27 @@
       "id": "MCD-370",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Ones Who Called Him That First\" (full narrative text at docs/lords-of-cian/chronicles/the-ones-who-called-him-that-first.md), Trench Monarch Alias Chronicle III, closing the wave alongside 'The Name He Didn't Choose' (MCD-368) and 'What the Sword Remembers' (MCD-369). An old dredge-site tally worker explains to a new apprentice why the alias's reputation is grounded in exposing systemic wage theft through proof rather than violence (MCD-231's own stated method), not in combat, and that Kanja's own visible discomfort with the title is precisely what makes it trustworthy. No new named characters -- the tally worker and apprentice are unnamed and undeveloped beyond this scene.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-371",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Worst-Off First\" (full narrative text at docs/lords-of-cian/chronicles/the-worst-off-first.md), Industrial Myth Alias Chronicle I. Rebellion era, unarmed throughout, matching MCD-244's stated ethos. At a dye-works district that stages its best-treated workers at the front gate for the visiting crew, Kanja instead goes first to the dye-vat handlers at the yard's far edge -- the worst-treated, never previously asked anything by a visitor -- and works backward toward the front gate, documenting testimony in the order asked rather than the order offered. Establishes 'start with the worst-treated' as the Industrial Myth's own signature discipline. No new named characters. First entry in the Industrial Myth's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-372",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Hand That Stayed Open\" (full narrative text at docs/lords-of-cian/chronicles/the-hand-that-stayed-open.md), Industrial Myth Alias Chronicle II. Rebellion era, unarmed throughout. A forty-strong garrison column sent to break up ledger-taking at a weaving district finds Kanja seated, unarmed, holding only the ledger itself; the standoff holds until two soldiers quietly lower their own weapons and the captain withdraws, unable to locate a fight that was never actually offered. Extends VB-060's presence trait into a register where the 'already-decided' quality is the certainty that violence has no target to land on. No new named characters; the captain is unnamed and one-scene. Second entry in the Industrial Myth's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-373",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boy Who Kept the Numbers Honest\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-who-kept-the-numbers-honest.md), Industrial Myth Alias Chronicle III, closing the wave. Set during the Furnace District Strike itself (MCD-244, age 21), from Ezio Valcari's perspective (already a locked named character, roughly sixteen at this point). Dramatizes Ezio's unstated corrective role in the strike's documented method: cross-checking worker testimony against the district's own production records and quietly adjusting entries upward whenever a frightened worker under-claimed what they were actually owed, rather than accepting testimony at face value. No new named characters beyond the already-locked Ezio Valcari. Closes the Industrial Myth's three-Chronicle wave (with 'The Worst-Off First,' MCD-371, and 'The Hand That Stayed Open,' MCD-372).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document."
     }
