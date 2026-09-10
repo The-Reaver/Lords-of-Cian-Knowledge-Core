@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "10.7",
+  "ledger_version": "10.8",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -937,6 +937,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document",
       "rule_count": 2,
       "note": "Locks \"The Pivotal Piece\" (MCD-365), the standalone Kanja-era Chronicle embedding the corrected Bane quote, and a new standing Voice Bible rule (VB-060) capturing the presence trait Abad specifically flagged: Kanja, under any alias, reads to those around him at moments of consequence not as someone negotiating but as someone reporting a result already decided elsewhere -- intended to recur across the whole series, not a one-scene device. Abad: \"lock it. I love the description of someone describing how they felt and his presence I'm referring to Bane. it is something that should live out through the series everyone feels that when in this presence. it was a great description of someone negotiating in a room they weren't in and just informing them now of what the results was brilliant writing\""
+    },
+    {
+      "batch": 105,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document.",
+      "rule_count": 1,
+      "note": "Locks VB-061, the blue-collar register quotes catalog: five new quotes attributed to the Trench Monarch, the Industrial Myth, the Blue-Collar Titan, the Lord of Embers, and Captain -- each grounded in that alias's already-locked origin event, extending VB-060's presence-doctrine framing without repeating it. Abad: \"lock it.\""
     }
   ],
   "rules": [
@@ -7747,6 +7754,13 @@
       "statement": "Kanja's presence, under any alias and in any era, carries a standing characterization signature: people who share a scene with him at a moment of real consequence do not experience him as someone deciding, weighing, or negotiating in real time. They experience the specific, unsettling sense that he already reached his conclusion somewhere they were not invited to, and is only now, in this room, informing them of the result. This is a character trait, not a supernatural power -- a quality of already-settled certainty, delivered without volume, threat, or performance, that reads to anyone still operating in negotiation mode as something closer to terror than confrontation. First put on the page in \"The Pivotal Piece\" (MCD-365), via the unnamed Undersecretary's reaction to Bane: he came prepared with three rehearsed responses to theatrical refusal and none of them applied, because nothing he heard was a refusal being negotiated in front of him -- it was a result being reported. This trait is intended to recur across the series whenever a POV character meets Kanja, under whichever alias fits the era (Bane, the Scourge, and others still undramatized), at a scene of genuine stakes -- an early, personal-scale precursor to the already-locked \"legend is the weapon\" doctrine (established in-story at the False Dragon's Wake, age 35), which operates at institutional/reputational scale where this trait operates at the scale of a single room.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document. Full narrative text at docs/lords-of-cian/chronicles/the-pivotal-piece.md."
+    },
+    {
+      "id": "VB-061",
+      "category": "voice-bible-quotes",
+      "statement": "A standing catalog of quotes attributed to Kanja's labor-adjacent aliases, in a blue-collar register distinct from VB-060's presence-doctrine framing -- extends but does not repeat it. The Trench Monarch (age 18, his first alias): 'Every king I ever heard of inherited his crown. Mine's mud and iron, and I dug it up myself.' The Industrial Myth (age 19, Furnace District Strike, MCD-244): 'A myth doesn't clock in. I do. That's the difference between a story and a man you can find on the floor when the whistle blows.' The Blue-Collar Titan (age 20, Sewer War of Killane, MCD-234): 'They keep calling it a title, like it's something I put on. It isn't. It's just what happens when you never stop being the man who worked for a living, and the work got bigger than anyone planned for.' The Lord of Embers (age 27, the Rolling Foundry Campaign, MCD-241): 'You want to burn a workingman's home down, go ahead. Just know somebody's going to be standing in the ashes with a hammer before your smoke clears -- and that somebody's going to be me.' Captain (never a Directorate classification, his own crew's name for him): 'The Directorate names what scares them. We named the man who feeds the crew before he feeds himself. That name's ours. They don't get to touch it' -- attributed to the crew collectively rather than to Kanja himself, matching the already-locked distinction that 'Captain' is affectionate and self-given, not an institutional threat-classification.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
     }
   ],
   "open_decisions": [

@@ -387,6 +387,18 @@ series everyone feels that when in this presence. it was a great description of 
 negotiating in a room they weren't in and just informing them now of what the results was
 brilliant writing."
 
+**The blue-collar quotes catalog, Batch 105, 2026-09-10 (`VB-061`).** Five new quotes attributed
+to Kanja's labor-adjacent aliases, extending `VB-060`'s presence-doctrine framing without repeating
+it: the Trench Monarch (age 18, his first alias) on inheriting nothing and digging his own crown;
+the Industrial Myth (age 19, Furnace District Strike, `MCD-244`) on the gap between a story and a
+man on the clock; the Blue-Collar Titan (age 20, Sewer War of Killane, `MCD-234`) on the title
+being nothing more than never having stopped being a working man; the Lord of Embers (age 27, the
+Rolling Foundry Campaign, `MCD-241`) on rebuilding with a hammer before the smoke clears; and
+Captain (never a Directorate classification, his own crew's affectionate name for him) attributed
+to the crew collectively rather than to Kanja himself, matching the already-locked distinction
+between an institutional threat-classification and a name his people gave him. Abad's approval:
+"lock it."
+
 None of this is urgent or sequenced beyond the 3-phase roadmap above; work whichever thread Abad points to next.
 
 ## Standing direction: Alias Chronicles, a new sub-series (Abad, 2026-09-10)
