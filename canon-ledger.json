@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "10.9",
+  "ledger_version": "11.0",
   "last_updated": "2026-09-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -951,6 +951,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document.",
       "rule_count": 2,
       "note": "Locks Bane Alias Chronicles II (MCD-366, 'The Trap Built From His Own Shape') and III (MCD-367, 'What the Conscripts Wouldn't Do'), completing Bane's three-entry wave alongside 'The Pivotal Piece' (MCD-365), per the standing Alias Chronicles direction (three per alias per wave). Abad: \"lock it.\""
+    },
+    {
+      "batch": 107,
+      "date": "2026-09-10",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Trench Monarch's three-entry Alias Chronicle wave (MCD-368 through MCD-370), the first of ten remaining alias waves. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" (covering all ten remaining alias waves, starting with the Trench Monarch)."
     }
   ],
   "rules": [
@@ -7780,6 +7787,27 @@
       "id": "MCD-367",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Conscripts Wouldn't Do\" (full narrative text at docs/lords-of-cian/chronicles/what-the-conscripts-wouldnt-do.md), Bane Alias Chronicle III, closing Bane's three-entry Alias Chronicle wave alongside \"The Pivotal Piece\" (MCD-365) and \"The Trap Built From His Own Shape\" (MCD-366). Rebellion era, within the \"Bane\" window, a skirmish distinct from both. A nineteen-year-old conscript holds a salt-flat causeway line the night Bane's column is reported approaching; dread outruns any order down the ditch, and roughly a third of the nine-hundred-strong line sets its weapons down and walks away before a shot is fired. Bane appears only once, at distance, walking unhurried at the head of the column; the engagement dissolves before contact, on an unrelated order from elsewhere. Decades later the surviving conscript insists: 'We didn't lose our nerve. We ran out of a fight that wasn't there to begin with.' Extends VB-060's presence trait to collective/army scale rather than one-on-one. No new named characters; the conscript, the sergeant, and the line are unnamed.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-368",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Name He Didn't Choose\" (full narrative text at docs/lords-of-cian/chronicles/the-name-he-didnt-choose.md), Trench Monarch Alias Chronicle I. Rebellion era, weeks after the Dredge-Line Ambush (MCD-231, CC-118), where Callum Breck unilaterally chalked the 'Trench Monarch' name on a captured officer's forehead without Kanja choosing or sanctioning it. At a fresh dredge site the reputation arrives ahead of any actual confrontation: the foreman surrenders manifests unprompted rather than call in a garrison to protect a debased-Drakma lie. Kanja reflects to Breck that he doesn't get to reject a name that's already doing the work a king is supposed to do -- he only gets to make sure it keeps meaning what the district thinks it means. Dramatizes CC-118's own stated fact directly. No new named characters beyond the already-locked Callum Breck. First entry in the Trench Monarch's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-369",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Sword Remembers\" (full narrative text at docs/lords-of-cian/chronicles/what-the-sword-remembers.md), Trench Monarch Alias Chronicle II. Rebellion era, between the Dredge-Line Ambush and the Black Trench (ages 18-19), a solo-blade showcase of Onyx of Oblivion -- Mafesto remains dormant and Obsidian Malice undeployed until the Trinity's first combined deployment at the Black Trench (MCD-232), so no armor or war club appears here. A sixteen-strong Compliance detachment, sent specifically to counter the Dredge-Line tactics, is defeated in under four minutes, demonstrating all five of Onyx's already-locked powers (ARS-020) in named sequence: Cadence Ruin (collapsing a coordinated two-man timing gap), Whisper of Shadows (nullifying a blind-spot attack), Veil Piercer (opening a structural seam in an interlocked shield wall), Soulbound Edge (deciding a mutual killing exchange in Kanja's favor by fractions of an angle), and the Black Ledger (marking the defeated commanding officer's collar as a closed debt rather than an erasure, consistent with Onyx's locked moral-absolutist voice, VB-021: 'Mercy is earned. Memory is the receipt.'). No new named characters. Second entry in the Trench Monarch's three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-370",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ones Who Called Him That First\" (full narrative text at docs/lords-of-cian/chronicles/the-ones-who-called-him-that-first.md), Trench Monarch Alias Chronicle III, closing the wave alongside 'The Name He Didn't Choose' (MCD-368) and 'What the Sword Remembers' (MCD-369). An old dredge-site tally worker explains to a new apprentice why the alias's reputation is grounded in exposing systemic wage theft through proof rather than violence (MCD-231's own stated method), not in combat, and that Kanja's own visible discomfort with the title is precisely what makes it trustworthy. No new named characters -- the tally worker and apprentice are unnamed and undeveloped beyond this scene.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document."
     }
