@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "19.3",
+  "ledger_version": "19.4",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1539,6 +1539,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Storm That Walks' fifth three-entry Alias Chronicle wave (MCD-555 through MCD-557). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
+    },
+    {
+      "batch": 191,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks Captain's fifth three-entry Alias Chronicle wave (MCD-558 through MCD-560), completing a fifth wave for all eleven aliases. Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\" Completes fifth waves for all eleven aliases (Bane, Trench Monarch, Industrial Myth, Blue-Collar Titan, Sovereign Ghost of the Great Sea, the Scourge, the Crow King, the Iron Bastard, the Lord of Embers, the Storm That Walks, and Captain)."
     }
   ],
   "rules": [
@@ -9698,6 +9705,27 @@
       "id": "MCD-557",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Second Sky-Reader Saw Alone\" (full narrative text at docs/lords-of-cian/chronicles/what-the-second-sky-reader-saw-alone.md), the Storm That Walks Alias Chronicle XVIII, closing the fifth wave. Sephtis's successor (already locked, MCD-505) makes her first fully independent, correct storm prediction under time pressure without his confirmation, fulfilling the institutional-redundancy purpose of her training. No new named characters beyond the already-locked Sephtis and his successor. Closes the Storm That Walks' fifth three-Chronicle wave (with 'The Storm That Made Enemies Allies,' MCD-555, and 'The Prediction He Almost Used for Advantage,' MCD-556).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-558",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Nine Days Nobody Slept\" (full narrative text at docs/lords-of-cian/chronicles/the-nine-days-nobody-slept.md), Captain Alias Chronicle XVI, first entry in the fifth wave. A detailed nine-day siege endurance showcase: Kanja deliberately declines to use his biological advantage for extra rest, moving constantly among the exhausted crew instead so nobody carries the grinding hardship believing themselves more alone in it than he is. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-559",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Enemy Who Asked to Stay\" (full narrative text at docs/lords-of-cian/chronicles/the-enemy-who-asked-to-stay.md), Captain Alias Chronicle XVII. A captured Directorate officer asks to join the crew rather than accept parole or custody; Kanja extends the same gradual, tested trust-building process given to any unproven newcomer rather than either blanket suspicion or immediate acceptance. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-560",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Efa Gol Saw From the Start\" (full narrative text at docs/lords-of-cian/chronicles/what-efa-gol-saw-from-the-start.md), Captain Alias Chronicle XVIII, closing the fifth wave. Efa Gol (already locked, present since Warehouse Twelve) offers a synthesizing reflection across every alias Kanja has carried, explaining why 'Captain' -- the name his own crew chose rather than one assigned by fear or classification -- means the most to the people who lived every day of the war alongside him. No new named characters beyond the already-locked Efa Gol. Closes Captain's fifth three-Chronicle wave (with 'The Nine Days Nobody Slept,' MCD-558, and 'The Enemy Who Asked to Stay,' MCD-559).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
