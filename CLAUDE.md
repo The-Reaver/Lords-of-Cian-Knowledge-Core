@@ -541,6 +541,71 @@ Long Mask's later personas, if any get named) once material exists for them. Per
 pacing rule above, no further wave starts automatically -- work whichever alias, or whichever other
 thread, Abad points at next.
 
+**All eleven aliases' second waves completed in one continuous pass, Batches 117-127, 2026-09-11
+(`MCD-398` through `MCD-430`, 33 new Chronicles).** Started with Bane's second wave presented and
+approved individually ("lock it," Batch 117), then continued for the remaining ten aliases under
+Abad's instruction: "complete all of the Alias drafts continuously uninterrupted." Every alias now
+has two full three-Chronicle waves (six entries each), 66 Alias Chronicles total, still well short
+of the long-term 50-100-per-alias target but a genuinely substantial second layer. Second waves
+deliberately avoided repeating first-wave story shapes -- each alias's second wave explored genuine
+failure/limits, deeper gear mechanics, or new supporting-cast perspectives rather than variations on
+the same beat:
+
+- **Batch 117, Bane (`MCD-398`-`400`).** Bane's first full Trinity combat showcase (fog/confined-
+  ground conditions deliberately mirroring the Black Trench); an embedded Directorate surveillance
+  agent whose reports collapse under what they witness; the Directorate's own internal difficulty
+  formally classifying an alias with no consistent operational signature.
+- **Batch 118, the Trench Monarch (`MCD-401`-`403`).** An impersonator exploiting the
+  never-sanctioned name for extortion; the first established limit of Onyx of Oblivion (defeated by
+  a deliberately arrhythmic, patternless duelist, won through plain endurance instead); Tavin
+  Greer's own decades-later reflection on the Dredge-Line chalking that once marked him.
+- **Batch 119, the Industrial Myth (`MCD-404`-`406`).** A burned decoy ledger exposing Ezio
+  Valcari's dispersed-copy operational security; a deliberately unresolved, harder entry on the
+  method's real human cost (a death during the days of patient documentation); a hostile
+  administrator converted by simple arithmetic rather than confrontation.
+- **Batch 120, the Blue-Collar Titan (`MCD-407`-`409`).** A new-city infrastructure operation read
+  through construction literacy rather than outdated maps; a field repair of cracked Obsidian
+  Malice housing through genuine smithing technique, not any Trinity property; a skeptical guild
+  master won over by an honest admission of a rushed reheat rather than flawless work.
+- **Batch 121, the Sovereign Ghost of the Great Sea (`MCD-410`-`412`).** An ordinary storm wreck
+  falsely attributed to the fleet, cleared through an unprecedented surrender of navigation logs to
+  a neutral tribunal; Dol Maren's flexible-hull engineering outlasting a hurricane pursuit; a
+  rescued child's lifelong account of the fleet's protection, told from the saved side rather than
+  the feared side.
+- **Batch 122, the Scourge (`MCD-413`-`415`).** A Golden Terror-era (ages 80-180) gear-mastery
+  lesson to a young crew member, deliberately correct that Onyx remains sealed at L9 throughout the
+  Long Mask; an elderly but still-active Garren Hask's decades-long private ledger and a quiet
+  identity reflection on the distance between the Trench Monarch and the Scourge; a rival warlord's
+  public test of the Gale Straits crescent formation's reputation, settled by personal duel rather
+  than fleet battle.
+- **Batch 123, the Crow King (`MCD-416`-`418`).** A genuine near-failure when a single unbriefed
+  private's own ear catches the Hymn-Engine trick a sensor grid missed; the one occasion evasion
+  fails outright, forcing a Trinity combat showcase through a counter-encirclement; a singer's
+  account of the real vocal cost behind the marsh trick's mechanics.
+- **Batch 124, the Iron Bastard (`MCD-419`-`421`).** The first engagement requiring protection of
+  wounded others rather than a solo stand, adapting the resonance doctrine into motion and taking
+  the alias's first on-page wound; a detailed showcase generalizing the resonance principle beyond
+  metal to any tension-bearing structure; a Trust scholar's honest but institutionally shelved
+  report on the phenomenon's real physics.
+- **Batch 125, the Lord of Embers (`MCD-422`-`424`).** A merchant blacklist (punishment with
+  nothing physical to rebuild against) defeated by personally subsidizing defiance; a detailed
+  Trinity showcase defending The Anvil from a raid, fought to keep the fight away from sleeping
+  apprentices; a resentful local smith won over by genuine deference rather than reputation.
+- **Batch 126, the Storm That Walks (`MCD-425`-`427`).** Sephtis's storm prediction missing by two
+  hours, a genuine failure the doctrine survives rather than another clean success; a detailed
+  non-visual Trinity showcase in a moonless night ambush at sea; Sephtis's own private account of
+  the emotional weight behind every calm, confident prediction.
+- **Batch 127, Captain (`MCD-428`-`430`).** Three crew deaths in an unpreventable collapse testing
+  the crew's trust in the name for the first time, with Callum Breck's own answer; the Trinity's
+  full resources spent rescuing a single named crew member (Pell Ostra) rather than fighting a
+  battle; a founding dockhand's quiet, undramatic retirement closing the run.
+
+Ledger reached `ledger_version` 13.0, 1,050 rules, 127 batches by the end of this run -- zero
+duplicate IDs verified after every single batch, 102 total Chronicle files. Every named alias now
+sits at two completed waves (six Chronicles each). Genuinely open for whenever Abad wants it next: a
+third wave for any specific alias (continuing toward the 50-100-per-alias long-term target), or any
+other thread. Per the standing pacing rule, no further wave starts automatically.
+
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
