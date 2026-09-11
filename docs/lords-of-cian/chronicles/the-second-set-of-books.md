@@ -1,0 +1,21 @@
+# The Second Set of Books
+
+*Locked canon, Batch 256, 2026-09-11 (`MCD-1150`). Industrial Myth Alias Chronicle LXVI, wave 22, closing the wave. The method's first case where a hidden ledger isn't concealment of theft but protection against a worse theft from above -- a genuinely new moral-complexity register for what a second set of books can mean.*
+
+---
+
+They found the second ledger by accident, the way Ezio found most things worth finding — a discrepancy between what the shipping-district administrator's official books showed paid out and what six dockhands separately swore they'd received, the gap running the wrong direction for ordinary theft. The workers were being paid more than the official book recorded, not less. It took two days of careful, non-accusatory questions before the administrator, cornered by his own generosity rather than his own greed, showed them where the real numbers lived: a second book, kept in his own hand, in a drawer he'd never expected anyone honest to go looking through.
+
+The official book was the one his own superior audited twice a year, a Trust-appointed regional comptroller who skimmed a fixed percentage off every district's stated wage expenditure before it ever reached provincial treasury — a standing, institutionalized theft the administrator had no power to refuse and no legal channel to report, since the comptroller answered to nobody the administrator could appeal to without losing his position and his district losing whatever protection his silence bought it. The second book was where he kept the real figures, quietly padding his own reported costs downward on paper so the skim took a smaller bite, then making up the difference to his workers out of funds the comptroller never saw.
+
+"You lied to your own auditor to pay your own people correctly," Ezio said, reading both books side by side, something in his voice that wasn't quite disbelief.
+
+"I lied to a thief so a bigger thief couldn't reach as far into my workers' wages as he reaches into every other district's." The administrator didn't ask for sympathy and didn't get performative sympathy from either of them. What he got was Ezio's own discipline turned on a genuinely strange question: which book was the true one. The ledger's rule had never been simple honesty on paper — MCD-747's discipline was never adjusting a true number to suit a story. Here both numbers were, in their own way, true: one true to what workers actually received, one true to what a hostile auditor was permitted to see.
+
+Kanja's ruling kept the crew's own book aligned with what mattered to the workers, not what mattered to the comptroller: the real, higher figures went into the official crew ledger as what was actually owed and actually paid, with a separate, explicit note recording the administrator's second-book practice as documented fact rather than concealed wrongdoing. It changed nothing about how the workers were paid. It changed everything about whether the crew's own record, if it were ever seized or subpoenaed by the same comptroller's office, could be turned into evidence against the one administrator in six districts who'd found a way to protect his people from a theft above his own head.
+
+"We're not in the business of hiding a book from anyone," Kanja told him before they left. "But we're not in the business of handing a thief the exact page he needs to steal more, either."
+
+---
+
+*Continuity notes (not narrative): the method's first entry where a concealed second ledger represents protection rather than fraud, a genuinely new moral register distinct from every prior hidden-book case (MCD-742's "Ledger Against the Ledger," MCD-763's owner-written ledger, MCD-929's province-wide collusion) -- all of which involved concealment used against workers, never for them. Introduces, without naming or detailing further, a standing institutionalized skim by an unnamed regional Trust comptroller above district level, left as background texture rather than a thread requiring resolution here. No new named characters; the administrator and dockhands are unnamed and one-scene. Strictly unarmed and non-combat throughout. Closes the Industrial Myth's twenty-second wave (with MCD-1148 and MCD-1149).*
