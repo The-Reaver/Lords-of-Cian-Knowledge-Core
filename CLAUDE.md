@@ -1441,6 +1441,29 @@ older gaps were deliberately left untouched (each agent was scoped to waves 22-3
 queued as their own follow-up sync pass whenever Abad wants it -- same pattern, just extended
 further back per alias.
 
+**The older waves 1-21 Drive gap closed for all ten remaining aliases, 2026-09-11.** Abad pointed
+directly at the follow-up queued above. Ten parallel background agents, one per alias, each built an
+authoritative 93-file inventory by grepping `canon-ledger.json` for that alias's own "Alias Chronicle"
+substring (rather than trusting old merge scripts or assumed wave counts -- necessary since at least
+one alias, Bane, has its very first entry, `MCD-365`/"The Pivotal Piece," predating the "Alias
+Chronicle" naming convention), diffed it against the live Drive folder listing, and uploaded whatever
+was missing in the same established plain-text convention. Every agent verified its own folder's
+final count directly against the local inventory before reporting, catching and correcting several
+real hiccups along the way without needing intervention: transient upload rate-limits resolved by a
+single retry (Iron Bastard, Trench Monarch, Captain, and others); shared-scratchpad collisions from
+sibling agents running in parallel, caught because diff results looked wrong and fixed by redoing the
+comparison atomically with uniquely-named files (Sovereign Ghost of the Great Sea) or by cross-
+checking `parentId` on a corrupted read-back (Captain, Industrial Myth); and one cosmetic-only
+markdown round-trip quirk noted and confirmed harmless (The Scourge, nested bold-inside-italic
+rendering as four asterisks instead of two on re-read -- content and title unaffected). Final tally:
+Bane +6, Trench Monarch +7, Industrial Myth +11, Blue-Collar Titan +7, Sovereign Ghost of the Great
+Sea +6, The Scourge +7, Crow King +7, Iron Bastard +8, Storm That Walks +7 (including a genuine
+source-file formatting inconsistency caught and fixed along the way), Captain +6 -- 72 files
+uploaded, matching the gap tally exactly. **All eleven alias Drive folders now sit at a fully
+verified 93/93, closing out complete 1-31 Drive coverage for all 990 Alias Chronicles.** No git or
+ledger changes in this pass -- upload-only, as with the wave 22-31 sync before it. No further Drive
+sync debt is currently known to exist anywhere in the project.
+
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
 lets canon work hand off cleanly to the archive app -- it does not mean canon work stops. The
