@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "17.0",
+  "ledger_version": "17.1",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1378,6 +1378,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Kwan Chronicle III (MCD-514). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 168,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Umoja Chronicle III (MCD-515). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9236,6 +9243,13 @@
       "id": "MCD-514",
       "category": "phase2-territory-chronicle",
       "statement": "Kwan Chronicle III, \"The Landlord Who Changed His Own Mind\" (full narrative text at docs/lords-of-cian/chronicles/kwan-chronicle-iii-the-landlord-who-changed-his-own-mind.md). A property owner genuinely opposed to open housing is invited to explain his opposition honestly at a public forum, and talks himself out of his own position while preparing to argue it -- 'The Invitation' (PH2-038) shown producing unplanned self-persuasion in an actual opponent rather than only activating latent sympathy. An unnamed Kanja is present, uninvolved. No new named characters. Third Kwan territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-515",
+      "category": "phase2-territory-chronicle",
+      "statement": "Umoja Chronicle III, \"The Fire That Crossed the City\" (full narrative text at docs/lords-of-cian/chronicles/umoja-chronicle-iii-the-fire-that-crossed-the-city.md). Twelve workplaces across the district, each genuinely organized by Kofi over years, walk out together within the same hour under 'One Fire' (PH2-040), defeating a citywide wage cut -- the ability's first district-wide success, directly consistent with the limit shown in Chronicle II (MCD-465): it amplifies genuine existing relationships rather than manufacturing them. An unnamed Kanja is present at the rally, uninvolved. No new named characters. Third Umoja territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
