@@ -1,9 +1,9 @@
 # What Danne Sok Never Told Anyone
 
-*DRAFT — pending Abad's approval, not yet locked. Proposed Batch 181, 2026-09-11 (`MCD-530`). Bane
-Alias Chronicle XV, closing the fifth wave. Rebellion era, age 19, shortly after the Black Trench.
-Not a territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new
-named characters beyond the already-locked Danne Sok.*
+*Locked canon, Batch 181, 2026-09-11 (`MCD-530`). Bane Alias Chronicle XV, closing the fifth wave.
+Rebellion era, age 19, shortly after the Black Trench. Not a territory Chronicle. New standalone
+material. Narrated in neutral third-person prose. No new named characters beyond the already-locked
+Danne Sok.*
 
 ---
 

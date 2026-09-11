@@ -1,9 +1,8 @@
 # The Boy Who Wanted to Be Him
 
-*DRAFT — pending Abad's approval, not yet locked. Proposed Batch 181, 2026-09-11 (`MCD-528`). Bane
-Alias Chronicle XIII, first entry in the fifth wave. Rebellion era, age 19, shortly after the Black
-Trench. Not a territory Chronicle. New standalone material. Narrated in neutral third-person prose.
-No new named characters.*
+*Locked canon, Batch 181, 2026-09-11 (`MCD-528`). Bane Alias Chronicle XIII, first entry in the
+fifth wave. Rebellion era, age 19, shortly after the Black Trench. Not a territory Chronicle. New
+standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---
 

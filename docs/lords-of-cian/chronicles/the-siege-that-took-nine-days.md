@@ -1,10 +1,9 @@
 # The Siege That Took Nine Days
 
-*DRAFT — pending Abad's approval, not yet locked. Proposed Batch 181, 2026-09-11 (`MCD-529`). Bane
-Alias Chronicle XIV. Rebellion era, age 19, shortly after the Black Trench. Not a territory
-Chronicle. New standalone material — a detailed, sustained multi-day combat showcase per Abad's
-craft instruction, distinct from every prior single-engagement Bane Chronicle. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 181, 2026-09-11 (`MCD-529`). Bane Alias Chronicle XIV. Rebellion era, age 19,
+shortly after the Black Trench. Not a territory Chronicle. New standalone material — a detailed,
+sustained multi-day combat showcase per Abad's craft instruction, distinct from every prior single-
+engagement Bane Chronicle. Narrated in neutral third-person prose. No new named characters.*
 
 ---
 

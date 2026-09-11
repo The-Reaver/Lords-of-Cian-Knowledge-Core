@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "18.3",
+  "ledger_version": "18.4",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1469,6 +1469,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Kiti Chronicle III (MCD-527), completing a third territory-Chronicle entry across all 19 territories that had two. Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\" Completes a third territory-Chronicle entry across all 19 territories that had two, giving every one of the 20 homage-era territories at least three Chronicles."
+    },
+    {
+      "batch": 181,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks Bane's fifth three-entry Alias Chronicle wave (MCD-528 through MCD-530), the first alias wave five. Abad: \"lock it.\""
     }
   ],
   "rules": [
@@ -9418,6 +9425,27 @@
       "id": "MCD-527",
       "category": "phase2-territory-chronicle",
       "statement": "Kiti Chronicle III, \"The Day He Decided to Leave It Behind\" (full narrative text at docs/lords-of-cian/chronicles/kiti-chronicle-iii-the-day-he-decided-to-leave-it-behind.md). Decades after the illness that first revealed 'The Long Tenure' (PH2-059)'s institutional nature, Owusu deliberately and voluntarily resigns his seat rather than hold it until circumstance forces the choice, closing his arc with a permanent, self-determined loss of the strength distinct from Chronicle II's temporary illness-forced lapse (MCD-475). An unnamed Kanja is present at his departure, uninvolved. No new named characters. Third Kiti territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-528",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boy Who Wanted to Be Him\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-who-wanted-to-be-him.md), Bane Alias Chronicle XIII, first entry in the fifth wave. A young recruit, having absorbed only the fear from the Bane stories and none of the restraint, nearly kills a surrendering Directorate scout believing the reputation licenses it; Kanja stops him and states plainly that the reputation exists to prevent killing, not enable it -- the clearest statement yet of 'the fear only works if it's true' (MCD-431). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-529",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Siege That Took Nine Days\" (full narrative text at docs/lords-of-cian/chronicles/the-siege-that-took-nine-days.md), Bane Alias Chronicle XIV. A detailed, sustained multi-day combat showcase against the fortified Threshbend depot: eight days of invisible psychological pressure (disappearing guard posts, no visible attack) break the garrison's morale before a decisive ninth-day strike -- the first sustained siege-length engagement in the Bane Chronicle series, extending the alias's patience-over-speed principle. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-530",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Danne Sok Never Told Anyone\" (full narrative text at docs/lords-of-cian/chronicles/what-danne-sok-never-told-anyone.md), Bane Alias Chronicle XV, closing the fifth wave. Danne Sok (already locked, one of the three earliest crew members freed before the Black Trench) finally shares a memory kept private the whole war: the young Kanja's hands shaking for an hour after freeing him, before any alias existed -- a private counterweight to the legend, extending the 'tired, not scary' theme (MCD-478) back to its literal origin. No new named characters beyond the already-locked Danne Sok. Closes Bane's fifth three-Chronicle wave (with 'The Boy Who Wanted to Be Him,' MCD-528, and 'The Siege That Took Nine Days,' MCD-529).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
