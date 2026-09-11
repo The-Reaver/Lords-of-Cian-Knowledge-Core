@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "19.2",
+  "ledger_version": "19.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1532,6 +1532,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Lord of Embers' fifth three-entry Alias Chronicle wave (MCD-552 through MCD-554). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
+    },
+    {
+      "batch": 190,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Storm That Walks' fifth three-entry Alias Chronicle wave (MCD-555 through MCD-557). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9670,6 +9677,27 @@
       "id": "MCD-554",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Old Smith Saw in the Ashes\" (full narrative text at docs/lords-of-cian/chronicles/what-the-old-smith-saw-in-the-ashes.md), the Lord of Embers Alias Chronicle XVIII, closing the fifth wave. The campaign's recurring senior smith (first referenced in MCD-502) finds Kanja alone at the forge the night after the five-site attack, witnessing the private toll behind the reputation for the first time. No new named characters. Closes the Lord of Embers' fifth three-Chronicle wave (with 'The Night All Five Forges Burned at Once,' MCD-552, and 'The Smith Who Built Their Weapons,' MCD-553).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-555",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm That Made Enemies Allies\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-that-made-enemies-allies.md), the Storm That Walks Alias Chronicle XVI, first entry in the fifth wave. A storm larger than any prior prediction threatens both the rebel fleet and an engaged Directorate squadron equally; Kanja offers a storm-duration truce, both fleets surviving the night through genuine cooperation before the Directorate commander withdraws without resuming the engagement -- the first entry where the storm endangers both sides at once. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-556",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Prediction He Almost Used for Advantage\" (full narrative text at docs/lords-of-cian/chronicles/the-prediction-he-almost-used-for-advantage.md), the Storm That Walks Alias Chronicle XVII. A single storm prediction could trap a strategically valuable Directorate supply squadron or warn an unrelated civilian fishing fleet in the same path; Kanja prioritizes the fishing fleet over available military advantage, extending the humanitarian-rescue precedent (MCD-459) into an active choice between competing beneficiaries. No new named characters beyond the already-locked Sephtis.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-557",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Second Sky-Reader Saw Alone\" (full narrative text at docs/lords-of-cian/chronicles/what-the-second-sky-reader-saw-alone.md), the Storm That Walks Alias Chronicle XVIII, closing the fifth wave. Sephtis's successor (already locked, MCD-505) makes her first fully independent, correct storm prediction under time pressure without his confirmation, fulfilling the institutional-redundancy purpose of her training. No new named characters beyond the already-locked Sephtis and his successor. Closes the Storm That Walks' fifth three-Chronicle wave (with 'The Storm That Made Enemies Allies,' MCD-555, and 'The Prediction He Almost Used for Advantage,' MCD-556).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
