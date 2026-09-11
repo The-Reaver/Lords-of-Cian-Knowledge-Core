@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "15.1",
+  "ledger_version": "15.2",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1245,6 +1245,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Hekalu Chronicle II (MCD-473). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
+    },
+    {
+      "batch": 149,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Nyansa Chronicle II (MCD-474). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
     }
   ],
   "rules": [
@@ -8816,6 +8823,13 @@
       "id": "MCD-473",
       "category": "phase2-territory-chronicle",
       "statement": "\"The Meal That Bound Nothing\" (full narrative text at docs/lords-of-cian/chronicles/the-meal-that-bound-nothing.md), Hekalu Chronicle II. A rival enforcer sent under orders to spy sits at Adom's table but produces no binding at all through 'The Common Table' (PH2-055), confirming and dramatizing the free-choice requirement that Chronicle I's referenced past case only gestured toward. An unnamed Kanja is present for the meal, uninvolved. No new named characters. Second Hekalu territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-474",
+      "category": "phase2-territory-chronicle",
+      "statement": "\"The Cost of Being Corrected\" (full narrative text at docs/lords-of-cian/chronicles/the-cost-of-being-corrected.md), Nyansa Chronicle II. The committee member successfully corrected in Chronicle I ('The Word That Stuck,' MCD-354) faces quiet social ostracism from his own faction for having genuinely changed his position; Adisa acknowledges the real cost 'The Long Correction' (PH2-057) never promised to soften. An unnamed Kanja walks with the man on several evenings, uninvolved. No new named characters. Second Nyansa territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
