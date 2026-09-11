@@ -1,8 +1,6 @@
 # What Efa Gol Learned to Read
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XXI, wave 7.
-Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked Efa Gol.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-626`). The Trench Monarch Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

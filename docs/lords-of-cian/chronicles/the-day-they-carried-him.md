@@ -1,8 +1,6 @@
 # The Day They Carried Him
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 7. Rebellion era. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters beyond
-already-locked crew.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-596`). Captain Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

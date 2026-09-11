@@ -1,8 +1,6 @@
 # The Question He Couldn't Answer for Her
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 12. Rebellion era. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters (the crew
-member in crisis is deliberately left unnamed).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-610`). Captain Alias Chronicle XXXV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

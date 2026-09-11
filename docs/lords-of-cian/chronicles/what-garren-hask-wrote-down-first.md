@@ -1,8 +1,6 @@
 # What Garren Hask Wrote Down First
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XVIII, wave 6.
-Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked Garren Hask.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-623`). The Trench Monarch Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

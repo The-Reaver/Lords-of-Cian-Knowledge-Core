@@ -1,8 +1,6 @@
 # The Fever That Took the Night Watch
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 9. Rebellion era. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters (the sick
-sailor and the settlement healer are deliberately left unnamed).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-601`). Captain Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,8 +1,6 @@
 # The Word They Wouldn't Let Him Mock
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 15. Rebellion era. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters (the
-Directorate officer is deliberately left unnamed).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-619`). Captain Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

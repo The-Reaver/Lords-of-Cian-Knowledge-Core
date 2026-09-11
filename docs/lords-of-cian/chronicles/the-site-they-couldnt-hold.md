@@ -1,8 +1,6 @@
 # The Site They Couldn't Hold
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XXVIII, wave 10.
-Rebellion era, age 18, before the Black Trench -- Mafesto dormant, Obsidian Malice undeployed. Not a
-territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-633`). The Trench Monarch Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

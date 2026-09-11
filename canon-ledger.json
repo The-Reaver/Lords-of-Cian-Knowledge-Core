@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "19.5",
+  "ledger_version": "19.7",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1553,6 +1553,20 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 30,
       "note": "Locks the Storm That Walks' sixth through fifteenth Alias Chronicle waves (MCD-561 through MCD-590, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
+    },
+    {
+      "batch": 193,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 30,
+      "note": "Locks Captain's sixth through fifteenth Alias Chronicle waves (MCD-591 through MCD-620, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
+    },
+    {
+      "batch": 194,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 30,
+      "note": "Locks the Trench Monarch's sixth through fifteenth Alias Chronicle waves (MCD-621 through MCD-650, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
     }
   ],
   "rules": [
@@ -9943,6 +9957,426 @@
       "id": "MCD-590",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Fleet Learned From a Man Who Read the Sky\" (full narrative text at docs/lords-of-cian/chronicles/what-the-fleet-learned-from-a-man-who-read-the-sky.md), the Storm That Walks Alias Chronicle XLV, wave 15 of ten (waves 6-15). A generations-later retrospective: the storm-timing doctrine has become permanent institutional naval practice, closing the ten-wave run.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-591",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Family Waiting at the Dock\" (full narrative text at docs/lords-of-cian/chronicles/the-family-waiting-at-the-dock.md), Captain Alias Chronicle XVI, wave 6 of ten (waves 6-15). Danne Sok brings his wife and daughter to meet Kanja, establishing that crew families form their own independent impression of him, distinct from battlefield reputation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-592",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Dispute He Let Them Settle\" (full narrative text at docs/lords-of-cian/chronicles/the-dispute-he-let-them-settle.md), Captain Alias Chronicle XVII, wave 6 of ten (waves 6-15). Kanja refers a crew quarrel to a newly-founded crew dispute council rather than ruling himself, deliberately building institutional trust that doesn't depend on his presence.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-593",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night Maret Vos Almost Walked\" (full narrative text at docs/lords-of-cian/chronicles/the-night-maret-vos-almost-walked.md), Captain Alias Chronicle XVIII, wave 6 of ten (waves 6-15). Maret Vos tries to leave for good out of guilt/debt; Kanja lets her go freely, refusing to convert loyalty into obligation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-594",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Call He Got Wrong\" (full narrative text at docs/lords-of-cian/chronicles/the-call-he-got-wrong.md), Captain Alias Chronicle XIX, wave 7 of ten (waves 6-15). Kanja overrides Corren Halst's tidal read, gets it wrong, and publicly institutes a self-correction rule (\"say so twice\") rather than letting pride stand.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-595",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Hand That Never Opened to Him\" (full narrative text at docs/lords-of-cian/chronicles/the-hand-that-never-opened-to-him.md), Captain Alias Chronicle XX, wave 7 of ten (waves 6-15). A years-long crew member who never converts to warmth despite fair treatment, establishing the honest limit of the \"earned trust\" ethos.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-596",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Day They Carried Him\" (full narrative text at docs/lords-of-cian/chronicles/the-day-they-carried-him.md), Captain Alias Chronicle XXI, wave 7 of ten (waves 6-15). First inversion: the crew physically cares for an exhausted, depleted Kanja instead of the reverse.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-597",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Grandchild Who Wanted the Old Stories\" (full narrative text at docs/lords-of-cian/chronicles/the-grandchild-who-wanted-the-old-stories.md), Captain Alias Chronicle XXII, wave 8 of ten (waves 6-15). An elderly Garren Hask's great-grandniece hears the origin story firsthand, showing the legend passing to a third generation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-598",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Defector Who Chose the Name\" (full narrative text at docs/lords-of-cian/chronicles/the-defector-who-chose-the-name.md), Captain Alias Chronicle XXIII, wave 8 of ten (waves 6-15). A Trust sailor defects specifically because of the Iron Shallows rescue story, then is slow-proven like any recruit.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-599",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ship They Laid to Rest\" (full narrative text at docs/lords-of-cian/chronicles/the-ship-they-laid-to-rest.md), Captain Alias Chronicle XXIV, wave 8 of ten (waves 6-15). The Audit is ceremonially decommissioned rather than scrapped, with Hask, Efa Gol, and Breck each contributing a memory.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-600",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Winter the Stores Ran Thin\" (full narrative text at docs/lords-of-cian/chronicles/the-winter-the-stores-ran-thin.md), Captain Alias Chronicle XXV, wave 9 of ten (waves 6-15). A supply crisis is solved through crew ideas and accumulated community goodwill, with Kanja deliberately not deciding anything himself.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-601",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fever That Took the Night Watch\" (full narrative text at docs/lords-of-cian/chronicles/the-fever-that-took-the-night-watch.md), Captain Alias Chronicle XXVI, wave 9 of ten (waves 6-15). Kanja does ordinary nursing labor through the night for a sick sailor -- no Trinity function applies.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-602",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Table Where the Crew Spoke for Themselves\" (full narrative text at docs/lords-of-cian/chronicles/the-table-where-the-crew-spoke-for-themselves.md), Captain Alias Chronicle XXVII, wave 9 of ten (waves 6-15). Kanja lets three crew members negotiate a settlement alliance while he stays silent, building their standing rather than his own.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-603",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Accusation He Let Them Judge\" (full narrative text at docs/lords-of-cian/chronicles/the-accusation-he-let-them-judge.md), Captain Alias Chronicle XXVIII, wave 10 of ten (waves 6-15). A merchant falsely accuses the crew of skimming relief supplies; the crew's own council and ledger clear it, not Kanja's word.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-604",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Voice That Wasn't Who It Claimed\" (full narrative text at docs/lords-of-cian/chronicles/the-voice-that-wasnt-who-it-claimed.md), Captain Alias Chronicle XXIX, wave 10 of ten (waves 6-15). A trusted crew member is found passing information under duress (family held hostage); resolved with mercy and rescue rather than punishment.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-605",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Trade He Offered Himself For\" (full narrative text at docs/lords-of-cian/chronicles/the-trade-he-offered-himself-for.md), Captain Alias Chronicle XXX, wave 10 of ten (waves 6-15). Kanja becomes an unguarded hostage himself to secure three captured crew members' release, and honors the terms even though he could break them.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-606",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Day They Named for Remembering\" (full narrative text at docs/lords-of-cian/chronicles/the-day-they-named-for-remembering.md), Captain Alias Chronicle XXXI, wave 11 of ten (waves 6-15). The crew founds an annual remembrance day for the Black Trench dead, becoming a lasting tradition.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-607",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Vote That Named the Third Ship\" (full narrative text at docs/lords-of-cian/chronicles/the-vote-that-named-the-third-ship.md), Captain Alias Chronicle XXXII, wave 11 of ten (waves 6-15). Garren Hask deliberately hands ship-naming to a crew vote instead of keeping it as his own honor.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-608",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Officers Who Didn't Need Him There\" (full narrative text at docs/lords-of-cian/chronicles/the-officers-who-didnt-need-him-there.md), Captain Alias Chronicle XXXIII, wave 11 of ten (waves 6-15). Kanja formally trains non-Trinity crew in independent command; Corren Halst successfully leads a split engagement without him.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-609",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Grief He Kept Until Morning\" (full narrative text at docs/lords-of-cian/chronicles/the-grief-he-kept-until-morning.md), Captain Alias Chronicle XXXIV, wave 12 of ten (waves 6-15). Efa Gol finds Kanja's private grief after he held composure for the crew all day.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-610",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Question He Couldn't Answer for Her\" (full narrative text at docs/lords-of-cian/chronicles/the-question-he-couldnt-answer-for-her.md), Captain Alias Chronicle XXXV, wave 12 of ten (waves 6-15). Kanja sits with a crew member's moral injury after a kill, offering presence rather than resolution.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-611",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Anniversary Callum Breck Still Kept\" (full narrative text at docs/lords-of-cian/chronicles/the-anniversary-callum-breck-still-kept.md), Captain Alias Chronicle XXXVI, wave 12 of ten (waves 6-15). Decades later, Breck invites Kanja to his private, individual Nev Torr remembrance for the first time.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-612",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Mission He Said She Wasn't Ready For\" (full narrative text at docs/lords-of-cian/chronicles/the-mission-he-said-she-wasnt-ready-for.md), Captain Alias Chronicle XXXVII, wave 13 of ten (waves 6-15). Kanja repeatedly refuses to assign an eager, qualified crew member to a high-risk mission over a safety concern, until she proves it resolved.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-613",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Order He Reversed in Front of Everyone\" (full narrative text at docs/lords-of-cian/chronicles/the-order-he-reversed-in-front-of-everyone.md), Captain Alias Chronicle XXXVIII, wave 13 of ten (waves 6-15). A junior sailor publicly corrects a live tactical order; Kanja reverses instantly and without defensiveness.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-614",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Old Hand Who Refused to Stop\" (full narrative text at docs/lords-of-cian/chronicles/the-old-hand-who-refused-to-stop.md), Captain Alias Chronicle XXXIX, wave 13 of ten (waves 6-15). An aging, wounded veteran insists on keeping a real duty rotation; Kanja respects his autonomy over his own safety concerns.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-615",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Child Nobody Else Went Back For\" (full narrative text at docs/lords-of-cian/chronicles/the-child-nobody-else-went-back-for.md), Captain Alias Chronicle XL, wave 14 of ten (waves 6-15). Kanja personally wades out to save one drowning child at a settlement, unconnected to any campaign.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-616",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ordinary Day the Manifest Remembered\" (full narrative text at docs/lords-of-cian/chronicles/the-ordinary-day-the-manifest-remembered.md), Captain Alias Chronicle XLI, wave 14 of ten (waves 6-15). A mundane resupply day spent hauling crates and fixing a ledger error, showing consistency without an audience.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-617",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm With No Enemy in It\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-with-no-enemy-in-it.md), Captain Alias Chronicle XLII, wave 14 of ten (waves 6-15). The crew does pure disaster-relief labor, no Trinity, during a natural storm with no combat involved.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-618",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Everyone Who Ever Sailed Under the Name\" (full narrative text at docs/lords-of-cian/chronicles/everyone-who-ever-sailed-under-the-name.md), Captain Alias Chronicle XLIII, wave 15 of ten (waves 6-15). A formal census reveals thousands have served under the name across the decades, a scale reflection using the crew's ledger tradition.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-619",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Word They Wouldn't Let Him Mock\" (full narrative text at docs/lords-of-cian/chronicles/the-word-they-wouldnt-let-him-mock.md), Captain Alias Chronicle XLIV, wave 15 of ten (waves 6-15). A captured Directorate officer mocks the name; the crew, not Kanja, collectively defends and defines what it means.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-620",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Efa Gol Told the Newest Ones\" (full narrative text at docs/lords-of-cian/chronicles/what-efa-gol-told-the-newest-ones.md), Captain Alias Chronicle XLV, wave 15 of ten (waves 6-15). An elderly Efa Gol inducts a new recruit generation into the alias's meaning, closing the ten-wave run on a self-perpetuating, unresolved note.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-621",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Handshake That Wasn't Kept\" (full narrative text at docs/lords-of-cian/chronicles/the-handshake-that-wasnt-kept.md), The Trench Monarch Alias Chronicle XVI, wave 6 of ten (waves 6-15). An owner reneges on a verbal wage settlement after the crew withdraws in good faith; Kanja counters not with force but with independent cross-witnessed documentation, establishing the patience-and-evidence method survives bad faith.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-622",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ledger He Corrected in Front of Everyone\" (full narrative text at docs/lords-of-cian/chronicles/the-ledger-he-corrected-in-front-of-everyone.md), The Trench Monarch Alias Chronicle XVII, wave 6 of ten (waves 6-15). Kanja discovers his own crew's tally erred in the workers' favor and publicly corrects it unprompted, showing the reputation's honesty applies against his own side's interest too.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-623",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Garren Hask Wrote Down First\" (full narrative text at docs/lords-of-cian/chronicles/what-garren-hask-wrote-down-first.md), The Trench Monarch Alias Chronicle XVIII, wave 6 of ten (waves 6-15). Origin vignette: Garren Hask, then just a dock-smith, independently cross-checks the Trench Monarch's figures and is recruited on the spot -- the founding moment of his ledger-keeper role.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-624",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Rumor That Traveled Faster Than the Truth\" (full narrative text at docs/lords-of-cian/chronicles/the-rumor-that-traveled-faster-than-the-truth.md), The Trench Monarch Alias Chronicle XIX, wave 7 of ten (waves 6-15). A slander campaign (a bribery accusation) is defeated through public checkable evidence rather than anger or violence.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-625",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Flooded Dark\" (full narrative text at docs/lords-of-cian/chronicles/the-flooded-dark.md), The Trench Monarch Alias Chronicle XX, wave 7 of ten (waves 6-15). A total-darkness, flooded-tunnel ambush tests Onyx's Whisper of Shadows against an environmental extreme rather than a swordsman -- a near-thing, distinct from the wave-2 duelist-limit entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-626",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Efa Gol Learned to Read\" (full narrative text at docs/lords-of-cian/chronicles/what-efa-gol-learned-to-read.md), The Trench Monarch Alias Chronicle XXI, wave 7 of ten (waves 6-15). Origin vignette: Efa Gol's first, unrehearsed use of misdirection to protect a meeting from a stray patrol.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-627",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Old Hand Who Wouldn't Kneel to a Boy\" (full narrative text at docs/lords-of-cian/chronicles/the-old-hand-who-wouldnt-kneel-to-a-boy.md), The Trench Monarch Alias Chronicle XXII, wave 8 of ten (waves 6-15). A veteran's doubt about following \"a boy\" is won over through humility and public self-correction, not authority.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-628",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Duel He Was Too Young to Win\" (full narrative text at docs/lords-of-cian/chronicles/the-duel-he-was-too-young-to-win.md), The Trench Monarch Alias Chronicle XXIII, wave 8 of ten (waves 6-15). An opponent using net-and-trident gear neutralizes Onyx's intention-reading entirely; the fight is won by ordinary youthful strength and grappling, not swordcraft.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-629",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Pell Ostra Kept Safe\" (full narrative text at docs/lords-of-cian/chronicles/what-pell-ostra-kept-safe.md), The Trench Monarch Alias Chronicle XXIV, wave 8 of ten (waves 6-15). Origin vignette: Pell Ostra's first self-directed use of fire/materials instinct to save records from a raid.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-630",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Five Foremen at One Table\" (full narrative text at docs/lords-of-cian/chronicles/five-foremen-at-one-table.md), The Trench Monarch Alias Chronicle XXV, wave 9 of ten (waves 6-15). Kanja brokers trust among five competing district foremen into one shared tally standard -- a collaborative peer-diplomacy register, distinct from the wave-5 adversarial owner negotiation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-631",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Water That Wasn't Safe to Drink\" (full narrative text at docs/lords-of-cian/chronicles/the-water-that-wasnt-safe-to-drink.md), The Trench Monarch Alias Chronicle XXVI, wave 9 of ten (waves 6-15). An attempted slow poisoning is solved through documentation-based investigation, a detective register.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-632",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Callum Breck Carried After\" (full narrative text at docs/lords-of-cian/chronicles/what-callum-breck-carried-after.md), The Trench Monarch Alias Chronicle XXVII, wave 9 of ten (waves 6-15). Breck's later reflection on the guilt and awe of watching the name he coined outgrow any single moment.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-633",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Site They Couldn't Hold\" (full narrative text at docs/lords-of-cian/chronicles/the-site-they-couldnt-hold.md), The Trench Monarch Alias Chronicle XXVIII, wave 10 of ten (waves 6-15). First tactical retreat: overwhelming conventional force in open ground defeats both Onyx and the tally method, and Kanja orders withdrawal.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-634",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Two Sites, One Night\" (full narrative text at docs/lords-of-cian/chronicles/two-sites-one-night.md), The Trench Monarch Alias Chronicle XXIX, wave 10 of ten (waves 6-15). A command dilemma: two simultaneous threats force a choice, saving one site's hostages while the other burns -- a real, unresolved cost.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-635",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Ledger Recorded That Night\" (full narrative text at docs/lords-of-cian/chronicles/what-the-ledger-recorded-that-night.md), The Trench Monarch Alias Chronicle XXX, wave 10 of ten (waves 6-15). Garren Hask records both outcomes honestly, refusing to soften the loss into a cleaner story.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-636",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Blade Cut Free\" (full narrative text at docs/lords-of-cian/chronicles/what-the-blade-cut-free.md), The Trench Monarch Alias Chronicle XXXI, wave 11 of ten (waves 6-15). Onyx's Veil Piercer used for the first time on inert collapsed material, not an opponent, to rescue nine trapped miners.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-637",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Challenge He Wouldn't Answer With Steel\" (full narrative text at docs/lords-of-cian/chronicles/the-challenge-he-wouldnt-answer-with-steel.md), The Trench Monarch Alias Chronicle XXXII, wave 11 of ten (waves 6-15). An honest rival's dominance-duel challenge is declined in favor of a public transparency contest, subverting genre expectation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-638",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The First Sheet Ever Printed\" (full narrative text at docs/lords-of-cian/chronicles/the-first-sheet-ever-printed.md), The Trench Monarch Alias Chronicle XXXIII, wave 11 of ten (waves 6-15). The first independently-produced pamphlet about the Trench Monarch circulates via the crier/pamphlet network, and Kanja establishes the practice of printing corrections alongside claims.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-639",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What He Didn't Say to Corren Halst\" (full narrative text at docs/lords-of-cian/chronicles/what-he-didnt-say-to-corren-halst.md), The Trench Monarch Alias Chronicle XXXIV, wave 12 of ten (waves 6-15). Private doubt about whether he believes his own growing reputation, confided quietly to Halst.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-640",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boy Who Expected a Giant\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-who-expected-a-giant.md), The Trench Monarch Alias Chronicle XXXV, wave 12 of ten (waves 6-15). A child, disappointed the \"king\" looks ordinary and tired, is given an honest, unglamorized account of the work.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-641",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Blow Danne Sok Took Without a Word\" (full narrative text at docs/lords-of-cian/chronicles/the-blow-danne-sok-took-without-a-word.md), The Trench Monarch Alias Chronicle XXXVI, wave 12 of ten (waves 6-15). Danne Sok silently takes a chain-strike meant for Kanja, a wordless-loyalty register complementing his separately-closed spoken account.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-642",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Manifest That Never Arrived\" (full narrative text at docs/lords-of-cian/chronicles/the-manifest-that-never-arrived.md), The Trench Monarch Alias Chronicle XXXVII, wave 13 of ten (waves 6-15). A supply-starvation tactic against the five districts is defeated by tracing and publicly exposing the reroute rather than raiding it.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-643",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Duel Fought With Borrowed Steel\" (full narrative text at docs/lords-of-cian/chronicles/the-duel-fought-with-borrowed-steel.md), The Trench Monarch Alias Chronicle XXXVIII, wave 13 of ten (waves 6-15). Onyx is knocked out of reach mid-fight; the engagement is finished with a stevedore's pry-bar, proving skill underneath the sword's gifts.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-644",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Tavin Greer Taught the Next Clerk\" (full narrative text at docs/lords-of-cian/chronicles/what-tavin-greer-taught-the-next-clerk.md), The Trench Monarch Alias Chronicle XXXIX, wave 13 of ten (waves 6-15). Greer passes the founding instinct behind trust-verification to a new clerk as the method institutionalizes.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-645",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Hearing at Canal House\" (full narrative text at docs/lords-of-cian/chronicles/the-hearing-at-canal-house.md), The Trench Monarch Alias Chronicle XL, wave 14 of ten (waves 6-15). A formal Trust inquest summons Kanja; he attends unarmed and the tally records survive six hours of hostile examination, ending in a non-finding.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-646",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ambush Meant for the Hearing\" (full narrative text at docs/lords-of-cian/chronicles/the-ambush-meant-for-the-hearing.md), The Trench Monarch Alias Chronicle XLI, wave 14 of ten (waves 6-15). A crowded-market assassination attempt forces Onyx's gifts to be used with bystander-safety restraint for the first time.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-647",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Court Clerk Recorded\" (full narrative text at docs/lords-of-cian/chronicles/what-the-court-clerk-recorded.md), The Trench Monarch Alias Chronicle XLII, wave 14 of ten (waves 6-15). An unnamed Trust clerk's private marginal note reveals the institution itself came away quietly convinced.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-648",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Last Site Before the Trench\" (full narrative text at docs/lords-of-cian/chronicles/the-last-site-before-the-trench.md), The Trench Monarch Alias Chronicle XLIII, wave 15 of ten (waves 6-15). The final ordinary dredge-site correction before the Black Trench, with both Kanja and crew sensing an unnamed coming shift.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-649",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Onyx Chose Not to Do\" (full narrative text at docs/lords-of-cian/chronicles/what-onyx-chose-not-to-do.md), The Trench Monarch Alias Chronicle XLIV, wave 15 of ten (waves 6-15). A defector officer and a real duel end with Kanja deliberately withholding a killing stroke, closing the era's Onyx material on mercy rather than lethality.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-650",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Name They Carried Into the Water\" (full narrative text at docs/lords-of-cian/chronicles/the-name-they-carried-into-the-water.md), The Trench Monarch Alias Chronicle XLV, wave 15 of ten (waves 6-15). Efa Gol and Pell Ostra's joint reflection on the eve of the Black Trench closes the full fifteen-wave, forty-five-Chronicle run.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }

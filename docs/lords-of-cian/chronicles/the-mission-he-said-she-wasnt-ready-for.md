@@ -1,8 +1,6 @@
 # The Mission He Said She Wasn't Ready For
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 13. Rebellion era. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters (the eager
-crew member is deliberately left unnamed).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-612`). Captain Alias Chronicle XXXVII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,8 +1,6 @@
 # The Order He Reversed in Front of Everyone
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 13. Rebellion era. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters beyond
-already-locked crew.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-613`). Captain Alias Chronicle XXXVIII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

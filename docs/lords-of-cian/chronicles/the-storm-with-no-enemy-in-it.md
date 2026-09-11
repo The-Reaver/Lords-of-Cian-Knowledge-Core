@@ -1,8 +1,6 @@
 # The Storm With No Enemy in It
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 14. Rebellion era, a
-natural disaster with no combat involved. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters beyond already-locked crew.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-617`). Captain Alias Chronicle XLII, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,8 +1,6 @@
 # The Day They Named for Remembering
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 11. Rebellion era, the
-first anniversary of the Black Trench. Not a territory Chronicle. Narrated in neutral third-person
-prose. No new named characters beyond already-locked crew.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-606`). Captain Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

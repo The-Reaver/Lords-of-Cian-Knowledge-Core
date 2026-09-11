@@ -1,8 +1,6 @@
 # The Defector Who Chose the Name
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 8. Rebellion era, the
-naval campaigns. Not a territory Chronicle. Narrated in neutral third-person prose. No new named
-characters (the defecting sailor is deliberately left unnamed).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-598`). Captain Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,8 +1,6 @@
 # The Boy Who Expected a Giant
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XXXV, wave 12.
-Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-640`). The Trench Monarch Alias Chronicle XXXV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

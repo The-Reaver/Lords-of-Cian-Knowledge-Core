@@ -1,8 +1,6 @@
 # The Anniversary Callum Breck Still Kept
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 12. Long Mask era,
-decades after the Black Trench. Not a territory Chronicle. Narrated in neutral third-person prose.
-Features already-locked crew member Callum Breck; no new named characters.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-611`). Captain Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

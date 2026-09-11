@@ -1,9 +1,6 @@
 # Everyone Who Ever Sailed Under the Name
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 15. Long Mask era, many
-decades after the naval campaigns. Not a territory Chronicle. Narrated in neutral third-person
-prose. Features already-locked crew members Garren Hask (lineage), Efa Gol, and Pell Ostra; no new
-named characters.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-618`). Captain Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

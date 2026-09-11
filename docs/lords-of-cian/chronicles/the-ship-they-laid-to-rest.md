@@ -1,8 +1,6 @@
 # The Ship They Laid to Rest
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 8. Long Mask era. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters beyond
-already-locked crew.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-599`). Captain Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

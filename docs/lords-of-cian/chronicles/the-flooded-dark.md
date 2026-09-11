@@ -1,10 +1,6 @@
 # The Flooded Dark
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XX, wave 7.
-Rebellion era, age 18, before the Black Trench -- Mafesto remains dormant and Obsidian Malice
-undeployed at this point in the timeline, so this Chronicle is a solo-blade entry testing Onyx of
-Oblivion against an environmental extreme rather than an opposing swordsman. Not a territory
-Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-625`). The Trench Monarch Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

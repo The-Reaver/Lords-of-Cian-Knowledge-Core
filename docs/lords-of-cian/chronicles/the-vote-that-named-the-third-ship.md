@@ -1,8 +1,6 @@
 # The Vote That Named the Third Ship
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 11. Rebellion era, a
-newly captured vessel. Not a territory Chronicle. Narrated in neutral third-person prose. No new
-named characters beyond already-locked crew.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-607`). Captain Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

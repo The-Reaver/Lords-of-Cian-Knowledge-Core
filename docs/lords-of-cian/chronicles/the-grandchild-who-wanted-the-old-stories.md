@@ -1,10 +1,6 @@
 # The Grandchild Who Wanted the Old Stories
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 8. Long Mask era, decades
-after the naval campaigns. Not a territory Chronicle. Narrated in neutral third-person prose.
-Features already-locked crew member Garren Hask (elderly, per his own established long tenure); no
-new named characters (his great-grandniece appears but is not separately named — distinct from the
-already-locked grandnephew).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-597`). Captain Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

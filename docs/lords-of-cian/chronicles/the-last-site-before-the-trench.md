@@ -1,8 +1,6 @@
 # The Last Site Before the Trench
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XLIII, wave 15.
-Rebellion era, age 18, the final days before the Battle of the Black Trench (`MCD-232`), age 19. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-648`). The Trench Monarch Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

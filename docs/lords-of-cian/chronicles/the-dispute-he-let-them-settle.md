@@ -1,8 +1,6 @@
 # The Dispute He Let Them Settle
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 6. Rebellion era,
-aboard ship between engagements. Not a territory Chronicle. Narrated in neutral third-person prose.
-No new named characters beyond already-locked crew.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-592`). Captain Alias Chronicle XVII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

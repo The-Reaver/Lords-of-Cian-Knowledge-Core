@@ -1,8 +1,6 @@
 # The Old Hand Who Wouldn't Kneel to a Boy
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XXII, wave 8.
-Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-627`). The Trench Monarch Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

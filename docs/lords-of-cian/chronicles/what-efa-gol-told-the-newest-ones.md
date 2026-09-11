@@ -1,9 +1,6 @@
 # What Efa Gol Told the Newest Ones
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 15. Long Mask era,
-decades after the naval campaigns. Not a territory Chronicle. Narrated in neutral third-person
-prose. Features already-locked crew member Efa Gol, elderly; no new named characters (the new
-recruits are deliberately left unnamed, distinct from the earlier "new hand's first night" entry).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-620`). Captain Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

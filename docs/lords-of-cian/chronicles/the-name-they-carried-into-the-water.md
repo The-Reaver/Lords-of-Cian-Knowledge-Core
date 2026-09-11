@@ -1,9 +1,6 @@
 # The Name They Carried Into the Water
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XLV, wave 15,
-closing the wave and the alias's pre-Black-Trench material. Rebellion era, age 18, the night before
-the Battle of the Black Trench. Not a territory Chronicle. Narrated in neutral third-person prose. No
-new named characters beyond the already-locked Efa Gol and Pell Ostra.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-650`). The Trench Monarch Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

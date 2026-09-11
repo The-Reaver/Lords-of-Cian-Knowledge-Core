@@ -1,9 +1,6 @@
 # The Family Waiting at the Dock
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 6. Rebellion era, a
-quiet interval between engagements. Not a territory Chronicle. Narrated in neutral third-person
-prose. Features already-locked crew member Danne Sok; no new named characters (Danne Sok's spouse
-and child appear but are not separately named).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-591`). Captain Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

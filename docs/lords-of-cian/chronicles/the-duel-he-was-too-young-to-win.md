@@ -1,9 +1,6 @@
 # The Duel He Was Too Young to Win
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XXIII, wave 8.
-Rebellion era, age 18, before the Black Trench -- solo-blade entry, Mafesto dormant and Obsidian
-Malice undeployed. Not a territory Chronicle. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-628`). The Trench Monarch Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

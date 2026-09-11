@@ -1,8 +1,6 @@
 # The Trade He Offered Himself For
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle, wave 10. Rebellion era. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters (the
-Directorate negotiator is deliberately left unnamed).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-605`). Captain Alias Chronicle XXX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

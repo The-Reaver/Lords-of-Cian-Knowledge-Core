@@ -1,8 +1,6 @@
 # What Pell Ostra Kept Safe
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XXIV, wave 8.
-Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked Pell Ostra.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-629`). The Trench Monarch Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
