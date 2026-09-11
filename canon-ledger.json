@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "27.6",
+  "ledger_version": "27.8",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2120,6 +2120,20 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document",
       "rule_count": 3,
       "note": "The Storm That Walks' thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Three genuinely new registers: the school's self-organizing council resolves its first honest three-way disagreement among all three formally credited traditions (Sephtis's storm-timing lineage, the rival fleet's tradition, the northern pilot's ice-reading chapter) with Kanja unreachable and no time to verify by scout, codifying a new overlap-window principle into the written creed; the student formally cedes full, unconfirmed forecasting authority to the fourth-generation apprentice for a full Trinity combat showcase, the alias's first deliberate (rather than crisis-forced) generational handoff; and the wave closes by mirroring MCD-1358 from the opposite angle -- a Titan-class vessel's actual passage produces genuine, uncharted atmospheric disturbance no blended tradition can read, documented as an honest open gap rather than resolved. No new named characters; all three entries reuse already-locked recurring figures (the student, the apprentice, the dual-tradition sailor, Efa Gol, Kanja), collision-checked against the full live ledger before drafting. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
+    },
+    {
+      "batch": 270,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 3,
+      "note": "The Scourge's thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. All three entries fall within the persona's final year of the Long Mask (age 313-314), directly extending the throughline opened by \"The Coat He Almost Didn't Put Back On\" (MCD-1255, age 313): the scouted rescue window that persuaded Kanja to keep the coat on is fulfilled (age 313, Kanja personally leads for the first time since handing full trust to Efa Gol's successor); Garren Hask and Sena compile a person-by-person accounting of freed lives, a register distinct from the sub-series' prior numeric-tally closers (age 313); and the wave closes on the ordinary, unremarked eve of the already-locked final mission (MCD-1022, age 314), setting up rather than restaging or contradicting that entry. No new named characters -- reuses Efa Gol, Garren Hask, Pell Ostra, Sena, and Efa Gol's established unnamed successor throughout. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
+    },
+    {
+      "batch": 275,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 3,
+      "note": "Captain's thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases -- the final alias in this run. This wave shows a founding-crew child (Mira, MCD-1370/1371/1372) taking an active operational role for the first time in a detailed full-Trinity combat showcase, then pays off the mortality thread running since MCD-920: Garren Hask dies of old age at his own ledger table (his heart condition from MCD-1089 finally running its course, consistent with his decline across MCD-1384 and MCD-1389), and the wave closes on his memorial at the Pier Nine wall, where Mira carves his name as she did Joran's (MCD-1372). No new named characters anywhere in the wave -- Mira, Efa Gol, Corren Halst, Callum Breck, Sera, Pell Ostra, and the ledger's already-established unnamed keeper (MCD-1001/1384) are all reused. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
     }
   ],
   "rules": [
@@ -16600,6 +16614,48 @@
       "id": "MCD-1420",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Weather a Titan Leaves Behind\" (full narrative text at docs/lords-of-cian/chronicles/the-weather-a-titan-leaves-behind.md), Storm That Walks Alias Chronicle XCIII, wave 31, closing the wave. A Titan-class vessel's distant passage produces slow, pulsing atmospheric and water disturbance that none of the school's three blended traditions can chart, mirroring MCD-1358's reverse case (Kanja's own senses once misread a Titan-class vessel's mass as weather; here the vessel's actual passage genuinely makes weather no tradition recognizes). The fleet holds at anchor rather than sail into unread water; the apprentice records the gap honestly in the creed's book as an open question rather than a forced resolution. Closes wave 31 deliberately leaving the doctrine's frontier open, consistent with MCD-1363. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1406",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Window That Wouldn't Come Twice\" (full narrative text at docs/lords-of-cian/chronicles/the-window-that-wouldnt-come-twice.md), The Scourge Alias Chronicle XCI, wave 31, first entry. Age 313, V4 gear. Direct fulfillment of the scouted, time-limited rescue window that persuaded Kanja not to end the persona a year early (\"The Coat He Almost Didn't Put Back On,\" MCD-1255): a tide-cut coastal road passable only eleven nights a year opens on schedule, and Kanja personally leads the field operation for the first time in years, freeing eighty-one captives alongside Efa Gol's successor and Pell Ostra. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1407",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Names the Ledger Kept Track Of\" (full narrative text at docs/lords-of-cian/chronicles/the-names-the-ledger-kept-track-of.md), The Scourge Alias Chronicle XCII, wave 31. Age 313, V4 gear. Garren Hask and Sena (established MCD-1043/MCD-1241) compile a person-by-person accounting of specific freed captives' later lives, a register distinct from the sub-series' prior numeric-tally closers (MCD-815); Kanja reads it with them, learning the fates of two people from his own decades-old entries. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1408",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night Before the Last Coat\" (full narrative text at docs/lords-of-cian/chronicles/the-night-before-the-last-coat.md), The Scourge Alias Chronicle XCIII, wave 31, closing the wave. Age 314, the eve of the persona's already-locked final mission (\"The Last Coat He Ever Wore,\" MCD-1022). Efa Gol, Garren Hask, and Efa Gol's established unnamed successor gather with Kanja on an ordinary, unremarked night neither they nor he yet know precedes the literal last mission; the entry sits deliberately adjacent to MCD-1022 without depicting, restaging, or contradicting it. Closes the Scourge's thirty-first wave at ninety-three total entries across thirty-one complete waves. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1421",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Second Generation Held\" (full narrative text at docs/lords-of-cian/chronicles/what-the-second-generation-held.md), Captain Alias Chronicle XCI, wave 31. A detailed full-Trinity combat showcase defending a grain depot from opportunist raiders in which Mira (MCD-1370/1371/1372), now twenty, takes an active operational role for the first time -- flagging a structural collapse risk in time for Mafesto's Kinetic Transfer System to redirect it -- rather than only a council or memorial-wall function. Efa Gol, Corren Halst, and Pell Ostra reused. No new named characters. First entry, wave 31.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1422",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Morning the Ledger Went Quiet\" (full narrative text at docs/lords-of-cian/chronicles/the-morning-the-ledger-went-quiet.md), Captain Alias Chronicle XCII, wave 31. Garren Hask dies of old age at his own ledger table, his heart condition (MCD-1089) finally running its course, consistent with his decline across MCD-1384 (wave 28) and MCD-1389 (wave 30). A deliberately quiet, unresolved-into-comfort death entry directly paying off the founding mortality promise (MCD-920); the ledger's already-established, deliberately unnamed new keeper (MCD-1001/1384) takes over the day's accounts. Sera and Efa Gol reused. No new named characters. Second entry, wave 31.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1423",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Name They Carved for Him\" (full narrative text at docs/lords-of-cian/chronicles/the-name-they-carved-for-him.md), Captain Alias Chronicle XCIII, wave 31, closing the wave. Garren Hask's memorial at the Pier Nine wall, deliberately mirroring and contrasting wave 30's warm reunion closer (MCD-1389/1390): Mira carves his name into the wall she herself established (MCD-1372), paralleling her carving of Joran's name, and the ledger's new keeper (MCD-1001/1384) reads the crew's founding entry aloud. Closes the mortality arc opened at MCD-920 and deepened through MCD-1089/1373/1384/1422. Corren Halst, Callum Breck, and Efa Gol reused. No new named characters. Closes wave 31.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
