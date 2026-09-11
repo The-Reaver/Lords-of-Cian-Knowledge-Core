@@ -27,7 +27,7 @@ on *The Ledger*'s exposed frame.
 
 "I took their *engineering* and turned it into ours. The weapon was never the interesting part. The
 interesting part was how they solved the problem of a hull that needs to survive stress it can't
-predict in advance." She tapped the notebook, thick now with six weeks of careful diagrams. "Every
+predict in advance." He tapped the notebook, thick now with six weeks of careful diagrams. "Every
 enemy who builds something good enough to nearly beat us is also, without meaning to, teaching us
 something. I'd be wasting an education if I only ever studied their failures and never their
 successes."
