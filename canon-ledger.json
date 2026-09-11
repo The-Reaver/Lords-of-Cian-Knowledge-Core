@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "15.6",
+  "ledger_version": "15.7",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1280,6 +1280,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Industrial Myth's fourth three-entry Alias Chronicle wave (MCD-482 through MCD-484). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 154,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Blue-Collar Titan's fourth three-entry Alias Chronicle wave (MCD-485 through MCD-487). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -8928,6 +8935,27 @@
       "id": "MCD-484",
       "category": "kanja-alias-chronicle",
       "statement": "\"The District He Never Visited\" (full narrative text at docs/lords-of-cian/chronicles/the-district-he-never-visited.md), the Industrial Myth Alias Chronicle XII, closing the fourth wave. A mining district hundreds of miles away independently builds its own version of the tally method from an incomplete secondhand account, succeeding without any direct contact with Kanja, showing the method's real power is replicable rather than personal. Ezio Valcari (already locked) appears briefly. No new named characters. Closes the Industrial Myth's fourth three-Chronicle wave (with 'The Blade Meant for Him,' MCD-482, and 'The Day Nothing Happened and Everything Did,' MCD-483).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-485",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Even He Couldn't Save\" (full narrative text at docs/lords-of-cian/chronicles/what-even-he-couldnt-save.md), the Blue-Collar Titan Alias Chronicle X, first entry in the fourth wave. Decades of unaddressed structural decay in the eastern gallery prove beyond even Kanja's skill to save; every worker clears safely but the gallery itself collapses permanently, the first genuine structural-failure entry of this alias's run. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-486",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ticking Room\" (full narrative text at docs/lords-of-cian/chronicles/the-ticking-room.md), the Blue-Collar Titan Alias Chronicle XI. Directorate holdouts trap fourteen workers in a chamber on a flooding timer; a detailed, explicitly time-pressured Trinity rescue -- Mafesto's rock-penetrating sensing, a forced door breach, Onyx of Oblivion's Cadence Ruin -- saves all fourteen with minutes to spare, distinct from the third wave's flooding-tunnel entry. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-487",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Lecture Hall Didn't Know What to Do With Him\" (full narrative text at docs/lords-of-cian/chronicles/the-lecture-hall-didnt-know-what-to-do-with-him.md), the Blue-Collar Titan Alias Chronicle XII, closing the fourth wave. A Sovereign Trust engineering college invites Kanja to lecture on tunnel-reading; he teaches the tactile method learned from the old Killane digger (MCD-442) to a formal academic setting, arguing formal models and hands-on knowledge are complementary rather than competing. No new named characters. Closes the Blue-Collar Titan's fourth three-Chronicle wave (with 'What Even He Couldn't Save,' MCD-485, and 'The Ticking Room,' MCD-486).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
