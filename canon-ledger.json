@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "14.7",
+  "ledger_version": "14.8",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1217,6 +1217,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Atunbi Chronicle II (MCD-469). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
+    },
+    {
+      "batch": 145,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Ijoko Chronicle II (MCD-470). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
     }
   ],
   "rules": [
@@ -8760,6 +8767,13 @@
       "id": "MCD-469",
       "category": "phase2-territory-chronicle",
       "statement": "\"What Patience Actually Grows\" (full narrative text at docs/lords-of-cian/chronicles/what-patience-actually-grows.md), Atunbi Chronicle II. A slow, years-long bureaucratic reclassification effort against the garden plays directly to 'Don't Move, Improve' (PH2-025)'s own timescale, and Oluwole defeats it decisively through four consecutive years of documented cultivation -- a deliberate balancing entry contrasting the speed-blind-spot failure of Chronicle I (MCD-348). An unnamed Kanja watches several hearings from the gallery, uninvolved. No new named characters. Second Atunbi territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-470",
+      "category": "phase2-territory-chronicle",
+      "statement": "\"The Ledger She Built From Nothing\" (full narrative text at docs/lords-of-cian/chronicles/the-ledger-she-built-from-nothing.md), Ijoko Chronicle II. Adwoa spends three years building a local currency/cooperative-lending system to slow the tax-base flight explicitly left untouched by 'The Iron Hand in the Velvet Glove' (PH2-027) in Chronicle I, an ordinary-competence achievement distinct from the ability itself. An unnamed Kanja sits through several early planning sessions, uninvolved. No new named characters. Second Ijoko territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
