@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "13.3",
+  "ledger_version": "13.4",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1119,6 +1119,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Industrial Myth's third three-entry Alias Chronicle wave (MCD-437 through MCD-439). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
+    },
+    {
+      "batch": 131,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Blue-Collar Titan's third three-entry Alias Chronicle wave (MCD-440 through MCD-442). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
     }
   ],
   "rules": [
@@ -8452,6 +8459,27 @@
       "id": "MCD-439",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Ezio Valcari Understood By Then\" (full narrative text at docs/lords-of-cian/chronicles/what-ezio-valcari-understood-by-then.md), the Industrial Myth Alias Chronicle IX, closing the third wave. Ezio Valcari (already locked) reflects on four days of tally work, explicitly articulating why the numbers-first method outlasts fear-based leverage, directly cross-referencing the events of 'The Man Who Wanted to Fight' (MCD-438). No new named characters beyond the already-locked Ezio Valcari. Closes the Industrial Myth's third three-Chronicle wave (with 'The Family Behind the Numbers,' MCD-437, and 'The Man Who Wanted to Fight,' MCD-438).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-440",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Flood That Came From Below\" (full narrative text at docs/lords-of-cian/chronicles/the-flood-that-came-from-below.md), the Blue-Collar Titan Alias Chronicle VII, first entry in the third wave. A detailed flooding-tunnel Trinity showcase: Mafesto's Kinetic Transfer System reading pressure and current non-visually, Obsidian Malice breaching a jammed drainage gate in one discharge to drain a gallery flooding forty trapped workers, and Onyx of Oblivion's Whisper of Shadows/Veil Piercer/Cadence Ruin disarming six Directorate engineers sent to ensure nothing trapped below survived. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-441",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Two Gangs Under Killane\" (full narrative text at docs/lords-of-cian/chronicles/the-two-gangs-under-killane.md), the Blue-Collar Titan Alias Chronicle VIII. Kanja mediates a sixty-year-old rivalry between two tunnel crews that has cost lives through refused structural-safety information-sharing, convincing both sides to trade reports through him as intermediary until direct trust builds -- the grudge itself left unresolved, only the safety practice fixed. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-442",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Old Digger Taught Him\" (full narrative text at docs/lords-of-cian/chronicles/what-the-old-digger-taught-him.md), the Blue-Collar Titan Alias Chronicle IX, closing the third wave. An elderly Killane tunnel digger teaches Kanja decades of tactile, non-equipment tunnel knowledge his gear cannot replicate, extending the alias's non-visual sensory principle with a human source that outlasts the war and carries into later aliases. No new named characters. Closes the Blue-Collar Titan's third three-Chronicle wave (with 'The Flood That Came From Below,' MCD-440, and 'The Two Gangs Under Killane,' MCD-441).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
