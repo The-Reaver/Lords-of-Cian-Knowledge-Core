@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "15.3",
+  "ledger_version": "15.4",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1259,6 +1259,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Kiti Chronicle II (MCD-475), completing a second-entry run across all twelve territories that still only had one. Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles. Completes a second-entry run across all twelve territories that still only had one (Yara, Umoja, Ide, Kwan, Jibaro, Atunbi, Ijoko, Orin, Taifa, Hekalu, Nyansa, Kiti), giving every one of the 20 homage-era territories at least two Chronicles."
+    },
+    {
+      "batch": 151,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks Bane's fourth three-entry Alias Chronicle wave (MCD-476 through MCD-478), the first of a new continuous run covering both a fourth Alias Chronicle wave and a third territory-Chronicle entry. Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\" Starts a fourth Alias Chronicle wave, beginning with Bane."
     }
   ],
   "rules": [
@@ -8844,6 +8851,27 @@
       "id": "MCD-475",
       "category": "phase2-territory-chronicle",
       "statement": "\"The Weeks the Chair Sat Empty\" (full narrative text at docs/lords-of-cian/chronicles/the-weeks-the-chair-sat-empty.md), Kiti Chronicle II. A six-week medical recess causes 'The Long Tenure' (PH2-059) to genuinely lapse -- opponents gain real ground against Owusu's deputy -- and then fully reverse the moment he resumes his seat in person, confirming concretely for the first time what Chronicle I only stated as foreshadowing: the strength is purely institutional, not personal, and lapses without him physically present. An unnamed Kanja watches from the gallery across the six weeks, uninvolved. No new named characters. Second Kiti territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-476",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fight He Couldn't Walk Away From\" (full narrative text at docs/lords-of-cian/chronicles/the-fight-he-couldnt-walk-away-from.md), Bane Alias Chronicle X, first entry in the fourth wave. A Directorate duelist trained outside conventional doctrine, unafraid of the reputation, forces the first genuine peer-level single combat of Bane's run -- Onyx of Oblivion's Cadence Ruin finds nothing to disrupt until the duelist's own improvisational pattern repeats a third time, Veil Piercer closing a fight neither side's equipment decided. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-477",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Delay Cost\" (full narrative text at docs/lords-of-cian/chronicles/what-the-delay-cost.md), Bane Alias Chronicle XI. Bane's cautious extra-day verification before a prisoner liberation -- the same caution that keeps his reputation honest -- costs two prisoners their lives to an informant embedded among the guards rather than the captives, a genuine failure Bane does not excuse or resolve, the first entry to dramatize a real cost of his own decision-making rather than an external limit. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-478",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Child Who Wasn't Afraid\" (full narrative text at docs/lords-of-cian/chronicles/the-child-who-wasnt-afraid.md), Bane Alias Chronicle XII, closing the fourth wave. A freed child too young to know the stories tells Bane plainly that he isn't scary, just tired -- a quiet, humanizing closer stripping the reputation away entirely and showing VB-060's presence trait by its total absence for the first time. No new named characters. Closes Bane's fourth three-Chronicle wave (with 'The Fight He Couldn't Walk Away From,' MCD-476, and 'What the Delay Cost,' MCD-477).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
