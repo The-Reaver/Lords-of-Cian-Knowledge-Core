@@ -53,7 +53,5 @@ taught by others without Kanja present at all. Here the genuine limit is Kanja's
 cannot safely supervise twelve simultaneous live readings — resolved by assembling the doctrine's first
 three-person teaching lineage (Kanja, the first student, and the second student) rather than by any
 technical workaround. No new named characters; the first and second students remain the same
-already-locked, unnamed recurring figures established in waves 4 and 8. A drafting typo ("Kanly")
-mid-line is corrected in the same beat, left visible as the character catching his own slip rather than
-scrubbed, matching the doctrine's own honesty-over-polish thread. Second entry in the Iron Bastard's
-twentieth wave.*
+already-locked, unnamed recurring figures established in waves 4 and 8. Second entry in the Iron
+Bastard's twentieth wave.*

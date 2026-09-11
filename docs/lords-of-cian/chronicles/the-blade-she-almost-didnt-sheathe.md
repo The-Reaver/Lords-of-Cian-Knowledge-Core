@@ -48,7 +48,7 @@ been his.
 
 *Continuity notes (not narrative): the sub-series' first entry where the doctrine of non-lethal
 surrender is enforced from within the crew rather than tested by an outside party or by Kanja's own
-temper — distinct from "The Fight He Fought Angry" (`MCD-814`, Kanja's own near-overreach checked by
+temper — distinct from "The Fight He Fought Angry" (`MCD-829`, Kanja's own near-overreach checked by
 a successor) and every prior surrender-honored entry (`MCD-447`, `MCD-492`), which showed the
 doctrine succeeding rather than nearly failing from inside his own ranks. Sena is a new, minor,
 one-scene named character (a current crew member, not a captive-of-the-week); checked against the
