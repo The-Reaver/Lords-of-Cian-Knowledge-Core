@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.6",
+  "ledger_version": "16.7",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1350,6 +1350,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Yara Chronicle III (MCD-510). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 164,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Guanín Chronicle III (MCD-511). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9180,6 +9187,13 @@
       "id": "MCD-510",
       "category": "phase2-territory-chronicle",
       "statement": "Yara Chronicle III, \"The Room She Built From Strangers\" (full narrative text at docs/lords-of-cian/chronicles/yara-chronicle-iii-the-room-she-built-from-strangers.md). Yalokona convenes four normally unaligned groups (business owners, tenants, dockworkers, clergy) into one caucus to pass a flood-control measure, showing 'Caucus' (PH2-006) functioning constructively to build coalition rather than only block or refuse. An unnamed Kanja is present, uninvolved. No new named characters. Third Yara territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-511",
+      "category": "phase2-territory-chronicle",
+      "statement": "Guanín Chronicle III, \"The Blow He Decided Not to Bank\" (full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-iii-the-blow-he-decided-not-to-bank.md). A junior clerk's petty public insult goes entirely unanswered; Eri Kotoko explains that 'The Unanswered Blow' (PH2-008) is a deliberate choice about which wrongs deserve its weight, not a reflex triggered by any slight -- the first entry showing restraint rather than release. An unnamed Kanja is present in the hearing hall, uninvolved. No new named characters. Third Guanín territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
