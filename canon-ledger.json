@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "18.9",
+  "ledger_version": "19.0",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1511,6 +1511,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Scourge's fifth three-entry Alias Chronicle wave (MCD-543 through MCD-545). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
+    },
+    {
+      "batch": 187,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Crow King's fifth three-entry Alias Chronicle wave (MCD-546 through MCD-548). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9586,6 +9593,27 @@
       "id": "MCD-545",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Grandchildren of the Freed\" (full narrative text at docs/lords-of-cian/chronicles/the-grandchildren-of-the-freed.md), the Scourge Alias Chronicle XV, closing the fifth wave. Set roughly age 200: the Scourge visits, unrecognized, a settlement founded by Salt Keep survivors (MCD-446) generations earlier, finding the accurate account preserved intact across generations and deliberately leaving without revealing his identity. No new named characters. Closes the Scourge's fifth three-Chronicle wave (with 'The Armada at Dead Reckoning,' MCD-543, and 'What the Sea Took Anyway,' MCD-544).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-546",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Division That Marched Itself Away\" (full narrative text at docs/lords-of-cian/chronicles/the-division-that-marched-itself-away.md), the Crow King Alias Chronicle XIII, first entry in the fifth wave. A detailed four-day deception redirects an entire three-thousand-man Directorate division by targeting its officers' own reporting channels rather than the rank and file, the largest single deception target of the alias's run. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-547",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Spy Who Read the Signals Back\" (full narrative text at docs/lords-of-cian/chronicles/the-spy-who-read-the-signals-back.md), the Crow King Alias Chronicle XIV. A Directorate intelligence officer trained in the same deception craft seeds counter-signals to poison trust in the reporting network itself rather than catch any single lie; Kanja defeats him by reusing the in-person, unforgeable-trust method from 'The Tactician Who Built a Trap From Doubt' (MCD-450), the first opponent to genuinely understand the Hymn-Engine's own mechanism. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-548",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Voice Two Generations Removed\" (full narrative text at docs/lords-of-cian/chronicles/the-voice-two-generations-removed.md), the Crow King Alias Chronicle XV, closing the fifth wave. The already-locked apprentice (MCD-451, MCD-496) takes on her own student without asking permission first; Kanja endorses the third-generation transmission, the craft evolving past his own original teaching while the underlying discipline of listening before cleverness stays constant. No new named characters beyond the already-locked apprentice. Closes the Crow King's fifth three-Chronicle wave (with 'The Division That Marched Itself Away,' MCD-546, and 'The Spy Who Read the Signals Back,' MCD-547).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
