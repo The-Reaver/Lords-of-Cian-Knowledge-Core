@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.0",
+  "ledger_version": "16.1",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1308,6 +1308,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Crow King's fourth three-entry Alias Chronicle wave (MCD-494 through MCD-496). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 158,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Iron Bastard's fourth three-entry Alias Chronicle wave (MCD-497 through MCD-499). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9040,6 +9047,27 @@
       "id": "MCD-496",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Cipher That Learned to Listen Back\" (full narrative text at docs/lords-of-cian/chronicles/the-cipher-that-learned-to-listen-back.md), the Crow King Alias Chronicle XII, closing the fourth wave. A Directorate cryptographer cracks a partial structural signature in the Hymn-Engine's patterns; the already-locked apprentice (MCD-451) detects the erosion first and personally designs the new, more varied constructions that render the breakthrough obsolete, taking real authorship of the method's first evolution. No new named characters beyond the already-locked apprentice. Closes the Crow King's fourth three-Chronicle wave (with 'The Lie That Cost Someone Else,' MCD-494, and 'The Braid and the Blade,' MCD-495).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-497",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Frequency He Read Wrong\" (full narrative text at docs/lords-of-cian/chronicles/the-frequency-he-read-wrong.md), the Iron Bastard Alias Chronicle X, first entry in the fourth wave. A hidden old repair inside a support tower carries an unaccounted-for second tension; the resulting resonance discharge causes a wider, uncontained collapse that injures two Directorate engineers -- the first genuine misdiagnosis of the doctrine's run, prompting Kanja to trade speed for deeper diagnostic listening going forward. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-498",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Rigging Remembered\" (full narrative text at docs/lords-of-cian/chronicles/what-the-rigging-remembered.md), the Iron Bastard Alias Chronicle XI. A detailed naval application of the Aegis-Talisman resonance doctrine, its first use at sea: a Directorate blockade ship's precisely tensioned rigging is diagnosed and brought down in a controlled collapse, breaking the blockade without a shot fired or hull breached, directly applying the caution learned in MCD-497. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-499",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Student Who Chose Restraint\" (full narrative text at docs/lords-of-cian/chronicles/the-student-who-chose-restraint.md), the Iron Bastard Alias Chronicle XII, closing the fourth wave. A young engineer trained in diagnostic listening comes close to using the technique on a Trust granary out of personal resentment, then chooses restraint and honestly confesses the temptation to Kanja afterward -- the first entry testing the doctrine's ethical transmission to a student rather than only its technical mechanics. No new named characters. Closes the Iron Bastard's fourth three-Chronicle wave (with 'The Frequency He Read Wrong,' MCD-497, and 'What the Rigging Remembered,' MCD-498).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
