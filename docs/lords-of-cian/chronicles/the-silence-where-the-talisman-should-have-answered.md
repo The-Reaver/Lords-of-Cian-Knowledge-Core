@@ -1,6 +1,6 @@
 # The Silence Where the Talisman Should Have Answered
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle LII, wave 18. Rebellion era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 218, 2026-09-11 (`MCD-963`). The Iron Bastard Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

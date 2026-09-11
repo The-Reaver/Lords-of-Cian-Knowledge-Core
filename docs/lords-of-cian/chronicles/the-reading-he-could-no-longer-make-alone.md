@@ -1,6 +1,6 @@
 # The Reading He Could No Longer Make Alone
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Storm That Walks Alias Chronicle LII, wave 18. Long Mask era, many years after the school's founding; Sephtis very elderly. Not a territory Chronicle. Narrated in neutral third-person prose. Names Sephtis and his successor; no new named characters.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-981`). The Storm That Walks Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

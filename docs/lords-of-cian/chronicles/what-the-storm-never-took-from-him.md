@@ -1,6 +1,6 @@
 # What the Storm Never Took From Him
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Storm That Walks Alias Chronicle LVII, wave 19, closing the wave. Long Mask era, a quiet evening with no engagement pending. Not a territory Chronicle. Narrated in neutral third-person prose. Names Sephtis's successor (by reputation, not on-page) and Efa Gol; no new named characters.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-986`). The Storm That Walks Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "21.9",
+  "ledger_version": "22.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1721,6 +1721,34 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 9,
       "note": "Locks the Trench Monarch's seventeenth through nineteenth Alias Chronicle waves (MCD-942 through MCD-950, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Trench Monarch."
+    },
+    {
+      "batch": 217,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks the Sovereign Ghost of the Great Sea's seventeenth through nineteenth Alias Chronicle waves (MCD-951 through MCD-959, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Sovereign Ghost of the Great Sea."
+    },
+    {
+      "batch": 218,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks the Iron Bastard's seventeenth through nineteenth Alias Chronicle waves (MCD-960 through MCD-968, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Iron Bastard."
+    },
+    {
+      "batch": 219,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks the Lord of Embers's seventeenth through nineteenth Alias Chronicle waves (MCD-969 through MCD-977, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Lord of Embers."
+    },
+    {
+      "batch": 220,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks the Storm That Walks' seventeenth through nineteenth Alias Chronicle waves (MCD-978 through MCD-986, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Storm That Walks."
     }
   ],
   "rules": [
@@ -12631,6 +12659,258 @@
       "id": "MCD-950",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Canal Remembered By Itself\" (full narrative text at docs/lords-of-cian/chronicles/what-the-canal-remembered-by-itself.md), The Trench Monarch Alias Chronicle LVII, wave 19. An uninvolved longtime shopkeeper gives an outsider's historical account of how wage theft went from routine to rare along the canal, concluding the change no longer depends on Kanja's presence. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-951",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Debt the Sea Called In\" (full narrative text at docs/lords-of-cian/chronicles/the-debt-the-sea-called-in.md), Sovereign Ghost of the Great Sea Alias Chronicle XLIX, wave 17. First dramatized use of Undertow (`ARS-388`), the last previously-undetailed Captain's-Five treasure -- a Titan-scale natural sea creature threatens a grain convoy, and Kanja drags it under with the net-line rather than kill it in open water near crewed hulls. First entirely natural, non-human threat for this alias.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-952",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Marshal Who Took It Personally\" (full narrative text at docs/lords-of-cian/chronicles/the-marshal-who-took-it-personally.md), Sovereign Ghost of the Great Sea Alias Chronicle L, wave 17. Introduces a new recurring antagonist, an unnamed Trust Fleet-Marshal whose grudge (a command lost at Ghost Harbor) is personal rather than institutional, and whose patient roving-reconnaissance method is the first to genuinely study the fleet's patterns rather than just react to them.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-953",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Went Without, So Others Could Have\" (full narrative text at docs/lords-of-cian/chronicles/what-went-without-so-others-could-have.md), Sovereign Ghost of the Great Sea Alias Chronicle LI, wave 17. A pure logistics/rationing entry -- an ice-locked winter and three lost supply ports force the fleet into six weeks of even rationing, resolved through Dol Maren's trade and Danne Sok's charting rather than combat or rescue. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-954",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Trap Built From Mercy Itself\" (full narrative text at docs/lords-of-cian/chronicles/the-trap-built-from-mercy-itself.md), Sovereign Ghost of the Great Sea Alias Chronicle LII, wave 18. The Fleet-Marshal escalates by weaponizing the restraint doctrine directly -- a staged distress call rigged as an ambush -- costing the crew real blood for the first time from answering a distress call.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-955",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Hand That Chose to Leave\" (full narrative text at docs/lords-of-cian/chronicles/the-hand-that-chose-to-leave.md), Sovereign Ghost of the Great Sea Alias Chronicle LIII, wave 18. A veteran hand peacefully departs the fleet over genuine, respectful disagreement with the mercy doctrine -- a new register distinct from an earlier unresolved-but-stayed internal dissent entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-956",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Line They Ran Through Fire\" (full narrative text at docs/lords-of-cian/chronicles/the-line-they-ran-through-fire.md), Sovereign Ghost of the Great Sea Alias Chronicle LIV, wave 18. The fleet deliberately breaches a Trust blockade picket to deliver grain to a starving port -- active humanitarian blockade-running, distinct from prior passive/reactive rescue entries. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-957",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Marshal Couldn't Take Back\" (full narrative text at docs/lords-of-cian/chronicles/what-the-marshal-couldnt-take-back.md), Sovereign Ghost of the Great Sea Alias Chronicle LV, wave 19. Closes the Fleet-Marshal arc: he comes alone and unarmed to confess and request reassignment rather than being defeated in combat -- resolution through the enemy's own voluntary change of heart.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-958",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Last Watch of an Old Hand\" (full narrative text at docs/lords-of-cian/chronicles/the-last-watch-of-an-old-hand.md), Sovereign Ghost of the Great Sea Alias Chronicle LVI, wave 19. First entry to directly dramatize the mortality gap between Kanja's ageless nature and an original crew member's natural aging and eventual death for this alias.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-959",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Sea Kept Between Them\" (full narrative text at docs/lords-of-cian/chronicles/what-the-sea-kept-between-them.md), Sovereign Ghost of the Great Sea Alias Chronicle LVII, wave 19. A reflective ensemble closer synthesizing this run's threads against Garren Hask's true-record ledger and the legend-vs-truth theme. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-960",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Structure Too Small to Hear\" (full narrative text at docs/lords-of-cian/chronicles/the-structure-too-small-to-hear.md), The Iron Bastard Alias Chronicle XLIX, wave 17. The doctrine's first test at the lower bound of scale: a hair-fine miniature puzzle-box mechanism, where the difficulty is isolating a whisper-level signature from the listener's own body noise. Resolved through stillness and patience rather than power.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-961",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm That Wrote Its Own Signature\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-that-wrote-its-own-signature.md), The Iron Bastard Alias Chronicle L, wave 17. A lightning storm imposes a constantly shifting false tension signature on a watchtower's ironwork; Kanja withdraws and waits the storm out instead of forcing an untrustworthy reading, establishing patience/withheld action as a new doctrine response.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-962",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Command Vehicle in the Formation\" (full narrative text at docs/lords-of-cian/chronicles/the-command-vehicle-in-the-formation.md), The Iron Bastard Alias Chronicle LI, wave 17. Eight identical-looking Crawlers ring a depot; Kanja identifies the single command vehicle by a subtly heavier bracing signature and disables only it, collapsing the whole formation's coordination -- a new signature-discrimination tactic. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-963",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Silence Where the Talisman Should Have Answered\" (full narrative text at docs/lords-of-cian/chronicles/the-silence-where-the-talisman-should-have-answered.md), The Iron Bastard Alias Chronicle LII, wave 18. The Aegis-Talisman itself goes fully inert from prior battle damage mid-mission; Kanja completes a critical read through unaided direct hand contact alone, proving the core skill is his, not the artifact -- the run's first true device-independence entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-964",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Two Doctrines, No Common Ancestor\" (full narrative text at docs/lords-of-cian/chronicles/two-doctrines-no-common-ancestor.md), The Iron Bastard Alias Chronicle LIII, wave 18. A neutral trade enclave's engineers, with zero prior contact with Kanja or the Trust, have independently developed a near-identical diagnostic-listening craft. A respectful, non-adversarial comparison and skill exchange -- convergent invention rather than study, defection, or theft.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-965",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Trial of the Falling Roof\" (full narrative text at docs/lords-of-cian/chronicles/the-trial-of-the-falling-roof.md), The Iron Bastard Alias Chronicle LIV, wave 18. Kanja is personally and falsely accused of an unrelated market-roof collapse; he uses the doctrine as public testimony before a tribunal to prove his innocence and the collapse's true cause -- a personal self-defense register. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-966",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Zone He Didn't Have to Read Alone\" (full narrative text at docs/lords-of-cian/chronicles/the-zone-he-didnt-have-to-read-alone.md), The Iron Bastard Alias Chronicle LV, wave 19. The first true multi-listener team job: Kanja, the second student, and the defected Trust engineer divide a sprawling harbor complex into zones and read it simultaneously -- a generational/collaborative scaling entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-967",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Third Generation Asked\" (full narrative text at docs/lords-of-cian/chronicles/what-the-third-generation-asked.md), The Iron Bastard Alias Chronicle LVI, wave 19. The second student's own apprentice, a third generation removed from Kanja, asks why the doctrine reads only tension and not moral worth, forcing Kanja to articulate that judgment has always been his, not the method's.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-968",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Building That Asked to Be Heard\" (full narrative text at docs/lords-of-cian/chronicles/the-building-that-asked-to-be-heard.md), The Iron Bastard Alias Chronicle LVII, wave 19. A quiet, non-technical closer: Kanja reads a condemned, empty foundry warehouse with no operational purpose at all, the day before its demolition -- an elegy for an ordinary structure. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-969",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Forge Carved in Memory\" (full narrative text at docs/lords-of-cian/chronicles/what-the-forge-carved-in-memory.md), The Lord of Embers Alias Chronicle XLIX, wave 17. An apprentice dies of illness, no enemy, no raid, nothing to rebuild. The floor's method has no answer for a cough; Kanja forges a plain, unmarked hinge in the boy's memory instead. First entry to confront loss with no adversary at all.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-970",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Settlement That Was Never There\" (full narrative text at docs/lords-of-cian/chronicles/the-settlement-that-was-never-there.md), The Lord of Embers Alias Chronicle L, wave 17. Four fabricated burning reports lure the crew off-schedule toward an ambush; Callum Breck spots the pattern, and Kanja arrives on the ambush road already knowing it's bait -- discernment/counter-intelligence rather than a genuine rebuild or defense.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-971",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ledger That Wasn't His\" (full narrative text at docs/lords-of-cian/chronicles/the-ledger-that-wasnt-his.md), The Lord of Embers Alias Chronicle LI, wave 17. A predatory moneylender exploits frightened, displaced families three districts ahead of the campaign; Kanja undercuts him with a standing tool/material-credit offer rather than confronting him directly, and admits the fix is temporary. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-972",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Caravan That Didn't Know His Name\" (full narrative text at docs/lords-of-cian/chronicles/the-caravan-that-didnt-know-his-name.md), The Lord of Embers Alias Chronicle LII, wave 18. A foreign trading caravan from beyond the Trust's reach trades fairly with the crew without ever learning who they are, judging the floor on the trade alone. First entry where the reputation never enters the picture.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-973",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the River Barge Couldn't Outrun\" (full narrative text at docs/lords-of-cian/chronicles/what-the-river-barge-couldnt-outrun.md), The Lord of Embers Alias Chronicle LIII, wave 18. A detailed Trinity showcase defending an ore convoy through white-water rapids, using the violent current itself as both obstacle and weapon -- new terrain distinct from prior flood/pontoon/land showcases.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-974",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Burn He Didn't Let Them See\" (full narrative text at docs/lords-of-cian/chronicles/the-burn-he-didnt-let-them-see.md), The Lord of Embers Alias Chronicle LIV, wave 18. Kanja sustains a real forge-accident burn from fatigue and tries to hide it; the senior smith forces him to accept care in front of the apprentices. First entry where Kanja himself is the injured, cared-for party. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-975",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boundary Stone No One Could Move\" (full narrative text at docs/lords-of-cian/chronicles/the-boundary-stone-no-one-could-move.md), The Lord of Embers Alias Chronicle LV, wave 19. A land-title dispute between two families stalls a forge terrace; Kanja refuses to adjudicate by his own authority, deferring to the district's elders' circle. First entry centered on property/legal adjudication.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-976",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Those Who Came With Nothing But the Road\" (full narrative text at docs/lords-of-cian/chronicles/those-who-came-with-nothing-but-the-road.md), The Lord of Embers Alias Chronicle LVI, wave 19. A detailed Trinity showcase defending roughly four hundred refugees fleeing unrelated regional conflict, pursued by opportunistic raiders -- first entry extending full protection to people outside the campaign's own settlements/apprentices.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-977",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Festival They Built Around the Forge\" (full narrative text at docs/lords-of-cian/chronicles/the-festival-they-built-around-the-forge.md), The Lord of Embers Alias Chronicle LVII, wave 19. A settlement's harvest festival absorbs the crew into existing local custom; a purely celebratory, conflict-free closer with no lesson delivered through adversity. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-978",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The School Sephtis Never Meant to Start\" (full narrative text at docs/lords-of-cian/chronicles/the-school-sephtis-never-meant-to-start.md), The Storm That Walks Alias Chronicle XLIX, wave 17. Sephtis and his successor's one-to-one apprenticeship grows into a small multi-student school -- the first entry to move the doctrine's transmission from a single lineage into a real institution, with the successor exercising her first independent authority.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-979",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Two Readings That Disagreed\" (full narrative text at docs/lords-of-cian/chronicles/the-two-readings-that-disagreed.md), The Storm That Walks Alias Chronicle L, wave 17. Sephtis and his successor read the same weather system and reach opposite conclusions for the first time; Kanja refuses to arbitrate, and they resolve it by holding the fleet at anchor and sending a scout to verify directly -- a doctrine-level disagreement protocol.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-980",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Student Who Walked Away\" (full narrative text at docs/lords-of-cian/chronicles/the-student-who-walked-away.md), The Storm That Walks Alias Chronicle LI, wave 17. One of the school's most naturally talented students washes out after his first honest miss, unable to bear being visibly wrong with lives at stake -- the craft's real bottleneck is emotional, not mathematical. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-981",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Reading He Could No Longer Make Alone\" (full narrative text at docs/lords-of-cian/chronicles/the-reading-he-could-no-longer-make-alone.md), The Storm That Walks Alias Chronicle LII, wave 18. An elderly Sephtis, his hand unsteadied by a fever, can still read the sky but can no longer chart it himself; he dictates a call to his successor in full view of the fleet rather than hide the decline -- the first physical-limits entry for him.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-982",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Sky the Day They Buried Him\" (full narrative text at docs/lords-of-cian/chronicles/the-sky-the-day-they-buried-him.md), The Storm That Walks Alias Chronicle LIII, wave 18. Sephtis dies peacefully in his sleep; his successor alone makes the call determining whether the sea-burial rites can proceed, understanding it as the one reading she could not hand to anyone else. First mortality entry specific to this alias's arc.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-983",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Strait They Named for a Man Who Read It\" (full narrative text at docs/lords-of-cian/chronicles/the-strait-they-named-for-a-man-who-read-it.md), The Storm That Walks Alias Chronicle LIV, wave 18. Generations later, sailors have informally named a strait after Sephtis; his now-elderly successor teaches her own student, a third generation of the craft, closing the institutional cycle. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-984",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Calm Bought for a Handshake\" (full narrative text at docs/lords-of-cian/chronicles/the-calm-bought-for-a-handshake.md), The Storm That Walks Alias Chronicle LV, wave 19. A jointly-called calm window lets two mutually distrustful delegations cross contested water into a peace negotiation simultaneously and unthreatened, with the Trinity present only as a visible, unused deterrent -- protecting a diplomatic negotiation rather than a fleet or rescue.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-985",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ones Who Read the Same Sky\" (full narrative text at docs/lords-of-cian/chronicles/the-ones-who-read-the-same-sky.md), The Storm That Walks Alias Chronicle LVI, wave 19. An enemy squadron reads the same dangerous water independently and breaks off unharmed, revealed to have its own generations-old weather tradition; the successor meets her enemy counterpart under truce, and both fleets begin giving each other's ships a berth around dangerous weather -- a rival tradition treated as a legitimate peer.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-986",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Storm Never Took From Him\" (full narrative text at docs/lords-of-cian/chronicles/what-the-storm-never-took-from-him.md), The Storm That Walks Alias Chronicle LVII, wave 19. On a quiet evening with nothing to forecast, Kanja reflects privately with Efa Gol on what this alias has meant to him -- not combat or command, but what he learned from Sephtis's and his successor's courage in being visibly wrong. Closes wave 19.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }

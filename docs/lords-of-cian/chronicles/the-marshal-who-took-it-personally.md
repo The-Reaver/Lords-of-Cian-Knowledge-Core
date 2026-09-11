@@ -1,6 +1,6 @@
 # The Marshal Who Took It Personally
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle L, wave 17. Rebellion era, naval theater. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 217, 2026-09-11 (`MCD-952`). Sovereign Ghost of the Great Sea Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

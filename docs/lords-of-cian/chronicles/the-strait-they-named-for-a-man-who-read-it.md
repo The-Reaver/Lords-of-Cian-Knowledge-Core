@@ -1,6 +1,6 @@
 # The Strait They Named for a Man Who Read It
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Storm That Walks Alias Chronicle LIV, wave 18, closing the wave. Long Mask era, generations after Sephtis's death. Not a territory Chronicle. Narrated in neutral third-person prose. Names Sephtis's successor; no new named characters.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-983`). The Storm That Walks Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

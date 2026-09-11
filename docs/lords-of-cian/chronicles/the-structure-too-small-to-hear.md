@@ -1,6 +1,6 @@
 # The Structure Too Small to Hear
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XLIX, wave 17. Rebellion era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 218, 2026-09-11 (`MCD-960`). The Iron Bastard Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

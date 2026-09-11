@@ -1,6 +1,6 @@
 # The Sky the Day They Buried Him
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Storm That Walks Alias Chronicle LIII, wave 18. Long Mask era, roughly a year after "The Reading He Could No Longer Make Alone." Not a territory Chronicle. Narrated in neutral third-person prose. Names Sephtis and his successor; no new named characters.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-982`). The Storm That Walks Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

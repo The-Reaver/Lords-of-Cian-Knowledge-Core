@@ -1,6 +1,6 @@
 # What the River Barge Couldn't Outrun
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle LIII, wave 18. Rolling Foundry Campaign, age 27. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 219, 2026-09-11 (`MCD-973`). The Lord of Embers Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

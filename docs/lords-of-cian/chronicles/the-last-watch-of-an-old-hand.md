@@ -1,6 +1,6 @@
 # The Last Watch of an Old Hand
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle LVI, wave 19. Rebellion era into early Long Mask, naval theater. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 217, 2026-09-11 (`MCD-958`). Sovereign Ghost of the Great Sea Alias Chronicle LVI, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

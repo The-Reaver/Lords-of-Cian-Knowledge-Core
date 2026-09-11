@@ -1,6 +1,6 @@
 # The Settlement That Was Never There
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle L, wave 17. Rolling Foundry Campaign, age 27, aboard/around The Anvil. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 219, 2026-09-11 (`MCD-970`). The Lord of Embers Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

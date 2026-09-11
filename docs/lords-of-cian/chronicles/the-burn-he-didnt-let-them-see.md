@@ -1,6 +1,6 @@
 # The Burn He Didn't Let Them See
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle LIV, wave 18, closing the wave. Rolling Foundry Campaign, age 27. Not a territory Chronicle. Narrated in neutral third-person prose. Reuses the campaign's recurring senior smith; no new named characters.*
+*Locked canon, Batch 219, 2026-09-11 (`MCD-974`). The Lord of Embers Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

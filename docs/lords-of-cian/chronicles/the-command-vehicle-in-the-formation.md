@@ -1,6 +1,6 @@
 # The Command Vehicle in the Formation
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle LI, wave 17, closing the wave. Rebellion era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 218, 2026-09-11 (`MCD-962`). The Iron Bastard Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

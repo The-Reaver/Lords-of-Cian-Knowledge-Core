@@ -1,6 +1,6 @@
 # The Ledger That Wasn't His
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle LI, wave 17, closing the wave. Rolling Foundry Campaign, age 27. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 219, 2026-09-11 (`MCD-971`). The Lord of Embers Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

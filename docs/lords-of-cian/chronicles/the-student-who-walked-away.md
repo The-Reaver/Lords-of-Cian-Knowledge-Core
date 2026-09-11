@@ -1,6 +1,6 @@
 # The Student Who Walked Away
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Storm That Walks Alias Chronicle LI, wave 17, closing the wave. Rebellion-to-Long-Mask transition era, months after the school's founding. Not a territory Chronicle. Narrated in neutral third-person prose. Names Sephtis and his successor; no new named characters.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-980`). The Storm That Walks Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
