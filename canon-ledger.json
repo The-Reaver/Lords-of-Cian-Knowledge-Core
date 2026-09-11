@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.9",
+  "ledger_version": "17.0",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1371,6 +1371,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Ide Chronicle III (MCD-513). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 167,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Kwan Chronicle III (MCD-514). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9222,6 +9229,13 @@
       "id": "MCD-513",
       "category": "phase2-territory-chronicle",
       "statement": "Ide Chronicle III, \"The Name She Almost Left Out\" (full narrative text at docs/lords-of-cian/chronicles/ide-chronicle-iii-the-name-she-almost-left-out.md). Ase documents theft by one of her own closest allies and files the account with the same rigor as any other, despite the real political cost to her own movement, establishing that 'Named and Numbered' (PH2-036) applies identically to friend and enemy alike. An unnamed Kanja is present during her deliberation, uninvolved. No new named characters. Third Ide territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-514",
+      "category": "phase2-territory-chronicle",
+      "statement": "Kwan Chronicle III, \"The Landlord Who Changed His Own Mind\" (full narrative text at docs/lords-of-cian/chronicles/kwan-chronicle-iii-the-landlord-who-changed-his-own-mind.md). A property owner genuinely opposed to open housing is invited to explain his opposition honestly at a public forum, and talks himself out of his own position while preparing to argue it -- 'The Invitation' (PH2-038) shown producing unplanned self-persuasion in an actual opponent rather than only activating latent sympathy. An unnamed Kanja is present, uninvolved. No new named characters. Third Kwan territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
