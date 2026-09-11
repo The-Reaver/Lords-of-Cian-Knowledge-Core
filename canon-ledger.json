@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "17.9",
+  "ledger_version": "18.0",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1441,6 +1441,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Kazi Chronicle III (MCD-523). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 177,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Taifa Chronicle III (MCD-524). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9362,6 +9369,13 @@
       "id": "MCD-523",
       "category": "phase2-territory-chronicle",
       "statement": "Kazi Chronicle III, \"The Line That Wasn't a Line\" (full narrative text at docs/lords-of-cian/chronicles/kazi-chronicle-iii-the-line-that-wasnt-a-line.md). A dockworker quota dispute tests whether 'The Line Stops' (PH2-051) reaches scattered dock gangs with no literal assembly-line connection; it does, generalizing the ability to any genuinely structurally interdependent labor chain regardless of its physical shape, with Kunle (already locked, MCD-363) offering the working theory. An unnamed Kanja is present, uninvolved. No new named characters. Third Kazi territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-524",
+      "category": "phase2-territory-chronicle",
+      "statement": "Taifa Chronicle III, \"What Traveled Besides the Alarm\" (full narrative text at docs/lords-of-cian/chronicles/taifa-chronicle-iii-what-traveled-besides-the-alarm.md). On the night his daughter is born, Osei unintentionally sends genuine joy rather than warning through 'Kin at a Distance' (PH2-053), felt by sworn members in three separate cities -- revealing for the first time that the bond carries positive emotion as well as danger. An unnamed Kanja passes through that week, uninvolved. No new named characters. Third Taifa territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
