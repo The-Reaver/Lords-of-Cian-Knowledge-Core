@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "25.4",
+  "ledger_version": "25.5",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1966,6 +1966,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document",
       "rule_count": 3,
       "note": "Captain's twenty-first Alias Chronicle wave. \"What Only the Hall Could Save\" (MCD-1089) makes Garren Hask's own aging and mortality concretely real for the first time -- a heart failure combat medicine can't answer sends him to Sera's healers' hall, a direct, load-bearing payoff of \"What Sera Chose Instead\" (MCD-1057) and \"The Charter They Finally Wrote\" (MCD-1056), staying entirely off any ship under sail per MCD-1057's own closing line. \"The Notebook Garren Hask Finally Opened\" (MCD-1090) advances the mortality-succession thread from \"The Promise for After He's Gone\" (MCD-920) a genuine step -- Hask's private notebook reaches the council for the first time and Corren Halst is proposed, not confirmed, as a future council-chair successor -- deliberately left open rather than resolved, matching the sub-series' established advance-not-close precedent (the Sankofa territory Chronicle's \"crack\" entry, MCD-1025). \"The First Coin They Took From the Trust\" (MCD-1091) closes the wave with a detailed full-Trinity combat showcase in a new setting (a crowded civic grain-distribution plaza) and the sub-series' first paid commission, specifically from the Sovereign Trust the crew fought for twelve years, resolved through Kanja's own distinction between serving an institution and feeding the people under it; first on-page use of Onyx of Oblivion's Veil Piercer power inside the Captain sub-series. No new named characters introduced across all three entries -- Garren Hask, Sera, Corren Halst, Efa Gol, and Callum Breck all reused. Abad's approval: \"another alias wave of all aliases\"."
+    },
+    {
+      "batch": 252,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 1,
+      "note": "Sankofa Chronicle VI, \"The Hand That Wrote the First Letter\" -- the reveal entry, closing the forged-letter/pamphlet conspiracy arc opened in Chronicle II (MCD-360) and deepened in Chronicles IV and V (MCD-1023/MCD-1025), per the pacing agreed in Batch 225: the reveal should tie the author to someone from the COINTELPRO-era backstory conspiracy who was never caught the first time. Names the author: Babatunde (new named character, Yoruba, zero prior collisions), a founding-era courier from Sankofa's earliest days who was coerced into working for an unnamed counterintelligence operation and personally forged the original letters from PH2-021's own backstory near-death event. His decades of continued operation are framed as a self-perpetuated, never-formally-closed assignment rather than an ongoing institutional program, keeping the apparatus itself unnamed even in resolution. Babatunde does not attack Baale at the reveal, so \"The Turn\" is never triggered -- deliberately honoring PH2-021's own stated limitation to the end: the ability has nothing to offer against a threat that simply stops rather than strikes. Resolution is exposure and public naming, not violence or captivity. Kra, Kojo, and Yao reused; Kanja does not appear, matching Chronicle V's precedent. Abad's approval: \"lock it.\""
     }
   ],
   "rules": [
@@ -14166,6 +14173,13 @@
       "statement": "\"The First Coin They Took From the Trust\" (full narrative text at docs/lords-of-cian/chronicles/the-first-coin-they-took-from-the-trust.md), Captain Alias Chronicle LXIII, wave 21, closing the wave. A detailed full-Trinity combat showcase in a crowded civic plaza during a Sovereign Trust grain distribution -- the sub-series' first paid commission, and the first time the crew is formally hired by the Trust it fought for twelve years, producing genuine internal friction (Corren Halst) resolved through Kanja's own distinction between serving an institution and feeding the people under it. Onyx of Oblivion's Veil Piercer power reads eight raiders hidden inside the food line before the first sack is touched (its first on-page use inside the Captain sub-series, previously showcased for the Trench Monarch at MCD-369); Mafesto's Kinetic Transfer System redirects a committed blade strike away from a bystander, and Obsidian Malice discharges in three precisely angled bursts rather than one wide blast to avoid panicking the crowd. No new named characters -- Corren Halst, Efa Gol, Callum Breck, and Kanja all reused; the administrator and all eight raiders are deliberately unnamed. Closes Captain's twenty-first wave.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1092",
+      "category": "territory-chronicle",
+      "statement": "Sankofa Chronicle VI, \"The Hand That Wrote the First Letter\" (full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-vi-the-hand-that-wrote-the-first-letter.md), the sixth Sankofa territory Chronicle and the reveal to the forged-letter/pamphlet conspiracy from Chronicles II, IV, and V (MCD-360/MCD-1023/MCD-1025). Protagonist Baale (PH2-021), not a Kanja Chronicle. Over roughly a year, Yao (bound via \"The Turn\" in Chronicle V) traces the dead-drop payment chain backward through its cutouts to a lease record naming the conspiracy's author: Babatunde (a new named character, Yoruba, zero prior collisions), a founding-era errand-runner/courier from Sankofa's earliest days -- recognized by Baale personally. Babatunde confesses to personally forging the original COINTELPRO-era letters that nearly killed Baale and Kra (PH2-021's backstory event) after being coerced by an unnamed counterintelligence operation; his decades of continued escalation (the private letter, the public pamphlets, the hired assassination attempt) are explained as a self-perpetuated, never-formally-closed assignment rather than an ongoing institutional program -- the apparatus itself is deliberately left unnamed even in resolution. Babatunde does not attack Baale at the confrontation, so \"The Turn\" is never triggered, honoring PH2-021's own stated mechanic precisely to the end: the ability has nothing to offer against a threat that simply stops rather than strikes. Baale resolves it through public exposure and naming rather than violence or captivity, consistent with his established restraint (Chronicle III's clinic, Chronicle IV's transparency). Kra, Kojo, and Yao (all already locked) reused; no other named characters. Kanja does not appear in this entry, matching Chronicle V's precedent. Closes the six-entry forged-letter/pamphlet conspiracy arc.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document. Full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-vi-the-hand-that-wrote-the-first-letter.md."
     }
   ],
   "open_decisions": [

@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 25.4, 1,754 rules, 251 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 25.5, 1,755 rules, 252 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1282,6 +1282,28 @@ waves -- sixty-three Chronicles each, 693 Alias Chronicles total. Ledger reached
 25.4, 1,754 rules, 251 batches -- zero duplicate IDs and zero orphaned file references verified after
 the full run. Per the standing pacing rule, the next wave for any alias starts only when Abad points
 at it.
+
+**Sankofa's reveal, Batch 252, 2026-09-11 (`MCD-1092`).** Per the pacing agreed in Batches 225/229 --
+the reveal lands as its own dedicated entry, tying the conspiracy's author to someone from the
+COINTELPRO-era backstory who was never caught the first time. **Sankofa Chronicle VI, "The Hand That
+Wrote the First Letter"** (full narrative text at
+`docs/lords-of-cian/chronicles/sankofa-chronicle-vi-the-hand-that-wrote-the-first-letter.md`) closes
+the six-entry conspiracy arc opened in Chronicle II (`MCD-360`) and deepened in Chronicles IV and V
+(`MCD-1023`/`MCD-1025`). Over roughly a year, Yao (bound via "The Turn" in Chronicle V) traces the
+dead-drop payment chain backward to a lease record naming the author: Babatunde (a new named
+character, Yoruba, zero prior collisions), a founding-era courier from Sankofa's earliest days,
+recognized by Baale personally. Babatunde confesses to personally forging the original letters
+that nearly killed Baale and Kra (`PH2-021`'s backstory event) after being coerced by an unnamed
+counterintelligence operation; his decades of escalation are framed as a self-perpetuated,
+never-formally-closed assignment rather than an ongoing institutional program -- the apparatus itself
+stays deliberately unnamed even in resolution. Babatunde does not attack Baale at the confrontation,
+so "The Turn" is never triggered -- a deliberate final honoring of `PH2-021`'s own stated limitation:
+the ability has nothing to offer against a threat that simply stops rather than strikes. Resolution
+is public exposure and naming, not violence or captivity, consistent with Baale's established
+restraint. Kra, Kojo, and Yao reused; Kanja does not appear, matching Chronicle V's precedent. Abad's
+approval: "lock it." Ledger reached `ledger_version` 25.5, 1,755 rules, 252 batches. The remaining
+deliberately reserved thread from Batch 225 -- the Kanja/Arturo long-arc's full payoff -- stays open
+for a future entry whenever Abad points at it.
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
