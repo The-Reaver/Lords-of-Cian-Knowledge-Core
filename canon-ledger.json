@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "18.1",
+  "ledger_version": "18.2",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1455,6 +1455,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Hekalu Chronicle III (MCD-525). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 179,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Nyansa Chronicle III (MCD-526). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9390,6 +9397,13 @@
       "id": "MCD-525",
       "category": "phase2-territory-chronicle",
       "statement": "Hekalu Chronicle III, \"The Table That Needed Setting Again\" (full narrative text at docs/lords-of-cian/chronicles/hekalu-chronicle-iii-the-table-that-needed-setting-again.md). The rival owner bonded in Chronicle I has quietly drifted from the mutual-obligation network over a year of neglect; Adom seeks him out and renews the bond, establishing for the first time that 'The Common Table' (PH2-055) requires periodic renewal rather than binding permanently on a single choice. An unnamed Kanja is present, uninvolved. No new named characters. Third Hekalu territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-526",
+      "category": "phase2-territory-chronicle",
+      "statement": "Nyansa Chronicle III, \"The Contradiction He Named in Himself\" (full narrative text at docs/lords-of-cian/chronicles/nyansa-chronicle-iii-the-contradiction-he-named-in-himself.md). A younger organizer points out that Adisa quietly abandoned an early position without ever formally correcting it in the movement's record; he applies 'The Long Correction' (PH2-057) to himself for the first time, filing the correction publicly with the same rigor he demands of others. An unnamed Kanja sat through the original session, uninvolved. No new named characters. Third Nyansa territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
