@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "18.5",
+  "ledger_version": "18.6",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1483,6 +1483,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Trench Monarch's fifth three-entry Alias Chronicle wave (MCD-531 through MCD-533). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
+    },
+    {
+      "batch": 183,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Industrial Myth's fifth three-entry Alias Chronicle wave (MCD-534 through MCD-536). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9474,6 +9481,27 @@
       "id": "MCD-533",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Maret Vos Carried From Before\" (full narrative text at docs/lords-of-cian/chronicles/what-maret-vos-carried-from-before.md), Trench Monarch Alias Chronicle XV, closing the fifth wave. Maret Vos (already locked, one of the three earliest crew members freed before the Black Trench) finally shares his own account of being freed -- quieter and less dramatized than Corren Halst's (MCD-436) or Danne Sok's (MCD-530), completing a trilogy of early-crew perspectives on the man before any alias existed. No new named characters beyond the already-locked Maret Vos. Closes the Trench Monarch's fifth three-Chronicle wave (with 'The Table Across from the Owners,' MCD-531, and 'The Hunt for One Man,' MCD-532).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-534",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Numbers He Couldn't Prove\" (full narrative text at docs/lords-of-cian/chronicles/the-numbers-he-couldnt-prove.md), the Industrial Myth Alias Chronicle XIII, first entry in the fifth wave. A dye-works administrator fabricates a plausible counter-tally with no independent way to verify either account; Kanja falls back on cross-referenced worker testimony rather than clean numbers, reaching an imperfect settlement -- the first genuine limit of the tally method. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-535",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The District Chain\" (full narrative text at docs/lords-of-cian/chronicles/the-district-chain.md), the Industrial Myth Alias Chronicle XIV. A detailed, sustained month-long campaign across three connected mill districts owned by the same regional concern: Kanja personally builds and combines three separate tallies into a single case proving coordinated wage suppression, the method's first horizontal multi-district application and largest settlement to date. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-536",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Pell Ostra Noticed\" (full narrative text at docs/lords-of-cian/chronicles/what-pell-ostra-noticed.md), the Industrial Myth Alias Chronicle XV, closing the fifth wave. Pell Ostra (already locked) volunteers to guard a tally operation and reflects on what it means to protect a deliberately unarmed persona -- ensuring nothing ever gets close enough to test the principle, rather than intercepting threats Kanja would otherwise handle himself. No new named characters beyond the already-locked Pell Ostra. Closes the Industrial Myth's fifth three-Chronicle wave (with 'The Numbers He Couldn't Prove,' MCD-534, and 'The District Chain,' MCD-535).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
