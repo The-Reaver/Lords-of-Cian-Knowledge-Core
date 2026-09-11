@@ -1047,6 +1047,19 @@ entry. Ledger reached `ledger_version` 22.8, 1,644 rules, 225 batches. Both thre
 future entries -- the conspiracy's author still unidentified, the long-arc's full payoff still
 unwritten.
 
+**Agreed pacing for the Sankofa conspiracy's next two entries, discussed same batch, not yet
+scheduled:** the reveal should not be the very next entry. One more deepening entry first -- "the
+crack" -- that makes the threat personal to Baálé again at higher stakes than Chronicle I's
+face-to-face attack, forcing the conspiracy to risk real exposure to get what it wants (a
+close-range attempt, a defector with cold feet, or an overreach that backfires), rather than
+resolving the mystery on only two prior data points. The reveal itself lands as its own dedicated
+entry after that, not folded into the crack entry, and should tie the author to something already
+in the world with a real motive -- the strongest candidate discussed: someone from the COINTELPRO-
+era backstory conspiracy who was never caught the first time, meaning the thing that nearly killed
+Baálé at his story's start never actually ended. Abad's own words on timing: "not rushed, not this
+session unless you want it." No further Sankofa Chronicle is queued until Abad points at this
+again.
+
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
