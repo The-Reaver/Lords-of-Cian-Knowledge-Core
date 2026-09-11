@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "17.2",
+  "ledger_version": "17.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1392,6 +1392,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Jibaro Chronicle III (MCD-516). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 170,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Uhuru Chronicle III (MCD-517). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9264,6 +9271,13 @@
       "id": "MCD-516",
       "category": "phase2-territory-chronicle",
       "statement": "Jibaro Chronicle III, \"The Week Five Doors Refused\" (full narrative text at docs/lords-of-cian/chronicles/jibaro-chronicle-iii-the-week-five-doors-refused.md). Five genuinely abandoned buildings across Jibaro are simultaneously occupied past the one-day threshold, all becoming permanently unreclaimable under 'The Occupation' (PH2-042), proving the ability scales to multiple sites at once as long as each independently meets the 'nothing to be ashamed of' standard established in Chronicle II (MCD-468). An unnamed Kanja helps carry belongings during the transition, uninvolved otherwise. No new named characters. Third Jibaro territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-517",
+      "category": "phase2-territory-chronicle",
+      "statement": "Uhuru Chronicle III, \"What the Seat Couldn't Give the Next Man\" (full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-iii-what-the-seat-couldnt-give-the-next-man.md). Set after Ofin's already-locked capstone death (MCD-358): his successor, elected on the same coalition, discovers 'The Override' (PH2-044) did not pass to him -- confirming directly on the page that the ability was institutional to Ofin's own endurance, not the seat itself, and the successor must build ordinary political endurance from nothing. An unnamed Kanja observes from the gallery, uninvolved. No new named characters. Third Uhuru territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
