@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 20.5, 1,510 rules, 202 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 21.6, 1,543 rules, 213 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -955,6 +955,39 @@ thread. Per the standing pacing rule, no further wave or sweep starts automatica
 Abad's own stated pacing guidance for this sub-series, the next natural checkpoint is holding here
 until the project is "completely loaded and functional with the archive," rather than racing toward
 the long-term 50-100-per-alias target.
+
+**A sixteenth Alias Chronicle wave for all eleven aliases, Batches 203-213, 2026-09-11 (`MCD-891`
+through `MCD-923`, 33 new Chronicles), under Abad's continued authorization to keep going wave by
+wave: "do the waves per alias x 11 aliases... continue uninterrupted until completion this includes
+test, commit, push to main origin."** Each alias's three new entries were drafted by a dedicated
+background agent that first read that alias's own full ledger history and most recent Chronicle
+files directly (rather than working from a hand-summarized recap), so continuity-checking scaled
+with the now much larger 48-Chronicle-per-alias body of prior material. Representative new registers
+this wave: Bane completes a deliberate trilogy of individually-spotlighted Onyx powers (Veil Piercer,
+alongside the already-locked Black Ledger and Soulbound Edge showcases) and, for the first time,
+forfeits a major tactical investment outright to save a threatened settlement; the Trench Monarch's
+composure genuinely cracks for the first time under Onyx's Soulbound Edge responding to raw rage
+rather than trained intention; the Industrial Myth is trusted into a brick-kiln district only after
+four days of unglamorous manual labor, no ledger involved; the Blue-Collar Titan is ordered to
+demolish a causeway crossing he built himself, an identity-reversal register; the Sovereign Ghost's
+restraint-over-fear doctrine draws its first real, unresolved moral cost (a parole followed by a
+reprisal raid with guilt never confirmed either way); the Scourge confronts an actual shrine built in
+his own honor and pushes back against being deified; the Crow King loses his own voice mid-operation,
+forcing the three-generation Hymn-Engine lineage to carry an op without him for the first time; the
+Iron Bastard's doctrine gets its first fully constructive, non-adversarial use (reinforcing a
+civilian dam, no enemy involved); the Lord of Embers is challenged to a formal judged craft contest
+by a master smith who doubts the whole reputation; the Storm That Walks faces the first deliberate
+enemy deception of the forecasting method itself, rather than an honest miscalculation; and Captain's
+wave includes the sub-series' first purely celebratory, conflict-free entry (a crew wedding) and its
+first direct confrontation with the mortality gap between Kanja's lifespan and his crew's. No new
+named characters were introduced in any of the 33 entries; two territory-side story elements from
+this same push (a kiln district, a canal-wall storm) reused only already-locked crew. All 33 new
+files were uploaded to their respective Drive alias folders alongside the ledger locks.
+
+Ledger reached `ledger_version` 21.6, 1,543 rules, 213 batches by the end of this run -- zero
+duplicate IDs verified after every single batch. Every alias now has sixteen complete waves (48
+Chronicles each, 528 Alias Chronicles total). Per the standing pacing rule, the next wave for any
+alias starts only when Abad points at it.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
