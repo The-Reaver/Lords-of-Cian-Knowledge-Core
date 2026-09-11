@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.2",
+  "ledger_version": "16.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1322,6 +1322,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Lord of Embers' fourth three-entry Alias Chronicle wave (MCD-500 through MCD-502). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 160,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Storm That Walks' fourth three-entry Alias Chronicle wave (MCD-503 through MCD-505). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9096,6 +9103,27 @@
       "id": "MCD-502",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Smith They Said Couldn't Be One\" (full narrative text at docs/lords-of-cian/chronicles/the-smith-they-said-couldnt-be-one.md), the Lord of Embers Alias Chronicle XV, closing the fourth wave. A woman rejected by every conventional smithing guild purely on grounds of sex finds work judged on merit alone at The Anvil, extending the forge's meritocratic ethos into active confrontation with exclusionary guild practice. No new named characters. Closes the Lord of Embers' fourth three-Chronicle wave (with 'What Didn't Come Back This Time,' MCD-500, and 'The Saboteur Among the Apprentices,' MCD-501).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-503",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Cost of Pushing Too Far\" (full narrative text at docs/lords-of-cian/chronicles/the-cost-of-pushing-too-far.md), the Storm That Walks Alias Chronicle X, first entry in the fourth wave. Chasing a decisive strike, Kanja pushes the fleet's timing margin too tight and loses an escort vessel and six crew to the storm's early edge -- the first genuine loss on his own side of this alias's run, prompting a permanently wider safety margin going forward. No new named characters beyond the already-locked Sephtis.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-504",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm That Coordinated Three Fleets\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-that-coordinated-three-fleets.md), the Storm That Walks Alias Chronicle XI. A detailed large-scale combat showcase: three independent allied fleets converge on a single stronghold from separate directions using only Sephtis's storm prediction as a shared clock, no direct communication between commands, capturing the stronghold in under two hours with zero losses on Kanja's side, directly applying the wider margin from MCD-503. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-505",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Second Set of Eyes on the Sky\" (full narrative text at docs/lords-of-cian/chronicles/the-second-set-of-eyes-on-the-sky.md), the Storm That Walks Alias Chronicle XII, closing the fourth wave. Directly motivated by the loss in MCD-503, Sephtis (already locked) begins training a successor forecaster for the first time, building institutional redundancy into the storm-timing doctrine rather than leaving it dependent on one person's gift. No new named characters beyond the already-locked Sephtis. Closes the Storm That Walks' fourth three-Chronicle wave (with 'The Cost of Pushing Too Far,' MCD-503, and 'The Storm That Coordinated Three Fleets,' MCD-504).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
