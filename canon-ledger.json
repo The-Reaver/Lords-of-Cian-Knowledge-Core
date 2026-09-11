@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "13.9",
+  "ledger_version": "14.0",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1161,6 +1161,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Lord of Embers' third three-entry Alias Chronicle wave (MCD-455 through MCD-457). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
+    },
+    {
+      "batch": 137,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Storm That Walks' third three-entry Alias Chronicle wave (MCD-458 through MCD-460). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
     }
   ],
   "rules": [
@@ -8620,6 +8627,27 @@
       "id": "MCD-457",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Settlement That Kept the Forge Lit\" (full narrative text at docs/lords-of-cian/chronicles/the-settlement-that-kept-the-forge-lit.md), the Lord of Embers Alias Chronicle IX, closing the third wave. Years after 'An Apprenticeship That Outlasted the War' (MCD-391), Kanja returns to find the settlement running its own independent forge, the hinge-truing technique passed through three generations of apprentices who never met him -- a legacy closer distinct from the wave's combat and economic-warfare entries. No new named characters. Closes the Lord of Embers' third three-Chronicle wave (with 'The Convoy That Wouldn't Stop Moving,' MCD-455, and 'What the Embargo Couldn't Starve,' MCD-456).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-458",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Battle Fought Inside the Storm\" (full narrative text at docs/lords-of-cian/chronicles/the-battle-fought-inside-the-storm.md), the Storm That Walks Alias Chronicle VII, first entry in the third wave. Rather than timing around a storm, Kanja takes the fleet directly into its leading edge, using Mafesto's charge-absorption, a wave-timed Obsidian Malice discharge, and Onyx of Oblivion's ship-to-ship boarding to defeat a Directorate fleet already scattered by the weather itself -- the storm's active conditions used as a direct combat weapon rather than a timing tool. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-459",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Merchant Fleet He Chose to Save\" (full narrative text at docs/lords-of-cian/chronicles/the-merchant-fleet-he-chose-to-save.md), the Storm That Walks Alias Chronicle VIII. With no Directorate target in a storm's predicted path, Kanja spends three days escorting a forty-vessel civilian merchant convoy onto a safer course, a pure humanitarian rescue with zero combat, establishing the doctrine's use beyond tactical timing. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-460",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Officer Who Learned to Trust the Sky\" (full narrative text at docs/lords-of-cian/chronicles/the-officer-who-learned-to-trust-the-sky.md), the Storm That Walks Alias Chronicle IX, closing the third wave. A newly transferred, initially skeptical naval officer comes to trust Sephtis's (already locked) storm-timing doctrine after watching it enable the merchant-fleet rescue of MCD-459, directly referencing the earlier miss of 'The Storm That Came Early' (MCD-425) as proof the confidence isn't recklessness. No new named characters beyond the already-locked Sephtis. Closes the Storm That Walks' third three-Chronicle wave (with 'The Battle Fought Inside the Storm,' MCD-458, and 'The Merchant Fleet He Chose to Save,' MCD-459).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
