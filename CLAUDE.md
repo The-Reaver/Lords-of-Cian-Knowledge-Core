@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 23.0, 1,683 rules, 227 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 23.1, 1,687 rules, 228 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1158,6 +1158,32 @@ wager types, the Tether-betting integrity link, three named scandals, fighter tr
 closed-loop economy), the current seven-seat Iron Council, and all eight named Shapers' methods. No
 Google Drive sync needed -- pure ledger content, no new Chronicle files. Ledger reached
 `ledger_version` 23.0, 1,683 rules, 227 batches.
+
+**The Maw Codex source document closed out in full, Batch 228, 2026-09-11 (`MAW-147` through
+`MAW-150`).** Directed to continue the Maw Codex work to completion, cross-checked all 18 named
+fighters in the source document's own "Branded Legends" section against the live ledger and found
+14 already fully covered -- 5 via the Reclamation Records (Lirra Chain-Singer, Mordecai the
+Harvest, Dural the Scarmaker, Korrith the Scorpion, Valor Thenn) and 9 via Batch 227 (Draven the
+First Blood, Thessara Void-Step, Kaedrin the Undying, Essek Nightfall, Brennan Ironsong, Silent
+Mara, the Three Sisters of Dravos, Kullen Gravedust, Renn Hollow) -- leaving exactly 4 genuinely
+undrafted: Graves, Ash Korren, Dray Voss, and Tella Brightblade. All four were already named in
+passing elsewhere in the ledger (Ash Korren/Dray Voss/Tella Brightblade in `MAW-101`'s Apex
+Championship field roster, Graves in `MAW-091`/`MAW-111`'s Reclamation Records), so this batch
+drafted them as extensions pulling in the Branded Legends section's own additional texture rather
+than fresh entries: Ash Korren's (`MAW-147`) transactional-violence fighting style and full Book 1
+Connection framing against Ozmund; Dray Voss's (`MAW-148`) Voss Dravos dynasty origin (900 years, a
+Cestari-born founder) and his own Book 1 Connection framing; Tella Brightblade's (`MAW-149`) Dorne
+Brightblade lineage, the Meritha Consortium's patronage, and her family's horror at the risk; and
+Graves's (`MAW-150`) own name origin (a crowd nickname, not a Brand-Line designation) and the
+Brand-Line's closing interpretation of Vakas's thirty-second pause over his body ("even Vakas
+mourned the honest ones"). Zero new proper-noun collisions (Graves, Ash Korren, Dray Voss, Tella
+Brightblade, Dorne Brightblade, Voss Dravos, Meritha, Seyra, Torven, Drennan, Brightblade Prize all
+checked clean). This closes the Maw Codex source document out in full -- all 8 of its internal
+batches (Pillars, Banners+Pits, Branded Legends, Shapers, Grand Maws, Cestari, Economics,
+Reclamation Records) are now completely reflected in canon; nothing further is queued from this
+source. Abad's approval, quoted verbatim: "continue uninterrupted until completion this includes
+test, commit, push to main origin complete Maw Codex." Ledger reached `ledger_version` 23.1, 1,687
+rules, 228 batches.
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
