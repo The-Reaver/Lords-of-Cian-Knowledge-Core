@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "14.5",
+  "ledger_version": "14.6",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1203,6 +1203,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Kwan Chronicle II (MCD-467). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
+    },
+    {
+      "batch": 143,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Jibaro Chronicle II (MCD-468). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
     }
   ],
   "rules": [
@@ -8732,6 +8739,13 @@
       "id": "MCD-467",
       "category": "phase2-territory-chronicle",
       "statement": "\"The Man Who Had Nothing Left to Give\" (full narrative text at docs/lords-of-cian/chronicles/the-man-who-had-nothing-left-to-give.md), Kwan Chronicle II. Kasa asks a burned-out pastor, once a close ally, to speak publicly again; he refuses at first, genuinely exhausted, and only after weeks of honest visits offers a smaller, quieter statement that still matters -- establishing that 'The Invitation' (PH2-038) cannot manufacture belief or capacity that has been genuinely spent, only invite whatever authentic remainder exists. An unnamed Kanja walks the pastor home afterward, uninvolved. No new named characters. Second Kwan territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-468",
+      "category": "phase2-territory-chronicle",
+      "statement": "\"The Building That Wouldn't Choose a Side\" (full narrative text at docs/lords-of-cian/chronicles/the-building-that-wouldnt-choose-a-side.md), Jibaro Chronicle II. Omoba occupies a neighborhood schoolhouse with a genuinely mixed history of real community benefit and real neglect; 'The Occupation' (PH2-042) fails to activate, establishing that its protection requires genuine moral clarity ('nothing to be ashamed of') and withholds itself from morally mixed institutions, forcing a slower conventional negotiation instead. An unnamed Kanja is present throughout, uninvolved. No new named characters. Second Jibaro territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
