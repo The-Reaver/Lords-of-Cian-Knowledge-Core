@@ -1414,6 +1414,33 @@ Ledger reached `ledger_version` 27.8, 2,086 rules, 275 batches by the end of thi
 duplicate IDs and zero orphaned file references verified after every batch. Per the standing pacing
 rule, the next wave for any alias starts only when Abad points at it.
 
+**Google Drive sync debt closed for waves 22-31, plus a real older gap discovered, 2026-09-11.**
+Abad asked to close the Drive sync debt flagged after the wave 22-31 run. Xaragua Chronicle VI
+(`MCD-1093`) was uploaded directly to the Xaragua territory folder. The 330 alias-Chronicle files
+from Batches 254-275 (waves 22-31 across all eleven aliases) were synced via eleven parallel
+background agents, one per alias, each uploading its own 30 files to the alias's existing Drive
+subfolder (under "Phase 2 Homage Era - Alias Chronicles" / "02 - Chronicles" in the "FINAL FOLDER -
+My Rival's Distance" mirror), reformatted to match each folder's established plain-text convention
+(no markdown backticks, `-----` section breaks, italic-asterisk wrapper lines converted to plain
+text). All 330 uploaded successfully; three agents (Scourge, Storm That Walks, Captain) caught and
+corrected their own mid-run errors (a skipped file, a fabricated-content file) before reporting,
+verified by cross-checking the final Drive listing's titles against the authoritative merge-script
+file list rather than trusting individual upload responses.
+
+**Real finding, not part of what was asked but surfaced by every agent's own verification step:**
+ten of the eleven alias folders are short of their expected wave 1-21 total (63 files) by 6-11 files
+each -- a pre-existing gap predating this session, distinct from the wave 22-31 debt just closed.
+Bane (57, -6), Trench Monarch (56, -7), Industrial Myth (52, -11), Blue-Collar Titan (56, -7),
+Sovereign Ghost of the Great Sea (57, -6), The Scourge (56, -7), Crow King (56, -7), Iron Bastard
+(55, -8), Storm That Walks (56, -7), Captain (57, -6) -- roughly 72 Chronicle files total, likely
+the incomplete tail of the "large backfill... queued" work first noted in Batch 202. **The Lord of
+Embers' agent went further than asked and diffed its full local 93-file inventory against Drive
+titles, found and uploaded its own 6 missing wave-20/21 files, closing that alias out completely at
+93/93** -- the only alias with full 1-31 Drive coverage as of this pass. The other ten aliases'
+older gaps were deliberately left untouched (each agent was scoped to waves 22-31 only) and are
+queued as their own follow-up sync pass whenever Abad wants it -- same pattern, just extended
+further back per alias.
+
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
 lets canon work hand off cleanly to the archive app -- it does not mean canon work stops. The
