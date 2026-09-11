@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "12.4",
+  "ledger_version": "12.5",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1056,6 +1056,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Sovereign Ghost of the Great Sea's second three-entry Alias Chronicle wave (MCD-410 through MCD-412), the fifth of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
+    },
+    {
+      "batch": 122,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Scourge's second three-entry Alias Chronicle wave (MCD-413 through MCD-415), the sixth of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
     }
   ],
   "rules": [
@@ -8200,6 +8207,27 @@
       "id": "MCD-412",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Girl Who Waited for Black Sails\" (full narrative text at docs/lords-of-cian/chronicles/the-girl-who-waited-for-black-sails.md), Sovereign Ghost Alias Chronicle VI, closing the second wave. A seven-year-old's family fishing boat, stranded and facing seizure by a Trust requisition vessel, is saved when the fleet simply positions itself between the two boats and holds position until the requisition captain withdraws -- no shots fired, no boarding. Decades later she tells her grandchildren the story, extending VB-060's presence doctrine into protection rather than only terror, mirroring 'What the Lantern Watch Prayed For' (MCD-379) from the rescued side. No new named characters. Closes the Sovereign Ghost of the Great Sea's second three-Chronicle wave (with 'The Wreck They Named for Him,' MCD-410, and 'What the Hull Told Dol Maren,' MCD-411).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-413",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Golden Terror Left Behind\" (full narrative text at docs/lords-of-cian/chronicles/what-the-golden-terror-left-behind.md), the Scourge Alias Chronicle IV, first entry in the second wave. Long Mask era, the Golden Terror period (ages 80-180, ARS-348). A young crew member who has spent two years studying the Scourge's documented fights asks how to replicate his technique; Kanja details the V3 Forge-Coat's triple-layer composite, the Ironhand Gauntlets' convex knuckle geometry, the Ironfall Boots' impact soles, and the Sovereign Eyes' accidental predator-glow, framing the loadout as twenty years of accumulated mistakes rather than a shortcut technique. Onyx remains sealed at L9 throughout and correctly does not appear. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-414",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ledger Garren Hask Still Kept\" (full narrative text at docs/lords-of-cian/chronicles/the-ledger-garren-hask-still-kept.md), the Scourge Alias Chronicle V. Long Mask era, decades into the persona. An elderly but still active Garren Hask (already locked, CC-115/CC-116, his continued longevity consistent with this world's long baseline lifespans) reveals he has privately kept the crew's 'counter' ledger the entire time, tracking ships saved and captives freed beneath the legend's visible surface; Kanja reflects that he no longer needs the number confirmed the way he once did, and wonders aloud whether the Trench Monarch and the Scourge are still entirely the same person. No new named characters beyond the already-locked Garren Hask.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-415",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Warlord Who Tested the Crescent\" (full narrative text at docs/lords-of-cian/chronicles/the-warlord-who-tested-the-crescent.md), the Scourge Alias Chronicle VI, closing the second wave. Pirate Dawn (ages 48-52). A rival warlord sails into the Gale Straits crescent formation's recognized waters to publicly test whether the black sails' surrender-on-sight reputation (MCD-250) is still real; Kanja fights him personally, one exchange, disarming rather than killing, proving the reputation true in front of every watching crew without needing the warlord's death. His smuggling operation folds within the season. No new named characters; the warlord is unnamed and one-scene. Closes the Scourge's second three-Chronicle wave (with 'What the Golden Terror Left Behind,' MCD-413, and 'The Ledger Garren Hask Still Kept,' MCD-414).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
