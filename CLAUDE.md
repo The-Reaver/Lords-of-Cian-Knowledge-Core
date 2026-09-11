@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-06 it sits at `ledger_version` 7.8, 929 rules, 75 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 15.3, 1,095 rules, 150 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -605,6 +605,121 @@ duplicate IDs verified after every single batch, 102 total Chronicle files. Ever
 sits at two completed waves (six Chronicles each). Genuinely open for whenever Abad wants it next: a
 third wave for any specific alias (continuing toward the 50-100-per-alias long-term target), or any
 other thread. Per the standing pacing rule, no further wave starts automatically.
+
+**All eleven aliases' third waves, plus a territory-Chronicle second-entry sweep, Batches 128-150,
+2026-09-11 (`MCD-431` through `MCD-475`, 45 new Chronicles), under Abad's blanket authorization:
+"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main
+origin," selecting items #1 (more Alias Chronicle waves) and #2 (more territory Chronicles) from a
+six-item options menu offered when Abad asked what remained before moving to the archive build.**
+
+*Part one, Batches 128-138: a third Alias Chronicle wave for all eleven aliases (`MCD-431`-`463`,
+33 new Chronicles), continuing the three-per-alias pacing rule.* Each wave deliberately avoided
+repeating the story shapes of waves one and two, per the same discipline used throughout this
+sub-series:
+- **Bane (`MCD-431`-`433`).** A mercy entry (carrying six wounded enemy soldiers off a field,
+  undercutting his own fear-based reputation on "the fear only works if it's true"); a detailed
+  full-Trinity showcase breaching the fortified Kessic Overwatch garrison; a quiet closer with Efa
+  Gol grounding the persona's real personal cost.
+- **The Trench Monarch (`MCD-434`-`436`).** Dramatizes the origin context behind the already-locked
+  "digging his own crown" quote for the first time on the page; a skeptical overseer independently
+  verifies the reputation through six weeks of cross-checked tally figures; Corren Halst's
+  decades-later retrospective arguing the reputation had no single origin moment.
+- **The Industrial Myth (`MCD-437`-`439`).** A human-scale entry grounding the Furnace District
+  Strike's tally sheets in one hauler family's lived reality; a rival organizer pushing violence
+  tested against the alias's unarmed ethos; a closing reflection from Ezio Valcari on why the
+  numbers-first method outlasts fear-based leverage.
+- **The Blue-Collar Titan (`MCD-440`-`442`).** A detailed flooding-tunnel Trinity combat/rescue
+  showcase; a mediation between two rival tunnel crews over structural-safety information-sharing;
+  a mentorship closer with an elderly Killane digger teaching tactile knowledge no equipment can
+  replicate.
+- **The Sovereign Ghost of the Great Sea (`MCD-443`-`445`).** A detailed fleet-scale Trinity
+  showcase defeating a Directorate task force built specifically to counter the anchor-chain weapon;
+  an impersonating privateer exposed through forced public confession rather than combat; a closing
+  entry with Garren Hask's ghost-fleet ledger confirming the restraint-over-fear pattern.
+- **The Scourge (`MCD-446`-`448`).** A detailed mid-Long-Mask combat showcase breaching the Salt
+  Keep with V2-generation gear (Onyx of Oblivion correctly absent per its established L9 seal
+  throughout the 284-year Long Mask); a non-combat entry where reputation alone extracts a bloodless
+  slaver surrender; a closing scene with an unknowing cabin boy retelling the drifted legend back to
+  the anonymous man who lived it.
+- **The Crow King (`MCD-449`-`451`).** A pure information-deception prisoner extraction with zero
+  combat; a rare entry where Kanja wins by deliberately declining to use the Hymn-Engine against a
+  trust-attacking tactician; a mentorship closer with the Braid's singer becoming a full apprentice.
+- **The Iron Bastard (`MCD-452`-`454`).** A detailed bridge-collapse rear-guard showcase; a genuine
+  doctrine-limit entry where a non-tension-bearing earthen berm defeats the resonance approach
+  entirely, resolved by conventional siegecraft; a closing reflection from a Directorate general
+  conceding the doctrine's adaptability after four engagements.
+- **The Lord of Embers (`MCD-455`-`457`).** A detailed mobile-convoy Trinity combat showcase; an
+  embargo/economic-warfare entry extending "metabolizes punishment" beyond fire for the first time;
+  a years-later legacy closer showing a taught skill outlasting Kanja's own presence.
+- **The Storm That Walks (`MCD-458`-`460`).** A detailed fleet battle fought using the storm's
+  active conditions as a weapon rather than a timing tool; a pure humanitarian storm-rescue of a
+  civilian merchant convoy; a closing entry with a skeptical officer learning to trust Sephtis's
+  storm-timing doctrine.
+- **Captain (`MCD-461`-`463`).** A detailed coordinated-command combat showcase led through the
+  crew rather than solo heroics; a new recruit's onboarding into the "Captain" naming culture; a
+  warm collective toast scene (Corren Halst, Pell Ostra, Garren Hask, Efa Gol) closing not only
+  Captain's wave but the full eleven-alias third-wave run.
+
+Every named alias now has three completed waves (nine Chronicles each, 99 total). No new named
+characters were introduced anywhere in this run; every entry reused already-locked crew (Efa Gol,
+Pell Ostra, Corren Halst, Garren Hask, Callum Breck, Ezio Valcari, Dol Maren, Sephtis) for continuity
+depth instead.
+
+*Part two, Batches 139-150: a second Chronicle entry for every one of the twelve territories that
+still only had one (`MCD-464`-`475`), completing at-least-two-entry coverage across all 20
+homage-era territories* (Xaragua, Areíto, Guanín, Uhuru, Aztlán, Sankofa, Kazi, and Borikén already
+had second entries from earlier sessions). One Chronicle per territory per batch, matching the
+established territory-Chronicle single-entry pacing rather than the alias track's three-per-wave
+pattern:
+- **Yara (`MCD-464`).** A developer's bribe offer tests "Unbought and Unbossed" at real cost to the
+  community, not just Yalokona herself -- refused despite the variance passing and the clinic's
+  funding being delayed eighteen months.
+- **Umoja (`MCD-465`).** Kofi's "One Fire" fails to fully take when extended to a rival tenant
+  organization outside his own established network, establishing the ability accelerates
+  trust-building rather than substituting for years of relational work.
+- **Ide (`MCD-466`).** A successor Magistrate's fabricated counter-account collapses against Ase's
+  original independently-corroborated documentation, proving "Named and Numbered"'s durability years
+  after the fact.
+- **Kwan (`MCD-467`).** Kasa asks a burned-out pastor to speak again; he can't at first, and only a
+  smaller, honest voice emerges after weeks of patient visits, establishing that "The Invitation"
+  cannot manufacture spent belief, only invite what remains.
+- **Jibaro (`MCD-468`).** Omoba occupies a morally mixed schoolhouse and "The Occupation" fails to
+  activate, establishing its protection requires genuine moral clarity and withholds itself from
+  institutions with real harm mixed into their legacy.
+- **Atunbi (`MCD-469`).** A slow reclassification fight plays directly to "Don't Move, Improve"'s
+  own timescale, and Oluwole wins decisively through four years of documented cultivation, balancing
+  Chronicle I's speed-blind-spot failure.
+- **Ijoko (`MCD-470`).** Adwoa builds a local currency/cooperative-lending system over three years to
+  slow tax-base flight -- an ordinary-competence answer to the problem her signature ability
+  explicitly cannot touch.
+- **Orin (`MCD-471`).** A private, non-commercial gathering shows "The Ark" functioning at full
+  communal strength, binding a grieving mother's isolated loss into shared presence -- a direct
+  complement to Chronicle I's proof by absence under commercial conditions.
+- **Taifa (`MCD-472`).** A recruit swears the oath insincerely and is tempted toward betrayal;
+  Osei's inability to feel him through "Kin at a Distance" is itself the warning that catches it in
+  time, confirming the ability's sincerity requirement.
+- **Hekalu (`MCD-473`).** A rival enforcer sent under orders sits at Adom's table but produces no
+  binding at all, confirming "The Common Table" requires genuine free choice, not just physical
+  presence at the meal.
+- **Nyansa (`MCD-474`).** The committee member successfully corrected in Chronicle I faces quiet
+  social ostracism for having genuinely changed his position, extending "The Long Correction" with a
+  real human cost the ability never promised to soften.
+- **Kiti (`MCD-475`).** A six-week medical recess causes "The Long Tenure" to genuinely lapse and
+  then fully reverse upon Owusu's return, confirming concretely for the first time that the strength
+  is institutional, not personal.
+
+Every second-wave territory entry this batch deliberately tested a genuine limit, cost, or
+complementary success case for that territory's signature ability -- none simply repeated a first
+Chronicle's story shape. No new named characters were introduced in any territory entry. The two
+deliberately reserved threads (Sankofa's unresolved forged-letter conspiracy, `PH2-021`; the
+Kanja/Arturo Salvatierra Duho long-arc, `PH2-061`/`062`) were left untouched throughout, per standing
+instruction.
+
+Ledger reached `ledger_version` 15.3, 1,095 rules, 150 batches by the end of this run -- zero
+duplicate IDs verified after every single batch, 147 total Chronicle files. Genuinely open for
+whenever Abad wants it next: a fourth Alias Chronicle wave for any alias, a third territory-Chronicle
+entry for any of the 20 territories, or any other thread. No further wave or sweep starts
+automatically.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
