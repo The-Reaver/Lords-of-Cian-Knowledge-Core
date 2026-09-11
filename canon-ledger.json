@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "18.2",
+  "ledger_version": "18.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1462,6 +1462,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Nyansa Chronicle III (MCD-526). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 180,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Kiti Chronicle III (MCD-527), completing a third territory-Chronicle entry across all 19 territories that had two. Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\" Completes a third territory-Chronicle entry across all 19 territories that had two, giving every one of the 20 homage-era territories at least three Chronicles."
     }
   ],
   "rules": [
@@ -9404,6 +9411,13 @@
       "id": "MCD-526",
       "category": "phase2-territory-chronicle",
       "statement": "Nyansa Chronicle III, \"The Contradiction He Named in Himself\" (full narrative text at docs/lords-of-cian/chronicles/nyansa-chronicle-iii-the-contradiction-he-named-in-himself.md). A younger organizer points out that Adisa quietly abandoned an early position without ever formally correcting it in the movement's record; he applies 'The Long Correction' (PH2-057) to himself for the first time, filing the correction publicly with the same rigor he demands of others. An unnamed Kanja sat through the original session, uninvolved. No new named characters. Third Nyansa territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-527",
+      "category": "phase2-territory-chronicle",
+      "statement": "Kiti Chronicle III, \"The Day He Decided to Leave It Behind\" (full narrative text at docs/lords-of-cian/chronicles/kiti-chronicle-iii-the-day-he-decided-to-leave-it-behind.md). Decades after the illness that first revealed 'The Long Tenure' (PH2-059)'s institutional nature, Owusu deliberately and voluntarily resigns his seat rather than hold it until circumstance forces the choice, closing his arc with a permanent, self-determined loss of the strength distinct from Chronicle II's temporary illness-forced lapse (MCD-475). An unnamed Kanja is present at his departure, uninvolved. No new named characters. Third Kiti territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
