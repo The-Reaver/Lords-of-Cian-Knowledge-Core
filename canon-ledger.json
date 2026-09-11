@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "21.6",
+  "ledger_version": "21.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1700,6 +1700,27 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Lord of Embers's sixteenth Alias Chronicle wave (MCD-921 through MCD-923, 3 rules). Completes wave 16 (33 new Chronicles, Batches 203-213) across all eleven aliases. Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Lord of Embers, completing wave 16 across all eleven aliases (Batches 203-213, 33 new Chronicles, MCD-891 through MCD-923)."
+    },
+    {
+      "batch": 214,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks the Industrial Myth's seventeenth through nineteenth Alias Chronicle waves (MCD-924 through MCD-932, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Industrial Myth."
+    },
+    {
+      "batch": 215,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks Bane's seventeenth through nineteenth Alias Chronicle waves (MCD-933 through MCD-941, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for Bane."
+    },
+    {
+      "batch": 216,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks the Trench Monarch's seventeenth through nineteenth Alias Chronicle waves (MCD-942 through MCD-950, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Trench Monarch."
     }
   ],
   "rules": [
@@ -12421,6 +12442,195 @@
       "id": "MCD-923",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Fire That Asked for No Enemy\" (full narrative text at docs/lords-of-cian/chronicles/the-fire-that-asked-for-no-enemy.md), The Lord of Embers Alias Chronicle XLVIII, wave 16. A lightning-sparked wildfire with no Trust involvement threatens a settlement; the senior smith's already-established successor takes independent command for the first time, forging firebreak-cutting tools while Kanja works as one more hand under her plan -- the first test of \"metabolizes punishment\" against nature rather than any enemy action. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-924",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ledger That Named the Wrong Man\" (full narrative text at docs/lords-of-cian/chronicles/the-ledger-that-named-the-wrong-man.md), The Industrial Myth Alias Chronicle XLIX, wave 17. A testifier weaponizes the ledger process, falsely accusing an innocent junior clerk to settle a personal grudge; Ezio's cross-checking catches the fabricated dates, and Kanja refuses the claim even at cost to the crew's standing. Establishes the ledger protects the innocent from itself, not just advocates for whoever testifies.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-925",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Ezio Refused to Enter\" (full narrative text at docs/lords-of-cian/chronicles/what-ezio-refused-to-enter.md), The Industrial Myth Alias Chronicle L, wave 17. The first real disagreement between Kanja and Ezio: Ezio wants to use a true-but-unrelated personal scandal as fast leverage against a stalling administrator; Kanja refuses, defining a hard boundary (wages/hours/production only, never personal leverage) and leaving Ezio genuinely unpersuaded in the moment.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-926",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Debt With No One Left to Pay It\" (full narrative text at docs/lords-of-cian/chronicles/the-debt-with-no-one-left-to-pay-it.md), The Industrial Myth Alias Chronicle LI, wave 17. An elderly worker's decades-old wage debt traces to a dissolved firm and a long-dead owner -- totally unrecoverable. Introduces \"Recorded. Unrecoverable. True.\" as a new documentation category for cases beyond any possible restitution. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-927",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Man Above the Man Who Owed Her\" (full narrative text at docs/lords-of-cian/chronicles/the-man-above-the-man-who-owed-her.md), The Industrial Myth Alias Chronicle LII, wave 18. The first vertical debt-tracing entry: a wage shortfall is followed up through four honest, non-fabricating intermediary layers to an absentee financier at the top, establishing that responsibility settles at the top of a chain even when every layer beneath is individually blameless.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-928",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night He Didn't Get Up\" (full narrative text at docs/lords-of-cian/chronicles/the-night-he-didnt-get-up.md), The Industrial Myth Alias Chronicle LIII, wave 18. Kanja oversleeps a scheduled testimony morning after weeks of unsustainable back-to-back districts -- pure physical exhaustion, no external threat -- humanizing him and surfacing the campaign's real toll on him personally for the first time.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-929",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Compact of Silence\" (full narrative text at docs/lords-of-cian/chronicles/the-compact-of-silence.md), The Industrial Myth Alias Chronicle LIV, wave 18. A province-wide administrator collusion denies the crew entry outright; resolved when a district's own workers break the blockade from inside after watching Kanja wait patiently at a locked gate for three days without forcing it. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-930",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Blow He Let Land\" (full narrative text at docs/lords-of-cian/chronicles/the-blow-he-let-land.md), The Industrial Myth Alias Chronicle LV, wave 19. The first live, real-time test of the unarmed ethos: an overseer strikes an old worker directly in front of Kanja, well within intervention range, and Kanja documents the assault on the spot instead of stopping it -- dramatizing the restraint's real personal cost in the moment it's hardest to hold.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-931",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ledger's Second Generation\" (full narrative text at docs/lords-of-cian/chronicles/the-ledgers-second-generation.md), The Industrial Myth Alias Chronicle LVI, wave 19. The method propagates a second generation removed from Kanja and Ezio: the quarry district's own trained auditors independently teach a further, previously untouched district -- escalating the self-sustaining-method theme beyond any direct lineage.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-932",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The First Book He Filled\" (full narrative text at docs/lords-of-cian/chronicles/the-first-book-he-filled.md), The Industrial Myth Alias Chronicle LVII, wave 19. A legacy closer from Kanja's own perspective: his original, worn-out first ledger book finally falls apart; he has it carefully copied rather than discarded, reflecting on the campaign's full two-year arc through the physical artifact itself. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-933",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Silence They Built to Blind Him\" (full narrative text at docs/lords-of-cian/chronicles/the-silence-they-built-to-blind-him.md), Bane Alias Chronicle XLIX, wave 17. A Directorate engineering corps builds a sound-deadened depot chamber specifically to defeat Onyx of Oblivion's non-visual sensing; Bane falls back on plain physical tracking to free forty prisoners. First entry to show the enemy successfully targeting and partially neutralizing an established Trinity sensory ability.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-934",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Name They Wanted to Borrow\" (full narrative text at docs/lords-of-cian/chronicles/the-name-they-wanted-to-borrow.md), Bane Alias Chronicle L, wave 17. A settlement asks Bane for permission to invoke his name/reputation as a standing deterrent against a separate bandit threat, with no guarantee he'll be present if tested -- a genuine consent-and-control question about who gets to use his legend.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-935",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night They Came for the Blade\" (full narrative text at docs/lords-of-cian/chronicles/the-night-they-came-for-the-blade.md), Bane Alias Chronicle LI, wave 17. Infiltrators attempt to steal Onyx of Oblivion while Bane sleeps; the theft is thwarted entirely by Garren Hask's own unassigned habit of walking the tent line at night, no Trinity ability involved. First entry to dramatize the Trinity's literal physical vulnerability during rest. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-936",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Crossing They Almost Didn't Make\" (full narrative text at docs/lords-of-cian/chronicles/the-crossing-they-almost-didnt-make.md), Bane Alias Chronicle LII, wave 18. A flash flood turns a safe ford into a torrent mid-evacuation of ninety refugees with a Directorate company in pursuit. Mafesto's Kinetic Transfer System proves useless against unstable moving water; the crossing succeeds through rope-work, crew coordination, and Bane's own swimming.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-937",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Stays After the First One\" (full narrative text at docs/lords-of-cian/chronicles/what-stays-after-the-first-one.md), Bane Alias Chronicle LIII, wave 18. A seventeen-year-old recruit kills for the first time and is left numb; Bane counsels him privately, drawing on his own remembered first kill. First dedicated first-kill trauma/mentorship entry for this alias.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-938",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What He Couldn't Be in Two Places For\" (full narrative text at docs/lords-of-cian/chronicles/what-he-couldnt-be-in-two-places-for.md), Bane Alias Chronicle LIV, wave 18. Two crises break simultaneously -- a poisoned well and an imminent ambush on a refugee column. Bane splits the column, trusting Maret Vos to run the interception alone; both succeed, but he admits the numbers won't always favor a split this cleanly. First genuine parallel dual-crisis dilemma. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-939",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Council That Asked Him to Speak Plainly\" (full narrative text at docs/lords-of-cian/chronicles/the-council-that-asked-him-to-speak-plainly.md), Bane Alias Chronicle LV, wave 19. A neutral cross-faction arbiter council summons Bane to answer fabricated and exaggerated atrocity claims; he testifies disarmed, answering honestly for real failures while refusing accusations the record doesn't support. First formal institutional/legal-tribunal register for this alias.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-940",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The One Who Didn't Need Him Anymore\" (full narrative text at docs/lords-of-cian/chronicles/the-one-who-didnt-need-him-anymore.md), Bane Alias Chronicle LVI, wave 19. Passing through Threndale, the column discovers a thriving relief operation run by a woman freed two years earlier in an operation Bane barely remembers. She tells him plainly she doesn't need thanking or owing. A single-thread legacy/ripple-effect entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-941",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Argument Halst Won\" (full narrative text at docs/lords-of-cian/chronicles/the-argument-halst-won.md), Bane Alias Chronicle LVII, wave 19. Corren Halst openly and publicly opposes Bane's plan to strike a weakened garrison; the disagreement is settled by a polled vote among senior members rather than Bane's authority. Halst turns out to be right, establishing Bane's command isn't absolute. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-942",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fever That Wouldn't Break\" (full narrative text at docs/lords-of-cian/chronicles/the-fever-that-wouldnt-break.md), The Trench Monarch Alias Chronicle XLIX, wave 17. Kanja is struck down by a canal-borne cistern fever and spends days fully dependent on Corren Halst, Danne Sok, and Maret Vos for care -- the alias's first illness/physical-vulnerability register. Once recovered, he institutes a permanent water-boiling sanitation rule.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-943",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Man Who Sold the Hour\" (full narrative text at docs/lords-of-cian/chronicles/the-man-who-sold-the-hour.md), The Trench Monarch Alias Chronicle L, wave 17. A trusted runner inside Kanja's own network sells advance raid timing for a small bribe. Pell Ostra traces the leak; rather than punishing the runner, Kanja lets him earn back trust through six months of unpaid verification work -- the first internal-betrayal/restorative-justice register.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-944",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Two Weeks He Wasn't There\" (full narrative text at docs/lords-of-cian/chronicles/the-two-weeks-he-wasnt-there.md), The Trench Monarch Alias Chronicle LI, wave 17. Reframes the two prior entries as one fortnight in which Halst, Sok, and Vos ran three sites entirely independently while Kanja was incapacitated -- the first dramatization of the method surviving its own originator's total absence. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-945",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Debt Owed to No One Living\" (full narrative text at docs/lords-of-cian/chronicles/the-debt-owed-to-no-one-living.md), The Trench Monarch Alias Chronicle LII, wave 18. Kanja mediates a grieving daughter-and-uncle inheritance dispute over a dead worker's small estate -- a purely civil/domestic register with no owner, no tally figure, and no institutional wrongdoing to correct.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-946",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Crowd That Came to See a King\" (full narrative text at docs/lords-of-cian/chronicles/the-crowd-that-came-to-see-a-king.md), The Trench Monarch Alias Chronicle LIII, wave 18. Two hundred pilgrims and onlookers descend on a site with no grievance at all, halting real work; Kanja publicly demystifies himself to disperse them, revealing six genuine grievances hidden inside the crowd -- dramatizing fame's logistical burden.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-947",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Copy That Broke What It Borrowed\" (full narrative text at docs/lords-of-cian/chronicles/the-copy-that-broke-what-it-borrowed.md), The Trench Monarch Alias Chronicle LIV, wave 18. A distant region's workers badly imitate the tally method without its verification discipline, wrongly ruining an innocent owner and costing forty jobs; Kanja travels three weeks to teach the slow, real method -- his legend outrunning his control over its execution. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-948",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boy Who Wouldn't Stay Down\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-who-wouldnt-stay-down.md), The Trench Monarch Alias Chronicle LV, wave 19. Kanja personally trains a bullied fourteen-year-old dredge-site bystander in footwork and self-defense over six weeks, deliberately declining to recruit him into the crew -- direct mentorship that doesn't convert into reputation or crew membership.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-949",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Trade He Wouldn't Make\" (full narrative text at docs/lords-of-cian/chronicles/the-trade-he-wouldnt-make.md), The Trench Monarch Alias Chronicle LVI, wave 19. A Compliance officer offers real, valuable raid-warning intelligence in exchange for Kanja's silence about an unrelated smuggling operation. Kanja refuses at acknowledged real cost -- the alias's first temptation-toward-profitable-compromise register.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-950",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Canal Remembered By Itself\" (full narrative text at docs/lords-of-cian/chronicles/what-the-canal-remembered-by-itself.md), The Trench Monarch Alias Chronicle LVII, wave 19. An uninvolved longtime shopkeeper gives an outsider's historical account of how wage theft went from routine to rare along the canal, concluding the change no longer depends on Kanja's presence. Closes wave 19.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
