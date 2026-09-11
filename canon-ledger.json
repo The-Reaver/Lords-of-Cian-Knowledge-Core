@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "19.1",
+  "ledger_version": "19.2",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1525,6 +1525,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Iron Bastard's fifth three-entry Alias Chronicle wave (MCD-549 through MCD-551). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
+    },
+    {
+      "batch": 189,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Lord of Embers' fifth three-entry Alias Chronicle wave (MCD-552 through MCD-554). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9642,6 +9649,27 @@
       "id": "MCD-551",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Scholar Finally Published\" (full narrative text at docs/lords-of-cian/chronicles/what-the-scholar-finally-published.md), the Iron Bastard Alias Chronicle XV, closing the fifth wave. The Trust scholar from MCD-421 finally publishes his once-shelved research through an independent academy years later, extending the doctrine's honesty-outlasts-suppression theme into institutional legitimization achieved through patience. No new named characters beyond the already-locked scholar. Closes the Iron Bastard's fifth three-Chronicle wave (with 'The Day of Ten Engines,' MCD-549, and 'The Wall That Lied to Him,' MCD-550).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-552",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night All Five Forges Burned at Once\" (full narrative text at docs/lords-of-cian/chronicles/the-night-all-five-forges-burned-at-once.md), the Lord of Embers Alias Chronicle XVI, first entry in the fifth wave. A detailed, large-scale combat showcase: a coordinated Directorate assault hits five linked forge sites simultaneously, and Kanja moves between all five within a single hour using Mafesto's converted charge, Obsidian Malice, and Onyx of Oblivion, none of the sites falling. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-553",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Smith Who Built Their Weapons\" (full narrative text at docs/lords-of-cian/chronicles/the-smith-who-built-their-weapons.md), the Lord of Embers Alias Chronicle XVII. A captured Directorate smith who forged the siege engines that killed rebel fighters is offered work rather than punishment, testing 'metabolizes punishment' against a skilled enemy craftsman rather than only civilians or economic pressure, over the crew's own genuine anger. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-554",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Old Smith Saw in the Ashes\" (full narrative text at docs/lords-of-cian/chronicles/what-the-old-smith-saw-in-the-ashes.md), the Lord of Embers Alias Chronicle XVIII, closing the fifth wave. The campaign's recurring senior smith (first referenced in MCD-502) finds Kanja alone at the forge the night after the five-site attack, witnessing the private toll behind the reputation for the first time. No new named characters. Closes the Lord of Embers' fifth three-Chronicle wave (with 'The Night All Five Forges Burned at Once,' MCD-552, and 'The Smith Who Built Their Weapons,' MCD-553).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
