@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 25.6, 1,756 rules, 253 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 26.7, 2,053 rules, 264 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1321,6 +1321,57 @@ duplicating the already-locked "Captain" naming pattern. Closes on the first gen
 between the two of them, Yaisa's blessing implicit throughout. No new named characters. Abad's
 approval: "lock it." Ledger reached `ledger_version` 25.6, 1,756 rules, 253 batches. Both of Batch
 225's deliberately reserved threads (Sankofa's conspiracy, the Kanja/Arturo long-arc) are now closed.
+
+**A twenty-second through thirtieth Alias Chronicle wave for all eleven aliases, Batches 254-264,
+2026-09-11 (`MCD-1094` through `MCD-1390`, 297 new Chronicles), under Abad's blanket authorization:
+"lets do this 22nd Alias Chronicle wave for any/all of the eleven aliases to the 30th wave and you
+are to continue uninterrupted until completion this includes rigorous testing, commit, push to main
+origin."** The largest single alias-track run since the ten-wave push in Batches 192-202: nine full
+waves (27 Chronicles each) for every one of the eleven aliases, produced via eleven parallel
+background drafting agents, each given explicit instructions to grep its own alias's complete
+63-entry prior history directly from the ledger before drafting (rather than a hand-summarized
+recap), collision-check before inventing any new proper noun, and write both the Chronicle files and
+an unexecuted merge script for the orchestrating session to review and run -- agents were barred from
+running their own scripts or touching canon-ledger.json/git, matching the established parallel-safety
+pattern. Every named alias now has **thirty complete waves -- ninety Chronicles each, 990 Alias
+Chronicles total**.
+
+Representative new registers across the nine waves: Bane gets its first two recurring (not one-scene)
+named characters in the whole sub-series -- Toran, a second-tier field commander personally trained
+by Corren Halst, and Colonel Serrin Draeth, a three-entry recurring antagonist resolved through
+`VB-060` itself rather than combat -- plus its first genuine Obsidian Malice equipment failure and a
+civilian death from Bane's own crossfire; the Trench Monarch closes on a deliberate non-eve-of-battle
+ensemble scene after research confirmed wave 15 had already used that beat, and gets dedicated
+mechanic deep-dives on Whisper of Shadows, Soulbound Edge, and Cadence Ruin each with a first-shown
+cost; the Industrial Myth stays strictly unarmed throughout and dramatizes a genuine death caused by
+the method's own investigative pace, prompting a new emergency-relief standing practice, closing on
+the now-eleven-volume archive; the Blue-Collar Titan opens new hazard registers (seismic tremor,
+corrosive acid vapor, geothermal heat) and a self-governing workers' council that formally reprimands
+Kanja himself; the Sovereign Ghost of the Great Sea gets one new named character (Mirella, a deceased
+long-serving cook) and pushes into first-contact discovery past the edge of every chart, economic
+ethics (Dol Maren refusing to commercialize safety knowledge), and a fleet caught mid-refit and
+under-strength; the Scourge closes on age 313, one year before the already-locked end of the Long
+Mask at age 314 (`MCD-1022`), without touching or contradicting that entry, and dramatizes the
+Breath Collar, Ironfall Boots, Smoke System, and Sovereign Eyes V4 in new settings; the Crow King runs
+its first operation with Kanja and all three generations together and tests his own vulnerability
+directly (a near-deception, temporary deafness); the Iron Bastard's darkest entry yet is a cohort
+graduate who understood the doctrine's ethics fully and betrayed them anyway, closing on a genuinely
+unresolved new countermeasure left as an open hook; the Lord of Embers pays off two long-open hooks
+(the exaggerated ballad, the counterfeit-mark arms race) and survives an unplanned succession crisis
+when the senior smith's health forces early retirement; the Storm That Walks closes with the school
+running a full storm season with Kanja completely absent for the first time across the whole track,
+and gives the retired successor her own death-and-legacy arc mirroring Sephtis's; and Captain gets two
+new named characters (Joran, a father lost in the sub-series' first outright rescue failure, and Mira,
+his orphaned daughter who recurs warmly through the remaining waves) and pays off the five-year
+succession promise into a rotating council-chair structure. Every other returning character across all
+297 entries reused already-locked crew (Corren Halst, Danne Sok, Efa Gol, Callum Breck, Maret Vos --
+he/him throughout per the Batch 226 reconciliation -- Garren Hask and his lineage, Ezio Valcari, Pell
+Ostra, Dol Maren -- he/him per the same reconciliation -- Sephtis and his successor, Tavin Greer, and
+the recurring Trust scholar/Directorate general/student for the Iron Bastard).
+
+Ledger reached `ledger_version` 26.7, 2,053 rules, 264 batches by the end of this run -- zero
+duplicate IDs and zero orphaned file references verified after every batch. Per the standing pacing
+rule, the next wave for any alias starts only when Abad points at it.
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
