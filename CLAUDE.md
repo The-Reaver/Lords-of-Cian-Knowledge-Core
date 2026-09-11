@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 22.9, 1,644 rules, 226 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 23.0, 1,683 rules, 227 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1117,6 +1117,47 @@ uploads. Given the risk of overwriting the wrong one or adding a fourth stale co
 alone rather than guessed at; every session before this one has hit the same "no way to reach the
 Project" wall per this file's own standing instruction, and nothing suggests that changed here. Worth
 a direct decision from Abad on which location (if any) is real before any session touches it.
+
+**The Maw Codex Section D backlog closed, Batch 227, 2026-09-11 (`MAW-075` through `MAW-079`,
+`MAW-083` through `MAW-089`, `MAW-095`, `MAW-096`, `MAW-122` through `MAW-146` -- 39 rules).** Batch
+103's own note had left Section D's larger remaining inventory queued: the 18 Branded Legends, the
+doctrinal matchup grid's real percentages, the ten Banners in full, the Pits' real scale, the current
+seven-seat Iron Council, named Shapers' methods, deeper Cestari operational depth, the Marker
+Rebellion/Long Walk in full, and betting-economics depth. Asked how much remaining work could run
+continuously to completion, Abad selected this lane from an options menu. Re-fetched the same source
+document (`Maw_Codex_Definitive_Edition.docx`, Drive fileId `1uKHTHJcZob-4oDPjrd7U0o2Nlu-bGSiv`,
+290,147 extracted characters -- confirmed via character-count matching to be the same file Batch 103
+used despite that batch's note citing a "_3" suffix that doesn't exist in Drive) and split it across
+four parallel background drafting agents by sub-topic. Consolidating their reports myself surfaced
+and resolved three real coordination issues before presenting anything to Abad: three agents had
+independently proposed overlapping ID ranges starting at `MAW-122` (renumbered into non-overlapping
+sequential blocks, cross-references rewritten to match); two agents independently drafted the same
+two characters (Silent Mara, Essek Nightfall) from different source sections (kept the fuller version
+as canonical, converted the other into a cross-reference); and two real naming collisions the agents
+caught themselves were verified by me directly against the live ledger before accepting -- "Kael the
+Undying" renamed to **Kaedrin the Undying** (avoiding a third distinct "Kael" alongside already-locked
+Kael Stonehand and Kael Threnn), and the Marker Rebellion's eleven-day work stoppage "the Silence"
+renamed to **the Hush** (avoiding collision with the already-locked character epithet "the Silence" =
+Decimus Korr). One real geography conflict was escalated to Abad rather than resolved unilaterally:
+the source places House Rathaan's patron body, "the Rathaan Tribal Council," in the Shattered
+Kingdoms, but the already-locked Rathaan Federation (`POL-090`) sits in the Lawless Reaches per
+`GEO-002`; Abad ruled it's the same body and the Lawless Reaches controls, per the established
+Atlas-controls precedent. One genuine hedge was deliberately preserved rather than papered over:
+Silent Mara's speculative tie to Anansi's Ghost-Lattice network carries an unresolved ~700-year
+chronology gap against the network's established founding during Kanja's Rebellion, left as-is given
+the Rex/Mar bloodline's unquantified longevity. The consolidated 39-rule draft was presented in full;
+Abad's approval, quoted verbatim: "I approve." This closes out Section D in full -- the doctrinal
+matchup grid (`MAW-122`), five named Branded Legends beyond the already-locked roster (Draven the
+First Blood, Thessara Void-Step, Kaedrin the Undying, Essek Nightfall, Brennan Ironsong, Silent Mara)
+plus extensions to two already-locked figures (Kullen Gravedust, Renn Hollow), all ten Banners with
+their patron houses, the Pits' four-tier pipeline and four Named Pits, full Cestari operational depth
+(Farm production, the brand mechanism, Handler Hierarchy, coded Brand-Line methods, manumission-ratio
+mechanics -- child-safety-checked clean by the drafting agent), the Marker Rebellion/Long Walk's
+remaining detail, betting-economics depth (revenue streams, Reckoner licensing, the odds model and
+wager types, the Tether-betting integrity link, three named scandals, fighter transfers, the
+closed-loop economy), the current seven-seat Iron Council, and all eight named Shapers' methods. No
+Google Drive sync needed -- pure ledger content, no new Chronicle files. Ledger reached
+`ledger_version` 23.0, 1,683 rules, 227 batches.
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
