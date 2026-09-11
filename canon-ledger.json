@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "17.6",
+  "ledger_version": "17.7",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1420,6 +1420,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Atunbi Chronicle III (MCD-520). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 174,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Ijoko Chronicle III (MCD-521). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9320,6 +9327,13 @@
       "id": "MCD-520",
       "category": "phase2-territory-chronicle",
       "statement": "Atunbi Chronicle III, \"The Ones Who Wanted It Faster\" (full narrative text at docs/lords-of-cian/chronicles/atunbi-chronicle-iii-the-ones-who-wanted-it-faster.md). A younger cohort presses Oluwole for faster, more visible action; rather than dismiss or capitulate, he negotiates a genuine, ongoing accommodation between urgency and patience, extending both the fast-failure (MCD-348) and slow-success (MCD-469) precedents into an internal generational tension rather than an external threat. An unnamed Kanja listens throughout, uninvolved. No new named characters. Third Atunbi territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-521",
+      "category": "phase2-territory-chronicle",
+      "statement": "Ijoko Chronicle III, \"The Criticism She Couldn't Dismiss\" (full narrative text at docs/lords-of-cian/chronicles/ijoko-chronicle-iii-the-criticism-she-couldnt-dismiss.md). A genuine ally's well-reasoned critique that the cooperative lending system favors established businesses nearly gets treated with the same iron resilience Adwoa uses against deniable mockery; she catches the mistake, restructures the lending priority, and develops discernment between hostility and honest criticism for the first time. An unnamed Kanja is present, uninvolved. No new named characters. Third Ijoko territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
