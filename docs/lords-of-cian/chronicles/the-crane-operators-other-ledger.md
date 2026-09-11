@@ -1,9 +1,6 @@
 # The Crane Operator's Other Ledger
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Industrial Myth Alias Chronicle II, wave 9.
-Rebellion era (age 19-21), unarmed and non-combat throughout, matching the alias's established
-ethos, told partly from Maret Vos's perspective -- already a locked named character. Not a territory
-Chronicle. No new named characters beyond the already-locked Maret Vos.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-751`). The Industrial Myth Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

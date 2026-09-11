@@ -1,10 +1,6 @@
 # The Strait That Ate the Light
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXIX. Rebellion era, age 21, some months after Ghost Harbor (`MCD-235`). Not a territory Chronicle.
-New standalone material — a detailed multi-day fog-bound engagement, distinct in mechanic from every
-prior large-scale Sovereign Ghost battle. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-784`). Sovereign Ghost of the Great Sea Alias Chronicle XXIX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

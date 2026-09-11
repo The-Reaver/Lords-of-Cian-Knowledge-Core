@@ -1,9 +1,6 @@
 # The Decoys Efa Gol Never Used
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXXVI, closing the twelfth wave. Rebellion era, age 22, roughly a year after Ghost Harbor (`MCD-235`).
-Not a territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new
-named characters beyond the already-locked Efa Gol.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-791`). Sovereign Ghost of the Great Sea Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

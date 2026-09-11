@@ -1,9 +1,6 @@
 # What the Ear Remembers After the War
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XLV, closing the
-fifteenth wave. Rebellion era, age 25, framed as a late-Rebellion reflective vantage point. Not a
-territory Chronicle. New standalone material — a capstone reflective closer for the run. Narrated in
-neutral third-person prose. No new named characters beyond the already-locked Trust scholar.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-740`). The Iron Bastard Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

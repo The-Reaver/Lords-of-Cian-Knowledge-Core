@@ -1,10 +1,6 @@
 # Pell Ostra's Last Watch of the Campaign
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Industrial Myth Alias Chronicle III, wave 15,
-closing the wave. Rebellion era (age 21), the night before the Furnace District Strike itself
-(`MCD-244`), unarmed and non-combat throughout, told from Pell Ostra's perspective -- already a
-locked named character. Not a territory Chronicle. No new named characters beyond the already-locked
-Pell Ostra.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-770`). The Industrial Myth Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

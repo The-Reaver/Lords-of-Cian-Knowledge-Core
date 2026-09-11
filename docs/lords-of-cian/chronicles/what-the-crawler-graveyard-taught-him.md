@@ -1,8 +1,6 @@
 # What the Crawler Graveyard Taught Him
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXV, first entry in
-the ninth wave. Rebellion era, age 25. Not a territory Chronicle. New standalone material — a
-near-miss verification entry. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-720`). The Iron Bastard Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

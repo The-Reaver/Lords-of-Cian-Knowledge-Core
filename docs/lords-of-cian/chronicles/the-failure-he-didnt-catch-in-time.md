@@ -1,9 +1,6 @@
 # The Failure He Didn't Catch in Time
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXXII. Rebellion
-era, age 25. Not a territory Chronicle. New standalone material — a genuine tragedy entry, the
-doctrine's first fatal misdiagnosis. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-727`). The Iron Bastard Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

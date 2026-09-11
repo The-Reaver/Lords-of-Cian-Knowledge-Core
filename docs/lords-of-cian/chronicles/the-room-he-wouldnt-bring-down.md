@@ -1,9 +1,6 @@
 # The Room He Wouldn't Bring Down
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXIII. Rebellion era,
-age 25. Not a territory Chronicle. New standalone material — an ethical-restraint entry showing
-surgical precision rather than refusal alone. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-718`). The Iron Bastard Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

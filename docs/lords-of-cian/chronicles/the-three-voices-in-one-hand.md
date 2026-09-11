@@ -1,9 +1,6 @@
 # The Three Voices in One Hand
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXVI. Rebellion era,
-age 25. Not a territory Chronicle. New standalone material — a detailed mechanic-deepening showcase
-of the full Trinity used as a single diagnostic network. Narrated in neutral third-person prose. No
-new named characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-721`). The Iron Bastard Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,9 +1,6 @@
 # The Crawler That Listened Back
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXXVIII. Rebellion
-era, age 25. Not a territory Chronicle. New standalone material — a real-risk escalation entry, the
-first countermeasure capable of injuring Kanja through the Talisman itself. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-733`). The Iron Bastard Alias Chronicle XXXVIII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

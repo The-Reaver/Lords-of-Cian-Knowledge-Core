@@ -1,9 +1,6 @@
 # The Doctrine They Taught Their Own Engineers
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXVIII, first entry
-in the tenth wave. Rebellion era, age 25, roughly a year after the events of "No Ground Worth Taking"
-(`MCD-386`). Not a territory Chronicle. New standalone material — a legacy/institutional entry.
-Narrated in neutral third-person prose. No new named characters beyond the already-locked general.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-723`). The Iron Bastard Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

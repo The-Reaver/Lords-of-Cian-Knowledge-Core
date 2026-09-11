@@ -1,8 +1,6 @@
 # What Stood Between Him and the Metal
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XX. Rebellion era,
-age 25. Not a territory Chronicle. New standalone material — a tactical/positioning entry rather
-than a mechanic-defeating one. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-715`). The Iron Bastard Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

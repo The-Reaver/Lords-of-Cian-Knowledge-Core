@@ -1,9 +1,6 @@
 # The Hull Dol Maren Wasn't Finished With
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXXIX, closing the thirteenth wave. Rebellion era, age 22, roughly a year after Ghost Harbor
-(`MCD-235`). Not a territory Chronicle. New standalone material. Narrated in neutral third-person
-prose. No new named characters beyond the already-locked Dol Maren.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-794`). Sovereign Ghost of the Great Sea Alias Chronicle XXXIX, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,9 +1,6 @@
 # The Second Student
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXIV, closing the
-eighth wave. Rebellion era, age 25, some months after the events of "The Student Who Chose Restraint"
-(`MCD-499`). Not a territory Chronicle. New standalone material — a generational-transmission entry.
-Narrated in neutral third-person prose. No new named characters beyond the already-locked student.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-719`). The Iron Bastard Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

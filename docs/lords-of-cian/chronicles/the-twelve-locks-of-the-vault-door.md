@@ -1,9 +1,6 @@
 # The Twelve Locks of the Vault Door
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXXIV, first entry
-in the twelfth wave. Rebellion era, age 25. Not a territory Chronicle. New standalone material — a
-precision-extraction entry, the doctrine's first non-destructive use. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-729`). The Iron Bastard Alias Chronicle XXXIV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

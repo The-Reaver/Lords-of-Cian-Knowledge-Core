@@ -1,9 +1,6 @@
 # What Pell Ostra Cleared
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle XXI,
-closing the seventh wave. Rebellion era, age 21, some months after Ghost Harbor (`MCD-235`). Not a
-territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
-characters beyond the already-locked Pell Ostra.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-776`). Sovereign Ghost of the Great Sea Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

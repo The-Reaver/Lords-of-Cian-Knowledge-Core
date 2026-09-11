@@ -1,9 +1,6 @@
 # What the Reef Wanted to Take
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XVII. Rebellion era, age 21, some months after Ghost Harbor (`MCD-235`). Not a territory Chronicle.
-New standalone material — a detailed navigational-trap-and-counter-ambush showcase. Narrated in
-neutral third-person prose. No new named characters.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-772`). Sovereign Ghost of the Great Sea Alias Chronicle XVII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

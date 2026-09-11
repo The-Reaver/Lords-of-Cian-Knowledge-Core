@@ -1,9 +1,6 @@
 # What Danne Sok Charted
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXIV, closing the eighth wave. Rebellion era, age 21, some months after Ghost Harbor (`MCD-235`). Not
-a territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
-characters beyond the already-locked Danne Sok.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-779`). Sovereign Ghost of the Great Sea Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,9 +1,6 @@
 # The Wind She Read Better
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXIII. Rebellion era, age 21, some months after Ghost Harbor (`MCD-235`). Not a territory Chronicle.
-New standalone material — a pure-seamanship pursuit with no boarding and no Trinity powers deployed.
-Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-778`). Sovereign Ghost of the Great Sea Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

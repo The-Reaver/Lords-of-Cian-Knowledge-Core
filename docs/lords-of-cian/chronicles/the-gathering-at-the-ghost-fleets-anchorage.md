@@ -1,9 +1,6 @@
 # The Gathering at the Ghost Fleet's Anchorage
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle XLV,
-closing the fifteenth wave. Rebellion era, age 22, roughly a year after Ghost Harbor (`MCD-235`). Not
-a territory Chronicle. New standalone material — a warm ensemble closer. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked crew.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-800`). Sovereign Ghost of the Great Sea Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

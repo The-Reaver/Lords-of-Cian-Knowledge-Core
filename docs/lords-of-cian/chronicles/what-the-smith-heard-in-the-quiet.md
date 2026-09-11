@@ -1,8 +1,6 @@
 # What the Smith Heard in the Quiet
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXVII, closing the
-ninth wave. Rebellion era, age 25. Not a territory Chronicle. New standalone material — a
-human-interest closer. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-722`). The Iron Bastard Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

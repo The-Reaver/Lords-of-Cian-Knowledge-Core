@@ -1,9 +1,6 @@
 # Terms Without Blood
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXII, first entry in the eighth wave. Rebellion era, age 21, some months after Ghost Harbor
-(`MCD-235`). Not a territory Chronicle. New standalone material — a diplomatic entry with no combat.
-Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-777`). Sovereign Ghost of the Great Sea Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

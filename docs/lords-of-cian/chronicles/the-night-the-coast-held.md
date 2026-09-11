@@ -1,9 +1,6 @@
 # The Night the Coast Held
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXVI. Rebellion era, age 21, some months after Ghost Harbor (`MCD-235`). Not a territory Chronicle.
-New standalone material — a detailed combined Trinity showcase defending civilians from a non-Trust
-raiding fleet. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-781`). Sovereign Ghost of the Great Sea Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

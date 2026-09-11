@@ -1,9 +1,6 @@
 # The Last District Before the Strike
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Industrial Myth Alias Chronicle I, wave 10.
-Rebellion era (age 21), immediately preceding the Furnace District Strike itself (`MCD-244`), unarmed
-and non-combat throughout. Not a territory Chronicle. Narrated in neutral third-person prose. No new
-named characters.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-753`). The Industrial Myth Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,9 +1,6 @@
 # The One Who Faked the Sound
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XLI. Rebellion era,
-age 25. Not a territory Chronicle. New standalone material — a bait/ambush entry resolved through
-judgment rather than technical verification. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-736`). The Iron Bastard Alias Chronicle XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

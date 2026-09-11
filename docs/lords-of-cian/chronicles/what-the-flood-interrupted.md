@@ -1,8 +1,6 @@
 # What the Flood Interrupted
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Industrial Myth Alias Chronicle I, wave 9.
-Rebellion era (age 19-21), unarmed and non-combat throughout, matching the alias's established
-ethos. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-750`). The Industrial Myth Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

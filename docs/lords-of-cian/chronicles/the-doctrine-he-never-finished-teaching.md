@@ -1,9 +1,6 @@
 # The Doctrine He Never Finished Teaching
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XLIV. Rebellion era,
-age 25, some time after "The Second Student" (wave eight, this same alias). Not a territory
-Chronicle. New standalone material — a bittersweet reflective entry. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked student.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-739`). The Iron Bastard Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

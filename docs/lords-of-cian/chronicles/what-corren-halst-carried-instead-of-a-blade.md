@@ -1,9 +1,6 @@
 # What Corren Halst Carried Instead of a Blade
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Industrial Myth Alias Chronicle III, wave 11,
-closing the wave. Rebellion era (age 19-21), unarmed and non-combat throughout, matching the alias's
-established ethos, told partly from Corren Halst's perspective -- already a locked named character.
-Not a territory Chronicle. No new named characters beyond the already-locked Corren Halst.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-758`). The Industrial Myth Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

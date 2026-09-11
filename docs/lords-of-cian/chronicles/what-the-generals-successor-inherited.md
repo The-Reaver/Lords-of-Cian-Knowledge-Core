@@ -1,10 +1,6 @@
 # What the General's Successor Inherited
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXXIX, closing the
-thirteenth wave. Rebellion era, age 25, roughly two years after "No Ground Worth Taking" (`MCD-386`).
-Not a territory Chronicle. New standalone material — a legacy-continuity closer. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked general, referenced but not
-present.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-734`). The Iron Bastard Alias Chronicle XXXIX, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

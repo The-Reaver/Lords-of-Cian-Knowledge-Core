@@ -1,8 +1,6 @@
 # The Council That Wanted the Method Banned
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXXV. Rebellion era,
-age 25. Not a territory Chronicle. New standalone material — an institutional/political entry.
-Narrated in neutral third-person prose. No new named characters beyond the already-locked general.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-730`). The Iron Bastard Alias Chronicle XXXV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

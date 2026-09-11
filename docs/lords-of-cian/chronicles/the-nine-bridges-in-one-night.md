@@ -1,9 +1,6 @@
 # The Nine Bridges in One Night
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XL, first entry in
-the fourteenth wave. Rebellion era, age 25. Not a territory Chronicle. New standalone material — a
-large-scale coordinated-logistics showcase. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-735`). The Iron Bastard Alias Chronicle XL, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

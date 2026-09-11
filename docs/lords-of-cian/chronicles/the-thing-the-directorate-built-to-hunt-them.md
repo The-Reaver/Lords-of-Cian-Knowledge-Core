@@ -1,9 +1,6 @@
 # The Thing the Directorate Built to Hunt Them
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXXVIII. Rebellion era, age 22, roughly a year after Ghost Harbor (`MCD-235`). Not a territory
-Chronicle. New standalone material — a detailed showcase against a Directorate-engineered mechanical
-threat rather than a crewed vessel. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-793`). Sovereign Ghost of the Great Sea Alias Chronicle XXXVIII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

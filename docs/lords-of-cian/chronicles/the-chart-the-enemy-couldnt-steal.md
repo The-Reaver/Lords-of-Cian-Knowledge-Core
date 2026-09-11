@@ -1,9 +1,6 @@
 # The Chart the Enemy Couldn't Steal
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXVII, closing the ninth wave. Rebellion era, age 21, some months after Ghost Harbor (`MCD-235`). Not
-a territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
-characters beyond the already-locked Corren Halst.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-782`). Sovereign Ghost of the Great Sea Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

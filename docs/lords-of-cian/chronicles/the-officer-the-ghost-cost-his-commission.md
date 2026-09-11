@@ -1,9 +1,6 @@
 # The Officer the Ghost Cost His Commission
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle XL,
-first entry in the fourteenth wave. Rebellion era, age 22, roughly a year after Ghost Harbor
-(`MCD-235`). Not a territory Chronicle. New standalone material — a genuine collateral human cost
-within the Trust's own ranks. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-795`). Sovereign Ghost of the Great Sea Alias Chronicle XL, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

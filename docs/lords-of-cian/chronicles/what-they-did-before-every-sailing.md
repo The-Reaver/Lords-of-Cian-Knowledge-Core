@@ -1,9 +1,6 @@
 # What They Did Before Every Sailing
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle XLII,
-closing the fourteenth wave. Rebellion era, age 22, roughly a year after Ghost Harbor (`MCD-235`). Not
-a territory Chronicle. New standalone material — a grounding ensemble closer. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked crew.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-797`). Sovereign Ghost of the Great Sea Alias Chronicle XLII, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

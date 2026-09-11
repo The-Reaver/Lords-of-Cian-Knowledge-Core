@@ -1,9 +1,6 @@
 # What the Widow Asked Him
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XXXIII, closing the
-eleventh wave. Rebellion era, age 25, days after the events of "The Failure He Didn't Catch in Time."
-Not a territory Chronicle. New standalone material — an emotionally heavy aftermath entry. Narrated
-in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-728`). The Iron Bastard Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,9 +1,6 @@
 # The Night He Let Them See Everything
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle
-XXXVII, first entry in the thirteenth wave. Rebellion era, age 22, roughly a year after Ghost Harbor
-(`MCD-235`). Not a territory Chronicle. New standalone material — an inversion of the alias's usual
-concealment doctrine. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-792`). Sovereign Ghost of the Great Sea Alias Chronicle XXXVII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

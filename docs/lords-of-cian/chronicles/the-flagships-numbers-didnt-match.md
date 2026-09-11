@@ -1,9 +1,6 @@
 # The Flagship's Numbers Didn't Match
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Industrial Myth Alias Chronicle III, wave 9,
-closing the wave. Rebellion era (age 19-21), unarmed and non-combat throughout, matching the alias's
-established ethos, told partly from Garren Hask's perspective -- already a locked named character.
-Not a territory Chronicle. No new named characters beyond the already-locked Garren Hask.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-752`). The Industrial Myth Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

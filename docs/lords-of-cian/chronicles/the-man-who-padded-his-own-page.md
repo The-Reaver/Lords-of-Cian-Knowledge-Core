@@ -1,8 +1,6 @@
 # The Man Who Padded His Own Page
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Industrial Myth Alias Chronicle I, wave 8.
-Rebellion era (age 19-21), unarmed and non-combat throughout, matching the alias's established
-ethos. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-747`). The Industrial Myth Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
