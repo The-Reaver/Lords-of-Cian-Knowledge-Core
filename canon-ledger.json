@@ -1,7 +1,7 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "11.9",
-  "last_updated": "2026-09-10",
+  "ledger_version": "12.0",
+  "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
     "Voice Bible governs tone/language only, not facts.",
@@ -1021,6 +1021,13 @@
       "source": "Original invention, chat-drafted 2026-09-10, no source document.",
       "rule_count": 3,
       "note": "Locks the Captain's three-entry Alias Chronicle wave (MCD-395 through MCD-397), the tenth and final of ten remaining alias waves. Every named alias (Trench Monarch, Bane, Industrial Myth, Blue-Collar Titan, Sovereign Ghost of the Great Sea, the Scourge, the Crow King, the Iron Bastard, the Lord of Embers, the Storm That Walks, and Captain) now has a completed first three-Chronicle wave. Abad: \"continue uninterrupted until completion this includes test, commit, push to main origin\" -- completes all ten remaining alias waves (Trench Monarch, Industrial Myth, Blue-Collar Titan, Sovereign Ghost of the Great Sea, the Scourge, the Crow King, the Iron Bastard, the Lord of Embers, the Storm That Walks, and Captain)."
+    },
+    {
+      "batch": 117,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks Bane's second three-entry Alias Chronicle wave (MCD-398 through MCD-400), the first of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted\" (starting a second wave for every alias, beginning with Bane)."
     }
   ],
   "rules": [
@@ -8062,6 +8069,27 @@
       "statement": "\"The Word Callum Breck Chose\" (full narrative text at docs/lords-of-cian/chronicles/the-word-callum-breck-chose.md), Captain Alias Chronicle III, closing the wave and the full run of ten alias waves. Set six weeks after Callum Breck's already-locked first confirmed post-silence utterance ('Two hundred,' CC-119), without restaging it. Breck deliberately adopts 'Captain' over the 'Trench Monarch' alias he himself originally coined, explaining the shift as tied to Kanja's refusal to let Nev Torr's death at the Black Trench be assigned as Breck's fault -- a monarch rules over what happens to his people, a captain answers for it. The word spreads through the crew independently of, but arriving at the same conclusion as, Garren Hask's own adoption of it (MCD-395). No new named characters beyond the already-locked Callum Breck. Closes the Captain's three-Chronicle wave (with 'The Word Before the Alias,' MCD-395, and 'The Thirty Feet He Refused to Lose,' MCD-396) and completes all ten remaining Alias Chronicle waves.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document."
+    },
+    {
+      "id": "MCD-398",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Fog Remembers\" (full narrative text at docs/lords-of-cian/chronicles/what-the-fog-remembers.md), Bane Alias Chronicle IV, first entry in Bane's second three-Chronicle wave. Rebellion era, a new engagement in terrain deliberately mirroring the Black Trench's chemical fog and confined ground (MCD-232), staged by a detachment testing whether forcing those exact conditions without Kanja's own choice reverses the advantage. Demonstrates Mafesto's non-visual Kinetic Transfer System reading impact through plating rather than sight, Obsidian Malice's precisely sound-targeted discharge, and Onyx's Whisper of Shadows and Cadence Ruin unmaking a six-week-rehearsed ambush in eleven minutes -- the detachment commander concludes they copied the conditions without understanding why they worked: 'he doesn't need his eyes to know where you are.' No new named characters. First armor-and-weapon showcase specifically under the Bane alias.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-399",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Agent Who Stopped Filing Reports\" (full narrative text at docs/lords-of-cian/chronicles/the-agent-who-stopped-filing-reports.md), Bane Alias Chronicle V. Rebellion era, a Directorate agent embedded six months among Kanja's own recruited dockworkers files useful weekly intelligence until witnessing him carry an injured recruit two miles rather than wait for a cart; three attempts to write an honest threat assessment collapse into a two-line request for reassignment -- the only genuinely honest report in the agent's file, and the only one that later proves correct. No new named characters; the agent and handler are unnamed and one-scene. Second entry in Bane's second three-Chronicle wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-400",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The File That Would Not Close\" (full narrative text at docs/lords-of-cian/chronicles/the-file-that-would-not-close.md), Bane Alias Chronicle VI, closing Bane's second three-Chronicle wave. Rebellion era, a documentary-register account of the Directorate's own difficulty formally classifying the alias, dramatizing the origin of MCD-232's own locked classification language ('a threat that destroys the force built to destroy it') as an admission that no standard threat taxonomy fit him, not a confident label -- his pattern being the total absence of a consistent operational signature. No new named characters; the analyst is unnamed and one-scene. Closes Bane's second three-Chronicle wave (with 'What the Fog Remembers,' MCD-398, and 'The Agent Who Stopped Filing Reports,' MCD-399).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
   ],
   "open_decisions": [

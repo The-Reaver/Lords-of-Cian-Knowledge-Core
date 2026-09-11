@@ -1,6 +1,6 @@
 # What the Fog Remembers
 
-*Draft only — not yet locked, pending Abad's approval. Bane Alias Chronicle IV, first entry in
+*Locked canon, Batch 117, 2026-09-11 (`MCD-398`). Bane Alias Chronicle IV, first entry in
 Bane's second three-Chronicle wave. Rebellion era, within the "Bane" window, a new engagement in
 terrain deliberately echoing the Black Trench's own chemical fog and confined ground (`MCD-232`).
 A detailed showcase of the full Trinity -- Mafesto, Obsidian Malice, Onyx -- in the same kind of

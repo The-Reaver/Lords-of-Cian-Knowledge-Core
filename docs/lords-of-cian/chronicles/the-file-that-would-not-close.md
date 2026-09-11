@@ -1,6 +1,6 @@
 # The File That Would Not Close
 
-*Draft only — not yet locked, pending Abad's approval. Bane Alias Chronicle VI, closing Bane's
+*Locked canon, Batch 117, 2026-09-11 (`MCD-400`). Bane Alias Chronicle VI, closing Bane's
 second three-Chronicle wave. Rebellion era, within the "Bane" window, told through the Directorate's
 own internal classification process for the alias itself -- the origin of the formal threat file
 `MCD-232` already references ("'Bane' is the Directorate's own classification for a threat that
