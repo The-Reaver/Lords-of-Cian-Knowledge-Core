@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "14.2",
+  "ledger_version": "14.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1182,6 +1182,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Yara Chronicle II (MCD-464). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles, giving a second entry to territories that still only had one."
+    },
+    {
+      "batch": 140,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Umoja Chronicle II (MCD-465). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
     }
   ],
   "rules": [
@@ -8690,6 +8697,13 @@
       "id": "MCD-464",
       "category": "phase2-territory-chronicle",
       "statement": "\"The Price She Wouldn't Let Them Pay\" (full narrative text at docs/lords-of-cian/chronicles/the-price-she-wouldnt-let-them-pay.md), Yara Chronicle II. A developer offers full clinic funding in exchange for Yalokona's public silence on a displacing zoning variance; she refuses, the variance passes anyway and the clinic's funding is delayed eighteen months, dramatizing the real cost of 'Unbought and Unbossed' (PH2-006) as a genuine defeat rather than a clean win. An unnamed Kanja is present in the gallery, uninvolved. No new named characters. Second Yara territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-465",
+      "category": "phase2-territory-chronicle",
+      "statement": "\"The Fire That Spread Too Thin\" (full narrative text at docs/lords-of-cian/chronicles/the-fire-that-spread-too-thin.md), Umoja Chronicle II. Kofi tries to extend 'One Fire' (PH2-040) to weld together a rival tenant organization outside his own established network; the unity thins and fractures within weeks, establishing that the ability accelerates trust-building rather than substituting for years of underlying relational work. An unnamed Kanja passes through during the slower rebuilding, uninvolved. No new named characters. Second Umoja territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
