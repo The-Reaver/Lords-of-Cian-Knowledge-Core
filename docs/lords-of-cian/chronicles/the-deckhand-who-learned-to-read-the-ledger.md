@@ -1,6 +1,6 @@
 # The Deckhand Who Learned to Read the Ledger
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle LIV, wave 18. Rebellion-adjacent era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters — reuses already-locked Garren Hask; one unnamed young deckhand.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-1001`). Captain Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

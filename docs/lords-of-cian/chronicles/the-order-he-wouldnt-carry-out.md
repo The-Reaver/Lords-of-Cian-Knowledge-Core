@@ -1,6 +1,6 @@
 # The Order He Wouldn't Carry Out
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle LIII, wave 18. Rebellion era, during the active Sewer War of Killane (MCD-234, age 20). Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 223, 2026-09-11 (`MCD-1009`). The Blue-Collar Titan Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

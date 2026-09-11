@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "22.3",
+  "ledger_version": "22.7",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1749,6 +1749,34 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 9,
       "note": "Locks the Storm That Walks' seventeenth through nineteenth Alias Chronicle waves (MCD-978 through MCD-986, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Storm That Walks."
+    },
+    {
+      "batch": 221,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks the Crow King's seventeenth through nineteenth Alias Chronicle waves (MCD-987 through MCD-995, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Crow King."
+    },
+    {
+      "batch": 222,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks Captain's seventeenth through nineteenth Alias Chronicle waves (MCD-996 through MCD-1004, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for Captain."
+    },
+    {
+      "batch": 223,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks the Blue-Collar Titan's seventeenth through nineteenth Alias Chronicle waves (MCD-1005 through MCD-1013, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Blue-Collar Titan. Note: the drafting agent flagged a pre-existing, unresolved ledger inconsistency on Maret Vos's pronouns (MCD-533 uses \"his\", MCD-593 uses \"her\") while drafting Chronicle LVII -- worked around by avoiding pronouns for that character in the new text; the underlying contradiction is not resolved by this batch and remains open for a future pass."
+    },
+    {
+      "batch": 224,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 9,
+      "note": "Locks the Scourge's seventeenth through nineteenth Alias Chronicle waves (MCD-1014 through MCD-1022, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Scourge, completing waves 17-19 across all eleven aliases (Batches 214-224, 99 new Chronicles, MCD-924 through MCD-1022)."
     }
   ],
   "rules": [
@@ -12911,6 +12939,258 @@
       "id": "MCD-986",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Storm Never Took From Him\" (full narrative text at docs/lords-of-cian/chronicles/what-the-storm-never-took-from-him.md), The Storm That Walks Alias Chronicle LVII, wave 19. On a quiet evening with nothing to forecast, Kanja reflects privately with Efa Gol on what this alias has meant to him -- not combat or command, but what he learned from Sephtis's and his successor's courage in being visibly wrong. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-987",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm That Swallowed Every Word\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-that-swallowed-every-word.md), The Crow King Alias Chronicle XLIX, wave 17. A multi-day downpour makes vocal projection categorically impossible; the crew converts the percussive tap-signal channel into a full multi-person relay chain and runs an entire evacuation without a single spoken word.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-988",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Blind Commander Heard First\" (full narrative text at docs/lords-of-cian/chronicles/what-the-blind-commander-heard-first.md), The Crow King Alias Chronicle L, wave 17. A blind garrison commander with trained hyperacute hearing catches the crew's flawless false signal precisely because it's too rhythmically perfect for real fear -- forcing the craft to deliberately engineer imperfection for the first time.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-989",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The First Quiet Performance\" (full narrative text at docs/lords-of-cian/chronicles/the-first-quiet-performance.md), The Crow King Alias Chronicle LI, wave 17. Set shortly after age 30: the craft's first post-Rebellion deployment, shrunk from army-scale deception to getting one bored checkpoint guard to overlook one disguised traveler -- marking the Hymn-Engine's transition into the Long Mask era. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-990",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What One of the Twenty Carried Away\" (full narrative text at docs/lords-of-cian/chronicles/what-one-of-the-twenty-carried-away.md), The Crow King Alias Chronicle LII, wave 18. One of the twenty outsider scouts trained in a prior wave, captured and coerced, teaches a fragment of the craft to a hostile raiding company. The response is non-punitive: a new private authentication phrase to distinguish genuine lineage practitioners from imitators.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-991",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Delegation That Never Saw a Soldier\" (full narrative text at docs/lords-of-cian/chronicles/the-delegation-that-never-saw-a-soldier.md), The Crow King Alias Chronicle LIII, wave 18. The craft is used for the first time in a purely diplomatic register -- projecting false military strength to a neutral foreign delegation to win material support, with zero combat and zero intended harm to anyone.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-992",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Lie Their Own Side Believed\" (full narrative text at docs/lords-of-cian/chronicles/the-lie-their-own-side-believed.md), The Crow King Alias Chronicle LIV, wave 18. A false signal meant for the enemy is misread by an allied militia, nearly causing friendly fire -- prompting a second authentication marker built specifically to prevent allies from misreading the crew's own deceptions. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-993",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Flood That Needed No Enemy\" (full narrative text at docs/lords-of-cian/chronicles/the-flood-that-needed-no-enemy.md), The Crow King Alias Chronicle LV, wave 19. A catastrophic dam failure with no adversary at all; the coordination discipline underneath the Hymn-Engine is used with zero deception to evacuate a flooding settlement, at a real, unsoftened cost of twelve lives.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-994",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Third Generation's First Command\" (full narrative text at docs/lords-of-cian/chronicles/the-third-generations-first-command.md), The Crow King Alias Chronicle LVI, wave 19. The third-generation practitioner runs a full operation entirely alone for the first time, completing the generational structure as a direct counterpart to the original apprentice's own solo debut.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-995",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What They Couldn't Take Back\" (full narrative text at docs/lords-of-cian/chronicles/what-they-couldnt-take-back.md), The Crow King Alias Chronicle LVII, wave 19. The craft's first genuine, unrecovered regional breach -- two deaths, a burned regional variant, no clever counter -- closing on all three generations together processing the method's real limits. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-996",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Prank Pell Ostra Spent a Year Planning\" (full narrative text at docs/lords-of-cian/chronicles/the-prank-pell-ostra-spent-a-year-planning.md), Captain Alias Chronicle XLIX, wave 17. Pell Ostra spends eleven months deliberately corrupting Kanja's read on her demolition timing so a simple bilge-water prank actually lands. First purely comedic/levity entry in the entire Captain run.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-997",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ledger Line He Made Them Correct\" (full narrative text at docs/lords-of-cian/chronicles/the-ledger-line-he-made-them-correct.md), Captain Alias Chronicle L, wave 17. Kanja catches Garren Hask quietly paying him an inflated \"command differential\" share and makes him publicly rewrite the crew's ledger to a standing equal-risk-equal-share policy. First entry about Kanja's own economic treatment.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-998",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Funeral Efa Gol Asked Him to Speak At\" (full narrative text at docs/lords-of-cian/chronicles/the-funeral-efa-gol-asked-him-to-speak-at.md), Captain Alias Chronicle LI, wave 17. A founding-era rigger dies of old age; Kanja delivers a eulogy at the crew's own unceremonious sea-burial. First full funeral/eulogy scene. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-999",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Mother Who Asked Him to Say the Name\" (full narrative text at docs/lords-of-cian/chronicles/the-mother-who-asked-him-to-say-the-name.md), Captain Alias Chronicle LII, wave 18. A bereaved mother of a conscripted enemy soldier asks Kanja to help find and speak her son's name; Hask's cross-checked casualty ledger locates him. First direct accountability scene with an outsider/victim, deliberately unresolved into comfort.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1000",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Council That Told Him No\" (full narrative text at docs/lords-of-cian/chronicles/the-council-that-told-him-no.md), Captain Alias Chronicle LIII, wave 18. The crew dispute council votes 3-2 against a rescue operation Kanja personally proposed, and he accepts it. First time his own preference is formally overruled by an institution he built.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1001",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Deckhand Who Learned to Read the Ledger\" (full narrative text at docs/lords-of-cian/chronicles/the-deckhand-who-learned-to-read-the-ledger.md), Captain Alias Chronicle LIV, wave 18. Kanja personally teaches an illiterate young deckhand to read using Hask's old ledgers. First ordinary-skill mentorship entry; establishes a teaching lineage. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1002",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Girl Who Grew Up Visiting the Ship\" (full narrative text at docs/lords-of-cian/chronicles/the-girl-who-grew-up-visiting-the-ship.md), Captain Alias Chronicle LV, wave 19. Danne Sok's daughter is followed from age six to sixteen, culminating in her enlisting and earning trust the ordinary slow way. First entry spanning years as one continuous relationship arc.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1003",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Jealousy Nobody Would Name\" (full narrative text at docs/lords-of-cian/chronicles/the-jealousy-nobody-would-name.md), Captain Alias Chronicle LVI, wave 19. A junior crew member resents being passed over in favor of Callum Breck; Kanja names the festering envy directly and addresses it without favoritism. First entry on internal rivalry/perceived favoritism.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1004",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The War the Name Outlived\" (full narrative text at docs/lords-of-cian/chronicles/the-war-the-name-outlived.md), Captain Alias Chronicle LVII, wave 19. Set at the Rebellion's close, the dispute council asks what the \"Captain\" institution is for now that the war that birthed it is over; Kanja admits he doesn't know. Closes the wave and the three-wave run on a deliberately open note.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1005",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Man Carrying Two Masters\" (full narrative text at docs/lords-of-cian/chronicles/the-man-carrying-two-masters.md), The Blue-Collar Titan Alias Chronicle XLIX, wave 17. Kanja discovers a coerced crew informant (his sister held hostage) passing schedules to a Directorate handler, and resolves it through quiet counter-intelligence and a separate-channel rescue rather than exposure or punishment. First internal-betrayal register for this alias.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1006",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Six Hours They Held Him\" (full narrative text at docs/lords-of-cian/chronicles/the-six-hours-they-held-him.md), The Blue-Collar Titan Alias Chronicle L, wave 17. A routine patrol stop escalates into a six-hour formal interrogation; Kanja's cover holds purely on the strength of genuine, verifiable trade knowledge under sustained pressure. First sustained-custody/interrogation register.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1007",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Quartermaster's Price\" (full narrative text at docs/lords-of-cian/chronicles/the-quartermasters-price.md), The Blue-Collar Titan Alias Chronicle LI, wave 17. Kanja negotiates a legitimate labor-for-timber trade directly with a Trust requisition officer to dodge a punitive new war tariff, without fraud or bribery. First direct bureaucratic-negotiation register. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1008",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Dust That Took Years to Kill\" (full narrative text at docs/lords-of-cian/chronicles/the-dust-that-took-years-to-kill.md), The Blue-Collar Titan Alias Chronicle LII, wave 18. Kanja identifies chronic occupational lung damage among veteran dry-stone cutters and engineers ventilation to protect future workers, explicitly unable to undo harm already done. First slow/cumulative-harm register.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1009",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Order He Wouldn't Carry Out\" (full narrative text at docs/lords-of-cian/chronicles/the-order-he-wouldnt-carry-out.md), The Blue-Collar Titan Alias Chronicle LIII, wave 18. Kanja refuses his own resistance command's demolition order because sheltering civilians haven't been safely evacuated, accepting real strategic cost for the delay. First conflict-with-his-own-command register.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1010",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Signal From the Other Tunnel\" (full narrative text at docs/lords-of-cian/chronicles/the-signal-from-the-other-tunnel.md), The Blue-Collar Titan Alias Chronicle LIV, wave 18. An unplanned tunnel breakthrough connects Kanja's crew with an independent resistance cell's own field engineer; the two combine plans as peers rather than merging chains of command. First inter-cell peer-collaboration register. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1011",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Siege That Never Came\" (full narrative text at docs/lords-of-cian/chronicles/the-siege-that-never-came.md), The Blue-Collar Titan Alias Chronicle LV, wave 19. A full day of correctly-reasoned defensive preparation for an attack that never materializes. First pure-anticlimax entry, dramatizing the tedium/cost of sustained readiness itself.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1012",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Efa Gol Watched From Above\" (full narrative text at docs/lords-of-cian/chronicles/what-efa-gol-watched-from-above.md), The Blue-Collar Titan Alias Chronicle LVI, wave 19. Efa Gol runs a staged surface diversion timed against Kanja's below-ground breach with no real-time confirmation between the two teams. First paired above-ground/below-ground remote-coordination register, and Efa Gol's first appearance in this alias's run.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1013",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Question Maret Vos Never Had to Ask\" (full narrative text at docs/lords-of-cian/chronicles/the-question-maret-vos-never-had-to-ask.md), The Blue-Collar Titan Alias Chronicle LVII, wave 19. Maret Vos offers Kanja a genuine refinement to his own engineering method (redundant margin against a ground that \"lies\"), rather than reflecting on his reputation. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1014",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Last Fight Before the Silence\" (full narrative text at docs/lords-of-cian/chronicles/the-last-fight-before-the-silence.md), The Scourge Alias Chronicle XLIX, wave 17. Age 24. A Trust-linked slaving convoy funding a general's anti-Rebellion campaign is raided with full unsealed Trinity, including Onyx of Oblivion fighting freely for the first time under this alias -- predates the Long Mask and the V1 armor's debut.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1015",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Prisoner Who Knew Three Names\" (full narrative text at docs/lords-of-cian/chronicles/the-prisoner-who-knew-three-names.md), The Scourge Alias Chronicle L, wave 17. Age 27. A captured Trust officer recognizes the same man behind Bane, the Trench Monarch, and the Scourge by fighting rhythm alone. Resolved through pragmatic self-interest rather than threat or loyalty -- the closest any Chronicle has come to explicit cross-alias identity recognition.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1016",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Name Chosen to Outlast the Others\" (full narrative text at docs/lords-of-cian/chronicles/the-name-chosen-to-outlast-the-others.md), The Scourge Alias Chronicle LI, wave 17. Age 29. Valen Sinisterblade, Efa Gol, and a not-yet-elderly Garren Hask deliberately choose the Scourge as the persona built to carry the coming Long Mask, since Bane and the Trench Monarch are both too tied to the Rebellion's own datable history. Closes wave 17.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1017",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Contract He Wouldn't Sign\" (full narrative text at docs/lords-of-cian/chronicles/the-contract-he-wouldnt-sign.md), The Scourge Alias Chronicle LII, wave 18. Age 155, V3 gear. A Trust envoy offers a formal letter of marque in exchange for operating as a sanctioned agent. Refused: institutional ownership would destroy the trust the reputation depends on.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1018",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Testimony He Never Gave in Person\" (full narrative text at docs/lords-of-cian/chronicles/the-testimony-he-never-gave-in-person.md), The Scourge Alias Chronicle LIII, wave 18. Age 148, V3 gear. A prize-court conviction hinges on sworn testimony the Scourge can't give in person; Garren Hask delivers a sealed, corroborated account instead, and the court admits it. New civic/legal register.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1019",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Insurance They Tried to Buy\" (full narrative text at docs/lords-of-cian/chronicles/the-insurance-they-tried-to-buy.md), The Scourge Alias Chronicle LIV, wave 18. Age 135, V3 gear. A six-house trading consortium offers to pay for protection rather than be left alone by force. Refused, with a six-month grace period offered instead of retaliation. Closes wave 18.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1020",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Family He Helped Her Find\" (full narrative text at docs/lords-of-cian/chronicles/the-family-he-helped-her-find.md), The Scourge Alias Chronicle LV, wave 19. Age 115. A freed captive asks the crew's ledger network to help trace a sibling sold on a different route decades earlier; Garren Hask finds a lead, and the reunion's outcome is deliberately left off the page.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1021",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night the Crew Took Someone In\" (full narrative text at docs/lords-of-cian/chronicles/the-night-the-crew-took-someone-in.md), The Scourge Alias Chronicle LVI, wave 19. Age 85. A freed captive formally requests and wins full crew membership, celebrated communally -- the sub-series' first entirely warm, conflict-free entry for this alias.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1022",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Last Coat He Ever Wore\" (full narrative text at docs/lords-of-cian/chronicles/the-last-coat-he-ever-wore.md), The Scourge Alias Chronicle LVII, wave 19. Age 314, V4 gear, the final year of the 284-year Long Mask. The literal last mission under the Scourge identity; the coat comes off for good that night, ending the span by conscious choice, deliberately left open for future material. Closes wave 19.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }

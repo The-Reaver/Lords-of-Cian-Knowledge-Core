@@ -1,8 +1,6 @@
 # The Last Fight Before the Silence
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle XLIX, wave 17. Rebellion
-era, age 24 — two years after Ash-Wharf, six years before the Long Mask begins. Not a territory
-Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 224, 2026-09-11 (`MCD-1014`). The Scourge Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

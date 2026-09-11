@@ -1,7 +1,6 @@
 # What the Blind Commander Heard First
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle L, wave 17. Rebellion
-era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-988`). The Crow King Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

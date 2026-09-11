@@ -1,6 +1,6 @@
 # The Girl Who Grew Up Visiting the Ship
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle LV, wave 19. Rebellion-adjacent era, spanning several years. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters — reuses already-locked Danne Sok and his already-established (unnamed) daughter.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-1002`). Captain Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,8 +1,6 @@
 # What One of the Twenty Carried Away
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle LII, wave 18. Rebellion
-era, roughly a year after the six-week curriculum ("The School That Had No Name," Chronicle XLVIII).
-Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-990`). The Crow King Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

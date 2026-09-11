@@ -1,8 +1,6 @@
 # The First Quiet Performance
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle LI, wave 17, closing.
-Early Long Mask era, shortly after age 30. Not a territory Chronicle. Narrated in neutral third-person
-prose. No new named characters.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-989`). The Crow King Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

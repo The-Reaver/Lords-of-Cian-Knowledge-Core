@@ -1,7 +1,6 @@
 # The Delegation That Never Saw a Soldier
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle LIII, wave 18. Rebellion
-era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-991`). The Crow King Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

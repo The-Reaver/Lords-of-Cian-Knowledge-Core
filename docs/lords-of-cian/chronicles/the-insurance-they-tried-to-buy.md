@@ -1,8 +1,6 @@
 # The Insurance They Tried to Buy
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle LIV, wave 18, closing the
-wave. Long Mask era, age 135, V3 gear. Not a territory Chronicle. Narrated in neutral third-person
-prose. No new named characters.*
+*Locked canon, Batch 224, 2026-09-11 (`MCD-1019`). The Scourge Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

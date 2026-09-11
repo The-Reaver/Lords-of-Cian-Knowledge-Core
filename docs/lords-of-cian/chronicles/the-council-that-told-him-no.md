@@ -1,6 +1,6 @@
 # The Council That Told Him No
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle LIII, wave 18. Rebellion-adjacent era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters — reuses already-locked Corren Halst, Maret Vos, and the crew's own dispute council.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-1000`). Captain Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

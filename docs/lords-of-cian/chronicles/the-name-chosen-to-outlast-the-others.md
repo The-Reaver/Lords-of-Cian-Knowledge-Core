@@ -1,8 +1,6 @@
 # The Name Chosen to Outlast the Others
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle LI, wave 17, closing the
-wave. Rebellion era, age 29 — months before the Long Mask begins. Not a territory Chronicle.
-Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 224, 2026-09-11 (`MCD-1016`). The Scourge Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

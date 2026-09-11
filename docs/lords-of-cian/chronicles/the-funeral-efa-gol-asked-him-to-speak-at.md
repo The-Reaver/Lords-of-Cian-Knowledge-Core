@@ -1,6 +1,6 @@
 # The Funeral Efa Gol Asked Him to Speak At
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle LI, wave 17. Rebellion-adjacent era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters — reuses already-locked Efa Gol; one unnamed deceased founding crew member.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-998`). Captain Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

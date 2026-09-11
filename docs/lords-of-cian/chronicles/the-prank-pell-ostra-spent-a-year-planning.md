@@ -1,6 +1,6 @@
 # The Prank Pell Ostra Spent a Year Planning
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle XLIX, wave 17. Rebellion-adjacent era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters — reuses already-locked Pell Ostra, Corren Halst, and Efa Gol.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-996`). Captain Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

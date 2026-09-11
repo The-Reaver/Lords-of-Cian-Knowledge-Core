@@ -1,7 +1,6 @@
 # The Prisoner Who Knew Three Names
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle L, wave 17. Rebellion era,
-age 27. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 224, 2026-09-11 (`MCD-1015`). The Scourge Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

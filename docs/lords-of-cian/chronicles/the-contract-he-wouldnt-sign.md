@@ -1,8 +1,6 @@
 # The Contract He Wouldn't Sign
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle LII, wave 18. Long Mask
-era, age 155, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose. No new
-named characters.*
+*Locked canon, Batch 224, 2026-09-11 (`MCD-1017`). The Scourge Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

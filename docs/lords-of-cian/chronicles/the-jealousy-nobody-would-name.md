@@ -1,6 +1,6 @@
 # The Jealousy Nobody Would Name
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle LVI, wave 19. Rebellion-adjacent era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters — reuses already-locked Callum Breck; one unnamed junior crew member.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-1003`). Captain Alias Chronicle LVI, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,8 +1,6 @@
 # The Family He Helped Her Find
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle LV, wave 19. Long Mask
-era, age 115, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose. No new
-named characters.*
+*Locked canon, Batch 224, 2026-09-11 (`MCD-1020`). The Scourge Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

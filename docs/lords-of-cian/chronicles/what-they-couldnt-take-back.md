@@ -1,8 +1,6 @@
 # What They Couldn't Take Back
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle LVII, wave 19, closing.
-Rebellion era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-995`). The Crow King Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
