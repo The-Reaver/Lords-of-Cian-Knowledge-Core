@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "15.5",
+  "ledger_version": "15.6",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1273,6 +1273,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Trench Monarch's fourth three-entry Alias Chronicle wave (MCD-479 through MCD-481). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 153,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Industrial Myth's fourth three-entry Alias Chronicle wave (MCD-482 through MCD-484). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -8900,6 +8907,27 @@
       "id": "MCD-481",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Organizer Who Competed for the Same Crowd\" (full narrative text at docs/lords-of-cian/chronicles/the-organizer-who-competed-for-the-same-crowd.md), Trench Monarch Alias Chronicle XII, closing the fourth wave. A rival organizer's harder, more confrontational method is forced into cooperation with Kanja's patient tally approach during a joint labor dispute; the two methods prove complementary rather than either superior, resolving the dispute faster together than either alone would have. No new named characters. Closes the Trench Monarch's fourth three-Chronicle wave (with 'What the Line Cost His Own Hands,' MCD-479, and 'The Line That Wouldn't Break,' MCD-480).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-482",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Blade Meant for Him\" (full narrative text at docs/lords-of-cian/chronicles/the-blade-meant-for-him.md), the Industrial Myth Alias Chronicle X, first entry in the fourth wave. A paid assassin attacks Kanja directly during the Furnace District Strike; he disarms the man without any weapon of his own and lets him walk away unharmed, the most personal test yet of the alias's unarmed ethos. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-483",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Day Nothing Happened and Everything Did\" (full narrative text at docs/lords-of-cian/chronicles/the-day-nothing-happened-and-everything-did.md), the Industrial Myth Alias Chronicle XI. A district administrator musters his full guard force to intimidate the strike into collapse; Kanja continues the tally uninterrupted for six hours until the guards' own formation loses purpose, reframing 'combat intensity' entirely as sustained psychological craft with zero violence. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-484",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The District He Never Visited\" (full narrative text at docs/lords-of-cian/chronicles/the-district-he-never-visited.md), the Industrial Myth Alias Chronicle XII, closing the fourth wave. A mining district hundreds of miles away independently builds its own version of the tally method from an incomplete secondhand account, succeeding without any direct contact with Kanja, showing the method's real power is replicable rather than personal. Ezio Valcari (already locked) appears briefly. No new named characters. Closes the Industrial Myth's fourth three-Chronicle wave (with 'The Blade Meant for Him,' MCD-482, and 'The Day Nothing Happened and Everything Did,' MCD-483).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
