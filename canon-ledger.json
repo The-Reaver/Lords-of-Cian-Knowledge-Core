@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "17.5",
+  "ledger_version": "17.6",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1413,6 +1413,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Aztlán Chronicle III (MCD-519). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 173,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Atunbi Chronicle III (MCD-520). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9306,6 +9313,13 @@
       "id": "MCD-519",
       "category": "phase2-territory-chronicle",
       "statement": "Aztlán Chronicle III, \"The First Time He Actually Listened\" (full narrative text at docs/lords-of-cian/chronicles/aztlan-chronicle-iii-the-first-time-he-actually-listened.md). Years after Iya's already-locked walkout (MCD-359), a near-identical credit-exclusion grievance arises; Ollin immediately acknowledges and corrects it publicly rather than deferring it, a genuine growth entry that does not erase or minimize the earlier loss. An unnamed Kanja is present, uninvolved. No new named characters. Third Aztlán territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-520",
+      "category": "phase2-territory-chronicle",
+      "statement": "Atunbi Chronicle III, \"The Ones Who Wanted It Faster\" (full narrative text at docs/lords-of-cian/chronicles/atunbi-chronicle-iii-the-ones-who-wanted-it-faster.md). A younger cohort presses Oluwole for faster, more visible action; rather than dismiss or capitulate, he negotiates a genuine, ongoing accommodation between urgency and patience, extending both the fast-failure (MCD-348) and slow-success (MCD-469) precedents into an internal generational tension rather than an external threat. An unnamed Kanja listens throughout, uninvolved. No new named characters. Third Atunbi territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
