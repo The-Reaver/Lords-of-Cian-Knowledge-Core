@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "13.7",
+  "ledger_version": "13.8",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1147,6 +1147,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Crow King's third three-entry Alias Chronicle wave (MCD-449 through MCD-451). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
+    },
+    {
+      "batch": 135,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Iron Bastard's third three-entry Alias Chronicle wave (MCD-452 through MCD-454). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
     }
   ],
   "rules": [
@@ -8564,6 +8571,27 @@
       "id": "MCD-451",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Apprentice Who Learned to Listen\" (full narrative text at docs/lords-of-cian/chronicles/the-apprentice-who-learned-to-listen.md), the Crow King Alias Chronicle IX, closing the third wave. The already-locked singer from 'The Voice That Carried Three Hundred' (MCD-418) becomes Kanja's apprentice, learning that the Hymn-Engine's real discipline is restraint and listening rather than cleverness, and leads her own first solo operation using a single true statement instead of any deception. No new named characters. Closes the Crow King's third three-Chronicle wave (with 'The Extraction That Never Fired a Shot,' MCD-449, and 'The Tactician Who Built a Trap From Doubt,' MCD-450).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-452",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Bridge That Chose Its Moment\" (full narrative text at docs/lords-of-cian/chronicles/the-bridge-that-chose-its-moment.md), the Iron Bastard Alias Chronicle VII, first entry in the third wave. Holding a bridge alone as rear guard for a retreating column, Kanja lets a pursuing cavalry force fully commit onto the span before diagnostically listening to its structural tension and collapsing it from the pursued end with a single precisely timed Obsidian Malice discharge -- a timing-precision rescue/combat hybrid distinct from prior Iron Bastard entries. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-453",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Wall That Wasn't Built to Ring\" (full narrative text at docs/lords-of-cian/chronicles/the-wall-that-wasnt-built-to-ring.md), the Iron Bastard Alias Chronicle VIII. A Directorate engineer builds a packed-earth/loose-rubble berm with no tension-bearing structure for the Aegis-Talisman resonance doctrine to read, establishing a genuine, permanent category-limit of the doctrine; Kanja falls back on conventional siegecraft (sapper tunneling) rather than a resonance workaround, explicitly conceding the doctrine's real boundary. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-454",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The General Who Stopped Fighting Fair\" (full narrative text at docs/lords-of-cian/chronicles/the-general-who-stopped-fighting-fair.md), the Iron Bastard Alias Chronicle IX, closing the third wave. A Directorate general, having lost four consecutive engagements across the doctrine's full run (the original Stand, the Crawler variant, the bridge, and the berm), resigns field command and files the most honest opposing assessment of the doctrine yet produced, explicitly crediting its adaptability rather than framing his retirement as Kanja's personal defeat. No new named characters. Closes the Iron Bastard's third three-Chronicle wave (with 'The Bridge That Chose Its Moment,' MCD-452, and 'The Wall That Wasn't Built to Ring,' MCD-453).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
