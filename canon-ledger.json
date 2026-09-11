@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "17.3",
+  "ledger_version": "17.4",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1399,6 +1399,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Uhuru Chronicle III (MCD-517). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 171,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Sankofa Chronicle III (MCD-518). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\" Deliberately does not advance or resolve the reserved Sankofa forged-letter conspiracy thread (PH2-021), per standing instruction."
     }
   ],
   "rules": [
@@ -9278,6 +9285,13 @@
       "id": "MCD-517",
       "category": "phase2-territory-chronicle",
       "statement": "Uhuru Chronicle III, \"What the Seat Couldn't Give the Next Man\" (full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-iii-what-the-seat-couldnt-give-the-next-man.md). Set after Ofin's already-locked capstone death (MCD-358): his successor, elected on the same coalition, discovers 'The Override' (PH2-044) did not pass to him -- confirming directly on the page that the ability was institutional to Ofin's own endurance, not the seat itself, and the successor must build ordinary political endurance from nothing. An unnamed Kanja observes from the gallery, uninvolved. No new named characters. Third Uhuru territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-518",
+      "category": "phase2-territory-chronicle",
+      "statement": "Sankofa Chronicle III, \"What He Built While Waiting\" (full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-iii-what-he-built-while-waiting.md). With the forged-letter conspiracy from Chronicle II (MCD-360) still unresolved and deliberately left untouched here, Baálé refuses to let the uncertainty stop him from opening a new community health clinic, with Kra and Kojo (both already locked) present. An unnamed Kanja attends the opening, uninvolved. No new named characters. Third Sankofa territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
