@@ -1,8 +1,6 @@
 # The Secret He Should Have Told Them
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle XLVI, wave 16. Rebellion-era
-aftermath, later years. Not a territory Chronicle. Narrated in neutral third-person prose. No new
-named characters beyond the already-locked Garren Hask and Corren Halst.*
+*Locked canon, Batch 212, 2026-09-11 (`MCD-918`). Captain Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

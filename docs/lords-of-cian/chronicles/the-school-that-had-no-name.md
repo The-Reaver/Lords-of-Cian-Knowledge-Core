@@ -1,9 +1,6 @@
 # The School That Had No Name
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XLVIII, wave 16, closing
-the wave. Rebellion era, later than the other two entries in this wave. Not a territory Chronicle.
-Narrated in neutral third-person prose. No new named characters beyond the already-locked apprentice,
-unnamed matching established pattern; the twenty scouts are unnamed as a group.*
+*Locked canon, Batch 211, 2026-09-11 (`MCD-917`). The Crow King Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

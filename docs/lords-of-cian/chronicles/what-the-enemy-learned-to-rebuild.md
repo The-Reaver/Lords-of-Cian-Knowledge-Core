@@ -1,6 +1,6 @@
 # What the Enemy Learned to Rebuild
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XLVII, wave 16. Rebellion era, the Rolling Foundry Campaign (age 27), roughly fourteen months into the eighteen-month tour. Not a territory Chronicle. Narrated in neutral third-person prose. Callum Breck appears, consistent with his already-locked role. No new named characters.*
+*Locked canon, Batch 213, 2026-09-11 (`MCD-922`). The Lord of Embers Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

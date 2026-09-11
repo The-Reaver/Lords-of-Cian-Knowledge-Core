@@ -1,6 +1,6 @@
 # The Smith Who Came to Judge Him
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XLVI, wave 16. Rebellion era, the Rolling Foundry Campaign (age 27), roughly a year into the eighteen-month tour. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters; an itinerant master smith appears unnamed and one-scene.*
+*Locked canon, Batch 213, 2026-09-11 (`MCD-921`). The Lord of Embers Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

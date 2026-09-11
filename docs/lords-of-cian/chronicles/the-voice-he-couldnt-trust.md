@@ -1,9 +1,6 @@
 # The Voice He Couldn't Trust
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XLVI, wave 16. Rebellion
-era, years after the Night of the Crow King. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked apprentice, unnamed matching
-established pattern.*
+*Locked canon, Batch 211, 2026-09-11 (`MCD-915`). The Crow King Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

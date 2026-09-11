@@ -1,8 +1,6 @@
 # The Promise for After He's Gone
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle XLVIII, wave 16, closing the
-wave. Rebellion-era aftermath, later years. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked Garren Hask.*
+*Locked canon, Batch 212, 2026-09-11 (`MCD-920`). Captain Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Fire That Asked for No Enemy
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XLVIII, wave 16, closing the wave. Rebellion era, the Rolling Foundry Campaign (age 27), roughly sixteen months into the eighteen-month tour. Not a territory Chronicle. Narrated in neutral third-person prose. The senior smith's successor (established "What the Senior Smith Passed Down," `MCD-887`) leads for the first time; sixty apprentices appear as a group. No new named characters.*
+*Locked canon, Batch 213, 2026-09-11 (`MCD-923`). The Lord of Embers Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

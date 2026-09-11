@@ -1,9 +1,6 @@
 # What the Third Generation Refused
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XLVII, wave 16.
-Rebellion era, sometime after the third generation of the lineage began teaching. Not a territory
-Chronicle. Narrated in neutral third-person prose. No new named characters beyond the already-locked
-apprentice, her student, and her student's student, all unnamed matching established pattern.*
+*Locked canon, Batch 211, 2026-09-11 (`MCD-916`). The Crow King Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

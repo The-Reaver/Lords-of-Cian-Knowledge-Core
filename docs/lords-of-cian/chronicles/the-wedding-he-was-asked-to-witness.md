@@ -1,9 +1,6 @@
 # The Wedding He Was Asked to Witness
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Captain Alias Chronicle XLVII, wave 16. Rebellion-era
-aftermath, later years. Not a territory Chronicle. Narrated in neutral third-person prose. No new
-named characters — two unnamed crew members, referenced with already-locked Efa Gol, Pell Ostra,
-and Callum Breck present.*
+*Locked canon, Batch 212, 2026-09-11 (`MCD-919`). Captain Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "21.3",
+  "ledger_version": "21.6",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1679,6 +1679,27 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Sovereign Ghost of the Great Sea's sixteenth Alias Chronicle wave (MCD-912 through MCD-914, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Sovereign Ghost of the Great Sea."
+    },
+    {
+      "batch": 211,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Crow King's sixteenth Alias Chronicle wave (MCD-915 through MCD-917, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Crow King."
+    },
+    {
+      "batch": 212,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks Captain's sixteenth Alias Chronicle wave (MCD-918 through MCD-920, 3 rules), completing wave 16 for ten of eleven aliases (Lord of Embers still pending in Batch 213). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for Captain, completing wave 16 for all eleven aliases."
+    },
+    {
+      "batch": 213,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Lord of Embers's sixteenth Alias Chronicle wave (MCD-921 through MCD-923, 3 rules). Completes wave 16 (33 new Chronicles, Batches 203-213) across all eleven aliases. Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Lord of Embers, completing wave 16 across all eleven aliases (Batches 203-213, 33 new Chronicles, MCD-891 through MCD-923)."
     }
   ],
   "rules": [
@@ -12337,6 +12358,69 @@
       "id": "MCD-914",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Flag That Wasn't Theirs\" (full narrative text at docs/lords-of-cian/chronicles/the-flag-that-wasnt-theirs.md), Sovereign Ghost of the Great Sea Alias Chronicle XLVIII, wave 16. An unrelated faction stages a black-sail atrocity against a village specifically to defame the ghost fleet's name -- provably not them, but the perpetrators are never caught. Kanja shows up unarmed with proof and restitution, and some villagers are convinced while others never will be, establishing a genuine limit of the reputation-defense playbook. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-915",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Voice He Couldn't Trust\" (full narrative text at docs/lords-of-cian/chronicles/the-voice-he-couldnt-trust.md), The Crow King Alias Chronicle XLVI, wave 16. Kanja takes a throat wound mid-operation and loses his own voice -- the first entry to land a genuine physical limit of the Hymn-Engine on Kanja personally. The apprentice carries a full deception pattern alone for the first time while Kanja falls back on the craft's older percussive tap-signal channel, establishing a new standing rule: every operation now requires a rehearsed backup voice.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-916",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Third Generation Refused\" (full narrative text at docs/lords-of-cian/chronicles/what-the-third-generation-refused.md), The Crow King Alias Chronicle XLVII, wave 16. The third-generation practitioner refuses a sound, workable deception plan because the \"opening\" it exploits is a grieving father's lapse, not carelessness -- the first entry built around a genuine ethical disagreement within the three-generation lineage itself. Kanja deliberately declines to arbitrate by fiat.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-917",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The School That Had No Name\" (full narrative text at docs/lords-of-cian/chronicles/the-school-that-had-no-name.md), The Crow King Alias Chronicle XLVIII, wave 16. A regional commander asks for twenty of her own scouts to be taught the craft directly, forcing the apprentice and Kanja to run it for the first time as a structured six-week curriculum rather than personal, need-driven mentorship -- the Hymn-Engine's shift toward an institutional discipline while staying unnamed and unbranded. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-918",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Secret He Should Have Told Them\" (full narrative text at docs/lords-of-cian/chronicles/the-secret-he-should-have-told-them.md), Captain Alias Chronicle XLVI, wave 16. Kanja privately sits on an unconfirmed intelligence shift to spare the crew worry, a skiff nearly pays for it, and Garren Hask calls him on the paternalism directly. Kanja admits fault publicly, and a new standing crew norm is born: unconfirmed information gets shared the moment he has it, full stop.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-919",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Wedding He Was Asked to Witness\" (full narrative text at docs/lords-of-cian/chronicles/the-wedding-he-was-asked-to-witness.md), Captain Alias Chronicle XLVII, wave 16. The wave's first purely celebratory, conflict-free entry. Two crew members ask Kanja to stand witness, not officiant, at their wedding, so it reads as belonging to the crew's custom rather than to him -- warm, unguarded, closing on him simply sitting at ease with his boots off.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-920",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Promise for After He's Gone\" (full narrative text at docs/lords-of-cian/chronicles/the-promise-for-after-hes-gone.md), Captain Alias Chronicle XLVIII, wave 16. The first entry to directly confront the mortality asymmetry between Kanja's long lifespan and his crew's ordinary one: an aging Garren Hask keeps a private notebook about what happens to the \"Captain\" institution after the founding generation is gone. Kanja commits to eventually becoming the one who remembers and hands the tradition forward. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-921",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Smith Who Came to Judge Him\" (full narrative text at docs/lords-of-cian/chronicles/the-smith-who-came-to-judge-him.md), The Lord of Embers Alias Chronicle XLVI, wave 16. An itinerant master smith walks four weeks to expose the Lord of Embers' reputation as a lie and challenges him to a formal, judged craft contest -- no Trinity gear, no combat. The master's faster work cracks under stress test; Kanja's slower, more deliberate work holds, proving the reputation was never about supernatural speed but patient, teachable technique.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-922",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Enemy Learned to Rebuild\" (full narrative text at docs/lords-of-cian/chronicles/what-the-enemy-learned-to-rebuild.md), The Lord of Embers Alias Chronicle XLVII, wave 16. A Directorate garrison rebuilds in 19 days instead of the usual 9 weeks, using methods lifted from Kanja's own openly-taught rebuild doctrine via an escaped captured smith. Kanja confronts the double-edged cost of an open method being weaponized by forced-labor conscription, resolved only partially by recognizing that consent and ownership, not the technique itself, are the method's real load-bearing element.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-923",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fire That Asked for No Enemy\" (full narrative text at docs/lords-of-cian/chronicles/the-fire-that-asked-for-no-enemy.md), The Lord of Embers Alias Chronicle XLVIII, wave 16. A lightning-sparked wildfire with no Trust involvement threatens a settlement; the senior smith's already-established successor takes independent command for the first time, forging firebreak-cutting tools while Kanja works as one more hand under her plan -- the first test of \"metabolizes punishment\" against nature rather than any enemy action. Closes the wave.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
