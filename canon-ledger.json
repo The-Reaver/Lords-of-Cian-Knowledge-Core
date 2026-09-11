@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "27.5",
+  "ledger_version": "27.6",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2113,6 +2113,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document",
       "rule_count": 3,
       "note": "The Lord of Embers' thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Two new registers for this alias: a natural-deprivation entry testing \"metabolizes punishment\" against an early hard freeze with no enemy involved (MCD-1415), and a flowing-water infrastructure combat showcase where a Directorate team sabotages a millrace powering trip-hammer forges (MCD-1416). Closes on the alias's first entry featuring a visiting fleet crew member from outside the campaign, Efa Gol (CC-130), reused rather than inventing a new character (MCD-1417). No new named characters introduced; Garren Hask (CC-115), Callum Breck, and Efa Gol (CC-130) all reused. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
+    },
+    {
+      "batch": 274,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 3,
+      "note": "The Storm That Walks' thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Three genuinely new registers: the school's self-organizing council resolves its first honest three-way disagreement among all three formally credited traditions (Sephtis's storm-timing lineage, the rival fleet's tradition, the northern pilot's ice-reading chapter) with Kanja unreachable and no time to verify by scout, codifying a new overlap-window principle into the written creed; the student formally cedes full, unconfirmed forecasting authority to the fourth-generation apprentice for a full Trinity combat showcase, the alias's first deliberate (rather than crisis-forced) generational handoff; and the wave closes by mirroring MCD-1358 from the opposite angle -- a Titan-class vessel's actual passage produces genuine, uncharted atmospheric disturbance no blended tradition can read, documented as an honest open gap rather than resolved. No new named characters; all three entries reuse already-locked recurring figures (the student, the apprentice, the dual-tradition sailor, Efa Gol, Kanja), collision-checked against the full live ledger before drafting. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
     }
   ],
   "rules": [
@@ -16572,6 +16579,27 @@
       "id": "MCD-1417",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Efa Gol Came to See\" (full narrative text at docs/lords-of-cian/chronicles/what-efa-gol-came-to-see.md), Lord of Embers Alias Chronicle XCIII, wave 31, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). The alias's first entry featuring a visiting fleet crew member from outside the campaign: Efa Gol (CC-130), between decoy/diversion operations, spends three quiet, non-combat days aboard The Anvil and tells Kanja she came to see whether a thing built to outlast destruction looks different from the inside than from the decoy line that has guarded it from a distance -- explicitly tying her visit to her own Black Trench loss of pair-partner Tam Sullen and the established framing that the crew's pair-system design held, not her own individual toughness. Garren Hask appears in his established ledger role. Closes the Lord of Embers' thirty-first three-Chronicle wave (with \"The Winter the Coal Sheds Went Empty,\" MCD-1415, and \"The Millrace They Tried to Choke,\" MCD-1416). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1418",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Reading With No Tiebreaker\" (full narrative text at docs/lords-of-cian/chronicles/the-reading-with-no-tiebreaker.md), Storm That Walks Alias Chronicle XCI, wave 31, first entry in the wave. Three formally credited traditions -- Sephtis's storm-timing lineage, the rival fleet's independent method, and the northern pilot's ice-reading chapter -- read the same shoulder-season strait and reach three different, individually sound windows, with Kanja unreachable and no time left to scout and verify. The student resolves it by codifying a new principle into the written creed: when honest traditions disagree and time forbids verification, sail the overlap every tradition agrees is safe rather than any single tradition's own best call. The sub-series' first entry where the council resolves a genuine multi-tradition disagreement, not a factual error, entirely on its own. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1419",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Apprentice's First Fleet\" (full narrative text at docs/lords-of-cian/chronicles/the-apprentices-first-fleet.md), Storm That Walks Alias Chronicle XCII, wave 31. The student formally cedes full forecasting authority to the fourth-generation apprentice for a major fleet relief engagement -- a deliberate handoff, not a crisis-forced test -- and a full Trinity combat showcase (Mafesto's Kinetic Transfer System, Obsidian Malice's discharge, Onyx of Oblivion's Whisper of Shadows) is committed entirely on the apprentice's own unconfirmed call using the new overlap-window method from MCD-1418. The window opens exactly as called; the garrison holds and the blockade squadron surrenders. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1420",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Weather a Titan Leaves Behind\" (full narrative text at docs/lords-of-cian/chronicles/the-weather-a-titan-leaves-behind.md), Storm That Walks Alias Chronicle XCIII, wave 31, closing the wave. A Titan-class vessel's distant passage produces slow, pulsing atmospheric and water disturbance that none of the school's three blended traditions can chart, mirroring MCD-1358's reverse case (Kanja's own senses once misread a Titan-class vessel's mass as weather; here the vessel's actual passage genuinely makes weather no tradition recognizes). The fleet holds at anchor rather than sail into unread water; the apprentice records the gap honestly in the creed's book as an open question rather than a forced resolution. Closes wave 31 deliberately leaving the doctrine's frontier open, consistent with MCD-1363. No new named characters.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
