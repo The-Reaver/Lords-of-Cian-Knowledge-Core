@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.5",
+  "ledger_version": "16.6",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1343,6 +1343,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Areíto Chronicle III (MCD-509). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\" Item #2: a third territory-Chronicle entry, continuing across all territories that had only two."
+    },
+    {
+      "batch": 163,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Yara Chronicle III (MCD-510). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9166,6 +9173,13 @@
       "id": "MCD-509",
       "category": "phase2-territory-chronicle",
       "statement": "Areíto Chronicle III, \"The Two Houses He Brought to One Table\" (full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-iii-the-two-houses-he-brought-to-one-table.md). Kwame Ade mediates a decade-old split between two tenant associations, discovering the grievance had outlived its own cause -- a patient, non-combat community-reconciliation entry distinct from his physical-vulnerability and Adeyemi Chronicles. An unnamed Kanja is present, uninvolved. No new named characters. Third Areíto territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-510",
+      "category": "phase2-territory-chronicle",
+      "statement": "Yara Chronicle III, \"The Room She Built From Strangers\" (full narrative text at docs/lords-of-cian/chronicles/yara-chronicle-iii-the-room-she-built-from-strangers.md). Yalokona convenes four normally unaligned groups (business owners, tenants, dockworkers, clergy) into one caucus to pass a flood-control measure, showing 'Caucus' (PH2-006) functioning constructively to build coalition rather than only block or refuse. An unnamed Kanja is present, uninvolved. No new named characters. Third Yara territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
