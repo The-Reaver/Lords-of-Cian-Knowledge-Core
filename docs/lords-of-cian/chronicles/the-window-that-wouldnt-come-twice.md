@@ -43,6 +43,5 @@ time since handing full institutional trust to the successor (`MCD-904`, age 265
 particular choice rather than a reversal of that established trust; the successor's own three-
 diversion doctrine (`MCD-1254`) is reused, not replaced. Reuses Efa Gol (`CC-130`/`131`), her
 established unnamed successor, Pell Ostra (`CC-132`/`133`), and Garren Hask (`CC-115`/`116`). Age
-313, V4 gear (`ARS-348`, debut age 241; breach timing via `ARS-354`'s Smoke System and the Rexmar
-Machete's established compartment, `ARS-349`). Onyx of Oblivion correctly absent per its L9 seal
-throughout the Long Mask. First entry of the Scourge's thirty-first wave. No new named characters.*
+313, V4 gear (`ARS-348`, debut age 241). Onyx of Oblivion correctly absent per its L9 seal throughout
+the Long Mask. First entry of the Scourge's thirty-first wave. No new named characters.*
