@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "12.1",
+  "ledger_version": "12.2",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1035,6 +1035,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Trench Monarch's second three-entry Alias Chronicle wave (MCD-401 through MCD-403), the second of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
+    },
+    {
+      "batch": 119,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Industrial Myth's second three-entry Alias Chronicle wave (MCD-404 through MCD-406), the third of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
     }
   ],
   "rules": [
@@ -8116,6 +8123,27 @@
       "id": "MCD-403",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Forehead Tavin Greer Kept Clean\" (full narrative text at docs/lords-of-cian/chronicles/the-forehead-tavin-greer-kept-clean.md), Trench Monarch Alias Chronicle VI, closing the second wave. Decades after the Dredge-Line Ambush, the already-locked Tavin Greer (CC-118) reflects that his career survived and thrived after being publicly marked, once he understood Callum Breck's chalking was never really about humiliating him personally; he kept his own precise, honest after-action report as a private dignity from that day. No new named characters beyond the already-locked Tavin Greer and referenced Callum Breck. Closes the Trench Monarch's second three-Chronicle wave (with 'The Man Who Wore the Name,' MCD-401, and 'The Fight the Sword Couldn't Read,' MCD-402).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-404",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ledger They Tried to Burn\" (full narrative text at docs/lords-of-cian/chronicles/the-ledger-they-tried-to-burn.md), Industrial Myth Alias Chronicle IV, first entry in the second wave. A district administrator orders a raid to burn the crew's recording tent and its ledger, not realizing Ezio Valcari had already dispersed seven identical copies among ordinary-looking workers across the district; the raid destroys only a decoy and generates its own documented incident, ending the administrator's career. No new named characters beyond the already-locked Ezio Valcari.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-405",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Cost of Four Days\" (full narrative text at docs/lords-of-cian/chronicles/the-cost-of-four-days.md), Industrial Myth Alias Chronicle V. A foreman's daughter dies of a treatable fever while Kanja is still days from completing a district's testimony; the foreman directly accuses the patient, unarmed method of costing her the time she needed. Kanja does not defend himself with the method's aggregate success, instead admitting the uncertainty and the real cost some people pay for a method that saves more people overall. No new named characters; the foreman is unnamed and one-scene. A deliberately unresolved, harder entry for this wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-406",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Administrator Who Opened His Own Books\" (full narrative text at docs/lords-of-cian/chronicles/the-administrator-who-opened-his-own-books.md), Industrial Myth Alias Chronicle VI, closing the second wave. A hostile district administrator refuses to open his wage records for three days, then does so once he calculates that participating in an already-forming account of four hundred cross-corroborated worker statements gives him more control than continued silence. His own testimony becomes one of the method's most-cited examples. No new named characters; the administrator is unnamed and one-scene. Closes the Industrial Myth's second three-Chronicle wave (with 'The Ledger They Tried to Burn,' MCD-404, and 'The Cost of Four Days,' MCD-405).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
