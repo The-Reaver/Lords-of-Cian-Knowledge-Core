@@ -19,7 +19,7 @@ A new recruit finally asked, plainly, during an idle hour on the line.
 said a word."
 
 "I don't have the kind of story that makes for good telling." Maret Vos considered the question longer
-than she'd expected, weighing whether it was finally time to answer it at all. "The others remember
+than he'd expected, weighing whether it was finally time to answer it at all. "The others remember
 fear, or gratitude, or a boy's shaking hands. I mostly remember silence. He didn't say much, freeing
 me. He didn't need to. I think I understood what was happening from the way he moved, more than from
 anything he said."

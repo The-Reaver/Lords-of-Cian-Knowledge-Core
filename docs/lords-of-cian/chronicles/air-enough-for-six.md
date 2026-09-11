@@ -23,9 +23,9 @@ hull from the inside to prove they were still alive to hear it answered.
 "They're past the second bulkhead," Kanja surfaced to report, breath ragged. "Air pocket's smaller
 than we thought. I need another hand who can hold a breath and not panic in the dark."
 
-Dol Maren went in on the second pass, reading the hull's own groaning stress the way she read every
+Dol Maren went in on the second pass, reading the hull's own groaning stress the way he read every
 hull, calling out which sections were still sound enough to cut and which would come apart if pressed —
-the same expertise that kept ships whole under her, now used to keep one from finishing the job of
+the same expertise that kept ships whole under him, now used to keep one from finishing the job of
 sinking on the men still trapped inside it.
 
 They brought the six sailors out one at a time over the better part of an hour, the last two coughing

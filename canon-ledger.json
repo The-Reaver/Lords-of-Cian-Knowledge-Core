@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "22.8",
+  "ledger_version": "22.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1784,6 +1784,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 2,
       "note": "Locks Sankofa Chronicle IV (MCD-1023) and Xaragua Chronicle V (MCD-1024), advancing the two deliberately reserved threads (Sankofa's forged-letter conspiracy, PH2-021; the Kanja/Arturo long-arc, PH2-061/062). Abad: \"lock it up.\" Advances the two deliberately reserved threads flagged across many prior batches: Sankofa's forged-letter conspiracy (PH2-021), deepened without resolving it, and the Kanja/Arturo Salvatierra Duho long-arc (PH2-061/062), advanced a meaningful step short of full payoff, per Abad's explicit choices on scope for each thread this round."
+    },
+    {
+      "batch": 226,
+      "date": "2026-09-11",
+      "source": "Reconciliation pass, no source document.",
+      "rule_count": 0,
+      "note": "Corrects MCD-593, MCD-751, and MCD-778 statements in place (pronoun and character-identity fixes; no new rules, no plot changes). Nine additional Chronicle files corrected at the prose level only (not reflected in ledger statement text, which carried no pronoun in those cases): the-night-maret-vos-almost-walked.md, what-he-couldnt-be-in-two-places-for.md, what-maret-vos-carried-from-before.md, the-council-that-told-him-no.md, the-fire-he-chose-over-the-ambush.md (Maret Vos standardized to he/him); air-enough-for-six.md, the-gathering-at-the-ghost-fleets-anchorage.md, the-hull-dol-maren-wasnt-finished-with.md, the-storm-they-didnt-make.md, what-they-did-before-every-sailing.md, what-the-reef-wanted-to-take.md, the-wind-he-read-better.md (renamed from the-wind-she-read-better.md) (Dol Maren corrected to match his already-locked male gender, CC-120). Abad: \"do the Maret Vos pronoun reconciliation pass.\" Investigation found the inconsistency was wider than the two rules originally flagged (Batch 224's note) -- a real 3-3 split across nine Chronicle entries, plus a separate name mix-up where Maret Vos was erroneously given Dol Maren's already-locked crane-operator/shipwright role (CC-120/CC-121) in MCD-751, plus Dol Maren's own established male gender (CC-120) mis-rendered as she/her across seven further Chronicle files in the Sovereign Ghost of the Great Sea run. Presented both findings to Abad separately: \"he/him\" for Maret Vos's tiebreak, and \"rename to Dol Maren\" for the MCD-751 mix-up. All narrative files corrected directly (pronoun fixes do not change plot content or require a fresh draft/approval cycle); MCD-751's character identity change and the wider Dol Maren fix follow directly from already-locked canon (CC-120/CC-121's established male gender), not a new creative decision, so no separate approval cycle was needed for those beyond Abad's ruling on the mix-up itself."
     }
   ],
   "rules": [
@@ -10194,7 +10201,7 @@
     {
       "id": "MCD-593",
       "category": "kanja-alias-chronicle",
-      "statement": "\"The Night Maret Vos Almost Walked\" (full narrative text at docs/lords-of-cian/chronicles/the-night-maret-vos-almost-walked.md), Captain Alias Chronicle XVIII, wave 6 of ten (waves 6-15). Maret Vos tries to leave for good out of guilt/debt; Kanja lets her go freely, refusing to convert loyalty into obligation.",
+      "statement": "\"The Night Maret Vos Almost Walked\" (full narrative text at docs/lords-of-cian/chronicles/the-night-maret-vos-almost-walked.md), Captain Alias Chronicle XVIII, wave 6 of ten (waves 6-15). Maret Vos tries to leave for good out of guilt/debt; Kanja lets him go freely, refusing to convert loyalty into obligation.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -11300,7 +11307,7 @@
     {
       "id": "MCD-751",
       "category": "kanja-alias-chronicle",
-      "statement": "\"The Crane Operator's Other Ledger\" (full narrative text at docs/lords-of-cian/chronicles/the-crane-operators-other-ledger.md), The Industrial Myth Alias Chronicle XXVI, wave 9 of ten (waves 6-15). Maret Vos runs a parallel hazard ledger revealing unsafe conditions and wage theft are causally linked, forcing a combined settlement.",
+      "statement": "\"The Crane Operator's Other Ledger\" (full narrative text at docs/lords-of-cian/chronicles/the-crane-operators-other-ledger.md), The Industrial Myth Alias Chronicle XXVI, wave 9 of ten (waves 6-15). Dol Maren runs a parallel hazard ledger revealing unsafe conditions and wage theft are causally linked, forcing a combined settlement. Corrected, Batch 226: originally misattributed to Maret Vos, a different already-locked crew member with no established engineering competency -- the scene's content (hoist inspection, structural-load competence) matches Dol Maren's own already-locked shipwright/engineering role (CC-120/CC-121) exactly.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -11489,7 +11496,7 @@
     {
       "id": "MCD-778",
       "category": "kanja-alias-chronicle",
-      "statement": "\"The Wind She Read Better\" (full narrative text at docs/lords-of-cian/chronicles/the-wind-she-read-better.md), Sovereign Ghost of the Great Sea Alias Chronicle XXIII, wave 8 of ten (waves 6-15). A pure sailing duel with zero Trinity powers: Dol Maren out-navigates a faster Trust courier ship.",
+      "statement": "\"The Wind He Read Better\" (full narrative text at docs/lords-of-cian/chronicles/the-wind-he-read-better.md), Sovereign Ghost of the Great Sea Alias Chronicle XXIII, wave 8 of ten (waves 6-15). A pure sailing duel with zero Trinity powers: Dol Maren out-navigates a faster Trust courier ship. Corrected, Batch 226: title and file renamed from \"The Wind She Read Better\" / the-wind-she-read-better.md, fixing a mis-gendered pronoun for the already-locked, established-male (CC-120) Dol Maren.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },

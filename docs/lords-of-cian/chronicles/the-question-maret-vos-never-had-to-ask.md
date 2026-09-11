@@ -60,7 +60,9 @@ reputation — distinct in register from "What Pell Ostra Said About the Quiet O
 and "What Garren Hask Wrote in the Margins" (cost-accounting retrospective). Kanja's field engineering
 competence in this entry is his own, not Maret Vos's; Maret Vos is deliberately not characterized as
 the crew's dedicated crane operator (that role belongs to already-locked crew member Dol Maren) but as
-a fellow tradesperson offering hard-won caution from lived experience. Pronouns for Maret Vos are
-avoided here by design, given the character's already-locked appearances elsewhere are inconsistent on
-this point. Closes the nineteenth wave (with "The Siege That Never Came" and "What Efa Gol Watched From
+a fellow tradesperson offering hard-won caution from lived experience. Pronouns for Maret Vos were
+avoided here by design at the time of writing, given the character's earlier appearances were
+inconsistent on this point; Batch 226 has since reconciled Maret Vos to he/him across the ledger, so
+this entry's own avoidant phrasing is no longer required going forward but is left as-is rather than
+rewritten. Closes the nineteenth wave (with "The Siege That Never Came" and "What Efa Gol Watched From
 Above") and the nineteenth overall Blue-Collar Titan wave. No new named characters.*

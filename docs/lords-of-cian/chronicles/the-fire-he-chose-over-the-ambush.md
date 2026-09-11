@@ -25,7 +25,7 @@ the hour, or it would burn with the people still trying to save it.
 
 "Strike the position," he said. "All of it. We're not coming back to it."
 
-Maret Vos didn't argue, though the look on her face said what three days of careful work were worth
+Maret Vos didn't argue, though the look on his face said what three days of careful work were worth
 losing. Nothing in the Trinity was built for this — Mafesto's kinetic transfer had nothing to
 ground against in loose grass and running flame, Obsidian Malice's discharge would have done
 nothing but spread the fire faster, and Onyx stayed sheathed the entire day, of no more use here

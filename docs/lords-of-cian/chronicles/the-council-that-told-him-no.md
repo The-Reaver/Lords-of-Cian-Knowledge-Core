@@ -37,7 +37,7 @@ he hadn't accounted for, and what sat with him for the rest of the day, was how 
 an argument he still believed in, to people he'd trusted enough to make sure they could beat him.
 
 Maret Vos found him that evening, checking the demolition stock that hadn't been diverted. "You're
-allowed to think we're wrong," she said. "The council isn't built to make you agree with it. Just to
+allowed to think we're wrong," he said. "The council isn't built to make you agree with it. Just to
 make sure you can't act like you don't need to."
 
 "I know that. I built it that way on purpose."

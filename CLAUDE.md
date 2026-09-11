@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 22.8, 1,644 rules, 225 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 22.9, 1,644 rules, 226 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1060,7 +1060,42 @@ Baálé at his story's start never actually ended. Abad's own words on timing: "
 session unless you want it." No further Sankofa Chronicle is queued until Abad points at this
 again.
 
-## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
+**Maret Vos / Dol Maren reconciliation, Batch 226, 2026-09-11.** Abad asked directly: "do the Maret
+Vos pronoun reconciliation pass" (the item Batch 224 had flagged and left open: MCD-533 uses "his"
+for Maret Vos, MCD-593 uses "her"). Investigation found the problem was bigger than those two rules.
+Full corpus check of every Chronicle mentioning Maret Vos found a genuine 3-3 split with no
+tiebreaker -- no dedicated `CC-` dossier was ever locked for Vos (unlike Hask/Breck/Maren in Batch
+48), only a group mention at `MCD-234`. Presented the full tally to Abad; his ruling: "He/him."
+While fixing it, a second, separate error surfaced: `MCD-751` ("The Crane Operator's Other Ledger")
+gave Maret Vos a crane-operator/shipwright competency and an explicit `CC-121` cross-reference that
+actually belongs to a different already-locked character, Dol Maren (established Batch 48) -- the
+similar names had been crossed by the drafting agent that wrote Industrial Myth wave 9. Presented to
+Abad; his ruling: "Rename to Dol Maren" (the scene's content matches Maren's established profile
+exactly). Checking Dol Maren's own appearances for the same class of error then surfaced a third,
+larger problem: seven further Sovereign Ghost of the Great Sea Chronicles (Batch 199) gave the
+already-locked, established-male (`CC-120`: "following his father's... career") Dol Maren she/her
+pronouns throughout. This required no separate approval -- it directly contradicts already-locked
+canon rather than posing a new judgment call, so it was corrected as a mechanical fix alongside the
+rest.
+
+Final scope of the pass: `MCD-593`, `MCD-938`, `MCD-533`, `MCD-1000`, and `MCD-911` corrected to
+he/him for Maret Vos (five files: the-night-maret-vos-almost-walked.md,
+what-he-couldnt-be-in-two-places-for.md, what-maret-vos-carried-from-before.md,
+the-council-that-told-him-no.md, the-fire-he-chose-over-the-ambush.md); `MCD-751` renamed from Maret
+Vos to Dol Maren throughout (title kept, since "The Crane Operator's Other Ledger" already fits
+Maren correctly) and its erroneous `CC-121` misattribution corrected to the real one; and seven Dol
+Maren files corrected to he/him (air-enough-for-six.md, the-gathering-at-the-ghost-fleets-anchorage.md,
+the-hull-dol-maren-wasnt-finished-with.md, the-storm-they-didnt-make.md,
+what-they-did-before-every-sailing.md, what-the-reef-wanted-to-take.md, and
+the-wind-she-read-better.md -- the last renamed to the-wind-he-read-better.md since its own title
+used the wrong pronoun, both the ledger statement and the file path updated to match). `MCD-1013`'s
+continuity note (which had deliberately avoided pronouns for Vos, flagging the then-unresolved
+inconsistency) updated to record the resolution rather than rewritten, since its actual narrative
+text never used a wrong pronoun. Three ledger statements corrected in place (`MCD-593`, `MCD-751`,
+`MCD-778`); twelve Chronicle files corrected at the prose level with no ledger-statement change
+needed (they carried no pronoun in the statement text itself). No new rules, no plot changes -- pure
+reconciliation. Ledger reached `ledger_version` 22.9, still 1,644 rules, 226 batches. A Google Drive
+sync for the renamed/corrected files is still owed, same as any local-only edit in this session.
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This

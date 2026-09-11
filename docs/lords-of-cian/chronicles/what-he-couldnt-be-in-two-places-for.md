@@ -17,7 +17,7 @@ Bane split the column in the time it took to read the second message twice. Mare
 thirty riders for the refugee column — fast, light, nothing that would slow them reaching the
 interception point in time. He would take the rest toward Corvain's Rest, because a poisoned well
 was a problem he understood how to solve with his own hands and Vos had led enough engagements now
-to run an interception without him standing over her doing it.
+to run an interception without him standing over Vos doing it.
 
 "You could come with me instead," Vos said, meaning it as a real offer, not a challenge. "The well
 doesn't need a legend behind it. Dirty water is dirty water no matter who's standing next to it."

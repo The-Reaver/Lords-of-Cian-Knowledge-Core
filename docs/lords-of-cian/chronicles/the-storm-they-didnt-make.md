@@ -32,8 +32,8 @@ before the crossing season, that belief is going to drown someone the year we're
 happen." Kanja held his gaze until the man nodded, reluctant. "I'll give you something better than a
 myth."
 
-He had Dol Maren brought up from below, and for the better part of an hour she walked the elder and
-two of his sons through what she actually watched for — the specific cloud banks that meant a crossing
+He had Dol Maren brought up from below, and for the better part of an hour he walked the elder and
+two of his sons through what he actually watched for — the specific cloud banks that meant a crossing
 should wait, the swell pattern that meant it was safe, marks on a hand-copied chart they could keep and
 pass down themselves. No mystery in any of it. Just attention, repeated for years until it looked like
 magic to anyone who hadn't done the looking.

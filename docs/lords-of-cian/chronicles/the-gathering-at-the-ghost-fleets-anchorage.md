@@ -13,8 +13,8 @@ Garren Hask had his ledger out, as always, but for once it recorded nothing more
 running tally of who'd contributed what to the evening's shared meal, laid out across planks between
 the three hulls.
 
-"A year since Ghost Harbor," Dol Maren said, settling beside Efa Gol with a plate she hadn't had time to
-eat from properly in weeks. "Three ships. A shipwright who's stopped counting how many hulls she's
+"A year since Ghost Harbor," Dol Maren said, settling beside Efa Gol with a plate he hadn't had time to
+eat from properly in weeks. "Three ships. A shipwright who's stopped counting how many hulls he's
 rebuilt. A decoy operator with a notebook full of plans she never used."
 
 "And a demolitions specialist who's cleared more harbors than she's blown up," Pell Ostra added,

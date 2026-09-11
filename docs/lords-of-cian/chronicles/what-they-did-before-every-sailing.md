@@ -26,7 +26,7 @@ carrying the careful economy it had kept since Ghost Harbor. "Not out loud. Just
 everyone who should be standing on this deck is standing on it, before you leave and can't be sure
 anymore."
 
-Dol Maren, checking the rigging nearby, added her own piece without being asked. "It's not superstition.
+Dol Maren, checking the rigging nearby, added his own piece without being asked. "It's not superstition.
 It's not asking anyone for luck. It's just — some of us know from the Black Trench exactly how fast a
 full crew becomes an incomplete one. Few minutes of quiet before every sailing reminds you not to take
 the full crew for granted while you've still got it."
