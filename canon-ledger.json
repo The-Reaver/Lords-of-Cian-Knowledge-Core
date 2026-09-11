@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "28.8",
+  "ledger_version": "28.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2204,6 +2204,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document",
       "rule_count": 9,
       "note": "Continues the Alias Chronicle sub-series' thirty-second, thirty-third, and thirty-fourth waves for the Scourge, under Abad's direct authorization: \"do 3 more alias wave for all eleven.\" Wave 32 opens with the sub-series' first genuine betrayal-from-within-a-freed-community failure state (a rendezvous sold to slavers for payment, defeated because the schedule had already quietly changed), then the first entry addressing the dependents of the people the crew's raids kill (a slaver's orphaned son, quietly placed rather than resolved), and closes with the sub-series' first formal multi-party tactical alliance -- a detailed joint operation with a foreign anti-slaving squadron, extending rather than repeating the established institutional-independence refusals. Wave 33 opens with Pell Ostra's own voluntary retirement, paralleling Efa Gol's, then the sub-series' first desert/arid overland environment (a salt-flat crossing where heat and thirst, not an enemy, are the antagonist), and closes on a sixty-year generational payoff extending 'The Merchant Who Changed His Trade' (a reformed slaver's grandson warning the crew of an ambush unprompted). Wave 34 opens with the sub-series' first voluntary, principled departure from the operational core (new minor named character Rowan Vail, collision-checked clean, reassigning away from the fear-based method on ethical grounds rather than age or injury), then the first entry addressing the long-term ecological cost of two centuries of the crew's own raids (reef restoration at the already-locked Salt Keep site, solved by patient labor rather than any gear), and closes the run with a symbolic full-circle return to Ash-Wharf, the persona's own origin site, for the first time in the sub-series' history. No new named characters beyond Rowan Vail, collision-checked against the full ledger before drafting. All nine entries reuse already-locked crew (Efa Gol, Garren Hask, Pell Ostra, and Efa Gol's established unnamed successor) for continuity depth, and none touches, restages, or contradicts the already-locked final night of the persona (`MCD-1022`, age 314)."
+    },
+    {
+      "batch": 286,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 9,
+      "note": "Continues the Alias Chronicle sub-series' thirty-second, thirty-third, and thirty-fourth waves for Captain, under Abad's direct authorization: \"do 3 more alias wave for all eleven.\" Wave 32 gives the rotating council-chair structure (MCD-1380) its first genuine transition -- Corren Halst's three-year term ends on schedule and Callum Breck is chosen as the second chair-holder -- then tests his command style in a detailed full-Trinity combat showcase defending a resettlement convoy, before closing on Mira (MCD-1370/1371/1372) being offered a formal council seat and the council inventing a new one-year non-voting observer term to let her accept it honestly. Wave 33 gives Danne Sok's daughter (MCD-1002) her own first fully independent command, mirroring Corren Halst's growth a generation later; stages the sub-series' first entry pitting the crew against its own protected people rather than an external enemy (a panicked grain-shortage crowd, resolved through restraint and a deliberate choice not to draw Obsidian Malice at all); and closes with Kanja beginning a concrete, ongoing practice of personally recording the founding generation's memories, the first real step on the promise made at MCD-920 and renewed at Garren Hask's memorial (MCD-1423). Wave 34 -- the alias's hundredth Chronicle overall -- gives the sub-series its first purely voluntary, uncoerced betrayal for personal gain, forcing the dispute council to write the charter's first involuntary-removal clause; stages a detailed full-Trinity combat showcase defending the Pier Nine memorial wall itself from a legacy-erasure attack by unreconciled Trust holdouts; and closes on a former enemy's descendant asking whether the wall's memory can hold a name from the other side, resolved with a distinct adjacent marker rather than integration. No new named characters across any of the nine entries -- every returning figure (Corren Halst, Callum Breck, Efa Gol, Maret Vos he/him, Pell Ostra, Mira, Danne Sok and his daughter, Garren Hask's already-established unnamed ledger successor) is reused from already-locked crew, and all one-scene antagonists, clerks, and the descendant are deliberately left unnamed, matching this alias's strong established convention. Collision-checked: MCD-1514 through MCD-1522 confirmed unused before drafting."
     }
   ],
   "rules": [
@@ -17356,6 +17363,69 @@
       "id": "MCD-1477",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Coat That Went Back to Ash-Wharf\" (full narrative text at docs/lords-of-cian/chronicles/the-coat-that-went-back-to-ash-wharf.md), the Scourge Alias Chronicle CII, wave 34, closing the wave. Age 258, V4 gear. A symbolic full-circle return to Ash-Wharf (`MCD-235`/`380`), the persona's own origin site, for the first time in the sub-series' history -- a deliberately quiet, low-combat closer distinct from every prior interiority entry (`MCD-813`'s pure totaling at age 305, `MCD-830`'s and `MCD-1246`'s regret question) in that it returns physically to the place rather than only reflecting on the years. Confirms the site's rebuilding into ordinary civic life (a market square over the former bombardment ground, a rebuilt seawall) without contradicting `MCD-235`'s account of the massacre itself. No combat. No new named characters. Onyx of Oblivion correctly absent per its L9 seal. Does not touch, restage, or contradict the already-locked final night of the persona (`MCD-1022`, age 314) or its immediate approach (`MCD-1406`-`1408`). Closes wave 34 (`MCD-1475` through `MCD-1477`) and, for this run, the Scourge's Alias Chronicle output at one hundred and two total entries across thirty-four complete waves.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1514",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Three Years That Ran Out\" (full narrative text at docs/lords-of-cian/chronicles/the-three-years-that-ran-out.md), Captain Alias Chronicle XCIV, wave 32. The sub-series' first real test of the rotating council-chair structure (MCD-1380): Corren Halst's three-year term reaches its actual end and she declines a second term on principle, and the council chooses Callum Breck as the second chair-holder, tying his acceptance to his own already-locked 'Captain' origin (MCD-397) and Trench Monarch naming (CC-118). No new named characters. First entry, wave 32.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1515",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Watch Callum Breck Called\" (full narrative text at docs/lords-of-cian/chronicles/the-watch-callum-breck-called.md), Captain Alias Chronicle XCV, wave 32. A detailed full-Trinity combat showcase (Mafesto's Kinetic Transfer System, Obsidian Malice, Onyx of Oblivion's Cadence Ruin) defending a resettlement convoy, built around a genuine first for the sub-series -- Kanja fighting under another crew member's tactical command as the newly-seated chair. Extends Callum Breck's silent-signal shore-watch craft (MCD-1099) from a naval into a land-defense application, directly testing the private fear his own silence arc (CC-119) still carries. All eleven raiders taken alive. No new named characters. Second entry, wave 32.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1516",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Seat They Offered Her\" (full narrative text at docs/lords-of-cian/chronicles/the-seat-they-offered-her.md), Captain Alias Chronicle XCVI, wave 32, closing the wave. Mira (MCD-1370/1371/1372) is offered a formal dispute-council seat, extending her arc from operational courage (MCD-1421) and memorial-wall labor (MCD-1372/1423) into institutional life for the first time. Introduces a genuine addition to council practice -- a one-year non-voting observer term preceding full voting membership, proposed by newly-seated chair Callum Breck (MCD-1514) -- extending rather than contradicting the charter's (MCD-1056) existing free-membership and slow-trust principles. No new named characters. Closes wave 32.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1517",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The First Order She Gave Alone\" (full narrative text at docs/lords-of-cian/chronicles/the-first-order-she-gave-alone.md), Captain Alias Chronicle XCVII, wave 33. Danne Sok's daughter (established MCD-1002, deliberately kept unnamed per that entry's own convention), now grown, leads her first fully independent operation (intercepting smugglers working a delta's back channels) with neither Kanja nor Corren Halst present, mirroring Halst's own growth a generation earlier ('The Officers Who Didn't Need Him There,' MCD-608) and extending the self-sufficiency thread built through MCD-1364/1385. Kanja's absence is deliberate, consistent with those entries. No new named characters. First entry, wave 33.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1518",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Crowd That Turned on Itself\" (full narrative text at docs/lords-of-cian/chronicles/the-crowd-that-turned-on-itself.md), Captain Alias Chronicle XCVIII, wave 33. The sub-series' first entry pitting the crew's protective role against its own protected people rather than an external enemy -- a panicked grain-shortage crowd at a distribution yard, with a small unnamed opportunist element exploiting the chaos rather than causing it. Onyx of Oblivion's Veil Piercer is used for crowd-intent discrimination rather than combat targeting, and Mafesto's Kinetic Transfer System redirects a friendly-side crush rather than an attack; Kanja deliberately never draws Obsidian Malice at all, extending the restraint-as-skill ethos into a register with no enemy to defeat. Efa Gol and Pell Ostra reused. No new named characters. Second entry, wave 33.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1519",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Names He Started Writing Down\" (full narrative text at docs/lords-of-cian/chronicles/the-names-he-started-writing-down.md), Captain Alias Chronicle XCIX, wave 33, closing the wave. Kanja takes his first concrete step toward the promise made at 'The Promise for After He's Gone' (MCD-920) and renewed at Garren Hask's memorial (MCD-1423): he begins a personal, narrative-memory practice distinct from Hask's operational ledger, starting with Efa Gol (extending her Tam Sullen backstory, CC-131) and Maret Vos (extending MCD-593/MCD-1369). Framed as an ongoing practice rather than a completed project. No new named characters. Closes wave 33.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1520",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Clerk Who Sold What Wasn't His\" (full narrative text at docs/lords-of-cian/chronicles/the-clerk-who-sold-what-wasnt-his.md), Captain Alias Chronicle C, wave 34 -- the hundredth Captain Alias Chronicle. The sub-series' first betrayal driven by pure voluntary self-interest rather than coercion, distinct from MCD-507/MCD-604's hostage-leverage entries. A relief clerk skims grain shipments for personal profit, caught through Danne Sok's daughter's audit competence (MCD-1002/1517); the dispute council, finding the charter (MCD-1056) silent on involuntary removal, amends it with its first for-cause expulsion clause -- full restitution, immediate removal, and an explicit but unearned door left open to future trust. The clerk is deliberately unnamed and non-recurring. No new named characters. First entry, wave 34.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1521",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What They Tried to Erase From the Wall\" (full narrative text at docs/lords-of-cian/chronicles/what-they-tried-to-erase-from-the-wall.md), Captain Alias Chronicle CI, wave 34. A detailed full-Trinity combat showcase (Onyx of Oblivion's Whisper of Shadows and Cadence Ruin, Mafesto's Kinetic Transfer System, Obsidian Malice) defending the Pier Nine memorial wall (MCD-1372) itself from an attack by unreconciled Trust holdouts aimed at erasing the crew's history rather than harming its people -- a genuinely new stake for this alias's combat register. All six attackers taken alive. Mira and Callum Breck (as chair) reused. No new named characters. Second entry, wave 34.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1522",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Name That Wasn't on the Wall\" (full narrative text at docs/lords-of-cian/chronicles/the-name-that-wasnt-on-the-wall.md), Captain Alias Chronicle CII, wave 34, closing the wave. Weeks after the attack on the memorial wall (MCD-1521), a former enemy soldier's descendant asks whether the wall's memory can hold a name from the other side; the council resolves it not by integrating the name into the crew's own wall but by creating a distinct, adjacent marker for those who never chose the side they died for, preserving rather than flattening the moral distinction Efa Gol raises. Mira's contribution reflects her still-new observer-seat standing (MCD-1516). The woman and her grandfather are deliberately unnamed and non-recurring. No new named characters. Closes wave 34 and this three-wave run (waves 32-34) at one hundred and two total Captain Alias Chronicles across thirty-four complete waves.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
