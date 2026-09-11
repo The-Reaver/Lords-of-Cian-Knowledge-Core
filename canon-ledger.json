@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.8",
+  "ledger_version": "16.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1364,6 +1364,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Borikén Chronicle III (MCD-512). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 166,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Ide Chronicle III (MCD-513). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9208,6 +9215,13 @@
       "id": "MCD-512",
       "category": "phase2-territory-chronicle",
       "statement": "Borikén Chronicle III, \"The Men Who Claimed His Name\" (full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-iii-the-men-who-claimed-his-name.md). Three unconnected impostors exploit 'No Single Point' (PH2-010)'s own ambiguity to run extortion under Guaní's name; he defeats the scheme through quiet, patient questioning of the impostors rather than ever revealing himself, deliberately preserving the mechanic that protects him from real threats. An unnamed Kanja helps brief residents on the questions to ask, uninvolved otherwise. No new named characters. Third Borikén territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-513",
+      "category": "phase2-territory-chronicle",
+      "statement": "Ide Chronicle III, \"The Name She Almost Left Out\" (full narrative text at docs/lords-of-cian/chronicles/ide-chronicle-iii-the-name-she-almost-left-out.md). Ase documents theft by one of her own closest allies and files the account with the same rigor as any other, despite the real political cost to her own movement, establishing that 'Named and Numbered' (PH2-036) applies identically to friend and enemy alike. An unnamed Kanja is present during her deliberation, uninvolved. No new named characters. Third Ide territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
