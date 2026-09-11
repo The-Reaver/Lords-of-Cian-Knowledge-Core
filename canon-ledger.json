@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "15.9",
+  "ledger_version": "16.0",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1301,6 +1301,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Scourge's fourth three-entry Alias Chronicle wave (MCD-491 through MCD-493). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 157,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Crow King's fourth three-entry Alias Chronicle wave (MCD-494 through MCD-496). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9012,6 +9019,27 @@
       "id": "MCD-493",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Ends When the Mask Comes Off\" (full narrative text at docs/lords-of-cian/chronicles/what-ends-when-the-mask-comes-off.md), the Scourge Alias Chronicle XII, closing the fourth wave. Set roughly age 300: an elderly but still-active Garren Hask and Kanja reflect on the eventual, deliberately unspecified end of the Scourge persona and what comes after it, extending Hask's already-locked ghost-fleet/Scourge-era ledger role (MCD-414). No new named characters beyond the already-locked Garren Hask. Closes the Scourge's fourth three-Chronicle wave (with 'The One Who Didn't Want Freedom,' MCD-491, and 'The Crew That Challenged the Crescent,' MCD-492).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-494",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Lie That Cost Someone Else\" (full narrative text at docs/lords-of-cian/chronicles/the-lie-that-cost-someone-else.md), the Crow King Alias Chronicle X, first entry in the fourth wave. A false signal meant to redirect a Directorate patrol away from a convoy instead frightens an uninvolved farming family into the patrol's path; the convoy survives but the bystander harm is real, prompting Kanja to add a bystander-mapping verification step to the Hymn-Engine method -- the first genuine failure entry of this alias's run. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-495",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Braid and the Blade\" (full narrative text at docs/lords-of-cian/chronicles/the-braid-and-the-blade.md), the Crow King Alias Chronicle XI. A detailed hybrid showcase combining the Braid's three interleaved false signals (MCD-384) with a full Trinity combat sequence for the first time -- the deception consolidates a Reth Hollow garrison into a single position rather than scattering it, which Mafesto, Obsidian Malice, and Onyx of Oblivion then defeat directly, establishing the Hymn-Engine as an offensive setup tool, not only an evasion one. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-496",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Cipher That Learned to Listen Back\" (full narrative text at docs/lords-of-cian/chronicles/the-cipher-that-learned-to-listen-back.md), the Crow King Alias Chronicle XII, closing the fourth wave. A Directorate cryptographer cracks a partial structural signature in the Hymn-Engine's patterns; the already-locked apprentice (MCD-451) detects the erosion first and personally designs the new, more varied constructions that render the breakthrough obsolete, taking real authorship of the method's first evolution. No new named characters beyond the already-locked apprentice. Closes the Crow King's fourth three-Chronicle wave (with 'The Lie That Cost Someone Else,' MCD-494, and 'The Braid and the Blade,' MCD-495).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
