@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "14.8",
+  "ledger_version": "14.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1224,6 +1224,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Ijoko Chronicle II (MCD-470). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
+    },
+    {
+      "batch": 146,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Orin Chronicle II (MCD-471). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
     }
   ],
   "rules": [
@@ -8774,6 +8781,13 @@
       "id": "MCD-470",
       "category": "phase2-territory-chronicle",
       "statement": "\"The Ledger She Built From Nothing\" (full narrative text at docs/lords-of-cian/chronicles/the-ledger-she-built-from-nothing.md), Ijoko Chronicle II. Adwoa spends three years building a local currency/cooperative-lending system to slow the tax-base flight explicitly left untouched by 'The Iron Hand in the Velvet Glove' (PH2-027) in Chronicle I, an ordinary-competence achievement distinct from the ability itself. An unnamed Kanja sits through several early planning sessions, uninvolved. No new named characters. Second Ijoko territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-471",
+      "category": "phase2-territory-chronicle",
+      "statement": "\"What the Ark Actually Carries\" (full narrative text at docs/lords-of-cian/chronicles/what-the-ark-actually-carries.md), Orin Chronicle II. A private, non-commercial neighborhood gathering shows 'The Ark' (PH2-029) functioning at full communal strength, binding a grieving mother's isolated loss into shared presence with the room -- a direct complement to Chronicle I (MCD-350), which proved the same mechanic by its absence under commercial conditions. An unnamed Kanja is present for the evening, uninvolved. No new named characters. Second Orin territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
