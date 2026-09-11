@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 18.3, 1,147 rules, 180 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 19.4, 1,180 rules, 191 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -827,6 +827,70 @@ long-arc, `PH2-061`/`062`) were left untouched throughout, per standing instruct
 Ledger reached `ledger_version` 18.3, 1,147 rules, 180 batches by the end of this run -- zero
 duplicate IDs verified after every single batch, 199 total Chronicle files. Genuinely open for
 whenever Abad wants it next: a fifth Alias Chronicle wave for any alias, a fourth territory-Chronicle
+entry for any of the 20 territories, or any other thread. No further wave or sweep starts
+automatically.
+
+**A fifth Alias Chronicle wave for all eleven aliases, Batches 181-191, 2026-09-11 (`MCD-528`
+through `MCD-560`, 33 new Chronicles).** Bane's wave was drafted and presented individually first
+("start a fifth alias wave"), approved with "lock it" (Batch 181); the remaining ten aliases then
+ran under Abad's blanket authorization: "do a wave through all the aliases. do this continuously,
+uninterrupted, this includes rigorous testing, committing, and pushing to origin Main." Each wave
+continued the established discipline of exploring a genuinely new register, limit, or failure for
+that alias rather than repeating any of the first four waves' story shapes:
+
+- **Bane (`MCD-528`-530).** The first genuine peer-level duel decided by skill rather than powers;
+  the first sustained multi-day siege (nine days of invisible pressure before a decisive strike);
+  Danne Sok's own long-kept private memory of the boy's shaking hands just after his rescue, closing
+  a trilogy of early-crew perspectives with Corren Halst and Danne Sok.
+- **The Trench Monarch (`MCD-531`-533).** The first direct boardroom negotiation with site
+  ownership; a detailed single-night pursuit stopping a hired killer targeting a witness; Maret
+  Vos's own quiet, undramatized account of being freed, closing the same early-crew trilogy.
+- **The Industrial Myth (`MCD-534`-536).** The first genuine limit of the tally method against a
+  fabricated, unverifiable counter-account; a month-long multi-district campaign proving coordinated
+  wage suppression across three mills; Pell Ostra reflecting on what it means to guard a
+  deliberately unarmed persona.
+- **The Blue-Collar Titan (`MCD-537`-539).** A detailed combined rescue-and-combat showcase using an
+  unmapped collapse shaft to defeat a trap-the-rescuers ambush; a monument-condemnation refused on
+  principle against his own crew's political pressure; the tradesmen's guild extending honorary
+  membership explicitly for his honest failures, not despite them.
+- **The Sovereign Ghost of the Great Sea (`MCD-540`-542).** The largest coalition naval battle of
+  the run, three Trust captains defecting mid-engagement; a moral-complexity entry releasing coerced
+  enemy conscripts rather than holding them; Callum Breck's private, previously untold account of
+  his voice-recovery at Ghost Harbor.
+- **The Scourge (`MCD-543`-545).** The largest fleet battle of the run, eight ships against a
+  twelve-ship Directorate armada at Dead Reckoning; the first genuine unprevented rescue failure
+  when a slaver scuttles his own ship; an unrecognized visit, generations later, to a settlement
+  founded by Salt Keep survivors.
+- **The Crow King (`MCD-546`-548).** The largest deception target of the run, an entire three-
+  thousand-man division redirected by targeting its officers; the first opponent to genuinely
+  understand and counter the Hymn-Engine's own mechanism; the apprentice's third-generation
+  transmission of the craft to her own student.
+- **The Iron Bastard (`MCD-549`-551).** A detailed ten-simultaneous-engine assault applying doubled
+  verification under time pressure; the first deliberately engineered deception of the doctrine's
+  diagnostic method itself; the Trust scholar's once-shelved research finally reaching publication
+  years later.
+- **The Lord of Embers (`MCD-552`-554).** A detailed five-site simultaneous-defense showcase across
+  a full hour; a captured enemy smith offered work rather than punishment over the crew's own real
+  anger; the campaign's senior smith witnessing the private toll behind the reputation for the first
+  time.
+- **The Storm That Walks (`MCD-555`-557).** A storm endangering both sides of a conflict at once,
+  forcing a genuine truce and cooperation; a moral dilemma choosing to warn civilians over available
+  military advantage; Sephtis's successor making her first fully independent prediction, fulfilling
+  the redundancy her training was built for.
+- **Captain (`MCD-558`-560).** A detailed nine-day siege-endurance showcase where Kanja refuses to
+  use his own biological advantage for extra rest; a former enemy officer earning trust the same
+  gradual way as any newcomer; Efa Gol's synthesizing reflection, present since Warehouse Twelve,
+  on why "Captain" means the most of every name he's carried, closing the full eleven-alias
+  fifth-wave run.
+
+Every named alias now has five completed waves (fifteen Chronicles each, 165 total). No new named
+characters were introduced anywhere in this run; every entry reused already-locked crew (Danne Sok,
+Maret Vos, Pell Ostra, Callum Breck, Garren Hask lineage, Sephtis and his successor, Efa Gol) for
+continuity depth instead.
+
+Ledger reached `ledger_version` 19.4, 1,180 rules, 191 batches by the end of this run -- zero
+duplicate IDs verified after every single batch, 232 total Chronicle files. Genuinely open for
+whenever Abad wants it next: a sixth Alias Chronicle wave for any alias, a fourth territory-Chronicle
 entry for any of the 20 territories, or any other thread. No further wave or sweep starts
 automatically.
 
