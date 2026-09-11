@@ -1,0 +1,19 @@
+# The Glass That Couldn't Feel the Cold Current
+
+*Locked canon, Batch 285, 2026-09-11 (`MCD-1508`). Storm That Walks Alias Chronicle XCVII, wave 33, first entry in the wave. A Trust engineer builds a relay network of mechanical pressure gauges to replace the school's trained readers outright; tested against the same cold-current interaction already flagged as a doctrine gap at `MCD-1346`, the instruments measure everything except the one thing that matters.*
+
+---
+
+The engineer who came to the school didn't come to learn from it. He came, politely and at some length, to explain why it would soon no longer be necessary: a relay of sealed glass pressure gauges, spaced along the coast and read by signal-tower crews trained in an afternoon, each reporting a number that any junior officer could act on without years spent learning to feel a horizon's color change or a gull's tightening circle. No apprenticeship. No unquantifiable judgment call that could go wrong the way `MCD-1505`'s honest miss had gone wrong only weeks before. Just glass, and numbers, and a chain of towers that never needed sleep or training or forty years to grow into.
+
+The student didn't argue with him. She asked him to run his network alongside her own reading, on the same system, and let the sea decide.
+
+The system that came was the same shape as the one that had broken `MCD-1346` apart -- a shoulder-season front riding in over an unmodeled cold-current interaction the school's own creed had flagged years before as a real, acknowledged gap in the model. The glass network read the pressure drop accurately, exactly as designed, and called it building weather with textbook confidence. It had no way to register what the fourth-generation apprentice caught within the hour: a wrongness in the swell's rhythm underfoot that no pressure gauge had ever been built to feel, the same felt signature the cold-current interaction had left on every prior occasion the school had since learned to watch for by hand. She downgraded the call before the glass network's towers had finished relaying their own confident number down the coast.
+
+The front broke apart exactly as she'd read it, sparing three fishing boats the engineer's own numbers would have held in harbor for two needless days.
+
+He didn't leave defeated so much as recalibrated. "Your glass measures pressure," the student told him, not unkindly, once the reading had settled. "It doesn't measure what forty years of hands on a rail have learned pressure means when the current under it is wrong. Feed us your towers' numbers. Let a trained reader decide what they're worth." He did exactly that, and within the season the relay network had become what it remains -- an early-warning layer feeding the school's own readers rather than replacing them, the glass doing the counting so the craft could do the understanding.
+
+---
+
+*Continuity notes (not narrative): the doctrine's first head-to-head test against pure mechanical instrumentation -- a Trust engineer's relay network of pressure gauges, distinct from every prior "someone tries to replace or bypass the craft" register (the purchase attempt at `MCD-573`, the espionage at `MCD-574`, the storm-hardened squadron built to neutralize the tactic at `MCD-567`) because this challenger offers a genuine technological alternative rather than theft, purchase, or brute countermeasure. Deliberately recurs the already-flagged cold-current model gap (`MCD-1346`/`1359`) to demonstrate instrumentation's real limit against trained embodied judgment, resolving into instruments-as-supplement rather than instruments-as-replacement, consistent with the five written principles (`MCD-1345`). No new named characters -- the engineer is unnamed. Collision-checked against the full live ledger: no new proper nouns introduced.*
