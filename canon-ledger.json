@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "27.2",
+  "ledger_version": "27.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2092,6 +2092,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document",
       "rule_count": 3,
       "note": "The Sovereign Ghost of the Great Sea's thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Three genuinely new registers for this alias: a detailed full-Trinity combat showcase fought on foot across refrozen pack ice rather than ship-to-ship, when raiders exploit an early freeze to trap The Receipt and a supply tender ('The Channel the Ice Sealed Shut'); Callum Breck personally ending a standoff alone and unarmed through his own rebuilt voice rather than through Kanja or the Trinity, extending his already-locked voice-recovery arc into direct field leadership for the first time ('The Voice That Ended It Without a Blow'); and the fleet's reputation weaponized as unauthorized political propaganda by both sides of a distant conflict it has no actual part in, resolved by Kanja publicly refusing both endorsements ('The War That Wore Their Name'). No new named characters -- all three entries reuse already-locked crew (Garren Hask, Danne Sok, Callum Breck, Efa Gol). Zero proper-noun collisions found on pre-draft checks. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
+    },
+    {
+      "batch": 271,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 3,
+      "note": "The Crow King's thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Resolves where the doctrine page lost during a raid in wave 22 (\"The Page That Went Missing,\" MCD-1257) actually ended up: surfacing years later in a distant river town, where it seeded a wholly independent, unsanctioned practice built on its philosophy alone -- no knowledge of the Hymn-Engine, the Crow King name, or Kanja's identity. The wave opens with the discovery, turns on the fourth generation quietly correcting a dangerous near-lie without ever revealing himself, and closes on Kanja, the apprentice, the third generation, and the fourth generation choosing to leave the practice exactly as it is -- a literal payoff of wave 30's closing line that the craft's philosophy could survive without anyone remembering to call it by this name. No new named characters were introduced anywhere in this wave. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
     }
   ],
   "rules": [
@@ -16488,6 +16495,27 @@
       "id": "MCD-1405",
       "category": "kanja-alias-chronicle",
       "statement": "\"The War That Wore Their Name\" (full narrative text at docs/lords-of-cian/chronicles/the-war-that-wore-their-name.md), Sovereign Ghost of the Great Sea Alias Chronicle XCIII, wave 31, closing the wave. A genuinely new register: the fleet's reputation is invoked as unauthorized political propaganda by both sides of a distant civil conflict it has no actual part in; Kanja travels alone to publicly refuse both endorsements, distinct from the wave-28 political-neutrality mediation (MCD-1221), which the fleet was invited into rather than falsely claimed for. No new named characters. Closes wave 31 (MCD-1403 through MCD-1405).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1409",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Grew From the Page\" (full narrative text at docs/lords-of-cian/chronicles/what-grew-from-the-page.md), Crow King Alias Chronicle XCI, wave 31, opening it. A trader's secondhand story reveals that the doctrine page physically lost during a raid (MCD-1257) survived and, passed hand to hand into a distant river town over six years, seeded a loose, self-taught group who settle local disputes by a practice built entirely on the page's philosophy -- with no knowledge of the Hymn-Engine, the Crow King name, or Kanja's identity, confirming MCD-1257's own conclusion that the page held no exploitable technique. The fourth generation, apprentice, and third generation reused for continuity. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1410",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ones Who Never Learned His Name\" (full narrative text at docs/lords-of-cian/chronicles/the-ones-who-never-learned-his-name.md), Crow King Alias Chronicle XCII, wave 31. The apprentice and the fourth generation travel to the river town and watch the self-taught group resolve a real water-rights dispute through the same listen-before-you-act discipline, unnamed and untrained by the lineage; the fourth generation quietly asks one corrective question that stops a younger member from winning the dispute with a confident falsehood, protecting the practice's core no-lying rule without ever revealing his identity or origin, consistent with the alias's established convention of staying unnamed to outsiders. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1411",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Name They Never Needed\" (full narrative text at docs/lords-of-cian/chronicles/the-name-they-never-needed.md), Crow King Alias Chronicle XCIII, wave 31, closing it. Kanja, the apprentice, the third generation, and the fourth generation weigh what they found at the river town and deliberately decide to leave the independent practice exactly as it is -- unaffiliated, uncorrected, unformalized -- framing it as literal proof of MCD-1282's closing hope that the craft's underlying discipline could survive without anyone remembering to call it by this name. Deliberately distinguished from, and left separate from, the still-unresolved fifth-generation question (MCD-1258, MCD-1280), which stays open. No new named characters. Closes wave 31 (with MCD-1409 and MCD-1410).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }

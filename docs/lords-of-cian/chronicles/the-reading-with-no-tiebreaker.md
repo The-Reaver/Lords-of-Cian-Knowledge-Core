@@ -1,0 +1,31 @@
+# The Reading With No Tiebreaker
+
+*Locked canon, Batch 274, 2026-09-11 (`MCD-1418`). Storm That Walks Alias Chronicle XCI, wave 31, first entry in the wave. Three formally credited traditions -- Sephtis's storm-timing lineage, the rival fleet's independent method, and the northern pilot's ice-reading chapter -- read the same shoulder-season strait and reach three different, individually sound windows, with Kanja unreachable and no time left to scout and verify. The council resolves it without him for the first time on a disagreement, not a failure.*
+
+---
+
+The message reached the school two days after it should have: Kanja was three weeks out on other business, past any courier's easy reach, and a merchant convoy carrying the coast's winter grain was already committed to the strait by the time the three readings came back disagreeing.
+
+The student laid them side by side on the chart table anyway, the way she always did, as if putting disagreement in plain sight had ever once made it smaller. Sephtis's own lineage -- her lineage now -- read a six-hour window opening at dusk, instrument and lore agreeing with each other the way they nearly always did. The dual-tradition sailor, visiting from the rival fleet on a training exchange, read the same water and called a window four hours earlier, her fleet's older method reading the light on the swell in a way the school's instruments didn't measure at all. The apprentice, cross-checking against the ice-reading chapter for the season's unusually cold current, called a window that barely overlapped either one, later still, arguing the cold water would hold the storm's edge back longer than either warm-water tradition expected.
+
+"Three readings," the apprentice said, not as a complaint. "Three good ones. None of us is wrong."
+
+"That's worse than one of us being wrong," the dual-tradition sailor said. "Wrong we could argue with."
+
+The student had done this before -- disagreed with Sephtis's own successor once, years before either of them held the authority they held now, and been sent a scout to settle it. She looked at the convoy's position on the chart, already a day past the point a scout could reach and return from in time, and understood, for what she was fairly sure was the first time in the school's whole recorded history, that there was no verification coming. Not from a scout. Not from Kanja, three weeks past any courier. Just three honest readings and a convoy that couldn't wait for a fourth.
+
+She thought about the creed the three of them had written together seven waves back -- five principles, none of which had anticipated this exact shape of problem, because none of them had ever needed a tiebreaker before. Every disagreement the school had survived until now had eventually resolved into an answer: a scout confirmed one reading, an error was found in another, a convergence emerged from patient collaboration. This one wasn't going to resolve. Three people who trusted each other completely had each done their work correctly and arrived somewhere different.
+
+"We're not going to find whose reading is right," she said finally. "I don't think there is a 'right' one to find, not before the storm actually arrives. So we stop asking which tradition to trust and start asking what all three traditions agree is safe." She marked the earliest opening the dual-tradition sailor's reading allowed, and the latest closing the apprentice's cold-water reading allowed, and drew a line through the strait that was narrower than any single tradition's own window -- the overlap of all three, not the best guess of any one of them.
+
+"That's not a window," the dual-tradition sailor said, studying it. "That's barely half a window."
+
+"It's the only part of the water where being wrong about a tradition doesn't matter," the student said. "If my lineage's reading is off by an hour either side, the convoy's still inside it. If yours is off, same. If the ice-reading's off, same again. We give up speed. We don't give up the convoy."
+
+It cost the convoy nearly four hours against the fastest single reading's promise, sailing later and slower than any one tradition alone would have advised, uncomfortable in a way none of the three found easy to sit with -- three confident readings, each quietly convinced its own window had been the safer one, none of them able to prove it before the storm made the question academic. But the ships came through clean, the storm's true edge falling closer to the ice-reading's caution than the others', though not close enough to have caught the convoy either way had they trusted any single call alone.
+
+The student wrote the method down that night, in the creed's own book, as its own entry rather than a footnote to an existing principle: when the traditions disagree honestly and there's no time to verify, sail the water every tradition agrees is safe, not the water any one tradition is most confident in. She left space beside it for whoever eventually disagreed with this rule too.
+
+---
+
+*Continuity notes (not narrative): the sub-series' first entry to dramatize a genuine three-way disagreement among all of the school's now-formally-credited traditions (Sephtis's storm-timing lineage per `MCD-978`/`MCD-1343`, the rival fleet's tradition per `MCD-985`, and the northern pilot's ice-reading chapter per `MCD-1340`-`1342`) with no error to find and no time to verify by scout -- distinct from `MCD-979` (resolved by sending a scout), `MCD-1346` (a costly false positive, not a disagreement), and `MCD-1359` (successful convergence with time to collaborate). Kanja is established as unreachable rather than merely absent, extending `MCD-1362`'s precedent that the institution now functions without him present. The overlap-window method the student codifies is a genuinely new addition to the written creed (`MCD-1345`), not a restatement of an existing principle. No new named characters -- the student (third generation), the apprentice (fourth generation), and the dual-tradition sailor (rival fleet) are all already-locked recurring figures, consistent with this alias's established convention of leaving them unnamed by role. Collision-checked against the full live ledger: no new proper nouns introduced.*
