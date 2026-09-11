@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 27.8, 2,086 rules, 275 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 28.9, 2,185 rules, 286 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1609,6 +1609,48 @@ was never gated by this milestone and continues indefinitely in parallel, exactl
 throughout. Separately and still unresolved: the archive-app device-bridge session (real Brain Trust
 review) remains blocked pending a Cowork/local session with the device bridge live -- see the standing
 blocker section below. Abad's approval: "lock it."
+
+**A thirty-second through thirty-fourth Alias Chronicle wave for all eleven aliases, Batches 276-286,
+2026-09-11 (`MCD-1424` through `MCD-1522`, 99 new Chronicles), per Abad's direction: "do 3 more alias
+wave for all eleven."** Same parallel-agent pattern as prior multi-wave runs: eleven background agents,
+one per alias, each grepping its own alias's complete 93-entry prior history from the ledger before
+drafting, collision-checking new proper nouns, and writing 9 Chronicle files (three waves of three)
+plus an unexecuted merge script for the orchestrating session to verify and run. Every named alias now
+has **thirty-four complete waves -- 102 Chronicles each, 1,122 Alias Chronicles total**.
+
+Representative new registers across the eleven aliases: Bane's wave opens with the alias's first
+offensive infiltration and closes on legend-drift pushed to its furthest, unverifiable extreme (an
+uprising three provinces away invoking his name), with the sub-series' first purely celebratory,
+conflict-free entry (Toran's wedding) in between; the Trench Monarch's wave gives Callum Breck his
+first dedicated domestic-life register and closes on Kanja personally teaching bladework to his three
+founding crew members for the first time; the Industrial Myth stays strictly unarmed throughout and
+lands its first formal public debate over the method's right to operate at all, plus its first request
+to erase (rather than soften) an honest finding; the Blue-Collar Titan crosses its hundredth Chronicle
+overall with the alias's first formal legal-testimony register, and closes on Corren Halst's graceful
+handoff from front-line rotation to the training hall; the Sovereign Ghost of the Great Sea dramatizes
+the Lodestone Lens's and Whalebone Tether's first uses and closes an arc opened by a personal duel with
+the Directorate quietly burying its own champion's honest report; the Scourge (kept strictly within its
+already-locked age 22-312 window, untouched by the locked age-313/314 ending) gets its first
+betrayal-from-within-a-freed-community failure state and its first formal multi-party tactical alliance,
+plus a symbolic full-circle return to Ash-Wharf closing its Chronicle output at 102 entries; the Crow
+King finally answers the long-deferred fifth-generation question and lands the lineage's first
+coordination failure caused purely by its own growth in scale; the Iron Bastard applies its doctrine to
+a natural rock formation and a fully tactile curriculum for a deaf student for the first time; the Lord
+of Embers gets a new economic register (diffuse trade-token debasement) and Mafesto's first real
+partial-efficiency limit (waterlogged marsh terrain); the Storm That Walks gives its newly-authoritative
+fourth-generation forecaster her first honest independent miscalculation and closes its long-dangling
+smuggling-faction thread; and Captain's wave gives the rotating council-chair structure its first
+genuine transition (Callum Breck succeeding Corren Halst) and closes on the alias's hundredth Chronicle,
+the sub-series' first purely voluntary betrayal, forcing the crew's charter to add its first
+involuntary-removal clause. No new named characters were introduced across the 99 entries except a
+small number of collision-checked minor one-scene figures (Fenn and Wren Calder for the Sovereign
+Ghost, Rowan Vail for the Scourge); every other returning figure reused already-locked crew.
+
+Ledger reached `ledger_version` 28.9, 2,185 rules, 286 batches by the end of this run -- zero duplicate
+IDs verified after every batch. Per the standing pacing rule, the next wave for any alias starts only
+when Abad points at it. No Google Drive sync was performed in this run -- the newly-written Chronicle
+files exist locally and in git only; syncing them to their respective alias Drive folders remains open
+whenever Abad wants it, following the same established pattern used for waves 22-31.
 
 ## Separate, unrelated thread: the interactive archive app
 
