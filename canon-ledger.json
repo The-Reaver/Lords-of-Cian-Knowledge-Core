@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "14.9",
+  "ledger_version": "15.0",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1231,6 +1231,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Orin Chronicle II (MCD-471). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
+    },
+    {
+      "batch": 147,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Taifa Chronicle II (MCD-472). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
     }
   ],
   "rules": [
@@ -8788,6 +8795,13 @@
       "id": "MCD-471",
       "category": "phase2-territory-chronicle",
       "statement": "\"What the Ark Actually Carries\" (full narrative text at docs/lords-of-cian/chronicles/what-the-ark-actually-carries.md), Orin Chronicle II. A private, non-commercial neighborhood gathering shows 'The Ark' (PH2-029) functioning at full communal strength, binding a grieving mother's isolated loss into shared presence with the room -- a direct complement to Chronicle I (MCD-350), which proved the same mechanic by its absence under commercial conditions. An unnamed Kanja is present for the evening, uninvolved. No new named characters. Second Orin territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-472",
+      "category": "phase2-territory-chronicle",
+      "statement": "\"The Oath He Didn't Mean\" (full narrative text at docs/lords-of-cian/chronicles/the-oath-he-didnt-mean.md), Taifa Chronicle II. A new recruit swears the oath insincerely and is tempted into betrayal by a Directorate patrol; Osei's inability to feel him through 'Kin at a Distance' (PH2-053) -- unlike every genuine sworn hand -- is itself the warning that gets Osei to the outer post in time, dramatizing the ability's sincerity requirement as a literal functioning mechanic. An unnamed Kanja is present, uninvolved. No new named characters. Second Taifa territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
