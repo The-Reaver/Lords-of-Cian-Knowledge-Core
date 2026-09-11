@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "15.2",
+  "ledger_version": "15.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1252,6 +1252,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Nyansa Chronicle II (MCD-474). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
+    },
+    {
+      "batch": 150,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Kiti Chronicle II (MCD-475), completing a second-entry run across all twelve territories that still only had one. Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles. Completes a second-entry run across all twelve territories that still only had one (Yara, Umoja, Ide, Kwan, Jibaro, Atunbi, Ijoko, Orin, Taifa, Hekalu, Nyansa, Kiti), giving every one of the 20 homage-era territories at least two Chronicles."
     }
   ],
   "rules": [
@@ -8830,6 +8837,13 @@
       "id": "MCD-474",
       "category": "phase2-territory-chronicle",
       "statement": "\"The Cost of Being Corrected\" (full narrative text at docs/lords-of-cian/chronicles/the-cost-of-being-corrected.md), Nyansa Chronicle II. The committee member successfully corrected in Chronicle I ('The Word That Stuck,' MCD-354) faces quiet social ostracism from his own faction for having genuinely changed his position; Adisa acknowledges the real cost 'The Long Correction' (PH2-057) never promised to soften. An unnamed Kanja walks with the man on several evenings, uninvolved. No new named characters. Second Nyansa territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-475",
+      "category": "phase2-territory-chronicle",
+      "statement": "\"The Weeks the Chair Sat Empty\" (full narrative text at docs/lords-of-cian/chronicles/the-weeks-the-chair-sat-empty.md), Kiti Chronicle II. A six-week medical recess causes 'The Long Tenure' (PH2-059) to genuinely lapse -- opponents gain real ground against Owusu's deputy -- and then fully reverse the moment he resumes his seat in person, confirming concretely for the first time what Chronicle I only stated as foreshadowing: the strength is purely institutional, not personal, and lapses without him physically present. An unnamed Kanja watches from the gallery across the six weeks, uninvolved. No new named characters. Second Kiti territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
