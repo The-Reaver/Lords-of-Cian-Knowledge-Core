@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 21.6, 1,543 rules, 213 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 22.7, 1,642 rules, 224 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -988,6 +988,42 @@ Ledger reached `ledger_version` 21.6, 1,543 rules, 213 batches by the end of thi
 duplicate IDs verified after every single batch. Every alias now has sixteen complete waves (48
 Chronicles each, 528 Alias Chronicles total). Per the standing pacing rule, the next wave for any
 alias starts only when Abad points at it.
+
+**Three more Alias Chronicle waves (17-19) for all eleven aliases, Batches 214-224, 2026-09-11
+(`MCD-924` through `MCD-1022`, 99 new Chronicles), per Abad's direction: "three more waves and
+then we'll move on to something else this includes testing committing and pushing to origin
+Main."** Each alias's nine new entries (three waves of three) were drafted by a dedicated
+background agent working from that alias's full ledger history and most recent Chronicle files.
+Representative new registers across this run: Bane survives a countermeasure built specifically to
+blind Onyx of Oblivion's non-visual sensing, and is overruled by Corren Halst in a polled vote for
+the first time; the Trench Monarch is laid low by a real illness and nursed by his earliest crew;
+the Industrial Myth documents a case with literally no one left alive to pay the debt, inventing a
+"Recorded. Unrecoverable. True." category; the Blue-Collar Titan refuses one of his own
+resistance command's orders over unevacuated civilians; the Sovereign Ghost of the Great Sea gains
+a recurring antagonist (an unnamed Trust Fleet-Marshal) across a full three-wave arc, resolved by
+his own voluntary confession rather than defeat; the Scourge gets its first pre-Long-Mask combat
+entry with Onyx unsealed (age 24) and, at age 314, dramatizes the literal night the coat comes off
+for good, closing the 284-year Long Mask disguise; the Crow King runs an entire evacuation using
+only percussive tap-signals when a storm makes speech impossible, and suffers its first genuinely
+unrecovered regional breach; the Iron Bastard proves the core skill is his own, not the
+Aegis-Talisman's, when the artifact itself goes inert mid-mission; the Lord of Embers loses an
+apprentice to illness with nothing to rebuild against; the Storm That Walks dramatizes Sephtis's
+decline and death and his successor's institutional legacy across the full wave; and Captain's run
+includes the sub-series' first pure-comedy entry (Pell Ostra's year-long prank) and closes on the
+crew's own dispute council asking what the "Captain" institution is for now that the war that
+birthed it is over. No new named characters were introduced anywhere in this run -- every entry
+reused already-locked crew. One pre-existing, unrelated ledger inconsistency was flagged rather
+than fixed: Maret Vos's pronouns are inconsistent between two earlier-locked rules (`MCD-533` uses
+"his," `MCD-593` uses "her"); the new Blue-Collar Titan closer avoided the issue by not using
+pronouns for that character, leaving the underlying contradiction open for a future dedicated
+reconciliation pass. All 99 new files were uploaded to their respective Drive alias folders
+alongside the ledger locks.
+
+Ledger reached `ledger_version` 22.7, 1,642 rules, 224 batches by the end of this run -- zero
+duplicate IDs verified after every single batch. Every alias now has nineteen complete waves (57
+Chronicles each, 627 Alias Chronicles total). Per Abad's own direction, this run closes the Alias
+Chronicle track for now -- no further wave starts automatically; work shifts to whichever other
+thread Abad points at next.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
