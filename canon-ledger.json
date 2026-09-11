@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "12.8",
+  "ledger_version": "12.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1084,6 +1084,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Lord of Embers' second three-entry Alias Chronicle wave (MCD-422 through MCD-424), the ninth of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
+    },
+    {
+      "batch": 126,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Storm That Walks' second three-entry Alias Chronicle wave (MCD-425 through MCD-427), the tenth of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
     }
   ],
   "rules": [
@@ -8312,6 +8319,27 @@
       "id": "MCD-424",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Smith Who Resented the Crown\" (full narrative text at docs/lords-of-cian/chronicles/the-smith-who-resented-the-crown.md), Lord of Embers Alias Chronicle VI, closing the second wave. A settlement's senior smith resents the Lord of Embers' visiting reputation overshadowing his own thirty years of earned local standing; Kanja concedes the point immediately and hands the teaching credit back to the smith rather than keep it, winning genuine respect through deference rather than fame. No new named characters; the settlement smith is unnamed and one-scene. Closes the Lord of Embers' second three-Chronicle wave (with 'What Can't Be Burned,' MCD-422, and 'The Night They Came for the Anvil,' MCD-423).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-425",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm That Came Early\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-that-came-early.md), Storm That Walks Alias Chronicle IV, first entry in the second wave. Sephtis's storm prediction misses by two hours, the first genuine failure of the doctrine's supporting infrastructure; Kanja compresses the arrowhead formation's approach to close the engagement faster rather than abort, at the cost of damage to two smaller vessels, and the fleet clears just ahead of the storm's actual, revised arrival. Sephtis's own account of the miscalculation becomes required study, proof the doctrine survives honest error. No new named characters beyond the already-locked Sephtis, referenced not appearing on-page.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-426",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Dark Water Ambush\" (full narrative text at docs/lords-of-cian/chronicles/the-dark-water-ambush.md), Storm That Walks Alias Chronicle V. A moonless-night raid from three directions at once is met with Mafesto's non-visual Kinetic Transfer System, Obsidian Malice's pressure-guided blind discharge, and Onyx's Whisper of Shadows, all operating without reliance on sight -- extending the same non-visual-combat principle established in Bane's 'What the Fog Remembers' (MCD-398) into full darkness at sea. Two of three raiding vessels are disabled; no survivor gets a clean account of what stopped them. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-427",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Weight Sephtis Carried Alone\" (full narrative text at docs/lords-of-cian/chronicles/the-weight-sephtis-carried-alone.md), Storm That Walks Alias Chronicle VI, closing the second wave. From Sephtis's own perspective (already locked): the private hours of self-doubt behind every calm, confident storm prediction, and his reflection on the miscalculation dramatized in 'The Storm That Came Early' (MCD-425) -- the real job being willing to be wrong in front of people whose lives depend on him, not the mathematics itself. No new named characters beyond the already-locked Sephtis. Closes the Storm That Walks' second three-Chronicle wave (with 'The Storm That Came Early,' MCD-425, and 'The Dark Water Ambush,' MCD-426).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
