@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.3",
+  "ledger_version": "16.4",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1329,6 +1329,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Storm That Walks' fourth three-entry Alias Chronicle wave (MCD-503 through MCD-505). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 161,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks Captain's fourth three-entry Alias Chronicle wave (MCD-506 through MCD-508), completing a fourth wave for all eleven aliases. Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main\" -- completes fourth waves for all eleven aliases (Bane, Trench Monarch, Industrial Myth, Blue-Collar Titan, Sovereign Ghost of the Great Sea, the Scourge, the Crow King, the Iron Bastard, the Lord of Embers, the Storm That Walks, and Captain)."
     }
   ],
   "rules": [
@@ -9124,6 +9131,27 @@
       "id": "MCD-505",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Second Set of Eyes on the Sky\" (full narrative text at docs/lords-of-cian/chronicles/the-second-set-of-eyes-on-the-sky.md), the Storm That Walks Alias Chronicle XII, closing the fourth wave. Directly motivated by the loss in MCD-503, Sephtis (already locked) begins training a successor forecaster for the first time, building institutional redundancy into the storm-timing doctrine rather than leaving it dependent on one person's gift. No new named characters beyond the already-locked Sephtis. Closes the Storm That Walks' fourth three-Chronicle wave (with 'The Cost of Pushing Too Far,' MCD-503, and 'The Storm That Coordinated Three Fleets,' MCD-504).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-506",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Choice Between Two\" (full narrative text at docs/lords-of-cian/chronicles/the-choice-between-two.md), Captain Alias Chronicle XIII, first entry in the fourth wave. Two crew elements come under attack simultaneously, miles apart; Kanja must choose which to save, saving the smaller group facing certain death while the larger group loses two on its own -- the first genuine no-clean-answer command dilemma of Captain's run. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-507",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Man Who Was Forced to Betray Them\" (full narrative text at docs/lords-of-cian/chronicles/the-man-who-was-forced-to-betray-them.md), Captain Alias Chronicle XIV. A trusted crew member has been feeding minor intelligence to a Directorate handler under coercion (his sister held as leverage); rather than punish him, Kanja leads a detailed Trinity strike on the handler's safehouse to free the sister and remove the leverage, keeping the crew member in the crew afterward. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-508",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Name Carried Forward\" (full narrative text at docs/lords-of-cian/chronicles/what-the-name-carried-forward.md), Captain Alias Chronicle XV, closing the fourth wave. Garren Hask's grandnephew joins the crew and asks what the name 'Captain' actually means to inherit rather than simply hear about; Kanja frames it as a living thing to maintain rather than a finished monument, closing not only Captain's fourth wave but the full eleven-alias fourth-wave run. No new named characters. Closes Captain's fourth three-Chronicle wave (with 'The Choice Between Two,' MCD-506, and 'The Man Who Was Forced to Betray Them,' MCD-507).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
