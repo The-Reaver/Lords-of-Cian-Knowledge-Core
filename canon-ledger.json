@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.7",
+  "ledger_version": "16.8",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1357,6 +1357,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Guanín Chronicle III (MCD-511). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 165,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Borikén Chronicle III (MCD-512). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9194,6 +9201,13 @@
       "id": "MCD-511",
       "category": "phase2-territory-chronicle",
       "statement": "Guanín Chronicle III, \"The Blow He Decided Not to Bank\" (full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-iii-the-blow-he-decided-not-to-bank.md). A junior clerk's petty public insult goes entirely unanswered; Eri Kotoko explains that 'The Unanswered Blow' (PH2-008) is a deliberate choice about which wrongs deserve its weight, not a reflex triggered by any slight -- the first entry showing restraint rather than release. An unnamed Kanja is present in the hearing hall, uninvolved. No new named characters. Third Guanín territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-512",
+      "category": "phase2-territory-chronicle",
+      "statement": "Borikén Chronicle III, \"The Men Who Claimed His Name\" (full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-iii-the-men-who-claimed-his-name.md). Three unconnected impostors exploit 'No Single Point' (PH2-010)'s own ambiguity to run extortion under Guaní's name; he defeats the scheme through quiet, patient questioning of the impostors rather than ever revealing himself, deliberately preserving the mechanic that protects him from real threats. An unnamed Kanja helps brief residents on the questions to ask, uninvolved otherwise. No new named characters. Third Borikén territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
