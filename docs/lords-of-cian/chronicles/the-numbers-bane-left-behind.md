@@ -1,8 +1,6 @@
 # The Numbers Bane Left Behind
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XXX, closing the tenth wave.
-Rebellion era, age 19-20, roughly a year after the Black Trench. Not a territory Chronicle. Narrated
-in neutral third-person prose. No new named characters beyond the already-locked Garren Hask.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-695`). Bane Alias Chronicle XXX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

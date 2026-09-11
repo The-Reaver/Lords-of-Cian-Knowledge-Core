@@ -1,9 +1,6 @@
 # What the Square Could Not Hold
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle XXXI, first
-entry in the eleventh wave. Rebellion era, age 20, in a district neighboring Killane, during a lull
-in the siege's active fighting. Not a territory Chronicle. Narrated in neutral third-person prose.
-No new named characters.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-666`). The Blue-Collar Titan Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

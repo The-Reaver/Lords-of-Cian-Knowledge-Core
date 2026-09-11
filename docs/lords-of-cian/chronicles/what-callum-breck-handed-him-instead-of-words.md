@@ -1,9 +1,6 @@
 # What Callum Breck Handed Him Instead of Words
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XLII, closing the fourteenth
-wave. Rebellion era, age 19-20, roughly a year after the Black Trench, within Callum Breck's silent
-period following Nev Torr's death. Not a territory Chronicle. Narrated in neutral third-person
-prose. No new named characters beyond the already-locked Callum Breck.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-707`). Bane Alias Chronicle XLII, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

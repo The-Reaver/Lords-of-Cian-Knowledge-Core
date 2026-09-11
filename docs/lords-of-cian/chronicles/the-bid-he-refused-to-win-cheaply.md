@@ -1,9 +1,6 @@
 # The Bid He Refused to Win Cheaply
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle XXXVII, first
-entry in the thirteenth wave. Rebellion era, age 20, in the weeks immediately following the Sewer
-War of Killane's resolution. Not a territory Chronicle. Narrated in neutral third-person prose. No
-new named characters.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-672`). The Blue-Collar Titan Alias Chronicle XXXVII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

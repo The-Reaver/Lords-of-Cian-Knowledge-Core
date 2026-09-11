@@ -1,8 +1,6 @@
 # The Soldier Who Almost Didn't Come Back
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XXIV, closing the eighth wave.
-Rebellion era, age 19, months after the Black Trench. Not a territory Chronicle. Narrated in
-neutral third-person prose. No new named characters.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-689`). Bane Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

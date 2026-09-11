@@ -1,8 +1,6 @@
 # What the Wreckage Actually Said
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle XL, first entry
-in the fourteenth wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle.
-Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-675`). The Blue-Collar Titan Alias Chronicle XL, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

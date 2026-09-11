@@ -1,8 +1,6 @@
 # The Walk No One Heard
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle XXIII, second
-entry in the eighth wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory
-Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-658`). The Blue-Collar Titan Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

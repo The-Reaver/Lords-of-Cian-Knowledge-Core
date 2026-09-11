@@ -1,8 +1,6 @@
 # The Wall He Got Wrong
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle XXX, closing the
-tenth wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle. Narrated in
-neutral third-person prose. No new named characters.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-665`). The Blue-Collar Titan Alias Chronicle XXX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

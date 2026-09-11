@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "19.7",
+  "ledger_version": "19.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1567,6 +1567,20 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 30,
       "note": "Locks the Trench Monarch's sixth through fifteenth Alias Chronicle waves (MCD-621 through MCD-650, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
+    },
+    {
+      "batch": 195,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 30,
+      "note": "Locks the Blue-Collar Titan's sixth through fifteenth Alias Chronicle waves (MCD-651 through MCD-680, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
+    },
+    {
+      "batch": 196,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 30,
+      "note": "Locks Bane's sixth through fifteenth Alias Chronicle waves (MCD-681 through MCD-710, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
     }
   ],
   "rules": [
@@ -10377,6 +10391,426 @@
       "id": "MCD-650",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Name They Carried Into the Water\" (full narrative text at docs/lords-of-cian/chronicles/the-name-they-carried-into-the-water.md), The Trench Monarch Alias Chronicle XLV, wave 15 of ten (waves 6-15). Efa Gol and Pell Ostra's joint reflection on the eve of the Black Trench closes the full fifteen-wave, forty-five-Chronicle run.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-651",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Repair Order That Wasn't\" (full narrative text at docs/lords-of-cian/chronicles/the-repair-order-that-wasnt.md), The Blue-Collar Titan Alias Chronicle XVI, wave 6 of ten (waves 6-15). A forged maintenance order is used as bait to lure the crew into an ambush; Kanja catches the forgery through a factual error only genuine clay-main expertise would notice, and the trap expires unsprung with zero confrontation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-652",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Dark Couldn't Hide\" (full narrative text at docs/lords-of-cian/chronicles/what-the-dark-couldnt-hide.md), The Blue-Collar Titan Alias Chronicle XVII, wave 6 of ten (waves 6-15). A collapse kills every light source mid-fight; the full Trinity fights entirely through touch, vibration, and sound rather than sight -- the alias's first total-darkness combat showcase.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-653",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boy Who Wanted the Blade Instead\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-who-wanted-the-blade-instead.md), The Blue-Collar Titan Alias Chronicle XVIII, wave 6 of ten (waves 6-15). A grieving orphaned boy demands to be taught to kill; Kanja redirects him into trade competence instead, a generational-transmission mentorship register.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-654",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Weight of a False Ledger\" (full narrative text at docs/lords-of-cian/chronicles/the-weight-of-a-false-ledger.md), The Blue-Collar Titan Alias Chronicle XIX, wave 7 of ten (waves 6-15). Kanja detects a quartermaster skimming seasoned timber by literally weighing bundles against grain and moisture, resolving supply-chain fraud without violence.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-655",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Tunnel He Cut Through Stone\" (full narrative text at docs/lords-of-cian/chronicles/the-tunnel-he-cut-through-stone.md), The Blue-Collar Titan Alias Chronicle XX, wave 7 of ten (waves 6-15). Obsidian Malice is used as a quarrying tool -- controlled strikes reading rock grain -- to cut forty feet of fresh tunnel through solid bedrock in six hours, interleaved with a brief defensive skirmish.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-656",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The One He Couldn't Dig Out in Time\" (full narrative text at docs/lords-of-cian/chronicles/the-one-he-couldnt-dig-out-in-time.md), The Blue-Collar Titan Alias Chronicle XXI, wave 7 of ten (waves 6-15). The alias's first loss to the work itself rather than combat -- a flawless, forty-minute rescue effort still arrives too late.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-657",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Lesson Before the Tools\" (full narrative text at docs/lords-of-cian/chronicles/the-lesson-before-the-tools.md), The Blue-Collar Titan Alias Chronicle XXII, wave 8 of ten (waves 6-15). Kanja institutes mandatory structural-safety training before any new recruit touches a tool -- an institution-building entry distinct from one-on-one mentorship.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-658",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Walk No One Heard\" (full narrative text at docs/lords-of-cian/chronicles/the-walk-no-one-heard.md), The Blue-Collar Titan Alias Chronicle XXIII, wave 8 of ten (waves 6-15). A purely non-combat Trinity showcase -- Onyx's Whisper of Shadows used for silent reconnaissance through an occupied garrison with zero engagement.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-659",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Choice Between the Roof and the Man\" (full narrative text at docs/lords-of-cian/chronicles/the-choice-between-the-roof-and-the-man.md), The Blue-Collar Titan Alias Chronicle XXIV, wave 8 of ten (waves 6-15). Two simultaneous crises (a collapsing ceiling threatening nine, a pinned courier) force a triage decision resolved by matching each crisis to who's actually equipped to answer it.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-660",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Moved Through His Tunnels at Night\" (full narrative text at docs/lords-of-cian/chronicles/what-moved-through-his-tunnels-at-night.md), The Blue-Collar Titan Alias Chronicle XXV, wave 9 of ten (waves 6-15). Opportunist smugglers exploiting the crew's cleared tunnels are talked out of the practice through shared-risk reasoning rather than force.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-661",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Stood While It Was Falling\" (full narrative text at docs/lords-of-cian/chronicles/what-stood-while-it-was-falling.md), The Blue-Collar Titan Alias Chronicle XXVI, wave 9 of ten (waves 6-15). Engineering and Trinity combat performed simultaneously and interdependently -- shoring a collapsing ceiling with one hand while fighting off an ambush with the other.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-662",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Guild That Grew From a Siege\" (full narrative text at docs/lords-of-cian/chronicles/the-guild-that-grew-from-a-siege.md), The Blue-Collar Titan Alias Chronicle XXVII, wave 9 of ten (waves 6-15). Tunnel workers found a new standing tradesmen's association inspired by his teaching; Kanja insists it carry no trace of his own name so it outlasts his reputation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-663",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Report No One Wanted Read\" (full narrative text at docs/lords-of-cian/chronicles/the-report-no-one-wanted-read.md), The Blue-Collar Titan Alias Chronicle XXVIII, wave 10 of ten (waves 6-15). A formal, redundant-copy structural-defect report forces a negligent labor foreman into institutional accountability without direct confrontation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-664",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Cut That Freed Them\" (full narrative text at docs/lords-of-cian/chronicles/the-cut-that-freed-them.md), The Blue-Collar Titan Alias Chronicle XXIX, wave 10 of ten (waves 6-15). Precision structural-diagnosis identifies the one non-load-bearing seam in a purpose-built \"unbreachable\" wall, freeing eleven prisoners with a single surgical strike.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-665",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Wall He Got Wrong\" (full narrative text at docs/lords-of-cian/chronicles/the-wall-he-got-wrong.md), The Blue-Collar Titan Alias Chronicle XXX, wave 10 of ten (waves 6-15). The alias's first real technical mistake with actual injury -- a rushed assessment fails, and Kanja publicly owns and corrects it in full.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-666",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Square Could Not Hold\" (full narrative text at docs/lords-of-cian/chronicles/what-the-square-could-not-hold.md), The Blue-Collar Titan Alias Chronicle XXXI, wave 11 of ten (waves 6-15). The alias's first entirely civilian, non-military crisis -- a market undercroft collapses with no enemy involved, and nineteen people are pulled out alive.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-667",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Bridge That Bought Them Time\" (full narrative text at docs/lords-of-cian/chronicles/the-bridge-that-bought-them-time.md), The Blue-Collar Titan Alias Chronicle XXXII, wave 11 of ten (waves 6-15). A surface/outdoor infrastructure showcase featuring Dol Maren's engineering paired with Trinity combat defense of a supply bridge.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-668",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Engineer Who Built Against Him\" (full narrative text at docs/lords-of-cian/chronicles/the-engineer-who-built-against-him.md), The Blue-Collar Titan Alias Chronicle XXXIII, wave 11 of ten (waves 6-15). A skilled Trust fortification engineer who designed traps against Kanja defects after his own craftsmanship-driven integrity is recognized.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-669",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Plans That Were Never True\" (full narrative text at docs/lords-of-cian/chronicles/the-plans-that-were-never-true.md), The Blue-Collar Titan Alias Chronicle XXXIV, wave 12 of ten (waves 6-15). A forged blueprint's internal elevation/spacing inconsistencies expose it as bait before anyone walks into the ambush it was built to spring.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-670",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Engineer Who Fought Like One\" (full narrative text at docs/lords-of-cian/chronicles/the-engineer-who-fought-like-one.md), The Blue-Collar Titan Alias Chronicle XXXV, wave 12 of ten (waves 6-15). The alias's first genuine skill-versus-skill duel -- a Trust combat engineer who reads structure the same way Kanja does, ending in mutual recognition rather than a kill.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-671",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Pell Ostra Said About the Quiet Ones\" (full narrative text at docs/lords-of-cian/chronicles/what-pell-ostra-said-about-the-quiet-ones.md), The Blue-Collar Titan Alias Chronicle XXXVI, wave 12 of ten (waves 6-15). Pell Ostra's reflective closer on what distinguishes this alias from Bane and the others.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-672",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Bid He Refused to Win Cheaply\" (full narrative text at docs/lords-of-cian/chronicles/the-bid-he-refused-to-win-cheaply.md), The Blue-Collar Titan Alias Chronicle XXXVII, wave 13 of ten (waves 6-15). Post-siege, Kanja deliberately loses a rebuilding contract bid rather than match a corrupt competitor's dishonestly low price.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-673",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Junction That Wouldn't Fall\" (full narrative text at docs/lords-of-cian/chronicles/the-junction-that-wouldnt-fall.md), The Blue-Collar Titan Alias Chronicle XXXVIII, wave 13 of ten (waves 6-15). A four-day attrition siege against a critical tunnel junction, held through crew rotation rather than one man's endurance -- a new tempo register.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-674",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The First Day No One Warned Him About\" (full narrative text at docs/lords-of-cian/chronicles/the-first-day-no-one-warned-him-about.md), The Blue-Collar Titan Alias Chronicle XXXIX, wave 13 of ten (waves 6-15). A new recruit expecting glory gets a bucket and measuring cord instead, correcting romanticized expectation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-675",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Wreckage Actually Said\" (full narrative text at docs/lords-of-cian/chronicles/what-the-wreckage-actually-said.md), The Blue-Collar Titan Alias Chronicle XL, wave 14 of ten (waves 6-15). Forensic reading of fracture patterns determines a collapse was sabotage, not accident, tracing to a coerced, not malicious, laborer.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-676",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Air Enough for Four\" (full narrative text at docs/lords-of-cian/chronicles/air-enough-for-four.md), The Blue-Collar Titan Alias Chronicle XLI, wave 14 of ten (waves 6-15). A purely humanitarian mining-accident rescue with zero enemy and zero combat, racing an unknown air-supply deadline.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-677",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Widow Who Wouldn't Thank Him\" (full narrative text at docs/lords-of-cian/chronicles/the-widow-who-wouldnt-thank-him.md), The Blue-Collar Titan Alias Chronicle XLII, wave 14 of ten (waves 6-15). A grieving widow confronts Kanja directly and refuses reconciliation -- the alias's first entry testing his composure under personal blame with no resolution offered.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-678",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Tunnels He Sealed Behind Him\" (full narrative text at docs/lords-of-cian/chronicles/the-tunnels-he-sealed-behind-him.md), The Blue-Collar Titan Alias Chronicle XLIII, wave 15 of ten (waves 6-15). After the siege, Kanja chooses to seal most of the tunnel network rather than preserve it as a monument, prioritizing future safety over legacy.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-679",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The District Held on Every Front\" (full narrative text at docs/lords-of-cian/chronicles/the-district-held-on-every-front.md), The Blue-Collar Titan Alias Chronicle XLIV, wave 15 of ten (waves 6-15). The alias's largest-scale Trinity set-piece -- a simultaneous five-front district defense won through superior tunnel-network knowledge, not brute force.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-680",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Garren Hask Wrote in the Margins\" (full narrative text at docs/lords-of-cian/chronicles/what-garren-hask-wrote-in-the-margins.md), The Blue-Collar Titan Alias Chronicle XLV, wave 15 of ten (waves 6-15). Garren Hask's closing cost-accounting ledger tallies the alias's true toll, failures included, as a grounding counterweight to the legend, closing the ten-wave run.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-681",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Rumor He Never Corrected\" (full narrative text at docs/lords-of-cian/chronicles/the-rumor-he-never-corrected.md), Bane Alias Chronicle XVI, wave 6 of ten (waves 6-15). A false story of a massacre attributed to Bane (actually a fever outbreak) is spreading and helping recruitment; Bane insists on correcting it publicly even at real recruitment cost, establishing his reputation only holds if every claim is literally true.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-682",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Bad Map Cost\" (full narrative text at docs/lords-of-cian/chronicles/what-the-bad-map-cost.md), Bane Alias Chronicle XVII, wave 6 of ten (waves 6-15). Bane acts on stale, unverified intelligence and nearly walks a 40-person column into an ambush; he catches it in time but owns the mistake, instituting mandatory independent cross-checking of intelligence -- his first genuine tactical misjudgment.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-683",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Archivist Who Couldn't Make Him Match\" (full narrative text at docs/lords-of-cian/chronicles/the-archivist-who-couldnt-make-him-match.md), Bane Alias Chronicle XVIII, wave 6 of ten (waves 6-15). A Directorate records clerk trying to compile a standard physical description of Bane finds eyewitness accounts hopelessly, suspiciously contradictory -- the myth's own inconsistency is part of what makes him impossible to pin down.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-684",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Column He Didn't Lead\" (full narrative text at docs/lords-of-cian/chronicles/the-column-he-didnt-lead.md), Bane Alias Chronicle XIX, wave 7 of ten (waves 6-15). Bane deliberately stays unreachable and hands Efa Gol full, unsupervised command of a raid for the first time; she adapts alone when the plan breaks and succeeds.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-685",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Six Hours in a Cage\" (full narrative text at docs/lords-of-cian/chronicles/six-hours-in-a-cage.md), Bane Alias Chronicle XX, wave 7 of ten (waves 6-15). Bane deliberately allows himself to be \"captured\" as a calculated infiltration tactic to reach a records room, sitting restrained for six hours until an ally frees the way -- captivity as a chosen tool rather than only a failure state.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-686",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Cook Remembered\" (full narrative text at docs/lords-of-cian/chronicles/what-the-cook-remembered.md), Bane Alias Chronicle XXI, wave 7 of ten (waves 6-15). An unnamed camp cook's intimate account of Bane's ordinary domestic habits -- mending his own clothes, rationing himself least when supplies run short.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-687",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Pass That Wanted Him Dead First\" (full narrative text at docs/lords-of-cian/chronicles/the-pass-that-wanted-him-dead-first.md), Bane Alias Chronicle XXII, wave 8 of ten (waves 6-15). A pure survival showcase -- Bane and four others cross a lethal mountain pass in a storm to resupply a besieged post, no enemy involved, establishing his ordinary human vulnerability to cold and altitude.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-688",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Man Who Didn't Flinch\" (full narrative text at docs/lords-of-cian/chronicles/the-man-who-didnt-flinch.md), Bane Alias Chronicle XXIII, wave 8 of ten (waves 6-15). The first negotiation where the \"Already-Finished Negotiation\" presence trait (`VB-060`) simply fails -- a disciplined garrison commander refuses to feel it and fights anyway, losing badly, establishing the trait isn't universal.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-689",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Soldier Who Almost Didn't Come Back\" (full narrative text at docs/lords-of-cian/chronicles/the-soldier-who-almost-didnt-come-back.md), Bane Alias Chronicle XXIV, wave 8 of ten (waves 6-15). A Directorate conscript sneaks to Bane's camp at night to confess a cover-up he witnessed, testing trust-building initiated from the enemy's side; the outcome is left deliberately unresolved.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-690",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Black Ledger Remembers\" (full narrative text at docs/lords-of-cian/chronicles/what-the-black-ledger-remembers.md), Bane Alias Chronicle XXV, wave 9 of ten (waves 6-15). First deep showcase of Onyx of Oblivion's Black Ledger power, used to forensically read a burned settlement and expose a false-flag atrocity actually committed by Trust forces, not border raiders as believed.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-691",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Village He Didn't Burn\" (full narrative text at docs/lords-of-cian/chronicles/the-village-he-didnt-burn.md), Bane Alias Chronicle XXVI, wave 9 of ten (waves 6-15). A pure non-combat restorative-labor entry -- Bane and crew spend five days physically rebuilding a contested, unprotected village's well and granary with no fight involved at all.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-692",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Story Told for Coin\" (full narrative text at docs/lords-of-cian/chronicles/the-story-told-for-coin.md), Bane Alias Chronicle XXVII, wave 9 of ten (waves 6-15). A traveling storyteller profits off a wildly embellished account of the Black Trench; Bane confronts him but ultimately lets the exaggeration stand once he confirms the man knows where the line is.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-693",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What He Didn't Say Out Loud\" (full narrative text at docs/lords-of-cian/chronicles/what-he-didnt-say-out-loud.md), Bane Alias Chronicle XXVIII, wave 10 of ten (waves 6-15). A private, unguarded late-night conversation with Garren Hask reveals Bane's real, undiminished emotional weight over every death, and his fear of ever becoming numb to it -- the first direct interior/psychological entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-694",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Twelve He Couldn't Wait For\" (full narrative text at docs/lords-of-cian/chronicles/the-twelve-he-couldnt-wait-for.md), Bane Alias Chronicle XXIX, wave 10 of ten (waves 6-15). A high-stakes, underprepared overnight extraction of 12 captives runs dangerously close to failure; Bane openly names it as a bad-odds gamble he'd make again rather than let it read as another clean victory.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-695",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Numbers Bane Left Behind\" (full narrative text at docs/lords-of-cian/chronicles/the-numbers-bane-left-behind.md), Bane Alias Chronicle XXX, wave 10 of ten (waves 6-15). Garren Hask tallies the full mixed ledger of the Bane era -- garrisons stood down, wells rebuilt, rumors corrected -- deliberately weighting combat and non-combat entries equally, foreshadowing the alias's eventual transition.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-696",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Soulbound Edge Bound\" (full narrative text at docs/lords-of-cian/chronicles/what-the-soulbound-edge-bound.md), Bane Alias Chronicle XXXI, wave 11 of ten (waves 6-15). First deep showcase of Onyx's Soulbound Edge power, used to detect an unwilling informant planted among freed refugees; Bane resolves it through mercy -- freeing the informant's coerced sister -- rather than punishment.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-697",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Water That Wouldn't Carry the Current\" (full narrative text at docs/lords-of-cian/chronicles/the-water-that-wouldnt-carry-the-current.md), Bane Alias Chronicle XXXII, wave 11 of ten (waves 6-15). Mafesto's Kinetic Transfer System fails to function properly in marsh/silt terrain -- no solid ground to conduct force through -- the first genuine mechanical limitation of the Trinity shown in the field, discovered by an enemy studying his tactics.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-698",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Commander Who Wanted the Name for Himself\" (full narrative text at docs/lords-of-cian/chronicles/the-commander-who-wanted-the-name-for-himself.md), Bane Alias Chronicle XXXIII, wave 11 of ten (waves 6-15). A rebellion company commander resents having his own hard-won victory folded into the Bane legend; Bane spends a week personally correcting the record to credit the man by name -- friction from his own side rather than the enemy.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-699",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What He Taught Before They Ever Fought\" (full narrative text at docs/lords-of-cian/chronicles/what-he-taught-before-they-ever-fought.md), Bane Alias Chronicle XXXIV, wave 12 of ten (waves 6-15). Bane personally trains six new recruits in basic unglamorous combat fundamentals before their first battle, deliberately de-mythologizing his own reputation to prioritize their survival.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-700",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Grain That Never Reached the Garrison\" (full narrative text at docs/lords-of-cian/chronicles/the-grain-that-never-reached-the-garrison.md), Bane Alias Chronicle XXXV, wave 12 of ten (waves 6-15). An eleven-week bloodless siege-by-starvation via deniable, patient supply-chain sabotage forces a 400-man garrison to surrender without a single casualty on either side.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-701",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Medic Who Finally Got to Treat Him\" (full narrative text at docs/lords-of-cian/chronicles/the-medic-who-finally-got-to-treat-him.md), Bane Alias Chronicle XXXVI, wave 12 of ten (waves 6-15). After a year of Bane refusing treatment to preserve crew morale, a serious wound forces him to finally let the column medic treat him -- first vulnerability/self-care entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-702",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ground He Chose to Give Up\" (full narrative text at docs/lords-of-cian/chronicles/the-ground-he-chose-to-give-up.md), Bane Alias Chronicle XXXVII, wave 13 of ten (waves 6-15). Facing overwhelming numbers, Bane deliberately withdraws from a contested overlook rather than making a costly last stand -- the first genuine tactical retreat framed as choice, not defeat.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-703",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fight That Went Straight Up\" (full narrative text at docs/lords-of-cian/chronicles/the-fight-that-went-straight-up.md), Bane Alias Chronicle XXXVIII, wave 13 of ten (waves 6-15). A detailed vertical battlement/siege-tower combat showcase on a narrow sixty-foot-high walkway, where Mafesto's grounded footwork doesn't fully apply and Onyx's Whisper of Shadows/Veil Piercer carry the fight instead.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-704",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Dispute They Brought to Him Instead\" (full narrative text at docs/lords-of-cian/chronicles/the-dispute-they-brought-to-him-instead.md), Bane Alias Chronicle XXXIX, wave 13 of ten (waves 6-15). Freed captives ask Bane to judge an internal informant dispute; he declines to rule and instead facilitates a community-led truth-finding process.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-705",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Officer Who Chose to Talk\" (full narrative text at docs/lords-of-cian/chronicles/the-officer-who-chose-to-talk.md), Bane Alias Chronicle XL, wave 14 of ten (waves 6-15). A captured officer who expected brutal treatment instead witnesses a week of plain decency toward prisoners and voluntarily discloses how distorted the Directorate's internal casualty reports about Bane have become.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-706",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Promise He Couldn't Keep\" (full narrative text at docs/lords-of-cian/chronicles/the-promise-he-couldnt-keep.md), Bane Alias Chronicle XLI, wave 14 of ten (waves 6-15). A specific date-certain promise to defend a settlement is broken due to an unavoidable crisis elsewhere, costing four lives; Bane owns it fully and permanently changes how he frames future assurances -- the presence trait's failure from his own side.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-707",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Callum Breck Handed Him Instead of Words\" (full narrative text at docs/lords-of-cian/chronicles/what-callum-breck-handed-him-instead-of-words.md), Bane Alias Chronicle XLII, wave 14 of ten (waves 6-15). During Breck's still-ongoing silent period after Nev Torr's death, he wordlessly gives Bane a hand-carved marker acknowledging the broken promise doesn't erase a pattern of kept ones -- a gesture-only comfort scene predating Breck's full voice recovery.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-708",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Threat File That Finally Closed\" (full narrative text at docs/lords-of-cian/chronicles/the-threat-file-that-finally-closed.md), Bane Alias Chronicle XLIII, wave 15 of ten (waves 6-15). The Directorate formally retires the \"Bane\" threat classification, concluding his behavior no longer fits the fear-based profile it was built around.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-709",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Last Night the Ravine Remembered\" (full narrative text at docs/lords-of-cian/chronicles/the-last-night-the-ravine-remembered.md), Bane Alias Chronicle XLIV, wave 15 of ten (waves 6-15). The most detailed, high-intensity full-Trinity combat showcase of the run -- five companies and two reinforced Crawlers thrown at a ravine deliberately echoing the Black Trench, all defeated in a single grinding night.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-710",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Name Cost Him to Set Down\" (full narrative text at docs/lords-of-cian/chronicles/what-the-name-cost-him-to-set-down.md), Bane Alias Chronicle XLV, wave 15 of ten (waves 6-15). Bane's own private recognition, in conversation with Garren Hask, that the alias has done what it was for and is ready to be set down -- closes the full fifteen-wave arc without naming a successor persona.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }

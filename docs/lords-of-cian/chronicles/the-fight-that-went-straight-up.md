@@ -1,8 +1,6 @@
 # The Fight That Went Straight Up
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XXXVIII, second entry in the
-thirteenth wave. Rebellion era, age 19-20, roughly a year after the Black Trench. Not a territory
-Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-703`). Bane Alias Chronicle XXXVIII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

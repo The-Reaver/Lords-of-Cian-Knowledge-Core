@@ -1,8 +1,6 @@
 # The Commander Who Wanted the Name for Himself
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XXXIII, closing the eleventh
-wave. Rebellion era, age 19-20, roughly a year after the Black Trench. Not a territory Chronicle.
-Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-698`). Bane Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

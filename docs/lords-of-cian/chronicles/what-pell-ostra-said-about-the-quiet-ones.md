@@ -1,8 +1,6 @@
 # What Pell Ostra Said About the Quiet Ones
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle XXXVI, closing
-the twelfth wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle.
-Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-671`). The Blue-Collar Titan Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

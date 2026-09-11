@@ -1,8 +1,6 @@
 # What the Name Cost Him to Set Down
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XLV, closing the fifteenth wave
-and the fifteen-wave arc. Rebellion era, age 20, roughly eighteen months after the Black Trench. Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-710`). Bane Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

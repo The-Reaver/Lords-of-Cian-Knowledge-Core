@@ -1,8 +1,6 @@
 # The Column He Didn't Lead
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XIX, first entry in the seventh
-wave. Rebellion era, age 19, months after the Black Trench. Not a territory Chronicle. Narrated in
-neutral third-person prose. No new named characters beyond the already-locked Efa Gol.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-684`). Bane Alias Chronicle XIX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

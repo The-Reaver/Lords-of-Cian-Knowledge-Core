@@ -1,8 +1,6 @@
 # What He Didn't Say Out Loud
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XXVIII, first entry in the tenth
-wave. Rebellion era, age 19, months after the Black Trench. Not a territory Chronicle. Narrated in
-neutral third-person prose. No new named characters beyond the already-locked Garren Hask.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-693`). Bane Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

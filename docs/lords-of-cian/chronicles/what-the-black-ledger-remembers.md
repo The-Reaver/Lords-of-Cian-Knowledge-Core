@@ -1,8 +1,6 @@
 # What the Black Ledger Remembers
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XXV, first entry in the ninth
-wave. Rebellion era, age 19, months after the Black Trench. Not a territory Chronicle. Narrated in
-neutral third-person prose. No new named characters.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-690`). Bane Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

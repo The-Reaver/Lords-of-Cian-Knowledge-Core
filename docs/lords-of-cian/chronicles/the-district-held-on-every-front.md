@@ -1,9 +1,6 @@
 # The District Held on Every Front
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle XLIV, second
-entry in the fifteenth wave. Rebellion era, age 20, the Sewer War of Killane, its final and largest
-engagement. Not a territory Chronicle. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-679`). The Blue-Collar Titan Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

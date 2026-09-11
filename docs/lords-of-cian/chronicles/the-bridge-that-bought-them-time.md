@@ -1,8 +1,6 @@
 # The Bridge That Bought Them Time
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle XXXII, second
-entry in the eleventh wave. Rebellion era, age 20, on a surface supply route outside Killane. Not a
-territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-667`). The Blue-Collar Titan Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
