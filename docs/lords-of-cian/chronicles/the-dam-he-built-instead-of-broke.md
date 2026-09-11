@@ -1,6 +1,6 @@
 # The Dam He Built Instead of Broke
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Iron Bastard Alias Chronicle XLVII, wave 16. Rebellion era. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 205, 2026-09-11 (`MCD-898`). The Iron Bastard Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

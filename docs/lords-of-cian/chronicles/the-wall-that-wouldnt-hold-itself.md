@@ -1,6 +1,6 @@
 # The Wall That Wouldn't Hold Itself
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XLVI, wave 16. Rebellion era, roughly a year before the Black Trench (age 18) — earlier in the pre-Black-Trench timeline than the fifteenth wave's closing entries. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 206, 2026-09-11 (`MCD-900`). The Trench Monarch Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

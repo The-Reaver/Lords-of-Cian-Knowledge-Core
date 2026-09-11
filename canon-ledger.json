@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "20.7",
+  "ledger_version": "21.0",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1637,6 +1637,27 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Industrial Myth's sixteenth Alias Chronicle wave (MCD-894 through MCD-896, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Industrial Myth."
+    },
+    {
+      "batch": 205,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Iron Bastard's sixteenth Alias Chronicle wave (MCD-897 through MCD-899, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Iron Bastard."
+    },
+    {
+      "batch": 206,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Trench Monarch's sixteenth Alias Chronicle wave (MCD-900 through MCD-902, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Trench Monarch."
+    },
+    {
+      "batch": 207,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Scourge's sixteenth Alias Chronicle wave (MCD-903 through MCD-905, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Scourge."
     }
   ],
   "rules": [
@@ -12169,6 +12190,69 @@
       "id": "MCD-896",
       "category": "kanja-alias-chronicle",
       "statement": "\"The District That Kept Its Own Books\" (full narrative text at docs/lords-of-cian/chronicles/the-district-that-kept-its-own-books.md), The Industrial Myth Alias Chronicle XLVIII, wave 16. A quarry-district worker asks who protects the next crew once the tally team moves on. The crew stays four extra days training a dozen local workers in Ezio's corrective auditing method, then leaves the district's ledger in their own keeping -- scaling knowledge-transfer from individual mentorship to district-wide self-sufficiency as a repeatable standing policy. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-897",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Gate the River Swallowed\" (full narrative text at docs/lords-of-cian/chronicles/the-gate-the-river-swallowed.md), The Iron Bastard Alias Chronicle XLVI, wave 16. The doctrine's first submerged/underwater application: reading a fully water-covered sluice gate from the bank fails outright because the current's noise masks the tension signature at any distance. Resolved via direct physical contact with a partially-submerged anchor chain, extending the direct-contact fallback into a medium never used before.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-898",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Dam He Built Instead of Broke\" (full narrative text at docs/lords-of-cian/chronicles/the-dam-he-built-instead-of-broke.md), The Iron Bastard Alias Chronicle XLVII, wave 16. The doctrine's first fully constructive, non-adversarial use: no enemy, no military objective -- Kanja diagnoses and reinforces a failing civilian dam to keep it standing, establishing the doctrine can serve as pure civil aid.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-899",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Men Who Sold His Own Ear\" (full narrative text at docs/lords-of-cian/chronicles/the-men-who-sold-his-own-ear.md), The Iron Bastard Alias Chronicle XLVIII, wave 16. The doctrine's first corruption by non-institutional profiteers -- freelance mercenaries with no real grasp of the technique trade on the Iron Bastard's name and a crude fake of the method to settle private disputes for hire. Kanja's response is corrective, stopping a false \"collapse\" to save the structure, rather than combat. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-900",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Wall That Wouldn't Hold Itself\" (full narrative text at docs/lords-of-cian/chronicles/the-wall-that-wouldnt-hold-itself.md), The Trench Monarch Alias Chronicle XLVI, wave 16. A storm collapses a canal retaining wall above forty families' homes at Warrow Bend. Pure disaster relief with no adversary and no Onyx use at all -- Kanja and the earliest crew spend two days doing raw physical labor to shore the wall by hand, extending the \"digging his own crown\" ethos to nature and exhaustion, not just human opposition.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-901",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Anger He Almost Let Win\" (full narrative text at docs/lords-of-cian/chronicles/the-anger-he-almost-let-win.md), The Trench Monarch Alias Chronicle XLVII, wave 16. A cooperating tally worker is brutally tortured as retaliation. For the first time Kanja's composure genuinely cracks -- Onyx's Soulbound Edge responds to raw rage rather than trained intention-reading, and he comes within a breath of a killing stroke he can't fully claim was a deliberate choice, leaving him shaken and honest about it with the crew afterward.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-902",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Elder They Buried at the Canal\" (full narrative text at docs/lords-of-cian/chronicles/the-elder-they-buried-at-the-canal.md), The Trench Monarch Alias Chronicle XLVIII, wave 16. An unnamed old dredge hand, older than the alias itself, dies quietly of natural causes. Kanja attends the small, unceremonial burial uninvited and unneeded, speaks briefly, and helps finish the grave marker by hand -- a mourning/mortality register centering an ordinary community elder's death. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-903",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Shrine They Built Without Asking\" (full narrative text at docs/lords-of-cian/chronicles/the-shrine-they-built-without-asking.md), The Scourge Alias Chronicle XLVI, wave 16. Age 172, V3 gear. A settlement he freed eleven years earlier has built a literal shrine to him. He confronts the community's elder anonymously and pushes back against the deification, redirecting credit toward the self-built watch chain and trade compact that actually kept them safe, without tearing the shrine down himself.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-904",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Raid He Watched From the Rigging\" (full narrative text at docs/lords-of-cian/chronicles/the-raid-he-watched-from-the-rigging.md), The Scourge Alias Chronicle XLVII, wave 16. Age 265, V4 gear. Kanja hands full command of an entire liberation raid, including a tense hostage standoff, to Efa Gol's already-established unnamed successor, staying aboard only as an unused failsafe. She resolves it exactly as he would have, proving the doctrine and reputation function institutionally without him physically leading.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-905",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boy He Once Cut Free\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-he-once-cut-free.md), The Scourge Alias Chronicle XLVIII, wave 16. Age 122, V3 gear, minimal use. A man he personally freed as a nine-year-old captive decades earlier is found running his own small trafficking operation. Kanja frees the man's captives but hands him over to Garren Hask's ledger-keeping rather than punishing or absolving him -- a deliberately unresolved confrontation with the limit of \"freedom redeems.\" Closes the wave.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }

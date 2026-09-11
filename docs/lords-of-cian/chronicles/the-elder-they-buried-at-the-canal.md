@@ -1,6 +1,6 @@
 # The Elder They Buried at the Canal
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XLVIII, wave 16, closing the wave. Rebellion era, a few months before the Black Trench (age 18) — earlier in the pre-Black-Trench timeline than the fifteenth wave's closing entries. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 206, 2026-09-11 (`MCD-902`). The Trench Monarch Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

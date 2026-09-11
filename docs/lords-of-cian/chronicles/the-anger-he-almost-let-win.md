@@ -1,6 +1,6 @@
 # The Anger He Almost Let Win
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Trench Monarch Alias Chronicle XLVII, wave 16. Rebellion era, several months before the Black Trench (age 18). Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 206, 2026-09-11 (`MCD-901`). The Trench Monarch Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

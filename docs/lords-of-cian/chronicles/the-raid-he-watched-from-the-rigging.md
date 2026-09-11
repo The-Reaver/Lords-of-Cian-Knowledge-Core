@@ -1,6 +1,6 @@
 # The Raid He Watched From the Rigging
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle XLVII, wave 16. Long Mask era, age 265, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 207, 2026-09-11 (`MCD-904`). The Scourge Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

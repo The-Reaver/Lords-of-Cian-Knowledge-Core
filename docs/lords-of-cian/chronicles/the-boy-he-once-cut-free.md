@@ -1,6 +1,6 @@
 # The Boy He Once Cut Free
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle XLVIII, wave 16, closing the wave. Long Mask era, age 122, V3 gear (minimal use). Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 207, 2026-09-11 (`MCD-905`). The Scourge Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

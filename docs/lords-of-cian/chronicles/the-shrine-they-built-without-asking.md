@@ -1,6 +1,6 @@
 # The Shrine They Built Without Asking
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle XLVI, wave 16. Long Mask era, age 172, V3 gear (Golden Terror period). Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 207, 2026-09-11 (`MCD-903`). The Scourge Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
