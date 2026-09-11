@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 24.3, 1,721 rules, 240 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 25.4, 1,754 rules, 251 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1247,6 +1247,39 @@ the task template's placeholder) instead of the ledger's actual established conv
 them, and in the three already-locked Bane wave-20 rules directly. Every named alias now has twenty
 complete waves -- sixty Chronicles each, 660 Alias Chronicles total. Ledger reached `ledger_version`
 24.3, 1,721 rules, 240 batches -- zero duplicate IDs and zero orphaned file references verified after
+the full run. Per the standing pacing rule, the next wave for any alias starts only when Abad points
+at it.
+
+**A twenty-first Alias Chronicle wave for all eleven aliases, Batches 241-251, 2026-09-11 (`MCD-1059`
+through `MCD-1091`, 33 new Chronicles), per Abad's direction: "another alias wave of all aliases."**
+Unlike wave 20 (Bane presented individually first), this run was authorized directly for all eleven
+aliases at once, so eleven parallel background agents were launched together, each reading its own
+alias's full 60-entry prior history straight from the ledger, collision-checking before inventing any
+proper noun, and writing its 3 Chronicle files plus an unexecuted merge script -- with the category
+field (`"kanja-alias-chronicle"`) specified correctly in every agent's instructions up front this
+time, avoiding the fix-up pass wave 20 needed. A few representative new registers: Bane's "The Twelve
+Miles That Never Stopped Moving" is the first detailed Trinity combat showcase fought entirely on the
+move, defending a 600-refugee convoy across three terrains without the column stopping; the Trench
+Monarch's "What He Owed Outside the Ledger" is the first entry to hold the alias's own founding battle
+accountable for collateral harm the tally method has no fix for; Industrial Myth's "What the Numbers
+Owed Him" is the method's first finding that runs against a worker rather than an employer; the
+Blue-Collar Titan's "No Smell, No Smoke, No Sound" is its first invisible-toxic-gas rescue, deliberately
+inverting wave 20's fire entry; Sovereign Ghost of the Great Sea's "The Debt Kept Inside the Crew" is
+the restraint-over-fear doctrine's first application to the fleet's own crew rather than an external
+party; the Scourge's "The Strait That Froze Early" is its first cold/ice-environment combat showcase,
+putting the Ironhand Gauntlets' V4 blood-heating feature on the page for the first time; the Crow
+King's "The Boy Who Counted Instead of Sang" is the fourth generation's first solo field use, grounded
+in bureaucratic/logistics deception rather than battlefield evasion; the Iron Bastard's "The Wall He
+Saved That Broke Another" is its first failure where a correctly, doubly-verified read still causes
+unintended collateral collapse; the Lord of Embers' "The Collapse They Meant to Cause" is its first
+underground/mine-rescue combat showcase; the Storm That Walks' "The Truce They Wouldn't Honor" is its
+first detailed showcase defending an agreement between two fleets rather than a single vessel; and
+Captain's "What Only the Hall Could Save" makes Garren Hask's mortality real for the first time, a
+direct payoff to wave 20's charter and Sera threads. No new named characters were introduced across
+any of the 33 entries -- every agent reused already-locked crew, consistent with the sub-series'
+strong preference for continuity depth over new names. Every named alias now has twenty-one complete
+waves -- sixty-three Chronicles each, 693 Alias Chronicles total. Ledger reached `ledger_version`
+25.4, 1,754 rules, 251 batches -- zero duplicate IDs and zero orphaned file references verified after
 the full run. Per the standing pacing rule, the next wave for any alias starts only when Abad points
 at it.
 
