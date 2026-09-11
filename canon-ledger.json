@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "12.7",
+  "ledger_version": "12.8",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1077,6 +1077,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Iron Bastard's second three-entry Alias Chronicle wave (MCD-419 through MCD-421), the eighth of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
+    },
+    {
+      "batch": 125,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Lord of Embers' second three-entry Alias Chronicle wave (MCD-422 through MCD-424), the ninth of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
     }
   ],
   "rules": [
@@ -8284,6 +8291,27 @@
       "id": "MCD-421",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Scholar Who Measured the Impossible\" (full narrative text at docs/lords-of-cian/chronicles/the-scholar-who-measured-the-impossible.md), Iron Bastard Alias Chronicle VI, closing the second wave. A Trust materials scholar's eleven-month honest study concludes the resonance phenomenon is applied physics, not a supernatural weapon, and that the only real defense (extreme structural redundancy) is prohibitively expensive; her accurate report is quietly shelved in favor of a politically comfortable explanation. No new named characters. Closes the Iron Bastard's second three-Chronicle wave (with 'The Column He Could Not Leave Alone,' MCD-419, and 'The Column Built Without Metal,' MCD-420).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-422",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Can't Be Burned\" (full narrative text at docs/lords-of-cian/chronicles/what-cant-be-burned.md), Lord of Embers Alias Chronicle IV, first entry in the second wave. A Trust administrator replaces punitive burning with a merchant-guild blacklist enforced through Scrip-Tether debt leverage, a punishment with nothing physical to rebuild against; Kanja personally tours the region's merchant routes offering subsidized smithing/repair services to any guild willing to defy the blacklist, breaking it within a month by making defiance cheaper than compliance -- the same underlying 'metabolizes punishment' principle (MCD-241) generalized beyond physical destruction. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-423",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night They Came for the Anvil\" (full narrative text at docs/lords-of-cian/chronicles/the-night-they-came-for-the-anvil.md), Lord of Embers Alias Chronicle V. A raid targets The Anvil (MCD-241) itself for its accumulated Dead Drakma stock; Kanja meets the boarders on deck rather than let the fight reach sleeping apprentices belowdecks, demonstrating Mafesto's grounding function, Obsidian Malice collapsing the boarding ramp structurally to strand the second wave, and Onyx's Whisper of Shadows/Veil Piercer clearing the deck. The raid breaks in six minutes. No new named characters; the salvage master is unnamed and one-scene.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-424",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Smith Who Resented the Crown\" (full narrative text at docs/lords-of-cian/chronicles/the-smith-who-resented-the-crown.md), Lord of Embers Alias Chronicle VI, closing the second wave. A settlement's senior smith resents the Lord of Embers' visiting reputation overshadowing his own thirty years of earned local standing; Kanja concedes the point immediately and hands the teaching credit back to the smith rather than keep it, winning genuine respect through deference rather than fame. No new named characters; the settlement smith is unnamed and one-scene. Closes the Lord of Embers' second three-Chronicle wave (with 'What Can't Be Burned,' MCD-422, and 'The Night They Came for the Anvil,' MCD-423).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
