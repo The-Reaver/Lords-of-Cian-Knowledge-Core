@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "28.1",
+  "ledger_version": "28.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2155,6 +2155,20 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document",
       "rule_count": 9,
       "note": "Continues the Alias Chronicle sub-series' thirty-second, thirty-third, and thirty-fourth waves for Bane, under Abad's direct authorization: \"do 3 more alias wave for all eleven.\" Wave 32 opens with a tidal sea-cave extraction run entirely against a natural deadline, with Obsidian Malice withheld the whole operation on the water-safety principle established in \"What the River Carried Between Them\" (MCD-1100), then a garrison commander's wager duel fought with a plain blade and the Trinity deliberately stood down entirely -- the first time Onyx, Mafesto, and Obsidian Malice are excluded from an engagement's terms before it begins rather than limited mid-fight -- and closes on the campaign's supply-chain sabotage reaching an enemy garrison's own starving families, extending 'the fear only works if it's true' (MCD-431) to dependents rather than combatants for the first time. Wave 33 opens with the run's first hostage crisis, VB-060's 'Already-Finished Negotiation' presence trait used purely defensively with zero counter-threat offered; then criminal opportunists in crude replica gear extorting merchants under Bane's name for profit, resolved through public exposure and restitution rather than violence; and closes on the sub-series' first purely celebratory, entirely conflict-free entry, Toran's (MCD-1099) wedding. Wave 34 opens with a deserted former recruit found coerced into serving the enemy, met with the same amnesty logic already extended to enemy soldiers (MCD-1102); then the run's first formal, proactive prisoner-exchange negotiation, deliberately slow and procedural rather than tense; and closes the full run on legend-drift pushed to its furthest, least controllable point -- an unverifiable uprising three provinces away invoking Bane's name, a place and people he will likely never reach or confirm. No new named characters across all nine entries -- every returning character reuses already-locked crew (Corren Halst, Danne Sok, Efa Gol, Toran); every new proper noun (none were needed for named characters or places) was collision-checked clean before drafting."
+    },
+    {
+      "batch": 279,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 9,
+      "note": "Continues the Alias Chronicle sub-series' thirty-second, thirty-third, and thirty-fourth waves for the Blue-Collar Titan, under Abad's direct authorization: \"do 3 more alias wave for all eleven.\" Wave 32 opens with the alias's first winter/frost-heave hazard (\"The Frost That Cracked What Fire Never Could,\" a slow, cyclical threat extending Mafesto's Kinetic Transfer System into a sustained multi-cycle reading register), then its first contagious-illness/public-health engineering entry (\"What the Ventilation Couldn't Cure,\" entirely non-combat and explicit that rerouted airflow buys time rather than curing anyone), and closes with the alias's first entry where a Kanja-taught worker applies an honestly taught trade in service of the opposing side by free political disagreement rather than coercion or defection (\"The Apprentice Who Chose the Other Side\"). Wave 33 opens with the alias's first drought/water-scarcity crisis, deliberately inverting every prior flooding entry (\"The Well That Went Dry\"), then its first disability-accommodation register, building adaptive gear around one worker's actual remaining capability rather than lowering a certification standard (\"The Hand He Rebuilt to Hold a Tool\"), and closes with the alias's first entry locating a genuine physical limit inside Kanja's own sustained exhaustion, finally applying his own fatigue rule to himself (\"What He Couldn't Lift Twice\"). Wave 34 opens with the alias's first formal legal-testimony register, Kanja and Maret Vos testifying as expert witnesses in a Sovereign Trust corruption trial unrelated to the war (\"The Witness Stand Under the City,\" the one-hundredth Blue-Collar Titan Chronicle overall), then its first cross-border technical-diplomacy register, refusing exclusive paid instruction in favor of open teaching (\"The Trade They Wanted to Buy From Him\"), and closes with the alias's first graceful institutional handoff extended to a founding crew member rather than to Kanja himself, moving Corren Halst from front-line rotation into a training-hall role as her old dock injury catches up with her (\"The Rotation Corren Halst Finally Took\"). No new named characters across any of the nine entries -- every new figure (the healer, the former apprentice, the old digger, the certification board, the contractor, the magistrate, the tribunal clerk, the foreign envoys) is deliberately kept unnamed and one-scene, and every returning figure (Corren Halst, Danne Sok, Efa Gol, Dol Maren, Maret Vos, Pell Ostra) is reused from already-locked crew, collision-checked clean against the full ledger before drafting. Abad's approval: \"do 3 more alias wave for all eleven.\""
+    },
+    {
+      "batch": 280,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 9,
+      "note": "Continues the Alias Chronicle sub-series' thirty-second, thirty-third, and thirty-fourth waves for the Sovereign Ghost of the Great Sea, under Abad's direct authorization: \"do 3 more alias wave for all eleven.\" Wave 32 opens with the alias's first personal, one-on-one honor duel against a human combatant specifically trained and sent to fight Kanja individually (a detailed, battle-intense Trinity/Onyx showcase), then a multi-year embedded Directorate agent unmasked by his own conscience rather than by betrayal or discovery (new minor named character Fenn, collision-checked clean), and closes on the first dramatized use of the Lodestone Lens (`ARS-382`) reading a shifting seafloor at extreme range to save a convoy from an undetected natural hazard. Wave 33 opens with a tsunami disaster-relief entry -- a new environmental register with no weather signature to read and nothing for the Trinity's combat capabilities to act against, honoring real losses rather than a clean save -- then a formal maritime-tribunal appearance where Garren Hask's ledger is used as courtroom evidence for the first time, resolving a piracy accusation on documented-pattern grounds rather than a claim of innocence, and closes on the first dramatized use of the Whalebone Tether (`ARS-383`) to gently redirect a migrating, non-hostile Titan-scale sea creature rather than fight or drown it, extending the restraint doctrine to a non-sentient register. Wave 34 opens with a payoff to the previously-unnamed apprentice from \"What Dol Maren Passed Down\" (`MCD-1039`), now named (Wren Calder, collision-checked clean) and formally joining the crew as a permanent, informed-consent hull-reader; then a fabricated-weather-intelligence deception used to lure the fleet away from a real target; and closes by paying off wave 32's opening duel arc, extending the alias's established institution-disbelieves-an-honest-account register into a new instance (a defeat and an act of mercy, buried rather than a sighting report). No new named characters beyond Fenn and Wren Calder, both collision-checked against the full ledger before drafting. All nine entries reuse already-locked crew (Garren Hask, Efa Gol, Dol Maren, Danne Sok, Pell Ostra) for continuity depth."
     }
   ],
   "rules": [
@@ -16866,6 +16880,132 @@
       "id": "MCD-1432",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Story That Outran Him\" (full narrative text at docs/lords-of-cian/chronicles/the-story-that-outran-him.md), Bane Alias Chronicle CII, wave 34, closing wave 34 and the thirty-second through thirty-fourth wave run. A trader mentions, in passing, an unverified small uprising three provinces away invoking Bane's name, in a region he has never visited and has no way to reach, confirm, or correct -- extends the legend-drift theme of 'The Song They Sang Without Knowing Whose It Was' (MCD-1108) and 'The Impersonator's Price' (MCD-1428) into its furthest, least controllable form, deliberately left permanently unresolved. No new named characters -- the trader is unnamed and one-scene; Efa Gol and Corren Halst reused. Closes wave 34.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1451",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Frost That Cracked What Fire Never Could\" (full narrative text at docs/lords-of-cian/chronicles/the-frost-that-cracked-what-fire-never-could.md), Blue-Collar Titan Alias Chronicle XCIV, wave 32, opening the wave. The alias's first winter/frost-heave hazard: repeated freeze-thaw expansion works invisibly on sound-looking timber shoring over days rather than a single dramatic event. Extends Mafesto's Kinetic Transfer System (ARS-010) into a new sustained, slow-timescale reading register, distinct from the density-sensing (MCD-1068), thermal-gradient (MCD-1181), and vibration-signature (MCD-1400) applications already locked. No Trinity combat; no enemy involved. Reuses already-locked crew member Corren Halst. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1452",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Ventilation Couldn't Cure\" (full narrative text at docs/lords-of-cian/chronicles/what-the-ventilation-couldnt-cure.md), Blue-Collar Titan Alias Chronicle XCV, wave 32. The alias's first contagious-illness/public-health engineering register, entirely non-combat and explicitly outside Kanja's own competence to cure: he reroutes a shared ventilation duct to isolate a barracks fever's air supply from the rest of the shelter, explicitly framed on the page as buying the healers time rather than curing anyone, extending the alias's structural-honesty ethos into a register where the honest answer is 'I can't fix this.' No Trinity, no enemy, no combat. Reuses already-locked crew member Danne Sok. The healer is a new, deliberately unnamed one-scene character (collision-checked clean). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1453",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Apprentice Who Chose the Other Side\" (full narrative text at docs/lords-of-cian/chronicles/the-apprentice-who-chose-the-other-side.md), Blue-Collar Titan Alias Chronicle XCVI, wave 32, closing the wave. The alias's first entry where a taught skill is used against the cause without malice or coercion: a Kanja-trained former apprentice is found working an honest reconstruction job for the Trust side by free, informed political disagreement, and Kanja declines to treat it as betrayal, affirming that teaching a trade honestly cannot be conditioned on loyalty to how it's used. Distinct from the coerced-informant register of MCD-1005 and the defector-integration payoff of MCD-1190. The unnamed apprentice is deliberately distinct from the orphan-boy mentorship lineage of MCD-653/MCD-1036/MCD-1195 (collision-checked clean). Reuses already-locked crew member Efa Gol. No new named characters. Closes wave 32 (with MCD-1451 and MCD-1452).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1454",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Well That Went Dry\" (full narrative text at docs/lords-of-cian/chronicles/the-well-that-went-dry.md), Blue-Collar Titan Alias Chronicle XCVII, wave 33, opening the wave. The alias's first drought/water-scarcity crisis, a purely civil-engineering register with zero enemy, zero combat, and zero Trinity showcase beyond Obsidian Malice's already-established quarrying application (MCD-655) -- deliberately inverting every prior flooding register (MCD-440, MCD-486, MCD-1193) rather than repeating any of them: Kanja locates and opens a deeper, untouched aquifer after the district's shallow wells run dry. Reuses already-locked crew member Dol Maren. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1455",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Hand He Rebuilt to Hold a Tool\" (full narrative text at docs/lords-of-cian/chronicles/the-hand-he-rebuilt-to-hold-a-tool.md), Blue-Collar Titan Alias Chronicle XCVIII, wave 33. The alias's first disability-accommodation register: an old digger who lost a hand is barred from certification by a standard chisel's design rather than any competence gap, and Kanja builds adaptive gear -- a shoulder-and-forearm harness with a re-angled chisel head -- fitted to the man's actual remaining capability, getting him certified on the strength of his own cut seam. Extends the dignity-of-labor theme (VB-061) and the standard-versus-capability distinction established at MCD-1069. The old digger and certification board are new, deliberately unnamed one-scene figures (collision-checked clean; distinct from the two-handed elderly Killane digger of MCD-442). Reuses already-locked crew member Pell Ostra. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1456",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What He Couldn't Lift Twice\" (full narrative text at docs/lords-of-cian/chronicles/what-he-couldnt-lift-twice.md), Blue-Collar Titan Alias Chronicle XCIX, wave 33, closing the wave. The alias's first entry locating a genuine physical limit inside Kanja's own sustained exhaustion, extending 'The Watch That Forgot to Rest' (MCD-1189, where he imposed hard rotation caps on others) by finally applying that same rule to himself after three sleepless days leave his grip failing mid-lift. Deliberately framed around physical labor fatigue rather than tactical judgment, keeping it distinct from the same-shaped register already used for a different alias (Bane's MCD-1059). Reuses already-locked crew members Corren Halst and Danne Sok. No new named characters. Closes wave 33 (with MCD-1454 and MCD-1455).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1457",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Witness Stand Under the City\" (full narrative text at docs/lords-of-cian/chronicles/the-witness-stand-under-the-city.md), Blue-Collar Titan Alias Chronicle C, wave 34, opening the wave -- the one-hundredth Blue-Collar Titan Chronicle overall. The alias's first formal legal-testimony register, distinct from the informal report-forcing-accountability entry (MCD-663) and the sustained-custody/interrogation register (MCD-1006): Kanja and Maret Vos testify as expert witnesses in a Sovereign Trust corruption trial over fraudulent tenement construction unrelated to the war, deliberately understated by Kanja's own explicit choice rather than dramatic. Reuses already-locked crew member Maret Vos. The contractor, magistrate, and tribunal clerk are new, deliberately unnamed one-scene figures (collision-checked clean). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1458",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Trade They Wanted to Buy From Him\" (full narrative text at docs/lords-of-cian/chronicles/the-trade-they-wanted-to-buy-from-him.md), Blue-Collar Titan Alias Chronicle CI, wave 34. The alias's first cross-border technical-diplomacy register, distinct from the domestic materials-trade negotiation (MCD-1007) and the single-individual guild-barrier entry (MCD-1069): foreign envoys offer to pay for exclusive tunnel-engineering instruction, and Kanja refuses the exclusivity while accepting the teaching itself, extending the open-knowledge ethos into a diplomatic register for the first time. Reuses already-locked crew member Efa Gol as the visit's security lead. The envoys and their settlement are new, deliberately unnamed and unplaced figures (collision-checked clean; no proper noun introduced). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1459",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Rotation Corren Halst Finally Took\" (full narrative text at docs/lords-of-cian/chronicles/the-rotation-corren-halst-finally-took.md), Blue-Collar Titan Alias Chronicle CII, wave 34, closing the wave. The alias's first graceful institutional handoff extended to a founding crew member rather than to Kanja himself -- mirroring his own declined permanent workers'-council seat (MCD-1183) -- as Corren Halst's long-standing dock-era leg injury forces her off front-line ladder rotation and into leading the crew's training hall instead, her expertise redirected rather than retired. Distinct from the aging/mortality registers applied to secondary figures (MCD-1185). Reuses already-locked crew members Corren Halst and Danne Sok. No new named characters. Closes wave 34 (with MCD-1457 and MCD-1458) and this run's three-wave arc (waves 32-34).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1460",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Champion Sent to Kill a Ghost\" (full narrative text at docs/lords-of-cian/chronicles/the-champion-sent-to-kill-a-ghost.md), Sovereign Ghost of the Great Sea Alias Chronicle XCIV, wave 32, first entry in the wave. A detailed, battle-intense personal one-on-one honor duel against a Directorate-trained champion sent specifically to fight Kanja individually, distinct from every prior fleet-scale or institutional antagonist (the Fleet-Marshal arc, `MCD-952`-`957`) and from the flagship-vs-flagship seamanship duel (`MCD-799`). Highlights Onyx of Oblivion's Cadence Ruin, Soulbound Edge, and Whisper of Shadows against an opponent purpose-trained to deny rhythm-reading. Kanja wins and spares him, asking only for an honest report. The First Blade is deliberately left unnamed. Sets up the closing entry of wave 34 (`MCD-1468`). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1461",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Compass That Pointed Wrong\" (full narrative text at docs/lords-of-cian/chronicles/the-compass-that-pointed-wrong.md), Sovereign Ghost of the Great Sea Alias Chronicle XCV, wave 32. A new register: a four-year embedded, genuinely willing Directorate agent among the crew is unmasked not by betrayal or discovery but by his own conscience, refusing a final order to relay a false bearing into an ambush lane. Distinct from the hostage-coerced position leak (`MCD-1203`) and the parole-then-reprisal betrayal register (`MCD-912`). Resolved by quiet release rather than punishment or crew integration, deliberately distinct from `MCD-1466`'s permanent-joining register later in this run. Reuses Efa Gol and Garren Hask. New minor named character: Fenn (the agent) -- collision-checked clean against the full ledger. Second entry in wave 32.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1462",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Seafloor Told the Lens\" (full narrative text at docs/lords-of-cian/chronicles/what-the-seafloor-told-the-lens.md), Sovereign Ghost of the Great Sea Alias Chronicle XCVI, wave 32, closing the wave. A new-gear register: the first dramatized use of the Lodestone Lens (`ARS-382`) for this alias, reading a shifting seafloor hazard at extreme range from the deck to redirect a convoy no lookout could have seen coming in time -- distinct from the Sovereign Eyes' close-range Blueprint Eye HUD used throughout prior entries, and from the deliberate false channel-marker reef ambush (`MCD-772`) since this hazard is natural and undetected by anyone rather than a trap. Reuses Garren Hask and Danne Sok. No new named characters. Closes wave 32 (`MCD-1460` through `MCD-1462`).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1463",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Wave That Outran the Charts\" (full narrative text at docs/lords-of-cian/chronicles/the-wave-that-outran-the-charts.md), Sovereign Ghost of the Great Sea Alias Chronicle XCVII, wave 33, first entry in the wave. A new environmental register: a tsunami strikes a coastal settlement with almost no warning, distinct from every prior storm-based entry (`MCD-953`, `MCD-1071`, `MCD-1211`, `MCD-1206`) since there is no weather signature to read in advance and nothing for the Trinity's combat capabilities to act against -- pure disaster-relief rescue work after an unstoppable natural event, honoring real losses (nineteen dead alongside forty-one saved) rather than a clean save. Reuses Pell Ostra, Dol Maren (referenced), and Garren Hask. No new named characters. First entry in wave 33.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1464",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Sworn Before the Salt Table\" (full narrative text at docs/lords-of-cian/chronicles/sworn-before-the-salt-table.md), Sovereign Ghost of the Great Sea Alias Chronicle XCVIII, wave 33. A new institutional register: Kanja and Garren Hask are summoned unarmed to testify before a neutral maritime tribunal of merchant-nations over a formal piracy accusation, distinct from the foreign-nation reputation acknowledgment (`MCD-490`), the bilateral pact (`MCD-1040`), and the political-neutrality mediation (`MCD-1221`) since the fleet is the accused party here. Extends Garren Hask's ledger (`MCD-445`, `MCD-1219`) into evidentiary use for the first time; the accusation is dismissed on documented-pattern grounds rather than a claim of innocence, keeping the doctrine's honesty about real raiding intact. Reuses Efa Gol and Garren Hask. No new named characters. Second entry in wave 33.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1465",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Reef Where the Whales Turned Back\" (full narrative text at docs/lords-of-cian/chronicles/the-reef-where-the-whales-turned-back.md), Sovereign Ghost of the Great Sea Alias Chronicle XCIX, wave 33, closing the wave. The first dramatized use of the Whalebone Tether (`ARS-383`) for this alias, redirecting a migrating, non-hostile Titan-scale sea creature away from a shipping lane rather than fighting or subduing it -- deliberately distinct from Undertow's own first dramatized use (`MCD-951`), which drags a hostile Titan-scale creature under, extending the restraint-over-fear doctrine to a non-sentient register for the first time. Reuses Efa Gol and Garren Hask. No new named characters. Closes wave 33 (`MCD-1463` through `MCD-1465`).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1466",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Hand That Asked to Stay\" (full narrative text at docs/lords-of-cian/chronicles/the-hand-that-asked-to-stay.md), Sovereign Ghost of the Great Sea Alias Chronicle C, wave 34, first entry in the wave. A payoff to the previously-unnamed apprentice from \"What Dol Maren Passed Down\" (`MCD-1039`, wave 20), naming him for the first time -- Wren Calder, collision-checked clean against the full ledger -- and extending his training arc into full, permanent, informed-consent crew membership as the fleet's third hull-reader, a new register distinct from the informal stowaway-fostering practice (`MCD-1210`) and from `MCD-1461`'s quiet-release register earlier in this run. Dramatizes the mortality-gap conversation as an explicit condition of joining, consistent with `MCD-958`/`MCD-1227`. Reuses Dol Maren and Garren Hask. New minor named character: Wren Calder. First entry in wave 34.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1467",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm They Called a Bluff\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-they-called-a-bluff.md), Sovereign Ghost of the Great Sea Alias Chronicle CI, wave 34. A new adversarial-intelligence register: a rival trading concern fabricates a storm warning to lure the fleet's protection away from a grain convoy it intends to raid, distinct from the false distress-call ambush (`MCD-954`) and the false channel-marker trap (`MCD-772`), both of which used a false position or false danger rather than a false natural-condition claim. Extends Danne Sok's charting/pattern-reading role (`MCD-779`, `MCD-782`) into weather-verification specifically; the deception is caught and the raid prevented with no casualties. Reuses Danne Sok. No new named characters. Second entry in wave 34.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1468",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Directorate Wrote About the Duel\" (full narrative text at docs/lords-of-cian/chronicles/what-the-directorate-wrote-about-the-duel.md), Sovereign Ghost of the Great Sea Alias Chronicle CII, wave 34, closing the wave. Closes the arc opened at `MCD-1460`: the First Blade's honest report of his defeat and the mercy shown him is disbelieved and quietly buried by his own institution, which reclassifies the duel as inconclusive and reassigns him away from open water -- extending the alias's established institution-disbelieves-an-honest-account register (`MCD-795`) into a new instance (a personal combat defeat and mercy, rather than a sighting report). The First Blade remains unnamed, consistent with `MCD-1460`. Reuses Garren Hask. No new named characters. Closes wave 34 (`MCD-1466` through `MCD-1468`) and the three-wave run (waves 32-34, `MCD-1460` through `MCD-1468`).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
