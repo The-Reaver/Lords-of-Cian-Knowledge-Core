@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "12.5",
+  "ledger_version": "12.6",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1063,6 +1063,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Scourge's second three-entry Alias Chronicle wave (MCD-413 through MCD-415), the sixth of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
+    },
+    {
+      "batch": 123,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Crow King's second three-entry Alias Chronicle wave (MCD-416 through MCD-418), the seventh of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
     }
   ],
   "rules": [
@@ -8228,6 +8235,27 @@
       "id": "MCD-415",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Warlord Who Tested the Crescent\" (full narrative text at docs/lords-of-cian/chronicles/the-warlord-who-tested-the-crescent.md), the Scourge Alias Chronicle VI, closing the second wave. Pirate Dawn (ages 48-52). A rival warlord sails into the Gale Straits crescent formation's recognized waters to publicly test whether the black sails' surrender-on-sight reputation (MCD-250) is still real; Kanja fights him personally, one exchange, disarming rather than killing, proving the reputation true in front of every watching crew without needing the warlord's death. His smuggling operation folds within the season. No new named characters; the warlord is unnamed and one-scene. Closes the Scourge's second three-Chronicle wave (with 'What the Golden Terror Left Behind,' MCD-413, and 'The Ledger Garren Hask Still Kept,' MCD-414).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-416",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Trap That Almost Closed\" (full narrative text at docs/lords-of-cian/chronicles/the-trap-that-almost-closed.md), Crow King Alias Chronicle IV, first entry in the second wave. A single unbriefed private, recognizing the Hymn-Engine's sub-bass chant by ear from growing up near a work-chant district, catches what a purpose-built sensor grid missed and locates the real evacuation column; Kanja buys the evacuation's last minutes through conversation rather than force, and the private's accurate report becomes the single most useful piece of Directorate intelligence gathered against the doctrine. A genuine near-failure rather than another clean win. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-417",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"When the Crow Could Not Fly\" (full narrative text at docs/lords-of-cian/chronicles/when-the-crow-could-not-fly.md), Crow King Alias Chronicle V. The private's report (MCD-416) reaches a garrison commander in time to spring a genuine counter-encirclement on a half-evacuated compound; with no clean evasion available, Kanja fights through it instead, demonstrating Mafesto's Kinetic Transfer System, Obsidian Malice striking the encirclement's weakest coordination seam, and Onyx's Cadence Ruin buying the final evacuation window. The garrison's own doctrine review flags that every existing countermeasure assumed the Crow King's only weapon was escape. No new named characters; the garrison commander is unnamed and one-scene.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-418",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Voice That Carried Three Hundred\" (full narrative text at docs/lords-of-cian/chronicles/the-voice-that-carried-three-hundred.md), Crow King Alias Chronicle VI, closing the second wave. Years later, one of the crew's original Hymn-Engine singers -- permanently rasp-voiced from the technique's six-week rehearsal -- teaches a new recruit the real cost behind the marsh trick's mechanics: sustained, relaxed consistency rather than forced power, and a toll to her voice she has never regretted paying. No new named characters. Closes the Crow King's second three-Chronicle wave (with 'The Trap That Almost Closed,' MCD-416, and 'When the Crow Could Not Fly,' MCD-417).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
