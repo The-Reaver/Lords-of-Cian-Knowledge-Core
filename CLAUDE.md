@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 15.3, 1,095 rules, 150 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 18.3, 1,147 rules, 180 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -718,6 +718,115 @@ instruction.
 Ledger reached `ledger_version` 15.3, 1,095 rules, 150 batches by the end of this run -- zero
 duplicate IDs verified after every single batch, 147 total Chronicle files. Genuinely open for
 whenever Abad wants it next: a fourth Alias Chronicle wave for any alias, a third territory-Chronicle
+entry for any of the 20 territories, or any other thread. No further wave or sweep starts
+automatically.
+
+**A fourth Alias Chronicle wave for all eleven aliases, plus a territory-Chronicle third-entry
+sweep, Batches 151-180, 2026-09-11 (`MCD-476` through `MCD-527`, 52 new Chronicles), under Abad's
+blanket authorization: "work on a fourth Alias wave and a third territory entry continuously
+uninterrupted this includes testing, committing, pushing to origin Main."**
+
+*Part one, Batches 151-161: a fourth Alias Chronicle wave for all eleven aliases (`MCD-476`-508,
+33 new Chronicles).* Each wave deliberately explored a genuine failure, a limit, or a fresh register
+never yet shown for that alias, continuing the discipline established across waves one through
+three:
+- **Bane (`MCD-476`-478).** The first genuine peer-level duel of his run; the first entry
+  dramatizing a real cost of his own cautious decision-making (two prisoners lost to a verification
+  delay); a child's unfiltered perspective stripping the reputation away entirely.
+- **The Trench Monarch (`MCD-479`-481).** A crushing hand injury testing the "digging his own
+  crown" ethos against physical vulnerability; a close-quarters solo-blade defense of unarmed
+  workers distinct from the prior powers-showcase entry; a rival organizer's harder method proving
+  complementary rather than inferior.
+- **The Industrial Myth (`MCD-482`-484).** A direct assassination attempt met without any weapon,
+  the most personal test yet of the unarmed ethos; a six-hour standoff reframing "combat intensity"
+  as pure psychological craft; a distant mining district independently replicating the tally method
+  from an incomplete secondhand account.
+- **The Blue-Collar Titan (`MCD-485`-487).** The first genuine structural-failure entry, where
+  decades of decay prove beyond even Kanja's skill to save; a detailed time-pressured Trinity rescue
+  against a flooding timer; a cross-class lecture to Trust engineers on tactile tunnel-reading.
+- **The Sovereign Ghost of the Great Sea (`MCD-488`-490).** The first genuine loss-at-sea, six crew
+  dead despite pushing past ordinary limits; a detailed night-boarding liberation of a slaver vessel;
+  a foreign nation's formal acknowledgment of the fleet's reputation beyond the Sovereign Trust
+  conflict.
+- **The Scourge (`MCD-491`-493).** A bonded worker who refuses liberation, forcing a reckoning with
+  consent versus coercion; a detailed full-gear combat showcase against a rival captain's direct
+  challenge; a reflective closer with Garren Hask on the persona's eventual, deliberately
+  unspecified end.
+- **The Crow King (`MCD-494`-496).** The first genuine failure, a deception that frightens
+  uninvolved bystanders; a detailed hybrid showcase combining the Braid with full Trinity combat for
+  the first time; the apprentice singer personally evolving the method past a cryptographer's
+  partial breakthrough.
+- **The Iron Bastard (`MCD-497`-499).** The first genuine misdiagnosis, injuring two Directorate
+  engineers; the doctrine's first naval application aboard a blockade ship's rigging; a student's
+  temptation and honest confession testing the doctrine's ethical transmission.
+- **The Lord of Embers (`MCD-500`-502).** The first genuine limit of "metabolizes punishment,"
+  where a forge is not rebuilt; a detection-and-combat showcase against an infiltrator sabotaging
+  from within the apprentice cohort; a woman rejected by conventional guilds finding merit-based
+  work at The Anvil.
+- **The Storm That Walks (`MCD-503`-505).** The first genuine loss on Kanja's own side from pushing
+  the timing margin too tight; a detailed three-fleet coordinated-assault showcase; Sephtis
+  beginning to train a successor forecaster for institutional redundancy.
+- **Captain (`MCD-506`-508).** The first no-clean-answer command dilemma between two endangered
+  groups; a detailed rescue strike freeing a coerced crew member's sister rather than punishing him;
+  a generational-transmission closer with Garren Hask's grandnephew, closing the full eleven-alias
+  fourth-wave run.
+
+Every named alias now has four completed waves (twelve Chronicles each, 132 total). No new named
+characters were introduced anywhere in this run.
+
+*Part two, Batches 162-180: a third Chronicle entry for every one of the 19 territories that had two
+(`MCD-509`-527), completing at-least-three-entry coverage across all 20 homage-era territories*
+(Xaragua already had four). One Chronicle per territory per batch, each deliberately testing a
+genuine limit, cost, growth, or complementary success case for that territory's signature ability
+rather than repeating a prior entry's shape:
+- **Areíto (`MCD-509`).** Kwame Ade mediates a decade-old tenant-association split that had outlived
+  its own cause -- patient, non-combat coalition work.
+- **Yara (`MCD-510`).** Yalokona convenes four unaligned groups into one caucus to pass a
+  flood-control measure, showing "Caucus" constructively rather than only blocking.
+- **Guanín (`MCD-511`).** Eri Kotoko lets a petty insult pass entirely unanswered, showing
+  deliberate restraint in "The Unanswered Blow" for the first time.
+- **Borikén (`MCD-512`).** Three impostors exploit "No Single Point"'s own ambiguity for extortion;
+  Guaní defeats them through patient questioning without ever revealing himself.
+- **Ide (`MCD-513`).** Ase documents theft by one of her own closest allies, establishing "Named and
+  Numbered" applies identically to friend and enemy.
+- **Kwan (`MCD-514`).** A genuine opponent talks himself out of his own position while preparing to
+  argue it, extending "The Invitation" into unplanned self-persuasion.
+- **Umoja (`MCD-515`).** Twelve genuinely organized workplaces walk out together, "One Fire"'s first
+  district-wide success, consistent with its established relationship-depth limit.
+- **Jibaro (`MCD-516`).** Five genuinely abandoned buildings are simultaneously occupied and become
+  permanently unreclaimable, proving "The Occupation" scales to multiple clean sites at once.
+- **Uhuru (`MCD-517`).** Set after Ofin's death: his successor discovers "The Override" did not pass
+  to him, confirming the ability was institutional to Ofin's own endurance, not the seat.
+- **Sankofa (`MCD-518`).** Baálé opens a community health clinic rather than let the still-unresolved
+  forged-letter conspiracy dictate his days -- the reserved thread left deliberately untouched.
+- **Aztlán (`MCD-519`).** A near-identical credit-exclusion grievance arises years after Iya's
+  walkout; Ollin corrects it immediately this time, a genuine growth entry that doesn't erase the
+  earlier loss.
+- **Atunbi (`MCD-520`).** A younger cohort presses for faster action; Oluwole negotiates an ongoing
+  accommodation between urgency and patience rather than favoring either extreme.
+- **Ijoko (`MCD-521`).** A genuine ally's well-reasoned critique nearly gets treated with the same
+  resilience Adwoa uses against deniable mockery; catching the mistake, she develops discernment.
+- **Orin (`MCD-522`).** A manipulative but non-commercial gathering fails to trigger "The Ark,"
+  extending its exclusion limit beyond commerce to manipulative intent generally.
+- **Kazi (`MCD-523`).** Scattered dockworker gangs with no literal assembly line still feel "The
+  Line Stops," generalizing the ability to any genuinely interdependent labor chain.
+- **Taifa (`MCD-524`).** A daughter's birth sends genuine joy rather than warning through "Kin at a
+  Distance," revealing the bond carries positive emotion as well as danger.
+- **Hekalu (`MCD-525`).** A bonded ally drifts from the network over a year of neglect; Adom renews
+  the connection, establishing "The Common Table" requires periodic renewal.
+- **Nyansa (`MCD-526`).** A younger organizer catches Adisa's own uncorrected past position; he
+  applies "The Long Correction" to himself for the first time.
+- **Kiti (`MCD-527`).** Owusu voluntarily and deliberately resigns his seat decades after the
+  illness that first revealed the ability's institutional nature, a permanent, self-determined loss
+  closing his arc and completing three-entry coverage for every territory.
+
+No new named characters were introduced in any territory entry. The two deliberately reserved
+threads (Sankofa's unresolved forged-letter conspiracy, `PH2-021`; the Kanja/Arturo Salvatierra Duho
+long-arc, `PH2-061`/`062`) were left untouched throughout, per standing instruction.
+
+Ledger reached `ledger_version` 18.3, 1,147 rules, 180 batches by the end of this run -- zero
+duplicate IDs verified after every single batch, 199 total Chronicle files. Genuinely open for
+whenever Abad wants it next: a fifth Alias Chronicle wave for any alias, a fourth territory-Chronicle
 entry for any of the 20 territories, or any other thread. No further wave or sweep starts
 automatically.
 
