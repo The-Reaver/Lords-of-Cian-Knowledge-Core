@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "26.8",
+  "ledger_version": "26.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2064,6 +2064,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document",
       "rule_count": 3,
       "note": "The Industrial Myth's thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Three genuinely new registers, kept strictly unarmed throughout: the method's first case turned inward on a workers' own mutual-aid fund rather than any employer, extending the never-flinch impartiality discipline onto the crew's own community (\"The Fund They Kept for Themselves,\" MCD-1397); the method's first workplace-fatality liability case, extending MCD-1172's injury framework into a death no settlement can fully redress (\"The Debt a Death Left Open,\" MCD-1398); and the method's first fully solo case run start-to-finish by a trained district auditor with Kanja and Ezio absent throughout, the fullest test yet of MCD-483's 'replicable rather than personal' theme, closing the wave (\"The Case They Never Touched,\" MCD-1399). No new named characters were introduced -- all three entries use unnamed figures, consistent with the alias's established convention. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
+    },
+    {
+      "batch": 265,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 3,
+      "note": "Bane's thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Pushes into three registers not yet used across Bane's prior 90 entries: a whiteout blizzard that strips Sovereign Eyes' visual enhancement to nothing, forcing a full-Trinity ambush defense to run entirely on sound and vibration through Cadence Ruin, Mafesto's Kinetic Transfer System, and Obsidian Malice; a genuine trusted-insider betrayal, discovered from inside the column rather than exposed by an outside enemy, where a coerced guide's months-long small leaks are met with an extraction rather than retribution; and a direct payoff to the Toran generational-transmission thread (MCD-1099, MCD-1061), the first entry where a trained subordinate runs a full operation with neither Corren Halst nor Bane present at all. No new named characters -- Corren Halst, Danne Sok, Efa Gol, and Toran (already locked, MCD-1099) reused; collision-checked clean before drafting. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
     }
   ],
   "rules": [
@@ -16376,6 +16383,27 @@
       "id": "MCD-1399",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Case They Never Touched\" (full narrative text at docs/lords-of-cian/chronicles/the-case-they-never-touched.md), Industrial Myth Alias Chronicle XCIII, wave 31, closing the wave. The method's first case run entirely solo by a trained district auditor with neither Kanja nor Ezio present at any stage -- the report reaches them four weeks after the case has already closed, cross-referenced and posted to the same standard as their own work -- directly testing MCD-483's 'replicable rather than personal' theme at its fullest extent, distinct from MCD-483 in that this auditor was formally trained by the crew rather than working from an incomplete secondhand account. No new named characters; the district auditor is unnamed, consistent with the collectively-unnamed trained-auditor convention established at MCD-1174. Strictly unarmed and non-combat throughout. Closes the Industrial Myth's thirty-first wave (with \"The Fund They Kept for Themselves,\" MCD-1397, and \"The Debt a Death Left Open,\" MCD-1398).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1391",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The White That Took the Map Away\" (full narrative text at docs/lords-of-cian/chronicles/the-white-that-took-the-map-away.md), Bane Alias Chronicle XCI, wave 31. New environmental register: a whiteout blizzard strips Sovereign Eyes' visual enhancement to nothing against a wall of falling snow, forcing a detailed full-Trinity ambush defense to run entirely on sound and vibration -- Cadence Ruin locates twelve ambushers by the wrongness of their stillness, Mafesto's Kinetic Transfer System redirects arrows by feel, and Obsidian Malice discharges at sound alone, with zero visual confirmation of any target across the entire engagement. No new named characters -- Corren Halst and Danne Sok reused. Opens wave 31.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1392",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Guide Who Sold Them an Inch at a Time\" (full narrative text at docs/lords-of-cian/chronicles/the-guide-who-sold-them-an-inch-at-a-time.md), Bane Alias Chronicle XCII, wave 31. First trusted-insider betrayal entry: a four-month guide, coerced through a held hostage rather than acting from malice, has fed the Directorate small operational details, discovered from inside the column by Efa Gol's pattern-reading rather than exposed by an outside enemy. VB-060's 'Already-Finished Negotiation' presence trait produces relief rather than fear or capitulation for the first time, against a man already broken by a burden rather than someone resisting or defeated. Resolution is an extraction addressing the coercion's root cause, not punishment. No new named characters -- the guide and his sister are unnamed; Efa Gol and Corren Halst reused.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1393",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Nights Toran Commanded Alone\" (full narrative text at docs/lords-of-cian/chronicles/the-nights-toran-commanded-alone.md), Bane Alias Chronicle XCIII, wave 31, closing wave 31. Direct payoff to 'The Lieutenant Corren Halst Chose' (MCD-1099) and 'The Weight Maret Vos Chose to Carry' (MCD-1061): Toran requests and runs a full extraction operation with neither Corren Halst nor Bane present at all, the first fully unsupervised test of the crew's trained discipline. His own second-set-of-eyes verification practice (extending MCD-1059's standing order) holds independently, and he talks himself out of sending for confirmation, an explicit, unforced parallel to VB-060's 'Already-Finished Negotiation' presence trait, framing it as a teachable discipline rather than a quality unique to Bane. No new named characters -- Toran (MCD-1099) and Corren Halst reused. Closes wave 31.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
