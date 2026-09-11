@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "18.6",
+  "ledger_version": "18.7",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1490,6 +1490,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Industrial Myth's fifth three-entry Alias Chronicle wave (MCD-534 through MCD-536). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
+    },
+    {
+      "batch": 184,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Blue-Collar Titan's fifth three-entry Alias Chronicle wave (MCD-537 through MCD-539). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9502,6 +9509,27 @@
       "id": "MCD-536",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Pell Ostra Noticed\" (full narrative text at docs/lords-of-cian/chronicles/what-pell-ostra-noticed.md), the Industrial Myth Alias Chronicle XV, closing the fifth wave. Pell Ostra (already locked) volunteers to guard a tally operation and reflects on what it means to protect a deliberately unarmed persona -- ensuring nothing ever gets close enough to test the principle, rather than intercepting threats Kanja would otherwise handle himself. No new named characters beyond the already-locked Pell Ostra. Closes the Industrial Myth's fifth three-Chronicle wave (with 'The Numbers He Couldn't Prove,' MCD-534, and 'The District Chain,' MCD-535).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-537",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Mine That Wouldn't Give Them Up\" (full narrative text at docs/lords-of-cian/chronicles/the-mine-that-wouldnt-give-them-up.md), the Blue-Collar Titan Alias Chronicle XIII, first entry in the fifth wave. Directorate engineers deliberately trigger a mine collapse to trap union organizers and guard every known exit; a detailed combined rescue-and-combat showcase has Kanja find and use an unmapped secondary shaft the collapse itself opened, rescuing all twelve organizers and disarming the guards before they realize the rescue already happened. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-538",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Monument He Refused to Read Dishonestly\" (full narrative text at docs/lords-of-cian/chronicles/the-monument-he-refused-to-read-dishonestly.md), the Blue-Collar Titan Alias Chronicle XIV. A structurally sound Directorate monument is hated by the district; Kanja refuses his own crew's request to fabricate a safety condemnation to justify tearing it down, insisting the district organize an honest political removal instead -- establishing that the alias's structural-honesty principle holds even against a cause he personally supports. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-539",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Guild That Made Him One of Their Own\" (full narrative text at docs/lords-of-cian/chronicles/the-guild-that-made-him-one-of-their-own.md), the Blue-Collar Titan Alias Chronicle XV, closing the fifth wave. The tradesmen's guild from 'The Guild Master's Test' (MCD-409) votes Kanja honorary membership, explicitly crediting his accumulated honest failures (the eastern gallery collapse, MCD-485; the admitted rushed reheat, MCD-409) rather than only his successes as the basis for the honor. No new named characters. Closes the Blue-Collar Titan's fifth three-Chronicle wave (with 'The Mine That Wouldn't Give Them Up,' MCD-537, and 'The Monument He Refused to Read Dishonestly,' MCD-538).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
