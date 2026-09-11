@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "15.8",
+  "ledger_version": "15.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1294,6 +1294,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Sovereign Ghost of the Great Sea's fourth three-entry Alias Chronicle wave (MCD-488 through MCD-490). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 156,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Scourge's fourth three-entry Alias Chronicle wave (MCD-491 through MCD-493). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -8984,6 +8991,27 @@
       "id": "MCD-490",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Flag From a Foreign Sea\" (full narrative text at docs/lords-of-cian/chronicles/the-flag-from-a-foreign-sea.md), the Sovereign Ghost of the Great Sea Alias Chronicle XII, closing the fourth wave. An envoy from a nation entirely outside Sovereign Trust waters formally acknowledges the fleet's reputation for restraint, offering safe harbor in good faith -- the first foreign contact the fleet has received, its letter joining Garren Hask's already-established ghost-fleet ledger (MCD-445). No new named characters. Closes the Sovereign Ghost's fourth three-Chronicle wave (with 'The Ship He Couldn't Reach in Time,' MCD-488, and 'The Manifest Written in Chains,' MCD-489).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-491",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The One Who Didn't Want Freedom\" (full narrative text at docs/lords-of-cian/chronicles/the-one-who-didnt-want-freedom.md), the Scourge Alias Chronicle X, first entry in the fourth wave. Set roughly age 110: a worker under a legitimately consented debt-bondage contract refuses liberation, forcing Kanja to recognize the difference between coercion and chosen hardship -- the first genuine moral-complexity entry testing the limits of his established rescue pattern. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-492",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Crew That Challenged the Crescent\" (full narrative text at docs/lords-of-cian/chronicles/the-crew-that-challenged-the-crescent.md), the Scourge Alias Chronicle XI. Set roughly age 130: a detailed combat showcase against a rival pirate captain's three-ship squadron assembled specifically to test the Scourge's dominance over the Gale Straits, sequencing the full gear system (Forge-Coat, Sovereign Eyes, Ironhand Gauntlets, Ironfall Boots, Smoke System) with Mafesto and Obsidian Malice -- Onyx of Oblivion correctly absent per its L9 seal. The rival captain is disarmed and released rather than killed. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-493",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Ends When the Mask Comes Off\" (full narrative text at docs/lords-of-cian/chronicles/what-ends-when-the-mask-comes-off.md), the Scourge Alias Chronicle XII, closing the fourth wave. Set roughly age 300: an elderly but still-active Garren Hask and Kanja reflect on the eventual, deliberately unspecified end of the Scourge persona and what comes after it, extending Hask's already-locked ghost-fleet/Scourge-era ledger role (MCD-414). No new named characters beyond the already-locked Garren Hask. Closes the Scourge's fourth three-Chronicle wave (with 'The One Who Didn't Want Freedom,' MCD-491, and 'The Crew That Challenged the Crescent,' MCD-492).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
