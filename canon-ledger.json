@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "18.8",
+  "ledger_version": "18.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1504,6 +1504,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Sovereign Ghost of the Great Sea's fifth three-entry Alias Chronicle wave (MCD-540 through MCD-542). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
+    },
+    {
+      "batch": 186,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Scourge's fifth three-entry Alias Chronicle wave (MCD-543 through MCD-545). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9558,6 +9565,27 @@
       "id": "MCD-542",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Callum Breck Remembered of the Water\" (full narrative text at docs/lords-of-cian/chronicles/what-callum-breck-remembered-of-the-water.md), the Sovereign Ghost of the Great Sea Alias Chronicle XV, closing the fifth wave. Callum Breck (already locked) shares the previously untold private context behind his voice-recovery at Ghost Harbor -- months spent silently at the same rail, the sea itself holding his silence until he no longer needed it -- extending his already-locked arc (CC-116, MCD-397). No new named characters beyond the already-locked Callum Breck. Closes the Sovereign Ghost's fifth three-Chronicle wave (with 'The Captains Who Chose a Side,' MCD-540, and 'The Conscripts Who Never Wanted the Fight,' MCD-541).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-543",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Armada at Dead Reckoning\" (full narrative text at docs/lords-of-cian/chronicles/the-armada-at-dead-reckoning.md), the Scourge Alias Chronicle XIII, first entry in the fifth wave. Set roughly age 150: a detailed large-scale fleet battle, eight ships against a twelve-ship Directorate armada near the shoals of Dead Reckoning, using the full gear system (Forge-Coat, Sovereign Eyes, Ironhand Gauntlets, Ironfall Boots) and local navigational knowledge to ground three enemy ships and disable the flagship -- Onyx of Oblivion correctly absent per its L9 seal. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-544",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Sea Took Anyway\" (full narrative text at docs/lords-of-cian/chronicles/what-the-sea-took-anyway.md), the Scourge Alias Chronicle XIV. Set roughly age 160: a cornered slaving captain deliberately scuttles his own ship rather than surrender it, drowning eleven captives before the Scourge can reach them despite freeing sixty-one -- the first genuine, unprevented rescue failure of the alias's run, recorded honestly in Garren Hask's private ledger rather than smoothed into the legend. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-545",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Grandchildren of the Freed\" (full narrative text at docs/lords-of-cian/chronicles/the-grandchildren-of-the-freed.md), the Scourge Alias Chronicle XV, closing the fifth wave. Set roughly age 200: the Scourge visits, unrecognized, a settlement founded by Salt Keep survivors (MCD-446) generations earlier, finding the accurate account preserved intact across generations and deliberately leaving without revealing his identity. No new named characters. Closes the Scourge's fifth three-Chronicle wave (with 'The Armada at Dead Reckoning,' MCD-543, and 'What the Sea Took Anyway,' MCD-544).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
