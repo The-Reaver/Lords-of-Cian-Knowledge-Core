@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "14.1",
+  "ledger_version": "14.2",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1175,6 +1175,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks Captain's third three-entry Alias Chronicle wave (MCD-461 through MCD-463), completing a third wave for all eleven aliases. Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- completes third waves for all eleven aliases (Bane, Trench Monarch, Industrial Myth, Blue-Collar Titan, Sovereign Ghost of the Great Sea, the Scourge, the Crow King, the Iron Bastard, the Lord of Embers, the Storm That Walks, and Captain)."
+    },
+    {
+      "batch": 139,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Yara Chronicle II (MCD-464). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles, giving a second entry to territories that still only had one."
     }
   ],
   "rules": [
@@ -8676,6 +8683,13 @@
       "id": "MCD-463",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Crew Toasted To\" (full narrative text at docs/lords-of-cian/chronicles/what-the-crew-toasted-to.md), Captain Alias Chronicle IX, closing the third wave. An informal crew toast tradition gathers Corren Halst, Pell Ostra, Garren Hask, and Efa Gol (all already locked), each invoking an already-locked alias-era phrase, closing not only Captain's third wave but the full eleven-alias third-wave run with a warm, collective scene. No new named characters. Closes Captain's third three-Chronicle wave (with 'The Day the Whole Crew Fought as One,' MCD-461, and 'The New Hand's First Night,' MCD-462).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-464",
+      "category": "phase2-territory-chronicle",
+      "statement": "\"The Price She Wouldn't Let Them Pay\" (full narrative text at docs/lords-of-cian/chronicles/the-price-she-wouldnt-let-them-pay.md), Yara Chronicle II. A developer offers full clinic funding in exchange for Yalokona's public silence on a displacing zoning variance; she refuses, the variance passes anyway and the clinic's funding is delayed eighteen months, dramatizing the real cost of 'Unbought and Unbossed' (PH2-006) as a genuine defeat rather than a clean win. An unnamed Kanja is present in the gallery, uninvolved. No new named characters. Second Yara territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
