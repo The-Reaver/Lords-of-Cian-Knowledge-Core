@@ -26,7 +26,7 @@ BATCH_NOTE = (
 NEW_RULES = [
     {
         "id": "MCD-1026",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The Bridge He Refused to Blow\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-bridge-he-refused-to-blow.md), Bane Alias Chronicle "
@@ -47,7 +47,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1027",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The Officer Who Wasn't Lying\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-officer-who-wasnt-lying.md), Bane Alias Chronicle LIX, "
@@ -65,7 +65,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1028",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"What the Council Decided\" (full narrative text at "
             "docs/lords-of-cian/chronicles/what-the-council-decided.md), Bane Alias Chronicle LX, "

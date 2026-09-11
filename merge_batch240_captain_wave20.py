@@ -32,7 +32,7 @@ BATCH_NOTE = (
 NEW_RULES = [
     {
         "id": "MCD-1056",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The Charter They Finally Wrote\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-charter-they-finally-wrote.md), Captain Alias Chronicle "
@@ -54,7 +54,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1057",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"What Sera Chose Instead\" (full narrative text at "
             "docs/lords-of-cian/chronicles/what-sera-chose-instead.md), Captain Alias Chronicle LIX, "
@@ -74,7 +74,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1058",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The First Job That Wasn't the War\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-first-job-that-wasnt-the-war.md), Captain Alias Chronicle "

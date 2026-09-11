@@ -28,7 +28,7 @@ BATCH_NOTE = (
 NEW_RULES = [
     {
         "id": "MCD-1038",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The Ship They Meant to Sink\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-ship-they-meant-to-sink.md), Sovereign Ghost of the "
@@ -51,7 +51,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1039",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"What Dol Maren Passed Down\" (full narrative text at "
             "docs/lords-of-cian/chronicles/what-dol-maren-passed-down.md), Sovereign Ghost of the "
@@ -73,7 +73,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1040",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The Pact Signed in Salt Water\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-pact-signed-in-salt-water.md), Sovereign Ghost of the "

@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 23.2, 1,688 rules, 229 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 24.3, 1,721 rules, 240 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1209,6 +1209,46 @@ deliberate first for the sub-series, judged too private and personal a moment ev
 witness. Abad's approval, quoted verbatim: "Approve as drafted, keep Kanja out." Ledger reached
 `ledger_version` 23.2, 1,688 rules, 229 batches. The reveal entry itself remains unscheduled --
 next up only when Abad points at it again.
+
+**A twentieth Alias Chronicle wave for all eleven aliases, Batches 230-240, 2026-09-11 (`MCD-1026`
+through `MCD-1058`, 33 new Chronicles).** Asked for "another alias wave," Bane's wave 20 was drafted
+and presented individually first, matching the established wave-5 precedent -- three entries
+("The Bridge He Refused to Blow," a precision-constraint full-Trinity bridge-defense showcase;
+"The Officer Who Wasn't Lying," extending `VB-060`'s presence trait in reverse against a genuinely
+sincere defector; "What the Council Decided," the payoff to wave 19's tribunal entry) -- then
+approved with "doorway for all the aliases that remain," read as approval of Bane's wave plus blanket
+authorization to continue the same wave for the remaining ten. The other ten aliases were drafted via
+ten parallel background agents, each given explicit instructions to read its own alias's complete
+57-entry prior history directly from the ledger before drafting (rather than a hand-summarized
+recap), collision-check before inventing any new proper noun, and write both the Chronicle files and
+an unexecuted merge script for the orchestrating session to review and run -- agents were explicitly
+barred from running their own scripts or touching canon-ledger.json/git, since ten agents writing to
+the same shared file in parallel would race. A few representative new registers: Trench Monarch's
+"What the Black Ledger Was Owed" shows the mark lifted from a living debtor for the first time;
+Industrial Myth's "The Workshop That Couldn't Afford to Owe" is the method's first case against a
+sympathetic employer with no chain above him to trace the debt to; Blue-Collar Titan closes with a
+two-decade retrospective bookending its own wave-1/2 openers; Sovereign Ghost of the Great Sea's "The
+Ship They Meant to Sink" is the alias's first plague/quarantine-crisis register; the Scourge's "The
+Three-Cornered Fight" is its first three-way engagement (slavers and an unrelated hostile Trust
+patrol, neither aware of the other); the Crow King's "The Vault That Held No Light" is the alias's
+first total-darkness combat setting; the Iron Bastard's "The Pass Strung on Cable and Air" is its
+first high-altitude application, with thin air as a new environmental attenuator; the Lord of Embers'
+"What the Slag Left Behind" dramatizes a never-shown limit of "metabolizes punishment" --
+self-inflicted, permanently unrecovered collateral harm; the Storm That Walks' full wave is set after
+Sephtis's already-established death and succession, closing on the successor's own deliberate,
+undramatic retirement handoff to a third-generation student; and Captain's "What Sera Chose Instead"
+is the first entry in the whole sub-series where a founding-crew child declines to join the crew. Two
+new minor named characters were introduced across all 33 entries (Sena, a one-scene Scourge-era crew
+member; Orenn, a one-scene healer-mentor in the Captain wave), both collision-checked clean; every
+other entry reused already-locked crew. One real inconsistency was caught and fixed during
+consolidation: five of the ten agents used the category value `"alias-chronicle"` (a leftover from
+the task template's placeholder) instead of the ledger's actual established convention,
+`"kanja-alias-chronicle"` (626 prior entries); corrected in the affected merge scripts before running
+them, and in the three already-locked Bane wave-20 rules directly. Every named alias now has twenty
+complete waves -- sixty Chronicles each, 660 Alias Chronicles total. Ledger reached `ledger_version`
+24.3, 1,721 rules, 240 batches -- zero duplicate IDs and zero orphaned file references verified after
+the full run. Per the standing pacing rule, the next wave for any alias starts only when Abad points
+at it.
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This

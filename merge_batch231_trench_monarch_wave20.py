@@ -29,7 +29,7 @@ BATCH_NOTE = (
 NEW_RULES = [
     {
         "id": "MCD-1029",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The Lie Told in His Name\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-lie-told-in-his-name.md), The Trench Monarch Alias "
@@ -50,7 +50,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1030",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"What the Black Ledger Was Owed\" (full narrative text at "
             "docs/lords-of-cian/chronicles/what-the-black-ledger-was-owed.md), The Trench Monarch "
@@ -73,7 +73,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1031",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The First Class at Warehouse Twelve\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-first-class-at-warehouse-twelve.md), The Trench "

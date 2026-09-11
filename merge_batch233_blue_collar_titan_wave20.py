@@ -30,7 +30,7 @@ BATCH_NOTE = (
 NEW_RULES = [
     {
         "id": "MCD-1035",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"What the Smoke Was Hiding\" (full narrative text at "
             "docs/lords-of-cian/chronicles/what-the-smoke-was-hiding.md), the Blue-Collar Titan Alias "
@@ -50,7 +50,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1036",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The Fitting He Carried Forward\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-fitting-he-carried-forward.md), the Blue-Collar Titan "
@@ -70,7 +70,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1037",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"What the Years Hadn't Moved\" (full narrative text at "
             "docs/lords-of-cian/chronicles/what-the-years-hadnt-moved.md), the Blue-Collar Titan "

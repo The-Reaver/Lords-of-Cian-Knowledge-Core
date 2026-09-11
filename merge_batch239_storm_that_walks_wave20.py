@@ -28,7 +28,7 @@ BATCH_NOTE = (
 NEW_RULES = [
     {
         "id": "MCD-1053",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The Night They Came for the School\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-night-they-came-for-the-school.md), Storm That Walks "
@@ -52,7 +52,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1054",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"The Reading the Third Student Made Alone\" (full narrative text at "
             "docs/lords-of-cian/chronicles/the-reading-the-third-student-made-alone.md), Storm That "
@@ -75,7 +75,7 @@ NEW_RULES = [
     },
     {
         "id": "MCD-1055",
-        "category": "alias-chronicle",
+        "category": "kanja-alias-chronicle",
         "statement": (
             "\"What Outlived the Woman Who Carried It\" (full narrative text at "
             "docs/lords-of-cian/chronicles/what-outlived-the-woman-who-carried-it.md), Storm That "
