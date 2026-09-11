@@ -1094,8 +1094,29 @@ inconsistency) updated to record the resolution rather than rewritten, since its
 text never used a wrong pronoun. Three ledger statements corrected in place (`MCD-593`, `MCD-751`,
 `MCD-778`); twelve Chronicle files corrected at the prose level with no ledger-statement change
 needed (they carried no pronoun in the statement text itself). No new rules, no plot changes -- pure
-reconciliation. Ledger reached `ledger_version` 22.9, still 1,644 rules, 226 batches. A Google Drive
-sync for the renamed/corrected files is still owed, same as any local-only edit in this session.
+reconciliation. Ledger reached `ledger_version` 22.9, still 1,644 rules, 226 batches.
+
+**Cleanup pass, same day.** A follow-up read-through caught one more missed Dol Maren pronoun in
+`MCD-794` ("She tapped the notebook" -> "He tapped") that had survived the original sweep because it
+wasn't adjacent to a "Dol Maren" name mention -- fixed and committed separately, no ledger-statement
+change needed. The 13 Drive docs for every file this reconciliation touched (the 12 corrected files
+plus the-wind-he-read-better.md's rename) were then synced: since this session's Drive tools can only
+update a file's title/parent, not its body content, each was replaced by trashing the stale doc and
+creating a fresh one with the same title in the same alias folder (Bane x2, Captain x2, Trench
+Monarch x1, Industrial Myth x1, Sovereign Ghost of the Great Sea x7), content verified against the
+corrected local file before each old doc was trashed. No sync debt remains from Batch 226.
+
+Separately noted, not yet acted on: a broader, much older sync gap exists between the local
+`canon-ledger.json` (1.7MB as of this cleanup pass) and its described Claude Project mirror --
+Google Drive search turned up three stale `canon-ledger.json` copies (roughly 325-329KB each, last
+touched 2026-08-24/25/31, predating almost this entire session's Phase 2/Chronicle output) sitting in
+three different folders, one of them just a "Downloads" folder and two identically-named
+`lords_of_cian_canon` folders with different parents -- genuinely ambiguous which, if any, is the
+actual live Project mirror described in this file's own opening section, as opposed to old manual
+uploads. Given the risk of overwriting the wrong one or adding a fourth stale copy, this was left
+alone rather than guessed at; every session before this one has hit the same "no way to reach the
+Project" wall per this file's own standing instruction, and nothing suggests that changed here. Worth
+a direct decision from Abad on which location (if any) is real before any session touches it.
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
