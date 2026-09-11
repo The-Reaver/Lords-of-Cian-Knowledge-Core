@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "26.9",
+  "ledger_version": "27.0",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2071,6 +2071,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document",
       "rule_count": 3,
       "note": "Bane's thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Pushes into three registers not yet used across Bane's prior 90 entries: a whiteout blizzard that strips Sovereign Eyes' visual enhancement to nothing, forcing a full-Trinity ambush defense to run entirely on sound and vibration through Cadence Ruin, Mafesto's Kinetic Transfer System, and Obsidian Malice; a genuine trusted-insider betrayal, discovered from inside the column rather than exposed by an outside enemy, where a coerced guide's months-long small leaks are met with an extraction rather than retribution; and a direct payoff to the Toran generational-transmission thread (MCD-1099, MCD-1061), the first entry where a trained subordinate runs a full operation with neither Corren Halst nor Bane present at all. No new named characters -- Corren Halst, Danne Sok, Efa Gol, and Toran (already locked, MCD-1099) reused; collision-checked clean before drafting. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
+    },
+    {
+      "batch": 266,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 3,
+      "note": "The Trench Monarch's thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Three fresh registers, none repeating a prior wave's story shape: Danne Sok's first dedicated in-era entry within this alias's own run (a silent counter-intelligence catch, distinct from his already-locked Bane-alias origin memory, MCD-530); a new predatory-lending institutional thread answered with honest financial infrastructure (an interest-free emergency bridge fund) rather than confrontation, including a real operational cost; and the wave's first entirely celebratory, conflict-free entry, a dockworker wedding closing the wave on a warm note. No new named characters across all three entries -- the informant/courier, the lender and borrowers, and the bride and groom are all unnamed, consistent with this sub-series' strong preference for continuity depth over new names. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
     }
   ],
   "rules": [
@@ -16404,6 +16411,27 @@
       "id": "MCD-1393",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Nights Toran Commanded Alone\" (full narrative text at docs/lords-of-cian/chronicles/the-nights-toran-commanded-alone.md), Bane Alias Chronicle XCIII, wave 31, closing wave 31. Direct payoff to 'The Lieutenant Corren Halst Chose' (MCD-1099) and 'The Weight Maret Vos Chose to Carry' (MCD-1061): Toran requests and runs a full extraction operation with neither Corren Halst nor Bane present at all, the first fully unsupervised test of the crew's trained discipline. His own second-set-of-eyes verification practice (extending MCD-1059's standing order) holds independently, and he talks himself out of sending for confirmation, an explicit, unforced parallel to VB-060's 'Already-Finished Negotiation' presence trait, framing it as a teachable discipline rather than a quality unique to Bane. No new named characters -- Toran (MCD-1099) and Corren Halst reused. Closes wave 31.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1394",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Danne Sok Heard Before Anyone Else\" (full narrative text at docs/lords-of-cian/chronicles/what-danne-sok-heard-before-anyone-else.md), Trench Monarch Alias Chronicle XCI, wave 31. Rebellion era, pre-Black-Trench. Danne Sok's first dedicated in-era entry within the Trench Monarch's own run, distinct from his already-locked Bane-alias origin memory (MCD-530): his established silent-vigilance characterization is grounded in a concrete act, quietly identifying and removing a Trust-planted informant among new recruits through pattern-reading alone, no dialogue exchanged with the informant or his courier at any point. No new named characters -- the informant and courier are unnamed. First entry in the Trench Monarch's thirty-first wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1395",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Lender Who Named His Own Price\" (full narrative text at docs/lords-of-cian/chronicles/the-lender-who-named-his-own-price.md), Trench Monarch Alias Chronicle XCII, wave 31. Rebellion era, pre-Black-Trench. A new institutional register distinct from the already-locked licensing/charter/court threads: a predatory moneylender preys on workers waiting on slow but honest tally verification; rather than confronting him, Kanja and Garren Hask build a parallel interest-free emergency bridge fund from the crew's own resources, undercutting his usury through competition, not force. The fund runs dry twice, forcing Hask to triage the most urgent claims first -- a real operational cost, not a frictionless win. No new named characters -- the lender and the four borrowers are unnamed. Second entry in the Trench Monarch's thirty-first wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1396",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Wedding at the Third Canal Bend\" (full narrative text at docs/lords-of-cian/chronicles/the-wedding-at-the-third-canal-bend.md), Trench Monarch Alias Chronicle XCIII, wave 31, closing the wave. Rebellion era, pre-Black-Trench. The wave's first entirely conflict-free, celebratory entry -- a dockworker wedding at the third canal bend (first named in MCD-1147), where Kanja attends as an ordinary, unremarkable guest with no ceremonial role. Reuses the full established crew roster (Corren Halst, Danne Sok, Maret Vos, Garren Hask, Callum Breck, Efa Gol, Pell Ostra) in warm, unremarkable moments. No new named characters -- the bride and groom are unnamed. Closes the Trench Monarch's thirty-first wave (with \"What Danne Sok Heard Before Anyone Else,\" MCD-1394, and \"The Lender Who Named His Own Price,\" MCD-1395).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
