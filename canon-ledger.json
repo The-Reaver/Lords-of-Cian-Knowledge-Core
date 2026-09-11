@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "14.6",
+  "ledger_version": "14.7",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1210,6 +1210,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Jibaro Chronicle II (MCD-468). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
+    },
+    {
+      "batch": 144,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Atunbi Chronicle II (MCD-469). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin\" -- item #2, more territory Chronicles."
     }
   ],
   "rules": [
@@ -8746,6 +8753,13 @@
       "id": "MCD-468",
       "category": "phase2-territory-chronicle",
       "statement": "\"The Building That Wouldn't Choose a Side\" (full narrative text at docs/lords-of-cian/chronicles/the-building-that-wouldnt-choose-a-side.md), Jibaro Chronicle II. Omoba occupies a neighborhood schoolhouse with a genuinely mixed history of real community benefit and real neglect; 'The Occupation' (PH2-042) fails to activate, establishing that its protection requires genuine moral clarity ('nothing to be ashamed of') and withholds itself from morally mixed institutions, forcing a slower conventional negotiation instead. An unnamed Kanja is present throughout, uninvolved. No new named characters. Second Jibaro territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-469",
+      "category": "phase2-territory-chronicle",
+      "statement": "\"What Patience Actually Grows\" (full narrative text at docs/lords-of-cian/chronicles/what-patience-actually-grows.md), Atunbi Chronicle II. A slow, years-long bureaucratic reclassification effort against the garden plays directly to 'Don't Move, Improve' (PH2-025)'s own timescale, and Oluwole defeats it decisively through four consecutive years of documented cultivation -- a deliberate balancing entry contrasting the speed-blind-spot failure of Chronicle I (MCD-348). An unnamed Kanja watches several hearings from the gallery, uninvolved. No new named characters. Second Atunbi territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
