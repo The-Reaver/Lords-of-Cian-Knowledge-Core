@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "17.8",
+  "ledger_version": "17.9",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1434,6 +1434,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Orin Chronicle III (MCD-522). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 176,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Kazi Chronicle III (MCD-523). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9348,6 +9355,13 @@
       "id": "MCD-522",
       "category": "phase2-territory-chronicle",
       "statement": "Orin Chronicle III, \"What the Ark Wouldn't Lend Itself To\" (full narrative text at docs/lords-of-cian/chronicles/orin-chronicle-iii-what-the-ark-wouldnt-lend-itself-to.md). A political operator arranges a free, non-commercial gathering to exploit 'The Ark' (PH2-029)'s communal binding toward a predetermined vote; the binding fails to take, extending the ability's known commercial-exclusion limit into a second failure mode -- manipulative intent also prevents it, suggesting the mechanism requires genuine communal choice rather than merely an absence of money. An unnamed Kanja is present, uninvolved. No new named characters. Third Orin territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-523",
+      "category": "phase2-territory-chronicle",
+      "statement": "Kazi Chronicle III, \"The Line That Wasn't a Line\" (full narrative text at docs/lords-of-cian/chronicles/kazi-chronicle-iii-the-line-that-wasnt-a-line.md). A dockworker quota dispute tests whether 'The Line Stops' (PH2-051) reaches scattered dock gangs with no literal assembly-line connection; it does, generalizing the ability to any genuinely structurally interdependent labor chain regardless of its physical shape, with Kunle (already locked, MCD-363) offering the working theory. An unnamed Kanja is present, uninvolved. No new named characters. Third Kazi territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
