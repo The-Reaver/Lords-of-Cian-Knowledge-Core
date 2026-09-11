@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "19.4",
+  "ledger_version": "19.5",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1546,6 +1546,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks Captain's fifth three-entry Alias Chronicle wave (MCD-558 through MCD-560), completing a fifth wave for all eleven aliases. Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\" Completes fifth waves for all eleven aliases (Bane, Trench Monarch, Industrial Myth, Blue-Collar Titan, Sovereign Ghost of the Great Sea, the Scourge, the Crow King, the Iron Bastard, the Lord of Embers, the Storm That Walks, and Captain)."
+    },
+    {
+      "batch": 192,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 30,
+      "note": "Locks the Storm That Walks' sixth through fifteenth Alias Chronicle waves (MCD-561 through MCD-590, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
     }
   ],
   "rules": [
@@ -9726,6 +9733,216 @@
       "id": "MCD-560",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Efa Gol Saw From the Start\" (full narrative text at docs/lords-of-cian/chronicles/what-efa-gol-saw-from-the-start.md), Captain Alias Chronicle XVIII, closing the fifth wave. Efa Gol (already locked, present since Warehouse Twelve) offers a synthesizing reflection across every alias Kanja has carried, explaining why 'Captain' -- the name his own crew chose rather than one assigned by fear or classification -- means the most to the people who lived every day of the war alongside him. No new named characters beyond the already-locked Efa Gol. Closes Captain's fifth three-Chronicle wave (with 'The Nine Days Nobody Slept,' MCD-558, and 'The Enemy Who Asked to Stay,' MCD-559).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-561",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Days Without Wind\" (full narrative text at docs/lords-of-cian/chronicles/the-days-without-wind.md), the Storm That Walks Alias Chronicle XVI, wave 6 of ten (waves 6-15). A two-week dead calm gives Sephtis nothing to forecast; a blockade-runner interception is decided by pure rowed endurance instead of any storm-timing edge, establishing the doctrine's core limit: it needs weather to exist.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-562",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fight With Nowhere to Hide\" (full narrative text at docs/lords-of-cian/chronicles/the-fight-with-nowhere-to-hide.md), the Storm That Walks Alias Chronicle XVII, wave 6 of ten (waves 6-15). Full daylight, no storm cover -- Onyx adapts Whisper of Shadows to stillness instead of rain, Mafesto and Obsidian Malice fight fully visible, proving the Trinity isn't dependent on weather to be dangerous.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-563",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What She Called Before the Silence\" (full narrative text at docs/lords-of-cian/chronicles/what-she-called-before-the-silence.md), the Storm That Walks Alias Chronicle XVIII, wave 6 of ten (waves 6-15). Sephtis's successor makes her first forecast of an absence of weather -- a genuinely new kind of call, deepening her arc as his trained successor.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-564",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Man Who Called Him a Liar\" (full narrative text at docs/lords-of-cian/chronicles/the-man-who-called-him-a-liar.md), the Storm That Walks Alias Chronicle XIX, wave 7 of ten (waves 6-15). A Trust weather-service director publicly disputes the doctrine's legitimacy; settled by a verified public wager rather than combat.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-565",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Tide That Turned Twice\" (full narrative text at docs/lords-of-cian/chronicles/the-tide-that-turned-twice.md), the Storm That Walks Alias Chronicle XX, wave 7 of ten (waves 6-15). A Trinity showcase using a predicted tidal surge, not a storm, at a river-mouth garrison -- a new coastal environment for the doctrine.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-566",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Rival Came Back to Learn\" (full narrative text at docs/lords-of-cian/chronicles/what-the-rival-came-back-to-learn.md), the Storm That Walks Alias Chronicle XXI, wave 7 of ten (waves 6-15). The defeated rival forecaster returns to genuinely study the method, extending its institutional reach for the first time.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-567",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fleet Built to Ignore the Sky\" (full narrative text at docs/lords-of-cian/chronicles/the-fleet-built-to-ignore-the-sky.md), the Storm That Walks Alias Chronicle XXII, wave 8 of ten (waves 6-15). A Trust squadron purpose-built and drilled to neutralize storm-timing outright -- the first full repulsion of the core tactic.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-568",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Hardened Crews Stopped Fearing\" (full narrative text at docs/lords-of-cian/chronicles/what-the-hardened-crews-stopped-fearing.md), the Storm That Walks Alias Chronicle XXIII, wave 8 of ten (waves 6-15). A Trinity showcase exploiting the storm-hardened squadron's own overconfidence: their storm-hardening made them stop watching for a threat, not just weather.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-569",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Captain Who Trusted His Ballast\" (full narrative text at docs/lords-of-cian/chronicles/the-captain-who-trusted-his-ballast.md), the Storm That Walks Alias Chronicle XXIV, wave 8 of ten (waves 6-15). The defeated commander's reflective account distinguishing his engineering success from his tactical defeat.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-570",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Village That Listened to the Sky\" (full narrative text at docs/lords-of-cian/chronicles/the-village-that-listened-to-the-sky.md), the Storm That Walks Alias Chronicle XXV, wave 9 of ten (waves 6-15). A fishing settlement outside any conflict receives the same forecasting service, establishing pure civilian-protection use of the doctrine.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-571",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boats That Didn't Come In\" (full narrative text at docs/lords-of-cian/chronicles/the-boats-that-didnt-come-in.md), the Storm That Walks Alias Chronicle XXVI, wave 9 of ten (waves 6-15). A rescue showcase using Mafesto during the storm itself, with a real, uncompensated loss -- one fisherman -- rather than a clean save.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-572",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Old Woman Who Read the Gulls\" (full narrative text at docs/lords-of-cian/chronicles/the-old-woman-who-read-the-gulls.md), the Storm That Walks Alias Chronicle XXVII, wave 9 of ten (waves 6-15). A village elder's independent folk-forecasting method is integrated as a genuine complementary practice, seeding a bottom-up forecasting network.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-573",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Envoy Who Asked the Wrong Price\" (full narrative text at docs/lords-of-cian/chronicles/the-envoy-who-asked-the-wrong-price.md), the Storm That Walks Alias Chronicle XXVIII, wave 10 of ten (waves 6-15). A foreign delegation tries to buy exclusive rights to the storm-timing method, then attempts espionage when refused.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-574",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Storm Exposed\" (full narrative text at docs/lords-of-cian/chronicles/what-the-storm-exposed.md), the Storm That Walks Alias Chronicle XXIX, wave 10 of ten (waves 6-15). A Trinity showcase foiling the embedded agent's theft attempt during an actual predicted storm.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-575",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What He Chose to Share\" (full narrative text at docs/lords-of-cian/chronicles/what-he-chose-to-share.md), the Storm That Walks Alias Chronicle XXX, wave 10 of ten (waves 6-15). Sephtis and Kanja settle on a case-by-case sharing policy for a second, non-hostile delegation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-576",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Season Without a Single Storm\" (full narrative text at docs/lords-of-cian/chronicles/the-season-without-a-single-storm.md), the Storm That Walks Alias Chronicle XXXI, wave 11 of ten (waves 6-15). A three-month blockade with no forecastable storm strains crew morale and discipline.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-577",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Three Months Bought in One Night\" (full narrative text at docs/lords-of-cian/chronicles/what-three-months-bought-in-one-night.md), the Storm That Walks Alias Chronicle XXXII, wave 11 of ten (waves 6-15). A full Trinity showcase when the storm finally arrives, resolving the siege in one night.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-578",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Waiting Cost the Ones Who Held the Line\" (full narrative text at docs/lords-of-cian/chronicles/what-the-waiting-cost-the-ones-who-held-the-line.md), the Storm That Walks Alias Chronicle XXXIII, wave 11 of ten (waves 6-15). The doubting officer's reconciliation, honoring the real cost of the three-month wait rather than erasing it.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-579",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm He Chose Not to Use\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-he-chose-not-to-use.md), the Storm That Walks Alias Chronicle XXXIV, wave 12 of ten (waves 6-15). Two simultaneous storms, only one usable; Kanja must choose which allied fleet gets the advantage.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-580",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm Nobody Called\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-nobody-called.md), the Storm That Walks Alias Chronicle XXXV, wave 12 of ten (waves 6-15). The unchosen allied squadron fights the same storm unaided and takes real losses.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-581",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What They Chose Between Two Fleets\" (full narrative text at docs/lords-of-cian/chronicles/what-they-chose-between-two-fleets.md), the Storm That Walks Alias Chronicle XXXVI, wave 12 of ten (waves 6-15). Sephtis's successor builds a formal triage framework in response to the two-storm dilemma, a genuine doctrine-building contribution of her own.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-582",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Rain Was Timed to Cover\" (full narrative text at docs/lords-of-cian/chronicles/what-the-rain-was-timed-to-cover.md), the Storm That Walks Alias Chronicle XXXVII, wave 13 of ten (waves 6-15). The doctrine's first inland application: predicted river flooding enables a stalled siege crossing.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-583",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ground That Moved With the Water\" (full narrative text at docs/lords-of-cian/chronicles/the-ground-that-moved-with-the-water.md), the Storm That Walks Alias Chronicle XXXVIII, wave 13 of ten (waves 6-15). A Trinity showcase exploiting rising floodwater against a garrison's fixed earthworks.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-584",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Engineer Who Learned to Read Weather Like Ground\" (full narrative text at docs/lords-of-cian/chronicles/the-engineer-who-learned-to-read-weather-like-ground.md), the Storm That Walks Alias Chronicle XXXIX, wave 13 of ten (waves 6-15). Sephtis and a siege engineer cross-pollinate weather-reading and structural engineering.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-585",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Officer Who Refused to Sail Into It\" (full narrative text at docs/lords-of-cian/chronicles/the-officer-who-refused-to-sail-into-it.md), the Storm That Walks Alias Chronicle XL, wave 14 of ten (waves 6-15). A veteran officer within Kanja's own fleet formally refuses a storm-timed order.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-586",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Chart Didn't Show\" (full narrative text at docs/lords-of-cian/chronicles/what-the-chart-didnt-show.md), the Storm That Walks Alias Chronicle XLI, wave 14 of ten (waves 6-15). A Trinity showcase recovering from a genuine forecast blind spot: a storm-shifted shoal no chart showed.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-587",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What They Added to the Method\" (full narrative text at docs/lords-of-cian/chronicles/what-they-added-to-the-method.md), the Storm That Walks Alias Chronicle XLII, wave 14 of ten (waves 6-15). Local pilotage knowledge is formally folded into the doctrine, reconciling with the officer who refused the earlier order.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-588",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fleet She Called Alone\" (full narrative text at docs/lords-of-cian/chronicles/the-fleet-she-called-alone.md), the Storm That Walks Alias Chronicle XLIII, wave 15 of ten (waves 6-15). Decades later, an elderly Sephtis retires; his successor forecasts an entire fleet action alone for the first time.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-589",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Order He Didn't Question\" (full narrative text at docs/lords-of-cian/chronicles/the-order-he-didnt-question.md), the Storm That Walks Alias Chronicle XLIV, wave 15 of ten (waves 6-15). A full Trinity showcase committed entirely on the successor's unverified forecast -- a trust-test with no safety net.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-590",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Fleet Learned From a Man Who Read the Sky\" (full narrative text at docs/lords-of-cian/chronicles/what-the-fleet-learned-from-a-man-who-read-the-sky.md), the Storm That Walks Alias Chronicle XLV, wave 15 of ten (waves 6-15). A generations-later retrospective: the storm-timing doctrine has become permanent institutional naval practice, closing the ten-wave run.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
