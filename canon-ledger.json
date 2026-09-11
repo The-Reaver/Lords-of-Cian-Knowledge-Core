@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "12.6",
+  "ledger_version": "12.7",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1070,6 +1070,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Crow King's second three-entry Alias Chronicle wave (MCD-416 through MCD-418), the seventh of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
+    },
+    {
+      "batch": 124,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Iron Bastard's second three-entry Alias Chronicle wave (MCD-419 through MCD-421), the eighth of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
     }
   ],
   "rules": [
@@ -8256,6 +8263,27 @@
       "id": "MCD-418",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Voice That Carried Three Hundred\" (full narrative text at docs/lords-of-cian/chronicles/the-voice-that-carried-three-hundred.md), Crow King Alias Chronicle VI, closing the second wave. Years later, one of the crew's original Hymn-Engine singers -- permanently rasp-voiced from the technique's six-week rehearsal -- teaches a new recruit the real cost behind the marsh trick's mechanics: sustained, relaxed consistency rather than forced power, and a toll to her voice she has never regretted paying. No new named characters. Closes the Crow King's second three-Chronicle wave (with 'The Trap That Almost Closed,' MCD-416, and 'When the Crow Could Not Fly,' MCD-417).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-419",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Column He Could Not Leave Alone\" (full narrative text at docs/lords-of-cian/chronicles/the-column-he-could-not-leave-alone.md), Iron Bastard Alias Chronicle IV, first entry in the second wave. The first Iron Bastard engagement requiring protection of others -- forty wounded fighters mid-transport -- rather than a solo open-ground stand; Kanja adapts the Aegis-Talisman resonance doctrine into a moving broadcast matching the evacuation's own pace instead of a fixed stand, taking the alias's first on-page wound in the process. No new named characters; the field medic is unnamed and one-scene.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-420",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Column Built Without Metal\" (full narrative text at docs/lords-of-cian/chronicles/the-column-built-without-metal.md), Iron Bastard Alias Chronicle V. A Trust engineering corps builds a column from wood, ceramic composite, and rope lashings specifically to deny the resonance harmonic a metallic target; Kanja adapts by finding the same tension-response signature in the natural-fiber lashings holding the structure together, generalizing the Aegis-Talisman principle to any tension-bearing structure regardless of material, combined with Mafesto, Obsidian Malice, and Onyx's Cadence Ruin. No new named characters; the field observer is unnamed and one-scene.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-421",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Scholar Who Measured the Impossible\" (full narrative text at docs/lords-of-cian/chronicles/the-scholar-who-measured-the-impossible.md), Iron Bastard Alias Chronicle VI, closing the second wave. A Trust materials scholar's eleven-month honest study concludes the resonance phenomenon is applied physics, not a supernatural weapon, and that the only real defense (extreme structural redundancy) is prohibitively expensive; her accurate report is quietly shelved in favor of a politically comfortable explanation. No new named characters. Closes the Iron Bastard's second three-Chronicle wave (with 'The Column He Could Not Leave Alone,' MCD-419, and 'The Column Built Without Metal,' MCD-420).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
