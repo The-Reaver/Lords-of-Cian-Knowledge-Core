@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "12.0",
+  "ledger_version": "12.1",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1028,6 +1028,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks Bane's second three-entry Alias Chronicle wave (MCD-398 through MCD-400), the first of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted\" (starting a second wave for every alias, beginning with Bane)."
+    },
+    {
+      "batch": 118,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Trench Monarch's second three-entry Alias Chronicle wave (MCD-401 through MCD-403), the second of eleven second waves in a continuous run. Abad: \"complete all of the Alias drafts continuously uninterrupted.\""
     }
   ],
   "rules": [
@@ -8088,6 +8095,27 @@
       "id": "MCD-400",
       "category": "kanja-alias-chronicle",
       "statement": "\"The File That Would Not Close\" (full narrative text at docs/lords-of-cian/chronicles/the-file-that-would-not-close.md), Bane Alias Chronicle VI, closing Bane's second three-Chronicle wave. Rebellion era, a documentary-register account of the Directorate's own difficulty formally classifying the alias, dramatizing the origin of MCD-232's own locked classification language ('a threat that destroys the force built to destroy it') as an admission that no standard threat taxonomy fit him, not a confident label -- his pattern being the total absence of a consistent operational signature. No new named characters; the analyst is unnamed and one-scene. Closes Bane's second three-Chronicle wave (with 'What the Fog Remembers,' MCD-398, and 'The Agent Who Stopped Filing Reports,' MCD-399).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-401",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Man Who Wore the Name\" (full narrative text at docs/lords-of-cian/chronicles/the-man-who-wore-the-name.md), Trench Monarch Alias Chronicle IV, first entry in the second wave. An impersonator extorts three canal districts for a month claiming to act on Kanja's authority; Kanja confronts him without drawing Onyx, forces public restitution, and states the name can't be controlled from being borrowed but can be made costly to borrow falsely. No new named characters beyond the already-locked Callum Breck.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-402",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fight the Sword Couldn't Read\" (full narrative text at docs/lords-of-cian/chronicles/the-fight-the-sword-couldnt-read.md), Trench Monarch Alias Chronicle V. A deliberately arrhythmic, patternless duelist defeats Onyx of Oblivion's Cadence Ruin and Veil Piercer, both of which depend on a detectable pattern to exploit; Kanja wins the twenty-minute bout through plain endurance rather than the sword's gifts -- the first established limit of Onyx's powers, consistent with and not contradicting prior showcases (MCD-369, MCD-398), which involved opponents with genuine tactical patterns. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-403",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Forehead Tavin Greer Kept Clean\" (full narrative text at docs/lords-of-cian/chronicles/the-forehead-tavin-greer-kept-clean.md), Trench Monarch Alias Chronicle VI, closing the second wave. Decades after the Dredge-Line Ambush, the already-locked Tavin Greer (CC-118) reflects that his career survived and thrived after being publicly marked, once he understood Callum Breck's chalking was never really about humiliating him personally; he kept his own precise, honest after-action report as a private dignity from that day. No new named characters beyond the already-locked Tavin Greer and referenced Callum Breck. Closes the Trench Monarch's second three-Chronicle wave (with 'The Man Who Wore the Name,' MCD-401, and 'The Fight the Sword Couldn't Read,' MCD-402).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
