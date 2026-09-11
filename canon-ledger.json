@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "13.5",
+  "ledger_version": "13.6",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1133,6 +1133,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Sovereign Ghost of the Great Sea's third three-entry Alias Chronicle wave (MCD-443 through MCD-445). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
+    },
+    {
+      "batch": 133,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Scourge's third three-entry Alias Chronicle wave (MCD-446 through MCD-448). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
     }
   ],
   "rules": [
@@ -8508,6 +8515,27 @@
       "id": "MCD-445",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Quartermaster Kept Account Of\" (full narrative text at docs/lords-of-cian/chronicles/what-the-quartermaster-kept-account-of.md), the Sovereign Ghost of the Great Sea Alias Chronicle IX, closing the third wave. Garren Hask (already locked) presents a year-long ledger of every ship the fleet encountered, revealing a consistent pattern of disabling rather than sinking and rescuing rather than plundering; Kanja confirms he keeps his own private count and asks Hask to preserve the true record beneath whatever legend eventually drifts from it. No new named characters beyond the already-locked Garren Hask. Closes the Sovereign Ghost's third three-Chronicle wave (with 'The Task Force Built to Hunt a Ghost,' MCD-443, and 'The Sails That Weren't His,' MCD-444).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-446",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Siege of the Salt Keep\" (full narrative text at docs/lords-of-cian/chronicles/the-siege-of-the-salt-keep.md), the Scourge Alias Chronicle VII, first entry in the third wave. Set roughly age 140, mid-Golden-Terror period: a detailed combat showcase breaching a three-generation fortified slaving depot using the Forge-Coat V2/Sovereign Eyes, Mafesto's Kinetic Transfer System, Obsidian Malice's gate-collapsing discharge, and the Ironhand Gauntlets/Ironfall Boots, freeing 180 captives -- Onyx of Oblivion correctly absent per its established L9 seal throughout the Long Mask (MCD-413). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-447",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Surrender That Cost No Blood\" (full narrative text at docs/lords-of-cian/chronicles/the-surrender-that-cost-no-blood.md), the Scourge Alias Chronicle VIII. Set roughly age 165: a slaving captain strikes his colors and opens his holds before any shot is fired, purely on the reputation's weight, freeing 41 captives through psychological pressure alone rather than combat, extending the 'the fear only works if it's true' principle (MCD-431) into this alias's own register. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-448",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boy Who Didn't Know His Name\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-who-didnt-know-his-name.md), the Scourge Alias Chronicle IX, closing the third wave. Set roughly age 210: a cabin boy, born on a ship the Scourge freed decades before his own birth, unknowingly tells the already-drifted legend back to the anonymous quartermaster who lived it, who gently redirects the boy toward the people freed rather than the myth itself, deliberately never revealing his identity. No new named characters. Closes the Scourge's third three-Chronicle wave (with 'The Siege of the Salt Keep,' MCD-446, and 'The Surrender That Cost No Blood,' MCD-447).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
