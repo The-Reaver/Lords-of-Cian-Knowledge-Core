@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "13.2",
+  "ledger_version": "13.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1112,6 +1112,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Trench Monarch's third three-entry Alias Chronicle wave (MCD-434 through MCD-436). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
+    },
+    {
+      "batch": 130,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Industrial Myth's third three-entry Alias Chronicle wave (MCD-437 through MCD-439). Abad: \"#1 and #2 now and continue uninterrupted until completion this includes test, commit, push to main origin.\""
     }
   ],
   "rules": [
@@ -8424,6 +8431,27 @@
       "id": "MCD-436",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Corren Halst Remembered\" (full narrative text at docs/lords-of-cian/chronicles/what-corren-halst-remembered.md), Trench Monarch Alias Chronicle IX, closing the third wave. Corren Halst (already locked, one of the three earliest crew members present at the Black Trench per Batch 41's correction), decades later, tells a younger worker that the Trench Monarch reputation had no single origin moment -- it accumulated from a hundred undramatic days nobody wrote down. No new named characters beyond the already-locked Corren Halst. Closes the Trench Monarch's third three-Chronicle wave (with 'The Crown He Dug With His Own Hands,' MCD-434, and 'The Overseer Who Doubted the Boy,' MCD-435).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-437",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Family Behind the Numbers\" (full narrative text at docs/lords-of-cian/chronicles/the-family-behind-the-numbers.md), the Industrial Myth Alias Chronicle VII, first entry in the third wave. Kanja sets the tally sheets aside for an afternoon during the Furnace District Strike to sit with a three-generation hauler family the aggregate numbers can only gesture toward, offering the grandmother honesty rather than a guarantee. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-438",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Man Who Wanted to Fight\" (full narrative text at docs/lords-of-cian/chronicles/the-man-who-wanted-to-fight.md), the Industrial Myth Alias Chronicle VIII. A rival hauler-organizer with three failed strikes behind him arrives intending to burn the district administrator's offices rather than wait out the four-day tally; Kanja persuades him to hold his following back, arguing patience produces an undeniable precedent that force alone cannot, testing the alias's unarmed ethos against internal movement pressure rather than an external threat. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-439",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Ezio Valcari Understood By Then\" (full narrative text at docs/lords-of-cian/chronicles/what-ezio-valcari-understood-by-then.md), the Industrial Myth Alias Chronicle IX, closing the third wave. Ezio Valcari (already locked) reflects on four days of tally work, explicitly articulating why the numbers-first method outlasts fear-based leverage, directly cross-referencing the events of 'The Man Who Wanted to Fight' (MCD-438). No new named characters beyond the already-locked Ezio Valcari. Closes the Industrial Myth's third three-Chronicle wave (with 'The Family Behind the Numbers,' MCD-437, and 'The Man Who Wanted to Fight,' MCD-438).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
