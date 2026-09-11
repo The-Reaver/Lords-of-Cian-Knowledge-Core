@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 19.4, 1,180 rules, 191 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 20.5, 1,510 rules, 202 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -893,6 +893,68 @@ duplicate IDs verified after every single batch, 232 total Chronicle files. Genu
 whenever Abad wants it next: a sixth Alias Chronicle wave for any alias, a fourth territory-Chronicle
 entry for any of the 20 territories, or any other thread. No further wave or sweep starts
 automatically.
+
+**Ten more Alias Chronicle waves (waves 6-15) for all eleven aliases, plus a Google Drive
+compartmentalization pass, Batches 192-202, 2026-09-11 (`MCD-561` through `MCD-890`, 330 new
+Chronicles), under Abad's blanket authorization: "I want you to do the sixth wave plus nine more
+waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no
+contradictions or errors, committing and pushing to origin Main, and please make sure that all
+Chronicles are styled inside of the Google Drive and organized neatly where every territory
+everybody that has their own Chronicle entry is in a separate folder entirely."** This is the
+largest single content run in the project's history: ten full waves (30 Chronicles each) for every
+one of the eleven aliases, produced via eleven parallel background drafting agents (each given that
+alias's complete wave 1-5 history plus its own era/gear/character constraints, so nothing repeats a
+prior beat), then merged into the ledger and committed alias by alias. Every named alias now has
+**fifteen complete waves -- 45 Chronicles each, 495 Alias Chronicles total** -- alongside the 20
+homage-era territories' own three-to-four-entry coverage from earlier batches (232 pre-run files +
+330 new = 562 total Chronicle files).
+
+Waves 6-15 continued the established discipline of never repeating a prior wave's story shape,
+pushed further into genuine failure states, institutional friction, civilian/humanitarian registers,
+generational transmission, and (for aliases with the deepest timelines -- the Scourge across its
+284-year Long Mask span, the Trench Monarch's pre-Black-Trench era) careful age/gear-version
+tracking throughout. A few representative threads: Bane's threat classification is formally retired
+by the Directorate and the alias is deliberately set down (`MCD-708`-`710`); the Trench Monarch
+closes its pre-Black-Trench run the night before the battle (`MCD-650`); the Industrial Myth stays
+strictly unarmed across all thirty new entries; the Blue-Collar Titan takes its first on-page
+technical mistake with real injury and owns it publicly; the Sovereign Ghost of the Great Sea adds a
+third flagship, *The Ledger*, and its first non-human adversary; the Scourge's V1-through-V4 gear
+progression and Onyx's L9 seal are tracked consistently across a 269-year age span with zero
+contradictions; the Crow King's Hymn-Engine apprentice reaches a third generation of transmission;
+the Iron Bastard takes its first fatal misdiagnosis and a permanent new verification protocol; the
+Lord of Embers closes its eighteen-month Rolling Foundry Campaign tour; the Storm That Walks'
+doctrine survives a two-week dead calm with no weather to forecast at all; and Captain's run closes
+on Efa Gol's own synthesis of what the name means against every alias that came before it. No new
+named characters were introduced across any of the 330 entries -- all reused already-locked crew
+(Efa Gol, Pell Ostra, Corren Halst, Danne Sok, Maret Vos, Garren Hask and his lineage, Callum Breck,
+Ezio Valcari, Dol Maren, Sephtis and his successor, Tavin Greer, the recurring Trust scholar,
+Directorate general, and student for the Iron Bastard, and the recurring senior smith and apprentice
+singer) for continuity depth. A handful of real drafting-stage errors were caught and fixed before
+locking: a cross-alias timeline contradiction in the Blue-Collar Titan's run (an Iron Bastard lesson
+chronologically impossible to reference from an earlier era) was rewritten self-contained; a
+Trench-Monarch-era filename risking a "quarry" implication (conflicting with the Batch-71 Maw-9
+correction) was renamed; and a Lord of Embers continuity-note misattribution to a different alias's
+rule ID was corrected to the right cross-reference.
+
+Alongside the content run, Google Drive was reorganized per Abad's explicit request: a dedicated
+subfolder was created for each of the 20 homage-era territories (inside the existing "Phase 2 Homage
+Era - Territory Chronicles" folder) and each of the 11 aliases (inside a new "Phase 2 Homage Era -
+Alias Chronicles" folder, sibling to the territory one, both under "02 - Chronicles" in the "FINAL
+FOLDER - My Rival's Distance" mirror), and the 21 previously-flat territory-Chronicle documents were
+moved into their new homes. Every new Chronicle from this run was uploaded directly into its
+corresponding alias folder as each batch locked. A large backfill of the ~205 pre-existing Chronicle
+files that had never reached Drive (the first five alias-Chronicle waves in full, plus later
+territory second/third/fourth entries) was also queued to bring the whole archive into the same
+compartmentalized structure, so every territory and every alias now has -- or will shortly have --
+its own findable folder rather than one flat dump.
+
+Ledger reached `ledger_version` 20.5, 1,510 rules, 202 batches by the end of this run -- zero
+duplicate IDs verified after every single batch. Genuinely open for whenever Abad wants it next: an
+eleventh territory-Chronicle entry, a sixteenth Alias Chronicle wave for any alias, or any other
+thread. Per the standing pacing rule, no further wave or sweep starts automatically -- and per
+Abad's own stated pacing guidance for this sub-series, the next natural checkpoint is holding here
+until the project is "completely loaded and functional with the archive," rather than racing toward
+the long-term 50-100-per-alias target.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 
