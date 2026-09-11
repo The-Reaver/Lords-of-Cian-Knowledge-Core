@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "26.7",
+  "ledger_version": "26.8",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2057,6 +2057,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document",
       "rule_count": 27,
       "note": "The Trench Monarch's twenty-second through thirtieth Alias Chronicle waves (9 waves, 27 entries), drafted under Abad's blanket authorization to continue all eleven aliases' waves 22-30 uninterrupted. All set within the already-established pre-Black-Trench window (Onyx of Oblivion solo, Mafesto dormant and Obsidian Malice undeployed per MCD-232), none contradicting the wave-15/wave-21 closures at MCD-650/MCD-1064. Genuinely new registers explored: a failed Trust charter and the quiet economic sanctions that followed it, closed by a grudging formal review (MCD-1121, MCD-1138, MCD-1141, MCD-1145); dedicated deep-dives on Whisper of Shadows, Soulbound Edge, and Cadence Ruin with the gift's first shown personal costs (MCD-1122, MCD-1127, MCD-1133); Dol Maren's and Corren Halst's first dedicated Trench-Monarch-era solo entries (MCD-1123, MCD-1137); a labor dispute and a bad harvest the tally method cannot fully resolve (MCD-1124, MCD-1135); a mass epidemic and a drought, both first-time environmental/civilian registers (MCD-1129, MCD-1139); the first entry where a failure is unambiguously Kanja's own command misjudgment (MCD-1136); the first entry where an armed group escalates to violence citing him as inspiration (MCD-1134); Pell Ostra's first shown skill-limit failure (MCD-1143); an intimate sealed-well rescue distinct from the prior mine-collapse showcase (MCD-1144); a payoff to the Kessic flats collateral-cost thread (MCD-1142); and a deliberate ensemble closer explicitly distinct from the already-locked eve-of-Black-Trench beat (MCD-1147). No new named characters were introduced anywhere in this run; every entry reused already-locked crew (Corren Halst, Danne Sok, Maret Vos, Garren Hask, Callum Breck, Efa Gol, Pell Ostra, Tavin Greer, Dol Maren, Onyx of Oblivion). One new unnamed group label, \"the Dredge Line's Answer\" (MCD-1134), collision-checked clean against the live ledger. Abad's approval: \"lets do this 22nd Alias Chronicle wave for any/all of the eleven aliases to the 30th wave and you are to continue uninterrupted until completion this includes rigorous testing, commit, push to main origin.\""
+    },
+    {
+      "batch": 267,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document",
+      "rule_count": 3,
+      "note": "The Industrial Myth's thirty-first Alias Chronicle wave, drafted under Abad's blanket authorization to continue a 31st wave for all eleven aliases. Three genuinely new registers, kept strictly unarmed throughout: the method's first case turned inward on a workers' own mutual-aid fund rather than any employer, extending the never-flinch impartiality discipline onto the crew's own community (\"The Fund They Kept for Themselves,\" MCD-1397); the method's first workplace-fatality liability case, extending MCD-1172's injury framework into a death no settlement can fully redress (\"The Debt a Death Left Open,\" MCD-1398); and the method's first fully solo case run start-to-finish by a trained district auditor with Kanja and Ezio absent throughout, the fullest test yet of MCD-483's 'replicable rather than personal' theme, closing the wave (\"The Case They Never Touched,\" MCD-1399). No new named characters were introduced -- all three entries use unnamed figures, consistent with the alias's established convention. Abad's approval: \"let's do a 31st alias wave for all eleven.\""
     }
   ],
   "rules": [
@@ -16348,6 +16355,27 @@
       "id": "MCD-1147",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Districts Kept After Him\" (full narrative text at docs/lords-of-cian/chronicles/what-the-districts-kept-after-him.md), Trench Monarch Alias Chronicle XC, wave 30, closing the wave. Rebellion era, pre-Black-Trench. An ensemble closer, explicitly not a restaging of MCD-650's already-locked eve-of-the-Black-Trench closure: on an unspecified ordinary afternoon, Kanja walks the full dredge line, finding Corren Halst, Danne Sok, Maret Vos, Garren Hask, Callum Breck, Efa Gol, and Pell Ostra each doing established, unremarkable work that no longer needs his direct involvement -- the method's accumulated self-sufficiency, not battle foreboding, is the entry's center. No new named characters. Closes the Trench Monarch's thirtieth wave (with \"What the Auditors Never Found,\" MCD-1145, and \"What Garren Hask Packed That Week,\" MCD-1146) and the full run of waves 22 through 30.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1397",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fund They Kept for Themselves\" (full narrative text at docs/lords-of-cian/chronicles/the-fund-they-kept-for-themselves.md), Industrial Myth Alias Chronicle XCI, wave 31. The method's first case turned inward on a workers' own burial-and-sickness fund rather than any employer or administrator: an elected treasurer padded his family's sickness claims by small, cumulative degrees over three years, and Kanja refuses to let the finding be softened or kept private just because the fund was built by the workers themselves, extending MCD-1065's 'the numbers don't flinch either way' discipline onto the crew's own community. No new named characters; the treasurer and fund members are unnamed. Strictly unarmed and non-combat throughout.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1398",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Debt a Death Left Open\" (full narrative text at docs/lords-of-cian/chronicles/the-debt-a-death-left-open.md), Industrial Myth Alias Chronicle XCII, wave 31. The method's first workplace-fatality liability case, directly extending MCD-1172's forge-door injury precedent into a death no settlement can fully redress: a foundry worker dies when a twice-flagged, unreplaced safety chain fails; the finding explicitly separates the paid settlement from the acknowledged, unpayable remainder of the debt, and the widow's request to have her husband's name posted publicly is honored as a new standing practice. No new named characters; the widow, the owner, and the deceased worker are unnamed. Strictly unarmed and non-combat throughout.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1399",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Case They Never Touched\" (full narrative text at docs/lords-of-cian/chronicles/the-case-they-never-touched.md), Industrial Myth Alias Chronicle XCIII, wave 31, closing the wave. The method's first case run entirely solo by a trained district auditor with neither Kanja nor Ezio present at any stage -- the report reaches them four weeks after the case has already closed, cross-referenced and posted to the same standard as their own work -- directly testing MCD-483's 'replicable rather than personal' theme at its fullest extent, distinct from MCD-483 in that this auditor was formally trained by the crew rather than working from an incomplete secondhand account. No new named characters; the district auditor is unnamed, consistent with the collectively-unnamed trained-auditor convention established at MCD-1174. Strictly unarmed and non-combat throughout. Closes the Industrial Myth's thirty-first wave (with \"The Fund They Kept for Themselves,\" MCD-1397, and \"The Debt a Death Left Open,\" MCD-1398).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
