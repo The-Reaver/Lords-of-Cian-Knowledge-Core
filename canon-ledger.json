@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.4",
+  "ledger_version": "16.5",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1336,6 +1336,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks Captain's fourth three-entry Alias Chronicle wave (MCD-506 through MCD-508), completing a fourth wave for all eleven aliases. Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main\" -- completes fourth waves for all eleven aliases (Bane, Trench Monarch, Industrial Myth, Blue-Collar Titan, Sovereign Ghost of the Great Sea, the Scourge, the Crow King, the Iron Bastard, the Lord of Embers, the Storm That Walks, and Captain)."
+    },
+    {
+      "batch": 162,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Areíto Chronicle III (MCD-509). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\" Item #2: a third territory-Chronicle entry, continuing across all territories that had only two."
     }
   ],
   "rules": [
@@ -9152,6 +9159,13 @@
       "id": "MCD-508",
       "category": "kanja-alias-chronicle",
       "statement": "\"What the Name Carried Forward\" (full narrative text at docs/lords-of-cian/chronicles/what-the-name-carried-forward.md), Captain Alias Chronicle XV, closing the fourth wave. Garren Hask's grandnephew joins the crew and asks what the name 'Captain' actually means to inherit rather than simply hear about; Kanja frames it as a living thing to maintain rather than a finished monument, closing not only Captain's fourth wave but the full eleven-alias fourth-wave run. No new named characters. Closes Captain's fourth three-Chronicle wave (with 'The Choice Between Two,' MCD-506, and 'The Man Who Was Forced to Betray Them,' MCD-507).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-509",
+      "category": "phase2-territory-chronicle",
+      "statement": "Areíto Chronicle III, \"The Two Houses He Brought to One Table\" (full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-iii-the-two-houses-he-brought-to-one-table.md). Kwame Ade mediates a decade-old split between two tenant associations, discovering the grievance had outlived its own cause -- a patient, non-combat community-reconciliation entry distinct from his physical-vulnerability and Adeyemi Chronicles. An unnamed Kanja is present, uninvolved. No new named characters. Third Areíto territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
