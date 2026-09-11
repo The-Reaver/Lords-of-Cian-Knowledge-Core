@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "18.4",
+  "ledger_version": "18.5",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1476,6 +1476,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks Bane's fifth three-entry Alias Chronicle wave (MCD-528 through MCD-530), the first alias wave five. Abad: \"lock it.\""
+    },
+    {
+      "batch": 182,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Trench Monarch's fifth three-entry Alias Chronicle wave (MCD-531 through MCD-533). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9446,6 +9453,27 @@
       "id": "MCD-530",
       "category": "kanja-alias-chronicle",
       "statement": "\"What Danne Sok Never Told Anyone\" (full narrative text at docs/lords-of-cian/chronicles/what-danne-sok-never-told-anyone.md), Bane Alias Chronicle XV, closing the fifth wave. Danne Sok (already locked, one of the three earliest crew members freed before the Black Trench) finally shares a memory kept private the whole war: the young Kanja's hands shaking for an hour after freeing him, before any alias existed -- a private counterweight to the legend, extending the 'tired, not scary' theme (MCD-478) back to its literal origin. No new named characters beyond the already-locked Danne Sok. Closes Bane's fifth three-Chronicle wave (with 'The Boy Who Wanted to Be Him,' MCD-528, and 'The Siege That Took Nine Days,' MCD-529).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-531",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Table Across from the Owners\" (full narrative text at docs/lords-of-cian/chronicles/the-table-across-from-the-owners.md), Trench Monarch Alias Chronicle XIII, first entry in the fifth wave. Kanja negotiates directly with site ownership for the first time, in a formal room rather than through an intermediary or a crowd, settling a wage dispute purely on the strength of already-verified tally sheets. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-532",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Hunt for One Man\" (full narrative text at docs/lords-of-cian/chronicles/the-hunt-for-one-man.md), Trench Monarch Alias Chronicle XIV. A detailed, sustained single-night pursuit (Onyx of Oblivion only, consistent with the pre-Black-Trench timeline) through the district's dockside geography stops a professional killer contracted to silence a wage-dispute witness before he can testify, ending in a capture rather than a kill. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-533",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Maret Vos Carried From Before\" (full narrative text at docs/lords-of-cian/chronicles/what-maret-vos-carried-from-before.md), Trench Monarch Alias Chronicle XV, closing the fifth wave. Maret Vos (already locked, one of the three earliest crew members freed before the Black Trench) finally shares his own account of being freed -- quieter and less dramatized than Corren Halst's (MCD-436) or Danne Sok's (MCD-530), completing a trilogy of early-crew perspectives on the man before any alias existed. No new named characters beyond the already-locked Maret Vos. Closes the Trench Monarch's fifth three-Chronicle wave (with 'The Table Across from the Owners,' MCD-531, and 'The Hunt for One Man,' MCD-532).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
