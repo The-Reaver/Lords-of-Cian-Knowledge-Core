@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 25.5, 1,755 rules, 252 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 25.6, 1,756 rules, 253 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1301,9 +1301,26 @@ so "The Turn" is never triggered -- a deliberate final honoring of `PH2-021`'s o
 the ability has nothing to offer against a threat that simply stops rather than strikes. Resolution
 is public exposure and naming, not violence or captivity, consistent with Baale's established
 restraint. Kra, Kojo, and Yao reused; Kanja does not appear, matching Chronicle V's precedent. Abad's
-approval: "lock it." Ledger reached `ledger_version` 25.5, 1,755 rules, 252 batches. The remaining
-deliberately reserved thread from Batch 225 -- the Kanja/Arturo long-arc's full payoff -- stays open
-for a future entry whenever Abad points at it.
+approval: "lock it." Ledger reached `ledger_version` 25.5, 1,755 rules, 252 batches.
+
+**The Kanja/Arturo long-arc's full payoff, Batch 253, 2026-09-11 (`MCD-1093`).** The last deliberately
+reserved thread, flagged since Batch 66 (`PH2-061`): Kanja "becomes one" of Arturo Salvatierra Duho's
+loved ones. **Xaragua Chronicle VI, "What He Came Without Being Asked"** (full narrative text at
+`docs/lords-of-cian/chronicles/xaragua-chronicle-vi-what-he-came-without-being-asked.md`) closes it.
+Set after Chronicle V (`MCD-1024`): Kanja arrives unsummoned after hearing, secondhand, that Arturo has
+been unwell for eleven days following a use of Blood Debt's reverse face on a child-trafficker; he
+comes with no territory business and nothing to gain. Arturo, testing him one final time, concludes
+the visit proves Kanja is fond of him rather than useful to him -- explicitly distinguished from, not
+equated with, Yaisa's (`PH2-062`) unique standing: hers depends on remembering who Arturo was before
+the reputation existed, Kanja's on nothing but caring now, with no history to draw on. The
+unnamed-guest convention holds all the way through -- Arturo still never learns Kanja's real name or
+alias, matching Batch 66/67's explicit walk-back of an earlier draft that broke this -- but Arturo
+gives him a private, self-chosen nickname instead: "Guaikán," from Taíno coastal folklore's
+remora/guide-fish that travels beside a shark unfed and unharmed, by choice, paralleling without
+duplicating the already-locked "Captain" naming pattern. Closes on the first genuine, unguarded banter
+between the two of them, Yaisa's blessing implicit throughout. No new named characters. Abad's
+approval: "lock it." Ledger reached `ledger_version` 25.6, 1,756 rules, 253 batches. Both of Batch
+225's deliberately reserved threads (Sankofa's conspiracy, the Kanja/Arturo long-arc) are now closed.
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
