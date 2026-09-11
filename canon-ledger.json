@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "17.1",
+  "ledger_version": "17.2",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1385,6 +1385,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
       "note": "Locks Umoja Chronicle III (MCD-515). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 169,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 1,
+      "note": "Locks Jibaro Chronicle III (MCD-516). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9250,6 +9257,13 @@
       "id": "MCD-515",
       "category": "phase2-territory-chronicle",
       "statement": "Umoja Chronicle III, \"The Fire That Crossed the City\" (full narrative text at docs/lords-of-cian/chronicles/umoja-chronicle-iii-the-fire-that-crossed-the-city.md). Twelve workplaces across the district, each genuinely organized by Kofi over years, walk out together within the same hour under 'One Fire' (PH2-040), defeating a citywide wage cut -- the ability's first district-wide success, directly consistent with the limit shown in Chronicle II (MCD-465): it amplifies genuine existing relationships rather than manufacturing them. An unnamed Kanja is present at the rally, uninvolved. No new named characters. Third Umoja territory Chronicle.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-516",
+      "category": "phase2-territory-chronicle",
+      "statement": "Jibaro Chronicle III, \"The Week Five Doors Refused\" (full narrative text at docs/lords-of-cian/chronicles/jibaro-chronicle-iii-the-week-five-doors-refused.md). Five genuinely abandoned buildings across Jibaro are simultaneously occupied past the one-day threshold, all becoming permanently unreclaimable under 'The Occupation' (PH2-042), proving the ability scales to multiple sites at once as long as each independently meets the 'nothing to be ashamed of' standard established in Chronicle II (MCD-468). An unnamed Kanja helps carry belongings during the transition, uninvolved otherwise. No new named characters. Third Jibaro territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
