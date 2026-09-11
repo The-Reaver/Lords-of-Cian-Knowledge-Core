@@ -1118,6 +1118,32 @@ alone rather than guessed at; every session before this one has hit the same "no
 Project" wall per this file's own standing instruction, and nothing suggests that changed here. Worth
 a direct decision from Abad on which location (if any) is real before any session touches it.
 
+**Resolved, 2026-09-11: none of the three Drive copies is the Claude Project mirror.** Traced all
+three to their source. Two are `backup_fleet.py` proof-run artifacts from 2026-08-31
+(`2026-08-31-f1b-merge-proof` and `2026-08-31-f1c-archive-proof`), byproducts of a since-fixed backup
+tool bug: `git rev-parse --git-dir` walked upward past `projects/lords_of_cian_canon` (which has no
+`.git` of its own) and resolved to the outer `stag` repo instead, so the backup captured the wrong
+working tree under four wrongly-named directories in that run -- documented in-place by a sibling
+`MISLABELED-DO-NOT-RESTORE.md` note (2026-08-31, "the stag-13 architecture seat") in the third,
+canon-ledger-free `lords_of_cian_canon` folder from the same run, marked safe to delete once reviewed.
+The third ("Downloads") copy sits under a root-level "My Laptop" folder created 2026-09-03 -- an old
+manual local-sync artifact, unrelated to any Project mechanism. **None of the three was ever a
+Project-mirror sync attempt.** More fundamentally: a claude.ai Project's Knowledge store is not a
+Google Drive file at all -- it's a separate system with no Drive-tool visibility, which is the actual
+reason every session (this one included) hits the "no way to reach the Project" wall. That wall isn't
+a permissions or discovery gap to fix from a tool-using session; the only way to update the real
+Project mirror is a manual upload of `canon-ledger.json` into that Project's Knowledge panel in the
+claude.ai UI itself, a human action. The three stale Drive copies are harmless leftovers, not
+competing live mirrors. **Cleanup done, 2026-09-11:** Abad approved deletion; all three
+`canon-ledger.json` copies (the Downloads one, and the two under `f1b-merge-proof`/
+`f1c-archive-proof`) plus the third `lords_of_cian_canon` folder carrying the
+`MISLABELED-DO-NOT-RESTORE.md` note were trashed. The two parent `projects-nongit` backup folders
+themselves were left in place, since each also holds other unrelated project-doc snapshots
+(`master-to-do-list.md`, `lords-of-cian-archive-game-plan.md`, `kanja-chronicles-production-roadmap.md`,
+etc.) outside the scope of what was approved for deletion. No Drive copies of `canon-ledger.json`
+remain anywhere except the genuine article synced by any future session that actually reaches the
+Claude Project's own Knowledge panel by hand.
+
 **The Maw Codex Section D backlog closed, Batch 227, 2026-09-11 (`MAW-075` through `MAW-079`,
 `MAW-083` through `MAW-089`, `MAW-095`, `MAW-096`, `MAW-122` through `MAW-146` -- 39 rules).** Batch
 103's own note had left Section D's larger remaining inventory queued: the 18 Branded Legends, the
