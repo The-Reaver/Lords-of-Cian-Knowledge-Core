@@ -1,8 +1,6 @@
 # What Efa Gol Handed Down
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle, wave 8. Long Mask era,
-age 150, V3 gear (Golden Terror era). Not a territory Chronicle. Narrated in neutral third-person
-prose. No new named characters.*
+*Locked canon, Batch 200, 2026-09-11 (`MCD-807`). The Scourge Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

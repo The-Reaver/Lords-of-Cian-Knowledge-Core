@@ -1,9 +1,6 @@
 # The Student's First Failure
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XXIV, wave 8, closing
-entry. Rebellion era, roughly two years after the Night of the Crow King (`MCD-236`, age 23). Not a
-territory Chronicle. Narrated in neutral third-person prose. No new named characters beyond the
-already-locked apprentice singer and her student, both unnamed matching established pattern.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-839`). The Crow King Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

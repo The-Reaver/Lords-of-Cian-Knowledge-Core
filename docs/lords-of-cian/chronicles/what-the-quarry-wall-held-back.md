@@ -1,9 +1,6 @@
 # What the Quarry Wall Held Back
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XXXV, wave 11.
-Rebellion era, age 27, the Rolling Foundry Campaign. A detailed showcase of the Trinity defending an
-active quarry operation. Not a territory Chronicle. Narrated in neutral third-person prose. No new
-named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-877`). The Lord of Embers Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

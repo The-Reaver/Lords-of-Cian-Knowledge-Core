@@ -1,8 +1,6 @@
 # The Voices That Only Listened
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XXVII, wave 9, closing
-entry. Rebellion era, roughly two and a half years after the Night of the Crow King (`MCD-236`, age
-23). Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-842`). The Crow King Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

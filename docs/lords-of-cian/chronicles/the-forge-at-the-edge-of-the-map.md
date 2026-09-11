@@ -1,9 +1,6 @@
 # The Forge at the Edge of the Map
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XLIV, wave 14.
-Rebellion era, age 27, the Rolling Foundry Campaign. A detailed showcase of the Trinity defending the
-campaign's most remote, unreinforced site. Not a territory Chronicle. Narrated in neutral third-person
-prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-886`). The Lord of Embers Alias Chronicle XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

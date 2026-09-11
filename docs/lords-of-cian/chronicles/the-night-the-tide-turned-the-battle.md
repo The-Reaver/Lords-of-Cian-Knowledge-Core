@@ -1,9 +1,6 @@
 # The Night the Tide Turned the Battle
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XXXVIII, wave 12.
-Rebellion era, age 27, the Rolling Foundry Campaign. A detailed showcase of the Trinity using tidal
-timing as a deliberate weapon. Not a territory Chronicle. Narrated in neutral third-person prose. No
-new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-880`). The Lord of Embers Alias Chronicle XXXV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

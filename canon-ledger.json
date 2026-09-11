@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "20.2",
+  "ledger_version": "20.5",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1602,6 +1602,27 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 30,
       "note": "Locks the Sovereign Ghost of the Great Sea's sixth through fifteenth Alias Chronicle waves (MCD-771 through MCD-800, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
+    },
+    {
+      "batch": 200,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 30,
+      "note": "Locks the Scourge's sixth through fifteenth Alias Chronicle waves (MCD-801 through MCD-830, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
+    },
+    {
+      "batch": 201,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 30,
+      "note": "Locks the Crow King's sixth through fifteenth Alias Chronicle waves (MCD-831 through MCD-860, 30 rules, 10 waves of 3). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\""
+    },
+    {
+      "batch": 202,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 30,
+      "note": "Locks the Lord of Embers's sixth through fifteenth Alias Chronicle waves (MCD-861 through MCD-890, 30 rules, 10 waves of 3). Completes waves 6-15 (330 new Chronicles total) across all eleven aliases (Batches 192-202). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\" Completes the run: every alias now has ten full waves (waves 1-15, minus a fixed gap at none -- waves 1 through 5 were already locked; this batch and its nine siblings (Batches 192-201) complete waves 6 through 15)."
     }
   ],
   "rules": [
@@ -11462,6 +11483,636 @@
       "id": "MCD-800",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Gathering at the Ghost Fleet's Anchorage\" (full narrative text at docs/lords-of-cian/chronicles/the-gathering-at-the-ghost-fleets-anchorage.md), Sovereign Ghost of the Great Sea Alias Chronicle XLV, wave 15 of ten (waves 6-15). A warm ensemble closer, all three flagships and the full established crew at anchor together, closing the ten-wave run.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-801",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Town That Was Already Afraid\" (full narrative text at docs/lords-of-cian/chronicles/the-town-that-was-already-afraid.md), The Scourge Alias Chronicle XVI, wave 6 of ten (waves 6-15). Age 36, V1 gear. A port militia, primed by wild rumor, nearly attacks freed captives; the Scourge de-escalates through calm honesty, establishing the legend as a liability as well as an asset.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-802",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Caravan Road\" (full narrative text at docs/lords-of-cian/chronicles/the-caravan-road.md), The Scourge Alias Chronicle XVII, wave 6 of ten (waves 6-15). Age 44, V2 gear. The first-ever land-based liberation, an inland caravan route, a full gear showcase off water for the first time.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-803",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Roads She Started Mapping\" (full narrative text at docs/lords-of-cian/chronicles/the-roads-she-started-mapping.md), The Scourge Alias Chronicle XVIII, wave 6 of ten (waves 6-15). Age 68, V2 gear. A freed captive from the caravan, grown up, has independently built a safe-route cartography network with no dependence on him -- a generational ripple-effect closer.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-804",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The One Who Didn't Wake Again\" (full narrative text at docs/lords-of-cian/chronicles/the-one-who-didnt-wake-again.md), The Scourge Alias Chronicle XIX, wave 7 of ten (waves 6-15). Age 95, V3 gear. A rescued captive dies of prior suffering despite a clean, fast rescue, dramatizing the limits of \"in time.\"",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-805",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Net Built to Catch Him\" (full narrative text at docs/lords-of-cian/chronicles/the-net-built-to-catch-him.md), The Scourge Alias Chronicle XX, wave 7 of ten (waves 6-15). Age 112, V3 gear. A strategist spends years cataloguing his patterns and builds a six-ship decoy trap; he escapes by having grown unpredictable.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-806",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Harbor That Wouldn't Take Them\" (full narrative text at docs/lords-of-cian/chronicles/the-harbor-that-wouldnt-take-them.md), The Scourge Alias Chronicle XXI, wave 7 of ten (waves 6-15). Age 128, V3 gear. Pure diplomatic negotiation to secure harbor for 206 freed captives, resolved through leverage and existing trade ties, no combat.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-807",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Efa Gol Handed Down\" (full narrative text at docs/lords-of-cian/chronicles/what-efa-gol-handed-down.md), The Scourge Alias Chronicle XXII, wave 8 of ten (waves 6-15). Age 150, V3 gear. Efa Gol steps back from decoy command as her instincts slow, handing off cleanly before failure.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-808",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Blade at the Captive's Throat\" (full narrative text at docs/lords-of-cian/chronicles/the-blade-at-the-captives-throat.md), The Scourge Alias Chronicle XXIII, wave 8 of ten (waves 6-15). Age 138, V3 gear. A hostage standoff resolved through six minutes of deliberate patience, not force.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-809",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Game the Freed Children Played\" (full narrative text at docs/lords-of-cian/chronicles/the-game-the-freed-children-played.md), The Scourge Alias Chronicle XXIV, wave 8 of ten (waves 6-15). Age 165, V3 gear. Anonymous observation of children reenacting a drifted, distorted version of the legend as a street game.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-810",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"When the Coat Didn't Answer\" (full narrative text at docs/lords-of-cian/chronicles/when-the-coat-didnt-answer.md), The Scourge Alias Chronicle XXV, wave 9 of ten (waves 6-15). Age 178, V3 gear. A novel Drakma-charged weapon defeats the Forge-Coat's grounding weave outright; falls back to plain swordsmanship.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-811",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The First Night in the New Coat\" (full narrative text at docs/lords-of-cian/chronicles/the-first-night-in-the-new-coat.md), The Scourge Alias Chronicle XXVI, wave 9 of ten (waves 6-15). Age 241, V4 debut. The new gear's rough, unglamorous first deployment, teething failures included.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-812",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Reef He Didn't Know\" (full narrative text at docs/lords-of-cian/chronicles/the-reef-he-didnt-know.md), The Scourge Alias Chronicle XXVII, wave 9 of ten (waves 6-15). Age 255, V4 gear. Matured V4 sensory gear reads a wholly unfamiliar reef system on the first pass.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-813",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Weight the Mask Kept Count Of\" (full narrative text at docs/lords-of-cian/chronicles/the-weight-the-mask-kept-count-of.md), The Scourge Alias Chronicle XXVIII, wave 10 of ten (waves 6-15). Age 305, V4 gear. Pure interiority; Kanja alone totals the toll of 283 years under one persona.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-814",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Isle That Stopped Needing Him\" (full narrative text at docs/lords-of-cian/chronicles/the-isle-that-stopped-needing-him.md), The Scourge Alias Chronicle XXIX, wave 10 of ten (waves 6-15). Age 290, V4 gear. A region cleared decades earlier is now fully self-sufficient -- quiet obsolescence.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-815",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Last Ledger Line\" (full narrative text at docs/lords-of-cian/chronicles/the-last-ledger-line.md), The Scourge Alias Chronicle XXX, wave 10 of ten (waves 6-15). Age 300, V4 gear. Garren Hask's lifetime numeric tally of everyone freed (211,406, \"a floor, not a ceiling\").",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-816",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Captain Who Surrendered Nothing\" (full narrative text at docs/lords-of-cian/chronicles/the-captain-who-surrendered-nothing.md), The Scourge Alias Chronicle XXXI, wave 11 of ten (waves 6-15). Age 70, V2 gear. A defeated captain refuses surrender itself, choosing near-suicide over capitulation; resolved through restraint.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-817",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Chain That Freed Itself\" (full narrative text at docs/lords-of-cian/chronicles/the-chain-that-freed-itself.md), The Scourge Alias Chronicle XXXII, wave 11 of ten (waves 6-15). Age 62, V2 gear. Captives break free mid-raid and fight alongside him as active combatants, not passive rescued.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-818",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Captain's Son Remembered\" (full narrative text at docs/lords-of-cian/chronicles/what-the-captains-son-remembered.md), The Scourge Alias Chronicle XXXIII, wave 11 of ten (waves 6-15). A retrospective set decades later, age 130: the defeated captain's son reflects on grief and blame; the Scourge is absent from the page.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-819",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Flag Flown Without Permission\" (full narrative text at docs/lords-of-cian/chronicles/the-flag-flown-without-permission.md), The Scourge Alias Chronicle XXXIV, wave 12 of ten (waves 6-15). Age 55, V2 gear. A resistance camp flies a fabricated banner using his name and likeness in a strait he's never sailed.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-820",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Impostor's Undoing\" (full narrative text at docs/lords-of-cian/chronicles/the-impostors-undoing.md), The Scourge Alias Chronicle XXXV, wave 12 of ten (waves 6-15). Age 133, V3 gear. A false claimant is exposed via careful documentation, not confrontation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-821",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Village That Never Needed Saving\" (full narrative text at docs/lords-of-cian/chronicles/the-village-that-never-needed-saving.md), The Scourge Alias Chronicle XXXVI, wave 12 of ten (waves 6-15). Age 100, V3 gear. A village organizes effective self-defense from rumor alone, with zero direct involvement from him, ever.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-822",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Market That Rebuilt Itself\" (full narrative text at docs/lords-of-cian/chronicles/the-market-that-rebuilt-itself.md), The Scourge Alias Chronicle XXXVII, wave 13 of ten (waves 6-15). Age 145, V3 gear. A destroyed slaving hub simply relocates forty miles away, confronting the limits of force against demand.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-823",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Convoy Escort He Couldn't Outpace\" (full narrative text at docs/lords-of-cian/chronicles/the-convoy-escort-he-couldnt-outpace.md), The Scourge Alias Chronicle XXXVIII, wave 13 of ten (waves 6-15). Age 160, V3 gear. A four-day pursuit and attrition chase ending in partial, not total, success.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-824",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Merchant Who Changed His Trade\" (full narrative text at docs/lords-of-cian/chronicles/the-merchant-who-changed-his-trade.md), The Scourge Alias Chronicle XXXIX, wave 13 of ten (waves 6-15). Age 170, V3 gear. A slaver voluntarily converts to legitimate trade under collapsing economics.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-825",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Meal He Ate as No One\" (full narrative text at docs/lords-of-cian/chronicles/the-meal-he-ate-as-no-one.md), The Scourge Alias Chronicle XL, wave 14 of ten (waves 6-15). Age 108, V3 gear, unmasked. Anonymous in a tavern, overhearing his own distorted legend.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-826",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm He Waited Out Like Anyone Else\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-he-waited-out-like-anyone-else.md), The Scourge Alias Chronicle XLI, wave 14 of ten (waves 6-15). Age 90, V3 gear, unmasked. Stranded by weather, passes days as an ordinary sailor.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-827",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What He Taught Without the Mask On\" (full narrative text at docs/lords-of-cian/chronicles/what-he-taught-without-the-mask-on.md), The Scourge Alias Chronicle XLII, wave 14 of ten (waves 6-15). Age 118, V3 gear, unmasked. Off-duty mentorship teaching knots and wind-reading, no reference to the persona.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-828",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night He Almost Didn't Go\" (full narrative text at docs/lords-of-cian/chronicles/the-night-he-almost-didnt-go.md), The Scourge Alias Chronicle XLIII, wave 15 of ten (waves 6-15). Age 250, V4 gear. Genuine hesitation from accumulated exhaustion before a mission.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-829",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fight He Fought Angry\" (full narrative text at docs/lords-of-cian/chronicles/the-fight-he-fought-angry.md), The Scourge Alias Chronicle XLIV, wave 15 of ten (waves 6-15). Age 168, V3 gear. A rare loss of composure and fury after captives are murdered to destroy evidence; a near-overreach checked by his successor.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-830",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Question Efa Gol Finally Asked\" (full narrative text at docs/lords-of-cian/chronicles/the-question-efa-gol-finally-asked.md), The Scourge Alias Chronicle XLV, wave 15 of ten (waves 6-15). Age 180, V3 gear. Efa Gol directly asks if he regrets the persona; left deliberately unresolved, closing the ten-wave run.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-831",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Bridge That Wasn't There\" (full narrative text at docs/lords-of-cian/chronicles/the-bridge-that-wasnt-there.md), The Crow King Alias Chronicle XVI, wave 6 of ten (waves 6-15). The first river-crossing evasion; establishes water's acoustic-folding as a new terrain type distinct from marsh, highland, or urban.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-832",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the City Walls Repeated\" (full narrative text at docs/lords-of-cian/chronicles/what-the-city-walls-repeated.md), The Crow King Alias Chronicle XVII, wave 6 of ten (waves 6-15). The first urban, walled-settlement deception, exploiting stone-street echo geometry rather than pure vocal craft.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-833",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Old Woman's Crow King\" (full narrative text at docs/lords-of-cian/chronicles/the-old-womans-crow-king.md), The Crow King Alias Chronicle XVIII, wave 6 of ten (waves 6-15). Closes the wave via an uninvolved civilian's folk-tale account, reflecting on why exaggerated legend persists.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-834",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Crown That Wasn't His\" (full narrative text at docs/lords-of-cian/chronicles/the-crown-that-wasnt-his.md), The Crow King Alias Chronicle XIX, wave 7 of ten (waves 6-15). A bandit company weaponizes the Crow King symbol itself against villages; resolved without violence.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-835",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"One Voice, One Gate\" (full narrative text at docs/lords-of-cian/chronicles/one-voice-one-gate.md), The Crow King Alias Chronicle XX, wave 7 of ten (waves 6-15). The smallest-scale operation of the run -- one man, one guard, one sentence.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-836",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Voris Tried to Become\" (full narrative text at docs/lords-of-cian/chronicles/what-voris-tried-to-become.md), The Crow King Alias Chronicle XXI, wave 7 of ten (waves 6-15). Commandant Voris personally tests his own \"unpredictability\" doctrine and discovers its institutional cost.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-837",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Voice Among Their Own\" (full narrative text at docs/lords-of-cian/chronicles/the-voice-among-their-own.md), The Crow King Alias Chronicle XXII, wave 8 of ten (waves 6-15). Trained listening turned toward catching an informant within Kanja's own crew.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-838",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What She Wouldn't Say\" (full narrative text at docs/lords-of-cian/chronicles/what-she-wouldnt-say.md), The Crow King Alias Chronicle XXIII, wave 8 of ten (waves 6-15). The apprentice singer, captured and interrogated, resists via silence rather than lies.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-839",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Student's First Failure\" (full narrative text at docs/lords-of-cian/chronicles/the-students-first-failure.md), The Crow King Alias Chronicle XXIV, wave 8 of ten (waves 6-15). The apprentice's own student misjudges timing in the field -- the first lineage mistake, handled through accountability.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-840",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The One They Couldn't Warn\" (full narrative text at docs/lords-of-cian/chronicles/the-one-they-couldnt-warn.md), The Crow King Alias Chronicle XXV, wave 9 of ten (waves 6-15). A knowingly-chosen, not accidental, cost to an uninvolved bystander.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-841",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"When the Plan Broke Mid-Song\" (full narrative text at docs/lords-of-cian/chronicles/when-the-plan-broke-mid-song.md), The Crow King Alias Chronicle XXVI, wave 9 of ten (waves 6-15). A wind shift forces real-time improvisation mid-Braid.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-842",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Voices That Only Listened\" (full narrative text at docs/lords-of-cian/chronicles/the-voices-that-only-listened.md), The Crow King Alias Chronicle XXVII, wave 9 of ten (waves 6-15). Pure eavesdropping and reconnaissance with zero deception.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-843",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Man Who Could Not Hear\" (full narrative text at docs/lords-of-cian/chronicles/the-man-who-could-not-hear.md), The Crow King Alias Chronicle XXVIII, wave 10 of ten (waves 6-15). A deaf commander forces adaptation into written and visual deception.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-844",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Negotiation Without a Single Lie\" (full narrative text at docs/lords-of-cian/chronicles/the-negotiation-without-a-single-lie.md), The Crow King Alias Chronicle XXIX, wave 10 of ten (waves 6-15). A formal parley won via verified truth as leverage, no deception at all.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-845",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Silence Taught Them\" (full narrative text at docs/lords-of-cian/chronicles/what-the-silence-taught-them.md), The Crow King Alias Chronicle XXX, wave 10 of ten (waves 6-15). The apprentice synthesizes that the craft was never really vocal at its core.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-846",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Before the Marsh\" (full narrative text at docs/lords-of-cian/chronicles/before-the-marsh.md), The Crow King Alias Chronicle XXXI, wave 11 of ten (waves 6-15). A flashback to an embarrassing early experiment among Kanja's earliest crew, predating the Wetlands scarecrow trick.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-847",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Hounds Heard\" (full narrative text at docs/lords-of-cian/chronicles/what-the-hounds-heard.md), The Crow King Alias Chronicle XXXII, wave 11 of ten (waves 6-15). Tracking hounds hear frequencies outside human-calibrated design, nearly exposing an operation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-848",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Story Corren Halst Still Told\" (full narrative text at docs/lords-of-cian/chronicles/the-story-corren-halst-still-told.md), The Crow King Alias Chronicle XXXIII, wave 11 of ten (waves 6-15). Corren Halst's retrospective on why the wave-11 failure story matters more than the famous marsh trick.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-849",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Report That Named the Wrong Man\" (full narrative text at docs/lords-of-cian/chronicles/the-report-that-named-the-wrong-man.md), The Crow King Alias Chronicle XXXIV, wave 12 of ten (waves 6-15). An unrelated cell's sabotage gets pinned on him by honest mistake; resolved via counter-proof.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-850",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Signal Before the Storm of Steel\" (full narrative text at docs/lords-of-cian/chronicles/the-signal-before-the-storm-of-steel.md), The Crow King Alias Chronicle XXXV, wave 12 of ten (waves 6-15). Deception and Trinity combat are planned together as one single operation from the start.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-851",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What She Taught Him Back\" (full narrative text at docs/lords-of-cian/chronicles/what-she-taught-him-back.md), The Crow King Alias Chronicle XXXVI, wave 12 of ten (waves 6-15). The apprentice teaches Kanja a non-deceptive, morale-building use of the same technique.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-852",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Village That Walked Out Singing\" (full narrative text at docs/lords-of-cian/chronicles/the-village-that-walked-out-singing.md), The Crow King Alias Chronicle XXXVII, wave 13 of ten (waves 6-15). A civilian evacuation disguised as an open festival procession.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-853",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Game Neither of Them Won\" (full narrative text at docs/lords-of-cian/chronicles/the-game-neither-of-them-won.md), The Crow King Alias Chronicle XXXVIII, wave 13 of ten (waves 6-15). The first genuine draw -- a blanket-skepticism tactician defeats the deception but is equally blind to real intelligence.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-854",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Third Voice She Never Expected\" (full narrative text at docs/lords-of-cian/chronicles/the-third-voice-she-never-expected.md), The Crow King Alias Chronicle XXXIX, wave 13 of ten (waves 6-15). The apprentice's student begins teaching her own student -- a third generation of the craft.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-855",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Children Who Played Crow King\" (full narrative text at docs/lords-of-cian/chronicles/the-children-who-played-crow-king.md), The Crow King Alias Chronicle XL, wave 14 of ten (waves 6-15). Children's inaccurate reenactment of the legend raises real-world risk.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-856",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Win He Wouldn't Take\" (full narrative text at docs/lords-of-cian/chronicles/the-win-he-wouldnt-take.md), The Crow King Alias Chronicle XLI, wave 14 of ten (waves 6-15). Deliberate restraint against an already-beaten, legitimate target.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-857",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Voris Heard Secondhand\" (full narrative text at docs/lords-of-cian/chronicles/what-voris-heard-secondhand.md), The Crow King Alias Chronicle XLII, wave 14 of ten (waves 6-15). Commandant Voris recognizes restraint, not just cunning, as central to the method.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-858",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night Five Provinces Moved at Once\" (full narrative text at docs/lords-of-cian/chronicles/the-night-five-provinces-moved-at-once.md), The Crow King Alias Chronicle XLIII, wave 15 of ten (waves 6-15). The largest coordinated operation of the run -- five techniques run simultaneously by five practitioners across five provinces.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-859",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Craft Had Become\" (full narrative text at docs/lords-of-cian/chronicles/what-the-craft-had-become.md), The Crow King Alias Chronicle XLIV, wave 15 of ten (waves 6-15). A quiet valedictory reflection between Kanja and the apprentice on the craft outgrowing him.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-860",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Last Scarecrow\" (full narrative text at docs/lords-of-cian/chronicles/the-last-scarecrow.md), The Crow King Alias Chronicle XLV, wave 15 of ten (waves 6-15). A full-circle closer -- Commandant Voris receives a final scarecrow and recognizes the craft has become a discipline larger than any one practitioner, closing the ten-wave run.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-861",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Crew That Rebuilt Without Him\" (full narrative text at docs/lords-of-cian/chronicles/the-crew-that-rebuilt-without-him.md), The Lord of Embers Alias Chronicle XVI, wave 6 of ten (waves 6-15). A settlement trained months earlier during an ordinary six-day stop rebuilds itself after a burning while The Anvil is storm-bound sixteen days away, proving \"metabolizes punishment\" is a transferable method, not a personal power.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-862",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Floodwater Couldn't Take\" (full narrative text at docs/lords-of-cian/chronicles/what-the-floodwater-couldnt-take.md), The Lord of Embers Alias Chronicle XVII, wave 6 of ten (waves 6-15). A detailed Trinity showcase: a storm-surge flood at a forge site, exploited by an opportunistic raid, defeated using the flood itself as both obstacle and weapon.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-863",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Engineer Who Came to Disprove Him\" (full narrative text at docs/lords-of-cian/chronicles/the-engineer-who-came-to-disprove-him.md), The Lord of Embers Alias Chronicle XVIII, wave 6 of ten (waves 6-15). A skeptical Trust engineer sent to formally debunk the rebuild-speed reputation instead confirms it rigorously; his honest report is buried by his own side.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-864",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Rebuild That Broke Someone\" (full narrative text at docs/lords-of-cian/chronicles/the-rebuild-that-broke-someone.md), The Lord of Embers Alias Chronicle XIX, wave 7 of ten (waves 6-15). A rushed reheat under record-chasing pace causes a real injury; Kanja owns the failure and slows the campaign's pace afterward.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-865",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What They Chose to Save First\" (full narrative text at docs/lords-of-cian/chronicles/what-they-chose-to-save-first.md), The Lord of Embers Alias Chronicle XX, wave 7 of ten (waves 6-15). A detailed Trinity showcase defending grain stores over the forge terrace during a split-force raid.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-866",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Mural on the Sea Wall\" (full narrative text at docs/lords-of-cian/chronicles/the-mural-on-the-sea-wall.md), The Lord of Embers Alias Chronicle XXI, wave 7 of ten (waves 6-15). Settlement children paint an uncommissioned, inaccurate mural of the campaign; Kanja lets it stand as-is -- a folk-art legacy entry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-867",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Magistrate Who Spent His Name\" (full narrative text at docs/lords-of-cian/chronicles/the-magistrate-who-spent-his-name.md), The Lord of Embers Alias Chronicle XXII, wave 8 of ten (waves 6-15). An administrator extorts tribute falsely claiming it funds \"the Lord of Embers\"; publicly corrected without violence.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-868",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Pass That Wouldn't Close\" (full narrative text at docs/lords-of-cian/chronicles/the-pass-that-wouldnt-close.md), The Lord of Embers Alias Chronicle XXIII, wave 8 of ten (waves 6-15). A detailed Trinity showcase: a mountain supply-pass ambush neutralized before the convoy it protects arrives.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-869",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Soldier Who Stayed\" (full narrative text at docs/lords-of-cian/chronicles/the-soldier-who-stayed.md), The Lord of Embers Alias Chronicle XXIV, wave 8 of ten (waves 6-15). A former Trust soldier defects and is absorbed into the crew on pure merit -- an outsider, former-enemy closer.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-870",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fear That Outlasted the Flame\" (full narrative text at docs/lords-of-cian/chronicles/the-fear-that-outlasted-the-flame.md), The Lord of Embers Alias Chronicle XXV, wave 9 of ten (waves 6-15). A rumor campaign, fear of being judged too slow, that the ability itself can't touch; resolved only through patient, honest presence.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-871",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Foundry They Turned Around\" (full narrative text at docs/lords-of-cian/chronicles/the-foundry-they-turned-around.md), The Lord of Embers Alias Chronicle XXVI, wave 9 of ten (waves 6-15). A detailed Trinity showcase defending a captured Trust foundry mid-conversion to campaign use.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-872",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Apprentice Who Became the Guildmaster\" (full narrative text at docs/lords-of-cian/chronicles/the-apprentice-who-became-the-guildmaster.md), The Lord of Embers Alias Chronicle XXVII, wave 9 of ten (waves 6-15). A former apprentice, decades later, applies the forge's meritocratic ethos as an institutional ruling.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-873",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night He Almost Didn't Make the Sixth\" (full narrative text at docs/lords-of-cian/chronicles/the-night-he-almost-didnt-make-the-sixth.md), The Lord of Embers Alias Chronicle XXVIII, wave 10 of ten (waves 6-15). Six simultaneous sites, one more than the established five-site max, pushes the Trinity to a real, acknowledged near-failure.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-874",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Held the Bridge Together\" (full narrative text at docs/lords-of-cian/chronicles/what-held-the-bridge-together.md), The Lord of Embers Alias Chronicle XXIX, wave 10 of ten (waves 6-15). A detailed Trinity showcase defending an unfinished pontoon river crossing.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-875",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"Two Apprentices, Two Roads\" (full narrative text at docs/lords-of-cian/chronicles/two-apprentices-two-roads.md), The Lord of Embers Alias Chronicle XXX, wave 10 of ten (waves 6-15). Two apprentices from the same lesson diverge into smithing and soldiering, reunited to find the paths complementary.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-876",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Pride That Wouldn't Take Help\" (full narrative text at docs/lords-of-cian/chronicles/the-pride-that-wouldnt-take-help.md), The Lord of Embers Alias Chronicle XXXI, wave 11 of ten (waves 6-15). A prideful district refuses aid until a genuine material trade, quarried stone, preserves its dignity.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-877",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Quarry Wall Held Back\" (full narrative text at docs/lords-of-cian/chronicles/what-the-quarry-wall-held-back.md), The Lord of Embers Alias Chronicle XXXII, wave 11 of ten (waves 6-15). A detailed Trinity showcase defeating a demolition attack on an active quarry.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-878",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Alloy She Wouldn't Share\" (full narrative text at docs/lords-of-cian/chronicles/the-alloy-she-wouldnt-share.md), The Lord of Embers Alias Chronicle XXXIII, wave 11 of ten (waves 6-15). A trained smith invents her own proprietary alloy and withholds it; affirmed as the deeper success of teaching.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-879",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Diplomat Who Came to Negotiate a Surrender\" (full narrative text at docs/lords-of-cian/chronicles/the-diplomat-who-came-to-negotiate-a-surrender.md), The Lord of Embers Alias Chronicle XXXIV, wave 12 of ten (waves 6-15). A Trust diplomat offers formal territorial recognition in exchange for halting the campaign; countered to secure gains without conceding the advance.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-880",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Night the Tide Turned the Battle\" (full narrative text at docs/lords-of-cian/chronicles/the-night-the-tide-turned-the-battle.md), The Lord of Embers Alias Chronicle XXXV, wave 12 of ten (waves 6-15). A detailed Trinity showcase using a tracked tidal schedule as a proactive weapon.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-881",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Ballad That Outgrew the Truth\" (full narrative text at docs/lords-of-cian/chronicles/the-ballad-that-outgrew-the-truth.md), The Lord of Embers Alias Chronicle XXXVI, wave 12 of ten (waves 6-15). A traveling singer's exaggerated ballad, left deliberately uncorrected -- a legend-vs-fact closer.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-882",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Vote to Turn Back\" (full narrative text at docs/lords-of-cian/chronicles/the-vote-to-turn-back.md), The Lord of Embers Alias Chronicle XXXVII, wave 13 of ten (waves 6-15). A genuine crew disagreement over competing priorities, resolved by open deliberation and a crew-proposed compromise.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-883",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Site That Burned Twice\" (full narrative text at docs/lords-of-cian/chronicles/the-site-that-burned-twice.md), The Lord of Embers Alias Chronicle XXXVIII, wave 13 of ten (waves 6-15). The same district burned twice in one season, rebuilding even faster the second time from banked lessons.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-884",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Boy Who Refused the Forge\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-who-refused-the-forge.md), The Lord of Embers Alias Chronicle XXXIX, wave 13 of ten (waves 6-15). A naturally gifted boy chooses healing over smithing, supported rather than pressured.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-885",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Grudge That Outlived the War\" (full narrative text at docs/lords-of-cian/chronicles/the-grudge-that-outlived-the-war.md), The Lord of Embers Alias Chronicle XL, wave 14 of ten (waves 6-15). An unrelated, decades-old local feud the campaign explicitly can't and doesn't try to resolve.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-886",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Forge at the Edge of the Map\" (full narrative text at docs/lords-of-cian/chronicles/the-forge-at-the-edge-of-the-map.md), The Lord of Embers Alias Chronicle XLI, wave 14 of ten (waves 6-15). A detailed Trinity showcase at the campaign's most isolated site, fought with no possibility of reinforcement.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-887",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Senior Smith Passed Down\" (full narrative text at docs/lords-of-cian/chronicles/what-the-senior-smith-passed-down.md), The Lord of Embers Alias Chronicle XLII, wave 14 of ten (waves 6-15). The recurring senior smith trains her own successor -- a bookend for that character.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-888",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Final Burning\" (full narrative text at docs/lords-of-cian/chronicles/the-final-burning.md), The Lord of Embers Alias Chronicle XLIII, wave 15 of ten (waves 6-15). The tour's last attempted burning, rebuilt almost entirely by the district itself with minimal crew involvement.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-889",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Eighteen Months Built\" (full narrative text at docs/lords-of-cian/chronicles/what-eighteen-months-built.md), The Lord of Embers Alias Chronicle XLIV, wave 15 of ten (waves 6-15). A detailed capstone Trinity showcase repelling a combined naval and shore effort to end the tour, using every accumulated refinement of the campaign.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-890",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Anvil's Last Anchorage\" (full narrative text at docs/lords-of-cian/chronicles/the-anvils-last-anchorage.md), The Lord of Embers Alias Chronicle XLV, wave 15 of ten (waves 6-15). A closing legacy entry at the tour's final, ordinary stop, reflecting on the full eighteen-month campaign's cumulative impact, closing the ten-wave run.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }

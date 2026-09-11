@@ -1,8 +1,6 @@
 # The Rebuild That Broke Someone
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XXII, wave 7.
-Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-864`). The Lord of Embers Alias Chronicle XIX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

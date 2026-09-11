@@ -1,8 +1,6 @@
 # The Man Who Could Not Hear
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XXVIII, wave 10, first
-entry. Rebellion era, roughly three years after the Night of the Crow King (`MCD-236`, age 23). Not
-a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-843`). The Crow King Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

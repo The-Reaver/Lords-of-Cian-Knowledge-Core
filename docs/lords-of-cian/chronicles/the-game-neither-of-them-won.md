@@ -1,8 +1,6 @@
 # The Game Neither of Them Won
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XXXVIII, wave 13,
-second entry. Rebellion era, roughly four years after the Night of the Crow King (`MCD-236`, age
-23). Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-853`). The Crow King Alias Chronicle XXXVIII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

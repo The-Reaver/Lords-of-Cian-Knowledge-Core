@@ -1,8 +1,6 @@
 # When the Coat Didn't Answer
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle, wave 9. Long Mask era,
-age 178, V3 gear (Golden Terror era, near its close). Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 200, 2026-09-11 (`MCD-810`). The Scourge Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

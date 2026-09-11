@@ -1,10 +1,6 @@
 # The Last Scarecrow
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XLV, wave 15, closing
-entry. Rebellion era, roughly five years after the Night of the Crow King (`MCD-236`, age 23), from
-Commandant Voris's own perspective — already a locked named figure. Not a territory Chronicle.
-Narrated in neutral third-person prose. No new named characters beyond the already-locked Commandant
-Voris.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-860`). The Crow King Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

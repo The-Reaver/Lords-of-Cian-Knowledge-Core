@@ -1,8 +1,6 @@
 # The First Night in the New Coat
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle, wave 9. Long Mask era,
-age 241, V4 gear debut. Not a territory Chronicle. Narrated in neutral third-person prose. No new
-named characters.*
+*Locked canon, Batch 200, 2026-09-11 (`MCD-811`). The Scourge Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

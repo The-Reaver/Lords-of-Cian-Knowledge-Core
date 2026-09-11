@@ -1,8 +1,6 @@
 # What Eighteen Months Built
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XLVII, wave 15.
-Rebellion era, age 27, the Rolling Foundry Campaign's final weeks. A detailed capstone showcase of the
-Trinity. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-889`). The Lord of Embers Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

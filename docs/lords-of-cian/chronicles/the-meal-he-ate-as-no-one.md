@@ -1,8 +1,6 @@
 # The Meal He Ate as No One
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle, wave 14. Long Mask era,
-age 108, V3 gear (Golden Terror era, gear absent from the scene). Not a territory Chronicle. Narrated
-in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 200, 2026-09-11 (`MCD-825`). The Scourge Alias Chronicle XL, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

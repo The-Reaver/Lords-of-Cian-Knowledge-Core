@@ -1,8 +1,6 @@
 # Two Apprentices, Two Roads
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XXXIII, closing
-wave 10. Rebellion era's aftermath, years after the Rolling Foundry Campaign, age 27. Not a territory
-Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-875`). The Lord of Embers Alias Chronicle XXX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

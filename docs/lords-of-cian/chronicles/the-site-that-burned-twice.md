@@ -1,9 +1,6 @@
 # The Site That Burned Twice
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XLI, wave 13.
-Rebellion era, age 27, the Rolling Foundry Campaign. A detailed showcase compressing the alias's core
-mechanic across two punitive strikes in one season. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-883`). The Lord of Embers Alias Chronicle XXXVIII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

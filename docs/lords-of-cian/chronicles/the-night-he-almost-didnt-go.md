@@ -1,8 +1,6 @@
 # The Night He Almost Didn't Go
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle, wave 15. Long Mask era,
-age 250, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 200, 2026-09-11 (`MCD-828`). The Scourge Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

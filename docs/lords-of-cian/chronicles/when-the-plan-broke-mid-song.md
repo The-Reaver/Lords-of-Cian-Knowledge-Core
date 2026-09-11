@@ -1,9 +1,6 @@
 # When the Plan Broke Mid-Song
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XXVI, wave 9, second
-entry. Rebellion era, roughly two and a half years after the Night of the Crow King (`MCD-236`, age
-23). Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters
-beyond the already-locked apprentice singer, unnamed matching established pattern.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-841`). The Crow King Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

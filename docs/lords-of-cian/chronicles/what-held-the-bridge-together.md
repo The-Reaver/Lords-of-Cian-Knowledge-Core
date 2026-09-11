@@ -1,9 +1,6 @@
 # What Held the Bridge Together
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XXXII, wave 10.
-Rebellion era, age 27, the Rolling Foundry Campaign. A detailed showcase of the Trinity defending a
-pontoon river crossing under construction. Not a territory Chronicle. Narrated in neutral third-person
-prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-874`). The Lord of Embers Alias Chronicle XXIX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

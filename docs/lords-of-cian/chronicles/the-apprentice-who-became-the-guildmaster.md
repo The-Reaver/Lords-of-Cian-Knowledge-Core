@@ -1,8 +1,6 @@
 # The Apprentice Who Became the Guildmaster
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XXX, closing wave 9.
-Rebellion era's aftermath, decades after the Rolling Foundry Campaign, age 27. Not a territory
-Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-872`). The Lord of Embers Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

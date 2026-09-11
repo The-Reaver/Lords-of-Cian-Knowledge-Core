@@ -1,9 +1,6 @@
 # What She Wouldn't Say
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XXIII, wave 8, second
-entry. Rebellion era, roughly two years after the Night of the Crow King (`MCD-236`, age 23). Not a
-territory Chronicle. Narrated in neutral third-person prose. No new named characters beyond the
-already-locked apprentice singer, who remains unnamed matching established pattern.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-838`). The Crow King Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

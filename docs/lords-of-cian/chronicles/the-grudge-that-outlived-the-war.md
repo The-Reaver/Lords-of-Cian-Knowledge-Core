@@ -1,8 +1,6 @@
 # The Grudge That Outlived the War
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XLIII, wave 14.
-Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-885`). The Lord of Embers Alias Chronicle XL, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,8 +1,6 @@
 # The Alloy She Wouldn't Share
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XXXVI, closing
-wave 11. Rebellion era, years after the Rolling Foundry Campaign's own passage through her settlement,
-age 27. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-878`). The Lord of Embers Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

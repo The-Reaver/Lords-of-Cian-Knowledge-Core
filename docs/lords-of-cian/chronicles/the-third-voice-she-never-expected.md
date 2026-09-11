@@ -1,9 +1,6 @@
 # The Third Voice She Never Expected
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XXXIX, wave 13, closing
-entry. Rebellion era, roughly four years after the Night of the Crow King (`MCD-236`, age 23). Not a
-territory Chronicle. Narrated in neutral third-person prose. No new named characters beyond the
-already-locked apprentice singer and her student, both unnamed matching established pattern.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-854`). The Crow King Alias Chronicle XXXIX, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

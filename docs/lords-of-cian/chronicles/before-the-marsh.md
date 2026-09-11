@@ -1,10 +1,6 @@
 # Before the Marsh
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XXXI, wave 11, first
-entry. Rebellion era, a flashback set before the Night of the Crow King (`MCD-236`, age 23),
-recounted years later among early crew already locked in canon (Corren Halst, Danne Sok, Maret Vos,
-all present since the Battle of the Black Trench per `MCD-234`). Not a territory Chronicle.
-Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-846`). The Crow King Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

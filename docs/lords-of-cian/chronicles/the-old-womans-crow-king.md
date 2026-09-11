@@ -1,9 +1,6 @@
 # The Old Woman's Crow King
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XVIII, wave 6, closing
-entry. Rebellion era, roughly a year after the Night of the Crow King (`MCD-236`, age 23), told
-from the perspective of an uninvolved market-town resident. Not a territory Chronicle. Narrated in
-neutral third-person prose. No new named characters.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-833`). The Crow King Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

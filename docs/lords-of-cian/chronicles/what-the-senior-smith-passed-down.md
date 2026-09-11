@@ -1,8 +1,6 @@
 # What the Senior Smith Passed Down
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XLV, closing
-wave 14. Rebellion era, age 27, nearing the Rolling Foundry Campaign's final stretch. Not a territory
-Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-887`). The Lord of Embers Alias Chronicle XLII, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

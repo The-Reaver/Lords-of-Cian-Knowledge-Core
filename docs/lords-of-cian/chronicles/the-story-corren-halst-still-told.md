@@ -1,9 +1,6 @@
 # The Story Corren Halst Still Told
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Crow King Alias Chronicle XXXIII, wave 11,
-closing entry. Rebellion era, years after the events of "Before the Marsh," told from the
-perspective of the already-locked Corren Halst. Not a territory Chronicle. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-848`). The Crow King Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

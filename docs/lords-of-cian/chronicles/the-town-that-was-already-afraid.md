@@ -1,8 +1,6 @@
 # The Town That Was Already Afraid
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Scourge Alias Chronicle, wave 6. Long Mask era,
-age 36, roughly a year into the V1 Forge-Coat's service. Not a territory Chronicle. Narrated in
-neutral third-person prose. No new named characters.*
+*Locked canon, Batch 200, 2026-09-11 (`MCD-801`). The Scourge Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

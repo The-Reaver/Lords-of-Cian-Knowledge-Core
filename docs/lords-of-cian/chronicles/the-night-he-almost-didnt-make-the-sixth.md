@@ -1,9 +1,6 @@
 # The Night He Almost Didn't Make the Sixth
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Lord of Embers Alias Chronicle XXXI, wave 10.
-Rebellion era, age 27, the Rolling Foundry Campaign. A detailed combat showcase dramatizing genuine
-overextension. Not a territory Chronicle. Narrated in neutral third-person prose. No new named
-characters.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-873`). The Lord of Embers Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
