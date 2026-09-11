@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "16.1",
+  "ledger_version": "16.2",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1315,6 +1315,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Iron Bastard's fourth three-entry Alias Chronicle wave (MCD-497 through MCD-499). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+    },
+    {
+      "batch": 159,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Lord of Embers' fourth three-entry Alias Chronicle wave (MCD-500 through MCD-502). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9068,6 +9075,27 @@
       "id": "MCD-499",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Student Who Chose Restraint\" (full narrative text at docs/lords-of-cian/chronicles/the-student-who-chose-restraint.md), the Iron Bastard Alias Chronicle XII, closing the fourth wave. A young engineer trained in diagnostic listening comes close to using the technique on a Trust granary out of personal resentment, then chooses restraint and honestly confesses the temptation to Kanja afterward -- the first entry testing the doctrine's ethical transmission to a student rather than only its technical mechanics. No new named characters. Closes the Iron Bastard's fourth three-Chronicle wave (with 'The Frequency He Read Wrong,' MCD-497, and 'What the Rigging Remembered,' MCD-498).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-500",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What Didn't Come Back This Time\" (full narrative text at docs/lords-of-cian/chronicles/what-didnt-come-back-this-time.md), the Lord of Embers Alias Chronicle XIII, first entry in the fourth wave. A third punitive burning finally outpaces the campaign's stretched salvage and marginal-ore resources; the settlement forge is not rebuilt and the settlement relocates instead, the first genuine, honestly acknowledged limit of 'metabolizes punishment' across every prior register. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-501",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Saboteur Among the Apprentices\" (full narrative text at docs/lords-of-cian/chronicles/the-saboteur-among-the-apprentices.md), the Lord of Embers Alias Chronicle XIV. A detailed detection-and-combat showcase: a Directorate infiltrator embedded among The Anvil's apprentices plants a slow structural sabotage; Kanja catches the wrongness in the beam's resonance and patiently traces it to its source over a full day before confronting and restraining the infiltrator, the threat coming from within the cohort rather than an external raid. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-502",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Smith They Said Couldn't Be One\" (full narrative text at docs/lords-of-cian/chronicles/the-smith-they-said-couldnt-be-one.md), the Lord of Embers Alias Chronicle XV, closing the fourth wave. A woman rejected by every conventional smithing guild purely on grounds of sex finds work judged on merit alone at The Anvil, extending the forge's meritocratic ethos into active confrontation with exclusionary guild practice. No new named characters. Closes the Lord of Embers' fourth three-Chronicle wave (with 'What Didn't Come Back This Time,' MCD-500, and 'The Saboteur Among the Apprentices,' MCD-501).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
