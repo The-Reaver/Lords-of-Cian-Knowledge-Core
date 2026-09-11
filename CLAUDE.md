@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 23.1, 1,687 rules, 228 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 23.2, 1,688 rules, 229 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1184,6 +1184,31 @@ Reclamation Records) are now completely reflected in canon; nothing further is q
 source. Abad's approval, quoted verbatim: "continue uninterrupted until completion this includes
 test, commit, push to main origin complete Maw Codex." Ledger reached `ledger_version` 23.1, 1,687
 rules, 228 batches.
+
+**Sankofa's "crack" entry, Batch 229, 2026-09-11 (`MCD-1025`).** Per the pacing agreed in Batch 225:
+"not rushed, not this session unless you want it" -- Abad pointed at it directly this time.
+**Sankofa Chronicle V, "What Tradecraft Gave Away"** (full narrative text at
+`docs/lords-of-cian/chronicles/sankofa-chronicle-v-what-tradecraft-gave-away.md`) is the deliberate
+deepening entry agreed to then: one more entry before any reveal, making the forged-letter/pamphlet
+conspiracy (`PH2-021`, Chronicles II and IV, `MCD-360`/`MCD-1023`) personal to Baale again at higher
+stakes than Chronicle I's face-to-face attack, forcing it to risk real exposure. Combines two of the
+three options discussed then: an overreach (the conspiracy escalates from information warfare to a
+direct assassination attempt for the first time) and a defector with cold feet (a rooftop second
+operative, positioned to kill Baale by a method that doesn't require him to survive a direct
+exchange -- defeating "The Turn"'s own condition -- flees at the last second rather than firing). The
+direct attacker, Yao (a new named character, Akan Thursday-born day-name, zero prior collisions),
+survives the face-to-face exchange and is bound to Baale per "The Turn," exactly matching the
+ability's mechanic. The actual crack: Yao's unprompted account of his own dead-drop recruitment
+describes a distinctive three-corner tucked letter-fold identical to the never-publicized fold used
+in the COINTELPRO-era forged letters from `PH2-021`'s own backstory near-death event -- proof the
+current conspiracy is run by, or was taught directly by, someone from the original campaign who was
+never caught the first time. Deliberately does not name an author; the reveal stays reserved for its
+own future entry, exactly as agreed. Kra and Kojo (both already locked) reused; no other named
+characters. Per Abad's explicit call this batch, Kanja does not appear in this entry at all -- a
+deliberate first for the sub-series, judged too private and personal a moment even for an unnamed
+witness. Abad's approval, quoted verbatim: "Approve as drafted, keep Kanja out." Ledger reached
+`ledger_version` 23.2, 1,688 rules, 229 batches. The reveal entry itself remains unscheduled --
+next up only when Abad points at it again.
 
 **PRE-BOOK-1 FOUNDATION COMPLETE.** All five steps of the bounded, achievable milestone below are
 closed (Batches 68-75), tracked in full in `docs/lords-of-cian/project-roadmap-and-status.md`. This
