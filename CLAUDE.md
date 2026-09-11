@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 22.7, 1,642 rules, 224 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 22.8, 1,644 rules, 225 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1024,6 +1024,28 @@ duplicate IDs verified after every single batch. Every alias now has nineteen co
 Chronicles each, 627 Alias Chronicles total). Per Abad's own direction, this run closes the Alias
 Chronicle track for now -- no further wave starts automatically; work shifts to whichever other
 thread Abad points at next.
+
+**The two deliberately reserved threads advanced, Batch 225, 2026-09-11 (`MCD-1023`, `MCD-1024`).**
+Abad picked this thread from an options list, then specified scope for each individually: the
+Sankofa conspiracy should deepen rather than resolve, the Arturo long-arc should take a meaningful
+step short of its full payoff. Drafted, presented in full, and locked on "lock it up." **Sankofa
+Chronicle IV, "What the Clinic Wasn't Told"** (`MCD-1023`) escalates `PH2-021`'s forged-letter
+conspiracy from a single private letter (Chronicle II, `MCD-360`) to a public pamphlet campaign
+against the community health clinic Baale opened in Chronicle III (`MCD-518`) -- healing recast as
+"The Turn" in disguise, an attack on the one institution built to sit outside his own reputation.
+Baale answers with transparency (opening the clinic's books publicly) rather than violence; a
+courier caught mid-delivery is paid through a three-layer cutout and knows nothing, deepening the
+"conspiracy that never shows its face" framing rather than resolving it. **Xaragua Chronicle V, "The
+Night He Was Let Into the Room"** (`MCD-1024`) advances the Kanja/Arturo long-arc a real step:
+introduces a previously-undramatized standing private annual remembrance Arturo and Yaisa (`PH2-062`)
+hold for his lost dock-boy cohort (Nzila, Tunde, Bendu, named in `MCD-361`), with Kanja invited for
+the first time. Arturo states directly this is not unguarded-banter parity with Yaisa -- her standing
+depends on remembering who he was before the reputation, not on earned trust -- and Kanja
+reciprocates with an unnamed disclosure of a past loss of his own. Closes on a warmer, near-banter
+note that deliberately stops short of the flagged full payoff. No new named characters in either
+entry. Ledger reached `ledger_version` 22.8, 1,644 rules, 225 batches. Both threads remain open for
+future entries -- the conspiracy's author still unidentified, the long-arc's full payoff still
+unwritten.
 
 ## Roadmap to Pre-Book-1 Foundation Complete -- DONE, 2026-09-06, Batch 75
 

@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "22.7",
+  "ledger_version": "22.8",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1777,6 +1777,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 9,
       "note": "Locks the Scourge's seventeenth through nineteenth Alias Chronicle waves (MCD-1014 through MCD-1022, 9 rules). Abad: \"three more waves and then we'll move on to something else this includes testing committing and pushing to origin Main.\" Waves 17-19 (three-per-alias pacing) for the Scourge, completing waves 17-19 across all eleven aliases (Batches 214-224, 99 new Chronicles, MCD-924 through MCD-1022)."
+    },
+    {
+      "batch": 225,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 2,
+      "note": "Locks Sankofa Chronicle IV (MCD-1023) and Xaragua Chronicle V (MCD-1024), advancing the two deliberately reserved threads (Sankofa's forged-letter conspiracy, PH2-021; the Kanja/Arturo long-arc, PH2-061/062). Abad: \"lock it up.\" Advances the two deliberately reserved threads flagged across many prior batches: Sankofa's forged-letter conspiracy (PH2-021), deepened without resolving it, and the Kanja/Arturo Salvatierra Duho long-arc (PH2-061/062), advanced a meaningful step short of full payoff, per Abad's explicit choices on scope for each thread this round."
     }
   ],
   "rules": [
@@ -13191,6 +13198,20 @@
       "id": "MCD-1022",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Last Coat He Ever Wore\" (full narrative text at docs/lords-of-cian/chronicles/the-last-coat-he-ever-wore.md), The Scourge Alias Chronicle LVII, wave 19. Age 314, V4 gear, the final year of the 284-year Long Mask. The literal last mission under the Scourge identity; the coat comes off for good that night, ending the span by conscious choice, deliberately left open for future material. Closes wave 19.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1023",
+      "category": "territory-chronicle",
+      "statement": "Sankofa Chronicle IV, \"What the Clinic Wasn't Told\" (full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-iv-what-the-clinic-wasnt-told.md), the fourth Sankofa territory Chronicle and the second to touch the forged-letter conspiracy from Chronicle II (MCD-360). Escalates the conspiracy from a single private letter aimed at one man's trust to a public pamphlet campaign aimed at an entire city's trust in the community health clinic Baale opened in Chronicle III (MCD-518), turning the institution he built to sit outside his own reputation into a new attack surface. Baale responds with transparency (opening the clinic's books publicly for three days) rather than violence or denial. A courier caught delivering a further wave of pamphlets is paid through a three-layer cutout chain and knows nothing of who is behind it, deepening PH2-021's 'conspiracy that never shows its face' framing without resolving it. Kra and Kojo (both already locked) reused; no new named characters. Kanja present throughout as the unnamed guest, without command, credit, or resolution authorship. The threat's author and motive remain deliberately unidentified at the close.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-1024",
+      "category": "territory-chronicle",
+      "statement": "Xaragua Chronicle V, \"The Night He Was Let Into the Room\" (full narrative text at docs/lords-of-cian/chronicles/xaragua-chronicle-v-the-night-he-was-let-into-the-room.md), the fifth Xaragua Chronicle, set after Xaragua Chronicle IV (MCD-362) in the 'modern' Arturo era. Advances the flagged Kanja/Arturo Salvatierra Duho (PH2-061) long-arc a meaningful step, deliberately short of its full payoff. Introduces a previously-undramatized standing private annual remembrance Arturo and Yaisa (PH2-062) hold for his lost dock-boy cohort -- Nzila, Tunde, and Bendu (named in MCD-361) -- with Kanja invited into it for the first time. Arturo states directly that this does not grant unguarded-banter parity with Yaisa, whose unique standing depends on remembering who he was before the reputation, not on earned trust; Kanja reciprocates with an unnamed personal disclosure of a past loss of his own, without naming himself or anyone else, maintaining the established unnamed-guest convention. Closes on a warmer, almost-banter note that deliberately stops short of the long-arc's flagged full payoff, leaving it open for a future entry. No new named characters.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
