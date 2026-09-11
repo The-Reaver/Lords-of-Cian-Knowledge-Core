@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 26.7, 2,053 rules, 264 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 27.8, 2,086 rules, 275 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1370,6 +1370,47 @@ Ostra, Dol Maren -- he/him per the same reconciliation -- Sephtis and his succes
 the recurring Trust scholar/Directorate general/student for the Iron Bastard).
 
 Ledger reached `ledger_version` 26.7, 2,053 rules, 264 batches by the end of this run -- zero
+duplicate IDs and zero orphaned file references verified after every batch. Per the standing pacing
+rule, the next wave for any alias starts only when Abad points at it.
+
+**A thirty-first Alias Chronicle wave for all eleven aliases, Batches 265-275, 2026-09-11
+(`MCD-1391` through `MCD-1423`, 33 new Chronicles), per Abad's direction: "let's do a 31st alias
+wave for all eleven."** Same parallel-agent pattern as the prior run: eleven background agents, one
+per alias, each grepping its own alias's complete 90-entry prior history from the ledger before
+drafting, collision-checking new proper nouns, and writing 3 Chronicle files plus an unexecuted
+merge script for the orchestrating session to verify and run. Every named alias now has **thirty-one
+complete waves -- ninety-three Chronicles each, 1,023 Alias Chronicles total**.
+
+Representative new registers: Bane's wave opens with a whiteout-blizzard combat showcase where
+Sovereign Eyes fails outright, forcing a sound/vibration-only Trinity defense, then a
+trusted-insider betrayal caught from inside the column rather than by an external enemy, and closes
+on Toran's first fully unsupervised command; the Trench Monarch gives Danne Sok his first dedicated
+in-era entry, opens a predatory-private-lending register answered by an honest parallel fund, and
+closes on the sub-series' first purely celebratory entry, a dockworker wedding; the Industrial Myth
+stays strictly unarmed and turns the tally method inward on the workers' own mutual-aid fund, takes
+its first workplace-fatality liability case, and closes with a trained successor auditor running a
+case entirely solo; the Blue-Collar Titan gets a mechanized Directorate boring-engine combat
+showcase, an institutional-legitimacy-poaching entry testing the tradesmen's association charter,
+and a years-later collaboration with a previously spared Trust engineer; the Sovereign Ghost of the
+Great Sea gets its first foot-combat-on-ice showcase, its first entry resolved by Callum Breck alone
+and unarmed, and its reputation weaponized as unauthorized propaganda in a distant civil conflict,
+publicly refused; the Scourge stays within the persona's already-locked final year (age 313-314),
+closing on the quiet night immediately before the already-locked final mission (`MCD-1022`) without
+touching or restaging it; the Crow King shifts register from direct generational teaching to
+documentary propagation, the craft taking root via a lost written page in a distant river town,
+while the fifth-generation succession question stays deliberately open; the Iron Bastard builds
+directly on wave 30's unresolved depot-Crawler hook, reframing it as likely reverse-engineered from
+the academy's own published research, then a war-engine hidden in a running tide-mill's ambient
+noise, and the largest-scale refusal yet of exclusive weaponized teaching, offered by a foreign
+sovereign; the Lord of Embers opens two new registers -- natural winter-scarcity deprivation with no
+enemy at all, and a flowing-water millrace combat showcase -- then closes on Efa Gol's first
+outside-fleet-visitor entry; the Storm That Walks stages a genuine three-way disagreement among all
+three credited weather traditions resolved without Kanja, a deliberate (not crisis-forced)
+forecasting-authority handoff to the fourth generation, and a closer honestly logging a Titan-class
+vessel's uncharted weather disturbance as an open doctrine gap; and Captain closes the full run. No
+new named characters were introduced anywhere in this run; every entry reused already-locked crew.
+
+Ledger reached `ledger_version` 27.8, 2,086 rules, 275 batches by the end of this run -- zero
 duplicate IDs and zero orphaned file references verified after every batch. Per the standing pacing
 rule, the next wave for any alias starts only when Abad points at it.
 
