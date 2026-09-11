@@ -1,6 +1,6 @@
 # The Calm That Was Made, Not Found
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Storm That Walks Alias Chronicle XLVI, wave 16. Rebellion era, a Gale Straits-adjacent corridor engagement in the years after Admiral Krael's retirement. Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters; Sephtis and his successor referenced, the successor appears on-page.*
+*Locked canon, Batch 208, 2026-09-11 (`MCD-906`). The Storm That Walks Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

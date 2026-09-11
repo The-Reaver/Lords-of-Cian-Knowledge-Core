@@ -1,6 +1,6 @@
 # The Surrender That Wasn't One
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XLVII, wave 16. Rebellion era, within the "Bane" window, before the Corrow ravine engagement — not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 209, 2026-09-11 (`MCD-910`). Bane Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Line He Drew Inside His Own Column
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XLVI, wave 16. Rebellion era, within the "Bane" window, several months before the Corrow ravine engagement (the fifteenth wave's closing entry) — not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 209, 2026-09-11 (`MCD-909`). Bane Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

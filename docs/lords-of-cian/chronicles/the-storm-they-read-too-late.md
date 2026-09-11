@@ -1,6 +1,6 @@
 # The Storm They Read Too Late
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Storm That Walks Alias Chronicle XLVII, wave 16. Rebellion era, immediately following "The Calm That Was Made, Not Found." Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 208, 2026-09-11 (`MCD-907`). The Storm That Walks Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

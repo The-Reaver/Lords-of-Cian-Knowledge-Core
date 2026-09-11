@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "21.0",
+  "ledger_version": "21.3",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1658,6 +1658,27 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Scourge's sixteenth Alias Chronicle wave (MCD-903 through MCD-905, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Scourge."
+    },
+    {
+      "batch": 208,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Storm That Walks' sixteenth Alias Chronicle wave (MCD-906 through MCD-908, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Storm That Walks."
+    },
+    {
+      "batch": 209,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks Bane's sixteenth Alias Chronicle wave (MCD-909 through MCD-911, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for Bane."
+    },
+    {
+      "batch": 210,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Sovereign Ghost of the Great Sea's sixteenth Alias Chronicle wave (MCD-912 through MCD-914, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Sovereign Ghost of the Great Sea."
     }
   ],
   "rules": [
@@ -12253,6 +12274,69 @@
       "id": "MCD-905",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Boy He Once Cut Free\" (full narrative text at docs/lords-of-cian/chronicles/the-boy-he-once-cut-free.md), The Scourge Alias Chronicle XLVIII, wave 16. Age 122, V3 gear, minimal use. A man he personally freed as a nine-year-old captive decades earlier is found running his own small trafficking operation. Kanja frees the man's captives but hands him over to Garren Hask's ledger-keeping rather than punishing or absolving him -- a deliberately unresolved confrontation with the limit of \"freedom redeems.\" Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-906",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Calm That Was Made, Not Found\" (full narrative text at docs/lords-of-cian/chronicles/the-calm-that-was-made-not-found.md), The Storm That Walks Alias Chronicle XLVI, wave 16. The sub-series' first genuine deception of the forecasting method itself: a Directorate defector infiltrates the successor's relay network and falsifies confirmation signals, feeding her a fabricated \"clean\" six-hour calm window while withholding knowledge of a real, fast-approaching storm, exposing supply hulls in open water.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-907",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Storm They Read Too Late\" (full narrative text at docs/lords-of-cian/chronicles/the-storm-they-read-too-late.md), The Storm That Walks Alias Chronicle XLVII, wave 16. With no time to retreat, Kanja reads the incoming storm by raw observation rather than a forecast and turns all three Trinity pieces defensively against the storm's physical force itself to save the convoy, rather than against an enemy combatant -- two hulls damaged, none lost, no deaths.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-908",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Second Sky-Reader Doubted After\" (full narrative text at docs/lords-of-cian/chronicles/what-the-second-sky-reader-doubted-after.md), The Storm That Walks Alias Chronicle XLVIII, wave 16. Unable to \"study\" a deliberate deception the way she could study an honest miscalculation, Sephtis's successor works through her own doubt with him and institutes a permanent new safeguard -- an independent \"second watch\" verification line across the relay network. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-909",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Line He Drew Inside His Own Column\" (full narrative text at docs/lords-of-cian/chronicles/the-line-he-drew-inside-his-own-column.md), Bane Alias Chronicle XLVI, wave 16. A recruit beats a captured, already-cooperative Directorate clerk out of cruelty rather than necessity. Bane holds a formal reckoning inside his own column, expelling the recruit rather than killing him, grounding the choice in \"the fear only works if it's true\": cruelty from inside breaks the mechanism as surely as cruelty from outside would.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-910",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Surrender That Wasn't One\" (full narrative text at docs/lords-of-cian/chronicles/the-surrender-that-wasnt-one.md), Bane Alias Chronicle XLVII, wave 16. A garrison stages a fake surrender using \"wounded\" soldiers on stretchers as cover for an ambush. Onyx's Veil Piercer power gets its first dedicated showcase -- reading what things actually are beneath how they're arranged to look -- completing a trilogy with the already-locked Black Ledger and Soulbound Edge showcases. Bane exposes the ruse without violence beyond forcing the ambushers to reveal themselves.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-911",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Fire He Chose Over the Ambush\" (full narrative text at docs/lords-of-cian/chronicles/the-fire-he-chose-over-the-ambush.md), Bane Alias Chronicle XLVIII, wave 16. Mid-campaign, with three days invested in positioning an ambush on a supply convoy, a wildfire set as scorched-earth denial threatens a small neutral herding settlement. Bane abandons the ambush entirely to save the settlement -- a deliberate forfeiture of a major tactical investment as a clear-eyed choice, carried entirely by ordinary physical labor since no Trinity ability applies to a fire. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-912",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Mercy That Cost Them\" (full narrative text at docs/lords-of-cian/chronicles/the-mercy-that-cost-them.md), Sovereign Ghost of the Great Sea Alias Chronicle XLVI, wave 16. Kanja's standard-practice parole of a captured Trust clerk is followed, weeks later, by a devastatingly precise reprisal raid on a fleet-aligned fishing settlement that could only have come from inside knowledge. Guilt is never confirmed or ruled out -- the alias's first genuine moral-cost failure entry, with Kanja choosing, without comfort, to keep making the same trade afterward.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-913",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Crew Argued Over\" (full narrative text at docs/lords-of-cian/chronicles/what-the-crew-argued-over.md), Sovereign Ghost of the Great Sea Alias Chronicle XLVII, wave 16. In the raid's aftermath, a grieving young crewman directly challenges the restraint doctrine aboard The Receipt. Efa Gol and Kanja don't out-argue him into agreement -- the disagreement is explicitly left open and carried, establishing the doctrine survives only through active maintenance, not automatic consensus.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-914",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Flag That Wasn't Theirs\" (full narrative text at docs/lords-of-cian/chronicles/the-flag-that-wasnt-theirs.md), Sovereign Ghost of the Great Sea Alias Chronicle XLVIII, wave 16. An unrelated faction stages a black-sail atrocity against a village specifically to defame the ghost fleet's name -- provably not them, but the perpetrators are never caught. Kanja shows up unarmed with proof and restitution, and some villagers are convinced while others never will be, establishing a genuine limit of the reputation-defense playbook. Closes the wave.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }

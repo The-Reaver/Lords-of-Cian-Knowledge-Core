@@ -1,8 +1,6 @@
 # The Mercy That Cost Them
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle XLVI,
-wave 16. Rebellion era, naval theater, post-Black-Trench. Not a territory Chronicle. Narrated in
-neutral third-person prose. No new named characters.*
+*Locked canon, Batch 210, 2026-09-11 (`MCD-912`). Sovereign Ghost of the Great Sea Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

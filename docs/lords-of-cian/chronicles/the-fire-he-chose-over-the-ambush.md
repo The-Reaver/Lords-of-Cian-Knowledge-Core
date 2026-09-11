@@ -1,6 +1,6 @@
 # The Fire He Chose Over the Ambush
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Bane Alias Chronicle XLVIII, wave 16, closing the wave. Rebellion era, within the "Bane" window, before the Corrow ravine engagement — not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 209, 2026-09-11 (`MCD-911`). Bane Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

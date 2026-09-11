@@ -1,6 +1,6 @@
 # What the Second Sky-Reader Doubted After
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Storm That Walks Alias Chronicle XLVIII, wave 16, closing the wave. Rebellion era, days after "The Storm They Read Too Late." Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters; Sephtis and his successor appear on-page.*
+*Locked canon, Batch 208, 2026-09-11 (`MCD-908`). The Storm That Walks Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 

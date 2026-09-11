@@ -1,8 +1,6 @@
 # The Flag That Wasn't Theirs
 
-*[DRAFT — awaiting batch/rule-ID assignment]. Sovereign Ghost of the Great Sea Alias Chronicle XLVIII,
-wave 16, closing the wave. Rebellion era, naval theater. Not a territory Chronicle. Narrated in
-neutral third-person prose. No new named characters.*
+*Locked canon, Batch 210, 2026-09-11 (`MCD-914`). Sovereign Ghost of the Great Sea Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
