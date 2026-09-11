@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "20.5",
+  "ledger_version": "20.7",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1623,6 +1623,20 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 30,
       "note": "Locks the Lord of Embers's sixth through fifteenth Alias Chronicle waves (MCD-861 through MCD-890, 30 rules, 10 waves of 3). Completes waves 6-15 (330 new Chronicles total) across all eleven aliases (Batches 192-202). Abad: \"I want you to do the sixth wave plus nine more waves for all the aliases continuously, uninterrupted, this includes rigorous testing to ensure no contradictions or errors, committing and pushing to origin Main, and please make sure that all Chronicles are styled inside of the Google Drive and organized neatly where every territory everybody that has their own Chronicle entry is in a separate folder entirely.\" Completes the run: every alias now has ten full waves (waves 1-15, minus a fixed gap at none -- waves 1 through 5 were already locked; this batch and its nine siblings (Batches 192-201) complete waves 6 through 15)."
+    },
+    {
+      "batch": 203,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Blue-Collar Titan's sixteenth Alias Chronicle wave (MCD-891 through MCD-893, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Blue-Collar Titan."
+    },
+    {
+      "batch": 204,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Industrial Myth's sixteenth Alias Chronicle wave (MCD-894 through MCD-896, 3 rules). Abad: \"do the waves per alias x 11 aliases... continue uninterrupted until completion this includes test, commit, push to main origin.\" Sixteenth wave (three-per-alias pacing) for the Industrial Myth."
     }
   ],
   "rules": [
@@ -12113,6 +12127,48 @@
       "id": "MCD-890",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Anvil's Last Anchorage\" (full narrative text at docs/lords-of-cian/chronicles/the-anvils-last-anchorage.md), The Lord of Embers Alias Chronicle XLV, wave 15 of ten (waves 6-15). A closing legacy entry at the tour's final, ordinary stop, reflecting on the full eighteen-month campaign's cumulative impact, closing the ten-wave run.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-891",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Wall He Built to Come Down\" (full narrative text at docs/lords-of-cian/chronicles/the-wall-he-built-to-come-down.md), The Blue-Collar Titan Alias Chronicle XLVI, wave 16. Kanja is ordered to personally demolish a reinforced causeway crossing he himself built earlier in the Sewer War of Killane, to deny it to a Trust relief column. Establishes the alias's first identity-reversal register: the same structural-reading discipline used to build and repair applied to precise, minimal-collateral controlled demolition of his own completed work.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-892",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Inspector Never Found\" (full narrative text at docs/lords-of-cian/chronicles/what-the-inspector-never-found.md), The Blue-Collar Titan Alias Chronicle XLVII, wave 16. A surprise Directorate structural inspector audits the section Kanja has covertly reinforced for defensive purposes. He passes the inspection entirely on genuine, verifiable tradesman competence and true, if incomplete, answers -- no lies, no evasion, no Trinity -- establishing cover held by real craftsmanship surviving real interrogation.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-893",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Numbers That Forgave No One\" (full narrative text at docs/lords-of-cian/chronicles/the-numbers-that-forgave-no-one.md), The Blue-Collar Titan Alias Chronicle XLVIII, wave 16. Two workers die from a support-timber failure that turns out, after two days of rigorous investigation, to be nobody's fault at all -- a genuinely undetectable material flaw. Establishes the alias's first no-fault forensic register: Kanja delivers the hardest kind of true account to grieving families, refusing to manufacture a villain or a preventable lesson. Closes the wave.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-894",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What His Hands Remembered\" (full narrative text at docs/lords-of-cian/chronicles/what-his-hands-remembered.md), The Industrial Myth Alias Chronicle XLVI, wave 16. A brick-kiln district distrusts outside \"soft hands\" investigators. Kanja works the worst barrow rotation in the yard for four days, splitting his hands and falling behind the pace like any new hauler, before ever asking a single wage question -- trust earned through failed, unglamorous physical labor rather than the ledger method.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-895",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Proof Couldn't Undo\" (full narrative text at docs/lords-of-cian/chronicles/what-the-proof-couldnt-undo.md), The Industrial Myth Alias Chronicle XLVII, wave 16. A woman's wage-debt testimony is proven cleanly, but the district overseer retaliates by evicting her on an unrelated tenancy pretext before the ledger can act as protection. Establishes a new standing practice: the campaign now arranges concrete relief for anyone who testifies, not just recording their debt, without pretending the gap is fully closed.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-896",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The District That Kept Its Own Books\" (full narrative text at docs/lords-of-cian/chronicles/the-district-that-kept-its-own-books.md), The Industrial Myth Alias Chronicle XLVIII, wave 16. A quarry-district worker asks who protects the next crew once the tally team moves on. The crew stays four extra days training a dozen local workers in Ezio's corrective auditing method, then leaves the district's ledger in their own keeping -- scaling knowledge-transfer from individual mentorship to district-wide self-sufficiency as a repeatable standing policy. Closes the wave.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }

@@ -1,6 +1,6 @@
 # The Wall He Built to Come Down
 
-*[DRAFT — awaiting batch/rule-ID assignment]. The Blue-Collar Titan Alias Chronicle XLVI, wave 16. Rebellion era, during the Sewer War of Killane (age 20). Not a territory Chronicle. Narrated in neutral third-person prose. No new named characters.*
+*Locked canon, Batch 203, 2026-09-11 (`MCD-891`). The Blue-Collar Titan Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
