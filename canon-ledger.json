@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "15.4",
+  "ledger_version": "15.5",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1266,6 +1266,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks Bane's fourth three-entry Alias Chronicle wave (MCD-476 through MCD-478), the first of a new continuous run covering both a fourth Alias Chronicle wave and a third territory-Chronicle entry. Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\" Starts a fourth Alias Chronicle wave, beginning with Bane."
+    },
+    {
+      "batch": 152,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Trench Monarch's fourth three-entry Alias Chronicle wave (MCD-479 through MCD-481). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -8872,6 +8879,27 @@
       "id": "MCD-478",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Child Who Wasn't Afraid\" (full narrative text at docs/lords-of-cian/chronicles/the-child-who-wasnt-afraid.md), Bane Alias Chronicle XII, closing the fourth wave. A freed child too young to know the stories tells Bane plainly that he isn't scary, just tired -- a quiet, humanizing closer stripping the reputation away entirely and showing VB-060's presence trait by its total absence for the first time. No new named characters. Closes Bane's fourth three-Chronicle wave (with 'The Fight He Couldn't Walk Away From,' MCD-476, and 'What the Delay Cost,' MCD-477).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-479",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Line Cost His Own Hands\" (full narrative text at docs/lords-of-cian/chronicles/what-the-line-cost-his-own-hands.md), Trench Monarch Alias Chronicle X, first entry in the fourth wave. A crushing hand injury from an ordinary dredge-cart accident tests the 'digging his own crown' ethos against physical vulnerability; Kanja returns to work too early out of stubborn principle before a fellow worker's plain honesty corrects him into genuinely resting. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-480",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Line That Wouldn't Break\" (full narrative text at docs/lords-of-cian/chronicles/the-line-that-wouldnt-break.md), Trench Monarch Alias Chronicle XI. Hired enforcers raid the dredge line at shift change; a detailed close-quarters solo-blade defense (Onyx of Oblivion only, Mafesto/Obsidian Malice still dormant/undeployed pre-Black-Trench) protects unarmed workers rather than demonstrating powers cleanly, costing Kanja a shallow wound taken shielding a frozen worker. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-481",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Organizer Who Competed for the Same Crowd\" (full narrative text at docs/lords-of-cian/chronicles/the-organizer-who-competed-for-the-same-crowd.md), Trench Monarch Alias Chronicle XII, closing the fourth wave. A rival organizer's harder, more confrontational method is forced into cooperation with Kanja's patient tally approach during a joint labor dispute; the two methods prove complementary rather than either superior, resolving the dispute faster together than either alone would have. No new named characters. Closes the Trench Monarch's fourth three-Chronicle wave (with 'What the Line Cost His Own Hands,' MCD-479, and 'The Line That Wouldn't Break,' MCD-480).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
