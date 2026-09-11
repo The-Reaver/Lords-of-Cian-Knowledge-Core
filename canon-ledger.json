@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "19.0",
+  "ledger_version": "19.1",
   "last_updated": "2026-09-11",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -1518,6 +1518,13 @@
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 3,
       "note": "Locks the Crow King's fifth three-entry Alias Chronicle wave (MCD-546 through MCD-548). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
+    },
+    {
+      "batch": 188,
+      "date": "2026-09-11",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document.",
+      "rule_count": 3,
+      "note": "Locks the Iron Bastard's fifth three-entry Alias Chronicle wave (MCD-549 through MCD-551). Abad: \"do a wave through all the aliases. do this continuously, uninterrupted, this includes rigorous testing, committing, and pushing to origin Main.\""
     }
   ],
   "rules": [
@@ -9614,6 +9621,27 @@
       "id": "MCD-548",
       "category": "kanja-alias-chronicle",
       "statement": "\"The Voice Two Generations Removed\" (full narrative text at docs/lords-of-cian/chronicles/the-voice-two-generations-removed.md), the Crow King Alias Chronicle XV, closing the fifth wave. The already-locked apprentice (MCD-451, MCD-496) takes on her own student without asking permission first; Kanja endorses the third-generation transmission, the craft evolving past his own original teaching while the underlying discipline of listening before cleverness stays constant. No new named characters beyond the already-locked apprentice. Closes the Crow King's fifth three-Chronicle wave (with 'The Division That Marched Itself Away,' MCD-546, and 'The Spy Who Read the Signals Back,' MCD-547).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-549",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Day of Ten Engines\" (full narrative text at docs/lords-of-cian/chronicles/the-day-of-ten-engines.md), the Iron Bastard Alias Chronicle XIII, first entry in the fifth wave. A detailed combat showcase against ten simultaneous siege engines assaulting a causeway; Kanja reads and disables nine in sequence, explicitly taking the extra seconds to verify each reading despite time pressure, directly applying the doubled-verification discipline learned from 'The Frequency He Read Wrong' (MCD-497). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-550",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"The Wall That Lied to Him\" (full narrative text at docs/lords-of-cian/chronicles/the-wall-that-lied-to-him.md), the Iron Bastard Alias Chronicle XIV. A Directorate engineer builds a wall with deliberately falsified stress signatures designed to deceive the resonance doctrine's own diagnostic method into a confident but wrong discharge; Kanja's doubled verification catches the deception and finds the wall's genuine, unrelated weak point instead -- the first deliberate, engineered deception of the doctrine's mechanism itself. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-11, no source document."
+    },
+    {
+      "id": "MCD-551",
+      "category": "kanja-alias-chronicle",
+      "statement": "\"What the Scholar Finally Published\" (full narrative text at docs/lords-of-cian/chronicles/what-the-scholar-finally-published.md), the Iron Bastard Alias Chronicle XV, closing the fifth wave. The Trust scholar from MCD-421 finally publishes his once-shelved research through an independent academy years later, extending the doctrine's honesty-outlasts-suppression theme into institutional legitimization achieved through patience. No new named characters beyond the already-locked scholar. Closes the Iron Bastard's fifth three-Chronicle wave (with 'The Day of Ten Engines,' MCD-549, and 'The Wall That Lied to Him,' MCD-550).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     }
