@@ -1729,8 +1729,17 @@ him, with Kalamu's press-based remedy explicitly declined as the wrong tool for 
 No new named characters beyond the four collision-checked minor figures in Tunji's run (Zola, Juma,
 Torvald, Adaeze); Femi's run introduced none. Kazi now stands at 13 territory Chronicles, more than
 any other single territory except Xaragua. Ledger reached `ledger_version` 29.2, 2,197 rules, 289
-batches -- zero duplicate IDs verified after each batch. No Google Drive sync performed in this
-pass -- the 10 new files exist locally and in git only.
+batches -- zero duplicate IDs verified after each batch.
+
+**Google Drive sync closed for Tunji's and Femi's Chronicles, 2026-09-12.** The 10 new Kazi Chronicle
+files from Batches 288-289 (`MCD-1523` through `MCD-1532`) were uploaded to the existing Kazi
+territory Chronicle Drive folder (under "Phase 2 Homage Era - Territory Chronicles"), which already
+held Chronicles I-III. Read two existing docs first to confirm the folder's established plain-text
+convention (backticks stripped from rule-ID references, `---` converted to `-----`, italic wrapper
+asterisks removed from the header/footer note paragraphs, the `# Title` line kept as literal text) and
+applied the same transformation to all 10 new files before upload. Final listing verified at a full
+13/13 (3 pre-existing + 10 new), deduplicated by file ID, no duplicates. No git or ledger changes in
+this pass -- upload-only, matching the established Drive-sync pattern used throughout the project.
 
 ## Separate, unrelated thread: the interactive archive app
 
