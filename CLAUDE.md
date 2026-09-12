@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-11 it sits at `ledger_version` 28.9, 2,185 rules, 286 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-12 it sits at `ledger_version` 29.0, 2,187 rules, 287 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1672,6 +1672,22 @@ counts read as 103 or showed an apparent duplicate title before this deduplicati
 **All eleven alias Drive folders now verified at a full 102/102**, closing Drive sync debt for waves
 32-34 -- 990 Alias Chronicles are now 1,122, and all of them are mirrored to Drive. No git or ledger
 changes in this pass -- upload-only, matching the established pattern from every prior Drive sync.
+
+**Kazi's founding rank-and-file organizers, Batch 287, 2026-09-12 (`PH2-065`, `PH2-066`).** `PH2-051`
+itself flagged a real gap: Kunle (`PH2-063`, homage to Ken Cockrel Sr.) and Kalamu (`PH2-064`, a
+Watson/Hamlin composite) already fill Irin's "two founding co-organizers" slot as the legal/press
+lieutenants, but the actual in-plant strike leadership behind DRUM's May 1968 wildcat had never been
+homaged. Web-researched and confirmed against Wayne State's Reuther Library and contemporary accounts
+before drafting: Chuck Wooten, described as "the guiding force" alongside General Baker among Black
+workers on the Dodge Main floor, and Ron March, who won election to Local 3's own union trustee seat
+in 1969 -- DRUM's first electoral foothold inside the institution it was built to pressure. Locked as
+a distinct pair rather than crowding or contradicting the existing lieutenant framing: Tunji (homage
+to Wooten, Yoruba "reunited/gathered together," the shop-floor organizer who has the floor already
+lined up before Irin ever needs to call a halt) and Femi (homage to March, Yoruba "love me," whose
+union seat Irin treats as one more front rather than a settled victory). Both names collision-checked
+clean against the full ledger before drafting. No Chronicle drafted yet -- just the character
+additions, presented and approved before any scene was written. Abad's approval: "lock it." Ledger
+reached `ledger_version` 29.0, 2,187 rules, 287 batches.
 
 ## Separate, unrelated thread: the interactive archive app
 
