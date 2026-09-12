@@ -1652,6 +1652,27 @@ when Abad points at it. No Google Drive sync was performed in this run -- the ne
 files exist locally and in git only; syncing them to their respective alias Drive folders remains open
 whenever Abad wants it, following the same established pattern used for waves 22-31.
 
+**Google Drive sync closed for waves 32-34, 2026-09-11/12.** Eleven parallel agents, one per alias,
+each uploaded its own 9 new Chronicle files to the alias's existing Drive folder, verifying the
+folder's established formatting convention by reading existing docs first rather than assuming it.
+Two real convention variants were confirmed and preserved correctly: Storm That Walks' folder keeps
+rule IDs in **bold** rather than stripped to plain text, matching its own established pattern from
+earlier syncs; every other alias folder strips backticks/asterisks to plain text. Several agents
+caught and self-corrected real formatting mistakes before finishing: the Trench Monarch and Iron
+Bastard agents each initially chose the wrong upload approach (explicit `text/plain`/pre-stripped
+content vs. Drive's own markdown-to-Doc auto-conversion) and, catching the mismatch by diffing their
+own upload against existing folder docs, trashed the bad copies and re-uploaded correctly; Bane's
+agent caught a rule-ID reference embedded in body prose (not just the header/footer notes) that its
+first-pass script had missed stripping; the Scourge's agent caught and fixed two prose-level edge
+cases (a hyphenated compound word split across a source line-wrap, and an inline italic-emphasis
+span distinct from the block-level wrapper asterisks). Every agent's final verification paginated the
+full folder listing and deduplicated by file ID rather than trusting a raw row count, since Drive's
+pagination boundary reliably returns one overlapping file between pages -- several agents' first-pass
+counts read as 103 or showed an apparent duplicate title before this deduplication step caught it.
+**All eleven alias Drive folders now verified at a full 102/102**, closing Drive sync debt for waves
+32-34 -- 990 Alias Chronicles are now 1,122, and all of them are mirrored to Drive. No git or ledger
+changes in this pass -- upload-only, matching the established pattern from every prior Drive sync.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
