@@ -4,7 +4,7 @@ By Abad Morel. This file tells a Claude Code session how to continue the canon-l
 
 ## What this is
 
-`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-12 it sits at `ledger_version` 29.0, 2,187 rules, 287 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
+`canon-ledger.json` in this folder is the authoritative canon-rules ledger for the Lords of Cian world. It is a flat list of atomic, source-cited rules (`rules`), a log of every extraction/invention pass (`batches_completed`), and a small set of still-open questions (`open_decisions`). As of 2026-09-12 it sits at `ledger_version` 29.2, 2,197 rules, 289 batches, zero duplicate rule IDs, zero rules remaining in `"status": "draft"`.
 
 The ledger is also mirrored as a doc in the "My Rival's Distance: The Lords Of Cian" Claude Project (`claude/canon-ledger.json`), so it stays visible across claude.ai, Cowork, and Claude Code. Whichever session edits the local file should sync the change back to that project doc when possible; if a session has no way to reach the Project, edit the local file and note in the handoff that a sync is still owed.
 
@@ -1688,6 +1688,49 @@ union seat Irin treats as one more front rather than a settled victory). Both na
 clean against the full ledger before drafting. No Chronicle drafted yet -- just the character
 additions, presented and approved before any scene was written. Abad's approval: "lock it." Ledger
 reached `ledger_version` 29.0, 2,187 rules, 287 batches.
+
+**Tunji's and Femi's first five-Chronicle arcs, Batches 288-289, 2026-09-12 (`MCD-1523` through
+`MCD-1532`, 10 new Chronicles), per Abad's direction: "give them five Chronicles each."** Two
+parallel background agents each drafted a disjoint five-Chronicle run continuing Kazi's own
+territory-Chronicle series (which stood at three entries, I-III), one per new character locked in
+Batch 287 -- both read all three existing Kazi Chronicles in full for voice/format/continuity before
+drafting, and both collision-checked every new proper noun against the live ledger.
+
+**Kazi Chronicles IV-VIII (`MCD-1523`-`1527`), Tunji.** "The List He Kept Before Anyone Asked"
+dramatizes his patient, months-long recruitment/vetting method directly for the first time, testing
+a new hire (Zola, a new named character) under real cost rather than ease -- understood to predate
+Kazi Chronicle I chronologically, matching the project's established write-order-vs-in-universe-order
+pattern. "What He Read Wrong" is a genuine failure entry: Tunji misjudges a grievance's timing, a
+rigger (Juma, new) is hurt, and a fast improvised read nearly costs the effort a wavering recruit
+(Torvald, new) before Zola's earlier vetting saves it. "The Names He Was Teaching to Read the Floor"
+is a mentorship entry training Bakari (already locked) and Zola, honestly recounting the prior
+failure as part of the teaching. "What the Floor Never Let Him Set Down" is a quiet, crisis-free
+domestic entry with his aunt (Adaeze, new) establishing his origin and the personal toll of always
+reading a room first, Kanja's presence reduced to a single peripheral, wordless appearance matching
+the minimal-presence register Sankofa Chronicle V (`MCD-1025`) already established as acceptable.
+"The Man Who Wouldn't Say Why" resolves Torvald's internal-factional suspicion that Tunji's ease with
+Kunle and Kalamu means divided loyalty, via the sub-series' first direct on-page contrast between
+shop-floor and legal/press registers, trust left only partially repaired rather than fully resolved.
+
+**Kazi Chronicles IX-XIII (`MCD-1528`-`1532`), Femi.** "The Seat They Didn't Expect Him to Win"
+dramatizes his actual campaign and election, won over skeptical rank-and-file through unglamorous
+grievance work rather than borrowed reputation. "What the Books Showed" has him use his trustee
+seat's inspection rights to force an unprecedented fund-audit vote, with Irin explicitly reflecting
+on the institutional route as a genuinely different, complementary tool. "The Offer With the Teeth
+Filed Off" tests the seat as a liability for the first time from inside the movement's own
+institution, when the union's regional office tries to neutralize him with a co-optive promotion and
+then quiet retaliation, both outlasted. "Two Fronts, One War" is the first Kazi Chronicle to give
+Femi and Irin direct shared page time, staging tactical friction between his institutional-grievance
+route and Irin's floor-based halt over the same dispute, resolved when the affected workers choose
+both at once. "The Weight of Being Inside" closes the arc on a quiet personal register: the isolation
+of holding a seat trusted fully by neither union leadership nor all of the rank-and-file who elected
+him, with Kalamu's press-based remedy explicitly declined as the wrong tool for a trust problem.
+
+No new named characters beyond the four collision-checked minor figures in Tunji's run (Zola, Juma,
+Torvald, Adaeze); Femi's run introduced none. Kazi now stands at 13 territory Chronicles, more than
+any other single territory except Xaragua. Ledger reached `ledger_version` 29.2, 2,197 rules, 289
+batches -- zero duplicate IDs verified after each batch. No Google Drive sync performed in this
+pass -- the 10 new files exist locally and in git only.
 
 ## Separate, unrelated thread: the interactive archive app
 
