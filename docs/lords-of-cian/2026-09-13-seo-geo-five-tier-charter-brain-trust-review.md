@@ -251,7 +251,24 @@ two real seats) independent of which tier is chosen as the SEO surface. Q1, Q3, 
 convergence described, corroborated rather than superseded by a real seat's independent pass. **The
 operator ratified all four questions on 2026-09-13 — see §5 for the rulings.**
 
-## §7 Process note
+## §10 Correction, 2026-09-13 (same day, later) — the "extraction step not yet built" premise is stale
+
+A parallel real Brain Trust review that day (`2026-09-13-archive-app-six-open-items-brain-trust-review.md`,
+in the Knowledge Core), run with live access to the actual app repo
+(`The-Reaver/My-Rivals-Distance-Archive`) and the live Supabase project — access this review's own §7
+process note discloses this session did not have — found that the extraction/ratification machinery
+this document's §5.4 and §8/§9 repeatedly describe as "not-yet-built" **already exists and is tested**:
+the `knowledge_core` migration, `extraction.py`, `ratification.py`, `routes_knowledge_core.py`, and a
+full `draft → under_review → ratified → locked` state machine with test coverage.
+
+**This does not weaken Q4's ratified constraint** (never generate the six fields from raw
+`canon-ledger.json`, only from already-extracted, clearance-assigned content) — if anything the
+enforcement is stronger than assumed, since it's real, tested code, not a policy promise waiting on a
+future build. What's corrected is narrower: every reference in §5.4, §8, and §9 to the extraction step
+as "not-yet-built" should be read as "already built and tested, but not yet wired to accept AI-Parse
+bulk-ingestion output" — a materially smaller remaining gap than this document originally stated. Any
+implementation session should confirm the real state of `extraction.py`/`ratification.py` directly
+before treating this document's original "not-yet-built" language as current.
 
 Ran per `research/knowledge-home/structure-notes/brain-trust-on-demand-protocol.md`, from a local
 Claude Code session already running inside `C:\Users\abadm\stag` with ordinary filesystem/git access —
