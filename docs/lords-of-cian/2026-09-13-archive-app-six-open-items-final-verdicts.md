@@ -151,6 +151,39 @@ since reader email leaves Supabase's boundary; minimal payload (email + template
 bundled reader data); inbound delivery/bounce webhooks must verify the provider's signature before
 writing to any reader state; `/notifications` fires regardless of email outcome.
 
+## §7 Execution addendum — the unpause and both schema fixes, done
+
+All action items from this closing round are now complete, not just ruled on:
+
+- **Supabase restored:** `mcp__Supabase__restore_project` against `dghkxaclaeluheahdsne`,
+  confirmed `ACTIVE_HEALTHY`. Post-unpause `get_advisors` ran per the corrected sequencing.
+- **Real, significant discovery made while verifying:** the live project had only ever
+  received migrations through `0005_seed_verification_data` (2026-08-24) --
+  `mcp__Supabase__list_migrations` showed 5 applied against 15 files in the repo. Every
+  migration from 0006 onward (P0-4 fraud controls, the Standing Requests Ledger, Also Drawn
+  To, Follow Reconsideration, Field Notes, the shares CHECK constraints, Connective Tissue
+  Trails, Two Dossiers Side by Side) had been verified locally every session since but never
+  actually applied to the live project. All were applied now, in order, via
+  `mcp__Supabase__apply_migration` -- the live project's schema matches the repo exactly for
+  the first time since 2026-08-24.
+- **quiz_questions lockdown (item 3):** applied both to the live project and as
+  `supabase/migrations/0016_lock_down_quiz_questions_answer_key.sql` in the archive-app repo,
+  verified against a fresh local Postgres instance (a non-admin authenticated reader now sees
+  0 rows, confirmed by direct query before/after).
+- **One further finding from the post-unpause advisors run, fixed the same session:**
+  `change_followed_character`'s `revoke execute ... from anon` (migration `0010`) never
+  actually worked -- Postgres grants `EXECUTE` on a new function to `PUBLIC` by default, and
+  `anon` is implicitly a member of `PUBLIC`, so the named revoke left the `PUBLIC` grant
+  untouched. Confirmed directly (`information_schema.routine_privileges` showed `PUBLIC` still
+  held `EXECUTE`). Not exploitable -- the function's own `auth.uid()` check already blocks
+  anonymous calls before any mutation -- but closed for correctness via
+  `supabase/migrations/0017_close_change_followed_character_public_grant.sql`, applied both
+  live and locally.
+- All 17 migrations verified applying cleanly against a fresh local Postgres instance before
+  and after both fixes, matching this project's standard verification workflow.
+- The archive-app repo's own `CLAUDE.md` is updated to mark all six queued items resolved,
+  linking back to this document and the first-round review.
+
 ## Links
 - depends_on, 2026-09-13-archive-app-six-open-items-brain-trust-review.md, the first-round review
   this closes out
