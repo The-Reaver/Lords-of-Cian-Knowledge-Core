@@ -1,7 +1,19 @@
 # Anansi close-out, pending placement — session of 2026-08-03
 
 ## Status
-OPEN as of 2026-08-19. The device bridge to the operator's machine (`desktop-4uc2ltp`) was disconnected for the entire 2026-08-03 close-out session, so nothing was written to the real Knowledge Core at `C:\Users\abadm\stag`. Six files exist only as delivered attachments and in this project doc. A nightly reminder checks this doc until the placement below is completed, then stops itself.
+**CLOSED, 2026-09-12.** Completed as part of the `core-merge-instructions.md` merge run from a local
+Claude Code session already running inside `C:\Users\abadm\stag` (no device-bridge tool was
+available or needed — direct filesystem/git access). All 6 files below were written verbatim into
+`research/knowledge-home/candidates/2026-08-03/` on the real device, after re-running the dedup
+check (Step 2) against the live `notes/` folder there (846 notes at merge time) — no collisions
+found. The 3-artifact registry entry was staged as a candidate note in that same folder
+(`_ARTIFACT_REGISTRY_ADDITION_lords-of-cian-2026-08-03.md`), not written directly into the live
+registry, per this doc's own Step 4. **Not confirmed:** whether the "Anansi close-out nightly
+reminder" trigger (Step 6) was ever actually deleted — this session has no visibility into
+cross-session/cloud-scheduled triggers, so if that reminder is still firing, it should be checked
+and cancelled separately; do not assume this closure did that.
+
+Original text, kept for history: OPEN as of 2026-08-19. The device bridge to the operator's machine (`desktop-4uc2ltp`) was disconnected for the entire 2026-08-03 close-out session, so nothing was written to the real Knowledge Core at `C:\Users\abadm\stag`. Six files exist only as delivered attachments and in this project doc. A nightly reminder checks this doc until the placement below is completed, then stops itself.
 
 **IMPORTANT — structural finding, 2026-08-19:** the nightly reminder runs as a scheduled/cloud task, and scheduled cloud sessions never have desktop-bridge access, regardless of whether the operator's desktop app is open. Tonight's check found the `mcp__remote-devices__*` tools absent entirely (not just erroring "not connected"), confirming this is not a transient desktop-app-closed condition but a structural limitation of cloud-scheduled runs. This nightly trigger cannot complete the placement on its own, no matter how many nights it fires. To finish this close-out, the operator needs to either (a) open a normal (non-scheduled) Cowork/Claude session while the desktop app is open and ask it to pick up this doc, or (b) recreate this reminder as a local/on-device scheduled task if that option is available to them. The nightly cloud reminder should keep running only as a low-cost check-in; it will keep reporting the same "still pending" result until the operator does one of the above.
 
