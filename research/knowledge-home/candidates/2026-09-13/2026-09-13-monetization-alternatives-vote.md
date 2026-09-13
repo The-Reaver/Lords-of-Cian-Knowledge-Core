@@ -2,7 +2,7 @@
 
 - id: 2026-09-13-monetization-alternatives-vote
 - type: finding
-- status: candidate
+- status: ratified
 - class: confirmed
 - source: Fleet monetization review, 2026-09-13, Brain Trust vote (6 voting seats; Omar recorded NO CONFIDENCE as out-of-lane on Model A only)
 - confidence: high -- direct vote record
@@ -32,6 +32,11 @@ gates content, plus a per-content one-time unlock for real access. The carried r
 
 Model G (pay-what-you-want) was never voted down -- it is a live, unresolved option if Abad
 wants it reconsidered, not a rejected one.
+
+## Ratified
+2026-09-13. Abad's ruling, quoted verbatim: "I approve of everything and I will drop my idea." This
+vote record stands as the historical basis for the carried recommendation
+(2026-09-13-monetization-carried-recommendation.md), now adopted.
 
 ## Links
 - depends_on, 2026-09-13-membership-tiers-as-stated-rejected.md, Model A's own rejection

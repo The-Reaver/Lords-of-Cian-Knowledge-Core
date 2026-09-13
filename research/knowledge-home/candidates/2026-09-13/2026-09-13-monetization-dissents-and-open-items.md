@@ -2,7 +2,7 @@
 
 - id: 2026-09-13-monetization-dissents-and-open-items
 - type: finding
-- status: candidate
+- status: ratified
 - class: confirmed
 - source: Fleet monetization review, 2026-09-13 (Brain Trust + AJ's independent audit)
 - confidence: high -- direct record of dissents and named gaps, not a synthesis
@@ -41,6 +41,29 @@ Recorded explicitly per the review's own discipline against smoothing over disag
    leftover-material backlog (depends on the ledger processing finishing -- see
    2026-09-13-leftover-material-mining-preconditions.md).
 
+## Partially ratified, 2026-09-13
+Abad's ruling, quoted verbatim: "I approve of everything and I will drop my idea." This note's status
+was initially left at candidate rather than ratified: the six items above were open questions with
+multiple live options each, not a single recommendation to approve or reject, and none of them was
+individually resolved in that blanket approval. Everything they gate (the carried recommendation, the
+vintage-boundary rule, the mining preconditions, the signal-first sequencing) was ratified regardless
+-- these six items were never blockers to that, only unresolved details within it.
+
+## Resolved, 2026-09-13
+Abad's follow-up instruction, quoted verbatim: "Let Brain Trust rule on the six open items now." Per
+Mandate 1, this delegation is itself his act of ratification for the panel's converged rulings. Full
+rulings, reasoning, and per-seat attribution at
+2026-09-13-six-open-items-brain-trust-ruled.md. Summary: (1) $1 price point -- no, floor set at $3;
+(2) Model G (pay-what-you-want) -- closed for good, unanimous; (3) one-time unlocks + subscriptions
+side by side -- safe, with conditions (UI permanence, refund window, entitlement isolation, segmented
+metrics); (4) free-progression vs. paid entitlement -- stay two permanent parallel systems, with a
+shared access-check evaluation layer and reader-facing presentation; (5) downgrade/lapse policy --
+adopted as a minimum-viable standard (never re-lock, grace-deliver in-flight items, full notification
+lifecycle, event-driven architecture); (6) missing data -- proceed now on stated conservative
+assumptions, with reader count and backlog size each gating a specific later step rather than today's
+rulings. All six items are now closed.
+
 ## Links
 - depends_on, 2026-09-13-monetization-carried-recommendation.md, the recommendation these items qualify
 - depends_on, 2026-09-13-leftover-material-mining-preconditions.md, item 6's backlog-size gap
+- depends_on, 2026-09-13-six-open-items-brain-trust-ruled.md, the full rulings resolving all six items

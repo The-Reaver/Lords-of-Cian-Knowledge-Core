@@ -2,7 +2,7 @@
 
 - id: 2026-09-13-signal-first-tier-design-carried
 - type: decision
-- status: candidate
+- status: ratified
 - class: confirmed
 - source: Scoped 5-seat Brain Trust reaction pass, 2026-09-13 (Celestina, Jasiah, Oluwole, Bink, Sentinel), reacting to an idea Abad proposed after reading the carried recommendation in 2026-09-13-monetization-carried-recommendation.md. Run per the now-unblocked structure-notes/brain-trust-on-demand-protocol.md, seat-by-seat via the Agent tool from inside this session.
 - confidence: high -- 5/5 seats support shipping in some form (1 SHIP, 4 SHIP WITH CONDITIONS); not yet ratified by Abad
@@ -60,6 +60,14 @@ Carried, with real conditions attached:
   project's existing content volume, there may already be enough accumulated signal to act on
   soon rather than facing a long wait -- worth a metrics-seat read on actual signal volume
   before assuming this means a long delay.
+
+## Ratified
+2026-09-13. Abad's ruling, quoted verbatim: "I approve of everything and I will drop my idea." Adopted
+with all conditions attached above intact: don't use `shares` or `field_notes` as paywall-candidacy
+signals, pair the free engagement data with at least one genuine pay-intent signal before finalizing
+any tier, set an explicit trigger/timebox rather than letting this drift indefinitely, honor the
+already-ratified vintage boundary, and check whether the engagement signals are account-linked before
+using them to drive a monetization decision.
 
 ## Links
 - depends_on, 2026-09-13-monetization-carried-recommendation.md, the recommendation this idea resequences

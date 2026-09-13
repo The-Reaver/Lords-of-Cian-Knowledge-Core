@@ -2,7 +2,7 @@
 
 - id: 2026-09-13-paywall-staged-by-production-vintage
 - type: decision
-- status: candidate
+- status: ratified
 - class: confirmed
 - source: Fleet monetization review, 2026-09-13 (Brain Trust + AJ's independent audit, converged answer to review question (c))
 - confidence: medium -- directionally agreed by both tracks, not yet ratified by Abad; one live dissent recorded
@@ -32,6 +32,13 @@ Live dissent: Jasiah (Brain Trust) does not oppose the vintage-boundary rule its
 at least a small experiment gating something closer to the front door of the reader journey,
 rather than assuming late-only staging proves real willingness to pay. Not resolved by this
 note.
+
+## Ratified
+2026-09-13. Abad's ruling, quoted verbatim: "I approve of everything and I will drop my idea." The
+vintage boundary is adopted as the sole paywall-timing mechanism -- everything free today stays free
+forever, only new work carries the price. Jasiah's dissent (a small front-door experiment as well) was
+not separately adopted and stays recorded above as a live minority view, not an action item, unless
+Abad revisits it directly.
 
 ## Links
 - depends_on, 2026-09-13-monetization-carried-recommendation.md, the tier structure this staging rule applies to
