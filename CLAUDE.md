@@ -1747,10 +1747,39 @@ The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archi
 
 Standing instruction from Abad, 2026-09-03: canon-writing work continues here; the archive app itself does not get built as part of canon sessions. But new canon material (Phase 1b onward) should be drafted in a way that sets up the eventual archive site for strong SEO (crawlability, page/domain authority) and GEO (generative-AI-engine citability), plus supports a gamified five-tier reader-unlock model for the Phase 2 pre-Book-1 era. See the blocker below before adopting any concrete schema/tagging changes for this.
 
-## Standing blocker: real Brain Trust review needs a device-bridge session first
+## Standing blocker: real Brain Trust review needs a device-bridge session first — RESOLVED 2026-09-12
 
-On 2026-09-03, asked to run the operator's actual Brain Trust review process against a proposed SEO/GEO/content-structuring charter, a Claude Code Remote (cloud) session discovered it has no `mcp__remote-devices__*` tools at all -- confirmed via ToolSearch, not assumed. This is not a fixable-from-here config gap; per `docs/lords-of-cian/anansi-closeout-2026-08-03.md`'s own 2026-08-03 finding, cloud/scheduled sessions structurally never get a bridge to the operator's machine (`C:\Users\abadm\stag`). That session improvised a 4-seat stand-in panel (SEO Architecture, GEO Strategy, Gamification/Engagement Design, Continuity/Workflow-Fit) instead -- useful as a first-pass draft, but **explicitly not the real Brain Trust** and should not be treated as ratified. Its output lives in that session's transcript only; nothing was written to canon-ledger.json or committed anywhere as a result.
+**Resolved.** The merge ran from a local Claude Code session already running inside
+`C:\Users\abadm\stag` with ordinary filesystem/git access — no `mcp__remote-devices__*` tool was
+ever available in that session either, and none was needed: the premise that this repo and the
+device Core require a special bridge to reach each other only ever held for a fully cloud/scheduled
+session with zero filesystem access to the operator's machine. A session already running locally on
+that machine, or a plain `git clone` of this public repo from anywhere, both work with ordinary
+tools.
 
-The real fix already exists, written and waiting, unexecuted: `research/knowledge-home/structure-notes/core-merge-instructions.md`. It merges this repo with the operator's real Knowledge Core at `C:\Users\abadm\stag`, and explicitly names the still-missing file needed for real Brain Trust review: `structure-notes/brain-trust-on-demand-protocol.md` (pull verbatim from the device; do not reconstruct it from memory). Once that merge runs and gets committed here, the real Brain Trust protocol -- and the rest of the Core (`notes/`, `candidates/`, `raw/`, the ADR, `archive_writer.py`) -- becomes reachable by *any* future session, cloud or local, straight from git, no bridge required.
+What actually happened: `structure-notes/brain-trust-on-demand-protocol.md`, `docs/adr/0005-two-store-memory-archive-and-core.md`,
+`scripts/knowledge_home/archive_writer.py`, and the real (populated) `structure-notes/artifact-registry.md`
+were copied verbatim from the device into this repo. `research/knowledge-home/candidates/2026-08-23/`
+was copied in from the device as-is (2 files, still `status: candidate`, not ratified as part of this
+merge). The 2026-08-03 Anansi close-out was found still genuinely OPEN on the device (no
+`candidates/2026-08-03/` existed there) and was completed: the 6 files in
+`docs/lords-of-cian/anansi-closeout-2026-08-03.md` were written verbatim into the device's
+`research/knowledge-home/candidates/2026-08-03/` after re-running its dedup check against the
+device's live `notes/` (846 notes, no collisions), and that doc's Status line now reads CLOSED. The
+3-artifact registry addition was staged as a candidate note on the device, not written directly into
+the live registry. This repo's own `raw/2026-08-23-canon-ledger-cult-network-and-archive-strategy.jsonl`
+was confirmed a byte-for-byte content duplicate of the device's
+`raw/2026-08-23-lords-of-cian-cult-network-and-archive-planning.jsonl` (same 96 lines, same start
+timestamp, same session id) — left in place, documented here as a duplicate-of rather than deleted.
+This repo's own `notes/` was deliberately **not** bulk-populated with the device's full 846-note
+Core — that corpus is almost entirely unrelated GEO Suite/compliance/Anansi-tooling material, and
+copying it wholesale into a Lords-of-Cian fiction repo was assessed as scope creep beyond what this
+merge needed, pending the operator's separate call if he wants it anyway.
 
-**To run it:** open an interactive session with the device bridge live -- the Cowork app or a local Claude Code session, with the desktop app open and `desktop-4uc2ltp` connected (confirm `mcp__remote-devices__*` tools are actually present before starting, per the doc's own instruction -- don't guess). Then follow `core-merge-instructions.md` step by step: it reads the four `research/knowledge-home/` subfolders plus the two extra files off the device, resolves two known outstanding items in `candidates/` (the still-possibly-open 2026-08-03 close-out, and the 2026-08-23 date-folder), dedups `raw/` transcripts by content rather than filename, and reports back a before/after note count. Git commands run from the Claude Code Remote sandbox as normal once the reads are done -- never through the device bridge itself (it leaves a stale lock file). Once merged, update this section and the README's "Status" section to drop this blocker, and only then treat any Brain Trust ruling on the SEO/GEO charter as real.
+**Not confirmed:** whether the "Anansi close-out nightly reminder" scheduled trigger (referenced in
+the close-out doc's Step 6) was ever cancelled — this session has no visibility into cross-session or
+cloud-scheduled triggers. If it's still firing, that needs checking separately.
+
+The real Brain Trust protocol is now reachable by any future session, cloud or local, straight from
+git in this repo — no bridge required, and none ever was for a session with ordinary filesystem
+access to either side.

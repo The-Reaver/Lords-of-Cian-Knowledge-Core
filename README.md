@@ -45,22 +45,29 @@ and bridge outages without depending on that connection.
 
 ## Status
 
-This is a scaffold, not a completed sync. What this repo does *not* yet have: the operator's
-full existing Core (whatever already lives in `notes/` and `candidates/` on the device),
-`structure-notes/brain-trust-on-demand-protocol.md`, the ADR referenced by the `stag-closeout`
-skill (`docs/adr/0005-two-store-memory-archive-and-core.md`), and `scripts/knowledge_home/archive_writer.py`.
-None of those were available to the session that initialized this repo — they exist only on the
-operator's machine as far as this repo currently knows. A future session with device-bridge
-access should treat this repo and the device Core as two copies of the same thing needing a real
-merge (dedup notes, don't just overwrite), not assume this repo is already the complete picture.
+**Updated 2026-09-12 — not a full sync, but the merge blocker is resolved.** `structure-notes/brain-trust-on-demand-protocol.md`,
+`docs/adr/0005-two-store-memory-archive-and-core.md`, `scripts/knowledge_home/archive_writer.py`, and
+the real, populated `structure-notes/artifact-registry.md` are now present in this repo, copied
+verbatim from the operator's device (`C:\Users\abadm\stag`). `candidates/2026-08-23/` is now
+populated (2 files, still unratified) from the device. The 2026-08-03 Anansi close-out
+(`docs/lords-of-cian/anansi-closeout-2026-08-03.md`) is CLOSED — its 6 files were written into the
+device's own `research/knowledge-home/candidates/2026-08-03/`, not into this repo (they belong on
+the device, per the close-out doc's own instructions). This repo's `raw/2026-08-23-canon-ledger-cult-network-and-archive-strategy.jsonl`
+is a confirmed content-duplicate of a file already on the device; left in place and documented, not
+deleted.
 
-Two live, unrelated threads both still need attention and are tracked in their own docs above,
-not here: the Anansi close-out from 2026-08-03 (still OPEN), and the interactive archive app (see
-CLAUDE.md's "Separate, unrelated thread" section for its updated 2026-09-03 status -- the
-zero-commits and RLS flags from 2026-08-23 are largely resolved on inspection, not independently
-verified live).
+**Deliberately still not done:** this repo's own `notes/` remains empty. The device's real `notes/`
+(846 files as of 2026-09-12) is almost entirely unrelated GEO Suite/compliance/Anansi-tooling
+material with nothing yet reviewed for relevance to Lords of Cian — bulk-copying it into this
+fiction repo was assessed as scope creep and held pending an explicit operator decision, not done as
+part of this merge.
 
-**Added 2026-09-03:** a cloud session confirmed it has no `mcp__remote-devices__*` tools and
-cannot run the merge below itself. Real Brain Trust review (needed before adopting any SEO/GEO
-content-structuring changes for the archive) is blocked on this merge running first -- see
-CLAUDE.md's "Standing blocker" section and `research/knowledge-home/structure-notes/core-merge-instructions.md`.
+No device bridge (`mcp__remote-devices__*`) was available or needed to do any of the above — a
+local Claude Code session already running inside `C:\Users\abadm\stag` has ordinary filesystem/git
+access to both this repo (via a plain clone) and the device Core directly. See CLAUDE.md's "Standing
+blocker" section (now marked RESOLVED) for the full account.
+
+One live, unrelated thread still needs attention and is tracked in its own doc above, not here: the
+interactive archive app (see CLAUDE.md's "Separate, unrelated thread" section for its updated
+2026-09-03 status -- the zero-commits and RLS flags from 2026-08-23 are largely resolved on
+inspection, not independently verified live).
