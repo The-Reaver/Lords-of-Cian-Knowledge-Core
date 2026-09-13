@@ -2,7 +2,7 @@
 
 - id: 2026-09-13-monetization-carried-recommendation
 - type: decision
-- status: candidate
+- status: ratified
 - class: confirmed
 - source: Fleet monetization review, 2026-09-13 (chair's synthesis of independently-converging Brain Trust and AJ-audit output; not itself re-voted by either track -- presented for Abad's ratification, not a fixed conclusion)
 - confidence: medium -- directionally strong (both tracks converged toward the same shape independently: AJ's audit reached essentially Models D+E combined from the opposite direction), but real open items remain (see 2026-09-13-monetization-dissents-and-open-items.md) and this has not been ratified by Abad
@@ -35,6 +35,16 @@ proposal (2026-09-13-membership-tiers-as-stated-rejected.md):
 Jasiah (Brain Trust) does not oppose the vintage-boundary rule itself but wants at least a
 small experiment gating something closer to the front door, rather than assuming late-only
 staging proves willingness to pay -- a live dissent, not resolved by this recommendation.
+
+## Ratified
+2026-09-13. Abad's ruling, quoted verbatim: "I approve of everything and I will drop my idea." The
+carried recommendation is adopted as the standing monetization shape: perks-only Supporter tier +
+per-content one-time unlock (kept as two separate SKUs, not merged -- see
+2026-09-13-accumulating-unlock-subscription-held.md) + vintage-boundary paywall + entitlement in its
+own table + conversion-rate ladder replacing the 100k target. This is now decided project direction,
+not a pending recommendation. Real preconditions before build remains: the archive app's own tier/
+perk design should sequence after real reader-loop signal, per
+2026-09-13-signal-first-tier-design-carried.md.
 
 ## Links
 - depends_on, 2026-09-13-membership-tiers-as-stated-rejected.md, the proposal this replaces

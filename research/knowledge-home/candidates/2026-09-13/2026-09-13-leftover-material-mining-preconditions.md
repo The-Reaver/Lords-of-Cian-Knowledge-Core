@@ -2,7 +2,7 @@
 
 - id: 2026-09-13-leftover-material-mining-preconditions
 - type: decision
-- status: candidate
+- status: ratified
 - class: confirmed
 - source: Fleet monetization review, 2026-09-13 (Brain Trust + AJ's independent audit, converged answer to review question (d))
 - confidence: medium -- both tracks agree on the preconditions; the underlying backlog size is itself unmeasured (see 2026-09-13-monetization-dissents-and-open-items.md)
@@ -32,6 +32,10 @@ before greenlighting it:
 Sequencing recommendation: this is a Phase 2 decision, gated on both the ledger processing
 finishing and real signal from whichever access model ships -- not concurrent with any tier
 launch.
+
+## Ratified
+2026-09-13. Abad's ruling, quoted verbatim: "I approve of everything and I will drop my idea." Held
+on this basis -- the five preconditions above stand as the gate before any mining work is resourced.
 
 ## Links
 - depends_on, 2026-09-13-monetization-carried-recommendation.md, the per-content-unlock mechanism this premium content would sell through

@@ -2,7 +2,7 @@
 
 - id: 2026-09-13-accumulating-unlock-subscription-held
 - type: decision
-- status: candidate
+- status: closed
 - class: confirmed
 - source: Scoped 5-seat Brain Trust reaction pass, 2026-09-13 (Celestina, Jasiah, Oluwole, Bink, Sentinel), reacting to an idea Abad proposed after reading the carried recommendation in 2026-09-13-monetization-carried-recommendation.md. Run per the now-unblocked structure-notes/brain-trust-on-demand-protocol.md, seat-by-seat via the Agent tool from inside this session, following that protocol's own precedent (rule 1) that this is the same process, not a lighter substitute.
 - confidence: medium-high -- direct seat verdicts, tallied 3 HOLD / 2 SHIP WITH CONDITIONS on a 5-seat panel; not yet ratified by Abad
@@ -49,6 +49,12 @@ HOLD -- not carried as stated. Both premises the idea was pitched on were direct
 Real value the panel did credit: fewer integration paths (one purchase/billing flow instead of
 two, Oluwole/Jasiah), and no runtime re-lock-on-lapse check needed since access is designed
 never to be revoked (Bink) -- a genuine answer to the original review's blocking finding #2.
+
+## Closed
+2026-09-13. Abad's ruling, quoted verbatim: "I approve of everything and I will drop my idea." The
+idea is withdrawn by its own author, consistent with the panel's HOLD verdict -- not pursued further.
+The carried recommendation's original two-SKU design (2026-09-13-monetization-carried-recommendation.md)
+stands as the adopted shape instead.
 
 ## Links
 - depends_on, 2026-09-13-monetization-carried-recommendation.md, the two-SKU design this idea proposed replacing

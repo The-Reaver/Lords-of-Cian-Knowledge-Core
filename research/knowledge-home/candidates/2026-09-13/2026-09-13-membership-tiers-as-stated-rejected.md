@@ -2,7 +2,7 @@
 
 - id: 2026-09-13-membership-tiers-as-stated-rejected
 - type: decision
-- status: candidate
+- status: ratified
 - class: confirmed
 - source: Fleet monetization review, 2026-09-13 (7-seat Brain Trust + Elijah's feasibility interviews, and AJ's independent 4-Breaker audit, run blind to each other)
 - confidence: high -- both independently-run tracks converged on the same three problems without seeing each other's reasoning; treat the convergence itself as the strongest signal, not either track's internal vote count alone
@@ -30,6 +30,11 @@ methods, converging on the same three problems:
 
 The proposal as literally stated is not being implemented. See
 2026-09-13-monetization-carried-recommendation.md for what both tracks converged on instead.
+
+## Ratified
+2026-09-13. Abad's ruling, quoted verbatim, given as one blanket approval covering all eight of
+this date's monetization candidate notes: "I approve of everything and I will drop my idea." Applied
+here as: Model A's rejection stands as final.
 
 ## Links
 - depends_on, 2026-09-13-monetization-carried-recommendation.md, the alternative both tracks converged toward
