@@ -1,6 +1,6 @@
 # The Man Who Had Nothing Left to Give
 
-*Locked canon, Batch 142, 2026-09-11 (`MCD-467`). Kwan Chronicle II. Homage-era Chicago, Kwan/Kasa.
+*Locked canon, Batch 142, 2026-09-11 (`MCD-467`). Kwan Chronicle II. Homage-era Muungano, Kwan/Kasa.
 Territory Chronicle -- Kasa as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 

@@ -7,7 +7,7 @@ from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chroni
 Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`), Ide
 Chronicle I (`MCD-342`), Kwan Chronicle I (`MCD-343`), Jibaro Chronicle I (`MCD-344`), and Uhuru
 Chronicle I (`MCD-345`). Narration is close-third on Baálé throughout, not Onyx of Oblivion. Opens
-Los Angeles's own run of territory Chronicles. Slots into no existing mainline battle — original
+Ílú-Márùn's own run of territory Chronicles. Slots into no existing mainline battle — original
 homage-era material set in Sankofa itself.*
 
 ---
@@ -107,5 +107,5 @@ Latino surname the wrong register for an organically-named convert into Baálé'
 rival lieutenant who attacks Baálé and, surviving, becomes one of his loyal followers, left open as
 a minor recurring figure for future entries rather than a one-scene antagonist. No other new proper
 nouns requiring a collision check. This Chronicle slots into no existing MCD- rule -- original
-homage-era material set in Sankofa itself, and opens Los Angeles's own run of territory Chronicles
+homage-era material set in Sankofa itself, and opens Ílú-Márùn's own run of territory Chronicles
 (Aztlán, Atunbi, Ijoko, and Orin still have none).*

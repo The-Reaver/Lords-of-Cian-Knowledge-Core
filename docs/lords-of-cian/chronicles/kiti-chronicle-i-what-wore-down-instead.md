@@ -5,7 +5,7 @@ protagonist Owusu (`PH2-059`), not a Kanja Chronicle. Kanja appears only as a gu
 granted no command, no intervention, and no resolution credit, matching the established convention
 from Xaragua Chronicle I (`MCD-334`) through Nyansa Chronicle I (`MCD-354`). Narration is
 close-third on Owusu throughout, not Onyx of Oblivion. Completes a first Chronicle entry for all
-five Detroit territories, and closes out territory-Chronicle coverage for every homage-era city.
+five Mji territories, and closes out territory-Chronicle coverage for every homage-era city.
 Slots into no existing mainline battle — original homage-era material set in Kiti itself.*
 
 ---
@@ -82,7 +82,6 @@ completely the instant he leaves the seat, matching PH2-059's stated limitation 
 leaving it implicit. The old machine's operatives are deliberately left unnamed, matching established
 precedent for undetailed antagonists. No new named characters are introduced; no new proper nouns
 requiring a collision check. This Chronicle slots into no existing MCD- rule -- original homage-era
-material set in Kiti itself, and completes a first Chronicle entry for every one of Detroit's five
-territories (Kazi, Taifa, Hekalu, Nyansa, Kiti), which in turn completes territory-Chronicle coverage
-for all four homage-era cities built so far (NYC, Chicago, LA, Detroit) at the first-Chronicle
+material set in Kiti itself, and completes a first Chronicle entry for every one of Mji's five territories (Kazi, Taifa, Hekalu, Nyansa, Kiti), which in turn completes territory-Chronicle coverage
+for all four homage-era cities built so far (Batey, Muungano, Ílú-Márùn, Mji) at the first-Chronicle
 level.*

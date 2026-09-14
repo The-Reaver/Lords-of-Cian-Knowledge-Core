@@ -4,7 +4,7 @@
 protagonist Osei (`PH2-053`), not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, no intervention, and no resolution credit, matching the established convention
 from Xaragua Chronicle I (`MCD-334`) through Kazi Chronicle I (`MCD-351`). Narration is close-third
-on Osei throughout, not Onyx of Oblivion. Continues Detroit's own run of territory Chronicles. Slots
+on Osei throughout, not Onyx of Oblivion. Continues Mji's own run of territory Chronicles. Slots
 into no existing mainline battle — original homage-era material set in Taifa itself.*
 
 ---
@@ -83,5 +83,5 @@ PH2-053's stated limitation that the ability "cannot compel anyone who hasn't sw
 not separately detailed here. The RNA's real exiled first president remains backstory-only per
 PH2-053's own precedent and is not referenced on-page. No new named characters are introduced; no
 new proper nouns requiring a collision check. This Chronicle slots into no existing MCD- rule --
-original homage-era material set in Taifa itself, continuing Detroit's own run of territory
+original homage-era material set in Taifa itself, continuing Mji's own run of territory
 Chronicles (Kazi already has one; Hekalu, Nyansa, and Kiti still do not).*

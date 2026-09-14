@@ -4,7 +4,7 @@
 protagonist Ofin (`PH2-044`), not a Kanja
 Chronicle. Kanja appears only as a guest, present in City Hall's late-hour orbit throughout the
 night but absent from the room itself at the moment of Ofin's death -- matching `PH2-044`'s own
-explicit instruction that this is "the one death in the Chicago build kept as-built, not flipped,"
+explicit instruction that this is "the one death in the Muungano build kept as-built, not flipped,"
 and the real historical record of Harold Washington being found by his own staff. No intervention,
 no resolution authorship, nothing prevented or changed. Narration is close-third on Ofin throughout,
 not Onyx of Oblivion. Directly pays off `PH2-044`'s own stated capstone cost, explicitly flagged as
@@ -91,7 +91,7 @@ running it.
 is the unnamed guest, present in City Hall's orbit across the night that precedes Ofin's death but
 explicitly sent home and absent from the room itself at the moment it happens -- no intervention,
 no resolution authorship, nothing altered from the historical record this beat is built on. This is
-deliberate and required: `PH2-044` states plainly that this is "the one death in the Chicago build
+deliberate and required: `PH2-044` states plainly that this is "the one death in the Muungano build
 kept as-built, not flipped," and the real Harold Washington was found by his own staff the following
 morning, not saved or attended in the moment by anyone present. The scene puts "The Override" on the
 page a final time -- the last standing obstruction (a years-long appointment blockade) breaking

@@ -98,4 +98,4 @@ entry wants him. Both Kunle and Kalamu are new named characters, collision-check
 live ledger before drafting (zero prior hits). This Chronicle slots into no existing MCD- rule --
 original homage-era material set in Kazi itself, and is the seventh territory (after Xaragua,
 Areíto, Guanín, Uhuru, Aztlán, and Sankofa) to receive a second Chronicle entry, and the first
-Detroit territory to do so.*
+Mji territory to do so.*

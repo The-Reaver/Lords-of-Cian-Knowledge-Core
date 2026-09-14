@@ -1,6 +1,6 @@
 # Kiti Chronicle III: The Day He Decided to Leave It Behind
 
-*Locked canon, Batch 180, 2026-09-11 (`MCD-527`). Homage-era Detroit, Kiti/Owusu. Territory
+*Locked canon, Batch 180, 2026-09-11 (`MCD-527`). Homage-era Mji, Kiti/Owusu. Territory
 Chronicle — Owusu as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

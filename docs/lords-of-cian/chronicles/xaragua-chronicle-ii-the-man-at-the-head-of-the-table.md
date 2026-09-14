@@ -8,7 +8,7 @@ them. Protagonist: Arturo "de la Muerte" Salvatierra Duho -- two surnames, per A
 Spanish one kept alongside a Taino one added to it ("Duho," the real Taino word for a cacique's
 ceremonial seat of judgment, chosen deliberately to echo the Chronicle's own title) -- a Xaragua native
 who leads the Five Families
-spanning all five NYC-equivalent territories (Xaragua, Areito, Yara, Guanin, Boriken) as their citywide
+spanning all five Batey-equivalent territories (Xaragua, Areito, Yara, Guanin, Boriken) as their citywide
 peacekeeping figurehead -- introduced here for the first time, not yet locked as a PH2- character. His
 signature ability, Blood Debt (biochemical control: protective clotting/detox at close range, its dark
 reverse almost never used, and his own arrested aging as its personal application), is shown in effect.

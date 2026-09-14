@@ -1,6 +1,6 @@
 # Kwan Chronicle III: The Landlord Who Changed His Own Mind
 
-*Locked canon, Batch 167, 2026-09-11 (`MCD-514`). Homage-era Chicago, Kwan/Kasa. Territory
+*Locked canon, Batch 167, 2026-09-11 (`MCD-514`). Homage-era Muungano, Kwan/Kasa. Territory
 Chronicle — Kasa as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

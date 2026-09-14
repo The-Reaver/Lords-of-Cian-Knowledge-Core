@@ -1,6 +1,6 @@
 # Sankofa Chronicle III: What He Built While Waiting
 
-*Locked canon, Batch 171, 2026-09-11 (`MCD-518`). Homage-era Los Angeles, Sankofa/Baálé. Territory
+*Locked canon, Batch 171, 2026-09-11 (`MCD-518`). Homage-era Ílú-Márùn, Sankofa/Baálé. Territory
 Chronicle — Baálé as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. The forged-letter conspiracy from Chronicle II
 (`MCD-360`) remains deliberately untouched and unresolved in this entry, per standing instruction.

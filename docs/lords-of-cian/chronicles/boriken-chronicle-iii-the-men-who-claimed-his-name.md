@@ -1,6 +1,6 @@
 # Borikén Chronicle III: The Men Who Claimed His Name
 
-*Locked canon, Batch 165, 2026-09-11 (`MCD-512`). Homage-era NYC, Borikén/Guaní. Territory
+*Locked canon, Batch 165, 2026-09-11 (`MCD-512`). Homage-era Batey, Borikén/Guaní. Territory
 Chronicle — Guaní as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

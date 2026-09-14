@@ -1,6 +1,6 @@
 # Yara Chronicle III: The Room She Built From Strangers
 
-*Locked canon, Batch 163, 2026-09-11 (`MCD-510`). Homage-era NYC, Yara/Yalokona. Territory
+*Locked canon, Batch 163, 2026-09-11 (`MCD-510`). Homage-era Batey, Yara/Yalokona. Territory
 Chronicle — Yalokona as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

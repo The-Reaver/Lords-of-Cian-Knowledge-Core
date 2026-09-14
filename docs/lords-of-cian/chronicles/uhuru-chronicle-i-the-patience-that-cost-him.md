@@ -7,7 +7,7 @@ from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chroni
 Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`), Ide
 Chronicle I (`MCD-342`), Kwan Chronicle I (`MCD-343`), and Jibaro Chronicle I (`MCD-344`). Narration
 is close-third on Ofin throughout, not Onyx of Oblivion. Completes a first Chronicle entry for all
-five Chicago territories. Slots into no existing mainline battle — original homage-era material set
+five Muungano territories. Slots into no existing mainline battle — original homage-era material set
 in Uhuru itself.*
 
 ---
@@ -112,5 +112,5 @@ without either one doing the other's work. The hostile council bloc is deliberat
 a body, matching the Umoja/Areíto/Guanín/Borikén/Ide/Kwan precedent for undetailed antagonists. No
 new named characters are introduced; no new proper nouns requiring a collision check. This Chronicle
 slots into no existing MCD- rule -- original homage-era material set in Uhuru itself, and completes
-a first Chronicle entry for every one of Chicago's five territories (Ide, Kwan, Umoja, Jibaro,
-Uhuru), matching NYC's own completed set.*
+a first Chronicle entry for every one of Muungano's five territories (Ide, Kwan, Umoja, Jibaro,
+Uhuru), matching Batey's own completed set.*

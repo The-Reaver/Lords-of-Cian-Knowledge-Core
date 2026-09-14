@@ -4,7 +4,7 @@
 protagonist Irin (`PH2-051`), not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, no intervention, and no resolution credit, matching the established convention
 from Xaragua Chronicle I (`MCD-334`) through Orin Chronicle I (`MCD-350`). Narration is close-third
-on Irin throughout, not Onyx of Oblivion. Opens Detroit's own run of territory Chronicles. Slots
+on Irin throughout, not Onyx of Oblivion. Opens Mji's own run of territory Chronicles. Slots
 into no existing mainline battle — original homage-era material set in Kazi itself.*
 
 ---
@@ -80,5 +80,4 @@ PH2-051's stated limitation ('only works on people already structurally bound in
 labor -- useless as leverage on anyone standing outside that relationship'). The foreman is
 deliberately left unnamed, matching established precedent for undetailed antagonists. No new named
 characters are introduced; no new proper nouns requiring a collision check. This Chronicle slots
-into no existing MCD- rule -- original homage-era material set in Kazi itself, and opens Detroit's
-own run of territory Chronicles (Taifa, Hekalu, Nyansa, and Kiti still have none).*
+into no existing MCD- rule -- original homage-era material set in Kazi itself, and opens Mji's own run of territory Chronicles (Taifa, Hekalu, Nyansa, and Kiti still have none).*

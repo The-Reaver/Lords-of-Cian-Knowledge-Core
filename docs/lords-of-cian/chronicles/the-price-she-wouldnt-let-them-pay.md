@@ -1,6 +1,6 @@
 # The Price She Wouldn't Let Them Pay
 
-*Locked canon, Batch 139, 2026-09-11 (`MCD-464`). Yara Chronicle II. Homage-era NYC, Yara/Yalokona.
+*Locked canon, Batch 139, 2026-09-11 (`MCD-464`). Yara Chronicle II. Homage-era Batey, Yara/Yalokona.
 Territory Chronicle -- Yalokona as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 

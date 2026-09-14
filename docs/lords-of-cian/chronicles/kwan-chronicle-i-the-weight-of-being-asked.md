@@ -7,7 +7,7 @@ from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chroni
 Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`),
 and Ide Chronicle I (`MCD-342`). Narration is close-third on Kasa throughout, not Onyx of Oblivion.
 Slots into no existing mainline battle — original homage-era material set in Kwan itself.
-Continues Chicago's own run of territory Chronicles.*
+Continues Muungano's own run of territory Chronicles.*
 
 ---
 
@@ -120,5 +120,5 @@ victory on paper and delivers far less in practice") without resolving that tens
 broker is deliberately left unnamed, matching the Umoja/Areíto/Guanín/Borikén/Ide precedent for
 undetailed antagonists and context figures. No new named characters are introduced; no new proper
 nouns requiring a collision check. This Chronicle slots into no existing MCD- rule — original
-homage-era material set in Kwan itself, continuing Chicago's own run of territory Chronicles
+homage-era material set in Kwan itself, continuing Muungano's own run of territory Chronicles
 (Umoja and Ide already have one; Jibaro and Uhuru still do not).*

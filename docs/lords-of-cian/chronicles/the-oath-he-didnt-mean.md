@@ -1,6 +1,6 @@
 # The Oath He Didn't Mean
 
-*Locked canon, Batch 147, 2026-09-11 (`MCD-472`). Taifa Chronicle II. Homage-era Detroit,
+*Locked canon, Batch 147, 2026-09-11 (`MCD-472`). Taifa Chronicle II. Homage-era Mji,
 Taifa/Osei. Territory Chronicle -- Osei as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 

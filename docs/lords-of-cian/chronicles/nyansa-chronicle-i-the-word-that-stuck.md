@@ -4,7 +4,7 @@
 protagonist Adisa (`PH2-057`), not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, no intervention, and no resolution credit, matching the established convention
 from Xaragua Chronicle I (`MCD-334`) through Hekalu Chronicle I (`MCD-353`). Narration is
-close-third on Adisa throughout, not Onyx of Oblivion. Continues Detroit's own run of territory
+close-third on Adisa throughout, not Onyx of Oblivion. Continues Mji's own run of territory
 Chronicles. Slots into no existing mainline battle — original homage-era material set in Nyansa
 itself.*
 
@@ -93,5 +93,5 @@ implant a belief that isn't already half-formed there'). Adisa's real co-theoris
 referenced on-page. The rival faction leader is deliberately left unnamed, matching established
 precedent for undetailed antagonists. No new named characters are introduced; no new proper nouns
 requiring a collision check. This Chronicle slots into no existing MCD- rule -- original homage-era
-material set in Nyansa itself, continuing Detroit's own run of territory Chronicles (Kazi, Taifa,
+material set in Nyansa itself, continuing Mji's own run of territory Chronicles (Kazi, Taifa,
 and Hekalu already have one; only Kiti still does not).*

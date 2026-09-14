@@ -1,6 +1,6 @@
 # Guanín Chronicle III: The Blow He Decided Not to Bank
 
-*Locked canon, Batch 164, 2026-09-11 (`MCD-511`). Homage-era NYC, Guanín/Eri Kotoko. Territory
+*Locked canon, Batch 164, 2026-09-11 (`MCD-511`). Homage-era Batey, Guanín/Eri Kotoko. Territory
 Chronicle — Eri Kotoko as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

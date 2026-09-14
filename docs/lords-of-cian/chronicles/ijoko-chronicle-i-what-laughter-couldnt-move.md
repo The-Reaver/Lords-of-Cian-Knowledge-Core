@@ -4,7 +4,7 @@
 protagonist Adwoa (`PH2-027`), not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, no intervention, and no resolution credit, matching the established convention
 from Xaragua Chronicle I (`MCD-334`) through Atunbi Chronicle I (`MCD-348`). Narration is
-close-third on Adwoa throughout, not Onyx of Oblivion. Continues Los Angeles's own run of territory
+close-third on Adwoa throughout, not Onyx of Oblivion. Continues Ílú-Márùn's own run of territory
 Chronicles. Slots into no existing mainline battle — original homage-era material set in Ijoko
 itself.*
 
@@ -89,5 +89,5 @@ against the real, impersonal economic decline (a thinning tax base, capital flig
 her, exactly matching PH2-027's stated limitation, and the Chronicle is explicit that this is a
 different kind of fight entirely, one composure cannot touch. No new named characters are introduced;
 no new proper nouns requiring a collision check. This Chronicle slots into no existing MCD- rule --
-original homage-era material set in Ijoko itself, continuing Los Angeles's own run of territory
+original homage-era material set in Ijoko itself, continuing Ílú-Márùn's own run of territory
 Chronicles (Sankofa, Aztlán, and Atunbi already have one; only Orin still does not).*

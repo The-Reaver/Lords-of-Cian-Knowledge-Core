@@ -1,6 +1,6 @@
 # The Weeks the Chair Sat Empty
 
-*Locked canon, Batch 150, 2026-09-11 (`MCD-475`). Kiti Chronicle II. Homage-era Detroit, Kiti/Owusu.
+*Locked canon, Batch 150, 2026-09-11 (`MCD-475`). Kiti Chronicle II. Homage-era Mji, Kiti/Owusu.
 Territory Chronicle -- Owusu as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 

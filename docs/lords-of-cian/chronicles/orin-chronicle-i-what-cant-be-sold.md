@@ -5,7 +5,7 @@ protagonist Onilu (`PH2-029`), not a Kanja Chronicle. Kanja appears only as a gu
 granted no command, no intervention, and no resolution credit, matching the established convention
 from Xaragua Chronicle I (`MCD-334`) through Ijoko Chronicle I (`MCD-349`). Narration is
 close-third on Onilu throughout, not Onyx of Oblivion. Completes a first Chronicle entry for all
-five Los Angeles territories. Slots into no existing mainline battle — original homage-era material
+five Ílú-Márùn territories. Slots into no existing mainline battle — original homage-era material
 set in Orin itself.*
 
 ---
@@ -89,6 +89,4 @@ instant anyone tries to sell, commercialize, or perform it for fame, the binding
 and permanently for that performance"). The promoter is deliberately left unnamed, matching
 established precedent for undetailed antagonists. No new named characters are introduced; no new
 proper nouns requiring a collision check. This Chronicle slots into no existing MCD- rule -- original
-homage-era material set in Orin itself, and completes a first Chronicle entry for every one of Los
-Angeles's five territories (Sankofa, Aztlán, Atunbi, Ijoko, Orin), matching NYC's and Chicago's own
-completed sets.*
+homage-era material set in Orin itself, and completes a first Chronicle entry for every one of Ílú-Márùn's five territories (Sankofa, Aztlán, Atunbi, Ijoko, Orin), matching Batey's and Muungano's own completed sets.*

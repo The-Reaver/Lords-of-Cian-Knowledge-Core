@@ -4,7 +4,7 @@
 protagonist Adom (`PH2-055`), not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, no intervention, and no resolution credit, matching the established convention
 from Xaragua Chronicle I (`MCD-334`) through Taifa Chronicle I (`MCD-352`). Narration is
-close-third on Adom throughout, not Onyx of Oblivion. Continues Detroit's own run of territory
+close-third on Adom throughout, not Onyx of Oblivion. Continues Mji's own run of territory
 Chronicles. Slots into no existing mainline battle — original homage-era material set in Hekalu
 itself.*
 
@@ -87,5 +87,5 @@ who sat down without ever meaning to be there and left entirely unchanged, match
 limitation that the binding "only holds among people who chose to sit down together -- cannot be
 forced on the unwilling." No new named characters are introduced; no new proper nouns requiring a
 collision check. This Chronicle slots into no existing MCD- rule -- original homage-era material set
-in Hekalu itself, continuing Detroit's own run of territory Chronicles (Kazi and Taifa already have
+in Hekalu itself, continuing Mji's own run of territory Chronicles (Kazi and Taifa already have
 one; Nyansa and Kiti still do not).*

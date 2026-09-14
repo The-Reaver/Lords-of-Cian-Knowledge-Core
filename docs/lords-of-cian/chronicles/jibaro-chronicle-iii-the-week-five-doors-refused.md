@@ -1,6 +1,6 @@
 # Jibaro Chronicle III: The Week Five Doors Refused
 
-*Locked canon, Batch 169, 2026-09-11 (`MCD-516`). Homage-era Chicago, Jibaro/Omoba. Territory
+*Locked canon, Batch 169, 2026-09-11 (`MCD-516`). Homage-era Muungano, Jibaro/Omoba. Territory
 Chronicle — Omoba as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

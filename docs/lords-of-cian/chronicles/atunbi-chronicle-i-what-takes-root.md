@@ -4,7 +4,7 @@
 protagonist Oluwole (`PH2-025`), not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, no intervention, and no resolution credit, matching the established convention
 from Xaragua Chronicle I (`MCD-334`) through Aztlán Chronicle I (`MCD-347`). Narration is
-close-third on Oluwole throughout, not Onyx of Oblivion. Continues Los Angeles's own run of
+close-third on Oluwole throughout, not Onyx of Oblivion. Continues Ílú-Márùn's own run of
 territory Chronicles. Slots into no existing mainline battle — original homage-era material set in
 Atunbi itself.*
 
@@ -88,5 +88,5 @@ ordinary human numbers arriving in time, not the gift itself -- Oluwole says so 
 letting the ability quietly do work it was never built for. The demolition crew is deliberately left
 unnamed, matching established precedent for undetailed antagonists. No new named characters are
 introduced; no new proper nouns requiring a collision check. This Chronicle slots into no existing
-MCD- rule -- original homage-era material set in Atunbi itself, continuing Los Angeles's own run of
+MCD- rule -- original homage-era material set in Atunbi itself, continuing Ílú-Márùn's own run of
 territory Chronicles (Sankofa and Aztlán already have one; Ijoko and Orin still do not).*

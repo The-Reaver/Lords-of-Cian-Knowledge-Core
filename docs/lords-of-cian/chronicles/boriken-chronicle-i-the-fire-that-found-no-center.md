@@ -6,7 +6,7 @@ granted no command, no intervention, and no resolution credit, matching the esta
 from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`),
 Areíto Chronicle I (`MCD-339`), and Guanín Chronicle I (`MCD-340`). Narration is close-third on
 Guaní throughout, not Onyx of Oblivion. Slots into no existing mainline battle — original
-homage-era material set in Borikén itself. Completes the first Chronicle entry for all five NYC
+homage-era material set in Borikén itself. Completes the first Chronicle entry for all five Batey
 territories.*
 
 ---
@@ -118,5 +118,5 @@ recoverable in the same form) rather than a clean win dressed up as a loss. The 
 deliberately left unnamed, matching the Umoja/Areíto/Guanín precedent for undetailed antagonists.
 No new named characters are introduced; no new proper nouns requiring a collision check. This
 Chronicle slots into no existing MCD- rule — original homage-era material set in Borikén itself,
-and completes the first Chronicle entry for every one of NYC's five territories (Xaragua, Areíto,
+and completes the first Chronicle entry for every one of Batey's five territories (Xaragua, Areíto,
 Yara, Guanín, Borikén).*

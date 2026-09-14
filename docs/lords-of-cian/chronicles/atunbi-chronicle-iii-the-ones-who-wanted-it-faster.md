@@ -1,6 +1,6 @@
 # Atunbi Chronicle III: The Ones Who Wanted It Faster
 
-*Locked canon, Batch 173, 2026-09-11 (`MCD-520`). Homage-era Los Angeles, Atunbi/Oluwole. Territory
+*Locked canon, Batch 173, 2026-09-11 (`MCD-520`). Homage-era Ílú-Márùn, Atunbi/Oluwole. Territory
 Chronicle — Oluwole as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

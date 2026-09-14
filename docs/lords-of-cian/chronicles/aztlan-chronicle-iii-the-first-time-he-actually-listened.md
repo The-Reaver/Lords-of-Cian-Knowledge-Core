@@ -1,6 +1,6 @@
 # Aztlán Chronicle III: The First Time He Actually Listened
 
-*Locked canon, Batch 172, 2026-09-11 (`MCD-519`). Homage-era Los Angeles, Aztlán/Ollin. Territory
+*Locked canon, Batch 172, 2026-09-11 (`MCD-519`). Homage-era Ílú-Márùn, Aztlán/Ollin. Territory
 Chronicle — Ollin as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. Set some years after Iya's already-locked walkout (`MCD-359`). New standalone
 material. No new named characters.*

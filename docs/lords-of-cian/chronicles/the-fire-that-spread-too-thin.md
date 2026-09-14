@@ -1,6 +1,6 @@
 # The Fire That Spread Too Thin
 
-*Locked canon, Batch 140, 2026-09-11 (`MCD-465`). Umoja Chronicle II. Homage-era Chicago,
+*Locked canon, Batch 140, 2026-09-11 (`MCD-465`). Umoja Chronicle II. Homage-era Muungano,
 Umoja/Kofi. Territory Chronicle -- Kofi as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 

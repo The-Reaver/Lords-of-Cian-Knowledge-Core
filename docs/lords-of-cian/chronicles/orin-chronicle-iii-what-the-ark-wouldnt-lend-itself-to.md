@@ -1,6 +1,6 @@
 # Orin Chronicle III: What the Ark Wouldn't Lend Itself To
 
-*Locked canon, Batch 175, 2026-09-11 (`MCD-522`). Homage-era Los Angeles, Orin/Onilu. Territory
+*Locked canon, Batch 175, 2026-09-11 (`MCD-522`). Homage-era Ílú-Márùn, Orin/Onilu. Territory
 Chronicle — Onilu as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

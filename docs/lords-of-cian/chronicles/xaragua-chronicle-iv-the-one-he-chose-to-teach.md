@@ -8,7 +8,7 @@ Salvatierra Duho (`PH2-061`), with Naya, his protegee, dramatized directly for t
 Naya as a new named character, collision-checked against the full live ledger (zero prior hits).
 Kanja appears only briefly and at the margins, granted no command, intervention, or resolution
 credit, consistent with the established convention -- his passage through Xaragua and the other four
-NYC territories was already granted in Xaragua Chronicle II, so his presence here is understated
+Batey territories was already granted in Xaragua Chronicle II, so his presence here is understated
 rather than newly explained.*
 
 ---
@@ -89,7 +89,7 @@ That's not nothing either. That's the whole of what a table like this is actuall
 Naya (introduced here, collision-checked against the full live ledger, zero prior hits) is
 dramatized directly for the first time, fulfilling `PH2-061`'s flagged-for-future-payoff reference.
 Kanja is the unnamed guest, present at the margins for the dispute without taking command, credit, or
-resolution authorship -- his passage through NYC was already granted in Xaragua Chronicle II
+resolution authorship -- his passage through Batey was already granted in Xaragua Chronicle II
 (`MCD-337`), so no re-introduction or re-testing occurs here. This Chronicle deliberately does not
 resolve the larger flagged long-arc promise that Kanja himself eventually "becomes one" of Arturo's
 loved ones capable of unguarded banter -- that thread remains untouched, left for a future entry, and

@@ -7,7 +7,7 @@ from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chroni
 Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), Borikén Chronicle I (`MCD-341`), Ide
 Chronicle I (`MCD-342`), and Kwan Chronicle I (`MCD-343`). Narration is close-third on Omoba
 throughout, not Onyx of Oblivion. Slots into no existing mainline battle — original homage-era
-material set in Jibaro itself. Continues Chicago's own run of territory Chronicles.*
+material set in Jibaro itself. Continues Muungano's own run of territory Chronicles.*
 
 ---
 
@@ -94,5 +94,5 @@ could shame into complicity, is retaken within the hour with no resistance at al
 stated limitation exactly ("doesn't work on open ground or purely private property") rather than
 treating it as an abstract caveat. No new named characters are introduced; no new proper nouns
 requiring a collision check. This Chronicle slots into no existing MCD- rule -- original homage-era
-material set in Jibaro itself, continuing Chicago's own run of territory Chronicles (Umoja, Ide, and
+material set in Jibaro itself, continuing Muungano's own run of territory Chronicles (Umoja, Ide, and
 Kwan already have one; only Uhuru remains).*

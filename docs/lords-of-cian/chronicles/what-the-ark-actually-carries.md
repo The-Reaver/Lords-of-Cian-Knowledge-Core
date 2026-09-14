@@ -1,6 +1,6 @@
 # What the Ark Actually Carries
 
-*Locked canon, Batch 146, 2026-09-11 (`MCD-471`). Orin Chronicle II. Homage-era Los Angeles,
+*Locked canon, Batch 146, 2026-09-11 (`MCD-471`). Orin Chronicle II. Homage-era Ílú-Márùn,
 Orin/Onilu. Territory Chronicle -- Onilu as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 

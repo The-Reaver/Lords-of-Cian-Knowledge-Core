@@ -1,6 +1,6 @@
 # Kazi Chronicle III: The Line That Wasn't a Line
 
-*Locked canon, Batch 176, 2026-09-11 (`MCD-523`). Homage-era Detroit, Kazi/Irin. Territory
+*Locked canon, Batch 176, 2026-09-11 (`MCD-523`). Homage-era Mji, Kazi/Irin. Territory
 Chronicle — Irin as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

@@ -1,6 +1,6 @@
 # Ijoko Chronicle III: The Criticism She Couldn't Dismiss
 
-*Locked canon, Batch 174, 2026-09-11 (`MCD-521`). Homage-era Los Angeles, Ijoko/Adwoa. Territory
+*Locked canon, Batch 174, 2026-09-11 (`MCD-521`). Homage-era Ílú-Márùn, Ijoko/Adwoa. Territory
 Chronicle — Adwoa as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

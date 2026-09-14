@@ -1,6 +1,6 @@
 # The Meal That Bound Nothing
 
-*Locked canon, Batch 148, 2026-09-11 (`MCD-473`). Hekalu Chronicle II. Homage-era Detroit,
+*Locked canon, Batch 148, 2026-09-11 (`MCD-473`). Hekalu Chronicle II. Homage-era Mji,
 Hekalu/Adom. Territory Chronicle -- Adom as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 

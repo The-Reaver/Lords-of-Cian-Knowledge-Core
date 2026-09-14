@@ -1,6 +1,6 @@
 # The Cost of Being Corrected
 
-*Locked canon, Batch 149, 2026-09-11 (`MCD-474`). Nyansa Chronicle II. Homage-era Detroit,
+*Locked canon, Batch 149, 2026-09-11 (`MCD-474`). Nyansa Chronicle II. Homage-era Mji,
 Nyansa/Adisa. Territory Chronicle -- Adisa as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 

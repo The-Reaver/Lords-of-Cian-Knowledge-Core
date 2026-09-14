@@ -1,6 +1,6 @@
 # Taifa Chronicle III: What Traveled Besides the Alarm
 
-*Locked canon, Batch 177, 2026-09-11 (`MCD-524`). Homage-era Detroit, Taifa/Osei. Territory
+*Locked canon, Batch 177, 2026-09-11 (`MCD-524`). Homage-era Mji, Taifa/Osei. Territory
 Chronicle — Osei as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

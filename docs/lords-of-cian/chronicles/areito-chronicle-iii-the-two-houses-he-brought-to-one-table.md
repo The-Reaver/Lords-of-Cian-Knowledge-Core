@@ -1,6 +1,6 @@
 # Areíto Chronicle III: The Two Houses He Brought to One Table
 
-*Locked canon, Batch 162, 2026-09-11 (`MCD-509`). Homage-era NYC, Areíto/Kwame Ade. Territory
+*Locked canon, Batch 162, 2026-09-11 (`MCD-509`). Homage-era Batey, Areíto/Kwame Ade. Territory
 Chronicle — Kwame Ade as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

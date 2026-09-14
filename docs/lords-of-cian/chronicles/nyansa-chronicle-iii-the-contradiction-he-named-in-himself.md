@@ -1,6 +1,6 @@
 # Nyansa Chronicle III: The Contradiction He Named in Himself
 
-*Locked canon, Batch 179, 2026-09-11 (`MCD-526`). Homage-era Detroit, Nyansa/Adisa. Territory
+*Locked canon, Batch 179, 2026-09-11 (`MCD-526`). Homage-era Mji, Nyansa/Adisa. Territory
 Chronicle — Adisa as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

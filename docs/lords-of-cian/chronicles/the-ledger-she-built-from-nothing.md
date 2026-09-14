@@ -1,6 +1,6 @@
 # The Ledger She Built From Nothing
 
-*Locked canon, Batch 145, 2026-09-11 (`MCD-470`). Ijoko Chronicle II. Homage-era Los Angeles,
+*Locked canon, Batch 145, 2026-09-11 (`MCD-470`). Ijoko Chronicle II. Homage-era Ílú-Márùn,
 Ijoko/Adwoa. Territory Chronicle -- Adwoa as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 

@@ -1,6 +1,6 @@
 # Umoja Chronicle III: The Fire That Crossed the City
 
-*Locked canon, Batch 168, 2026-09-11 (`MCD-515`). Homage-era Chicago, Umoja/Kofi. Territory
+*Locked canon, Batch 168, 2026-09-11 (`MCD-515`). Homage-era Muungano, Umoja/Kofi. Territory
 Chronicle — Kofi as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

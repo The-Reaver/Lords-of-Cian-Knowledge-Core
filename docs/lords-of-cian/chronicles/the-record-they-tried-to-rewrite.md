@@ -1,6 +1,6 @@
 # The Record They Tried to Rewrite
 
-*Locked canon, Batch 141, 2026-09-11 (`MCD-466`). Ide Chronicle II. Homage-era Chicago, Ide/Ase.
+*Locked canon, Batch 141, 2026-09-11 (`MCD-466`). Ide Chronicle II. Homage-era Muungano, Ide/Ase.
 Territory Chronicle -- Ase as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 

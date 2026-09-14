@@ -1,6 +1,6 @@
 # Uhuru Chronicle III: What the Seat Couldn't Give the Next Man
 
-*Locked canon, Batch 170, 2026-09-11 (`MCD-517`). Homage-era Chicago, Uhuru/Ofin. Territory
+*Locked canon, Batch 170, 2026-09-11 (`MCD-517`). Homage-era Muungano, Uhuru/Ofin. Territory
 Chronicle — Ofin's successor as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. Set after Ofin's already-locked capstone death (`MCD-358`). New
 standalone material. No new named characters.*

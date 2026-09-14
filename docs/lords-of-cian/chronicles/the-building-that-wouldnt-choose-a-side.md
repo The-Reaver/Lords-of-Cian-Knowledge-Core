@@ -1,6 +1,6 @@
 # The Building That Wouldn't Choose a Side
 
-*Locked canon, Batch 143, 2026-09-11 (`MCD-468`). Jibaro Chronicle II. Homage-era Chicago,
+*Locked canon, Batch 143, 2026-09-11 (`MCD-468`). Jibaro Chronicle II. Homage-era Muungano,
 Jibaro/Omoba. Territory Chronicle -- Omoba as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 

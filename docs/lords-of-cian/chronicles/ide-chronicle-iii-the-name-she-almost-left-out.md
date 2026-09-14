@@ -1,6 +1,6 @@
 # Ide Chronicle III: The Name She Almost Left Out
 
-*Locked canon, Batch 166, 2026-09-11 (`MCD-513`). Homage-era Chicago, Ide/Ase. Territory
+*Locked canon, Batch 166, 2026-09-11 (`MCD-513`). Homage-era Muungano, Ide/Ase. Territory
 Chronicle — Ase as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 

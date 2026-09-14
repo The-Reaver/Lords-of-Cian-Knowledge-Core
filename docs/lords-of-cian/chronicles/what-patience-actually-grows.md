@@ -1,6 +1,6 @@
 # What Patience Actually Grows
 
-*Locked canon, Batch 144, 2026-09-11 (`MCD-469`). Atunbi Chronicle II. Homage-era Los Angeles,
+*Locked canon, Batch 144, 2026-09-11 (`MCD-469`). Atunbi Chronicle II. Homage-era Ílú-Márùn,
 Atunbi/Oluwole. Territory Chronicle -- Oluwole as protagonist, Kanja an unnamed background guest
 with no command, credit, or resolution authorship. New standalone material. No new named characters.*
 

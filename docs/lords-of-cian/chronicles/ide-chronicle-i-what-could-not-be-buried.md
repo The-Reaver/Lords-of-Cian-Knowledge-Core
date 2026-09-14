@@ -6,7 +6,7 @@ granted no command, no intervention, and no resolution credit, matching the esta
 from Xaragua Chronicle I (`MCD-334`), Umoja Chronicle I (`MCD-335`), Yara Chronicle I (`MCD-336`),
 Areíto Chronicle I (`MCD-339`), Guanín Chronicle I (`MCD-340`), and Borikén Chronicle I (`MCD-341`).
 Narration is close-third on Ase throughout, not Onyx of Oblivion. Slots into no existing mainline
-battle — original homage-era material set in Ide itself. Opens Chicago's own run of territory
+battle — original homage-era material set in Ide itself. Opens Muungano's own run of territory
 Chronicles.*
 
 ---
@@ -107,6 +107,6 @@ multiplied past any single point of seizure, matching the "regular person" desig
 deliberately left unnamed, matching the Umoja/Areíto/Guanín/Borikén precedent for undetailed
 antagonists. No new named characters are introduced; no new proper nouns requiring a collision
 check. This Chronicle slots into no existing MCD- rule — original homage-era material set in Ide
-itself, and opens Chicago's own run of territory Chronicles (four of Chicago's five territories,
+itself, and opens Muungano's own run of territory Chronicles (four of Muungano's five territories,
 Ide/Kwan/Jibaro/Uhuru, still had none before this entry; Umoja already has one, Umoja Chronicle I,
 `MCD-335`).*

@@ -4,7 +4,7 @@
 protagonist Ollin (`PH2-023`), not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, no intervention, and no resolution credit, matching the established convention
 from Xaragua Chronicle I (`MCD-334`) through Sankofa Chronicle I (`MCD-346`). Narration is
-close-third on Ollin throughout, not Onyx of Oblivion. Continues Los Angeles's own run of territory
+close-third on Ollin throughout, not Onyx of Oblivion. Continues Ílú-Márùn's own run of territory
 Chronicles. Slots into no existing mainline battle — original homage-era material set in Aztlán
 itself.*
 
@@ -85,5 +85,5 @@ yet... whether I go looking for it or not") is a deliberate, unresolved forward 
 future rupture, matching the hook pattern already established in Areíto Chronicle I and elsewhere,
 not a payoff. No new named characters are introduced; no new proper nouns requiring a collision
 check. This Chronicle slots into no existing MCD- rule -- original homage-era material set in
-Aztlán itself, continuing Los Angeles's own run of territory Chronicles (Sankofa already has one;
+Aztlán itself, continuing Ílú-Márùn's own run of territory Chronicles (Sankofa already has one;
 Atunbi, Ijoko, and Orin still do not).*

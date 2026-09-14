@@ -1,6 +1,6 @@
 # Hekalu Chronicle III: The Table That Needed Setting Again
 
-*Locked canon, Batch 178, 2026-09-11 (`MCD-525`). Homage-era Detroit, Hekalu/Adom. Territory
+*Locked canon, Batch 178, 2026-09-11 (`MCD-525`). Homage-era Mji, Hekalu/Adom. Territory
 Chronicle — Adom as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 
