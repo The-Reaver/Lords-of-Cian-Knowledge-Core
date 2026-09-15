@@ -1741,6 +1741,47 @@ applied the same transformation to all 10 new files before upload. Final listing
 13/13 (3 pre-existing + 10 new), deduplicated by file ID, no duplicates. No git or ledger changes in
 this pass -- upload-only, matching the established Drive-sync pattern used throughout the project.
 
+**The four homage-era city names invented, Batch 290, 2026-09-14 (31 rule statements corrected,
+`ledger_version` 29.3).** Abad, looking at the live archive site, flagged that Arturo's character page
+read "leads NYC's Five Families" -- a real-world proper noun asserted as in-fiction fact. Investigation
+found every homage-era territory had its own invented name, but the four city-level containers (NYC,
+LA, Chicago, Detroit) never did, so the real names had leaked directly into locked rule statements
+across `PH2-` and `MCD-` as if this secondary, non-Earth World (`MCD-313`) were literally set in the
+real cities. Fixed by inventing proper names for all four, matching the same real-vocabulary-reuse
+convention used for every territory, Abad's picks from candidate sets presented: **Batey** for NYC
+(real Taino word for the communal gathering-plaza a village organized around), **Ìlú-Márùn** for LA
+(Yoruba compound, literally "Five-Town"), **Muungano** for Chicago (real Swahili word for
+"union/federation," the actual historical term for Tanganyika-and-Zanzibar's own union), and **Mji**
+for Detroit (Swahili for "town/city"). 31 statement-level fixes applied across `PH2-009/010/035/040/
+042/047/060/061`, `PH2-020/030/045/050/052/054/058`, and 17 `MCD-` rules; legitimate real-world homage
+citations (e.g. "homage to Felipe Luciano and the NYC Young Lords," "founded... in Chicago's Lincoln
+Park in 1968") deliberately left untouched, same treatment as never renaming Malcolm X or MLK
+themselves. Companion fixes applied the same pass, outside the ledger itself: 50 affected Chronicle
+`.md` files (all hits confined to boilerplate header/footer metadata, never the narrative prose), plus
+the already-imported archive-app database content (12 character bios, 50 `kc_documents.source_raw_text`
+audit-trail rows) -- the live site verified clean end-to-end afterward. Abad's approval covered both the
+fix approach and the four names, selected from candidate sets presented per-city.
+
+## Character Chronicle Gameplan (Abad, 2026-09-15)
+
+A third open-ended Chronicle track, opened alongside the existing Alias Chronicle and
+territory-Chronicle tracks, not replacing either. Full census, structure decision, and starting order
+tracked in full at `docs/lords-of-cian/character-chronicle-gameplan.md` -- summary here: every
+canon-detailed character across the ledger was surveyed (Character Codex, Maw Codex, Ashkeel, the
+cult ecosystem, and scattered named figures elsewhere), sorted into tiers by how developed and
+narratively central they already are. Structure decided: each character gets their **own protagonist
+Chronicle series**, mirroring the territory-leader model exactly (their own numbered series, themselves
+as POV, Kanja only an unnamed/background presence where it fits) -- not folded into Kanja's own Alias
+Chronicles as deep-dive supporting-cast entries. Starting point decided: **Tier 1 first** -- the eight
+major co-leads with already-established narrator voices and real POV chapters in the source material:
+Ozmund Verehimu, Ezio Valcari, Lauris Letitia, Fermand Aurelias (Hermes), Valen (Sinisterblade), Sephtis
+(Vrail), Anansi, and Orlok. Five further tiers are surveyed and queued but not sequenced yet (Avatars/
+Titans, antagonists, T.D.K.'s Five Champions, dockside crew, minor named figures) -- per the same
+pacing discipline governing the other two tracks, no tier or character starts drafting until Abad
+points at it. Not yet decided: which of the eight Tier 1 characters gets the first series, or whether
+several launch together. Same non-negotiable process as everywhere else in this project: draft, present
+in full, wait for explicit approval, then lock.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
