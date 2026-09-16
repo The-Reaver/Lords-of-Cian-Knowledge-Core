@@ -1782,6 +1782,52 @@ points at it. Not yet decided: which of the eight Tier 1 characters gets the fir
 several launch together. Same non-negotiable process as everywhere else in this project: draft, present
 in full, wait for explicit approval, then lock.
 
+**Lauris Letitia's biographical groundwork locked, Batch 291, 2026-09-16 (`MCD-1533` through
+`MCD-1560`, 28 rules; `MCD-141` superseded; `MCD-212`/`MCD-215` amended in place).** Abad uploaded
+`Lauris_Letitia_Chronicle_1.docx` directly, a fuller "Companion Volume" biographical/operational
+reference covering Eras A-H of Lauris's life (~34,000 years of Kares Prime civilization plus her own
+~4,000-6,000 years) -- answering which Tier 1 character starts first. Processed via 5 parallel
+background extraction agents (Era A-C, Era D-E, Era F Operations 1-22, Era F Operations 23-40 +
+Defection + Ezio meeting, Era G-H), matching the established Companion-Volume precedent from Kanja's
+Twenty-Two Victories/Long Mask Chronicles. **Headline finding: ~90% of the document (Eras A-E, G-H,
+and Era F's back half) is the same underlying chronicle already extracted from
+`World_Adaptation_Blueprint` Section VI (Batches 28-38, `MCD-140`-`MCD-217`)** -- confirmed redundant
+near word-for-word by all five agents, no new rules drafted from that ~90%, matching the resolution
+pattern already used for `Complete_Chronicle_Definitive_Edition.docx` (Batch 44) and the MRD Five Book
+Arcs/Complete Structural Outline pair (Batch 56). The genuinely new material was Era F Operations
+1-22, her first 22 Sealbound Directorate contracts, plus minor optional texture the Era A-C and Era
+D-E agents flagged as skippable and one optional career-aggregate-totals rule from the Era F ops
+23-40 agent. Presented as a 5-point synthesis; Abad answered all five in one message: **"6,000"**
+(her present-day age -- a real contradiction between this document's own "~4,000 at present" framing
+and the already-locked `MCD-174` departure age (~4,000) plus `MCD-175` arrival timing (~2,000 years
+before Book 1's present), which sum to ~6,000; `MCD-1533` locks the reconciliation and `MCD-212`/
+`MCD-215`'s own "roughly 4,000 years old" phrasing is corrected in place to match); **"approve"**
+(superseding `MCD-141`, which contradicts the already-locked, later-drafted `MCD-151` on whether the
+Kareth War-Order's founding expedition left Kares Prime during or before the K-strand decline --
+`MCD-151` controls, now corroborated a third time); **"approve draft 1 through draft 9"** (the Era F
+Operations 1-22 agent's nine rules: Sample K-403's fate, the Twin Anomaly's engineered-origin
+suspicion, Settlement K-447's resonance-keyed cluster, the two-phase Vask of the Hollow clearance,
+the Brokenwall/Velaris planted-node outbreaks, the Petite Catastrophe alias's origin, the Long
+Pursuit's institutional-blindness confirmation, the escalating-independence arc, and her non-combat
+operational range); **"yes"** (a follow-up pass filling Operations 2, 5, 11, 13, 17, and 21, which
+the agent had deliberately left undrafted pending the required Verehimu-to-Voskharen geographic
+rename -- applied throughout: the Sister-of-Voren Abduction, the Maelstrom Beast, the two Tide-Wraith
+vessel-bait engagements (drafted as a tactical-mechanics extension of the already-locked `MCD-185`
+rather than a restatement), the Captain Drenneth Acquisition, and the Drowning Vault breach (drafted
+as an extension of `MCD-179` for the same reason -- Operations 11, 17, and 21 turned out to already
+have compressed coverage locked, so only the missing tactical detail was drafted)); and **"yes"**
+(locking the 13 optional texture rules: 6 from Era A-C -- the 34,000-year archive ceiling, Kares
+Prime's binary-star light and *karth-mor*, pre-decline trade isolation by choice, Vask Karth-Ven's
+name etymology, the 75,000-year K-strand response timeline, Lauris's age-10 cohort bonds; 6 from Era
+D-E -- Vask Karth-Ven's physical infrastructure, the Long Operational Period's 23-deployment
+breakdown, density data at age 1,840, Attia's Rite's pre-Cian Karesian name, a six-line quotes
+catalog, and the parthenogenesis mechanic underlying `MCD-159`; and 1 from Era F ops 23-40 -- her
+career-aggregate totals across all 40 operations). No new proper-noun collisions beyond the
+already-flagged and accepted "Captain Drenneth"/"Drenneth Threnarr-Vask" coincidental homonym. This
+closes the biographical/canon-fact groundwork for Lauris; the next logical step, not yet requested,
+is drafting actual narrative Chronicle prose for her own series under the Character Chronicle
+Gameplan above.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
