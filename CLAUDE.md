@@ -1828,6 +1828,31 @@ closes the biographical/canon-fact groundwork for Lauris; the next logical step,
 is drafting actual narrative Chronicle prose for her own series under the Character Chronicle
 Gameplan above.
 
+**Lauris Chronicle I, "The Shape Taught Twice," Batch 292, 2026-09-16 (`MCD-1561`).** The first
+entry in Lauris Letitia's own Chronicle series -- the Character Chronicle Gameplan's Tier 1 track
+opens with her, as the Batch 291 Companion Volume upload implied. Resolves the gameplan's open
+narrator sub-question: narrated by Fermand Aurelias, per the already-locked `CC-034` ("Fermand
+narrates all Ezio and Lauris POV chapters in a Baroque/Zafón-Noir voice") and `VB-024`'s voice spec
+(clinical/methodical, no slang, no contractions, no panic ever, warmth reserved only for "My dear
+Ezio") -- distinct from both Onyx's Kanja narration and the close-third register used for the
+homage-era territory Chronicles, since Lauris is core Lords of Cian crew rather than a stranger
+Kanja meets. Full narrative text at
+`docs/lords-of-cian/chronicles/lauris-chronicle-i-the-shape-taught-twice.md`. A frontier holding near
+the Korren Highlands is found with an unfinished chalk perimeter matching Operation 12's Settlement
+K-447 geometry (`MCD-1536`, locked Batch 291); Lauris arrives before the pattern completes and stops
+it. Puts two of her least-dramatized traits on the page for the first time: the Density Saturation
+Inversion (`ARS-357` through `374` -- fuller saturation makes her progressively *less* detectable,
+the inverse of every other density combatant on Cian), shown defeating a crude density-ward built by
+the circle, and her defining combat-joy (`CC-134`, "She Who is Crowned with Joy") -- an unqualified,
+competent pleasure in her own capability rather than grim duty. Deliberately deepens rather than
+resolves the K-447 mystery: the circle's leader was taught a degraded fragment of the technique
+decades ago by an unnamed itinerant instructor calling it "insurance," confirming the original
+actor is still alive and still teaching the method to unrelated circles, without identifying who
+they are -- a live thread for a future entry, matching the project's established pattern (Sankofa's
+conspiracy, the Kanja/Arturo long-arc) of deepening a first-entry hook rather than closing it
+immediately. No new named characters. Abad's approval: "lock it." Ledger reached `ledger_version`
+29.5, 2,226 rules, 292 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
