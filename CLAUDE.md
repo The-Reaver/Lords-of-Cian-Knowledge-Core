@@ -1888,6 +1888,49 @@ named characters across any of the four entries. Abad's approval: "lock." Ledger
 five Chronicles -- she doesn't have a folder in the "FINAL FOLDER" mirror the way the territories and
 aliases do; open whenever Abad wants it started.
 
+## New faction and character: 1804 and Daba (Abad, 2026-09-17)
+
+**The 1804 tragedy, faction, and Daba's mutual mentorship with Kanja locked, Batch 294, 2026-09-17
+(`MCD-1566` through `MCD-1569`, `CC-135`).** New mainline pre-Rebellion material, not a Character
+Chronicle track entry -- foundational world-building laid down before any Chronicle prose is
+written for it, matching Abad's own framing ("lay down a perfect foundation before I even begin the
+books"). His original message, lightly garbled by dictation, was clarified through three questions
+before drafting: "conjure" and "Contra" both confirmed to mean Kanja himself -- Daba becomes Kanja's
+conscious forging apprentice, and Daba (not Kanja) is the one building the eventual infrastructure,
+the 1804 network whose Book 1 relevance is what Kanja's own crew will eventually need; and placement
+confirmed as new mainline material sitting in Kanja's own already-locked pre-Rebellion timeline, not
+a separate homage World. Two further judgment calls -- the perpetrator (Sovereign Trust suppression
+forces) and
+Daba's own relationship to the tragedy (a survivor himself, one of the young caregivers who lived) --
+were proposed and confirmed before full rule text was drafted and presented.
+
+`MCD-1566` locks the tragedy itself: a Sovereign Trust punitive "correction" against a settlement
+called the Rookery, roughly eight years before Kanja's Rebellion formally begins at `MCD-231` --
+1,804 dead, overwhelmingly children, plus the young men and women serving as their caregivers who
+died trying to save them or fight back. The Trust's official record calls it an undetermined-origin
+fire; survivors refuse that framing, known only by the death toll. `MCD-1567` locks the 1804 faction
+Daba builds afterward: the smallest standing force of any resistance faction in the ledger,
+deliberately so -- doctrine over mass, cross-trained dispersed cells, disproportionately lethal and
+versatile for its size, built on the lesson that anything large enough to be seen is large enough to
+be burned. `CC-135` locks Daba himself: S-tier through guerrilla mastery and tactical discipline
+rather than density, following the same non-variant-biology precedent already established for Matar
+(`CC-067`). `MCD-1568` locks the mutual mentorship with Kanja during Kanja's otherwise-unrecorded
+formative years -- Daba teaches guerrilla warfare, Kanja teaches forging (his own Rexmar tradition,
+`MCD-294` through `MCD-312`), Daba becomes Kanja's conscious apprentice (aware of exactly what he's
+learning and why) -- establishing the shared root of Daba's guerrilla doctrine and Kanja's own
+already-locked terrain-physics tactics at the Dredge-Line Ambush and Iron Shallows (`MCD-231`/`233`).
+`MCD-1569` locks the dormant-infrastructure hook: 1804 grows into a genuinely dispersed network with
+no single point of failure, built before Daba can see what it will eventually need to answer,
+running semi-dormant through the whole of Kanja's Rebellion and Long Mask era, never folded into the
+Lords of Cian's own crew structure, and activating in earnest in Book 1 when an as-yet-undrafted
+triggering event forces the issue -- the specific trigger deliberately left unspecified, matching
+the project's established practice for future-book payoffs (Haku's fate, the Drowning Vault's 120,
+`MCD-314`/`183`). Zero new proper-noun collisions (Daba, 1804, the Rookery all checked clean against
+the full live ledger before drafting). Abad's approval: "lock it." Ledger reached `ledger_version`
+29.7, 2,235 rules, 294 batches. Genuinely open for whenever Abad wants it next: Daba's own Chronicle
+series (matching the territory-leader/Tier-1-character model already used for Lauris), or any other
+thread -- no track starts automatically per the project's own standing pacing discipline.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
