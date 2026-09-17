@@ -1853,6 +1853,41 @@ conspiracy, the Kanja/Arturo long-arc) of deepening a first-entry hook rather th
 immediately. No new named characters. Abad's approval: "lock it." Ledger reached `ledger_version`
 29.5, 2,226 rules, 292 batches.
 
+**Lauris's four-strand pacing convention, plus wave one, Batch 293, 2026-09-17 (`MCD-1562` through
+`MCD-1565`).** Asked to propose a pacing convention for Lauris's series and a distinctive way to
+weave her background, discussed and agreed before drafting: rather than one flat numbered sequence,
+her series braids four parallel strands, one entry per strand per wave, all still numbered in one
+continuous sequence -- Strand K (Kares Prime / deep past, mirroring the Arturo-prequel move), Strand
+D (Sealbound Directorate years, full-scene treatment of specific operations from her 40-contract
+career), Strand L (the Ledger / present-day operational debts, deepen-don't-resolve), and Strand W
+(Witness / present-day, quiet stakes-free register, the CC-134 emotional-counterweight material with
+no mystery attached). Every entry also opens with a short archive fragment in Lauris's own spare
+voice before Fermand Aurelias's narration proper picks up -- a two-voice structure unique to this
+series since she's the only Tier 1 character established as keeping a literal written archive a
+narrator transcribes from (`MCD-211`). Full convention recorded at
+`docs/lords-of-cian/character-chronicle-gameplan.md`. First wave, all four presented together and
+approved with "lock": **"The Vein Between Two Vasks"** (`MCD-1562`, Strand K) -- roughly six hundred
+years post-karth-ven, Lauris resolves a Threnarr/Aldreth ore-vein dispute (one of the "Long
+Operational Period" inter-Vask security operations, `MCD-1555`) by standing unarmed in the exact
+center of where the first blow would land, then making both delegations state their costs aloud to
+each other; her own archive entry is the only one across forty read entries where she expresses
+uncertainty about what her presence actually accomplished. **"The Eighty Interviews"** (`MCD-1563`,
+Strand D) -- full-scene treatment of Operation 19/the Long Pursuit (previously only summarized at
+`MCD-1540`): her 23-month, 80-interview method for locating defector Kaerith Vossen, and the exact
+moment -- a retired archivist's admission he never questioned the Directorate's unexplainable legacy
+keying architecture -- where she first uses the word "inherited" about the Directorate's own
+methods, not just the engineering tradition's. **"The Last of the Seven"** (`MCD-1564`, Strand L) --
+advances the Operation 38 third-facility debt (`MCD-191`) without resolving it: she locates the
+facility, reads its defensive architecture as too sophisticated for solo entry, and reports it
+precisely located rather than cleared, deliberately not touching the K-Theta cave-system reveal
+`MCD-193` reserves for a future book. **"Two Archives, One Question"** (`MCD-1565`, Strand W) -- a
+stakes-free evening with Sephtis cross-referencing her Iron-Spire notes against his Verith fragment,
+putting `CC-134`'s combat-joy trait on the page in a non-combat register for the first time. No new
+named characters across any of the four entries. Abad's approval: "lock." Ledger reached
+`ledger_version` 29.6, 2,230 rules, 293 batches. No Google Drive sync performed yet for any of her
+five Chronicles -- she doesn't have a folder in the "FINAL FOLDER" mirror the way the territories and
+aliases do; open whenever Abad wants it started.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

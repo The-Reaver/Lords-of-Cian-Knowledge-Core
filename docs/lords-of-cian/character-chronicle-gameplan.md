@@ -133,6 +133,40 @@ Not yet decided: which of the 8 Tier 1 characters gets the first series,
 or whether they launch together the way earlier Phase 2 city builds did.
 Next concrete step is Abad pointing at one (or several) of the eight.
 
+## Lauris Letitia: four-strand pacing convention (Abad, 2026-09-17)
+
+Resolved the "not yet decided" pacing question above, at least for Lauris -- and set a candidate
+pattern other Tier 1 characters may or may not follow once their own series start. Rather than one
+flat numbered sequence, her series braids four parallel strands, one entry per strand per wave, all
+still numbered in a single continuous sequence (Chronicle I, II, III...) rather than separately
+sub-numbered per strand:
+
+- **Strand K -- Kares Prime (the deep past).** Flashback entries into her homeworld life,
+  pre-departure -- the vulnerable, unfinished version of her before ~4,000 years of grief calcified
+  into "witness." Mirrors the Arturo-prequel move.
+- **Strand D -- the Directorate years.** Full-scene treatment of specific operations from her
+  40-contract Sealbound career, continuing what Chronicle I started -- her isolation and slow
+  radicalization against the institution she worked for.
+- **Strand L -- the Ledger (present-day debts).** Her standing operational debts as an ongoing arc:
+  the Drowning Vault's 120 (reserved for Book 5 per MCD-216, not to be touched early), the withheld
+  Operation 38 facility, the K-Theta cave-system subjects (reveal to Kanja reserved for a future
+  book per MCD-193), the deferred Verith/Val Mirel question. Deepen, don't resolve, matching the
+  project's established pattern for reserved threads.
+- **Strand W -- Witness (present-day, Lords of Cian).** Quiet, stakes-free entries showing her
+  ordinary present-day texture among the crew -- the emotional-counterweight register CC-134
+  establishes, without a mystery attached.
+
+**Two-voice narrator structure, unique to this series:** every entry opens with a short archive
+fragment in Lauris's own spare, clipped voice (matching the quotes catalog style at MCD-1558)
+before Fermand Aurelias's ornate Baroque-noir narration proper (CC-034/VB-024) picks up the scene.
+No other Tier 1 character keeps a literal written archive a narrator is established as transcribing
+from (MCD-211), so no other series can use this device the same way.
+
+**Wave one, Batch 293, 2026-09-17 (`MCD-1562` through `MCD-1565`):** the first four-strand wave --
+"The Vein Between Two Vasks" (K), "The Eighty Interviews" (D), "The Last of the Seven" (L), "Two
+Archives, One Question" (W). Full details in CLAUDE.md's batch log. Further waves start whenever
+Abad points at it, same pacing discipline as the other two tracks.
+
 ## Standing conventions carried over from the other two tracks
 
 - Draft, present in full, wait for explicit approval, then lock — no
