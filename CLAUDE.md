@@ -1931,6 +1931,27 @@ the full live ledger before drafting). Abad's approval: "lock it." Ledger reache
 series (matching the territory-leader/Tier-1-character model already used for Lauris), or any other
 thread -- no track starts automatically per the project's own standing pacing discipline.
 
+**Kanja's inherited Haku-lineage tactical baseline, plus 1804's armament source, Batch 295,
+2026-09-17 (`MCD-1568` amended in place, `MCD-1570`).** Abad's follow-up (dictated, lightly garbled):
+Kanja already had "free training" because Haku battled "The Deposed King" Anu Un Ra and "implemented
+Mastery of tactical Warfare," which Daba's teaching "enhances," in exchange for "the knowledge of
+Fortune greater armor and weaponry" that makes 1804 lethal and formidable. Resolved without a
+clarifying round, since the pieces mapped directly onto already-locked material: "free training" is
+the already-locked `MCD-311` (the Rexmar combat tradition is biological/instinctive, not taught --
+"an eighteen-year-old Kanja with no formal military training" produced unwinnable results); Haku
+deposing Anu Un Ra roughly 5,000 years ago is already locked at `WC-005`/`WC-020`/`CC-056`/`MCD-305`,
+and "The Deposed King" is already Anu Un Ra's own locked historical title, so no collision. "Knowledge
+of Fortune" read as a dictation slip for "forging," which `MCD-1568` already has Kanja teaching
+Daba -- this batch closes the loop by giving that exchange its stated payoff. `MCD-1568` amended in
+place to add the Haku-baseline clause: Kanja doesn't arrive to the mentorship a blank slate in
+tactical warfare, he already carries an inherited, instinctive mastery via the same Rexmar-Haku
+convergence locked at `MCD-311`; Daba's guerrilla teaching enhances and refines that baseline rather
+than originating it. `MCD-1570` locks the armament payoff: the forging knowledge Daba receives from
+Kanja is the concrete mechanical source of 1804's disproportionate lethality already asserted at
+`MCD-1567` -- distributed, cell-by-cell craftsmanship rather than a central armory, closing a gap
+that rule had left unexplained. Zero new proper nouns, zero collisions. Abad's approval: "lock it."
+Ledger reached `ledger_version` 29.8, 2,236 rules, 295 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
