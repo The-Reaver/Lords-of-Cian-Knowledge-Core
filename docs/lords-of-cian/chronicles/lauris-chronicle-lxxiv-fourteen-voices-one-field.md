@@ -7,7 +7,7 @@ vocal-amplification capability in fourteen ungifted women"). Set within the Appr
 Dramatizes the second of the three Apprentice-period Ionic Rite encounters `MCD-178` names, and
 plants the earliest instance of the selective-disclosure pattern `MCD-1646`/Chronicle XXIX later
 confirms recurring at Operation 22 -- here occurring years earlier and for the first time. One new
-minor named character, Sela Vantree (the fourteen women's informal spokeswoman), collision-checked
+minor named character, Merel Vantree (the fourteen women's informal spokeswoman), collision-checked
 clean against the full ledger. No contradictions with any already-locked rule.*
 
 -----
@@ -47,7 +47,7 @@ insistence, without each woman's own agreement -- was stable, controllable with 
 testing she conducted, entirely without the aggressive or destructive character the mill-works'
 frightened rumor had already begun assigning it.
 
-Sela Vantree, the eldest of the fourteen and the one the others had, by the second day, begun
+Merel Vantree, the eldest of the fourteen and the one the others had, by the second day, begun
 deferring to without any formal arrangement, asked Lauris directly on the third evening whether the
 Directorate's report would name them as afflicted, as anomalous, as anything that would follow them
 for the rest of their lives in a mill-works that already whispered about them freely enough.
@@ -78,7 +78,7 @@ any framework for why the instinct kept proving correct.
 *
 
 I asked her whether she ever returned to Velkar Mills. She has, twice, at intervals of some decades,
-always unannounced, always brief. Sela Vantree is long dead by the ordinary measure of a Cian
+always unannounced, always brief. Merel Vantree is long dead by the ordinary measure of a Cian
 lifespan, but her granddaughter's granddaughter still works the same laundry floor, and still,
 according to Lauris, tells the story of the fourteen voices to anyone who asks -- a story in which
 the Directorate never once appears, because as far as Velkar Mills has ever known, no one from the

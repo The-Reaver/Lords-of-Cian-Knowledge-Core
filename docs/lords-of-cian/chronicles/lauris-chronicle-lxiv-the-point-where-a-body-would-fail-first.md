@@ -6,7 +6,7 @@ Dramatizes a training session at age ~950, within the age-600-1,100 window alrea
 `MCD-170` for the structural-breach strike trained under Tiramen -- shown here as a still-unnamed
 precision technique rather than as "Spine of Dagon," consistent with `MCD-176`'s locked fact that
 her four disciplines take on their weapon-names only later, on Cian. Extends her Hexa-Lamellar
-Lattice physiology (`MCD-6245`/`159`) and Tiramen's established role as "adaptive-methodology
+Lattice physiology (`MCD-157`/`159`) and Tiramen's established role as "adaptive-methodology
 specialist" (`MCD-167`). No new named characters. Full text below.*
 
 -----
