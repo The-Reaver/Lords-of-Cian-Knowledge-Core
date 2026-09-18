@@ -1,7 +1,6 @@
 # Lauris Chronicle VI: What Continuing Unchanged Meant
 
-*UNLOCKED / PENDING -- drafted for Batch 298 (proposed `MCD-1623`), awaiting Abad's explicit
-approval before this locks as canon. Sixth entry in Lauris Letitia's own Chronicle series, the
+*Locked canon, Batch 298, 2026-09-18 (`MCD-1623`). Sixth entry in Lauris Letitia's own Chronicle series, the
 second entry of Strand K (Kares Prime / deep past). Dramatizes directly, for the first time, the
 fourteen-hour conversation with Selene at age 1,840 already locked at `MCD-172` -- the full truth
 of the K-strand decline and the synthesis conception, the exchange "Then I am a record" / "You are

@@ -1,7 +1,6 @@
 # Interstitial: What the Kennels Forgot to Mean
 
-*UNLOCKED / PENDING -- drafted for Batch 297 (proposed `MCD-1621`), awaiting Abad's explicit
-approval before this locks as canon. The first of two standalone world-phenomena interstitial
+*Locked canon, Batch 297, 2026-09-18 (`MCD-1621`). The first of two standalone world-phenomena interstitial
 chapters structurally confirmed at `MCD-338` -- slotted between Book 1 and Book 2, not embedded in
 any POV character's ongoing chapters, and deliberately not retelling any beat already covered by
 Book 2's own locked Act I-III structure (`MCD-279`-`284`): Ozmund's Unchained Kingdom, Kanja's

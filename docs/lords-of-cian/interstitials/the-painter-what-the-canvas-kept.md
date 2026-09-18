@@ -1,7 +1,6 @@
 # Interstitial: What the Canvas Kept
 
-*UNLOCKED / PENDING -- drafted for Batch 297 (proposed `MCD-1622`), awaiting Abad's explicit
-approval before this locks as canon. The second of two standalone world-phenomena interstitial
+*Locked canon, Batch 297, 2026-09-18 (`MCD-1622`). The second of two standalone world-phenomena interstitial
 chapters structurally confirmed at `MCD-338`, elaborating the ancient wandering predator locked at
 `CHAR-001` (appears as a man in his late thirties; his paint is Old Dominion relic-tech; victims
 stacked as layers within the same recursive canvas). Placed between Book 2 and Book 3, in a region

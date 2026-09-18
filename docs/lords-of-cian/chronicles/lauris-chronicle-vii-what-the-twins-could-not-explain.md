@@ -1,7 +1,6 @@
 # Lauris Chronicle VII: What the Twins Could Not Explain
 
-*UNLOCKED / PENDING -- drafted for Batch 298 (proposed `MCD-1624`), awaiting Abad's explicit
-approval before this locks as canon. Seventh entry in Lauris Letitia's own Chronicle series, the
+*Locked canon, Batch 298, 2026-09-18 (`MCD-1624`). Seventh entry in Lauris Letitia's own Chronicle series, the
 second entry of Strand D (Sealbound Directorate years). Full-scene treatment of Operation 6, the
 Twin Anomaly (previously only summarized at `MCD-1535`): assassin twins Velek and Velka, whose
 paired kinetic-load-sharing capability Lauris judges biologically inconsistent with their claimed

@@ -2000,6 +2000,64 @@ aliases do; open whenever Abad wants it started. Genuinely open for whenever Aba
 second wave for Daba's series, or any other thread -- no track starts automatically per the
 project's own standing pacing discipline.
 
+**Daba's Google Drive folder created and fully synced, 2026-09-18.** A new `Character Chronicles`
+folder was created under "02 - Chronicles" in the "FINAL FOLDER - My Rival's Distance" mirror,
+sibling to the existing "Phase 2 Homage Era - Alias/Territory Chronicles" folders -- this is also
+where Lauris's own folder will go once she gets one. A `Daba` subfolder inside it now holds all 50
+launch-wave Chronicles, uploaded by five parallel agents (10 files each) in the same established
+plain-text convention (backticks stripped, `---` -> `-----`, header-note asterisks stripped, title
+kept literal). Final verification confirmed exactly 50 unique files, Chronicles I through L, no
+duplicates or gaps.
+
+**`OPEN-007` closed in full: the two world-phenomena interstitial chapters drafted and locked, Batch
+297, 2026-09-18 (`MCD-1621`, `MCD-1622`).** `MCD-338` (Batch 69) had structurally confirmed two
+standalone interstitial chapters -- an Ever-Haunt chapter and a Painter chapter -- but left their
+actual content undrafted. Asked to pick a next thread from an options menu, Abad named this one.
+Placement and register were proposed and agreed before drafting: the Ever-Haunt interstitial,
+"What the Kennels Forgot to Mean" (`MCD-1621`), sits between Book 1 and Book 2 but deliberately does
+not retell any beat already covered by Book 2's own locked Act I-III structure (`MCD-279`-`284`) --
+instead it follows an unconnected settlement, Ostrey Hollow, discovering a newly-loosed low-tier
+Ever-Haunt entity in the same general window as the Great Breach, dramatizing `WC-019`'s five-tier
+classification at its lowest rung and `CULT-198`'s "inherited without understanding by the SBD"
+kennel detail through two new minor characters (Senna, her uncle Doran, the hereditary caretaker who
+turns out to know a working ritual fragment without ever understanding what it's for). No named POV
+cast member appears. The Painter interstitial, "What the Canvas Kept" (`MCD-1622`), sits between
+Book 2 and Book 3, in a region the main cast never visits, elaborating `CHAR-001`'s one-line dossier
+directly for the first time: a curious nineteen-year-old waystation worker, Coll, asks to see inside
+the wandering Painter's case and is taken by morning, the recursive-canvas mechanic dramatized
+on-page for the first time. The Painter is given an unconfirmed legend-name, "Vantine," without
+resolving his true origin -- matching the project's established precedent for leaving certain
+ancient/ambiguous figures deliberately open (Haku's fate, the Drowning Vault's 120). Both chapters
+are true standalone atmospheric interludes with no named cast member and no resolution. New minor
+characters Senna, Doran, and Coll, all collision-checked clean. Committed first as unlocked/pending
+drafts (matching the established two-commit pattern), headers corrected to "Locked canon" only after
+approval. Abad's approval: "lock them up." Ledger reached `ledger_version` 30.0, 2,288 rules, 297
+batches. `OPEN-007` is now fully closed -- no further world-phenomena interstitials are queued.
+
+**Lauris's second four-strand wave, Batch 298, 2026-09-18 (`MCD-1623` through `MCD-1626`).** Asked
+who's next after `OPEN-007`, Abad named Lauris. Continuing the pacing convention from Batch 293, one
+entry per strand: **"What Continuing Unchanged Meant"** (`MCD-1623`, Strand K) dramatizes the
+already-locked `MCD-172` confrontation with Selene at age 1,840 for the first time -- the
+fourteen-hour conversation, "Then I am a record" / "You are also a person," and Lauris achieving
+karth-ven within twenty-four hours not through visible processing but by simply continuing to be
+herself. **"What the Twins Could Not Explain"** (`MCD-1624`, Strand D) is a full-scene treatment of
+Operation 6, the Twin Anomaly (previously only summarized at `MCD-1535`) -- assassin twins Velek and
+Velka, whose capability Lauris judges biologically inconsistent with their claimed origin, the
+quiet, unremarked first entry in the institutional-doubt trajectory Chronicle III's "inherited"
+realization later completes. **"The Count She Keeps Current"** (`MCD-1625`, Strand L) advances the
+K-Theta cave-system thread (`MCD-190`/`193`) without touching the reveal-to-Kanja detail reserved
+for a future book or resolving Book 5's reserved discharge (`MCD-216`) -- a present-day maintenance
+visit confirming the concealment still holds, decades into the standing debt. **"My Dear Ezio"**
+(`MCD-1626`, Strand W) extends her Attia-bond cover-maintenance function for Ezio (`CC-111`) into a
+genuinely quiet, non-combat register for the first time, and gives narrative texture to `VB-024`'s
+own standing rule that Fermand's narration reserves warmth only for "My dear Ezio." No new named
+characters across any of the four entries. Same two-commit process as the interstitials: drafted and
+committed as unlocked/pending first, headers corrected to "Locked canon" only after approval. Abad's
+approval: "lock them up." Ledger reached `ledger_version` 30.1, 2,292 rules, 298 batches -- zero
+duplicate IDs verified. No Google Drive sync performed yet for Chronicles VI-IX. Genuinely open for
+whenever Abad wants it next: a third wave for Lauris, Daba's own second wave, a new Tier 1 character
+launch, or any other thread -- no track starts automatically.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

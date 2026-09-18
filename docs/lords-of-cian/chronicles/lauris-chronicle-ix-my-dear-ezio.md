@@ -1,7 +1,6 @@
 # Lauris Chronicle IX: My Dear Ezio
 
-*UNLOCKED / PENDING -- drafted for Batch 298 (proposed `MCD-1626`), awaiting Abad's explicit
-approval before this locks as canon. Ninth entry in Lauris Letitia's own Chronicle series, the
+*Locked canon, Batch 298, 2026-09-18 (`MCD-1626`). Ninth entry in Lauris Letitia's own Chronicle series, the
 second entry of Strand W (Witness / present-day, quiet register). A stakes-free evening with Ezio
 himself, extending the already-locked cover-maintenance function of her Attia bond (`CC-111`) into
 a genuinely quiet, non-combat register for the first time, and giving narrative texture to `VB-024`'s

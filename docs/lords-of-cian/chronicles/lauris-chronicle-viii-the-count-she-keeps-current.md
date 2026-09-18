@@ -1,7 +1,6 @@
 # Lauris Chronicle VIII: The Count She Keeps Current
 
-*UNLOCKED / PENDING -- drafted for Batch 298 (proposed `MCD-1625`), awaiting Abad's explicit
-approval before this locks as canon. Eighth entry in Lauris Letitia's own Chronicle series, the
+*Locked canon, Batch 298, 2026-09-18 (`MCD-1625`). Eighth entry in Lauris Letitia's own Chronicle series, the
 second entry of Strand L (the Ledger / present-day operational debts). Advances the K-Theta
 cave-system thread (`MCD-190`/`193`) without touching the reveal-to-Kanja detail `MCD-193` reserves
 for a future book, and without resolving the discharge Book 5 reserves at `MCD-216` ("the
