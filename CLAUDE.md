@@ -1952,6 +1952,54 @@ Kanja is the concrete mechanical source of 1804's disproportionate lethality alr
 that rule had left unexplained. Zero new proper nouns, zero collisions. Abad's approval: "lock it."
 Ledger reached `ledger_version` 29.8, 2,236 rules, 295 batches.
 
+**Daba's own 50-Chronicle launch wave, Batch 296, 2026-09-18 (`MCD-1571` through `MCD-1620`).**
+Asked which Chronicle track should get a 50-entry batched, multi-agent run next; picked Daba's own
+series from an options menu, then authorized production directly: "rate 50 Chronicles in batches
+using as many agents as needed to make it efficient." Ten parallel background agents each drafted a
+five-entry block, assigned non-overlapping MCD-1571-1620 ID ranges and Chronicle numerals I-L up
+front to avoid coordination collisions, following the territory-leader Chronicle model (Daba as
+protagonist, close-third POV, Kanja an unnamed/background or directly-named presence only where
+already-locked canon calls for it): **Block A (I-V)** the immediate aftermath of the Rookery
+tragedy, pre-founding, no Kanja; **Block B (VI-X)** founding 1804 in earnest -- recruiting,
+choosing the name, the first operation; **Block C (XI-XV)** first contact and the early mentorship,
+Kanja named on-page for the first time per `MCD-1568`'s own two-way framing; **Block D (XVI-XX)**
+the guerrilla-doctrine side of the mentorship deepened into the direct ancestor of Kanja's own
+Dredge-Line Ambush; **Block E (XXI-XXV)** the forging side deepened, closing on the explicit joint
+realization that "density is not power if the terrain neutralizes it" is one lesson taught from two
+directions; **Block F (XXVI-XXX)** building the mature dispersed network in Daba's own
+post-mentorship years, Kanja absent; **Block G (XXXI-XXXV)** `MCD-1570`'s armament mechanic
+dramatized end to end, selection through generational distance from Daba himself; **Block H
+(XXXVI-XL)** genuine, unresolved costs and failures of staying deliberately small (a courier lost, a
+cover blown, half a settlement saved and half not, an internal challenge to the doctrine that
+doesn't resolve cleanly); **Block I (XLI-XLV)** the semi-dormant years running parallel to Kanja's
+Rebellion and Long Mask, Kanja never physically present and never inserted into any of his own
+already-locked battle rosters, per `MCD-1569`'s "never folded into... never publicly credited
+alongside it"; and **Block J (XLVI-L)** the closing quiet/personal register, deliberately leaving
+`MCD-1569`'s Book 1 trigger open rather than resolving Daba's larger story. Every agent
+collision-checked its own new proper nouns against the live ledger before use and was barred from
+touching canon-ledger.json or git, writing only its 5 Chronicle files plus a JSON rule-content
+fragment for central consolidation. A final cross-block sweep (prompted by one agent flagging it
+couldn't see sibling blocks' output) caught two internal duplicate names once all ten blocks were
+compared against each other: Block I's minor character "Perrin Kettel" was renamed "Deryn Kettel"
+to avoid colliding with Block J's unrelated senior-coordinator character also named Perrin, and
+Block J's minor recruit "Wrenna" was renamed "Tessin" to avoid colliding with Block F's "Isolde
+Wrenna." Zero collisions against the live ledger itself across all 50 entries' new proper nouns.
+Kanja's exact age is left unspecified throughout the mentorship-era blocks, matching established
+practice; all mentorship-era content is strictly platonic training material. No child-safety issues
+-- the Rookery tragedy's child deaths are referenced only with the same non-exploitative gravity
+already established elsewhere in the ledger (Nelle Adessi/Tomas Grieve, the Ash-Wharf Massacre),
+never depicted directly. Files were committed to the repo progressively as each block finished (to
+satisfy the Stop hook's clean-working-tree requirement) with "Locked canon" headers already in
+place, matching the blanket-authorization pattern used for prior large multi-agent runs rather than
+the two-commit pending pattern; the ledger merge itself ran only after all 50 entries and the
+cross-block collision sweep were complete. Abad's approval: "rate 50 Chronicles in batches using as
+many agents as needed to make it efficient." Ledger reached `ledger_version` 29.9, 2,286 rules, 296
+batches -- zero duplicate IDs, all 50 file references verified to resolve. No Google Drive sync
+performed yet -- Daba doesn't have a folder in the "FINAL FOLDER" mirror the way the territories and
+aliases do; open whenever Abad wants it started. Genuinely open for whenever Abad wants it next: a
+second wave for Daba's series, or any other thread -- no track starts automatically per the
+project's own standing pacing discipline.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

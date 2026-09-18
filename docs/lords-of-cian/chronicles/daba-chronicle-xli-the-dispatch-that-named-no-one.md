@@ -11,7 +11,7 @@ make it efficient."*
 ---
 
 The dispatch came to Daba the way most things worth reading came to him: secondhand, water-stained,
-three cells removed from whoever had actually stolen it. Perrin Kettel set it on the table without
+three cells removed from whoever had actually stolen it. Deryn Kettel set it on the table without
 comment, which was itself a kind of comment, and Daba read it twice before he let himself feel
 anything about it.
 
@@ -28,7 +28,7 @@ He had taught a boy to read ground that way on a hillside two days from anywhere
 dispatch had a name to attach to what it was seeing. He had taught him to feel where a slope wanted
 to fail before it failed, the way water already knows where it will run before the rain arrives.
 
-"You know something," Perrin said. It was not a question. She had been with him long enough that
+"You know something," Deryn said. It was not a question. She had been with him long enough that
 most of what she said to him was not a question.
 
 "I know the shape of it," Daba said. "I don't know the man they're calling by that name, and neither
@@ -41,7 +41,7 @@ deciding what to make of him." Daba set the dispatch face-down on the table, as 
 undo the reading of it. "What he's doing now, he's doing without me. That was true the day he left,
 and nothing in this paper changes it."
 
-Perrin didn't argue with him, but she didn't leave either, which told him she wasn't finished. "The
+Deryn didn't argue with him, but she didn't leave either, which told him she wasn't finished. "The
 Directorate will hunt whoever they think taught him that. If they ever connect the dots -"
 
 "They won't." He said it with more certainty than he entirely possessed, and both of them knew it,
@@ -49,7 +49,7 @@ and neither of them said so. "A ravine collapsed on a column is a hundred years 
 competent instructor in any competent tradition could have taught it to him. The only thing that
 would connect the dots is us walking up and drawing the line ourselves."
 
-What he did not say, because it would not have changed anything Perrin needed to do that night, was
+What he did not say, because it would not have changed anything Deryn needed to do that night, was
 how it felt to read his own hand in another man's work and be forbidden by the shape of the thing
 itself from ever saying so. Pride was not the right word for it, though it lived in the same part of
 him pride lived in. It was closer to the feeling of setting a stone in a wall and walking away before
@@ -64,6 +64,6 @@ weight from opposite directions, and the surest way to collapse both efforts was
 Trust, Directorate, or the man himself -- see the seam where they joined.
 
 He told 1804 nothing more than they needed: a name to note and never speak aloud near anyone outside
-the network, a tactic to file without attribution, a door to leave closed. Perrin took the
+the network, a tactic to file without attribution, a door to leave closed. Deryn took the
 instruction the way she took all of them, without asking him to explain what it cost, and by morning
 the dispatch existed nowhere but in the part of Daba that didn't burn.

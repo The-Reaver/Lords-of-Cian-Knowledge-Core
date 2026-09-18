@@ -1,7 +1,7 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "29.8",
-  "last_updated": "2026-09-17",
+  "ledger_version": "29.9",
+  "last_updated": "2026-09-18",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
     "Voice Bible governs tone/language only, not facts.",
@@ -2274,6 +2274,13 @@
       "source": "Original invention, chat-drafted 2026-09-17, no source document. Extends the 1804/Daba foundation locked in Batch 294, per Abad's follow-up direction.",
       "rule_count": 1,
       "note": "Abad's follow-up (dictated, lightly garbled): Kanja already had 'free training' because Haku battled 'The Deposed King' Anu Un Ra and 'implemented Mastery of tactical Warfare,' which Daba's teaching 'enhances,' in exchange for 'the knowledge of Fortune greater armor and weaponry' that makes 1804 lethal and formidable. Resolved without a clarifying round: 'free training' maps directly to the already-locked MCD-311 (Rexmar tradition is biological/instinctive, not taught -- 'an eighteen-year-old Kanja with no formal military training'); Haku deposing Anu Un Ra ~5,000 years ago is already locked at WC-005/WC-020/CC-056/MCD-305, and 'The Deposed King' is already Anu Un Ra's own locked historical title, so no collision. 'Knowledge of Fortune' read as a dictation slip for 'forging,' which MCD-1568 already has Kanja teaching Daba -- this closes the loop by giving that exchange its stated payoff. MCD-1568 amended in place to add the Haku-baseline clause (Daba enhances rather than originates Kanja's tactical sense). MCD-1570 locks the armament payoff: Daba's forging knowledge from Kanja is the concrete mechanical source of 1804's disproportionate lethality already asserted at MCD-1567, closing a gap that rule left unexplained. Zero new proper nouns, zero collisions. Abad's approval: \"lock it.\""
+    },
+    {
+      "batch": 296,
+      "date": "2026-09-18",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Launch wave of Daba's own protagonist Chronicle series, produced by ten parallel background drafting agents (five entries each) and consolidated centrally.",
+      "rule_count": 50,
+      "note": "Daba's own 50-entry Chronicle launch wave -- the first entries in his own protagonist series, following the territory-leader model (himself as POV, Kanja an unnamed/background or directly-named presence only where the already-locked mentorship, MCD-1568, actually calls for it). Abad picked this track from an options menu, then authorized the batched, multi-agent production directly: \"rate 50 Chronicles in batches using as many agents as needed to make it efficient.\" Ten parallel agents each drafted a five-entry block covering a distinct chronological/thematic stretch of Daba's life, assigned non-overlapping MCD-1571-1620 ID ranges and Chronicle numerals I-L up front to avoid coordination collisions: Block A (I-V, MCD-1571-1575) the immediate aftermath of the Rookery tragedy, pre-founding, no Kanja; Block B (VI-X, MCD-1576-1580) founding 1804 in earnest, choosing the name, the first operation, no Kanja; Block C (XI-XV, MCD-1581-1585) first contact and the early mentorship, Kanja named on-page for the first time per MCD-1568's own two-way framing; Block D (XVI-XX, MCD-1586-1590) the guerrilla-doctrine side of the mentorship deepened into the direct ancestor of Kanja's own Dredge-Line Ambush; Block E (XXI-XXV, MCD-1591-1595) the forging side deepened, closing on the explicit joint realization that 'density is not power if the terrain neutralizes it' is one lesson taught from two directions; Block F (XXVI-XXX, MCD-1596-1600) building the mature dispersed network in Daba's own post-mentorship years, Kanja absent; Block G (XXXI-XXXV, MCD-1601-1605) MCD-1570's armament mechanic dramatized end to end, selection through generational distance from Daba himself; Block H (XXXVI-XL, MCD-1606-1610) genuine, unresolved costs and failures of staying deliberately small; Block I (XLI-XLV, MCD-1611-1615) the semi-dormant years running parallel to Kanja's Rebellion and Long Mask, Kanja never physically present, never inserted into any of his own already-locked battle rosters, per MCD-1569's 'never folded into... never publicly credited alongside it'; and Block J (XLVI-L, MCD-1616-1620) the closing quiet/personal register, deliberately leaving MCD-1569's Book 1 trigger open rather than resolving Daba's larger story. Every agent collision-checked its own new proper nouns against the live ledger before use and was barred from touching canon-ledger.json or git; two internal duplicate names surfaced only once all ten blocks were compared against each other and were fixed before this merge: Block I's minor character 'Perrin Kettel' was renamed 'Deryn Kettel' to avoid colliding with Block J's unrelated senior-coordinator character also named Perrin, and Block J's minor recruit 'Wrenna' was renamed 'Tessin' to avoid colliding with Block F's 'Isolde Wrenna.' Zero collisions against the live ledger itself across all 50 entries' new proper nouns. Kanja's exact age is left unspecified throughout the mentorship-era blocks per the project's own established practice; all mentorship-era content is strictly platonic training material. No child-safety issues -- the Rookery tragedy's child deaths are referenced only with the same non-exploitative gravity already established elsewhere in the ledger (Nelle Adessi/Tomas Grieve, the Ash-Wharf Massacre), never depicted directly. Abad's approval: \"rate 50 Chronicles in batches using as many agents as needed to make it efficient.\""
     }
   ],
   "rules": [
@@ -17849,6 +17856,356 @@
       "statement": "The forging knowledge Daba receives from Kanja (MCD-1568) is the concrete source of 1804's disproportionate lethality already locked at MCD-1567: applying Rexmar forging principles at guerrilla-network scale, Daba re-equips 1804's dispersed cells with armor and weaponry considerably beyond what a network of its size would otherwise field -- not mass-produced from a central armory, which would itself become the single point of failure MCD-1567 already rules out, but distributed, cell-by-cell craftsmanship Daba personally teaches onward through the network. This is the specific mechanical answer to how a force built deliberately small stays formidable rather than merely elusive.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-17, no source document. Extends the 1804/Daba foundation locked in Batch 294, per Abad's follow-up direction."
+    },
+    {
+      "id": "MCD-1571",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle I, \"What the Stairs Would Not Give Back\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-i-what-the-stairs-would-not-give-back.md), the first entry in Daba's own Chronicle series. Dramatizes the Rookery's burning (MCD-1566) from Daba's own ground-level point of view as a young caregiver leading children out of the third-floor commons via the service stair and a laundry chute after the main stairwell is deliberately collapsed, establishing him as present in and surviving the tragedy itself per CC-135. Ends in the yard with eleven children and Mika (a rescued child) safe, before the death toll is known; the deaths themselves are not depicted on the page. Introduces Fennic, a fellow young caregiver who does not make it out (his death referenced, not shown), and Mika, a rescued child, both new minor named characters, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 1 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1572",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle II, \"The Names They Would Not Let Burn\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-ii-the-names-they-would-not-let-burn.md), the second entry in Daba's own Chronicle series. Set the first night after the fire in a tannery sheltering survivors: Odalys, the Rookery's former rent-and-ration record-keeper, leads an effort to record the name of every dead or missing resident rather than let them be reduced to a Trust statistic, with Daba helping take testimony; the count comes back at exactly 1,804 (MCD-1566), read aloud and felt by Daba as a number that will not stay only a number. Introduces Odalys, a new minor named character, collision-checked clean; reuses Mika and Fennic (named posthumously) from MCD-1571.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 2 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1573",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle III, \"The Word They Used Instead\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-iii-the-word-they-used-instead.md), the third entry in Daba's own Chronicle series. Four days after the fire, a Sovereign Trust crier reads the official record calling the Rookery's burning a fire of undetermined origin (MCD-1566) to the assembled survivors; Sana and Torvin, two survivor-caregivers, react with anger and grim recognition, and Torvin's framing of the record as \"a lie built to outlast us\" -- not meant to convince the living, only to outlast their testimony on paper -- plants the first cold, pre-verbal edge of Daba's own eventual doctrine. Introduces Sana and Torvin, two new minor named characters, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 3 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1574",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle IV, \"Small Enough Not to Be Seen\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-iv-small-enough-not-to-be-seen.md), the fourth entry in Daba's own Chronicle series. Warned of a rumored Trust \"processing\" sweep meant to isolate and pressure survivors whose accounts contradict the official record, Daba proposes splitting roughly two hundred sheltering survivors into small, separately routed groups of six to eight rather than keeping them together, over Torvin's initial objection; the sweep the next day finds only stragglers and no unified witness list. This is the first dramatized instance of the dispersal/small-cell instinct later formalized as 1804's founding doctrine at MCD-1567 (\"anything large enough to be seen is large enough to be burned\"), shown here pre-organizationally, before the faction exists or is named. No new named characters; reuses Sana and Torvin from MCD-1573.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 4 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1575",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle V, \"What the Number Was For\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-v-what-the-number-was-for.md), the fifth entry in Daba's own Chronicle series and the close of Block A of his launch wave. Six weeks after the fire, in a quiet, undramatic scene sorting salvaged tools above a cooper's shop, Daba articulates aloud for the first time -- to Sana, Torvin, and Odalys -- the idea that the death toll of 1,804 (MCD-1566) should become not just a grief to carry but a standing reason nothing of the Rookery's scale can ever be allowed to happen again, tying the number directly to the dispersal instinct shown in MCD-1574. No name is spoken and no organization is founded in this entry -- it deliberately ends at the seed of the idea, immediately before 1804 (MCD-1567) comes into being. No new named characters; reuses Sana, Torvin, Odalys, and Mika from earlier entries in this block.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 5 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1576",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle VI, \"What He Watched Her Not Do\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-vi-what-he-watched-her-not-do.md), the sixth entry in Daba's own Chronicle series. Dramatizes 1804's very first deliberate recruitment: Daba watches a fellow survivor, Sael, for eleven days, then tests her by letting a real Sovereign Trust patrol schedule fall into her hands and observing that she declines to act on it alone rather than risk uninvolved lives, extending CC-135's founding-in-the-aftermath framing and MCD-1567's doctrine-over-mass ethos back to its first application, before the network had a name or a second core member. Introduces Sael, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 6 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1577",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle VII, \"The Weight of Being Small\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-vii-the-weight-of-being-small.md), the seventh entry in Daba's own Chronicle series. Dramatizes the doctrine-over-mass principle crystallizing through open argument within the five-person founding core: news that a forty-strong rival resistance cell was found and destroyed after drilling openly forces a confrontation between Corvin, who wants visible growth and numbers, and Daba's insistence on staying deliberately small and dispersed; Sael's own reframing (forty faces are still one target) resolves it, and the group reaches MCD-1567's \"anything large enough to be seen is large enough to be burned\" doctrine as an argued, shared conclusion rather than an imposed rule. Introduces Corvin, collision-checked clean; reuses Sael (MCD-1576).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 7 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1578",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle VIII, \"The Number They Chose\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-viii-the-number-they-chose.md), the eighth entry in Daba's own Chronicle series. Dramatizes the founding six-week-old network choosing its own name: prompted by newest member Farro's need for something to call themselves, fellow 1804 survivor Nessa argues against an invented or location-tied name in favor of the tragedy's own death toll -- unexplained to enemies, unforgettable to the people who need to remember it correctly -- and the core adopts \"1804\" by quiet consensus rather than proclamation, extending CC-135 and MCD-1566/MCD-1567 with the deliberate reasoning behind the network's own name. Introduces Nessa and Farro, both collision-checked clean; reuses Sael and Corvin (MCD-1576/1577).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 8 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1579",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle IX, \"The Depot at Sootgate\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-ix-the-depot-at-sootgate.md), the ninth entry in Daba's own Chronicle series. Dramatizes 1804's first real operation: a small, precisely timed theft of a fraction of a minor Sovereign Trust supply depot's fodder stock at Sootgate, executed through reconnaissance (Sael's guard-rotation timing), demolitions-adjacent entry work (Corvin), and logistics (Farro's pre-existing legitimate routes), deliberately scaled to read as ordinary spoilage rather than resistance activity so no search or reinforcement follows -- proving MCD-1567's doctrine-over-mass method delivers real results (four families fed) while remaining entirely unwitnessed. Reuses Daba, Sael, Nessa, Corvin, and Farro (MCD-1576-1578); no new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 9 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1580",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle X, \"Four Hands, One Body\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-x-four-hands-one-body.md), the tenth entry in Daba's own Chronicle series. Dramatizes the cross-trained cell structure taking formal shape for the first time: with the arrival of a sixth member, Ketra (a self-taught lock/seal specialist), the founding core explicitly names its own differentiated roles -- Sael as reconnaissance, Ketra as demolitions/entry, Nessa as medical support, Corvin as combat, Farro as logistics, Daba as coordinating structure -- extending MCD-1567's \"dispersed cells cross-trained across reconnaissance, demolitions, medical support, and combat\" clause from stated design into its founding moment, framed explicitly as no single lost member costing the group a whole function. Introduces Ketra, collision-checked clean; reuses Daba, Sael, Nessa, Corvin, and Farro (MCD-1576-1579).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 10 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1581",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XI, \"The Boy Who Broke the Scaffold\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xi-the-boy-who-broke-the-scaffold.md), the eleventh entry in Daba's own Chronicle series and the launch wave's first-contact entry. During Kanja's otherwise-unrecorded formative years (MCD-1568), a 1804 scout, Riasa Vorn (a new named character, collision-checked clean), reports a young Kanja dismantling three Trust enforcers at the Corrow ore-cut using nothing but a structural read of a collapsing ore-basket scaffold -- pure uninstructed Rexmar instinct per MCD-311, causing no deaths. Daba investigates personally and confronts the boy at the ruined scaffold; both recognize the other as dangerous and unknown, and the entry closes on deliberate mutual wariness rather than any trust, establishing the state the mentorship must still be built from. New named character: Riasa Vorn.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 11 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1582",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XII, \"The Test Daba Didn't Announce\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xii-the-test-daba-didnt-announce.md), the twelfth entry in Daba's own Chronicle series. Over eleven days of unannounced observation, Daba watches the young Kanja pace himself against a punishing labor schedule and move through a crowded loading yard without a single wasted step, then stages a deliberate test -- a fabricated theft -- to see the boy's tactical instinct operate without instruction; Kanja recovers the stolen grain by reading pursuit geometry rather than giving chase, cutting an angle to a chokepoint and letting the terrain do the work. Daba recognizes the pattern against the old campaign accounts of Haku the Unifier's wars against the Deposed King Anu Un Ra (WC-005/WC-020/CC-056/MCD-305) and concludes this is inherited mastery (MCD-1568/MCD-311), not trained skill, and offers to teach him; Kanja accepts on the explicit condition that it not be one-sided, seeding Chronicle XIV's negotiation. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 12 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1583",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XIII, \"The Ground That Remembers First\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xiii-the-ground-that-remembers-first.md), the thirteenth entry in Daba's own Chronicle series and the mentorship's first real guerrilla-doctrine lesson, dramatized directly per MCD-1568. At a dry wash, Daba teaches the young Kanja small-unit chokepoint doctrine -- turning his existing instinctive terrain-reads into deliberate, shareable battle-plans a whole unit can trust rather than a gift only one man can see -- and corrects his instinct to improvise mid-drill rather than hold an agreed plan. This is the scene the ledger identifies as the shared root of Daba's own guerrilla tactics and Kanja's later terrain-physics doctrine at the Dredge-Line Ambush and Iron Shallows (MCD-231/233). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 13 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1584",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XIV, \"The Trade Between Equals\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xiv-the-trade-between-equals.md), the fourteenth entry in Daba's own Chronicle series. Prompted by Riasa Vorn's report of two 1804 blades failing from poorly-folded scavenged steel, the young Kanja recognizes the failure as forging done without listening to the metal and explicitly proposes trading forging instruction, drawn from his own Rexmar family tradition (MCD-294 through MCD-312), for the rest of Daba's guerrilla teaching; both state aloud and agree that the exchange is a genuine trade between equals, not charity in either direction, formalizing the mutual apprenticeship MCD-1568 locks. No new named characters beyond Riasa Vorn, already introduced at MCD-1581.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 14 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1585",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XV, \"The Fire He Was Taught to Listen To\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xv-the-fire-he-was-taught-to-listen-to.md), the fifteenth entry in Daba's own Chronicle series, closing Block C of the launch wave. In a disused smith's shed at the Corrow cut, the young Kanja gives Daba his first real Rexmar-tradition forging lesson (MCD-294 through MCD-312); Daba is shown as a fully conscious, attentive apprentice per MCD-1568's own language -- asking precise technical questions and understanding exactly why a blade that doesn't fail at the seam matters to a faction that survives on thin margins, not a passive student absorbing technique without context. The entry draws the explicit throughline between Kanja's tactical and forging instincts as one gift turned two directions: helping structure reach the shape it was already trying to take, whether breaking or building. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 15 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1586",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XVI, \"The Five Who Were Never One\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xvi-the-five-who-were-never-one.md), the sixteenth entry in Daba's own Chronicle series. Dramatizes small-unit doctrine directly for the first time: a live 1804 training drill splits Kanja and four other trainees into five blind, uncoordinated cells to reach a marked cache past Reya's mock patrol line; Kanja instead unifies all five into one coordinated plan carried by a single runner, who is intercepted, causing all five cells to fail even though four were never found. Daba's lesson lands explicitly: no cell should ever carry the whole plan. New minor named character (Reya, 1804 cell leader), collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 16 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1587",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XVII, \"What the Marsh Already Knew\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xvii-what-the-marsh-already-knew.md), the seventeenth entry in Daba's own Chronicle series. Dramatizes terrain-as-weapon thinking directly for the first time: Daba brings Kanja and 1804 scout Sorin to observe a real Sovereign Trust tax patrol crossing a causeway, with Sorin narrating how the ground's buried peat, already compacted unevenly by prior traffic, nearly swallows a supply cart under its own indifferent weight -- reconnaissance only, no engagement -- reframing terrain for Kanja from passive backdrop to an active participant with 'an opinion about who wins.' New minor named character (Sorin, 1804 scout), collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 17 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1588",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XVIII, \"The Weight a Crossing Cannot Carry\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xviii-the-weight-a-crossing-cannot-carry.md), the eighteenth entry in Daba's own Chronicle series. Dramatizes the discipline of making concentrated force irrelevant via a recounted (not restaged) 1804 operation nine years prior: eight of Daba's fighters narrowed a forty-one-strong Trust ford crossing with submerged stake lines to three men abreast, ensuring only six soldiers could ever be engaged at once regardless of the column's total size, taking twelve losses before the rest of the column understood the water itself was refusing them reinforcement. Explicitly the most direct conceptual ancestor of Kanja's own later Dredge-Line Ambush (MCD-231). No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 18 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1589",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XIX, \"The Water He Wanted to Move Himself\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xix-the-water-he-wanted-to-move-himself.md), the nineteenth entry in Daba's own Chronicle series. Dramatizes genuine two-way exchange in the mentorship: Kanja proposes moving beyond reading existing terrain to deliberately manufacturing it (digging a channel, breaking a levee); Daba initially resists it as too visible against 1804's own smallness doctrine, and Kanja independently narrows the proposal to a single small, timed, deniable cut at one crossing rather than a large-scale flood -- Daba accepts the narrowed version, explicitly the direct conceptual seed of Kanja's own later Dredge-Line Ambush (MCD-231), which floods rather than merely reads terrain. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 19 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1590",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XX, \"One Mind in Five Bodies\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xx-one-mind-in-five-bodies.md), the twentieth entry in Daba's own Chronicle series, closing this stretch of Kanja's mentorship under Daba. A capstone drill weaves small-unit doctrine (MCD-1586), terrain-as-weapon thinking (MCD-1587), and anti-concentration doctrine (MCD-1588/1589) into one design: Kanja splits six fighters into three blind cells against Reya's forty-strong mock column, using a deliberately softened drainage channel to compress the column onto half a causeway before striking only its narrowest bottleneck. Closes on Daba's explicit framing -- density is not power against ground willing to argue with it -- directly setting up, without restaging, Kanja's own later Dredge-Line Ambush (MCD-231), and marks the deliberate end of this specific teaching stretch as the mentorship's direction reverses toward forging. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 20 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1591",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXI, \"What the Hands Cannot Learn\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxi-what-the-hands-cannot-learn.md), the twenty-first entry in Daba's own Chronicle series. Dramatizes the forging side of the Kanja/Daba mutual mentorship (MCD-1568) directly for the first time: Kanja opens the first real lesson by honestly naming the biological gap MCD-303 already establishes -- Daba lacks the Rexmar tactile sensitivity raw Drakma requires -- then teaches the transferable half of the tradition instead, the structural-analysis discipline of testing a piece under load and listening for where it fails locked at MCD-311, applied here to a salvaged Dead Drakma trade-blade. Daba identifies a hidden flaw by ear on his own first attempt, and Kanja explicitly reframes the technique as the same failure-point reading Daba already does to enemy formations, tying the forging lesson directly back to his own guerrilla doctrine. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 21 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1592",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXII, \"The Blade That Would Not Hold\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxii-the-blade-that-would-not-hold.md), the twenty-second entry in Daba's own Chronicle series. Dramatizes Daba's first independent forging attempt and its failure: overconfident after MCD-1591's early success, he rushes a quench on a blade of his own design, judging by color rather than testing what the metal would allow, and it shatters, a fragment grazing a bystander. Kanja diagnoses the failure without reproach as Daba trying to tell the metal what he needed rather than reading what it would permit -- the one place, so far, where his usual field discipline lapsed. Introduces one new minor named character, Ilse Corvane, a 1804 medic and fellow survivor of the settlement Daba founded the network from, collision-checked clean against the full live ledger.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 22 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1593",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXIII, \"No Single Weld\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxiii-no-single-weld.md), the twenty-third entry in Daba's own Chronicle series. Connects forging directly to guerrilla practicality and foreshadows MCD-1570's eventual principle: when Daba proposes building 1804 a single well-defended master forge, Kanja redirects him using the Rexmar tradition's own organizational doctrine (MCD-299, MCD-300 -- no separate specialist caste, every fighter and smith trained in both roles, strength distributed rather than concentrated), pointing out the proposed forge would become exactly the kind of visible, valuable single point of failure 1804's own doctrine (MCD-1567) already warns against. Kanja demonstrates a simplified, faster reinforcing-weld technique any cell member could learn in an afternoon, and Daba reframes his own role from 1804's one great smith to its teacher of smiths -- the direct seed of MCD-1570's distributed, cell-by-cell craftsmanship model. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 23 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1594",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXIV, \"What He Made to Last\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxiv-what-he-made-to-last.md), the twenty-fourth entry in Daba's own Chronicle series. Daba, now capable in his own right and with Kanja stepping back to observe rather than instruct, forges his first fully independent, gifted piece: a compact folding medical blade set for Ilse Corvane (reused from MCD-1592), built using the distributed-repair joinery MCD-1593 taught rather than his own most masterful technique, so any cell could mend it. Marks the first fruit of the teaching thread MCD-1591 through MCD-1593 built and a concrete early step toward MCD-1570's craftsmanship spreading through the network, with Kanja framing the moment explicitly as what teaching is for: something that keeps working after the teacher stops watching. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 24 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1595",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXV, \"The Give in the Steel\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxv-the-give-in-the-steel.md), the twenty-fifth entry in Daba's own Chronicle series and the capstone of this block. Makes explicit through action, not exposition, MCD-1568's closing claim that Daba's guerrilla doctrine and Kanja's terrain-physics doctrine share one root -- density is not power if the terrain neutralizes it: watching Kanja fail repeatedly to temper a shoulder-guard reinforcing plate that keeps cracking at its exact center despite (and because of) uniform maximum hardness, Daba unprompted draws the parallel to a uniformly fortified position 1804 once took by finding the single seam its builders' evenly-distributed strength left no give to absorb. Kanja reworks the plate with a deliberate softer flex-band at the load point rather than uniform hardness, and it holds under the same blow that broke the first two -- both men recognizing aloud, in the same breath, that they have been teaching each other one lesson from two directions the entire time. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 25 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1596",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXVI, \"The Craft She Would Not Be Allowed to Keep Alone\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxvi-the-craft-she-would-not-be-allowed-to-keep-alone.md), the twenty-sixth entry in Daba's own Chronicle series. Dramatizes 1804's deliberate cross-training doctrine directly on the page for the first time: recon specialist Rhyne Cadec is pulled into demolitions training under Corvin over her own resistance, with Daba's stated reasoning that a cell with only one person capable of any given function loses that function entirely the day that person falls, extending MCD-1567's dispersed-cell design and MCD-1569's account of Daba's post-mentorship years spent building 1804 into something more durable than a single cell. Introduces Rhyne Cadec, collision-checked clean; reuses Sael and Corvin.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 26 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1597",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXVII, \"The Second Name No One Spoke\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxvii-the-second-name-no-one-spoke.md), the twenty-seventh entry in Daba's own Chronicle series. Locks and dramatizes 1804's blind-succession structure: each cell leader secretly designates a second who is tested through unexplained small trials but never told of the role, and receives only a sealed instruction (a place, a time, confirmation that the work continues -- no plan or orders) to open if the leader is lost, so a captured or killed leader's cell survives without any single person's capture exposing the chain, extending MCD-1567's no-single-point-of-failure design and MCD-1569's account of Daba's own post-mentorship network-building years. Introduces cell leader Yeva Tolan and her second, Marn, both collision-checked clean; reuses Sael.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 27 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1598",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXVIII, \"The Banner He Would Not Take\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxviii-the-banner-he-would-not-take.md), the twenty-eighth entry in Daba's own Chronicle series. Dramatizes a genuine growth-temptation moment: Bramm Oskell, leader of the roughly six-hundred-strong Ashfield Banner, offers to fold his entire force under 1804's name; Daba declines despite real internal disagreement from Nessa over the concrete cost (districts that could be openly held, real infirmaries, protection for far more families), reasoning that any force large enough to be seen becomes a known target that makes the rest of 1804 findable through it, and settles instead for a mutual non-affiliated intelligence-sharing arrangement -- a direct dramatization of MCD-1567's doctrine-over-mass principle holding even at real cost, extending MCD-1569. Introduces Bramm Oskell and the Ashfield Banner, both collision-checked clean; reuses Nessa.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 28 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1599",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXIX, \"What Isolde Was Never Told She Passed\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxix-what-isolde-was-never-told-she-passed.md), the twenty-ninth entry in Daba's own Chronicle series. Dramatizes 1804's vetting process for admitting a genuinely new member from outside the Rookery's own survivor core for the first time: Isolde Wrenna is given small unwitnessed tasks over months, including a deliberately seeded piece of false information given to her alone to test for leaks, and is only told 1804's true name and the tragedy behind it after roughly a year proves her discretion without her ever knowing she was being tested, extending MCD-1567's dispersed-cell trust architecture and MCD-1569's account of Daba's own post-mentorship network-building years. Introduces Isolde Wrenna, collision-checked clean; reuses Nessa.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 29 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1600",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXX, \"The Map He No Longer Needed to Carry\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxx-the-map-he-no-longer-needed-to-carry.md), the thirtieth entry in Daba's own Chronicle series -- the capstone of his post-mentorship expansion arc (MCD-1596 through MCD-1599). Shows 1804 at a meaningfully more mature scale than its founding cellar: a once-yearly, never-repeated-date gathering of cell leaders including Rhyne Cadec, Yeva Tolan, and Isolde Wrenna, each now running an autonomous, cross-trained cell under blind succession, with Daba's own role shifted from hands-on operator to architect and coordinator who deliberately no longer knows every face in the network, holding only its overall shape rather than any single piece of it -- a direct fulfillment of MCD-1569's account of Daba building 1804's durability before he could see the full shape of what it would eventually need to answer. No new named characters; reuses Sael, Nessa, Corvin, Farro, Rhyne Cadec, Yeva Tolan, and Isolde Wrenna.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 30 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1601",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXXI, \"The One He Picked\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxxi-the-one-he-picked.md), the thirty-first entry in Daba's own Chronicle series. Dramatizes MCD-1570's own mechanic from its origin point: Daba spends a year watching before he teaches anyone the Rexmar forging knowledge he received from Kanja, then selects Coen (a discreet Fenmark tinker's apprentice) and Sabeth (a river-town forger, a hundred miles distant) as his first two students, taught separately and never introduced to each other. Establishes the selection criterion as discretion under pressure rather than raw skill, and the deliberate refusal to let students cross-reference one another -- 'branches don't need to know about each other to hold the same tree up.' Introduces Coen and Sabeth, both collision-checked clean against the live ledger.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 31 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1602",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXXII, \"No Single Forge\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxxii-no-single-forge.md), the thirty-second entry in Daba's own Chronicle series. Dramatizes MCD-1570's 'not mass-produced from a central armory' clause directly: 1804 member Marrek presents Daba a well-argued efficiency case for consolidating forging into one defensible foundry, and Daba refuses it on doctrine, walking the reasoning aloud -- a single point of failure outweighs any output gain, shared supply lines are themselves a traceable thread, and the doubling curve of dispersed teaching outperforms a foundry's linear output over time without ever giving an enemy a roof to burn. Introduces Marrek, a new named 1804 member, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 32 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1603",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXXIII, \"What the Raid Found\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxxiii-what-the-raid-found.md), the thirty-third entry in Daba's own Chronicle series. Proves MCD-1602/MCD-1570's dispersed-production doctrine under real pressure: a Sovereign Trust tax-pretext search reaches Coen's (MCD-1601) Fenmark shop and finds only that cell's own deliberately modest on-hand stock -- no ledger, no cache, no thread to the wider network -- because 1804's actual output is already scattered across hands the search has no way to trace. Coen independently tightens his own practice afterward, which Daba reads as the doctrine teaching itself back through its own practitioners. No new named characters beyond Coen, already locked.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 33 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1604",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXXIV, \"The Weight of One Pair of Hands\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxxiv-the-weight-of-one-pair-of-hands.md), the thirty-fourth entry in Daba's own Chronicle series. Dramatizes the hand-crafted, cell-by-cell texture of 1804's arsenal under MCD-1570: Sabeth (MCD-1601) spends eleven days studying Wren Talsen's own old, badly-healed hand injury before forging her a Rexmar-lattice-reinforced glove built for that hand alone, distinct in every particular -- fit, function, a private unsigned maker's mark -- from anything a central supply chain could have issued. Daba frames the exchange explicitly against a central armory's uniform shelf-issue equivalent. Introduces Wren Talsen, a new named 1804 member, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 34 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1605",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXXV, \"Three Hands Removed\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxxv-three-hands-removed.md), the thirty-fifth entry in Daba's own Chronicle series, capstone of this block. Years after MCD-1601, Daba visits an unfamiliar cell and meets a forger trained three teaching-generations removed from Coen, who has never heard Daba's own name -- direct proof that the distributed-forging network he built no longer depends on him personally. Reflects on the accounting of how far Coen's and Sabeth's separate, never-crossed teaching lines have spread, and closes the block's argument: a central armory can be burned in one night and take everything down with it, while a network with only scattered teaching hands has no single ground left to burn. No new named characters -- reuses Coen, Sabeth, and Wren Talsen, all locked earlier in this block.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 35 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1606",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXXVI, \"What He Would Not Trade\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxxvi-what-he-would-not-trade.md), the thirty-sixth entry in Daba's own Chronicle series. Opens the block's genuine-failure run: courier Tamsin is captured on the northern spur, and Daba refuses a rescue that would expose three other cells to save her, extending MCD-1567's 'no single loss collapses a function the group depends on' doctrine into its hardest, unsoftened form -- the loss is a person, not a function, and the Chronicle does not disguise it as a hidden victory. Tamsin dies in custody without giving up more than the design allowed her to know. Introduces Tamsin, Halvin, Bren, and Farel, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 36 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1607",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXXVII, \"The Name She Put Down\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxxvii-the-name-she-put-down.md), the thirty-seventh entry in Daba's own Chronicle series. Dramatizes a genuine near-discovery: a nine-year cover identity run by courier Ilyse (a dye-shop, a real business partnership, an ordinary life grown around the cover) comes within one thorough clerk's discrepancy report of exposing a supply route back to 1804's structure. The network survives exactly as MCD-1567 designs it to, at the real cost of Ilyse abandoning the identity, the shop, and the relationships built inside it on eleven days' notice. Introduces Ilyse and Mattis Kastel, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 37 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1608",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXXVIII, \"What Small Could Not Reach\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxxviii-what-small-could-not-reach.md), the thirty-eighth entry in Daba's own Chronicle series. Dramatizes doctrine-over-mass working exactly as designed and still not being enough: with nine days' warning of a three-hundred-strong Trust reprisal against the farming settlement of Pallow's Reach, Daba declines reconnaissance lead Serel's proposal to commit eighteen fighting cells to intercept it, since MCD-1567's arithmetic shows the attempt would expose half the network's fighting strength without stopping the column. The four-person warning effort he authorizes instead saves roughly half the settlement; the other half does not survive, a cost the entry does not resolve into a hidden win. Introduces Pallow's Reach and Serel, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 38 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1609",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XXXIX, \"The Case Kether Made\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xxxix-the-case-kether-made.md), the thirty-ninth entry in Daba's own Chronicle series. Dramatizes genuine internal friction over MCD-1567's doctrine, raised in the aftermath of Pallow's Reach (MCD-1608) by western-cells lead Kether, an eleven-year veteran who argues the network's slow growth pace is Daba's own comfort level rather than a rigorously derived number, and that a larger 1804 could stop the next Pallow's Reach outright rather than only warning it. Daba cannot fully refute the case and does not try to; the entry resolves into a genuine but partial concession -- a two-year parallel vetting track under Kether's own command testing whether recruitment can safely move faster -- rather than a clean vindication of the existing doctrine, with the underlying question left open pending the track's result. Introduces Kether, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 39 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1610",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XL, \"The Tally He Keeps Alone\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xl-the-tally-he-keeps-alone.md), the fortieth entry in Daba's own Chronicle series, closing Block H's genuine-failure run. A quiet, crisis-free entry on the personal toll of carrying MCD-1567's doctrine-driven losses over eleven years: once a year, on the Rookery's anniversary, Daba privately reads through a hand-kept list of every name lost to the doctrine's arithmetic, including Tamsin's (MCD-1606), weighing unresolved doubt about whether the network is answering its founding debt fast enough against an undiminished determination to keep practicing the discipline that has, so far, kept 1804 small enough to survive. Neither the doubt nor the determination resolves the other. No new named characters; reuses Tamsin (MCD-1606).",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 40 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1611",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XLI, \"The Dispatch That Named No One\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xli-the-dispatch-that-named-no-one.md), the forty-first entry in Daba's own Chronicle series. During the early Rebellion years the Directorate still classifies as \"Bane,\" a stolen Trust dispatch describing a ravine ambush reaches Daba via lieutenant Deryn Kettel (new named character); he recognizes the terrain-collapse tactic as his own teaching, confirms nothing to his own network beyond a name to note and never speak of, and deliberately declines to make any contact, burning the dispatch himself. Dramatizes MCD-1569's discipline that 1804 stays \"never folded into the Lords of Cian's own crew structure or publicly credited alongside it,\" without inserting 1804 into any of Kanja's own locked battles. New minor named character Deryn Kettel, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 41 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1612",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XLII, \"The Depot at Half-Ford\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xlii-the-depot-at-half-ford.md), the forty-second entry in Daba's own Chronicle series. Entirely unconnected to Kanja's own Rebellion, Daba dispatches cell leader Orsk Dresk (new named character) and four cells to a labor depot at Half-Ford (new minor place name), where the Trust's regional office has been informally warehousing debt-bonded children between contracts; over eleven days the depot is emptied without casualties, forty-one children and two cooperating clerks relocated, and its debt ledgers destroyed so they cannot be reissued. Demonstrates 1804 running self-initiated operations on its own terms, per MCD-1567's framing of it as the ledger's smallest standing resistance force operating through doctrine rather than mass. New named characters Orsk Dresk and place name Half-Ford, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 42 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1613",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XLIII, \"What the Smoke Never Touched\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xliii-what-the-smoke-never-touched.md), the forty-third entry in Daba's own Chronicle series. Pursuing an unrelated forgery case, Daba and lieutenant Elowen Marn (new named character) pass within sight of the already-locked Furnace District Strike (MCD-244, age 21) from a ridge overlooking the smelting district; Daba recognizes the unnamed unarmed figure below without naming him aloud, judges correctly that the standoff will not turn violent, and deliberately withdraws south with his own escort rather than approach, letting the strike resolve entirely on its own. Dramatizes 1804 operating near but never within one of Kanja's own campaigns, honoring MCD-1569's \"never folded into\" constraint without altering that battle's own locked participant account. New minor named character Elowen Marn, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 43 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1614",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XLIV, \"The Hands That Taught the Knife\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xliv-the-hands-that-taught-the-knife.md), the forty-fourth entry in Daba's own Chronicle series. Well into what the Directorate would come to call Kanja's Long Mask era, founding-era 1804 member and Rookery survivor Halvar Ilven (new named character), his hands no longer steady enough to teach the blade, formally passes leadership of his cell to younger recruit Tobin Cray (new named character), whom Daba himself trained in forging; the two founders reflect together on what the network cost against what it built. Demonstrates 1804 persisting across a genuinely long timescale, generation to generation, per MCD-1569's framing of the network running semi-dormant across the whole of the Rebellion and Long Mask eras. New named characters Halvar Ilven and Tobin Cray, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 44 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1615",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XLV, \"The Watch That Has No End Yet\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xlv-the-watch-that-has-no-end-yet.md), the forty-fifth entry in Daba's own Chronicle series, closing this block. Centuries into what the Directorate now terms Kanja's Long Mask, an aged but still-active Daba reviews routine dispatches with young courier Quill Vantry (new named character) and reflects on the still-unnamed threat MCD-1569 states he is building 1804 to answer, explicitly declining to resolve or speculate further on its nature; he confirms his own path and Kanja's have not crossed in longer than Quill has been alive, and that this distance is deliberate. Closes with the network's watch still ongoing, unresolved, matching MCD-1569's own reservation of the specific triggering event for a future book. New minor named character Quill Vantry, collision-checked clean.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 45 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1616",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XLVI, \"The Two Who Remember the Stairs\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xlvi-the-two-who-remember-the-stairs.md), the forty-sixth entry in Daba's own Chronicle series and the opening entry of the launch wave's final, deliberately quiet block. A private, unguarded evening conversation between Daba and Mika, the only other living person who remembers the Rookery stairwell itself rather than only its aftermath, directly addressing what they are to each other after everything rather than any operational matter. Establishes Mika's present-day role as 1804's informal record-keeper, a reshaped inheritance of Odalys's ledger ethic (already noted deceased) adapted to an organization that cannot afford to be written down. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 46 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1617",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XLVII, \"The Smell That Waits for Nothing\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xlvii-the-smell-that-waits-for-nothing.md), the forty-seventh entry in Daba's own Chronicle series. A memory of the Rookery surfaces unprompted on an ordinary rainy afternoon, deliberately contrasted against the raw, flattening grief of Daba Chronicle I: decades on, the memory arrives and passes like weather rather than catastrophe, carried rather than resolved. Introduces Perrin, a senior 1804 cell coordinator personally trained by Daba (recruited as a teenager following an unrelated Trust reprisal, not a Rookery survivor), collision-checked clean. No other new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 47 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1618",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XLVIII, \"The Bet Daba Wasn't Supposed to Win\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xlviii-the-bet-daba-wasnt-supposed-to-win.md), the forty-eighth entry in Daba's own Chronicle series. A deliberate entry of warmth and humor: newest recruit Tessin wagers the cell's traditional first-pick-of-blankets stakes that she can get a genuine laugh out of Daba before the next supply cycle, fails at every planned joke, and succeeds by accident through sheer sincere exasperation over a fish-tally miscount -- proof 1804 is a home with real affection and levity in it, not only doctrine and grief. Introduces Tessin, a newly recruited junior member, collision-checked clean; reuses Mika and Perrin. No other new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 48 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1619",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle XLIX, \"What Being Small Was Always For\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-xlix-what-being-small-was-always-for.md), the forty-ninth entry in Daba's own Chronicle series. A reflective conversation with Perrin on the specific psychological cost and reward of leading an organization built to stay permanently unseen and uncredited (`MCD-1569`), naming directly the irony that his own life's discipline -- ensuring no record of 1804 or its people exists anywhere -- runs opposite to the need for every name to be recorded that first shaped him as a boy. Kanja appears once, briefly, only within a remembered image of the already-locked dry-wash lesson (`MCD-1583`), not as a present-day active presence. Reuses Perrin. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 49 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
+    },
+    {
+      "id": "MCD-1620",
+      "category": "daba-character-chronicle",
+      "statement": "Daba Chronicle L, \"The Ledger That Isn't Finished Yet\" (full narrative text at docs/lords-of-cian/chronicles/daba-chronicle-l-the-ledger-that-isnt-finished-yet.md), the fiftieth and final entry in the launch wave of Daba's own Chronicle series. An unhurried, ordinary evening meal among 1804's present-day core (Mika, Perrin, and Tessin) closes the loop on Daba Chronicle I's counted-heads motif -- the same habitual head-count now landing as simple, settled presence rather than dread -- and directly poses, without answering, what the organization has spent decades waiting for. Closes the full 50-entry launch wave of Daba's Chronicle series on a deliberate pause rather than a resolution, explicitly leaving `MCD-1569`'s unspecified Book 1 activation trigger, and the remainder of Daba's own story, open for future entries. No new named characters.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-18, no source document. Entry 50 of 50 in Daba's launch Chronicle wave, Batch 296, per Abad's direction."
     }
   ],
   "open_decisions": [
