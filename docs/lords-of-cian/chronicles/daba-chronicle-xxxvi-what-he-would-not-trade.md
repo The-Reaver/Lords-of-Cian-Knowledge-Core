@@ -6,7 +6,7 @@ entry in the sub-series' established genuine-failure discipline: dramatizes the 
 of `MCD-1567`'s "no single loss collapses a function the group depends on" doctrine when the loss in
 question is a person rather than a function -- a courier is captured, and Daba refuses a rescue that
 would expose three other cells to save her, a decision the Chronicle does not soften into a hidden
-victory. Introduces Tamsin, Halvin, and Bren, collision-checked clean. Abad's approval: "rate 50
+victory. Introduces Tamsin, Halvin, Bren, and Farel, collision-checked clean. Abad's approval: "rate 50
 Chronicles in batches using as many agents as needed to make it efficient."*
 
 ---
@@ -32,7 +32,7 @@ people to stop bringing him hard things.
 
 "None of them," he said, when Bren finished.
 
-"She knows Halvin's face. She knows Corren's rotation. If they break her --"
+"She knows Halvin's face. She knows Farel's rotation. If they break her --"
 
 "If they break her, they get two names and a schedule," Daba said. "If we go in after her, they get a
 column of Trust wagons following whoever survives the attempt straight back to every cell that
@@ -62,7 +62,7 @@ all did, and Daba had stopped pretending otherwise to the newer ones -- turned o
 rotation and nothing more, because a face and a rotation were the only things she had to give, because
 that was the entire design: no courier in 1804 carried more than they could survive losing under
 questioning, precisely so that this exact failure, when it came, would cost the network a fraction of
-what it would have cost a different kind of network. Halvin moved that week. Corren's rotation
+what it would have cost a different kind of network. Halvin moved that week. Farel's rotation
 changed. Nothing else broke.
 
 Tamsin did not come back. The Trust's own record, which reached them nine weeks later through an
