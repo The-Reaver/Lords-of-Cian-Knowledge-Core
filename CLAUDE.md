@@ -2070,6 +2070,82 @@ narration proper). Final listing verified at a full 9/9, deduplicated by file ID
 Chronicles I-IX, no duplicates. No git or ledger changes in this pass -- upload-only, matching the
 established Drive-sync pattern used throughout the project.
 
+**Lauris's 50-Chronicle wave, Batch 299, 2026-09-18 (`MCD-1627` through `MCD-1676`), per Abad's
+direction: "lock it, continue uninterrupted, test and push to main," given directly in response to
+a proposed 8-agent strand/block structure.** Matches the scale and pattern of Daba's own 50-Chronicle
+launch wave (Batch 296): eight parallel background agents, each assigned a fixed, non-overlapping
+Chronicle-numeral and rule-ID range, drafting across her established four-strand convention
+(`docs/lords-of-cian/character-chronicle-gameplan.md`). Lauris now has **59 Chronicles total**
+(I-LIX).
+
+**Strand K (Kares Prime / deep past) -- 12 entries, Chronicles X-XXI.** Wave 1 (X-XV, pre-karth-ven,
+age 8 through ~1,247): the origin of her "careful witness" discipline at age 8; the age-14 cohort
+density assessment and relocation to Vask Karth-Ven; her arrival and first meetings with instructors
+Veska/Tiramen/Voreth Karth-Ven; the no-ceiling calibration period's first century; Velith's death at
+~age 1,200, the longest archive entry she's ever written; and the Vask Threnarr mining collapse
+already locked at MCD-171, dramatized directly for the first time. Wave 2 (XVI-XXI, the ~1,560-year
+Long Operational Period, age 1,841-~3,400): a trade-point defense, a second mining-collapse rescue
+showing technique maturing past raw endurance, the second of three inter-Vask disputes (introducing
+the failing Vask Ilvane, absorbed into Aldreth), the first of four self-requested student trainings
+(introducing Serath of Olmedrin), a reassessment where Karth-Ven's 28,000-year-calibrated training
+floor fails to read her ceiling for the first time, and the Long Operational Period's closing entry
+(introducing Doreth, a deliberate Ilvane-refugee callback) cataloguing all 23 deployments and
+planting, for the first time, the question that becomes her eventual departure decision (MCD-174).
+
+**Strand D (Sealbound Directorate operations) -- 13 entries, Chronicles XXII-XXXIV.** Full-scene
+treatment for operations previously only summarized: Op 2 (Sister-of-Voren Abduction, a
+zero-casualty 47-minute extraction in place of a 200-enforcer assault), Op 4 (the Korren Smuggling
+Ring/Sample K-403 recovery, an unwritten precursor to the private-ledger habit Op 6 later names), Op
+5 (the Maelstrom Beast, a pure-physicality combat-joy showcase), Op 13 (the Captain Drenneth
+Acquisition, whose "delivered alive, died in processing" outcome is an early data point in the
+institutional-doubt arc Op 19/Chronicle III later completes), Op 14 (the Vask of the Hollow, "no
+longer subtle," plus an Op 20 epilogue), Op 16 (Brokenwall, the reburied-not-destroyed resonance
+node), Op 17 (the Drowning Vault breach, resealed with four hours to spare, deliberately not
+disclosing the MCD-183 reveal it protects), Op 22 (Velaris, the "Petite Catastrophe" alias's origin,
+dramatizing MCD-1539's line verbatim), Op 26 (Veth Korr, the discovery the apparatus specifically
+engineered a contract to study her methodology), Op 28 ("the Copy," an engineered subject fighting
+with her own reverse-engineered curriculum), Op 29 (CP-414's dying words, "We are the same. Run,"
+dramatized verbatim), Op 31 (Subject IM-099 revealed as Kareth-Vassen Aerelin, her first active act
+against the Directorate), and Op 37 (the first openly joint operation with Aerelin's network,
+~280 rescued). Deliberately stops at the edge of Op 38 and does not touch Op 40 (the Defection),
+both reserved.
+
+**Strand L (the Ledger, present-day debts, deepen-don't-resolve) -- 12 entries, Chronicles
+XXXV-XLVI.** Further Operation-38 facility-family threads (a reported facility's subjects moved
+onward without her visibility; a "cleared" facility's population aging and dying in concealment
+regardless); the Drowning Vault's 120 (MCD-183) reframed as requiring an impossible unified revival
+protocol, still undischarged; the Sample K-403 search (MCD-1534) finding the trail colder, not
+warmer; the still-unshown Twin Anomaly photographs (MCD-1535), with Lauris committing to "eventually"
+for the first time; the Verith/Val Mirel deferral (MCD-180/198) named as her own uncertainty rather
+than a missing operational trigger; a rescued survivor (Corin Halvet, new) asking to leave protection
+outright; a second Sample K-403 fragment confirmed lost to Directorate record-purging; her Directorate
+nickname weaponized without consent by an unrelated debt-collector (Tevan Kesk, new); Aerelin asking
+for personal help outside their two-century arrangement's own terms; the testimony debt to the
+Iron-Speakers confronted against the fact her own cohort will have no descendants; and a live lead
+(CP-609, new designation) on CP-414's own "you will not be the last" promise. Every entry ends without
+resolution, per the strand's own rule.
+
+**Strand W (Witness, present-day quiet register) -- 13 entries, Chronicles XLVII-LIX.** Wave 1:
+dedicated stakes-free entries with Valen (sparring, twice, in genuinely distinct registers), Ozmund
+Verehimu (+ Lilith Cyzak), and Anansi and Orlok, each extending MCD-215's "adequate-but-undemonstrative"
+crew-ties clause into its own scene for the first time, closing on a rare accidental gathering of all
+four putting CC-134's full "counterweight" framing on the page. Wave 2: Fermand Aurelias himself
+appears as a participant for the first time in the series (still narrating in the established
+third-person register, not breaking into confession), plus dedicated quiet scenes with Kanja, Garren
+Hask, Callum Breck, Efa Gol, Dol Maren, and Pell Ostra -- the fullest spread of dockside-crew pairings
+the strand has given any single wave.
+
+New named characters across all 50 entries, all minor and collision-checked clean against the full
+ledger and each other: Iron-Speaker Vann, Vask Ilvane, Serath, Doreth (Strand K); Corin Halvet, Tevan
+Kesk, CP-609 (Strand L). Every other figure reused already-locked canon. One in-flight anachronism was
+self-corrected by the Strand K wave-2 agent before finalizing (a Cian-era epithet used out of its
+locked era). Same process as Daba's launch wave: files committed progressively with "Locked canon"
+headers already in place under the blanket authorization, the ledger merge itself running only after
+all 8 agents' output and the cross-agent collision sweep were complete. Abad's approval, quoted
+verbatim: "lock it, continue uninterrupted, test and push to main." Ledger reached `ledger_version`
+30.2, 2,342 rules, 299 batches -- zero duplicate IDs verified. No Google Drive sync performed yet for
+Chronicles X-LIX -- open as a follow-up to the same Lauris Drive folder already created.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
