@@ -2054,9 +2054,21 @@ own standing rule that Fermand's narration reserves warmth only for "My dear Ezi
 characters across any of the four entries. Same two-commit process as the interstitials: drafted and
 committed as unlocked/pending first, headers corrected to "Locked canon" only after approval. Abad's
 approval: "lock them up." Ledger reached `ledger_version` 30.1, 2,292 rules, 298 batches -- zero
-duplicate IDs verified. No Google Drive sync performed yet for Chronicles VI-IX. Genuinely open for
-whenever Abad wants it next: a third wave for Lauris, Daba's own second wave, a new Tier 1 character
-launch, or any other thread -- no track starts automatically.
+duplicate IDs verified. Genuinely open for whenever Abad wants it next: a third wave for Lauris,
+Daba's own second wave, a new Tier 1 character launch, or any other thread -- no track starts
+automatically.
+
+**Lauris's own Google Drive folder created and fully synced, 2026-09-18.** A new "Lauris" folder
+was created as a sibling to "Daba" inside the "Character Chronicles" parent folder (under "02 -
+Chronicles" in the "FINAL FOLDER - My Rival's Distance" mirror). All 9 of her Chronicles to date
+(I through IX, `MCD-1561`-`1565` from Batch 292-293 and `MCD-1623`-`1626` from Batch 298) were
+uploaded in the same established plain-text convention used throughout the project (backticks
+stripped, `---` converted to `-----`, whole-paragraph italic wrapper asterisks stripped while
+lone `*` scene-break dividers and inline emphasis are preserved), correctly handling her series'
+unique two-voice structure (the italicized "Archive fragment" opener before Fermand Aurelias's
+narration proper). Final listing verified at a full 9/9, deduplicated by file ID, correctly titled
+Chronicles I-IX, no duplicates. No git or ledger changes in this pass -- upload-only, matching the
+established Drive-sync pattern used throughout the project.
 
 ## Separate, unrelated thread: the interactive archive app
 
