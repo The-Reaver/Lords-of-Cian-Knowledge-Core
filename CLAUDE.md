@@ -2143,8 +2143,23 @@ locked era). Same process as Daba's launch wave: files committed progressively w
 headers already in place under the blanket authorization, the ledger merge itself running only after
 all 8 agents' output and the cross-agent collision sweep were complete. Abad's approval, quoted
 verbatim: "lock it, continue uninterrupted, test and push to main." Ledger reached `ledger_version`
-30.2, 2,342 rules, 299 batches -- zero duplicate IDs verified. No Google Drive sync performed yet for
-Chronicles X-LIX -- open as a follow-up to the same Lauris Drive folder already created.
+30.2, 2,342 rules, 299 batches -- zero duplicate IDs verified.
+
+**Google Drive sync closed for Chronicles X-LIX, 2026-09-18.** Five parallel agents uploaded the 50
+new files to the existing Lauris Drive folder in the established plain-text convention. One agent
+(Strand D part 1's upload, Chronicles XXVIII-XXXVI) used a mistaken convention -- backslash-escaping
+literal `#`, `-----`, and `*` characters in the uploaded text -- based on an incorrect belief that
+Drive's plain-text-to-Doc conversion auto-renders those as Markdown. Caught by reading a known-good
+doc (Chronicle IX) and a same-batch doc from a different agent (Chronicle XXXVII) back through
+`read_file_content` and comparing backslash counts: correct uploads show exactly one backslash per
+special character (an artifact of the read tool's own markdown-safe serialization, present on every
+doc including originals from Batch 292/293/298), while the mistaken uploads showed two to three,
+proving real literal backslash characters had been written into those 9 documents. Fixed by trashing
+all 9 and re-uploading from a corrected transform (strip backticks, keep `# Title` and `-----`
+literal, strip wrapping asterisks only from the two whole-paragraph italic blocks, preserve lone `*`
+scene dividers and inline emphasis, no escaping of any kind). Final verification confirmed a full
+59/59 (Chronicles I-LIX), each numeral appearing exactly once, no duplicate file IDs. No git or
+ledger changes in this pass -- upload-only, matching the established Drive-sync pattern.
 
 ## Separate, unrelated thread: the interactive archive app
 
