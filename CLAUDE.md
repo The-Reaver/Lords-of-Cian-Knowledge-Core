@@ -2161,6 +2161,62 @@ scene dividers and inline emphasis, no escaping of any kind). Final verification
 59/59 (Chronicles I-LIX), each numeral appearing exactly once, no duplicate file IDs. No git or
 ledger changes in this pass -- upload-only, matching the established Drive-sync pattern.
 
+**Lauris's second 50-Chronicle wave, Batch 300, 2026-09-18 (`MCD-1677` through `MCD-1726`), per
+Abad's direction: "50 more for lauris," approved with "go" against the proposed 8-agent strand
+structure.** Matches Batch 299's exact scale and pattern: eight parallel background agents, each
+assigned a fixed, non-overlapping Chronicle-numeral and rule-ID range across her established
+four-strand convention. Lauris now has **109 Chronicles total** (I-CIX).
+
+**Strand K (Kares Prime / deep past) -- 12 entries, Chronicles LX-LXXI.** Wave 3a (LX-LXV) fills
+the previously-undramatized ~1,100-year gap between age 114 (the no-ceiling calibration period's
+close, Chronicle XIII) and Velith's death (age ~1,200, Chronicle XIV): the Sister-Hold's formal
+transition to a standing instructor roster, Tiramen's earliest private observations that decades
+later seed MCD-169, and the intervening span's own texture. Wave 3b (LXVI-LXXI) pays off Chronicle
+XXI's reserved hook directly: the full departure sequence (age ~3,580-4,000) MCD-174 has only ever
+covered in summary -- the Iron-Speaker deliberation, Selene's death, the farewells, and the journey
+to the Olmedrin departure point.
+
+**Strand D (Sealbound Directorate operations) -- 13 entries, Chronicles LXXII-LXXXIV.** Full-scene
+treatment for Operations 1, 3, 7, 8, 9, 10, and 11 (wave 3a, closing the Apprentice Contracts period
+and opening Established Hunter), and Operations 18, 23, 24, 27, 32 (half of the MCD-190 pair --
+Operation 34 deliberately left untouched), and 36 (wave 3b) -- all while continuing to respect every
+previously-established reserved operation (25, 30, 34, 38, 40).
+
+**Strand L (the Ledger, present-day debts, deepen-don't-resolve) -- 12 entries, Chronicles
+LXXXV-XCVI.** Both wave 3a and 3b split between continuing existing threads (Corin Halvet, Tevan
+Kesk, CP-609, Aerelin's standing favor) and originating new ones (Operation 28's curriculum-leak
+question, Captain Drenneth's twelve crew, the Brokenwall/Velaris node-builder, a second concealed-
+population generation, an unidentified K-Theta visitor, her own early biological sampling) -- every
+entry ends without resolution, per the strand's own rule.
+
+**Strand W (Witness, present-day quiet register) -- 13 entries, Chronicles XCVII-CIX.** Wave 3a
+features previously-thin crew (Damu, Abyss, Matar, Cooper, Valeria Korth, Danne Sok); wave 3b gives
+second entries to Valen, Ozmund, Anansi, Orlok, Kanja, and Efa Gol in genuinely distinct registers,
+closing on a dockside-crew group scene (Garren Hask, Callum Breck, Efa Gol, Dol Maren, Pell Ostra)
+that closes the entire wave.
+
+New named characters, all minor and collision-checked clean against the full ledger and each other:
+Rassa (Strand K, a surviving cohort member), Merel Vantree (Strand D, self-corrected from an initial
+"Sela Vantree" after the drafting agent's own re-grep caught a collision with the already-locked
+Arbitrator Sela of House Kestrion, `ASH-057`), Ossen Fael (Strand D, a minor depot clerk), and the
+Halfmoon Tide (Strand D, a Directorate vessel name). One in-flight rule-ID typo (`MCD-6245` ->
+`MCD-157`) was self-corrected by the Strand K wave-3a agent before finalizing. Both fixes verified
+via `git diff` before commit as legitimate agent self-correction, not corruption. Same process as
+her first wave and Daba's launch wave: files committed progressively with "Locked canon" headers
+already in place under the blanket authorization, the ledger merge itself running only after all 8
+agents' output and a cross-agent collision sweep were complete. Abad's approval, quoted verbatim:
+"go." Ledger reached `ledger_version` 30.3, 2,392 rules, 300 batches -- zero duplicate IDs verified.
+Genuinely open for whenever Abad wants it next: a third wave for Lauris, Daba's own second wave, a
+new Tier 1 character launch, or any other thread -- no track starts automatically.
+
+**Google Drive sync closed for Chronicles LX-CIX, 2026-09-18.** The 50 new files were uploaded to
+the existing Lauris Drive folder (id `1zqRSTGj1kzS5vmusxjTuU4wfijW0ojmZ`) via parallel background
+agents, explicitly instructed this time to never backslash-escape any character under any
+circumstances, closing off a repeat of the Batch 299 formatting bug before it could occur. Final
+verification confirmed a full 109/109 (Chronicles I-CIX), each numeral appearing exactly once, no
+duplicate file IDs. No git or ledger changes in this pass -- upload-only, matching the established
+Drive-sync pattern.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
