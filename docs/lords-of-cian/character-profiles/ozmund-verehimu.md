@@ -178,7 +178,25 @@ explicitly where I'm inferring rather than quoting a locked fact.
 
 ## 3. Game Plan
 
-*Not started — pending profile discussion.*
+**Standing constraint, set by Abad 2026-09-20: the launch wave (Chronicle I onward, until he says
+otherwise) stays strictly pre-Book-1 — before the Fulfillment Ceremony murder of Aethelgard Verehimu
+and Maro Rexmar (`MCD-025`). Nothing set during or after the Accession Games / Maw circuit / Legion-
+building era gets drafted until he explicitly reopens that window.**
+
+**Deferred pitches — fire once Abad reopens Book-1-era territory:**
+- **"What the Arena Doesn't Know He's Hiding"** — set during the Accession Games gladiator run, a
+  match before Grulak; Ozmund deliberately underperforms/disguises his true density to protect his
+  "just a man" cover. Can't be pre-ceremony — the Games only exist because the throne is vacant after
+  Aethelgard's murder. Fully deferred, not reworkable into the pre-Book-1 window.
+- **"What the Ceremony Didn't Let Him Feel"** — the Fulfillment Ceremony itself, from Ozmund's side.
+  Sits exactly on the boundary (it *is* the murder) — better suited as a capstone closing a pre-Book-1
+  run than as an opener. Deferred alongside the Arena pitch, for the same later conversation.
+
+Narrator/voice and pacing-convention proposals from the prior round (Red Beard narrating per
+`VB-020`/`022`/`CC-020`; single-sequence vs. a braided-strand structure) still stand and apply
+equally to a pre-Book-1 run — not revisited by this constraint, just the subject matter is narrowed.
+
+*Candidate Chronicle-I pitches: pending a fresh, strictly pre-ceremony set.*
 
 ---
 
