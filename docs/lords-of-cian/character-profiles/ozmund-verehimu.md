@@ -92,6 +92,21 @@ explicitly where I'm inferring rather than quoting a locked fact.
   and years of training, not proximity; Red Beard earned it through choosing him with open eyes,
   not obligation. Meanwhile the people with the most conventional claim on his trust (Draconis, blood
   cousins) are either well-meaning and wrong about him, or family and lethal.
+  - **Draconis, specifically — a purity test he doesn't know he's taking.** Draconis's loyalty is
+    built on a fundamental misunderstanding (he doesn't know Ozmund is a Gravity Titan, thinks his
+    Accession Games gladiator run is madness or cowardice) — and Ozmund privately lets it stay that
+    way. It functions, whether or not he'd put it in these terms, as proof that at least one person
+    would still be loyal to him as "just a man," not because of what his power can do for them — a
+    control case none of his other relationships can offer, precisely because everyone else close to
+    him already knows the truth. Confirmed: whenever the truth eventually does reach Draconis, it
+    deepens the relationship rather than breaking it — he's honored to learn he was trusted blind
+    that whole time, not betrayed by having been kept in the dark.
+  - **Kanja, specifically — relief, not loss.** Two centuries as strangers before adulthood
+    (`MCD-318`) doesn't read to him as lost time. It reads as relief: it means whatever alliance he
+    and Kanja build together is chosen and earned in the present, exactly like everyone else who
+    matters to him, rather than an inherited family obligation that got to skip the one standard
+    (consent, earned loyalty) he holds every other relationship to. The blood tie didn't buy Kanja
+    anything he didn't also have to earn.
 - **What breaks him / his real vulnerability:** Not defeat in combat — `MCD-319` already establishes he
   can out-will the Crown-Scar itself. It's the possibility that he compelled loyalty without knowing
   it, i.e., that his own certainty about his cause was never fully trustworthy evidence that other
