@@ -80,6 +80,20 @@ explicitly where I'm inferring rather than quoting a locked fact.
   because the one thing he didn't earn (the Crown-Scar, the bloodline, the inherited architecture) is
   the thing he's most afraid of. He controls what he can control absolutely, because what he can't
   control is inside his own blood.
+  - **No threshold to cross.** Unlike Kanja, he never had an Awakening — his Density Spike has been
+    fully active and under conscious control since infancy (`CC-015`/`017`/`MCD-024`). He never got
+    a clean "before and after" moment; the power isn't something he *became*, it's an ambient fact of
+    his entire existence, present before memory. That's precisely why the 201 years of discipline,
+    not the power itself, is what he actually claims as earned and his own.
+  - **Grief converted directly into infrastructure.** He may never process his father's death
+    emotionally at all — instead it channels straight into *building*: the Unchained Legion, the full
+    seven-piece Sovereign's-Five arsenal, doctrine, institutions. Action is the only outlet grief is
+    allowed to take. The sheer scale of what he constructs across Book 2 reads as an unprocessed
+    funeral that never ends.
+  - **Hypervigilance running against his own body.** `MCD-330` locks a 0.3-second trained recognition
+    reflex specifically tuned to the Warbody's own Crown-Scar architecture — some part of him stays
+    permanently on watch for his own biology being weaponized against him. A quiet, constant
+    background hum of inward-facing threat-detection that never fully switches off.
 - **Values — what he will not compromise:** Consent and earned loyalty, specifically because he can't
   be sure his own will is always his own (`ARS-381`). This is why he trains Red Beard as a soldier
   rather than liberates him as a victim (`MAW-084`) — dignity through agency is the one thing he can
@@ -88,6 +102,12 @@ explicitly where I'm inferring rather than quoting a locked fact.
   systems (Blight Frequency, Tether-management, `ARS-377`) while being, at every moment, an
   involuntary drain point feeding the very enemy he's fighting (`MCD-290`). The war he's winning
   outwardly is a mirror of the war he can't fully win inwardly.
+  - **His power's physics as a literal mirror of that contradiction.** `WC-006` gives him a specific
+    "flavor" — Solid-Dense *Terra*, a crushing static foundation, against Kanja's fluid, momentum-
+    based Spike. That's thematically exact: his power is *about* being immovable, the thing others
+    can stand on — the same role he plays for the Legion, Red Beard, and Lilith — while he privately
+    knows the foundation itself is compromised. The one thing everyone leans on is quietly cracked,
+    and only he knows it.
 - **Relationship patterns:** Genuine intimacy is rare and hard-won — Lilith earned it through near-death
   and years of training, not proximity; Red Beard earned it through choosing him with open eyes,
   not obligation. Meanwhile the people with the most conventional claim on his trust (Draconis, blood
@@ -107,10 +127,22 @@ explicitly where I'm inferring rather than quoting a locked fact.
     matters to him, rather than an inherited family obligation that got to skip the one standard
     (consent, earned loyalty) he holds every other relationship to. The blood tie didn't buy Kanja
     anything he didn't also have to earn.
+  - **Formalizing the one boundary he doesn't leave ambiguous.** `CC-024`'s "Valeria is Kanja's —
+    Lilith is Ozmund's" reads like an actual Canon Mandate — oddly bureaucratic language for a
+    romantic/partnership boundary between cousins. Consistent with the rest of him: where most people
+    would leave overlap or comparison with Kanja unspoken, he formalizes it, draws the line
+    explicitly. Control-as-identity extended all the way into how he manages being compared to his
+    own cousin.
 - **What breaks him / his real vulnerability:** Not defeat in combat — `MCD-319` already establishes he
   can out-will the Crown-Scar itself. It's the possibility that he compelled loyalty without knowing
   it, i.e., that his own certainty about his cause was never fully trustworthy evidence that other
   people's devotion to it was real.
+  - **The doubt Blackthorne planted without meaning to.** `CC-087` establishes the throne itself was a
+    financial snare — accepting it would've triggered automatic estate liquidation. If Ozmund ever
+    learns this (open, undrafted), it could quietly poison his own founding myth: did he refuse the
+    crown out of principle and grief, or did some instinct smell the trap before he consciously
+    understood it? He'd likely never be able to fully answer that for himself — a live doubt-seed
+    about how much of his own defining moment was actually his.
 - **Defining emotional throughline:** *The fight to be the author of your own will, waged outward as
   the liberation of others.* Every gift, every doctrine, every command decision is this same fight
   fought at a different scale.
