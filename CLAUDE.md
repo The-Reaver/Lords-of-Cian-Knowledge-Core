@@ -17,6 +17,42 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 3. Wait for Abad's explicit approval in his own words. Quote that approval verbatim into the batch's `note` field when it locks; do not paraphrase it.
 4. Only then write a merge script, run it, and lock the rules.
 
+## The second non-negotiable rule: Character Chronicle Launch Protocol (Abad, 2026-09-20)
+
+No Chronicle prose gets drafted or presented for ANY protagonist -- across all three Chronicle
+tracks (Character Chronicles, Alias Chronicles, territory Chronicles), whether a brand-new launch or
+the next wave of an already-running series -- until that character has a profile+game-plan file at
+`docs/lords-of-cian/character-profiles/<slug>.md` that has reached "game plan approved." This sits
+in front of, not instead of, the draft-then-approval-then-lock rule above; it governs what happens
+before the first draft exists.
+
+The gate, in order, per character:
+1. **Rules Walkthrough** -- every locked rule touching that character, pulled from the ledger and
+   organized thematically (biography/stats, relationships, abilities/gear, already-locked plot
+   beats, reserved/unresolved threads, and -- for an already-running series -- a summary of what the
+   existing Chronicle corpus has already established). Presented as a document, not grep output.
+2. **Psychological Profile** -- built collaboratively with Abad, not handed to him finished: core
+   wound, defenses, values, how they hold contradiction, relationship patterns, what breaks them,
+   their defining emotional throughline. For the 11 Alias Chronicle personas, this is a shared
+   underlying psychology (Kanja's own) expressed through that alias's distinct register/era/themes,
+   not 11 separate invented childhoods.
+3. **Game Plan** -- narrator/voice confirmation, pacing convention (single sequence vs. multi-strand,
+   and why), a reserved-threads inventory, and 2-3 candidate Chronicle-I/next-wave pitches for Abad
+   to pick from or redirect, never one pre-committed draft presented as a fait accompli.
+
+Template at `docs/lords-of-cian/character-profiles/_TEMPLATE.md`. Live status for every character
+across all three tracks tracked at `docs/lords-of-cian/chronicle-tracks-status.md`.
+
+Per Abad's explicit ruling ("Backfill everything," 2026-09-20), this gate applies retroactively to
+every already-launched protagonist, not just new ones: all 11 Alias Chronicle personas, all 20
+territory Chronicle leaders plus Arturo Salvatierra Duho, and both already-launched Character
+Chronicle track members (Lauris, Daba) -- 34 backfills plus Ozmund as the first character launched
+under the gate, 35 total. Mechanical extraction (the Rules Walkthrough, existing-corpus summaries)
+is safe to run via parallel background agents per character. The Psychological Profile and Game Plan
+steps require Abad's actual review -- for the backfill, presented in digestible batches rather than
+35 separate live discussions, but no character's row in the tracker moves to "game plan approved" on
+a blanket authorization alone; each batch still gets an explicit sign-off.
+
 ## Rule-ID prefixes in use
 
 `MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.). Check the ledger for the next unused ID in a prefix before drafting; never guess.
