@@ -192,11 +192,32 @@ building era gets drafted until he explicitly reopens that window.**
   Sits exactly on the boundary (it *is* the murder) — better suited as a capstone closing a pre-Book-1
   run than as an opener. Deferred alongside the Arena pitch, for the same later conversation.
 
-Narrator/voice and pacing-convention proposals from the prior round (Red Beard narrating per
-`VB-020`/`022`/`CC-020`; single-sequence vs. a braided-strand structure) still stand and apply
-equally to a pre-Book-1 run — not revisited by this constraint, just the subject matter is narrowed.
+**Narrator/voice:** Red Beard (Tarn Cestari) narrates, per `VB-020`/`022`/`CC-020`, same register as
+his POV chapters in the main books — including scenes set before he and Ozmund had met, framed as
+him later reconstructing/retelling from what Ozmund or others told him, matching how the books
+already handle material Red Beard wasn't personally present for.
 
-*Candidate Chronicle-I pitches: pending a fresh, strictly pre-ceremony set.*
+**Pacing convention:** Chronicle I runs freestanding, no strand structure yet — matching Lauris's own
+precedent (her Chronicle I predates her four-strand convention, which was only adopted starting her
+wave 2). Whether Ozmund's series eventually braids strands (a natural split would be House-era /
+Maw-circuit / Legion-era / Reserved, once Book-1 territory reopens) gets revisited once there's more
+than one entry to look at.
+
+**Reserved threads not touched by the launch wave:** the `CC-071` asymmetry, the `MCD-319` emotional
+fallout, Cassius Verehimu, Lucius Blackthorne, Grulak, the personal meaning behind "Venim," and
+(within the current pre-Book-1 window) the still-undramatized Draconis purity-test payoff and the
+Blackthorne doubt-seed, both of which require Book-1-era events to have already happened.
+
+**Chronicle I, confirmed by Abad 2026-09-20 ("love all of them. we will start with B"):
+"The Man Who Didn't Know What He Was Protecting"** — young Draconis, newly assigned to the House
+Guard, handles a real threat through skill and loyalty alone, entirely unaware Ozmund is a Gravity
+Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its actual origin point.
+
+**Queued next, pre-Book-1, order not yet fixed:**
+- **"What Never Had to Be Learned"** — Aethelgard and young Ozmund working out, in practice, what
+  discipline means around a power that was never earned or arrived at.
+- **"Her Son, Not Her Line"** — Val Mirel Kareth passing down Kareth War-Order discipline against the
+  very different political world of House Verehimu.
 
 ---
 
