@@ -75,6 +75,13 @@ explicitly where I'm inferring rather than quoting a locked fact.
   *at the Fulfillment Ceremony*, the ritual meant to confirm him as heir, which means the worst day of
   his life and the day he was supposed to formally become what he immediately rejected are the same
   day. He didn't have time to grieve before he had to decide who he was going to be instead.
+  - **The same day, the same wound, carried alone.** `MCD-025` locks that Aethelgard Verehimu and
+    Maro Rexmar were murdered *together*, at the same Fulfillment Ceremony — meaning his and Kanja's
+    defining traumas are, literally, the same event, witnessed from two different rooms. And per
+    `MCD-318`, the two of them processed it completely separately for two centuries before ever
+    comparing notes as adults. He didn't just lose his father alone; he carried the loss of *that day*
+    alone for two hundred years without knowing someone else in the world was carrying the other half
+    of it.
 - **Defense mechanisms:** Discipline as armor — `CC-090` frames his power as "earned through 201 years
   of disciplined living," which reads as a man who has made rigor itself his identity, precisely
   because the one thing he didn't earn (the Crown-Scar, the bloodline, the inherited architecture) is
@@ -94,6 +101,13 @@ explicitly where I'm inferring rather than quoting a locked fact.
     reflex specifically tuned to the Warbody's own Crown-Scar architecture — some part of him stays
     permanently on watch for his own biology being weaponized against him. A quiet, constant
     background hum of inward-facing threat-detection that never fully switches off.
+  - **A strategist even when he doesn't need to be.** Book 2's repulsion of General Baryon wasn't a
+    matter of outmatching him in raw power — `MCD-279`/`280` locks that Ozmund's command architecture
+    was built specifically to counter Baryon's own doctrine. Same pattern shows up at the Moonvault
+    Rescue: a 14-hour siege cleared entirely *without* his Density Spike, because it would have been
+    too destructive for the site (`MCD-318`). He holds near-limitless raw power in reserve and
+    defaults to the harder, more controlled path anyway — another face of the same discipline-as-
+    armor pattern, just aimed outward at a battlefield instead of inward at himself.
 - **Values — what he will not compromise:** Consent and earned loyalty, specifically because he can't
   be sure his own will is always his own (`ARS-381`). This is why he trains Red Beard as a soldier
   rather than liberates him as a victim (`MAW-084`) — dignity through agency is the one thing he can
@@ -108,6 +122,12 @@ explicitly where I'm inferring rather than quoting a locked fact.
     can stand on — the same role he plays for the Legion, Red Beard, and Lilith — while he privately
     knows the foundation itself is compromised. The one thing everyone leans on is quietly cracked,
     and only he knows it.
+  - **His blood as both curse and chosen gift.** `MCD-134` locks that Lilith Cyzak's durability comes
+    from a transfusion of Ozmund's own blood, nearly fatal at first. The same bloodline that carries
+    the Crown-Scar — forced on him without his consent, the thing he's most afraid of — becomes,
+    given freely and by his own choice, the thing that saves and empowers someone he loves. His whole
+    "author of your own will" throughline made literal in his own blood: the same substance is both
+    the worst thing that was ever done to him and one of the best things he's ever chosen to do.
 - **Relationship patterns:** Genuine intimacy is rare and hard-won — Lilith earned it through near-death
   and years of training, not proximity; Red Beard earned it through choosing him with open eyes,
   not obligation. Meanwhile the people with the most conventional claim on his trust (Draconis, blood
@@ -146,6 +166,11 @@ explicitly where I'm inferring rather than quoting a locked fact.
 - **Defining emotional throughline:** *The fight to be the author of your own will, waged outward as
   the liberation of others.* Every gift, every doctrine, every command decision is this same fight
   fought at a different scale.
+  - **A name he chose vs. a title the world gave him.** "Venim" is self-authored — he picks it,
+    shedding Verehimu on his own terms. "The Dark Monarch" (`MCD-100`) is the opposite: a title the
+    world gives him, not one he claims. Even his hardest-won identity work only gets him halfway
+    there — he can rename himself, but he can't stop the world from naming him too, and the name that
+    sticks hardest in history isn't the one he chose.
 
 **Abad's ruling, verbatim, once given:**
 
