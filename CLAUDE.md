@@ -2335,9 +2335,81 @@ Collision-checked clean (Severin, Ebonrath); deliberately avoided the already-us
 surnames Cassius/Draconis/Blackthorne/Aurelius. Abad's approval: "lock it." Ledger reached
 `ledger_version` 30.4, 2,393 rules, 301 batches.
 
-The remaining Tier 1/2/3 items above stay queued for their own consolidated draft-and-lock pass --
-none of them are in the ledger yet except Severin Ebonrath. Work continues on Tier 3 (Shelton Dexton's
-own ongoing development as a character remains the last unaddressed item) whenever Abad points at it.
+**Shelton Dexton's own development, resolved same session.** Abad ruled him neither villain nor hero
+but a "tweener" leaning hero: his full-transparency ethos and willingness to act alone (unilaterally
+purging a compromised informant lattice) are genuinely his own code, not manipulation -- the false
+Pyro Birth account he transmitted to A.M. (`SBD-041`) is something his own network fed *him*, not a
+lie he knowingly told. That reframes the whole SBD-error pattern from this document set as one
+ongoing mystery (who fed Dexton the disinformation, and why) rather than isolated errors, and sets
+him up as a future wildcard around Archon Meridian's own eventual SBD cleanup. Cinderhilt confirmed
+real, independent of the false wife-death claim it was originally attached to.
+
+**Full consolidated draft-and-lock pass, Batch 302, 2026-09-18 (`SBD-041` through `045`, `CC-136`
+through `140`, `ARS-389` through `391`, `MCD-1727` through `1729` -- 16 rules).** Every item ruled
+on across the Tier 1/2/3 discussion above now formalized into rule text in one pass, per Abad's
+direction: "move straight into the full consolidated draft-and-lock pass now for everything queued
+(the four Tier 1 items, the five-plus Tier 2 items, the Tier 3 armor/gear additions, the Master
+Frequency Crystal, the Conflict Flag apparatus, and Shelton Dexton/Cinderhilt)." Pulled the actual
+source text for items that still needed it before drafting (Sorya's and Varruk's specific named
+tactics, Cooper's and Matar's dossier content) rather than drafting from the earlier summary alone.
+
+**Tier 1:** `SBD-041` locks the Pyro Birth SBD file as false, Dexton-sourced, `MCD-131`/`132`/`133`
+untouched. `CC-136` locks Sorya's real hidden combat layer beneath `CC-096`/`097` -- five named
+techniques (Black-Rosette Vanish, Throatline Shear, Green-Eye Fixation Trap, Bone-Engine Pin,
+Silent-Break Commit) pulled directly from the source dossier, with its own "CONFIRMED" certainty
+ratings flagged as overclaimed (informant-stream sourced, the same network Dexton later purges).
+`CC-137` locks Aeron Dusane as a new, distinct character (a young diplomat/aerial combatant, zero
+connection to Matar or Kanja's crew established), with `SBD-042` locking the SBD's own file as
+having wrongly conflated him with Matar under one case number -- `CC-067`/`102` untouched. `SBD-043`
+resolves `SBD-011` as Bloodreaver (Torian): the dossier's "Blood-Resonance Enforcer" classification
+and arms-mastery/protector-of-Kanja details match his already-locked profile closely, and the
+registry's own sequential numbering (`SBD-012` = the already-locked Ghostwind) confirms the series
+catalogues the Avatar roster -- "Sinisterblade" is the file's clerical duplicate of Valen's real
+`SBD-008`.
+
+**Tier 2:** `SBD-044` locks Varkul's OMEGA-PRIME classification (pulled verbatim from the source) and
+his status as the setting's strongest non-human, density-unrated/pure-biology per `CC-094` untouched,
+his ceiling deliberately never shown maxed -- plus the unresolved arc hook (his own discovery of the
+SBD's surveillance apparatus around him, tied to Archon Meridian's eventual SBD dismantling) and the
+still-open need for real opponents drawn from SBD/Shogunate captive stock, both left for future
+drafting rather than resolved here. `SBD-045` locks Varruk's five-tactic "Offensive Capability Suite"
+(Wake-Scissor, Pressure-Seam Drop, Lantern-Denial Pass, Oarline Misfire Window, Refusal-Trap
+Coercion, all pulled from the source dossier) as contested/overclaimed by the same corrupted-
+informant-stream logic as Sorya's ratings -- `CC-098`/`099` untouched. `CC-138` extends Abyss (Ren
+Oshaal) with his orphan/serpent-lore origin, his identity/belonging throughline, his paternal
+regard for Kanja, and a long-range detection ability read as "seismic" but mechanically his already-
+locked pressure-field biology -- extends `CC-066`/`101` without changing them. `CC-139` extends
+Cooper (Ronan Kellsward) with a mountainous pre-Jicome apprenticeship period and a real second
+application of his Mass-Compression biology (applied to a ship's structure, not just his own body,
+per Abad's explicit ruling that this becomes a real additional layer rather than an SBD error) --
+extends `CC-068`/`103` without changing them. `MCD-1727` locks the SBD-Oracle Conflict Map apparatus
+(OR-19-AL, six Conflict Domains, Grave-Analyst Abbott Gage's role, the "Tighten" posture, the
+Continuity Lock) near-verbatim from the source -- the standing in-fiction mechanism explaining why
+the SBD keeps getting things wrong across every item in this batch.
+
+**Tier 3:** `ARS-389` locks Lunar Resonance, a real new moonlight-triggered self-repair addition to
+Mafesto's Living Drakma plating, grounded in the same resonance-growth principle as Ozmund's Bastion
+(`ARS-380`). `ARS-390` locks the Last Ward (renamed from "Bastion's Call" to avoid a third collision
+with "Bastion") as a new defensive discharge mode of Obsidian Malice (`ARS-030`/`342`) alongside its
+existing offensive one. `ARS-391` locks the Celestial Power Curve grounded in the Talisman's already-
+locked light-responsiveness (`MCD-142`) rather than left as ungrounded magic -- a rare eclipse-
+triggered involuntary density spike, minor solstice/equinox stamina and balance effects, and "Dusk's
+Embrace" folded into the already-locked stealth/decoy toolkit rather than a new power. `MCD-1728`
+locks the Master Frequency Crystal as a real SBD-vaulted artifact and T.D.K.'s eventual objective,
+correctly placed post-Great-Breach per his locked 5,000-year dormancy (`MCD-070`) and Book 2's
+reactivation premise (`MCD-279`) rather than pre-Book-1 present-tense material, reinforcing rather
+than contradicting the already-locked Book 5 endgame (`MCD-099`/`327`). `CC-140` locks Shelton
+Dexton as described above. `MCD-1729` locks Cinderhilt as a real anomaly-class creature (the full
+"thermal permission" mechanism and weakness envelope pulled from the source), independent of the
+false wife-death claim it was originally attached to.
+
+Zero new proper-noun collisions across all 16 rules, checked before drafting (Cinderhilt, Shelton
+Dexton, the Havik Legions, Aeron Dusane, and all ten named Sorya/Varruk techniques). Abad's approval,
+quoted verbatim: "move straight into the full consolidated draft-and-lock pass now for everything
+queued (the four Tier 1 items, the five-plus Tier 2 items, the Tier 3 armor/gear additions, the
+Master Frequency Crystal, the Conflict Flag apparatus, and Shelton Dexton/Cinderhilt)." Ledger
+reached `ledger_version` 30.5, 2,409 rules, 302 batches -- zero duplicate IDs verified. This closes
+out the Shelton Dexton SBD-informant source material in full; nothing further is queued from it.
 
 ## Separate, unrelated thread: the interactive archive app
 
