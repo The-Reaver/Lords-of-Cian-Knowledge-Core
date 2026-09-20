@@ -2253,6 +2253,92 @@ verification confirmed a full 109/109 (Chronicles I-CIX), each numeral appearing
 duplicate file IDs. No git or ledger changes in this pass -- upload-only, matching the established
 Drive-sync pattern.
 
+## Shelton Dexton SBD-informant source material, and Severin Ebonrath (Batch 301, 2026-09-18)
+
+Abad directed a search of Google Drive for more "SBD Dossier"-style source documents beyond the two
+already-processed examples (`THIS_IS_SUPERIOR_MANDATED_BY_IMPERATOR_SHELTON_DEXTON_1.docx`,
+`IMPERATOR_SHELTON_DEXTON_1.docx`), then uploaded five more directly (an Asset Management Dossier, a
+message thread between A.M. and Abbott Gage x2, an Executive Director Directives PDF, and an SBD
+Classifications document covering Kanja/Legacy/Pantheon/Moon/Sun material). Five parallel background
+agents triaged the full ~700K-character corpus against the live ledger, flagging what's already
+covered, what's genuinely new, and what directly contradicts carefully-negotiated locked material
+(most sharply the Pyro Birth Incident, `MCD-131`/`132`/`133`). Findings were consolidated into a
+tiered list and worked through with Abad one item at a time, per his direction: **"Work through Tier
+1 one at a time."** Rulings so far (none yet drafted into ledger rules except where noted -- most of
+this remains queued for a future consolidated draft-and-lock pass):
+
+- **Tier 1.** The Pyro Birth "correction" stays a contested/false SBD informant claim -- `MCD-131`-
+  `133` untouched, reserved as a future Archon-network correction-scene hook. Sorya (`CC-096`/`097`)
+  genuinely has a real hidden second ability layer, but the SBD's own description of it is itself
+  embellished/wrong -- both real, neither replacing the other. Matar's dual identity resolves as two
+  different people, not one masked persona -- `CC-067`/`102` untouched, the diplomat/aerial-combatant
+  profile becomes a distinct new character (name TBD). `SBD-011`'s "Sinisterblade" duplicate resolves
+  as **Bloodreaver (Torian)** -- the dossier's "Blood-Resonance Enforcer" classification is a near-
+  direct match to his already-locked Cruor-Kin biology and role, and the sequential numbering
+  (`SBD-012` = Ghostwind, already locked) confirms this file-series catalogues the Avatar roster; the
+  "Sinisterblade" label is the file's own clerical error, colliding with Valen's real `SBD-008`.
+- **Tier 2.** Miremaw Varkul stays density-unrated/pure-biology per `CC-094` (not "as dense as Vargo
+  Vakas") but is confirmed OMEGA-PRIME (already in the source text verbatim) and the strongest non-
+  human in the setting, ceiling deliberately never shown maxed -- queued: real opponents for the
+  Triad drawn from SBD/Hollow-Shogunate captive stock, and an arc for Varkul discovering the SBD's
+  surveillance apparatus around him and turning aggressive, tied to Archon Meridian's eventual
+  dismantling of the SBD. Varruk's "Offensive Capability Suite" reliability claim joins the pattern as
+  a fifth SBD-error thread; `CC-098`/`099` untouched. Cooper/Abyss origin material split: Abyss's new
+  origin/personality/detection-ability texture is compatible, safe to draft as real depth under
+  `CC-066`/`101`; Cooper's mountainous-origin/structural-manipulation material, per Abad's explicit
+  correction, becomes a **real additional layer** rather than a discarded SBD error -- reconciled with
+  `CC-068`/`103` (untouched) via his existing Mass-Compression biology applied to a ship's structure
+  rather than his own body, with the mountainous period read as an earlier life chapter before Jicome.
+  "Bastion's Call"/"Shield of Jicome"/"Zephyr's Call" traced to an older, superseded fantasy-flavored
+  draft layer bleeding into the later documents -- see below for what was ultimately salvaged from it.
+  The "Conflict Flag = YES" thread turned out to be the best find of the pass: a real in-fiction
+  institutional mechanism (the SBD-Oracle Conflict Map, OR-19-AL, six Conflict Domains, the "Tighten"
+  posture, the Continuity Lock) that formally explains *why* the SBD keeps getting things wrong across
+  every item above -- recommended for near-verbatim drafting, queued.
+- **Tier 3.** The deity-alignment layer (Ares/Zeus/Poseidon/etc. mapped onto the crew) -- real-world
+  proper nouns discarded per the standing rule, but several underlying ability-domain claims salvaged:
+  Ghostwind's/Voidbreaker's/Ironbane's already-locked profiles corroborated almost exactly; Damu's
+  "chemical disruptor" angle extends his already-locked neural-pathway compound (`MCD-323`); Stormreaver's
+  "Ionic Discharge" claim discarded as a genuine conflict with his locked aerial/mediator profile
+  (that domain belongs to Ironbane). The armor/blade/shield block, re-examined per Abad's direction to
+  find anything usable rather than discard wholesale: several traits confirmed as flavor-text restatements
+  of already-locked mechanics (Guardian's Embrace/Sorcerer's Bane = Blight Immunity; Ethereal Resonance =
+  Kinetic Transfer System; Spirit of Jicome = the Lodestone Lens; Ancestral Guardianship = Rexmar-bloodline
+  emergency density spikes); Heart of Drakma/Lunar Resonance/Moonlit Bastion approved as a genuinely new
+  moonlight-triggered self-repair cycle for Mafesto's Living Drakma plating, grounded in the same
+  resonance-growth principle behind Ozmund's Bastion (`ARS-380`); "Bastion's Call" approved, renamed **the
+  Last Ward** to avoid a third collision with "Bastion," as a new defensive discharge mode of Obsidian
+  Malice (`ARS-030`) alongside its existing offensive one; the Celestial Power Curve (Dusk's
+  Embrace/Eclipse Warrior/Solstice Endurance/Equinox Balance) approved, grounded in the Talisman of
+  Mao's already-locked light-responsiveness (`MCD-142`) rather than left as ungrounded magic. All of
+  the above remain queued for the eventual consolidated draft-and-lock pass, not yet in the ledger.
+  The Master Frequency Crystal / T.D.K.'s endgame checked out almost perfectly against locked canon
+  (`WC-020`'s Deposition-as-strategic-withdrawal, `CULT-008`'s SBD-built-on-T.D.K.'s-own-legacy-
+  architecture-with-backdoors) once corrected for timing: T.D.K.'s "Surgeon's Raid" on the SBD for the
+  Crystal can't be pre-Book-1 present-tense material per his locked 5,000-year dormancy (`MCD-070`) --
+  it logically belongs to Book 2 onward (`MCD-279`), reinforcing rather than contradicting the already-
+  locked Book 5 endgame (`MCD-099`/`327`). The "18,000-year cycle" figure flagged as a likely
+  conflation with Vargo Vakas's own age (`CC-105`) and recommended dropped. Queued, not yet drafted.
+
+**Named ruler slots for the four Shattered Kingdoms nations, resolved as mostly already done.**
+Cross-check found Aethel-Gard (Thane-Gorm, `CC-127`), the Hollow Shogunate (Vile-Sire and Hollow-Dam,
+`POL-070`), and the Astral Archipelago (the three Council of Crossroads seats, `POL-095`/`096`)
+already had named leadership -- the source material supplied no competing names, only tone/flavor.
+Only the Obsidian Prefecture (`POL-040`, a Senate of twelve Patriarchs) genuinely lacked one. Locked,
+Batch 301 (`POL-100`): **Severin Ebonrath**, First Patriarch of the Senate of Twelve -- the public
+face and private architect of the already-locked Patient Caucus position (`CULT-067`, real position
+about timing rather than restraint), tied into the already-locked Prefecture/Vestige legionary-
+commitment thread (`MCD-328`) as the political lever Lady Vestige's institutional perception-warfare
+(`MCD-282`) eventually turns against him -- a defeat that's entirely political and epistemic, matching
+the Prefecture's decaying-marble/iron-fisted-bureaucracy register rather than a combat-antagonist one.
+Collision-checked clean (Severin, Ebonrath); deliberately avoided the already-used antagonist-register
+surnames Cassius/Draconis/Blackthorne/Aurelius. Abad's approval: "lock it." Ledger reached
+`ledger_version` 30.4, 2,393 rules, 301 batches.
+
+The remaining Tier 1/2/3 items above stay queued for their own consolidated draft-and-lock pass --
+none of them are in the ledger yet except Severin Ebonrath. Work continues on Tier 3 (Shelton Dexton's
+own ongoing development as a character remains the last unaddressed item) whenever Abad points at it.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
