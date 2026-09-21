@@ -1,8 +1,8 @@
 # Ozmund Verehimu — Profile & Game Plan
 
-**Status:** profile in discussion
+**Status:** game plan approved
 **Track:** Character Chronicle (Tier 1)
-**Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
+**Gate cleared:** YES — game plan approved 2026-09-21. Chronicle prose may now be drafted, starting with Chronicle I.
 
 ---
 
@@ -172,7 +172,9 @@ explicitly where I'm inferring rather than quoting a locked fact.
     there — he can rename himself, but he can't stop the world from naming him too, and the name that
     sticks hardest in history isn't the one he chose.
 
-**Abad's ruling, verbatim, once given:**
+**Abad's ruling, verbatim, once given:** "approved" (2026-09-21, closing the Psychological Profile
+and the full Game Plan — narrator, pacing, reserved threads, the pre-Book-1 launch-window constraint,
+and Chronicle I's pitch selection — in a single sign-off).
 
 ---
 
@@ -223,4 +225,7 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
 
 ## 4. Chronicle Log
 
-*Empty — no Chronicle prose exists for this character yet.*
+- **Chronicle I, "The Man Who Didn't Know What He Was Protecting"** — drafted, pending Abad's review.
+  Full text at
+  `docs/lords-of-cian/chronicles/ozmund-chronicle-i-the-man-who-didnt-know-what-he-was-protecting.md`.
+  Not yet locked in `canon-ledger.json`.

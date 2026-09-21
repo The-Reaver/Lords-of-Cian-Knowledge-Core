@@ -17,7 +17,7 @@ tracked here as it proceeds — see CLAUDE.md's gate section for the protocol it
 
 | Character | Profile doc | Status | Existing Chronicles |
 |---|---|---|---|
-| Ozmund Verehimu | `character-profiles/ozmund-verehimu.md` | profile in discussion | 0 (none locked yet) |
+| Ozmund Verehimu | `character-profiles/ozmund-verehimu.md` | game plan approved | 0 (Chronicle I drafting) |
 | Lauris Letitia | `character-profiles/lauris-letitia.md` | not started (backfill) | 109 |
 | Daba | `character-profiles/daba.md` | not started (backfill) | 50 |
 
