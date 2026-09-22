@@ -225,7 +225,7 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
 
 ## 4. Chronicle Log
 
-- **Chronicle I, "The Man Who Didn't Know What He Was Protecting"** — drafted, pending Abad's review.
-  Full text at
+- **Chronicle I, "The Man Who Didn't Know What He Was Protecting"** — locked, Batch 303, 2026-09-22
+  (`MCD-1730`). Full text at
   `docs/lords-of-cian/chronicles/ozmund-chronicle-i-the-man-who-didnt-know-what-he-was-protecting.md`.
-  Not yet locked in `canon-ledger.json`.
+  Abad's approval: "locked."

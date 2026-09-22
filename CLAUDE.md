@@ -2411,6 +2411,48 @@ Master Frequency Crystal, the Conflict Flag apparatus, and Shelton Dexton/Cinder
 reached `ledger_version` 30.5, 2,409 rules, 302 batches -- zero duplicate IDs verified. This closes
 out the Shelton Dexton SBD-informant source material in full; nothing further is queued from it.
 
+**Ozmund Verehimu's Character Chronicle Launch Protocol gate closed; Chronicle I locked, Batch 303,
+2026-09-21/22 (`MCD-1730`).** Ozmund is the first character launched under the gate itself (not a
+backfill) -- see `docs/lords-of-cian/character-profiles/ozmund-verehimu.md`. All three gate steps
+completed collaboratively across one extended session: the **Rules Walkthrough** was already
+populated; the **Psychological Profile** grew through several rounds of proposed "layers" (Abad's
+own framing -- "can we add several more layers," "keep layering," "all of them land, keep going")
+into ten facets across six original headings -- core wound, defense mechanisms, values, how he holds
+contradiction, relationship patterns, and what breaks him, plus a defining throughline -- covering
+the literal shared trauma with Kanja (`MCD-025`/`318`), his blood as both the Crown-Scar's curse and
+Lilith's chosen gift (`MCD-134`), his preference for tactical restraint over raw power (`MCD-279`/
+`280`/`318`), the Draconis "purity test" and its confirmed eventual payoff, the Canon Mandate as
+control-as-identity, the Blackthorne doubt-seed, and the gap between the name he chose ("Venim") and
+the title history gave him ("the Dark Monarch," `MCD-100`); and the **Game Plan** locked narrator
+(Red Beard per `VB-020`/`022`/`CC-020`), pacing (Chronicle I freestanding, a strand structure --
+House-era/Maw-circuit/Legion-era/Reserved -- deferred to a later wave, matching the Lauris
+precedent), a reserved-threads inventory, and Chronicle I's pitch. A real course-correction happened
+mid-Game-Plan: Abad caught that the first three candidate pitches drifted into Book-1-era material
+(the Accession Games only exist because the throne is vacant *after* Aethelgard's murder) and set a
+standing constraint that the launch wave stays strictly pre-Book-1 -- before the Fulfillment Ceremony
+(`MCD-025`) -- until he explicitly reopens that window; the two Book-1-era pitches were deferred and
+flagged directly in the profile's Game Plan section (the file itself as the "fire and remind me"
+mechanism he asked for) rather than lost, and three fresh strictly-pre-ceremony pitches were drafted
+in their place. Abad picked the Draconis one ("love all of them. we will start with B") and gave a
+final explicit sign-off ("approved") closing the whole Game Plan before any prose was drafted, per
+the gate's own non-negotiable order.
+
+Chronicle I itself, **"The Man Who Didn't Know What He Was Protecting"** (full text at
+`docs/lords-of-cian/chronicles/ozmund-chronicle-i-the-man-who-didnt-know-what-he-was-protecting.md`),
+dramatizes the Draconis dynamic (`CC-085`) at its literal origin point: years before the Ceremony, a
+young Draconis throws himself between three attackers and the boy Ozmund during a road ambush,
+genuinely believing his own skill saved them both, while Ozmund actively suppresses his always-active
+Density Spike (`MCD-024`/`CC-015`/`017`) rather than end it in a single motion -- an early expression
+of the dignity-through-agency value later shown in how he trains Red Beard rather than liberates him
+(extends `CC-090`/`ARS-381`/`MAW-084`). Aethelgard names Draconis to the inner command that night,
+still unaware. Narrated by Red Beard reconstructing a story Ozmund told him only once. No new named
+characters. Committed first as an unlocked/pending draft (the same two-commit pattern used throughout
+the project), header corrected to "Locked canon" only after approval. Abad's approval: "locked."
+Ledger reached `ledger_version` 30.6, 2,410 rules, 303 batches. Two more pre-Book-1 pitches remain
+queued next for Ozmund's series ("What Never Had to Be Learned," Aethelgard/discipline; "Her Son, Not
+Her Line," Val Mirel Kareth), order not yet fixed -- his row in `chronicle-tracks-status.md` now
+reads "wave 1 locked."
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

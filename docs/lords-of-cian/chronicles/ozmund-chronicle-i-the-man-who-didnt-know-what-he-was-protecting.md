@@ -1,6 +1,6 @@
 # The Man Who Didn't Know What He Was Protecting
 
-*UNLOCKED — pending Abad's review. Not yet in canon-ledger.json. Character Chronicle track, Ozmund
+*Locked canon, Batch 303, 2026-09-22 (`MCD-1730`). Character Chronicle track, Ozmund
 Verehimu's series, Chronicle I — the first entry cleared for drafting under the Character Chronicle
 Launch Protocol (game plan approved 2026-09-21,
 `docs/lords-of-cian/character-profiles/ozmund-verehimu.md`). Set strictly pre-Book-1, years before
