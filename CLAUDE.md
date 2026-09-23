@@ -2453,6 +2453,80 @@ queued next for Ozmund's series ("What Never Had to Be Learned," Aethelgard/disc
 Her Line," Val Mirel Kareth), order not yet fixed -- his row in `chronicle-tracks-status.md` now
 reads "wave 1 locked."
 
+**MCD-1730's category field corrected, 2026-09-23.** Chronicle I had been mistakenly tagged
+`kanja-alias-chronicle` (the Alias Chronicle track's category) instead of matching the established
+Character Chronicle convention (`lauris-character-chronicle`, `daba-character-chronicle`) --
+corrected in place to `ozmund-character-chronicle`, in both the ledger and `merge_batch303_ozmund_
+chronicle_i.py`. No content or version change, same class of fix as the Maret Vos/Dol Maren pronoun
+reconciliation (Batch 226).
+
+**19 more Ozmund Chronicles (II-XX), Batch 304, 2026-09-23 (`MCD-1731` through `MCD-1749`), per
+Abad's direction: "add 19 more."** Four parallel background agents each drafted a five-entry
+(or four-entry) strand, bringing Ozmund's series to 20 Chronicles total -- all strictly
+pre-Fulfillment-Ceremony per the standing constraint in his profile doc, matching the discipline
+already established for his launch (Chronicle I). Every agent read Chronicle I and the full profile
+first and collision-checked new proper nouns against the live ledger before use.
+
+**Draconis strand (`MCD-1731`-`1735`, Chronicles II-VI).** Deepens the purity-test relationship
+across five distinct registers without ever advancing Draconis toward the truth: a poisoning
+attempt handled through protocol rather than power ("The Second Test"); a genuine near-suspicion
+Draconis privately investigates and then deliberately drops, confessed to Red Beard only decades
+later ("What He Never Reported" -- the series' designated near-discovery entry); a real career cost
+Draconis pays for his devotion and can never be repaid for ("The House Guard's Own Doubt"); a
+warmer entry where Draconis confides real personal history (a sister, Halyn; a hometown, Duskmere,
+both collision-checked clean) and Ozmund quietly, anonymously funds a flood repair through the
+ordinary almsfund rather than his own hand ("A Small Mercy"); and a closing entry where Draconis
+voluntarily extends a night watch with nothing at stake at all, the strand's most unforced act of
+loyalty ("The Watch He Chose to Keep").
+
+**Aethelgard strand (`MCD-1736`-`1740`, Chronicles VII-XI).** Builds Ozmund's father into a real,
+grievable presence rather than a plot device, via a recurring invented "coin on its edge" motif:
+Aethelgard -- who carries no power of his own -- building procedural discipline around a power he
+can't understand from the inside ("What Never Had to Be Learned"); an eleven-year sparring rule
+barring the Density Spike, so Ozmund has at least one room where he's "just a student, losing" ("The
+Lesson in Losing"); a governance circuit through the already-locked Verehimu Wetlands where
+Aethelgard publicly apologizes by name to dike-warden Corwen Dask at the newly-placed settlement of
+Greyfen, planting the ethos the Unchained Legion is later built on ("What a Lord Owes His People");
+a private, deliberately non-specific admission of a father's fear for his son's future ("The Night
+He Was Afraid For Him"); and a closing entry where Aethelgard tells the full story of Drakmund
+Verehimu (`MCD-138`) and reveals the coin ritual was Drakmund's own device first, repurposed from
+leverage into restraint ("What He Carried From His Own Father").
+
+**Val Mirel strand (`MCD-1741`-`1745`, Chronicles XII-XVI).** Gives Ozmund's previously-unwritten
+mother real depth for the first time (ages ~9 through ~25): a new Kareth War-Order discipline, the
+Stone Count, set directly against House Verehimu's court instincts ("Her Son, Not Her Line"); her
+Seventh Wing tactical patience set against a seneschal's political method for an identical threat
+("The Reckoning of a Seventh Wing Tactician"); a direct, unresolved confrontation about her
+deliberate distance from his upbringing, framed as protecting his own earned identity rather than
+indifference ("What She Chose Not to Fight"); an oblique, deliberately non-naming forward-hint
+toward her war-sister bond with Val Saeryn Kareth (`MCD-101`/`137`), fully respecting `MCD-318`'s
+strangers-until-adulthood constraint ("The War-Sister's Warning"); and a closing entry introducing a
+second discipline, the Hollow Stand, where she teaches him to hold grief through rather than fold it
+away after an old House Guard soldier's death -- the strand's emotional high point and the project's
+first sustained, three-dimensional mother-son scene ("A Different Kind of Armor").
+
+**House politics/broader-life strand (`MCD-1746`-`1749`, Chronicles XVII-XX).** The most delicate
+strand, scoped tightly to avoid any plot foreshadowing: a single, deliberately unremarkable Cassius
+Verehimu cameo at a land-holding confirmation feast in the new settlement of Aldenmoor -- envious,
+charming, "the easiest man in the family to have in a room," nothing more ("The Cousin Who Smiled
+Too Easily"); a servant's-eye-view humility scene, retold to Red Beard decades later by the servant
+himself rather than by Ozmund -- originally drafted as "Corwen," renamed to **Bevin** before locking
+after a same-batch collision surfaced against the Aethelgard strand's unrelated dike-warden Corwen
+Dask ("What the Servants Knew"); a small-scale, tightly bounded act of household defiance (a private
+rather than public correction for linen-stores supervisor Marta) kept deliberately far below the
+eventual crown rejection ("The First Time He Said No"); and a closing atmospheric entry where a
+nursemaid, Ysbel, calls the mark "the Waking Weight" and passes down a Drakmund-era House legend
+that gestures toward the Crown-Scar's true siphon nature (`MCD-290`) without ever explaining it
+("What the Crown-Scar Was Called Before").
+
+Files were committed to the repo as each strand completed, satisfying the Stop hook's clean-
+working-tree requirement, with the ledger merge running only after all four agents' output and a
+full cross-strand collision sweep were complete. Ledger reached `ledger_version` 30.7, 2,429 rules,
+304 batches -- zero duplicate IDs verified, all 20 file references confirmed to resolve. Ozmund's
+row in `chronicle-tracks-status.md` now reads 20 Chronicles total. Genuinely open for whenever Abad
+wants it next: a fifth pre-Book-1 wave for Ozmund, reopening the Book-1-era window for the two
+deferred pitches, or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

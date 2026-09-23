@@ -229,3 +229,19 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
   (`MCD-1730`). Full text at
   `docs/lords-of-cian/chronicles/ozmund-chronicle-i-the-man-who-didnt-know-what-he-was-protecting.md`.
   Abad's approval: "locked."
+- **Chronicles II–XX, a 19-entry wave** — locked, Batch 304, 2026-09-23 (`MCD-1731`–`MCD-1749`), per
+  Abad's direction "add 19 more." Four strands, all strictly pre-Fulfillment-Ceremony: the **Draconis
+  strand** (II–VI) deepens the purity-test relationship across political, near-discovery,
+  institutional-cost, personal, and voluntary-devotion registers; the **Aethelgard strand** (VII–XI)
+  builds Ozmund's father into a real, three-dimensional presence — discipline, governance, private
+  fear, and the Drakmund lineage — via a recurring "coin on its edge" motif; the **Val Mirel strand**
+  (XII–XVI) gives his previously-unwritten mother real depth for the first time, introducing two
+  Kareth War-Order disciplines (the Stone Count, the Hollow Stand) and an oblique, non-naming
+  forward-hint toward her war-sister bond with Val Saeryn Kareth, consistent with `MCD-318`'s
+  strangers-until-adulthood constraint; the **House politics strand** (XVII–XX) gives Cassius
+  Verehimu a single, deliberately unremarkable cameo, a servant's-eye humility scene, a small-scale
+  act of household defiance well below the eventual crown rejection, and a closing atmospheric entry
+  on what the Crown-Scar was called before anyone understood it. A real cross-strand naming collision
+  (two different minor characters independently named "Corwen") was caught and fixed before locking —
+  see `MCD-1747`. Files at `docs/lords-of-cian/chronicles/ozmund-chronicle-ii-*.md` through
+  `ozmund-chronicle-xx-*.md`. Ozmund's series now stands at 20 Chronicles total.
