@@ -17,7 +17,7 @@ SOURCE = (
 NEW_RULES = [
     {
         "id": "MCD-1730",
-        "category": "kanja-alias-chronicle",
+        "category": "ozmund-character-chronicle",
         "statement": (
             "Ozmund Chronicle I, \"The Man Who Didn't Know What He Was Protecting\" -- the first "
             "entry in Ozmund Verehimu's own Character Chronicle series, cleared for drafting under "
