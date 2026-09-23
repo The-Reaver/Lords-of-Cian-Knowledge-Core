@@ -2589,6 +2589,91 @@ references confirmed to resolve. Ozmund's row in `chronicle-tracks-status.md` no
 Chronicles total. Genuinely open for whenever Abad wants it next: a third pre-Book-1 wave for
 Ozmund, reopening the Book-1-era window for the two deferred pitches, or any other thread.
 
+**70 more Ozmund Chronicles (LI-CXX), Batch 306, 2026-09-23 (`MCD-1780` through `MCD-1849`), per
+Abad's direction: "let's make sure each of these entries have 20 total entries. logically woven
+into our rules and batches."** Read as bringing each of the six existing strands up to 20 entries
+apiece -- 120 Chronicles total, up from 50. Eight parallel background agents, one per strand block
+(the two largest, Household/Guard and coming-of-age, split into 8/7 sub-waves each to match proven
+per-agent capacity), each reading its own strand's complete prior history and the full profile doc
+before drafting, collision-checking every new proper noun against the live ledger. Files were
+committed progressively across the run as agents reported back, satisfying the Stop hook's
+clean-working-tree requirement; the ledger merge itself ran only after all eight agents' output
+and a full cross-strand collision sweep were complete.
+
+**Draconis (`MCD-1780`-`1788`, LI-LIX, +9)** deepens the purity-test relationship (`CC-085`)
+without ever letting Draconis learn the truth: genuine doubt in Ozmund himself for the first time
+(whether the silence protects Draconis or Ozmund's own need to be loved as "just a man"); the
+dynamic tested against an outside provocation (a garrison commander's bad-faith accusation that
+brushes uncomfortably close); Halyn and her children finally brought on-page; a real, permanent
+cost of Ozmund's restraint (Brenner permanently lamed in an ambush) that passes forward as a taught
+lesson in the next entry; a warm near-banter fishing callback; the wave's centerpiece -- a
+border-road ambush where a bolt meant for Ozmund nearly kills Draconis instead, credited to luck;
+a quiet meditation on Draconis's ordinary aging; and a structural bookend closing entry revisiting
+Chronicle I's original ambush site. **Aethelgard (`MCD-1789`-`1798`, LX-LXIX, +10)** adds the
+strand's first genuinely unrecoverable governance failure (a fever reaching the new settlement of
+Sennick two months late, seventeen dead, nothing left to fix); a second father-son disagreement
+(mercy vs. the rule of law, left permanently unresolved); Aethelgard's private self-doubt overheard
+by Ozmund; the strand's first dedicated marriage-dynamic entry with Val Mirel (parallel command
+styles both proving right); the "coin on its edge" ritual used on others for the first time and
+found to have a real limit (it buys patience, not truth); pure levity (Aethelgard capsizing a
+fishing boat); the debt-payment thread extended past Petrin Hallum's death to his daughter Fenna
+Hallum; a clean political defeat handled with grace (Lord Ashvane); an ordinary-competence
+boat-patching afternoon; and an open-ended closing synthesis. **Val Mirel (`MCD-1799`-`1808`,
+LXX-LXXIX, +10)** introduces a third Kareth War-Order discipline, the Narrow Door (choosing cleanly
+under irreversible scarcity), later applied independently by an adult Ozmund; tests her "chosen
+distance" against a real ambush on Ozmund, confirming it as conditional rather than absolute; a
+worked (not villainized) parenting disagreement with Aethelgard; the caregiving dynamic reversed
+for the first time; Ozmund beginning to see her as a full person with her own history; her first
+treatment of him as a tactical peer; a rare warm domestic-ease entry; a private reckoning with the
+lifespan disparity between them; and a closing entry completing an escalating structure of
+expressed love (taught discipline -> wordless gesture -> spoken words) that reprises Chronicle
+XXXV's palm-to-chest gesture. **House politics (`MCD-1809`-`1819`, LXXX-XC, +11)** holds the
+strand's established caution -- Cassius Verehimu excluded entirely again, matching wave 2's
+precedent -- while adding a hedgerow dispute resolved through private mediation (Bram Corwyth,
+Iona Adderwell); a marriage-alliance envoy's bad-faith test declined without overcorrecting (Lord
+Ansel Varnhelt); a regressive sixty-year-old tithe formula reformed collaboratively (Quartermaster
+Aldous Prynn); a secondhand kitchen-staff scene revealing the scale of Ozmund's quiet kindnesses;
+a three-generation seating-precedence dispute resolved structurally (Houses Renlow and Ashmere); a
+provocateur envoy denied his reaction (Ser Dravot Skarne); a permanent institutional reform
+retiring the public "Reckoning Walk"; a fifteen-year unspoken reciprocal-trust arrangement with a
+night-watchman (Wendell Rowe); a toll negotiation solved by asking what actually changed (Factor
+Yewen Ashworth); and a closing synthesis naming earned political authority, not the Crown-Scar, as
+the one form of power Ozmund fully trusts. **Wider Household/Guard (`MCD-1820`-`1834`, XCI-CV,
++15, two sub-waves)** deepens all five established figures (Berrin Hollis, Annis Fairweather,
+Alric Fenmoor, Cobb, Oswin Kade) generationally -- successors trained, private griefs revealed,
+mistakes handled with grace, institutional culture traced to its origin -- and closes on all five
+gathered at one table for the first time. **Coming-of-age (`MCD-1835`-`1849`, CVI-CXX, +15, two
+sub-waves)** closes the entire batch with Ozmund's own interiority: mundane-register discipline
+tests with no witness and no stakes; a private realization that a scar on Aethelgard's hand is the
+mark of his own infant grip; a daydream of an alternate life that resolves into choosing his
+inheritance freely rather than by default; a personal cost of restraint isolated from the Density
+Spike itself; a private nightly naming ritual that roots his later treatment of Red Beard; a fear
+of his own instinctive reflexes exceeding his practiced control; a rare afternoon of letting
+himself win; a private, burned, unread letter-writing habit; extending the Hollow Stand outward to
+Osric's own grief; unguarded joy in a footrace; measuring himself only against the people in front
+of him rather than his growing legend; testing whether his restraint is still chosen or has become
+reflex; incremental growth in allowing more warmth than old habit permits; a private reckoning with
+outliving Osric and Cobb by an enormous margin, resolved into loving them fully anyway; and a
+closing entry revisiting the Aldenmoor quarry that synthesizes the full distance traveled without
+any forward-pointing hook.
+
+A full cross-strand collision sweep across all 14 new proper nouns this wave (Sennick; the Rell and
+Tamsy families; Fenna Hallum; Lord Ashvane; the Narrow Door; Bram Corwyth and Iona Adderwell; Lord
+Ansel Varnhelt/House Varnhelt; Quartermaster Aldous Prynn; House Renlow; House Ashmere; Ser Dravot
+Skarne/House Skarne; Wendell Rowe; Factor Yewen Ashworth/House Ashworth) confirmed zero collisions
+against the live ledger and against every other strand's own new names -- the ledger's 15
+substring hits for "rell" all resolved to unrelated words (Arellanes, Mirella, Umbrella), not the
+standalone family name. Every reserved thread held throughout: Draconis never learns or approaches
+learning Ozmund is a Gravity Titan; Lucius Blackthorne and Grulak do not appear anywhere; the
+Crown-Scar's true siphon/root-access-tether nature (`MCD-290`) is never revealed; `CC-071` and
+`MCD-319` are untouched; `MCD-318`'s strangers-until-adulthood constraint is respected throughout
+the Val Mirel strand; no entry foreshadows the Fulfillment Ceremony. Ledger reached `ledger_version`
+30.9, 2,529 rules, 306 batches -- zero duplicate IDs verified, all 120 Ozmund Chronicle file
+references (Chronicles I-CXX, `MCD-1730`-`1849`) confirmed to resolve. Ozmund's row in
+`chronicle-tracks-status.md` now reads 120 Chronicles total -- 20 entries per strand across all six
+strands. Genuinely open for whenever Abad wants it next: a fourth wave for any strand, reopening
+the Book-1-era window for the two deferred pitches, or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

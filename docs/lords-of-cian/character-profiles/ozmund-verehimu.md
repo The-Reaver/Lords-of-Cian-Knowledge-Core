@@ -256,3 +256,31 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
   sweep across all 17 new proper nouns confirmed zero collisions. Files at
   `docs/lords-of-cian/chronicles/ozmund-chronicle-xxi-*.md` through `ozmund-chronicle-l-*.md`. Ozmund's
   series now stands at 50 Chronicles total.
+- **Chronicles LI–CXX, a 70-entry wave**, bringing every strand to 20 entries — locked, Batch 306,
+  2026-09-23 (`MCD-1780`–`MCD-1849`), per Abad's direction "let's make sure each of these entries have
+  20 total entries. logically woven into our rules and batches." Eight parallel background agents, one
+  per strand block: **Draconis** (LI–LIX, +9) deepens the purity-test relationship through Ozmund's own
+  doubt, an outside provocation, warm domestic/near-banter registers, and a near-fatal cost (Chronicle
+  LVII) that still leaves the dynamic unbroken; **Aethelgard** (LX–LXIX, +10) adds a genuine
+  unrecoverable governance failure (Sennick), a second father-son disagreement, a private confession of
+  self-doubt, a marriage-dynamic entry with Val Mirel, pure levity, a political defeat handled with
+  grace, and a quiet ordinary-competence entry; **Val Mirel** (LXX–LXXIX, +10) introduces a third Kareth
+  War-Order discipline (the Narrow Door, choosing cleanly under irreversible scarcity), tests her
+  "chosen distance" against a real threat to Ozmund, reverses the caregiving dynamic, and closes on an
+  escalating structure of expressed love (taught discipline → wordless gesture → spoken words);
+  **House politics** (LXXX–XC, +11) stays true to its established caution — Cassius Verehimu excluded
+  entirely again — adding minor land/precedence/toll disputes resolved through listening rather than
+  ruling, a permanent institutional reform (retiring the public Reckoning Walk), and a closing synthesis
+  naming political authority as the one form of power Ozmund fully trusts; **Wider Household/Guard**
+  (XCI–CV, +15, two sub-waves) deepens all five established figures generationally (successors, private
+  griefs, mistakes handled with grace) and closes on all five gathered at one table; **coming-of-age**
+  (CVI–CXX, +15, two sub-waves) closes the entire batch with Ozmund's own interiority — mundane-register
+  discipline tests, a private realization about his infant grip, an instinctive-reflex fear distinct
+  from every deliberately-tested limit, rare unguarded joy, and a final quiet synthesis at the Aldenmoor
+  quarry with no forward-pointing hook. A full cross-strand collision sweep across all 14 new proper
+  nouns (Sennick; the Rell and Tamsy families; Fenna Hallum; Lord Ashvane; the Narrow Door; Bram Corwyth
+  and Iona Adderwell; Lord Ansel Varnhelt/House Varnhelt; Quartermaster Aldous Prynn; House Renlow;
+  House Ashmere; Ser Dravot Skarne/House Skarne; Wendell Rowe; Factor Yewen Ashworth/House Ashworth)
+  confirmed zero collisions against the live ledger and each other. Files at
+  `docs/lords-of-cian/chronicles/ozmund-chronicle-li-*.md` through `ozmund-chronicle-cxx-*.md`.
+  **Ozmund's series now stands at 120 Chronicles total — 20 entries per strand across all six strands.**
