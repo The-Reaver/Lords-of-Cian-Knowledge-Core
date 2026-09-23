@@ -245,3 +245,14 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
   (two different minor characters independently named "Corwen") was caught and fixed before locking —
   see `MCD-1747`. Files at `docs/lords-of-cian/chronicles/ozmund-chronicle-ii-*.md` through
   `ozmund-chronicle-xx-*.md`. Ozmund's series now stands at 20 Chronicles total.
+- **Chronicles XXI–L, a 30-entry wave** — locked, Batch 305, 2026-09-23 (`MCD-1750`–`MCD-1779`), per
+  Abad's direction "30 more." Six strands, all strictly pre-Fulfillment-Ceremony: second waves for the
+  **Draconis** (XXI–XXV), **Aethelgard** (XXVI–XXX), **Val Mirel** (XXXI–XXXV, introducing the Seventh
+  Cord heirloom and the Hollow Stand's sibling discipline's own near-failure), and **House politics**
+  (XXXVI–XL) strands, plus two new strands: the **Wider Household/Guard** strand (XLI–XLV — Armsmaster
+  Berrin Hollis, falconer Annis Fairweather, tutor Alric Fenmoor, stable boy Cobb, and Sergeant Oswin
+  Kade) and a closing **coming-of-age** strand (XLVI–L, Ozmund's own interiority — leadership, cost,
+  maturation, private discipline, closing on "The Man He Was Becoming"). A full cross-strand collision
+  sweep across all 17 new proper nouns confirmed zero collisions. Files at
+  `docs/lords-of-cian/chronicles/ozmund-chronicle-xxi-*.md` through `ozmund-chronicle-l-*.md`. Ozmund's
+  series now stands at 50 Chronicles total.

@@ -2527,6 +2527,68 @@ row in `chronicle-tracks-status.md` now reads 20 Chronicles total. Genuinely ope
 wants it next: a fifth pre-Book-1 wave for Ozmund, reopening the Book-1-era window for the two
 deferred pitches, or any other thread.
 
+**30 more Ozmund Chronicles (XXI-L), Batch 305, 2026-09-23 (`MCD-1750` through `MCD-1779`), per
+Abad's direction: "30 more."** Six parallel background agents each drafted a five-entry strand,
+bringing Ozmund's series to 50 Chronicles total -- all strictly pre-Fulfillment-Ceremony per the
+standing constraint, matching Batch 304's discipline. Every agent read its strand's existing
+Chronicles and the full profile first and collision-checked new proper nouns against the live
+ledger before use; a full cross-strand sweep afterward confirmed zero collisions across all 17 new
+names introduced this wave.
+
+**Second waves for the four existing strands.** **Draconis (`MCD-1750`-`1754`, XXI-XXV)** deepens
+the purity-test relationship further without ever advancing Draconis toward the truth: a recruit's
+character judged over polish; the origin, in Red Beard's own retrospective voice, of a command habit
+Ozmund unknowingly absorbed from Draconis; Draconis refusing a dishonorable order from someone other
+than Aethelgard, quietly shielded from the fallout by Ozmund's own deniable hand; a genuine honor
+declined because loyalty is identity, not ambition; and a stakes-free closing day of fishing and
+ordinary companionship. **Aethelgard (`MCD-1755`-`1759`, XXVI-XXX)** deepens the father-son bond: a
+two-decade silent pension for a guardsman who once shielded Aethelgard; a governance case where
+bureaucratic correctness and actual rightness diverge, fixed at the system level rather than granted
+as a one-off exception; a real, honestly unresolved argument about discipline and risk; Aethelgard's
+private hopes for his son, told through the House physician rather than directly; and a closing
+entry on an unfinished journal of governing decisions, framing legacy as continually paid into rather
+than inherited once. **Val Mirel (`MCD-1760`-`1764`, XXXI-XXXV)** gives his mother her first on-page
+failure of her own discipline; introduces the Seventh Cord, a hidden Kareth heirloom tallying every
+soldier she couldn't save; Ozmund's first conscious synthesis of both parents' inheritances in a
+single act; her longest single absence, with a live, unresolved doubt about whether her "chosen
+distance" has become something closer to circumstance; and a closing wordless promise (a palm held
+to his chest) that she will always come when it matters. **House politics (`MCD-1765`-`1769`,
+XXXVI-XL)** stays as delicate as its first wave, deliberately excluding Cassius Verehimu entirely
+this time: Ozmund's first public court address breaking convention with plain honesty; a buried
+tenant petition corrected anonymously; being underestimated by a visiting House and turning it to
+real advantage; skipping an obligatory feast to sit with a dying kennel-master and absorbing the
+resulting political cost; and a closing retrospective synthesizing years of small, uncredited
+household decencies.
+
+**Two new strands.** The **Wider Verehimu Household/Guard strand (`MCD-1770`-`1774`, XLI-XLV)**
+introduces five new minor named figures beyond Draconis, who appears only incidentally here:
+Armsmaster Berrin Hollis, who doubts and then discovers the boy training alone before dawn; falconer
+Annis Fairweather's small, unguarded vignette of ordinary childhood laughter; tutor Master Alric
+Fenmoor, who refuses to flatter and teaches real intellectual rigor; stable boy Cobb, a genuine peer
+without power who teaches Ozmund that courage and fear coexist; and Sergeant Oswin Kade's closing,
+institutional account of what the House Guard and the family it serves owe each other. The closing
+**coming-of-age strand (`MCD-1775`-`1779`, XLVI-L)** turns closer to Ozmund's own interiority than
+any prior strand: his first real taken responsibility, during a flood at the already-locked
+settlement of Greyfen; a real personal cost of his "no threshold to cross" discipline, a
+near-friendship deliberately kept at arm's length and lost to ordinary relocation; an internal
+turning point where he stops resenting his inheritance and starts consciously choosing it; the
+series' most interior entry, a private nighttime test of the floor (not the ceiling) of his own
+control; and the closing entry, "The Man He Was Becoming," a quiet synthesizing reflection that
+closes the full 30-entry wave and the 50-Chronicle series-to-date without foreshadowing anything
+that comes after.
+
+New named characters this wave, all minor and collision-checked clean: Brenner, Guard-Marshal
+Fenwick (Draconis strand); Petrin Hallum, Renwick Farrow, Hesper Vale (Aethelgard strand); the
+Seventh Cord, an artifact (Val Mirel strand); Sella, Lord Corvain, House Dellark, Garrow (House
+politics strand); Berrin Hollis, Annis Fairweather, Alric Fenmoor, Cobb, Oswin Kade (Household/Guard
+strand); Osric, Joren (coming-of-age strand). Files committed progressively as each strand completed
+to satisfy the Stop hook's clean-working-tree requirement, with the ledger merge running only after
+all six agents' output and the cross-strand collision sweep were complete. Ledger reached
+`ledger_version` 30.8, 2,459 rules, 305 batches -- zero duplicate IDs verified, all 30 file
+references confirmed to resolve. Ozmund's row in `chronicle-tracks-status.md` now reads 50
+Chronicles total. Genuinely open for whenever Abad wants it next: a third pre-Book-1 wave for
+Ozmund, reopening the Book-1-era window for the two deferred pitches, or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
