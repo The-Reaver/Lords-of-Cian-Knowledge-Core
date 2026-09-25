@@ -2674,6 +2674,66 @@ references (Chronicles I-CXX, `MCD-1730`-`1849`) confirmed to resolve. Ozmund's 
 strands. Genuinely open for whenever Abad wants it next: a fourth wave for any strand, reopening
 the Book-1-era window for the two deferred pitches, or any other thread.
 
+## The Shattered Kingdoms Political Atlas mined, Batch 307, 2026-09-25
+
+A fresh full Lore Vault audit (40 files, cross-checked against all 306 prior batches) surfaced
+`Shattered_Kingdoms_Political_Atlas` — never logged as its own extraction pass despite already
+being partially load-bearing: `MCD-229`'s Zenith-Prime note and `CC-059`/`ARS-384`'s Zenith-Rod
+material both derive from it, and `WC-012` is its own compressed five-nation summary. The same
+audit pass also confirmed a "Series Bible... Argul Un Ra" document as an early, explicitly
+superseded concept draft (marked in its own text as renamed into Anu Un Ra, describing a wholly
+different magic system that doesn't match locked canon) — read, confirmed a dead end, nothing
+drafted from it. Two other genuine finds from the same audit — `Arsenal_of_Cian_Definitive_
+Edition_v2` (a ~200K-character gear compendium touching ~30 named characters, partially already
+mined) and a couple of pitch-style documents with one real unexploited hook (a named "Three
+Ronin" trio with individually promised, never-dramatized reckonings) — remain queued, not yet
+drafted.
+
+**`MCD-1850`, `POL-101` through `POL-108`, `CC-141` through `CC-143` (12 rules).** Cross-checked
+every new proper noun against the live ledger before drafting; caught two real contradictions
+and flagged both rather than resolving unilaterally. The first — the Atlas's "Voss Labyrinth,
+First Patriarch" colliding with the already-locked current First Patriarch of the same
+Obsidian Prefecture Senate of Twelve, Severin Ebonrath (`POL-100`, Batch 301) — Abad ruled
+directly: "Voss Labyrinth is a predecessor." Locked at `POL-102` accordingly: Voss Labyrinth
+becomes real Prefecture institutional history (a long predecessor tenure, Jupiter homage)
+rather than a competing claim on the current seat, alongside two new non-conflicting
+Patriarchs, Dhampir Black (military commander) and Iron-Gore (Chief Engineer). The second
+contradiction — whether the Astral Archipelago's Council of Crossroads treats "Master
+Void-Cusp" and "the Event Horizon" as one seat (as `MCD-095` currently locks, both epithets for
+Legbara Kalunga) or two separate seats with different domains and deity-homages (as the Atlas's
+own prose describes) — was deliberately left open per Abad's "draft the rest now": `POL-103`
+extends the Archipelago's geography/government/military detail and adds the uncontested
+Star-Bloom (Third Seat) without asserting a seat count or touching Legbara Kalunga's existing
+epithets.
+
+The rest of the batch: `MCD-1850` locks the actual mechanism behind `WC-012`'s one-line
+"Verehimu bloodline origin ~8,000 years ago" — the first Verehimu was a Root-Born Aethel-Gard
+general elevated by T.D.K. after leaving during a succession crisis, the Crown-Scar installed
+in the bloodline during that period, Aethel-Gard watching the line ever since (extends `CC-127`'s
+Book 2 alliance-commitment material). `POL-101` fills out Aethel-Gard's Dual Court alongside the
+already-locked Thane-Gorm with Wulfaric (Sovereign) and Vult-Gwyn (spymaster). `POL-104` gives
+the Archipelago's already-locked "standing Rexmar debt" (`WC-012`) its true likely origin: Haku's
+war-liberated Living Drakma founding the islands 5,000 years ago. `POL-105` fills out the
+Celestial Zenith's meritocratic Sovereign Pavilion alongside the already-locked Zenith-Prime with
+the Binary-Architects, Mercy-Nebula, and Loyalty-Quasar. `POL-106` mechanically defines the
+Hollow Shogunate's already-locked Parasitic Sovereignty (`POL-070`) as Impact Memory extraction
+from its own citizenry, and adds Glare-Tyrant and Scourge-Tempest to its champion roster.
+`POL-107` deepens the Lawless Reaches' already-locked political layer (`POL-090`) with the
+Rathaan Federation's merchant (not warrior) culture and the Ash Maw Trade Council's
+border-exchange economics. `POL-108` consolidates a five-nation alignment table matching every
+already-independently-locked stance. `CC-141` through `CC-143` give Orlok a full Character Codex
+extension — origin (self-taught miner's son, Fifth Seat resigned because his method couldn't be
+taught), capability (his density figures reconciled against the already-locked finalized `MCD-096`
+numbers as an earlier-book baseline, matching the established Sereth Vaul escalation precedent
+from Batch 46), relationships (Kanja, Ozmund, Red Beard, the Zenith-Prime), and his Book 2 role
+— extending his previously thin `CC-059`/`ARS-384`/`MCD-096`/`MCD-229`/`POL-080` references.
+
+Zero new proper-noun collisions across all 12 rules, verified against the live ledger and each
+other before drafting. Ledger reached `ledger_version` 31.0, 2,541 rules, 307 batches — zero
+duplicate IDs verified. Abad's approval: "lock it." Genuinely open for whenever Abad wants it
+next: the Master Void-Cusp/Event Horizon seat-structure ruling (still pending), the Arsenal of
+Cian gear compendium, the Three Ronin hook, or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
