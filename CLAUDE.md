@@ -2734,6 +2734,91 @@ duplicate IDs verified. Abad's approval: "lock it." Genuinely open for whenever 
 next: the Master Void-Cusp/Event Horizon seat-structure ruling (still pending), the Arsenal of
 Cian gear compendium, the Three Ronin hook, or any other thread.
 
+## The Arsenal of Cian mined in full, Batch 308, 2026-09-25 (`ARS-392` through `ARS-426`, 35
+rules; `MCD-302` amended in place)
+
+`Arsenal_of_Cian_Definitive_Edition_v2` (~200K characters, 31 sections) was the other major
+untouched-material find from this session's fresh Lore Vault audit. Six parallel background
+agents each mined a cluster of sections, discovering the document had already been extracted
+once before at a **name-only stub level** (`ARS-010` through `ARS-340`, an older pre-batch-log
+pass, status uppercase `LOCKED`) — so the actual job across all six agents was drafting the
+mechanics behind roughly 30 already-named-but-undetailed items, not inventing new items from
+scratch. One source section (Lauris Letitia's, Section XXII) came back fully redundant with the
+already-locked `ARS-357`–`374`, confirmed word-for-word in places — logged as confirmed-
+redundant with no draft needed, matching the Batch 44 precedent.
+
+The six agents surfaced seven real contradictions/naming collisions rather than resolving any of
+them unilaterally. Rather than rule on these himself, Abad's direction was **"let the fleet
+render a verdict"** — five independent background-agent judges, deliberately given no visibility
+into each other's reasoning, each read the full CLAUDE.md history and rendered a complete verdict
+on all seven items against the project's own established precedents. The five verdicts were
+consolidated by plurality (weighted toward judges who verified claims against primary locked-
+source text rather than reasoning from precedent alone — notably, two of the five independently
+pulled `MAW-079` and found it already locks Red Beard as one of the fewer than 200 Cestari in
+5,000 years to cross the genuine financial manumission threshold, sharpening that item from a
+simple accept/reject call into a precise two-fact untangling). The consolidated resolution was
+presented to Abad in full before drafting. Abad's approval: "lock it."
+
+**The seven resolutions:**
+1. **Dead Drakma Small Arms** (unanimous 5/5): reframed, not rejected. `PH2-049` already
+   pre-authorized this exact future addition. Locked at `ARS-426` as real SBD-issue sidearms,
+   culturally coded as a mark of institutional distrust/personal cowardice, mechanically
+   incapable of harming any density-scaled combatant at any tier — "baseline" included, per the
+   locked constraint's own "regardless of sophistication" floor — effective only against
+   unrated civilians and property.
+2. **"Cadence Ruin" → "the Void Wake"** (unanimous 5/5 confirm): resolves a real triple
+   collision (Onyx's blade power, Varruk's disruption ability, and a semantically inverted third
+   use for Sereth Vaul's Green Mark aura) by folding Sereth's version into the Ever-Haunt's
+   already-established "Void-" naming family. Locked at `ARS-395`.
+3. **"Old Dragon" collision** (4/5 plurality): `MCD-302`'s thinly-detailed, zero-Chronicle-usage
+   Rexmar-lineage item is renamed **"the Elder Wyrm"** rather than touching Valen Sinisterblade's
+   newly-drafted, materially incompatible Living Drakma twin sword of the same name — `MCD-302`
+   amended in place; Valen's sword keeps the name "Old Dragon" (`ARS-422`).
+4. **Fermand's Palimpsest provenance** (4/5 majority): `MCD-268` stands untouched — Kanja forged
+   it. The source's claim of an outside Karesian-bladesmith commission is rejected; the "rare act
+   of personal investment from a man who keeps little that is his own" is preserved instead as
+   Fermand personally asking Kanja for it and specifying its exact design, etching, and
+   proportions (`ARS-415`).
+5. **Ezio's Archive-Key housing** (5/5 invent a prop; 4/5 favor a cane-type object): Ezio gets his
+   own concealed-carry prop, **the Cipher Cane**, distinct from and never confused with Lauris's
+   Attia's Rite (`ARS-359`) — houses the filaments, performs Structural Interrogation by tapping
+   (`ARS-404`).
+6. **Red Beard's "granted manumission"** (resolved via primary-source verification): he did cross
+   the Directorate's genuine 3:1 financial manumission threshold, already locked at `MAW-079`, at
+   roughly the time of the Maw-3 championship bout — but the Cestari Cleaver itself was a separate
+   right-of-victory prize, and he never formally activated or claimed his eligibility, staying
+   inside the system until his real, exercised freedom came via the Book 1 Unchained Legion
+   defection (`CC-023`). Zero invented reversal beat needed (`ARS-424`).
+7. **Valen's unnamed Talons + "the Clarity" epithet** (4/5 and 3/5 respectively): both left open.
+   The four Talons stay unnamed for a future Chronicle to earn through use; "the Clarity" stays
+   available prose color rather than a locked third epithet until a scene dramatizes it.
+
+The other 28 rules were clean extensions with no contradictions: full mechanics for Ozmund's
+Dragondal/Shadow's Whisper/Crown-Gauntlets (`ARS-400`/`401`), Sephtis's Chrono-Anchor Bells/Barn
+Owl Skull mask/True Log (`ARS-402`/`403`), Ezio's Socratic Trap (`ARS-405`), Anu Un Ra's Warbody
+vulnerability and the newly-named Legacy Lattice mechanism tying together `CULT-008`'s root-
+protocol hierarchies, the Crown-Scar, and the Great Breach (`ARS-392`/`393`), Vargo Vakas's
+speed/mobility weakness (`ARS-394`), Lord Varro Dominael's Cataclysm-tier siege engines and
+Legacy-Lattice-delegated command authority (`ARS-396`), full SBD Plate Armor/Blight Frequency
+Projector/Scrip-Tether mechanics (`ARS-397`–`399`), Ironbane's Thunder-Cleaver/King's Roar/Ionic
+Ground Bracer/Lichtenberg Gauntlets (`ARS-406`/`407`), Anansi's Null-Thread Spinnerets/Loom-Blade/
+the Rim/Kinetic Tail-Weights (`ARS-408`), Ghostwind's Slipstream Harness/Wind-Razors/Vane-Compass
+(`ARS-409`), Stormreaver's Zephyr-Frame/Insight Lenses/Raptor-Gauntlets with the source's real-
+world "Horus archetype" deity label dropped per the Batch 301/302 precedent (`ARS-410`), Anirak's
+Triform Morning Star (`ARS-411`), full extensions for all three Triad Guardians (`ARS-412`–`414`),
+Lady Nadea Thren's Viper's Fang/Recurve Siege-Bow/Oxidation-Seal/Oxidation-Guard (`ARS-416`),
+Stormbreaker's full six-piece Siege Platform (`ARS-417`/`418`), Voidbreaker's Spotter's Kit
+(`ARS-419`), Soulreaver Zora's Tempest's Arsenal — confirmed not a new character, an existing
+crew member (`ARS-420`), Pyro's three non-Drakma "Heart's Tools" (`ARS-421`), and the Rexmar
+Machete's Long Mask-spanning companion texture (`ARS-425`).
+
+Zero new proper-noun collisions across all 35 rules, cross-checked both against the live ledger
+and against every other agent's own newly-proposed names. Ledger reached `ledger_version` 31.1,
+2,576 rules, 308 batches — zero duplicate IDs verified. This closes out the Arsenal of Cian
+source document in full; nothing further is queued from it. Genuinely open for whenever Abad
+wants it next: the Master Void-Cusp/Event Horizon seat-structure ruling (still pending from Batch
+307), the Three Ronin hook, or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
