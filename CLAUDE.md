@@ -2889,6 +2889,59 @@ Zero new proper nouns anywhere — pure extension of already-locked figures. Led
 "lock it." This closes out the last item from the Shattered Kingdoms Political Atlas/Arsenal of
 Cian audit sweep; no further thread is currently queued — work whichever one Abad points at next.
 
+## The SBD Director named, plus the Dossier Analysis apparatus reconciled, Batch 311, 2026-09-27 (`SBD-046` through `SBD-049`, `MCD-1854`)
+
+Closes out the "SEALBOUND Directorate Dossier Analysis" find surfaced during the SBD deep-dive
+Drive search (a secondary AI-generated essay about the already-processed Asset Management
+Dossier, not primary source material itself, but carrying real unmined apparatus: the Scrip-Ledger
+disciplinary tiers, Cognitive Reset/Amnestics, Turncoat Assets, Expendable Assets, "the Hollowed,"
+the Prince Taboo around Ozmund, and the "Resonance Singularity" theory behind the SBD's whole
+Clinical Tone doctrine). Also resolved, from the same Drive pass, a naming question the search
+surfaced: Abad's own "Institution Codex expansion" planning prompt had referred to "Archon Meridian
+(A.M.)" as if the SBD's Executive Director and Archon Un Ra (T.D.K.'s hidden son, `MCD-013`/`122`/
+`130`) were the same person -- ruled a shorthand slip, not a reveal: "archon Meridian stays as is,"
+with the Director instead given a real, separate, memorable name.
+
+`SBD-046` names Executive Director "A.M." for the first time: **Ilona Corrance**, the SBD's apex
+authority, picked from three candidates (Wyck Talmadge, Casimir Wrey, Ilona Corrance). The
+initialism itself is locked as standing institutional habit predating her own tenure, not
+concealment -- every existing "A.M." cross-reference in the ledger (`SBD-030`, `MCD-1727`,
+`CULT-053` through `057`, etc.) stays valid without needing a rewrite pass, the same convention that
+lets "T.D.K." survive alongside Anu Un Ra's real name. `SBD-047` locks the Scrip-Ledger disciplinary
+tier system extending `WC-007`'s Metabolic Tether from subjects to SBD staff themselves: Level 1
+Clinical Tone Failure (a biologically-enforced Metabolic Scrip-Fine), Level 2 Repeated Subject
+Agency (a Cognitive Reset via amnestics, erasing 24 hours), Level 3 Mythic Contamination
+(reassignment to Expendable Asset status, feeding the Resonance Sequestration test population
+already implied at `MCD-1727`). `SBD-048` reconciles rather than collides with "the Hollowed" as
+already locked at `WC-007` (100% Scrip-debt ratio): reaching that state now has a real institutional
+payoff -- Biological Repurposing, consciousness suppressed via amnestics, the body kept as passive
+processing infrastructure -- explaining exactly what `CC-088`'s Cooper fears from Onyx of Oblivion,
+and giving Level 3 Mythic Contamination its actual teeth (Expendable Asset status is the waiting
+room, Hollowing is the sentence). `SBD-049` locks the Prince Taboo specific to Ozmund (extends
+`CC-090`/`MCD-100`): the word itself is treated as an active legitimacy threat, punishable by
+skipping straight to Hollowing, alongside a Turncoat Assets doctrine exploiting the one failure mode
+(systemic betrayal) his own Code of Honor can't anticipate. `MCD-1854` locks the Resonance
+Singularity theory tying the whole doctrine together: mythic/heroic language is theorized to
+measurably strengthen a subject's resonance signature (the same channel the Talisman of Mao
+responds to, `MCD-142`, and Blight Frequency tech suppresses, `ARS-398`), making Clinical Tone a
+passive counter-resonance field rather than PR -- explicitly flagged, per `MCD-1727`'s own standing
+admission, as unconfirmed and possibly itself a false SBD assumption. Zero new proper nouns beyond
+the Director's own name. Ledger reached `ledger_version` 31.4, 2,587 rules, 311 batches -- zero
+duplicate IDs verified. Abad's approval: "Ilona Corrance ... approving all recommendations."
+
+Genuinely open next, per Abad's own much larger follow-up ask (not yet scoped into batches -- see
+his 2026-09-27 message for the full list): a reimagined, upgraded SEALBLACK/Black Seal detachment
+protocol written as an actual in-fiction standing rule so future drafting can be measured against it
+without clashing; a full SBD institutional archive (anomalies, subjects, places, detachments) built
+to the same rigor as the rest of the ledger, in cold/clinical registry voice per his own Drive
+examples; a fresh Drive sourcing pass aimed specifically at pre-Book-1 material that can seed
+memorable, formidable, *defeatable* enemies for the Chronicles -- villains who actually die at the
+Lords of Cian's hands before Book 1, since the setting's power balance only starts truly turning in
+Book 2 (the Unchained Legion's formation and adventures) and isn't even by Book 5; and a full
+reimagining/expansion pass on the crew's gifts, weapons, and economic tools gained through Book
+2-5, on top of what's already locked. A bulleted confirmation of this scope was sent back to Abad
+before any of it was researched or drafted, per his own request to check sync first.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
