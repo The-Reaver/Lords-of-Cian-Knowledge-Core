@@ -2819,6 +2819,41 @@ source document in full; nothing further is queued from it. Genuinely open for w
 wants it next: the Master Void-Cusp/Event Horizon seat-structure ruling (still pending from Batch
 307), the Three Ronin hook, or any other thread.
 
+## The Master Void-Cusp/Event Horizon question closed, plus Soledad Keme's true age, Batch 309,
+2026-09-27 (`MCD-1851`, `MCD-1852`)
+
+Closes the last open item carried since Batch 307. Re-fetched the Shattered Kingdoms Political
+Atlas source document in full to read the actual Council of Crossroads passage rather than work
+from summary: it names nine seats, and its own "Key Figures" list gives Master Void-Cusp (Second
+Seat, domain the dead, ~3,200 years old, Baron Samedi homage) and the Event Horizon (Fifth Seat,
+domain crossroads, no age given, Elegua homage) as apparently distinct entries — against
+`MCD-095`'s already-locked fusion of both epithets into one person, Legbara Kalunga. Rather than
+pick a side, `MCD-1852` locks a compatible reading: he genuinely holds both seats simultaneously,
+a dual-seat arrangement explained by his standing as the Singularity's Champion (a rank the
+ordinary nine-seats-nine-holders structure doesn't otherwise accommodate) — and his own two-part
+name isn't decorative, "Legbara" (Legba/Elegua) naming the crossroads seat and "Kalunga" (the
+Kikongo living/dead threshold) naming the death seat. The near-exact age match between Master
+Void-Cusp (~3,200) and Legbara Kalunga's already-locked 3,181 years, and the Event Horizon entry's
+conspicuous lack of a separate age, both read as corroborating one person rather than two.
+
+Alongside it, Abad flagged and corrected a scale problem: "Singularity is way older than
+everybody else I would say that we need to give Singularity at least over 150,000 years." The
+Atlas's own stated ~4,800 years for Soledad Keme (the Singularity, First Seat) undersold her by
+a wide margin against the setting's own established age ceiling — Anu Un Ra/T.D.K. at 30,000+
+years (`CC-053`) and Orlok at 76,003 years (`CC-058`, previously locked as second-oldest only to
+T.D.K.). `MCD-1851` locks her as the oldest confirmed-aged being in the setting, over 150,000
+years old, exceeding both. This also cleanly explains, for the first time, why her already-locked
+account of Old Dominion-era events roughly 50,000 years before Book 1 (`MCD-326`) reads as
+firsthand rather than oral tradition — she was alive for it. Her age doesn't conflict with the
+Astral Archipelago's own much younger 5,000-year founding (`POL-104`): she predates the nation she
+now anchors, having become its First Seat at or after its founding rather than being native to it.
+
+Zero new proper-noun collisions (no new names introduced, both rules extend already-locked
+figures). Ledger reached `ledger_version` 31.2, 2,578 rules, 309 batches — zero duplicate IDs
+verified. Abad's approval: "lock it." This closes out both open items from the Shattered Kingdoms
+Political Atlas mining pass; genuinely open for whenever Abad wants it next: the Three Ronin hook,
+or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
