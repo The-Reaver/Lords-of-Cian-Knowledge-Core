@@ -2942,6 +2942,114 @@ reimagining/expansion pass on the crew's gifts, weapons, and economic tools gain
 2-5, on top of what's already locked. A bulleted confirmation of this scope was sent back to Abad
 before any of it was researched or drafted, per his own request to check sync first.
 
+## SEALBLACK Detachment Protocol, new pre-Book-1 villains, and Book 2-5 gear reimagined, Batch 312, 2026-09-27 (`SBD-050` through `SBD-065`, `CC-147` through `CC-157`, `MCD-1855` through `MCD-1865`, `ARS-427` through `ARS-435` -- 47 rules)
+
+Executes all three drafting-heavy items from Abad's four-item follow-up list (his 2026-09-27
+message), under his direction: "you got it perfect I need you to work on all four items use as
+many agents as necessary so it comes out clean and efficient. work continuously, uninterrupted,
+until completion. this includes rigorous testing, committing, pushing." Item 3 of that list --
+checking how Book 1 and beyond will actually be written, so this pre-Book-1 material doesn't
+clash with it -- was answered directly rather than drafted: Book 1's investigative-noir structure
+is already locked (`MCD-070`: two kings dead, Ezio and Fermand investigate) and the Voice Bible's
+own Zafonian Gothic Noir pillar (`VB-001`/`003`) already governs atmosphere; that constraint
+shaped item 2 below (villains tiered as institutional/mid-tier threats, never mastermind-tier
+material that would compete with Book 1's own reveals). Three parallel background agents drafted
+the other three items independently, each reading the full CLAUDE.md history and collision-
+checking every new proper noun against the live ledger before use; a final consolidated cross-
+agent check confirmed zero overlap between the three drafts' own new names, and one real
+contradiction was caught and fixed before locking (below).
+
+**The SEALBLACK Detachment Protocol + SBD archive expansion (`SBD-050` through `SBD-065`, 16
+rules).** `SBD-050` locks four standing detachment classes mapped onto `SBD-040`'s clearance
+tiers -- Level 4 Compliance, Level 3 Retrieval, Level 2 Containment, and SEALBLACK (6-8 personnel,
+matching the already-locked Fulfillment Ceremony wet-work team size, `MCD-091`/`092`). `SBD-051`
+locks the authorization chain: SEALBLACK requires two signatures (Director Ilona Corrance or a
+named proxy, plus Grave-Analyst Abbott Gage confirming no active Conflict Flag in the relevant
+Oracle Domain); a commander who bypasses this is Mythic Contamination under `SBD-047`. `SBD-052`
+locks the records/redaction pipeline extending the Continuity Lock (`MCD-1727`) -- full-name
+field files get stripped before permanent filing, originals destroyed rather than merely sealed --
+and flags that Grave-Analysts keep unaudited personal shadow archives, a deliberate future hook.
+Five new anomaly-class entities extend `MCD-1729`'s Cinderhilt precedent: the Encore (`SBD-053`,
+a resonance phenomenon literally fed by mythic/heroic speech, offering an unconfirmed in-world
+test of `MCD-1854`'s Resonance Singularity theory without touching `VB-060`'s status as a
+character trait, not a power); the Verdigris (`SBD-054`, a Dead-Drakma-embrittling battlefield
+accretion); the Sinkmark (`SBD-055`, a migrating density-combat mass-gradient); the Open File
+(`SBD-056`, a massacre-site event-loop tied to a corrupted Ionic Rite logging subroutine,
+`CULT-008`, that only collapses when the true record is entered publicly -- which is why SBD
+policy never closes one deliberately); and the Arrears (`SBD-057`, a Metabolic Tether bleed-
+through at mass-Hollowing sites the SBD has no mechanism to fund a cure for). Four new named
+detachments extend the protocol: the Coldline (`SBD-058`, thermal/structural-denial, built
+against Cinderhilt-style threats), the Quiet Hand (`SBD-059`, a standing SEALBLACK wet-work cell
+distinct from the Fulfillment Ceremony team), the Lockstitch Detachment (`SBD-060`, Oracle-network
+maintenance, extending `CULT-199`'s Double-Blind principle to the redactors themselves), and the
+Foundling Detachment (`SBD-061`, HVAH asset recovery -- the class Lauris was processed through,
+`MCD-175`). Four new named facilities: the Reliquary at Khorvane (`SBD-062`, a black site in Old
+Dominion Ruins), the Kesmara Continuity Vault (`SBD-063`, the deep-archive facility beneath SBD
+HQ), the Compliance Exchange (`SBD-064`, the Scrip-Ledger discipline-processing complex disguised
+as a payroll office), and the Sealed Annex (`SBD-065`, a physical sealed-Oracle relay terminal
+near Karkosa/the Throat).
+
+**Eleven new pre-Book-1 villains (`CC-147` through `CC-157`, `MCD-1855` through `MCD-1865`, 22
+rules).** Deliberately tiered below the Five Champions/Avatars/Triad Guardians, spread across five
+registers so future Chronicle prose has real variety to draw from: Directorate/Trust command and
+enforcement -- Harek Vondel (`CC-147`, killed by Daba/1804, `MCD-1855`), Orven Castellan (`CC-148`,
+broken by Bane via `VB-060`, `MCD-1856`), Halveth Ashcombe (`CC-149`, discredited by the Crow King,
+`MCD-1857`), Rannic Sorvell (`CC-150`, captured by the Sovereign Ghost of the Great Sea via
+Undertow, `ARS-388`/`MCD-1858`); the Maw circuit -- Brakon Skevik (`CC-151`, exposed by Red Beard,
+`MCD-1859`); Weregildd/slaver economics, a deliberately fresh register versus the many already-
+used unnamed pirate captains -- Ilsevet Sorrenta (`CC-152`, exposed by Lauris, `MCD-1860`), Vex
+Thurlow (`CC-153`, the Weregildd's first individually-named Assessor, captured by Daba/1804,
+`MCD-1861`), Ossa Drem (`CC-154`, a Farm-rejected Handler-Prime killed by Red Beard, `MCD-1862`,
+extending `WGD-011`'s flagged Farm-born connective tissue into an actual reckoning), Kruger Sennit
+(`CC-155`, raided by the Blue-Collar Titan, `MCD-1863`); institutional corruption -- Callas Modrin
+(`CC-156`, exposed by Ezio Valcari through pure bureaucratic-judo, `MCD-1864`); and an independent
+Ever-Haunt trafficker outside the cult ecosystem -- Renfel Auberon (`CC-157`, neutralized by a
+Kanja-crew team-up fielding `CULT-197`'s three-source Anti-Resonance countermeasure -- Onyx,
+Sephtis, Ironbane together -- on the page for the first time, `MCD-1865`). Chronicle prose
+dramatizing these eleven defeats is a distinct future wave, matching the established Kazi
+Tunji/Femi precedent (characters locked first, Chronicles written afterward, Batches 287-289).
+Deliberately left untouched: the PH2- homage-era track (no named villain added there -- every
+existing homage-era antagonist has stayed unnamed by convention, and that read as load-bearing
+rather than an oversight) and Archon Meridian (left ungeared pending his political alignment as
+an "unresolved third force," `MCD-099`).
+
+**Nine new gifts/weapons/economic tools for the Unchained Legion's Book 2-5 era (`ARS-427` through
+`ARS-435`, 9 rules).** Three new physical gifts: the Rally Horn (`ARS-427`, a Moonvault-forged
+collective gift that seizes nearby Scrip-Tethers in a resonance blast, with real friendly-fire and
+debt-backlash costs); the Severance Filament (`ARS-428`, a portable field tool generalizing
+Kanja/Damu's existing countermeasure to jam a Crownless Host construct's Legacy Lattice delegation
+signal, `ARS-393`/`396`); and the Unraveling Thread (`ARS-429`, a Living Drakma filament-line from
+Anansi letting Valeria Korth strike a perceived structural point at range). Four new economic
+weapons directly answering the newly-locked Scrip-Ledger disciplinary system (`SBD-047`/`048`) and
+the Legion's own already-locked cross-border currency weakness (`WC-011`): the Actuarial Key
+(`ARS-430`, a resonance seal forging Scrip/manumission records past the Central Ledger's
+biological verification -- used sparingly since bulk use trips the Oracle Conflict Map); the
+Verity Vein (`ARS-431`, a public blood-reading instrument refuting false debt-inflation claims on
+the spot); Oracle-Salting (`ARS-432`, an Anansi Ghost-Lattice technique manufacturing a false SBD
+Conflict Flag to force a chosen "Tighten" posture, with a built-in mutual-blindness cost); and the
+Bartered Chain (`ARS-433`, a covert barter network clearing currency inside Trust territory at a
+fixed rate, one exposed node from being burned). Two new institutional tools: the Unchained Ledger
+(`ARS-434`, the Unchained Kingdom's own civic registry, distinct from Cooper's Manifest) and the
+Lattice-Breakers (`ARS-435`, a small Kingdom-acknowledged unit fielding the Severance Filament and
+Oracle-Salting, deliberately contrasted with Daba's 1804 as Kingdom-scale and visible rather than
+small and hidden).
+
+**One real contradiction caught and fixed before locking:** the gear draft's original `ARS-429`
+claimed to be Valeria Korth's "first personal weapon ever," directly contradicting `CC-104`'s
+already-locked Weaver's Kit and Compass Needle (a dagger she's used 73 times in 210 years).
+Corrected in the scratchpad draft before the merge ran: `ARS-429` now extends her existing kit
+with a ranged-offensive option rather than falsely claiming to be her first weapon.
+
+All 47 new rules collision-checked clean -- each drafting agent independently against the live
+ledger, plus a final consolidated cross-agent check confirming zero overlap between the three
+drafts' own new proper nouns. No real-world proper nouns, no child-safety issues, anywhere across
+the batch. Ledger reached `ledger_version` 31.5, 2,634 rules, 312 batches -- zero duplicate IDs
+verified. Abad's approval covered the whole four-item program directly: "work continuously,
+uninterrupted, until completion. this includes rigorous testing, committing, pushing." Genuinely
+open for whenever Abad wants it next: actual Chronicle prose for any of the eleven new villains'
+defeats, further SEALBLACK/SBD archive expansion (matching the Maw Codex's own multi-batch growth
+pattern), a second wave of pre-Book-1 villains, or further Book 2-5 gear.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
