@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "31.2",
+  "ledger_version": "31.3",
   "last_updated": "2026-09-27",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2370,6 +2370,13 @@
       "source": "Original invention plus Shattered_Kingdoms_Political_Atlas reconciliation",
       "rule_count": 2,
       "note": "Closes the last open item from Batch 307 (the Shattered Kingdoms Political Atlas mining pass): whether the Astral Archipelago's Council of Crossroads treats Master Void-Cusp and the Event Horizon as one seat (MCD-095) or two (the Atlas's own prose). Presented as a compatible-reading resolution -- Legbara Kalunga is a genuine dual-seat holder, explained by his standing as the Singularity's Champion -- rather than a rename or an amendment to either side. Alongside it, Abad directed a correction to Soledad Keme's age: \"Singularity is way older than everybody else I would say that we need to give Singularity at least over 150,000 years.\" Locked as the oldest confirmed-aged being in the setting, exceeding T.D.K. and Orlok, and reconciling cleanly with her already-locked firsthand account of events 50,000 years before Book 1's present (MCD-326). Abad's approval: \"lock it.\""
+    },
+    {
+      "batch": 310,
+      "date": "2026-09-27",
+      "source": "Beloved_and_Blade_Ronin_Victims.docx (Google Drive)",
+      "rule_count": 4,
+      "note": "Abad picked 'the Three Ronin hook' from the still-open items flagged after Batch 307/308. Read the full source document (Beloved_and_Blade_Ronin_Victims.docx) in full for the first time. Part I (Nelle Adessi, Tomas Grieve) turned out already well-covered at CC-123/CC-124 (Batch 55). Part II (the Three Ronin) and the SBD Wet-Work Team section held real, unmined mechanism material behind the reckonings MCD-092 only ever named in one line each: the Silence's Praetorian expulsion tying to the already-locked Dhampir Black (POL-102); the Ghost's true reckoning mechanism (Anansi/Valeria Korth's Thread-Perception detecting an absence of threads rather than the Ghost directly, captured not killed); the Blade's Celestial Zenith origin (the same tradition as Orlok) and the exact mechanical reason Valen's reckoning defeats her 0.8-second window; and the wet-work team's actual Summit tradecraft (the false-narrative misdirection of Ezio's Book 1 investigation, the memory-suppressing ventilation compound). Zero new proper nouns -- pure extension of already-locked figures. Abad's approval: \"lock it.\""
     }
   ],
   "rules": [
@@ -20339,6 +20346,34 @@
       "statement": "Extends MCD-095/POL-103: Legbara Kalunga holds two of the Council of Crossroads' nine seats simultaneously -- the Second Seat (Master Void-Cusp, domain the dead, ~3,200 years old, Baron Samedi homage, the second most operationally active Council member -- manages the transition of the deceased, ancestral records, and the containment of entities that persist beyond biological death, an Archipelago-native containment tradition predating the SBD by millennia) and the Fifth Seat (the Event Horizon, domain crossroads -- decision points, trade negotiations, territorial boundaries -- the Archipelago's ambassador to external powers and the first Council figure Kanja meets, Elegua homage). This resolves the Batch 307 open question of whether the Shattered Kingdoms Political Atlas's presentation of Master Void-Cusp and the Event Horizon as two separate, distinctly-aged, distinctly-homaged seats contradicts MCD-095's fusion of both epithets into one person: it does not, since the ages given (~3,200 for Void-Cusp, none given for the Event Horizon) are consistent with a single figure and the dual seat reflects his standing as the Singularity's Champion, a rank the ordinary nine-seats-nine-holders structure doesn't otherwise accommodate. His own two-part name is not decorative: 'Legbara' (from Legba/Elegua) names the crossroads seat, 'Kalunga' (the Kikongo threshold between the living and the dead) names the death seat.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-27, no source document."
+    },
+    {
+      "id": "CC-144",
+      "category": "Character",
+      "statement": "Extends CULT-070/POL-102: the Silence was a Praetorian in the Obsidian Prefecture (~640 years old, 2,800x) expelled from service for 'excessive brutality' during a civilian suppression operation -- the Prefecture punishes failure, not cruelty, so the act was severe enough that Dhampir Black (POL-102, Fourth Patriarch, the Prefecture's own most dangerous combatant) personally authorized the expulsion. His demonstrative-kill methodology doesn't humiliate a body, it stages it into a position of failure -- a guard's weapon drawn but unfired, a sentry facing the wrong direction -- so the arrangement itself communicates that the victim's training was never designed for what walked through the door. His trophy cord (extends CC-125) exists because everything he takes is proof, without distinguishing warriors from civilians -- the same logic that let a builder's carpenter's square hang beside 47 dead guards' insignia.",
+      "status": "locked",
+      "source": "Beloved_and_Blade_Ronin_Victims.docx (Google Drive, Lore Vault)."
+    },
+    {
+      "id": "CC-145",
+      "category": "Character",
+      "statement": "Extends MCD-092: the Ghost has never had, or no longer remembers, a true name -- roughly 200 documented identities across a 400-500-year career, born into a Lawless Reaches nomadic population that dissolved in childhood, with no cultural affiliation or institutional training to trace. Deliberately maintains the lowest viable density (~180x) since high density is what Density Sight users and atmospheric distortion actually detect -- the Ghost's entire tradecraft is 'already inside' rather than breaching anything, occupying an identity the way other people occupy a room. His Book 4 reckoning: Anansi's Ghost-Lattice web and Valeria Korth's Thread-Perception (CC-104) don't find the Ghost directly -- they detect the absence of causal and relational threads where a person should be, a void in the web. He is captured, not killed, and held permanently as a documented, nameless prisoner -- the one outcome an identity built entirely on formlessness cannot survive.",
+      "status": "locked",
+      "source": "Beloved_and_Blade_Ronin_Victims.docx (Google Drive, Lore Vault)."
+    },
+    {
+      "id": "CC-146",
+      "category": "Character",
+      "statement": "Extends CC-109: the Blade trained as a cultivated warrior in the Celestial Zenith -- the same tradition that produced Orlok (POL-105) -- before her expulsion for premeditated murder: she killed a fellow cultivator in a training exercise using a density-shift technique timed to the exact 0.04-second window where the opponent's guard transitioned between positions, a kill-capability the Pavilion's own masters couldn't defend against. Her motive was never established; she offered no explanation and took the technique into the assassination market instead. Her Book 5 reckoning by Valen (extends CC-109) resolves mechanically, not just symbolically: her 520-year-refined 0.8-second window is a cultivated ceiling, while Valen's Precision Variant biology (CC-035) processes combat geometry fast enough that he is already inside the window the instant she initiates it -- the tradition she corrupted is the one that stops her.",
+      "status": "locked",
+      "source": "Beloved_and_Blade_Ronin_Victims.docx (Google Drive, Lore Vault)."
+    },
+    {
+      "id": "MCD-1853",
+      "category": "World Mechanics",
+      "statement": "Extends MCD-091/092/CULT-044/070/075/080: the wet-work team's actual Fulfillment Ceremony tradecraft -- arriving roughly four minutes after the Ronin's extraction, they secure the scene, remove the Ronin's entry traces, plant physical evidence suggesting an internal conspiracy -- the false narrative that misdirects Ezio's investigation for the first third of Book 1 -- and administer a short-term-recall-suppressing chemical compound through the venue's ventilation system to blunt witness memory of the engagement window. At the Unchained Kingdom during the Ghost's Book 3 infiltration, the team never enters the Kingdom itself; instead they sanitize the Ghost's communication trail by dismantling the Lawless Reaches relay points the transmissions routed through -- which is why Ezio later traces the relay points and finds them clean.",
+      "status": "locked",
+      "source": "Beloved_and_Blade_Ronin_Victims.docx (Google Drive, Lore Vault)."
     }
   ],
   "open_decisions": [

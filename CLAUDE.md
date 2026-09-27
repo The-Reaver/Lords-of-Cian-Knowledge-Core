@@ -2854,6 +2854,41 @@ verified. Abad's approval: "lock it." This closes out both open items from the S
 Political Atlas mining pass; genuinely open for whenever Abad wants it next: the Three Ronin hook,
 or any other thread.
 
+## The Three Ronin hook mined, Batch 310, 2026-09-27 (`CC-144` through `CC-146`, `MCD-1853`)
+
+Abad pointed at the last queued item from the Batch 307/308 audit. Read the full source document,
+`Beloved_and_Blade_Ronin_Victims.docx` ("THE BELOVED AND THE BLADE"), for the first time. Part I
+(Nelle Adessi, Tomas Grieve) turned out already well-covered at `CC-123`/`CC-124` (Batch 55) —
+no new draft needed there. Part II (the Three Ronin) and its SBD Wet-Work Team section held the
+genuinely unmined material: `MCD-092` had only ever named each reckoning in one line ("Silence by
+Red Beard," "Ghost by Anansi/Valeria," "Blade by Valen") without the mechanism behind any of them.
+
+`CC-144` locks the Silence's (Decimus Korr) Praetorian-expulsion backstory, tying directly to the
+already-locked Dhampir Black (`POL-102`, Fourth Patriarch) as the one who personally authorized
+it, plus his demonstrative-kill methodology (staging bodies into positions of failure rather than
+humiliation) explaining why his trophy cord (`CC-125`) doesn't distinguish soldiers from
+civilians. `CC-145` locks the Ghost's true nature (no remembered name, ~200 identities, density
+deliberately kept low to evade Density Sight) and — the real find — his actual Book 4 reckoning
+mechanism: Anansi's Ghost-Lattice web and Valeria Korth's Thread-Perception (`CC-104`) don't find
+the Ghost directly, they detect the absence of causal threads where a person should be; he's
+captured rather than killed, the one outcome an identity built on formlessness can't survive.
+`CC-146` locks the Blade's (Serai Noth) Celestial Zenith origin — the same cultivation tradition
+that produced Orlok (`POL-105`) — her expulsion for premeditated murder using a technique
+exploiting a 0.04-second guard-transition window, and the precise mechanical reason her Book 5
+reckoning by Valen resolves the way it does: his Precision Variant biology (`CC-035`) processes
+combat geometry faster than her cultivated 0.8-second ceiling, so he's already inside her window
+before she initiates it. `MCD-1853` locks the SBD Wet-Work Team's actual tradecraft at the
+Fulfillment Ceremony (a planted false-conspiracy narrative that misdirects Ezio's Book 1
+investigation, a memory-suppressing compound piped through the venue's ventilation) and at the
+Unchained Kingdom during the Ghost's Book 3 infiltration (never entering the Kingdom itself,
+instead sanitizing the Ghost's communication trail via Lawless Reaches relay points Ezio later
+traces and finds clean).
+
+Zero new proper nouns anywhere — pure extension of already-locked figures. Ledger reached
+`ledger_version` 31.3, 2,582 rules, 310 batches — zero duplicate IDs verified. Abad's approval:
+"lock it." This closes out the last item from the Shattered Kingdoms Political Atlas/Arsenal of
+Cian audit sweep; no further thread is currently queued — work whichever one Abad points at next.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
