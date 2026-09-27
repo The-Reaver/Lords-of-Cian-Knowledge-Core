@@ -1,6 +1,6 @@
 # Kanja Haku Rexmar — Profile & Game Plan
 
-**Status:** walkthrough drafted
+**Status:** profile in discussion
 **Track:** Kanja version (new track, Onyx-narrated)
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
@@ -244,18 +244,112 @@ forward, starting from Chronicle I of this track.
 
 ## 2. Psychological Profile
 
-*(Not started — this section requires collaborative discussion with Abad, per the gate, and is out
-of scope for this Stage 1 walkthrough pass.)*
+**PROPOSED** — synthesized from what is already demonstrated in the manuscript (Chronicles I–VIII)
+and already locked across the ledger for this specific age-18–30 window. Nothing here is invented;
+it is a first attempt at naming the pattern that's already on the page, offered for Abad's
+correction rather than as a finished read.
+
+- **Core wound / formative event (PROPOSED):** not a single traumatic loss — his father's murder
+  (`MCD-025`) is Book 1's opening event and sits *after* this entire window, so it cannot be this
+  track's wound. What the manuscript actually shows instead is a standing, chosen refusal: he is "a
+  king's son who did not advertise it," apprenticed to a forge he did not need. The formative fact
+  is the debased Scrip-note itself (Chronicle I) — the moment an eighteen-year-old with every reason
+  to simply claim his birthright instead notices that the system lies to the people beneath him, and
+  treats that lie as a problem to be solved rather than a fact of life to be endured.
+- **Defense mechanisms (PROPOSED):** arithmetic as armor. He processes violence, mercy, and loss
+  alike through explicit cost/ratio language ("the cost of action and the cost of inaction... the
+  ratio is always the answer," Ash-Wharf) — a way of making unbearable decisions bearable by making
+  them legible. He also defers naming: he never chooses his own aliases, titles, or reputation —
+  Breck names the Trench Monarch, the fire names the Scourge, the Directorate names Bane — and he
+  treats the name as belonging to "the people who spoke the word," not to himself. Both are the same
+  defense from two angles: keep the self smaller than the function.
+- **Values — what he will not compromise (PROPOSED):** the "no killing" doctrine at the Dredge-Line
+  is not squeamishness, it's doctrine — the moment the fight becomes killing, it becomes a war the
+  Trust's military can answer, rather than a humiliation its bureaucracy has no clean response to.
+  Evidence over violence, first demonstrated at the Scrip-Forge Raid, recurs as his signature method
+  for twelve years. And per Ash-Wharf: material, reputation, and strategy are all spendable; "the
+  people are the line, everything else burns."
+- **How he holds contradiction (PROPOSED):** he is simultaneously the most calculating person in any
+  room (Pell Ostra: "you sound like you're describing a pump rebuild") and the source of the most
+  mythic, uncalculated public image in the setting (the burning coat at Ash-Wharf). He doesn't
+  experience this as contradiction — the theater and the arithmetic are, to him, the same act viewed
+  from outside versus inside, and Onyx's own closing line at Ash-Wharf ("the performance and the
+  cost... the image and the arithmetic beneath the image") is the clearest existing statement of it.
+- **Relationship patterns (PROPOSED):** he leads by handing the room the actual numbers and letting
+  them decide (the Dredge-Line briefing, the Ezio recruitment) rather than by command presence; trust,
+  for him, is demonstrated competence recognized and deferred to (Hask's "the boy's math was right at
+  the Forge," Maren's "you're not guessing, you're reading the load"). He recruits by proof, not
+  charisma, and the crew's own naming rituals toward him (Hask calling him by his bare name, Breck and
+  Hask independently converging on "Captain") suggest he is far more comfortable being *trusted* than
+  being *followed*.
+- **What breaks him / his real vulnerability (PROPOSED):** not physical — density is inactive this
+  whole era and even the Trinity mostly wins by removing the enemy's ability to fight rather than by
+  overpowering them. The actual cost lands on the people around him: the twenty-seven names Onyx
+  "holds" from the Black Trench, Nev Torr's death breaking Breck for four months, the Dead Drakma
+  reserve spent to ash at Ash-Wharf. He is vulnerable exactly where the ratio has no clean answer —
+  when the cost of action and the cost of inaction are both real losses of people, not resources.
+- **Defining emotional throughline (PROPOSED):** *the function, not the name.* Onyx's own developing
+  thesis across Chronicles III–VI — "he finds the seam, he reads the load, he removes what is false...
+  the blade did not teach him this, the boy arrived with the function already present" — is, read
+  straight, Kanja's own throughline: identity as expressed entirely through what he does to a
+  structure (a lie, a column, a debt, a district), never through a title he claims for himself.
+
+**Abad's ruling, verbatim, once given:**
 
 ---
 
 ## 3. Game Plan
 
-*(Not started — requires the Psychological Profile above before narrator, pacing, and Chronicle-pitch
-work can proceed, per the gate's own required order. Narrator is effectively pre-determined by
-`VB-020`/`021`/`026` as Onyx of Oblivion with the progressive-handoff mechanic; what remains open for
-this section is pacing/strand structure, the reserved-threads inventory, and 2–3 Chronicle I
-candidates.)*
+- **Narrator / voice:** Onyx of Oblivion, per `VB-020`/`021`/`026`'s progressive-handoff mechanic —
+  neutral third-person prose at the start, Onyx's presence growing chapter by chapter (an unlabeled
+  reflective coda by Chronicle III/VI-equivalent, an explicitly labeled voice by Chronicle
+  VIII-equivalent), reaching full narrator status by the Rebellion's end. This is the entire point of
+  the track and is not up for renegotiation here — it's what distinguishes this from the Alias
+  Chronicle track's flat prose.
+- **Pacing convention:** single continuous sequence, not multi-strand. **Per Abad's direction
+  ("run with that"), this track is scoped to the Rebellion only — ages 18 to 30, ending at the
+  Trinity's surrender (`MCD-246`)** — the same bounded window the 8 manuscript Chronicles already
+  cover, which lets Onyx's takeover complete on-page within this track itself rather than needing a
+  Lauris-style strand structure to span eras. A possible second, Long-Mask-era wave (ages 30–314,
+  Talisman/Aegis-Talisman/Rexmar-Machete-era gear, Onyx narrating in full steady-state voice
+  throughout since the takeover would already be complete) is a genuinely open future direction, not
+  decided or needed now.
+- **Villain-defeat track arbitration, per Abad's direction:** where a queued Batch-312 villain defeat
+  is tied to a specific already-classified alias (Orven Castellan/Bane, Halveth Ashcombe/Crow King,
+  Rannic Sorvell/Sovereign Ghost, Kruger Sennit/Blue-Collar Titan) it stays queued for that alias's
+  own future wave, once that alias's own gate clears — untouched by this track. Where a defeat is
+  tied to a different character's own Character Chronicle track (Harek Vondel and Vex Thurlow/Daba;
+  Ilsevet Sorrenta/Lauris) it likewise stays with that track. **Renfel Auberon's defeat (`MCD-1865`)
+  is the one genuinely cross-cutting case** — a Kanja-crew team-up (Onyx, Sephtis, Ironbane fielding
+  `CULT-197`'s Anti-Resonance countermeasure together) rather than a single classified alias's solo
+  action, and it explicitly requires Onyx as an active combat participant, which confirms it must sit
+  *before* age 30 (Onyx is sealed for the entire Long Mask, `MCD-246`) — squarely inside this track's
+  own Rebellion-only window. Per Abad's approval, this defeat belongs to the Kanja-version track, not
+  to any Alias Chronicle wave. Brakon Skevik, Ossa Drem (both "exposed/killed by Red Beard"), and
+  Callas Modrin (exposed by Ezio Valcari) belong to Red Beard's and Ezio's own future protagonist
+  tracks respectively — neither exists yet, both out of scope here.
+- **Reserved threads for this series:** everything in Section 1's Reserved/unresolved threads above
+  — most relevantly, this track must never assert or imply Haku's death, must not touch the Drowning
+  Vault's 120 or the Master Frequency Crystal (both post-Great-Breach), and must stay entirely on the
+  near side of the Book 1 investigative-noir premise (`MCD-070`) — nothing here foreshadows the
+  Fulfillment Ceremony or Maro Rexmar's death.
+- **Chronicle I candidates** (per Abad's own Ozmund-precedent: pitches to pick from or redirect, not
+  one pre-committed draft):
+  1. **A new, small-scale early-Rebellion vignette** (age 18, between the Scrip-Forge Raid and the
+     Dredge-Line Ambush, or shortly after) — deliberately modest in stakes, so Onyx's voice can open
+     from genuine zero exactly as Chronicle I of the manuscript does, without competing with or
+     restating either already-written battle.
+  2. **A dramatization of the Daba/Kanja mutual mentorship** (`MCD-1568`/`1570`), set in the
+     "otherwise-unrecorded formative years" just before age 18 — the one already-locked relationship
+     in Kanja's own life that has never been shown from his side (Daba's own 50-Chronicle launch wave
+     covers it from Daba's POV; this would be the same events, or adjacent ones, from Kanja's). Onyx
+     would be very early/minimal here, possibly not yet fully bonded depending on exact timing —
+     worth checking against `ARS-020`'s age-17 bonding date before committing.
+  3. **Renfel Auberon's defeat** (`MCD-1865`) as a mid-track entry rather than Chronicle I specifically
+     — the strongest candidate for showing Onyx's voice once it has grown substantially (a real
+     combat/team-up scene, Onyx an active participant, `CULT-197`'s three-source countermeasure on the
+     page for the first time) — better suited to a later slot in the sequence than the opening one.
+- **Abad's pick / direction:**
 
 ---
 
