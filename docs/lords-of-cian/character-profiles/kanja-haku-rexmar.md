@@ -1,6 +1,6 @@
 # Kanja Haku Rexmar — Profile & Game Plan
 
-**Status:** profile in discussion
+**Status:** profile approved — awaiting Game Plan sign-off (Chronicle I pick)
 **Track:** Kanja version (new track, Onyx-narrated)
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
@@ -250,10 +250,8 @@ forward, starting from Chronicle I of this track.
 
 ## 2. Psychological Profile
 
-**PROPOSED** — synthesized from what is already demonstrated in the manuscript (Chronicles I–VIII)
-and already locked across the ledger for this specific age-18–30 window. Nothing here is invented;
-it is a first attempt at naming the pattern that's already on the page, offered for Abad's
-correction rather than as a finished read.
+**APPROVED, 2026-09-28** — synthesized from what is already demonstrated in the manuscript
+(Chronicles I–VIII) and already locked across the ledger for this specific age-18–30 window.
 
 - **Core wound / formative event — CONFIRMED for this track's window (ages 18–30):** not a single
   traumatic loss — his father's murder (`MCD-025`) is Book 1's opening event and sits *after* this
@@ -275,45 +273,49 @@ correction rather than as a finished read.
   track** (matching the existing reserved-thread constraint against the Fulfillment Ceremony) — it
   belongs to a future Book-1-era or post-Fulfillment-Ceremony psychological profile, whenever that
   track is opened. Flagged here now specifically so it isn't rediscovered from scratch later.
-- **Defense mechanisms (PROPOSED):** arithmetic as armor. He processes violence, mercy, and loss
+- **Defense mechanisms — CONFIRMED:** arithmetic as armor. He processes violence, mercy, and loss
   alike through explicit cost/ratio language ("the cost of action and the cost of inaction... the
   ratio is always the answer," Ash-Wharf) — a way of making unbearable decisions bearable by making
   them legible. He also defers naming: he never chooses his own aliases, titles, or reputation —
   Breck names the Trench Monarch, the fire names the Scourge, the Directorate names Bane — and he
   treats the name as belonging to "the people who spoke the word," not to himself. Both are the same
   defense from two angles: keep the self smaller than the function.
-- **Values — what he will not compromise (PROPOSED):** the "no killing" doctrine at the Dredge-Line
+- **Values — what he will not compromise — CONFIRMED:** the "no killing" doctrine at the Dredge-Line
   is not squeamishness, it's doctrine — the moment the fight becomes killing, it becomes a war the
   Trust's military can answer, rather than a humiliation its bureaucracy has no clean response to.
   Evidence over violence, first demonstrated at the Scrip-Forge Raid, recurs as his signature method
   for twelve years. And per Ash-Wharf: material, reputation, and strategy are all spendable; "the
   people are the line, everything else burns."
-- **How he holds contradiction (PROPOSED):** he is simultaneously the most calculating person in any
+- **How he holds contradiction — CONFIRMED:** he is simultaneously the most calculating person in any
   room (Pell Ostra: "you sound like you're describing a pump rebuild") and the source of the most
   mythic, uncalculated public image in the setting (the burning coat at Ash-Wharf). He doesn't
   experience this as contradiction — the theater and the arithmetic are, to him, the same act viewed
   from outside versus inside, and Onyx's own closing line at Ash-Wharf ("the performance and the
   cost... the image and the arithmetic beneath the image") is the clearest existing statement of it.
-- **Relationship patterns (PROPOSED):** he leads by handing the room the actual numbers and letting
+- **Relationship patterns — CONFIRMED:** he leads by handing the room the actual numbers and letting
   them decide (the Dredge-Line briefing, the Ezio recruitment) rather than by command presence; trust,
   for him, is demonstrated competence recognized and deferred to (Hask's "the boy's math was right at
   the Forge," Maren's "you're not guessing, you're reading the load"). He recruits by proof, not
   charisma, and the crew's own naming rituals toward him (Hask calling him by his bare name, Breck and
   Hask independently converging on "Captain") suggest he is far more comfortable being *trusted* than
   being *followed*.
-- **What breaks him / his real vulnerability (PROPOSED):** not physical — density is inactive this
+- **What breaks him / his real vulnerability — CONFIRMED:** not physical — density is inactive this
   whole era and even the Trinity mostly wins by removing the enemy's ability to fight rather than by
   overpowering them. The actual cost lands on the people around him: the twenty-seven names Onyx
   "holds" from the Black Trench, Nev Torr's death breaking Breck for four months, the Dead Drakma
   reserve spent to ash at Ash-Wharf. He is vulnerable exactly where the ratio has no clean answer —
   when the cost of action and the cost of inaction are both real losses of people, not resources.
-- **Defining emotional throughline (PROPOSED):** *the function, not the name.* Onyx's own developing
+- **Defining emotional throughline — CONFIRMED:** *the function, not the name.* Onyx's own developing
   thesis across Chronicles III–VI — "he finds the seam, he reads the load, he removes what is false...
   the blade did not teach him this, the boy arrived with the function already present" — is, read
   straight, Kanja's own throughline: identity as expressed entirely through what he does to a
   structure (a lie, a column, a debt, a district), never through a title he claims for himself.
 
-**Abad's ruling, verbatim, once given:**
+**Abad's ruling, verbatim:** on the core wound: "Core wound is correct. his father's death is the
+most devastating blow, but it awakens the urge to destroy his enemies" (recorded above as the
+reserved, post-window second wound). On the rest of the profile (defense mechanisms, values, holding
+contradiction, relationship patterns, what breaks him, the throughline): "the rest lands, keep
+going." Section 2 is closed.
 
 ---
 
