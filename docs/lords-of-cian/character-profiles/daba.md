@@ -1,6 +1,6 @@
 # Daba — Profile & Game Plan
 
-**Status:** profile in discussion
+**Status:** profile approved — awaiting Game Plan sign-off (next-wave pick)
 **Track:** Character Chronicle (new faction)
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
@@ -425,22 +425,46 @@ this file always reflects current understanding, not a batch-log history of how 
   through refusing to let a person become a statistic) — two different emotional answers to the same
   locked shared root (`MCD-1568`) of one lesson taught in two directions.
 
-**Abad's ruling, verbatim, once given:**
+**Abad's ruling, verbatim:** "Approve as drafted, keep going." Section 2 is closed.
 
 ---
 
 ## 3. Game Plan
 
-- **Narrator / voice:** (confirm against Voice Bible rules if one is already locked; propose one
-  if not, and get it confirmed before drafting)
-- **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
-  character's life/role actually calls for a split)
-- **Reserved threads for this series** (deliberately not touched yet, carried over from the
-  walkthrough plus anything new identified during profile discussion)
-- **Chronicle I candidates** (2-3 pitches, not one pre-committed draft):
-  1.
-  2.
-  3.
+- **Narrator / voice:** close-third on Daba himself — no dedicated named narrator (distinct from
+  Kanja's Onyx and Lauris's Fermand). Matches the territory-leader Chronicle model his existing
+  50-entry corpus was already built on (Batch 296), and the same close-third convention `VB-026`
+  itself specifies for protagonist-of-their-own-story tracks. Not a new decision — confirming what
+  the corpus already does, not proposing a change.
+- **Pacing convention:** single continuous sequence, matching all fifty existing entries (Chronicles
+  I–L) — no strand split. Unlike Lauris (whose ~34,000-year Kares Prime past plus present-day
+  Directorate/Ledger/Witness material genuinely called for four parallel strands), Daba's whole
+  life sits inside one much shorter, more linear window: the Rookery, 1804's founding, the
+  mentorship with Kanja, the network's mature years, its semi-dormant present. A next wave would
+  continue the numbering from LI onward.
+- **Reserved threads for this series:**
+  - `MCD-1569`'s Book 1 trigger for 1804 stays unspecified — no future Chronicle may name or imply
+    it before Book 1 itself is drafted.
+  - Whether Daba wants anything for himself beyond the network's survival is **explicitly still
+    open** per Section 2 — a future wave may develop it, but nothing may quietly assert an answer
+    without being flagged as its own decision first.
+  - No Chronicle in the existing 50 shows him personally tested in combat or physically endangered;
+    his S-tier rating (`CC-135`) has never been dramatized under threat. Not necessarily reserved
+    forever, but nothing has touched it yet.
+  - 1804 stays "never folded into... never publicly credited alongside" Kanja's own crew structure
+    (`MCD-1569`) — any Kanja-adjacent material keeps that separation.
+- **Next-wave candidates** (per the gate's own instruction for an already-running series — pitches
+  to pick from or redirect, not one pre-committed draft):
+  1. **Test the open psychological question directly.** A wave built around something that forces
+     the "what does Daba want for himself" question into the open — a succession moment, an offer to
+     step back, a choice with no tactical justification either way — developing Section 2's flagged
+     gap rather than leaving it open indefinitely.
+  2. **The first real physical test.** A wave that finally puts his S-tier rating under genuine
+     threat — the corpus has never shown this — revealing something about "what breaks him" through
+     danger rather than through the accounting metaphor alone.
+  3. **Deepen the semi-dormant present without touching the Book 1 trigger.** A wave set in 1804's
+     current "running semi-dormant" years (`MCD-1569`), showing what the network actually does day
+     to day while waiting for a triggering event that stays unspecified — texture, not plot advance.
 - **Abad's pick / direction:**
 
 ---
