@@ -212,6 +212,12 @@ forward, starting from Chronicle I of this track.
   Interregnum → Karkosa Heist); epilogue is the Great Breach, the SBD uncovered, T.D.K.'s 5,000-year
   dormancy ending. This is the hard chronological wall at the far end of anything this new track
   could draft — everything in this walkthrough (ages 18–314) sits *before* it.
+- **Maro Rexmar's death as Kanja's true center, per Abad (2026-09-28) — reserved, not this track's
+  material.** Per Section 2's Psychological Profile: his father's death at the Fulfillment Ceremony
+  is "the most devastating blow" of Kanja's life and "awakens the urge to destroy his enemies" —
+  bigger than, and a real turn away from, the measured/evidence-over-violence psychology this track
+  documents for ages 18–30. Nothing in this track may foreshadow, soften, or otherwise anticipate this
+  turn; it is the seed of a future Book-1-era or post-Fulfillment-Ceremony psychological profile.
 - **The eleven queued villain defeats** (see Already-locked plot beats above) — explicitly unwritten,
   and explicitly the kind of gap that prompted this whole gate-backfill project; worth naming directly
   when the Game Plan for this track is discussed, since several would fit either an Alias Chronicle
@@ -249,13 +255,26 @@ and already locked across the ledger for this specific age-18–30 window. Nothi
 it is a first attempt at naming the pattern that's already on the page, offered for Abad's
 correction rather than as a finished read.
 
-- **Core wound / formative event (PROPOSED):** not a single traumatic loss — his father's murder
-  (`MCD-025`) is Book 1's opening event and sits *after* this entire window, so it cannot be this
-  track's wound. What the manuscript actually shows instead is a standing, chosen refusal: he is "a
-  king's son who did not advertise it," apprenticed to a forge he did not need. The formative fact
-  is the debased Scrip-note itself (Chronicle I) — the moment an eighteen-year-old with every reason
-  to simply claim his birthright instead notices that the system lies to the people beneath him, and
-  treats that lie as a problem to be solved rather than a fact of life to be endured.
+- **Core wound / formative event — CONFIRMED for this track's window (ages 18–30):** not a single
+  traumatic loss — his father's murder (`MCD-025`) is Book 1's opening event and sits *after* this
+  entire window, so it cannot be this track's wound. What the manuscript actually shows instead is a
+  standing, chosen refusal: he is "a king's son who did not advertise it," apprenticed to a forge he
+  did not need. The formative fact is the debased Scrip-note itself (Chronicle I) — the moment an
+  eighteen-year-old with every reason to simply claim his birthright instead notices that the system
+  lies to the people beneath him, and treats that lie as a problem to be solved rather than a fact of
+  life to be endured.
+- **A second, later, and larger wound — outside this track's window, recorded here so it is never
+  lost:** per Abad, verbatim: "his father's death is the most devastating blow, but it awakens the
+  urge to destroy his enemies." This is the true center of Kanja's psychology across his whole life
+  — bigger than the Scrip-Forge realization above — but it happens at the Fulfillment Ceremony
+  (`MCD-025`), Book 1's opening event, decades after this track's Rebellion-only window closes at age
+  30. It marks a real turn: the measured, ratio-driven, evidence-over-violence, "no killing" ethos
+  this track's window documents is not his permanent nature — it is the nature of the man *before*
+  that blow lands. Afterward, something closer to a destructive urge against his enemies is awakened.
+  **This must not be foreshadowed, softened into, or otherwise touched by anything drafted in this
+  track** (matching the existing reserved-thread constraint against the Fulfillment Ceremony) — it
+  belongs to a future Book-1-era or post-Fulfillment-Ceremony psychological profile, whenever that
+  track is opened. Flagged here now specifically so it isn't rediscovered from scratch later.
 - **Defense mechanisms (PROPOSED):** arithmetic as armor. He processes violence, mercy, and loss
   alike through explicit cost/ratio language ("the cost of action and the cost of inaction... the
   ratio is always the answer," Ash-Wharf) — a way of making unbearable decisions bearable by making
