@@ -465,7 +465,8 @@ this file always reflects current understanding, not a batch-log history of how 
   3. **Deepen the semi-dormant present without touching the Book 1 trigger.** A wave set in 1804's
      current "running semi-dormant" years (`MCD-1569`), showing what the network actually does day
      to day while waiting for a triggering event that stays unspecified — texture, not plot advance.
-- **Abad's pick / direction:**
+- **Abad's pick / direction:** "All three — do them as a wave." Drafted as Chronicles LI–LIII;
+  full text presented for approval before locking, per the non-negotiable draft-then-approval rule.
 
 ---
 
