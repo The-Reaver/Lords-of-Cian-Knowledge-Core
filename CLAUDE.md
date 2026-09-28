@@ -3153,6 +3153,58 @@ are undramatized from Kanja's own direct POV), a possible future Long-Mask-era w
 proves out, or returning to the pinned items -- the Rootline lock, Daba's Psychological Profile, and
 the nine-entry Captain Trinity-fix.
 
+## The Rootline locked, and the nine-entry Captain Trinity-fix closed, Batch 314, 2026-09-28
+
+Resumes two of the three items pinned during the Kanja-version track's launch (Batch 313), per
+Abad's direction: "use as many agents as possible to make it efficient." Ten parallel background
+agents ran at once -- nine fixing the confirmed Captain Trinity errors, one drafting Daba's own
+Psychological Profile (held for discussion, not locked in this batch; see below).
+
+**The Rootline (`ARS-436`) locked; `MCD-1858` amended.** Replaces the era-mismatched Undertow
+reference in Rannic Sorvell's defeat by the Sovereign Ghost of the Great Sea -- Undertow is a
+Book-2-era Moonvault gift, but Sorvell's own era is the Long Mask's Pirate Dawn, decades earlier.
+Per Abad's direction ("something Daba gave him... should fit in with the long mask's pirate Dawn"),
+the Rootline is a private gift from Daba to Kanja: an iron-and-woven-rope grappling rig, forged
+using the Rexmar smithing principles Kanja taught him (`MCD-1568`), carrying no power of its own --
+the grounding comes from Kanja's own Mar-bloodline tide-reading senses (`MCD-295`) reading the exact
+moment to deploy it, not any Living-Drakma current-generation mechanism. Never publicized, never
+folding 1804 into the crew's own credit, consistent with `MCD-1569`. Zero collisions checked against
+six candidate names before drafting.
+
+**The nine-entry Captain Trinity-fix closed.** `MCD-1058`, `1091`, `1367`, `1374`, `1381`, `1386`,
+`1515`, `1518`, and `1521` each wrongly described a "full-Trinity combat showcase" -- Mafesto's
+Kinetic Transfer System, Onyx of Oblivion's named powers, Obsidian Malice -- in Captain Alias
+Chronicle entries explicitly set well within the 284-year Long Mask, after the Trinity's already-
+locked age-30 surrender (`MCD-246`). Nine parallel agents, one per file, rewrote each Chronicle to
+use the correct Long-Mask-era kit instead: the seven-piece post-Mafesto gear system (`ARS-344`
+through `356` -- the Forge-Coat, Sovereign Eyes, Breath Collar, Ironhand Gauntlets, Ironfall Boots,
+Smoke System, Mend-Line) plus the Rexmar Machete, wielded through plain trained swordsmanship and
+Kanja's own instinctive Rexmar-Mar tactical sense -- never a named "power." Every scene, beat,
+outcome, and line of dialogue was preserved exactly; only the gear/ability performing each action
+changed (Mafesto's momentum-redirection -> the Forge-Coat plus Ironfall Boots' grounding function;
+Obsidian Malice's discharge -> the Ironhand Gauntlets' leverage, explicitly not a discharge; Onyx's
+five named powers and its "reading" of a fight -> the Rexmar Machete plus Kanja's own biological
+tactical instinct, with the Sovereign Eyes and Smoke System covering any perception/stealth beat
+that had used Whisper of Shadows). Each file's own italic header note was corrected in place with a
+sentence citing this batch, matching the house style already established for the manuscript's own
+Batch 70/71 corrections. The nine matching ledger rule statements were then updated centrally to
+mirror each file's exact reported swap-map. Ledger reached `ledger_version` 31.7, 2,638 rules, 314
+batches -- zero duplicate IDs verified.
+
+**The third pinned item, Daba's Psychological Profile, drafted but not locked.** A tenth parallel
+agent drafted a PROPOSED Psychological Profile directly into `docs/lords-of-cian/character-
+profiles/daba.md` (Section 2 only), grounded in his existing 50-Chronicle corpus: core wound as the
+specific miscount at the bottom of the Rookery's stairs (`MCD-1566`, Chronicle I) rather than the
+tragedy generically; a throughline of "the debt correctly counted" (grief converted into permanent,
+disciplined accounting); and an explicit, flagged parallel-and-distinction against Kanja's own
+already-confirmed "arithmetic as armor" (Kanja's arithmetic is forward-looking and licenses a
+choice; Daba's is backward-looking and keeps an unrepayable loss legible) -- offered to Abad to
+confirm or correct rather than asserted as settled, matching the process used for Kanja's own
+profile. One real gap flagged rather than papered over: the corpus never shows a personal want for
+Daba distinct from the network's own survival, left as an open question rather than invented.
+Genuinely open for whenever Abad wants it next: discussing and confirming Daba's profile, closing
+his gate's Game Plan stage, or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

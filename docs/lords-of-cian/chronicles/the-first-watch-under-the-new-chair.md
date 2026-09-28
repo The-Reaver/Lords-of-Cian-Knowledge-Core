@@ -1,6 +1,6 @@
 # The First Watch Under the New Chair
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1381`). Captain Alias Chronicle LXXXI, wave 27, closing the wave. A detailed full-Trinity combat showcase tests the new rotating-chair structure under real stress for the first time.*
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1381`). Captain Alias Chronicle LXXXI, wave 27, closing the wave. A detailed Long-Mask-era combat showcase -- the Forge-Coat and Ironfall Boots working in tandem, the Ironhand Gauntlets, and the Rexmar Machete, the trained kit and swordsmanship Kanja carries during the Trinity's 284-year sealing (`MCD-246`) -- tests the new rotating-chair structure under real stress for the first time. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly equipped Kanja with Mafesto, Obsidian Malice, and Onyx of Oblivion, all of which are sealed in the vault throughout this era per the already-locked age-30 surrender (`MCD-246`); this version replaces that gear with his actual Long-Mask-era kit (`ARS-344` through `ARS-356`) with no change to the scene, its outcome, or Corren Halst's command of it.*
 
 ---
 
@@ -8,11 +8,11 @@ The test came sooner than anyone would have chosen, three weeks into Corren Hals
 
 Halst called the response herself, which was new — under the old, undiscussed arrangement, a threat this size would have waited for Kanja's own call by habit even when he was standing right there. She didn't wait for him to weigh in first.
 
-"Full Trinity deployment, Kanja on point. Ostra seals the rear approach with the deadfall lines from the pass job. Breck runs perimeter signals. Gol coordinates the children's evacuation to the cellar the moment the first watch-signal goes up, and nobody, myself included, second-guesses her count once she gives it." She looked at Kanja last, not first. "That's my call as chair. Any objection?"
+"Full defensive deployment, Kanja on point. Ostra seals the rear approach with the deadfall lines from the pass job. Breck runs perimeter signals. Gol coordinates the children's evacuation to the cellar the moment the first watch-signal goes up, and nobody, myself included, second-guesses her count once she gives it." She looked at Kanja last, not first. "That's my call as chair. Any objection?"
 
 "None," he said, and meant it fully — not deference to spare her feelings, but genuine agreement that the plan was the right one.
 
-It held exactly as called. Mafesto's Kinetic Transfer System threw the lead breacher's own forced door back into the men behind him before it finished swinging; Obsidian Malice discharged twice, low and angled away from the cellar stairs where Efa Gol had already moved every child; Onyx's Cadence Ruin closed the last three raiders in a rhythm built for exactly this kind of confined, high-stakes room, every strike disarming. Nineteen children never left the cellar until Efa Gol herself came down to tell them it was over.
+It held exactly as called. The Forge-Coat and Ironfall Boots took the lead breacher's own forced door in tandem — the Boots' grounding function bleeding the impact down through his stance while the Coat's plating turned the door's weight back into the men behind it before it finished swinging, engineering and trained footwork doing what no gift ever needed to. The Ironhand Gauntlets struck twice through pure leverage and drilled technique, low and angled away from the cellar stairs where Efa Gol had already moved every child — no discharge, no power, just riveted plate and a smith's own trained hands. The Rexmar Machete closed the last three raiders in a rhythm Kanja read off their own footing and breath rather than off any blade of his — the same instinctive Rexmar-Mar sense that had always told him where a fight was about to bend, carrying an ordinary forged edge through a room built for exactly this kind of confined, high-stakes work, every strike disarming. Nineteen children never left the cellar until Efa Gol herself came down to tell them it was over.
 
 Halst filed the after-action report in her own hand that night, the first such report ever written under a chair who wasn't Kanja, and the fact of it — ordinary, procedural, unremarkable in every way except that it existed at all — was the whole proof the new structure needed.
 

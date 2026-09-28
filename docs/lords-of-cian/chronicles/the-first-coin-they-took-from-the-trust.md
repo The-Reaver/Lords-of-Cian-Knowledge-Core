@@ -1,7 +1,12 @@
 # The First Coin They Took From the Trust
 
 *Locked canon, Batch 251, 2026-09-11 (`MCD-1091`). Captain Alias Chronicle LXIII, wave 21, closing
-the wave. Detailed full-Trinity combat showcase. Not a territory Chronicle.*
+the wave. Detailed Long Mask-era gear showcase -- the Forge-Coat, Ironfall Boots, Ironhand
+Gauntlets, and the Rexmar Machete, not the surrendered Trinity. Not a territory Chronicle.
+Corrected, Batch 314, 2026-09-28: an earlier draft of this file mistakenly used Trinity-era gear
+(Mafesto, Obsidian Malice, Onyx of Oblivion) despite this entry being set well after Kanja's
+already-locked age-30 surrender of the Trinity for the entire 284-year Long Mask era (`MCD-246`);
+corrected to the actual Long Mask-era kit (`ARS-344` through `ARS-356`).*
 
 ---
 
@@ -25,21 +30,28 @@ distribution list. Take the coin. Feed twelve hundred people. Argue about what i
 The raiders came at midday, when the line was longest and the plaza most crowded -- eight men who'd
 planned to hit the granary doors in the crush and vanish into the same crowd they'd be robbing, betting
 correctly that the administrator's own thin garrison wouldn't risk firing into that many bystanders.
-What they hadn't planned for was Onyx's Veil Piercer sweeping the packed plaza before the first sack
-was even touched, reading past eight ordinary postures and eight deliberately ordinary faces to the
-one shared tell none of them could fully hide -- the way each man's attention kept snapping back to
-the same two exits, over and over, the way no one waiting patiently in a food line ever does. Kanja had
-three of them marked before the first hand reached a granary latch.
+What they hadn't planned for was Kanja's own eye sweeping the packed plaza before the first sack was
+even touched, the same instinctive Rexmar-Mar reading that had never needed anything but his own
+trained attention to find a lie in a crowd, picking past eight ordinary postures and eight
+deliberately ordinary faces to the one shared tell none of them could fully hide -- the way each
+man's attention kept snapping back to the same two exits, over and over, the way no one waiting
+patiently in a food line ever does. Kanja had three of them marked before the first hand reached a
+granary latch.
 
-He fought it the way the Trinity had learned to fight anywhere people who weren't soldiers stood too
-close to the danger. Mafesto's Kinetic Transfer System took the first raider's drawn blade not with a
-strike but a redirect, the man's own committed lunge thrown wide into an empty stretch of plaza stone
-instead of the woman he'd been aiming past; Obsidian Malice discharged in three short, precisely
-angled bursts rather than one, dropping each of the marked men where he stood without the wider blast
-that would have scattered the crowd into a panic that killed more people than the raid itself ever
-could have. Onyx closed the last two exits personally, reading the plaza's own uneven cobblestones
-under a dead sprint and landing between the fleeing men and the alley they'd banked on, every blow
-disarming rather than killing, the way it always had since the pier at Iron Shallows.
+He fought it the way the gear built after the Trinity's surrender had been designed to fight anywhere
+people who weren't soldiers stood too close to the danger. The Forge-Coat and Ironfall Boots took the
+first raider's drawn blade not with a strike but a redirect -- the Boots' grounding function turning
+Kanja's own planted stance into an anchor, the coat's plating guiding the man's committed lunge wide
+into an empty stretch of plaza stone instead of the woman he'd been aiming past, trained technique and
+engineered gear doing together what neither could alone. The Ironhand Gauntlets answered the other
+three in short, precisely placed strikes rather than one sweeping blow -- leverage through riveted
+plate, no discharge, no burst, just a fist landing exactly as hard as it needed to and no harder --
+dropping each of the marked men where he stood without the wider commotion that would have scattered
+the crowd into a panic that killed more people than the raid itself ever could have. Kanja closed the
+last two exits personally, reading the plaza's own uneven cobblestones under a dead sprint on instinct
+alone and landing between the fleeing men and the alley they'd banked on, the Rexmar Machete doing the
+rest -- every blow disarming rather than killing, exactly the way his own trained swordsmanship always
+aimed it.
 
 It was over before most of the line had understood there'd been a threat at all. The administrator,
 white-faced and clearly expecting to have to apologize for something, found instead that the
@@ -55,15 +67,18 @@ but something close enough to stand beside.
 
 ---
 
-*Continuity notes (not narrative): the wave's detailed full-Trinity combat showcase and closer,
+*Continuity notes (not narrative): the wave's detailed Long Mask-era gear showcase and closer,
 deliberately distinct from every prior combat setup in the sub-series -- a crowded civic plaza rather
 than a causeway (`MCD-396`), fortified strongpoint (`MCD-461`), safehouse (`MCD-507`), siege line
 (`MCD-558`), or unpaid fishing-village pier (`MCD-1058`) -- and the sub-series' first entry to show the
 crew formally paid, and paid specifically by the Sovereign Trust they spent twelve years fighting,
 producing genuine internal friction (Corren Halst) resolved through Kanja's own explicit distinction
-between serving an institution and feeding the people it nominally administers. First on-page use of
-Onyx of Oblivion's named Veil Piercer power (previously showcased for the Trench Monarch, `MCD-369`)
-inside the Captain sub-series specifically, applied to crowd-threat detection rather than combat
-tracking. No new named characters -- Corren Halst, Efa Gol, Callum Breck, and Kanja all reused; the
-Trust administrator and all eight raiders are deliberately unnamed. Closes Captain's twenty-first
-wave.*
+between serving an institution and feeding the people it nominally administers. Puts the Forge-Coat
+and Ironfall Boots' combined redirect/grounding function, the Ironhand Gauntlets' leverage-driven
+strikes, and the Rexmar Machete's plain trained swordsmanship on the page together for the first time
+inside the Captain sub-series, with the crowd-threat detection itself attributed to Kanja's own
+instinctive Rexmar-Mar tactical sense rather than to any gear or Trinity power. No new named
+characters -- Corren Halst, Efa Gol, Callum Breck, and Kanja all reused; the Trust administrator and
+all eight raiders are deliberately unnamed. Closes Captain's twenty-first wave. Corrected, Batch 314,
+2026-09-28, from an earlier draft that mistakenly used Trinity-era gear after the character's
+already-locked age-30 surrender (`MCD-246`).*

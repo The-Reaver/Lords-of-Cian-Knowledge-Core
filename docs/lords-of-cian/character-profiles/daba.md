@@ -1,6 +1,6 @@
 # Daba — Profile & Game Plan
 
-**Status:** walkthrough drafted
+**Status:** profile in discussion
 **Track:** Character Chronicle (new faction)
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
@@ -330,14 +330,100 @@ Built collaboratively with Abad, not handed to him finished. Draft proposals go 
 **PROPOSED**, and are corrected in place (not appended-and-superseded) once discussed —
 this file always reflects current understanding, not a batch-log history of how we got there.
 
-- **Core wound / formative event:**
-- **Defense mechanisms:**
-- **Values — what they will not compromise:**
-- **How they hold contradiction** (the specific tension that makes them dramatically interesting):
-- **Relationship patterns:**
-- **What breaks them / their real vulnerability:**
-- **Defining emotional throughline** (the equivalent of Lauris's combat-joy, Daba's
-  discipline-over-mass doctrine, Arturo's chosen-family-as-answer-to-loss):
+- **Core wound / formative event (PROPOSED):** the Rookery itself (`MCD-1566`), but specifically
+  the miscount at the bottom of it. Chronicle I ("What the Stairs Would Not Give Back," `MCD-1571`)
+  shows Daba getting eleven of nineteen children out clean, then losing the sound of Fennic's voice
+  on the stairs above him — the wound is not simply that people died, it's that the number he was
+  counting, the one discipline he actually had in that moment, came out wrong: "eleven children plus
+  one counted twice against a number he did not yet have and would spend the rest of his life
+  carrying." Chronicle II (`MCD-1572`) shows the immediate aftermath: the death toll (1,804) landing
+  on him not as an abstraction but as a number that "already had Fennic's face in it" the instant he
+  heard it — and shows his very first response to catastrophic loss being to sit beside Odalys and
+  take names, refusing to let anyone go into her ledger unnamed. `CC-135` confirms he was present and
+  survived as one of the caregivers, not an outside founder arriving after the fact — the wound is
+  personally lived, not inherited secondhand.
+- **Defense mechanisms (PROPOSED):** counting as containment. The corpus shows this as literal,
+  involuntary habit — Chronicle L (`MCD-1620`) has him automatically counting heads in any room he
+  sits in for more than a few minutes, "unbidden, automatic, no longer anything he needed to fight" —
+  and as formalized private ritual: the annual reading of a hand-kept list of every name the doctrine
+  has cost, which Chronicle XL (`MCD-1610`) is explicit is "not penance, it was accounting," because
+  "a debt correctly counted was a debt that could, eventually, be answered." The second, related
+  defense is extended, deliberate observation before any decisive contact with a person: he watches
+  Sael eleven days before testing her (Ch. VI), watches the young Kanja eleven days before
+  approaching him (Ch. XI–XII), and vets Isolde Wrenna for roughly a year before she is ever told the
+  truth (Ch. XXIX). Worth flagging directly to Abad: this reads as a deliberate structural echo of
+  Kanja's own already-locked defense, "arithmetic as armor" (`kanja-haku-rexmar.md`, Section 2) — and
+  given `MCD-1568`'s explicit framing of their mentorship as one lesson taught from two directions,
+  that echo may be intentional rather than coincidental. The two are not identical, though: Kanja's
+  arithmetic is a decision-ratio (cost of action versus cost of inaction, applied outward to justify
+  a choice); Daba's is a ledger of names (applied backward, to keep an unrepayable loss legible rather
+  than to license the next action). Both keep an unbearable thing bearable by making it countable.
+- **Values — what he will not compromise (PROPOSED):** doctrine over mass, absolutely — `MCD-1567`'s
+  "anything large enough to be seen is large enough to be burned" is not a tactic he'll trade off
+  against a good enough argument. Chronicle XXXIX ("The Case Kether Made," `MCD-1609`) is the
+  clearest test of this: Kether makes a substantive, numerically grounded case for scaling up, and
+  Daba concedes he has no answer that fully satisfies him — but he still will not simply authorize
+  growth, offering a controlled, bounded experiment instead of the thing she actually asked for. The
+  second non-negotiable, tightly linked to the first: no debt goes unacknowledged and no relationship
+  runs one-directional. Chronicle XIV ("The Trade Between Equals," `MCD-1584`) has him say "I don't
+  like the shape of that" about teaching the young Kanja for free, and refuse to let the arrangement
+  stand as charity in either direction until both sides name it a trade aloud. Chronicle XXXVI ("What
+  He Would Not Trade," `MCD-1606`) gives the title's own value its sharpest edge: he will not spend
+  three or four lives to buy back one, even Tamsin's, even under direct pressure from a subordinate
+  who trained her — the arithmetic that keeps the network alive is not suspended for grief.
+- **How he holds contradiction (PROPOSED)** — the specific tension that makes him dramatically
+  interesting: he is, in the single moment that actually matters, the least deliberate person in the
+  network — Chronicle I is explicit that at the Rookery "he did not remember deciding anything," and
+  Chronicle XXXVI shows the identical register years later, an instant, unflinching "None of them" the
+  moment Bren finishes laying out rescue plans for Tamsin. And yet everything he has built since the
+  Rookery is the opposite of that: eleven-day watches, year-long vetting, a doctrine explicitly
+  designed so that no one, himself included, is ever again forced to act on that little information
+  that fast. He doesn't experience this as contradictory, because it isn't, from inside: the years of
+  patient observation are exactly what let the instant decision arrive already correct rather than
+  merely fast — the deliberation is front-loaded so precisely that when the crisis moment does come,
+  what looks like pure reflex is actually the doctrine speaking through him rather than a break from
+  it.
+- **Relationship patterns (PROPOSED):** trust and intimacy are earned slowly and never assumed, in
+  every direction — the blind-succession structure (Ch. XXVII) that never tells a chosen second they
+  were chosen until it matters; the year of unwitting testing given to Isolde Wrenna (Ch. XXIX); and,
+  with Kanja specifically, an opening register the text names outright as "deliberate mutual wariness
+  rather than any trust" (Ch. XI) that only resolves into something warmer once both parties state the
+  exchange aloud as a trade between equals (Ch. XIV). The corresponding cost of this pattern: he keeps
+  even his closest relationships at one structural remove by design, deliberately reaching a point
+  where he "no longer knows every face in the network" he built (Ch. XXX, `MCD-1600`) — closeness with
+  specific people (Mika, kept near him across the entire fifty-entry corpus, present from the cistern
+  in Chronicle I through the closing meal in Chronicle L) coexists with institutional distance from
+  the whole he's responsible for. He does not lead by command presence; he leads by demonstrated
+  proof, the same currency he demands of anyone who wants close to him.
+- **What breaks him / his real vulnerability (PROPOSED):** not physical defeat — no Chronicle in the
+  corpus shows him personally endangered or tested in combat; his S-tier rating (`CC-135`) is never
+  once dramatized as a limit under threat. His real vulnerability is that the accounting never
+  resolves. Chronicle XL states this as flatly as the corpus ever states anything: "neither the doubt
+  nor the determination resolves the other" — he has never once let the private list stop him from
+  acting, but he has also never once achieved the certainty that would let him set the list down.
+  Chronicle L sharpens this further: when Wrenna asks the plainest possible question — what is all of
+  this actually *for* — his honest answer is "I don't know. I've never known," and he has built a
+  life's discipline, and asked a great many people to risk their lives inside it, on a founding
+  principle he cannot fully justify even to himself. He is vulnerable exactly where no amount of
+  patient counting produces an answer. **Genuinely open, not yet demonstrated anywhere in the
+  corpus, worth settling with Abad rather than assumed:** whether he wants anything for himself
+  distinct from the network's survival — the Rules Walkthrough itself flags that no entry across all
+  fifty addresses a personal want or hope, and this profile does not invent one. That absence may
+  itself be part of what breaks him (a self folded entirely into the ledger), or it may simply be
+  underwritten territory a future wave should develop — the corpus as it stands doesn't say which.
+- **Defining emotional throughline (PROPOSED):** *the debt correctly counted.* Not discipline-over-
+  mass itself — that's the doctrine's tactical expression, already locked at `MCD-1567` — but the
+  emotional engine underneath it: grief metabolized into permanent, disciplined accounting rather than
+  into either collapse or false resolution. Chronicle XL states the thesis directly — "the list was
+  not penance, it was accounting... a debt correctly counted was a debt that could, eventually, be
+  answered" — and the whole of 1804 (the doctrine, the vetting, the cross-training, the forging
+  network Kanja's teaching made possible, `MCD-1570`) reads as one extended, still-unfinished attempt
+  to answer a specific, un-erasable failure of count on one night eight years before the Rebellion. It
+  is worth naming to Abad directly as a deliberate resonance rather than an accident of two separate
+  drafts: Kanja's own throughline is "the function, not the name" (identity expressed entirely through
+  action on a structure); Daba's is closer to "the name, not the number" (identity expressed entirely
+  through refusing to let a person become a statistic) — two different emotional answers to the same
+  locked shared root (`MCD-1568`) of one lesson taught in two directions.
 
 **Abad's ruling, verbatim, once given:**
 

@@ -1,7 +1,13 @@
 # The First Job That Wasn't the War
 
 *Locked canon, Batch 240, 2026-09-11 (`MCD-1058`). Captain Alias Chronicle LX, wave 20. Detailed
-full-Trinity combat showcase. Not a territory Chronicle.*
+Long Mask-era gear combat showcase -- the Forge-Coat and Ironfall Boots grounding a ramming run's
+shock, the Ironhand Gauntlets scattering a boarding line through leverage and trained technique, and
+the Rexmar Machete wielded through Kanja's own swordsmanship and instinctive Rexmar-Mar tactical
+sense. Not a territory Chronicle. Corrected batch 314, 2026-09-28: an earlier draft mistakenly used
+Trinity-era gear (Mafesto, Obsidian Malice, Onyx of Oblivion), which Kanja surrendered to the vault
+at age 30 for the entire 284-year Long Mask (`MCD-246`) -- this scene, dated roughly 8.5 months after
+that surrender, could not have used it.*
 
 ---
 
@@ -32,17 +38,20 @@ shoreline watch, silent-signaling positions the way he'd once guided a fleet thr
 channels, so that every drilled crew member on the beach moved on his hand before the raiders' own
 boats had fully cleared the point.
 
-Kanja held the center of the pier itself, and for the first time in months the Trinity came out for
-something smaller than a battle. Mafesto's Kinetic Transfer System caught the shock of the lead
-cutter's ramming run and threw it sideways along the pier's own pilings rather than through the
-crowd sheltering behind them -- the same precision discipline the crew had learned taking Drennock
-Bridge intact rather than through it, applied here to a stretch of planking that mattered just as
-much to the twelve families who fished from it. Obsidian Malice discharged once, low and controlled,
-scattering the second boat's boarding line without touching the hull the settlement would need back
-the moment this was over. Onyx read the raiders' footing on wet planking the instant before they
-found it themselves, and every blade strike that followed landed to disarm rather than to kill --
-eleven men left the pier bound and breathing, Ostra's net already dropped across the channel mouth
-behind the last boat that tried to run for open water.
+Kanja held the center of the pier itself, and for the first time in months the full weight of his
+post-surrender gear came out for something smaller than a battle. The Forge-Coat and Ironfall Boots
+worked together to catch the shock of the lead cutter's ramming run, grounding it sideways along the
+pier's own pilings rather than letting it drive through the crowd sheltering behind them -- the same
+precision discipline the crew had learned taking Drennock Bridge intact rather than through it,
+applied here to a stretch of planking that mattered just as much to the twelve families who fished
+from it. The Ironhand Gauntlets delivered one blow, low and controlled, scattering the second boat's
+boarding line without touching the hull the settlement would need back the moment this was over --
+leverage and trained technique, nothing more. Kanja's own instinctive reading of the fight -- the
+honed Rexmar-Mar tactical sense that had carried him through battles long before any gear at all --
+caught the raiders' footing on wet planking the instant before they found it themselves, and every
+stroke of the Rexmar Machete that followed landed to disarm rather than to kill -- eleven men left
+the pier bound and breathing, Ostra's net already dropped across the channel mouth behind the last
+boat that tried to run for open water.
 
 It took eleven minutes from the first lantern signal to the last man in the net. No one from the
 settlement had asked how; they'd only asked, afterward, what they owed. Hask refused payment on the
@@ -60,7 +69,7 @@ Kanja didn't correct her.
 
 ---
 
-*Continuity notes (not narrative): the wave's detailed full-Trinity combat showcase, deliberately
+*Continuity notes (not narrative): the wave's detailed Long Mask-era gear combat showcase, deliberately
 peacetime and voluntary -- distinct from every prior war-era coordinated engagement (the causeway
 rescue of wave 2, `MCD-396`; the strongpoint assault of wave 3, `MCD-461`; the safehouse strike of
 wave 4, `MCD-507`) in having no chain of command, no campaign, and no payment behind it, and from
