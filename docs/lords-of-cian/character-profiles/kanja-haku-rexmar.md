@@ -1,8 +1,8 @@
 # Kanja Haku Rexmar — Profile & Game Plan
 
-**Status:** profile approved — awaiting Game Plan sign-off (Chronicle I pick)
+**Status:** wave 1 locked (Chronicles I–III)
 **Track:** Kanja version (new track, Onyx-narrated)
-**Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
+**Gate cleared:** YES, 2026-09-28 — Chronicle prose may now be drafted for this track.
 
 This file is the standing gate artifact for this character, per the Character Chronicle Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
@@ -370,11 +370,35 @@ going." Section 2 is closed.
      — the strongest candidate for showing Onyx's voice once it has grown substantially (a real
      combat/team-up scene, Onyx an active participant, `CULT-197`'s three-source countermeasure on the
      page for the first time) — better suited to a later slot in the sequence than the opening one.
+- **Abad's pick / direction, 2026-09-28:** all three, in this order, as the track's opening run:
+  1. Chronicle I — the small early-Rebellion vignette (age 18), Onyx opening from genuine zero.
+  2. Chronicle II — the Daba/Kanja mentorship from Kanja's own side, set chronologically *before*
+     Chronicle I (pre-18, before Onyx's age-17 bonding per the check candidate 2 flagged) — written
+     second but happening first, matching the project's established write-order-vs-in-universe-order
+     precedent (Xaragua Chronicle II, Batch 66). Confirmed against `ARS-020`: set early enough in the
+     mentorship that Onyx is not yet bonded at all, giving this entry zero narrator presence — a
+     deliberate, clean "before the blade existed" baseline distinct from Chronicle I's minimal-but-
+     present coda.
+  3. Chronicle III — Renfel Auberon's defeat (`MCD-1865`), placed later in the Rebellion once Onyx's
+     voice has had two prior entries' worth of room to grow (though Chronicle II itself contributes no
+     growth, being pre-bonding — Onyx's presence in Chronicle III should read as its second real
+     appearance, roughly matching the manuscript's own Chronicle II/III-level growth, not yet the
+     explicitly labeled "ONYX:" stage the manuscript doesn't reach until its sixth chapter).
+- **Gate status: CLEARED.** Status updated to "game plan approved" — Chronicle prose may now be
+  drafted for this track.
 - **Abad's pick / direction:**
 
 ---
 
 ## 4. Chronicle Log
 
-*(Not applicable pre-gate. This track has zero existing Chronicles — this section will track entries
-drafted only after the gate clears.)*
+- **I — "The Fourteen Percent That Was Hers"** (`MCD-1866`). Age 18, four days after the Scrip-Forge
+  Raid. A widow and her son bring a cracked kettle to the forge; Kanja trades rather than gives.
+  Onyx's first, near-silent appearance in this track. Batch 313.
+- **II — "The Lesson He Carried Alone"** (`MCD-1867`). Pre-18, written second but set
+  chronologically first. A failed night-training exercise with Daba plants the root of the
+  Dredge-Line Ambush's terrain-as-weapon logic. Zero Onyx presence — pre-bonding. Batch 313.
+- **III — "What the Dark Could Not Keep"** (`MCD-1868`). Age 27. Renfel Auberon's defeat
+  (`MCD-1865`) — Kanja, Sephtis, and Ironbane field `CULT-197`'s three-source Anti-Resonance
+  countermeasure together for the first time. Onyx's second real appearance, grown longer and more
+  assertive. Batch 313.

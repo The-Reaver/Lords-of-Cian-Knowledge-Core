@@ -21,6 +21,21 @@ tracked here as it proceeds — see CLAUDE.md's gate section for the protocol it
 | Lauris Letitia | `character-profiles/lauris-letitia.md` | not started (backfill) | 109 |
 | Daba | `character-profiles/daba.md` | not started (backfill) | 50 |
 
+## Kanja-version track (new, 2026-09-28 — distinct from the Alias Chronicle track below)
+
+Kanja himself as protagonist, narrated by Onyx of Oblivion using the same progressive
+narrator-handoff mechanic (`VB-020`/`021`/`026`) the 8 original manuscript Chronicles already
+demonstrate — normal neutral prose growing chapter by chapter into Onyx as full narrator by the
+Rebellion's end (age 30). This is deliberately distinct from the Alias Chronicle track immediately
+below, which uses flat neutral third-person prose throughout with zero Onyx presence at any era, by
+design — that track is "the regular accounting" and is not touched by this one. Scoped to the
+Rebellion only (ages 18–30); a possible second, Long-Mask-era wave is a genuinely open future
+direction, not decided.
+
+| Character | Profile doc | Status | Existing Chronicles |
+|---|---|---|---|
+| Kanja Haku Rexmar | `character-profiles/kanja-haku-rexmar.md` | wave 1 locked | 3 (Chronicles I–III, `MCD-1866`–`1868`) |
+
 ## Alias Chronicle track (Kanja's 11 aliases)
 
 Note: these are registers/masks Kanja wears, not 11 distinct psychologies — each profile should

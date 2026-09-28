@@ -3050,6 +3050,109 @@ open for whenever Abad wants it next: actual Chronicle prose for any of the elev
 defeats, further SEALBLACK/SBD archive expansion (matching the Maw Codex's own multi-batch growth
 pattern), a second wave of pre-Book-1 villains, or further Book 2-5 gear.
 
+## A new Chronicle track: "the Kanja version," Onyx-narrated, Batch 313, 2026-09-28
+
+A genuine structural gap surfaced when Abad asked for Chronicle prose dramatizing the eleven
+Batch-312 villain defeats: checking `docs/lords-of-cian/chronicle-tracks-status.md` first (as the
+Character Chronicle Launch Protocol requires) found every one of the 7 needed protagonists at "not
+started (backfill)" despite some already having 50-109 Chronicles. Backfilling that gate (Rules
+Walkthrough for all 7, run via parallel background agents) surfaced a second, larger problem while
+investigating the Captain alias specifically: nine already-locked Captain Alias Chronicles showed
+"full-Trinity combat showcases" set explicitly after the Trinity's locked age-30 surrender
+(`MCD-246`) -- confirmed real by re-reading the primary rule text directly rather than trusting the
+walkthrough agent's own characterization. That fix (Trinity gear swapped for the Talisman/Aegis-
+Talisman/Rexmar-Machete kit, same scenes kept) is still pending, deliberately paused (see below).
+
+Abad's own next question reframed the whole investigation: "Onyx is supposed to take over from the
+main Chronicles that are a lot longer than these Side Chronicles... check Chronicles 1 through 8...
+they're substantially longer." Direct investigation (word counts plus close reading of the actual
+narrator technique in the 8 original manuscript Chronicles, fetched in full from the "My Rivals
+Distance" Drive folder) confirmed the claim and found the actual mechanism: `VB-026`'s progressive
+Onyx-narrator handoff is genuinely, visibly implemented in the manuscript -- an unlabeled ~230-word
+first-person coda by Chronicle I (age 18), an explicitly labeled "CODA: THE LEDGER OF ONYX" section
+by Chronicle II, unlabeled but unmistakable "the blade..." reflective codas growing in length and
+interiority through Chronicles III and VI, an explicitly labeled "ONYX:" section by Chronicle VIII
+(age 22) -- and is completely absent from all 990+ Alias Chronicles and the Territory/Character
+Chronicle tracks, including entries explicitly set decades past the age-30 point where `VB-026` says
+Onyx should have become the full narrator. A corpus-wide grep for the device (`"ONYX:"`, `"the
+blade rests/arrives/knows/holds/records"`) returned matches only in the 5 manuscript files fetched,
+nowhere else across 1,483 Chronicle files.
+
+Abad's resolution (garbled dictation, clarified in-session): the existing 990+ Alias/Territory/
+Character Chronicles are **not being fixed** -- they stay exactly as they are, "the regular
+accounting." A genuinely new, additional track is launched instead: **"the Kanja version"** --
+Kanja himself as protagonist, narrated properly with Onyx's progressive-handoff voice, built going
+forward rather than retrofitted backward. The Rootline lock (`ARS-436`, approved in principle but
+not yet merged), Daba's Psychological Profile, and the nine-entry Captain Trinity-fix all stayed
+explicitly pinned/paused while this new track was defined and launched -- none of them touched in
+this batch.
+
+**The gate, run in full before any prose was drafted.** A background agent wrote the Rules
+Walkthrough for Kanja himself (`docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md`,
+matching the Ozmund-profile depth standard) -- the one protagonist never yet given his own profile
+file, since he'd only ever existed as the shared psychology behind the 11 alias masks. It flagged a
+real open question: which track should own a villain defeat that doesn't cleanly belong to any
+single classified alias. The Psychological Profile stage ran collaboratively: **PROPOSED** core
+wound (not his father's murder, which is Book 1's opening event and sits after this track's window
+-- the debased Scrip-note itself, an eighteen-year-old with every reason to claim his birthright
+instead treating the system's lie as a problem to solve), defense mechanisms (arithmetic as armor;
+deferring his own naming to others), values (no killing as doctrine, not squeamishness; evidence
+over violence; people over material), how he holds contradiction (the most calculating person in
+the room and the source of the most mythic public image, the same act from two angles), relationship
+patterns (trust as demonstrated competence, not command presence), what breaks him (not physical --
+the ratio having no clean answer when both sides of it are people), and the throughline (*the
+function, not the name*). Abad confirmed the core wound, then added the crucial addendum, verbatim:
+"his father's death is the most devastating blow, but it awakens the urge to destroy his enemies" --
+recorded as a second, larger, explicitly reserved wound outside this track's ages-18-30 window,
+walled off from anything drafted here and flagged for a future Book-1-era profile so it's never
+rediscovered from scratch. He then confirmed the rest of the profile in one line: "the rest lands,
+keep going."
+
+**The Game Plan**, closing the gate: narrator is Onyx per `VB-020`/`021`/`026` (the whole point of
+the track); pacing is a single continuous sequence scoped to the Rebellion only, ages 18-30, ending
+at the Trinity's surrender -- the same bounded window the manuscript itself covers, letting the
+takeover complete on-page without needing a Lauris-style strand structure. The villain-defeat
+arbitration question resolved cleanly: ten of the eleven Batch-312 villains stay with their
+already-tagged Alias or Character tracks; **Renfel Auberon's defeat (`MCD-1865`) is the one genuine
+crossover** -- a Kanja-crew team-up (Onyx, Sephtis, Ironbane fielding `CULT-197`'s Anti-Resonance
+countermeasure together) rather than a single alias's solo act, and since Onyx participates directly
+it must sit before age 30, squarely inside this track's own window. Abad picked all three offered
+Chronicle I candidates as the track's opening run, in order, under: "continuously, uninterrupted,
+until completion. this includes rigorous testing, committing, pushing to main origin."
+
+**Wave 1, Batch 313 (`MCD-1866` through `MCD-1868`).** **Chronicle I, "The Fourteen Percent That Was
+Hers"** -- age 18, four days after the Scrip-Forge Raid: a widow, Pava Rill, and her son Emrik bring
+a cracked kettle to the forge, and Kanja refuses simple charity, trading two saved notes for the
+kettle's copper scrap at its real value instead -- extending his evidence-over-charity ethos into an
+ordinary household transaction. Onyx appears only in a near-silent, unlabeled coda, deliberately the
+shortest and least articulate of the wave, matching the manuscript's own genuine starting point.
+**Chronicle II, "The Lesson He Carried Alone"** -- written second but set chronologically first,
+before Chronicle I, before Onyx's age-17 bonding (`ARS-020`), matching the established write-order-
+vs-in-universe-order precedent (Xaragua Chronicle II). Dramatizes the Daba/Kanja mutual mentorship
+(`MCD-1568`/`1570`) from Kanja's own side for the first time -- Daba's own 50-Chronicle launch wave
+(Batch 296) covers the same relationship from his side; this is a distinct, unspecified training
+night rather than any restaged scene. A failed exercise on a disused footbridge plants the
+undramatized root of the Dredge-Line Ambush's terrain-as-weapon logic. Zero Onyx presence -- no
+blade exists yet in Kanja's life at this point. **Chronicle III, "What the Dark Could Not Keep"** --
+age 27, dramatizing Renfel Auberon's defeat (`MCD-1865`) directly: Kanja, Sephtis, and Ironbane
+corner him in an unregistered warehouse holding six illegally captured Ever-Haunt entities and field
+`CULT-197`'s three-source Anti-Resonance countermeasure together on the page for the first time,
+forcing every entity to collapse or disperse rather than be harmed; Auberon is captured alive,
+already partially Green-Mark-contaminated. Checked explicitly before drafting: Auberon's stock is
+wild/independent Ever-Haunt population predating T.D.K. (`WC-019`'s own "originless" framing) rather
+than escapees from the Great Breach, which doesn't occur until Book 1's epilogue, decades outside
+this track's window -- avoiding a real chronology contradiction. Onyx's coda has grown to its second
+real appearance, longer and more assertive, still unlabeled. Zero new proper-noun collisions across
+the wave (Pava Rill, Emrik Rill). Ledger reached `ledger_version` 31.6, 2,637 rules, 313 batches --
+zero duplicate IDs verified.
+
+This track is deliberately separate from, and does not touch, the existing Alias/Territory/
+Character Chronicle tracks. Genuinely open for whenever Abad wants it next: a second wave for this
+track (still within the Rebellion-only window -- 27 more of the Twenty-Two Victories' engagements
+are undramatized from Kanja's own direct POV), a possible future Long-Mask-era wave once this one
+proves out, or returning to the pinned items -- the Rootline lock, Daba's Psychological Profile, and
+the nine-entry Captain Trinity-fix.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
