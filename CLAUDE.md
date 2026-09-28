@@ -3205,6 +3205,51 @@ Daba distinct from the network's own survival, left as an open question rather t
 Genuinely open for whenever Abad wants it next: discussing and confirming Daba's profile, closing
 his gate's Game Plan stage, or any other thread.
 
+## Daba's Character Chronicle gate closed, second wave locked, Batch 315, 2026-09-28
+
+Closes out the third item pinned since Batch 313, in a follow-on session that resumed from the
+handoff doc written at the end of that batch. Daba's proposed Psychological Profile (drafted by a
+background agent in Batch 314) was approved directly: "Approve as drafted, keep going." Section 2
+closed -- core wound is the specific miscount at the bottom of the Rookery's stairs, not the
+tragedy generically; defense mechanism is counting as containment; the defining throughline is
+"the name, not the number," a deliberate, flagged counterpart to Kanja's own "the function, not
+the name," both drawn from the one lesson the two of them taught each other in two directions
+(`MCD-1568`). The Game Plan then confirmed narrator (close-third, no dedicated narrator, matching
+the existing corpus) and pacing (single sequence, no strand split), and offered three next-wave
+candidates -- testing the open "what does he want for himself" question directly, the corpus's
+first genuine physical threat to his S-tier rating, and a pure texture entry on 1804's
+semi-dormant present. Abad's pick: "All three -- do them as a wave."
+
+**Chronicles LI-LIII (`MCD-1869` through `MCD-1871`).** **Chronicle LI, "The Day With No Name in
+It"** -- Mika (present since the cistern in Chronicle I) tells Daba she's bought a house for no
+operational reason and asks him to come see it; pressed to name a want he's never had practice
+naming, he arrives at one certain answer -- that the list of names stop growing -- without
+resolving whether he'll ever actually go. Deliberately leaves the door open rather than closing
+it. **Chronicle LII, "The Ground That Almost Wasn't Enough"** -- the first entry in the entire
+corpus to put his S-tier rating (`CC-135`) under genuine physical threat, since he holds no
+variant biology or density scaling. Closing a traced safehouse personally, he survives only by
+applying his own core doctrine (density is not power if the terrain neutralizes it) to save his
+own life, escaping through a disused well and drainage culvert; the wound that catches him is
+decided by luck, not skill, for the first time in his life. Wrenna's counting-as-containment
+response, a discipline he built into her without ever fully explaining why, is what keeps him
+from freezing on arrival at the second safehouse. **Chronicle LIII, "What a Quiet Year Looks
+Like"** -- a deliberate pure-texture closer, no threat, no plot advance: Kether's refined
+recruit-vetting, Wrenna's own unprompted margin-note habit, Deryn Kettel's ordinary stable work,
+Tessin teaching the same terrain lesson Daba once taught Kanja. He reads his annual list and finds
+nothing new to add for the first time in years, and closes on a soft, unresolved callback to
+Chronicle LI's house thread -- he doesn't go that night either, but for the first time thinks he
+might. No new named characters across the wave; Mika, Bren, Wrenna, Kether, Deryn Kettel, and
+Tessin all reused. Ledger reached `ledger_version` 31.8, 2,641 rules, 315 batches -- zero
+duplicate IDs verified. Daba's row in `chronicle-tracks-status.md` now reads "wave 2 locked," 53
+total Chronicles.
+
+The handoff doc (`docs/lords-of-cian/handoff-2026-09-28.md`) was refreshed at the start of this
+follow-on session and should be refreshed again (or superseded by a fresh one) once this batch's
+work is confirmed complete, per the project's own practice of keeping a live pointer for
+session-to-session continuation. Genuinely open for whenever Abad wants it next: a second
+Kanja-version wave, the Rootline/Captain-fix follow-through already closed in Batch 314, a third
+Daba wave, or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

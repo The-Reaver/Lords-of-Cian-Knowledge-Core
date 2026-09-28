@@ -1,6 +1,6 @@
 # Daba Chronicle LI: The Day With No Name in It
 
-*UNLOCKED / PENDING APPROVAL. Daba Chronicle LI, first entry of a next-wave sweep. Close-third on
+*Locked canon, Batch 315, 2026-09-28. Daba Chronicle LI, first entry of a next-wave sweep. Close-third on
 Daba, no dedicated narrator, matching the existing 50-entry corpus. Develops the psychological
 question Section 2 of his gate profile flagged as genuinely open — whether he wants anything for
 himself distinct from the network's survival — without fully resolving it. Reuses Mika, present

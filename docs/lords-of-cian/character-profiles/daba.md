@@ -1,8 +1,8 @@
 # Daba — Profile & Game Plan
 
-**Status:** profile approved — awaiting Game Plan sign-off (next-wave pick)
+**Status:** wave 2 locked (Chronicles LI–LIII, 53 total)
 **Track:** Character Chronicle (new faction)
-**Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
+**Gate cleared:** YES, 2026-09-28.
 
 This file is the standing gate artifact for this character, per the Character Chronicle Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
@@ -475,4 +475,10 @@ this file always reflects current understanding, not a batch-log history of how 
 Updated as each wave locks. One line per entry: numeral, title, rule ID, one-sentence summary,
 batch number.
 
--
+- **I–L** (`MCD-1571`–`1620`). 50-Chronicle launch wave. Batch 296.
+- **LI — "The Day With No Name in It"** (`MCD-1869`). Mika asks him to see a house bought for no
+  operational reason; he names his one certain want. Batch 315.
+- **LII — "The Ground That Almost Wasn't Enough"** (`MCD-1870`). The corpus's first genuine
+  physical threat to his S-tier rating, survived through his own terrain doctrine. Batch 315.
+- **LIII — "What a Quiet Year Looks Like"** (`MCD-1871`). Pure texture — 1804's semi-dormant
+  present, no plot advance. Batch 315.

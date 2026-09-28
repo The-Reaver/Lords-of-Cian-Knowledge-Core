@@ -1,6 +1,6 @@
 # Daba Chronicle LII: The Ground That Almost Wasn't Enough
 
-*UNLOCKED / PENDING APPROVAL. Daba Chronicle LII, second entry of the next-wave sweep. Close-third
+*Locked canon, Batch 315, 2026-09-28. Daba Chronicle LII, second entry of the next-wave sweep. Close-third
 on Daba, no dedicated narrator. The first entry in the entire 51-Chronicle corpus to put his S-tier
 rating (`CC-135`) under genuine physical threat — every prior entry has left it undramatized. He
 holds no variant biology or density scaling (matching the non-variant-biology precedent already

@@ -1,6 +1,6 @@
 # Daba Chronicle LIII: What a Quiet Year Looks Like
 
-*UNLOCKED / PENDING APPROVAL. Daba Chronicle LIII, third entry of the next-wave sweep, closing it.
+*Locked canon, Batch 315, 2026-09-28. Daba Chronicle LIII, third entry of the next-wave sweep, closing it.
 Close-third on Daba, no dedicated narrator. Deliberately a pure texture entry — no plot advance, no
 threat, and no touch on `MCD-1569`'s unspecified Book 1 trigger — showing what the network's
 "running semi-dormant" present actually looks like day to day. Reuses Kether, Wrenna, Deryn Kettel,
