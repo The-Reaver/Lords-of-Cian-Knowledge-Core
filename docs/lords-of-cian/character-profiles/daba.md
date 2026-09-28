@@ -1,6 +1,6 @@
 # Daba — Profile & Game Plan
 
-**Status:** wave 2 locked (Chronicles LI–LIII, 53 total)
+**Status:** wave 3 locked (Chronicles LIV–LVI, 56 total)
 **Track:** Character Chronicle (new faction)
 **Gate cleared:** YES, 2026-09-28.
 
@@ -482,3 +482,9 @@ batch number.
   physical threat to his S-tier rating, survived through his own terrain doctrine. Batch 315.
 - **LIII — "What a Quiet Year Looks Like"** (`MCD-1871`). Pure texture — 1804's semi-dormant
   present, no plot advance. Batch 315.
+- **LIV — "The Window That Faced the Water"** (`MCD-1872`). He goes to see Mika's house, and
+  stays a full day. Batch 316.
+- **LV — "The Name Daba Never Spoke"** (`MCD-1873`). Extends the blind-succession doctrine to
+  his own position for the first time; Kether named as his unwitting successor. Batch 316.
+- **LVI — "What Vetting Cannot See"** (`MCD-1874`). The corpus's first honest, non-malicious
+  vetting failure — a real, unclosable limit of the doctrine itself. Batch 316.

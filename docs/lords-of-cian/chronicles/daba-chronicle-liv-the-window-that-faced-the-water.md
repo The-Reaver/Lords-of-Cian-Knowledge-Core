@@ -1,6 +1,6 @@
 # Daba Chronicle LIV: The Window That Faced the Water
 
-*UNLOCKED / PENDING APPROVAL. Daba Chronicle LIV, first entry of a third wave. Close-third on
+*Locked canon, Batch 316, 2026-09-28. Daba Chronicle LIV, first entry of a third wave. Close-third on
 Daba, no dedicated narrator. Pays off Chronicle LIII's closing line ("he did not go that night
 either. But he thought, for the first time, that he might") without fully resolving the larger
 open question of what he wants for himself — a real, concrete step forward rather than a

@@ -3250,6 +3250,39 @@ session-to-session continuation. Genuinely open for whenever Abad wants it next:
 Kanja-version wave, the Rootline/Captain-fix follow-through already closed in Batch 314, a third
 Daba wave, or any other thread.
 
+## Daba's third Character Chronicle wave, Batch 316, 2026-09-28
+
+Per Abad's direction "do the third Daba wave," no fresh candidate-pick cycle was run -- matching
+established precedent for continuing an already-approved series once its Game Plan has cleared
+(the Ozmund and Alias Chronicle multi-wave runs never re-presented pitches each time either).
+Three fresh registers chosen directly, avoiding any repeat of wave 2's shapes:
+
+**Chronicle LIV, "The Window That Faced the Water"** (`MCD-1872`) pays off Chronicle LIII's
+closing line -- on a day the ledger holds no new name, Daba travels to Mika's coastal house and
+stays a full day, his first real acknowledgment that something in his life can exist without a
+function or a debt attached to it. Deliberately does not resolve whether this becomes a habit.
+
+**Chronicle LV, "The Name Daba Never Spoke"** (`MCD-1873`) is the wave's strongest structural
+payoff: prompted directly by his own near-death at Threnfall (`MCD-1870`), Daba confronts a gap
+he'd never applied to himself -- 1804's blind-succession doctrine (`MCD-1597`, Yeva Tolan/Marn)
+protects every cell's leadership except his own. He extends it to the network's own top for the
+first time, naming Kether as his unwitting successor through the identical method used elsewhere,
+without ever telling her or letting her learn the true margin of Threnfall's danger.
+
+**Chronicle LVI, "What Vetting Cannot See"** (`MCD-1874`) closes the wave with the corpus's first
+genuine doctrine-limit entry: Sarel Doune (new, collision-checked clean), a courier who passed
+1804's full vetting faithfully, mentions a safehouse's approximate location to her own sister in
+an ordinary, loving conversation; the fragment travels through two further unrelated people before
+landing, by pure administrative bad luck, unread and harmless. Daba concludes the vetting doctrine
+has a permanent, unclosable hole -- it tests for resistance under pressure but has no method for a
+person's ordinary love for someone never vetted at all -- and files it as a cost to live with
+rather than a problem to solve, deliberately declining to tell Sarel.
+
+No other new named characters; Mika, Bren, Wrenna, and Kether all reused. Ledger reached
+`ledger_version` 31.9, 2,644 rules, 316 batches -- zero duplicate IDs verified. Daba's Character
+Chronicle series now stands at 56 total entries. Abad's approval: "lock it." Genuinely open for
+whenever Abad wants it next: a fourth Daba wave, a second Kanja-version wave, or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

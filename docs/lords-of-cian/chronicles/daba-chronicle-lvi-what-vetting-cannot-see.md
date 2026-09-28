@@ -1,6 +1,6 @@
 # Daba Chronicle LVI: What Vetting Cannot See
 
-*UNLOCKED / PENDING APPROVAL. Daba Chronicle LVI, third entry of the third wave, closing it.
+*Locked canon, Batch 316, 2026-09-28. Daba Chronicle LVI, third entry of the third wave, closing it.
 Close-third on Daba, no dedicated narrator. A genuine doctrine-limit entry — the network's
 elaborate vetting process, dramatized repeatedly across the corpus as the source of its own
 safety, fails for the first time not through betrayal but through an honest, non-malicious human

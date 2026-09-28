@@ -1,6 +1,6 @@
 # Daba Chronicle LV: The Name Daba Never Spoke
 
-*UNLOCKED / PENDING APPROVAL. Daba Chronicle LV, second entry of the third wave. Close-third on
+*Locked canon, Batch 316, 2026-09-28. Daba Chronicle LV, second entry of the third wave. Close-third on
 Daba, no dedicated narrator. Extends the blind-succession structure Daba built for individual cells
 (`MCD-1597`, "Yeva Tolan"/"Marn," Chronicle XXVII) to the network's own top, a question forced open
 by his own near-death in Chronicle LII. Reveals, for the first time, whether Daba built the same

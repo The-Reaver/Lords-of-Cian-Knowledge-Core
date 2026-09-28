@@ -19,7 +19,7 @@ tracked here as it proceeds — see CLAUDE.md's gate section for the protocol it
 |---|---|---|---|
 | Ozmund Verehimu | `character-profiles/ozmund-verehimu.md` | wave 3 locked | 120 (Chronicles I-CXX, `MCD-1730`-`1849`) |
 | Lauris Letitia | `character-profiles/lauris-letitia.md` | not started (backfill) | 109 |
-| Daba | `character-profiles/daba.md` | wave 2 locked | 53 |
+| Daba | `character-profiles/daba.md` | wave 3 locked | 56 |
 
 ## Kanja-version track (new, 2026-09-28 — distinct from the Alias Chronicle track below)
 
