@@ -20,7 +20,7 @@ tracked here as it proceeds — see CLAUDE.md's gate section for the protocol it
 | Ozmund Verehimu | `character-profiles/ozmund-verehimu.md` | wave 3 locked | 120 (Chronicles I-CXX, `MCD-1730`-`1849`) |
 | Lauris Letitia | `character-profiles/lauris-letitia.md` | not started (backfill) — **note: profile doc header reads "Gate cleared: NO" despite 109 locked Chronicles; flagged 2026-09-30, needs Abad's look before more Lauris material is built** | 109 |
 | Daba | `character-profiles/daba.md` | wave 3 locked | 56 |
-| Ezio Valcari | `character-profiles/ezio-valcari.md` | walkthrough drafted | 0 (own series) — extensively established as supporting cast across 31 Industrial Myth Alias Chronicles + 4 Lauris Character Chronicles |
+| Ezio Valcari | `character-profiles/ezio-valcari.md` | profile in discussion | 0 (own series) — extensively established as supporting cast across 31 Industrial Myth Alias Chronicles + 4 Lauris Character Chronicles |
 
 ## Kanja-version track (new, 2026-09-28 — distinct from the Alias Chronicle track below)
 

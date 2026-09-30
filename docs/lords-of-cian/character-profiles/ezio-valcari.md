@@ -1,6 +1,6 @@
 # Ezio Valcari — Profile & Game Plan
 
-**Status:** walkthrough drafted
+**Status:** profile in discussion
 **Track:** Character Chronicle (Tier 1)
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
@@ -188,14 +188,74 @@ Built collaboratively with Abad, not handed to him finished. Draft proposals go 
 **PROPOSED**, and are corrected in place (not appended-and-superseded) once discussed — this file
 always reflects current understanding, not a batch-log history of how we got there.
 
-- **Core wound / formative event:**
-- **Defense mechanisms:**
-- **Values — what they will not compromise:**
-- **How they hold contradiction** (the specific tension that makes them dramatically interesting):
-- **Relationship patterns:**
-- **What breaks them / their real vulnerability:**
-- **Defining emotional throughline** (the equivalent of Lauris's combat-joy, Daba's
-  discipline-over-mass doctrine, Arturo's chosen-family-as-answer-to-loss):
+- **Core wound / formative event: PROPOSED, genuinely open, flagged rather than invented.** The
+  walkthrough has no locked rule stating why a ~16-year-old is already this disciplined, this
+  protective of frightened workers' under-claimed dues, and already carrying a trained,
+  three-second lethality he's chosen never to use publicly. Two anchored facts point toward
+  candidates rather than settling one: (1) he's House Valcari, cousin to Valen, raised inside the
+  "Sinister Bloodline" War-Side tradition (`CC-108`) — a family lineage whose expected currency is
+  violence — and Ezio's entire adult life reads as a deliberate turn away from that currency
+  toward an entirely different weapon (evidence, patience, paperwork), banking the trained
+  lethality as a last resort instead; (2) his signature professional instinct is protecting people
+  from their own self-erasure — correcting under-claimed testimony upward, correcting a veteran's
+  pride-driven understatement against his own stated wishes (`MCD-1442`) — which reads as
+  personal, not merely procedural, the kind of instinct someone develops from having once had
+  their own true cost go uncounted, unclaimed, or disbelieved. Genuinely open for Abad: whether
+  the wound is (a) the Sinister Bloodline itself — being raised to be a weapon and refusing the
+  role while never being permitted to fully set it down, (b) something specific that happened to
+  him or someone he protected before the Furnace District Strike that the corpus hasn't shown yet,
+  or (c) something else entirely.
+- **Defense mechanisms: PROPOSED.** Compartmentalization as an art form — he doesn't just keep
+  secrets, he architects exactly who knows what and why, down to a five-person closed list for the
+  single most basic fact about himself (`WC-016`/`CC-111`). Indirection as first resort: a
+  document, a decoy, or a Socratic Trap before ever a blade — the three-second kill is the
+  emergency measure, never the opening move, in every one of his 35 appearances to date.
+  Compulsive verification past the stated boundary of any claim, including his own comfort with a
+  case being "closed" (`MCD-1169`, `MCD-1033`) — he does not appear to trust a resolution simply
+  because it looks resolved. Notably, this compartmentalization runs outward only: toward his own
+  inner circle he over-discloses rather than under-discloses, self-reporting his own bribe
+  temptation before deciding rather than after (`MCD-1446`) — the deception is reserved for the
+  world, never (so far as shown) turned on the people who actually trust him.
+- **Values — what they will not compromise: PROPOSED.** Evidence over violence, applied without
+  exception across 35 shown appearances. A hard boundary against using someone's private,
+  unrelated life as leverage — one he disagreed with when Kanja drew it (`MCD-925`) but has never
+  shown violating. Radical internal honesty toward the people who trust him, even when it costs him
+  standing (self-disclosing a genuine temptation, not just a clean refusal, `MCD-1446`). Protecting
+  the vulnerable from their own fear or pride-driven self-erasure, even against their explicitly
+  stated wishes (`MCD-1442`) — this one reads less like professional rigor and more like something
+  he needs to be true.
+- **How they hold contradiction (PROPOSED — the strongest, most load-bearing thread):** he is the
+  single most transparent-seeming person in the crew — a public theorist who spends his entire
+  professional life making other people's hidden truths undeniable and permanent — and
+  simultaneously the single most hidden person in it. The master of finding other people's truth
+  is himself the best-kept secret in the Lords of Cian. Someone trained from adolescence to end a
+  room in three seconds has built an entire adult life's work around engineering situations where
+  he never has to.
+- **Relationship patterns: PROPOSED.** Selects people for years before acting — observed Lauris's
+  career from a distance for roughly two decades before ever approaching her (`MCD-194`).
+  Negotiates relationships as explicit, durable agreements rather than assumed loyalty — Lauris's
+  three recruitment conditions have held, inviolate, for the full length of her tenure (`MCD-205`).
+  Reluctant to delegate what makes him singularly valuable at first, but grows past it with real
+  effort, not instantly (`MCD-766`'s "confronts his own reluctance," then rigorously trains an
+  apprentice anyway). Tolerates being loved without addressing it — Nadea Thren's devotion is
+  locked as real and known to him, and he "stays anyway" (`CC-073`) rather than either
+  reciprocating or ending it. **Flagged as a live discussion point, not decided here:** whether
+  that's principled restraint (acting on it would compromise her position, his cover, or both) or
+  something closer to using her devotion without ever being willing to name it.
+- **What breaks them / their real vulnerability: PROPOSED.** Not physical incapacity — `MCD-1156`
+  shows the crew losing precision without him, not Ezio himself breaking. The stronger candidate:
+  genuine, permanent uncertainty about another person's true motive. He audits past any confession
+  someone volunteers (`MCD-1169`) and won't let a suspiciously convenient resolution stand
+  unchallenged even when everyone else is satisfied (`MCD-1033`) — someone who has built his whole
+  life on being able to find the real number underneath the stated one may specifically not be
+  able to tolerate a case, or a person, he can never actually verify.
+- **Defining emotional throughline: already locked, not proposed —** `CC-134` states it directly:
+  among the crew's defining emotional burdens (Kanja/grief, Ozmund/doubt, Anansi/rage,
+  Valeria/perception, Sephtis/time, Lauris/joy), **"Ezio carries deception."** Not deception as
+  villainy, and not dishonesty toward the people who trust him — deception as the medium of his
+  entire existence: the price of protecting his crew, his patron, and his own family's legacy is
+  that he alone must hold, and manage, the permanent gap between what's true and what's shown,
+  mostly alone — only four other living people even know the central truth of what he actually is.
 
 **Abad's ruling, verbatim, once given:**
 
