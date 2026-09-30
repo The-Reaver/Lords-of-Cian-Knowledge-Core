@@ -243,7 +243,7 @@ always reflects current understanding, not a batch-log history of how we got the
   is himself the best-kept secret in the Lords of Cian. Someone trained from adolescence to end a
   room in three seconds has built an entire adult life's work around engineering situations where
   he never has to.
-- **Relationship patterns: PROPOSED.** Selects people for years before acting — observed Lauris's
+- **Relationship patterns: CONFIRMED, 2026-09-30 ("lands").** Selects people for years before acting — observed Lauris's
   career from a distance for roughly two decades before ever approaching her (`MCD-194`).
   Negotiates relationships as explicit, durable agreements rather than assumed loyalty — Lauris's
   three recruitment conditions have held, inviolate, for the full length of her tenure (`MCD-205`).
