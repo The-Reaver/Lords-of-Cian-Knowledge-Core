@@ -217,7 +217,7 @@ always reflects current understanding, not a batch-log history of how we got the
   fits a man whose whole adult skill is finding the one true fact buried under a story nobody let
   him tell plainly the first time. Open for a later wave if a specific scene-level anchor ever
   becomes useful, but nothing is reserved or implied by leaving it diffuse now.
-- **Defense mechanisms: PROPOSED.** Compartmentalization as an art form — he doesn't just keep
+- **Defense mechanisms: CONFIRMED, 2026-09-30 ("lands").** Compartmentalization as an art form — he doesn't just keep
   secrets, he architects exactly who knows what and why, down to a five-person closed list for the
   single most basic fact about himself (`WC-016`/`CC-111`). Indirection as first resort: a
   document, a decoy, or a Socratic Trap before ever a blade — the three-second kill is the
