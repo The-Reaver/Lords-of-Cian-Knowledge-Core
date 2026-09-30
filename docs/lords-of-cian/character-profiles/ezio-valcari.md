@@ -1,6 +1,6 @@
 # Ezio Valcari — Profile & Game Plan
 
-**Status:** profile in discussion
+**Status:** profile approved
 **Track:** Character Chronicle (Tier 1)
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
@@ -258,7 +258,7 @@ always reflects current understanding, not a batch-log history of how we got the
   alone, and tells her plainly that he's always known. Not a declaration, not a resolved romance —
   a single act of chosen vulnerability from the one person built to manage what everyone else is
   allowed to see. What it becomes afterward stays deliberately open.
-- **What breaks them / their real vulnerability: PROPOSED.** Not physical incapacity — `MCD-1156`
+- **What breaks them / their real vulnerability: CONFIRMED, 2026-09-30 ("land").** Not physical incapacity — `MCD-1156`
   shows the crew losing precision without him, not Ezio himself breaking. The stronger candidate:
   genuine, permanent uncertainty about another person's true motive. He audits past any confession
   someone volunteers (`MCD-1169`) and won't let a suspiciously convenient resolution stand
@@ -273,7 +273,12 @@ always reflects current understanding, not a batch-log history of how we got the
   that he alone must hold, and manage, the permanent gap between what's true and what's shown,
   mostly alone — only four other living people even know the central truth of what he actually is.
 
-**Abad's ruling, verbatim, once given:**
+**Abad's ruling, verbatim, once given:** Each facet was walked through and confirmed individually,
+2026-09-30, rather than one blanket approval: core wound ("Let's keep it diffuse, no crystallizing
+incident yet"), defense mechanisms ("lands"), values ("lands"), how he holds contradiction ("land"),
+relationship patterns ("lands"), what breaks him ("land"). The Nadea Thren reconciliation beat was
+separately drafted, presented, and locked as canon (`MCD-1875`, Batch 317) under: "lets go with what
+makes the story more rich and stays true to Ezio's character." Section 2 is closed.
 
 ---
 
