@@ -1,8 +1,8 @@
 # Ezio Valcari — Profile & Game Plan
 
-**Status:** profile approved
+**Status:** game plan approved
 **Track:** Character Chronicle (Tier 1)
-**Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
+**Gate cleared:** YES, 2026-09-30.
 
 This file is the standing gate artifact for this character, per the Character Chronicle Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
@@ -353,7 +353,12 @@ makes the story more rich and stays true to Ezio's character." Section 2 is clos
      how the relationship actually works day to day: her direction, his execution, the unspoken
      weight of what he's chosen never to say. Lets the "carries deception" throughline breathe in
      its native register without touching the payoff `MCD-1875` reserves for Book 1's climax.
-- **Abad's pick / direction:**
+- **Abad's pick / direction:** Chronicle I candidate 1 (the Callas Modrin exposure), Abad's
+  ruling, verbatim: "Let's do option 1, and lock the Game Plan." Narrator (Fermand, per `CC-034`/
+  `VB-024`) and pacing (Chronicle I freestanding, strand structure deferred) both stand as drafted;
+  the optional "exhibit fragment" structural echo was not separately confirmed or declined — left
+  open to revisit if a future wave's strand structure makes it feel earned, not assumed for
+  Chronicle I itself. Game Plan closed.
 
 ---
 
