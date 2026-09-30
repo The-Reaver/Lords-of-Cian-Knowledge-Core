@@ -1,7 +1,7 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "31.9",
-  "last_updated": "2026-09-28",
+  "ledger_version": "32.0",
+  "last_updated": "2026-09-30",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
     "Voice Bible governs tone/language only, not facts.",
@@ -2419,6 +2419,13 @@
       "source": "Original invention (Daba Character Chronicle third wave)",
       "rule_count": 3,
       "note": "Daba's third Character Chronicle wave, per Abad's direction: 'do the third Daba wave,' then 'lock it' on the full presented text. No fresh candidate-pick cycle was run for this wave -- matching established project precedent for continuing an already-approved series (e.g. the Ozmund and Alias Chronicle multi-wave runs) -- new registers were chosen directly: paying off Chronicle LIII's house/Mika thread with real forward motion (LIV); extending the blind-succession doctrine to Daba's own position for the first time, prompted by his own near-death at Threnfall (LV, naming Kether as his unwitting successor); and the corpus's first honest, non-malicious vetting failure, exposing a genuine, permanent limit of the doctrine itself rather than a fixable gap (LVI). One new named character (Sarel Doune, collision-checked clean against the full live ledger before drafting). Daba's Character Chronicle series now stands at 56 total entries across three waves plus the original 50-entry launch."
+    },
+    {
+      "batch": 317,
+      "date": "2026-09-30",
+      "source": "Original invention (Ezio/Nadea Book 1 reconciliation beat)",
+      "rule_count": 1,
+      "note": "Resolved a flagged ambiguity in CC-073 (whether Ezio already knows of Nadea Thren's feelings) surfaced during Ezio's Character Chronicle gate, Step 2 (Psychological Profile). Presented as a genuine open question with two readings -- a long-held mutual tension finally acted on, versus a first-time revelation -- plus a shape question (operational/trust reconciliation vs. a tidy romantic resolution). Abad delegated the creative call: \"lets go with what makes the story more rich and stays true to Ezio's character.\" Ruled in favor of the richer, more character-consistent reading: Ezio already knows (a man this perceptive, this good at reading what people don't say, missing something this basic for years would undercut him), and the Book 1 climax reconciliation is a single act of chosen vulnerability rather than a grand declaration -- operational collaboration carrying the emotional weight, understated rather than resolved, matching Ezio's own noir narration register (VB-023) and his defining 'carries deception' throughline (CC-134). CC-073 amended in place to close the ambiguity; MCD-1875 locks the Book 1 climax beat itself, deliberately leaving the romantic outcome unspecified per the project's own MCD-216 precedent for flexible book-level framing. Presented in full; Abad's approval, quoted verbatim: \"lock it.\""
     }
   ],
   "rules": [
@@ -4230,7 +4237,7 @@
     },
     {
       "id": "CC-073",
-      "statement": "Lady Nadea Thren is Ezio Valcari's patron and is genuinely, secretly in love with him; Ezio figured out years ago that she is 'the Viper' and stays anyway.",
+      "statement": "Lady Nadea Thren is Ezio Valcari's patron and is genuinely, secretly in love with him; Ezio figured out years ago both that she is 'the Viper' and that she loves him, and has chosen, deliberately and repeatedly, to say nothing and stay anyway -- restraint, not obliviousness.",
       "status": "locked",
       "source": "Character Codex, Lady Nadea Thren — The Ezio Dynamic"
     },
@@ -20850,6 +20857,13 @@
       "statement": "Daba Chronicle LVI, 'What Vetting Cannot See' (full text at docs/lords-of-cian/chronicles/daba-chronicle-lvi-what-vetting-cannot-see.md). Third entry of the wave, closing it -- the corpus's first genuine doctrine-limit entry for the vetting mechanism itself. Sarel Doune, a courier who passed 1804's full year-long vetting faithfully and shows no malice or carelessness, mentions a safehouse's approximate location to her own sister in an ordinary, loving family conversation; the fragment travels through two further unrelated conversations before landing, by pure administrative bad luck, unread in the wrong Trust district and causing no actual harm. Tracing the chain, Daba concludes the vetting doctrine (MCD-1567) has a real, permanent hole it cannot close -- it tests for resistance under deliberate pressure but has no method for a person's ordinary, ungovernable love for someone never vetted at all, and closing that hole would mean punishing the exact quality that makes a person trustworthy in the first place. He does not tell Sarel, judging that the fear it would create would cost more than the risk itself, and files the fact as a permanently unresolved, unaudited cost of the network's own safety rather than a problem to be solved. New named character Sarel Doune, collision-checked clean. Reuses Kether. No new other named characters; no child-safety issues.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-28, extending Daba's own 50+3-Chronicle corpus (Batches 296, 315) and his gate profile (docs/lords-of-cian/character-profiles/daba.md)."
+    },
+    {
+      "id": "MCD-1875",
+      "category": "book1-structure",
+      "statement": "Extends MCD-070/CC-073 (amended same batch): during Book 1's climax (the Karkosa Heist act), Lady Nadea Thren steps out of patron-at-a-distance into direct field collaboration with Ezio at genuine personal risk -- a real cost for a defector whose own departure already dissolved the Mirrored Chorus (MCD-021). In the midst of it, Ezio breaks his own lifelong pattern of managed information for the first and only time on the page: he tells her plainly that he has always known she loves him. Not a declaration or a resolution -- a single act of chosen, deliberate vulnerability from a man whose defining burden is deception (CC-134), offered to the one person he's spent years protecting by saying nothing. What becomes of it afterward is deliberately left open, matching the project's own precedent for flexible book-level framing (MCD-216) -- this locks the character beat and its structural placement, not a specified romantic outcome.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-30, resolving a flagged ambiguity in CC-073 surfaced during Ezio Valcari's Character Chronicle gate (Step 2, Psychological Profile)."
     }
   ],
   "open_decisions": [

@@ -44,7 +44,11 @@ invent a competing one.
 - `CC-029` / `MCD-021` / `CC-073` — his patron is Lady Nadea Thren, a defected SBD analyst
   operating independently (not T.D.K.'s champion, not "Glass Ordained" — her defection dissolved
   the Mirrored Chorus division, `MCD-284`). She is genuinely, secretly in love with him; Ezio
-  figured out years ago that she is "the Viper" and stays anyway.
+  figured out years ago both that she is "the Viper" and that she loves him, and has chosen,
+  deliberately and repeatedly, to say nothing and stay anyway (`CC-073`, amended Batch 317). Book
+  1's climax pays this off: she steps into direct field collaboration with him at genuine risk, and
+  he breaks his own lifelong pattern once to tell her plainly that he's always known (`MCD-1875`,
+  Batch 317) — the outcome beyond that beat is deliberately left open.
 - `CC-031` / `MCD-032` / `MCD-194` — Lauris Letitia is his Attia (Sergeant-at-Arms), a former SBD
   external contractor he personally identified and recruited: he observed her Directorate career
   from a distance for roughly two decades, arranged the recruitment meeting through Aerelin's
@@ -128,8 +132,10 @@ invent a competing one.
 - His full classified combat capability (`WC-016`/`CC-027`) has never been shown on the page
   anywhere in the corpus — deliberately withheld across every appearance to date, including his 31
   Industrial Myth appearances, which are consistently unarmed/non-combat.
-- Nadea Thren's secret love for him (`CC-073`) is locked as real and unresolved — not to be paid
-  off or dramatized as reciprocated/rejected without Abad's direction.
+- Nadea Thren's secret love for him — **resolved, Batch 317**: Ezio has known for years (`CC-073`
+  amended) and the Book 1 climax reconciliation beat is locked (`MCD-1875`). Still reserved: the
+  outcome beyond that beat (deliberately left open), and — since `MCD-1875` is Book-1-era plot —
+  any pre-Book-1 Chronicle for Ezio should not foreshadow or preempt it directly.
 - `MCD-1171` — Pell Ostra's private margin-notes (kept from Ezio) identify an unnamed recurring
   observer connecting two otherwise unrelated frauds; the observer's identity is deliberately left
   open — a live thread that could eventually intersect Ezio's own investigative arc.
@@ -237,11 +243,15 @@ always reflects current understanding, not a batch-log history of how we got the
   three recruitment conditions have held, inviolate, for the full length of her tenure (`MCD-205`).
   Reluctant to delegate what makes him singularly valuable at first, but grows past it with real
   effort, not instantly (`MCD-766`'s "confronts his own reluctance," then rigorously trains an
-  apprentice anyway). Tolerates being loved without addressing it — Nadea Thren's devotion is
-  locked as real and known to him, and he "stays anyway" (`CC-073`) rather than either
-  reciprocating or ending it. **Flagged as a live discussion point, not decided here:** whether
-  that's principled restraint (acting on it would compromise her position, his cover, or both) or
-  something closer to using her devotion without ever being willing to name it.
+  apprentice anyway). **Resolved, Batch 317 (`CC-073` amended, `MCD-1875` locked):** he has known
+  of Nadea Thren's love for years, not just her "the Viper" identity, and has chosen — deliberately
+  and repeatedly — to say nothing and stay anyway. Restraint, not obliviousness, not indifference:
+  a man this good at reading what people don't say does not miss this by accident. `MCD-1875`
+  locks the payoff, placed at Book 1's climax — she steps into direct field collaboration with him
+  at real personal risk, and in the midst of it he breaks his own lifelong pattern once, for her
+  alone, and tells her plainly that he's always known. Not a declaration, not a resolved romance —
+  a single act of chosen vulnerability from the one person built to manage what everyone else is
+  allowed to see. What it becomes afterward stays deliberately open.
 - **What breaks them / their real vulnerability: PROPOSED.** Not physical incapacity — `MCD-1156`
   shows the crew losing precision without him, not Ezio himself breaking. The stronger candidate:
   genuine, permanent uncertainty about another person's true motive. He audits past any confession
