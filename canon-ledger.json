@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "32.0",
+  "ledger_version": "32.1",
   "last_updated": "2026-09-30",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2426,6 +2426,13 @@
       "source": "Original invention (Ezio/Nadea Book 1 reconciliation beat)",
       "rule_count": 1,
       "note": "Resolved a flagged ambiguity in CC-073 (whether Ezio already knows of Nadea Thren's feelings) surfaced during Ezio's Character Chronicle gate, Step 2 (Psychological Profile). Presented as a genuine open question with two readings -- a long-held mutual tension finally acted on, versus a first-time revelation -- plus a shape question (operational/trust reconciliation vs. a tidy romantic resolution). Abad delegated the creative call: \"lets go with what makes the story more rich and stays true to Ezio's character.\" Ruled in favor of the richer, more character-consistent reading: Ezio already knows (a man this perceptive, this good at reading what people don't say, missing something this basic for years would undercut him), and the Book 1 climax reconciliation is a single act of chosen vulnerability rather than a grand declaration -- operational collaboration carrying the emotional weight, understated rather than resolved, matching Ezio's own noir narration register (VB-023) and his defining 'carries deception' throughline (CC-134). CC-073 amended in place to close the ambiguity; MCD-1875 locks the Book 1 climax beat itself, deliberately leaving the romantic outcome unspecified per the project's own MCD-216 precedent for flexible book-level framing. Presented in full; Abad's approval, quoted verbatim: \"lock it.\""
+    },
+    {
+      "batch": 318,
+      "date": "2026-09-30",
+      "source": "Original invention (Ezio Valcari Character Chronicle I)",
+      "rule_count": 1,
+      "note": "Ezio Valcari's Character Chronicle series opens. Chronicle I, 'The Frequency That Never Failed,' dramatizes the Callas Modrin exposure (CC-156/MCD-1864) -- the ready-made hook the ledger itself had flagged as queued for exactly this launch. Picked directly from the Game Plan's three candidates. Narrated by Fermand per CC-034/VB-024, matching Lauris Chronicle I's established register. No combat, no Kanja, no new named characters, strictly pre-Book-1. Presented in full; Abad's approval, quoted verbatim: \"lock it.\""
     }
   ],
   "rules": [
@@ -20864,6 +20871,13 @@
       "statement": "Extends MCD-070/CC-073 (amended same batch): during Book 1's climax (the Karkosa Heist act), Lady Nadea Thren steps out of patron-at-a-distance into direct field collaboration with Ezio at genuine personal risk -- a real cost for a defector whose own departure already dissolved the Mirrored Chorus (MCD-021). In the midst of it, Ezio breaks his own lifelong pattern of managed information for the first and only time on the page: he tells her plainly that he has always known she loves him. Not a declaration or a resolution -- a single act of chosen, deliberate vulnerability from a man whose defining burden is deception (CC-134), offered to the one person he's spent years protecting by saying nothing. What becomes of it afterward is deliberately left open, matching the project's own precedent for flexible book-level framing (MCD-216) -- this locks the character beat and its structural placement, not a specified romantic outcome.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-30, resolving a flagged ambiguity in CC-073 surfaced during Ezio Valcari's Character Chronicle gate (Step 2, Psychological Profile)."
+    },
+    {
+      "id": "MCD-1876",
+      "category": "ezio-character-chronicle",
+      "statement": "Ezio Chronicle I, 'The Frequency That Never Failed' (full narrative text at docs/lords-of-cian/chronicles/ezio-chronicle-i-the-frequency-that-never-failed.md). The first entry in Ezio Valcari's own Character Chronicle series, opening under the Character Chronicle Gameplan -- the fourth protagonist (after Ozmund, Lauris, Daba) to clear the Launch Protocol gate. Narrated by Fermand Aurelias (CC-034/VB-024), matching the register Lauris Chronicle I set. Dramatizes the Callas Modrin exposure (CC-156/MCD-1864) directly for the first time: Ezio cross-references three geographically scattered settlements' extortion payments -- each kept deliberately below the threshold of institutional attention -- against real Directorate equipment maintenance logs, using the Archive-Key/Cipher Cane (ARS-404) on the page for the first time to touch-read a sealed data-plate proving Modrin's 'escalating contamination' reports were fabricated after the fact. The confrontation is quiet, unarmed, and extracts no forced confession, extending the Socratic Trap (ARS-405) into a document-led register. Closes exactly as MCD-1864 already locks it: Modrin's own superiors prosecute him not for extorting the settlements, which the Trust has no institutional interest in, but for defrauding the Trust's own equipment-maintenance budget through the same false reports -- a bitterly ironic, deliberately bureaucratic-judo defeat. No combat, no Kanja, no new named characters beyond the already-locked Callas Modrin. Strictly pre-Book-1.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-09-30, Ezio Valcari's own Character Chronicle series launch, per his gate's Game Plan (docs/lords-of-cian/character-profiles/ezio-valcari.md)."
     }
   ],
   "open_decisions": [

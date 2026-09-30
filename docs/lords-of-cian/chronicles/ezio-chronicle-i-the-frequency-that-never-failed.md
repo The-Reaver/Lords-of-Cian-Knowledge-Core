@@ -1,6 +1,6 @@
 # Ezio Chronicle I: The Frequency That Never Failed
 
-*UNLOCKED / PENDING APPROVAL. Drafted for Batch 318, 2026-09-30. First entry in Ezio Valcari's own
+*Locked canon, Batch 318, 2026-09-30 (`MCD-1876`). First entry in Ezio Valcari's own
 Chronicle series under the Character Chronicle Gameplan (`docs/lords-of-cian/character-chronicle-
 gameplan.md`) -- the fourth Character Chronicle protagonist to open and clear the gate
 (`docs/lords-of-cian/character-profiles/ezio-valcari.md`). Narrated by Fermand Aurelias, per the

@@ -1,6 +1,6 @@
 # Ezio Valcari — Profile & Game Plan
 
-**Status:** game plan approved
+**Status:** wave 1 locked (Chronicle I)
 **Track:** Character Chronicle (Tier 1)
 **Gate cleared:** YES, 2026-09-30.
 
@@ -367,4 +367,7 @@ makes the story more rich and stays true to Ezio's character." Section 2 is clos
 Updated as each wave locks. One line per entry: numeral, title, rule ID, one-sentence summary,
 batch number.
 
--
+- **Chronicle I, "The Frequency That Never Failed"** (`MCD-1876`, Batch 318) — the Callas Modrin
+  exposure: Ezio cross-references three extorted settlements against real Directorate equipment
+  logs, using the Archive-Key on the page for the first time; Modrin is prosecuted for defrauding
+  the Trust's own maintenance budget, not for the extortion itself. No combat, no Kanja.
