@@ -3332,6 +3332,38 @@ real inconsistency in Lauris Letitia's own profile doc, which still reads "Gate 
 her having 109 locked Chronicles -- noted in `chronicle-tracks-status.md` for whenever Abad wants to
 look at it.
 
+**Ezio's Psychological Profile closed and Game Plan locked, Batch 318, 2026-09-30.** The remaining
+five Psychological Profile facets (defense mechanisms, values, how he holds contradiction,
+relationship patterns, what breaks him) were each walked through and confirmed individually rather
+than in one blanket pass -- Abad's rulings, verbatim: "lands" / "lands" / "land" / "lands" / "land."
+Section 2 closed, status moved to "profile approved." The Game Plan then confirmed narrator
+(Fermand, already locked at `CC-034`/`VB-024`, not a choice -- matching Lauris's own resolution,
+plus an optional un-committed "exhibit fragment" structural echo floated for a future wave),
+pacing (Chronicle I freestanding, strand structure deferred, following the Ozmund precedent rather
+than Lauris's four-strand launch), a reserved-threads inventory (his classified combat capability,
+the entire Book 1/2 material, the Nadea Thren reconciliation's actual climax, Pell Ostra's open
+observer mystery, and the already-well-covered Furnace-District-era ground that belongs to Kanja's
+Industrial Myth track), and three Chronicle I candidates. Abad's pick, verbatim: "Let's do option 1,
+and lock the Game Plan" -- the Callas Modrin exposure (`CC-156`/`MCD-1864`), the ready-made hook the
+ledger itself had already flagged as queued for exactly this launch. Gate cleared, 2026-09-30.
+
+**Ezio Chronicle I locked (`MCD-1876`).** "The Frequency That Never Failed" dramatizes the Modrin
+exposure directly: Ezio cross-references three geographically scattered settlements -- each
+extorted via false "escalating contamination" reports kept individually below the threshold of
+institutional attention -- against real Directorate equipment maintenance logs, using the
+Archive-Key/Cipher Cane (`ARS-404`) on the page for the first time to touch-read a sealed data-plate
+proving Modrin's reports were fabricated after the fact. The confrontation is quiet and unarmed,
+extending the Socratic Trap (`ARS-405`) into a document-led register with no forced confession.
+Closes exactly as `MCD-1864` already locked it: Modrin's own superiors prosecute him not for
+extorting the settlements, which the Trust has no institutional interest in, but for defrauding the
+Trust's own equipment-maintenance budget through the same false reports -- a bitterly ironic,
+deliberately bureaucratic-judo defeat with no combat and no Kanja. Narrated by Fermand Aurelias
+throughout, matching the register Lauris Chronicle I established. No new named characters beyond
+the already-locked Callas Modrin. Abad's approval: "lock it." Ledger reached `ledger_version` 32.1,
+2,646 rules, 318 batches -- zero duplicate IDs verified. Ezio's Character Chronicle series now
+stands at 1 entry. Genuinely open for whenever Abad wants it next: a second wave for Ezio, closing
+the Lauris profile-doc header inconsistency, or any other thread.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
