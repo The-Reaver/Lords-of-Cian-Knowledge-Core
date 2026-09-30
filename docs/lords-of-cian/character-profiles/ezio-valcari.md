@@ -194,23 +194,30 @@ Built collaboratively with Abad, not handed to him finished. Draft proposals go 
 **PROPOSED**, and are corrected in place (not appended-and-superseded) once discussed — this file
 always reflects current understanding, not a batch-log history of how we got there.
 
-- **Core wound / formative event: PROPOSED, genuinely open, flagged rather than invented.** The
-  walkthrough has no locked rule stating why a ~16-year-old is already this disciplined, this
-  protective of frightened workers' under-claimed dues, and already carrying a trained,
-  three-second lethality he's chosen never to use publicly. Two anchored facts point toward
-  candidates rather than settling one: (1) he's House Valcari, cousin to Valen, raised inside the
-  "Sinister Bloodline" War-Side tradition (`CC-108`) — a family lineage whose expected currency is
-  violence — and Ezio's entire adult life reads as a deliberate turn away from that currency
-  toward an entirely different weapon (evidence, patience, paperwork), banking the trained
-  lethality as a last resort instead; (2) his signature professional instinct is protecting people
-  from their own self-erasure — correcting under-claimed testimony upward, correcting a veteran's
-  pride-driven understatement against his own stated wishes (`MCD-1442`) — which reads as
-  personal, not merely procedural, the kind of instinct someone develops from having once had
-  their own true cost go uncounted, unclaimed, or disbelieved. Genuinely open for Abad: whether
-  the wound is (a) the Sinister Bloodline itself — being raised to be a weapon and refusing the
-  role while never being permitted to fully set it down, (b) something specific that happened to
-  him or someone he protected before the Furnace District Strike that the corpus hasn't shown yet,
-  or (c) something else entirely.
+- **Core wound / formative event: PROPOSED, unifying both anchored candidates rather than
+  choosing between them.** Not a single incident — a formative environment. Raised inside House
+  Valcari's "Sinister Bloodline" War-Side tradition (`CC-108`), trained personally and familially by
+  Valen from childhood into a lethality whose whole purpose was to be used on the family's or the
+  cause's behalf, without needing to be asked what it cost him. A tradition whose currency is
+  violence in service of duty has no real use for a child's own pain, fear, or reluctance — those
+  don't get counted, because the weapon isn't supposed to have a ledger of its own. Ezio's entire
+  adult identity reads as the precise, mirrored correction of that upbringing: he became the one
+  person who makes absolutely certain everyone else's true cost gets counted — publicly,
+  permanently, undeniably — especially when the person themselves, out of fear or pride, is the one
+  doing the undercounting (`MCD-1442`, correcting a veteran's self-understatement against his own
+  stated wishes). The ledger isn't a profession he fell into; it's a moral technology built in
+  direct answer to a childhood that never kept one for him. He didn't reject the Sinister
+  Bloodline's lethality outright — he kept it, kept the bond with Valen, let Valen actively protect
+  his cover to this day (`WC-016`) — he refused only to *lead* with it, to ever again let anyone
+  define him as merely the weapon. This also explains why the secret has to stay this total: being
+  truly seen as "the killer" again wouldn't just be a tactical risk, it would collapse the entire
+  identity he built specifically to escape that fate. **One further layer, floated rather than
+  asserted — Abad's to accept, adjust, or drop:** whether there's a single crystallizing incident
+  inside that environment worth naming later (a first "blooding," a first kill treated by the
+  family purely as successful duty with no room made for what it cost a child to do it) as a
+  scene-level anchor for a future Chronicle, or whether the wound stays deliberately diffuse — an
+  environment rather than a moment, which arguably fits a man whose whole adult skill is finding the
+  one true fact buried under a story that was never allowed to be told plainly the first time.
 - **Defense mechanisms: PROPOSED.** Compartmentalization as an art form — he doesn't just keep
   secrets, he architects exactly who knows what and why, down to a five-person closed list for the
   single most basic fact about himself (`WC-016`/`CC-111`). Indirection as first resort: a
