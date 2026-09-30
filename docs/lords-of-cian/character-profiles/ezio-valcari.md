@@ -228,7 +228,7 @@ always reflects current understanding, not a batch-log history of how we got the
   inner circle he over-discloses rather than under-discloses, self-reporting his own bribe
   temptation before deciding rather than after (`MCD-1446`) — the deception is reserved for the
   world, never (so far as shown) turned on the people who actually trust him.
-- **Values — what they will not compromise: PROPOSED.** Evidence over violence, applied without
+- **Values — what they will not compromise: CONFIRMED, 2026-09-30 ("lands").** Evidence over violence, applied without
   exception across 35 shown appearances. A hard boundary against using someone's private,
   unrelated life as leverage — one he disagreed with when Kanja drew it (`MCD-925`) but has never
   shown violating. Radical internal honesty toward the people who trust him, even when it costs him
