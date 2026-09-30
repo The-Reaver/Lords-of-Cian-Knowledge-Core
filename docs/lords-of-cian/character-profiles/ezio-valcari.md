@@ -284,16 +284,75 @@ makes the story more rich and stays true to Ezio's character." Section 2 is clos
 
 ## 3. Game Plan
 
-- **Narrator / voice:** (confirm against Voice Bible rules if one is already locked; propose one
-  if not, and get it confirmed before drafting)
-- **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
-  character's life/role actually calls for a split)
-- **Reserved threads for this series** (deliberately not touched yet, carried over from the
-  walkthrough plus anything new identified during profile discussion)
+- **Narrator / voice: already locked, not a choice.** `CC-034` states directly: "Fermand (Hermes)
+  narrates all Ezio and Lauris POV chapters in a Baroque/Zafón-Noir voice" — the same conclusion
+  Lauris's own series reached at launch (Batch 292), for the identical reason. `VB-024` gives
+  Fermand's register: clinical, methodical, no slang, no contractions, no panic ever — with one
+  standing exception already locked and now paid off in `MCD-1875`: warmth reserved only for "My
+  dear Ezio." Ezio's series is narrated in that exact voice.
+  **PROPOSED structural echo, optional, Abad's call:** Lauris's series opens each entry with a short
+  archive fragment in her own spare voice before Fermand's narration proper, since she's uniquely
+  established as keeping a literal written archive (`MCD-211`). Ezio has no equivalent personal
+  archive, but he *is* uniquely established as the crew's evidentiary craftsman — decoy ledgers,
+  the Archive-Key, charcoal rubbings, forensic accounting. A parallel-but-distinct device: each
+  Chronicle could open with a short "exhibit" fragment — a line from a ledger, an intercepted note,
+  a piece of testimony, something Ezio himself would have filed — before Fermand's narration
+  proper reveals what the exhibit doesn't say. This would tie directly into `CC-134`'s "carries
+  deception" throughline (the document is what's shown; Fermand's narration is what's true) without
+  simply reusing Lauris's own device. Entirely optional — the series works fine as plain Fermand
+  narration if this feels like too much scaffolding before a single Chronicle exists.
+- **Pacing convention: PROPOSED, following the Ozmund precedent rather than Lauris's.** Ozmund's
+  launch kept Chronicle I freestanding and explicitly deferred any strand structure to a later wave,
+  once real prose existed to organize. The same logic fits Ezio better than committing to Lauris's
+  four-strand braid up front: his corpus already spans a wide range (teen apprentice years, network-
+  building spymaster years, his still-unshown classified-combat identity) but almost all of it has
+  been shown only through *other* characters' tracks (Kanja's Industrial Myth, Lauris's own
+  Chronicles) — Ezio's own series needs at least one entry to find its own footing before deciding
+  how to organize a larger run. If a strand structure does emerge later, the natural candidates
+  (not committed to) would roughly be: a Method/Ledger strand (evidentiary craft, but only genuinely
+  new cases — not retreading the 35 appearances already covered elsewhere), a Network/Spymaster
+  strand (Nadea Thren's patron dynamic pre-Book-1, Lauris's recruitment from his own side, his wider
+  intelligence apparatus), and a Witness/Personal strand (quiet register, parallel to Lauris's
+  Strand W). His classified combat identity would **not** become its own strand unless Abad
+  explicitly decides to start showing it on the page — see reserved threads below.
+- **Reserved threads for this series**, carried forward from the walkthrough:
+  - His full classified combat capability (`WC-016`/`CC-027`) — never shown on the page anywhere in
+    35 appearances to date. Stays withheld for this series unless Abad explicitly opens it.
+  - The entire Book 1 investigation and Book 2's Crown-Scar discovery (`MCD-279`) — reserved
+    future-book material. This launch wave stays strictly **pre-Book-1** (before the Fulfillment
+    Ceremony's double regicide), matching the standing constraint already set for Ozmund's own
+    series.
+  - The Nadea Thren reconciliation beat itself (`MCD-1875`) is explicitly Book-1-climax material —
+    not to be foreshadowed or preempted directly. The patron relationship's own pre-Book-1
+    groundwork (how it actually works day to day, the unspoken tension of him knowing what she is
+    and what she feels) is fair game; the climax itself is not.
+  - `MCD-1171` — Pell Ostra's unidentified "recurring observer" thread stays deliberately open, not
+    to be resolved unilaterally inside Ezio's own series.
+  - The well-covered ground (his teen years at the Furnace District Strike and the general arc of
+    the ledger method) already belongs to Kanja's Industrial Myth Alias Chronicles — this series
+    should open genuinely new territory rather than re-narrate scenes that exist elsewhere.
 - **Chronicle I candidates** (2-3 pitches, not one pre-committed draft):
-  1.
-  2.
-  3.
+  1. **The Callas Modrin exposure** (`MCD-1864`) — the ready-made hook the ledger itself already
+     flags: "No Chronicle prose has been drafted; this is a queued future beat for whenever Ezio's
+     own Character Chronicle series launches." A pure bureaucratic-judo defeat, no combat, no
+     Kanja — Ezio documents Modrin's falsified suppression-field readings against real Directorate
+     equipment logs, and Modrin's own superiors prosecute him for defrauding the Trust's equipment
+     budget rather than for extorting settlements. The single most natural, lowest-risk opener:
+     entirely pre-Book-1, entirely his own evidentiary method, zero new proper nouns beyond
+     `CC-156`'s already-locked Modrin.
+  2. **The recruitment of Lauris, from Ezio's own side.** `MCD-194` already locks the facts: he
+     observed her Directorate career from a distance for roughly two decades before ever
+     approaching her. Lauris's own Chronicle I told the aftermath of her own transformation; this
+     would dramatize the *decision* itself from his side for the first time — what finally tips
+     two decades of patient observation into action, putting his defining "selects people for
+     years before acting" relationship pattern directly on the page. Requires care to stay
+     consistent with everything Lauris's own 109-Chronicle corpus has already established about
+     the meeting.
+  3. **An early scene establishing the Nadea Thren patron dynamic itself** (not the reconciliation,
+     which stays reserved) — some ordinary operational exchange, decades before Book 1, that shows
+     how the relationship actually works day to day: her direction, his execution, the unspoken
+     weight of what he's chosen never to say. Lets the "carries deception" throughline breathe in
+     its native register without touching the payoff `MCD-1875` reserves for Book 1's climax.
 - **Abad's pick / direction:**
 
 ---
