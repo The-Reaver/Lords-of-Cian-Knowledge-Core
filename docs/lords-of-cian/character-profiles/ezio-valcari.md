@@ -236,7 +236,7 @@ always reflects current understanding, not a batch-log history of how we got the
   the vulnerable from their own fear or pride-driven self-erasure, even against their explicitly
   stated wishes (`MCD-1442`) — this one reads less like professional rigor and more like something
   he needs to be true.
-- **How they hold contradiction (PROPOSED — the strongest, most load-bearing thread):** he is the
+- **How they hold contradiction (CONFIRMED, 2026-09-30 ("land") — the strongest, most load-bearing thread):** he is the
   single most transparent-seeming person in the crew — a public theorist who spends his entire
   professional life making other people's hidden truths undeniable and permanent — and
   simultaneously the single most hidden person in it. The master of finding other people's truth
