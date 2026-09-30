@@ -3283,6 +3283,55 @@ No other new named characters; Mika, Bren, Wrenna, and Kether all reused. Ledger
 Chronicle series now stands at 56 total entries. Abad's approval: "lock it." Genuinely open for
 whenever Abad wants it next: a fourth Daba wave, a second Kanja-version wave, or any other thread.
 
+## Ezio Valcari's Character Chronicle gate opened, Batch 317, 2026-09-30
+
+Ezio Valcari (Tier 1) is the fourth Character Chronicle protagonist to open its gate, and a genuine
+backfill case in the same sense Daba was: he'd never had his own Chronicle series, but is
+extensively established as a recurring supporting character across 31 Kanja Industrial Myth Alias
+Chronicles (from ~age 16 at the Furnace District Strike through adulthood) plus 4 Lauris Character
+Chronicles. Full gate file at `docs/lords-of-cian/character-profiles/ezio-valcari.md`.
+
+**Step 1, Rules Walkthrough,** pulled every locked rule touching him and organized thematically.
+Confirmed a ready-made Chronicle I hook already sitting in the ledger: `MCD-1864` (Callas Modrin's
+exposure via bureaucratic-judo) explicitly states "No Chronicle prose has been drafted; this is a
+queued future beat for whenever Ezio's own Character Chronicle series launches." Also identified
+his natural era boundary: the entire Book 1 investigation and Book 2's Crown-Scar discovery
+(`MCD-279`) are reserved future-book material, so any pre-Book-1 launch wave for Ezio has the same
+kind of constraint Ozmund's got (strictly pre-Fulfillment-Ceremony) -- his own 35-Chronicle corpus
+to date already lives entirely in that pre-Book-1 window.
+
+**Step 2, Psychological Profile,** drafted seven facets grounded tightly in the walkthrough. The
+defining throughline isn't proposed at all -- `CC-134` already locks it directly ("Ezio carries
+deception"), and the rest of the profile explains its shape: the single most transparent-seeming
+person in the crew (a public theorist making everyone else's hidden truths undeniable) is
+simultaneously its most hidden person (a classified elite combatant known to only four others). One
+item was flagged as a genuine live discussion point rather than decided unilaterally: whether Ezio
+already knows Lady Nadea Thren loves him (`CC-073` left this ambiguous), and if a reconciliation
+between them should ever be built toward.
+
+**`CC-073` amended in place, `MCD-1875` locked (new, category `book1-structure`).** Abad raised the
+reconciliation question directly and, when asked which reading he preferred, delegated the creative
+call: "lets go with what makes the story more rich and stays true to Ezio's character." Resolved in
+favor of the richer, more character-consistent reading: Ezio already knows -- a man this perceptive,
+whose entire profession is reading what people don't say (`ARS-405`'s Socratic Trap, 750 years of
+wisdom-equivalence under Sephtis), missing this for years would undercut his own characterization --
+and has chosen, deliberately and repeatedly, to say nothing and stay anyway. The reconciliation
+itself is locked as a single act of chosen vulnerability rather than a grand declaration: at Book
+1's climax (the Karkosa Heist act), Nadea steps out of patron-at-a-distance into direct field
+collaboration with him at genuine personal risk (a real cost for a defector whose departure already
+dissolved the Mirrored Chorus, `MCD-021`), and in the midst of it Ezio breaks his own lifelong
+pattern of managed information once, for her alone, to tell her plainly that he's always known.
+Deliberately not a resolved romance -- what becomes of it afterward stays open, matching the
+project's own `MCD-216` precedent for flexible book-level framing. Presented in full; Abad's
+approval, quoted verbatim: "lock it." Ledger reached `ledger_version` 32.0, 2,645 rules, 317
+batches -- zero duplicate IDs verified.
+
+Ezio's own gate is not yet cleared -- Section 3 (Game Plan) still needs drafting and Abad's sign-off
+before any Chronicle prose can be written for him. Also flagged along the way, not yet acted on: a
+real inconsistency in Lauris Letitia's own profile doc, which still reads "Gate cleared: NO" despite
+her having 109 locked Chronicles -- noted in `chronicle-tracks-status.md` for whenever Abad wants to
+look at it.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
