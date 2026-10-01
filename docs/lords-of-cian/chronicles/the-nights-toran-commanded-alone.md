@@ -1,9 +1,11 @@
 # The Nights Toran Commanded Alone
 
-*Locked canon, Batch 265, 2026-09-11 (`MCD-1393`). Bane Alias Chronicle XCIII, wave 31, closing
-wave 31. Direct payoff to wave 23's "The Lieutenant Corren Halst Chose" (`MCD-1099`) and wave 21's
-"The Weight Maret Vos Chose to Carry" (`MCD-1061`): Toran runs a full operation with neither Corren
-Halst nor Bane present at all, the first fully unsupervised test of the crew's trained discipline.*
+*Locked canon, Batch 265, 2026-09-11 (`MCD-1393`); corrected Batch 320, 2026-10-01 (a "three waves
+back" reference -- writers'-room batch terminology, not an in-world unit of time -- was reworded to
+plain prose). Bane Alias Chronicle XCIII, wave 31, closing wave 31. Direct payoff to wave 23's "The
+Lieutenant Corren Halst Chose" (`MCD-1099`) and wave 21's "The Weight Maret Vos Chose to Carry"
+(`MCD-1061`): Toran runs a full operation with neither Corren Halst nor Bane present at all, the
+first fully unsupervised test of the crew's trained discipline.*
 
 ---
 
@@ -25,7 +27,7 @@ working, mostly, letting the not-knowing sit where it sat instead of chasing it.
 
 Toran's own standing order held the whole three nights without him needing to invoke it by name:
 no plan ran past the fourth sleepless stretch without a second set of eyes reviewing it, exactly as
-Bane had made it apply to himself first, three waves back, after his own judgment slipped once and
+Bane had made it apply to himself first, some while back, after his own judgment slipped once and
 nearly cost thirty harvesters their lives. Toran built that second set of eyes into his own command
 the same way — rotated it through two junior scouts he trusted enough to argue with him, and let
 one argument on the second night talk him out of a route that would have run the column directly

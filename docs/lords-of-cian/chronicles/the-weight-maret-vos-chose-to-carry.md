@@ -1,17 +1,19 @@
 # The Weight Maret Vos Chose to Carry
 
-*Locked canon, Batch 241, 2026-09-11 (`MCD-1061`). Bane Alias Chronicle LXIII, wave 21. Closes wave
-21. A quieter, reflective closer giving Maret Vos his own dedicated perspective within Bane's own
-run for the first time, payoff to wave 18's "What He Couldn't Be in Two Places For." Not a territory
-Chronicle.*
+*Locked canon, Batch 241, 2026-09-11 (`MCD-1061`); corrected Batch 320, 2026-10-01 (a crane-load-
+calculation simile belonging to Dol Maren, `CC-120`/`121`, had bled onto Maret Vos -- a freed
+Cestari, `MCD-234` -- and was swapped for an arena-appropriate one). Bane Alias Chronicle LXIII,
+wave 21. Closes wave 21. A quieter, reflective closer giving Maret Vos his own dedicated
+perspective within Bane's own run for the first time, payoff to wave 18's "What He Couldn't Be in
+Two Places For." Not a territory Chronicle.*
 
 ---
 
 It had been three weeks since Bane split the column and handed him the interception alone, and Maret
 Vos still hadn't told anyone how close he'd come to saying no.
 
-Not because he doubted he could run it. He'd run the numbers on the ambush the same way he'd once run
-the load calculations on a half-collapsed crane before he trusted his weight to it, and the numbers had
+Not because he doubted he could run it. He'd run the numbers on the ambush the same way he'd once
+read an opponent's footing in the ring before committing to a strike, and the numbers had
 held. What he hadn't said out loud, not even to Corren Halst or Danne Sok, was that for the better part
 of the hour it took to close on the ambush site, he'd kept waiting for Bane to appear anyway — to have
 misjudged the poisoned well as the smaller crisis and come to take the interception back — and the

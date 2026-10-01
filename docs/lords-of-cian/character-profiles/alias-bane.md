@@ -180,10 +180,11 @@ psychology for "Bane" as if he were a different person.
   interference (`MCD-1097`) and is deliberately withheld near open water on a safety principle
   established at `MCD-1100`/reused at `MCD-1424`; Onyx's Whisper of Shadows has no effect on animal
   senses (nearly exposing an infiltration to a guard dog, `MCD-1094`) and can be partially
-  countered by a purpose-built sound-deadened chamber (`MCD-933`); Sovereign Eyes-style visual
-  enhancement (not yet built as dedicated gear in this era, but implied baseline vision) is
-  stripped to nothing in a whiteout blizzard, forcing an entire ambush defense onto sound/vibration
-  alone (`MCD-1391`).
+  countered by a purpose-built sound-deadened chamber (`MCD-933`); Mafesto's own helm overlay
+  (corrected Batch 320, 2026-10-01, from an anachronistic "Sovereign Eyes" reference -- that gear
+  isn't built until age 33, after the Trinity's own age-30 surrender, `ARS-350`) is stripped to
+  nothing in a whiteout blizzard, forcing an entire ambush defense onto sound/vibration alone
+  (`MCD-1391`).
 - Each of Onyx's five named powers received its own dedicated corpus showcase: Cadence Ruin
   (`MCD-398`, unmaking a rehearsed ambush), Whisper of Shadows (`MCD-1094`), Veil Piercer
   (`MCD-910`, completing a deliberate trilogy with Black Ledger and Soulbound Edge), Soulbound Edge
@@ -191,8 +192,10 @@ psychology for "Bane" as if he were a different person.
   exposing a false-flag atrocity).
 - One entry (`MCD-1425`) stages an engagement with the Trinity **excluded from the terms before it
   begins** — formal single combat, blade only, Onyx sheathed, Mafesto and Obsidian Malice left with
-  the column — isolating Kanja's raw swordsmanship (via Valen Sinisterblade's training,
-  `ARS-291`/`292`) as the sole deciding factor.
+  the column — isolating Kanja's raw swordsmanship (via Valen Sinisterblade's in-Rebellion training
+  as Master-at-Arms, `ARS-344`; corrected Batch 320, 2026-10-01, from a wrong `ARS-291`/`292`
+  citation and a since-fixed pre-Rebellion training claim that conflicted with `MCD-311`) as the
+  sole deciding factor.
 
 ### Already-locked plot beats (book-level or Chronicle-level)
 
@@ -229,11 +232,11 @@ psychology for "Bane" as if he were a different person.
   definitively laid down. Whether a *true* final chronological endpoint for Bane (something that
   actually happens at/near age 30, paralleling how the Scourge's Long Mask has a locked final
   night) should ever be drafted is open and untouched by the corpus so far.
-- **No dedicated `CC-` dossier for Corren Halst or Danne Sok** despite being two of the three
-  founding crew members and extremely heavily recurring across not just Bane but nearly every
-  alias. This is a walkthrough gap worth flagging to Abad — it doesn't block this alias's gate, but
-  a future dedicated pass (matching Batch 48's Hask/Breck/Maren treatment) could give them the same
-  depth.
+- ~~No dedicated `CC-` dossier for Corren Halst or Danne Sok~~ **done, Batch 320, 2026-10-01
+  (`CC-158`, `CC-159`).** The pilot fable-review pass flagged a real pronoun split for both (he/him
+  throughout Bane, but she/her in a real number of Captain and Blue-Collar Titan entries) --
+  resolved he/him for both, matching the clear majority usage, and swept across every affected file
+  corpus-wide, the same resolution pattern as Maret Vos/Dol Maren (Batch 226).
 - The corpus's own recurring legend-drift throughline — the false massacre rumor (`MCD-681`), the
   paid storyteller's embellishment (`MCD-692`), the folk marching song (`MCD-1108`), profit-motive
   impersonators (`MCD-1428`), and finally an unverified distant uprising invoking his name in a

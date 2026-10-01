@@ -3364,6 +3364,76 @@ the already-locked Callas Modrin. Abad's approval: "lock it." Ledger reached `le
 stands at 1 entry. Genuinely open for whenever Abad wants it next: a second wave for Ezio, closing
 the Lauris profile-doc header inconsistency, or any other thread.
 
+**A pilot "fable review" of the Bane Alias Chronicle corpus, plus the first corrective batch it
+produced, Batch 320, 2026-10-01.** Abad asked how large a task it would be to run a full
+contradiction/error/enrichment review of the entire project corpus, flagging a real budget
+constraint (roughly 40% of a Max plan remaining) and asking for recommendations-only review
+agents (model: Fable) that this session would then implement. Given the corpus's real scale
+(1,496 Chronicle files, ~1.01M words of prose; canon-ledger.json plus profile/gameplan/tracker
+docs at ~457K words; 2,646 rules, 318 batches at the time), a full ~35-45-chunk review was
+estimated at several million tokens of total compute -- large enough that Abad agreed to a single
+pilot chunk first rather than committing the budget outright. Bane was selected as the pilot:
+the largest single alias track at 108 ledger rules / 102 real Chronicle entries (the 108-rule
+query is itself lossy -- it missed Bane's actual Chronicle I, MCD-365, over a stale category tag,
+and pulled in 6 entries from other aliases that merely mention Bane in passing), ~60,500 words of
+prose plus ~9,500 words of rule statements. One Fable-model background agent reviewed the full
+corpus read-only and returned 9 contradictions, 11 errors, and 7 enrichment clusters, plus pilot
+metrics: ~150-170K tokens for this one chunk, confirming a naive full run would be prohibitively
+expensive, and flagging that chunk selection must be rebuilt from title-substring/explicit-ID
+lists rather than category+name (lossy both ways) and that the highest-value findings were
+cross-chunk, requiring full-repo grep access per chunk agent and a dedicated consolidation pass.
+
+Presented the findings split into mechanical fixes (no creative judgment needed) and three
+decisions. Abad's direction, verbatim: "proceeding a pragmatic order" -- read as authorizing
+pragmatic defaults on all three rather than blocking on separate rulings, matching the Batch 226/68
+reconciliation precedent (no new creative facts, fixing broken references against already-locked
+canon). Fixed directly: a Trinity-era gear anachronism ("Sovereign Eyes" appearing before it's
+built, age 33, `MCD-1391`); an Iron-Bastard-doctrine anachronism, roughly five years before that
+alias exists (`MCD-709`); Obsidian Malice's "two years of dormant charge" claimed redundantly
+within 18 months of the Black Trench across three entries (`MCD-432`, `MCD-709`, `MCD-1060` --
+`MCD-1097`'s mention left untouched, since it correctly restates the established mechanic rather
+than making a fresh impossible claim); a mislabeled pre-Rebellion Valen-training claim
+contradicting `MCD-311`, plus a wrong citation (`MCD-1425`); a misattributed broken-promise
+settlement name, "Aldren's Reach" for the real Karrow's Bend (`MCD-939`); a misattributed siege
+method plus a literal rule-ID citation that had leaked into narrative prose (`MCD-1426`); a grief
+reference pointed at a battle already locked as zero-casualty (`MCD-693`); a Dol Maren
+crane-load-testing trait that had bled onto Maret Vos, the same error class as the `MCD-751` fix in
+Batch 226 (`MCD-1061`); Bane's actual Chronicle I's category tag (`MCD-365`); two Voice Bible
+characterization labels ("Already-Finished Negotiation") leaking into narrative prose as quoted
+in-world phrases rather than the plain-prose voicing used everywhere else (`MCD-706`, `MCD-1027`);
+a writers'-room "three waves back" reference leaking into prose (`MCD-1393`); Obsidian Malice (a
+war club per `ARS-030`) twice described as a bladed, sheathed weapon (`MCD-1100`, `MCD-1113`); and
+a misattributed waystation-song callback (`MCD-1432`).
+
+Two pragmatic calls: (1) **the Corren Halst/Danne Sok pronoun split** -- a corpus-wide grep
+confirmed he/him throughout all of Bane but she/her in seven Captain and Blue-Collar Titan entries
+(`MCD-1459`, `MCD-1056`, `MCD-1091`, `MCD-1367`, `MCD-1379`, `MCD-1456`, `MCD-1400`), plus five
+more true positives the same sweep caught beyond the pilot's own sample (`MCD-1380`, `MCD-1389`,
+`MCD-1402`, `MCD-1369`, `MCD-1451`, `MCD-1452`) -- resolved he/him for both, the clear majority
+usage, matching the Maret Vos/Dol Maren resolution (Batch 226). New dossiers locked at `CC-158`
+(Corren Halst) and `CC-159` (Danne Sok), and every affected file swept and corrected, with care
+taken throughout to leave untouched the "she/her" pronouns of unrelated nearby female characters
+(Efa Gol, Danne Sok's own daughter, visiting scholars and children) that the same grep pattern
+also surfaced as false positives. (2) **the Kessic Overwatch naming collision** -- `MCD-432` locks
+that garrison falling only to a full-Trinity assault (gate broken, formation shattered by Onyx),
+while `MCD-1102` separately describes the same name surrendering cleanly on amnesty terms six
+weeks earlier, an "honest capitulation, no tricks" that can't describe the same violent event --
+resolved by renaming the second, contradictory installation to a distinct garrison, Hallmere,
+rather than forcing either account to fit the other, the same resolution pattern already used
+elsewhere in the project for this exact class of collision. Also corrected: stale Chronicle-count
+figures (93 -> 102) in the tracker and a stale `ARS-291`/`292` citation in the Bane profile doc,
+both now pointing at `ARS-344`.
+
+All fixes applied as prose-level corrections to the already-locked Chronicle files plus two new
+`CC-` rules -- no plot or character facts changed beyond the pronoun ruling and the Hallmere
+rename, matching the reconciliation-not-invention discipline of Batch 226/68. Ledger reached
+`ledger_version` 32.2, 2,648 rules, 319 batches -- zero duplicate IDs verified. The larger
+corpus-wide review remains undecided: genuinely open for whenever Abad wants it next is either
+scoping the full ~35-45-chunk run properly (fixed chunk-list methodology, full-repo grep access
+per chunk, a dedicated consolidation pass budgeted as its own chunk-sized task) or moving on to
+another thread entirely -- Ezio's second wave (drafted, still pending approval) remains untouched
+and separately open.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

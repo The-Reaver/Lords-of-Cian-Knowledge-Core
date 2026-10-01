@@ -1,9 +1,13 @@
 # The Duel That Would Cost Nothing But Him
 
-*Locked canon, Batch 276, 2026-09-11 (`MCD-1425`). Bane Alias Chronicle XCV, wave 32. First deliberate
-full-Trinity stand-down: a garrison commander's wager duel fought entirely with a plain blade, no
-Onyx, Mafesto, or Obsidian Malice engaged, distinct from the peer-level duel of "The Fight He
-Couldn't Walk Away From" (`MCD-476`).*
+*Locked canon, Batch 276, 2026-09-11 (`MCD-1425`); corrected Batch 320, 2026-10-01 (Valen
+Sinisterblade's training reworded from a pre-Rebellion claim -- which conflicts with `MCD-311`'s
+lock that Kanja's early Rebellion results came from no formal training at all, and with `ARS-344`'s
+own placement of Valen as Master-at-Arms starting only at age 26 -- to an in-Rebellion one, with the
+citation corrected from `MCD-291`/`292`, which are unrelated rules, to `ARS-344`). Bane Alias
+Chronicle XCV, wave 32. First deliberate full-Trinity stand-down: a garrison commander's wager duel
+fought entirely with a plain blade, no Onyx, Mafesto, or Obsidian Malice engaged, distinct from the
+peer-level duel of "The Fight He Couldn't Walk Away From" (`MCD-476`).*
 
 ---
 
@@ -18,13 +22,13 @@ out."
 "Then let him choose it cheap," Bane said, and sent back one condition of his own: no gear beyond the
 blade at his hip. Onyx stayed sheathed and silent. Mafesto and Obsidian Malice stayed with the column.
 Whatever happened on that ground would happen to him alone, on nothing but what Valen Sinisterblade
-had spent years putting into his hands before any of the rest of it existed.
+had spent years putting into his hands since becoming his Master-at-Arms.
 
 The commander was good — trained young, disciplined, patient in a way most of Bane's opponents
 weren't, since most of them had never had reason to test a blade against him without also testing
 whatever else came with the name. He opened cautious, reading for an opening that wasn't there yet,
 and Bane gave him nothing to read: no myth, no reputation, just a stance and a breath and the
-specific quiet Valen had spent a year drilling into him before he ever went into the Rebellion at all.
+specific quiet Valen had spent years drilling into him since taking up that post.
 
 The fight ran long. Neither man rushed it. The commander's footwork was clean enough to hold even
 ground for the better part of twenty minutes, testing angles, retreating when a line closed too
@@ -55,7 +59,7 @@ completely stood down by his own choice rather than by malfunction, environmenta
 withholding mid-fight (contrast the deliberate but partial Obsidian Malice restraint of "The Weight of
 the Ones Who Didn't Run," `MCD-1113`) -- Onyx, Mafesto, and Obsidian Malice are not merely unused here,
 they are explicitly kept out of the terms before the fight begins, isolating Kanja's own trained
-swordsmanship (Valen Sinisterblade's training, `MCD-291`/`MCD-292`) as the sole deciding factor,
+swordsmanship (Valen Sinisterblade's training, `ARS-344`) as the sole deciding factor,
 distinct from the peer-level duel of "The Fight He Couldn't Walk Away From" (`MCD-476`), which still
 involved Onyx's Cadence Ruin and Veil Piercer. Extends the mercy-doctrine established across the run
 (sparing the commander, honoring the wager's own terms in full) by tying it explicitly to a wager

@@ -1,9 +1,11 @@
 # The Story That Outran Him
 
-*Locked canon, Batch 276, 2026-09-11 (`MCD-1432`). Bane Alias Chronicle CII, wave 34, closing wave
-34 and this three-wave run. Extends the legend-drift theme of "The Song They Sang Without Knowing
-Whose It Was" (`MCD-1108`) beyond his own people into an unverifiable, uncontrolled echo reaching a
-place he has never been.*
+*Locked canon, Batch 276, 2026-09-11 (`MCD-1432`); corrected Batch 320, 2026-10-01 (two callbacks
+to "the marching song" misplaced it at "the waystation," which is actually the site of Toran's
+wedding, `MCD-1429` -- the song itself (`MCD-1108`) was sung by refugee children on the road;
+corrected). Bane Alias Chronicle CII, wave 34, closing wave 34 and this three-wave run. Extends the
+legend-drift theme of "The Song They Sang Without Knowing Whose It Was" (`MCD-1108`) beyond his own
+people into an unverifiable, uncontrolled echo reaching a place he has never been.*
 
 ---
 
@@ -26,7 +28,7 @@ it's decent or whether it's the kind of thing that gets people killed for a stor
 true."
 
 "No," Bane said again, and that was the whole of it, because there wasn't a version of the fact that
-changed with more thinking about it. The song at the waystation, the rumor in the market town, the
+changed with more thinking about it. The marching song on the road, the rumor in the market town, the
 impersonators wearing his shape for profit — all of that had been close enough to reach, close enough
 to correct or confirm or at least witness. This wasn't. This was the name doing something on its own,
 three provinces past the edge of anywhere he could follow it, built off a story a trader had told a
@@ -38,8 +40,8 @@ money somewhere he's never been."
 
 "Worse," Bane said. "I look like a man who found out something with my name on it is making decisions
 I'll never get a vote in, for people I'll never meet, based on a version of events that's already three
-tellings removed from anything that actually happened." He shook his head slowly. "The song at the
-waystation, I could have stopped if I'd wanted to. This one doesn't need me at all anymore. It just
+tellings removed from anything that actually happened." He shook his head slowly. "The marching
+song, I could have stopped if I'd wanted to. This one doesn't need me at all anymore. It just
 needed to start."
 
 "Does that scare you?"

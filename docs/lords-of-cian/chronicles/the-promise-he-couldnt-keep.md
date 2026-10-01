@@ -1,15 +1,19 @@
 # The Promise He Couldn't Keep
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-706`). Bane Alias Chronicle XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-706`); corrected Batch 320, 2026-10-01 (the Voice
+Bible's `VB-060` characterization label had leaked into the narrative as a quoted in-world phrase;
+reworded to plain prose, matching how every other entry voices the trait). Bane Alias Chronicle
+XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in
+neutral third-person prose.*
 
 ---
 
 He told the settlement at Karrow's Bend that he would return before the season's first frost with
 enough of the column to hold the pass against the Directorate reprisal everyone knew was coming for
-having sheltered rebellion wounded. It was not an idle promise. It was the specific kind of assurance
-the "Already-Finished Negotiation" reputation had trained people to trust completely — that if Bane
-said a thing would happen, it had, in some sense, already happened, and the waiting was only for the
-world to catch up to it.
+having sheltered rebellion wounded. It was not an idle promise. It was the specific kind of
+assurance his reputation had trained people to trust completely — that if Bane said a thing would
+happen, it had, in some sense, already happened, and the waiting was only for the world to catch up
+to it.
 
 He did not return before the frost. A crisis three provinces distant — a liberation operation that
 could not wait and could not be delegated in time — held the column past the date he'd given, and by

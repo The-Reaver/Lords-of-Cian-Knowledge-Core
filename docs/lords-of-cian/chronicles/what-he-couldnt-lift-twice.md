@@ -1,6 +1,7 @@
 # What He Couldn't Lift Twice
 
-*Locked canon, Batch 279, 2026-09-11 (`MCD-1456`). Blue-Collar Titan Alias Chronicle XCIX, wave 33, closing the wave. The alias's first entry making Kanja himself subject to his own established fatigue rule rather than the one imposing it on others.*
+*Locked canon, Batch 279, 2026-09-11 (`MCD-1456`); corrected Batch 320, 2026-10-01 (Corren Halst
+and Danne Sok reconciled to he/him, matching `CC-158`/`CC-159`). Blue-Collar Titan Alias Chronicle XCIX, wave 33, closing the wave. The alias's first entry making Kanja himself subject to his own established fatigue rule rather than the one imposing it on others.*
 
 ---
 
@@ -8,11 +9,11 @@ His arms told him first, a fine tremor he mistook for cold until he noticed the 
 
 The beam went up on the first lift clean enough. It was the second lift -- shifting it six inches to seat properly against the new post -- that his grip failed on, just for a half-second, just long enough for the beam to drop back half an inch before he caught it again.
 
-"Set it down," Corren Halst said, already at his shoulder, voice flat in the way that meant she wasn't asking.
+"Set it down," Corren Halst said, already at his shoulder, voice flat in the way that meant he wasn't asking.
 
 "I've got it."
 
-"You had it. For half a second there, you didn't." She didn't reach for the beam herself, didn't try to wrestle it from him -- she knew better than that. She simply stood where he could see her and waited, and it was Danne Sok arriving a moment later, reading the same tremor in his forearms that Corren Halst had already caught, who finally said the thing that landed.
+"You had it. For half a second there, you didn't." He didn't reach for the beam himself, didn't try to wrestle it from him -- he knew better than that. He simply stood where he could see him and waited, and it was Danne Sok arriving a moment later, reading the same tremor in his forearms that Corren Halst had already caught, who finally said the thing that landed.
 
 "You made a rule after the night crew nearly lost two men to exhaustion nobody caught in time," Danne Sok said. "You wrote it into how this crew runs. You didn't write an exception into it for yourself."
 
@@ -34,4 +35,4 @@ He slept nine hours, the longest unbroken stretch since the frost had first star
 
 ---
 
-*Continuity notes (not narrative): the alias's first entry locating a genuine physical limit inside Kanja's own sustained exhaustion, extending "The Watch That Forgot to Rest" (`MCD-1189`, where he imposed hard rotation caps on others) by finally applying that same rule to himself for the first time -- distinct from the structural-failure limit of `MCD-485` and the technical-mistake register of `MCD-665`, since here the limit is bodily rather than a misjudgment of stone. Deliberately framed around physical labor fatigue (a failing grip mid-lift) rather than tactical judgment, keeping it distinct from the same-shaped register already used for a different alias (Bane's `MCD-1059`). Reuses already-locked crew members Corren Halst and Danne Sok (both she/her). No new named characters. Closes wave 33 (with "The Well That Went Dry," `MCD-1454`, and "The Hand He Rebuilt to Hold a Tool," `MCD-1455`).*
+*Continuity notes (not narrative): the alias's first entry locating a genuine physical limit inside Kanja's own sustained exhaustion, extending "The Watch That Forgot to Rest" (`MCD-1189`, where he imposed hard rotation caps on others) by finally applying that same rule to himself for the first time -- distinct from the structural-failure limit of `MCD-485` and the technical-mistake register of `MCD-665`, since here the limit is bodily rather than a misjudgment of stone. Deliberately framed around physical labor fatigue (a failing grip mid-lift) rather than tactical judgment, keeping it distinct from the same-shaped register already used for a different alias (Bane's `MCD-1059`). Reuses already-locked crew members Corren Halst and Danne Sok (both he/him per the Batch 320 reconciliation). No new named characters. Closes wave 33 (with "The Well That Went Dry," `MCD-1454`, and "The Hand He Rebuilt to Hold a Tool," `MCD-1455`).*

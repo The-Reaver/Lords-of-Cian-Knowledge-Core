@@ -2,7 +2,9 @@
 
 *Locked canon, Batch 254, 2026-09-11 (`MCD-1113`). Bane Alias Chronicle LXXXIII, wave 28. A detailed
 full-Trinity combat showcase defending a dense urban tenement district whose residents refused
-evacuation, the first entry to withhold Obsidian Malice entirely as unsuitable for the terrain.*
+evacuation, the first entry to withhold Obsidian Malice entirely as unsuitable for the terrain.
+Corrected Batch 320, 2026-10-01: Obsidian Malice, a war club per `ARS-030`, was twice described as
+a sheathed bladed weapon; reworded to match its actual form.*
 
 ---
 
@@ -25,7 +27,7 @@ they closed rather than in the middle of a clash where a misjudged blast radius 
 before any strike landed, its reading told him which doorways along a contested block held people
 still sheltering inside, so that every redirected blow had somewhere safe to go.
 
-Obsidian Malice never left its sheath. The terrain didn't allow for it — no discharge in these streets
+Obsidian Malice never left his harness. The terrain didn't allow for it — no discharge in these streets
 could be aimed carefully enough to guarantee it hit only what it was meant to, and Bane made the call
 early, before the fighting started, to fight the entire engagement without it rather than risk what
 one wrong angle could do to a street full of people who'd chosen to stay.
@@ -34,7 +36,7 @@ The district held. Six hours of close, careful fighting through streets that nev
 the families living in them, and not one civilian casualty by the time the Directorate assault broke
 and withdrew.
 
-"You never drew it once," Efa Gol said afterward, nodding at the weapon still sheathed at his side.
+"You never drew it once," Efa Gol said afterward, nodding at the weapon still strapped at his side.
 
 "Some ground doesn't get the fastest answer I've got. It gets the one that doesn't risk the people
 who stayed to defend it themselves."

@@ -1,6 +1,9 @@
 # The Council That Asked Him to Speak Plainly
 
-*Locked canon, Batch 215, 2026-09-11 (`MCD-939`). Bane Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 215, 2026-09-11 (`MCD-939`); corrected Batch 320, 2026-10-01 ("Aldren's
+Reach" was a misattribution of the already-locked broken-promise settlement, Karrow's Bend,
+`MCD-706`). Bane Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral
+third-person prose.*
 
 ---
 
@@ -24,7 +27,7 @@ hadn't been granted either.
 Six arbiters, none aligned with either side of the war, asked him questions for the better part of
 a day. He answered the ones about what had happened plainly, including the parts that reflected
 poorly — the recruit expelled for cruelty at the column's own hands, the promise broken at
-Aldren's Reach that had cost four lives, the delay at a prisoner liberation that had cost two more.
+Karrow's Bend that had cost four lives, the delay at a prisoner liberation that had cost two more.
 He didn't offer those unprompted, and he didn't shade them softer when asked. What he refused,
 twice, was to answer for actions the record showed he'd had no part in at all, no matter how the
 questioning tried to fold them into a single pattern.

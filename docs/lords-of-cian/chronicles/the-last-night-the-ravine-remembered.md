@@ -1,6 +1,11 @@
 # The Last Night the Ravine Remembered
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-709`). Bane Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-709`); corrected Batch 320, 2026-10-01 (two "Iron
+Bastard" doctrine references removed -- that alias doesn't exist until age 25, roughly five years
+after this age-~20 engagement -- and Obsidian Malice's charge reworded to drop a "two-year
+dormant-accumulation cycle" claim that can't complete inside this entry's own eighteen-month
+window). Bane Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a
+territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -10,7 +15,7 @@ enough in shape that the choice of ground was itself a message, a final, deliber
 answer the engagement that had made the name in the first place on ground built to echo it.
 
 Five companies. Two purpose-built Crawler variants, reinforced past anything fielded against the
-Iron Bastard's own doctrine. A full night's planning built around every countermeasure eighteen
+column before. A full night's planning built around every countermeasure eighteen
 months of failure had taught them: no fresh-cut timber, no fog to hide movement in, no single choke
 point a ravine-collapse tactic could exploit twice.
 
@@ -18,18 +23,17 @@ Bane came in with the full Trinity engaged from the first contact, nothing held 
 Kinetic Transfer System took the first Crawler's opening volley and grounded it clean through solid
 rock this time, no marsh to rob the doctrine of its footing, redirected force enough to crack the
 Crawler's forward plating on the return. Obsidian Malice discharged twice inside the first two
-minutes — full charge both times, the two-year dormant-accumulation cycle long since built back to
-capacity — each discharge timed to a moment when a full company's formation had closed tight enough
+minutes — full charge both times, nothing held back — each discharge timed to a moment when a full company's formation had closed tight enough
 for the blast to matter and loose enough that his own position stayed clear of it. Onyx of Oblivion
 moved through the space between discharges: Cadence Ruin unmaking a company commander's footing mid-
 order, Veil Piercer finding the gap in a shield wall reinforced specifically to deny it, Whisper of
 Shadows reading a Crawler's targeting cycle a half-second ahead of its trigger.
 
 The second Crawler nearly closed the fight the Directorate's planners had actually built it for —
-armor plating layered to deny the resonance approach the Iron Bastard's own doctrine had made famous,
-forcing Bane to abandon a single clean tactic and fight it the plain, grinding way instead, blade and
-armor and raw strength against reinforced metal that gave ground only because he refused to stop
-making it give ground.
+armor plating layered to deny exactly the kind of clean kinetic redirection Mafesto had just used on
+the first, forcing Bane to abandon a single clean tactic and fight it the plain, grinding way
+instead, blade and armor and raw strength against reinforced metal that gave ground only because he
+refused to stop making it give ground.
 
 It ended at first light, five companies broken, both Crawlers disabled, the ravine network intact but
 empty of anyone left standing to hold it. The engagement cost the column more than any fight since

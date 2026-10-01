@@ -1,7 +1,10 @@
 # What the River Carried Between Them
 
-*Locked canon, Batch 254, 2026-09-11 (`MCD-1100`). Bane Alias Chronicle LXX, wave 24. A detailed
-full-Trinity combat showcase fought waist-deep in a fast night river crossing, with Obsidian Malice's
+*Locked canon, Batch 254, 2026-09-11 (`MCD-1100`); corrected Batch 320, 2026-10-01 (Obsidian
+Malice, a war club per `ARS-030`, was described as a bladed weapon; reworded to match its actual
+form, and a duplicated-word garble in the same passage was fixed). Bane Alias Chronicle LXX, wave
+24. A detailed full-Trinity combat showcase fought waist-deep in a fast night river crossing, with
+Obsidian Malice's
 discharge deliberately redirected away from the water itself.*
 
 ---
@@ -25,10 +28,10 @@ before either flank realized the other had been read; it didn't need eyes to do 
 
 Obsidian Malice was the one piece of the Trinity Bane held back from its usual answer. A full
 discharge released into open water, with forty of his own people still fording it, could have hurt
-more of them than the enemy — so when the moment came that called for it, he raised the blade clear
-of the surface and released the charge upward and outward instead, a controlled arc over the water
-rather than through it, taking the last organized resistance on the bank without ever letting the
-current carry the current.
+more of them than the enemy — so when the moment came that called for it, he raised the war club
+clear of the surface and released the charge upward and outward instead, a controlled arc over the
+water rather than through it, taking the last organized resistance on the bank without ever losing
+a strike to the current.
 
 The column finished crossing under cover of the confusion that bought, no one lost to the river or
 the fight.

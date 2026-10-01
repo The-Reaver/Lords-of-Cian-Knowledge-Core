@@ -1,12 +1,12 @@
 # The Machine That Dug Toward Them
 
-*Locked canon, Batch 268, 2026-09-11 (`MCD-1400`). Blue-Collar Titan Alias Chronicle XCI, wave 31, opening the wave. The alias's first mechanized-siege-engine combat showcase -- a Directorate boring engine driven as a weapon in its own right, not a trap or a hazard.*
+*Locked canon, Batch 268, 2026-09-11 (`MCD-1400`); corrected Batch 320, 2026-10-01 (Danne Sok reconciled to he/him, matching `CC-159`). Blue-Collar Titan Alias Chronicle XCI, wave 31, opening the wave. The alias's first mechanized-siege-engine combat showcase -- a Directorate boring engine driven as a weapon in its own right, not a trap or a hazard.*
 
 ---
 
-The vibration reached Danne Sok's palm before it reached her ears, a slow, rhythmic grinding through the rock that didn't match any collapse she'd ever felt and didn't match any tool the crew owned either.
+The vibration reached Danne Sok's palm before it reached his ears, a slow, rhythmic grinding through the rock that didn't match any collapse he'd ever felt and didn't match any tool the crew owned either.
 
-"That's not settling," she said, already backing away from the gallery wall. "That's coming."
+"That's not settling," he said, already backing away from the gallery wall. "That's coming."
 
 Kanja pressed both hands flat against the stone and held them there through a dozen cycles of the grinding before he understood what he was reading. Not men digging. A machine -- a Directorate boring engine, iron-toothed and steam-driven, cutting a straight line through solid rock toward the civilian shelter gallery three hundred paces east, indifferent to the workers sleeping in it because nothing riding inside it could hear them scream.
 

@@ -1,8 +1,10 @@
 # The Officer Who Wasn't Lying
 
-*Locked canon, Batch 230, 2026-09-11 (`MCD-1027`). Bane Alias Chronicle LIX, wave 20. Extends
-`VB-060`'s "Already-Finished Negotiation" presence trait in reverse -- an opponent whose sincerity,
-not deception, is what unsettles Bane. Not a territory Chronicle.*
+*Locked canon, Batch 230, 2026-09-11 (`MCD-1027`); corrected Batch 320, 2026-10-01 (the Voice
+Bible's `VB-060` characterization label had leaked into the narrative as a quoted in-world phrase;
+reworded to plain prose, matching how every other entry voices the trait). Bane Alias Chronicle
+LIX, wave 20. Extends `VB-060`'s "Already-Finished Negotiation" presence trait in reverse -- an
+opponent whose sincerity, not deception, is what unsettles Bane. Not a territory Chronicle.*
 
 ---
 
@@ -18,9 +20,8 @@ override medical triage in a border camp, one specific child's name he gave with
 didn't have the shape of a story built to be believed. It had the shape of a man who'd simply stopped
 being able to do the job.
 
-"Already-finished negotiation" was Bane's own private name for what he did to rooms like this one,
-the thing Callum Breck had once told him he did without seeming to try — arriving at a conclusion
-somewhere the other man hadn't been invited and only announcing the result. It worked because most
+It was the same thing Callum Breck had once told him he did without seeming to try — arriving at a
+conclusion somewhere the other man hadn't been invited and only announcing the result. It worked because most
 men brought him something to see through. This one hadn't brought anything. He'd simply stood there,
 plainly, and let himself be read, and there was nothing underneath the surface to find, which
 unsettled Bane in a way no trap ever had.

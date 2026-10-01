@@ -1,9 +1,11 @@
 # The Full Weight of the Trinity
 
-*Locked canon, Batch 128, 2026-09-11 (`MCD-432`). Bane Alias Chronicle VIII. Rebellion era, age 19,
-shortly after the Black Trench. Not a territory Chronicle. New standalone material — a detailed
-armor-and-weapon combat showcase per Abad's craft instruction. Narrated in neutral third-person
-prose. No new named characters.*
+*Locked canon, Batch 128, 2026-09-11 (`MCD-432`); corrected Batch 320, 2026-10-01 (Obsidian
+Malice's "two years of dormant charge" reworded to a plain full discharge, since that specific
+figure is already spent by the Black Trench deployment weeks earlier and can't recur this soon).
+Bane Alias Chronicle VIII. Rebellion era, age 19, shortly after the Black Trench. Not a territory
+Chronicle. New standalone material — a detailed armor-and-weapon combat showcase per Abad's craft
+instruction. Narrated in neutral third-person prose. No new named characters.*
 
 ---
 
@@ -19,8 +21,8 @@ Mafesto's Kinetic Transfer System absorbed the first kill-zone's volley crossfir
 exoskeleton's plating rather than let momentum slow him — six simultaneous impacts converted to
 stored charge in the time it took the garrison's second rank to loose their own volley, which found
 him already past the zone entirely. Obsidian Malice discharged once against the inner gate, a
-single strike concentrating two years of dormant charge into a blow that didn't so much break the
-gate as make the question of its structural integrity briefly irrelevant. Onyx of Oblivion came free
+single strike at full charge that didn't so much break the gate as make the question of its
+structural integrity briefly irrelevant. Onyx of Oblivion came free
 of its sheath only once the gate was down, Cadence Ruin disrupting the coordinated rhythm of the
 garrison's trained formation-fighting into six men each fighting alone instead of one unit fighting
 together, Veil Piercer finding the gaps their own armor had never been designed to protect because no

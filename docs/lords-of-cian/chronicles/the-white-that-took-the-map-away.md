@@ -1,8 +1,11 @@
 # The White That Took the Map Away
 
-*Locked canon, Batch 265, 2026-09-11 (`MCD-1391`). Bane Alias Chronicle XCI, wave 31. New
-environmental register -- a whiteout blizzard strips Sovereign Eyes' visual enhancement to nothing,
-forcing a full-Trinity ambush defense to run entirely on sound, vibration, and Cadence Ruin.*
+*Locked canon, Batch 265, 2026-09-11 (`MCD-1391`); corrected Batch 320, 2026-10-01 (Mafesto's own
+helm overlay swapped in for the anachronistic "Sovereign Eyes," which isn't built until age 33,
+after the Trinity's own age-30 surrender -- an impossible pairing with Mafesto, Onyx, and Obsidian
+Malice all live in the same scene). Bane Alias Chronicle XCI, wave 31. New environmental register --
+a whiteout blizzard strips Mafesto's helm overlay of its visual advantage, forcing a full-Trinity
+ambush defense to run entirely on sound, vibration, and Cadence Ruin.*
 
 ---
 
@@ -11,11 +14,11 @@ point where the Directorate had been waiting for three days, there was no map le
 came sideways hard enough to erase the column's own front rank from its rear, and the world had
 gone the single flat color of nothing at all.
 
-Sovereign Eyes had never failed him before. It failed him now, not through any defect in the gear
-but through a plain, honest limit nobody had thought to test: there was nothing left in the white
-for a predator's enhanced sight to find purchase on. Light-gathering meant nothing against a wall of
-falling snow with no shape behind it. For the first time since the visor's earliest version, Bane
-was, by every visual measure, as blind as anyone else on the mountain.
+Mafesto's helm overlay had never failed him before. It failed him now, not through any defect in
+the gear but through a plain, honest limit nobody had thought to test: there was nothing left in
+the white for its light-gathering to find purchase on. The overlay meant nothing against a wall of
+falling snow with no shape behind it. For the first time, Bane was, by every visual measure, as
+blind as anyone else on the mountain.
 
 "Eyes are gone," he said to Corren Halst, flat, no alarm in it. "We fight this one on sound."
 
@@ -46,16 +49,18 @@ remembering there was nothing left out there to check. "You fought that whole th
 
 "I fought it without my eyes," Bane said. "That's not the same thing, and it's the part worth
 remembering. The storm took one sense. It didn't take the rest, and it never gets to take all of
-them at once." He looked out at white that still hadn't thinned. "Sovereign Eyes was never the
+them at once." He looked out at white that still hadn't thinned. "The overlay was never the
 thing doing the fighting. It was just the easiest one to notice."
 
 ---
 
 *Continuity notes (not narrative): first Bane entry set in whiteout/blizzard conditions, and the
-first to show Sovereign Eyes' visual-enhancement function fail outright against a genuine
-environmental limit (no light-gathering advantage exists against a wall of falling snow), rather
-than being withheld by choice or defeated by a countermeasure -- distinct from every prior gear-limit
-entry in the run. Cadence Ruin, Mafesto's Kinetic Transfer System, and Obsidian Malice are all shown
+first to show Mafesto's helm overlay fail outright against a genuine environmental limit (no
+light-gathering advantage exists against a wall of falling snow), rather than being withheld by
+choice or defeated by a countermeasure -- distinct from every prior gear-limit entry in the run.
+Corrected Batch 320 to remove an anachronistic "Sovereign Eyes" reference (that gear is built at
+age 33, after the Trinity's own age-30 surrender, and cannot appear in a scene with Mafesto, Onyx,
+and Obsidian Malice all live). Cadence Ruin, Mafesto's Kinetic Transfer System, and Obsidian Malice are all shown
 operating entirely on sound and vibration with zero visual confirmation of any target, a detailed
 full-Trinity combat showcase built around sensory substitution rather than any prior fortified,
 siege, vertical, precision, ravine, river, or urban showcase register. No new named characters --

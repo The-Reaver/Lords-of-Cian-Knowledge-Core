@@ -1,12 +1,12 @@
 # The Answer That Wasn't Yes or No
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1380`). Captain Alias Chronicle LXXX, wave 27. Corren Halst proposes a shared, rotating council structure instead of sole succession, and the council debates it.*
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1380`); corrected Batch 320, 2026-10-01 (Corren Halst reconciled to he/him, matching `CC-158`). Captain Alias Chronicle LXXX, wave 27. Corren Halst proposes a shared, rotating council structure instead of sole succession, and the council debates it.*
 
 ---
 
-Corren Halst brought her answer to the full dispute council rather than settle it quietly with Kanja alone, which was, Garren Hask observed, exactly the kind of instinct that made him surer than ever she'd been the wrong single name to put forward in the first place — not because she lacked the judgment, but because she understood better than anyone in the room that the judgment shouldn't live in one person's hands regardless of whose.
+Corren Halst brought his answer to the full dispute council rather than settle it quietly with Kanja alone, which was, Garren Hask observed, exactly the kind of instinct that made him surer than ever Halst had been the wrong single name to put forward in the first place — not because he lacked the judgment, but because he understood better than anyone in the room that the judgment shouldn't live in one person's hands regardless of whose.
 
-"No chair," she said, laying it out plainly. "Not permanently, anyway. A rotating seat — held for a set term, passed by the council's own vote, open to anyone who's earned trust the ordinary slow way this crew's always required, not reserved for whoever's been aboard longest or fought hardest. Hask keeps the ledger and the institutional memory because that's genuinely his gift. I'll take the first term, since I'm the one who's been asked, and hand it forward when the term's up."
+"No chair," he said, laying it out plainly. "Not permanently, anyway. A rotating seat — held for a set term, passed by the council's own vote, open to anyone who's earned trust the ordinary slow way this crew's always required, not reserved for whoever's been aboard longest or fought hardest. Hask keeps the ledger and the institutional memory because that's genuinely his gift. I'll take the first term, since I'm the one who's been asked, and hand it forward when the term's up."
 
 Efa Gol wanted assurance the rotation wouldn't dissolve into confusion the moment a real crisis hit. Callum Breck wanted the term length settled before anyone left the room, not left as another blank clause waiting years for a decision. Hask, watching the argument work itself out in real time, said less than anyone expected of him.
 
@@ -14,9 +14,9 @@ Efa Gol wanted assurance the rotation wouldn't dissolve into confusion the momen
 
 The council settled on a three-year rotating term, Halst to serve the first, with an explicit provision that Kanja himself would never hold the seat — a role built specifically to demonstrate the crew didn't need any single irreplaceable name, least of all his own.
 
-"That's a harder thing to accept than being named your successor would have been," Kanja told her afterward. "You didn't just answer the question. You changed what the question was allowed to be."
+"That's a harder thing to accept than being named your successor would have been," Kanja told him afterward. "You didn't just answer the question. You changed what the question was allowed to be."
 
-"That's the only kind of answer that was ever going to actually outlast either of us," she said.
+"That's the only kind of answer that was ever going to actually outlast either of us," he said.
 
 ---
 

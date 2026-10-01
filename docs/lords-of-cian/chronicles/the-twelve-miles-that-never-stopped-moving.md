@@ -1,9 +1,11 @@
 # The Twelve Miles That Never Stopped Moving
 
-*Locked canon, Batch 241, 2026-09-11 (`MCD-1060`). Bane Alias Chronicle LXII, wave 21. A detailed
-full-Trinity combat showcase built around continuous motion rather than a held position -- a running
-defense of a refugee convoy across twelve miles of changing terrain, never once stopping to fight from
-fixed ground. Not a territory Chronicle.*
+*Locked canon, Batch 241, 2026-09-11 (`MCD-1060`); corrected Batch 320, 2026-10-01 (Obsidian
+Malice's "two years of dormant charge" reworded to a plain full discharge, matching the fix applied
+to every other Bane entry that carried the same anachronistic framing). Bane Alias Chronicle LXII,
+wave 21. A detailed full-Trinity combat showcase built around continuous motion rather than a held
+position -- a running defense of a refugee convoy across twelve miles of changing terrain, never
+once stopping to fight from fixed ground. Not a territory Chronicle.*
 
 ---
 
@@ -35,7 +37,7 @@ men in them at the same pace he was already moving through both.
 The last three miles ran along an exposed causeway with no cover on either side, and the pursuing
 commander finally committed everything he had, betting a single concentrated push would force the
 column to stop and form a defensive square or be run down in the open. Obsidian Malice answered it —
-two years of dormant charge released in one arcing discharge along the causeway's full length,
+a full discharge released in one arcing blast along the causeway's full length,
 timed to the second the main assault line committed past the point of easy retreat. It didn't need
 Bane to stop and aim it. He released it mid-stride, already three steps further down the causeway
 before the charge finished landing.

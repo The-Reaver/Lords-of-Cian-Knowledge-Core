@@ -1,6 +1,6 @@
 # What the Ventilation Couldn't Cure
 
-*Locked canon, Batch 279, 2026-09-11 (`MCD-1452`). Blue-Collar Titan Alias Chronicle XCV, wave 32. The alias's first contagious-illness/public-health engineering register, entirely non-combat and explicitly outside Kanja's own competence to cure.*
+*Locked canon, Batch 279, 2026-09-11 (`MCD-1452`); corrected Batch 320, 2026-10-01 (Danne Sok reconciled to he/him, matching `CC-159`). Blue-Collar Titan Alias Chronicle XCV, wave 32. The alias's first contagious-illness/public-health engineering register, entirely non-combat and explicitly outside Kanja's own competence to cure.*
 
 ---
 
@@ -20,7 +20,7 @@ He spent the day cutting three new branch channels through solid earth, each one
 
 Danne Sok watched the sick barracks' air pull cleanly away from the well barracks' for the first time in three days and said nothing for a while.
 
-"You could have let them believe you'd fixed it," she said eventually. "Most people would take the credit and let the relief do the rest."
+"You could have let them believe you'd fixed it," he said eventually. "Most people would take the credit and let the relief do the rest."
 
 "Most people aren't the ones who'll be standing here in a week if it turns out I was wrong about which duct mattered." Kanja checked the last vent seal and stood. "I'll take credit for moving air. I won't take credit for something the healers are still fighting with nothing but their own hands and whatever herbs they've got left."
 
@@ -28,4 +28,4 @@ Six days later the contagion had not spread past the original eleven, and four o
 
 ---
 
-*Continuity notes (not narrative): the alias's first contagious-illness/public-health engineering register -- distinct from `MCD-1008`'s chronic, non-contagious occupational lung damage among dry-stone cutters and from every combat/rescue crisis to date -- applying Kanja's tunnel-airflow expertise to isolate contagion by rerouting shared ventilation rather than treating illness directly. Deliberately non-triumphant: explicitly framed, on the page, as buying time rather than curing anything, extending the alias's structural-honesty ethos into a register where the honest answer is "I can't fix this" rather than a solved crisis. No Trinity, no enemy, no combat. Reuses already-locked crew member Danne Sok (she/her). The healer is a new, deliberately unnamed one-scene character (collision-checked clean; no other named healer of this kind exists in the ledger for this alias). No new named characters. Second entry in wave 32.*
+*Continuity notes (not narrative): the alias's first contagious-illness/public-health engineering register -- distinct from `MCD-1008`'s chronic, non-contagious occupational lung damage among dry-stone cutters and from every combat/rescue crisis to date -- applying Kanja's tunnel-airflow expertise to isolate contagion by rerouting shared ventilation rather than treating illness directly. Deliberately non-triumphant: explicitly framed, on the page, as buying time rather than curing anything, extending the alias's structural-honesty ethos into a register where the honest answer is "I can't fix this" rather than a solved crisis. No Trinity, no enemy, no combat. Reuses already-locked crew member Danne Sok (he/him per the Batch 320 reconciliation). The healer is a new, deliberately unnamed one-scene character (collision-checked clean; no other named healer of this kind exists in the ledger for this alias). No new named characters. Second entry in wave 32.*

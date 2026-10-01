@@ -1,13 +1,17 @@
 # What the Enemy's Own Children Were Owed
 
-*Locked canon, Batch 276, 2026-09-11 (`MCD-1426`). Bane Alias Chronicle XCVI, wave 32, closing wave
-32. First entry extending "the fear only works if it's true" (`MCD-431`) to the dependents of enemy
-soldiers rather than to enemies, civilians, or captives themselves.*
+*Locked canon, Batch 276, 2026-09-11 (`MCD-1426`); corrected Batch 320, 2026-10-01 (the
+supply-chain-sabotage campaign was misattributed to "the Threshbend depot," which actually fell to
+nine days of psychological pressure, `MCD-529` -- the real starvation siege is the Kessic Wardline
+garrison, `MCD-700`; a literal rule-ID citation that had leaked into the narrative prose was also
+removed). Bane Alias Chronicle XCVI, wave 32, closing wave 32. First entry extending "the fear only
+works if it's true" (`MCD-431`) to the dependents of enemy soldiers rather than to enemies,
+civilians, or captives themselves.*
 
 ---
 
 The supply-chain campaign had done exactly what it was built to do: three weeks of quiet, deniable
-sabotage (the same method that had starved the Threshbend depot into surrender, `MCD-700`) had cut
+sabotage, the same method that had starved the Kessic Wardline garrison into surrender, had cut
 the garrison town's grain wagons off at the root, and the garrison itself was down to half-rations and
 short tempers. It was working. Corren Halst said so with something close to satisfaction when the
 column passed close enough to the town's outer quarter to see it.

@@ -1,6 +1,10 @@
 # What He Didn't Say Out Loud
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-693`). Bane Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-693`); corrected Batch 320, 2026-10-01 (the grief
+reference was pointed at "the Kessarine crossing," a survival showcase already locked as having
+lost no one, `MCD-687` -- redirected to the real four-life loss at Karrow's Bend, `MCD-706`). Bane
+Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory
+Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -17,7 +21,7 @@ that met recruiters, or even the plainer voice the crew mostly knew — somethin
 those, closer to the nineteen years underneath the reputation than anything he generally let surface
 where it could be seen.
 
-"I keep waiting for the day the numbers stop bothering me the way the Kessarine crossing did. The
+"I keep waiting for the day the numbers stop bothering me the way Karrow's Bend did. The
 day carrying somebody's death starts costing less because I've carried enough of them." He didn't
 look at Hask while he said it. "It hasn't happened yet. I used to think it would, that there'd be
 some point where the ledger got long enough that one more entry stopped landing the same way the

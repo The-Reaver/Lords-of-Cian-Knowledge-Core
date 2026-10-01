@@ -6,7 +6,8 @@ Gauntlets, and the Rexmar Machete, not the surrendered Trinity. Not a territory 
 Corrected, Batch 314, 2026-09-28: an earlier draft of this file mistakenly used Trinity-era gear
 (Mafesto, Obsidian Malice, Onyx of Oblivion) despite this entry being set well after Kanja's
 already-locked age-30 surrender of the Trinity for the entire 284-year Long Mask era (`MCD-246`);
-corrected to the actual Long Mask-era kit (`ARS-344` through `ARS-356`).*
+corrected to the actual Long Mask-era kit (`ARS-344` through `ARS-356`). Also corrected, Batch 320,
+2026-10-01: Corren Halst reconciled to he/him, matching `CC-158`.*
 
 ---
 
@@ -17,7 +18,7 @@ having been picked at twice already by men working the same post-war lawlessness
 settlement had suffered a season before, and this time offering coin for it, the first payment the
 Trust had ever formally offered the crew for anything.
 
-Corren Halst read it twice before she'd say a word. "We fought them for twelve years. Now they want to
+Corren Halst read it twice before he'd say a word. "We fought them for twelve years. Now they want to
 pay us to guard their own storehouses."
 
 "They want to pay us to make sure their storehouses reach people who'll starve without them," Kanja

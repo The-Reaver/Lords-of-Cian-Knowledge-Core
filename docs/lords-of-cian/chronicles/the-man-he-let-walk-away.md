@@ -1,6 +1,6 @@
 # The Man He Let Walk Away
 
-*Locked canon, Batch 268, 2026-09-11 (`MCD-1402`). Blue-Collar Titan Alias Chronicle XCIII, wave 31, closing the wave. A former-enemy reconciliation entry -- the Trust combat engineer spared in "The Engineer Who Fought Like One" returns years later, no longer an adversary.*
+*Locked canon, Batch 268, 2026-09-11 (`MCD-1402`); corrected Batch 320, 2026-10-01 (Danne Sok reconciled to he/him, matching `CC-159`). Blue-Collar Titan Alias Chronicle XCIII, wave 31, closing the wave. A former-enemy reconciliation entry -- the Trust combat engineer spared in "The Engineer Who Fought Like One" returns years later, no longer an adversary.*
 
 ---
 
@@ -18,9 +18,9 @@ It would have been easy, and not unreasonable, to hear a request like that as an
 
 "That's the only answer that would've made me trust it," the engineer said, something close to relief in it. "I spent that whole fight learning you don't do things the easy way when the honest way is available. I was hoping that hadn't changed."
 
-They shook on it in the open plaza, two men who'd once measured each other's worth in a narrow gallery with a blade half an inch from a killing stroke, now measuring a joint repair timeline instead. Danne Sok, watching from the guild hall steps, didn't need the story explained to her twice.
+They shook on it in the open plaza, two men who'd once measured each other's worth in a narrow gallery with a blade half an inch from a killing stroke, now measuring a joint repair timeline instead. Danne Sok, watching from the guild hall steps, didn't need the story explained to him twice.
 
-"That's the same one," she said. "The engineer who nearly had you."
+"That's the same one," he said. "The engineer who nearly had you."
 
 "He didn't nearly have me. We nearly had each other, and neither of us wanted the version of winning that was actually on offer." Kanja picked the level back up, already sketching where the joint repair would start. "Some fights end because someone loses. That one ended because we both recognized something worth more than winning it. Took the rest of the war to find out I was right to trust that."
 

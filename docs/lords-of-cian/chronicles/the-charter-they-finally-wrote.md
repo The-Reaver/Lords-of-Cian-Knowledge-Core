@@ -1,6 +1,7 @@
 # The Charter They Finally Wrote
 
-*Locked canon, Batch 240, 2026-09-11 (`MCD-1056`). Captain Alias Chronicle LVIII, wave 20. Not a
+*Locked canon, Batch 240, 2026-09-11 (`MCD-1056`); corrected Batch 320, 2026-10-01 (Corren Halst
+reconciled to he/him, matching `CC-158`). Captain Alias Chronicle LVIII, wave 20. Not a
 territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
@@ -17,7 +18,7 @@ instead of a finished one. "I don't think we're capable of that, and I don't thi
 otherwise would serve anybody. But eight months is long enough to know a few things for certain, and
 I'd rather write down what's certain than keep waiting for the parts that aren't."
 
-Corren Halst went first, the way she usually did now. "Nobody's here because a war is making them
+Corren Halst went first, the way he usually did now. "Nobody's here because a war is making them
 stay. That's been true for months and nobody's left. That's not nothing."
 
 "Say it as a rule, then," Efa Gol said. "Not a feeling. A rule somebody new can read."

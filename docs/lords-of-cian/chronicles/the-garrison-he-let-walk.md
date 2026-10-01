@@ -1,13 +1,17 @@
 # The Garrison He Let Walk
 
-*Locked canon, Batch 254, 2026-09-11 (`MCD-1102`). Bane Alias Chronicle LXXII, wave 24, closing wave
-24. A garrison released under Bane's own amnesty ethic re-arms and ambushes an unrelated Rebellion
-column weeks later -- the first entry to show a direct, specific cost of the mercy doctrine at
-strategic scale.*
+*Locked canon, Batch 254, 2026-09-11 (`MCD-1102`); corrected Batch 320, 2026-10-01 (this entry's
+clean amnesty surrender at "Kessic Overwatch" contradicted `MCD-432`'s own account of that garrison
+falling only to a full-Trinity assault -- the gate broken, its formation shattered by Onyx -- which
+isn't an "honest capitulation, no tricks." Renamed to a distinct garrison, the Hallmere garrison, to
+remove the collision rather than force either account to fit the other). Bane Alias Chronicle LXXII,
+wave 24, closing wave 24. A garrison released under Bane's own amnesty ethic re-arms and ambushes an
+unrelated Rebellion column weeks later -- the first entry to show a direct, specific cost of the
+mercy doctrine at strategic scale.*
 
 ---
 
-The garrison at Kessic Overwatch had surrendered clean six weeks earlier — no tricks, no staged
+The garrison at Hallmere had surrendered clean six weeks earlier — no tricks, no staged
 wounded, an honest capitulation Bane had accepted on the same terms he always offered: lay down arms,
 walk free, never take them up again against the rebellion. Most who took that deal kept it. Some
 didn't have anywhere else to go and drifted back into whatever work had fed them before the war.
