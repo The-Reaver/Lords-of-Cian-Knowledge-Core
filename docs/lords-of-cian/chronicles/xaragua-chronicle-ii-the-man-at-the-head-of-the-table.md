@@ -9,7 +9,7 @@ Spanish one kept alongside a Taino one added to it ("Duho," the real Taino word 
 ceremonial seat of judgment, chosen deliberately to echo the Chronicle's own title) -- a Xaragua native
 who leads the Five Families
 spanning all five Batey-equivalent territories (Xaragua, Areito, Yara, Guanin, Boriken) as their citywide
-peacekeeping figurehead -- introduced here for the first time, not yet locked as a PH2- character. His
+peacekeeping figurehead -- introduced here for the first time and locked alongside it as `PH2-061`. His
 signature ability, Blood Debt (biochemical control: protective clotting/detox at close range, its dark
 reverse almost never used, and his own arrested aging as its personal application), is shown in effect.
 Kanja stays unnamed here too, per Abad's explicit direction to keep that mystery going as long as
@@ -68,7 +68,7 @@ word people used for what he carried. It undersold it. He hadn't studied the cri
 survived every floor of it on the way up, and buried nearly everyone who'd started that climb beside
 him.
 
-"You've been walking through my streets for three days," Arturo said. Modern Laconic, no ornament in
+"You've been walking through my streets for three days," Arturo said. Plain, no ornament in
 it. "Asking nothing. Taking nothing. That's either a very patient man or a very careful one."
 
 "Both, most days."
@@ -116,7 +116,7 @@ than he can count. "I didn't build five families out of Xaragua's own dead by be
 gets protected and who doesn't. I built it because I ran out of names to carve into anything, and
 decided I was done adding to that list."
 
-"You never asked what to call me," the stranger said. Not quite a question -- Rorschach-cut,
+"You never asked what to call me," the stranger said. Not quite a question -- clipped,
 noticing what had been left out rather than what had been offered.
 
 "I don't collect names first. I collect what a man does with three unwatched days, and you've
@@ -168,5 +168,10 @@ restraint is almost never showing what he's actually capable of. Yaisa appears s
 the stranger and never given dialogue in this Chronicle -- her role (the one survivor of Arturo's own
 lost generation, now his second-in-command) is established for the reader, not for the scene's other
 occupant. Introduces no contradiction with any locked mainline fact; introduces the Five Families
-structure, Arturo, and Yaisa for the first time, pending Abad's approval before any of it is drafted
-into canon-ledger.json.*
+structure, Arturo, and Yaisa for the first time, locked in the same batch as `PH2-060` through
+`PH2-062`.*
+
+*Corrected Batch 339, 2026-10-02: "Modern Laconic" corrected to "Plain" and "Rorschach-cut" corrected
+to "clipped" (removing a real-world proper noun); the "not yet locked" header phrasing corrected to
+reflect that Arturo was locked in the same batch as this Chronicle (`PH2-061`); this footer's
+"pending Abad's approval" phrasing corrected to reflect that it has since locked.*

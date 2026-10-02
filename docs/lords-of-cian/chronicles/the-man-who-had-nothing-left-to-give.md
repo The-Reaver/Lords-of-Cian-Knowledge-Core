@@ -4,18 +4,21 @@
 Territory Chronicle -- Kasa as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 340, 2026-10-02: pronoun fixes (Kasa is he/him throughout the Chicago territory
+corpus); "overnight" corrected to "within a week" to match MCD-343's amended timeline.*
+
 ---
 
 A local pastor who had marched at Kasa's side through the earliest, hardest years of the open-housing
 fight had gone quiet in the years since — not opposed to the cause, never that, but hollowed out by
 losses the fight had cost him personally, a congregation scattered by retaliation, a son who'd left
 the district rather than keep living inside the pressure of it. When a new zoning fight demanded the
-same kind of public voice that had once come easily to him, Kasa went to ask for it the same way she'd
+same kind of public voice that had once come easily to him, Kasa went to ask for it the same way he'd
 asked the ward broker years before.
 
 He said no.
 
-"I gave everything I had the last time," he told her, not unkindly, but with a weariness that had
+"I gave everything I had the last time," he told him, not unkindly, but with a weariness that had
 settled too deep to argue past easily. "I don't have another version of that voice left in me. I
 wish I did. I'm not sure the man who spoke back then even still exists."
 
@@ -25,12 +28,12 @@ weeks, not asking for the voice again until something in his own account of the 
 made clear there was, in fact, still something left underneath the exhaustion — not the same voice as
 before, quieter, more careful, but real.
 
-"I'm not asking you to be who you were," she told him, the fourth time, different from every prior
+"I'm not asking you to be who you were," Kasa told him, the fourth time, different from every prior
 attempt. "I'm asking whatever's actually left, now, after everything this took from you. If that's
 smaller than it used to be, it's still worth more than my going without it."
 
 He spoke, eventually — a shorter statement than the one that had once converted eleven homeowners
-overnight, delivered quietly rather than publicly, to a much smaller room. It still mattered. The
+within a week, delivered quietly rather than publicly, to a much smaller room. It still mattered. The
 zoning fight turned, not dramatically, but enough.
 
 "I told you I had nothing left," he said afterward, something loosened in him that hadn't been there

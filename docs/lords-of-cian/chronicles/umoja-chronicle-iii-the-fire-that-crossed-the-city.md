@@ -4,11 +4,15 @@
 Chronicle — Kofi as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 340, 2026-10-02: removed a reference to the Furnace District Strike, which Kofi
+was never present at per locked canon; added an explicit unnamed-Kanja narrative line, matching the
+rest of the Chicago territory corpus's own convention.*
+
 ---
 
 Years of patient organizing had left Kofi with genuine, hard-won relationships across a dozen
-workplaces scattered throughout the district — not the single unified strike front of the Furnace
-District, but a real, if loosely connected, network built one workplace at a time. When a citywide
+workplaces scattered throughout the district — not the single alliance he had once bound in one room,
+but a real, if loosely connected, network built one workplace at a time. When a citywide
 wage cut threatened every one of them simultaneously, Kofi tested whether "One Fire" could scale
 beyond a single building's worth of workers to something closer to a whole district acting as one.
 
@@ -36,6 +40,9 @@ The wage cut was withdrawn within three days, unable to survive a coordinated fr
 never anticipated facing. "One Fire" had proven, for the first time, that its reach could scale with
 the depth of genuine relationship behind it — a lesson learned as directly from its own established
 limit as from this new success.
+
+An unnamed man near the back of the central rally, present for the whole of the walkout's first
+hour, said nothing to anyone and was gone before the wage cut was withdrawn.
 
 ---
 

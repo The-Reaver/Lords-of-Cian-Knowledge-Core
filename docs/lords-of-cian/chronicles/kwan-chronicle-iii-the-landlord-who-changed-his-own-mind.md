@@ -4,6 +4,9 @@
 Chronicle — Kasa as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 340, 2026-10-02: pronoun fix (Kasa is he/him throughout the Chicago territory
+corpus).*
+
 ---
 
 A property owner genuinely opposed to open-housing integration, motivated by real financial fear
@@ -34,7 +37,7 @@ invitation actually does?"
 
 "The invitation only ever asks someone to speak honestly. What happens underneath that depends
 entirely on what's actually true for them once they stop repeating the version they were handed."
-Kasa watched the room absorb what had just occurred, no credit claimed for an outcome she hadn't
+Kasa watched the room absorb what had just occurred, no credit claimed for an outcome he hadn't
 directly caused. "Sometimes that's an eleven-homeowner conversion. Sometimes it's a burned-out man who
 has less to give than he used to. And sometimes, like tonight, it's someone discovering he never
 actually believed what he thought he did, once he was finally asked to say it out loud."

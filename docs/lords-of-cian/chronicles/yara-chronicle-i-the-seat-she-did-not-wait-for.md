@@ -95,4 +95,7 @@ advice, and no credit for her decision -- his function is purely structural, add
 the "witnessed, in the light" condition her own ability already requires (PH2-006), which she notices
 only in passing and never learns the identity of. He is never named on-page. This Chronicle slots into
 no existing MCD- rule -- original homage-era material set in Yara itself. Supersedes the withdrawn
-Chronicle XI in full; MCD-333 is to be superseded, not merely amended, when this locks.*
+Chronicle XI in full; MCD-333 was superseded, not merely amended, when this locked (Batch 64).*
+
+*Corrected Batch 339, 2026-10-02: footer's "is to be superseded... when this locks" corrected to past
+tense, reflecting that the supersession completed at lock time.*

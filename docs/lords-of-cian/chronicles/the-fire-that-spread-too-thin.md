@@ -4,11 +4,14 @@
 Umoja/Kofi. Territory Chronicle -- Kofi as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 340, 2026-10-02: removed a reference to the Furnace District Strike, which Kofi
+was never present at per locked canon; reworded to his own earlier Umoja organizing instead.*
+
 ---
 
 A rival tenant organization on the district's far side, unconnected to any of Umoja's own established
-networks, asked Kofi to help weld their own fractured leadership together the same way he'd welded
-the tenders and haulers into one front during the Furnace District Strike years before. He agreed,
+networks, asked Kofi to help weld their own fractured leadership together the same way he'd first welded
+Umoja's own long-divided groups into one alliance years before. He agreed,
 confident the same instinct that had worked then would work again.
 
 It didn't, not fully.

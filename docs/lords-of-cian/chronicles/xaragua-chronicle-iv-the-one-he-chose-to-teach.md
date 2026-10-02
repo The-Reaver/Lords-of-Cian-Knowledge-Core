@@ -4,7 +4,8 @@
 Chronicle II (`MCD-337`) in the "modern"
 Arturo era -- chronologically the most recent of the four Xaragua Chronicles. Protagonist Arturo
 Salvatierra Duho (`PH2-061`), with Naya, his protegee, dramatized directly for the first time --
-`PH2-061` names her only in passing ("flagged for future payoff, not yet dramatized"). Introduces
+PH2-061 does not name her; she was first flagged in Xaragua Chronicle II's own header note as "the
+protegee he's raising as a likely successor," deliberately left for a future entry. Introduces
 Naya as a new named character, collision-checked against the full live ledger (zero prior hits).
 Kanja appears only briefly and at the margins, granted no command, intervention, or resolution
 credit, consistent with the established convention -- his passage through Xaragua and the other four

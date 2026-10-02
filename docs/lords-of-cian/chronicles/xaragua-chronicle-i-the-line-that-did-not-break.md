@@ -117,4 +117,7 @@ now repurposed as an unnamed-host-recognizes-unnamed-guest convention that can r
 Mino and Chui are Ogoun Xarey's already-locked supporting cast (PH2-017); no new named characters are
 introduced. This Chronicle slots into no existing MCD- rule -- it is original homage-era material set
 in Xaragua itself, not an extension of a mainline Cian battle. Supersedes the withdrawn Chronicle IX in
-full; MCD-331 is to be superseded, not merely amended, when this locks.*
+full; MCD-331 was superseded, not merely amended, when this locked (Batch 64).*
+
+*Corrected Batch 339, 2026-10-02: footer's "is to be superseded... when this locks" corrected to past
+tense, reflecting that the supersession completed at lock time.*
