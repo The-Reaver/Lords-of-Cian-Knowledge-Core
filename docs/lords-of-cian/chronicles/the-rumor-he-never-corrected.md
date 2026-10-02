@@ -1,23 +1,23 @@
 # The Rumor He Never Corrected
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-681`). Bane Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-681`). Bane Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 331, 2026-10-02: "Kessic salt flats" renamed "Brinemoor salt flats" throughout -- the rumor's distant, never-visited location collided with the Kessic region Bane/Kanja is independently, directly established elsewhere to have flooded, besieged, and raided (`MCD-1062`, `MCD-1142`, `MCD-432`, `MCD-700`/`1426`, `MCD-940`).*
 
 ---
 
 The story reached Bane's camp three separate ways inside the same week, which was usually how he
 knew a story had legs: a dredge-line worker repeating it as fact, a Directorate leaflet repeating it
 as warning, and a rebellion recruiter repeating it as recruitment, all describing the same event —
-a garrison outpost at the Kessic salt flats, forty Trust conscripts, every one of them dead by
+a garrison outpost at the Brinemoor salt flats, forty Trust conscripts, every one of them dead by
 morning, Bane's mark left carved into the gatepost.
 
-He had never been within eleven days' travel of the Kessic salt flats.
+He had never been within eleven days' travel of the Brinemoor salt flats.
 
 "It's working for us," the recruiter said, when Bane found him and asked him plainly to stop
 repeating it. Two dozen new volunteers had come in on the strength of that story alone, convinced
 the tide had turned further than it had. "People believe it. People join because of it. Does it
 matter that it isn't true?"
 
-"Forty conscripts are dead at Kessic. That part's true — a fever took the garrison, the same fever
+"Forty conscripts are dead at Brinemoor. That part's true — a fever took the garrison, the same fever
 that's been moving through three other outposts this season. Nobody carved anything into that
 gatepost. Somebody dying of a fever isn't a victory, and it isn't mine, and I won't let it be
 counted as either." Bane's voice didn't rise. "You want people to believe fear works. I've built a

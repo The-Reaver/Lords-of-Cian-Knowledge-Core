@@ -4,7 +4,10 @@
 the forged-letter/pamphlet conspiracy from Chronicles II and IV (`MCD-360`, `MCD-1023`). Protagonist
 Baálé (`PH2-021`), not a Kanja Chronicle. Per the pacing agreed in Batch 225: this is the deepening
 "crack" entry, not the reveal -- the conspiracy risks real exposure for the first time without naming
-its author. Kanja is deliberately absent from this entry -- a first for the sub-series.*
+its author. Kanja is deliberately absent from this entry -- a first for the sub-series. Corrected
+Batch 331, 2026-10-02: a real-world proper noun ("COINTELPRO") that had leaked into narrative prose
+(not continuity notes, where the term is used appropriately as a homage citation) was reworded to
+plain descriptive prose, matching the standing no-real-world-proper-nouns-in-prose convention.*
 
 ---
 
@@ -63,7 +66,7 @@ Baálé had gone very still well before Yao finished describing the fold.
 
 He had seen that fold before. Not recently — years before, in the worst weeks of his life, on paper
 that had nearly gotten him and Kra both killed by turning two allied organizations against each other
-with words neither side had actually written. The COINTELPRO letters had used exactly that fold,
+with words neither side had actually written. The letters that had nearly killed him years ago had used exactly that fold,
 three corners in and the last one tucked rather than creased, a signature so specific and so useless
 to anyone without direct knowledge of the originals that it had never once made it into anything
 either side ever said publicly about the ambush afterward.

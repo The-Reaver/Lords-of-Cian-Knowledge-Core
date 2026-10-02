@@ -4,14 +4,14 @@
 
 ---
 
-The Varrow slaving hub had taken three months of patient surveillance and one decisive night to
+The Callow slaving hub had taken three months of patient surveillance and one decisive night to
 dismantle entirely — every warehouse burned, every ledger seized, every buyer's name passed to a Trust
 magistrate willing to act on it — and by every measure the crew's own records used to judge a
 victory, it had been total.
 
 A season later, a merchant sailing the same strait brought word that troubled him more than any
 account of a fight lost ever had: the trade hadn't ended. It had simply moved forty miles down the
-coast, rebuilt under new names, serving the exact same demand that had made Varrow profitable in the
+coast, rebuilt under new names, serving the exact same demand that had made Callow profitable in the
 first place, as though the hub itself had never been more than a convenient address for something far
 harder to actually destroy.
 
@@ -34,11 +34,11 @@ actually solved anything.
 "So we go again," he said finally, "and again after that, for as long as it keeps moving, because
 making it expensive is still worth doing even if it isn't the same as ending it."
 
-"That's the only answer I've got too. I just didn't want you sailing into this one thinking Varrow
+"That's the only answer I've got too. I just didn't want you sailing into this one thinking Callow
 taught you the fight was over. It taught you the opposite — that the fight doesn't have an over,
 not from this direction."
 
-The new hub fell in turn, weeks later, exactly as thoroughly as Varrow had, and within a season a
+The new hub fell in turn, weeks later, exactly as thoroughly as Callow had, and within a season a
 third one had already begun taking shape somewhere neither of them had yet located — a market that,
 however many times its address burned, kept finding a way to rebuild itself from demand that no coat,
 however well made, had ever been built to burn along with it.
@@ -52,4 +52,6 @@ in the Scourge's thirteenth wave. Corrected Batch 321, 2026-10-02: this entry is
 five years before Efa Gol's own age-150 handoff to her successor (`MCD-807`) -- "Efa Gol's
 successor" corrected to Efa Gol herself throughout, since she has not yet retired. The slaving hub's
 name, "Kessara," was renamed "Varrow" to avoid a near-collision with the already-locked SBD capital
-Kesmara (`SBD-063` and others).*
+Kesmara (`SBD-063` and others); corrected Batch 331, 2026-10-02: "Varrow" renamed again to "Callow"
+to resolve a second near-collision, with the already-locked antagonist Lord Varro Dominael
+(`MCD-011`/`050`/`283`, `ARS-290`/`396`/`428`, `WC-018`, `CULT-009`).*

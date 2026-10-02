@@ -3543,6 +3543,51 @@ problems (the Kessic/Hallmere and Kessara/Varrow collisions, Killane's real geog
 invented naval/territory geography) the Atlas should settle once before any further
 geography-touching fixes land.
 
+## Phase 1.5: the World Atlas fable-review, Batch 331, 2026-10-02
+
+A Fable-model agent reviewed `GEO-001` through `GEO-006` against the full Chronicle corpus
+(grepping Gazetteer names, place-name suffix/preposition patterns, and real-world-term leaks across
+all 1,496 Chronicle files). Headline finding: the Atlas and the Chronicle corpus are almost entirely
+disjoint naming spaces -- of ~70 live-sheet Gazetteer names, only six appear anywhere in the
+Chronicles, while the corpus has built its own substantial unplaced geography (Portside and its
+canal districts, the Kessic region, Voskharen, Kesmara, naval geography off Jicome, House Verehimu's
+seat) that was never locked onto the Atlas.
+
+Applied directly, as pure reconciliation against already-locked canon (no new creative facts):
+`GEO-003` amended to add the missing Rathaan Prime capital site to the Lawless Reaches entry (the
+live Atlas's own fifth named site there, and the Rathaan Federation's own seat per `POL-090`/`107`);
+`GEO-006` amended to resolve a wording contradiction with `GEO-005` over whether Killane/Ash Harbor
+are included in or additional to the 52 free-to-rename Holds/Settlements (they are additional, and
+always were). Also fixed prose-only, no ledger-statement change needed: a Kessic-region collision in
+two Bane Chronicles (`MCD-681`/`683` -- the rumor's own never-visited location, which directly
+contradicted Kanja's independently-established history of flooding, besieging, and raiding the real
+Kessic, renamed "the Brinemoor salt flats"); a second near-collision in a Scourge Chronicle
+(`MCD-822` -- the Batch-329 rename "Varrow" renamed again to "Callow" to resolve a one-letter
+collision with the already-locked antagonist Lord Varro Dominael); and a real-world proper-noun leak
+("COINTELPRO") in Sankofa Chronicle V's narrative prose (`MCD-1025`, continuity notes left
+untouched, where the citation is an appropriate homage reference), reworded to plain descriptive
+prose.
+
+The review's larger findings are new creative/worldbuilding decisions, not reconciliation, and are
+deliberately left unresolved here, queued for Abad's own ruling rather than decided unilaterally:
+whether "the Verehimu Wetlands" (`MCD-147`) and "the Voskharen Wetlands" (`MCD-236` and others,
+Batch 36/41's standing rename) are the same wetland or two distinct ones, now that the Ozmund
+strand has built House Verehimu's own holdings atop the un-renamed name; whether "the Karkosa" the
+Lords of Cian keep an archive/forge/harbor "aboard" (`MCD-156`/`169`/`196`/`199`/`203`/`206`/`208`/
+`211`/`212`/`226`, Lauris Chronicles XXIV/LXVIII) is the Karkosa Complex itself (the Sovereign
+Trust's capital and Book 1's heist target) or a distinctly-named base/vessel; the Teeth's Atlas
+placement against `MAW-063`'s "border between the Sovereign Trust's territory and the Shattered
+Kingdoms" phrasing; `MCD-094`'s regional-weight percentages read as political/population weight
+rather than land area; `MCD-112`'s long-flagged "Southern Seaboard" definition, now resolvable one
+way; and a full enrichment pass locking Portside (the Rebellion's own unnamed home city and its
+Black Trench/Warehouse Twelve/canal-district geography), the Kessic region, naval geography off
+Jicome (the Gale Straits, Kothrane Narrows, the Salt Keep), Kesmara, and House Verehimu's seat onto
+the Atlas for the first time.
+
+Ledger reached `ledger_version` 33.3, 2,650 rules, 330 batches -- zero duplicate IDs verified. Per
+the roadmap, work continues into Phase 2 (the Character Chronicle tracks) without pausing; the
+above Atlas worldbuilding decisions stay queued for whenever Abad reviews them directly.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

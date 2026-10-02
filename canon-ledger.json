@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "33.2",
+  "ledger_version": "33.3",
   "last_updated": "2026-10-02",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -98,7 +98,7 @@
       "rule_count": 80,
       "status": "draft_pending_operator_discussion",
       "conflicts_found": 3,
-      "note": "Processed by a subagent given its size (~771KB), reviewed and merged by this session. This 'definitive' codex is internally messier than its filename suggests. (1) Biggest substantive conflict: the document repeatedly and consistently (in Kanja's, Pyro's, and Stormbreaker's own sections) states Pyro's mother was 'killed' during the Living Gate event and that Stormbreaker 'ended the vessel' \u2014 language that directly contradicts the ledger-locked fact that she is NOT dead but was fused into the Living Gate. This isn't a stray typo; it's the document's consistent internal framing, so it needs a human call on which version is canon. (2) The document gives two flatly incompatible identities for 'Lilith Cyzak' \u2014 a physical Karesian-adjacent 'Void-Dancer' bodyguard/anchor for Ozmund in one entry, and a desk-bound former Trust economic analyst with no physical power in a second, later entry (#31) \u2014 both claiming to be Ozmund's love interest/calibration point. (3) Structural oddities mirroring the kind you flagged before: the doc declares '\u2500\u2500\u2500 END OF CHARACTER CODEX (26 entries) \u2500\u2500\u2500' partway through, then keeps going for nine more entries with an entry-numbering scheme ('#25\u201329,' then '#30,' '#31') that double-counts against the entries already included in the '26.' (4) The title page says 'v1.0' and a mid-document footer independently repeats 'v1.0,' yet the source file is named '...definitive.docx' \u2014 a version-label/filename mismatch worth flagging per your team's prior pattern of catching these. (5) Minor internal inconsistency: the Talisman of Mao's Stage 1 (Sovereign Umbrella) is said to protect '16 Avatars' in Kanja's own section, but Sephtis's, Anansi's, and Zora's sections all reference '17 Avatars' / Zora as the '17th crewmate.' (6) The opening ~130 lines of the document (before the first character header) begin mid-sentence and contain an entire block of battle-summary text duplicated verbatim back-to-back \u2014 almost certainly a copy-paste artifact from the docx export rather than intentional content, but worth a spot-check against the source file. On the positive side: every fact I checked against your existing locked ledger (Density Spike exclusivity, Kanja recovering rather than forging Onyx, the Crown-Scar being installed before the Verehimu ancestor's betrayal, Ezio/Valen as first cousins, the Triad Guardians originating from the Living Gate event, Anansi/Valeria as secret sisters, Archon Meridian as T.D.K.'s unknowing hidden son, and T.D.K.'s true name being Anu Un Ra with an explicit in-document note correcting an earlier 'Argul') was either confirmed outright or extended with compatible new detail \u2014 no other contradictions found."
+      "note": "Processed by a subagent given its size (~771KB), reviewed and merged by this session. This 'definitive' codex is internally messier than its filename suggests. (1) Biggest substantive conflict: the document repeatedly and consistently (in Kanja's, Pyro's, and Stormbreaker's own sections) states Pyro's mother was 'killed' during the Living Gate event and that Stormbreaker 'ended the vessel' — language that directly contradicts the ledger-locked fact that she is NOT dead but was fused into the Living Gate. This isn't a stray typo; it's the document's consistent internal framing, so it needs a human call on which version is canon. (2) The document gives two flatly incompatible identities for 'Lilith Cyzak' — a physical Karesian-adjacent 'Void-Dancer' bodyguard/anchor for Ozmund in one entry, and a desk-bound former Trust economic analyst with no physical power in a second, later entry (#31) — both claiming to be Ozmund's love interest/calibration point. (3) Structural oddities mirroring the kind you flagged before: the doc declares '─── END OF CHARACTER CODEX (26 entries) ───' partway through, then keeps going for nine more entries with an entry-numbering scheme ('#25–29,' then '#30,' '#31') that double-counts against the entries already included in the '26.' (4) The title page says 'v1.0' and a mid-document footer independently repeats 'v1.0,' yet the source file is named '...definitive.docx' — a version-label/filename mismatch worth flagging per your team's prior pattern of catching these. (5) Minor internal inconsistency: the Talisman of Mao's Stage 1 (Sovereign Umbrella) is said to protect '16 Avatars' in Kanja's own section, but Sephtis's, Anansi's, and Zora's sections all reference '17 Avatars' / Zora as the '17th crewmate.' (6) The opening ~130 lines of the document (before the first character header) begin mid-sentence and contain an entire block of battle-summary text duplicated verbatim back-to-back — almost certainly a copy-paste artifact from the docx export rather than intentional content, but worth a spot-check against the source file. On the positive side: every fact I checked against your existing locked ledger (Density Spike exclusivity, Kanja recovering rather than forging Onyx, the Crown-Scar being installed before the Verehimu ancestor's betrayal, Ezio/Valen as first cousins, the Triad Guardians originating from the Living Gate event, Anansi/Valeria as secret sisters, Archon Meridian as T.D.K.'s unknowing hidden son, and T.D.K.'s true name being Anu Un Ra with an explicit in-document note correcting an earlier 'Argul') was either confirmed outright or extended with compatible new detail — no other contradictions found."
     },
     {
       "batch": 11,
@@ -555,7 +555,7 @@
       "rule_count": 34,
       "status": "complete",
       "conflicts_found": 0,
-      "note": "Every territory, leader, and character in this batch was individually drafted and explicitly approved in-conversation across the same 2026-09-05 session (\"locked\", \"lock it\", \"proceed\", \"confirm Guan\u00edn and lock it\"). This batch's own authorization, converting the whole set into the ledger, was Abad's direct instruction: \"convert what's been worked on into locked Canon Ledger .json material\""
+      "note": "Every territory, leader, and character in this batch was individually drafted and explicitly approved in-conversation across the same 2026-09-05 session (\"locked\", \"lock it\", \"proceed\", \"confirm Guanín and lock it\"). This batch's own authorization, converting the whole set into the ledger, was Abad's direct instruction: \"convert what's been worked on into locked Canon Ledger .json material\""
     },
     {
       "batch": 60,
@@ -1342,7 +1342,7 @@
       "date": "2026-09-11",
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
-      "note": "Locks Are\u00edto Chronicle III (MCD-509). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\" Item #2: a third territory-Chronicle entry, continuing across all territories that had only two."
+      "note": "Locks Areíto Chronicle III (MCD-509). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\" Item #2: a third territory-Chronicle entry, continuing across all territories that had only two."
     },
     {
       "batch": 163,
@@ -1356,14 +1356,14 @@
       "date": "2026-09-11",
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
-      "note": "Locks Guan\u00edn Chronicle III (MCD-511). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+      "note": "Locks Guanín Chronicle III (MCD-511). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     },
     {
       "batch": 165,
       "date": "2026-09-11",
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
-      "note": "Locks Borik\u00e9n Chronicle III (MCD-512). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+      "note": "Locks Borikén Chronicle III (MCD-512). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     },
     {
       "batch": 166,
@@ -1412,7 +1412,7 @@
       "date": "2026-09-11",
       "source": "Original invention, chat-drafted 2026-09-11, no source document.",
       "rule_count": 1,
-      "note": "Locks Aztl\u00e1n Chronicle III (MCD-519). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
+      "note": "Locks Aztlán Chronicle III (MCD-519). Abad: \"work on a fourth Alias wave and a third territory entry continuously uninterrupted this includes testing, committing, pushing to origin Main.\""
     },
     {
       "batch": 173,
@@ -2238,7 +2238,7 @@
       "date": "2026-09-14",
       "source": "Original invention, chat-drafted 2026-09-14, no source document",
       "rule_count": 0,
-      "note": "Corrects a real, project-rule-violating gap Abad flagged directly after seeing it live on the archive site (Arturo Salvatierra Duho's character page reading \"leads NYC's Five Families\"): while every homage-era territory (Xaragua, Areito, Yara, Guanin, Boriken, Sankofa, Aztlan, Atunbi, Ijoko, Orin, Ide, Kwan, Umoja, Jibaro, Uhuru, Kazi, Taifa, Hekalu, Nyansa, Kiti) had already received a proper invented in-world name, the four home-city containers themselves -- NYC, LA, Chicago, Detroit -- never did, so the real place names leaked directly into locked rule statements (PH2-009/010/035/040/042/047/060/061, PH2-020/030/045/050/052/054/058, MCD-337/341/342/343/344/345/346/347/348/349/350/351/352/353/354/355/362/363) as if this secondary, non-Earth World (MCD-313) were literally set in the real cities. Fixed by inventing proper in-world names for all four, matching the same real-vocabulary-reuse naming convention already used for every territory: Batey for NYC (real Taino word for the central communal plaza/gathering-ground a village organized around -- the five territories bound as one), \u00cdl\u00fa-M\u00e1r\u00f9n for LA (Yoruba compound, literally 'Five-Town'), Muungano for Chicago (real Swahili word for 'union/federation,' the actual historical term for Tanganyika-and-Zanzibar's own union, apt for a five-territory federation, and a Swahili cousin to the already-locked Umoja/Uhuru territory names), and Mji for Detroit (plain Swahili for 'town/city'). 31 rule statements corrected in canon-ledger.json: every in-fiction assertion of the real city name (e.g. 'NYC's citywide organized-crime structure,' 'the fourth homage-era city's (Detroit's) first territory,' 'continuing Chicago's own run of territory Chronicles') renamed to the new in-world name; legitimate real-world homage citations explicitly left untouched (e.g. 'homage to Felipe Luciano and the NYC Young Lords,' 'founded... in Chicago's Lincoln Park in 1968,' 'homage to Coleman Young, Detroit's first Black mayor') since those cite the real historical figures/organizations/events being homaged, the same pattern already established for real people like Malcolm X or MLK who are never themselves renamed. Abad's approvals, in order: on the fix approach, selected \"Invent 4 city names, I'll propose candidates\"; on the four names, selected Batey (NYC), \u00cdl\u00fa-M\u00e1r\u00f9n (LA), Muungano (Chicago), and Mji (Detroit) from the candidate sets presented. Companion fixes queued in the same pass, not yet applied as of this batch: the ~50 affected Chronicle .md files under docs/lords-of-cian/chronicles/ (prose, not ledger statements) and the already-imported archive-app database content (chronicle_entries, characters bios, and their Knowledge Core audit-trail copies)."
+      "note": "Corrects a real, project-rule-violating gap Abad flagged directly after seeing it live on the archive site (Arturo Salvatierra Duho's character page reading \"leads NYC's Five Families\"): while every homage-era territory (Xaragua, Areito, Yara, Guanin, Boriken, Sankofa, Aztlan, Atunbi, Ijoko, Orin, Ide, Kwan, Umoja, Jibaro, Uhuru, Kazi, Taifa, Hekalu, Nyansa, Kiti) had already received a proper invented in-world name, the four home-city containers themselves -- NYC, LA, Chicago, Detroit -- never did, so the real place names leaked directly into locked rule statements (PH2-009/010/035/040/042/047/060/061, PH2-020/030/045/050/052/054/058, MCD-337/341/342/343/344/345/346/347/348/349/350/351/352/353/354/355/362/363) as if this secondary, non-Earth World (MCD-313) were literally set in the real cities. Fixed by inventing proper in-world names for all four, matching the same real-vocabulary-reuse naming convention already used for every territory: Batey for NYC (real Taino word for the central communal plaza/gathering-ground a village organized around -- the five territories bound as one), Ílú-Márùn for LA (Yoruba compound, literally 'Five-Town'), Muungano for Chicago (real Swahili word for 'union/federation,' the actual historical term for Tanganyika-and-Zanzibar's own union, apt for a five-territory federation, and a Swahili cousin to the already-locked Umoja/Uhuru territory names), and Mji for Detroit (plain Swahili for 'town/city'). 31 rule statements corrected in canon-ledger.json: every in-fiction assertion of the real city name (e.g. 'NYC's citywide organized-crime structure,' 'the fourth homage-era city's (Detroit's) first territory,' 'continuing Chicago's own run of territory Chronicles') renamed to the new in-world name; legitimate real-world homage citations explicitly left untouched (e.g. 'homage to Felipe Luciano and the NYC Young Lords,' 'founded... in Chicago's Lincoln Park in 1968,' 'homage to Coleman Young, Detroit's first Black mayor') since those cite the real historical figures/organizations/events being homaged, the same pattern already established for real people like Malcolm X or MLK who are never themselves renamed. Abad's approvals, in order: on the fix approach, selected \"Invent 4 city names, I'll propose candidates\"; on the four names, selected Batey (NYC), Ílú-Márùn (LA), Muungano (Chicago), and Mji (Detroit) from the candidate sets presented. Companion fixes queued in the same pass, not yet applied as of this batch: the ~50 affected Chronicle .md files under docs/lords-of-cian/chronicles/ (prose, not ledger statements) and the already-imported archive-app database content (chronicle_entries, characters bios, and their Knowledge Core audit-trail copies)."
     },
     {
       "batch": 291,
@@ -2252,7 +2252,7 @@
       "date": "2026-09-16",
       "source": "Original invention, chat-drafted 2026-09-16, no source document. First entry in Lauris Letitia's own Chronicle series under the Character Chronicle Gameplan (docs/lords-of-cian/character-chronicle-gameplan.md).",
       "rule_count": 1,
-      "note": "First Chronicle in Lauris Letitia's own series, the Character Chronicle Gameplan's Tier 1 track. Resolves the gameplan's open narrator sub-question: narrated by Fermand Aurelias, per the already-locked CC-034 (\"Fermand narrates all Ezio and Lauris POV chapters in a Baroque/Zaf\u00f3n-Noir voice\") and VB-024's voice spec, distinct from both Onyx's Kanja narration and the close-third register used for the homage-era territory Chronicles -- Lauris is core Lords of Cian crew, not a stranger Kanja meets. Dramatizes two of her least-shown traits for the first time: the Density Saturation Inversion (ARS-357-374, fuller saturation makes her progressively less detectable) and her defining combat-joy (CC-134). Picks up the freshest live hook in her canon: Operation 12's Settlement K-447 (MCD-1536, Batch 291) left unresolved who arranged the bodies or taught the resonance-keying technique. This entry deliberately deepens rather than resolves that mystery -- a second, unrelated circle was taught a degraded fragment of the same method by an unnamed itinerant instructor decades ago, confirming the original actor is still active and still teaching, without identifying them. No new named characters. Full text at docs/lords-of-cian/chronicles/lauris-chronicle-i-the-shape-taught-twice.md. Abad's approval: \"lock it.\""
+      "note": "First Chronicle in Lauris Letitia's own series, the Character Chronicle Gameplan's Tier 1 track. Resolves the gameplan's open narrator sub-question: narrated by Fermand Aurelias, per the already-locked CC-034 (\"Fermand narrates all Ezio and Lauris POV chapters in a Baroque/Zafón-Noir voice\") and VB-024's voice spec, distinct from both Onyx's Kanja narration and the close-third register used for the homage-era territory Chronicles -- Lauris is core Lords of Cian crew, not a stranger Kanja meets. Dramatizes two of her least-shown traits for the first time: the Density Saturation Inversion (ARS-357-374, fuller saturation makes her progressively less detectable) and her defining combat-joy (CC-134). Picks up the freshest live hook in her canon: Operation 12's Settlement K-447 (MCD-1536, Batch 291) left unresolved who arranged the bodies or taught the resonance-keying technique. This entry deliberately deepens rather than resolves that mystery -- a second, unrelated circle was taught a degraded fragment of the same method by an unnamed itinerant instructor decades ago, confirming the original actor is still active and still teaching, without identifying them. No new named characters. Full text at docs/lords-of-cian/chronicles/lauris-chronicle-i-the-shape-taught-twice.md. Abad's approval: \"lock it.\""
     },
     {
       "batch": 293,
@@ -2510,6 +2510,13 @@
       "source": "Read-only review pass (Lord of Embers Alias Chronicle corpus), reconciliation pass, 2026-10-02",
       "rule_count": 0,
       "note": "Reconciliation pass following a read-only review of the Lord of Embers Alias Chronicle corpus (102 entries). Fixed: a Trinity-era anachronism (MCD-1322's damaged item rewritten from the Forge-Coat's Dark-Drakma leather, gear that doesn't exist until age 33, to Mafesto's own Void-Lattice plating, live at age 27, with the file retitled 'What Mafesto Couldn't Shed'); chronology compression across an 18-month tour softened throughout (MCD-1052, MCD-423, MCD-1050, MCD-1333, MCD-1084 -- 'eighteen months'/'years'/'decades' reduced to 'months'/'a year'/'sixteen months' where entries sit mid-tour, and MCD-1052's misattributed 'we already did that, years back' line corrected to reference the itinerant master smith's judged contest, MCD-921); a settlement-count error (MCD-890's '120 settlements' corrected to the locked 31, MCD-241, with Efa Gol's correct '120,000 people' line left untouched); a 30-year gap inside the same tour (MCD-1330's old man rewritten as a first-stop apprentice revisited roughly sixteen months later, in-tour); a header era contradiction (MCD-457 re-eraed from an impossible 'age 27, several years after' an age-27 event to the Long Mask); a training-span mismatch (MCD-1312's 'six years' matched to MCD-887's 'the last several months'); Mafesto mischaracterized twice as forearm-scale/concealable gear rather than a full bio-bonded exoskeleton (MCD-1499, MCD-1501); a Chronicle-numbering collision (MCD-500/501/502 renumbered XIII/XIV/XV -> X/XI/XII, freeing those numerals for MCD-552/553/554, themselves renumbered XVI/XVII/XVIII -> XIII/XIV/XV, resolving duplicate numerals against 'The Crew That Rebuilt Without Him,' 'What the Floodwater Couldn't Take,' and 'The Engineer Who Came to Disprove Him'); five leaked inline rule-ID citations and writers'-room phrasing stripped from narrative prose (MCD-1313, MCD-1314, MCD-1328, MCD-1334, MCD-1335) in favor of the in-world references already present in the same sentences; four 'than any prior showcase'/'across prior entries' writers'-room phrasings reworded to plain prose (MCD-1326, MCD-1329, MCD-1332, MCD-1497); two stale continuity-note references to planned-but-now-written entries corrected to cite the finished Chronicles directly (MCD-1310 -> MCD-1327, MCD-1328 -> MCD-1329); a mistaken Forge-Coat/Smoke System framing removed from a chimney-signal-code entry that never needed it (MCD-1500); a Mafesto gear citation corrected from 'the coat's whole vocabulary' to 'Mafesto's whole vocabulary' (MCD-1083); a proper-noun collision (MCD-969's deceased apprentice renamed from 'Toma' to 'Ilo,' clear of the already-locked Tomas Grieve, MCD-093/CC-124); three stale wave-establishment citations for the recurring senior smith corrected from 'wave 14' to waves 3-5/MCD-456/MCD-502/MCD-554 (MCD-969, MCD-974, MCD-977, the last of which also picks up its own citation fix to MCD-456 above); two typos (MCD-873 'a exhausted body' -> 'an exhausted body'; MCD-1324's dropped-word sentence reworded); one clarity fix (MCD-922's ambiguous opening line reworded to make clear the garrison is a Directorate installation Kanja's own scouts burned); and a stale tracker count (chronicle-tracks-status.md's Lord of Embers row, 93 -> 102). All fixes are prose-level reconciliation against already-locked canon or internal corpus consistency -- no new creative facts beyond MCD-969's renamed minor character, matching the Batch 226/68/320 precedent. The affected Chronicle `.md` files were corrected directly as prose/header edits in a companion pass; this script only amends the matching ledger rule statements."
+    },
+    {
+      "batch": 331,
+      "date": "2026-10-02",
+      "source": "Phase 1.5 fable-review of the World Atlas (GEO-001 through GEO-006) against the full Chronicle corpus and canon-ledger.json, following Phase 1's completion (Batches 320-330). Mechanical/reconciliation subset only.",
+      "rule_count": 0,
+      "note": "Phase 1.5 Atlas fable-review, mechanical subset. Amends GEO-003 (adds the missing Rathaan Prime capital site to the Lawless Reaches entry) and GEO-006 (resolves a GEO-005/GEO-006 wording contradiction over whether Killane/Ash Harbor are included in or additional to the 52 free-to-rename Holds/Settlements -- they are additional). Also fixes, prose-only (no ledger-statement change needed): a Kessic-region collision in two Bane Chronicles (MCD-681/683, the rumor's never-visited location renamed 'the Brinemoor salt flats' to resolve a contradiction with Kanja's own directly-established Kessic history); a second near-collision in a Scourge Chronicle (MCD-822, 'Varrow' renamed 'Callow' to resolve a one-letter collision with the already-locked antagonist Lord Varro Dominael); and a real-world proper-noun leak ('COINTELPRO') in Sankofa Chronicle V's narrative prose (MCD-1025), reworded to plain descriptive prose. The review's larger findings -- the Verehimu/Voskharen Wetlands naming question, whether 'the Karkosa' is the crew's own base or the enemy capital, the Teeth's Atlas placement, MCD-094's area-vs-population-weight framing, MCD-112's Southern Seaboard flag, and a full Portside/Kessic-region/naval-geography/Kesmara/House-Verehimu-seat enrichment pass -- are new creative/worldbuilding decisions, not reconciliation, and remain queued for Abad's own ruling rather than resolved here."
     }
   ],
   "rules": [
@@ -3573,7 +3580,7 @@
     {
       "id": "GEO-003",
       "category": "atlas-canon-sites",
-      "statement": "The atlas's canon-locked Capital/Maw sites, one per region: Rexhaven (Jicome), Ironmere (Aethel-Gard), The Spire (Zenith), Praetura/Maw-15 (The Prefecture), Kairo (The Shogunate), Skyvault (Astral Archipelago), Karkosa/The Throat (Sovereign Trust Domain), Ironhold plus the Ash Maw Scar/Maw-1 Mother/Maw-3 Belly cluster (Lawless Reaches), Frontier Maw/Moonvault (Shattered Kingdoms), Dark Spire (T.D.K. Peninsula). Old Dominion Ruins has no canon-locked capital or Maw site -- fitting its fallen-civilization theming. Khorvane is a Hold within Old Dominion Ruins, not its capital; the earlier draft's naming of Khorvane as OD's capital is corrected here, per Abad's ruling that the live Atlas source controls over the earlier stale extraction. Corrected 2026-09-10 (Batch 103): the Karkosa capital venue is the unnumbered Throat (MAW-060); Maw-7 'the Keldane Maw'/'Slab of Judgment' (MAW-061) is a separate venue at Keldane, not Karkosa -- the earlier 'Maw-7 Slab' label for Karkosa was a stale pre-MAW-060/061 shorthand.",
+      "statement": "The atlas's canon-locked Capital/Maw sites, one per region: Rexhaven (Jicome), Ironmere (Aethel-Gard), The Spire (Zenith), Praetura/Maw-15 (The Prefecture), Kairo (The Shogunate), Skyvault (Astral Archipelago), Karkosa/The Throat (Sovereign Trust Domain), Ironhold plus Rathaan Prime and the Ash Maw Scar/Maw-1 Mother/Maw-3 Belly cluster (Lawless Reaches), Frontier Maw/Moonvault (Shattered Kingdoms), Dark Spire (T.D.K. Peninsula). Old Dominion Ruins has no canon-locked capital or Maw site -- fitting its fallen-civilization theming. Khorvane is a Hold within Old Dominion Ruins, not its capital; the earlier draft's naming of Khorvane as OD's capital is corrected here, per Abad's ruling that the live Atlas source controls over the earlier stale extraction. Corrected 2026-09-10 (Batch 103): the Karkosa capital venue is the unnumbered Throat (MAW-060); Maw-7 'the Keldane Maw'/'Slab of Judgment' (MAW-061) is a separate venue at Keldane, not Karkosa -- the earlier 'Maw-7 Slab' label for Karkosa was a stale pre-MAW-060/061 shorthand. Corrected 2026-10-02 (Batch 331): the Lawless Reaches entry was missing Rathaan Prime (cell J20, Thornwork S), the live Atlas's fifth named Lawless Reaches Capital/Maw site and the Rathaan Federation's own seat (POL-090/POL-107).",
       "status": "LOCKED",
       "source": "Lords_of_Cian_Regional_Atlas.xlsx"
     },
@@ -3875,149 +3882,149 @@
       "id": "CC-001",
       "statement": "Kanja's full name is Kanja Haku Rexmar; \"Haku\" is a middle name taken from the ancestor who defeated T.D.K.",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Mandates"
+      "source": "Character Codex, Kanja Rexmar — Canon Mandates"
     },
     {
       "id": "CC-002",
       "statement": "Kanja's Density Spike ability is post-Awakening only and is exclusive to the Rexmar and Verehimu bloodlines.",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Mandates",
+      "source": "Character Codex, Kanja Rexmar — Canon Mandates",
       "note": "Consistent with locked fact (Density Spike exclusive to Kanja and Ozmund); adds the \"post-Awakening only\" qualifier as new detail, not a contradiction."
     },
     {
       "id": "CC-003",
       "statement": "Kanja recovered Onyx of Oblivion; he did not forge it, and it pre-dates his smithing career by millennia.",
       "status": "locked",
-      "source": "Character Codex, Onyx of Oblivion \u2014 Canon Mandates",
+      "source": "Character Codex, Onyx of Oblivion — Canon Mandates",
       "note": "Reinforces locked fact that Kanja recovered rather than forged Onyx."
     },
     {
       "id": "CC-004",
       "statement": "Kanja and Ozmund are cousins through their mothers, who were Kareth War-Order war-sisters (Val Saeryn Kareth and Val Mirel Kareth).",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 Key Relationships; Ozmund Verehimu \u2014 Key Relationships"
+      "source": "Character Codex, Kanja Rexmar — Key Relationships; Ozmund Verehimu — Key Relationships"
     },
     {
       "id": "CC-005",
       "statement": "Kanja's Long Mask persona lasted 284 years, ending when the Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening.",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Mandates"
+      "source": "Character Codex, Kanja Rexmar — Canon Mandates"
     },
     {
       "id": "CC-006",
       "statement": "Kanja's Pi-Awakening occurs between his 314th and 315th birthday (\"Day 0\" = age 314).",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Mandates",
+      "source": "Character Codex, Kanja Rexmar — Canon Mandates",
       "note": "Consistent with locked fact that Pi-Awakening occurs at 314."
     },
     {
       "id": "CC-007",
       "statement": "The Gravity-Fetter pendant is the physical interface for the Talisman of Mao's \"Governor's Shackle\" function, not a separate object; severing it destabilizes the Shackle and triggers Pi-Awakening completion.",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 Canon Lock (explicit in-document canon lock statement)"
+      "source": "Character Codex, Kanja Rexmar — Canon Lock (explicit in-document canon lock statement)"
     },
     {
       "id": "CC-008",
       "statement": "Kanja fought 22 documented battles between ages 18 and 30 (10 conventional victories, 6 infrastructure/labor victories, 6 classified 'Unwinnable' victories) before surrendering the Trinity to his father, King Maro Rexmar.",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 The Ten Victories / Unwinnable Victories"
+      "source": "Character Codex, Kanja Rexmar — The Ten Victories / Unwinnable Victories"
     },
     {
       "id": "CC-009",
       "statement": "King Maro Rexmar negotiated the secret Sovereign Pier Accords with Aethelgard Verehimu, promising Directorate recognition of Maro as sovereign King of Jicome in exchange for Kanja surrendering the Trinity; the pact died when Aethelgard was murdered at the Sovereignty Summit (Book 1 opening).",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 Battle 10 (The Sovereign Pier)"
+      "source": "Character Codex, Kanja Rexmar — Battle 10 (The Sovereign Pier)"
     },
     {
       "id": "CC-010",
       "statement": "Kanja's SBD designation is SBD-001.",
       "status": "locked",
-      "source": "Character Codex, Pyro \u2014 Biological Standard"
+      "source": "Character Codex, Pyro — Biological Standard"
     },
     {
       "id": "CC-011",
       "statement": "Onyx of Oblivion is a sentient Drakma longsword (Living Blade/Heuristic Engine), not a person, and is the primary Third Person Limited narrator for all Kanja POV chapters.",
       "status": "locked",
-      "source": "Character Codex, Onyx of Oblivion \u2014 What Onyx Is / Canon Mandates"
+      "source": "Character Codex, Onyx of Oblivion — What Onyx Is / Canon Mandates"
     },
     {
       "id": "CC-012",
       "statement": "Onyx was sealed in the Directorate Vaults (L9, \"the Silent Infinite\") for the entire 284-year Long Mask period.",
       "status": "locked",
-      "source": "Character Codex, Onyx of Oblivion \u2014 The 284-Year Abandonment"
+      "source": "Character Codex, Onyx of Oblivion — The 284-Year Abandonment"
     },
     {
       "id": "CC-013",
-      "statement": "Onyx's Black Ledger is Drakma lattice-memory \u2014 a permanent, un-redactable record of everything the blade witnesses.",
+      "statement": "Onyx's Black Ledger is Drakma lattice-memory — a permanent, un-redactable record of everything the blade witnesses.",
       "status": "locked",
-      "source": "Character Codex, Onyx of Oblivion \u2014 The Black Ledger"
+      "source": "Character Codex, Onyx of Oblivion — The Black Ledger"
     },
     {
       "id": "CC-014",
       "statement": "Ozmund Verehimu's birth name is Ozmund Verehimu; he adopts the surname Venim during Book 1 after rejecting the throne.",
       "status": "locked",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Identity / Canon Mandates"
+      "source": "Character Codex, Ozmund Verehimu — Identity / Canon Mandates"
     },
     {
       "id": "CC-015",
       "statement": "Ozmund is 203 years old and his Density Spike activated at age 2, two years ahead of the standard trigger age.",
       "status": "locked",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Identity / Background"
+      "source": "Character Codex, Ozmund Verehimu — Identity / Background"
     },
     {
       "id": "CC-016",
       "statement": "Ozmund's bloodline is Verehimu (paternal) plus Kareth War-Matriarchy (maternal, via Val Mirel Kareth).",
       "status": "locked",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Identity"
+      "source": "Character Codex, Ozmund Verehimu — Identity"
     },
     {
       "id": "CC-017",
       "statement": "Unlike Kanja, Ozmund has full conscious control of his Density Spike without requiring an Awakening.",
       "status": "locked",
-      "source": "Character Codex, Ozmund Verehimu \u2014 The Gravity Specialist"
+      "source": "Character Codex, Ozmund Verehimu — The Gravity Specialist"
     },
     {
       "id": "CC-018",
       "statement": "The Crown-Scar is a hereditary neural residue graft of T.D.K.'s (Anu Un Ra's) command architecture, engineered into the first Verehimu BEFORE the ancestor's betrayal of T.D.K., as a succession tool.",
       "status": "locked",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Background; Anu Un Ra \u2014 The Crown-Scar",
+      "source": "Character Codex, Ozmund Verehimu — Background; Anu Un Ra — The Crown-Scar",
       "note": "Confirms/reinforces the locked correction that the Crown-Scar was installed before the betrayal, not during or after."
     },
     {
       "id": "CC-019",
       "statement": "The Crown-Scar's root-access tether to T.D.K. was severed during Haku's (Kanja's ancestor's) campaigns; if the tether is ever re-established, every living Verehimu (including Ozmund) becomes T.D.K.'s asset.",
       "status": "locked",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Canon Mandates; Anu Un Ra \u2014 The Crown-Scar"
+      "source": "Character Codex, Ozmund Verehimu — Canon Mandates; Anu Un Ra — The Crown-Scar"
     },
     {
       "id": "CC-020",
       "statement": "Red Beard, not Ozmund, narrates all Ozmund POV chapters; the two are explicitly stated to be separate individuals frequently conflated in-world.",
       "status": "locked",
-      "source": "Character Codex, Red Beard \u2014 Identity / Canon Mandates"
+      "source": "Character Codex, Red Beard — Identity / Canon Mandates"
     },
     {
       "id": "CC-021",
       "statement": "Red Beard's true name is Tarn Cestari; \"Cestari\" is a slave-caste brand, not a surname, and he was born property in the Old Dominion's Maw gladiatorial economy.",
       "status": "locked",
-      "source": "Character Codex, Red Beard \u2014 Identity / Origin"
+      "source": "Character Codex, Red Beard — Identity / Origin"
     },
     {
       "id": "CC-022",
       "statement": "Red Beard's publicly known density is 4,800x (upper Branded Peak); his actual concealed density is 16,000x and climbing, known only to have been trained with Ozmund in secret.",
       "status": "locked",
-      "source": "Character Codex, Red Beard \u2014 Identity"
+      "source": "Character Codex, Red Beard — Identity"
     },
     {
       "id": "CC-023",
       "statement": "Red Beard defected to Ozmund's Unchained Legion during Book 1, bringing roughly 150,000 freed Cestari fighters and their families.",
       "status": "locked",
-      "source": "Character Codex, Red Beard \u2014 The Defection"
+      "source": "Character Codex, Red Beard — The Defection"
     },
     {
       "id": "CC-024",
-      "statement": "Lilith Cyzak is Ozmund's love interest and \"calibration point\"; per Ozmund's own Canon Mandates, \"Valeria is Kanja's \u2014 Lilith is Ozmund's.\"",
+      "statement": "Lilith Cyzak is Ozmund's love interest and \"calibration point\"; per Ozmund's own Canon Mandates, \"Valeria is Kanja's — Lilith is Ozmund's.\"",
       "status": "locked",
-      "source": "Character Codex, Ozmund Verehimu \u2014 Canon Mandates",
+      "source": "Character Codex, Ozmund Verehimu — Canon Mandates",
       "note": " Consistent with MCD-134's fuller profile."
     },
     {
@@ -4031,330 +4038,330 @@
       "id": "CC-026",
       "statement": "Ezio Valcari and Valen (Sinisterblade) are first cousins of House Valcari, sharing the 'Sinister Bloodline' martial tradition.",
       "status": "locked",
-      "source": "Character Codex, Ezio Valcari \u2014 The Sinister Bloodline; Valen \u2014 The Sinister Bloodline",
+      "source": "Character Codex, Ezio Valcari — The Sinister Bloodline; Valen — The Sinister Bloodline",
       "note": "Confirms the locked fact that Ezio and Valen/Sinisterblade are first cousins."
     },
     {
       "id": "CC-027",
       "statement": "Ezio Valcari is publicly known as a theorist/spymaster, but is classified as an elite close-quarters combatant capable of killing a room in three seconds; this is known only to Valen, Sephtis, Kanja, Anansi, and Lauris.",
       "status": "locked",
-      "source": "Character Codex, Ezio Valcari \u2014 Identity / Canon Mandates",
+      "source": "Character Codex, Ezio Valcari — Identity / Canon Mandates",
       "note": "Amended in Batch 44 to add Lauris per Abad's explicit ruling ('she does know') resolving a conflict raised by the Psychological Profiles document, which states she has seen the Valcari War-Side in action and that her Attia role includes deliberate cover-maintenance for Ezio (see CC-111)."
     },
     {
       "id": "CC-028",
       "statement": "Ezio Valcari is 75 years old with 750 years of wisdom-equivalence gained through training under Sephtis.",
       "status": "locked",
-      "source": "Character Codex, Ezio Valcari \u2014 Identity"
+      "source": "Character Codex, Ezio Valcari — Identity"
     },
     {
       "id": "CC-029",
       "statement": "Ezio's patron is Lady Nadea Thren, a defected SBD analyst operating independently.",
       "status": "locked",
-      "source": "Character Codex, Ezio Valcari \u2014 Identity"
+      "source": "Character Codex, Ezio Valcari — Identity"
     },
     {
       "id": "CC-030",
       "statement": "The movement's 'revolutionary trio' is Ezio Valcari (the Architect/strategy), Fermand/Hermes (the Unbroken/endurance and synthesis), and Anansi (the Spark/morale and agitation).",
       "status": "locked",
-      "source": "Character Codex, Ezio Valcari \u2014 The Revolutionary Trio"
+      "source": "Character Codex, Ezio Valcari — The Revolutionary Trio"
     },
     {
       "id": "CC-031",
       "statement": "Lauris Letitia is a Karesian (Kares Prime) warrior serving as Ezio Valcari's Attia (Sergeant-at-Arms); she is a former top-tier Sealbound Directorate external contractor who defected after discovering the Directorate's structural ignorance of its own legacy systems.",
       "status": "locked",
-      "source": "Character Codex, Lauris Letitia \u2014 Identity / SBD History"
+      "source": "Character Codex, Lauris Letitia — Identity / SBD History"
     },
     {
       "id": "CC-032",
       "statement": "Lauris's signature weapon, Attia's Rite (a leaf-shaped breaker), was forged by Kanja Rexmar as a gift to Ezio for his Sergeant-at-Arms.",
       "status": "locked",
-      "source": "Character Codex, Lauris Letitia \u2014 The Attia / Arsenal"
+      "source": "Character Codex, Lauris Letitia — The Attia / Arsenal"
     },
     {
       "id": "CC-033",
       "statement": "Hermes' true name is Fermand Aurelias; he is a pure human (no exotic biology) and a former high-ranking intelligence officer of a Free State, captured and tortured for years at the Black Iron Citadel before escaping.",
       "status": "locked",
-      "source": "Character Codex, Hermes \u2014 Identity / Origin"
+      "source": "Character Codex, Hermes — Identity / Origin"
     },
     {
       "id": "CC-034",
-      "statement": "Fermand (Hermes) narrates all Ezio and Lauris POV chapters in a Baroque/Zaf\u00f3n-Noir voice, distinct from Onyx's narration of Kanja.",
+      "statement": "Fermand (Hermes) narrates all Ezio and Lauris POV chapters in a Baroque/Zafón-Noir voice, distinct from Onyx's narration of Kanja.",
       "status": "locked",
-      "source": "Character Codex, Hermes \u2014 Narrative Voice"
+      "source": "Character Codex, Hermes — Narrative Voice"
     },
     {
       "id": "CC-035",
-      "statement": "Valen's true name is Valen; his ship title is Sinisterblade, SBD designation SBD-008, and his biology is the 'Precision Variant' with lower static density than heavyweights but shatter-proof durability exceeding Branded Peak (2,200x\u20134,900x).",
+      "statement": "Valen's true name is Valen; his ship title is Sinisterblade, SBD designation SBD-008, and his biology is the 'Precision Variant' with lower static density than heavyweights but shatter-proof durability exceeding Branded Peak (2,200x–4,900x).",
       "status": "locked",
-      "source": "Character Codex, Valen \u2014 Identity"
+      "source": "Character Codex, Valen — Identity"
     },
     {
       "id": "CC-036",
       "statement": "Valen is identified as T.D.K.'s single worst-case Warbody opponent because his gap-finding, nerve-strike combat style turns the Warbody's structural interfaces into liabilities.",
       "status": "locked",
-      "source": "Character Codex, Valen \u2014 Warbody Matchup / Canon Mandates",
+      "source": "Character Codex, Valen — Warbody Matchup / Canon Mandates",
       "note": "Consistent with Anu Un Ra's own Warbody matchup table, which separately confirms Valen as the WORST-CASE matchup."
     },
     {
       "id": "CC-037",
       "statement": "Sephtis's true name is Vrail; he is 1,997 years old, SBD designation SBD-003, and is the Lords of Cian's lead tactician/logistician.",
       "status": "locked",
-      "source": "Character Codex, Sephtis \u2014 Identity"
+      "source": "Character Codex, Sephtis — Identity"
     },
     {
       "id": "CC-038",
-      "statement": "Sephtis personally knew the Kareth War-Order and both Kareth sisters (Val Saeryn and Val Mirel) \u2014 the mothers of Kanja and Ozmund respectively.",
+      "statement": "Sephtis personally knew the Kareth War-Order and both Kareth sisters (Val Saeryn and Val Mirel) — the mothers of Kanja and Ozmund respectively.",
       "status": "locked",
-      "source": "Character Codex, Sephtis \u2014 Role & Philosophy / Key Relationships"
+      "source": "Character Codex, Sephtis — Role & Philosophy / Key Relationships"
     },
     {
       "id": "CC-039",
       "statement": "Sephtis does not know that Archon Meridian is secretly Archon Un Ra, T.D.K.'s hidden son; he privately regards Archon as merely 'a Tenant in Default.'",
       "status": "locked",
-      "source": "Character Codex, Sephtis \u2014 Key Relationships / Canon Mandates",
+      "source": "Character Codex, Sephtis — Key Relationships / Canon Mandates",
       "note": "Consistent with the locked fact that Archon Meridian is secretly T.D.K.'s hidden son and does not know it himself; this adds that Sephtis also does not know."
     },
     {
       "id": "CC-040",
-      "statement": "Bloodreaver's true name is Torian; his Cruor-Kin biology runs blood at near-boiling temperature, and per an explicit in-document canon rule, all of his combat effects are physical/thermodynamic only \u2014 he has no Tongue (frequency-craft) application.",
+      "statement": "Bloodreaver's true name is Torian; his Cruor-Kin biology runs blood at near-boiling temperature, and per an explicit in-document canon rule, all of his combat effects are physical/thermodynamic only — he has no Tongue (frequency-craft) application.",
       "status": "locked",
-      "source": "Character Codex, Bloodreaver \u2014 Identity / Canon Rule (explicit in-document canon rule)"
+      "source": "Character Codex, Bloodreaver — Identity / Canon Rule (explicit in-document canon rule)"
     },
     {
       "id": "CC-041",
-      "statement": "Ironbane's true name is Darius, SBD designation SBD-005; his bio-electric powers require the Ionic Ground bracer as life support \u2014 removing or damaging it causes fatal self-incineration (Critical Overload).",
+      "statement": "Ironbane's true name is Darius, SBD designation SBD-005; his bio-electric powers require the Ionic Ground bracer as life support — removing or damaging it causes fatal self-incineration (Critical Overload).",
       "status": "locked",
-      "source": "Character Codex, Ironbane \u2014 Identity / Weaknesses"
+      "source": "Character Codex, Ironbane — Identity / Weaknesses"
     },
     {
       "id": "CC-042",
       "statement": "Anansi's true name is Anansi; his SBD/enemy designation 'Shadowforge' is an explicit in-document canon correction stating these are the SAME person, not two separate identities.",
       "status": "locked",
-      "source": "Character Codex, Anansi \u2014 Identity (explicit 'CANON CORRECTION' statement)"
+      "source": "Character Codex, Anansi — Identity (explicit 'CANON CORRECTION' statement)"
     },
     {
       "id": "CC-043",
       "statement": "Anansi is secretly the brother of Valeria Korth; this is classified and not known to Ozmund or the Sovereign Trust.",
       "status": "locked",
-      "source": "Character Codex, Anansi \u2014 Key Relationships / Canon Mandates",
+      "source": "Character Codex, Anansi — Key Relationships / Canon Mandates",
       "note": "Confirms the locked fact that Anansi and Valeria Korth are secretly siblings."
     },
     {
       "id": "CC-044",
-      "statement": "Stormbreaker's true name is Kaelen; he is explicitly a separate Avatar from Stormreaver (Kairo) \u2014 the document notes them as distinct characters who are sometimes conflated.",
+      "statement": "Stormbreaker's true name is Kaelen; he is explicitly a separate Avatar from Stormreaver (Kairo) — the document notes them as distinct characters who are sometimes conflated.",
       "status": "locked",
-      "source": "Character Codex, Stormbreaker \u2014 Canon Mandates; Stormreaver \u2014 Canon Note"
+      "source": "Character Codex, Stormbreaker — Canon Mandates; Stormreaver — Canon Note"
     },
     {
       "id": "CC-045",
       "statement": "Stormbreaker (Kaelen) is the one who fought and defeated the Demaron entity possessing Pyro's mother during the Living Gate event, with Kanja's consent, and also serves as Pyro's guardian without Pyro knowing this history. The Codex's own framing that this 'ended her body's vessel' is deliberate in-universe misdirection (per MCD-133); MCD-131/MCD-132 are the sole authorial truth -- she survived, inverting the Gate into a forge and fusing into its architecture rather than being ended.",
       "status": "locked",
-      "source": "Character Codex, Stormbreaker \u2014 Key Relationships / Canon Mandates; Pyro \u2014 Origin",
+      "source": "Character Codex, Stormbreaker — Key Relationships / Canon Mandates; Pyro — Origin",
       "note": "RESOLVED per CONFLICT-005 and MCD-133 (2026-08-22): this 'killed' language is deliberate in-world misdirection by design, not a contradiction to fix. MCD-131/MCD-132 remain the objective truth that she survived, fused into the Living Gate."
     },
     {
       "id": "CC-046",
       "statement": "The Living Gate event: T.D.K. (Anu Un Ra) installed a voice-keyed 'Living Gate' curse into Kanja's first and only wife (a veil-reader) as a containment response to her discovering his hidden architecture; her pregnancy amplified the Gate, a Demaron entity inhabited her, and Pyro and the three Dhar-Kael guardians (Varkul, Varruk, Sorya) were produced as her final act. The Codex's own framing that her 'body's vessel was ultimately ended' is deliberate in-universe misdirection (per MCD-133); MCD-131/MCD-132 are the sole authorial truth -- she survived, inverting the Gate into a forge and fusing into its architecture rather than being ended.",
       "status": "locked",
-      "source": "Character Codex, Pyro \u2014 Origin (The Living Gate)",
+      "source": "Character Codex, Pyro — Origin (The Living Gate)",
       "note": "Reinforces the locked fact that the Triad Guardians (Varkul, Varruk, Sorya) originated from the Living Gate event involving Pyro's mother. See CC-045/MCD-133: the 'her body's vessel was ultimately ended' language is deliberate in-world misdirection, not an unresolved conflict."
     },
     {
       "id": "CC-047",
       "statement": "Pyro's hidden birth name is Ignis Rexmar; he is Kanja's biological son and does not know his own parentage.",
       "status": "locked",
-      "source": "Character Codex, Pyro \u2014 Identity / Secrets"
+      "source": "Character Codex, Pyro — Identity / Secrets"
     },
     {
       "id": "CC-048",
-      "statement": "The three Dhar-Kael ('last of the Bound Ones' \u2014 Varkul, Varruk, Sorya) are permanently and non-transferably bonded to Pyro specifically, not to the ship or crew as a whole.",
+      "statement": "The three Dhar-Kael ('last of the Bound Ones' — Varkul, Varruk, Sorya) are permanently and non-transferably bonded to Pyro specifically, not to the ship or crew as a whole.",
       "status": "locked",
-      "source": "Character Codex, Pyro \u2014 Identity / Triad Bond; Drown-Warden Varkul, Sorya, Varruk \u2014 Identity & Classification"
+      "source": "Character Codex, Pyro — Identity / Triad Bond; Drown-Warden Varkul, Sorya, Varruk — Identity & Classification"
     },
     {
       "id": "CC-049",
       "statement": "Drown-Warden Varkul is designated TRIAD-1, homages the mythic figure Svadilfari, and can morph between a ~4,025 lb Land Form and an 88%-larger Hydro-Titan Form as a natural adaptive (not shapeshifting-power) response to submersion.",
       "status": "locked",
-      "source": "Character Codex, Drown-Warden Varkul \u2014 Morphology / Canon Mandates"
+      "source": "Character Codex, Drown-Warden Varkul — Morphology / Canon Mandates"
     },
     {
       "id": "CC-050",
       "statement": "Sorya is designated TRIAD-3, homages Muninn (Memory), and physically senses the vibration of a broken vow (Vow-Taste) as her primary betrayal-detection ability.",
       "status": "locked",
-      "source": "Character Codex, Sorya \u2014 Identity & Classification / Capabilities"
+      "source": "Character Codex, Sorya — Identity & Classification / Capabilities"
     },
     {
       "id": "CC-051",
       "statement": "Varruk is designated TRIAD-2, homages Huginn (Thought), and provides aerial reconnaissance and pattern reconstruction via an ability called Angle-Whisper.",
       "status": "locked",
-      "source": "Character Codex, Varruk \u2014 Identity & Classification / Capabilities",
-      "note": "Note the name collision: Kanja's telepathic bone-conduction communication method with Onyx is also called 'Angle-Whisper' elsewhere in the codex \u2014 the document reuses the same term for two unrelated abilities belonging to different characters."
+      "source": "Character Codex, Varruk — Identity & Classification / Capabilities",
+      "note": "Note the name collision: Kanja's telepathic bone-conduction communication method with Onyx is also called 'Angle-Whisper' elsewhere in the codex — the document reuses the same term for two unrelated abilities belonging to different characters."
     },
     {
       "id": "CC-052",
       "statement": "Anu Un Ra's true name is confirmed as Anu Un Ra, with the document explicitly noting this corrects a prior/alternate name 'Argul.'",
       "status": "locked",
-      "source": "Character Codex, Anu Un Ra \u2014 Identity / Canon Mandates (explicit in-document correction)",
+      "source": "Character Codex, Anu Un Ra — Identity / Canon Mandates (explicit in-document correction)",
       "note": "Confirms the locked fact that T.D.K.'s true name is Anu Un Ra."
     },
     {
       "id": "CC-053",
-      "statement": "Anu Un Ra is 30,000+ years old and, per an explicit in-document canon rule, uses no Tongue (frequency-craft) application \u2014 all his capabilities are physical, engineered, biological, procedural, or psychological.",
+      "statement": "Anu Un Ra is 30,000+ years old and, per an explicit in-document canon rule, uses no Tongue (frequency-craft) application — all his capabilities are physical, engineered, biological, procedural, or psychological.",
       "status": "locked",
-      "source": "Character Codex, Anu Un Ra \u2014 Identity / Canon Rule (explicit in-document canon rule)"
+      "source": "Character Codex, Anu Un Ra — Identity / Canon Rule (explicit in-document canon rule)"
     },
     {
       "id": "CC-054",
       "statement": "Anu Un Ra's hidden son is Archon Meridian (true identity Archon Un Ra), who leads the Meridian Compact and does not know his own parentage.",
       "status": "locked",
-      "source": "Character Codex, Anu Un Ra \u2014 Identity / What He Built That Still Stands",
+      "source": "Character Codex, Anu Un Ra — Identity / What He Built That Still Stands",
       "note": "Confirms the locked fact that Archon Meridian is secretly T.D.K.'s hidden son who does not know it."
     },
     {
       "id": "CC-055",
       "statement": "Anu Un Ra's Pi-Vulnerability is the only thing in 30,000 years that has ever forced him to retreat; he cannot touch a Pi-Awakened Rexmar directly and must rely on proxies.",
       "status": "locked",
-      "source": "Character Codex, Anu Un Ra \u2014 The Pi-Vulnerability"
+      "source": "Character Codex, Anu Un Ra — The Pi-Vulnerability"
     },
     {
       "id": "CC-056",
       "statement": "Haku (Kanja's ancestor) is the only being who ever forced Anu Un Ra to retreat, roughly 5,000 years ago, deposing him from the Old Dominion; Anu Un Ra sees Kanja as 'Haku's echo.'",
       "status": "locked",
-      "source": "Character Codex, Anu Un Ra \u2014 The Pi-Vulnerability / Canon Mandates"
+      "source": "Character Codex, Anu Un Ra — The Pi-Vulnerability / Canon Mandates"
     },
     {
       "id": "CC-057",
-      "statement": "The Kingdoms of Merak were a civilization of individually ancient sovereign rulers (including a younger Anu Un Ra) that predates the Old Dominion by tens of thousands of years; Anu Un Ra dismantled nearly all of them over an estimated 30,000\u201340,000 years, and the 'Shattered Kingdoms' are named for this ancient purge, not the Old Dominion's collapse roughly 5,000 years ago.",
+      "statement": "The Kingdoms of Merak were a civilization of individually ancient sovereign rulers (including a younger Anu Un Ra) that predates the Old Dominion by tens of thousands of years; Anu Un Ra dismantled nearly all of them over an estimated 30,000–40,000 years, and the 'Shattered Kingdoms' are named for this ancient purge, not the Old Dominion's collapse roughly 5,000 years ago.",
       "status": "locked",
-      "source": "Character Codex, Orlok \u2014 III-B. What Orlok Knows: The Kingdoms of Merak"
+      "source": "Character Codex, Orlok — III-B. What Orlok Knows: The Kingdoms of Merak"
     },
     {
       "id": "CC-058",
       "statement": "Orlok is approximately 76,003 years old, a self-taught S-Tier fighter who reaches 20,000x density (equal to Vargo Vakas's static ceiling) temporarily through cultivation rather than augmentation; he is younger only than T.D.K. (Anu Un Ra).",
       "status": "locked",
-      "source": "Character Codex, Orlok \u2014 Identity / Age"
+      "source": "Character Codex, Orlok — Identity / Age"
     },
     {
       "id": "CC-059",
       "statement": "Orlok's staff, the Zenith-Rod, was reforged by Kanja using Living Drakma sourced from Moonvault reserves, raising Orlok's Kinetic Ascension ceiling from 18,000x to 20,000x.",
       "status": "locked",
-      "source": "Character Codex, Orlok \u2014 Arsenal: The Zenith-Rod"
+      "source": "Character Codex, Orlok — Arsenal: The Zenith-Rod"
     },
     {
       "id": "CC-060",
       "statement": "Voidbreaker's true name is Jax; his 'Spatial Variant' negative-density biology makes him effectively uncapturable by standard restraints.",
       "status": "locked",
-      "source": "Character Codex, Voidbreaker \u2014 Identity / Abilities"
+      "source": "Character Codex, Voidbreaker — Identity / Abilities"
     },
     {
       "id": "CC-061",
       "statement": "Ghostwind's true name is Sylas; he has the lowest static density ('Hollowed Density') of any Avatar and serves as forward scout/atmospheric stealth specialist.",
       "status": "locked",
-      "source": "Character Codex, Ghostwind \u2014 Identity / Physical Description & Biology"
+      "source": "Character Codex, Ghostwind — Identity / Physical Description & Biology"
     },
     {
       "id": "CC-062",
       "statement": "Stormreaver's true name is Kairo; his Aero Variant biology (hollow-core bones, Falcon-Pack wings) is explicitly noted as a separate character from Stormbreaker (Kaelen), whose siege-artillery role is unrelated.",
       "status": "locked",
-      "source": "Character Codex, Stormreaver \u2014 Identity (explicit 'Canon Note')"
+      "source": "Character Codex, Stormreaver — Identity (explicit 'Canon Note')"
     },
     {
       "id": "CC-063",
       "statement": "Soulreaver Zora's true name is Zora; she is the ship's Bosun/Deck Disciplinarian with Atmospheric Variant (barometric/asphyxiation) biology, and is romantically paired with Ironbane.",
       "status": "locked",
-      "source": "Character Codex, Soulreaver Zora \u2014 Identity / Key Relationships"
+      "source": "Character Codex, Soulreaver Zora — Identity / Key Relationships"
     },
     {
       "id": "CC-064",
       "statement": "Damu's true name is Julian Dael-Koss; his Cruor-Variant biology lets him read a person's complete physiological state through blood contact, and he was the first person to confirm Kanja's Pi-Awakening (by feeling the chemistry shift through the ship's hull).",
       "status": "locked",
-      "source": "Character Codex, Damu \u2014 Identity / Capability"
+      "source": "Character Codex, Damu — Identity / Capability"
     },
     {
       "id": "CC-065",
       "statement": "Damu (Julian) monitors the 99.9% energy drain of Kanja's Internal Quench and has tracked its progression for over a century, but has never told Kanja the full results.",
       "status": "locked",
-      "source": "Character Codex, Damu \u2014 Relationships"
+      "source": "Character Codex, Damu — Relationships"
     },
     {
       "id": "CC-066",
-      "statement": "Abyss's true name is Ren Oshaal; his Negative-Density biology generates a localized gravitational-pressure field (passive +30% within 5m, active +200% within 15m, or a maximum-output 'Depth-Charge' crush within 1m), and he carries no weapons \u2014 his body is the arsenal.",
+      "statement": "Abyss's true name is Ren Oshaal; his Negative-Density biology generates a localized gravitational-pressure field (passive +30% within 5m, active +200% within 15m, or a maximum-output 'Depth-Charge' crush within 1m), and he carries no weapons — his body is the arsenal.",
       "status": "locked",
-      "source": "Character Codex, Abyss \u2014 Identity / Capability / Arsenal"
+      "source": "Character Codex, Abyss — Identity / Capability / Arsenal"
     },
     {
       "id": "CC-067",
       "statement": "Matar has no surname and no known origin beyond having been brought to Kanja by Sephtis roughly 400 years ago; he is a Termination Specialist with standard (non-variant) biology operating at 800x through methodology and discipline rather than density.",
       "status": "locked",
-      "source": "Character Codex, Matar \u2014 Identity / Origin"
+      "source": "Character Codex, Matar — Identity / Origin"
     },
     {
       "id": "CC-068",
       "statement": "Cooper's true name is Ronan Kellsward; his Mass-Compression Variant biology lets him absorb external mass through contact to temporarily raise his density (200x resting up to ~4,500x loaded), and he serves as the crew's Quartermaster/logistics architect.",
       "status": "locked",
-      "source": "Character Codex, Cooper \u2014 Identity / Capability"
+      "source": "Character Codex, Cooper — Identity / Capability"
     },
     {
       "id": "CC-069",
       "statement": "Valeria Korth's Thread-Perception biology lets her read structural/causal connections as visible threads; she has escaped three separate Sealbound Directorate containment attempts.",
       "status": "locked",
-      "source": "Character Codex, Valeria Korth \u2014 Identity / Capability"
+      "source": "Character Codex, Valeria Korth — Identity / Capability"
     },
     {
       "id": "CC-070",
       "statement": "Valeria Korth is Kanja's best friend, love interest, and emotional anchor; the document carries an explicit hard canon mandate that 'VALERIA MUST SURVIVE.'",
       "status": "locked",
-      "source": "Character Codex, Valeria Korth \u2014 Identity / Canon Mandates (explicit in-document canon mandate)"
+      "source": "Character Codex, Valeria Korth — Identity / Canon Mandates (explicit in-document canon mandate)"
     },
     {
       "id": "CC-071",
       "statement": "Valeria Korth knows Ozmund carries T.D.K.'s Crown-Scar architecture (perceiving it as a 'thread' in her web) but has told Kanja rather than Ozmund, judging the secret 'not hers to cut.'",
       "status": "locked",
-      "source": "Character Codex, Valeria Korth \u2014 Relationships"
+      "source": "Character Codex, Valeria Korth — Relationships"
     },
     {
       "id": "CC-072",
       "statement": "Lady Nadea Thren is an independent operator, explicitly NOT T.D.K.'s champion or under anyone's control, who defected from the SBD's Division of Perceptual Analytics after discovering the Founder's Blueprints proving the SBD's containment doctrine was built on T.D.K.'s Ionic Rite architecture.",
       "status": "locked",
-      "source": "Character Codex, Lady Nadea Thren \u2014 Identity / The Defection"
+      "source": "Character Codex, Lady Nadea Thren — Identity / The Defection"
     },
     {
       "id": "CC-073",
       "statement": "Lady Nadea Thren is Ezio Valcari's patron and is genuinely, secretly in love with him; Ezio figured out years ago both that she is 'the Viper' and that she loves him, and has chosen, deliberately and repeatedly, to say nothing and stay anyway -- restraint, not obliviousness.",
       "status": "locked",
-      "source": "Character Codex, Lady Nadea Thren \u2014 The Ezio Dynamic"
+      "source": "Character Codex, Lady Nadea Thren — The Ezio Dynamic"
     },
     {
       "id": "CC-074",
       "statement": "Lady Nadea Thren was Fermand's (Hermes') Case Officer during his Black Iron Citadel interrogation period and has read his unredacted file.",
       "status": "locked",
-      "source": "Character Codex, Lady Nadea Thren \u2014 The Ezio Dynamic"
+      "source": "Character Codex, Lady Nadea Thren — The Ezio Dynamic"
     },
     {
       "id": "CC-075",
       "statement": "The document's own internal count of Talisman-protected Avatars is inconsistent: Kanja's Talisman of Mao section states the Sovereign Umbrella (Stage 1) protects '16 Avatars,' while Sephtis's and Anansi's sections both reference '17 Avatars,' and Soulreaver Zora's Canon Mandates calls her the '17th crewmate.'",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 5-B Talisman System (Stage 1) vs Sephtis \u2014 Role & Philosophy; Anansi \u2014 Abilities; Soulreaver Zora \u2014 Canon Mandates",
-      "note": "Internal document inconsistency (16 vs 17), not a conflict with the outside ledger \u2014 flagging for the team's own continuity tracking."
+      "source": "Character Codex, Kanja Rexmar — 5-B Talisman System (Stage 1) vs Sephtis — Role & Philosophy; Anansi — Abilities; Soulreaver Zora — Canon Mandates",
+      "note": "Internal document inconsistency (16 vs 17), not a conflict with the outside ledger — flagging for the team's own continuity tracking."
     },
     {
       "id": "CC-076",
-      "statement": "The document declares itself complete at '\u2500\u2500\u2500 END OF CHARACTER CODEX (26 entries) \u2500\u2500\u2500' immediately after Lady Nadea Thren's entry, then continues with nine additional entries (Damu, Abyss, Matar, Cooper, Valeria Korth, Orlok, and a second, contradictory Lilith Cyzak entry) that are themselves separately labeled 'entries #25\u201329' and 'Entry #30'/'#31' \u2014 numbering that overlaps with the entries already counted in the '26 entries' total.",
+      "statement": "The document declares itself complete at '─── END OF CHARACTER CODEX (26 entries) ───' immediately after Lady Nadea Thren's entry, then continues with nine additional entries (Damu, Abyss, Matar, Cooper, Valeria Korth, Orlok, and a second, contradictory Lilith Cyzak entry) that are themselves separately labeled 'entries #25–29' and 'Entry #30'/'#31' — numbering that overlaps with the entries already counted in the '26 entries' total.",
       "status": "locked",
-      "source": "Character Codex, structural end-marker at Soulreaver Zora's close, and subsequent 'ENTRIES #25\u201329: THE FINAL FIVE' / 'Character Codex Entry #30' / 'CC Entry #31' headers",
-      "note": "Document self-contradicts its own completion marker and entry numbering \u2014 flagged in document_notes as well."
+      "source": "Character Codex, structural end-marker at Soulreaver Zora's close, and subsequent 'ENTRIES #25–29: THE FINAL FIVE' / 'Character Codex Entry #30' / 'CC Entry #31' headers",
+      "note": "Document self-contradicts its own completion marker and entry numbering — flagged in document_notes as well."
     },
     {
       "id": "CC-077",
-      "statement": "The opening pages of the document (before the first '# CHARACTER' header) begin mid-sentence describing Kanja's biology and contain a large duplicated block of text \u2014 the same set of battle summaries (Battles 11\u201322 and their section headers) appears twice in immediate succession.",
+      "statement": "The opening pages of the document (before the first '# CHARACTER' header) begin mid-sentence describing Kanja's biology and contain a large duplicated block of text — the same set of battle summaries (Battles 11–22 and their section headers) appears twice in immediate succession.",
       "status": "locked",
       "source": "Character Codex, opening pages (Kanja Rexmar section, pre-header material)",
       "note": "Likely a docx export/copy-paste artifact rather than intentional canon; flagged in document_notes."
     },
     {
       "id": "CC-078",
-      "statement": "The document's version label is 'v1.0 \u2014 Comprehensive Character Bible' on its title page, and a later section footer independently repeats 'The Lords of Cian | Character Codex v1.0,' but the filename supplied for this review is 'LORDS_OF_CIAN_Character_Codex_definitive.docx.'",
+      "statement": "The document's version label is 'v1.0 — Comprehensive Character Bible' on its title page, and a later section footer independently repeats 'The Lords of Cian | Character Codex v1.0,' but the filename supplied for this review is 'LORDS_OF_CIAN_Character_Codex_definitive.docx.'",
       "status": "locked",
       "source": "Character Codex, title page and Soulreaver Zora section-end footer",
       "note": "Flagging the version-label vs filename mismatch ('v1.0' internally vs 'definitive' in the filename) for the team's tracking, per the pattern of prior version-stamp oddities found in other documents."
@@ -4363,13 +4370,13 @@
       "id": "CC-079",
       "statement": "Kanja considers Pyro his son and is aware of this, but hides it from Pyro; multiple guardians (Stormbreaker, Azar/Dreadlord) also know or suspect the lineage while Pyro himself does not.",
       "status": "locked",
-      "source": "Character Codex, Kanja Rexmar \u2014 Key Relationships; Pyro \u2014 Secrets"
+      "source": "Character Codex, Kanja Rexmar — Key Relationships; Pyro — Secrets"
     },
     {
       "id": "CC-080",
       "statement": "Bloodreaver (Torian) is described as the only crew member, besides Kanja himself, physically able to restrain Kanja without being crushed.",
       "status": "locked",
-      "source": "Character Codex, Bloodreaver \u2014 Key Relationships"
+      "source": "Character Codex, Bloodreaver — Key Relationships"
     },
     {
       "id": "MCD-133",
@@ -6002,7 +6009,7 @@
     {
       "id": "ASH-023",
       "category": "Ashkeel",
-      "statement": "Ashkeel formalizes seven master disciplines collectively known as the Seven High Arts, each governed by specific Houses and taught through a dedicated master guild or order: Ars Funis (the Cord & Span, rope-craft and suspension), Ars Pulsus (the Kinetic Cadence, impact and sensation), Ars Vacui (the Sensory Void, deprivation and immersion), Ars Ac\u00fbs et Minium (the Needle & Cinnabar, piercing and contract tattooing), Ars Foci (the Hearth Service, domestic protocol), Ars Vaginae et Acuminis (the Edge & Sheath, arousal regulation), and Ars Unguenti (the Scent & Balm, apothecary aftercare).",
+      "statement": "Ashkeel formalizes seven master disciplines collectively known as the Seven High Arts, each governed by specific Houses and taught through a dedicated master guild or order: Ars Funis (the Cord & Span, rope-craft and suspension), Ars Pulsus (the Kinetic Cadence, impact and sensation), Ars Vacui (the Sensory Void, deprivation and immersion), Ars Acûs et Minium (the Needle & Cinnabar, piercing and contract tattooing), Ars Foci (the Hearth Service, domestic protocol), Ars Vaginae et Acuminis (the Edge & Sheath, arousal regulation), and Ars Unguenti (the Scent & Balm, apothecary aftercare).",
       "status": "locked",
       "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
     },
@@ -6030,7 +6037,7 @@
     {
       "id": "ASH-027",
       "category": "Ashkeel",
-      "statement": "Ars Ac\u00fbs et Minium, the Needle & Cinnabar, covers dermal piercing, temporary suspension piercing, and permanent contract tattooing. Its master order is the Scribes of the Crimson Point, jointly of House Kestrion and House Moros, operating under mandatory scribe-witness and sterile-crucible protocol. Permanent contract marks (the Contract Codex) are tattooed beneath the left clavicle in cinnabar ink at Silver Collar elevation, with a hash mark added per contract renewal. Flesh suspension via curved steel hooks is termed Scapular Flight (upper back) or Oculus Hang (chest); the spinal furrow and inguinal canal/femoral vein are strict zero-piercing zones.",
+      "statement": "Ars Acûs et Minium, the Needle & Cinnabar, covers dermal piercing, temporary suspension piercing, and permanent contract tattooing. Its master order is the Scribes of the Crimson Point, jointly of House Kestrion and House Moros, operating under mandatory scribe-witness and sterile-crucible protocol. Permanent contract marks (the Contract Codex) are tattooed beneath the left clavicle in cinnabar ink at Silver Collar elevation, with a hash mark added per contract renewal. Flesh suspension via curved steel hooks is termed Scapular Flight (upper back) or Oculus Hang (chest); the spinal furrow and inguinal canal/femoral vein are strict zero-piercing zones.",
       "status": "locked",
       "source": "'Guild of the Extraordinary' (Google Drive fileId 1cGEqnWXfUZOGSVksys32TSQninqSI_fWZ0LC7fSUGXM), Part 7 / 'Master Codex of the Basalt Citadel, Volume I: Foundations & The Seven High Arts', Point 3. Same source document as Batch 19 (Ashkeel founding and governance). House names translated to match ASH-014's already-locked renaming: Nyxos->Vhaerlow, Solaas->Corvessa, Thorne->Kestrion (Vane and Moros unchanged). 'The Vapor of Cian' renamed to 'the Obsidian Vapor' and 'the Nyxos Blindfold' renamed to 'the Vhaerlow Blindfold' per Abad's naming corrections, 2026-08-25."
     },
@@ -8503,7 +8510,7 @@
     {
       "id": "PH2-020",
       "category": "phase2-homage-la-territory",
-      "statement": "Sankofa is the South Central-equivalent \u00cdl\u00fa-M\u00e1r\u00f9n territory, named for the Akan concept 'go back and get it.'",
+      "statement": "Sankofa is the South Central-equivalent Ílú-Márùn territory, named for the Akan concept 'go back and get it.'",
       "status": "locked",
       "source": "Phase 2 pre-Book-1 homage-era conversational development, chat-drafted 2026-09-05, no external source document -- original invention. Fully tracked at docs/lords-of-cian/phase2-homage-era-development.md. Every territory, leader, and character below was drafted in full and explicitly approved one piece at a time across the same 2026-09-05 conversation before this batch converted the whole set into the ledger."
     },
@@ -8573,7 +8580,7 @@
     {
       "id": "PH2-030",
       "category": "phase2-homage-la-supporting-cast",
-      "statement": "Aztlan/Sankofa's \u00cdl\u00fa-M\u00e1r\u00f9n supporting cast: Mati (homage: Sal Castro), Nahuatl root meaning 'to know' -- a history teacher at East Gate High (wholly invented school name) who builds pride in Chicano students, becomes the inside-the-schools instigator of Aztlan's defining walkout while Ollin organizes the outside paramilitary support; arrested and charged, charges collapse two years later. Ohun (homage: Ruben Salazar), Yoruba for 'voice/sound' -- a journalist covering Aztlan's rise from inside the community. Survives, per Abad's 2026-09-05 ruling (revised from an earlier version where a stray projectile killed him mid-sentence in a bar the day the Moratorium he covered turned violent): the projectile finds the wall beside him instead. Built as a 'regular person' per PH2-048's design principle -- no combat ability, survives on caution, sourcing instincts, and real luck. Iya (homage: Gloria Arellanes), Yoruba for 'mother' -- Aztlan's first woman minister (see PH2-023 for the walkout she led). Kra (homage: John Huggins), Akan for 'soul' -- Baale's co-founder and equal partner in Sankofa (see PH2-021, also amended 2026-09-05 to survive alongside him); his marriage and partnership continue as an ongoing thread rather than a legacy left to his widow.",
+      "statement": "Aztlan/Sankofa's Ílú-Márùn supporting cast: Mati (homage: Sal Castro), Nahuatl root meaning 'to know' -- a history teacher at East Gate High (wholly invented school name) who builds pride in Chicano students, becomes the inside-the-schools instigator of Aztlan's defining walkout while Ollin organizes the outside paramilitary support; arrested and charged, charges collapse two years later. Ohun (homage: Ruben Salazar), Yoruba for 'voice/sound' -- a journalist covering Aztlan's rise from inside the community. Survives, per Abad's 2026-09-05 ruling (revised from an earlier version where a stray projectile killed him mid-sentence in a bar the day the Moratorium he covered turned violent): the projectile finds the wall beside him instead. Built as a 'regular person' per PH2-048's design principle -- no combat ability, survives on caution, sourcing instincts, and real luck. Iya (homage: Gloria Arellanes), Yoruba for 'mother' -- Aztlan's first woman minister (see PH2-023 for the walkout she led). Kra (homage: John Huggins), Akan for 'soul' -- Baale's co-founder and equal partner in Sankofa (see PH2-021, also amended 2026-09-05 to survive alongside him); his marriage and partnership continue as an ongoing thread rather than a legacy left to his widow.",
       "status": "locked",
       "source": "Phase 2 pre-Book-1 homage-era conversational development, chat-drafted 2026-09-05, no external source document -- original invention. Fully tracked at docs/lords-of-cian/phase2-homage-era-development.md. Every territory, leader, and character below was drafted in full and explicitly approved one piece at a time across the same 2026-09-05 conversation before this batch converted the whole set into the ledger."
     },
@@ -8608,7 +8615,7 @@
     {
       "id": "PH2-035",
       "category": "phase2-homage-chicago-territory",
-      "statement": "Muungano is the third homage-era city (after Batey and \u00cdl\u00fa-M\u00e1r\u00f9n). Ide is the Bronzeville-equivalent territory, named for the Yoruba word for 'bronze,' honoring Bronzeville's real self-given community nickname born of skin-tone pride.",
+      "statement": "Muungano is the third homage-era city (after Batey and Ílú-Márùn). Ide is the Bronzeville-equivalent territory, named for the Yoruba word for 'bronze,' honoring Bronzeville's real self-given community nickname born of skin-tone pride.",
       "status": "locked",
       "source": "Phase 2 pre-Book-1 homage-era conversational development, chat-drafted 2026-09-05, no external source document -- original invention. Fully tracked at docs/lords-of-cian/phase2-homage-era-development.md. Chicago, the survival/mainline-integration standing decision, the world-tech-level reconfirmation, Sauti, and Duro/Doss were each drafted in full and explicitly approved in-conversation before this batch converted them into the ledger."
     },
@@ -8891,7 +8898,7 @@
     {
       "id": "GEO-006",
       "category": "atlas-canon-sites",
-      "statement": "Beyond GEO-003's Capital/Maw roster, two Jicome-region sites carry Rebellion-era narrative weight and are locked here rather than left as free-to-rename flavor: Killane (Hold, Corehold-class fortress-city, cell C09, Jicome's southern district -- site of the Sewer War of Killane, MCD-234) and Ash Harbor (Settlement, Port-class, cell A09, Jicome's southern coast -- site of the Siege of the Ghost Harbor, MCD-235, informally renamed Ghost Harbor after the battle, per the Chronicle's own in-story renaming). GEO-005's count updates from 52 to 54 (24 Holds, 30 Settlements) to include them.",
+      "statement": "Beyond GEO-003's Capital/Maw roster, two Jicome-region sites carry Rebellion-era narrative weight and are locked here rather than left as free-to-rename flavor: Killane (Hold, Corehold-class fortress-city, cell C09, Jicome's southern district -- site of the Sewer War of Killane, MCD-234) and Ash Harbor (Settlement, Port-class, cell A09, Jicome's southern coast -- site of the Siege of the Ghost Harbor, MCD-235, informally renamed Ghost Harbor after the battle, per the Chronicle's own in-story renaming; grows to city scale over the Long Mask era, MCD-1352). With these two canon-locked additions the Gazetteer's Hold/Settlement total becomes 54 (24 Holds, 30 Settlements), of which GEO-005's 52 remain free to rename -- corrected 2026-10-02 (Batch 331) to resolve a wording contradiction between GEO-005 and this rule over whether the 52 included or excluded these two sites; they are, and always were, excluded from the free-to-rename 52 and additional to it.",
       "status": "locked",
       "source": "Chronicles I-VIII rewrite (roadmap Step 3), cross-checked against research/atlas-live-sheet-audit.md via 8 parallel background-agent chapter audits, 2026-09-06. Killane (MCD-234, Sewer War of Killane) and Ash Harbor (MCD-235, Siege of the Ghost Harbor) do not appear anywhere in the live Regional Atlas Google Sheet; placed fresh within Jicome's existing grid rather than left unmapped."
     },
@@ -8989,35 +8996,35 @@
     {
       "id": "MCD-346",
       "category": "World Mechanics",
-      "statement": "Sankofa Chronicle I ('The Man Who Turned Against Himself') is the first entry in Sankofa's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341/342/343/344/345): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A rival lieutenant, Kojo (a new named character, Akan Monday-born day-name per the standing PH2 naming convention), attacks Baale (PH2-021) face to face in broad daylight over disputed western-block territory. Baale's signature ability ('The Turn,' PH2-021) is shown directly in operation for the first time via this fresh one-on-one attacker, deliberately distinct from the ability's own already-locked backstory event (the COINTELPRO-orchestrated ambush that nearly killed Baale and Kra, which per PH2-021 remains backstory only and is not restaged here, matching the Toussaint-Louverture/Ogoun-Xarey precedent for events referenced rather than dramatized): surviving the direct exchange, Kojo becomes bound to serve Baale within the week, exactly matching the ability's stated mechanic. The ability's cost is honored explicitly and left as live, unresolved tension rather than a settled fact -- Baale states plainly that a faceless, coordinated threat, the same shape as the COINTELPRO conspiracy in his backstory, is exactly what his gift cannot reach, foreshadowing rather than restaging that already-locked near-death event. An unnamed Kanja watches from the crowd's edge, entirely uninvolved, matching the Umoja/Yara/Areito pure-witness end of the established range. Kojo is left open as a minor recurring figure for future entries. Slots into no existing mainline battle -- original homage-era material set in Sankofa itself, and opens \u00cdl\u00fa-M\u00e1r\u00f9n's own run of territory Chronicles (Aztlan, Atunbi, Ijoko, and Orin still have none).",
+      "statement": "Sankofa Chronicle I ('The Man Who Turned Against Himself') is the first entry in Sankofa's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341/342/343/344/345): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A rival lieutenant, Kojo (a new named character, Akan Monday-born day-name per the standing PH2 naming convention), attacks Baale (PH2-021) face to face in broad daylight over disputed western-block territory. Baale's signature ability ('The Turn,' PH2-021) is shown directly in operation for the first time via this fresh one-on-one attacker, deliberately distinct from the ability's own already-locked backstory event (the COINTELPRO-orchestrated ambush that nearly killed Baale and Kra, which per PH2-021 remains backstory only and is not restaged here, matching the Toussaint-Louverture/Ogoun-Xarey precedent for events referenced rather than dramatized): surviving the direct exchange, Kojo becomes bound to serve Baale within the week, exactly matching the ability's stated mechanic. The ability's cost is honored explicitly and left as live, unresolved tension rather than a settled fact -- Baale states plainly that a faceless, coordinated threat, the same shape as the COINTELPRO conspiracy in his backstory, is exactly what his gift cannot reach, foreshadowing rather than restaging that already-locked near-death event. An unnamed Kanja watches from the crowd's edge, entirely uninvolved, matching the Umoja/Yara/Areito pure-witness end of the established range. Kojo is left open as a minor recurring figure for future entries. Slots into no existing mainline battle -- original homage-era material set in Sankofa itself, and opens Ílú-Márùn's own run of territory Chronicles (Aztlan, Atunbi, Ijoko, and Orin still have none).",
       "status": "locked",
       "source": "Sankofa Chronicle I ('The Man Who Turned Against Himself'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-i-the-man-who-turned-against-himself.md."
     },
     {
       "id": "MCD-347",
       "category": "World Mechanics",
-      "statement": "Aztlan Chronicle I ('One Body, Many Hands') is the first entry in Aztlan's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. During an Aztlan walkout, a counter-crowd attacks the march's flank where the police line thins; Ollin's forty personally drilled people hold a defensive line together. Ollin's signature ability ('The Formation,' PH2-023) is shown directly in operation for the first time: the drilled group fights and moves as a single, dramatically amplified force, exactly matching the ability's stated mechanic. The ability's cost (fracturing explosively once ignored internal grievance reaches its breaking point) is deliberately not shown here -- this Chronicle is set before the ability's own already-locked backstory event (Iya's 1970 walkout over unaddressed sexism), and Ollin's closing line is a deliberate, unresolved forward reference to that future rupture rather than a payoff. An unnamed Kanja is embedded inside the formation itself during the confrontation without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Aztlan itself, continuing \u00cdl\u00fa-M\u00e1r\u00f9n's own run of territory Chronicles (Sankofa already has one; Atunbi, Ijoko, and Orin still do not).",
+      "statement": "Aztlan Chronicle I ('One Body, Many Hands') is the first entry in Aztlan's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. During an Aztlan walkout, a counter-crowd attacks the march's flank where the police line thins; Ollin's forty personally drilled people hold a defensive line together. Ollin's signature ability ('The Formation,' PH2-023) is shown directly in operation for the first time: the drilled group fights and moves as a single, dramatically amplified force, exactly matching the ability's stated mechanic. The ability's cost (fracturing explosively once ignored internal grievance reaches its breaking point) is deliberately not shown here -- this Chronicle is set before the ability's own already-locked backstory event (Iya's 1970 walkout over unaddressed sexism), and Ollin's closing line is a deliberate, unresolved forward reference to that future rupture rather than a payoff. An unnamed Kanja is embedded inside the formation itself during the confrontation without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Aztlan itself, continuing Ílú-Márùn's own run of territory Chronicles (Sankofa already has one; Atunbi, Ijoko, and Orin still do not).",
       "status": "locked",
       "source": "Aztlan Chronicle I ('One Body, Many Hands'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/aztlan-chronicle-i-one-body-many-hands.md."
     },
     {
       "id": "MCD-348",
       "category": "World Mechanics",
-      "statement": "Atunbi Chronicle I ('What Takes Root') is the first entry in Atunbi's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A demolition crew attacks a garden lot Oluwole (PH2-025) has held and worked at dawn, before the block can organize a response. Oluwole's signature ability ('Don't Move, Improve,' PH2-025) is shown directly in operation for the first time -- the ground he has stayed rooted on has become genuinely more resilient -- while the scene also dramatizes the ability's stated cost precisely: the demolition crew takes a third of the garden before the ability's own slow mechanism can do anything about it, exactly matching PH2-025's stated limitation ('useless against anything fast enough to strike and leave before it takes hold'). What actually stops the attack is ordinary human numbers arriving in time, not the gift itself, stated plainly on the page rather than left implicit. An unnamed Kanja is present helping turn soil across several mornings and during the confrontation without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Atunbi itself, continuing \u00cdl\u00fa-M\u00e1r\u00f9n's own run of territory Chronicles (Sankofa and Aztlan already have one; Ijoko and Orin still do not).",
+      "statement": "Atunbi Chronicle I ('What Takes Root') is the first entry in Atunbi's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A demolition crew attacks a garden lot Oluwole (PH2-025) has held and worked at dawn, before the block can organize a response. Oluwole's signature ability ('Don't Move, Improve,' PH2-025) is shown directly in operation for the first time -- the ground he has stayed rooted on has become genuinely more resilient -- while the scene also dramatizes the ability's stated cost precisely: the demolition crew takes a third of the garden before the ability's own slow mechanism can do anything about it, exactly matching PH2-025's stated limitation ('useless against anything fast enough to strike and leave before it takes hold'). What actually stops the attack is ordinary human numbers arriving in time, not the gift itself, stated plainly on the page rather than left implicit. An unnamed Kanja is present helping turn soil across several mornings and during the confrontation without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Atunbi itself, continuing Ílú-Márùn's own run of territory Chronicles (Sankofa and Aztlan already have one; Ijoko and Orin still do not).",
       "status": "locked",
       "source": "Atunbi Chronicle I ('What Takes Root'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/atunbi-chronicle-i-what-takes-root.md."
     },
     {
       "id": "MCD-349",
       "category": "World Mechanics",
-      "statement": "Ijoko Chronicle I ('What Laughter Couldn't Move') is the first entry in Ijoko's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Across repeated council sessions, hostile members test Adwoa (PH2-027) with deniable, sideways mockery meant to destabilize her. Adwoa's signature ability ('The Iron Hand in the Velvet Glove,' PH2-027) is shown directly in operation for the first time: every jab leaves her grip on the room visibly steadier rather than shaken, exactly matching the ability's stated mechanic. The same episode dramatizes the ability's stated cost precisely: the ability does nothing against the real, impersonal economic decline (a thinning tax base, capital flight) working against her, and the Chronicle states explicitly that this is a different fight entirely, one composure cannot touch, matching PH2-027's stated limitation rather than leaving it abstract. An unnamed Kanja is a recurring back-row presence across sessions without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Ijoko itself, continuing \u00cdl\u00fa-M\u00e1r\u00f9n's own run of territory Chronicles (Sankofa, Aztlan, and Atunbi already have one; only Orin still does not).",
+      "statement": "Ijoko Chronicle I ('What Laughter Couldn't Move') is the first entry in Ijoko's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Across repeated council sessions, hostile members test Adwoa (PH2-027) with deniable, sideways mockery meant to destabilize her. Adwoa's signature ability ('The Iron Hand in the Velvet Glove,' PH2-027) is shown directly in operation for the first time: every jab leaves her grip on the room visibly steadier rather than shaken, exactly matching the ability's stated mechanic. The same episode dramatizes the ability's stated cost precisely: the ability does nothing against the real, impersonal economic decline (a thinning tax base, capital flight) working against her, and the Chronicle states explicitly that this is a different fight entirely, one composure cannot touch, matching PH2-027's stated limitation rather than leaving it abstract. An unnamed Kanja is a recurring back-row presence across sessions without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Ijoko itself, continuing Ílú-Márùn's own run of territory Chronicles (Sankofa, Aztlan, and Atunbi already have one; only Orin still does not).",
       "status": "locked",
       "source": "Ijoko Chronicle I ('What Laughter Couldn't Move'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/ijoko-chronicle-i-what-laughter-couldnt-move.md."
     },
     {
       "id": "MCD-350",
       "category": "World Mechanics",
-      "statement": "Orin Chronicle I ('What Can't Be Sold') is the first entry in Orin's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. During a small storefront performance, everyone genuinely listening comes away carrying a real bond to everyone else who heard it with them. Onilu's signature ability ('The Ark,' PH2-029) is shown directly in operation for the first time, then its cost dramatized in the same episode: Onilu deliberately allows a would-be promoter to record the final number, and the binding is demonstrably absent from the resulting recording when played back to a room that never stood together in it, exactly matching PH2-029's stated limitation that commercializing the performance destroys the binding completely and permanently for that performance. An unnamed Kanja is present at the back of the room and stays after to help stack chairs, without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Orin itself, and completes a first Chronicle entry for every one of \u00cdl\u00fa-M\u00e1r\u00f9n's five territories (Sankofa, Aztlan, Atunbi, Ijoko, Orin), matching Batey's and Muungano's own completed sets.",
+      "statement": "Orin Chronicle I ('What Can't Be Sold') is the first entry in Orin's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. During a small storefront performance, everyone genuinely listening comes away carrying a real bond to everyone else who heard it with them. Onilu's signature ability ('The Ark,' PH2-029) is shown directly in operation for the first time, then its cost dramatized in the same episode: Onilu deliberately allows a would-be promoter to record the final number, and the binding is demonstrably absent from the resulting recording when played back to a room that never stood together in it, exactly matching PH2-029's stated limitation that commercializing the performance destroys the binding completely and permanently for that performance. An unnamed Kanja is present at the back of the room and stays after to help stack chairs, without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Orin itself, and completes a first Chronicle entry for every one of Ílú-Márùn's five territories (Sankofa, Aztlan, Atunbi, Ijoko, Orin), matching Batey's and Muungano's own completed sets.",
       "status": "locked",
       "source": "Orin Chronicle I ('What Can't Be Sold'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/orin-chronicle-i-what-cant-be-sold.md."
     },
@@ -9052,7 +9059,7 @@
     {
       "id": "MCD-355",
       "category": "World Mechanics",
-      "statement": "Kiti Chronicle I ('What Wore Down Instead') is the first entry in Kiti's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A manufactured scandal, run for three weeks by the old machine, is meant to wear Owusu (PH2-059) down; instead his next election comes in stronger. Owusu's signature ability ('The Long Tenure,' PH2-059) is shown directly in operation for the first time: sustained attrition against him while he holds the seat strengthens his grip rather than weakening it, exactly matching the ability's stated mechanic. The ability's cost is stated explicitly as foreshadowing rather than dramatized in the moment, matching the same restraint used for Ofin's capstone cost in Uhuru Chronicle I (MCD-345): Owusu states plainly, unprompted, that the strength is purely institutional and lapses completely the instant he leaves the seat, matching PH2-059's stated limitation exactly. The old machine's operatives are deliberately left unnamed. An unnamed Kanja is a quiet presence around the office across the stretch without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Kiti itself, and completes a first Chronicle entry for every one of Mji's five territories (Kazi, Taifa, Hekalu, Nyansa, Kiti), which in turn completes territory-Chronicle coverage at the first-Chronicle level for all four homage-era cities built so far (Batey, Muungano, \u00cdl\u00fa-M\u00e1r\u00f9n, Mji).",
+      "statement": "Kiti Chronicle I ('What Wore Down Instead') is the first entry in Kiti's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A manufactured scandal, run for three weeks by the old machine, is meant to wear Owusu (PH2-059) down; instead his next election comes in stronger. Owusu's signature ability ('The Long Tenure,' PH2-059) is shown directly in operation for the first time: sustained attrition against him while he holds the seat strengthens his grip rather than weakening it, exactly matching the ability's stated mechanic. The ability's cost is stated explicitly as foreshadowing rather than dramatized in the moment, matching the same restraint used for Ofin's capstone cost in Uhuru Chronicle I (MCD-345): Owusu states plainly, unprompted, that the strength is purely institutional and lapses completely the instant he leaves the seat, matching PH2-059's stated limitation exactly. The old machine's operatives are deliberately left unnamed. An unnamed Kanja is a quiet presence around the office across the stretch without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Kiti itself, and completes a first Chronicle entry for every one of Mji's five territories (Kazi, Taifa, Hekalu, Nyansa, Kiti), which in turn completes territory-Chronicle coverage at the first-Chronicle level for all four homage-era cities built so far (Batey, Muungano, Ílú-Márùn, Mji).",
       "status": "locked",
       "source": "Kiti Chronicle I ('What Wore Down Instead'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/kiti-chronicle-i-what-wore-down-instead.md."
     },
@@ -10333,7 +10340,7 @@
     {
       "id": "MCD-509",
       "category": "phase2-territory-chronicle",
-      "statement": "Are\u00edto Chronicle III, \"The Two Houses He Brought to One Table\" (full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-iii-the-two-houses-he-brought-to-one-table.md). Kwame Ade mediates a decade-old split between two tenant associations, discovering the grievance had outlived its own cause -- a patient, non-combat community-reconciliation entry distinct from his physical-vulnerability and Adeyemi Chronicles. An unnamed Kanja is present, uninvolved. No new named characters. Third Are\u00edto territory Chronicle.",
+      "statement": "Areíto Chronicle III, \"The Two Houses He Brought to One Table\" (full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-iii-the-two-houses-he-brought-to-one-table.md). Kwame Ade mediates a decade-old split between two tenant associations, discovering the grievance had outlived its own cause -- a patient, non-combat community-reconciliation entry distinct from his physical-vulnerability and Adeyemi Chronicles. An unnamed Kanja is present, uninvolved. No new named characters. Third Areíto territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -10347,14 +10354,14 @@
     {
       "id": "MCD-511",
       "category": "phase2-territory-chronicle",
-      "statement": "Guan\u00edn Chronicle III, \"The Blow He Decided Not to Bank\" (full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-iii-the-blow-he-decided-not-to-bank.md). A junior clerk's petty public insult goes entirely unanswered; Eri Kotoko explains that 'The Unanswered Blow' (PH2-008) is a deliberate choice about which wrongs deserve its weight, not a reflex triggered by any slight -- the first entry showing restraint rather than release. An unnamed Kanja is present in the hearing hall, uninvolved. No new named characters. Third Guan\u00edn territory Chronicle.",
+      "statement": "Guanín Chronicle III, \"The Blow He Decided Not to Bank\" (full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-iii-the-blow-he-decided-not-to-bank.md). A junior clerk's petty public insult goes entirely unanswered; Eri Kotoko explains that 'The Unanswered Blow' (PH2-008) is a deliberate choice about which wrongs deserve its weight, not a reflex triggered by any slight -- the first entry showing restraint rather than release. An unnamed Kanja is present in the hearing hall, uninvolved. No new named characters. Third Guanín territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
     {
       "id": "MCD-512",
       "category": "phase2-territory-chronicle",
-      "statement": "Borik\u00e9n Chronicle III, \"The Men Who Claimed His Name\" (full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-iii-the-men-who-claimed-his-name.md). Three unconnected impostors exploit 'No Single Point' (PH2-010)'s own ambiguity to run extortion under Guan\u00ed's name; he defeats the scheme through quiet, patient questioning of the impostors rather than ever revealing himself, deliberately preserving the mechanic that protects him from real threats. An unnamed Kanja helps brief residents on the questions to ask, uninvolved otherwise. No new named characters. Third Borik\u00e9n territory Chronicle.",
+      "statement": "Borikén Chronicle III, \"The Men Who Claimed His Name\" (full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-iii-the-men-who-claimed-his-name.md). Three unconnected impostors exploit 'No Single Point' (PH2-010)'s own ambiguity to run extortion under Guaní's name; he defeats the scheme through quiet, patient questioning of the impostors rather than ever revealing himself, deliberately preserving the mechanic that protects him from real threats. An unnamed Kanja helps brief residents on the questions to ask, uninvolved otherwise. No new named characters. Third Borikén territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -10396,14 +10403,14 @@
     {
       "id": "MCD-518",
       "category": "phase2-territory-chronicle",
-      "statement": "Sankofa Chronicle III, \"What He Built While Waiting\" (full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-iii-what-he-built-while-waiting.md). With the forged-letter conspiracy from Chronicle II (MCD-360) still unresolved and deliberately left untouched here, Ba\u00e1l\u00e9 refuses to let the uncertainty stop him from opening a new community health clinic, with Kra and Kojo (both already locked) present. An unnamed Kanja attends the opening, uninvolved. No new named characters. Third Sankofa territory Chronicle.",
+      "statement": "Sankofa Chronicle III, \"What He Built While Waiting\" (full narrative text at docs/lords-of-cian/chronicles/sankofa-chronicle-iii-what-he-built-while-waiting.md). With the forged-letter conspiracy from Chronicle II (MCD-360) still unresolved and deliberately left untouched here, Baálé refuses to let the uncertainty stop him from opening a new community health clinic, with Kra and Kojo (both already locked) present. An unnamed Kanja attends the opening, uninvolved. No new named characters. Third Sankofa territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
     {
       "id": "MCD-519",
       "category": "phase2-territory-chronicle",
-      "statement": "Aztl\u00e1n Chronicle III, \"The First Time He Actually Listened\" (full narrative text at docs/lords-of-cian/chronicles/aztlan-chronicle-iii-the-first-time-he-actually-listened.md). Years after Iya's already-locked walkout (MCD-359), a near-identical credit-exclusion grievance arises; Ollin immediately acknowledges and corrects it publicly rather than deferring it, a genuine growth entry that does not erase or minimize the earlier loss. An unnamed Kanja is present, uninvolved. No new named characters. Third Aztl\u00e1n territory Chronicle.",
+      "statement": "Aztlán Chronicle III, \"The First Time He Actually Listened\" (full narrative text at docs/lords-of-cian/chronicles/aztlan-chronicle-iii-the-first-time-he-actually-listened.md). Years after Iya's already-locked walkout (MCD-359), a near-identical credit-exclusion grievance arises; Ollin immediately acknowledges and corrects it publicly rather than deferring it, a genuine growth entry that does not erase or minimize the earlier loss. An unnamed Kanja is present, uninvolved. No new named characters. Third Aztlán territory Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -18782,7 +18789,7 @@
     {
       "id": "MCD-1670",
       "category": "lauris-character-chronicle",
-      "statement": "'The Archive He Never Let Anyone Touch' (full narrative text at docs/lords-of-cian/chronicles/lauris-chronicle-liii-the-archive-he-never-let-anyone-touch.md), Lauris Chronicle LIII, Strand W (Witness / present-day, quiet register), second Strand W wave. Fermand Aurelias appears as a participant for the first time in the series rather than only as narrator -- he continues narrating himself in the established third-person Baroque/Zaf\u00f3n-Noir register per CC-034/VB-024, explicitly naming and holding to that discipline. Lauris single-handedly reorganizes 30-plus years of his neglected personal archive (41 crates) in one afternoon, putting CC-134's combat-joy trait on the page in its most domestic register yet. No new named characters.",
+      "statement": "'The Archive He Never Let Anyone Touch' (full narrative text at docs/lords-of-cian/chronicles/lauris-chronicle-liii-the-archive-he-never-let-anyone-touch.md), Lauris Chronicle LIII, Strand W (Witness / present-day, quiet register), second Strand W wave. Fermand Aurelias appears as a participant for the first time in the series rather than only as narrator -- he continues narrating himself in the established third-person Baroque/Zafón-Noir register per CC-034/VB-024, explicitly naming and holding to that discipline. Lauris single-handedly reorganizes 30-plus years of his neglected personal archive (41 crates) in one afternoon, putting CC-134's combat-joy trait on the page in its most domestic register yet. No new named characters.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-18, Lauris Character Chronicle wave (Chronicles X-LIX)."
     },
