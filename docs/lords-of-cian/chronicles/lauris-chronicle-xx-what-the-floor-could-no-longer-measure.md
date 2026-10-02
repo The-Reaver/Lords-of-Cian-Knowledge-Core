@@ -9,12 +9,14 @@ for twenty-eight thousand years before Lauris's own arrival (`MCD-1554`), is sho
 genuinely failing to produce a usable reading of her combat-progression ceiling during a formal
 reassessment -- foreshadowing, without asserting, the "exhausted what the civilization's surviving
 infrastructure could still offer her" language `MCD-174` uses of her eventual decision to depart. No
-new named characters. Full text below.*
+new named characters. Corrected Batch 334, 2026-10-02: "two thousand nine hundred years" corrected
+to "more than three thousand years" (twice) to match her true ~6,000-year age (`MCD-1533`). Full text
+below.*
 
 -----
 
-*Archive fragment, Vask Karth-Ven, age ~3,150: "The floor read me accurately for two thousand nine
-hundred years. Today it stopped partway through the fourth hour and reported a number it could not
+*Archive fragment, Vask Karth-Ven, age ~3,150: "The floor read me accurately for more than three
+thousand years. Today it stopped partway through the fourth hour and reported a number it could not
 have meant. I do not think the floor is wrong. I think I have simply become a question it was not
 built to answer."*
 
@@ -38,7 +40,7 @@ The floor itself -- sixty meters of continuously calibrated high-gravity-forged 
 platform that had, over Lauris's own training, developed a more detailed combat-reading of her than
 of any other Karesian in the Vask's recorded history -- was built to track density output across a
 sustained engagement and translate it into a figure the Iron-Speakers could compare, generation to
-generation, against every combatant who had ever trained on it. For two thousand nine hundred years,
+generation, against every combatant who had ever trained on it. For more than three thousand years,
 by Lauris's own account, it had done exactly that for her, tracking her rise from a fourteen-year-old
 testing at double cohort ceiling through every subsequent recalibration with what she describes as
 total fidelity.

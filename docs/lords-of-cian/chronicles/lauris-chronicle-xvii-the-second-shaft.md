@@ -4,8 +4,10 @@
 series, the fourth entry of Strand K (Kares Prime / deep past). Dramatizes one of the eight geological
 emergency responses from the Long Operational Period (`MCD-1555`) in the pattern of the Vask Threnarr
 mining rescue (`MCD-171`), set at Vask Karth-Ven itself -- a deliberate contrast with `MCD-171`'s
-pre-karth-ven event at her birth-hold, showing the same capability applied, decades later, at the
-Vask that had become her own. No new named characters. Full text below.*
+pre-karth-ven event at her birth-hold, showing the same capability applied, nine centuries later, at
+the Vask that had become her own. No new named characters. Corrected Batch 334, 2026-10-02: softened
+an overstated "first lethal combat" claim (now the Sister-Hold's own later classification rather than
+an authorial assertion) for consistency with her later-assessment framing. Full text below.*
 
 -----
 
@@ -35,9 +37,9 @@ I want to record, as precisely as I am able, what she did next, because I believ
 entries in her archive where the difference between her age at Threnarr and her age at Karth-Ven
 matters. At Threnarr, nine centuries earlier, she held a single unstable shaft for three hours in
 sustained Triad-Lock, absorbing the accumulated pressure of a mining collapse through raw structural
-endurance -- her first lethal combat came later that same year, but the rescue itself had been, by
-her own later assessment, closer to pure attrition than technique. At Karth-Ven she did not hold the
-collapse. She read it.
+endurance -- the rescue the Sister-Hold itself would later classify as her first lethal combat,
+though by her own later assessment it had been closer to pure attrition than technique. At Karth-Ven
+she did not hold the collapse. She read it.
 
 Her archive entry describes, in more technical detail than I am fully equipped to transcribe
 faithfully, a structural assessment conducted in real time while already inside the collapse zone:

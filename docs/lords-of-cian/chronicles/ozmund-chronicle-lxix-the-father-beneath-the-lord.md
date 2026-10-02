@@ -11,8 +11,7 @@ story is not over from the reader's vantage inside this timeframe. Gives the "co
 (`MCD-1736`/`1737`/`1740`/`1793`) one final light appearance without restaging any of its prior uses.
 No new named characters. Corrected Batch 333, 2026-10-02: continuity notes' "does not depict or
 foreshadow the Fulfillment Ceremony or how Aethelgard's life ends" clarified to acknowledge Red
-Beard's own retrospective reference to his death at the Ceremony, consistent with Chronicles IX/XI.
-*
+Beard's own retrospective reference to his death at the Ceremony, consistent with Chronicles IX/XI.*
 
 ---
 

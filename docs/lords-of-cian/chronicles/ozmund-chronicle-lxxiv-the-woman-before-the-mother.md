@@ -7,7 +7,8 @@ entry. Ozmund is roughly eighteen. Dramatizes the first moment Ozmund consciousl
 mother as a full person with her own interior life, rather than only as a parent, through an
 encounter with a retired soldier of her Wing. Narrated by Red Beard (Tarn Cestari) per
 `VB-020`/`022`/`CC-020`, reconstructed from a story Ozmund told him years later. No new named
-characters.*
+characters. Corrected Batch 333, 2026-10-02: "centuries before he existed" reworded to "long ages
+before he existed" to avoid understating Val Mirel's ~89,003-year Kareth lifespan (`MCD-101`).*
 
 ---
 
@@ -37,7 +38,7 @@ What struck the General, listening, was not the tactics — he'd heard enough of
 thinking by eighteen that little about her judgment surprised him anymore. What struck him was
 everything around the tactics. The old soldier described her as young. Described her as uncertain,
 in a way he'd never once seen her be, doubted by people whose good opinion she'd clearly wanted and
-hadn't yet earned. Described a version of his mother who had once, centuries before he existed, been
+hadn't yet earned. Described a version of his mother who had once, long ages before he existed, been
 exactly what he himself was now — someone still building a reputation rather than one who already had
 it, someone whose judgment could still be doubted by people who mattered to her, someone who had been,
 in every sense he could recognize, young.

@@ -6,7 +6,9 @@ operations against non-Karesian incursions at orbital trade-points from the Long
 (`MCD-1555`, age 1,841-~3,400), at an unnamed outer trade-point distinct from the Olmedrin point she
 later departs through (`MCD-175`). No new named characters -- the smuggling crew stays deliberately
 unnamed, matching the project's established convention for secondary figures (Chronicle II's opposing
-delegation). Full text below.*
+delegation). Corrected Batch 334, 2026-10-02: the trade-point archivist's pronouns corrected to
+she/her -- Kares Prime is single-sex after Vael Threnarr-Karth's death; only the non-Karesian crew
+leader stays he/him. Full text below.*
 
 -----
 
