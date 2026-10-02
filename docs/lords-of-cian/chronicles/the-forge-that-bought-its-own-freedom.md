@@ -1,7 +1,10 @@
 # The Forge That Bought Its Own Freedom
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1247`). The Scourge Alias Chronicle LXXXII, wave 28,
-first entry. Age 180, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+first entry. Age 180, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.
+Corrected Batch 349, 2026-10-02: "V3" corrected to "V4" -- age 180 is the Forge-Coat's V3/V4
+boundary per `ARS-348`, read as V4 (ages 180-284); the footer's "ages 80-241" citation corrected to
+"ages 80-180."*
 
 ---
 
@@ -35,5 +38,5 @@ anyway, doing the entire job before the crew had known there was a job to do.
 reactive conversion under collapsing economics) into a new, proactive register -- the reputation
 alone, unconfirmed and secondhand, motivates preemptive reform with no direct visit or pressure
 involved at all until after the fact. No new named characters -- the forge owner is unnamed. Age
-180, V3 gear (`ARS-348`, ages 80-241). Onyx of Oblivion correctly absent per its L9 seal throughout
+180, V4 gear (`ARS-348`, ages 80-180). Onyx of Oblivion correctly absent per its L9 seal throughout
 the Long Mask. First entry in the Scourge's twenty-eighth wave.*

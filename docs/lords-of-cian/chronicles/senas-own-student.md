@@ -1,7 +1,9 @@
 # Sena's Own Student
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1241`). The Scourge Alias Chronicle LXXVI, wave 26, first
-entry. Age 235, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 235, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected
+Batch 349, 2026-10-02: "V3" corrected to "V4" -- age 235 falls within the Forge-Coat's V4 era (ages
+180-284) per `ARS-348`, not V3 (ages 80-180).*
 
 ---
 
@@ -38,6 +40,6 @@ Didn't Sheathe" (`MCD-1043`, age 190) -- Sena, now established forty-five years 
 crew tenure, applies the same doctrine Kanja once used on her to a newer crew member, extending
 rather than repeating that entry's shape (there Kanja intervened directly; here he deliberately
 doesn't need to). The newer crew member is unnamed and one-scene, avoiding a second new named
-character. No new named characters beyond the already-established Sena. Age 235, V3 gear (`ARS-348`,
+character. No new named characters beyond the already-established Sena. Age 235, V4 gear (`ARS-348`,
 ages 80-241). Onyx of Oblivion correctly absent per its L9 seal throughout the Long Mask. First entry
 in the Scourge's twenty-sixth wave.*

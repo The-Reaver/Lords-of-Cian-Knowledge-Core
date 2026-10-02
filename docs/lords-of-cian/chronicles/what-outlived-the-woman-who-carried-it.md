@@ -1,6 +1,6 @@
 # What Outlived the Woman Who Carried It
 
-*Locked canon, Batch 239, 2026-09-11 (`MCD-1055`). Storm That Walks Alias Chronicle LX, wave 20, closing the wave. Sephtis's successor formally retires and hands full institutional authority to the third-generation student, confirming the doctrine now outlives even the woman who carried it after him. Not a territory Chronicle.*
+*Locked canon, Batch 239, 2026-09-11 (`MCD-1055`). Storm That Walks Alias Chronicle LX, wave 20, closing the wave. Sephtis's successor formally retires and hands full institutional authority to the third-generation student, confirming the doctrine now outlives even the woman who carried it after him. Not a territory Chronicle. Corrected Batch 349, 2026-10-02: "Sephtis's own death-and-succession arc" corrected to "Sephtis's own staged-withdrawal-and-succession arc" -- `MCD-982` locks his exit as a staged withdrawal, not a death.*
 
 ---
 
@@ -47,7 +47,7 @@ front of everyone, for as long as it took someone else to learn how to be brave 
 
 *Continuity notes (not narrative): closes wave 20 and the sub-series' run at sixty entries. The first
 entry to dramatize the successor's own formal retirement and full institutional handoff to the third
-generation (previously only teaching, `MCD-983`), distinct from Sephtis's own death-and-succession arc
+generation (previously only teaching, `MCD-983`), distinct from Sephtis's own staged-withdrawal-and-succession arc
 (`MCD-981`-`983`) -- this is a chosen, undramatic stepping-back rather than decline or mortality, and
 does not assert or imply the successor's death. Confirms the doctrine's institutional continuity now
 runs three generations deep and does not depend on any single person's presence, echoing and extending

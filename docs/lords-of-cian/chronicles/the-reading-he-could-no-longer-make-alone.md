@@ -1,6 +1,6 @@
 # The Reading He Could No Longer Make Alone
 
-*Locked canon, Batch 220, 2026-09-11 (`MCD-981`). The Storm That Walks Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-981`). The Storm That Walks Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 349, 2026-10-02: this entry dramatizes the opening move of the staged withdrawal Sephtis stages at `MCD-982`, not genuine physical decline.*
 
 ---
 
@@ -45,7 +45,8 @@ not one day longer than that. That's not a kindness I'm ashamed of."
 
 ---
 
-*Continuity notes (not narrative): the first entry to dramatize Sephtis's genuine physical decline —
+*Continuity notes (not narrative): the first entry to dramatize the opening move of the staged
+withdrawal Sephtis stages at MCD-982, presented on the page as an apparent physical decline —
 distinct from his prior retirement (MCD-588, a choice made at the natural end of an active career) and
 distinct from his self-doubt over honest error (MCD-427, an emotional rather than physical limit).
 Reframes the successor's earlier apparent dependence on his confirmation (implied across MCD-505,
