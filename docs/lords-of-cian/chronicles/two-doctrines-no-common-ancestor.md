@@ -1,6 +1,9 @@
 # Two Doctrines, No Common Ancestor
 
-*Locked canon, Batch 218, 2026-09-11 (`MCD-964`). The Iron Bastard Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 218, 2026-09-11 (`MCD-964`); corrected Batch 321, 2026-10-02 ("banned by
+council vote" corrected to "put to a council vote," since `MCD-730` establishes the ban proposal
+failed to advance rather than passing). The Iron Bastard Alias Chronicle LIII, wave 18. Not a
+territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -36,7 +39,7 @@ frequency-cataloguing habit that let a single listener track four structures' si
 instead of one at a time. The bridge was repaired jointly before he left, neither method claiming
 priority over the other.
 
-"I've had the doctrine feared, stolen, banned by council vote, and taught to my own students," Kanja
+"I've had the doctrine feared, stolen, put to a council vote, and taught to my own students," Kanja
 said before he left. "I hadn't yet had it simply already exist somewhere else, built by people who'd
 never need to ask my permission for it." He looked back at the repaired span. "I think I like that
 answer best of all of them."

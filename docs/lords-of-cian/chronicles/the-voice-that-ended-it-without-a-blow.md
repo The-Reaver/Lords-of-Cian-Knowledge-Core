@@ -1,6 +1,7 @@
 # The Voice That Ended It Without a Blow
 
-*Locked canon, Batch 269, 2026-09-11 (`MCD-1404`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 269, 2026-09-11 (`MCD-1404`); corrected Batch 321, 2026-10-02 (a `CC-116`
+citation for Callum Breck fixed to `CC-117`/`CC-119`). Sovereign Ghost of the Great Sea Alias Chronicle
 XCII, wave 31. Callum Breck boards a cornered slaver's ship alone and unarmed, ending a standoff
 through his own rebuilt voice rather than through Kanja or the Trinity. Not a territory Chronicle.
 Narrated in neutral third-person prose.*
@@ -52,7 +53,7 @@ months to find again.
 
 *Continuity notes (not narrative): a new register for this alias — the first entry where the
 resolution is carried entirely by Callum Breck acting alone, unarmed, rather than by Kanja or a
-Trinity showcase, extending his already-locked voice-recovery arc (`CC-116`, `MCD-397`, "What Callum
+Trinity showcase, extending his already-locked voice-recovery arc (`CC-117`/`CC-119`, `MCD-397`, "What Callum
 Breck Remembered of the Water," `MCD-542`) into direct field leadership for the first time. Reuses
 Garren Hask and Callum Breck. No new named characters — the slaver captain and crew are deliberately
 unnamed.*

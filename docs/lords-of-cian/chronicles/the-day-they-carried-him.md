@@ -1,13 +1,13 @@
 # The Day They Carried Him
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-596`). Captain Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-596`). Captain Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "the Trinity's resting density" reattributed to Kanja's own resting density (`MCD-293`), since resting density is a trait of Kanja's own biology, not "the Trinity" as a set of gear.*
 
 ---
 
 Three days of running fights across open water had bled Mafesto's charge down further than Kanja
 liked to admit out loud, and by the time the crew finally broke contact with the last pursuing
-vessel, he was standing on deck on will alone, the Trinity's resting density doing most of the work
-his own legs weren't managing cleanly anymore.
+vessel, he was standing on deck on will alone, his own resting density doing most of the work
+his legs weren't managing cleanly anymore.
 
 He didn't say anything about it. Pell Ostra noticed anyway, the way she noticed everything
 mechanical, including the particular way a body moves when it's compensating for something it won't

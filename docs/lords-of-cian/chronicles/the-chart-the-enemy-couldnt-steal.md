@@ -1,6 +1,8 @@
 # The Chart the Enemy Couldn't Steal
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-782`). Sovereign Ghost of the Great Sea Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-782`); corrected Batch 321, 2026-10-02 (a literal
+unresolved placeholder citation fixed to `MCD-779`, and a `CC-119` citation for Corren Halst fixed to
+`CC-158`). Sovereign Ghost of the Great Sea Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -47,6 +49,6 @@ to make sure nobody walks off with them before they're finished being useful."
 ---
 
 *Continuity notes (not narrative): a supporting-cast vigilance showcase for Corren Halst
-(already-locked, `MCD-230`/`CC-119`), extending his established early-crew seniority into protecting
-Danne Sok's chart work (`MCD-XXIV` above) from infiltration — no Trinity deployment, resolved through
+(already-locked, `MCD-230`/`CC-158`), extending his established early-crew seniority into protecting
+Danne Sok's chart work (`MCD-779` above) from infiltration — no Trinity deployment, resolved through
 ordinary trained vigilance. No new named characters. Closes the ninth wave.*

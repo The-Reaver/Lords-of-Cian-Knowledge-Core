@@ -39,6 +39,10 @@ from every prior naval or ice setting, dramatizing the Sovereign Eyes' V4 Bluepr
 overlay (`ARS-350`, `MCD-289`) in a purely navigational, non-combat application for the first time.
 Introduces an unnamed local diver as a one-scene collaborator whose lived knowledge complements
 rather than is superseded by the gear, matching the established pattern of crediting ordinary
-competence alongside Trinity/gear capability. No new named characters. Age 250, V4 gear (`ARS-348`,
-debut age 241 per `MCD-811`). Onyx of Oblivion correctly absent per its L9 seal throughout the Long
-Mask. First entry in the Scourge's twenty-third wave.*
+competence alongside the Long Mask's own gear capability. No new named characters. Age 250, V4 gear
+(`ARS-348` locks V4 at ages 180-284, which age 250 falls within). Onyx of Oblivion, Mafesto, and
+Obsidian Malice correctly absent per the Trinity's age-30 surrender (`MCD-246`). First entry in the
+Scourge's twenty-third wave. Corrected Batch 321, 2026-10-02: reworded a soft "Trinity/gear
+capability" phrase to the Long Mask's own gear, and corrected the V4 debut citation from "age 241
+per MCD-811" (that entry now reframed as the Sovereign Eyes V4 refit, not the Forge-Coat's own debut)
+to `ARS-348`'s own locked age-180 start.*

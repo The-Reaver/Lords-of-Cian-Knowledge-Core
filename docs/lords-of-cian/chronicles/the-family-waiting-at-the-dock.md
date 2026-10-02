@@ -49,7 +49,8 @@ meet."
 
 *Continuity notes (not narrative): a domestic-register entry, the first to show a crew member's
 actual family life outside the ship — extends Danne Sok's already-locked private, guarded
-characterization (`CC-` family) by showing what he has been quietly building on layovers, without
+characterization (`CC-159`, corrected Batch 321, 2026-10-02 from an unresolved "`CC-` family"
+placeholder) by showing what he has been quietly building on layovers, without
 contradicting his established reticence. Establishes that crew members' families independently
 form their own impression of "Captain" distinct from Directorate reputation or battlefield
 legend. No new named characters. First entry in Captain's sixth wave.*

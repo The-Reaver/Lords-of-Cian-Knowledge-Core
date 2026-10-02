@@ -1,9 +1,11 @@
 # What Held Together Stopped Holding
 
-*Locked canon, Batch 113, 2026-09-10 (`MCD-387`). Iron Bastard Alias Chronicle II. Rebellion era,
-a new engagement combining the Aegis-Talisman's resonance mechanic (`MCD-238`) with the Trinity in
-detailed, technical use. Not a territory Chronicle. New standalone material. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 113, 2026-09-10 (`MCD-387`); corrected Batch 321, 2026-10-02 (the citation for
+the Aegis-Talisman's off-hand-shield/frequency-inversion-lens detail corrected from `MCD-238` to
+`ARS-050`, the rule that actually locks that detail). Iron Bastard Alias Chronicle II. Rebellion
+era, a new engagement combining the Aegis-Talisman's resonance mechanic (`ARS-050`) with the
+Trinity in detailed, technical use. Not a territory Chronicle. New standalone material. Narrated in
+neutral third-person prose. No new named characters.*
 
 ---
 

@@ -1,9 +1,10 @@
 # What Efa Gol Saw From the Start
 
-*Locked canon, Batch 191, 2026-09-11 (`MCD-560`). Captain Alias Chronicle XVIII, closing the fifth
+*Locked canon, Batch 191, 2026-09-11 (`MCD-560`). Captain Alias Chronicle XII, closing the fifth
 wave — and closing the fifth wave for all eleven aliases. Rebellion era. Not a territory Chronicle.
 New standalone material. Narrated in neutral third-person prose. No new named characters beyond the
-already-locked Efa Gol.*
+already-locked Efa Gol. Renumbered Batch 321, 2026-10-02 (from Chronicle XVIII, which duplicated
+wave 6's own MCD-593).*
 
 ---
 
@@ -44,4 +45,4 @@ Warehouse Twelve), offering a synthesizing perspective across every alias's full
 of what "Captain" specifically means among them -- closes not only Captain's fifth wave but the full
 eleven-alias fifth-wave run. No new named characters beyond the already-locked Efa Gol. Closes
 Captain's fifth three-Chronicle wave (with "The Nine Days Nobody Slept," MCD-558, and "The Enemy Who
-Asked to Stay," MCD-559).*
+Asked to Stay," MCD-559). Renumbered to Chronicle XII, Batch 321, 2026-10-02.*

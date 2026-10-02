@@ -1,6 +1,6 @@
 # The Premium Paid on a Miss
 
-*Locked canon, Batch 285, 2026-09-11 (`MCD-1507`). Storm That Walks Alias Chronicle XCVI, wave 32, closing the wave. Trust maritime underwriters begin pricing insurance premiums against the school's certified readings, the doctrine's first purely actuarial/economic integration; a contested claim tests whether a sound reading that still went wrong counts as the school's failure or the captain's own informed risk.*
+*Locked canon, Batch 285, 2026-09-11 (`MCD-1507`). Storm That Walks Alias Chronicle XCVI, wave 32, closing the wave. Trust maritime underwriters begin pricing insurance premiums against the school's certified readings, the doctrine's first purely actuarial/economic integration; a contested claim tests whether a sound reading that still went wrong counts as the school's failure or the captain's own informed risk. Corrected Batch 321, 2026-10-02: removes an inline rule-ID citation from the narrative prose, kept only in the continuity notes below.*
 
 ---
 
@@ -8,7 +8,7 @@ It started, as the student told it later, with a broker rather than a captain: a
 
 The dispute that followed wasn't about the discount. It was about a single wrecked hull -- a merchant captain who had sailed under a reading the third-generation student herself had certified as moderate risk, careful and clearly worded, the kind of call the doctrine had made a hundred times without incident. This time the ship went down anyway, on weather that behaved exactly as unpredictably as "moderate risk" had always meant it might, and the underwriter balked at the claim, arguing the school's own reading proved the captain had sailed knowingly into danger.
 
-The student brought the ledger to the underwriting house rather than sending a clerk. She laid the full entry beside the claim: the pressure figures, the horizon reading, the explicit language of the certified call, worded with the same honesty the school had used on every reading since the false positive at `MCD-1346` and the reckoning that followed it at `MCD-1347`. Moderate risk had never meant safe. It had meant precisely what it said, in writing, with a captain's own signature acknowledging he understood the words before he sailed.
+The student brought the ledger to the underwriting house rather than sending a clerk. She laid the full entry beside the claim: the pressure figures, the horizon reading, the explicit language of the certified call, worded with the same honesty the school had used on every reading since an earlier costly false positive and the reckoning that followed it. Moderate risk had never meant safe. It had meant precisely what it said, in writing, with a captain's own signature acknowledging he understood the words before he sailed.
 
 "You built your discount on the fact that we tell the truth," she told the underwriter's panel. "You don't get to keep the discount and throw out the truth the one time it costs you money."
 

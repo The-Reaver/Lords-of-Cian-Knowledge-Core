@@ -1,10 +1,10 @@
 # The Sky They Ordered Clear
 
-*Locked canon, Batch 285, 2026-09-11 (`MCD-1512`). Storm That Walks Alias Chronicle CI, wave 34. The doctrine's first purely joyful, zero-peril use: guaranteeing a clear sky for the fourth-generation apprentice's own coming-of-age day, with no threat, no combat, and nothing at stake but a festival. Corrected Batch 321, 2026-10-02: Kanja's "without Onyx of Oblivion at his hip" is reworded to his correct Long-Mask-era weapon, the Rexmar Machete, and the fourth-generation apprentice's pronouns are corrected to he/him, matching the clear majority usage across this track.*
+*Locked canon, Batch 285, 2026-09-11 (`MCD-1512`). Storm That Walks Alias Chronicle CI, wave 34. The doctrine's first purely joyful, zero-peril use: guaranteeing a clear sky for the fourth-generation apprentice's own coming-of-age day, with no threat, no combat, and nothing at stake but a festival. Corrected Batch 321, 2026-10-02: Kanja's "without Onyx of Oblivion at his hip" is reworded to his correct Long-Mask-era weapon, the Rexmar Machete; the fourth-generation apprentice's pronouns are corrected to he/him, matching the clear majority usage across this track; and an inline rule-ID citation is removed from the narrative prose.*
 
 ---
 
-There was no engagement to time, no convoy to protect, no rival tradition to reconcile with. There was only a date on the calendar the whole school had somehow, without anyone officially deciding it, started treating as a small holiday: the day the fourth-generation apprentice reached his majority, two years and some months after he had already been trusted with a full fleet's fate on his own unconfirmed word at `MCD-1419`.
+There was no engagement to time, no convoy to protect, no rival tradition to reconcile with. There was only a date on the calendar the whole school had somehow, without anyone officially deciding it, started treating as a small holiday: the day the fourth-generation apprentice reached his majority, two years and some months after he had already been trusted with a full fleet's fate on his own unconfirmed word.
 
 He had never once asked the school to guarantee his own weather. It was the student's idea, offered half as a joke and taken up in full seriousness by everyone else -- if the doctrine could hold a causeway's surge to the hour for a city's evacuation, it could certainly hold one afternoon clear for a boy who'd spent most of his adolescence holding storms back from everyone else.
 

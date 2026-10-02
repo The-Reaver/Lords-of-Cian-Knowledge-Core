@@ -13,8 +13,8 @@ know exactly what an uncontrolled landing could cost it. He wasn't wrong. That w
 it.
 
 There was no enemy to fight here. No garrison to break, no captain to disarm, nothing the coat or
-the gauntlets or six years of documented reputation could solve by being more frightening than the
-problem. So the crew built a camp instead, on a spit of empty coastline a mile outside the harbor's
+the gauntlets or a hundred and forty-six years of documented reputation could solve by being more
+frightening than the problem. So the crew built a camp instead, on a spit of empty coastline a mile outside the harbor's
 own jurisdiction, using canvas and lumber that had been cargo an hour before and shelter an hour
 after.
 
@@ -40,5 +40,8 @@ malice) that force or reputation cannot solve, resolved through logistics and pa
 combat or negotiation leverage. Dramatizes the Breath Collar's filtration function (`ARS-351`) in
 sustained field use for the first time in this sub-series, distinct from its established voice-
 projection and thermal-regulation uses. The harbor-master is unnamed and one-scene, consistent with
-established convention. No new named characters. Age 176, V3 gear (`ARS-348`, ages 80-241). Onyx of
-Oblivion correctly absent per its L9 seal throughout the Long Mask.*
+established convention. No new named characters. Age 176, V3 gear (`ARS-348` locks V3 at ages
+80-180, which age 176 falls within). Onyx of
+Oblivion correctly absent per its L9 seal throughout the Long Mask. Corrected Batch 321, 2026-10-02:
+"six years of documented reputation" corrected to "a hundred and forty-six years," matching this
+entry's age (176) against the Scourge persona's own age-30 start (`MCD-1016`).*

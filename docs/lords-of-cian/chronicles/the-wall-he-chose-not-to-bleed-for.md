@@ -18,8 +18,9 @@ different: that taking it that night would cost more than it saved.
 The probing assault went in anyway, because the only way to be certain was to test it, and the first
 ninety seconds confirmed everything the reconnaissance had suggested. The obstruction chains fouled
 the approach exactly as designed, costing precious time in open water under the towers' sightlines.
-Mafesto absorbed and redirected what it could, but the towers had the numbers to keep firing faster
-than any one man's Kinetic Transfer could spend the force back at them, and for the first time in
+The Forge-Coat's grounding weave absorbed and turned aside what it could, but the towers had the
+numbers to keep firing faster than any one man's own stamina could answer them, and for the first
+time in
 years he felt the specific, unfamiliar sensation of a fight where his own effort was the limiting
 factor rather than the enemy's.
 
@@ -62,4 +63,6 @@ practice for open threads (the stronghold is neither named nor later confirmed t
 Sankofa-conspiracy and Kanja/Arturo precedents for material left open rather than closed): a future
 entry could return to it, but none is scheduled. Efa Gol (`CC-130`) and Garren Hask (`CC-115`/`116`)
 in their established roles. Onyx of Oblivion correctly absent per its L9 seal throughout the Long
-Mask. No new named characters.*
+Mask. No new named characters. Corrected Batch 321, 2026-10-02: removed an anachronistic Mafesto
+reference (the Trinity surrendered at age 30, `MCD-246`), swapped for the Forge-Coat's grounding
+weave.*

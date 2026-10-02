@@ -1,6 +1,6 @@
 # The Strait They Named for a Man Who Read It
 
-*Locked canon, Batch 220, 2026-09-11 (`MCD-983`). The Storm That Walks Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-983`). The Storm That Walks Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose. Note (Corrected Batch 321, 2026-10-02): this entry's own prose never asserts Sephtis's death as settled fact and needs no narrative change; recorded here only for consistency with `MCD-982`'s correction, since Sephtis's apparent death (the event this strait's naming commemorates) is now established as a staged withdrawal, not a real death.*
 
 ---
 

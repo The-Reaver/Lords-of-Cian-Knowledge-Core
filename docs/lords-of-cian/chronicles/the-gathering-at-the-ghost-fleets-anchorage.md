@@ -1,6 +1,7 @@
 # The Gathering at the Ghost Fleet's Anchorage
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-800`). Sovereign Ghost of the Great Sea Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-800`); corrected Batch 321, 2026-10-02 (a literal
+unresolved placeholder citation fixed to `MCD-797`). Sovereign Ghost of the Great Sea Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -55,5 +56,5 @@ whole, exactly the way Efa Gol's ritual before every sailing had always hoped to
 *Continuity notes (not narrative): a warm ensemble closer gathering the full established Sovereign
 Ghost crew (Dol Maren, Efa Gol, Pell Ostra, Callum Breck, Corren Halst, Danne Sok, Maret Vos, Garren
 Hask, all already-locked) around the fleet's three flagships at anchor, echoing and paying off the
-pre-sailing ritual established in `MCD-XLII` above. No new named characters. Closes the fifteenth
+pre-sailing ritual established in `MCD-797` above. No new named characters. Closes the fifteenth
 wave.*

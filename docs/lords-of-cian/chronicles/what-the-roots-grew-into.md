@@ -1,10 +1,14 @@
 # What the Roots Grew Into
 
-*Locked canon, Batch 283, 2026-09-11 (`MCD-1495`). Iron Bastard Alias Chronicle CII, wave 34, closing the wave. A years-later return to the living fig-root bridge from `MCD-1283`, confirming the long-term outcome of the choice made there. Not a territory Chronicle.*
+*Locked canon, Batch 283, 2026-09-11 (`MCD-1495`); corrected Batch 321, 2026-10-02 (the second
+student's pronoun corrected to she/her, the majority usage; in-world dialogue's "ninety-some
+engagements" reworded to remove the writers'-room Chronicle-count tally). Iron Bastard Alias
+Chronicle CII, wave 34, closing the wave. A years-later return to the living fig-root bridge from
+`MCD-1283`, confirming the long-term outcome of the choice made there. Not a territory Chronicle.*
 
 ---
 
-Kanja hadn't planned the detour. The settlement lay a half-day off the road he and the second student were already traveling, and it was the second student, checking a map he barely needed anymore after years of independent commissions, who first suggested they see what had become of a bridge neither of them had laid eyes on since the sapper crew that once tried to sever its anchor roots by hand.
+Kanja hadn't planned the detour. The settlement lay a half-day off the road he and the second student were already traveling, and it was the second student, checking a map she barely needed anymore after years of independent commissions, who first suggested they see what had become of a bridge neither of them had laid eyes on since the sapper crew that once tried to sever its anchor roots by hand.
 
 It had grown. That was the first thing Kanja registered, before he'd even set foot on the span itself — root and trunk thickened well past what he remembered, the whole structure carrying easily twice the foot traffic it once had, a market now running the length of it in the late afternoon with stalls lashed to living wood that had spent the intervening years doing exactly what he'd told the sapper crew it would do if left alone: keep growing, keep bearing more than it had before, on its own slow and entirely self-protecting schedule.
 
@@ -16,7 +20,7 @@ Kanja set a hand against the trunk the way he had years before, and the signatur
 
 The second student said little on the walk back to the road, but paused once at the market's edge to watch a child cross the span without a second thought for what held her up, running barefoot over roots that had been a battlefield once and were, for her, only ever a bridge.
 
-"Ninety-some engagements," he said finally, "and this might be the only one where the ending was just — more of the same good thing, going on."
+"More engagements than either of us could easily count by now," she said finally, "and this might be the only one where the ending was just — more of the same good thing, going on."
 
 "That's not nothing," Kanja said. "Most of what we do only matters because something was about to go wrong. This one only mattered because we let something keep going right."
 

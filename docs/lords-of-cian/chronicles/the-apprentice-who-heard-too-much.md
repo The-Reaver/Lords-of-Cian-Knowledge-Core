@@ -1,13 +1,19 @@
 # The Apprentice Who Heard Too Much
 
-*Locked canon, Batch 197, 2026-09-11 (`MCD-731`). The Iron Bastard Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-731`); corrected Batch 321, 2026-10-02 (reworded to
+make clear the discharge itself is achievable by ordinary mechanical means once the diagnostic read
+is correct — the Trinity's own equipment only makes it faster and cleaner — resolving an apparent
+conflict with several other entries where non-Trinity discharges occur). The Iron Bastard Alias
+Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle.
+Narrated in neutral third-person prose.*
 
 ---
 
 The volunteer had asked to learn the doctrine's basics, not to master it, just enough to help
 identify structural weaknesses during rebel sabotage operations, and Kanja had agreed to a limited
-teaching — the listening technique alone, none of the discharge mechanics that required the Trinity's
-own equipment.
+teaching — the listening technique alone, none of the actual discharge, which the Trinity's own
+equipment made fast and clean but which an ordinary mallet, wedge, or charge could, in principle,
+deliver just as surely once the diagnostic read was trusted enough to act on.
 
 Within a week the volunteer stopped sleeping properly.
 

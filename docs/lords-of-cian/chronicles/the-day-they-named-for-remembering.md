@@ -1,6 +1,6 @@
 # The Day They Named for Remembering
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-606`). Captain Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-606`). Captain Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "years after his own recovered voice" softened to "not long after his own recovered voice," consistent with his voice returning within months of the Black Trench and this scene's own "first year after the Black Trench" setting.*
 
 ---
 
@@ -10,7 +10,7 @@ like any other day, and by the time Kanja heard the idea it had already taken en
 refusing it would have meant refusing something the crew had decided mattered to them.
 
 "We're not celebrating a battle," Callum Breck said, when asked what the day was actually for. He
-still spoke carefully, years after his own recovered voice, choosing words the way a man chooses
+still spoke carefully, not long after his own recovered voice, choosing words the way a man chooses
 footing on uncertain ground. "We're remembering the people who didn't leave it with us. Nev Torr.
 Everyone else the Trench took. A day where we say their names out loud on purpose, instead of only
 when something reminds us."

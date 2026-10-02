@@ -1,6 +1,10 @@
 # The Cohort He Couldn't Teach Alone
 
-*Locked canon, Batch 237, 2026-09-11 (`MCD-1048`). Iron Bastard Alias Chronicle LIX, wave 20. A teaching-at-scale entry: Kanja is asked to train a full cohort rather than a single student, and the doctrine's own lineage becomes its solution. Not a territory Chronicle.*
+*Locked canon, Batch 237, 2026-09-11 (`MCD-1048`); corrected Batch 321, 2026-10-02 (the first
+student's pronoun corrected to he/his, matching his established male gender per `MCD-499`). Iron
+Bastard Alias Chronicle LIX, wave 20. A teaching-at-scale entry: Kanja is asked to train a full
+cohort rather than a single student, and the doctrine's own lineage becomes its solution. Not a
+territory Chronicle.*
 
 ---
 
@@ -30,8 +34,8 @@ skill survived a full generation working entirely without him. He split the twel
 four. Each teacher took one group and worked a structure nobody's life depended on, over and over, until
 a wrong read stopped feeling like a guess and started feeling like the obvious mistake it was.
 
-"You always taught this like it only had one shape," the first student said, watching her own four work
-a scaffold under her instruction rather than his, "because it only ever passed through one set of hands
+"You always taught this like it only had one shape," the first student said, watching his own four work
+a scaffold under his instruction rather than Kanja's, "because it only ever passed through one set of hands
 at a time before now."
 
 "It only ever needed to, before now," Kanja said. "Before this, I was the only proof the doctrine

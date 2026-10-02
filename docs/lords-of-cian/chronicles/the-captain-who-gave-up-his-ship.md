@@ -1,6 +1,9 @@
 # The Captain Who Gave Up His Ship
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1215`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1215`); corrected Batch 321, 2026-10-02 ("over a decade of
+engagements" shrunk to "years of engagements," which this alias's nine-year Rebellion-era window can
+support; the new vessel renumbered from the fleet's "fourth" working ship to its "fifth," folding in
+the Captain-track transport *The Second Chance* as the genuine fourth hull). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXVII, wave 26. The fleet gains its first vessel through an enemy captain's voluntary surrender. Not
 a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -14,7 +17,7 @@ on.
 
 The captain didn't wait for any of that. He had his own crew strike colors before *The Audit* was
 even in hailing range, and came aboard himself under an improvised white flag made from a torn shirt,
-offering something no Trust officer had offered this fleet in over a decade of engagements — not
+offering something no Trust officer had offered this fleet in years of engagements — not
 surrender under duress, but the ship itself, freely, cargo and commission both.
 
 "I've been reading Hask's reputation for disabling rather than sinking for two years," the captain
@@ -28,7 +31,7 @@ surrendered prize rather than a disabled enemy or a rescued captive vessel, and 
 plainly rather than pretend otherwise. Garren Hask, consulted on the spot, suggested the only answer
 that fit everything the ledger already stood for: the crew went free, same as always, offered passage
 to whichever port they chose. The ship itself, repaired under Dol Maren's supervision over the
-following month, became the fleet's fourth working vessel — not a flagship, no grand name yet, just a
+following month, became the fleet's fifth working vessel — not a flagship, no grand name yet, just a
 genuine addition earned through an enemy's own choice rather than taken by force.
 
 "First ship we've ever gained that nobody had to lose anything to give us," Dol Maren observed,
@@ -42,9 +45,13 @@ running his hands along her salvaged hull.
 voluntary surrender rather than combat, forced surrender, or rescue, distinct from every prior
 prize/hull entry. Tests what the fleet does with an unforced gift, resolved through the crew's
 free-release standard extended to a willing surrender. Reuses Garren Hask and Dol Maren. The captain
-is deliberately unnamed; the new fourth ship is deliberately left unnamed, its naming left open for a
+is deliberately unnamed; the new fifth ship is deliberately left unnamed, its naming left open for a
 future entry, consistent with how *The Receipt* and *The Ledger* were each folded into the fleet's
 established naming tradition (`MCD-788`). No new named characters. Title deliberately distinguished
 from "The Captain Who Surrendered Nothing" (The Scourge Alias Chronicle XXXI, `MCD-816`, a different
 alias, a different situation — a defeated captain refusing surrender) to avoid reader confusion, per
-collision-check against the live ledger.*
+collision-check against the live ledger. Corrected Batch 321, 2026-10-02: "over a decade of
+engagements" reworded to "years of engagements" to fit this alias's nine-year Rebellion-era window
+(ages 21-30); the new vessel renumbered from the fleet's "fourth" working ship to its "fifth," since
+the Captain-track transport *The Second Chance* (`MCD-607`) is the fleet's actual fourth hull,
+acquired after the three flagships and before this one.*

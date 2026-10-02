@@ -1,6 +1,10 @@
 # What He Would Not Teach a Crown
 
-*Locked canon, Batch 272, 2026-09-11 (`MCD-1414`). Iron Bastard Alias Chronicle XCIII, wave 31, closing the wave. A foreign sovereign's envoy offers Kanja a throne-level reward for exclusive, weaponized teaching of the doctrine; he refuses, closing the wave on the openness principle wreckage forced him to question. Not a territory Chronicle.*
+*Locked canon, Batch 272, 2026-09-11 (`MCD-1414`); corrected Batch 321, 2026-10-02 (in-world
+dialogue's "ninety-some engagements" reworded to remove the writers'-room Chronicle-count tally).
+Iron Bastard Alias Chronicle XCIII, wave 31, closing the wave. A foreign sovereign's envoy offers
+Kanja a throne-level reward for exclusive, weaponized teaching of the doctrine; he refuses, closing
+the wave on the openness principle wreckage forced him to question. Not a territory Chronicle.*
 
 ---
 
@@ -10,11 +14,11 @@ The envoy arrived with a retinue too well-dressed for the dockside inn Kanja had
 
 "You've read the papers carefully."
 
-"Everyone has. That's rather the point I've come to make." The envoy set a sealed offer on the table between them, unopened. "You've spent — what is it now, ninety-some engagements — insisting this stays free to anyone who asks. And somewhere out there, by your own scholar's own account, someone already took that openness and built a weapon from it that even you can't yet answer. The doctrine's loose in the world either way, Bastard. The only question left is whether it serves a crown that will pay you for it, or goes on serving whoever finds the papers next with no accounting to anyone at all."
+"Everyone has. That's rather the point I've come to make." The envoy set a sealed offer on the table between them, unopened. "You've spent years now — more engagements than either of us could easily count — insisting this stays free to anyone who asks. And somewhere out there, by your own scholar's own account, someone already took that openness and built a weapon from it that even you can't yet answer. The doctrine's loose in the world either way, Bastard. The only question left is whether it serves a crown that will pay you for it, or goes on serving whoever finds the papers next with no accounting to anyone at all."
 
 Kanja didn't reach for the seal. He thought, briefly, of a strip of dampening material turned over under a lens at the scholar's workbench, of a mechanism built from honest teaching and put to dishonest use by someone who'd never once asked his permission for either. The envoy wasn't wrong that the risk was real. He was wrong about what it proved.
 
-"You've mistaken a real cost for a reason to change course," Kanja said. "Something out there did take my scholar's own honest work and turn it toward something ugly. That's true, and it's not comfortable, and I'm not going to pretend otherwise just to make this conversation easier for either of us. But you're asking me to answer one dishonest use of open teaching by making the teaching itself dishonest — exclusive, weaponized, aimed on purpose at exactly the walls a family hides behind rather than the ones a war machine hides inside. I've turned down money for this. I turned down a seat with my name on it not two months back, because a title would have let people credit an institution instead of the work. What you're offering isn't a bigger version of either. It's the first time anyone's asked me to build, on purpose and with my own two hands, the very thing I've spent ninety engagements trying to keep this method from ever becoming."
+"You've mistaken a real cost for a reason to change course," Kanja said. "Something out there did take my scholar's own honest work and turn it toward something ugly. That's true, and it's not comfortable, and I'm not going to pretend otherwise just to make this conversation easier for either of us. But you're asking me to answer one dishonest use of open teaching by making the teaching itself dishonest — exclusive, weaponized, aimed on purpose at exactly the walls a family hides behind rather than the ones a war machine hides inside. I've turned down money for this. I turned down a seat with my name on it not two months back, because a title would have let people credit an institution instead of the work. What you're offering isn't a bigger version of either. It's the first time anyone's asked me to build, on purpose and with my own two hands, the very thing I've spent years trying to keep this method from ever becoming."
 
 "Even knowing it may already be built without you?"
 

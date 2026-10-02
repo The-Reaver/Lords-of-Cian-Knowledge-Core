@@ -1,6 +1,6 @@
 # The War the Name Outlived
 
-*Locked canon, Batch 222, 2026-09-11 (`MCD-1004`). Captain Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-1004`). Captain Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Kanja's dialogue reworded -- he recovered and bonded the Trinity rather than built it (`ARS-020`), and the stated uncertainty is about this crew's own future, not the Trinity's.*
 
 ---
 
@@ -27,8 +27,9 @@ question sat differently than a dispute over a diverted charge stock, and even a
 function without him understood the difference between not needing his word and not wanting to hear
 it at all.
 
-"I don't know either," he said, honestly. "I built the Trinity to survive a rebellion. I don't know
-yet what it's for in whatever comes after one. I don't think pretending I have an answer would serve
+"I don't know either," he said, honestly. "I recovered and bonded what this crew calls the Trinity to
+survive a rebellion. I don't know yet what this crew itself is for in whatever comes after one. I
+don't think pretending I have an answer would serve
 anybody here better than telling you the truth, which is that I've spent thirty years knowing exactly
 what tomorrow required of me, and for the first time in longer than I can measure, I genuinely don't."
 

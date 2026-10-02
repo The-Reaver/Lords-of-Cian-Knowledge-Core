@@ -3,14 +3,15 @@
 *Locked canon, Batch 160, 2026-09-11 (`MCD-505`). The Storm That Walks Alias Chronicle XII, closing
 the fourth wave. Rebellion era, age 29, the Gale Straits. Not a territory Chronicle. New standalone
 material. Narrated in neutral third-person prose. No new named characters beyond the already-locked
-Sephtis.*
+Sephtis. Corrected Batch 321, 2026-10-02: removes a writers'-room "the fourth wave" reference from
+the narrative prose.*
 
 ---
 
 Sephtis had trained no successor across every engagement the fleet had fought under his predictions
 — a deliberate choice, he admitted, born from a quiet fear that his own gift was singular enough that
 teaching it to someone else risked producing a false confidence in a method that couldn't actually be
-replicated. The events of the fourth wave finally changed his mind.
+replicated. That season's own losses finally changed his mind.
 
 "I watched a fleet lose six people because I never built any redundancy into what I do," he told
 Kanja, requesting a young signal-reader from the crew be assigned to shadow him rather than being

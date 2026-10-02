@@ -1,6 +1,6 @@
 # What the Miss Bought Back
 
-*Locked canon, Batch 263, 2026-09-11 (`MCD-1348`). Storm That Walks Alias Chronicle LXXV, wave 25, closing the wave. Months after the costly false positive, the transparent handling of the miss becomes the doctrine's strongest recruitment for trust rather than its weakest point.*
+*Locked canon, Batch 263, 2026-09-11 (`MCD-1348`). Storm That Walks Alias Chronicle LXXV, wave 25, closing the wave. Months after the costly false positive, the transparent handling of the miss becomes the doctrine's strongest recruitment for trust rather than its weakest point. Corrected Batch 321, 2026-10-02: Sephtis is confirmed alive elsewhere in canon (`CC-037`); "Sephtis, decades gone now" reworded to reflect that he stepped back and let the lineage believe he had died (`MCD-982`), not that he actually died.*
 
 ---
 
@@ -10,7 +10,7 @@ Three new harbors requested standing readings that spring, all citing the same r
 
 "That's backward," the student said, reading the requests. "The thing that should have cost us trust bought us more of it."
 
-"It's not backward," the retired successor said. "It only looks that way if you think trust is built on never being wrong. It isn't. It's built on knowing exactly what happens when someone is." She thought of Sephtis, decades gone now, and the fever-shaken hand that had still dictated an honest call rather than hide behind silence. "He knew that before either of us did. Every miss he ever logged was an advertisement he never meant as one."
+"It's not backward," the retired successor said. "It only looks that way if you think trust is built on never being wrong. It isn't. It's built on knowing exactly what happens when someone is." She thought of Sephtis, decades retired by then, and the fever-shaken hand that had still dictated an honest call rather than hide behind silence. "He knew that before either of us did. Every miss he ever logged was an advertisement he never meant as one."
 
 Even the merchant, when he finally did speak to her again, didn't frame it as forgiveness so much as recalculation. "I looked at your book before I came back," he said. "Every miss you've ever had is in there, plain as the hits. I've done business with men whose books only show the wins. I trust yours more, not less, for showing me the other kind."
 

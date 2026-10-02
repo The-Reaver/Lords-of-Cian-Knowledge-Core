@@ -1,6 +1,8 @@
 # The Ship They Meant to Sink
 
-*Locked canon, Batch 234, 2026-09-11 (`MCD-1038`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 234, 2026-09-11 (`MCD-1038`); corrected Batch 321, 2026-10-02 (a "she" pronoun
+for Danne Sok fixed to "he," a wrong `MCD-497` citation fixed to `MCD-790`, and a writers'-room "this
+run" phrase reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle
 LVIII, wave 20. A detailed naval Trinity combat showcase against a panicked Trust quarantine order
 rather than an enemy raid. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -14,11 +16,11 @@ mattered to the men giving the order.
 
 Danne Sok read the cordon's formation from two miles off and didn't like the shape of it — three
 patrol hulls arranged not for battle but for execution, sighted in on a ship that wasn't shooting
-back. "They're not hunting us," she reported. "They're about to sink a hundred sick people because
+back. "They're not hunting us," he reported. "They're about to sink a hundred sick people because
 nobody wants to be the port that says yes to them."
 
-Kanja brought the flagship in fast and low, and the engagement that followed was unlike any prior
-one this run — not a fight to win, a fight to stop one from happening. Mafesto's Kinetic Transfer
+Kanja brought the flagship in fast and low, and the engagement that followed was unlike any this
+fleet had fought before — not a fight to win, a fight to stop one from happening. Mafesto's Kinetic Transfer
 System read the lead patrol hull's rigging tension a full breath before the order to fire could
 travel down her deck, and Obsidian Malice discharged twice in quick succession, each strike aimed at
 a mounted cannon's touch-hole rather than its crew — both guns rendered inert, neither gunner so much
@@ -50,9 +52,12 @@ deserved as honest a record as either.
 combat showcase whose objective is stopping a friendly-side execution order (a panicked Trust
 quarantine-by-scuttling) rather than defeating raiders, hunters, or slavers, paired with a
 plague/medical-crisis element never used in any of the prior 57 entries. Distinct from "The Manifest
-Written in Chains" (MCD-489, a slaver boarding) and "What Fell When the Tower Did" (MCD-497, a fixed
+Written in Chains" (MCD-489, a slaver boarding) and "What Fell When the Tower Did" (MCD-790, a fixed
 structure) in both target and objective; distinct from "The Conscripts Who Never Wanted the Fight"
 (MCD-542, releasing coerced prisoners after capture) in that no one is captured or defeated here at
 all — the fight is entirely non-lethal disabling in service of preventing a killing, not winning one.
 Extends the established coercion-versus-enmity distinction (MCD-542) into institutional panic rather
-than conscription. No new named characters. First entry in the twentieth wave.*
+than conscription. No new named characters. First entry in the twentieth wave. Corrected Batch 321,
+2026-10-02: a "she" pronoun for Danne Sok fixed to "he" (matching `CC-159`), a wrong `MCD-497`
+citation (an unrelated Iron Bastard entry) fixed to `MCD-790`, and a writers'-room "unlike any prior
+one this run" phrase reworded to in-world language.*

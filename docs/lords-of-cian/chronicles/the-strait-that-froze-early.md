@@ -30,14 +30,15 @@ The Ironfall Boots' impact soles, built to destabilize a standing man, did somet
 pack ice: the same stomp-transmitted tremor that dropped opponents on solid ground here cracked a
 spiderweb fracture straight through a guard post's footing, dropping two guards through the ice
 before either got a shot off — not the boots' intended use, and not one he'd planned for, only
-noticed and taken in the second it was available to him. Mafesto's Kinetic Transfer System did the
+noticed and taken in the second it was available to him. The Forge-Coat's grounding weave did the
 rest of the work at close range, redirecting a boarding axe's own swing into the man who'd thrown it,
 careful, the way it always was, to spend exactly the force it had first absorbed and no more.
 
-Obsidian Malice never left its housing. A discharge on ice, against a hull already stressed by
-freezing water, risked opening the ship's hull to the sea faster than anyone below could be gotten
-off it — a risk he'd weighed and set aside before he'd finished crossing the floes, not a decision
-made under pressure but one carried onto the ice already made.
+He didn't risk the boots' trick a second time near the hull itself. A tremor strong enough to crack a
+guard post's footing, set against a hull already stressed by freezing water, risked opening the ship
+to the sea faster than anyone below could be gotten off it — a risk he'd weighed and set aside before
+he'd finished crossing the floes, not a decision made under pressure but one carried onto the ice
+already made.
 
 Below deck, the cold had done its own damage before he ever reached it. A child, maybe seven, had
 stopped shivering entirely — the specific, quiet stillness that meant the body had given up trying to
@@ -46,8 +47,8 @@ two of the Mend-Line's six reservoirs against her core rather than a wound — o
 compound never designed for warming rather than sealing, but the seal it formed held heat in as
 efficiently as it held blood, and her shivering started again nine minutes later on the crossing back.
 
-Efa Gol's decoy line wasn't run that night — nothing to draw attention away from on an ice field with
-no one watching but the guards already dying on it — and Garren Hask's count, when it was finally
+Efa Gol's successor's decoy line wasn't run that night — nothing to draw attention away from on an
+ice field with no one watching but the guards already dying on it — and Garren Hask's count, when it was finally
 taken from a safe fire two hours later, read forty-one freed, one carried the last hundred yards
 against a body that had nearly stopped fighting to stay warm on its own.
 
@@ -61,8 +62,14 @@ hypothermia rather than its designed bleeding/structural-damage function -- both
 detailed action for the first time in the sub-series. Age 268 placed deliberately between Gauntlets
 V4's age-260 start and Mend-Line V4's age-270 start, so the entry mixes a V4 Gauntlet with a
 still-V3 Mend-Line, consistent with the gear system's piecemeal, non-simultaneous evolution as
-already documented across `ARS-344`-`356`. Obsidian Malice deliberately withheld rather than used, a
-skill-and-judgment beat distinct from every prior showcase's combat use of it. Efa Gol (`CC-130`) and
-Garren Hask (`CC-115`/`116`) referenced in their established roles, not staged in new action. Onyx of
-Oblivion correctly absent per its L9 seal throughout the Long Mask. No new named characters. First
-entry in the Scourge's twenty-first wave.*
+already documented across `ARS-344`-`356`. A second use of the Ironfall Boots' tremor trick
+deliberately withheld rather than risked, a skill-and-judgment beat distinct from every prior
+showcase's combat use of the gear. Efa Gol's own successor (`CC-130`) and
+Garren Hask (`CC-115`/`116`) referenced in their established roles, not staged in new action --
+Efa Gol herself has already stepped back by this age (268), well past her age-150 handoff
+(`MCD-807`). Onyx of
+Oblivion, Mafesto, and Obsidian Malice correctly absent per the Trinity's age-30 surrender
+(`MCD-246`). No new named characters. First
+entry in the Scourge's twenty-first wave. Corrected Batch 321, 2026-10-02: removed an anachronistic
+Mafesto/Obsidian Malice presence, swapped for the Forge-Coat's grounding weave and the Ironfall
+Boots; corrected "Efa Gol's decoy line" to her successor's, since Efa Gol herself retired at age 150.*

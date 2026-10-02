@@ -1,6 +1,7 @@
 # What Callum Breck Remembered of the Water
 
-*Locked canon, Batch 185, 2026-09-11 (`MCD-542`). The Sovereign Ghost of the Great Sea Alias
+*Locked canon, Batch 185, 2026-09-11 (`MCD-542`); corrected Batch 321, 2026-10-02 (a `CC-116`
+citation for Callum Breck fixed to `CC-117`/`CC-119`). The Sovereign Ghost of the Great Sea Alias
 Chronicle XV, closing the fifth wave. Rebellion era, age 21, some months after Ghost Harbor. Not a
 territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
 characters beyond the already-locked Callum Breck.*
@@ -41,7 +42,7 @@ the sea gave it back to me as much as I found it myself."
 ---
 
 *Continuity notes (not narrative): a closing entry extending Callum Breck's already-locked voice-
-recovery arc (Batch 48, `CC-116`; "The Word Callum Breck Chose," `MCD-397`) with the private,
+recovery arc (Batch 48, `CC-117`/`CC-119`; "The Word Callum Breck Chose," `MCD-397`) with the private,
 previously untold context behind his recovery -- the sea itself, not only the crisis, as part of what
 enabled it. No new named characters beyond the already-locked Callum Breck. Closes the Sovereign
 Ghost's fifth three-Chronicle wave (with "The Captains Who Chose a Side," MCD-540, and "The

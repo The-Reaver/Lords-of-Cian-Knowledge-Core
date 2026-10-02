@@ -1,6 +1,7 @@
 # What Pell Ostra Cleared
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-776`). Sovereign Ghost of the Great Sea Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-776`); corrected Batch 321, 2026-10-02 (citations for
+Pell Ostra fixed from `MCD-234`/`CC-131` to `MCD-233`/`CC-132`/`CC-133`). Sovereign Ghost of the Great Sea Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -45,6 +46,6 @@ specialist already packing for the next harbor that needed the same patient, ung
 ---
 
 *Continuity notes (not narrative): a technical demolitions showcase for Pell Ostra (already-locked,
-`MCD-234`/`CC-131`), extending her established Black Trench/Iron Shallows/Scrip-Forge/Ash-Wharf
+`MCD-233`/`CC-132`/`CC-133`), extending her established Black Trench/Iron Shallows/Scrip-Forge/Ash-Wharf
 expertise into a naval-clearance context for the first time — no combat, pure engineering craft
 including a genuine live mid-operation correction. No new named characters. Closes the seventh wave.*

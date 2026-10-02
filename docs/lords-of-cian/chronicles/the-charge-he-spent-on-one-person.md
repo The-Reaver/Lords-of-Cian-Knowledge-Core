@@ -3,7 +3,8 @@
 *Locked canon, Batch 127, 2026-09-11 (`MCD-429`). Captain Alias Chronicle V. Rebellion era, a
 detailed Trinity showcase built around a single crew member's rescue. Not a territory Chronicle.
 New standalone material. Narrated in neutral third-person prose. No new named characters beyond the
-already-locked Pell Ostra.*
+already-locked Pell Ostra. Corrected Batch 321, 2026-10-02: removed a specific "40 seconds" recharge
+framing for Obsidian Malice that conflicted with its locked 3-5 second recharge cycle (`ARS-030`).*
 
 ---
 
@@ -27,8 +28,8 @@ to demolition charges rather than people and had apparently decided to talk hers
 "The whole east wall's coming down in about forty seconds," she said, matter-of-fact even now. "You
 should probably hurry."
 
-He didn't discharge Obsidian Malice a second time — the war club's recharge cycle wouldn't have
-cleared in time, and there wasn't room in the collapsing space for a second strike regardless. He
+He didn't discharge Obsidian Malice a second time — there wasn't room in the collapsing space for a
+second swing regardless. He
 lifted the beam directly instead, Mafesto's absorbed charge from the entry converted now into raw
 physical output, and carried her clear through the same path Obsidian Malice had opened, emerging
 into open air twelve seconds before the east wall came down behind them in full.

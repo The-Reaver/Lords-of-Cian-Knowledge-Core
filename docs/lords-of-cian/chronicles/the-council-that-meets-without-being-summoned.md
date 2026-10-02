@@ -1,6 +1,6 @@
 # The Council That Meets Without Being Summoned
 
-*Locked canon, Batch 263, 2026-09-11 (`MCD-1361`). Storm That Walks Alias Chronicle LXXXVIII, wave 30, first entry in the wave. The school's senior student, the fourth-generation apprentice, and the rival fleet's dual-tradition sailor have begun convening on their own schedule, without Kanja or any single authority calling them together -- the doctrine's first fully self-organizing institutional body.*
+*Locked canon, Batch 263, 2026-09-11 (`MCD-1361`). Storm That Walks Alias Chronicle LXXXVIII, wave 30, first entry in the wave. The school's senior student, the fourth-generation apprentice, and the rival fleet's dual-tradition sailor have begun convening on their own schedule, without Kanja or any single authority calling them together -- the doctrine's first fully self-organizing institutional body. Corrected Batch 321, 2026-10-02: removes a real-world calendar name ("Tuesdays") from the narrative prose.*
 
 ---
 
@@ -16,7 +16,7 @@ He watched them work for a while, unannounced and unnecessary to the process in 
 
 "How long has this been happening?"
 
-"Longer than you've noticed, I think," she said, not unkindly. "You've been here for nearly every crisis across three generations. You haven't been here for most of the ordinary Tuesdays in between. That's not a complaint. That's the whole design working the way it was supposed to."
+"Longer than you've noticed, I think," she said, not unkindly. "You've been here for nearly every crisis across three generations. You haven't been here for most of the ordinary days in between. That's not a complaint. That's the whole design working the way it was supposed to."
 
 Kanja considered that, and found he had no argument against it, only something close to recognition. Every alias he wore existed, in its own way, to answer a crisis -- a battle, a rescue, a negotiation, a threat requiring his particular weight thrown against it. This alias's crises had always been the loudest entries in its own record. But its real measure, he understood now, watching a table full of people solve a disagreement he hadn't been asked to arbitrate, had never been the crises at all.
 

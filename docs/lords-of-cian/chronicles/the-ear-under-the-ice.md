@@ -1,6 +1,9 @@
 # The Ear Under the Ice
 
-*Locked canon, Batch 197, 2026-09-11 (`MCD-711`). The Iron Bastard Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-711`); corrected Batch 321, 2026-10-02 ("cut" corrected
+to "broke," since Obsidian Malice is a war club per `ARS-030`, not a cutting weapon). The Iron
+Bastard Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory
+Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -13,7 +16,7 @@ faint to trust.
 
 Kanja didn't force it. He went to the ice itself.
 
-Obsidian Malice cut a narrow channel down through the frozen surface, careful and slow rather than
+Obsidian Malice broke a narrow channel down through the frozen surface, careful and slow rather than
 explosive, until the lens could be set directly against a submerged link with nothing but frigid
 water between contact points. The reading came back clean the moment the ice stopped standing between
 the Talisman and the metal — the chain's full tension signature, the counterweight mechanism above the

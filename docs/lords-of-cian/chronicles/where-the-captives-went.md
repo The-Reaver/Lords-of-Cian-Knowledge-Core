@@ -1,6 +1,7 @@
 # Where the Captives Went
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-785`). Sovereign Ghost of the Great Sea Alias Chronicle XXX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-785`); corrected Batch 321, 2026-10-02 (a `CC-119` citation
+for Maret Vos fixed to `MCD-234`, since no dedicated `CC-` dossier exists for him). Sovereign Ghost of the Great Sea Alias Chronicle XXX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -48,5 +49,5 @@ it."
 
 *Continuity notes (not narrative): a years-later aftermath entry for the slaver-vessel liberation
 (`MCD-489`), told through Maret Vos's own freed-captive perspective (already-locked, `MCD-230`/
-`CC-119`) — confirming the long-term legacy of the rescue rather than restaging it. No new named
+`MCD-234`) — confirming the long-term legacy of the rescue rather than restaging it. No new named
 characters. Closes the tenth wave.*

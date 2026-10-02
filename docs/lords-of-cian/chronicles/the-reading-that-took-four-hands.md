@@ -1,10 +1,10 @@
 # The Reading That Took Four Hands
 
-*Locked canon, Batch 263, 2026-09-11 (`MCD-1359`). Storm That Walks Alias Chronicle LXXXVI, wave 29. Two intersecting storm systems of unprecedented complexity require the senior student, the fourth-generation apprentice, and the rival fleet's cross-trained dual-tradition sailor to collaborate on a single reading across three separate lineages for the first time.*
+*Locked canon, Batch 263, 2026-09-11 (`MCD-1359`). Storm That Walks Alias Chronicle LXXXVI, wave 29. Two intersecting storm systems of unprecedented complexity require the senior student, the fourth-generation apprentice, and the rival fleet's cross-trained dual-tradition sailor to collaborate on a single reading across three separate lineages for the first time. Corrected Batch 321, 2026-10-02: removes two writers'-room "waves"/"entries earlier" references from the narrative prose.*
 
 ---
 
-Nothing in three generations of the ledger had recorded two systems doing what these two were doing -- one building from the open sea the ordinary way, the other spinning up unexpectedly off the same cold-current interaction that had produced the costly false positive two waves earlier, now colliding with the first system at an angle none of the school's models had ever needed to account for.
+Nothing in three generations of the ledger had recorded two systems doing what these two were doing -- one building from the open sea the ordinary way, the other spinning up unexpectedly off the same cold-current interaction that had produced the costly false positive not long before, now colliding with the first system at an angle none of the school's models had ever needed to account for.
 
 "I can't read this alone," the student admitted, the words costing her something even as she said them plainly, the way three generations of honesty had taught her to say hard things without dressing them up. "Not accurately. Not in the time we have."
 
@@ -18,7 +18,7 @@ It took most of a day -- the student's own storm-timing tradition, the dual-trad
 
 Every vessel that trusted the window crossed safely. Every ship that hadn't waited learned, secondhand, exactly why the school's own tradition had spent three generations insisting a reading was only as good as everyone willing to check it honestly against something else.
 
-"Four hands," the student said afterward, meaning the boy's, the sailor's, hers, and -- she added, catching Kanja's eye -- his own, for having the honesty two entries earlier to admit what his senses couldn't do. "It took every one of them to get this right."
+"Four hands," the student said afterward, meaning the boy's, the sailor's, hers, and -- she added, catching Kanja's eye -- his own, for having the honesty not long before to admit what his senses couldn't do. "It took every one of them to get this right."
 
 ---
 

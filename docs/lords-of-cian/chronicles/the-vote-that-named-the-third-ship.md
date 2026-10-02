@@ -1,16 +1,21 @@
 # The Vote That Named the Third Ship
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-607`). Captain Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-607`); corrected Batch 321, 2026-10-02 (reworked from "the
+third ship" to the fourth, resolving a cross-track naming collision with the Sovereign Ghost of the
+Great Sea alias's own third-flagship naming scene, `MCD-788` -- Hask had already named *The Ledger* as
+the third flagship by the time of this vote; this scene names the fleet's fourth vessel, a non-flagship
+transport). Captain Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
-Garren Hask had named the first two flagships himself, alone, by right of the habit he'd started
-before anyone thought to question it — The Audit, then The Receipt, both his own choices, both
-carrying his particular sense of what a ship's name owed to the people who sailed her. When a third
-vessel was taken clean, hull sound and worth keeping, he did something he'd never done before.
+Garren Hask had named the fleet's first three flagships himself, alone, by right of the habit he'd
+started before anyone thought to question it — The Audit, then The Receipt, then The Ledger, each his
+own choice, each carrying his particular sense of what a ship's name owed to the people who sailed her.
+When a fourth vessel was taken clean, hull sound and worth keeping but plainly no flagship, he did
+something he'd never done before.
 
-"This one isn't mine to name," he announced to the assembled crew. "I've had my say twice. Let's
-hear what the rest of you think a ship like this one owes its name to."
+"This one isn't mine to name," he announced to the assembled crew. "I've had my say three times.
+Let's hear what the rest of you think a ship like this one owes its name to."
 
 The suggestions came slowly at first, then in a rush once the first few broke the crew's habit of
 deferring the decision upward. Someone proposed The Tally, in the spirit of the first two. Someone
@@ -25,7 +30,7 @@ the decision moving past him, looked genuinely pleased by it.
 tracks. Whoever thought of this one was thinking about what she means to the people who almost didn't
 get one."
 
-"You started something you didn't realize you were starting," Kanja told him afterward. "Two ships
+"You started something you didn't realize you were starting," Kanja told him afterward. "Three ships
 named by one man's judgment, and now a whole tradition the crew feels they own for themselves."
 
 "Good. A tradition only means something once it stops belonging to whoever started it and starts
@@ -40,4 +45,8 @@ Hask's own — a small, deliberate choice nobody had to ask him to make.
 *Continuity notes (not narrative): extends Garren Hask's already-locked ship-naming tradition
 (`CC-115`) by showing him deliberately passing it to the crew as a collective institution, matching
 the alias's broader pattern of delegated ownership rather than centralized authority. No new named
-characters. Second entry in Captain's eleventh wave.*
+characters. Second entry in Captain's eleventh wave. Corrected Batch 321, 2026-10-02: originally
+framed as naming the fleet's *third* ship, which collided with the Sovereign Ghost of the Great Sea
+alias's own, separately locked third-flagship naming scene (`MCD-788`, *The Ledger*). Reframed as the
+fourth vessel and a non-flagship transport -- *The Second Chance* itself, its name, and its origin
+story are unchanged; only the count and Hask's own "I've had my say" line were updated.*

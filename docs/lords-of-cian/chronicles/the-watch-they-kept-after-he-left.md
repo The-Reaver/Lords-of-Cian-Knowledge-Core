@@ -1,10 +1,14 @@
 # The Watch They Kept After He Left
 
-*Locked canon, Batch 283, 2026-09-11 (`MCD-1489`). Iron Bastard Alias Chronicle XCVI, wave 32, closing the wave. An informal, lay hazard-watch tradition begins at the settlement from `MCD-1487`/`1488`, distinct from every formal cohort or academy teaching lineage. Not a territory Chronicle.*
+*Locked canon, Batch 283, 2026-09-11 (`MCD-1489`); corrected Batch 321, 2026-10-02 ("a Titan-class
+fighter" reworded, since that term is reserved elsewhere in the ledger for enforcers/vessels). Iron
+Bastard Alias Chronicle XCVI, wave 32, closing the wave. An informal, lay hazard-watch tradition
+begins at the settlement from `MCD-1487`/`1488`, distinct from every formal cohort or academy
+teaching lineage. Not a territory Chronicle.*
 
 ---
 
-He couldn't stay, and the settlement couldn't very well post a Titan-class fighter at a cliff face for the rest of its existence even if he could. What it could do, an old net-mender named nothing Kanja ever asked to know pointed out, was keep watching the seam the way people had always watched a tide line or a wind shift — not with any doctrine, just with attention, passed down the way everything useful in a fishing village got passed down.
+He couldn't stay, and the settlement couldn't very well post a fighter of his scale at a cliff face for the rest of its existence even if he could. What it could do, an old net-mender named nothing Kanja ever asked to know pointed out, was keep watching the seam the way people had always watched a tide line or a wind shift — not with any doctrine, just with attention, passed down the way everything useful in a fishing village got passed down.
 
 "I'm not going to make engineers out of your whole settlement," Kanja told the net-mender, who had asked, plainly, to be shown what to listen for. "What I do takes years, and most of it needs the Talisman besides. But you don't need years, and you don't need what I'm carrying. You need to know the difference between a rock that's always sounded like this and a rock that's started sounding like something new."
 

@@ -1,6 +1,7 @@
 # The Hull Dol Maren Wasn't Finished With
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-794`). Sovereign Ghost of the Great Sea Alias Chronicle XXXIX, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-794`); corrected Batch 321, 2026-10-02 (a literal
+unresolved placeholder citation fixed to `MCD-793`). Sovereign Ghost of the Great Sea Alias Chronicle XXXIX, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -41,6 +42,6 @@ than simply destroying.
 ---
 
 *Continuity notes (not narrative): a forward-looking technical closer for Dol Maren (already-locked,
-`CC-120`/`CC-121`) — studying and adapting the captured Directorate construct's engineering (`MCD-XXXVIII`
+`CC-120`/`CC-121`) — studying and adapting the captured Directorate construct's engineering (`MCD-793`
 above) into a genuine hull advance for *The Ledger*, extending his shipwright role into innovation
 rather than pure defense. No new named characters. Closes the thirteenth wave.*

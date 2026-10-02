@@ -29,13 +29,13 @@ The Ironhand Gauntlets took a cutlass meant for a chained man's throat and retur
 put the slaver holding it into the deck planking. The Ironfall Boots' impact soles cleared a
 three-man knot of Trust marines off their feet without breaking a bone that would keep any of them
 from walking again — that distinction mattered, and he held it under pressure the way he'd trained
-himself to for thirty years. Mafesto moved between the two fronts almost faster than either side
-could track, its Kinetic Transfer System redirecting a boarding pike's own momentum into the man who'd
-thrown it, never once striking with force he hadn't first absorbed from someone else.
+himself to for thirty years. He moved between the two fronts almost faster than either side could
+track, the Forge-Coat's grounding weave redirecting a boarding pike's own momentum into the man who'd
+thrown it, never once striking with force he hadn't first turned aside from someone else.
 
-Obsidian Malice he used exactly once, on the Trust cutter's rigging rather than its crew — a short,
-precise discharge that dropped their mainsail into a ruined tangle and cost them the maneuvering speed
-to give chase, without a single Trust marine bleeding for it. That was the whole of the calculation:
+The Ironhand Gauntlets he used exactly once, against the Trust cutter's rigging rather than its crew
+— a short, precise pull that tore their mainsail into a ruined tangle and cost them the maneuvering
+speed to give chase, without a single Trust marine bleeding for it. That was the whole of the calculation:
 free the hold, deny the slavers their cargo, deny the Trust its claim, and leave before either side
 could put a name or a face to what had happened to them. Efa Gol's decoys drew the cutter's attention
 seaward at the exact moment the last of the freed captives went over the depot's landward wall, and by
@@ -53,8 +53,10 @@ while denying both a claim on the captives. Extends "The Contract He Wouldn't Si
 an operational register: staying unidentified to the Trust isn't only about refusing formal
 sanction, it's an active combat priority every time Trust salvage law intersects a raid. Detailed
 gear showcase: Forge-Coat V2 (`ARS-347`, ages 40-80), Ironhand Gauntlets, Ironfall Boots, the Smoke
-System's Concealment mode (`ARS-354`), Mafesto's Kinetic Transfer System, and a single precise,
-non-lethal Obsidian Malice discharge against rigging rather than a person. Onyx of Oblivion correctly
-absent per its L9 seal throughout the Long Mask. Efa Gol (already-locked, `CC-130`) appears in her
-established decoy-command role, consistent with her age-150 step-back (`MCD-807`) not yet having
-occurred at age 58. No new named characters. First entry in the Scourge's twentieth wave.*
+System's Concealment mode (`ARS-354`), and a single precise, non-lethal use of the Ironhand
+Gauntlets against rigging rather than a person. Onyx of Oblivion, Mafesto, and Obsidian Malice
+correctly absent per the Trinity's age-30 surrender (`MCD-246`). Efa Gol (already-locked, `CC-130`)
+appears in her established decoy-command role, consistent with her age-150 step-back (`MCD-807`) not
+yet having occurred at age 58. No new named characters. First entry in the Scourge's twentieth wave.
+Corrected Batch 321, 2026-10-02: removed an anachronistic Mafesto/Obsidian Malice presence, swapped
+for the Forge-Coat and Ironhand Gauntlets doing the same work.*

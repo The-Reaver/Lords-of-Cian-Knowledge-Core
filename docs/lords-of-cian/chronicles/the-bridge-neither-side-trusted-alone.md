@@ -1,12 +1,17 @@
 # The Bridge Neither Side Trusted Alone
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1301`). Iron Bastard Alias Chronicle LXXXII, wave 28, first entry. The Directorate general's successor requests a formal joint engineering operation. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1301`); corrected Batch 321, 2026-10-02 ("rebel
+sabotage" reworded to describe the resistance network rather than framing the Rebellion as a
+still-live war, since the Rebellion formally ends at `MCD-245`/`246`; "the shelved report" corrected
+to mean the Directorate general's own career-ending report, `MCD-734`, not the Trust scholar's
+report, `MCD-421`). Iron Bastard Alias Chronicle LXXXII, wave 28, first entry. The Directorate
+general's successor requests a formal joint engineering operation. Not a territory Chronicle.*
 
 ---
 
-The request came through the same kind of informal parley the old general had once risked, carried this time by his successor — the officer who had once arrived carrying a copy of the shelved report as a gesture of inherited respect, and who now arrived carrying something considerably more unusual: a formal proposal.
+The request came through the same kind of informal parley the old general had once risked, carried this time by his successor — the officer who had once arrived carrying a copy of the general's own career-ending report as a gesture of inherited respect, and who now arrived carrying something considerably more unusual: a formal proposal.
 
-"There's an aqueduct spanning the contested border territory," the successor said. "Built before either side controlled the ground it crosses, serving settlements on both sides of a line neither of us drew. It's failing, slowly, and neither side trusts the other's engineers to assess it honestly — Trust engineers assume rebel sabotage waiting to happen, and I'd imagine your side assumes the same about us."
+"There's an aqueduct spanning the contested border territory," the successor said. "Built before either side controlled the ground it crosses, serving settlements on both sides of a line neither of us drew. It's failing, slowly, and neither side trusts the other's engineers to assess it honestly — Trust engineers assume resistance sabotage waiting to happen, and I'd imagine your people assume the same of them."
 
 "You want a neutral read."
 

@@ -56,23 +56,26 @@ grounded in Kanja's own single underlying psychology, not a separate invented on
 - `VB-061` — A crew-collective quote (not attributed to Kanja himself, matching the
   institutional-vs-self-given distinction): "The Directorate names what scares them. We named the
   man who feeds the crew before he feeds himself. That name's ours. They don't get to touch it."
-- **Era span, and the central open question:** The alias's first three waves (`MCD-395`-`397`,
-  `MCD-428`-`430`, `MCD-461`-`463`) are explicitly set within the Rebellion (ages 21-22, naval
-  campaigns/`MCD-242`). From wave 4 onward the material's own internal dating moves to "the
-  Rebellion's close" (`MCD-1004`) and then explicitly past it: `MCD-1056` is dated "eight months
-  after the Trinity's surrender." Everything from wave 20 through wave 34 (`MCD-1056`-`1522`) is
-  peacetime/post-war, and multiple entries span real elapsed decades and generations (Garren
-  Hask's grandnephew, `MCD-508`; his great-grandniece, `MCD-597`; a "fourth generation" reference
-  in a cross-alias entry, `MCD-1486`; Hask's own death of old age, `MCD-1422`). **This directly
-  collides with `MCD-246`: if "the Trinity's surrender" in `MCD-1056` is the same age-30 event
-  `MCD-246` locks, the Trinity should be sealed at L9 for the entire span these later waves cover
-  (ages 30-314) — yet a large number of these same post-surrender entries (`MCD-1058`, `MCD-1091`,
-  `MCD-1367`, `MCD-1374`, `MCD-1381`, `MCD-1386`, `MCD-1515`, `MCD-1518`, `MCD-1521`) are
-  explicitly "full Trinity combat showcases," naming Mafesto's Kinetic Transfer System, Obsidian
-  Malice, and Onyx of Oblivion by name.** No rule anywhere in the Captain track (or elsewhere)
-  reconciles this — I searched explicitly for any mention of the L9 vault, an unsealing, or a
-  retrieval, and found none. See Reserved/unresolved threads below; this needs a ruling before any
-  Game Plan work, since it determines what "which era this alias spans" actually means.
+- **Era span.** The alias's first three waves (`MCD-395`-`397`, `MCD-428`-`430`, `MCD-461`-`463`)
+  are explicitly set within the Rebellion (ages 21-22, naval campaigns/`MCD-242`). From wave 4
+  onward the material's own internal dating moves to "the Rebellion's close" (`MCD-1004`) and then
+  explicitly past it: `MCD-1056` is dated roughly five years after the Trinity's surrender.
+  Everything from wave 20 through wave 34 (`MCD-1056`-`1522`) is peacetime/post-war, and multiple
+  entries span real elapsed decades and generations (Garren Hask's grandnephew, `MCD-508`; his
+  great-grandniece, `MCD-597`; a "fourth generation" reference in a cross-alias entry, `MCD-1486`;
+  Hask's own death of old age, `MCD-1422`). **A real contradiction with `MCD-246` (the Trinity
+  sealed at L9 for the entire 284-year Long Mask, ages 30-314) was found and fixed across Batches
+  314 and 321: a number of post-surrender entries originally described "full Trinity combat
+  showcases" naming Mafesto, Obsidian Malice, and Onyx of Oblivion by name. Every one of them
+  (`MCD-1058`, `MCD-1091`, `MCD-1367`, `MCD-1370`, `MCD-1374`, `MCD-1377`, `MCD-1381`, `MCD-1386`,
+  `MCD-1421`, `MCD-1515`, `MCD-1518`, `MCD-1521`) has been corrected to use Kanja's actual
+  Long-Mask-era kit instead (the Forge-Coat, Ironfall Boots, Ironhand Gauntlets, Sovereign Eyes,
+  Smoke System, and the Rexmar Machete, `ARS-344` through `ARS-356`, plus his own trained
+  swordsmanship and instinctive Rexmar-Mar tactical sense) -- no beat, outcome, or line of dialogue
+  changed, only the gear performing each action. The charter's own founding timestamp was also
+  loosened (from "three years old" to "near enough a decade old" at `MCD-1376`) so this kit, which
+  isn't built until ages 33-50, reliably falls inside its own existence window across the whole
+  later run. This era-span question is now resolved, not open.**
 
 ### Relationships
 
@@ -111,7 +114,7 @@ grounded in Kanja's own single underlying psychology, not a separate invented on
   argues the succession question itself was wrong and proposes a **rotating, three-year
   term-limited council-chair seat with Kanja explicitly barred from ever holding it** (`MCD-1379`
   /`MCD-1380`); becomes its first holder, leads the structure's first real combat test
-  (`MCD-1381`), and steps down on principle at her term's actual end, declining a second term
+  (`MCD-1381`), and steps down on principle at his term's actual end, declining a second term
   (`MCD-1514`).
 - **Danne Sok** — introduces his wife and daughter to Kanja, establishing that crew families form
   their own independent impression of him (`MCD-591`). His **daughter is deliberately kept
@@ -235,16 +238,15 @@ grounded in Kanja's own single underlying psychology, not a separate invented on
 
 ### Reserved / unresolved threads
 
-- **The Trinity/Long-Mask era-span contradiction (flagged above, the single largest open item).**
-  A large fraction of this alias's post-"Trinity's surrender" material (waves 20 onward) uses the
-  full Trinity in combat despite `MCD-246`/`CC-005` locking that gear as sealed at L9 for the
-  entire 284-year Long Mask (ages 30-314) that begins at exactly the point these entries are
-  dated from. No rule anywhere reconciles this. This needs a ruling — whether it's a genuine
-  drafting-era oversight to correct, a deliberate future retcon (partial/periodic access to the
-  vault) not yet drafted, or evidence that "the Rebellion's close" in this track's own internal
-  chronology isn't actually meant to land at the canonical age-30 mark — before any Psychological
-  Profile or Game Plan discussion, since it directly determines what era(s) this alias's future
-  Chronicles can be set in.
+- **The Trinity/Long-Mask era-span contradiction, resolved (Batches 314 and 321).** A fraction of
+  this alias's post-"Trinity's surrender" material (waves 20 onward) originally used the full
+  Trinity in combat despite `MCD-246`/`CC-005` locking that gear as sealed at L9 for the entire
+  284-year Long Mask (ages 30-314) that begins at exactly the point these entries are dated from.
+  Every affected entry has since been rewritten to use Kanja's correct Long-Mask-era kit instead
+  (the seven-piece post-Mafesto gear system, `ARS-344` through `ARS-356`, plus his own trained
+  swordsmanship and instinctive Rexmar-Mar tactical sense), and the charter's own founding
+  timestamp was loosened so that kit reliably falls inside its own ages-33-50 existence window.
+  No longer open; left here only as a record of what the fix covered.
 - **The mortality gap, Kanja's lifespan vs. his crew's.** Recurring and explicitly still open:
   first raised at `MCD-920`, revisited at `MCD-1373` (Efa Gol) and most directly at `MCD-1387`
   ("the sub-series' most direct confrontation of the theme... left unresolved rather than
@@ -252,25 +254,27 @@ grounded in Kanja's own single underlying psychology, not a separate invented on
   absence institutionally but the emotional question — what it means for him to keep outliving
   everyone who built this with him — is never closed and reads as a deliberately standing, likely
   still-open thread for future entries.
-- **Corren Halst, Danne Sok, and Maret Vos have no dedicated `CC-` dossier.** All three carry
-  substantial, recurring page-time across this track (Halst above all — proven independent
-  commander, the structure's first council chair, the one who proposes the rotating-chair fix
-  itself) yet, per the Batch 226 CLAUDE.md note, none of them ever received the same
-  Hask/Breck/Maren-style dossier treatment Batch 48 gave those three. This is the same category
-  of gap, just never closed for these three specific figures.
+- **Maret Vos still has no dedicated `CC-` dossier.** Corren Halst and Danne Sok received theirs
+  at `CC-158`/`CC-159` (Batch 320, alongside the pronoun reconciliation applied to both -- he/him
+  throughout, including nine files within this track corrected at Batch 321). Vos remains the one
+  heavily-recurring figure in this ensemble without the same Hask/Breck/Maren-style dossier
+  treatment Batch 48 gave those three.
 - **Deliberately unnamed recurring figures**, consistent with established convention elsewhere in
   the ledger but worth flagging explicitly: Danne Sok's daughter (6 appearances, never named),
   the deckhand who inherits Hask's ledger (3 appearances), and Callum Breck's wife (`CC-117`,
   background only). Whether any of these should eventually be named is an open Game-Plan-stage
   question, not resolved here.
-- **A real numbering/labeling drift in the ledger's own Roman-numeral Chronicle titles.** Numerals
-  X, XI, and XII were never used by any entry (the fourth wave's entries are labeled XIII-XV
-  instead); XVI, XVII, and XVIII, and later XCII, are each used twice for two different, unrelated
-  Chronicles. The final entry (`MCD-1522`) self-confirms the correct total ("one hundred and two
-  total Captain Alias Chronicles across thirty-four complete waves"), so no content is missing —
-  this is a bookkeeping inconsistency in how individual statements label themselves, not a gap in
-  the story, but it means "Chronicle XVI" (for example) is genuinely ambiguous without checking
-  the rule ID directly. Worth a light cleanup pass at some point; not blocking for this walkthrough.
+- **A numbering/labeling drift in the ledger's own Roman-numeral Chronicle titles, partly fixed.**
+  Numerals X, XI, and XII were never used by any entry (the fourth wave's entries are labeled
+  XIII-XV instead), while XVI, XVII, and XVIII were each used twice for two different, unrelated
+  Chronicles (wave 5's `MCD-558`-`560` and wave 6's `MCD-591`-`593`). Batch 321 renumbered wave 5's
+  three entries (`MCD-558`-`560`) to X, XI, and XII, closing that duplication using the unused
+  numerals. The apparent second "XCII" was investigated and found not to be a real duplicate: the
+  only other hit is `MCD-1486`, a Crow King Alias Chronicle that merely cross-references this
+  track's own Chronicle XCII (`MCD-1422`) by name in its own prose, not a second Captain entry
+  carrying the same numeral. The final entry (`MCD-1522`) self-confirms the correct total ("one
+  hundred and two total Captain Alias Chronicles across thirty-four complete waves"), so no content
+  is or was missing.
 - **What happens to the "Captain"/Pier Nine institution after Kanja's own Pi-Awakening** (age
   314, `CC-006`, ending the Long Mask) is untouched by anything in this track — the run closes at
   wave 34 on a deliberately open, reflective note (`MCD-1390`, `MCD-1522`) well short of that
@@ -323,7 +327,8 @@ demonstrated arc, not a competing invention:
   deliberately unresolved "what's this institution for, now the war's over" question.
 - **Wave 20 (`MCD-1056`-`1058`):** the written charter (direct payoff to wave 19's open question);
   Sera's declining-to-join entry (the sub-series' first deliberate non-inheritance); and the first
-  explicitly post-"Trinity's surrender" full-Trinity combat showcase (see the era-span flag above).
+  entry fought with Kanja's actual Long-Mask-era kit, roughly five years post-"Trinity's surrender"
+  (see the era-span note above).
 - **Wave 21 (`MCD-1089`-`1091`):** Garren Hask's heart scare and Corren Halst's five-year
   succession deferral; the crew's first paid Trust commission, producing genuine internal friction
   over serving the institution they fought.

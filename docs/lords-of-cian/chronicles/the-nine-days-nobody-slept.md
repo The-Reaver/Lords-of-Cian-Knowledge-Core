@@ -1,9 +1,13 @@
 # The Nine Days Nobody Slept
 
-*Locked canon, Batch 191, 2026-09-11 (`MCD-558`). Captain Alias Chronicle XVI, first entry in the
+*Locked canon, Batch 191, 2026-09-11 (`MCD-558`). Captain Alias Chronicle X, first entry in the
 fifth wave. Rebellion era. Not a territory Chronicle. New standalone material — a detailed,
 sustained multi-day endurance showcase per Abad's craft instruction. Narrated in neutral
-third-person prose. No new named characters.*
+third-person prose. No new named characters. Renumbered Batch 321, 2026-10-02 (from Chronicle XVI,
+which duplicated wave 6's own MCD-591) -- no other file cross-references this entry by numeral, only
+by rule ID, so the renumbering is safe. Also corrected: Kanja's reduced sleep need reattributed from
+Mafesto's Kinetic Transfer System (a force-redirect system, not a biology system) to his own
+biology.*
 
 ---
 
@@ -14,7 +18,7 @@ holding a position that showed no sign of resolving.
 
 Kanja didn't rest more than anyone else. He made certain of that deliberately.
 
-Mafesto's Kinetic Transfer System let him function on far less recovery than the ordinary crew around
+Kanja's own biology let him function on far less recovery than the ordinary crew around
 him needed, and rather than use that advantage to work through the nights alone, he spent it moving
 constantly among the crew instead — relieving exhausted watches personally, working alongside
 whoever's shift ran longest, making certain nobody carried the siege's ninth day believing they carried
@@ -48,4 +52,4 @@ only version of the name I've ever wanted to carry."
 matching Abad's craft instruction, testing crew morale under prolonged grinding hardship rather than a
 single dramatic crisis -- Kanja's deliberate choice not to exploit his own biological advantage for
 personal comfort extends the alias's established earned-trust theme. No new named characters. First
-entry in Captain's fifth three-Chronicle wave.*
+entry in Captain's fifth three-Chronicle wave. Renumbered to Chronicle X, Batch 321, 2026-10-02.*

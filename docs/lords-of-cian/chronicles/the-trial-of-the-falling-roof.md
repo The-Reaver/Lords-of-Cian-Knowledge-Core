@@ -1,6 +1,10 @@
 # The Trial of the Falling Roof
 
-*Locked canon, Batch 218, 2026-09-11 (`MCD-965`). The Iron Bastard Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 218, 2026-09-11 (`MCD-965`); corrected Batch 321, 2026-10-02 (Kanja's closing
+line corrected to remove the false claim that he personally defended the doctrine to councils
+before, since `MCD-730` establishes that was the Directorate general's own testimony, not Kanja's).
+The Iron Bastard Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral
+third-person prose.*
 
 ---
 
@@ -38,7 +42,7 @@ The tribunal ruled in his favor by the end of the day, the original repair crew 
 account instead. Kanja left before any thanks could be organized, uneasy in a way the actual danger of
 the accusation hadn't quite accounted for.
 
-"I've defended the doctrine to councils before," he told Danne Sok on the road out. "I hadn't yet had
+"I've had others defend the doctrine to councils before," he told Danne Sok on the road out. "I hadn't yet had
 to defend myself with it. It answered for me cleanly enough. I don't think I want to need it to again."
 
 ---

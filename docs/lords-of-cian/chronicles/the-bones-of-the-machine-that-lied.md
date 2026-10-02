@@ -1,6 +1,11 @@
 # The Bones of the Machine That Lied
 
-*Locked canon, Batch 272, 2026-09-11 (`MCD-1412`). Iron Bastard Alias Chronicle XCI, wave 31, first entry. Wreckage from a Crawler of the depot's unresolved design is recovered and studied, narrowing the mystery's mechanism without naming its author. Not a territory Chronicle.*
+*Locked canon, Batch 272, 2026-09-11 (`MCD-1412`); corrected Batch 321, 2026-10-02 (the claim that
+the four-alloy variant was "taken off a dead man" removed, since `MCD-387` establishes it as the
+Trust engineering corps' own deliberate design response rather than salvaged work). Iron Bastard
+Alias Chronicle XCI, wave 31, first entry. Wreckage from a Crawler of the depot's unresolved design
+is recovered and studied, narrowing the mystery's mechanism without naming its author. Not a
+territory Chronicle.*
 
 ---
 
@@ -10,7 +15,7 @@ The Crawler that reached the scholar's academy six weeks later hadn't been Kanja
 
 "Say it anyway."
 
-"It's not stolen work. Not the engineer's old corps refining something they took off a dead man, the way the four-alloy variant was. This is *built from the published papers* — my papers, the academy's, the ones we put into open circulation on the belief that an honest method survives being known." The scholar lifted a thin strip of dampening material, its weave unmistakably deliberate. "Someone read exactly what we wrote about how the discharge finds its target and engineered, from that honest description, a structure that lets the finding happen and denies it the part that matters. Not a countermeasure built by guesswork against a rumor. A countermeasure built by comprehension, against the truth."
+"It's not stolen work. Not the engineer's old corps refining their own prior design, the way the four-alloy variant was. This is *built from the published papers* — my papers, the academy's, the ones we put into open circulation on the belief that an honest method survives being known." The scholar lifted a thin strip of dampening material, its weave unmistakably deliberate. "Someone read exactly what we wrote about how the discharge finds its target and engineered, from that honest description, a structure that lets the finding happen and denies it the part that matters. Not a countermeasure built by guesswork against a rumor. A countermeasure built by comprehension, against the truth."
 
 The third-generation apprentice hadn't spoken yet, turning the strip over under her lens with the same careful, unhurried attention the second student had once taught her to bring to a first read. "That's not an old corps. An old corps wants the design back for themselves. This isn't hoarding the knowledge — it's using ours against us and giving nothing back. Whoever it is, they don't want to be caught teaching it. They want to be caught doing nothing at all."
 

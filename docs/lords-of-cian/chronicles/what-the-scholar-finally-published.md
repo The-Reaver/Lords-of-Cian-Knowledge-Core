@@ -1,9 +1,11 @@
 # What the Scholar Finally Published
 
-*Locked canon, Batch 188, 2026-09-11 (`MCD-551`). The Iron Bastard Alias Chronicle XV, closing the
-fifth wave. Rebellion era, age 25, several years after the events of "The Scholar Who Measured the
-Impossible" (`MCD-421`). Not a territory Chronicle. New standalone material. Narrated in neutral
-third-person prose. No new named characters beyond the already-locked Trust scholar.*
+*Locked canon, Batch 188, 2026-09-11 (`MCD-551`); corrected Batch 321, 2026-10-02 ("age 25"
+dropped from the header, since `MCD-421` is itself age 25 and this entry is explicitly "several
+years after" it). The Iron Bastard Alias Chronicle XV, closing the fifth wave. Rebellion era,
+several years after the events of "The Scholar Who Measured the Impossible" (`MCD-421`). Not a
+territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+characters beyond the already-locked Trust scholar.*
 
 ---
 

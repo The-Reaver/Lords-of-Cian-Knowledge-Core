@@ -41,12 +41,15 @@ either.
 
 *Continuity notes (not narrative): a new institutional/legal-friction register for the Scourge
 sub-series, extending the jurisdictional theme already established across "The Contract He Wouldn't
-Sign" (`MCD-1017`), "The Testimony He Never Gave in Person" (`MCD-1018`), and "The Three-Cornered
+Sign" (`MCD-1017`) and "The Three-Cornered
 Fight" (`MCD-1041`) into a formal Trust admiralty tribunal explicitly attempting to classify the
-alias's legal status. Garren Hask's sealed-testimony precedent (`MCD-1018`, `CC-115`/`116`) is reused
-and extended rather than restaged. The tribunal's own irreconcilable deadlock is the entry's actual
+alias's legal status. Garren Hask's own sealed testimony, already entered once before in a different
+court over the Scrip-Forge evidence, is re-entered here and extended rather than restaged. The
+tribunal's own irreconcilable deadlock is the entry's actual
 point — institutional ambiguity as protection, distinct from every prior showcase or negotiation
 entry. No combat, no named characters beyond already-locked Garren Hask (referenced, not staged).
-Age 98, V3 gear (`ARS-348`, ages 80-241 per the reconciled convention at `MCD-1076`). Onyx of
+Age 98, V3 gear (`ARS-348` locks V3 at ages 80-180, which age 98 falls within). Onyx of
 Oblivion correctly absent per its L9 seal throughout the Long Mask. First entry in the Scourge's
-twenty-second wave.*
+twenty-second wave. Corrected Batch 321, 2026-10-02: removed a false linkage to "MCD-1018," a
+Chronicle set at age 148, fifty years after this entry -- the sealed testimony referenced here is
+its own earlier, separate court appearance.*

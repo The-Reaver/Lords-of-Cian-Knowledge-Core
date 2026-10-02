@@ -1,6 +1,9 @@
 # The Third Ship Garren Hask Named
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-788`). Sovereign Ghost of the Great Sea Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-788`); corrected Batch 321, 2026-10-02 ("every one of
+them" reworded to "every flagship," acknowledging the Captain-track transport *The Second Chance*
+(`MCD-607`), which Hask deliberately did not name himself; "three years into a war" corrected to
+"four years," matching The Receipt's own capture at age 22, `MCD-242`). Sovereign Ghost of the Great Sea Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -33,12 +36,12 @@ something the war hasn't paid back yet. This ship carries that. Not just cargo. 
 total of what this fleet's actually for."
 
 The crew's cheer at the christening carried further than either of the first two namings had, not
-because the ship was larger, though she was, but because three years into a war fought largely in
+because the ship was larger, though she was, but because four years into a war fought largely in
 rumor and shadow, the fleet had grown enough to need a vessel built to hold the full weight of what it
 had actually accomplished rather than just the next single engagement.
 
 "Three ships," Kanja said quietly, once the ceremony had wound down and *The Ledger* sat finally
-finished at anchor. "You've named every one of them."
+finished at anchor. "You've named every flagship."
 
 "Someone has to keep the account current." Garren Hask allowed himself, briefly, something like pride.
 "Ship needs a name that tells the truth about what it's carrying. That's not decoration. That's just
@@ -49,4 +52,7 @@ good bookkeeping."
 *Continuity notes (not narrative): a ceremonial growth entry for the fleet, extending Garren Hask's
 already-locked flagship-naming role (`MCD-231`/`CC-115`) to a third vessel, *The Ledger* — reflecting
 the fleet's expansion over the alias's run without restaging either prior naming. No new named
-characters. Closes the eleventh wave.*
+characters. Closes the eleventh wave. Corrected Batch 321, 2026-10-02: "You've named every one of
+them" reworded to "You've named every flagship," since the Captain-track transport *The Second
+Chance* (`MCD-607`) was deliberately *not* named by Hask -- the crew voted on it instead; "three years
+into a war" corrected to "four years," matching The Receipt's own capture at age 22 (`MCD-242`).*

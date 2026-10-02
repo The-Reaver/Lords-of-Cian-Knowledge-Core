@@ -1,6 +1,8 @@
 # The Night the Ledger Ran Out of Room
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1219`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1219`); corrected Batch 321, 2026-10-02 (the fleet's hull
+count updated from "three flagships, a fourth unnamed hull" to "three flagships, the transport *The
+Second Chance*, and a fifth unnamed hull," folding in the Captain-track transport, `MCD-607`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXI, wave 27, closing the wave. Garren Hask's original ledger is completed and a second volume
 begun. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -8,9 +10,9 @@ begun. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 Garren Hask noticed it the way he noticed everything, by the numbers rather than by sentiment — three
 blank pages left in a book that had once seemed impossibly large the day he'd started it, back when
-the fleet had been two ships and a handful of names instead of three flagships, a fourth unnamed hull,
-and years of disabled ships, freed captives, repaid debts, and now a cook's quiet death and a rigger's
-redeemed theft all recorded in the same steady hand.
+the fleet had been two ships and a handful of names instead of three flagships, the transport *The
+Second Chance*, a fifth unnamed hull, and years of disabled ships, freed captives, repaid debts, and
+now a cook's quiet death and a rigger's redeemed theft all recorded in the same steady hand.
 
 He said nothing about it for a week, filling the last pages with the same unhurried care he'd given
 the first, until the final line landed exactly on the final ruled space with nothing left to write on.
@@ -47,4 +49,6 @@ symbolic passage-of-time marker distinct from any prior entry, closing a long ar
 accumulating weight across 20+ waves without contradicting its continued role going forward. Reuses
 Efa Gol, Pell Ostra, Dol Maren, Danne Sok, Callum Breck. No new named characters. Closes wave 27 (with
 "The Ones Who Stayed Behind," `MCD-1217`, and "The Storm-Chart Dol Maren Refused to Sell,"
-`MCD-1218`).*
+`MCD-1218`). Corrected Batch 321, 2026-10-02 to fold in the Captain-track transport *The Second
+Chance* (`MCD-607`) as the fleet's fourth hull, renumbering the previously "fourth, unnamed" hull to
+fifth.*

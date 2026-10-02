@@ -32,7 +32,7 @@ seam she'd mapped, clean, fast, in the half-second window the raid needed. The n
 away, didn't so much as crack its plaster.
 
 Afterward, on the walk back to the ship, Kanja asked her the question he'd never quite found the
-occasion to ask in sixteen decades of working beside her. "You could have used less and been safer.
+occasion to ask in twenty-one decades of working beside her. "You could have used less and been safer.
 Smaller charge, slower breach, less risk to the wall."
 
 "Slower breach means longer for someone inside to reach for a hostage," she said. "I wasn't choosing
@@ -58,9 +58,12 @@ time within the Scourge sub-series specifically. A moral-complexity/craft entry 
 prior combat showcase: the tension is entirely technical and precision-based (a shared wall with an
 uninvolved nursery on the other side), not a fight. Includes a brief, unnamed apprentice as a light
 generational-transmission beat, deliberately left unnamed to avoid adding a new named character. Age
-235, Forge-Coat/gear generation V3 (`ARS-348`, ages 80-241, prior to the V4 debut already locked at
-age 241, `MCD-811`) -- placed before Efa Gol's later-established V4-era reduced role and consistent
+235, Forge-Coat/gear generation V4 (`ARS-348` locks V4 at ages 180-284, which age 235 falls within)
+-- placed before Efa Gol's later-established V4-era reduced role and consistent
 with Garren Hask's own established "elderly but still active" continuity. Onyx of Oblivion correctly
 absent per its L9 seal throughout the Long Mask. No new named characters. Closes the Scourge's
 twenty-first wave (with "The Strait That Froze Early," `MCD-1074`, and "The Wall He Chose Not to
-Bleed For," `MCD-1075`).*
+Bleed For," `MCD-1075`). Corrected Batch 321, 2026-10-02: relabeled gear generation V3 -> V4 (`ARS-348`
+locks V4 starting at age 180, not age 241 as an earlier draft assumed); corrected "sixteen decades"
+of working beside Pell Ostra to "twenty-one decades," matching her presence since the Black Trench
+(age 19) against this entry's age 235.*

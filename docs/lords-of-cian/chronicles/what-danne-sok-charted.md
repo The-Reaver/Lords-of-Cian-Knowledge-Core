@@ -1,6 +1,7 @@
 # What Danne Sok Charted
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-779`). Sovereign Ghost of the Great Sea Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-779`); corrected Batch 321, 2026-10-02 (a `CC-119` citation
+for Danne Sok fixed to `CC-159`). Sovereign Ghost of the Great Sea Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -45,6 +46,6 @@ four more times before the Trust ever closed it.
 ---
 
 *Continuity notes (not narrative): a supporting-cast logistics showcase for Danne Sok (already-locked,
-`MCD-230`/`CC-119`), extending his established early-crew role into a naval route-charting register —
+`MCD-230`/`CC-159`), extending his established early-crew role into a naval route-charting register —
 the unglamorous, patient work sustaining the fleet's elusiveness that no sighting report ever
 captures. No new named characters. Closes the eighth wave.*

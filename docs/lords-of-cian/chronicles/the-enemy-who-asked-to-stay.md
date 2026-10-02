@@ -1,8 +1,9 @@
 # The Enemy Who Asked to Stay
 
-*Locked canon, Batch 191, 2026-09-11 (`MCD-559`). Captain Alias Chronicle XVII. Rebellion era. Not
+*Locked canon, Batch 191, 2026-09-11 (`MCD-559`). Captain Alias Chronicle XI. Rebellion era. Not
 a territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
-characters.*
+characters. Renumbered Batch 321, 2026-10-02 (from Chronicle XVII, which duplicated wave 6's own
+MCD-592).*
 
 ---
 
@@ -47,4 +48,4 @@ might have produced.
 *Continuity notes (not narrative): a moral-complexity entry testing whether Captain's earned-trust
 principle extends to a former enemy specifically, resolved through the same gradual trust-building
 process rather than either blanket suspicion or immediate acceptance. No new named characters. Second
-entry in Captain's fifth three-Chronicle wave.*
+entry in Captain's fifth three-Chronicle wave. Renumbered to Chronicle XI, Batch 321, 2026-10-02.*

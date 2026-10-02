@@ -1,13 +1,16 @@
 # The Ghost Fleet's Own Reckoning
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1228`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1228`); corrected Batch 321, 2026-10-02 (the fleet's hull
+count updated to fold in the transport *The Second Chance*, renumbering the previously "fourth,
+still-unnamed hull" to fifth). Sovereign Ghost of the Great Sea Alias Chronicle
 XC, wave 30, closing the wave. A reflective ensemble closer synthesizing waves 22-30 against Garren
 Hask's true-record ledger. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
 Garren Hask opened the second volume of the ledger to its latest page one evening at anchor, all
-three flagships and the fourth, still-unnamed hull gathered together in the same sheltered water the
+three flagships, the transport *The Second Chance*, and the fifth, still-unnamed hull gathered
+together in the same sheltered water the
 fleet had used a dozen times before for exactly this purpose — not strategy, not repair, just the crew
 being in one place at the same time, which had grown rarer as the fleet's own reach had grown wider.
 
@@ -49,4 +52,6 @@ established pattern of prior major-run closers ("The Gathering at the Ghost Flee
 `MCD-800`; "What the Sea Kept Between Them," `MCD-959`). Reuses Garren Hask, Efa Gol, Dol Maren, Pell
 Ostra, Danne Sok, Callum Breck. No new named characters. Closes wave 30 (with "The Last Ship They Let
 Go," `MCD-1226`, and "What the Sea Never Gave Back," `MCD-1227`) and the full nine-wave run (waves
-22-30, `MCD-1202` through `MCD-1228`).*
+22-30, `MCD-1202` through `MCD-1228`). Corrected Batch 321, 2026-10-02 to fold in the Captain-track
+transport *The Second Chance* (`MCD-607`) as the fleet's fourth hull, renumbering the previously
+"fourth, still-unnamed" hull to fifth.*

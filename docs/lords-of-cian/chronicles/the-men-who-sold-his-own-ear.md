@@ -1,6 +1,8 @@
 # The Men Who Sold His Own Ear
 
-*Locked canon, Batch 205, 2026-09-11 (`MCD-899`). The Iron Bastard Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 205, 2026-09-11 (`MCD-899`); corrected Batch 321, 2026-10-02 (a garbled
+continuity-note citation corrected to cite `MCD-499` alone). The Iron Bastard Alias Chronicle
+XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -47,7 +49,7 @@ I care for that version of losing control over it any better than the others."
 
 *Continuity notes (not narrative): the doctrine's first genuine corruption by a non-institutional,
 profit-motivated actor — distinct from the Trust engineer's honest study (`MCD-421`, `MCD-551`), the
-defecting Trust engineer (`MCD-716`), the tempted student (`MCD-421`... wave 4's `MCD-499`), and the
+defecting Trust engineer (`MCD-716`), the tempted student (`MCD-499`), and the
 academy's institutional adoption (`MCD-723`); here freelance profiteers with no genuine understanding
 of the technique trade on the Iron Bastard's name and a crude imitation of the method to settle private
 disputes for hire. Kanja's response is corrective (stopping an in-progress false "collapse" to save the

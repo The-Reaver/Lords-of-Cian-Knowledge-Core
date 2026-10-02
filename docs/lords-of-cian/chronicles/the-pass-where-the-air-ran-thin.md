@@ -15,9 +15,9 @@ The climb itself was the fight, most of it. Sheer rock faces, switchback ledges 
 for a laden mule, air thin enough by the pass's high saddle that ordinary lungs started failing
 before ordinary muscles did. His own body managed the altitude without complaint — Bio-Drakma
 conditioning had never once cared what elevation it operated at — but the Ironhand Gauntlets'
-blood-heated grip, built originally against cold water and pack ice, turned out to matter just as
-much on bare rock at altitude, where cold stone at height stole finger strength the same slow way
-ice did, one degree at a time, until a grip either held or didn't.
+blood-heated grip turned out to matter just as much on bare rock at altitude as it ever had anywhere
+colder, where cold stone at height stole finger strength the same slow way deep cold did, one degree
+at a time, until a grip either held or didn't.
 
 The guards posted along the route had never drilled against a threat that arrived from above rather
 than from the water they'd built their whole security model around. Thirty-one captives, chained in
@@ -36,12 +36,13 @@ climb.
 ---
 
 *Continuity notes (not narrative): the sub-series' first high-altitude mountain environment,
-distinct from `MCD-1074`'s pack-ice showcase (vertical cliff/thin-air challenge versus horizontal
-floe crossing) and from `MCD-802`'s inland caravan road (a walking route, not a climb) — a new,
+distinct from `MCD-802`'s inland caravan road (a walking route, not a climb) — a new,
 genuinely land-locked liberation route the crew's own naval-legend reputation had never reached.
 Extends the Ironhand Gauntlets' V4 blood-heated grip (`ARS-352`, age 260+) to a cold-stone/altitude
-application beyond its established cold-water/ice use, and dramatizes deliberate restraint in the
+application, and dramatizes deliberate restraint in the
 Ironfall Boots' impact-sole tremor (`ARS-353`) near a lethal drop for the first time. No new named
-characters. Age 262, V4 gear (`ARS-348`, debut age 241; Ironhand Gauntlets V4 blood-heating
+characters. Age 262, V4 gear (`ARS-348`, debut age 180; Ironhand Gauntlets V4 blood-heating
 specifically dates to age 260+ per `ARS-352`, so this entry is placed just past that threshold).
-Onyx of Oblivion correctly absent per its L9 seal throughout the Long Mask.*
+Onyx of Oblivion correctly absent per its L9 seal throughout the Long Mask. Corrected Batch 321,
+2026-10-02: removed a forward reference to "The Strait That Froze Early" (`MCD-1074`, age 268, which
+hasn't happened yet at this entry's age 262).*

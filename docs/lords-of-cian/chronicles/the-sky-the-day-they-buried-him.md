@@ -1,6 +1,6 @@
 # The Sky the Day They Buried Him
 
-*Locked canon, Batch 220, 2026-09-11 (`MCD-982`). The Storm That Walks Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-982`). The Storm That Walks Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Sephtis (Vrail, `CC-037`, 1,997 years old) is confirmed alive elsewhere in canon and cannot have genuinely died of old age in this track; this entry is reframed explicitly as a staged withdrawal -- a natural-seeming death and sea-burial he arranged and let the lineage genuinely believe, while continuing on elsewhere in disguise during the Long Mask -- rather than a real death, matching the kind of choice available to a near-2,000-year-old operative letting a mortal identity "die" rather than explain his own longevity.*
 
 ---
 
@@ -38,10 +38,21 @@ present ever asked whether that calm was the craft working, or simply the ordina
 unremarkable day arriving when it was needed most. She never asked herself, either. Some readings, she
 had come to understand, were true whether or not anyone could prove they mattered.
 
+What none of them — not she, not Kanja, not the fleet that mourned him at the rail — ever came to
+learn was that the man they buried that day did not die. Sephtis had chosen, quietly and alone, the
+ending he could arrange rather than the one he could not yet explain: a body no one but he had
+prepared, a house closed up exactly as a dead man's house should be, and a sea-burial witnessed by
+everyone who loved him and questioned by no one. He walked on from it the same night under another
+name, carrying nothing of the life he had just buried except the certainty that she was ready to
+carry what remained of it without him. Their grief was real. The death was not.
+
 ---
 
-*Continuity notes (not narrative): Sephtis's death, the first mortality entry for a named recurring
-figure specific to this alias's own arc — distinct in register from every prior Storm That Walks entry,
+*Continuity notes (not narrative): Sephtis's staged death — a natural-seeming death and sea-burial he
+arranged himself, genuinely believed by the entire lineage including his own successor, while he
+continues on elsewhere in disguise during the Long Mask (reconciling his locked age, ~1,997 years,
+`CC-037`, with his Book-4-era appearances) — the first mortality entry for a named recurring figure
+specific to this alias's own arc — distinct in register from every prior Storm That Walks entry,
 which treated loss (MCD-503's escort deaths, MCD-571's fisherman) as combat or rescue cost rather than
 a founding figure's natural end. Closes the arc opened at MCD-505 (Sephtis begins training a
 successor) by showing that training's full weight finally resting on her alone, at the one moment she
