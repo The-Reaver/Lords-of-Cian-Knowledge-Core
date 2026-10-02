@@ -1,13 +1,17 @@
 # What the Old Smith Saw in the Ashes
 
-*Locked canon, Batch 189, 2026-09-11 (`MCD-554`). The Lord of Embers Alias Chronicle XVIII, closing
+*Locked canon, Batch 189, 2026-09-11 (`MCD-554`). The Lord of Embers Alias Chronicle XV, closing
 the fifth wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. New
-standalone material. Narrated in neutral third-person prose. No new named characters.*
+standalone material. Narrated in neutral third-person prose. No new named characters. Renumbered
+Batch 321, 2026-10-02: was mislabeled Chronicle XVIII, duplicating "The Engineer Who Came to
+Disprove Him"; corrected to XV. Also corrected: "decades of quiet trust" (impossible at age 27
+inside an 18-month tour) to "months of quiet trust," and the opening line's "across its full
+length" softened so it doesn't imply the tour is already over this early in it.*
 
 ---
 
 The campaign's senior smith, present for nearly every burning, every rebuild, every crisis the
-Rolling Foundry Campaign had thrown at Kanja across its full length, had watched the toll accumulate
+Rolling Foundry Campaign had thrown at Kanja across its opening months, had watched the toll accumulate
 in ways the crew's own younger hands rarely noticed — the same tireless reputation the legend
 described, carrying a weariness underneath it that never made it into any story told about the
 campaign.
