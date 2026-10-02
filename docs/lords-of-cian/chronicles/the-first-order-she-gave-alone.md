@@ -1,10 +1,10 @@
 # The First Order She Gave Alone
 
-*Locked canon, Batch 286, 2026-09-11 (`MCD-1517`). Captain Alias Chronicle XCVII, wave 33. Danne Sok's daughter, grown since enlisting (`MCD-1002`), leads her first independent operation, mirroring Corren Halst's own growth a generation later.*
+*Locked canon, Batch 286, 2026-09-11 (`MCD-1517`). Captain Alias Chronicle XCVII, wave 33. Danne Sok's daughter, grown since enlisting (`MCD-1002`), leads her first independent operation, mirroring Corren Halst's own growth a generation later. Corrected Batch 321, 2026-10-02: stripped a leaked inline rule-ID citation from the narrative prose (kept in the continuity notes only).*
 
 ---
 
-Kanja stayed away on purpose, the way he'd learned to across the six-week absence and every shorter one since (`MCD-1385`, `MCD-1364`). Danne Sok's daughter didn't know that when she took the assignment; she only knew that the smuggling skiffs working the delta's back channels needed intercepting before the season's grain shipment reached them, and that Corren Halst, newly free of the chair's own daily weight, had looked at the roster and put her name at the top of it without asking anyone's permission first.
+Kanja stayed away on purpose, the way he'd learned to across the six-week absence and every shorter one since. Danne Sok's daughter didn't know that when she took the assignment; she only knew that the smuggling skiffs working the delta's back channels needed intercepting before the season's grain shipment reached them, and that Corren Halst, newly free of the chair's own daily weight, had looked at the roster and put her name at the top of it without asking anyone's permission first.
 
 "You've run half of every operation you've ever been part of," Halst told her, when she asked why. "You've just never had to be the one nobody was quietly backstopping. Time you found out you don't need it."
 

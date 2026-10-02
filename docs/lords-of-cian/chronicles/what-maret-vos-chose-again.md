@@ -1,11 +1,14 @@
 # What Maret Vos Chose Again
 
 *Locked canon, Batch 264, 2026-09-11 (`MCD-1369`); corrected Batch 320, 2026-10-01 (Corren Halst
-reconciled to he/him, matching `CC-158`). Captain Alias Chronicle LXIX, wave 23, closing the wave. Years after nearly walking, Maret Vos is offered an honorable way out and declines it.*
+reconciled to he/him, matching `CC-158`); corrected Batch 321, 2026-10-02 (stripped a leaked inline
+rule-ID citation from the narrative prose, kept in the continuity notes only). Captain Alias
+Chronicle LXIX, wave 23, closing the wave. Years after nearly walking, Maret Vos is offered an
+honorable way out and declines it.*
 
 ---
 
-The offer came from Corren Halst, not Kanja, and he made a point of it being that way: Maret Vos had given the crew years now, ever since the night he'd almost walked and stayed instead on nothing but the promise that leaving would always be his to choose without owing anyone an explanation (`MCD-593`). He'd since become one of the Second Chance's steadiest hands, the kind of quietly reliable presence nobody thought to worry about anymore, which was exactly why Halst thought the offer was overdue.
+The offer came from Corren Halst, not Kanja, and he made a point of it being that way: Maret Vos had given the crew years now, ever since the night he'd almost walked and stayed instead on nothing but the promise that leaving would always be his to choose without owing anyone an explanation. He'd since become one of the Second Chance's steadiest hands, the kind of quietly reliable presence nobody thought to worry about anymore, which was exactly why Halst thought the offer was overdue.
 
 "You've more than earned a clean exit if you want one," he told Maret Vos, in front of no one, the way the original almost-leaving had been handled in front of no one either. "A trade, a settlement, land if you want it — whatever would actually let you build something that isn't this. Nobody would think less of you. I'd be the first one saying you'd earned it."
 

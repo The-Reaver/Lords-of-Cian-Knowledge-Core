@@ -1,6 +1,10 @@
 # What They Buried at Sea
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1213`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1213`); corrected Batch 321, 2026-10-02 (a claim that the
+crew had "never once held a funeral for someone who simply ran out of years" contradicted the sea
+service already held for the old hand in `MCD-958`; a line implying Mirella fed the crew for "longer
+than most of this crew has been alive" is incompatible with this alias's nine-year Rebellion-era
+window -- both reworded). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXV, wave 25, closing the wave. The fleet's own sea-burial rite for a crew member who died of
 natural causes. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -12,8 +16,8 @@ joined the fleet in its second year and never once picked up a weapon, feeding t
 crew through every crisis this history had recorded without asking for recognition for any of it.
 
 There was no enemy to blame, no mercy doctrine to weigh, nothing for the fleet's reputation to answer
-for. Just an old woman who had lived a long life doing work nobody wrote songs about, and a crew that
-had never once held a funeral for someone who simply ran out of years.
+for. Just an old woman who had lived a long life doing work nobody wrote songs about, gone the same
+quiet way age eventually takes anyone who outlasts their own strength for it.
 
 Efa Gol organized it the way she organized everything, with quiet precision, and Garren Hask found
 himself uncertain, for the first time in years of keeping the fleet's record, how to log a death that
@@ -25,8 +29,8 @@ All three flagships anchored together for the rite, crews from every ship coming
 for it, and Kanja spoke last, after Pell Ostra and Dol Maren and a dozen others who'd known her
 longest had each said what she'd meant to them. "She never asked the doctrine for anything," he said.
 "Never needed rescuing, never needed forgiving, never broke it and never tested it. She just fed us,
-every single day, for longer than most of this crew has been alive. That's its own kind of restraint
-— showing up, every day, asking nothing back."
+every single day, year after year, without once asking for anything back. That's its own kind of
+restraint — showing up, every day, asking nothing back."
 
 They gave her to the water at dusk, wrapped and weighted the traditional way, and Garren Hask closed
 the entry with something he rarely allowed himself: not just the facts, but a line of his own.
@@ -45,4 +49,8 @@ both "Mirella" and possible near-collisions with House Vane/Thessara Void-Step c
 the character carries no surname), kept minor and one-scene per this alias's established convention
 (matching Tam Sullen's own precedent as a named but non-recurring figure). Reuses Efa Gol, Garren
 Hask, Pell Ostra, Dol Maren. Closes wave 25 (with "The Squall That Broke the Line," `MCD-1211`, and
-"The Ledger's Twin," `MCD-1212`).*
+"The Ledger's Twin," `MCD-1212`). Corrected Batch 321, 2026-10-02: cut a claim that the crew had
+"never once held a funeral for someone who simply ran out of years," which contradicts the sea service
+already held for the old hand at `MCD-958`, and reworded a line claiming Mirella had fed the crew "for
+longer than most of this crew has been alive," which this alias's nine-year Rebellion-era window
+(ages 21-30) can't support.*

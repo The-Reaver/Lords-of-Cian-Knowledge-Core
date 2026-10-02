@@ -44,4 +44,5 @@ role; Garren Hask appears pre-"elderly," matching his age at this point in the t
 already-locked recruitment-era profile (CC-115). Deliberately does not specify any mechanism for how
 or why Onyx's seal begins — that remains unaddressed, left for whichever future material eventually
 details it. Closes the Scourge's seventeenth wave (with "The Last Fight Before the Silence," and "The
-Prisoner Who Knew Three Names").*
+Prisoner Who Knew Three Names"). Corrected Batch 321, 2026-10-02: the Valen Protocol citation
+corrected from "MCD-291" (unrelated) to `ARS-344`.*

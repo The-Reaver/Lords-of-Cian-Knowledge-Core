@@ -56,4 +56,8 @@ knees told him to stop, and taught someone else to climb it after."
 own extended lifespan and an ordinary original crew member's natural aging and death — a register used
 for the Captain alias (MCD-508, wave 16) but not yet for the Sovereign Ghost. The old hand is kept
 unnamed per the crew's established privacy convention (see "The Hand That Chose to Leave," wave 18). No
-new named characters. Second entry in the nineteenth wave.*
+new named characters. Second entry in the nineteenth wave. Corrected Batch 321, 2026-10-02: the old
+hand was reworded to have signed on already forty-five, with his own decades of life and two marriages
+behind him before ever reaching the fleet, rather than joining "nearly the same age" as a 21-year-old
+Kanja and aging forty years aboard a fleet whose own Rebellion-era window spans only nine years
+(ages 21-30) -- the mortality-gap theme is unchanged, only the arithmetic underneath it.*

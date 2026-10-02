@@ -1,6 +1,9 @@
 # The Morning the Ground Lied to Everyone
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1295`). Iron Bastard Alias Chronicle LXXVI, wave 26, first entry. The doctrine's first citywide earthquake-triage application. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1295`); corrected Batch 321, 2026-10-02 (the inline
+citation "the tower at MCD-497" reworded to remove the leaked rule-ID). Iron Bastard Alias
+Chronicle LXXVI, wave 26, first entry. The doctrine's first citywide earthquake-triage application.
+Not a territory Chronicle.*
 
 ---
 
@@ -8,7 +11,7 @@ No enemy had built anything to defeat this time. The ground itself had simply mo
 
 The problem wasn't discharge. It was arithmetic.
 
-Forty-one structures needed reading before anyone could be let back inside a single one of them, and every hour spent verifying one carefully was an hour not spent on the other forty, while the district's own residents pressed at the cordon line wanting only to know whether their homes were still theirs to live in. Doubled verification, the standing protocol since the tower at MCD-497, had never been built for triage at this scale — it assumed time enough to be certain before committing to an answer, and today there wasn't time enough for that on every single structure without abandoning some of them to guesswork.
+Forty-one structures needed reading before anyone could be let back inside a single one of them, and every hour spent verifying one carefully was an hour not spent on the other forty, while the district's own residents pressed at the cordon line wanting only to know whether their homes were still theirs to live in. Doubled verification, the standing protocol since the support tower years before, had never been built for triage at this scale — it assumed time enough to be certain before committing to an answer, and today there wasn't time enough for that on every single structure without abandoning some of them to guesswork.
 
 He made the call he'd never had to make before: a single fast pass on every structure first, sorting the district into three piles by ear alone — clearly stable, clearly failing, and genuinely uncertain — before spending the doctrine's real, doubled care only on the uncertain third. Twenty-six buildings cleared within the hour on a single confident read each. Nine condemned outright, their tension screaming wrong even at a sprinter's pace past them. Six left for the afternoon's slower, careful work, the only six that actually earned the full protocol's time.
 

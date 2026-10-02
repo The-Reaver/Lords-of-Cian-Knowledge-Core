@@ -1,10 +1,10 @@
 # The Names He Started Writing Down
 
-*Locked canon, Batch 286, 2026-09-11 (`MCD-1519`). Captain Alias Chronicle XCIX, wave 33, closing the wave. Kanja takes his first concrete step toward the promise made at "The Promise for After He's Gone" (`MCD-920`) and renewed at Garren Hask's memorial (`MCD-1423`): becoming the one who remembers.*
+*Locked canon, Batch 286, 2026-09-11 (`MCD-1519`). Captain Alias Chronicle XCIX, wave 33, closing the wave. Kanja takes his first concrete step toward the promise made at "The Promise for After He's Gone" (`MCD-920`) and renewed at Garren Hask's memorial (`MCD-1423`): becoming the one who remembers. Corrected Batch 321, 2026-10-02: stripped a leaked inline rule-ID citation from the narrative prose and fixed it -- Tam Sullen's death is part of the Black Trench account (`MCD-232`), not Iron Shallows (`MCD-233`, the citation the earlier draft used).*
 
 ---
 
-He didn't call it anything grand. He simply asked Efa Gol, on an evening with nothing urgent pulling at either of them, whether she'd sit with him for an hour and tell him about Tam Sullen — not the Black Trench account already written into the crew's own history at `MCD-233`, not the ten seconds her hands had shaken before she picked her weapon back up, but the ordinary things. What Sullen had sounded like laughing. Whether he'd been any good at cards.
+He didn't call it anything grand. He simply asked Efa Gol, on an evening with nothing urgent pulling at either of them, whether she'd sit with him for an hour and tell him about Tam Sullen — not the Black Trench account already written into the crew's own history, not the ten seconds her hands had shaken before she picked her weapon back up, but the ordinary things. What Sullen had sounded like laughing. Whether he'd been any good at cards.
 
 "That's not the kind of thing that goes in a ledger," Efa Gol said, though she sat down anyway.
 

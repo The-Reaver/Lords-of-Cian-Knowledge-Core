@@ -1,10 +1,10 @@
 # The Peer Who Had No One Left to Teach
 
-*Locked canon, Batch 263, 2026-09-11 (`MCD-1349`). Storm That Walks Alias Chronicle LXXVI, wave 26, first entry in the wave. The rival fleet's own weather tradition faces its own succession crisis -- their forecaster is aging with no successor trained, mirroring Sephtis's own early crisis from the other side of the truce.*
+*Locked canon, Batch 263, 2026-09-11 (`MCD-1349`). Storm That Walks Alias Chronicle LXXVI, wave 26, first entry in the wave. The rival fleet's own weather tradition faces its own succession crisis -- their forecaster is aging with no successor trained, mirroring Sephtis's own early crisis from the other side of the truce. Corrected Batch 321, 2026-10-02: a "fifteen-year peace" timeline slip is reworded to a handful of years' peace, matching `MCD-1354`'s own "two years earlier" relative framing for the truce's actual span, and an inline rule-ID citation is removed from the narrative prose.*
 
 ---
 
-The rival fleet's forecaster had cross-checked the failed call in `MCD-1346` from a genuine peer's respect, the way she always had since the truce began -- but it was the manner of the cross-check, this time, that told the student something was wrong. It had taken her longer than usual. Her hand, when she finally sent word, wasn't as steady on the chart as it had been two seasons earlier.
+The rival fleet's forecaster had cross-checked the failed call from a genuine peer's respect, the way she always had since the truce began -- but it was the manner of the cross-check, this time, that told the student something was wrong. It had taken her longer than usual. Her hand, when she finally sent word, wasn't as steady on the chart as it had been two seasons earlier.
 
 The student raised it carefully, at their next truce meeting, the way one professional raises a concern with another rather than an intrusion. "You've trained no one," she said. It wasn't quite a question.
 
@@ -16,7 +16,7 @@ The student raised it carefully, at their next truce meeting, the way one profes
 
 "I'm suggesting the thing your own tradition might not survive is deciding in advance where the right student has to come from." The student thought of the boy she'd chosen for her own fourth generation -- picked not for resembling her, but for the opposite. "I looked for someone who thought like me, at first. It was the wrong instinct. The right one came from somewhere I hadn't thought to look."
 
-The rival forecaster didn't answer immediately. She looked out at open water where both fleets rode at anchor under the truce's own long-held mutual berth, a fifteen-year peace neither side had expected to hold this well when it started.
+The rival forecaster didn't answer immediately. She looked out at open water where both fleets rode at anchor under the truce's own long-held mutual berth, a handful of years' peace neither side had expected to hold this well when it started.
 
 "If my tradition dies with me," she said finally, "it dies honestly, having taught what it could to whoever was willing to learn it. That's not nothing."
 

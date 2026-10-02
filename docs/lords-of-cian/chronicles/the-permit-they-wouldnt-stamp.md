@@ -1,10 +1,10 @@
 # The Permit They Wouldn't Stamp
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1365`). Captain Alias Chronicle LXV, wave 22. The crew's peacetime economy runs into Sovereign Trust reconstruction bureaucracy for the first time -- pure institutional friction, no combat.*
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1365`). Captain Alias Chronicle LXV, wave 22. The crew's peacetime economy runs into Sovereign Trust reconstruction bureaucracy for the first time -- pure institutional friction, no combat. Corrected Batch 321, 2026-10-02: stripped a leaked inline rule-ID citation from the narrative prose (kept in the continuity notes only).*
 
 ---
 
-The letter, when it finally came, wasn't a threat. It was worse in its own small way: a docking-and-trade permit application for Pier Nine, filed in good faith six weeks earlier at a reconstruction office's own polite insistence, returned unstamped with a note citing an ownership-registry requirement nobody aboard any of the three ships could satisfy, because none of them had ever held a deed to anything. The crew that had fed twelve hundred people at a Trust granary eight months before (`MCD-1091`) now couldn't legally moor its own boats without a piece of paper proving who owned a pier they'd simply always used.
+The letter, when it finally came, wasn't a threat. It was worse in its own small way: a docking-and-trade permit application for Pier Nine, filed in good faith six weeks earlier at a reconstruction office's own polite insistence, returned unstamped with a note citing an ownership-registry requirement nobody aboard any of the three ships could satisfy, because none of them had ever held a deed to anything. The crew that had fed twelve hundred people at a Trust granary eight months before now couldn't legally moor its own boats without a piece of paper proving who owned a pier they'd simply always used.
 
 Garren Hask read the notice three times looking for the trick in it and found only ordinary bureaucracy, which he found somehow more infuriating than an ambush. "Twelve years of war and it's a registry clerk who finally stops us."
 

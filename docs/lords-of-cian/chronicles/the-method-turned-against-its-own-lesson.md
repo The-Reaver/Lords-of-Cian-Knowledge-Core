@@ -1,6 +1,9 @@
 # The Method Turned Against Its Own Lesson
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1293`). Iron Bastard Alias Chronicle LXXIV, wave 25. A detailed confrontation showcase as Kanja stops his own former student without killing him. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1293`); corrected Batch 321, 2026-10-02 (the Trinity
+gear reworded to the Long-Mask-era kit, since wave 25 falls years past the Trinity's age-30
+surrender, `MCD-246`). Iron Bastard Alias Chronicle LXXIV, wave 25. A detailed confrontation
+showcase as Kanja stops his own former student without killing him. Not a territory Chronicle.*
 
 ---
 
@@ -8,7 +11,7 @@ He found the man exactly where the report said he'd be, standing over the granar
 
 "You're further from home than usual," the man said, not turning around, the way a student greets a teacher he half-expected and half-hoped never to see again. "I assume you've heard."
 
-"I've heard." Kanja closed the distance slowly, deliberately unarmed in his stance though Mafesto stood ready at a word. "I'd like to hear it from you before I decide anything else."
+"I've heard." Kanja closed the distance slowly, deliberately unarmed in his stance though the Ironhand Gauntlets were ready at a word. "I'd like to hear it from you before I decide anything else."
 
 "There's nothing complicated to hear. I passed your trial, went home with your certificate, and discovered that a real, honest technique is worth exactly nothing if nobody's willing to pay for the honest version of it. So I found people willing to pay for the other kind." He finally turned, no shame visible in it, something closer to defiant justification. "You taught me the granary owner in your story deserved what he got, morally, even if your student didn't take it from him. I decided I wasn't willing to wait for morality to eventually get around to paying my debts."
 
@@ -16,7 +19,7 @@ He found the man exactly where the report said he'd be, standing over the granar
 
 "I understood it. I rejected it. Those aren't the same as forgetting it." He didn't reach for the granary's foundation again, didn't discharge anything — the confrontation itself seemed to have settled the immediate threat without a second act needed. "What happens now?"
 
-Kanja didn't answer immediately. Obsidian Malice stayed silent at his side; Mafesto's Kinetic Transfer System held ready without engaging; Onyx remained sheathed. This wasn't a structure to be read and this wasn't an enemy to be broken — it was a former student standing in the wreckage of a lesson that had genuinely taken, just not in the direction anyone had intended.
+Kanja didn't answer immediately. The Ironhand Gauntlets stayed still at his side; the Forge-Coat and Ironfall Boots' grounding held ready without engaging; the Rexmar Machete remained sheathed. This wasn't a structure to be read and this wasn't an enemy to be broken — it was a former student standing in the wreckage of a lesson that had genuinely taken, just not in the direction anyone had intended.
 
 "What happens now is you stop," Kanja said finally. "Not because I'll force you to, though I could, and you know it. Because you told me the truth just now instead of running or lying about it, the same as my first student did once, over a granary that could have gone the same way this one did. That still means something to me, even now."
 

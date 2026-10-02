@@ -1,9 +1,11 @@
 # The Storm That Made Enemies Allies
 
-*Locked canon, Batch 190, 2026-09-11 (`MCD-555`). The Storm That Walks Alias Chronicle XVI, first
+*Locked canon, Batch 190, 2026-09-11 (`MCD-555`). The Storm That Walks Alias Chronicle XIII, first
 entry in the fifth wave. Rebellion era, age 29, the Gale Straits. Not a territory Chronicle. New
 standalone material — a detailed, large-scale combat-and-survival showcase per Abad's craft
-instruction. Narrated in neutral third-person prose. No new named characters.*
+instruction. Narrated in neutral third-person prose. No new named characters. Corrected Batch 321,
+2026-10-02: renumbered from the duplicate "Chronicle XVI" (which collided with `MCD-561`'s own
+correctly-numbered wave 6 entry) to the correct "Chronicle XIII."*
 
 ---
 

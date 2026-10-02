@@ -1,6 +1,6 @@
 # The Clerk Who Sold What Wasn't His
 
-*Locked canon, Batch 286, 2026-09-11 (`MCD-1520`). Captain Alias Chronicle C, wave 34. The sub-series' first purely voluntary, uncoerced betrayal for personal gain -- and the charter's first real test on a question it never addressed: what happens when someone must be removed, not merely chooses to leave.*
+*Locked canon, Batch 286, 2026-09-11 (`MCD-1520`). Captain Alias Chronicle C, wave 34. The sub-series' first purely voluntary, uncoerced betrayal for personal gain -- and the charter's first real test on a question it never addressed: what happens when someone must be removed, not merely chooses to leave. Corrected Batch 321, 2026-10-02: stripped a leaked inline rule-ID citation from the narrative prose (kept in the continuity notes only).*
 
 ---
 
@@ -8,7 +8,7 @@ Nobody's family was being held anywhere this time. Nobody's sister was leverage 
 
 Danne Sok's daughter noticed. It was her own careful counting, learned the ordinary slow way from Garren Hask's own methods, that caught the shortfall's pattern where a less patient audit would have missed it — a fifth, consistently, never enough at once to be obvious, always covered by rounding that looked innocent until four months of it sat next to each other on one page.
 
-The dispute council convened, and for the first time in its history, found the charter simply had nothing to say. Membership was free to leave, per Maret Vos's own precedent (`MCD-593`). The founding generation's mortality was accounted for. Nothing anywhere addressed what the crew did when someone had to be made to go — not chosen to, made to — for reasons that weren't coercion, weren't a mistake honestly owned, weren't anything but plain theft from people who'd trusted him with their own hunger.
+The dispute council convened, and for the first time in its history, found the charter simply had nothing to say. Membership was free to leave, per Maret Vos's own precedent. The founding generation's mortality was accounted for. Nothing anywhere addressed what the crew did when someone had to be made to go — not chosen to, made to — for reasons that weren't coercion, weren't a mistake honestly owned, weren't anything but plain theft from people who'd trusted him with their own hunger.
 
 "We built this whole thing assuming everyone who ever left us would leave with clean hands," Corren Halst said. "We never once planned for someone who wouldn't."
 

@@ -124,7 +124,7 @@ for rid, new_statement in AMENDMENTS.items():
     rules_by_id[rid]["statement"] = new_statement
 
 ledger["batches_completed"].append({
-    "batch": 321,
+    "batch": 322,
     "date": str(date.today()),
     "source": SOURCE,
     "rule_count": 0,

@@ -9,19 +9,21 @@ was a secret worth keeping but because he wasn't sure yet how to say it in a way
 the work itself into a performance of its own ending, and the ninety-four people still chained below
 the deck ahead of them didn't need their rescue to become somebody's farewell.
 
-So it ran the way it always ran. Efa Gol's successor, gray at the temples now herself, took the
-boarding party across the forward deck exactly as doctrine called for. The Forge-Coat's V4 weave
-turned aside a boarding pike without him breaking stride. The Ironhand Gauntlets closed a chained
-hatch shut on a man trying to reach the powder store before he got there. Ninety-four people came up
-into open air within the hour, and not one of them knew, watching the coat and the eyes and the
-gauntlets do exactly what two hundred and eighty-odd years of reputation had promised they would do,
-that they were the last to see it happen.
+So it ran the way it always ran, mostly. Efa Gol's successor, gray at the temples now herself, led
+the boarding party across the forward deck exactly as doctrine called for, carrying most of the
+engagement herself while he held the center and read the ship's layout for her. The Forge-Coat's V4
+weave turned aside the one boarding pike that reached him without him breaking stride. It was the
+successor's own hand, not his, that slammed the chained hatch shut on a man trying to reach the
+powder store, a half-step ahead of where he'd have gotten there on a better day. Ninety-four people
+came up into open air within the hour, and not one of them knew, watching the coat and the eyes and
+the gauntlets do exactly what two hundred and eighty-odd years of reputation had promised they would
+do, that they were the last to see it happen.
 
 It was after, on the walk back to the boats, that the thought finally settled into something he could
 say out loud, to no one in particular, quiet enough that only the successor beside him caught it.
 
-"Two hundred and eighty-four years," he said. "That's how long it's been since a morning on a burned
-wharf I didn't plan and didn't choose."
+"Two hundred and eighty-four years," he said. "That's how long the Long Mask has run, since a morning
+on a burned wharf set its shape — not planned, not chosen, just the thing it became."
 
 "You're saying it's done."
 
@@ -44,4 +46,10 @@ chooses to end it consciously rather than let it drift into unexamined habit; de
 name what alias or era follows, leaving that open for whichever future material addresses it. Efa
 Gol's already-established, still-unnamed successor appears, aged accordingly. No new named
 characters. Closes the Scourge's nineteenth wave (with "The Family He Helped Her Find" and "The Night
-the Crew Took Someone In").*
+the Crew Took Someone In"). Corrected Batch 321, 2026-10-02: reworded the "two hundred and
+eighty-four years... since a morning on a burned wharf" line to anchor the span to the Long Mask
+itself rather than to Ash-Wharf (age 22) directly -- 314-22 is 292 years, not 284, so the two counts
+cannot share a single number; and softened the boarding-action physical beats per Abad's ruling on
+Kanja's locked late-Long-Mask physical decline (`MCD-271`'s "good days vs. bad days"), shifting the
+hands-on work to the successor while Kanja directs and assists, without changing the outcome (94
+freed, within the hour).*

@@ -422,7 +422,7 @@ for r in NEW_RULES:
     ledger["rules"].append(r)
 
 ledger["batches_completed"].append({
-    "batch": 321,
+    "batch": 323,
     "date": str(date.today()),
     "source": SOURCE,
     "rule_count": len(NEW_RULES),

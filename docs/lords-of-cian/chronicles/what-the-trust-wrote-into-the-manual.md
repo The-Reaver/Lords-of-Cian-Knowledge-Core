@@ -36,7 +36,7 @@ her -- not a name, but a requirement: that any officer disputing a certified rea
 request the reader's full record before overriding the call, not merely their rank or their years. Written
 now, permanently, where no single skeptical liaison could ever again make her prove it from scratch.
 
-She folded the document and set it beside the ledger the successor had handed her a season ago, two
+She folded the document and set it beside the ledger the successor had handed her three years ago, two
 different kinds of inheritance on the same table.
 
 "Three generations," she said, "and now it doesn't even need us in the room."
