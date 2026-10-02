@@ -9,7 +9,9 @@ attempt, caught and contained by local authorities before triggering, whose plan
 closely matches the Brokenwall/Velaris method. Deepens rather than resolves -- confirms only that
 whoever built those two nodes may still be active, decades later, without identifying them or connecting
 the finding to any other open thread in this series. No new named characters; Aerelin already locked.
-Closes this wave's Strand L run. Part of the second Lauris 50-Chronicle wave (Chronicles LX-CIX),
+Closes this wave's Strand L run. Corrected Batch 334, 2026-10-02: "decades" corrected to "centuries"
+(four instances) to match her true ~6,000-year age (`MCD-1533`); narrative-prose "this wave" reworded
+to "this season" (two instances). Part of the second Lauris 50-Chronicle wave (Chronicles LX-CIX),
 drafted under Abad's continued blanket authorization for this run.*
 
 -----
@@ -19,8 +21,8 @@ question. I closed Velaris's file with a destroyed node and the same question, u
 I am reopening both files tonight, because the question has just answered a small part of itself: it is
 not old. It is still working."*
 
-I want to close this season's Strand L account with the report that reached Lauris last, though I
-believe, having watched her sit with it longer than she has sat with anything else in this wave, that it
+I want to close this season's account of her standing debts with the report that reached Lauris last, though I
+believe, having watched her sit with it longer than she has sat with anything else this season, that it
 may prove the heaviest of everything this series has recorded so far — heavier, in its way, than a
 missing sample or a misused name, because it concerns a question she has carried, unresolved, since
 before I began keeping her record at all: who planted the resonance nodes that triggered the Brokenwall
@@ -36,19 +38,19 @@ that Lauris recognized the method before she had finished the second paragraph.
 
 *
 
-"I have spent decades assuming Brokenwall and Velaris were an isolated pair," she told me, once she had
+"I have spent centuries assuming Brokenwall and Velaris were an isolated pair," she told me, once she had
 finished reading the full report a second time. "Two activations, eighteen months apart, and then
 nothing — no third instance in all the years since, which I allowed myself to read, eventually, as
 either the actor having stopped, or having been stopped by some cause I never learned of. I did not
 allow myself to seriously consider the third possibility: that the actor simply had no further reason to
-activate anything, for decades, until now."
+activate anything, for centuries, until now."
 
 The device itself, by the report's own account, closely matched the construction method Lauris privately
 documented at both Brokenwall and Velaris — small, deliberately hidden in a location of civic
 significance, built to be triggered from outside rather than to activate spontaneously. What the report
 could not tell her, and what she has no current way of determining without traveling to the settlement
 herself, is whether the device was recently planted or had simply sat, undiscovered, for as long as the
-two she cleared decades ago — a distinction, she was careful to point out to me, that changes the entire
+two she cleared centuries ago — a distinction, she was careful to point out to me, that changes the entire
 shape of the question. A recently planted device means the actor is still active, still building, still
 choosing targets. A decades-old device, only now discovered, means nothing has necessarily changed at
 all, and she has simply been granted, by chance, a third data point in a mystery she had otherwise
@@ -78,7 +80,7 @@ decided which answer frightens me less.*
 I do not know, setting this down, whether this device will lead anywhere at all, or whether it will join
 the long list of this season's threads that advanced without resolving — a name spent by strangers, a
 curriculum that may or may not still be taught, twelve men whose fates remain half-known, a designation
-Lauris has only just set out to reach. I know only that a question she believed, for decades, to be
+Lauris has only just set out to reach. I know only that a question she believed, for centuries, to be
 permanently unanswerable has, in this account, become active again — and that for a woman who has spent
 six thousand years closing every ledger force could close, I have rarely seen her look more carefully at
 one she cannot yet be certain she wants opened.

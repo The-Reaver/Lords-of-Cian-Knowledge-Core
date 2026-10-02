@@ -8,14 +8,16 @@ cleanliness and the Directorate's were not the same standard") to the twelve Iro
 disabled rather than terminated during the same boarding, whose fate in Directorate custody she has
 never investigated. Deepens rather than resolves -- the search begins and returns a genuinely mixed,
 inconclusive result rather than a clean answer. No new named characters; Captain Drenneth, the Iron
-Veth, and Vael Korr-Drennen already locked. Part of the second Lauris 50-Chronicle wave (Chronicles
+Veth, and Vael Korr-Drennen already locked. Corrected Batch 334, 2026-10-02: "decades" corrected to
+"centuries" (three instances) to match her true ~6,000-year age (`MCD-1533`); "this wave" reworded to
+"this season." Part of the second Lauris 50-Chronicle wave (Chronicles
 LX-CIX), drafted under Abad's continued blanket authorization for this run.*
 
 -----
 
 *Archive fragment, present-day: "Six dead by my own hand, at the time, at least a clean accounting. Twelve
 disabled and delivered, which I believed was the mercy. I have just learned that mercy and delivery were
-never the same promise where the Directorate was concerned. I should have learned this decades ago,
+never the same promise where the Directorate was concerned. I should have learned this centuries ago,
 from Drenneth alone."*
 
 I have written, in this series, of Captain Drenneth — the defector Lauris acquired alive aboard the Iron
@@ -28,7 +30,7 @@ she struck down, by her own account, specifically to preserve rather than end, a
 thoroughly as Drenneth himself, to an institution whose account of what happened next she has just told
 me, plainly, that she has never once verified.
 
-The question arose, as so many in this wave have, sideways rather than directly — raised in passing
+The question arose, as so many in this season have, sideways rather than directly — raised in passing
 during a conversation with Vael Korr-Drennen about an unrelated registry, when the historian mentioned,
 almost as an aside, that Directorate processing records for non-lethal captures from the Established
 Hunter period were kept in a separate archive from acquisition contracts proper, and that the two were
@@ -41,7 +43,7 @@ before.
 "I have spent this season learning that I trusted an institution's paperwork considerably more than I
 should have," Lauris told me, once she had explained what the aside had made her realize. "I learned it
 first with Sample K-403's register, which told me a fragment was 'disposed of' and meant, I now believe,
-only that someone wanted it to read that way. I learned it again, decades ago, with Drenneth himself,
+only that someone wanted it to read that way. I learned it again, centuries ago, with Drenneth himself,
 though I did not generalize the lesson at the time the way I should have. I have twelve names — men I
 chose, specifically, not to kill — and I have never once asked what the institution did with the mercy
 I handed it."
@@ -67,7 +69,7 @@ comfortable version of this story — twelve men spared, a clean mercy, a contra
 longer than the evidence, now that I have actually looked at it, appears to support."
 
 She has not decided what, if anything, can still be done for the eight uncertain names, this many
-decades after the fact. She has told me only that she intends to keep looking, alongside Vael
+centuries after the fact. She has told me only that she intends to keep looking, alongside Vael
 Korr-Drennen's own continuing search through the same decommissioned registries already carrying two
 other open threads of hers, and that she no longer considers any Directorate captivity record — hers or
 anyone else's — settled simply because the paperwork says it is.

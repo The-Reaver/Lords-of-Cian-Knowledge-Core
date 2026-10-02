@@ -9,7 +9,12 @@ conclude, well ahead of her later Directorate-sourced confirmation, that the K-s
 (`MCD-153` through `MCD-157`) had been deliberate engineering rather than natural catastrophe, and
 that whoever was responsible had obtained material directly from Kares Prime during the deep
 cooperative era. Notes the already-locked naming coincidence distinguishing this site from Kares
-Prime's own Iron-Halls of Vask. No new named characters. Zero collisions.*
+Prime's own Iron-Halls of Vask. No new named characters. Corrected Batch 334, 2026-10-02: Olda's
+instruction corrected from Vask Karth-Ven to Vask Threnarr (where Olda stayed); the Iron-Halls of
+Vask's description corrected (Lauris trained at Karth-Ven's own floor, not the Iron-Halls directly);
+the K-strand decline's cause reframed as the already-proposed introduced-agent hypothesis acquiring
+its first physical evidence, rather than a new, unsourced claim; "seventy-five thousand years"
+corrected to "fourteen centuries" to match her true ~6,000-year age (`MCD-1533`). Zero collisions.*
 
 -----
 
@@ -28,7 +33,7 @@ assessed. It did not, by any indication in the brief, expect the assignment to m
 I record here, because I believe the coincidence deserves the small notice Lauris herself gave it,
 that the Iron-Halls of Velkar share their name with nothing more significant than an accident of
 regional naming convention — unrelated to Kares Prime's own Iron-Halls of Vask, the archive complex
-in which Lauris herself trained across the centuries of her Long Operational Period. She noted this in
+at the center of her civilization's memory. She noted this in
 her own entry, briefly and without elaboration, the way she notes most coincidences that turn out to
 mean nothing: as a fact recorded for completeness rather than significance.
 
@@ -40,7 +45,7 @@ its calibration plates and maintenance annotations rendered in a script she reco
 recognized with a certainty that startled her more than the malfunction itself had.
 
 Cooperative-era Karesian technical language. Not the ceremonial or archival register she had grown up
-reading under Olda's instruction at Vask Karth-Ven, but the clipped, functional dialect of working
+reading under Olda's instruction at Vask Threnarr, but the clipped, functional dialect of working
 engineers — the kind of language, she has told me, that appears only on equipment meant to be read by
 people who already knew how to operate it, never on anything meant to travel beyond Karesian internal
 use. She had seen it, until that day, only in the Sister-Hold's own preserved archives and in her own
@@ -66,9 +71,10 @@ been engineered — only proof that whoever had built the apparatus beneath Velk
 Prime deeply enough, and early enough, to walk away with more than biological material. But she has
 told me, directly, that Operation 23 is the operation at which she first allowed herself to hold the
 harder conclusion as a working theory rather than a discarded possibility: that the catastrophe which
-had ended her own people's cooperative era, the collapse the Threnarr archivists had spent seventy-five
-thousand years investigating without ever settling its cause, might not have been the natural failure
-every account she had been raised on described it as.
+had ended her own people's cooperative era, the collapse the Threnarr archivists had spent fourteen
+centuries investigating without ever confirming its cause, might not have been natural at all -- that
+the introduced-agent hypothesis the Threnarr archivists had proposed and never been able to confirm
+had, beneath Velkar, just acquired its first physical evidence.
 
 She would not have this confirmed for her, by Ezio's own briefing drawing on Sephtis's archives, for
 a great many operations still to come. She has told me plainly that Operation 23 was not that

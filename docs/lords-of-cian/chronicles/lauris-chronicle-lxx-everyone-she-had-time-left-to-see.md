@@ -8,7 +8,10 @@ instructors at Vask Karth-Ven, closing on a final private visit to Karth-Ven's c
 -- the same floor Chronicle XX (`MCD-1637`) showed failing to measure her -- before she leaves the Vask
 for the last time. Reuses Veska Karth-Ven, Tiramen Karth-Ven, and Voreth Karth-Ven, all already
 locked. Introduces one new minor named character, Rassa (collision-checked clean, zero prior hits), a
-surviving member of Lauris's original 47-child cohort (`MCD-165`), for a single farewell scene. No
+surviving member of Lauris's original 47-child cohort (`MCD-165`), for a single farewell scene.
+Corrected Batch 334, 2026-10-02: Voreth's pronouns corrected to she/her -- Kares Prime is single-sex
+after Vael Threnarr-Karth's death; an age-arithmetic fix to match her true ~6,000-year age
+(`MCD-1533`). No
 contradictions.*
 
 -----
@@ -67,8 +70,8 @@ student the existing curriculum could not contain, said the least of the three a
 account, the thing she has returned to most often in the years since: *I built a discipline for a
 girl I did not fully understand. I am glad, now, that I never finished understanding you. I think
 that is what let you outgrow it as thoroughly as you have.* Voreth, closest to her in relative age
-and her first sparring partner, said only that he expected to still be training students on this same
-floor when word of whatever she became eventually reached them, and that he intended to tell every one
+and her first sparring partner, said only that she expected to still be training students on this same
+floor when word of whatever she became eventually reached them, and that she intended to tell every one
 of them her name. Veska, who had carried her request to the Iron-Speakers three hundred and eighty
 years earlier and waited out the whole of that deliberation beside her, said the most, and I have
 chosen it as the entry's true closing line, because I believe it is the one Lauris herself carried
@@ -80,8 +83,8 @@ taught us that word ought to mean.*
 *
 
 She stayed alone on the training floor after they had gone, by her own brief account, for perhaps an
-hour — the same sixty meters of continuously calibrated Drakma that had, twenty years before her
-own arrival there, begun failing to measure her, and had never fully recovered the capacity to. She
+hour — the same sixty meters of continuously calibrated Drakma that had, some eight and a half centuries
+earlier, begun failing to measure her, and had never fully recovered the capacity to. She
 does not record what she thought, standing on it a final time. She records only that she left it
 before dawn, walked the mountain passage out of Karth-Ven without looking back a second time, and
 did not return to it again before the day, some weeks later, that she departed Kares Prime for good.

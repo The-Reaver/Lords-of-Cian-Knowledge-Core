@@ -6,9 +6,11 @@ riverbed container (previously only summarized at `MCD-178`: "a sealed container
 Velkar riverbed, of unknown contents, delivered unopened to the Directorate's senior archive, where
 it remains sealed in the present day"). Set within the Apprentice Contracts, the third of the three
 Apprentice-period Ionic Rite encounters `MCD-178` names. Reuses the already-locked Velkar riverbed
-location (`MCD-1534`, Operation 4). Deliberately preserves the container's contents as unknown, per
+location (`MCD-178`, Operation 8). Deliberately preserves the container's contents as unknown, per
 `MCD-178`'s own present-day framing -- no reveal, no opening, matching the reserved-mystery
-precedent already established elsewhere in her Strand L material. No new named characters. No
+precedent already established elsewhere in her Strand L material. No new named characters. Corrected
+Batch 334, 2026-10-02: the location cross-reference citation corrected from "MCD-1534, Operation 4"
+(an unrelated operation) to "MCD-178, Operation 8" (this operation's own already-locked summary). No
 contradictions with any already-locked rule.*
 
 -----

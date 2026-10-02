@@ -7,7 +7,9 @@ subject genuinely living, alongside a new, unwelcome detail -- indications the h
 preparing to transfer its contained population within the season. Deliberately does not resolve whether
 she reaches CP-609 in time, whether an approach is even possible, or what "reaching" will mean in
 practice; ends with Lauris departing rather than arriving. No new named characters; CP-609 and Vael
-Korr-Drennen already locked. Part of the second Lauris 50-Chronicle wave (Chronicles LX-CIX), drafted
+Korr-Drennen already locked. Corrected Batch 334, 2026-10-02: "decades before" corrected to "centuries
+before" to match her true ~6,000-year age (`MCD-1533`). Part of the second Lauris 50-Chronicle wave
+(Chronicles LX-CIX), drafted
 under Abad's continued blanket authorization for this run.*
 
 -----
@@ -19,7 +21,7 @@ I do not think I have seen Lauris hold a piece of confirmed intelligence as care
 this one, in the weeks since Vael Korr-Drennen's continued search through the decommissioned
 registries first surfaced the designation CP-609. I have written, elsewhere in this series, of her
 patience the last time this information arrived — a deliberate refusal to move on incomplete evidence,
-chosen specifically because she did not want to repeat, by reflex, the outcome she gave CP-414 decades
+chosen specifically because she did not want to repeat, by reflex, the outcome she gave CP-414 centuries
 before. This account concerns what changed once the evidence stopped being incomplete.
 
 The confirmation, when it came, arrived in two pieces rather than one. The first, through Vael

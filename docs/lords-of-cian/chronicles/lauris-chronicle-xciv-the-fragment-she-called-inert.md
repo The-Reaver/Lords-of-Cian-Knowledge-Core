@@ -5,16 +5,19 @@ Chronicle series, part of Strand L. Opens a new archival debt among the roughly 
 artifacts of various provenance recovered across her Directorate career (`MCD-1560`): a control
 fragment salvaged from the Vask of the Hollow's central resonance node during Operation 20, before
 its destruction (`MCD-1537`), and delivered under a generic inert-wreckage classification she now
-has reason to doubt. Deliberately left unlocated. No new named characters. Narrated by Fermand
+has reason to doubt. Deliberately left unlocated. No new named characters. Corrected Batch 334,
+2026-10-02: age-arithmetic fixes ("twenty-two centuries" to "nearly two thousand years"; "over two
+thousand years" to "the better part of two thousand years") to match her true ~6,000-year age
+(`MCD-1533`); "this wave" reworded to "this season." Narrated by Fermand
 Aurelias.*
 
 -----
 
 *Archive fragment, present-day: "I destroyed the node. I kept a piece of it, because a piece of it
-seemed worth understanding. I called that piece inert on a form I filled out twenty-two centuries
-ago. I no longer trust the woman who filled out that form to have known what she was looking at."*
+seemed worth understanding. I called that piece inert on a form I filled out nearly two thousand
+years ago. I no longer trust the woman who filled out that form to have known what she was looking at."*
 
-I have transcribed, across this wave of Lauris's archive, several accounts of debts she assumed
+I have transcribed, across this season of Lauris's archive, several accounts of debts she assumed
 closed because an institution's own paperwork told her they were closed -- Sample K-403, filed and
 believed lost; the four Operation 38 facilities, reported and believed resolved. I want to record
 a fifth account in the same family, though its origin lies considerably further back than any of
@@ -45,7 +48,7 @@ career suggested it might be anything else.
 what I genuinely believed at the time. I simply did not yet know enough to believe correctly."
 
 What has changed her assessment is not any new information about the fragment itself, which she
-has not seen in over two thousand years, but the accumulated pattern she has since traced across
+has not seen in the better part of two thousand years, but the accumulated pattern she has since traced across
 Settlement K-447, Brokenwall, and Velaris -- three separate sites where a small, deliberately
 placed resonance node, keyed by a specific and repeatable act, could reactivate a facility's
 dormant capability from outside, without requiring the facility's own central architecture to

@@ -5,7 +5,9 @@ Chronicle series, Strand W. A stakes-free entry pairing Lauris with Matar (`CC-1
 most reserved member -- an evening spent helping him identify an unlabeled compound in the
 Apothecary, his six-century toxin case, conducted almost entirely in comfortable silence. Puts
 `CC-134`'s combat-joy trait on the page in its quietest register yet: satisfaction taken in patient,
-unhurried, largely wordless work. No new named characters.*
+unhurried, largely wordless work. Corrected Batch 334, 2026-10-02: "thirty years" corrected to "two
+hundred years" to match Fermand's ~200-year tenure (MCD-194/271); "six centuries of crew history"
+corrected to "four centuries." No new named characters.*
 
 -----
 
@@ -13,9 +15,9 @@ unhurried, largely wordless work. No new named characters.*
 sentence requires. I have found I do not mind this. Most evenings require fewer sentences than
 people spend on them."*
 
-There is little I can say of Matar with any confidence, and I say this as a man who has spent thirty
-years making a profession of confident description, because he has given me, across six centuries of
-crew history preceding my own account of it, remarkably little to work with. Six hundred years of
+There is little I can say of Matar with any confidence, and I say this as a man who has spent two
+hundred years making a profession of confident description, because he has given me, across four
+centuries of crew history preceding my own account of it, remarkably little to work with. Six hundred years of
 discipline built him into something no variant biology could improve on, and I have come to
 understand that the discipline itself extends to conversation, which he treats, so far as I have
 observed, with the same extended, unhurried study he brings to a target before he ever engages it --

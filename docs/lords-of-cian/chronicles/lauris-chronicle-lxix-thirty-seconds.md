@@ -7,7 +7,9 @@ Dramatizes directly, for the first time, Selene's death in a Vask Threnarr defen
 locked at `MCD-174` -- Lauris fighting at her side, killing the attacker within thirty seconds of
 Selene's death, too late -- and the writing of the archive line already locked at `MCD-1558` ("Thirty
 seconds. The Hold continues. Selene does not.") in its full original context for the first time. No
-new named characters; reuses Selene Aldreth-Vorr, already locked. No contradictions.*
+new named characters; reuses Selene Aldreth-Vorr, already locked. Corrected Batch 334, 2026-10-02: the raider's origin
+corrected from "a Karesian veteran" to "a veteran raider" (the raiders are non-Karesian); two
+age-arithmetic fixes to match her true ~6,000-year age (`MCD-1533`). No contradictions.*
 
 -----
 
@@ -44,7 +46,7 @@ differed had she been standing three paces closer, or had she read the collapsin
 Selene's flank one half-second sooner than she did. I have chosen, in the years I have spent
 narrating this family, not to speculate further than her own record permits, because I think the
 speculation is a kind of cruelty her archive itself refuses to indulge in. What she records is only
-this: a Karesian veteran twice Selene's raw density, breaking through a formation gap that should
+this: a veteran raider twice Selene's raw density, breaking through a formation gap that should
 not have existed, closing the distance faster than the defensive line's own coordination could
 compensate for. Selene fell. Lauris killed the attacker within thirty seconds of the blow landing.
 
@@ -70,10 +72,10 @@ lines, which I have chosen to place here, finally, in the context that gives the
 
 I have read those nine words perhaps a hundred times since I first found them, long before I
 understood what stood behind them. I understand it now. The Hold continues is not, I have come to
-believe, a statement of indifference. It is the same principle she gave to Doreth at Aldreth, eight
-hundred and fifty years before this — that the people inside a thing matter independently of whether
+believe, a statement of indifference. It is the same principle she gave to Doreth at Aldreth, some six
+hundred years before this — that the people inside a thing matter independently of whether
 it survives them — turned, for the first time in this whole long chronicle, against the one person
-whose survival she had never once, in over two thousand years, allowed herself to imagine
+whose survival she had never once, in nearly four thousand years, allowed herself to imagine
 questioning.
 
 *

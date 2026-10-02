@@ -12,7 +12,10 @@ dockside/support-crew figures this wave and the last have each given a Strand W 
 full framing directly on the page a second time, from the vantage of the crew's ordinary working
 members rather than its command-tier leads, without contradicting any individual entry already
 locked for those characters or for Garren Hask's later, considerably older material recorded
-elsewhere in the ledger. No new named characters. Written under Abad's blanket authorization: "go."*
+elsewhere in the ledger. No new named characters. Corrected Batch 334, 2026-10-02: a narrator-boundary
+fix ("I have written each of their stories elsewhere" reworded); four writers'-room "wave" references
+reworded to "season"; "the entire point of Strand W" reworded to plain in-world phrasing. Written
+under Abad's blanket authorization: "go."*
 
 ---
 
@@ -28,7 +31,7 @@ with anything grander. This crew is not made only of the leads whose burdens I h
 at length -- Kanja's grief, Ozmund's doubt, Ezio's deception, Anansi's rage, Valeria's perception,
 Sephtis's time. It is also made of the people who count the dead, mend the nets, read the failing
 stacks, judge the cracked hinges, and speak to the compounds that might otherwise take a hand. I have
-given each of them, across this wave and the one before it, an account of their own with Lauris. I
+given each of them, across this season and the one before it, an account of their own with Lauris. I
 want to give them one more, together, before I set this thread down.
 
 It happened, as these evenings so often seem to happen around her specifically, without anyone's
@@ -49,7 +52,7 @@ needed to say, in whatever configuration it happens to find her in.
 
 They did not speak of the war, though every one of them at that table carries some piece of it still
 -- Garren's tallies, Breck's rebuilt voice, Efa's decoy years, Pell's chemistry, Dol Maren's hulls.
-I have written each of their stories elsewhere in sufficient detail that I do not intend to retell
+Each of their stories is recorded elsewhere in sufficient detail that I do not intend to retell
 them here. What I want to record instead is the shape of the evening itself: Garren closing his ledger
 for the night without being asked to, an act I have rarely seen him extend even to himself; Breck
 saying, by my rough count, perhaps thirty words across the whole of it, and none of them wasted; Efa
@@ -69,13 +72,13 @@ surprise. "I don't believe I've had this many people at this table who weren't h
 larger than the gathering itself. I have found, across a great many years of being handed things that
 did mean something larger, that I like the ones that don't rather more than I expected to."
 
-I have written, across this whole wave, of an afternoon spent moving a boulder for no reason either of
+I have written, across this whole season, of an afternoon spent moving a boulder for no reason either of
 them could name, a courtyard where patience was spent on someone who would never need to match it, a
 kitchen where a crown-bearer failed cheerfully at bread, a stone struck first seventy-six thousand
 years before either visitor stood beside it, four hundred reports read for the sake of four, and a
 second lesson kept exactly as promised. None of it mattered, in the sense this crew's larger story
-usually measures mattering. I do not think that is a failing of the wave. I think it is closer to the
-entire point of Strand W, and I want to say so plainly here, at its close, rather than leave it only
+usually measures mattering. I do not think that is a failing of the season. I think it is closer to the
+entire point of these quiet accounts, and I want to say so plainly here, at its close, rather than leave it only
 implied.
 
 Pell was the last to speak before the table finally broke up for the night, addressing no one in
@@ -91,7 +94,7 @@ without ceremony, without anyone quite deciding it was time, simply the natural 
 had never needed a reason to begin. I have written, across sixty entries now spanning her deep past,
 her Directorate years, her still-open debts, and her ordinary present, that Lauris Letitia carries
 joy the way the rest of this crew's leads carry their own particular weights. I want to close this
-wave with the version of that claim I trust most, gathered from the people who rarely make it into the
+season with the version of that claim I trust most, gathered from the people who rarely make it into the
 grander chapters of this account at all: that joy, in her hands, has never once needed a battle worth
 winning to be worth the carrying. A full table, a closed ledger, an evening with nothing scheduled --
 by her own measure, and increasingly, I have come to think, by mine as well, that is more than enough

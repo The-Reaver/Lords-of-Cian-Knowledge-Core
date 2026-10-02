@@ -8,7 +8,8 @@ sparring and `MCD-1668` their wordless sparring, this one moves entirely off the
 show his Master-at-Arms patience (`MCD-291`) spent on an ordinary sentry rather than on her, putting
 `CC-134`'s combat-joy trait on the page as an observer's pleasure rather than a participant's for the
 first time in her Valen material. No new named characters -- the sentry is deliberately left unnamed.
-Written under Abad's blanket authorization: "go."*
+Corrected Batch 334, 2026-10-02: a rule-ID citation leak ("`MCD-291` means") reworded to plain
+in-world phrasing. Written under Abad's blanket authorization: "go."*
 
 ---
 
@@ -62,8 +63,8 @@ toward anything you can measure."
 "I am moving him toward the twenty-first correction," Valen said. "That is the whole of the measure,
 for someone at his level. Tomorrow it may take eighteen. That is worth an hour of my morning."
 
-I do not think I had ever, before that courtyard, seen the full shape of what `MCD-291` means when it
-names him Kanja's Master-at-Arms rather than simply the crew's finest blade. A finest blade owes
+I do not think I had ever, before that courtyard, seen the full shape of what it means that he is
+Kanja's Master-at-Arms rather than simply the crew's finest blade. A finest blade owes
 nothing to a man who will never carry one competently. A Master-at-Arms, I came to understand watching
 him that morning, owes exactly the same unhurried, unresentful correction to the sentry who will
 plateau at ordinary competence as he owes to the one person on Cian who might someday meet his own

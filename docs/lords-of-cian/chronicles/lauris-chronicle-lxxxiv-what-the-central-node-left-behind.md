@@ -9,7 +9,10 @@ engineering tradition built distributed redundancy into its facilities generally
 the Hollow arc Chronicle XXVI left open, and extends its "no longer subtle" throughline into a new,
 deliberately unresolved dread: whether other sites she considered closed years ago conceal the same
 kind of redundancy. No new named characters; Aerelin's network (`MCD-189`/`191`) referenced
-consistently with its already-locked role. Zero collisions.*
+consistently with its already-locked role. Corrected Batch 334, 2026-10-02: the report's source
+corrected -- it reaches her directly through Aerelin's network rather than through a Sephtis
+standing-contact detail, since Lauris meets Sephtis only after recruitment and this Op-36 event
+predates that. Zero collisions.*
 
 -----
 
@@ -18,8 +21,8 @@ Operation 20 and called the site closed. I have learned, sixteen operations late
 word I have used carelessly more often than I would like to admit."*
 
 Operation 36 did not begin as a contract at all, in the sense the Directorate would have recognized
-one. It began with a report passed to her through Sephtis's own standing archive contact with
-Kareth-Vassen Aerelin's network — by then some eighteen operatives strong across the Korren Highlands
+one. It began with a report passed to her directly through Kareth-Vassen
+Aerelin's network — by then some eighteen operatives strong across the Korren Highlands
 and its coastal approaches, per the arrangement Operation 35 had only just formalized — noting a
 pattern one of Aerelin's own field operatives had flagged without fully understanding its
 significance: faint, isolated resonance readings, scattered across a wide radius around the Vask of

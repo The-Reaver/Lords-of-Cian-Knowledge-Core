@@ -8,31 +8,34 @@ present-day question: whether the engineering tradition retained, and continued 
 her own combat curriculum it reverse-engineered from watching her operate, and whether any further
 subjects trained on it remain uncatalogued. Deepens rather than resolves -- confirms only that the
 question is real and worth pursuing, not its answer. No new named characters; Vael Korr-Drennen already
-locked. Part of the second Lauris 50-Chronicle wave (Chronicles LX-CIX), drafted under Abad's continued
+locked. Corrected Batch 334, 2026-10-02: the Operation 28 subject's pronouns corrected to she/her
+throughout -- consistent with Chronicle XXXI's own account of "the Copy"; "decades" corrected to
+"centuries" (two instances) to match her true ~6,000-year age (`MCD-1533`); "this wave" reworded to
+"this season." Part of the second Lauris 50-Chronicle wave (Chronicles LX-CIX), drafted under Abad's continued
 blanket authorization for this run.*
 
 -----
 
-*Archive fragment, present-day: "I terminated a man who moved like me because someone had been watching
-me long enough to copy it. I never asked whether they stopped watching once he was dead. I am asking
-now, decades late."*
+*Archive fragment, present-day: "I terminated a woman who moved like me because someone had been watching
+me long enough to copy it. I never asked whether they stopped watching once she was dead. I am asking
+now, centuries late."*
 
 I have written, in an earlier account, of Operation 28 — the engineered subject whose combat bearing so
 closely mirrored Lauris's own development around age 2,400 that she concluded, in her personal archive,
 that the engineering tradition had reverse-engineered fragments of her Karth-Sera curriculum from
 sustained observation of her own operational behavior rather than from any independent copy carried out
 of Kares Prime. I noted, at the time, that she had never resolved, in writing, how she felt about having
-terminated him. This account concerns the evening she finally asked herself a narrower and, I think,
+terminated her. This account concerns the evening she finally asked herself a narrower and, I think,
 more urgent question than feeling: whether the curriculum the tradition built from watching her died
-with him, or whether it is still, somewhere, being taught.
+with her, or whether it is still, somewhere, being taught.
 
 The question did not arise from new evidence. It arose, by her own account, from the accumulated weight
-of everything else this wave of her archive has surfaced — a sample scattered into a dozen untraceable
+of everything else this season of her archive has surfaced — a sample scattered into a dozen untraceable
 fragments, a name spent by strangers along roads she has never walked, a designation she is now racing
 a transfer manifest to reach in time. "I have spent this season discovering how many of my own decisions
 outlived the moment I made them, in shapes I did not anticipate and cannot fully trace," she told me.
-"I terminated Operation 28's subject and closed the file. I never asked whether the curriculum he was
-built from was a single copy, made once and discarded with him, or a working method the tradition kept
+"I terminated Operation 28's subject and closed the file. I never asked whether the curriculum she was
+built from was a single copy, made once and discarded with her, or a working method the tradition kept
 using afterward. I am ashamed, somewhat, that it took me this long to ask."
 
 *
@@ -70,5 +73,5 @@ notes. I intend to find out. I am recording, honestly, that I am afraid of the a
 I do not know, setting this down, whether this search will end in nothing — a coincidence of
 independently efficient fighting styles, no living echo of Operation 28 anywhere — or whether it will
 surface something considerably larger than either woman currently expects. I know only that a discomfort
-Lauris has carried unexamined for decades has finally become, in this account, an active question rather
+Lauris has carried unexamined for centuries has finally become, in this account, an active question rather
 than an old wound she had simply stopped looking at.

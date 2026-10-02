@@ -5,7 +5,9 @@ Chronicle series, the eleventh entry of Strand K. Set at age ~3,960, roughly 380
 Chronicle LXVII (`MCD-1684`) opened the Iron-Speaker deliberation, closing it exactly as `MCD-174`
 already locks: the Council agreeing to support her departure and asking only that she preserve a
 record of what she found -- the origin scene for the standing archive debt already locked at
-`MCD-211`. Reuses Veska Karth-Ven. No new named characters. No contradictions.*
+`MCD-211`. Reuses Veska Karth-Ven. No new named characters. Corrected Batch 334, 2026-10-02:
+"seventeen hundred and eighty years" corrected to "twenty-one hundred and twenty years" of service
+to match her true ~6,000-year age (`MCD-1533`). No contradictions.*
 
 -----
 
@@ -45,8 +47,8 @@ full, because I believe they are the truest summary of what this whole long deli
 about:
 
 *We cannot verify what you have told us of the world below. We have decided that this does not
-matter as much as we once believed it did. You have given this civilization seventeen hundred and
-eighty years of service and asked nothing of it in return but permission to leave when you had
+matter as much as we once believed it did. You have given this civilization twenty-one hundred and
+twenty years of service and asked nothing of it in return but permission to leave when you had
 nothing further to learn here. We are not in a position, any longer, to refuse someone that little,
 however much we may wish, privately, that circumstances allowed us to.*
 

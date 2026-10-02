@@ -6,7 +6,10 @@ Sok, one of the three earliest crew members freed before the Black Trench (`MCD-
 established across the Alias Chronicle track for his silent watchfulness -- a night watch shared in
 near-total silence, extending `MCD-215`'s "adequate-but-undemonstrative ties to the rest of the
 crew" clause into its own scene. Puts `CC-134`'s combat-joy trait on the page as ease taken in
-shared, wordless company rather than in any exertion at all. No new named characters.*
+shared, wordless company rather than in any exertion at all. Corrected Batch 334, 2026-10-02: two
+"this strand" writers'-room references reworded to plain in-world phrasing; a rule-ID citation leak
+("`CC-134`'s epithet") reworded; "the source material tells me" reworded to "as I have written
+before." No new named characters.*
 
 -----
 
@@ -38,7 +41,7 @@ watching two people share six hours of near-total wordlessness to be.
 
 I asked her afterward, since an account built almost entirely of silence is a genuine challenge for
 me to render honestly, what those six hours had actually consisted of for her, and she told me, with
-the same plainness she has given me for every entry in this strand, that the question rather missed
+the same plainness she has given me in this run of accounts, that the question rather missed
 the point of the evening. "He does not keep silence because he has nothing to say," she told me. "He
 keeps it because he has learned, I think, that most of what needs saying does not actually require
 saying, if the people sharing the silence already understand each other well enough. I have spent
@@ -54,10 +57,10 @@ present in the conversation rather than a man choosing, carefully, which parts o
 and to whom. "She did not mistake it," he said. "She sat with me the whole night and never once tried
 to make the silence into something it was not."
 
-I have come, across the many evenings I have now recorded for this strand, to think that this account
-is among the truest I have set down of what `CC-134`'s epithet actually means when it is not spent on
+I have come, in this run of accounts, to think that this account
+is among the truest I have set down of what her epithet actually means when it is not spent on
 a boarding action or an unresolved research question or forty-one crates of neglected shelving. She
-carries joy, the source material tells me, as her defining register against the burdens the rest of
+carries joy, as I have written before, as her defining register against the burdens the rest of
 this crew carry -- and I have come to understand, watching her share six near-wordless hours with a
 man who has spent this entire war learning to say more with his silence than most men manage with
 their speeches, that the joy she carries does not require exertion, or company that talks, or even

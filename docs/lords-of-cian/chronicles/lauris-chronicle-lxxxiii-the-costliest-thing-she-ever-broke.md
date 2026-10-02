@@ -10,7 +10,8 @@ engineering tradition in Lauris's contractor career." Extends the trajectory fro
 XXXIII's (`MCD-1650`) Operation 31 alliance with Aerelin into a first unilateral strike against the
 supply chain itself, distinct from that operation's rescue-and-extraction register. Does not
 reference Site K-Theta, the Anu Un Ra name reveal, or any Operation 34 content. No new named
-characters. Zero collisions.*
+characters. Corrected Batch 334, 2026-10-02: "three decades" corrected to "the long centuries" to
+match her true ~6,000-year age (`MCD-1533`). Zero collisions.*
 
 -----
 
@@ -34,8 +35,8 @@ site her accumulating private catalogue had taught her to recognize on sight.
 The installation itself, submerged and partially built into a natural reef formation, proved on
 approach to be considerably larger than the Directorate's own preliminary survey suggested: a
 production substrate, Living-Drakma-adjacent in composition by every reading her own instrumentation
-returned, generating the raw biological material she had by then learned, across the better part of
-three decades of gathered fragments — Sample K-403's origins, the Iron-Halls of Velkar's
+returned, generating the raw biological material she had by then learned, across the long
+centuries of gathered fragments — Sample K-403's origins, the Iron-Halls of Velkar's
 instrumentation, the third kind of body she had examined at Operation 24 — to associate directly with
 the engineering tradition's supply chain. Not a facility that processed finished subjects. A source.
 The kind of installation that fed every other kind she had ever cleared.

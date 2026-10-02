@@ -6,7 +6,8 @@ the crew's youngest member -- she becomes his preferred practice partner for con
 Negative-Density Variant field's active-range output, since her own biology tolerates standing
 inside it without the discomfort most of the crew experience. Puts `CC-134`'s combat-joy trait on
 the page as the pleasure of testing a genuine physical limit safely, alongside her established
-witness psychology's patience with someone isolated by their own capability. No new named
+witness psychology's patience with someone isolated by their own capability. Corrected Batch 334,
+2026-10-02: "fifteen-percent" corrected to "thirty-percent" gravitational load. No new named
 characters.*
 
 -----
@@ -19,7 +20,7 @@ and I have observed that this fact sits on him less as a distinction than as a m
 inconvenience, the way a smaller man might resent being handed the lightest end of every load out of
 someone else's misplaced consideration. His field is his arsenal and, by his own admission to me on
 more than one occasion, also the reason most of the crew keep a careful, unspoken distance from him
-even at rest -- a passive fifteen-percent increase in gravitational load is a mild discomfort to
+even at rest -- a passive thirty-percent increase in gravitational load is a mild discomfort to
 most; his active range, which he must practice controlling if he is ever to trust it in an
 engagement, is considerably less mild, and volunteers for that practice are, understandably, scarce.
 

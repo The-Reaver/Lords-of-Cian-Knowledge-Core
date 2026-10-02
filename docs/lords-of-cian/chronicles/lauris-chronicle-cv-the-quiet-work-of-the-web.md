@@ -7,7 +7,9 @@ distinct from `MCD-1666`'s game of stones -- an evening spent alongside the admi
 unglamorous maintenance of his Ghost-Lattice network (seeded at `MCD-242`, built out through the
 Rebellion at `MCD-255`/`MCD-262`), extending `CC-134`'s counterweight framing to his carried rage
 in a register of shared patient labor rather than shared rest. Does not touch his classified sibling
-bond to Valeria Korth or any operational intelligence content. No new named characters. Written under
+bond to Valeria Korth or any operational intelligence content. No new named characters. Corrected Batch 334, 2026-10-02: a
+narrator-boundary fix -- Fermand no longer claims personal authorship of the Ghost-Lattice network's
+war-era origin, recorded elsewhere. Written under
 Abad's blanket authorization: "go."*
 
 ---
@@ -23,8 +25,8 @@ register considerably less restful than the first, because I think a reader dese
 Anansi actually does with the hours he does not spend resting -- and because I believe Lauris chose,
 this time, to sit with him in the work itself rather than offer him an escape from it.
 
-The Ghost-Lattice network does not run itself. I have written elsewhere, in accounts closer to the
-war, of its origin in seized Trust communications equipment and its slow growth into the crew's
+The Ghost-Lattice network does not run itself. Its origin is recorded elsewhere -- in seized Trust
+communications equipment and its slow growth into the crew's
 largest single intelligence asset -- thirty-one locations raided at once, thirty-four thousand pages
 saved from forty thousand in a single desperate night. What I had never set down before this evening
 is the unglamorous truth beneath all of that: that a network built to catch the four reports that

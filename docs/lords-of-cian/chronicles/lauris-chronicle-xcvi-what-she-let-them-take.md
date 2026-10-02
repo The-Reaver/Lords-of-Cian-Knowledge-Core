@@ -5,7 +5,9 @@ Chronicle series, closing this Strand L run. Opens a new debt concerning Lauris'
 than any facility or population: her original Directorate intake, decades before Operation 28's
 engineered subject whose combat capability closely mirrored her own (`MCD-186`, "the Copy"),
 included routine biological sampling she did not think to question at the time. Deliberately left
-unconfirmed whether the sample was ever used. No new named characters. Narrated by Fermand
+unconfirmed whether the sample was ever used. No new named characters. Corrected Batch 334,
+2026-10-02: "perhaps three thousand years" corrected to "the better part of two thousand years" to
+match her true ~6,000-year age (`MCD-1533`). Narrated by Fermand
 Aurelias.*
 
 -----
@@ -34,7 +36,7 @@ subject alike, regardless of provenance.
 what kind of institution I had contracted with, or what the word 'sampling' might come to mean in
 an institution of that particular kind. I signed what was placed in front of me because signing it
 was the fastest route to the work I had actually come to Cian to do. I do not believe I gave the
-matter a second thought for perhaps three thousand years."
+matter a second thought for the better part of two thousand years."
 
 *
 

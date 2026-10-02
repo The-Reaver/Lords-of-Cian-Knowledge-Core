@@ -6,7 +6,10 @@ Chronicle series, part of the second 50-Chronicle wave (Chronicles LX-CIX), the 
 entry, deliberately without Lilith Cyzak and in a lighter register than `MCD-1665`'s rampart --
 showing `CC-134`'s framing of Lauris as counterweight to Ozmund's doubt through ordinary domestic
 failure and shared laughter rather than grave affirmation, without touching or contradicting his
-Crown-Scar, command, or succession material. No new named characters. Written under Abad's blanket
+Crown-Scar, command, or succession material. No new named characters. Corrected Batch 334,
+2026-10-02: deleted an unsupported "I have negotiated a twelve-year truce" line (the only locked
+twelve-year truce in the ledger belongs to a different character, Governor Maren Tallis, not
+Ozmund). Written under Abad's blanket
 authorization: "go."*
 
 ---
@@ -53,7 +56,7 @@ watched something in his shoulders that I would ordinarily read as the doubt I h
 of elsewhere in this account -- except that this time it broke, halfway through the gesture, into
 something that was unmistakably, if briefly, a laugh.
 
-"I have negotiated a twelve-year truce," he said. "I have refused a crown twice. I cannot make a loaf
+"I have refused a crown twice. I cannot make a loaf
 of bread rise."
 
 "I would not read too much into it."

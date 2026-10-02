@@ -9,7 +9,9 @@ Prime, already locked at `MCD-1558` ("The world is below me. It will be below me
 life. I will continue."), placed in its full original context for the first time. Ends at the
 literal threshold of departure without depicting the journey to Cian itself, which `MCD-175` already
 covers directly. Reuses Serath, already locked (`MCD-1636`), now Olmedrin's senior training
-authority. No new named characters. No contradictions.*
+authority. No new named characters. Corrected Batch 334, 2026-10-02: two age-arithmetic fixes
+(Serath's training timing; the promise's own tense) to match her true ~6,000-year age (`MCD-1533`).
+No contradictions.*
 
 -----
 
@@ -42,7 +44,7 @@ apparent exaggeration, as nearly a tenth of the civilization's remaining populat
 one time.
 
 Serath met her at the trade-point's outer gate — the young combatant Lauris had trained at Karth-Ven
-some six hundred years before, now the Vask's own senior training authority, standing where her
+some eleven hundred years before, now the Vask's own senior training authority, standing where her
 teacher had once stood to defend the same ground. Their exchange, Lauris's archive notes, was brief,
 almost businesslike, which I have come to understand is precisely how the two of them had always
 spoken to each other, warmth conducted at low volume across long silences rather than through
@@ -83,5 +85,5 @@ nothing further to add to it. I do not believe it needs anything added.
 
 *The world is below me. It will be below me for the rest of my life. I will continue.*
 
-She kept that promise for approximately two thousand years before making planetfall on Cian, and has
-kept it, in every meaningful sense, in every year since.
+She has kept that promise for approximately two thousand years since making planetfall on Cian, and
+keeps it, in every meaningful sense, in every year since.

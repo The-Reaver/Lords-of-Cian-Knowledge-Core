@@ -6,7 +6,8 @@ Thread-Perception biology perceives structural and causal connections as visible
 demonstration undertaken purely for its own sake, on an old disused training vault, letting Lauris
 witness an entirely different register of perceiving the world than her own. Puts `CC-134`'s
 combat-joy trait on the page as pleasure taken in someone else's mastery, without any need to
-match or best it. No new named characters.*
+match or best it. Corrected Batch 334, 2026-10-02: a writers'-room "strand" reference reworded to
+plain in-world phrasing. No new named characters.*
 
 -----
 
@@ -15,7 +16,7 @@ sees it. I have spent six thousand years learning to be certain of what I observ
 things I cannot observe at all. I found this more interesting than unsettling."*
 
 I want to record, before the account proper, that this entry required more patience from me than
-most of what I have set down for this strand, since Valeria Korth's own gift resists description by
+most of what I have set down for this run of accounts, since Valeria Korth's own gift resists description by
 anyone who does not possess it. She perceives structural and causal connections as visible
 threads -- not metaphorically, so far as I have ever been able to establish, but as an actual,
 continuous field of perception laid over whatever room, formation, or sequence of events she is
