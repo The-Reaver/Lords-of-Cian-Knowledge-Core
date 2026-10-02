@@ -3689,6 +3689,44 @@ Ezio age/Fermand-sixth-knower questions, and the Lauris dockside-crew-mortality/
 gender/Ozmund-placement questions above -- none blocking further phases, all worth a dedicated
 session with Abad once the roadmap's mechanical sweep is further along.
 
+## Phase 3: the Kanja-version Chronicle track fable-review, Batch 338, 2026-10-02
+
+A small-scope review (only 3 Chronicles exist, I-III, `MCD-1866`-`1868`) of Kanja himself as
+protagonist, narrated by Onyx of Oblivion via the progressive narrator-handoff mechanic (`VB-020`/
+`021`/`026`), distinct from the already-reviewed Alias Chronicle track. Amends 2 rule statements:
+`MCD-1865` strips an anachronistic "post-Breach anomalies" custodial-authority reference (the Great
+Breach doesn't occur until Book 1's epilogue, decades after this defeat's own locked age-27
+placement) and records that Chronicle prose now exists for it; `MCD-1588` propagates a stale "nine
+years prior" figure to "three years ago," matching a Batch 335 Daba-track prose fix that never made
+it back to this rule's own statement.
+
+Chronicle prose fixes: Chronicle III's header mis-dated the Gale Straits by two years and gave
+Sephtis an age roughly 200 years too old (the same stale-age-arithmetic error class as the Lauris
+sweep), plus an entity-count arithmetic error (2+3+2 summing to seven, not six); Chronicle I's
+Scrip-Forge wage-shortfall dialogue conflated a 14%-content assay with a 14% shortfall against its
+38% stamp, corrected to state both figures; Chronicle II's header age specificity loosened from
+"fifteenth year" to "seventeenth year" to match the only locked constraint (before Onyx's age-17
+bonding) rather than an unforced tighter pin, plus a garbled line of dialogue punctuation. The
+profile doc (`kanja-haku-rexmar.md`) had six stale/garbled lines corrected: the founding crew's
+`CC-` dossier gap (now filled, `CC-158`/`159`/`160`); the Industrial Myth's age (19 -> 21, matching
+Batch 321); a garbled sentence conflating Fermand and Onyx as the same narrator; a misattributed
+Ghost-Lattice/storm-doctrine citation; the track's own stale "zero entries" status; a dangling empty
+bullet.
+
+Four findings need Abad's own creative/worldbuilding ruling, deliberately left unresolved: a
+standing track convention mapping Rebellion-era age bands to Onyx's `VB-026` presence-growth level
+(write order and in-universe age currently disagree about how much Onyx should show at a given
+age, a real problem once the remaining 27+ of the Twenty-Two Victories start filling in out of
+age order); whether the track's narrator codas should be first-person or "the blade" third-person
+by age band; locking Ironbane's (and possibly Soulreaver Zora's) Rebellion-era joining date, since
+Chronicle III is currently the only place in the entire corpus that puts Ironbane in Kanja's
+company before the Long Mask; and naming (or explicitly ruling out the SBD as) the "older, quieter
+apparatus" Auberon is handed to.
+
+Ledger reached `ledger_version` 33.8, 2,650 rules, 335 batches -- zero duplicate IDs verified. This
+closes Phase 3. Per the confirmed roadmap, work continues into Phase 4 (the 20 Territory Chronicle
+tracks) without pausing.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

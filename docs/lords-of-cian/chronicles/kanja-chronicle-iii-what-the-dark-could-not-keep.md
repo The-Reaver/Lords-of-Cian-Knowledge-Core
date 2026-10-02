@@ -1,13 +1,16 @@
 # Kanja Chronicle III: What the Dark Could Not Keep
 
 *Locked canon, Batch 313 (`MCD-1868`). Third entry of the "Kanja version" Chronicle track. Age
-27, roughly a year before the Gale Straits/Storm That Walks alias (`MCD-230`). Dramatizes Renfel
+27, roughly two years before the Gale Straits/Storm That Walks alias at age 29 (`MCD-230`). Dramatizes Renfel
 Auberon's defeat (`CC-157`/`MCD-1865`) — a Kanja-crew team-up fielding `CULT-197`'s three-source
 Anti-Resonance countermeasure (Onyx's Cadence Ruin, Sephtis's Chrono-Anchor bells, Ironbane's
 King's Roar) together on the page for the first time. Onyx's presence has grown from Chronicle I's
 near-silence to its second real appearance in this track, matching roughly the manuscript's own
 Chronicle II/III-level growth — still unlabeled, longer and more assertive than before. No new
-named characters. No child-safety issues.*
+named characters. No child-safety issues. Corrected Batch 338, 2026-10-02: the Gale Straits timing
+fixed (two years, not one, before age 29); Sephtis's stated age corrected from ~1,900 years to
+~1,700, matching his locked present-day age against this entry's own age-27 placement; an entity-
+count arithmetic error (2+3+2 summing to seven rather than six) fixed.*
 
 ---
 
@@ -89,7 +92,7 @@ toward the shapeless drift of a Void-Spore.
 Ironbane's King's Roar answered the bells a half-second later, the amplified discharge of his own
 uncontrollable bio-electric hum turned, for once, into a tool rather than a burden he apologized
 for — a directional wave calibrated to Dead Drakma's resonance that the six shapes' own borrowed
-frequencies could not simply absorb the way they absorbed ordinary sound. Three more staggered,
+frequencies could not simply absorb the way they absorbed ordinary sound. Two more staggered,
 their forms thinning, the room's wrong cold losing its edge as whatever fed it lost purchase.
 
 Onyx came last, and differently.
@@ -106,7 +109,7 @@ Auberon was on the floor by then, not struck, simply no longer standing, the res
 in a hand that had stopped believing it controlled anything in the room. Ironbane pinned the wire
 under one boot without ceremony. Sephtis knelt by the discolored arm, reading it the way he read
 weather, and did not offer comfort, because comfort was not what the arm needed and he had learned,
-in nineteen hundred years, not to waste a dying man's attention on kindness that couldn't help him.
+in seventeen hundred years, not to waste a dying man's attention on kindness that couldn't help him.
 
 "You'll live," Sephtis said. "The Mark won't kill you tonight. It also won't leave you tonight, or
 any night soon, without more than we can do here."

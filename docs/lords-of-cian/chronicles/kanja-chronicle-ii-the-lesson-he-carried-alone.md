@@ -2,13 +2,16 @@
 
 *Locked canon, Batch 313 (`MCD-1867`). Second entry of the "Kanja version" Chronicle track,
 written second but set chronologically *first* — before Chronicle I, before the Rebellion begins,
-before Kanja's fifteenth year, matching the project's established write-order-vs-in-universe-order
+before Kanja's seventeenth year, matching the project's established write-order-vs-in-universe-order
 precedent (Xaragua Chronicle II, Batch 66). Dramatizes the mutual mentorship between Kanja and
 Daba (`MCD-1568`/`1570`) from Kanja's own side for the first time — Daba's own 50-Chronicle launch
 wave (Batch 296) covers the same relationship from his POV; this entry is deliberately a quiet,
 unspecified night rather than any single dated lesson, to avoid restaging a scene already told.
 Set explicitly before Kanja bonds with Onyx of Oblivion at seventeen (`ARS-020`) — no blade, no
-narrator presence, no coda of any kind. No new named characters. No child-safety issues.*
+narrator presence, no coda of any kind. No new named characters. No child-safety issues. Corrected
+Batch 338, 2026-10-02: the header's age pin loosened from "fifteenth year" to "seventeenth year" to
+match the only locked constraint (before Onyx's age-17 bonding) rather than an unforced tighter pin;
+a garbled line of dialogue punctuation fixed.*
 
 ---
 
@@ -62,8 +65,8 @@ bad luck."
 ground too."
 
 Daba sat down on one of the irregular boulders, not because he was tired, but because sitting was
-sometimes the fastest way to tell a boy he wasn't in trouble. "You want to know something Kanja,
-Rex and Mar don't have anywhere in them?"
+sometimes the fastest way to tell a boy he wasn't in trouble. "You want to know something, Kanja —
+something Rex and Mar don't have anywhere in them?"
 
 "What."
 

@@ -104,13 +104,11 @@ forward, starting from Chronicle I of this track.
   crane operator turned shipwright); **Efa Gol** and **Pell Ostra** (`CC-130`–`133`, decoy command
   and demolitions respectively); **Corren Halst, Danne Sok, Maret Vos** (`MCD-234`, freed
   independently before Maw-9, forming the nucleus of his earliest crew, Maret Vos he/him per Batch
-  226). None of the founding three (Halst, Sok, Vos) has a dedicated `CC-` dossier despite constant
-  recurrence — a real, already-flagged gap across every alias profile drafted so far.
-- **Ezio Valcari** and **Fermand Aurelias** — Book 1's investigators (`MCD-070`); Fermand narrates
-  under the alias "Onyx of Oblivion" is a separate designation from Fermand himself narrating Ezio
-  and Lauris chapters (`VB-020`/`CC-034`) — Onyx of Oblivion is Kanja's own sentient Living Drakma
-  blade (`ARS-020`), a distinct entity from Fermand, and is the designated narrator for Kanja
-  chapters specifically (`VB-020`/`021`).
+  226). All three now have dedicated dossiers (`CC-158` Halst, `CC-159` Sok, `CC-160` Vos, Batches
+  320/323; all he/him).
+- **Ezio Valcari** and **Fermand Aurelias** — Book 1's investigators (`MCD-070`). Fermand narrates
+  Ezio and Lauris chapters (`CC-034`/`VB-024`); Onyx of Oblivion — Kanja's own sentient Living Drakma
+  blade (`ARS-020`), a distinct entity from Fermand — narrates Kanja chapters (`VB-020`/`021`).
 - **Lauris Letitia** — cousin-adjacent by shared crew rather than blood; extensive Character
   Chronicle series of her own (109 entries) gives her a "My dear Ezio"-warm register with Fermand and
   a combat-joy trait (`CC-134`) distinct from Kanja's own more austere Rebellion-era register.
@@ -120,8 +118,8 @@ forward, starting from Chronicle I of this track.
   Long-Mask window shows them as close, or necessarily in contact at all.
 - **Anansi, Orlok, Sephtis** — core Lords of Cian crew with their own developed profiles/Character
   Chronicle plans (`ARS-408`, `CC-141`–`143`, `ARS-402`/`403` respectively); recur across the Alias
-  Chronicle corpus (e.g., Sephtis's storm-timing doctrine seeded during the Rebellion via the
-  Midnight Freight War's captured comms equipment, `CC-149`).
+  Chronicle corpus (e.g., Sephtis's storm-timing doctrine and Anansi's Ghost-Lattice, the latter
+  seeded from the Midnight Freight War's captured comms equipment, `MCD-242`/`CC-149`).
 - **Daba** (`CC-135`, `MCD-1566`–`1570`) — mutual mentor/apprentice relationship during Kanja's
   unrecorded formative pre-Rebellion years: Daba teaches guerrilla warfare, Kanja teaches Rexmar
   forging. Deliberately never folded into Kanja's own crew structure or battle rosters (`MCD-1569`);
@@ -168,7 +166,7 @@ forward, starting from Chronicle I of this track.
 
 - **The Twenty-Two Victories** (`MCD-230`–`245`, ages 18–30): 10 Conventional Victories, 6
   Unwinnable Victories each earning a Directorate-classified alias (Trench Monarch age 18; Bane age
-  19, Black Trench; the Industrial Myth age 19, Furnace District Strike; the Blue-Collar Titan age
+  19, Black Trench; the Industrial Myth age 21, Furnace District Strike; the Blue-Collar Titan age
   20, Sewer War of Killane; the Sovereign Ghost of the Great Sea age 21, Ghost Harbor; the Scourge
   age 22, Ash-Wharf; the Crow King age 23; the Iron Bastard age 25; the Lord of Embers age 27; the
   Storm That Walks age 29, Gale Straits), and 6 Operational/labor-logistics Campaigns. Captain is
@@ -241,10 +239,9 @@ forward, starting from Chronicle I of this track.
 - **The 11-alias Alias Chronicle track** (990+ entries, 34 waves per alias) is a wholly **separate,
   already-existing track** — flat, neutral third-person throughout, zero Onyx narrator presence at
   any era, by design. It is not being touched, fixed, or folded into this new track in any way.
-- **This new "Kanja version" track has zero entries.** It launches from scratch, starting with
-  Chronicle I, once this file's gate clears (Psychological Profile discussion, then Game Plan
-  sign-off) — matching exactly how Ozmund's, Lauris's, and Daba's own Character Chronicle series each
-  launched from nothing.
+- **This new "Kanja version" track has three entries (Chronicles I-III, `MCD-1866`-`1868`; see
+  Section 4).** It launched from scratch, matching exactly how Ozmund's, Lauris's, and Daba's own
+  Character Chronicle series each launched from nothing.
 
 ---
 
@@ -386,7 +383,6 @@ going." Section 2 is closed.
      explicitly labeled "ONYX:" stage the manuscript doesn't reach until its sixth chapter).
 - **Gate status: CLEARED.** Status updated to "game plan approved" — Chronicle prose may now be
   drafted for this track.
-- **Abad's pick / direction:**
 
 ---
 

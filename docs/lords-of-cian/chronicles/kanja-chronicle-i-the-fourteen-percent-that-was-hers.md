@@ -9,7 +9,9 @@ alias earned — so Onyx of Oblivion's presence can open from genuine zero, matc
 manuscript's own Chronicle I. New named characters: Pava Rill, Emrik Rill (collision-checked
 clean). No child-safety issues. Narrated in neutral third-person prose throughout, with a short,
 unlabeled first-person coda at the close — Onyx's very first appearance in this track, mirroring
-the length and register of the manuscript's own Chronicle I coda rather than anything longer.*
+the length and register of the manuscript's own Chronicle I coda rather than anything longer. Corrected Batch 338, 2026-10-02: the
+wage-shortfall dialogue conflated a 14%-content assay with a 14% shortfall against the note's 38%
+stamp; corrected to state both figures so the arithmetic reads correctly.*
 
 ---
 
@@ -48,7 +50,7 @@ notes a week at the ropewalk, less this month."
 
 "Less how much less."
 
-"Fourteen percent less than it should be. I tested the note myself, at the assay stall by the
+"The stamp says thirty-eight parts Drakma. The note assays at fourteen. I tested it myself, at the assay stall by the
 grain exchange, after I heard—" She stopped. She had heard something, in fact, in the way half
 the district had heard something in the last four days: a fire, a forge, a boy who had proven
 something about Scrip-notes that everyone had felt but no one had been able to hold up to the
@@ -63,7 +65,7 @@ She had three left. He heated the assay burner without asking whether she wanted
 first note to the blue cone the way she had seen the crowd do it outside the burned-out shell of
 Forge-7 two days ago, and the note whined instead of singing, thin and sour, dying too soon.
 
-"Fourteen," he agreed. "Consistent with the Forge-7 batch. You're not being cheated worse than
+"Fourteen," he agreed. "Against a stamp of thirty-eight. Consistent with the Forge-7 batch. You're not being cheated worse than
 anyone else on this dock. You're being cheated the same amount as everyone."
 
 "That's not a comfort."
