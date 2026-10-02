@@ -384,6 +384,49 @@ going." Section 2 is closed.
 - **Gate status: CLEARED.** Status updated to "game plan approved" — Chronicle prose may now be
   drafted for this track.
 
+### Game Plan amendment — the Long Mask wave (PROPOSED, 2026-10-02, pending Abad's pick)
+
+Abad's direction: "open the Long Mask wave with Dark Ledger openings. keep fable oversight."
+
+- **Scope:** extends this track past the Rebellion into the Long Mask (ages 30–314, `MCD-246`–`277`),
+  as `VB-062` already contemplates. Same single numbered sequence (Chronicle V onward), entries may be
+  written out of age order.
+- **Narrator / voice:** Onyx in full first person, steady state (the handoff completed at the
+  Sovereign Pier, `MCD-1880`). Every Long Mask entry is retrospective (`VB-062`): Onyx was sealed at
+  L9 and says so plainly. **Each entry opens on a Dark Ledger entry (`ARS-437`)** — a seconds-count
+  plus the felt signal and nothing else ("his heart did something it had done only once before") —
+  then reconstructs what actually happened, from what the Heartline's restored channel later read out
+  of Kanja's body at the Book 1 reunion. The reunion itself is never dramatized (Book 1 material);
+  only its knowledge is used.
+- **Gear:** post-Mafesto kit only — the seven-piece system at its correct V1–V4 generation for the
+  age (`ARS-344`–`356`), the Rexmar Machete, the Talisman of Mao, the Aegis-Talisman. No Trinity, no
+  Onyx in any scene.
+- **Body:** Kanja's locked decline governs late entries — visibly slowed by ~205, "immobility as a
+  weapon" by 240, unable to stand unaided on bad days by 300 (`MCD-260`/`262`/`271`).
+- **Killing:** `CC-161` (costed default, cold, never rage) and `MCD-1881` (marquee kills named,
+  fully dramatized). Never contradicts a locked bloodless outcome — most named Long Mask operations
+  are explicitly non-lethal (the Unarmed Siege, the Coin-Weight Raid, the Meridian Crossing, the
+  Generational Wars), so marquee kills sit in battles whose casualties are unspecified, or in new,
+  undramatized engagements between them.
+- **Crew constraints:** avoid Garren Hask, Efa Gol, and Pell Ostra after roughly Kanja's age 50
+  until the open cross-track mortality ruling lands. Respect recruitment dates (`MCD-247`–`261`).
+- **Reserved:** everything already reserved above, plus the Eve of Awakening/Pi-Awakening at 314
+  (`MCD-272`, `MCD-1022`), Maro's death through the Heartline (`ARS-437`), and the reunion scene.
+- **Fable oversight:** every drafted entry gets a Fable-model consistency review before it is
+  presented for approval.
+- **Wave-one candidates (pick, redirect, or take all three):**
+  1. **The Chain Harbor Massacre, age 55** (`MCD-251`). Dark Ledger opening: more kill spikes in one
+     hour than the whole Rebellion held. The locked rule names the massacre but not its dead; the
+     Onyx account makes it the slave-garrison's, chosen and counted, while Anirak — already freeing
+     captives by hand mid-mutiny — watches the man who will build her weapons decide who dies.
+  2. **A new Pirate Dawn marquee kill, ages 48–52** — a named slaver-admiral (name collision-checked
+     on pick) whose death, before the Night of Black Sails (`MCD-250`), is why ships later surrender
+     to the black sails on sight. Dark Ledger opening: eighteen years of quiet since the Pier, then a
+     single spike.
+  3. **The Sleeping Giant, age 240** (`MCD-262`) — alone in a corridor against twelve Branded
+     commandos, too old to fight the way he used to. Dark Ledger opening: twelve spikes, and his
+     heart rate never rose. The most frightening of the three because it is the calmest.
+
 ---
 
 ## 4. Chronicle Log
