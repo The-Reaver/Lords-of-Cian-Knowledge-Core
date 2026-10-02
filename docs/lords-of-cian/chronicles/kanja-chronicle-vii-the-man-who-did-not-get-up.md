@@ -315,7 +315,7 @@ took, on a broken floor.
 
 And the heart that did not change.
 
-In the dark I feared it was a dying heart. It was neither dying nor cold. His heart did not rise
+In the dark I feared it was a dying heart. It was not. His heart did not rise
 because nothing in that corridor was news to him. He had done the whole of it -- the offer, the
 refusal, the twelve, the next twelve, the cost -- standing at an iron door before the first lantern
 came round the cliff path. By Rusk's first stride, it had all been paid in advance.
