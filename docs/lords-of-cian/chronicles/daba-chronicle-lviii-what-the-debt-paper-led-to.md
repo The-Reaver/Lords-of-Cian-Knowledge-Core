@@ -12,9 +12,8 @@ per the source rule's own framing. Abad's approval: "lock it."*
 
 Orsk Dresk's cell had not gone looking for a Weregildd Assessor. They had gone looking for a
 recruiter working the Half-Ford road too close to territory 1804 had quietly held for years, the
-same kind of boundary violation that had already put the network at arm's-length odds with
-Weregildd culling teams more than once before, for reasons that had nothing to do with debt and
-everything to do with bloodlines the network had separately sworn to protect.
+same kind of boundary violation the Slab Compact had fought Weregildd culling teams over more than
+once, for reasons of its own that had nothing to do with debt.
 
 What they found instead, three weeks into tracing the recruiter's own instructions back through a
 chain of intermediaries, was a debt.
@@ -61,6 +60,6 @@ already been signed."
 visible-retribution-as-liability doctrine (`MCD-1567`) drives the choice to hand Thurlow to a rival
 criminal power rather than kill him or deliver him to a government with no institutional interest in
 prosecuting him, matching the source rule's deliberately unglamorous, ambiguous resolution exactly.
-No casualty, so no name is added to Daba's own tally -- consistent with his established
-record-keeping habit (`MCD-1610`) only logging deaths, not operations. No new named characters; Orsk
+No casualty, so no name is added to Daba's own tally -- consistent with his established record-keeping habit (`MCD-1610`) of logging only 1804's own
+dead, never operations or enemy losses. No new named characters; Orsk
 Dresk and Kether both reused from the existing corpus.*

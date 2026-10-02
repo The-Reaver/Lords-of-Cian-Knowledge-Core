@@ -38,8 +38,8 @@ closely was its own kind of taking credit.
 
 The ambush took four days to prepare and six minutes to execute. Vondel's detachment, confident in a
 route no one should have known to defend, walked into a defile Rhyne Cadec had spent two of those
-four days quietly collapsing at both ends, the same narrowing-into-a-bottleneck logic a much younger
-Kanja had once learned on a disused footbridge and never forgotten. Vondel himself died in the first
+four days quietly collapsing at both ends, the same narrowing logic eight of
+1804's own fighters had once used to hold a ford at three men abreast. Vondel himself died in the first
 minute, still calling out the correction's opening formalities to a district that had already
 emptied two days before his column arrived.
 
@@ -65,8 +65,7 @@ back on him.
 reputation-first "advertise the correction before it arrives" tactic is precisely the advance notice
 and predictable route that lets 1804's dispersed, doctrine-over-mass cells exploit him, per the rule's
 own stated mechanic. Daba stays in his established post-Block-F role as architect, not operator --
-present only at the planning stage, never at the ambush itself, consistent with his profile's "no
-Chronicle in the corpus shows him personally endangered or tested in combat" (true again here; LII
-remains his only physical-threat entry). The kill stays deliberately unattributed, matching `MCD-1569`'s
+present only at the planning stage, never at the ambush itself, consistent with his profile's note
+that Chronicle LII (`MCD-1870`) remains the only entry putting him personally in physical danger. The kill stays deliberately unattributed, matching `MCD-1569`'s
 "never folded into... never publicly credited alongside" framing. No new named characters; Kether and
 Rhyne Cadec both reused from the existing corpus.*

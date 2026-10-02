@@ -396,9 +396,9 @@ this file always reflects current understanding, not a batch-log history of how 
   in Chronicle I through the closing meal in Chronicle L) coexists with institutional distance from
   the whole he's responsible for. He does not lead by command presence; he leads by demonstrated
   proof, the same currency he demands of anyone who wants close to him.
-- **What breaks him / his real vulnerability (PROPOSED):** not physical defeat — no Chronicle in the
-  corpus shows him personally endangered or tested in combat; his S-tier rating (`CC-135`) is never
-  once dramatized as a limit under threat. His real vulnerability is that the accounting never
+- **What breaks him / his real vulnerability (PROPOSED):** not physical defeat — only one Chronicle in the corpus (LII, `MCD-1870`) puts him personally
+  in physical danger; his S-tier rating (`CC-135`) has been dramatized as a limit under threat exactly
+  once. His real vulnerability is that the accounting never
   resolves. Chronicle XL states this as flatly as the corpus ever states anything: "neither the doubt
   nor the determination resolves the other" — he has never once let the private list stop him from
   acting, but he has also never once achieved the certainty that would let him set the list down.
@@ -449,9 +449,9 @@ this file always reflects current understanding, not a batch-log history of how 
   - Whether Daba wants anything for himself beyond the network's survival is **explicitly still
     open** per Section 2 — a future wave may develop it, but nothing may quietly assert an answer
     without being flagged as its own decision first.
-  - No Chronicle in the existing 50 shows him personally tested in combat or physically endangered;
-    his S-tier rating (`CC-135`) has never been dramatized under threat. Not necessarily reserved
-    forever, but nothing has touched it yet.
+  - No Chronicle in the original 50 showed him personally tested in combat or physically
+    endangered; Chronicle LII (`MCD-1870`, wave 2) is now the single entry that does. Still rare by
+    design, not reserved.
   - 1804 stays "never folded into... never publicly credited alongside" Kanja's own crew structure
     (`MCD-1569`) — any Kanja-adjacent material keeps that separation.
 - **Next-wave candidates** (per the gate's own instruction for an already-running series — pitches

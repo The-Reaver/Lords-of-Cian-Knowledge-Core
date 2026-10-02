@@ -20,6 +20,9 @@ The archive is a working, deployed, populated product today, not a backlog. In o
    WC/HLD/WGD/SBD/CHAR/COS), one briefing per rule-prefix. Phase 3's old "content-readiness gate" —
    "enough material live that a Level 1 reader can plausibly read three to 90%" — isn't a future
    milestone, it's already true by a wide margin.
+   Not yet imported: the Character Chronicle tracks (Lauris, Ozmund, Daba, Ezio — roughly 290
+   entries as of Batch 350) and the Kanja-version track. A second bulk-import pass is needed before
+   "fully loaded" is literally true.
 2. **It's deployed and running.** Railway project `lords-of-cian-archive` has both services
    (`web`, `canon-service`) live, latest deployment `SUCCESS`, matching the repo's current HEAD
    (`05dd3b7`, 2026-09-14). Reachable today at `web-production-8be0b.up.railway.app`. No custom
@@ -86,10 +89,10 @@ worth confirming rather than assuming survived cleanly.
   change, not a migration. Not attempted, correctly not silently skipped either (flagged plainly
   in the repo's own CLAUDE.md).
 
-### 5. The standing SEO/GEO/five-tier charter — still blocked on the device bridge
-Separate from everything above: the proposed SEO/GEO/gamified-five-tier-unlock charter still
-needs a device-bridge session (Cowork or local Claude Code with the desktop app connected) before
-its concrete schema/tagging decisions can be adopted as *ratified* rather than draft. Nothing
+### 5. The standing SEO/GEO/five-tier charter — not yet ratified
+Separate from everything above: the proposed SEO/GEO/gamified-five-tier-unlock charter still needs a Brain Trust review before its concrete schema/tagging decisions can be adopted as
+*ratified* rather than draft. Per CLAUDE.md (resolved 2026-09-12), no device bridge is needed: any
+session can run the protocol from `structure-notes/brain-trust-on-demand-protocol.md` in this repo. Nothing
 built so far depends on this landing first — it only gates that one specific charter.
 
 ### 6. Operate the demand engine (Phase 4 from the original plan — open-ended, not a task)
@@ -110,8 +113,8 @@ yet because there's been no real traffic to read.
    state once 1-2 land, not a separate project.
 5. Revisit P1-6 (bulk AI-parse ingestion) and `quiz_questions` only when their own
    already-recorded trigger conditions are met.
-6. Schedule the device-bridge session for the SEO/GEO/five-tier charter whenever Abad next has a
-   Cowork or local session available — not urgent, nothing else is waiting on it.
+6. Run the Brain Trust review for the SEO/GEO/five-tier charter from this repo whenever convenient —
+   not urgent, nothing else is waiting on it.
 
 ## What this doc deliberately does not re-litigate
 

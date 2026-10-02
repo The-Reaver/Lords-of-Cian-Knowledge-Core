@@ -24,7 +24,7 @@ man does not leave a weep for later. Four hours. The sealant was still wet to th
 arms and smeared in long grey thumbprints across Mafesto's forearm plates, where he had wiped his
 hands without thinking. The blade counted that too. It did not yet know it mattered.
 
-"You'll want that off before it cures," Dol Maren said. "It'll take the skin with it."
+"Four hours. Living Drakma sealant. It takes skin when it cures," Dol Maren said.
 
 "After," Kanja said, and kept working, and the blade, slung across his back, felt the pier's long
 timbers carry a new weight onto the far end of the planking. Not soldiers. Not a column. A small
@@ -55,8 +55,7 @@ King of Jicome, in fact and not in ceremony, the first of five generations to ho
 than its shadow. The war would end. And in exchange, Kanja would surrender Mafesto, Onyx of
 Oblivion, and Obsidian Malice into the Trust's keeping, sealed, for good.
 
-"I'm not ordering you," Maro said. "I gave up the right to order you when I let you go to the docks
-at eighteen and said nothing. I'm asking."
+"I'm not ordering you," Maro said. "I gave up the right to order you when I let you go to the docks and said nothing. I'm asking."
 
 The man did not answer. The blade felt him begin to -- felt the breath gather, felt the arithmetic
 begin to run, the long columns of twelve years lining up behind his eyes the way they always did
@@ -110,9 +109,8 @@ did not move again. The blade recorded his name. It recorded it from the warrant
 plate, which it would read later, and it recorded it now, at the moment it became a death, because
 the man had chosen it and the blade keeps the choices.
 
-Hesk and Vauden came from the left in tandem, projectors discarded, short blades drawn. Veil
-Piercer showed the blade the shape of their intention through the smoke the projectors had left --
-Vauden's feint, Hesk's real line toward the king. The man went through the feint as if it were not
+Hesk and Vauden came from the left in tandem, projectors discarded, short blades drawn. Cadence Ruin broke the tandem's timing in the smoke the projectors had left -- Vauden's feint arriving
+a half-beat before Hesk's real line toward the king. The man went through the feint as if it were not
 there and took Hesk at the hip and the throat in one drawing cut. Vauden, committed to a feint that
 no longer had a purpose, met Obsidian Malice on the backswing.
 
@@ -124,7 +122,7 @@ rail and the blade caught her at the ankle tendon and the man caught her at the 
 not let her reach the water.
 
 **Ten through forty.** The projectors were empty or dropped. The remaining seven came the old way,
-with steel, and the man met them the old way. Cadence Ruin ran through the blade at the frequency of
+with steel, and the man met them the old way. Veil Piercer ran through the blade at the frequency of
 their plate and the plate's own binding harmonics loosened at every seam, and where a seam
 loosened, the blade went in.
 
@@ -212,23 +210,23 @@ They did it that night, at the end of the same pier, by lantern light, in front 
 The Trust sent a sealed case lined with Dead Drakma, three compartments, each cut to a shape the
 blade recognized with something it does not have a better word for than grief. Mafesto came off
 first, plate by plate, the sealant cured black along both forearms now and taking a little of the
-man's skin with it exactly as Dol Maren had said it would. Obsidian Malice went second, its charge
-spent, the shadow-stone teeth still warm.
+man's skin with it exactly as Dol Maren had said it would. Obsidian Malice went second, cold now, its charge long since
+returned and with nowhere left to go.
 
 The man held the blade last, and longest.
 
-He did not say anything to it. He has never said very much to it, in twelve years. He held it
+He did not say anything to it. He has never said very much to it, in thirteen years. He held it
 across both palms the way one holds a thing one is giving rather than surrendering, and then he laid
 it in the case.
 
 On his belt, the Rexmar Machete stayed where it had always been. Brass-riveted, worn smooth at the
-grip, narrower by a centimeter than it had been in his grandfather's day. The Trust's clerk looked
+grip, narrower by a centimeter than the day it was first ground. The Trust's clerk looked
 at it. Maro looked at it. The clerk looked at the king, and the king said, "That one is a tool, not a
-relic. It was his grandfather's. It stays." And it stayed.
+relic. It was my father's before it was mine. It stays." And it stayed.
 
 The lid came down.
 
-The blade had spent twelve years learning to count. It had counted the Trench and the Wharf and the
+The blade had spent thirteen years learning to count. It had counted the Trench and the Wharf and the
 Bridge and the Pier. It had counted Strell and Hesk and Vauden and Tasker and Caddel and Orrel and
 Teague and Danver and Lisk. It had counted the hours of a man on his knees fixing a hull. It had
 learned that counting is not cold. It had learned that counting is the only way to keep faith with
