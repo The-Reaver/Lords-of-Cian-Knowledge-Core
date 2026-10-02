@@ -6,7 +6,10 @@ granted no command, no intervention, and no resolution credit, matching the esta
 from Xaragua Chronicle I (`MCD-334`) through Aztlán Chronicle I (`MCD-347`). Narration is
 close-third on Oluwole throughout, not Onyx of Oblivion. Continues Ílú-Márùn's own run of
 territory Chronicles. Slots into no existing mainline battle — original homage-era material set in
-Atunbi itself.*
+Atunbi itself. Corrected Batch 341, 2026-10-02: a tech-level anachronism (motor vehicle "truck"
+replaced throughout with a period-appropriate dray-team/sledges-and-drag-chain and the demolition
+crew itself) and a dropped-word prose glitch ("a fourth of new seedlings" -> "a fresh row of new
+seedlings").*
 
 ---
 
@@ -24,11 +27,12 @@ little, asking nothing, the kind of steady presence Oluwole had learned not to q
 weren't racing a season.
 
 The trouble arrived at dawn, before the crew, before anyone but Oluwole and the stranger were
-awake to see it: three men with a demolition order and a truck, sent to clear the lot for a
+awake to see it: three men with a demolition order and a dray-team with sledges and a
+drag-chain, sent to clear the lot for a
 development neither of them had ever heard proposed to anyone in the neighborhood. Fast. In and
 out before the block woke up enough to organize a single body to stand in front of it.
 
-"You've got no papers posted," Oluwole said, standing between the truck and the first row of
+"You've got no papers posted," Oluwole said, standing between the dray and the first row of
 seedlings, not moving, not raising his voice.
 
 "We've got the order. That's what we've got." The lead man didn't look at the garden, only at the
@@ -42,7 +46,7 @@ otherwise. "This ground held one bad year already. It'll hold whatever's coming 
 time. It just doesn't have ten minutes' worth of that kind of time. Nothing I've ever built here does,
 against something that moves this fast."
 
-The truck took the first third of the garden before the block woke up enough to matter, before
+The crew took the first third of the garden before the block woke up enough to matter, before
 enough bodies arrived to make the fast thing slow down and become, suddenly, a much harder
 argument to finish. It stopped there — not because Oluwole's gift had reached out and stopped it,
 but because thirty neighbors standing in a road do the same job a slow reclamation can't, when
@@ -52,7 +56,7 @@ speed is the only weapon on the other side.
 survived the morning.
 
 "I did lose a third of it. I'm not going to pretend the ground protected what it couldn't protect."
-Oluwole knelt at the torn edge where the truck had turned, already sketching in his head where the
+Oluwole knelt at the torn edge where the dray had turned, already sketching in his head where the
 next planting would start. "Whatever this is, whatever's happened to the dirt from staying here long
 enough, it isn't fast. It was never going to be fast. Fast is the one thing I can't give it, no
 matter how many seasons I put into a lot." He looked at what remained — two-thirds, still standing,
@@ -69,7 +73,7 @@ long enough."
 
 The stranger was gone by the time the second planting went in that afternoon, the way he always
 seemed to be. He left nothing carved, no phrase repeated hand to hand — only, the following
-morning, a fourth of new seedlings already standing in the torn ground where the truck had turned,
+morning, a fresh row of new seedlings already standing in the torn ground where the dray had turned,
 planted by no one anyone in the crew could account for.
 
 ---

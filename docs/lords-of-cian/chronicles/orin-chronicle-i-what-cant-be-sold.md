@@ -6,7 +6,10 @@ granted no command, no intervention, and no resolution credit, matching the esta
 from Xaragua Chronicle I (`MCD-334`) through Ijoko Chronicle I (`MCD-349`). Narration is
 close-third on Onilu throughout, not Onyx of Oblivion. Completes a first Chronicle entry for all
 five Ílú-Márùn territories. Slots into no existing mainline battle — original homage-era material
-set in Orin itself.*
+set in Orin itself. Corrected Batch 341, 2026-10-02: a real-world proper noun (a real jazz
+musician's name) that had leaked into dialogue was reworded to plain descriptive prose. A separate
+flagged issue with this Chronicle's recording-mechanism scene was deliberately left untouched,
+pending Abad's own ruling.*
 
 ---
 
@@ -59,7 +62,7 @@ was just the two of them stacking chairs.
 "I could have. I didn't want to prove it by refusing. I wanted to prove it by letting him try and
 watching him fail to take the one thing that actually mattered." Onilu folded the last chair,
 unhurried, the way he did everything. "People assume the gift is the sound. It was never the sound.
-Lionel Hampton offered me more sound than I could have used in three lifetimes, and none of it ever
+The road offered me more sound than I could have used in three lifetimes, and none of it ever
 once did what happened in this room tonight for free."
 
 "So the whole gift only works because nobody's trying to get anything out of it."

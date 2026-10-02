@@ -1,11 +1,16 @@
 # Kazi Chronicle IX: The Seat They Didn't Expect Him to Win
 
-*Locked canon, Batch 289, 2026-09-12 (`MCD-1528`). Fourth entry in Kazi's own Chronicles and the
+*Locked canon, Batch 289, 2026-09-12 (`MCD-1528`). Ninth entry in Kazi's own Chronicles and the
 first with Femi (`PH2-066`) as protagonist, not a Kanja Chronicle. Kanja appears only as a guest,
 present but granted no command, no intervention, and no resolution credit, matching the established
 convention. Narration is close-third on Femi throughout. Dramatizes the campaign and election
-`PH2-066` already states as an accomplished fact, set in the months before Irin ever called a halt
-from his own station.*
+`PH2-066` already states as an accomplished fact, set after the events of Kazi Chronicle I
+(`MCD-351`).*
+
+*Corrected Batch 342, 2026-10-02: this Chronicle's own timeline placement and ordinal
+self-description were wrong -- it wrongly claimed to predate Irin's own first halt (Kazi Chronicle
+I, `MCD-351`) and wrongly called itself the fourth entry rather than the ninth, since Chronicles
+IV-VIII already correctly claim fourth-eighth.*
 
 ---
 
@@ -66,5 +71,5 @@ suspicion of him as "the movement's man." Tunji (`PH2-065`, already locked) appe
 continuity depth. The incumbent and the plant's own pressure campaign are deliberately left unnamed,
 matching established precedent for undetailed antagonists. An unnamed Kanja is present distributing
 ballots at the vote count, without taking command, credit, or narrative authorship. No new named
-characters introduced; no new proper nouns requiring a collision check. Fourth Kazi territory
+characters introduced; no new proper nouns requiring a collision check. Ninth Kazi territory
 Chronicle, first to feature Femi.*

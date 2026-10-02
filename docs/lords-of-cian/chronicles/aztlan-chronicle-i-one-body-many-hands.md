@@ -6,7 +6,10 @@ granted no command, no intervention, and no resolution credit, matching the esta
 from Xaragua Chronicle I (`MCD-334`) through Sankofa Chronicle I (`MCD-346`). Narration is
 close-third on Ollin throughout, not Onyx of Oblivion. Continues Ílú-Márùn's own run of territory
 Chronicles. Slots into no existing mainline battle — original homage-era material set in Aztlán
-itself.*
+itself. Corrected Batch 341, 2026-10-02: an internal arithmetic error ("forty months of drilling" ->
+"six months of drilling," matching the six-month figure stated twice elsewhere in this same
+Chronicle) and a writers'-room leak ("on a night this Chronicle does not cover" -> "on a night still
+years away").*
 
 ---
 
@@ -33,7 +36,7 @@ him room for anything else right now.
 
 It lasted four minutes. It felt, to everyone standing in it, considerably longer, and considerably
 shorter, both at once — the specific distortion of time that comes from a body doing exactly what
-forty months of drilling had built it to do without asking permission from the mind riding along
+six months of drilling had built it to do without asking permission from the mind riding along
 inside it. The counter-crowd broke first. It always did, against a line that didn't waver in the
 one place a line was supposed to.
 
@@ -56,8 +59,8 @@ anymore for anyone standing in it."
 "That sounds like a gift with no edges."
 
 Ollin didn't answer that right away. Something crossed his face that had no name he was willing to
-put to it yet — would not, in fact, find the words for it until considerably later, on a night this
-Chronicle does not cover. "Every gift has edges. I haven't found this one's yet. I intend to, eventually,
+put to it yet — would not, in fact, find the words for it until considerably later, on a night still
+years away. "Every gift has edges. I haven't found this one's yet. I intend to, eventually,
 whether I go looking for it or not." He turned back toward the dispersing crowd, already thinking
 past the morning toward whatever came next. "For now it's the only thing standing between people I
 drilled myself and whatever comes at them next. That's enough to be worth the six months it cost to

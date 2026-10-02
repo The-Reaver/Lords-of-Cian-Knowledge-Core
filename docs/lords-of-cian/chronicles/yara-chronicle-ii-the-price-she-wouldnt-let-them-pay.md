@@ -1,8 +1,12 @@
-# The Price She Wouldn't Let Them Pay
+# Yara Chronicle II: The Price She Wouldn't Let Them Pay
 
 *Locked canon, Batch 139, 2026-09-11 (`MCD-464`). Yara Chronicle II. Homage-era Batey, Yara/Yalokona.
 Territory Chronicle -- Yalokona as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
+
+*Corrected Batch 339, 2026-10-02: file renamed from `the-price-she-wouldnt-let-them-pay.md` to
+`yara-chronicle-ii-the-price-she-wouldnt-let-them-pay.md` to match the project's established
+territory-Chronicle file-naming convention; H1 updated to match.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Kazi Chronicle XII: Two Fronts, One War
 
-*Locked canon, Batch 289, 2026-09-12 (`MCD-1531`). Seventh entry in Kazi's own Chronicles, Femi
+*Locked canon, Batch 289, 2026-09-12 (`MCD-1531`). Twelfth entry in Kazi's own Chronicles, Femi
 (`PH2-066`) as protagonist, not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, intervention, or resolution credit. Narration is close-third on Femi throughout.
 Dramatizes direct friction between Femi's institutional-insider path and Irin's confrontational
@@ -76,4 +76,7 @@ Femi's seat "as one more front" into an explicit statement from Irin that the tw
 complementary rather than competing. No new named characters -- the six finishing-section workers are
 deliberately left unnamed, matching established precedent for minor figures. An unnamed Kanja is
 present throughout without taking command, credit, or narrative authorship. No new proper nouns
-requiring a collision check. Seventh Kazi territory Chronicle.*
+requiring a collision check. Twelfth Kazi territory Chronicle.*
+
+*Corrected Batch 342, 2026-10-02: corrected this Chronicle's ordinal self-description (seventh ->
+twelfth), since Chronicles IV-VIII already correctly claim fourth-eighth.*

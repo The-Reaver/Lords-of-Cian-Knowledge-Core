@@ -10,7 +10,8 @@ threat... is exactly what his gift cannot reach." Brings back Kojo, left open as
 figure by Chronicle I. Deliberately does not restage the already-locked COINTELPRO backstory event
 itself, matching that event's own backstory-only status, and deliberately does not resolve who is
 behind the new threat -- consistent with `PH2-021`'s own framing of a conspiracy that "never shows
-its face."*
+its face." Corrected Batch 341, 2026-10-02: a grammar error addressing Kojo alone as if two people
+("before either of you were old enough" -> "before you were old enough").*
 
 ---
 
@@ -46,7 +47,7 @@ on exactly the night a man's most likely to believe the worst thing anyone's eve
 one person he's chosen to trust completely." He set the letter down on the table between them,
 careful not to crumple it, the way a man handles something he intends to keep as evidence rather
 than burn out of anger. "It's the same shape as the letters that nearly got me and Kra killed before
-either of you were old enough to know my name. I never learned who held the pen that time either."
+you were old enough to know my name. I never learned who held the pen that time either."
 
 "You're certain it wasn't you."
 

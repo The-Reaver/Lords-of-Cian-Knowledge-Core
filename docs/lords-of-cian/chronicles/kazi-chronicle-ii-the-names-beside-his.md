@@ -10,6 +10,10 @@ co-organizers, not yet individually named or detailed." Two new named characters
 Ken Cockrel Sr.) and Kalamu (a composite homage to John Watson and Mike Hamlin), both
 collision-checked against the full live ledger (zero prior hits).*
 
+*Corrected Batch 342, 2026-10-02: Kunle's and Kalamu's dialogue wrongly conflated the roughly two
+hundred men bound into "The Line Stops" halt itself with Kalamu's separate four-thousand-reader
+pamphlet circulation -- corrected so the two figures no longer collapse into one.*
+
 ---
 
 They came for Bakari eleven days after the line stopped, the way Irin had known someone would —
@@ -55,14 +59,14 @@ he had never once known how to do himself.
 
 "We don't wait to be sent for anymore. Haven't since the day you first stopped that line." Kunle
 leaned against the wall, the tiredness he'd been holding off finally showing through for a moment.
-"You gave four thousand men a way to feel the floor beneath them shift at the same instant. That's
+"You gave two hundred men a way to feel the floor beneath them shift at the same instant. That's
 not a thing either of us can do. What we can do is make sure the floor doesn't get pulled out from
 under one of them alone, in a room with no one watching, once the plant decides the easiest way to
 break a line is to break the men holding it."
 
 "Bakari's trial is in nine days," Kalamu said, closing the notebook. "By then every reader on my
-route will know his name, know the charge, and know it was filed the same week four thousand men
-found out they could move as one. A magistrate can convict a man for a torn gate. It's a great deal
+route will know his name, know the charge, and know it was filed the same week the whole floor
+found out it could move as one. A magistrate can convict a man for a torn gate. It's a great deal
 harder to convict him for that, in a courtroom half the city's already decided to watch."
 
 The stranger, who had been in the hallway the whole time without either man remarking on him,

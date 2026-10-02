@@ -21,7 +21,8 @@ NEW_RULES = [
         "category": "phase2-territory-chronicle",
         "statement": (
             "\"The Price She Wouldn't Let Them Pay\" (full narrative text at "
-            "docs/lords-of-cian/chronicles/the-price-she-wouldnt-let-them-pay.md), Yara Chronicle "
+            "docs/lords-of-cian/chronicles/yara-chronicle-ii-the-price-she-wouldnt-let-them-pay.md), "
+            "Yara Chronicle "
             "II. A developer offers full clinic funding in exchange for Yalokona's public silence "
             "on a displacing zoning variance; she refuses, the variance passes anyway and the "
             "clinic's funding is delayed eighteen months, dramatizing the real cost of 'Unbought "

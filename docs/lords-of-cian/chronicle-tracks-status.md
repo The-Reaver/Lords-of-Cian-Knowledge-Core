@@ -62,10 +62,10 @@ in Kanja's own single underlying psychology rather than inventing a separate one
 | Territory / figure | Leader | Profile doc | Status | Existing Chronicles |
 |---|---|---|---|---|
 | Xaragua | Ogoun Xarey | `character-profiles/territory-xaragua.md` | not started (backfill) | 6 |
-| Areíto | Kwame Ade | `character-profiles/territory-areito.md` | not started (backfill) | 2 |
+| Areíto | Kwame Ade | `character-profiles/territory-areito.md` | not started (backfill) | 3 |
 | Yara | Yalokona | `character-profiles/territory-yara.md` | not started (backfill) | 3 |
-| Guanín | Eri Kotoko | `character-profiles/territory-guanin.md` | not started (backfill) | 2 |
-| Borikén | Guaní | `character-profiles/territory-boriken.md` | not started (backfill) | 2 |
+| Guanín | Eri Kotoko | `character-profiles/territory-guanin.md` | not started (backfill) | 3 |
+| Borikén | Guaní | `character-profiles/territory-boriken.md` | not started (backfill) | 3 |
 | Sankofa | Baálé | `character-profiles/territory-sankofa.md` | not started (backfill) | 6 |
 | Aztlán | Ollin | `character-profiles/territory-aztlan.md` | not started (backfill) | 3 |
 | Atunbi | Oluwole | `character-profiles/territory-atunbi.md` | not started (backfill) | 3 |

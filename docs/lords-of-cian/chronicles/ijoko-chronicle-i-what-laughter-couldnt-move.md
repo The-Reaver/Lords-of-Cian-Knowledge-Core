@@ -6,7 +6,9 @@ granted no command, no intervention, and no resolution credit, matching the esta
 from Xaragua Chronicle I (`MCD-334`) through Atunbi Chronicle I (`MCD-348`). Narration is
 close-third on Adwoa throughout, not Onyx of Oblivion. Continues Ílú-Márùn's own run of territory
 Chronicles. Slots into no existing mainline battle — original homage-era material set in Ijoko
-itself.*
+itself. Corrected Batch 341, 2026-10-02: two tech-level anachronisms ("a spreadsheet" -> "a ledger
+column"; "the exit lights" -> "the lamp left burning by the door" -- this world has no modern
+computing or electric signage).*
 
 ---
 
@@ -50,7 +52,7 @@ reason to revisit it since."
 actually aimed at whether I could take a joke. It's aimed at whether this city can take a woman
 holding this chair without falling apart. Every time I don't flinch, that question gets answered
 again, a little more permanently than the time before." She looked back at the empty chamber, dark
-now except for the exit lights. "That part I can hold all night, every night, for as long as they
+now except for the lamp left burning by the door. "That part I can hold all night, every night, for as long as they
 want to keep asking."
 
 The part she didn't say out loud that night, though the stranger would come to understand it in the
@@ -60,7 +62,7 @@ underneath the council chamber floor — the tax base thinning year over year as
 businesses both packed up for somewhere the numbers worked better, no insult in any of it, no crack
 to hold steady against, just capital doing what capital does when a place stops being where the
 money wants to stay. She could out-will every man in that room until the day she left the chair. She
-could not out-will a spreadsheet.
+could not out-will a ledger column.
 
 "You don't smile at that one," the stranger said, once, watching her study a revenue report long
 after the chamber had cleared.

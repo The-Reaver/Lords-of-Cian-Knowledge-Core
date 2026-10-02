@@ -8,6 +8,9 @@ Chronicle I (`MCD-336`), and Areíto Chronicle I (`MCD-339`). Narration is close
 throughout, not Onyx of Oblivion. Slots into no existing mainline battle — original homage-era
 material set in Guanín itself.*
 
+*Corrected Batch 339, 2026-10-02: "The men who taught me" corrected to "The man who taught me"
+(singular), matching `PH2-008`'s single-patron framing.*
+
 ---
 
 A debt that isn't collected doesn't disappear. It compounds, silently, in the one ledger no one
@@ -79,8 +82,8 @@ exactly the way Eri Kotoko meant it to.
 "You could have warned him," the stranger said, once they were both back in the open air.
 
 "I did. Six years of not answering was the warning. He mistook it for surrender because he wanted
-to." Eri Kotoko looked back once at the counting-house, then didn't again. "The men who taught me to
-wait this long thought they were teaching me mercy. They were teaching me arithmetic instead. I
+to." Eri Kotoko looked back once at the counting-house, then didn't again. "The man who taught me to
+wait this long thought he was teaching me mercy. He was teaching me arithmetic instead. I
 learned it well enough that I only ever need to be right once."
 
 "And the rest of Guanín. The ones who called you hollow."

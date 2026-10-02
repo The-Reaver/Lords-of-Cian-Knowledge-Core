@@ -5,15 +5,19 @@ Chronicle — Ofin's successor as protagonist, Kanja an unnamed background guest
 credit, or resolution authorship. Set after Ofin's already-locked capstone death (`MCD-358`). New
 standalone material. No new named characters.*
 
+*Corrected Batch 340, 2026-10-02: fixed a terminology inversion ("The Override" is personal to
+Ofin, not institutional to the seat -- the deliberate inverse of Kiti's seat-bound "The Long
+Tenure"); corrected "alderman" to a non-office-specific term and softened a timeline overstatement.*
+
 ---
 
 Ofin's successor, elected on the same coalition his predecessor had spent a career building, met his
 first serious obstruction within his opening months in office — a familiar shape, the same kind of
-entrenched blockade Ofin had broken time and again, and the new alderman found himself, in his first
+entrenched blockade Ofin had broken time and again, and the new man in the seat found himself, in his first
 real crisis, quietly hoping the seat itself carried some version of the strength that had always
 seemed to answer his predecessor's endurance.
 
-It didn't. "The Override" had always been Ofin's own, institutional in exactly the sense that meant it
+It didn't. "The Override" had always been Ofin's own, personal in exactly the sense that meant it
 belonged to the man, not the office — gone with him as completely as his own particular endurance had
 been.
 
@@ -24,7 +28,7 @@ actually had, now that I'm the one standing where he stood without it."
 
 "I don't think most people ever understood what he actually had, including him, most days." The old
 ally had known Ofin since his earliest campaigns, long before any of his signature endurance had
-become the stuff of political legend. "What you're missing isn't a power. It's decades of the same
+become the stuff of political legend. "What you're missing isn't a power. It's years of the same
 obstruction wearing itself down against the same unmovable will, over and over, until it finally broke
 for good. You've been in this seat for months. He was in it for years before anything like what you're
 hoping for ever showed itself."
@@ -48,8 +52,9 @@ the session adjourned.
 ---
 
 *Continuity notes (not narrative): confirms directly, for the first time on the page, that "The
-Override" (`PH2-044`) died with Ofin exactly as its own institutional-not-personal framing (locked in
-`MCD-475`'s Kiti parallel) implied -- his successor must build ordinary political endurance rather
-than inherit any version of the ability. An unnamed Kanja, present in the gallery per this world's
+Override" (`PH2-044`) died with Ofin -- personal to his own endurance, not attached to the seat --
+the deliberate inverse of Kiti's "The Long Tenure" (`MCD-355`/`MCD-475`), which is institutional to
+the seat and lapses the instant its holder leaves it; his successor must build ordinary political
+endurance rather than inherit any version of the ability. An unnamed Kanja, present in the gallery per this world's
 long lifespans, observes without introducing himself to either figure. No new named characters. Third
 Uhuru territory Chronicle.*

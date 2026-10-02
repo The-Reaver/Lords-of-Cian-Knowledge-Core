@@ -1,10 +1,15 @@
 # Kazi Chronicle XIII: The Weight of Being Inside
 
-*Locked canon, Batch 289, 2026-09-12 (`MCD-1532`). Eighth entry in Kazi's own Chronicles, Femi
+*Locked canon, Batch 289, 2026-09-12 (`MCD-1532`). Thirteenth entry in Kazi's own Chronicles, Femi
 (`PH2-066`) as protagonist, not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, intervention, or resolution credit. Narration is close-third on Femi throughout.
 A quiet, personal-register closer to Femi's first five-Chronicle arc, dramatizing the isolation of
 holding an institutional seat trusted fully by neither side of the divide it sits between.*
+
+*Corrected Batch 342, 2026-10-02: corrected this Chronicle's ordinal self-description (eighth ->
+thirteenth), since Chronicles IV-VIII already correctly claim fourth-eighth; also fixed a stray
+intra-arc contradiction where the younger hand's dialogue described Femi's unpaid trustee seat as a
+paid "salary line."*
 
 ---
 
@@ -18,14 +23,14 @@ rather than a colleague who belonged there on his own account.
 
 It was worse, some evenings, on the floor itself. A younger hand who'd started at the plant the same
 season Femi won his seat had said it to his face once, not unkindly, the way a man says a thing he
-believes is simply true and assumes everyone already knows: "You're one of them now. Office, salary
-line, five-man vote. Don't matter how straight you read the books — you don't feel the line the way
+believes is simply true and assumes everyone already knows: "You're one of them now. Office hours,
+a five-man vote, a desk the rest of us never sit at. Don't matter how straight you read the books — you don't feel the line the way
 the rest of us do anymore." Femi had said nothing back that day. He had thought about it for most of
 a week afterward.
 
 "You could tell them what you actually gave up to hold it," Kalamu said one evening, having watched
 him work through the same quiet more than once by then, notebook closed for once, not writing. "The
-salary line's smaller than the shop floor rate you left. I could put both numbers side by side, plain,
+hours that seat eats would earn you more on the floor than it's ever paid you back. I could put both numbers side by side, plain,
 and let four thousand readers do the arithmetic themselves."
 
 "I don't think the arithmetic's the part that would land, even if it's true." Femi turned his cup
@@ -62,5 +67,5 @@ declined the press-based remedy that resolved a comparable friction in Kazi Chro
 gift can fix. The younger hand is deliberately left unnamed, matching established precedent for minor
 figures. An unnamed Kanja is present in a small, unglamorous, recurring way (restacking returned case
 files) without taking command, credit, or narrative authorship. No new named characters introduced;
-no new proper nouns requiring a collision check. Eighth Kazi territory Chronicle, closing Femi's first
+no new proper nouns requiring a collision check. Thirteenth Kazi territory Chronicle, closing Femi's first
 wave of five.*

@@ -4,6 +4,10 @@
 Chronicle — Owusu as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 342, 2026-10-02: a reference to "every obstruction he'd worn down" wrongly
+borrowed Ofin's (Uhuru) signature ability ("The Override") rather than Owusu's own "The Long
+Tenure" (`PH2-059`, an attrition-outlasting trait) -- corrected.*
+
 ---
 
 Decades into the seat, decades past the six-week illness that had once shown him exactly how
@@ -15,7 +19,7 @@ than hold it until something else eventually made the decision for him.
 announcement. "The strength's never wavered since the illness. Nothing's forcing this."
 
 "That's precisely why I'm choosing it now, rather than later." Owusu had thought the decision through
-carefully, the same patient deliberation he'd once brought to every obstruction he'd worn down over
+carefully, the same patient deliberation he'd once brought to every attrition campaign he'd outlasted over
 the years. "I learned something important during those six weeks I was away — that the strength was
 never really mine, only the seat's, borrowed for as long as I occupied it honestly. I've spent years
 since knowing that on principle. I'd like to actually act on it once, deliberately, while I still can,

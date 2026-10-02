@@ -5,7 +5,9 @@ touch the forged-letter conspiracy from Chronicle II (`MCD-360`). Protagonist Ba
 a Kanja Chronicle. Kanja appears only as an unnamed guest, present and observant but granted no
 command, credit, or resolution authorship. Deliberately deepens the conspiracy rather than resolving
 it, consistent with `PH2-021`'s own framing of a threat that "never shows its face." No new named
-characters.*
+characters. Corrected Batch 341, 2026-10-02: a stale timeline figure ("three months before" ->
+"months before") brought into agreement with this Chronicle's own later, already-correct
+"months before" reference.*
 
 ---
 
@@ -33,7 +35,7 @@ afraid of you."
 
 "That's exactly what it's built to do." Baálé turned a pamphlet over in his hands, looking for
 anything — a print mark, a particular hand, a seam in the paper — that might tell him who'd made it,
-and found nothing he hadn't already failed to find in the letter three months before. "The letter
+and found nothing he hadn't already failed to find in the letter months before. "The letter
 wanted one man's fear. This wants a city's."
 
 He did not send anyone after the pamphlets, and he did not deny them from a stage, which a smaller

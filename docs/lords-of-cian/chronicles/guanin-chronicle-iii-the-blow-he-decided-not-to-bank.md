@@ -4,12 +4,15 @@
 Chronicle — Eri Kotoko as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 339, 2026-10-02: narrative prose no longer quotes "The Unanswered Blow" as an
+in-world phrase.*
+
 ---
 
 A junior counting-house clerk, young and plainly out of his depth, insulted Eri Kotoko publicly at a
 hearing — a petty, personal jab rather than any real institutional wrong, the kind of provocation
-that, six years earlier, might have gone straight into the same patient ledger that had once produced
-"The Unanswered Blow" against a far more deserving target.
+that, six years earlier, might have gone straight into the same patient ledger that had once come due,
+all at once, against a far more deserving target.
 
 Eri Kotoko let it pass without a word.
 

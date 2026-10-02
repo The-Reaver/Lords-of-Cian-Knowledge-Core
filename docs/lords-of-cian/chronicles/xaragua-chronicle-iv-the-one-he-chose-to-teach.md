@@ -12,6 +12,9 @@ credit, consistent with the established convention -- his passage through Xaragu
 Batey territories was already granted in Xaragua Chronicle II, so his presence here is understated
 rather than newly explained.*
 
+*Corrected Batch 339, 2026-10-02: the header's claim that `PH2-061` names Naya corrected to credit
+Xaragua Chronicle II's own header note, the actual first mention of her.*
+
 ---
 
 Arturo found her the way he found most things worth keeping — by accident, in the wreckage of

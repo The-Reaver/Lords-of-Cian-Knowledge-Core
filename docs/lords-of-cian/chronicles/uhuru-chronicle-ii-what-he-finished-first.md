@@ -11,6 +11,8 @@ not Onyx of Oblivion. Directly pays off `PH2-044`'s own stated capstone cost, ex
 unresolved in Uhuru Chronicle I's (`MCD-345`) continuity notes: "his 1987 death at his own desk
 remains the deliberate, as-built capstone cost for a future entry." No new named characters.*
 
+*Corrected Batch 340, 2026-10-02: removed a real-world proper-noun leak ("Council Wars").*
+
 ---
 
 The last holdout alderman switched his vote a little past nine that night, and Ofin heard about it
@@ -22,7 +24,7 @@ it.
 "It's done," the aide said. "All of it. Every seat on that committee. He just told his own people he
 was tired of losing."
 
-Ofin sat with that for a long moment, the way he had learned, over four years of Council Wars, to sit
+Ofin sat with that for a long moment, the way he had learned, over four years of the council's siege, to sit
 with almost everything — not celebrating, not yet, the way a man doesn't trust a door until he has
 actually walked through it and felt the air change on the other side. "Tired of losing," he said,
 finally, something that was almost a laugh living somewhere underneath the words. "Took him four

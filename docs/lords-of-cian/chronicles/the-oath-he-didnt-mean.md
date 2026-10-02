@@ -4,6 +4,11 @@
 Taifa/Osei. Territory Chronicle -- Osei as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 342, 2026-10-02: the threatening patrol was mistakenly described as a Sealbound
+Directorate patrol, a world-bleed error -- the Directorate belongs to mainline Cian, not this
+homage World (`MCD-313`). Corrected to an outside patrol sent by the claimed land's hostile
+neighbors.*
+
 ---
 
 A new recruit had sworn the oath the same way every sworn cell member swore it — the same words,
@@ -11,7 +16,7 @@ witnessed the same way — and Osei had accepted him into the claimed land's out
 suspicion, the man's stated commitment matching everything the oath was supposed to require.
 
 He hadn't meant it. Not fully. He'd sworn it for the protection and standing it offered, treating the
-words as a formality rather than a binding, and when a Directorate patrol cornered him weeks later and
+words as a formality rather than a binding, and when an outside patrol, sent by the claimed land's hostile neighbors, cornered him weeks later and
 offered him a way out in exchange for information, the temptation found ground the genuine oath-takers
 never gave it.
 

@@ -1,10 +1,15 @@
 # Kazi Chronicle X: What the Books Showed
 
-*Locked canon, Batch 289, 2026-09-12 (`MCD-1529`). Fifth entry in Kazi's own Chronicles, Femi
+*Locked canon, Batch 289, 2026-09-12 (`MCD-1529`). Tenth entry in Kazi's own Chronicles, Femi
 (`PH2-066`) as protagonist, not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, intervention, or resolution credit. Narration is close-third on Femi throughout.
 Set after Femi's election (Kazi Chronicle IX, `MCD-1528`), dramatizing his trustee access forcing a
 vote no one expected.*
+
+*Corrected Batch 342, 2026-10-02: Irin's floor-size figure wrongly reused the pamphlet's
+four-thousand-reader circulation number for the much smaller halt itself; corrected to the two
+hundred men actually bound into "The Line Stops." Also corrected this Chronicle's own ordinal
+self-description (fifth -> tenth), since Chronicles IV-VIII already correctly claim fourth-eighth.*
 
 ---
 
@@ -40,7 +45,7 @@ about it the same evening, from Kunle, and said little beyond what Femi had half
 
 "One vote. One fund. It's not the floor moving as one body — it's five men in a room deciding whether
 to let daylight in." Irin didn't say it unkindly. "I won't pretend I understand yet what it's worth
-against calling a halt that four thousand men feel at once. But I've learned not to mistake a
+against calling a halt that two hundred men feel at once. But I've learned not to mistake a
 different kind of weapon for no weapon at all."
 
 "It's not a weapon that moves fast," Femi said. "It moved eleven days to get me the books, another six
@@ -65,4 +70,4 @@ route, framing it as a genuinely different, slower-moving tool alongside "The Li
 administrator, and the departed signatory are deliberately left unnamed, matching established
 precedent. An unnamed Kanja moves boxes of fund archive at Femi's request, without taking command,
 credit, or narrative authorship. No new named characters introduced; no new proper nouns requiring a
-collision check. Fifth Kazi territory Chronicle.*
+collision check. Tenth Kazi territory Chronicle.*

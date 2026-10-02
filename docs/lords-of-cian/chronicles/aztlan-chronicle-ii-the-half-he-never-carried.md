@@ -8,7 +8,8 @@ throughout, not Onyx of Oblivion. Directly pays off `PH2-023`'s own stated backs
 a deliberate, unresolved forward reference at the close of Aztlán Chronicle I (`MCD-347`): Iya's
 1970 walkout over unaddressed sexism, the schism `PH2-023` itself states "outlasted the group's
 external enemies." No new named characters -- Iya (`PH2-030`) and Ollin (`PH2-023`) are both
-already-locked figures.*
+already-locked figures. Corrected Batch 341, 2026-10-02: a tech-level anachronism ("the cameras" ->
+"the crowd and the broadsheet sketchers" -- this world has no electronic media).*
 
 ---
 
@@ -19,7 +20,8 @@ organization exactly the way he had been running it before she'd said them.
 The seventh meeting was three weeks before the march he'd spent a year building toward, and it did
 not start as a meeting about the thing she'd raised six times already. It started as a briefing on
 routes and marshals and who would carry which section of the line, and Ollin gave every assignment
-that mattered — who spoke, who commanded, who stood where the cameras would find them — to men, the
+that mattered — who spoke, who commanded, who stood where the crowd and the broadsheet sketchers
+would find them — to men, the
 same way he had given them for three years, without once noticing he was doing it, because noticing
 had never once cost him anything before.
 

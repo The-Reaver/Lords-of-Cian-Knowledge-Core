@@ -4,6 +4,9 @@
 Territory Chronicle -- Owusu as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 342, 2026-10-02: "six years" was a stale figure -- by this point in Owusu's tenure
+the accumulated institutional weight is properly two decades, corrected.*
+
 ---
 
 A sudden illness put Owusu in recess for six weeks, longer than any absence his tenure had yet
@@ -17,7 +20,7 @@ held without difficulty. Coalition members who'd never once wavered began, cauti
 loyalty built around him personally would hold without him actually present to anchor it.
 
 "It's happening exactly the way it would happen to anyone else," his own chief aide reported,
-watching six years of accumulated institutional weight erode faster than she'd believed possible.
+watching two decades of accumulated institutional weight erode faster than she'd believed possible.
 "Everything you told me once, about the strength lapsing the instant you left the seat — I always
 assumed that was a caution for some distant future. I didn't expect to watch it happen in real time
 over something as ordinary as a fever."

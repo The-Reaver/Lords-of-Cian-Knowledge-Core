@@ -4,6 +4,9 @@
 Territory Chronicle -- Ase as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 340, 2026-10-02: fixed a Kanja-placement inconsistency with Ide Chronicle I (he
+was present at the execution's edge, not standing beside her).*
+
 ---
 
 Years after the granary-theft execution, a newly appointed successor to the old Magistrate's post
@@ -41,7 +44,7 @@ necessary — the documentation itself does the fighting, if it was built honest
 Ase closed the file, the original record intact and now doubly proven. "That's the whole reason I
 build them the way I do."
 
-An unnamed man who had once stood beside her at the execution itself, years before, read of the
+An unnamed man who had once reached the square a minute ahead of her, years before, read of the
 counter-account's collapse from a distance and said nothing to anyone about having once been there.
 
 ---

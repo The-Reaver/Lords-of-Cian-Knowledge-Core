@@ -7,6 +7,10 @@ close-third on Tunji throughout. An internal-factional-distrust entry, also dram
 between Tunji's shop-floor register and Kunle's/Kalamu's legal-and-press registers for the first time.
 Slots into no existing mainline battle — original homage-era material set in Kazi itself.*
 
+*Corrected Batch 342, 2026-10-02: the withheld name was misattributed to "the plant manager" and
+timed to the already-settled gantry season rather than predating it -- corrected to a line
+supervisor, back before the gantry walkout.*
+
 ---
 
 Torvald had not spoken to Tunji since the gantry gate, and for three months Tunji had let the silence
@@ -28,8 +32,8 @@ the actual thing, rather than explain it to him after the fact. Explaining is wh
 already lost the argument."
 
 The chance came a week later, when Kalamu wanted a name for the following morning's sheet — the plant
-manager who'd docked three men's pay over his own scheduling error, the same manager from the gantry
-season, still unpunished for it in any way that had reached four thousand readers. Kalamu wanted it
+line supervisor who'd docked three men's pay over his own scheduling error, back before the gantry
+walkout, still unpunished for it in any way that had reached four thousand readers. Kalamu wanted it
 printed plainly, with the manager's title attached, timed to land the same week a new safety inspection
 was due.
 

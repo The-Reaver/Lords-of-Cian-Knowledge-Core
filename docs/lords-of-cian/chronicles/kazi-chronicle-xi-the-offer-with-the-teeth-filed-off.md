@@ -1,6 +1,6 @@
 # Kazi Chronicle XI: The Offer With the Teeth Filed Off
 
-*Locked canon, Batch 289, 2026-09-12 (`MCD-1530`). Sixth entry in Kazi's own Chronicles, Femi
+*Locked canon, Batch 289, 2026-09-12 (`MCD-1530`). Eleventh entry in Kazi's own Chronicles, Femi
 (`PH2-066`) as protagonist, not a Kanja Chronicle. Kanja appears only as a guest, present but
 granted no command, intervention, or resolution credit. Narration is close-third on Femi throughout.
 Set some months after the fund audit (Kazi Chronicle X, `MCD-1529`), dramatizing an attempt to
@@ -70,4 +70,7 @@ framing of the seat as a foothold that depends on remaining directly accountable
 voted for it. Tunji (`PH2-065`, already locked) reused for continuity depth. The regional officer is
 deliberately left unnamed, matching established precedent. An unnamed Kanja delivers returned
 committee files without taking command, credit, or narrative authorship. No new named characters
-introduced; no new proper nouns requiring a collision check. Sixth Kazi territory Chronicle.*
+introduced; no new proper nouns requiring a collision check. Eleventh Kazi territory Chronicle.*
+
+*Corrected Batch 342, 2026-10-02: corrected this Chronicle's ordinal self-description (sixth ->
+eleventh), since Chronicles IV-VIII already correctly claim fourth-eighth.*
