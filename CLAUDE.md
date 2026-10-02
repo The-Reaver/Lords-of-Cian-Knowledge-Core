@@ -3910,15 +3910,36 @@ Ghost of the Great Sea -> 327, Lord of Embers -> 330). `MCD-1024`/`1093` normali
 `phase2-territory-chronicle`. Five Chronicle prose files corrected alongside (two V3->V4 gear fixes,
 three Sephtis-staged-withdrawal reframings).
 
-**Batch 348 (pending), MCD-1-450.** The fourth and final chunk's read-only review has landed and
-flagged 12 genuine contradictions needing Abad's own ruling (folded into the running tally below,
-several of them the single most load-bearing open items in the whole project -- see A1/A3/A4/A5
-there) plus 24 mechanical fixes and metadata normalizations (one, the `MCD-1720` citation, was
-already fixed by Batch 345 and correctly skipped). A Sonnet fix agent is applying the mechanical
-subset now; not yet merged as of this writing.
+**Batch 349, MCD-1-450 (24 rule statements amended, 1 confirmed already fixed and skipped).** The
+fourth and final chunk. Fixes `MCD-139` (superseded by the Avatar-count correction), `MCD-050`
+(Division 5's function), `MCD-034` (two artifacts -> three, stale "Session Lock 2" note removed),
+`MCD-103` (superseded, OPEN-005), `MCD-110` (Maw-7 Slab -> the Throat per the Batch 103 correction),
+`MCD-084` (clarified his parents, not Red Beard, were executed), five Lauris age/lifespan/ratio
+rules recomputed off her Batch-291-corrected 6,000-year age (`MCD-209`/`214`/`217`/`156`/`163`, the
+last two also re-dating Selene's death to match `MCD-174`/`MCD-1686` rather than a stale "1,400
+years into her life" figure `MCD-172` already contradicted), `MCD-171` ("first lethal combat"
+reworded -- no opponent in that scene), `MCD-208` (Talisman Stage-2 duration clarified), `MCD-201`
+(dropped an assertion of Haku's death that `MCD-314` already locks as false), `MCD-309` (updated its
+own forward reference to match), `MCD-338` (recorded both interstitial chapters as since drafted and
+locked), `MCD-256` (wording clarification, no fact change), `MCD-312` (ship count 12->22 to match
+`MCD-242`/`392`), `MCD-230` (list-order swap to match stated ages), `MCD-235` ("capital ship" ->
+"escort warship" per `MCD-285`), `MCD-257` (a real-world "tennis ball" leak), `MCD-258` (a
+camera/film tech-level anachronism), and `MCD-275`/`277`/`254` (a circular-citation chain resolved
+by giving `MCD-254` the actual Krael-dynasty genealogy text both others point to). `MCD-1720`'s
+citation was confirmed already fixed by Batch 345 and correctly not reapplied. Metadata: 52 rules'
+uppercase `"LOCKED"` status normalized to lowercase, `MCD-051`/`122`'s composite statuses
+normalized, `MCD-112`'s `"FLAGGED"` lowercased (left genuinely open), `MCD-131`/`132`/`133`'s null
+category set to `"character-pyro"`, and 23 rules' stale territory-Chronicle category tags
+normalized. Twelve genuine contradictions (Section A of the review) were deliberately left
+untouched, folded into the running tally below -- several of them the single most load-bearing open
+items in the whole project (see A1/A3/A4/A5 there).
 
-Ledger reached `ledger_version` 35.0, 2,650 rules, 347 batches after Batch 347 -- zero duplicate IDs
-verified after every batch run so far.
+This closes Phase 5's MCD-core continuation in full -- all four chunks (1351-1877, 451-900,
+901-1350, 1-450) are now reviewed and their mechanical fixes applied, completing the original full
+fable-review roadmap (Phases 1 through 5 plus the Atlas) in its entirety.
+
+Ledger reached `ledger_version` 35.1, 2,650 rules, 348 batches -- zero duplicate IDs verified after
+every batch run across the whole Phase 5 continuation.
 
 **Running tally of items requiring Abad's own direct review, accumulated across Phases 1.5 through
 5 (including the MCD-core continuation).** None of these block further work; they're queued for
@@ -3992,7 +4013,7 @@ whenever Abad wants a dedicated session:
   - **A12 (lower priority, flag only):** a Book-1 combat-ceiling absolute-wording tension; a
     no-killing-doctrine tension at the Sovereign Pier; two operations with near-identical
     wage-skimming statistics that may be an intentional echo or a duplication; a couple of
-    wording-only items that don't need a ruling, just a tweak (already slated for the Batch 348 fix).
+    wording-only items that don't need a ruling, just a tweak (already applied in the Batch 349 fix).
 
 ## Separate, unrelated thread: the interactive archive app
 
