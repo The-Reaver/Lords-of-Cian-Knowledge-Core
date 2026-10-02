@@ -5,7 +5,9 @@ Chronicle series, Strand W (Witness / present-day, quiet register). A stakes-fre
 Lauris with Efa Gol, whose established blunt, precise assessment style (`CC-130`) provides a
 direct-speaking counterpart to Lauris's own plainness -- a mutual-recognition register rather than
 a mystery or a combat showcase. No new named characters. Written under Abad's blanket
-authorization: "lock it, continue uninterrupted, test and push to main."*
+authorization: "lock it, continue uninterrupted, test and push to main." Corrected Batch 334,
+2026-10-02: a narrator-boundary fix -- Fermand no longer claims personal authorship of Efa Gol's
+war-era record.*
 
 ---
 

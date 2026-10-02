@@ -10,7 +10,8 @@ stance her instructors at Karth-Ven had spent her first four centuries there bui
 under Veska's own direct tutelage"). Deliberately does not use the name "Karth-Sera," does not
 depict the curriculum as a named, unified system, and does not depict Spine of Dagon, the
 Aristocrat, or Attia's Rite, consistent with `MCD-176`'s locked fact that those weapon-names bind to
-their disciplines only later, on Cian. No new named characters. Full text below.*
+their disciplines only later, on Cian. No new named characters. Corrected Batch 334, 2026-10-02: a
+Chronicle-numeral self-reference reworded to plain in-world phrasing. Full text below.*
 
 -----
 
@@ -22,7 +23,7 @@ I have described already the deep-mountain training floor Veska Karth-Ven presid
 meters of high-gravity-forged Drakma standing in continuous calibration for twenty-eight thousand
 years before Lauris ever set foot on it, and I described it, at the time, as an instrument slowly
 learning what a body was. I return to that floor now for an entry that concerns a single stance --
-the one Chronicle XV would later name Triad-Lock, when I set down the day Lauris held a mountain's
+the one I named Triad-Lock when I set down the day Lauris held a mountain's
 own weight in argument with itself for three continuous hours. That entry did not explain where the
 stance came from. This one does.
 

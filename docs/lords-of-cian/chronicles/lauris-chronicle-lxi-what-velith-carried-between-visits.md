@@ -8,7 +8,8 @@ locked at `MCD-165`/`1553` and the correspondence pattern established at Chronic
 have liked"). Shows Velith entering Threnarr's defensive complement -- the same body Chronicle XIV
 (`MCD-1631`) already establishes was "drawn in part from the cohort of forty-seven children" and in
 which Velith is later killed -- extending rather than contradicting that entry. Reuses Iron-Speaker
-Vann (`MCD-1627`). No new named characters. Full text below.*
+Vann (`MCD-1627`). No new named characters. Corrected Batch 334, 2026-10-02: a Chronicle-numeral
+self-reference reworded to plain in-world phrasing. Full text below.*
 
 -----
 
@@ -36,7 +37,7 @@ decides anything.*
 *
 
 I want to be honest about what I find difficult in transcribing this entry, which is that I already
-know, from Chronicle XIV, how this particular thread of Velith's life ends. I have tried, in setting
+know, from an account I have already set down, how this particular thread of Velith's life ends. I have tried, in setting
 this account down, to resist writing it as though the ending were already visible to either woman in
 the room -- it was not, by any account either of them left, and I think it would be a disservice to
 both of them to let hindsight pull warmth into foreboding where none was intended at the time. What I
