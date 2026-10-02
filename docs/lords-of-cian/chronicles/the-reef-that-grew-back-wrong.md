@@ -11,15 +11,15 @@ battle ever could on its own: ground the coral down season by season until the f
 settlement depended on for half its food had started, quietly and then not quietly at all, to stop
 coming back.
 
-No one had raided anything here in eleven years. The settlement built on the Salt Keep's own
+No one had raided anything here in thirty-five years. The settlement built on the Salt Keep's own
 liberation was thriving by every other measure — self-governing, well-traded, exactly the kind of
 place the crew's work was meant to produce. It was the reef itself, not any remaining enemy, that had
 become the problem, and it had become one slowly enough that Kanja hadn't noticed it until a local
 fisherman said it to him plainly, not recognizing who he was speaking to: the water they'd been given
 back wasn't the water it used to be.
 
-There was nothing in the Forge-Coat's design, nothing in Mafesto's kinetic systems or Obsidian
-Malice's discharge, built to grow coral back. What there was, instead, was time and hands, and Kanja
+There was nothing in the Forge-Coat's design, nothing the Long Mask's gear had ever been built to
+do, that could grow coral back. What there was, instead, was time and hands, and Kanja
 spent eleven days of it working alongside the fisherman's own people — clearing wreck iron by hand
 from shallows too delicate for anything heavier, laying transplant frames a marine-minded elder from a
 neighboring settlement had spent a decade perfecting on her own reef, hauling stone for a breakwater
@@ -43,8 +43,15 @@ capability can solve, extending the sub-series' running theme (`MCD-1242`) that 
 persona causes or inherits are answered only with ordinary, patient labor. Set at the already-locked
 Salt Keep site (`MCD-446`, age ~140) and its settlement (`MCD-545`, age ~200), thirty-five years after
 the siege and roughly twenty-five years before the settlement's confirmed intact legacy. No combat.
-Age 175 places this within Forge-Coat V3 (`ARS-347`/`348`, ages 80-241) and Ironhand Gauntlets V2
-(`ARS-352`, ages 80-180); gear referenced only in passing, unused for the entry's actual work. Onyx of
-Oblivion correctly absent per its L9 seal throughout the Long Mask. No new named characters (the
+Age 175 places this within Forge-Coat V3 (`ARS-347`/`348` locks V3 at ages 80-180, which age 175
+falls within) and Ironhand Gauntlets V2
+(`ARS-352`, ages 80-180); gear referenced only in passing, unused for the entry's actual work. Onyx
+of
+Oblivion, Mafesto, and Obsidian Malice correctly absent per the Trinity's age-30 surrender
+(`MCD-246`). No new named characters (the
 fisherman and the visiting reef-restoration elder are both deliberately unnamed). Does not touch,
-restage, or contradict the already-locked final night of the persona (`MCD-1022`).*
+restage, or contradict the already-locked final night of the persona (`MCD-1022`). Corrected Batch
+321, 2026-10-02: "no one had raided anything here in eleven years" corrected to "thirty-five years"
+(matching the continuity note's own already-correct "thirty-five years after the siege"); removed an
+anachronistic literal Mafesto/Obsidian Malice reference, reworded to the Long Mask's gear generally;
+corrected the `ARS-348` citation to its own locked ranges.*

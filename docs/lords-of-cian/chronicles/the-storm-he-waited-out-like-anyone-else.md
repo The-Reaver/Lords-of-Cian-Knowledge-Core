@@ -6,8 +6,9 @@
 
 The storm closed the strait for four days, stranding his own ship alongside a dozen ordinary merchant
 vessels in the same sheltered cove, and for the first time in longer than he could easily place, there
-was nothing extraordinary about him to bring to bear against it — no gear built for this, no
-Trinity relic that mattered against weather, just a man waiting out bad water the same as every other
+was nothing extraordinary about him to bring to bear against it — no gear built for this,
+nothing in the whole of the Long Mask's own kit that mattered against weather, just a man waiting
+out bad water the same as every other
 sailor sharing the anchorage.
 
 A merchant crew's cook, short-handed and unbothered by the stranger's quiet presence, put him to work
@@ -46,4 +47,5 @@ entirely irrelevant to the situation, the persona set aside not by choice but by
 distinct from every combat, reputation, or reflection register used elsewhere in this run. No new
 named characters. Second entry in the Scourge's fourteenth wave. Corrected Batch 321, 2026-10-02:
 Garren Hask's ledger-keeping span corrected from "three centuries" to "seven decades," matching this
-entry's age (90) against Hask's own crew-founding age (~18).*
+entry's age (90) against Hask's own crew-founding age (~18); reworded a soft "Trinity relic" phrase
+to reference the Long Mask's own gear instead.*

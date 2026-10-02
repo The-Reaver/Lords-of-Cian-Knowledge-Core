@@ -11,7 +11,7 @@ week Sena asked him to, was follow a name past the count it belonged to and find
 the person attached to it.
 
 Sena had her own list, kept separately and shown to no one until now: forty-one people she'd
-personally carried out of forty-one different holds since the night in a market square when she'd
+personally carried out of forty-one different holds since the night on a ship's deck when she'd
 nearly killed an already-surrendered man out of grief that wasn't his to answer for. She'd tracked
 what she could of most of them over the decades -- a handful dead of ordinary age, most simply lost
 to distance and time, and a smaller number she'd stayed close enough to actually know: a boy grown
@@ -47,4 +47,6 @@ though no combat occurs in this entry. Onyx of Oblivion correctly absent per its
 the Long Mask. Second entry of the Scourge's thirty-first wave. No new named characters. Corrected
 Batch 321, 2026-10-02: corrected Garren Hask's ledger span from "two hundred and seventy years" to
 "two hundred and eighty-three," using the age-30 anchor that reconciles this figure across all five
-entries that stated it inconsistently; corrected the `ARS-348` citation to its own locked ranges.*
+entries that stated it inconsistently; corrected the `ARS-348` citation to its own locked ranges;
+corrected the setting of Sena's near-kill from "a market square" to "a ship's deck," matching
+`MCD-1043`'s own boarding-deck setting.*

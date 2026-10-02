@@ -50,7 +50,7 @@ in Kanja's own single underlying psychology rather than inventing a separate one
 | The Industrial Myth | `character-profiles/alias-industrial-myth.md` | not started (backfill) | 102 |
 | The Blue-Collar Titan | `character-profiles/alias-blue-collar-titan.md` | not started (backfill) | 102 |
 | The Sovereign Ghost of the Great Sea | `character-profiles/alias-sovereign-ghost.md` | not started (backfill) | 102 |
-| The Scourge | `character-profiles/alias-scourge.md` | not started (backfill) | 93 |
+| The Scourge | `character-profiles/alias-scourge.md` | not started (backfill) | 102 |
 | The Crow King | `character-profiles/alias-crow-king.md` | walkthrough drafted | 102 |
 | The Iron Bastard | `character-profiles/alias-iron-bastard.md` | not started (backfill) | 102 |
 | The Lord of Embers | `character-profiles/alias-lord-of-embers.md` | not started (backfill) | 93 |
