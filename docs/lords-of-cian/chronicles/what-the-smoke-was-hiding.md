@@ -1,7 +1,9 @@
 # What the Smoke Was Hiding
 
 *Locked canon, Batch 233, 2026-09-11 (`MCD-1035`). The Blue-Collar Titan Alias Chronicle LVIII, wave
-20. Not a territory Chronicle. Narrated in neutral third-person prose.*
+20. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321,
+2026-10-02: "two years earlier" corrected to "weeks earlier" -- the Sewer War of Killane campaign
+(extending `MCD-234`, reconciled at `MCD-1877`) runs within ages 20-21, not years prior.*
 
 ---
 
@@ -18,7 +20,7 @@ in the one corridor that isn't cleared yet."
 Twenty-six workers were behind that fire, not ahead of it — the arson had been set to cut off retreat,
 not to kill outright, driving them deeper into a network with one known exit already burning. Mafesto's
 kinetic transfer, tuned for redirecting force rather than generating it, found an unlikely use pulling
-displaced air backward through a side shaft Kanja had shored two years earlier, thinning the smoke
+displaced air backward through a side shaft Kanja had shored weeks earlier, thinning the smoke
 along the escape line by inches at a time instead of clearing it outright — not enough to see by, but
 enough to breathe by, which was the only version of the problem that mattered in the next four minutes.
 
