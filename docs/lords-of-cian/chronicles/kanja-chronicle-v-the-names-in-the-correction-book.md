@@ -182,10 +182,9 @@ read the entries under that name -- the dates, the marks, what had been done -- 
 that silence, until somebody moved. Then he would go to the man whose name it was and kill him, and
 come back to the book, and turn the page.
 
-Men whose names were not in the book were told, once, to put their weapons on the ground and sit,
-and the ones who did were never touched. The ones who tried to make a line against him found Valen
-in front of them instead, and Valen does not leave men standing, but he leaves them breathing when he
-is asked to, and that morning he was asked to. Nobody whose name was not in the book died in that
+Men whose names were not in the book were told, once, to put their weapons down and sit, and the
+ones who did were never touched. The ones who tried to make a line found Valen in front of them
+instead, and Valen leaves men breathing when he is asked to, and that morning he was asked to. Nobody whose name was not in the book died in that
 yard. Nobody whose name was in it lived, except one, and I will come to him.
 
 He did not hurry. He did not shout. He did not explain himself. I have read that hour out of his
@@ -210,11 +209,10 @@ Mercy is earned. That morning, nobody whose name was in that book had earned any
 
 He left Halvard Grenmoor for last.
 
-Grenmoor had not hidden. That should be recorded in his favor, and I record it. He was waiting on
-the drowning steps -- the stone stair that runs from the gatehouse down along the inside of the
-harbor wall to the eastern pen, where cargo marked for correction was walked down to the water -- in
-his master's coat, with his sword sheathed and his hands folded on its pommel. He had watched the
-whole hour from there. He had heard every name.
+Grenmoor had not hidden. I record it in his favor. He was waiting on the drowning steps -- the
+stone stair down the inside of the harbor wall to the eastern pen, where cargo marked for correction
+was walked to the water -- with his sword sheathed and his hands folded on its pommel. He had heard
+every name.
 
 The man came down the steps to him with the book open in one hand and the machete in the other, and
 stopped three steps above him.
@@ -250,10 +248,9 @@ a name.
 
 He gave the book back to Mabry.
 
-Mabry's name was in it. Once, eleven years earlier, a flogging, administered by his hand. He had
-written every other entry in that book; he had done the thing he wrote down exactly once. The man had
-read that entry in the office before he went down to the yard, and then gone back, and read it again,
-and moved on.
+Mabry's name was in it once: a flogging, eleven years earlier, by his own hand. He had written every
+other entry in that book and done the thing he wrote down exactly once. The man had read that entry
+twice in the office, and moved on, and that was a choice too.
 
 "Keep writing," the man said. "Every name I read today. What they did. That they died, and who did
 it." He tapped the book's open page with one plated finger. "Under mine."
@@ -263,12 +260,10 @@ man's ledger, by the one officer of its garrison who lived.
 
 • • •
 
-She had watched the whole thing. Her name was Anirak. The crew would later call her Blades Fury,
-and mean it as the highest thing they knew how to say.
-
-Not from the pens. She had come up out of the eastern passage when the gates held, with her three at
-her back and her hands split open at the knuckles from the fetters, and she had stood at the edge of
-the yard while he read the names, and she had not looked away from it once.
+Her name was Anirak. The crew would later call her Blades Fury. She had watched the whole thing --
+up out of the eastern passage when the gates held, her three at her back, her knuckles split open
+from the fetters, standing at the edge of the yard while he read the names, never once looking
+away.
 
 She had been killing too, before the fleet came, and never pretended otherwise. But she killed the
 way she does everything -- all the way in, each blow harder than the last until nothing is left in
@@ -277,19 +272,15 @@ Who checked a book.
 
 When it was done she crossed the yard to him, and he turned, and their eyes met.
 
-Everyone who looks at her is caught. It is not a thing she does; it is a thing she is, the way the
-heat is a thing Torian is. The eyes take a little of anyone who meets them, and she has never in her
-life been able to tell how much of what anyone gave her was given and how much was taken.
-
-The channel tells me his attention snagged on her like anyone's. It also tells me what he did with
-it. He noticed it go, and he set it to one side, the way he sets aside the stamped value of a debased
-note to see what the coin actually weighs.
+Everyone who looks at her is caught. It is not a thing she does; it is a thing she is, the way heat
+is a thing Torian is, and she has never been able to tell how much of what anyone gave her was given
+and how much was taken. His attention snagged on her like anyone's. He noticed it go, and set it
+aside, the way he sets aside the stamped value of a debased note to see what the coin weighs.
 
 "Your eyes pull," he said. "I felt it. I've taken it out of the count." He looked at her hands, not
 her face. "What's left is that you were breaking those chains before anyone came."
 
-She said -- Mabry heard it, and wrote it down, because by then he was writing everything -- that
-nobody had ever told her that before. That they felt it.
+She said nobody had ever told her that before. That they felt it.
 
 "Then nobody's ever told you anything true about it," he said. "They put you in a harness to keep the
 blows from adding up."
@@ -309,27 +300,23 @@ That is the forge rhythm in the shoulders, and the three days without sleep.
 
 He took the garrison's own forge -- it had made the fetters for six pens; it was a good forge -- and
 worked it for most of three days with Living Drakma from the fleet's stores. Two hook-swords on
-chains, the metal of them keyed to her pulse, built to warm and tighten as her heart climbed instead
-of fighting it, so that the faster she went the more they could bear. A gorget, set with crystal
-nodes that hummed below hearing, so that anyone in front of her would misjudge where the chains were
-by a fraction, and feel the floor tilt without knowing why. And a mace whose head turned through
-three shapes at a twist of the wrist -- a cage of talons to take a shield, a ribbed lantern to blind,
-a crown that opened to catch whatever was near it -- because a perimeter, he told her, needs a way
-to punish anyone who crosses it, and one way is never enough.
+chains, keyed to her pulse, built to warm and tighten as her heart climbed instead of fighting it. A
+gorget set with crystal nodes that hummed below hearing, so anyone in front of her would misjudge
+where the chains were and feel the floor tilt without knowing why. And a mace whose head turned
+through three shapes at a twist of the wrist -- talons, lantern, opening crown -- because a
+perimeter, he told her, needs more than one way to punish whoever crosses it.
 
-She tested the hook-swords in the yard where he had read the names, with her three watching from the
-gatehouse steps. Twenty strokes. Thirty. The chains began to glow along their links, a dull forge
-amber, and then brighter, and the sound of them cutting air became a single continuous shriek, and
-nothing she did to them could make them fail.
+She tested the hook-swords in the yard where he had read the names. Twenty strokes. Thirty. The
+chains began to glow along their links, dull forge amber and then brighter, their sound in the air
+one continuous shriek, and nothing she did could make them fail.
 
-That is where his heart lifted. Not in the yard during the hour. Not on the drowning steps. In the
-same yard, three days later, watching something he had made hold.
+That is where his heart lifted. Not during the hour. Not on the drowning steps. In the same yard,
+three days later, watching something he had made hold.
 
-Her three did not join the crew that week. They joined her. They followed her up the gangway and
-took the berths beside hers, and when Valen asked them, plainly, whose orders they would take, they
-looked at her before they answered. The man saw it, and let it stand, and said nothing about it,
-then or afterward. I have learned that he does that when he likes what he is seeing and does not
-want to make it smaller by naming it.
+Her three did not join the crew that week. They joined her. When Valen asked them plainly whose
+orders they would take, they looked at her before they answered. The man saw it and let it stand,
+and said nothing. He does that when he likes what he sees and does not want to make it smaller by
+naming it.
 
 • • •
 
@@ -338,18 +325,16 @@ Dark Ledger. Somewhere a little short of the eight-hundredth million second.
 His heart at rest. Then the spike. More than forty, inside one hour, the pulse never leaving rest
 but once.
 
-Reconciled. Dunmore and the nine at the west wheel, but for the one who knelt. The names in the yard.
+Reconciled. Dunmore and the men at the west wheel, but for the one who knelt. The names in the yard.
 Skarrow on the gatehouse steps. Halvard Grenmoor on the drowning steps, last. The wound: a hook-knife,
-the seventh man in the west gallery, closed with a belt pouch, a scar on the outside of his left
-forearm I have since run the length of with my own edge's attention, the way one runs a finger down a
-column.
+closed with a belt pouch, a scar along his left forearm.
 
-Against them: something over nine hundred people in six pens, dry to the knee, all of them breathing.
+Against them: something over nine hundred people in six pens, wet to the knee, all of them breathing.
 
-The stories say Chain Harbor was a rage. I have the count, and the count says there was no rage in it
-anywhere. It was a man reading a book aloud until he reached the end of it, and then closing it.
+The stories say Chain Harbor was a rage. I have the count, and there was no rage in it anywhere. It
+was a man reading a book aloud until he reached the end, and then closing it.
 
-Memory is the receipt. Mabry still has it. Every name is right.
+Memory is the receipt. Mabry kept it. Every name in it is right.
 
 ---
 
