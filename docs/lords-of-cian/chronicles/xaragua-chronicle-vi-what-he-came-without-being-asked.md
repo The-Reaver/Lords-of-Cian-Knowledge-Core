@@ -4,6 +4,11 @@
 ("The Night He Was Let Into the Room," `MCD-1024`). Direct closing payoff to the long-arc flagged
 since Batch 66 (`PH2-061`): Kanja "becomes one" of Arturo Salvatierra Duho's loved ones.*
 
+*Corrected Batch 339, 2026-10-02: the testing-period reference now matches Chronicle II/`MCD-337`'s
+locked three-day test rather than a week; the amusement line no longer names Kanja on-page, preserving
+the unnamed-guest convention; "Back home" corrected to "On the docks," since Arturo is a Xaragua
+native.*
+
 ---
 
 Word reached him the way it always reached him now — sideways, through people who didn't know they
@@ -35,8 +40,8 @@ settling. He had nothing to offer this room except that he'd come.
 
 Arturo studied him the way he studied everyone — the look that had made governors and rival captains
 alike feel weighed and filed before they'd finished a sentence. Whatever he was searching for, he
-didn't find it, and for the first time since the two of them had met over that long, silent testing
-week years before, that seemed to be the point rather than a failure of the method.
+didn't find it, and for the first time since the two of them had met over those three silent, watched
+days years before, that seemed to be the point rather than a failure of the method.
 
 "I used the reverse face," Arturo said finally, answering a question that hadn't been asked aloud.
 "On a man selling children out of a freight hold two streets from here. It costs what it costs." He
@@ -62,8 +67,8 @@ From the doorway, not quite hidden, Yaisa made a small, unimpressed sound that w
 
 "I know what he means." Arturo didn't look away from him. "I'm not calling you what she calls me.
 That's hers to keep. But I'm not leaving you standing there nameless either, not after this." He
-considered a moment, the first real amusement Kanja had seen cross his face since walking in. "Back
-home, before any of this, there was a fish the old fishermen talked about — rides alongside the
+considered a moment, the first real amusement he had seen cross Arturo's face since walking in. "On
+the docks, before any of this, there was a fish the old fishermen talked about — rides alongside the
 shark, close enough to be eaten a hundred times over, and never is, because it never once asked to be
 fed. Just stays. Guaikán, they called it. The one that travels with the thing that could kill it and
 doesn't, because it chose to be there and the shark, eventually, stops minding."

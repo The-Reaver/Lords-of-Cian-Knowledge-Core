@@ -20,7 +20,7 @@ it in front of him. "Not finished. A finished thing implies nothing more can be 
 I'd rather leave room open than pretend we've closed a book we can't actually close."
 
 The forty had been thirty-one by the second year, memory being what it is and years being what they
-are, and would be twenty-six by the time the last session ended — four had moved away, three had
+are, and would be twenty-six by the time the last session ended — seven had moved away, five had
 simply stopped coming, and two had died before the work was done, one of them, Doña Alma, only
 weeks after she finally remembered the single detail that unlocked eleven months of entries no one
 else in the room had ever been trusted with.
@@ -39,8 +39,9 @@ that no one carrying a fragile piece of the account in their own head had to als
 of getting the words down correctly before it slipped.
 
 By the fourth year's final session, the ledger held perhaps four-fifths of what the fire had taken
-— not everything, never everything, some threads simply gone with the two who'd died holding them
-and never spoken them aloud in time — but four-fifths of a six-year account, rebuilt from nothing
+— not everything, never everything, some threads simply gone with those who'd died or drifted away
+still holding them, never spoken aloud in time — but four-fifths of a six-year account, rebuilt from
+nothing
 but forty people's memory and four years of patient, unhurried Sunday afternoons, was not nothing.
 It was, by any honest measure, most of a debt made real again.
 
@@ -73,7 +74,13 @@ Chronicle I (`MCD-341`) already fully dramatized "No Single Point"'s (`PH2-010`)
 in one episode -- by picking up a specific, deliberate detail in that Chronicle's own wording: the
 burned ledger "cannot be *fully* rebuilt," which implies partial recovery, dramatized here directly
 for the first time as roughly four-fifths recovered across four years, with an explicit and honest
-acknowledgment that some of it is permanently, irrecoverably gone. Doña Alma is introduced as a
+acknowledgment that some of it is permanently, irrecoverably gone.*
+
+*Corrected Batch 339, 2026-10-02: the attrition count corrected to seven moved away, five stopped
+coming, and two died (40 -> 26 now sums correctly); the "two who'd died" framing on lost threads
+corrected to "those who'd died or drifted away," since Doña Alma spoke hers before dying.*
+
+*Doña Alma is introduced as a
 minor named character (collision-checked against the full live ledger, zero prior hits) who dies
 shortly after contributing a key piece of the reconstruction, in keeping with the Chronicle's own
 theme of memory as a finite, mortal resource. The unnamed Commissioner from Chronicle I is

@@ -11,6 +11,10 @@ certain as you are." Introduces one new named character, Adeyemi -- collision-ch
 full live ledger (zero prior hits), distinct from the already-locked Xaragua supporting-cast figures
 Kwabena (`PH2-014`) and Kwaku (`PH2-016`), neither of whom this reuses or resembles.*
 
+*Corrected Batch 339, 2026-10-02: the closing line's "seven years" of grief over the forged cell
+corrected to an unspecified "years," since seven years elsewhere in this file correctly refers to the
+barbershop-to-now gap, a distinct span.*
+
 ---
 
 He came seven years after the barbershop, and he came alone, and he came without anything sharper
@@ -104,7 +108,7 @@ to know if it was true. Now you do."
 
 Kwame Ade looked down at the blood already slowing beneath the cloth — the first mark anyone had
 ever left on him that he hadn't chosen to let land — and found, underneath the pain, something he
-hadn't expected to feel at all: not fear, not even the particular grief he'd carried for seven years
+hadn't expected to feel at all: not fear, not even the particular grief he'd carried for years
 about the six men that cell had forged him alongside. Something closer to relief, that the wall he'd
 built himself into had turned out, after everything, to still have one true door in it.
 

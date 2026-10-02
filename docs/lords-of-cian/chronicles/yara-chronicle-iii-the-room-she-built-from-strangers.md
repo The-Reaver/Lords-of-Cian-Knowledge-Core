@@ -4,6 +4,10 @@
 Chronicle — Yalokona as protagonist, Kanja an unnamed background guest with no command, credit, or
 resolution authorship. New standalone material. No new named characters.*
 
+*Corrected Batch 339, 2026-10-02: the paragraph describing "Caucus" as an ambient felt-equal-weight
+effect rewritten to remove the quoted ability name and reframe the mechanism as the room trusting that
+agreements reached at her table would hold, not be quietly walked back.*
+
 ---
 
 The flood-control proposal needed support from four groups that had never once sat in the same room
@@ -12,11 +16,14 @@ about displacement, dockworkers worried about job security, and a clergy coaliti
 nothing being asked of them but their blessing after the fact. Yalokona brought all four into one
 room anyway, certain the proposal's real chance depended on it.
 
-"Caucus" didn't force agreement. It did something quieter — a felt sense, once the room settled, that
-every voice present carried equal weight regardless of how loudly or softly it was normally allowed
-to speak elsewhere. The business owners, accustomed to being courted separately and flattered into
-compliance, found themselves genuinely listening to a dockworker's concern for the first time in
-years. The clergy coalition, accustomed to being consulted last, found itself asked first.
+She did not force agreement, and nothing in the room did it for her. What she brought was the thing
+Yara had learned to count on from her: once the four of them reached terms at her table, none of them
+would be able to walk the agreement back quietly afterward, in a side room, the way every one of them
+had walked back every previous promise to the other three. Knowing that changed how they bargained.
+The business owners, accustomed to being courted separately and flattered into compliance, found
+themselves genuinely listening to a dockworker's concern for the first time in years, because whatever
+they conceded would hold. The clergy coalition, accustomed to being consulted last, found itself asked
+first.
 
 "This isn't how these meetings usually go," one business owner admitted, several hours in, visibly
 disoriented by a negotiation where nobody's voice was structured to dominate. "Normally somebody's

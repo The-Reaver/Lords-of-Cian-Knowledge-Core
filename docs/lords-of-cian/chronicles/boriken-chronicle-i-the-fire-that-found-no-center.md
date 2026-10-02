@@ -46,11 +46,12 @@ to stop it, did not shout a warning that wasn't his to give, only watched the pe
 start moving — fast, practiced, wordless — toward the things that mattered before the things that
 didn't.
 
-They didn't save the building. They saved the ledger of names — who owed what, who was owed what,
-the six years of a hundred small debts and a hundred small kindnesses that made the hall worth
-occupying in the first place — and they saved each other, in an order that looked rehearsed because
-it was: the oldest first, then the children, then the ledger, then whatever else there was time for,
-exactly as someone had once, patiently, unhurriedly, taught them to.
+They didn't save the building. They didn't save the ledger of names either — who owed what, who was
+owed what, the six years of a hundred small debts and a hundred small kindnesses that made the hall
+worth occupying in the first place; it was at the back, past where the smoke had already closed.
+They saved each other, in an order that looked rehearsed because it was: the oldest first, then the
+children, then whatever else there was time for, exactly as someone had once, patiently,
+unhurriedly, taught them to.
 
 The stranger helped carry a cot out through smoke he had no reason to walk into. No one asked him
 to. No one thanked him for it either, in the confusion, and he didn't wait around for either to
