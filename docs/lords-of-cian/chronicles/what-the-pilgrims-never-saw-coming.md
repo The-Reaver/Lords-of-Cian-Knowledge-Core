@@ -3,7 +3,8 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1332`). The Lord of Embers Alias Chronicle LXXXVI, wave
 29. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), a settlement's annual pilgrimage
 festival. A detailed, battle-intense Trinity combat showcase protecting a dense civilian crowd. Not
-a territory Chronicle. Narrated in neutral third-person prose.*
+a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
+reworded writers'-room phrasing ("than any prior showcase") to plain in-world prose.*
 
 ---
 
@@ -22,7 +23,7 @@ a crowd that doesn't know to part for it yet.
 over him. "Fast in a crowd this size gets someone trampled before a single blow lands. I need
 them contained, not just beaten."
 
-He fought differently than any prior showcase because the crowd itself demanded it — Mafesto's
+He fought differently than he ever had because the crowd itself demanded it — Mafesto's
 Kinetic Transfer System used less for absorbing or redirecting force and more for physically
 shepherding panicked bodies clear of a widening fight, a hand on a shoulder here, a shoulder turned
 to block a stampede's start there, defense of people who had no idea what was actually happening

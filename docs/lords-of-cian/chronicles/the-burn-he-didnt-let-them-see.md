@@ -1,6 +1,8 @@
 # The Burn He Didn't Let Them See
 
-*Locked canon, Batch 219, 2026-09-11 (`MCD-974`). The Lord of Embers Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 219, 2026-09-11 (`MCD-974`). The Lord of Embers Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
+fixed a stale wave citation for the senior smith's establishment in the continuity notes (waves
+3-5, not wave 14).*
 
 ---
 
@@ -49,7 +51,8 @@ there."
 *Continuity notes (not narrative): the first Lord of Embers entry to injure Kanja himself rather than
 an apprentice, an enemy, or a structure — a real burn sustained through ordinary fatigue rather than
 combat, and the alias's own instinct to hide it rather than accept care, reversing the caretaker
-dynamic established across the campaign's prior entries. The senior smith (established wave 14)
-appears consistent with her role. No new named characters. Closes the Lord of Embers' eighteenth
+dynamic established across the campaign's prior entries. The senior smith (established across
+waves 3-5, MCD-456/MCD-502/MCD-554) appears consistent with her role. No new named characters.
+Closes the Lord of Embers' eighteenth
 three-Chronicle wave (with "The Caravan That Didn't Know His Name" and "What the River Barge
 Couldn't Outrun").*

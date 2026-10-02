@@ -1,11 +1,13 @@
 # What the Forge Carved in Memory
 
-*Locked canon, Batch 219, 2026-09-11 (`MCD-969`). The Lord of Embers Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 219, 2026-09-11 (`MCD-969`). The Lord of Embers Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
+the deceased apprentice's name, originally "Toma," collided with the already-locked Tomas Grieve
+(MCD-093/CC-124); renamed to Ilo (collision-checked clean against the live ledger).*
 
 ---
 
 The fever took eleven days to kill him, and none of them had anything to do with the Trust, or a
-raid, or a burning. Toma had been the quietest of the sixty apprentices, a boy who kept his own
+raid, or a burning. Ilo had been the quietest of the sixty apprentices, a boy who kept his own
 counsel and did clean, unremarkable work, and then he had a cough that didn't clear, and then he
 didn't wake up one morning, and there was no enemy anywhere in it for anyone to answer to.
 
@@ -38,7 +40,7 @@ over it. That's the whole of what this floor has to offer against a fever. It wa
 answer this kind. Doesn't mean we don't still answer, best we can."
 
 They mounted the hinge on the floor's own tool rack, unremarkable among the other hardware to
-anyone who didn't know its story, exactly as Toma himself would have wanted it — nothing announced,
+anyone who didn't know its story, exactly as Ilo himself would have wanted it — nothing announced,
 nothing burned into the metal to mark it. The senior smith touched it once on her way past, and
 didn't stop walking.
 
@@ -53,7 +55,7 @@ the thing that finally showed me the floor's got a limit was a cough."
 no raid, and no rebuild target at all — an apprentice's death from illness, explicitly distinguished
 from every prior loss on the campaign (which always had something physical to answer with work).
 The plain hinge, mounted unmarked among ordinary tool stock, functions as grief expressed through
-the alias's own craft register rather than through words. The senior smith (established wave 14,
-"What the Senior Smith Passed Down") appears consistent with her prior role. No new named
-characters beyond the deceased apprentice, who does not appear on-page alive. First entry in the
-Lord of Embers' seventeenth three-Chronicle wave.*
+the alias's own craft register rather than through words. The senior smith (established across
+waves 3-5, MCD-456/MCD-502/MCD-554) appears consistent with her prior role. A minor new named
+character, Ilo, is introduced as the deceased apprentice; he does not appear on-page alive. First
+entry in the Lord of Embers' seventeenth three-Chronicle wave.*

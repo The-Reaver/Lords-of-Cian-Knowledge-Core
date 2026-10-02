@@ -1,15 +1,15 @@
 # What the Enemy Learned to Rebuild
 
-*Locked canon, Batch 213, 2026-09-11 (`MCD-922`). The Lord of Embers Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 213, 2026-09-11 (`MCD-922`). The Lord of Embers Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: clarified an ambiguous opening line ("A garrison Directorate scouts hit last season") to make clear the garrison is a Directorate installation that Kanja's own scouts burned, which the Directorate then rebuilt using the stolen method -- matching the rest of the scene.*
 
 ---
 
 Callum Breck brought the report himself rather than send it through the usual chain, which told Kanja
 something about its contents before he'd read a line of it.
 
-"A garrison Directorate scouts hit last season," Breck said. "Burned to the waterline, or near enough.
-Trust records put the rebuild at nine weeks, going off every prior garrison they've had to raise from
-nothing. This one came back in nineteen days."
+"A Directorate garrison our own scouts hit last season," Breck said. "Burned to the waterline, or near
+enough. Trust records put the rebuild at nine weeks, going off every prior garrison they've had to
+raise from nothing. This one came back in nineteen days."
 
 Kanja read the intercepted report twice before he said anything. Staged material caching ahead of the
 work rather than after. Crews rotated on fixed intervals instead of run to exhaustion. Every hand

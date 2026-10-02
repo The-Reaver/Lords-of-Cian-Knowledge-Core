@@ -30,7 +30,7 @@ nobody left who needs to see otherwise."
 "You don't have to carry that alone, you know. Not every night."
 
 "I know. I think I forget it more often than I should." He allowed the admission more openly than he
-usually did, the old smith's own decades of quiet trust making the honesty easier than it would have
+usually did, the old smith's own months of quiet trust making the honesty easier than it would have
 been with almost anyone else. "Most people see the burnings, the rebuilds, the legend of it holding
 together no matter what's thrown at it. Nobody sees this part unless I let them, and I don't let
 many people see it at all."
@@ -43,8 +43,8 @@ this part. I think it should. This is the part that actually built everything el
 ---
 
 *Continuity notes (not narrative): a closing entry showing the personal toll behind the Lord of
-Embers' reputation, witnessed by the campaign's own recurring senior smith (first referenced in "The
-Smith They Said Couldn't Be One," MCD-502) rather than a new named character, following the five-site
+Embers' reputation, witnessed by the campaign's own recurring senior smith (first referenced in
+"What the Embargo Couldn't Starve," MCD-456) rather than a new named character, following the five-site
 defense of MCD-552. No new named characters. Closes the Lord of Embers' fifth three-Chronicle wave
 (with "The Night All Five Forges Burned at Once," MCD-552, and "The Smith Who Built Their Weapons,"
 MCD-553).*

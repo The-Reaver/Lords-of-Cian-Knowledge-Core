@@ -3,7 +3,8 @@
 *Locked canon, Batch 284, 2026-09-11 (`MCD-1497`). Lord of Embers Alias Chronicle XCV, wave 32.
 Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A detailed, battle-intense Trinity
 combat showcase in the alias's first waterlogged marshland register. Not a territory Chronicle.
-Narrated in neutral third-person prose.*
+Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: reworded writers'-room
+phrasing ("than it had in any prior showcase") to plain in-world prose.*
 
 ---
 
@@ -21,7 +22,7 @@ grounded into standing muck stayed half a blow, the rest of it lost to ground th
 still long enough to take it.
 
 He adjusted without pretending the gap wasn't real. Obsidian Malice carried more of the engagement
-than it had in any prior showcase, discharged not as a grounded release but as a direct strike each
+than it ever had, discharged not as a grounded release but as a direct strike each
 time Mafesto's system came back only half-fed, the difference in output plain enough that Kanja
 felt it in his own frame each time he called on it. Onyx of Oblivion did the rest. Cadence Ruin,
 built to read rhythm through solid stone and timber, took longer to learn the marsh's own sucking,

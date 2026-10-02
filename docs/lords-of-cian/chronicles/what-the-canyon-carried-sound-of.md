@@ -4,7 +4,8 @@
 27. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), an arid canyon defile en route
 to an inland settlement. A detailed, battle-intense Trinity combat showcase in the alias's first
 desert/canyon environmental register. Not a territory Chronicle. Narrated in neutral third-person
-prose.*
+prose. Corrected Batch 321, 2026-10-02: reworded writers'-room phrasing ("across prior entries") to
+plain in-world prose.*
 
 ---
 
@@ -19,7 +20,7 @@ over him differently than any forest or coastline the campaign had crossed. "Whi
 nowhere for them to hide from what the canyon does to sound, either."
 
 He turned the terrain's own emptiness against the ambush waiting in it. Onyx of Oblivion's Cadence
-Ruin, which had read frozen ground and flooded stone and a full sea storm across prior entries,
+Ruin, which had read frozen ground, flooded stone, and a full sea storm in fights before this,
 found something new in bare rock — a canyon wall carrying the faintest scrape of a repositioning
 boot for a hundred feet in either direction, amplified rather than muffled by the same dead, dry
 air that gave the ambush its cover from sight. Every dug-in position gave itself away the moment

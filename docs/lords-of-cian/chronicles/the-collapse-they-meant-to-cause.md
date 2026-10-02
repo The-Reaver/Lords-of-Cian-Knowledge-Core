@@ -4,7 +4,9 @@
 entry in the twenty-first wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241),
 one of the marginal reopened ore drifts brought back into use during the embargo (MCD-456). A
 detailed, battle-intense Trinity combat showcase fought on two fronts at once. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed "the
+mechanic he'd built the coat's whole vocabulary around" to "Mafesto's whole vocabulary around" --
+no Forge-Coat exists at age 27.*
 
 ---
 
@@ -25,7 +27,7 @@ redirect it — the exoskeleton grounding the beam's shifting weight through his
 into the drift floor, buying the timber minutes it didn't have on its own rather than pulling the
 weight into stored charge the way it would against a blow. "Grounding, not swallowing it whole,"
 he said to no one, feeling for the difference the way he'd feel for a hot spot in an unfamiliar
-forge — the mechanic he'd built the coat's whole vocabulary around, applied now to holding a
+forge — the mechanic he'd built Mafesto's whole vocabulary around, applied now to holding a
 mountain still instead of a punch.
 
 Onyx of Oblivion went ahead of him into the dark, Cadence Ruin reading the rock itself for

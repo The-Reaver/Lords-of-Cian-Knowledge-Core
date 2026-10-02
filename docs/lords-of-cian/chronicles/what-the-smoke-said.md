@@ -2,7 +2,10 @@
 
 *Locked canon, Batch 284, 2026-09-11 (`MCD-1500`). Lord of Embers Alias Chronicle XCVIII, wave 33.
 Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). Not a territory Chronicle. Narrated in
-neutral third-person prose.*
+neutral third-person prose. Corrected Batch 321, 2026-10-02: removed a mistaken "repurposing the
+Forge-Coat's Smoke System" framing from the continuity notes -- that gear doesn't exist until the
+Long Mask, ages 33-284 -- and recast the chimney code as a plain, un-gear-cited signaling system,
+matching the narrative, which never claimed otherwise.*
 
 ---
 
@@ -43,8 +46,8 @@ not to his own.
 
 *Continuity notes (not narrative): a genuinely new logistics/communication register for the alias --
 a standardized smoke-signal relay code linking multiple forge sites for early warning, distinct from
-every prior combat or economic-warfare entry, and a fresh, non-concealment application of the
-Forge-Coat gear family's established Smoke System (MCD-291-293) repurposed here as a coordinated
-inter-site signaling network rather than personal concealment or terror effect. Callum Breck reprises
+every prior combat or economic-warfare entry -- a plain chimney-signal code built from the
+campaign's own forge chimneys, not any gear system, functioning as a coordinated inter-site
+signaling network. Callum Breck reprises
 his established pattern-recognition role (first shown at MCD-970, reprised at MCD-1416). No new
 named characters; the buried apprentices are unnamed.*

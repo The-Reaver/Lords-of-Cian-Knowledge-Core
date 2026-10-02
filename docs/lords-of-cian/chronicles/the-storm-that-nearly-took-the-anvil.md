@@ -4,7 +4,8 @@
 23. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), open water between coastal
 settlements. A detailed, battle-intense Trinity combat showcase combining a genuine sea storm with
 an opportunistic Directorate naval strike. Not a territory Chronicle. Narrated in neutral
-third-person prose.*
+third-person prose. Corrected Batch 321, 2026-10-02: stripped a leaked inline rule-ID citation
+("the Directorate raid on the ship itself (MCD-423)") in favor of an in-world reference.*
 
 ---
 
@@ -15,7 +16,7 @@ busy fighting the sea to notice one more hostile shape in it until it was alread
 
 The Anvil was never built for open water in weather like this. Kanja felt the whole deck answer
 wrong underfoot, a mobile forge-ship's low, heavy stability fighting a swell it hadn't been
-designed against, and for the first time since the Directorate raid on the ship itself (MCD-423)
+designed against, and for the first time since Directorate raiders had boarded The Anvil itself,
 the actual vessel, not just what it carried, was the thing genuinely at risk. He split his own
 attention the way the fight demanded: Mafesto's Kinetic Transfer System grounded through the deck
 itself, bracing a listing forge-mount before it could tear loose and take three apprentices with

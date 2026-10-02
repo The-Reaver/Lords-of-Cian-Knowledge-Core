@@ -3,7 +3,9 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1310`). The Lord of Embers Alias Chronicle LXIV, first
 entry in the twenty-second wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A
 direct payoff to "The Ballad That Outgrew the Truth" (MCD-881, wave 12). Not a territory Chronicle.
-Narrated in neutral third-person prose.*
+Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed a stale continuity-
+note reference to "The Record They Got Right," then still a planned future entry, now written and
+locked at MCD-1327.*
 
 ---
 
@@ -46,7 +48,7 @@ his left thumb, more interested in that than in lightning.
 the first on-page consequence of that choice, a pilgrim drawn by the myth who finds something
 smaller and, by the entry's own close, more durable than the song promised. Distinct from "The
 Caravan That Didn't Know His Name" (MCD-972, a party that never learns who he is at all) and "The
-Record They Got Right" (planned for a later wave, the corrective counter-register) — this is the
+Record They Got Right" (MCD-1327, the corrective counter-register) — this is the
 myth's actual pull tested against the real thing, resolved by absorption into ordinary work rather
 than disillusionment or correction. The senior smith's successor (MCD-923, MCD-1052) appears
 consistently with her established role. No new named characters; the boy is unnamed and one-scene,

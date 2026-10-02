@@ -1,6 +1,8 @@
 # The Festival They Built Around the Forge
 
-*Locked canon, Batch 219, 2026-09-11 (`MCD-977`). The Lord of Embers Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 219, 2026-09-11 (`MCD-977`). The Lord of Embers Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
+fixed a stale wave citation for the senior smith's establishment in the continuity notes (waves
+3-5, not wave 14).*
 
 ---
 
@@ -47,6 +49,7 @@ and it'll make them happy. Hadn't done that in a while. Forgot it counted as rea
 Embers entry — no raid, no rebuild, no enemy, no lesson delivered obliquely through adversity, a
 settlement's own harvest festival absorbing the campaign crew as part of an existing local custom
 rather than the crew building anything in response to threat. Deliberately closes the wave on warmth
-rather than resolution of any tension. The senior smith (established wave 14) appears consistent
-with her role. No new named characters. Closes the Lord of Embers' nineteenth three-Chronicle wave
+rather than resolution of any tension. The senior smith (established across waves 3-5, MCD-456/
+MCD-502/MCD-554) appears consistent with her role. No new named characters. Closes the Lord of
+Embers' nineteenth three-Chronicle wave
 (with "The Boundary Stone No One Could Move" and "Those Who Came With Nothing But the Road").*

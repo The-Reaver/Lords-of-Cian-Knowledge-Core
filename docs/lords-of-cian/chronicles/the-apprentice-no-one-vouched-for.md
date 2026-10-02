@@ -3,7 +3,9 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1313`). The Lord of Embers Alias Chronicle LXVII, first
 entry in the twenty-third wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A
 genuinely new register of suspicion/trust, distinct from the prior structural-sabotage entry.
-Not a territory Chronicle. Narrated in neutral third-person prose.*
+Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
+stripped a leaked inline rule-ID citation ("remembering MCD-501") in favor of an in-world reference,
+and fixed a stale wave citation (MCD-501 is wave 4, not wave 5) in the continuity notes.*
 
 ---
 
@@ -15,8 +17,8 @@ terrace had already run its course: a stranger, unvouched, asking careful questi
 the Dead Drakma stores were kept.
 
 "He's asking the same questions the saboteur asked," one of the older apprentices said, low,
-remembering MCD-501 the way the whole terrace still did. "Maybe not the same reasons. But the same
-questions."
+remembering the infiltrator the apprentices had caught among their own cohort, the way the whole
+terrace still did. "Maybe not the same reasons. But the same questions."
 
 Kanja watched him for three days before doing anything about it — not confronting, just watching,
 the way he'd watch a new alloy before trusting it near a blade. The boy asked about stores because
@@ -44,7 +46,7 @@ where the meal line was and when the shift changed, so they wouldn't have to be 
 ---
 
 *Continuity notes (not narrative): a genuinely new register distinct from "The Saboteur Among the
-Apprentices" (MCD-501, wave 5) — this is unfounded suspicion of an innocent new arrival, resolved
+Apprentices" (MCD-501, wave 4) — this is unfounded suspicion of an innocent new arrival, resolved
 through patient, honest verification and direct conversation rather than confrontation or combat,
 explicitly contrasted against the earlier real-sabotage precedent the terrace's own memory still
 carries. No new named characters; the boy and the older apprentice are unnamed and matching

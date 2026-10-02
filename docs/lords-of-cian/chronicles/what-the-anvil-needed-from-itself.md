@@ -2,15 +2,19 @@
 
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1334`). The Lord of Embers Alias Chronicle LXXXVIII,
 first entry in the thirtieth wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241).
-The Anvil's own major structural refit after sustained years of service, the alias's first
-base-maintenance entry. Not a territory Chronicle. Narrated in neutral third-person prose.*
+The Anvil's own major structural refit after a year and more of converted service, the alias's
+first base-maintenance entry. Not a territory Chronicle. Narrated in neutral third-person prose.
+Corrected Batch 321, 2026-10-02: "sustained years of service," impossible for an 18-month tour, now
+attributes older wear to the barge's pre-conversion years as an ore-hauler; and stripped a leaked
+inline rule-ID citation ("a battle at sea (MCD-1314)") in favor of an in-world reference.*
 
 ---
 
 The hull survey took two full days, and the shipwright the campaign had brought aboard for exactly
-this purpose didn't sugarcoat what it found — years of converted ore-barge service, forge heat
+this purpose didn't sugarcoat what it found — years of life as an ore-hauler before the campaign
+ever claimed the hull, and a year and more of converted service on top of it, forge heat
 working the deck timbers from above and open water working the hull from below, seams that had
-held through raids, storms, and a battle at sea (MCD-1314) starting to show the ordinary,
+held through raids, storms, and a battle at sea starting to show the ordinary,
 unglamorous wear that no amount of Trinity strength could substitute for actual maintenance.
 
 "Nothing here is an emergency yet," she told Kanja, laying the survey out across the terrace table.

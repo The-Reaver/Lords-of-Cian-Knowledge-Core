@@ -4,7 +4,9 @@
 30. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), near the tour's later stretch. A
 detailed, battle-intense Trinity combat showcase against a Directorate assault combining multiple
 previously-countered tactics at once. Not a territory Chronicle. Narrated in neutral third-person
-prose.*
+prose. Corrected Batch 321, 2026-10-02: stripped three leaked inline rule-ID citations (MCD-1083,
+MCD-970, MCD-1332) from the narrative prose in favor of the in-world references already present in
+the same sentences.*
 
 ---
 
@@ -12,12 +14,11 @@ It was, the senior smith's successor said afterward, the first time the Director
 actually done its own homework properly — not one tactic borrowed from a single failed prior
 attempt, but four at once, stacked deliberately to deny the campaign the chance to answer them one
 at a time the way it always had before. A sabotaged support structure timed to draw the Trinity
-underground, the way the mine collapse once had (MCD-1083). A second team staged for the moment
+underground, the way the mine collapse once had. A second team staged for the moment
 attention split, the way the ambush at the surface once had. A counterfeit supply signal meant to
-misdirect reinforcements, learned from the fabricated burning reports of an earlier season
-(MCD-970). And beneath all of it, dense civilian foot traffic deliberately routed through the site,
-betting that the crowd itself would slow any decisive response the way the pilgrimage once had
-(MCD-1332).
+misdirect reinforcements, learned from the fabricated burning reports of an earlier season.
+And beneath all of it, dense civilian foot traffic deliberately routed through the site,
+betting that the crowd itself would slow any decisive response the way the pilgrimage once had.
 
 "They've been watching every fight we've ever won," Kanja said, feeling the whole shape of the
 trap close around him at once. "And they built this one specifically so that none of the answers

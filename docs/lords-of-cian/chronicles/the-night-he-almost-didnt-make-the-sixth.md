@@ -1,6 +1,6 @@
 # The Night He Almost Didn't Make the Sixth
 
-*Locked canon, Batch 202, 2026-09-11 (`MCD-873`). The Lord of Embers Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-873`). The Lord of Embers Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed a typo ("a exhausted body" -> "an exhausted body").*
 
 ---
 
@@ -23,7 +23,7 @@ for several seconds that the crew who witnessed it would never fully describe th
 did not look like it was going to be enough.
 
 He held anyway. Not with reserve charge he didn't have, but with technique alone — Onyx's Veil Piercer
-finding the one gap a exhausted body could still exploit, a single decisive strike thrown with
+finding the one gap an exhausted body could still exploit, a single decisive strike thrown with
 everything genuinely left rather than anything held back for later. The breach broke a half-second
 before it would have reached the last defended room.
 

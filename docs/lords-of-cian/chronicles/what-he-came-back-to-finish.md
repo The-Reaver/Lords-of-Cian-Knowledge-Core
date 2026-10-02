@@ -4,7 +4,8 @@
 28. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), directly following "The Weeks
 the Method Stood Alone" (MCD-1328). A detailed, battle-intense Trinity combat showcase fought under
 real, still-healing physical limitation. Not a territory Chronicle. Narrated in neutral third-person
-prose.*
+prose. Corrected Batch 321, 2026-10-02: reworded writers'-room phrasing ("than any prior showcase")
+to plain in-world prose.*
 
 ---
 
@@ -20,7 +21,7 @@ that. It's why they're coming now."
 "Then I fight like a man who isn't at full strength," Kanja said. "That's not the same as fighting
 like a man who's lost."
 
-He went in differently than any prior showcase — Mafesto's Kinetic Transfer System doing more of
+He went in differently than he ever had — Mafesto's Kinetic Transfer System doing more of
 the defensive work than usual, grounding blows he'd have simply absorbed and answered at full
 health, buying his own healing ribs distance rather than risking a direct exchange his body wasn't
 ready to sustain. Onyx of Oblivion carried the fight's actual weight in his place: Whisper of

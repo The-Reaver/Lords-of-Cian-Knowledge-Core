@@ -3,7 +3,8 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1324`). The Lord of Embers Alias Chronicle LXXVIII,
 wave 26, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A
 coercion/hostage-pressure entry, the alias's first, resolved without violence. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed a
+dropped-word typo ("a dozen other warnings the campaign over the tour").*
 
 ---
 
@@ -26,7 +27,7 @@ watching a campaign that could rebuild a burned district in a fortnight take thr
 answer a letter. Kanja spent them differently than the letter's authors expected — not preparing a
 handoff, real or false, but quietly tracing the letter's own courier back through two settlements
 to the actual holding site, using the same Ghost-Lattice relay that had carried a dozen other
-warnings the campaign over the tour.
+warnings for the campaign over the course of the tour.
 
 The extraction, when it finally came, never touched the exchange point the kidnappers had named at
 all. Onyx of Oblivion's Whisper of Shadows crossed the holding site's perimeter before its own
@@ -52,5 +53,5 @@ families) and every prior direct-assault entry. Resolved through patient tracing
 minimal-risk extraction rather than negotiation or an open exchange, extending the alias's
 established restraint into a tactical-patience register. No new named characters; the apprentice
 and his brother are unnamed, matching established convention. Closes the Lord of Embers'
-twenty-sixth three-Chronicle wave (with "What the Coat Couldn't Shed," MCD-1322, and "What Came
+twenty-sixth three-Chronicle wave (with "What Mafesto Couldn't Shed," MCD-1322, and "What Came
 Down From the Ridge," MCD-1323).*
