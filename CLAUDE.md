@@ -4045,9 +4045,19 @@ review of everything since the Phase 5 pass (Batch 349 came back clean; fixes to
   accounts are retrospective, told after the Karkosa Heist reunion. Abad's approval: "go with
   retrospective, keep the two years, lock it."
 
-Abad then raised that Onyx is biologically tethered to Kanja, asking what that opens up. The ledger
-only says "bonded" (`ARS-020`) and "communicates only through whoever holds its grip" (`MCD-201`); a
-tether rule is not yet drafted. Ledger at `ledger_version` 35.4, 2,656 rules, 352 batches.
+Abad then raised that Onyx is biologically tethered to Kanja. **Batch 353** locked it as **`ARS-437`,
+the Heartline** (named to avoid a fifth "tether" in canon, alongside the Metabolic, Scrip-, Whalebone,
+and Crown-Scar root-access tethers): a biological bond keyed at seventeen to Kanja's blood, pulse, and
+nervous system, one-way across distance, carrying body signals only (heartbeat, strain, wounds, sleep,
+a kill's spike, unnamed density surges), never words or sights. It survives the L9 sealing; for the
+whole Long Mask Onyx keeps **the Dark Ledger**, a section of the Black Ledger logging felt-but-unwitnessed
+signals against the seconds-count with no causes. At the Book 1 Karkosa Heist reunion, grip contact
+restores the full channel and Onyx reads 284 years out of his body, reconciling the Dark Ledger -- the
+mechanism behind `VB-062`'s retrospective Long Mask accounts, which can open on a Dark Ledger entry.
+Kanja doesn't know the bond survived until the reunion. Reserved for Book 1 only: Maro's death reaching
+the sealed blade through the Heartline as a causeless signal -- never drafted or foreshadowed pre-Book-1.
+Abad's approval: "Both Heartline / Dark Ledger. keep all three, lock it." Ledger at `ledger_version`
+35.5, 2,657 rules, 353 batches.
 
 ## Separate, unrelated thread: the interactive archive app
 
