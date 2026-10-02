@@ -7,7 +7,7 @@ of `MCD-1567`'s "no single loss collapses a function the group depends on" doctr
 question is a person rather than a function -- a courier is captured, and Daba refuses a rescue that
 would expose three other cells to save her, a decision the Chronicle does not soften into a hidden
 victory. Introduces Tamsin, Halvin, Bren, and Farel, collision-checked clean. Abad's approval: "rate 50
-Chronicles in batches using as many agents as needed to make it efficient."*
+Chronicles in batches using as many agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: a stray "eight years before" (borrowed from MCD-1566's Rookery-to-Rebellion span) removed -- this scene sits within 1804's own first year. *
 
 ---
 
@@ -52,8 +52,8 @@ Daba had told every courier who ever ran for him exactly that, in exactly those 
 first assignment, because he had decided years before that it was a cruelty to let someone risk
 themselves for a doctrine they hadn't consented to. Tamsin had heard it. Tamsin had said yes anyway,
 the way they all said yes, because the alternative -- a network large enough to spend lives buying
-back its own -- was the alternative that had put 1,804 names into the ground in a single night eight
-years before any of them were fighting anything at all.
+back its own -- was the alternative that had put 1,804 names into the ground in a single night,
+before any of them were fighting anything at all.
 
 Knowing she had agreed to it did not make it weigh less. He had learned, by now, that it never did.
 

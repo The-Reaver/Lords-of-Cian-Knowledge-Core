@@ -3,10 +3,12 @@
 *Locked canon, Batch 306, 2026-09-23 (`MCD-1806`). Character Chronicle track, Ozmund Verehimu's
 series, Chronicle LXXVII — eighth entry in the Val Mirel strand's third wave. Set strictly pre-Book-1,
 years before the Fulfillment Ceremony (`MCD-025`) — Aethelgard Verehimu is alive, unmentioned in this
-entry. Ozmund is roughly twenty-six. Dramatizes Val Mirel's private reckoning with the disparity
+entry. Ozmund is roughly twenty-five. Dramatizes Val Mirel's private reckoning with the disparity
 between her own vast Kareth lifespan (`MCD-101`) and her son's far shorter one, an existential register
 not yet shown in the strand. Narrated by Red Beard (Tarn Cestari) per `VB-020`/`022`/`CC-020`,
-reconstructed from a story Ozmund told him years later. No new named characters.*
+reconstructed from a story Ozmund told him years later. No new named characters. Corrected Batch 333,
+2026-10-02: age corrected from "roughly twenty-six" to "roughly twenty-five" and the continuity notes'
+timing/lifespan phrasing adjusted to match MCD-1806's amended statement and XXXIV's year-long absence.*
 
 ---
 
@@ -69,9 +71,10 @@ would spend the rest of her own vast life still paying."
 
 ---
 
-*Continuity notes (not narrative): set roughly two years after Chronicle LXXVI, near Chronicle XVI,
-still strictly pre-ceremony, Aethelgard alive but unmentioned in the scene itself. Gives Val Mirel
-Kareth (`MCD-101`/`CC-004`, 89,003 years old against Ozmund's ordinary lifespan) her first genuine
+*Continuity notes (not narrative): set roughly a year after Chronicle LXXVI, near Chronicle XVI and
+shortly before the year-long absence of Chronicle XXXIV, still strictly pre-ceremony, Aethelgard
+alive but unmentioned in the scene itself. Gives Val Mirel Kareth (`MCD-101`/`CC-004`, 89,003 years
+old against Ozmund's own far shorter, if still long, Karesian-inherited span) her first genuine
 existential/mortality-adjacent register in the strand — distinct from her established grief over an
 unnamed loss (Chronicle XXXI, `MCD-1760`) and her gift of the Hollow Stand (Chronicle XVI, `MCD-1745`),
 this is anticipatory grief over the disparity in their lifespans rather than a completed loss. Extends

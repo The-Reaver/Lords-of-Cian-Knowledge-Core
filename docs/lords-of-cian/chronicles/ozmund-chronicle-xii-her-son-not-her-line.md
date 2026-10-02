@@ -8,7 +8,10 @@ alive and present in this entry. Ozmund is roughly nine. Dramatizes Val Mirel's 
 discipline set directly against House Verehimu's political register, and gives Ozmund his first
 on-page moment of holding both inheritances at once. Narrated by Red Beard (Tarn Cestari) per
 `VB-020`/`022`/`CC-020`, reconstructed from a story Ozmund told him years later, matching Chronicle
-I's convention. No new named characters.*
+I's convention. No new named characters. Corrected Batch 333, 2026-10-02: "across centuries" in the
+narrative corrected to "across millennia" to match Val Mirel's ~89,003-year Kareth lifespan
+(`MCD-101`); the continuity notes' "set roughly nine years before the Fulfillment Ceremony" reworded
+to "set strictly pre-Fulfillment-Ceremony, Ozmund age nine," matching MCD-1741's amended statement.*
 
 ---
 
@@ -20,7 +23,7 @@ sideways, unprompted, usually years apart, as though each telling used up a stor
 only replenished slowly.
 
 She did not announce herself. That was the first thing he ever told me about her, and it stayed the
-truest. A woman who had commanded a Wing of the Kareth War-Order across centuries the House
+truest. A woman who had commanded a Wing of the Kareth War-Order across millennia the House
 Verehimu's oldest ledgers didn't reach back far enough to count did not send word ahead of a visit to
 her own son. She simply appeared — in his case, at the foot of his bed, before the sky outside his
 window had decided whether it meant to be dawn, with a hand on his shoulder light enough that he
@@ -71,7 +74,7 @@ learned to be still.
 
 ---
 
-*Continuity notes (not narrative): set roughly nine years before the Fulfillment Ceremony
+*Continuity notes (not narrative): set strictly pre-Fulfillment-Ceremony, Ozmund age nine
 (`MCD-025`), Aethelgard alive and present but deliberately non-intervening in his wife's teaching —
 establishing their marriage as a genuine partnership across two very different registers rather than
 tension or rivalry. Dramatizes Val Mirel Kareth (`MCD-101`/`CC-004`/`CC-016`) as a physically present,

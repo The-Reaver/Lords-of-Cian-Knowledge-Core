@@ -5,7 +5,7 @@ Connects the forging thread directly to guerrilla practicality, foreshadowing `M
 "not mass-produced from a central armory" principle: Kanja draws on the Rexmar tradition's own
 organizational doctrine (`MCD-299`, `MCD-300`) to redirect Daba away from building 1804 a single
 prized armory and toward teaching the craft onward, cell by cell. No new named characters. Abad's
-approval: "rate 50 Chronicles in batches using as many agents as needed to make it efficient."*
+approval: "rate 50 Chronicles in batches using as many agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: a firearms reference ("the reach of a rifle") corrected to "the reach of a blade" -- this world's pre-industrial resistance milieu has no rifles. *
 
 ---
 
@@ -37,7 +37,7 @@ blade well enough to matter. You take one, you've taken one. You haven't taken t
 
 Daba looked at the dust map and felt the shape of his own doctrine looking back at him from a
 direction he hadn't expected it to come from. He had built 1804 on exactly this principle without
-ever once applying it past the reach of a rifle. Dispersed cells. No function resting on a single
+ever once applying it past the reach of a blade. Dispersed cells. No function resting on a single
 loss. Anything large enough to be seen was large enough to be burned -- he had said those words to
 new recruits a hundred times and had somehow, in the space of a season learning to forge, forgotten
 they applied to the forge too.

@@ -8,7 +8,7 @@ Kanja appears once, briefly, only in a memory of the dry-wash lesson already loc
 not as an active present-day presence -- honoring this block's instruction that his mentorship not
 dominate a block centered on Daba's own interiority. Reuses Perrin (`MCD-1617`); no new named
 characters. Abad's approval: "rate 50 Chronicles in batches using as many agents as needed to make
-it efficient."*
+it efficient." Corrected Batch 335, 2026-10-02: a misassigned origin story -- the "name, not the number" need was Daba's own Chronicle II scene, not Kanja's -- rewritten to correctly attribute it to Daba, matching MCD-1619 and the two men's separately-locked throughlines. *
 
 ---
 
@@ -44,17 +44,16 @@ guessing."
 and being effective are, past a certain size, opposites. I chose the second one on purpose, before I
 ever met him, for reasons that had nothing to do with him at all." Daba looked out at the dark tree
 line, unremarkable, doing exactly the job it had been chosen for. "What I sit with, some evenings, isn't
-envy. It's a stranger thing. It's that the boy I taught used to need everyone he lost written down by
-name, so none of them went into a ledger as a number -- I watched that need get built in him before he
-ever met me, at a table with a woman and a ledger, a story that isn't mine to tell in full. And the life
-I've built since is the exact opposite of that need. Nobody in 1804 goes into any ledger at all, by
+envy. It's a stranger thing. It's that I used to need everyone I lost written down by name, so none of
+them went into a ledger as a number -- I watched that need get built in me the first night after the
+fire, at a table with a woman and a ledger, before I had a word for anything I'd later build. And the
+life I've built since is the exact opposite of that need. Nobody in 1804 goes into any ledger at all, by
 name or by number, if I've done my work correctly. The safest thing I can do for every person under my
 protection is make sure no record of them exists anywhere a stranger could ever find it." He exhaled,
-something between a laugh and its absence. "I have spent my whole adult life perfecting the one thing
-the boy I loved as a son once told me, without knowing he was telling me anything, that he could never
-forgive if it were done to the people he lost. I don't think it's a contradiction. I think it's just
-what the work actually costs, when you look at it honestly instead of at the doctrine that makes it
-sound clean."
+something between a laugh and its absence. "I have spent my whole adult life perfecting the one thing a
+boy at that table would never have forgiven being done to the people he lost. I don't think it's a
+contradiction. I think it's just what the work actually costs, when you look at it honestly instead of
+at the doctrine that makes it sound clean."
 
 Perrin was quiet for a while. "And the reward," he said finally. "You said there was one. You always
 say there's one."

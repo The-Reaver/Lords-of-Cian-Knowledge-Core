@@ -12,7 +12,9 @@ what the family owes it in turn, closing the strand on a broader note than any s
 within it. Introduces one new minor named character, Sergeant Oswin Kade, a senior House Verehimu
 Guard sergeant — collision-checked against `canon-ledger.json` before use, zero prior hits (checked
 "Oswin," "Kade," and the full name; "Kade" alone returns only unrelated false-positive substring
-matches inside words like "blockade," confirmed via word-boundary search).*
+matches inside words like "blockade," confirmed via word-boundary search). Corrected Batch 333,
+2026-10-02: the unnamed example commander "Rell" renamed "Welk" to resolve a collision with the
+Rell/Tamsy fen-household family established elsewhere in the series (Chronicle LXIV, `MCD-1793`).*
 
 ---
 
@@ -32,8 +34,8 @@ unglamorous obligation running both directions between a House and the men sworn
 broken, and he'd come to believe the breaking mattered more than anything any single guardsman ever
 did.
 
-He gave me the example of Commander Rell, two postings before Draconis, a man Kade said had understood
-the Guard's obligation to the House perfectly and had never once understood the reverse. Rell ran the
+He gave me the example of Commander Welk, two postings before Draconis, a man Kade said had understood
+the Guard's obligation to the House perfectly and had never once understood the reverse. Welk ran the
 tightest drills Kade had seen in his career, demanded absolute discipline, and treated every guardsman
 under him as interchangeable — replaceable the moment injury or age made them less useful, with no
 accounting made for what they'd given the House in the years before that. Kade said he'd watched men

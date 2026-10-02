@@ -3,12 +3,12 @@
 *Locked canon, Batch 296, 2026-09-18 (`MCD-1620`). Entry 50 of 50 in Daba's own Chronicle series,
 launched under the Character Chronicle Gameplan's own protagonist-series model. Closes the full
 50-Chronicle launch wave on a deliberate, unhurried pause rather than any resolution -- an ordinary
-evening among 1804's present-day core (Mika, Perrin, and Wrenna, all reused from `MCD-1616`-`1618`)
+evening among 1804's present-day core (Mika, Perrin, and Tessin, all reused from `MCD-1616`-`1618`)
 that closes the loop on Daba Chronicle I's counted-heads motif (`MCD-1571`) without answering the
 one question this wave was never meant to answer: `MCD-1569`'s still-unspecified Book 1 trigger
 remains entirely and deliberately open, along with the rest of Daba's own story past this point. No
 new named characters. Abad's approval: "rate 50 Chronicles in batches using as many agents as needed
-to make it efficient."*
+to make it efficient." Corrected Batch 335, 2026-10-02: "Wrenna" renamed "Tessin" throughout -- the Batch-296 cross-block rename reached MCD-1620's statement but was never applied to this file's own prose. *
 
 ---
 
@@ -23,7 +23,7 @@ missing. It was simply eleven people eating a plain meal on an unremarkable nigh
 out the same at the end of counting as it had at the start, which was, he had learned across a very
 long life, the only kind of arithmetic that had ever actually mattered to him.
 
-Wrenna was telling a story about the fish again, embellishing it further with each retelling until it
+Tessin was telling a story about the fish again, embellishing it further with each retelling until it
 had acquired, by this point, something close to the structure of a proper legend -- a fish that had, in
 her latest version, developed both a name and a grudge. Perrin was only half listening, his attention
 on a supply map he'd unrolled across one corner of the table out of habit more than urgency, tracing a
@@ -32,7 +32,7 @@ the small locked box that held her own private accounting of the cell's living a
 untouched on its shelf across the room, exactly where it belonged on a night that asked nothing of it.
 
 Someone asked, eventually, the question that got asked every so often in rooms like this one, usually
-by whoever was newest and hadn't yet learned that it rarely got a satisfying answer. It was Wrenna, this
+by whoever was newest and hadn't yet learned that it rarely got a satisfying answer. It was Tessin, this
 time, mid-story, who paused long enough to ask it plainly: what, exactly, was all of it *for*. The
 drilling, the dispersal, the decades of staying small enough not to be seen. What was 1804 actually
 waiting for.
@@ -41,7 +41,7 @@ The room went quiet in the particular way it went quiet whenever that question s
 discomfort but from genuine attention, because it was a fair question and everyone present had asked
 some version of it to themselves at least once.
 
-Daba considered it honestly, the way he tried to consider everything Wrenna asked, precisely because
+Daba considered it honestly, the way he tried to consider everything Tessin asked, precisely because
 she asked so few things carelessly. "I don't know," he said, and meant it completely. "I've never known.
 I built this on a lesson I learned in one terrible night and have spent every year since trying not to
 need repeated -- that a thing large enough to be seen is large enough to be burned, and a thing small
@@ -54,7 +54,7 @@ finally arrives."
 
 "Then we will have spent a very long time keeping each other safe for no reason at all," Daba said,
 "and I find, on nights like this one, that I could live with that outcome more easily than most people
-would expect." He looked around the low room once more -- Wrenna already returning to her fish, Perrin
+would expect." He looked around the low room once more -- Tessin already returning to her fish, Perrin
 still tracing his unhurried route, Mika quiet and present beside him, the count still eleven, still
 whole, still correct. "But I don't think that's the outcome. I think something is still coming, the way
 weather is always still coming even on the clearest day, and I think none of us gets to choose when.

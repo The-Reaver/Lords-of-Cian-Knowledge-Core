@@ -6,7 +6,7 @@ doctrine as a specific, live-drilled lesson during Kanja's mentorship under Daba
 distinct dispersed cells with no shared coordinator, rather than one commanded force -- and captures
 the first moment Kanja's own instinct to unify and lead runs directly against 1804's founding
 discipline. Abad's approval: "rate 50 Chronicles in batches using as many agents as needed to make it
-efficient."*
+efficient." Corrected Batch 335, 2026-10-02: "six years teaching" corrected to "four years," matching 1804's young age at this point; the runner "Ossa" renamed "Tova" to resolve a collision with the already-locked villain Ossa Drem (CC-154). *
 
 ---
 
@@ -31,12 +31,12 @@ winning ever did.
 Within the hour, Kanja had done what Daba expected and dreaded in equal measure. He had found the other
 four cell leaders before the drill even started -- quietly, at the water trough, in the time it took
 to fill a skin -- and by nightfall there was a plan. One plan. A single approach vector, staggered
-timing, a runner named Ossa carrying the full sequence cell to cell so that all five would move as one
+timing, a runner named Tova carrying the full sequence cell to cell so that all five would move as one
 coordinated hand closing on the cache from five directions at once. It was, Daba had to admit, watching
-it assembled from a distance, an intelligent plan. It was also exactly the plan he had spent six years
+it assembled from a distance, an intelligent plan. It was also exactly the plan he had spent four years
 teaching 1804 never to make.
 
-Reya's people took Ossa forty minutes in, crossing open ground between the second and third cell with
+Reya's people took Tova forty minutes in, crossing open ground between the second and third cell with
 the whole sequence held in her head and nothing written down to burn if caught. She was not hurt. She
 was simply stopped, disarmed of information rather than a weapon, and by the rules of the drill that
 was the end of it -- not just for her cell, but for all five, because every one of them had been

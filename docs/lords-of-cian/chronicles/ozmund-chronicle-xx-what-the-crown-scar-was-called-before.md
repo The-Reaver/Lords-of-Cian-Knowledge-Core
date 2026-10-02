@@ -10,7 +10,10 @@ Density Spike/Crown-Scar was spoken of informally within House Verehimu before a
 it truly was — an old nursemaid's private name for it and a half-remembered House legend about
 Drakmund Verehimu (`MCD-138`) — resonating forward toward `MCD-290` without stating or explaining it.
 Introduces one new minor named character, Ysbel, Ozmund's infant nursemaid — collision-checked against
-`canon-ledger.json` before use, zero prior hits.*
+`canon-ledger.json` before use, zero prior hits. Corrected Batch 333, 2026-10-02: a dangling
+five-thousand-year figure (inconsistent with Drakmund's own ~5,000-year-ago placement, MCD-138/
+MCD-1850) softened to vaguer "already an old story"/"deep into a very long life"/"all his long years"
+phrasing throughout.*
 
 ---
 
@@ -38,13 +41,13 @@ something the rest of him hadn't finished paying, and that a boy who carried it 
 life discovering, a little at a time, exactly what that debt was and to whom.
 
 She had a story to go with it, half legend and half nursery rhyme, worn down by however many Verehimu
-children had heard some version of it before him — that Drakmund himself, the first to carry it, five
-thousand years gone by the time Ysbel was old enough to have heard it from someone who was old when
+children had heard some version of it before him — that Drakmund himself, the first to carry it,
+already an old story by the time Ysbel was young enough to be told it by someone who was old when
 she was young, had never called it a gift either, not once, not in any account that survived him. The
 House's own formal history called it an honor, a mark of favor from whatever hand had placed it. Ysbel's
-version, the nursery version, said only that Drakmund had described it, late in a very long life, as
+version, the nursery version, said only that Drakmund had described it, deep into a very long life, as
 something that watched him more faithfully than he had ever watched it — that it listened harder than
-it was listened to, and gave less than it took, and that he had never once in five thousand years
+it was listened to, and gave less than it took, and that he had never once in all his long years
 managed to teach it otherwise.
 
 The General told me he hadn't thought about Ysbel's version in decades by the time he told it to me,

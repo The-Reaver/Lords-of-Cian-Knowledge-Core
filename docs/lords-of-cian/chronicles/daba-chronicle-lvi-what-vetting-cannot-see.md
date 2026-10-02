@@ -4,12 +4,12 @@
 Close-third on Daba, no dedicated narrator. A genuine doctrine-limit entry — the network's
 elaborate vetting process, dramatized repeatedly across the corpus as the source of its own
 safety, fails for the first time not through betrayal but through an honest, non-malicious human
-error from someone who passed it faithfully. New named character: Sarel Doune, collision-checked
-clean. Reuses Kether. No other new named characters.*
+error from someone who passed it faithfully. New named character: Lisbet Doune, collision-checked
+clean. Reuses Kether. No other new named characters. Corrected Batch 335, 2026-10-02: a writers'-room leak ("Chronicle L's own honest confession") reworded to plain prose; the new character "Sarel Doune" renamed "Lisbet Doune" to resolve a one-letter collision with the already-locked "Serel" (MCD-1608). *
 
 ---
 
-Sarel Doune had carried messages for 1804 for four years, had passed the same year-long vetting
+Lisbet Doune had carried messages for 1804 for four years, had passed the same year-long vetting
 every courier passed, had never once, in any test Kether or Daba himself had run against her,
 shown a flicker of the carelessness that got people killed. She was, by every measure the network
 possessed, exactly the kind of person the doctrine was built to find and trust.
@@ -18,7 +18,7 @@ She mentioned the safehouse's approximate location to her own sister over a fami
 towns away from anywhere 1804 operated, in a sentence she did not remember saying an hour later and
 would not have recognized as dangerous if she had.
 
-It was not a betrayal. Sarel never told anyone anything she understood to be a secret; she told her
+It was not a betrayal. Lisbet never told anyone anything she understood to be a secret; she told her
 sister, in the ordinary shorthand of two people who had shared a childhood and every worry since, that
 she'd been staying near the old grain road lately for work she couldn't discuss, work that kept her
 safe, work her sister shouldn't ask about — and her sister, three months later, repeated the
@@ -60,14 +60,14 @@ Kether was quiet a while, turning that over the way he'd taught her to turn ever
 what do we do."
 
 "I don't know yet." He said it plainly, without the discomfort the admission would once have cost
-him — Chronicle L's own honest confession to Wrenna had, in its own way, made this kind of sentence
+him — his own honest confession to Tessin at a closing meal, years ago, had in its own way made this kind of sentence
 easier to say aloud. "I could tighten the vetting further. Add a new test for exactly this failure
 mode. And it would catch nothing, because the failure mode isn't a weakness in a person's
 discipline. It's the ordinary cost of a person having a sister she loves. I'd be punishing the part
-of Sarel that makes her worth trusting in the first place to guard against a danger her own
+of Lisbet that makes her worth trusting in the first place to guard against a danger her own
 goodness creates."
 
-He did not tell Sarel what had happened, in the end, or how close the chain had come to mattering
+He did not tell Lisbet what had happened, in the end, or how close the chain had come to mattering
 before administrative bad luck buried it in the wrong district's files. He judged, and told Kether
 plainly that he was judging rather than knowing for certain, that telling her would only teach her
 to fear her own sister's dinner table, and that the cost of that fear would very likely exceed the
@@ -78,7 +78,7 @@ actually supported. "We can't close the hole. We can only get faster at noticing
 it before it lands somewhere that matters. That's not the doctrine failing. That's the doctrine
 finding the edge of what doctrine can do at all."
 
-The list carried no new name because of Sarel Doune, that season or any after. But Daba added, for
+The list carried no new name because of Lisbet Doune, that season or any after. But Daba added, for
 the first time in the network's own internal accounting, a category that had never existed before
 in any of his careful record-keeping: not a debt, not a name, just a plain, unresolved fact, filed
 where he kept the things he had decided to live with rather than solve — that the network's safety
@@ -94,6 +94,6 @@ vetting mechanism itself (`MCD-1567`'s "cross-trained dispersed cells... doctrin
 extended here to its own limit: doctrine cannot vet against love). No harm actually results,
 deliberately, since the point is the exposed structural gap rather than a catastrophe -- matching
 the project's established preference for testing a limit cleanly rather than manufacturing
-unnecessary stakes. New named character Sarel Doune, collision-checked clean; her sister and the
+unnecessary stakes. New named character Lisbet Doune, collision-checked clean; her sister and the
 Compliance intake clerk are deliberately unnamed. Reuses Kether. No child-safety or content issues
 -- an ordinary family conversation, nothing depicted beyond it.*

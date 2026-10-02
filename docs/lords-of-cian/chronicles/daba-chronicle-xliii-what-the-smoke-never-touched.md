@@ -5,8 +5,8 @@ Dramatizes 1804 operating in the same region as the already-locked Furnace Distr
 age 21) without ever entering it -- Daba's own path passing close enough to notice and deliberately
 staying uninvolved and unseen, honoring `MCD-1569`'s "never folded into the Lords of Cian's own crew
 structure" without inserting 1804 into that battle's own locked roster. New minor named character
-(Elowen Marn), collision-checked clean. Abad's approval: "rate 50 Chronicles in batches using as many
-agents as needed to make it efficient."*
+(Elowen Sarn), collision-checked clean. Abad's approval: "rate 50 Chronicles in batches using as many
+agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: the strike's duration corrected to match MCD-244's locked eleven-day figure; "Elowen Marn" renamed "Elowen Sarn" to resolve an intra-track surname collision with the separately-locked Marn family (MCD-1597). *
 
 ---
 
@@ -15,7 +15,7 @@ three separate debt-forgery complaints, a man Daba wanted alive and talking befo
 inspectors thought to ask him anything -- and it was only the smoke that told them something larger
 than their own errand was already underway.
 
-It rose from four furnace stacks at once, which was wrong. Elowen Marn noticed it before Daba did,
+It rose from four furnace stacks at once, which was wrong. Elowen Sarn noticed it before Daba did,
 from the ridge where they'd stopped to let the clerk's escort pass below them unbothered. "Banked,"
 she said. "All four, same hour. That's not a production stop. That's a decision."
 
@@ -54,7 +54,7 @@ to let it belong entirely to someone else.
 
 "We move at dusk," he said finally, and turned the escort south, away from the yards, toward the
 clerk and the forgeries and the smaller, colder work that was 1804's own to finish. Behind them the
-strike held for two more days by his own network's later count, and resolved -- so the eventual
+strike held for more than a week longer by his own network's later count, eleven days in all, and resolved -- so the eventual
 report read, filtered up through three cells and stripped of every name that mattered -- without a
 single life lost on either side.
 

@@ -8,14 +8,14 @@ remaining one undifferentiated fighting group, extending `MCD-1567`'s "dispersed
 across reconnaissance, demolitions, medical support, and combat" clause from stated design to its
 founding moment. Reuses Daba, Sael, Nessa, Corvin, and Farro (`MCD-1576`-`1579`); introduces Ketra,
 collision-checked clean. Abad's approval: "rate 50 Chronicles in batches using as many agents as
-needed to make it efficient."*
+needed to make it efficient." Corrected Batch 335, 2026-10-02: "the two years since the fire" corrected to "the year since the fire," matching this entry's own placement within 1804's first year. *
 
 ---
 
 The sixth member joined them not because Daba went looking for her, but because Sootgate's success
 made the smallest possible kind of noise -- not the noise of a raid gone wrong, but the quieter noise
 of hungry families suddenly less hungry, which traveled, eventually, to a woman named Ketra who had
-spent the two years since the fire teaching herself, alone and by trial, how Trust-issue locks and
+spent the year since the fire teaching herself, alone and by trial, how Trust-issue locks and
 seals were built well enough to know exactly how they failed.
 
 Daba tested her the way he had tested all of them, though by now the test had a shape he no longer had

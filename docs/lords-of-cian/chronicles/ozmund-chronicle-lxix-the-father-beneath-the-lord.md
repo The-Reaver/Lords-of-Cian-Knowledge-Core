@@ -9,7 +9,10 @@ incident, matching the closing-entry pattern already established at Chronicle XX
 deliberately open-ended close to wave three — not a capstone for the whole strand, since Aethelgard's
 story is not over from the reader's vantage inside this timeframe. Gives the "coin on its edge" motif
 (`MCD-1736`/`1737`/`1740`/`1793`) one final light appearance without restaging any of its prior uses.
-No new named characters.*
+No new named characters. Corrected Batch 333, 2026-10-02: continuity notes' "does not depict or
+foreshadow the Fulfillment Ceremony or how Aethelgard's life ends" clarified to acknowledge Red
+Beard's own retrospective reference to his death at the Ceremony, consistent with Chronicles IX/XI.
+*
 
 ---
 
@@ -74,6 +77,7 @@ without restaging any of them. Gives the "coin on its edge" motif one final, lig
 consistent with its prior uses and explicitly noting its reduced ritual use in later years without
 contradicting Chronicle XXX's (`MCD-1759`) own account of Ozmund still carrying it in adulthood. Does
 not name or foreshadow "Venim," per the profile's explicit reserved-thread instruction. Does not depict
-or foreshadow the Fulfillment Ceremony or how Aethelgard's life ends. No reserved-thread figures
-(Draconis, Cassius, Blackthorne, Grulak) appear or are mentioned. Does not touch the Crown-Scar's
-siphon/tether nature (`MCD-290`). No new named characters.*
+beyond Red Beard's own retrospective reference to Aethelgard's death at the Ceremony, consistent with
+Chronicles IX and XI, never dramatized or foreshadowed inside any recounted scene. No reserved-thread
+figures (Draconis, Cassius, Blackthorne, Grulak) appear or are mentioned. Does not touch the
+Crown-Scar's siphon/tether nature (`MCD-290`). No new named characters.*

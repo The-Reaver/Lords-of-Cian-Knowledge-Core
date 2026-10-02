@@ -6,7 +6,9 @@ series, the third entry of the Strand K (Kares Prime / deep-past) thread, drafte
 uninterrupted, test and push to main"). Dramatizes for the first time her earliest childhood years
 at Vask Threnarr under archivist Olda Threnarr-Iralek (`MCD-164`/`166`), set at age eight -- the
 origin of her lifelong "careful witness" discipline (`MCD-161`) and her earliest recorded exchange
-with cohort friend Velith (`MCD-165`/`1553`). No new named characters. Full text below.*
+with cohort friend Velith (`MCD-165`/`1553`). No new named characters. Corrected Batch 334,
+2026-10-02: age-arithmetic fixes ("four thousand years" corrected to "six thousand years," twice)
+to match her true ~6,000-year age (`MCD-1533`). Full text below.*
 
 -----
 
@@ -53,7 +55,7 @@ recorded life: *No one asked me that.*
 
 I do not think this exchange meant, to either child, anything beyond a single afternoon's small
 disagreement about how an assignment ought to be done. I think it means something else entirely,
-read from where I am sitting now, some four thousand years and one dead cohort-friend later. Velith
+read from where I am sitting now, some six thousand years and one dead cohort-friend later. Velith
 saw, at eight years old, what the rest of the civilization would take fourteen more years to measure
 formally: that Lauris was already recording a different order of fact than the one everyone around
 her assumed was being asked for. Not who wins. What the winning is made of.
@@ -64,5 +66,5 @@ sentence about the floor, and she remembered Velith reading over her shoulder an
 question a child asks. She did not tell me what she felt reading it back, all these centuries later,
 and I did not ask a second time. Some entries, I have learned, are theirs to keep the shape of. Mine
 is only to set down that the page exists, that it was the first, and that everyone who watched a
-fight with Lauris Letitia in the room, for the whole of the four thousand years since, has eventually
+fight with Lauris Letitia in the room, for the whole of the six thousand years since, has eventually
 stopped asking her who won.

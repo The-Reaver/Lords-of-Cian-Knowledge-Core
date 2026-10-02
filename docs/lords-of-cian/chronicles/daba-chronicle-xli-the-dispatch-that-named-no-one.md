@@ -6,7 +6,7 @@ first brush with the rumor of "Bane" during the early Rebellion, and Daba's deli
 make contact with his own former apprentice -- the first on-page demonstration of the discipline
 `MCD-1569` describes ("never folded into the Lords of Cian's own crew structure or publicly credited
 alongside it"). Abad's approval: "rate 50 Chronicles in batches using as many agents as needed to
-make it efficient."*
+make it efficient." Corrected Batch 335, 2026-10-02: the dispatch's casualty count corrected from "eleven" to "exceed fourteen hundred," matching MCD-232's locked Black Trench casualties; "two seasons" corrected to "two years," matching the established mentorship span. *
 
 ---
 
@@ -16,8 +16,8 @@ comment, which was itself a kind of comment, and Daba read it twice before he le
 anything about it.
 
 *A hostile force, strength and composition unconfirmed, drew the column into a ravine of its own
-choosing and collapsed the approach behind them. Casualties among the Trust's own forces total
-eleven. The insurgent responsible for the terrain selection is provisionally designated BANE pending
+choosing and collapsed the approach behind them. Casualties among the Trust's own forces exceed
+fourteen hundred. The insurgent responsible for the terrain selection is provisionally designated BANE pending
 further identification.*
 
 He read the paragraph a third time, not because he doubted it but because he wanted to be certain of
@@ -36,7 +36,7 @@ do you, and that's the only part of this that matters."
 
 "He fought at your side once."
 
-"He fought near me, for two seasons, when he was young enough that the world hadn't finished
+"He fought near me, for two years, when he was young enough that the world hadn't finished
 deciding what to make of him." Daba set the dispatch face-down on the table, as though that could
 undo the reading of it. "What he's doing now, he's doing without me. That was true the day he left,
 and nothing in this paper changes it."

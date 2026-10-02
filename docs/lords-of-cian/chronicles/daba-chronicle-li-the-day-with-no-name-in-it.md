@@ -4,7 +4,7 @@
 Daba, no dedicated narrator, matching the existing 50-entry corpus. Develops the psychological
 question Section 2 of his gate profile flagged as genuinely open — whether he wants anything for
 himself distinct from the network's survival — without fully resolving it. Reuses Mika, present
-since the cistern in Chronicle I. No new named characters.*
+since the cistern in Chronicle I. No new named characters. Corrected Batch 335, 2026-10-02: a stray "Wrenna" reference corrected to "Tessin"; a writers'-room leak ("Chronicle XL's own list") reworded to plain prose. *
 
 ---
 
@@ -66,8 +66,8 @@ be there. What does that mean about the part that's supposed to be counting."
 one part, Daba. It's not a contradiction to resolve. It's just — more of you than the ledger got to
 keep."
 
-He thought about Chronicle XL's own list, the one he read once a year and called accounting rather
-than penance, and about the answer he'd given Wrenna at the closing meal, honest and empty in equal
+He thought about the list, the one he read once a year and called accounting rather
+than penance, and about the answer he'd given Tessin at the closing meal, honest and empty in equal
 measure: *I don't know. I've never known.* He had told the truth then. He suspected he was about to
 tell a different truth now, one that didn't cancel the first, only sat beside it.
 

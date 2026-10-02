@@ -85,7 +85,7 @@ any Chronicle is written or rewritten — not a summary produced after the fact.
     cross-trained roles); Nessa also proposes and loses an internal argument later about the
     Ashfield Banner offer.
   - **Kanja's mentorship era specifically:** Riasa Vorn — a 1804 scout who first reports the young
-    Kanja's uninstructed feat at the Corrow ore-cut, and later reports the failed blades that prompt
+    Kanja's uninstructed feat at the Sarrow ore-cut, and later reports the failed blades that prompt
     the forging trade.
   - **Post-mentorship expansion (Block F):** Rhyne Cadec (a recon specialist pulled into demolitions
     training over her own resistance, dramatizing cross-training directly); Yeva Tolan and her
@@ -109,7 +109,7 @@ any Chronicle is written or rewritten — not a summary produced after the fact.
   - **Rebellion/Long Mask era, deliberately kept apart from Kanja's own crew (Block I):** Deryn
     Kettel (lieutenant — originally drafted as "Perrin Kettel," renamed pre-lock to avoid a
     collision with the unrelated Perrin introduced later at Ch. XLVII); Orsk Dresk (cell leader,
-    the Half-Ford child-labor-depot liberation); Elowen Marn (lieutenant, present at a ridge
+    the Half-Ford child-labor-depot liberation); Elowen Sarn (lieutenant, present at a ridge
     overlooking the already-locked Furnace District Strike, `MCD-244`, but deliberately withdraws
     rather than approach); Halvar Ilven (a founding-era member and Rookery survivor who hands his
     cell to a successor) and Tobin Cray (that successor, personally trained by Daba himself in
@@ -310,7 +310,7 @@ Psychological Profile stage rather than re-invented:
   block-by-block roster (Fennic, Mika, Odalys, Sana, Torvin, Sael, Corvin, Nessa, Farro, Ketra,
   Riasa Vorn, Rhyne Cadec, Yeva Tolan, Marn, Bramm Oskell, Isolde Wrenna, Coen, Sabeth, Marrek, Wren
   Talsen, Ilse Corvane, Tamsin, Halvin, Bren, Farel, Ilyse, Mattis Kastel, Serel, Kether, Deryn
-  Kettel, Orsk Dresk, Elowen Marn, Halvar Ilven, Tobin Cray, Quill Vantry, Perrin, Tessin).
+  Kettel, Orsk Dresk, Elowen Sarn, Halvar Ilven, Tobin Cray, Quill Vantry, Perrin, Tessin).
 - **What should constrain the Psychological Profile.** The corpus already establishes a stated core
   wound (the Rookery itself, and specifically the private, unresolved "tally" he keeps of every
   name lost to the doctrine's own arithmetic, Ch. XL) and a stated defining doctrine (discipline

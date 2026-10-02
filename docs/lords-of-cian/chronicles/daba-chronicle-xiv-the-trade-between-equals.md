@@ -6,7 +6,7 @@ explicit negotiation `MCD-1568` establishes -- the young Kanja proposing to teac
 from his own Rexmar tradition (`MCD-294` through `MCD-312`), in exchange for Daba's guerrilla
 doctrine, both of them insisting the exchange be understood as a genuine trade between equals rather
 than charity in either direction. Abad's approval: "rate 50 Chronicles in batches using as many
-agents as needed to make it efficient."*
+agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: "the ravine's arithmetic" corrected to "the wash's arithmetic," matching the terrain actually described two entries earlier. *
 
 ---
 
@@ -56,7 +56,7 @@ who fought off three overseers. I want you teaching me because it's worth someth
 you understand yet. But I won't build this on one side giving and the other side taking. Not even for
 that."
 
-The boy nodded slowly, and then, in the same tone he'd used to describe the ravine's arithmetic two
+The boy nodded slowly, and then, in the same tone he'd used to describe the wash's arithmetic two
 weeks earlier -- as though laying out a plan rather than making an offer -- said: "Then teach me the
 rest of what you know, and I'll teach you and whoever you trust to forge properly. Not scavenged
 stock hammered until it looks finished. Real work. My family's way, listening to the metal instead of

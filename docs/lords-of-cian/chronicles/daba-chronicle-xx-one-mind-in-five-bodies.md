@@ -6,11 +6,11 @@ stretch of Kanja's mentorship under Daba (`MCD-1568`), weaving small-unit doctri
 terrain-as-weapon thinking (`MCD-1587`), and the discipline of making concentrated force irrelevant
 (`MCD-1588`/`1589`) into a single designed exercise, and closing on the exact framing later credited as
 the shared root of Kanja's own Dredge-Line Ambush (`MCD-231`) without restaging it. Abad's approval:
-"rate 50 Chronicles in batches using as many agents as needed to make it efficient."*
+"rate 50 Chronicles in batches using as many agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: "twenty years of teaching" softened to "all his years of teaching," matching the mentorship-era timeline. *
 
 ---
 
-Daba had never once, in twenty years of teaching, told a student the exercise would be his last for a
+Daba had never once, in all his years of teaching, told a student the exercise would be his last for a
 while. He decided, walking out to the marsh's western flat before dawn, that this time he would.
 
 He had built the drill over three sleepless nights, and it borrowed from every lesson that had come

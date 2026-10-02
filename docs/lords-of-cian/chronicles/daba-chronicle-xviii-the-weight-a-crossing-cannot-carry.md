@@ -5,7 +5,7 @@ launched under the Character Chronicle Gameplan's own protagonist-series model. 
 discipline of making concentrated force irrelevant during Kanja's mentorship under Daba (`MCD-1568`)
 -- narrowing an enemy's effective numbers to whatever a single chokepoint can carry -- the most direct
 conceptual ancestor of Kanja's own later Dredge-Line Ambush (`MCD-231`). Abad's approval: "rate 50
-Chronicles in batches using as many agents as needed to make it efficient."*
+Chronicles in batches using as many agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: "nine years ago" corrected to "three years ago" -- the stated figure would predate the Rookery tragedy that founded 1804. *
 
 ---
 
@@ -14,7 +14,7 @@ anyone who could not yet understand what it meant. He showed it to Kanja on a gr
 ceremony, leading him along a dry drainage cut that ran between two low ridges and stopping where the
 cut widened into what had once been a ford.
 
-"Forty-one of theirs came through here, nine years ago," Daba said. "Trust regulars, sent to burn a
+"Forty-one of theirs came through here, three years ago," Daba said. "Trust regulars, sent to burn a
 grain store two cells were using to feed a resettlement camp. Forty-one is not a number I could have
 fought with what I had then. Eight of us. Eight against forty-one is not a battle, it's an arithmetic
 problem with only one answer."

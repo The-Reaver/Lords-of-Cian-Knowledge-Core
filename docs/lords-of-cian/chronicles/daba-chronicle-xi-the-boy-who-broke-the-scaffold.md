@@ -5,13 +5,13 @@ launched under the Character Chronicle Gameplan's own protagonist-series model. 
 contact between Daba and a young, not-yet-Rebellion-era Kanja, during the "otherwise-unrecorded
 formative years" `MCD-1568` establishes -- a scene of raw, uninstructed instinct (`MCD-311`) seen
 from outside for the first time, and the mutual wariness before any trust exists between them. Abad's
-approval: "rate 50 Chronicles in batches using as many agents as needed to make it efficient."*
+approval: "rate 50 Chronicles in batches using as many agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: "twenty years" softened to "years" (1804 is only a few years old at this point in the mentorship); "Corrow" renamed "Sarrow" to resolve a collision with the already-locked Bane-track "Corrow ravine network." *
 
 ---
 
 Riasa Vorn found him first, and it was three days before Daba believed a word of what she told him.
 
-The Corrow cut was not worth a cell's attention on its own -- a Trust ore-works two ridges past the
+The Sarrow cut was not worth a cell's attention on its own -- a Trust ore-works two ridges past the
 nearest garrison town, forty-some laborers breaking a low seam of red iron under a quota schedule
 nobody expected them to meet. Riasa had gone in to case the garrison's resupply route, nothing more,
 carrying a laborer's papers and a laborer's silence. She was good at both. In four years with 1804
@@ -57,7 +57,7 @@ since before I finished."
 
 It wasn't a question, and Daba didn't treat it as one. He stayed at the treeline. Two men who have
 each just confirmed the other is dangerous rarely close the distance on a first meeting, and Daba had
-survived twenty years of exactly this instinct by never being the one who closed it first.
+survived years of exactly this instinct by never being the one who closed it first.
 
 "Who taught you that," Daba asked instead, meaning the scaffold, meaning the read, meaning the
 particular economy of a boy who could have ended three lives and chose instead to end three careers.

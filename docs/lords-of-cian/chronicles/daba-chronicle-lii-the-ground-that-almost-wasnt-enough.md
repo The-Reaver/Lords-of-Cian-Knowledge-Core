@@ -8,7 +8,7 @@ established for Matar, `CC-067`); his S-tier comes entirely from guerrilla maste
 discipline, meaning a serious physical threat is a real threat, not a formality. Reuses Bren
 (established since Chronicle XXXVI). No new named characters — the antagonist is a deliberately
 unnamed Trust enforcer captain, matching the project's convention for disposable institutional
-threats.*
+threats. Corrected Batch 335, 2026-10-02: "Wrenna" renamed "Tessin" throughout, matching the Chronicle L fix. *
 
 ---
 
@@ -68,14 +68,14 @@ now searching a district for him.
 
 He made it to the second safehouse — the one only he and Bren knew existed, the blind redundancy
 built into every location precisely for a night like this one — on legs that stopped answering
-cleanly somewhere around the last hundred yards, and it was Wrenna, roused from sleep by a signal
+cleanly somewhere around the last hundred yards, and it was Tessin, roused from sleep by a signal
 she'd been trained a year to recognize before she was ever told what it meant, who found him on the
 floor just inside the door and did not scream, did not panic, only pressed both hands flat against
 the wound the way she had been taught and started counting his breaths aloud, because that was what
 he had built into every single person who came close enough to matter: that when the moment came,
 you counted, and the counting was what let you act instead of freezing.
 
-He did not remember deciding to stay conscious. He remembered, dimly, the ceiling, and Wrenna's
+He did not remember deciding to stay conscious. He remembered, dimly, the ceiling, and Tessin's
 voice, flat and careful, running numbers that weren't a rescue plan or a tactical assessment,
 just a woman keeping a man's own count going because she understood, without needing to be told,
 that counting was the thing that had always brought him back.
@@ -91,7 +91,7 @@ the other side with a scratch across your ribs and no names added to anyone's li
 "No," Bren agreed. "It wasn't."
 
 Daba lay still a while, doing the accounting the only way he knew how, which was honestly. The doctrine
-had held. The terrain had held. The training he'd built into Wrenna without ever telling her why had
+had held. The terrain had held. The training he'd built into Tessin without ever telling her why had
 held. But the margin — the actual, physical margin between the man who walked out of that culvert and
 the one who didn't — had been thinner than any number he'd ever let himself believe about his own
 survival, and no amount of eleven-day watching or year-long vetting had put a single inch of that
@@ -120,9 +120,9 @@ under real threat, resolved through pure guerrilla-terrain doctrine (`MCD-1567`)
 combat power, with luck rather than skill deciding the final margin — a deliberate departure from
 his usual, fully-controlled register. Extends the mentorship's own "density is not power if the
 terrain neutralizes it" lesson (`MCD-1568`) by having Daba apply it to save his own life rather than
-teach it to someone else. Wrenna's counting response ties directly back to the counting-as-
+teach it to someone else. Tessin's counting response ties directly back to the counting-as-
 containment defense mechanism locked in Section 2 of his profile, shown here transmitted to someone
-else rather than practiced alone. No new named characters — Bren and Wrenna both reused; the Trust
+else rather than practiced alone. No new named characters — Bren and Tessin both reused; the Trust
 captain and his eleven enforcers are deliberately unnamed, matching established convention for
 disposable institutional threats. Does not touch or reference `MCD-1855`'s separate, still-
 undramatized Harek Vondel defeat.*

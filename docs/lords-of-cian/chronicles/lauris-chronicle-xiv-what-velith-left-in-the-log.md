@@ -7,7 +7,9 @@ death in a Vask Threnarr defensive operation at approximately age 1,200 (`MCD-16
 of the longest single archive entry Lauris has ever produced -- Lauris arriving three days after the
 engagement, absent by training-calendar distance rather than choice, and choosing solitary,
 accuracy-focused private record over the Sister-Hold's communal remembrance custom. No new named
-characters. Full text below.*
+characters. Corrected Batch 334, 2026-10-02: age-arithmetic fixes ("second century of life" corrected
+to "twelfth century of life"; "four thousand years" corrected to "nearly five thousand years") to
+match her true ~6,000-year age (`MCD-1533`). Full text below.*
 
 -----
 
@@ -29,7 +31,7 @@ regimen that by then ran largely without ceiling or ceremony, visiting Threnarr 
 two Vasks' training calendars allowed rather than at will. She was not present when the raiding
 incursion reached Threnarr's outer defensive line -- I have found no record specifying who the
 raiders were, only that Threnarr's own defensive complement, drawn in part from the cohort of
-forty-seven children the Sister-Hold had by then raised into their second century of life, held the
+forty-seven children the Sister-Hold had by then raised into their twelfth century of life, held the
 line without her. Velith, among those defenders, did not survive the engagement.
 
 Lauris learned of it three days later, by courier, at Karth-Ven, and departed for Threnarr within the
@@ -45,7 +47,7 @@ not believe it is mine to reproduce in full, and I think Lauris herself, were sh
 that some pages are meant to be read once, by the person who kept them, and referenced rather than
 repeated by everyone after. But I will set down what I believe is its true center, because I think it
 explains more about her than any battle I have catalogued: the entry does not describe the
-engagement. She was not present for it, and true to a discipline I have watched her keep for four
+engagement. She was not present for it, and true to a discipline she has kept for nearly five
 thousand years since, she refused to record as fact what she had not personally witnessed. Instead,
 the entry catalogues Velith -- every exercise they had shared since age eight, every log Velith had
 ever read over her shoulder, the exact wording of the question Velith had asked her on the day she

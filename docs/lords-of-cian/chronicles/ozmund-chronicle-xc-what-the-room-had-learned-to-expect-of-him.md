@@ -1,7 +1,10 @@
 # What the Room Had Learned to Expect of Him
 
 *Locked canon, Batch 306, 2026-09-23 (`MCD-1819`). Ozmund Verehimu Character Chronicle series,
-Chronicle XC, House politics strand wave 3, eleventh and closing entry.*
+Chronicle XC, House politics strand wave 3, eleventh and closing entry. Corrected Batch 333,
+2026-10-02: a reserved-thread leak removed — "his Crown-Scar could have exercised" reworded to "the
+strength in his blood could have exercised," since the Crown-Scar's true siphon nature (`MCD-290`)
+is never meant to be referenced this directly; matches MCD-1819's amended statement.*
 
 ---
 
@@ -41,8 +44,8 @@ I asked him what he thought that structure had actually been, put together and l
 He was quiet for a while before answering, and when he did, he said something I hadn't expected him
 to say so plainly. He said he thought it had been the only kind of authority he'd ever fully trusted
 in himself — not the authority of his blood, which he'd carried since before memory and never earned
-in any sense he could point to, and not the authority his Crown-Scar could have exercised over lesser
-men without a single word of persuasion, which he'd spent his whole life deliberately refusing to
+in any sense he could point to, and not the authority the strength in his blood could have exercised
+over lesser men without a single word of persuasion, which he'd spent his whole life deliberately refusing to
 lean on. This was different. This was authority built one hedgerow, one quota, one stalled
 negotiation at a time, out of nothing but a room's own accumulated experience of being heard
 honestly, and he said he understood, even then, that it was the one kind of power available to him

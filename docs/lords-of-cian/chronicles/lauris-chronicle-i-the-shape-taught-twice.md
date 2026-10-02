@@ -1,6 +1,10 @@
 # Lauris Chronicle I: The Shape Taught Twice
 
-*Locked canon, Batch 292, 2026-09-16 (`MCD-1561`). First entry in Lauris Letitia's own Chronicle
+*Locked canon, Batch 292, 2026-09-16 (`MCD-1561`). Corrected Batch 334, 2026-10-02: Fermand's
+transcription tenure corrected from "thirty years" to "two hundred years" (three instances) to match
+MCD-194/271's ~200-year recruitment timeline; "decades before I knew her" corrected to "centuries
+before I knew her" to match her true ~6,000-year age (MCD-1533); ARS-357-374 citation corrected to
+ARS-357 through 366. First entry in Lauris Letitia's own Chronicle
 series under the Character Chronicle Gameplan (`docs/lords-of-cian/character-chronicle-gameplan.md`),
 her Tier 1 starting point. Resolves that document's open narrator sub-question: narrated by Fermand
 Aurelias, per the already-locked `CC-034` ("Fermand narrates all Ezio and Lauris POV chapters in a
@@ -8,7 +12,7 @@ Baroque/Zafón-Noir voice") and `VB-024`'s voice spec (clinical/methodical, no s
 no panic ever, warmth reserved only for "My dear Ezio") -- distinct from both Onyx's Kanja narration
 and the close-third register used for the homage-era territory Chronicles, since Lauris is core Lords
 of Cian crew rather than a figure Kanja meets as a stranger. Dramatizes two of her least-shown traits
-directly for the first time: the Density Saturation Inversion (`ARS-357`-`374` -- fuller saturation
+directly for the first time: the Density Saturation Inversion (`ARS-357` through `366` -- fuller saturation
 makes her progressively *less* detectable, the inverse of every other density combatant) and her
 defining combat-joy (`CC-134`, "She Who is Crowned with Joy"). Picks up the freshest live hook in her
 own canon: Operation 12's Settlement K-447 (`MCD-1536`, locked Batch 291) left explicitly unresolved
@@ -20,7 +24,7 @@ still active and still teaching, without identifying them. No new named characte
 
 ---
 
-I have kept records for men who lied to themselves and men who lied to me, and in thirty years of
+I have kept records for men who lied to themselves and men who lied to me, and in two hundred years of
 transcribing Ezio Valcari's correspondence I had never once seen him hand a report to Lauris Letitia
 without first reading it himself. He handed her this one unread. That, more than anything in the
 report, told me what it was.
@@ -45,7 +49,7 @@ it secondhand.
 I will not pretend I understood, on the ride out, what she was afraid of. Lauris is not, in my
 experience, a woman who fears outcomes. She fears *repetition* -- the possibility that a thing she
 thought singular was only the first instance she happened to witness. Seventy-three subjects had come
-out of a buried resonance node at Settlement K-447, decades before I knew her, fed by a geometry
+out of a buried resonance node at Settlement K-447, centuries before I knew her, fed by a geometry
 someone had arranged from the bodies of three hundred and forty murdered civilians. She had cleared
 it. She had reburied the node rather than report it. She had never learned who possessed the keying
 knowledge to build that shape in the first place, and in every year since, that absence has sat in her
@@ -128,7 +132,7 @@ We rode back in near silence. I asked her, once, whether this closed the account
 
 "No," she said. "It confirms there is more than one page in the ledger."
 
-I wrote that down exactly as she said it, because I have learned, across thirty years of
+I wrote that down exactly as she said it, because I have learned, across two hundred years of
 transcription, that the sentences Lauris chooses not to embellish are the ones that matter most.
 Someone taught that shape to a circle of frightened tin-weighers three decades ago, and if this
 account exists, others surely do. The person who arranged three hundred and forty bodies at

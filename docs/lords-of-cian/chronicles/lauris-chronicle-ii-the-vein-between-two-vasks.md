@@ -5,7 +5,9 @@ series, and the first of the "Strand K" (Kares Prime / deep-past) thread under t
 pacing convention agreed this batch (`docs/lords-of-cian/character-chronicle-gameplan.md`).
 Dramatizes one of the three inter-Vask security operations from the "Long Operational Period"
 (`MCD-1555`, age 1,841-~3,400) -- resource-scarcity conflicts between Karesians resolved without
-lethal force, her presence alone sufficient to redirect toward deliberation. Set at Vask Aldreth,
+lethal force, her presence alone sufficient to redirect toward deliberation. Corrected Batch 334,
+2026-10-02: removed references to the not-yet-forged Spine of Dagon (archive fragment and prose) --
+she carries no weapon in this account. Set at Vask Aldreth,
 already a named location (Era D-E collision-check, Batch 291). No new named characters -- the
 opposing delegation stays deliberately unnamed, matching the project's convention for secondary
 figures who don't need individual identity. Full text below. Abad's approval: "lock."*
@@ -14,7 +16,7 @@ figures who don't need individual identity. Full text below. Abad's approval: "l
 
 *Archive fragment, Lauris's hand: "Threnarr and Aldreth. A vein, not a war. I walked between them.
 They stopped because I was already standing where the first blow would have to land. I did not
-draw the Spine of Dagon. I did not need to."*
+draw a weapon. I did not need to."*
 
 This is not mine to have witnessed. It is hers, recorded in the archive she keeps aboard the
 Karkosa, in her own hand, and I set it down here exactly as I found it, because I believe there are
@@ -36,7 +38,7 @@ simply seize what it needed, standing at the edge of violence not from malice bu
 Twelve armed representatives from each Vask met at the vein's boundary marker. Neither side had
 drawn a weapon. Both sides had brought them.
 
-Lauris arrived on foot, unarmored, the Spine of Dagon sheathed and slung rather than drawn, and
+Lauris arrived on foot, unarmored, no weapon drawn, and
 walked directly into the space between the two delegations — not beside either, not behind a
 mediator's table, but standing in the exact geometric center of where the first exchange would have
 to pass through her. She has recorded that she did not plan this. She recorded, later, that her

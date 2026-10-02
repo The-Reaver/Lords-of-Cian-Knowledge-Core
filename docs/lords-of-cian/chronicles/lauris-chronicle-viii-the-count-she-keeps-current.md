@@ -6,7 +6,8 @@ cave-system thread (`MCD-190`/`193`) without touching the reveal-to-Kanja detail
 for a future book, and without resolving the discharge Book 5 reserves at `MCD-216` ("the
 cave-system populations revived"): a present-day maintenance visit confirming the concealment
 still holds, decades into the standing debt. No new named characters; the 200 relocated subjects
-stay uncounted individually, matching `MCD-190`'s own phrasing.*
+stay uncounted individually, matching `MCD-190`'s own phrasing. Corrected Batch 334, 2026-10-02:
+"decades since" corrected to "two centuries since" to match her true ~6,000-year age (MCD-1533).*
 
 -----
 
@@ -34,7 +35,7 @@ and the woman who would eventually walk away from the Directorate altogether.
 What a maintenance visit consists of, in practice, is less dramatic than the stakes attached to it
 might suggest. She checks the concealment's physical integrity. She confirms, through means she
 described to me only in the vaguest terms, that nothing has disturbed the population's own
-stability in whatever quiet, suspended state has kept them safe across the decades since. She
+stability in whatever quiet, suspended state has kept them safe across the two centuries since. She
 counts. Not by name — she does not have two hundred names to give them, a detail she stated
 plainly, without apparent grief attached to the fact, simply as an accurate description of what she
 does and does not know about the people she has spent this much of her life protecting. She counts

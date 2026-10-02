@@ -4,10 +4,14 @@
 series, Chronicle CXIV, first entry of the coming-of-age strand's second wave (part B, Chronicles
 CXIV–CXX), set strictly pre-Fulfillment-Ceremony (`MCD-025`), Aethelgard alive throughout. Ozmund
 extends Val Mirel Kareth's Hollow Stand discipline (`MCD-1745`) outward for the first time — not
-practicing it on his own grief, which he has none yet to speak of, but recognizing and helping carry
+practicing it on his own grief this time, but recognizing and helping carry
 someone else's, understanding his own inheritance more fully by putting it to use in another man's
 hands. Narrated by Red Beard (Tarn Cestari) per `VB-020`/`022`/`CC-020`. Reuses Osric, the household's
-senior steward (`MCD-1730`). No new named characters.*
+senior steward (`MCD-1775`). No new named characters. Corrected Batch 333, 2026-10-02: reworded "not
+practicing it on his own grief, which he has none yet to speak of" to "not practicing it on his own
+grief this time," since Ozmund's own grief (the old House Guard soldier, Chronicle XVI) is already
+locked elsewhere in the series; also corrected Osric's citation from Chronicle I (`MCD-1730`) to his
+actual introduction at Chronicle XLVI (`MCD-1775`).*
 
 ---
 
@@ -73,7 +77,7 @@ in alone.
 Stand discipline (`MCD-1745`, "grief be carried through rather than folded away and forgotten") outward
 for the first time — previously shown only as something taught to Ozmund, here shown as something he
 consciously puts into practice on someone else's behalf, deepening his own understanding of the
-inheritance by using it rather than merely receiving it. Reuses Osric (`MCD-1730`) without contradicting
+inheritance by using it rather than merely receiving it. Reuses Osric (`MCD-1775`) without contradicting
 his established role; gives him a private, previously unstated grief (a deceased wife, unnamed,
 thirty years prior) consistent with his established caution and unglamorous competence. Deliberately
 echoes but does not restage or contradict the earlier Joren entry (`MCD-1776`) — the narration explicitly

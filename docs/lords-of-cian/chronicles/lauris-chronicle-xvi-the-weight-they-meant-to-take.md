@@ -38,14 +38,14 @@ here: she was not present for the opening of it, having been summoned by a distr
 through two intermediary Vasks before it reached her at all, which is itself a measure of how thin
 the surviving communication network had become. By the time she arrived at the trade-point's
 receiving hall, the crew held one of the six factors -- an archivist, unarmed, responsible for
-cataloguing the exchange rather than defending it -- with a blade at his throat, and had already
+cataloguing the exchange rather than defending it -- with a blade at her throat, and had already
 begun loading crated Drakma onto a transport sled bound for their vessel.
 
 She has recorded that she did not announce herself. She simply crossed the hall, at the same
 unhurried walk I have since watched her use in rooms considerably further from home, and that the
 crew's leader made the same error every outsider who has ever underestimated her makes: he read her
 frame, her stillness, her apparent lack of urgency, and adjusted his threat accordingly, tightening
-his grip on the archivist rather than releasing him, on the theory that a small, calm woman crossing
+his grip on the archivist rather than releasing her, on the theory that a small, calm woman crossing
 an open floor represented a negotiation rather than a foregone conclusion.
 
 She took the blade from his hand before he registered that her stillness had ended. She has recorded

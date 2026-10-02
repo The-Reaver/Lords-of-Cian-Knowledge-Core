@@ -6,7 +6,7 @@ internal friction over `MCD-1567`'s doctrine-over-mass design -- a senior 1804 m
 substantive, not-easily-dismissed case for visible growth after Pallow's Reach (`MCD-1608`), and Daba
 reckons with it honestly rather than simply prevailing. Resolves into a real but partial concession,
 not a clean vindication of the existing doctrine. Introduces Kether, collision-checked clean. Abad's
-approval: "rate 50 Chronicles in batches using as many agents as needed to make it efficient."*
+approval: "rate 50 Chronicles in batches using as many agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: 1804's hypothetical size corrected from "sixty"/"twenty" to "a hundred and twenty"/"forty," matching MCD-1608's locked eighteen-to-twenty-person (half-strength) figure. *
 
 ---
 
@@ -25,9 +25,9 @@ arithmetic actually costs us, honestly, instead of only what it saves."
 
 "Do you. Eighteen fighters could have taken that causeway. We both know it. You did the numbers that
 said we'd lose the eighteen and gain nothing -- but you did them assuming we stayed exactly this size
-forever. What if we didn't. What if 1804 were sixty people instead of twenty, spread the same way, cell
+forever. What if we didn't. What if 1804 were a hundred and twenty people instead of forty, spread the same way, cell
 for cell, doctrine intact -- cross-trained, dispersed, nothing centralized, everything you've built,
-just three times the size of it. Sixty people could have taken that causeway and still had forty left
+just three times the size of it. A hundred and twenty people could have taken that causeway and still had a hundred left
 over the next morning. We wouldn't be trading the whole network to save one settlement. We'd finally
 have enough of a network that saving one settlement didn't have to be a trade at all."
 

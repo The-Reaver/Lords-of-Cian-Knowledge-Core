@@ -6,12 +6,12 @@ launch wave with the first forging lesson the young Kanja gives Daba, drawing on
 (`MCD-294` through `MCD-312`) -- establishing Daba, per `MCD-1568`'s own language, as a conscious and
 attentive apprentice fully aware of what he is learning and why, not a passive student absorbing
 technique without context. Abad's approval: "rate 50 Chronicles in batches using as many agents as
-needed to make it efficient."*
+needed to make it efficient." Corrected Batch 335, 2026-10-02: two "twenty years" figures softened to "years," matching the mentorship-era timeline; "Corrow" renamed "Sarrow" to resolve the same collision fixed in Chronicle XI. *
 
 ---
 
 The forge Daba found for him was not much of a forge -- a disused smith's shed at the edge of the
-Corrow cut, abandoned when the Trust concession decided it was cheaper to ship finished tool-heads in
+Sarrow cut, abandoned when the Trust concession decided it was cheaper to ship finished tool-heads in
 than to maintain a local smith, its bellows patched twice over and its chimney drawing badly on a wet
 wind. It was the best Daba could risk without drawing attention onto a cell that survived precisely
 because nothing about it drew attention, and the boy had looked at it for a long moment when Daba
@@ -32,7 +32,7 @@ learning to hit the metal yet. You're learning to feel what a good strike does t
 a bad one feels like before you're the one making it."
 
 Daba did as he was told, which was not, he reflected, a posture he assumed often or comfortably. He
-had spent twenty years being the one who decided where hands went and what they struck. He found, to
+had spent years being the one who decided where hands went and what they struck. He found, to
 his own mild surprise, that he did not resent the reversal here. The boy did not teach the way Daba
 taught -- did not build a plan and drill it until it became reflex. He taught the way he fought,
 by attention: watch this, listen to this, notice what changes when the color shifts here rather than
@@ -69,7 +69,7 @@ questions in my head either." He handed the blade to Daba, hilt first. "You list
 know this is going to matter to somebody who isn't in this room yet."
 
 Daba turned the blade over once, testing its balance, and did not answer right away, because the boy
-was not wrong, and because Daba had learned, across twenty years of building something meant to
+was not wrong, and because Daba had learned, across years of building something meant to
 outlast him, that the debts worth carrying were always the ones that mattered to people not yet in
 the room.
 

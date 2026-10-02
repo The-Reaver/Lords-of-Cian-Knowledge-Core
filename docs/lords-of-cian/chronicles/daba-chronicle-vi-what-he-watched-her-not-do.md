@@ -6,7 +6,7 @@ deliberate recruitment into what will become 1804 -- Daba testing a fellow survi
 before bringing her in, extending `CC-135`'s founding-in-the-aftermath framing and `MCD-1567`'s
 doctrine-over-mass ethos back to its very first application, before the network had a name or a
 second member beyond Daba himself. Introduces Sael, collision-checked clean. Abad's approval: "rate
-50 Chronicles in batches using as many agents as needed to make it efficient."*
+50 Chronicles in batches using as many agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: "1804's death toll" corrected to "the Rookery's death toll" -- the network isn't named "1804" until a later entry. *
 
 ---
 
@@ -30,8 +30,8 @@ something and watching what she did with it.
 He let her see the Trust patrol schedule. Not directly -- he arranged for a courier's satchel to pass
 through the alley behind the grain stores at an hour he knew she would be there, dropped by a boy paid
 to look careless and be gone before anyone could catch him at it. Inside were three real routes and
-two real names, the kind of information that, in the hands of someone burning to answer 1804's death
-toll with a body count of her own, could have gotten four people killed inside a week.
+two real names, the kind of information that, in the hands of someone burning to answer the Rookery's
+death toll with a body count of her own, could have gotten four people killed inside a week.
 
 She read it. He watched her read it, crouched behind a collapsed cistern wall with the patience of a
 man who had nowhere else he needed to be. He watched her hands go still over the page the way hands go

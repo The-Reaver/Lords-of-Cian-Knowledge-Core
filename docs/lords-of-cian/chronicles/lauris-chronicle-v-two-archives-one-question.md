@@ -4,7 +4,9 @@
 series, the first of the "Strand W" (Witness / present-day, quiet-register) thread. A stakes-free
 entry showing her ordinary present-day texture as one of the Lords of Cian's four anchors (`MCD-212`)
 -- an evening cross-referencing Ionic Rite architecture notes with Sephtis, extending their
-already-locked joint-archive-holder relationship. Puts `CC-134`'s combat-joy trait on the page in a
+already-locked joint-archive-holder relationship. Corrected Batch 334, 2026-10-02: "decades before
+either of them had met" corrected to "centuries before" to match her true ~6,000-year age
+(MCD-1533). Puts `CC-134`'s combat-joy trait on the page in a
 non-combat register for the first time. Consistent with Sephtis's established Chrono-Anchor bells
 (self-verification against memory) and Flow-vs-Stagnation philosophy per the Batch 44 psychological
 profile material. No new named characters. Full text below. Abad's approval: "lock."*
@@ -23,7 +25,7 @@ warm going cold beside her elbow.
 Sephtis had asked, some weeks prior, whether she still held her own notes on the Iron-Spire —
 Operation 3, the oldest of her documented encounters with Ionic Rite architecture, the site where
 she first recognized engineering that did not belong to the Directorate that hired her. He had, in
-his own archive, a partial fragment from the Verith operation decades before either of them had
+his own archive, a partial fragment from the Verith operation centuries before either of them had
 met, never fully cross-referenced against anything. Two joint-archive holders on Anu Un Ra's
 engineering tradition, as Ezio has described them, and it had somehow taken this long for either of
 them to simply sit down together and compare the two oldest documents either possessed.

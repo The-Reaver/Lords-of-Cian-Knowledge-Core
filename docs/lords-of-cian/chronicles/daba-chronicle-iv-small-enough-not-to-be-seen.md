@@ -7,7 +7,7 @@ a rumored Trust "processing" sweep -- that plants Daba's own instinct for disper
 doctrine-over-mass, extending `MCD-1567`'s already-locked founding lesson ("anything large enough
 to be seen is large enough to be burned") back to its first, pre-organizational instance. No new
 named characters; reuses Sana and Torvin from `MCD-1573`. Abad's approval: "rate 50 Chronicles in
-batches using as many agents as needed to make it efficient."*
+batches using as many agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: "the ten others" corrected to "the eleven others," matching the locked eleven-rescued-children count. *
 
 ---
 
@@ -25,7 +25,7 @@ Torvin didn't like it, and said so plainly, propped against the wall with his bo
 
 "I'm not talking about two hundred people wandering," Daba said. "I'm talking about groups. Small enough that one caught group doesn't lead them to the next one. Six to a group, maybe eight. Someone who knows the district leading each one. Not scattering — hiding, on purpose, in pieces too small to be worth the paperwork."
 
-It took the rest of the night to argue it properly, Torvin testing every seam of the idea the way he'd have tested a cistern joint before trusting it to hold pressure, and by the grey hour before dawn it was Torvin himself who split the tannery's roll into eight groups and picked the routes, because he knew the back ways of the district better than anyone left standing. Daba took the group with Mika and the ten others from the first night, led them out through a tanner's drying yard he'd never once had reason to walk before the fire, and did not look back to see whether the sweep came at all.
+It took the rest of the night to argue it properly, Torvin testing every seam of the idea the way he'd have tested a cistern joint before trusting it to hold pressure, and by the grey hour before dawn it was Torvin himself who split the tannery's roll into eight groups and picked the routes, because he knew the back ways of the district better than anyone left standing. Daba took the group with Mika and the eleven others from the first night, led them out through a tanner's drying yard he'd never once had reason to walk before the fire, and did not look back to see whether the sweep came at all.
 
 It came at midmorning, and found a tannery holding perhaps thirty stragglers too slow or too stubborn to have moved, and a great deal of Trust paperwork with nothing new to add to it. Daba heard the account of it two days later from a runner, secondhand and already half legend in the telling, and felt something settle in his chest that was not relief exactly — relief would come later, if it ever fully came — but closer to recognition. He had not fought anyone. He had not needed to. He had simply made the thing they were looking for too small to find, and it had worked precisely because it had never been large enough to be worth the looking.
 

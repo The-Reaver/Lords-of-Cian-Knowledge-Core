@@ -6,7 +6,7 @@ genuine-failure run with a quiet, stakes-free entry on what carrying `MCD-1567`'
 losses and limits has done to Daba personally over the years, away from any specific crisis --
 private doubt and grief sitting alongside undiminished determination, neither one resolving the
 other. No new named characters; reuses Tamsin (`MCD-1606`). Abad's approval: "rate 50 Chronicles in
-batches using as many agents as needed to make it efficient."*
+batches using as many agents as needed to make it efficient." Corrected Batch 335, 2026-10-02: a stale "eleven years" figure (two years out of date within its own entry) softened to non-numeric phrasing; a writers'-room leak ("any Chronicle anyone would write") reworded to plain prose. *
 
 ---
 
@@ -31,12 +31,12 @@ eventually, be answered. He simply did not know, most years, what answering it w
 like, or whether the shape of an answer would arrive in his own lifetime or in someone else's.
 
 The doubt was quieter than people who did not know him well would have guessed. It rarely showed itself
-as hesitation -- he had never once, in eleven years, delayed an operation because he was unsure the
+as hesitation -- he had never once, in all these years, delayed an operation because he was unsure the
 doctrine was right. It showed itself instead in exactly this: an hour, once a year, spent reading a list
 no one else was permitted to see, weighing losses against a network that was still, by any honest
 measure, smaller than the danger it was meant to eventually answer. Kether's question from two years
 before came back to him every time he sat with it. So did Serel's, and Pallow's Reach's, and a dozen
-others that had never made it into any Chronicle anyone would write, because most of what the doctrine
+others that had never made it into any account anyone would write, because most of what the doctrine
 cost him never rose to the level of a story. It simply accumulated, name by name, in a hand that had
 grown steadier with practice at the exact task that should, by rights, have made it shake.
 
@@ -50,7 +50,7 @@ alternative to it that did not simply move the cost onto someone else's list ins
 
 He closed the book before dawn, the way he always did, and put it away somewhere none of them would
 think to look, and went back to the work the same as any other day -- because the work did not care how
-long he had sat with the names, and because he had learned, over eleven years of carrying this, that
+long he had sat with the names, and because he had learned, over more than a decade of carrying this, that
 grief and doubt were both allowed to live in him permanently without ever once being allowed to decide
 anything for him. That distinction, more than any tactic he had ever taught anyone, was the actual
 discipline. He was not sure, most years, that he had mastered it. He knew only that he had not yet
