@@ -4,12 +4,12 @@
 
 ---
 
-Efa Gol's successor caught the discrepancy first, buried in a season's worth of secondhand accounts
+Efa Gol caught the discrepancy first, buried in a season's worth of secondhand accounts
 the crew routinely gathered to track the persona's own drifting reputation: a merchant town three
 weeks' sail from any water the Scourge had touched that year, extorted for protection money by a man
 in a black coat who claimed, loudly and often, to be exactly who the town feared he was.
 
-"He's using your name to rob people you've never met, in a strait you've never sailed," the successor
+"He's using your name to rob people you've never met, in a strait you've never sailed," she
 reported, laying out the accounts on the crew's own chart table. "Coat's wrong — too much brass, no
 grounding weave underneath any of it, just theater. But nobody in that town's close enough to the real
 thing to know the difference."
@@ -18,8 +18,8 @@ thing to know the difference."
 
 "Not with you standing in front of him. That's what he wants — a confrontation he can either survive
 and claim, or lose and still get talked about for surviving this long against the genuine article.
-Either way he wins something he hasn't earned." The successor had clearly already thought this
-through. "Let me handle it instead. Quietly. The way Efa Gol used to handle a crowd's fear before it
+Either way he wins something he hasn't earned." She had clearly already thought this
+through. "Let me handle it instead. Quietly. The way I've always handled a crowd's fear before it
 ever got the chance to become a problem you had to solve with your own hands."
 
 He agreed, and the correction, when it came weeks later, arrived through no confrontation at all — a
@@ -32,7 +32,7 @@ The impostor's protection racket collapsed within a month, not from force but fr
 merchants comparing dates and finding them impossible to reconcile, and he left the region entirely
 before anyone with a real blade came looking for the difference between a costume and a coat.
 
-"You didn't need me for that at all," he said, reviewing the successor's finished work afterward,
+"You didn't need me for that at all," he said, reviewing her finished work afterward,
 genuine respect in it.
 
 "I needed the reputation to be worth protecting as something true, not just something frightening.
@@ -43,6 +43,7 @@ liar's got."
 ---
 
 *Continuity notes (not narrative): a reputation-integrity-management register — a false claimant
-exposed through the crew's own careful documentation rather than direct confrontation, extending the
-successor-command thread established in "What Efa Gol Handed Down." No new named characters. Second
-entry in the Scourge's twelfth wave.*
+exposed through the crew's own careful documentation rather than direct confrontation. No new named
+characters. Second entry in the Scourge's twelfth wave. Corrected Batch 321, 2026-10-02: this entry
+is set at age 133, seventeen years before Efa Gol's own age-150 handoff to her successor (`MCD-807`)
+-- "Efa Gol's successor" corrected to Efa Gol herself throughout, since she has not yet retired.*

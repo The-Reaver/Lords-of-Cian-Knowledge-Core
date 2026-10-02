@@ -1,10 +1,15 @@
 # Four Ears, One Night
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1290`). Iron Bastard Alias Chronicle LXXI, wave 24. A detailed full-Trinity showcase scaling the doctrine's teaching lineage into a coordinated multi-site campaign across four listeners. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1290`); corrected Batch 321, 2026-10-02 (Kanja's own
+thread's Trinity gear reworded to the Long-Mask-era kit, since wave 24 falls years past the
+Trinity's age-30 surrender, `MCD-246`; "a Directorate advance" reworded to avoid framing the
+Rebellion as a still-live war, since the Rebellion formally ends at `MCD-245`/`246`). Iron Bastard
+Alias Chronicle LXXI, wave 24. A detailed showcase scaling the doctrine's teaching lineage into a
+coordinated multi-site campaign across four listeners. Not a territory Chronicle.*
 
 ---
 
-Four separate structures across a single contested river valley needed reading in the same night, before dawn brought a Directorate advance that would make every one of them a target: a rail bridge, a dam spillway gate, a garrison wall, and a munitions depot's own support struts. No single listener could reach all four before the deadline, not even Kanja at his fastest.
+Four separate structures across a single contested river valley needed reading in the same night, before dawn brought a Directorate enforcement sweep that would make every one of them a target: a rail bridge, a dam spillway gate, a garrison wall, and a munitions depot's own support struts. No single listener could reach all four before the deadline, not even Kanja at his fastest.
 
 For the first time, he didn't try.
 
@@ -12,7 +17,7 @@ The first student took the rail bridge, applying a decade of applied restraint t
 
 Four listening rods against four structures, connected by nothing but timing and trust, each read racing the same clock toward the same dawn.
 
-His own read came back wrong on the first pass — the depot's support struts carried the false, engineered stress-signature deception he'd learned to catch at the wall years before, doubled verification finding the deliberate falsification the moment a second pass failed to match the first's suspicious uniformity. He found the genuine weak point instead, a single strut carrying the actual load the deception had been built to hide. Obsidian Malice's discharge came down in one precise, controlled pulse; Mafesto's Kinetic Transfer System grounded the resulting shockwave through his own frame rather than letting it travel toward the munitions stores twenty feet away; Onyx's Cadence Ruin cleared the two engineers scrambling to arm a secondary charge before either reached the trigger.
+His own read came back wrong on the first pass — the depot's support struts carried the false, engineered stress-signature deception he'd learned to catch at the wall years before, doubled verification finding the deliberate falsification the moment a second pass failed to match the first's suspicious uniformity. He found the genuine weak point instead, a single strut carrying the actual load the deception had been built to hide. The Ironhand Gauntlets' leverage came down in one precise, controlled pulse; the Forge-Coat and Ironfall Boots grounded the resulting shockwave through his own frame rather than letting it travel toward the munitions stores twenty feet away; the Rexmar Machete cleared the two engineers scrambling to arm a secondary charge before either reached the trigger.
 
 Word reached him before sunrise, relayed rider to rider across the valley: the bridge down clean, the spillway diagnosed and reinforced rather than broken, the garrison wall's collapse timed to the half-second the apprentice had learned to trust in herself only weeks before. Four structures, four listeners, one night, no misdiagnosis anywhere along the chain.
 

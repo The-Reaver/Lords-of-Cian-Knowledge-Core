@@ -44,7 +44,7 @@ was actually guarding.
 
 ---
 
-*Continuity notes (not narrative): parallels Danne Sok's skepticism arc (`MCD-534` era wave) with a
+*Continuity notes (not narrative): parallels Danne Sok's skepticism arc (`MCD-743`) with a
 distinct scenario and resolution -- Corren Halst, already locked from the Twenty-Two Victories
 material, physically places his unarmed body between a threat and the ledger office rather than
 merely observing the method work, a more active test of the alias's unarmed discipline. No new named

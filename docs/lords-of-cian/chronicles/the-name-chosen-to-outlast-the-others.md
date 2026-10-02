@@ -39,7 +39,7 @@ any of the others ever would.
 *Continuity notes (not narrative): dramatizes, for the first time, the deliberate strategic choice
 behind the Long Mask's use of the Scourge specifically as its enduring disguise identity (MCD-246,
 ARS-310) — a foundational scene no prior Chronicle in any wave has shown. Valen Sinisterblade
-(already-locked, the Valen Protocol, MCD-291) appears consistent with his established Master-at-Arms
+(already-locked, the Valen Protocol, `ARS-344`) appears consistent with his established Master-at-Arms
 role; Garren Hask appears pre-"elderly," matching his age at this point in the timeline against his
 already-locked recruitment-era profile (CC-115). Deliberately does not specify any mechanism for how
 or why Onyx's seal begins — that remains unaddressed, left for whichever future material eventually

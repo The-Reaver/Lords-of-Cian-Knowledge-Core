@@ -23,10 +23,9 @@ engagement rather than waiting for him to catch up to the fact she wasn't going 
 "Since we heard the rumors you'd been working this strait. We weren't going to just sit in that hold
 hoping the story was true."
 
-Mafesto's Kinetic Transfer System, tuned to absorb a boarding party's blows, found itself instead
-storing charge from the captives' own improvised strikes as readily as from the guards' answering
-ones — a battle fought, for the first time in years, with more hands actively swinging than his own
-gear alone accounted for.
+The Forge-Coat's grounding weave, tuned to absorb a boarding party's blows, turned aside strikes from
+the captives' own improvised chains as readily as from the guards' answering ones — a battle fought,
+for the first time in years, with more hands actively swinging than his own gear alone accounted for.
 
 The transport's captain surrendered to a deck he no longer controlled in any direction, disarmed by a
 combined line he couldn't tell apart — legend and liberated captives moving as one force rather than
@@ -47,4 +46,6 @@ freed a good portion of itself.
 
 *Continuity notes (not narrative): a collaborative-liberation register — captives as active
 combatants fighting alongside the Scourge rather than passive rescued parties, a new dynamic for this
-alias's run. No new named characters. Second entry in the Scourge's eleventh wave.*
+alias's run. No new named characters. Second entry in the Scourge's eleventh wave. Corrected Batch
+321, 2026-10-02: removed an anachronistic Mafesto reference (the Trinity surrendered at age 30,
+`MCD-246`), swapped for the Forge-Coat's grounding weave.*

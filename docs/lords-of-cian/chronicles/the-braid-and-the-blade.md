@@ -1,7 +1,7 @@
 # The Braid and the Blade
 
 *Locked canon, Batch 157, 2026-09-11 (`MCD-495`). The Crow King Alias Chronicle XI. Rebellion era,
-age 23. Not a territory Chronicle. New standalone material — a detailed hybrid deception-plus-combat
+ages 23-28. Not a territory Chronicle. New standalone material — a detailed hybrid deception-plus-combat
 showcase per Abad's craft instruction, combining the Hymn-Engine with full Trinity engagement for the
 first time in this alias's run. Narrated in neutral third-person prose. No new named characters.*
 

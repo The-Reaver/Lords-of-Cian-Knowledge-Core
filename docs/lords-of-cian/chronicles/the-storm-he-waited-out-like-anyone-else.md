@@ -28,7 +28,7 @@ it evenly.
 joking. "Fair hands. Good at math. Wasted talent, whatever you actually do for a living."
 
 "I've been told that before, by someone who'd know." He thought, briefly and without comment, of
-Garren Hask's own ledgers, three centuries of exactly this same fairness applied to something far
+Garren Hask's own ledgers, seven decades of exactly this same fairness applied to something far
 larger than dried fish. "It's not a bad way to spend a life, keeping the count honest for people who
 need to trust it."
 
@@ -44,4 +44,6 @@ actually were.
 *Continuity notes (not narrative): a mundane, ordinary-humanity register — extraordinary ability
 entirely irrelevant to the situation, the persona set aside not by choice but by circumstance,
 distinct from every combat, reputation, or reflection register used elsewhere in this run. No new
-named characters. Second entry in the Scourge's fourteenth wave.*
+named characters. Second entry in the Scourge's fourteenth wave. Corrected Batch 321, 2026-10-02:
+Garren Hask's ledger-keeping span corrected from "three centuries" to "seven decades," matching this
+entry's age (90) against Hask's own crew-founding age (~18).*

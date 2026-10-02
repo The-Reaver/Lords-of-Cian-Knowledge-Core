@@ -42,8 +42,10 @@ precisely the right time.
 
 ---
 
-*Continuity notes (not narrative): the near-miss entry of wave 31 -- distinct from every prior
-"craft breaks under pressure" entry (`MCD-995`, `MCD-1265`, `MCD-1286`) because the danger here comes
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (citation fix -- `MCD-1286` is an
+unrelated Iron Bastard entry; the correct cross-reference is `MCD-1266`, "The Silence After the
+Blast"). The near-miss entry of wave 31 -- distinct from every prior
+"craft breaks under pressure" entry (`MCD-995`, `MCD-1265`, `MCD-1266`) because the danger here comes
 from the self-taught group's own inexperience with the discipline's core ethical rule (no lying,
 only patient listening) rather than from any adversary or environmental limit. The fourth
 generation's single corrective question, delivered without revealing his identity or origin, extends

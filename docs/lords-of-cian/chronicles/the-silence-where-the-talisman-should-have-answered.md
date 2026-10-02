@@ -1,6 +1,11 @@
 # The Silence Where the Talisman Should Have Answered
 
-*Locked canon, Batch 218, 2026-09-11 (`MCD-963`). The Iron Bastard Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 218, 2026-09-11 (`MCD-963`); corrected Batch 321, 2026-10-02 (Obsidian
+Malice's discharge reworded to the Ironhand Gauntlets' leverage, since wave 18 falls years past the
+Trinity's age-30 surrender, `MCD-246`; the Aegis-Talisman's framing as "a piece of the Trinity's
+gear" corrected, since it is retained post-surrender and distinct from the Trinity per `MCD-246`;
+Danne Sok's pronoun corrected to he/him per `CC-159`). The Iron Bastard Alias Chronicle LII, wave
+18. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -30,11 +35,11 @@ nearly caught him at it, reading through touch alone instead of a broadcast that
 from cover. But the signature came through — the same tension, the same weak seam, arrived at without
 the Talisman's help at all.
 
-Obsidian Malice's discharge went into the seam by hand-guided contact rather than a clean broadcast
+The Ironhand Gauntlets' leverage went into the seam by hand-guided contact rather than a clean broadcast
 lock, cruder than the Talisman-assisted version but no less accurate. The ramp came down.
 
 "You could have waited for a repair," Danne Sok said afterward, examining the cracked lens with the
-same care she gave any piece of the Trinity's gear.
+same care he gave the Aegis-Talisman itself.
 
 "I could have," Kanja said. "I wanted to know first whether I still could, without it." He turned the
 dead Talisman over once more before handing it off for real repair. "It slowed me down. It made me

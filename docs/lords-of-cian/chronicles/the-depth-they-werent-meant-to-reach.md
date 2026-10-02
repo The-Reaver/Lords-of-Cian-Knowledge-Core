@@ -1,6 +1,8 @@
 # The Depth They Weren't Meant to Reach
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1220`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1220`); corrected Batch 321, 2026-10-02 (named references
+to the Forge-Coat, Boots, and Breath Collar -- Long-Mask-era gear that doesn't exist yet in this
+Rebellion-era window -- were reworded to a plain "no armor at all" framing). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXII, wave 28, first entry in the wave. A fully submerged dive rescue inside a sunk wreck, with no
 gear advantage. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -12,10 +14,10 @@ boats — and according to the one surviving officer, pulled half-drowned from w
 four more might be alive in an air pocket somewhere in the flooded lower decks, if the pocket itself
 hadn't already given out.
 
-No gear in the fleet's loadout was built for what came next. Kanja went down without the Forge-Coat,
-without the Boots, stripped to what wouldn't drag him under or catch on the wreck's own tangled
-rigging, the Breath Collar's filtration doing nothing for a problem that had nothing to do with air
-quality and everything to do with there being no air at all past a certain depth.
+No gear in the fleet's loadout was built for what came next. Kanja went down stripped bare — no armor
+of any kind, nothing that could drag him under or catch on the wreck's own tangled rigging — because
+the problem wasn't anything a piece of equipment could solve for him. It had nothing to do with armor
+or filtration and everything to do with there being no air at all past a certain depth.
 
 He found the pocket by feel more than sight, the wreck's interior black past where any light reached,
 following the officer's half-remembered layout of a ship he'd never walked himself. Four people,
@@ -44,4 +46,7 @@ wreck, distinct from the surface-level "Air Enough for Six" (`MCD-775`, wave 7, 
 reached by cutting into a still-floating hull) — this is a fully submerged dive rescue with no gear
 advantage, deliberately stripping away Trinity/gear reliance to foreground pure physical endurance.
 Reuses Pell Ostra. The wreck's surviving officer and the four rescued are deliberately unnamed. No new
-named characters. First entry in wave 28.*
+named characters. First entry in wave 28. Corrected Batch 321, 2026-10-02 to remove named references
+to the Forge-Coat, Boots, and Breath Collar (`ARS-344`-`356`), all Long-Mask-era gear that cannot
+appear in this Rebellion-era, still-live-Trinity window, replacing them with a plain "no armor"
+framing.*

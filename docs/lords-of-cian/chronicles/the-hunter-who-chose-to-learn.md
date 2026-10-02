@@ -11,8 +11,9 @@ to speak before deciding what to do about him.
 
 The lineage recognized him before he said a word: the same Directorate officer who had once built a
 false signal specifically to turn the Hymn-Engine's own logic back on Kanja, caught only because the
-fourth generation had cross-checked his sources' suspicious over-consistency one season before it
-would have worked. He'd left Directorate service not long after that failure, he told them plainly,
+fourth generation had cross-checked his sources' suspicious over-consistency with a single season to
+spare before the deception would have worked. He'd left Directorate service not long after that
+failure, he told them plainly,
 because the case had never stopped bothering him -- not the loss, which he'd absorbed and moved past
 years ago, but the shape of what had nearly worked. He hadn't come back to try again. He'd come to
 ask how it was done.
@@ -41,13 +42,16 @@ to it. That's not the same test. I don't know yet if it's an easier one or a har
 
 ---
 
-*Continuity notes (not narrative): the first entry to bring a former adversary toward the lineage
-rather than resolve him as a defeated opponent -- the Directorate officer from "The Hunter Who
-Studied the Hunter" (Chronicle LXXIII, `MCD-1265`, wave 25) returns years later seeking to learn the
-craft rather than counter it, extending that entry's near-miss into a genuinely new relationship
-register this alias's run has not yet used: a former hunter's earned trust, tested by cost rather
-than granted outright. Deliberately left unresolved at the close -- no teaching begins in this entry,
-distinguished from "The Fifth Voice" (`MCD-1479`, wave 32), where teaching a genuine outsider began
-immediately; here a full year's probation is imposed first, since this candidate's history carries a
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (a garbled timing phrase reworded,
+and the comparison to `MCD-1479` corrected -- that entry's own teaching did not begin "immediately";
+it followed three separate, deliberately deferred visits). The first entry to bring a former
+adversary toward the lineage rather than resolve him as a defeated opponent -- the Directorate officer
+from "The Hunter Who Studied the Hunter" (Chronicle LXXIII, `MCD-1265`, wave 25) returns years later
+seeking to learn the craft rather than counter it, extending that entry's near-miss into a genuinely
+new relationship register this alias's run has not yet used: a former hunter's earned trust, tested by
+cost rather than granted outright. Deliberately left unresolved at the close -- no teaching begins in
+this entry, distinguished from "The Fifth Voice" (`MCD-1479`, wave 32), where the runner's son --
+after three separate visits spent weighing the decision -- began teaching with no formal probation
+period at all; here a full year's probation is imposed first, since this candidate's history carries a
 weight the runner's son's never did. No new named characters -- the officer remains unnamed,
 consistent with his original introduction in `MCD-1265`. Second entry in wave 33.*

@@ -45,12 +45,15 @@ to be easiest to teach first."
 
 ---
 
-*Continuity notes (not narrative): the first entry across all seventeen waves built around a
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (citation fix -- the tap-signal
+channel's own origin citation wrongly included Chronicle XXVI, which has no tap signals; its only
+legitimate prior appearance is "The Voice He Couldn't Trust," Chronicle XLVI, `MCD-915`). The first
+entry across all seventeen waves built around a
 sustained, days-long environmental condition (heavy rain and wind, not a single wind shift, "When the
 Plan Broke Mid-Song," Chronicle XXVI) that makes vocal projection categorically impossible rather than
 merely harder to time. Establishes the percussive tap-signal channel — previously used only as a
-real-time coordination backup between two people (Chronicle XXVI; "The Voice He Couldn't Trust,"
-Chronicle XLVI) — as a full multi-person relay-chain method capable of carrying an entire operation as
+real-time coordination backup between two people ("The Voice He Couldn't Trust,"
+Chronicle XLVI, `MCD-915`) — as a full multi-person relay-chain method capable of carrying an entire operation as
 the primary channel for the first time, at the cost of speed and the Braid's own falsehood-layering
 sophistication. No new named characters; the six relay volunteers are unnamed. First entry in the
 Crow King's seventeenth wave.*

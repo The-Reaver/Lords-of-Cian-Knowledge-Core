@@ -93,8 +93,8 @@ era/register) and should be addressed explicitly in the pacing convention, not l
   career" (`MCD-385`); personally tests his own "unpredictability" doctrine and discovers its
   institutional cost (`MCD-836`); recognizes restraint, not just cunning, as central to the method,
   secondhand (`MCD-857`); voluntarily steps back from active pursuit and consults for his own
-  successor rather than re-engaging in the field (`MCD-1262`, consistent with his retirement at
-  `MCD-860`); writes a final, honest retrospective for the Directorate's own historical archive
+  successor rather than re-engaging in the field (`MCD-1262`, consistent with, and extended by, his
+  retirement at `MCD-860`); writes a final, honest retrospective for the Directorate's own historical archive
   concluding the method "stopped being one man's method before he finished studying it" (`MCD-1281`);
   receives one final scarecrow at full retirement and recognizes the craft has become "a discipline
   larger than any one practitioner" (`MCD-860`, "The Last Scarecrow," closing the ten-wave run

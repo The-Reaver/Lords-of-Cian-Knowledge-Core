@@ -29,12 +29,12 @@ that's enough of a reason by itself."
 "You already did the thing that matters," the third generation said. "You asked before you decided.
 That's the only rule I actually gave you."
 
-Kanja didn't answer the question either, not directly. "When I taught you," he said to the third
-generation, "nobody asked me if it was time for a second generation to exist. It just happened,
-because you were ready and I trusted it. When he taught his student" -- a nod toward the fourth
-generation -- "he asked me first, because the craft was old enough by then to want a process. Maybe
-by the time there's a fifth, it needs an answer none of us have built yet. I don't know what that
-answer looks like. I don't think it's mine to build alone anymore."
+Kanja didn't answer the question either, not directly. "When I taught the apprentice," he said,
+"nobody asked me if it was time for a second generation to exist. It just happened, because she was
+ready and I trusted it. When she taught him" -- a nod toward the fourth generation -- "she asked me
+first, because the craft was old enough by then to want a process. Maybe by the time there's a fifth,
+it needs an answer none of us have built yet. I don't know what that answer looks like. I don't think
+it's mine to build alone anymore."
 
 No one taught the boy that season. The question went unanswered, deliberately, sitting between them
 the way the very first scarecrow had once sat on an empty platform -- not resolved, just left where
@@ -42,7 +42,11 @@ everyone could see it.
 
 ---
 
-*Continuity notes (not narrative): closes wave 22 on a deliberately unresolved hook, extending the
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (Kanja's dialogue originally
+addressed the third generation as "When I taught you," and said of the fourth generation's teaching
+"he asked me first" -- both wrong, since Kanja personally taught the apprentice, not the third
+generation, and it was the third generation, "she," who asked Kanja first before teaching the fourth
+generation, per `MCD-1046`; corrected above). Closes wave 22 on a deliberately unresolved hook, extending the
 consent-and-judgment process for generational transmission (Chronicle LX, `MCD-1046`, "The Fourth
 Voice") one step further -- the fourth generation, now capable enough to be asked directly by an
 outsider, brings the decision upward rather than resolving it alone or refusing outright, and Kanja

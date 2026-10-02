@@ -53,21 +53,26 @@ corpus) rather than inventing a separate one for this alias.
   (`MCD-232`), and was surrendered to the L9 vault at age 30 under Aethelgard/Maro's peace deal —
   during the subsequent 284-year Long Mask, Kanja retains only the Talisman of Mao, the
   Aegis-Talisman, and the Rexmar Machete (`MCD-246`).
-- **Era anchoring — flagged as a genuine open question, not resolved here:** only the first two
-  Chronicles (`MCD-377`, `MCD-378`) explicitly tag "Rebellion era," age 21. The remaining 100
-  entries never restate an age or era, consistent with most Alias Chronicles floating loosely in
-  "the new world" per the sub-series' own established convention. Twelve entries explicitly deploy
-  the Trinity (Mafesto/Onyx/Obsidian Malice) in combat, which — taken at face value against
-  `MCD-246` — would place the whole corpus before age 30 (i.e., within the Rebellion, ages 21–30).
-  But `MCD-1858` (Batch 312, the most recently locked rule touching this alias) has the Sovereign
-  Ghost **eventually** defeating Rannic Sorvell (`CC-150`) using Undertow (`ARS-388`) — a
-  Captain's-Five item not gifted to Kanja until the Moonvault, which is Book 2-era material
-  (`MCD-315`–`318`), i.e., after the entire 284-year Long Mask and therefore centuries past age 30.
-  Rannic Sorvell's own established era is the Long Mask's Pirate Dawn period (ages 48–52,
-  `MCD-250`). Nothing in `CC-150`/`MCD-1858` says *when* the "eventual" defeat happens — it is
-  plausible he simply survives long enough (this world's baseline lifespans run into the thousands
-  of years) to be defeated in a Book-2-adjacent era rather than during Pirate Dawn itself — but this
-  is genuinely unresolved, not something this walkthrough should paper over. See Reserved threads.
+- **Era anchoring — resolved, Batch 321, 2026-10-02:** this corpus is Rebellion-era throughout (age
+  21, acquired at Ghost Harbor, `MCD-230`), running up to the Trinity's own age-30 surrender
+  (`MCD-246`). Roughly fifteen entries explicitly tag "Rebellion era" (`MCD-377`, `MCD-378`,
+  `MCD-379`, `MCD-410`, `MCD-443`–`445`, `MCD-488`–`490`, `MCD-540`–`542`, among others), and
+  roughly 25 entries explicitly deploy the Trinity (Mafesto/Onyx/Obsidian Malice) in combat — full
+  Trinity use is *correct* across nearly the whole corpus, not an anachronism, since the Trinity
+  stays live the entire ages-21–30 window this alias occupies. Two real, opposite-direction
+  anachronisms were found and fixed instead: (1) four entries (`MCD-951`, `MCD-1462`, `MCD-1465`,
+  plus a line in `MCD-959`) had used Book-2-onward Moonvault gifts (the Foldtide, Undertow, the
+  Lodestone Lens, the Whalebone Tether — `ARS-378`/`382`/`383`/`388`) that don't exist until
+  centuries after this alias's own window; corrected to Kanja's own unaided Rex/Mar senses and
+  ordinary anchor-chain/hawser work. (2) Five entries (`MCD-1071`, `MCD-1211`, `MCD-1220`,
+  `MCD-1403`, `MCD-1460`) had mixed in Long-Mask-era post-Mafesto gear (the Sovereign Eyes, Breath
+  Collar, Forge-Coat, Ironhand Gauntlets — `ARS-344`–`356`) alongside the still-live Trinity, an
+  impossible pairing since that gear is only built after the Trinity is surrendered; corrected to
+  Mafesto's own built-in HUD/armor framing. `MCD-1858`'s own defeat of Rannic Sorvell (`CC-150`,
+  Long Mask's Pirate Dawn era, ages 48–52) was already corrected away from Undertow to the Rootline
+  (`ARS-436`, a Daba-forged gift) in Batch 314, before this profile doc was first drafted — a
+  Long-Mask-appropriate tool for a Long-Mask-era defeat, consistent with the rest of this fix. See
+  Already-locked plot beats and Abilities/gear below for the corrected detail.
 
 ### Relationships
 
@@ -118,9 +123,14 @@ corpus) rather than inventing a separate one for this alias.
     for *The Ledger* (`MCD-794`).
   - **Rannic Sorvell** (`CC-150`) — a genuinely new named naval antagonist (Tier 2 Military, ~900x,
     obsessive rather than cruel), commanding a specialized anti-Scourge blockade squadron during the
-    Long Mask's Pirate Dawn period; eventually defeated by this alias using Undertow, offered —
-    unlike every prior Trust-naval defeat in the alias's history — [something distinct per
-    `MCD-1858`, worth reading in full before drafting anything involving him].
+    Long Mask's Pirate Dawn period; eventually defeated by this alias when his flagship is caught and
+    immobilized in open water using the Rootline (`ARS-436`, a private Daba-forged gift combined
+    with Kanja's own Mar-bloodline tide-reading senses — corrected from an earlier anachronistic
+    Undertow reference in Batch 314), then offered — unlike every prior Trust-naval defeat in the
+    alias's history — a negotiated surrender he personally accepts on record, sparing his crew in
+    exchange for his squadron's stand-down and his own public account of the engagement (`MCD-1858`).
+    His career ends in documented disgrace rather than death. No Chronicle prose drafted yet — a
+    queued future wave beat.
   - A **Directorate-trained champion** sent for a personal one-on-one honor duel, distinct from
     every prior fleet-scale engagement (`MCD-1460`), whose own institution disbelieves and buries
     his honest report of losing and being shown mercy (`MCD-1468`).
@@ -139,25 +149,26 @@ corpus) rather than inventing a separate one for this alias.
   chains aboard *The Audit*; the alias's founding signature weapon, later countered by a purpose-
   built Directorate task force (`MCD-443`) and a mechanical war-construct (`MCD-793`), prompting
   Kanja to deliberately vary tactics rather than repeat it.
-- **The Lodestone Lens** (`ARS-382`, Kanja's Captain's Five, homage to Heimdall's sight) — extends
-  Kanja's Rex/Mar tactile-geological and current-reading senses to extreme range from a ship's deck.
-  First dramatized for this alias at `MCD-1462`, reading a seafloor hazard at extreme range — a
-  Moonvault/Book-2-era gift (see the era-anchoring flag above).
-- **The Whalebone Tether** (`ARS-383`, Captain's Five, homage to Gleipnir) — an unbreakable
-  whalebone-cored line, normally the Foldtide's anchor-tether, rarely used to restrain a Titan-class
-  target. First dramatized for this alias at `MCD-1465`, redirecting a migrating Titan-scale sea
-  creature away from a shipping lane.
-- **Undertow** (`ARS-388`, Captain's Five, homage to Ran) — a Living Drakma net-line generating a
-  localized downward current, capable of capsizing/grounding a vessel or briefly pulling down a
-  Titan-class target. First dramatized for this alias at `MCD-951` (a Titan-scale sea creature
-  threatening a grain convoy) and later used to immobilize Rannic Sorvell's flagship (`MCD-1858`).
-- **The Foldtide** (`ARS-378`, Captain's Five) — Kanja's foldable warship-with-escorts. Named in the
-  general Captain's Five roster but **not found dramatized anywhere in this alias's 102-entry
-  corpus** on a full-text search — an open gap, not a contradiction (see Reserved threads).
+- **The Captain's Five Moonvault gifts (Foldtide, Undertow, Lodestone Lens, Whalebone Tether —
+  `ARS-378`/`382`/`383`/`388`) are NOT this alias's kit** — they're Book-2-onward gifts that don't
+  exist during this alias's Rebellion-era window (ages 21–30). Four entries originally misused them
+  and were corrected in Batch 321, 2026-10-02: `MCD-1462` (seafloor-hazard detection) now runs on
+  Kanja's own unaided Rex/Mar tactile-geological and current-reading senses, no named gear; `MCD-1465`
+  (redirecting a migrating Titan-scale creature) and `MCD-951` (grounding a Titan-scale predator
+  threatening a grain convoy) now run on ordinary hawser-and-anchor-chain work plus the same unaided
+  senses; `MCD-959` had a passing narrative reference reworded to match. The one legitimate use of a
+  Daba-forged (not Moonvault) analog is the Rootline (`ARS-436`), Long-Mask-era and specific to
+  Rannic Sorvell's defeat (`MCD-1858`) — see Relationships/Antagonists above.
 - **Full Trinity combat showcases** (Mafesto's Kinetic Transfer System, Obsidian Malice's discharge,
-  Onyx of Oblivion's named powers — `ARS-010`/`020`/`030`) recur across roughly a dozen entries as
-  "detailed naval Trinity combat showcase[s]" (e.g., `MCD-1211`, storm conditions; `MCD-1071`,
-  fireship ambush; `MCD-1223`, mid-refit vulnerability; `MCD-1403`, pack-ice combat).
+  Onyx of Oblivion's named powers — `ARS-010`/`020`/`030`) recur across roughly 25 entries as
+  "detailed naval Trinity combat showcase[s]" and are *correct* throughout this Rebellion-era corpus
+  (e.g., `MCD-1211`, storm conditions; `MCD-1071`, fireship ambush; `MCD-1223`, mid-refit
+  vulnerability; `MCD-1403`, pack-ice combat). Five entries (`MCD-1071`, `MCD-1211`, `MCD-1220`,
+  `MCD-1403`, `MCD-1460`) had wrongly mixed in Long-Mask-era post-Mafesto gear (the Sovereign Eyes,
+  Breath Collar, Forge-Coat, Ironfall Boots, Ironhand Gauntlets — `ARS-344`–`356`) alongside the
+  still-live Trinity, an impossible pairing since that gear is only built after the Trinity's age-30
+  surrender; corrected in Batch 321 to Mafesto's own built-in HUD/armor/boots framing throughout
+  (`MCD-289` locks Blueprint Eye as surfaced through Mafesto's HUD in this era).
 - Dol Maren's own signature technical craft — deliberately flexible-hull construction that outlasts
   rigid-hulled pursuit in a hurricane (`MCD-411`) — functions as a recurring non-Trinity, purely
   competence-based "gear" element specific to this alias's naval register.
@@ -172,8 +183,9 @@ corpus) rather than inventing a separate one for this alias.
   Receipt*), both explicitly grouped as "naval campaigns" alongside the Storm That Walks' own Gale
   Straits battle (age 29) — the grouping rule spans two different aliases' material.
 - `MCD-788` — *The Ledger* named as the fleet's third flagship (wave 11 of the Chronicle corpus).
-- `MCD-1858` — Rannic Sorvell's eventual defeat via Undertow, the most recently locked plot beat
-  touching this alias (Batch 312, 2026-09-27).
+- `MCD-1858` — Rannic Sorvell's eventual defeat via the Rootline (`ARS-436`, corrected from an
+  earlier anachronistic Undertow reference in Batch 314), the most recently locked plot beat
+  touching this alias (Batch 312, 2026-09-27; corrected Batch 314, 2026-09-28).
 
 ### Reserved / unresolved threads
 
@@ -184,20 +196,19 @@ corpus) rather than inventing a separate one for this alias.
   "explicitly left open and carried," establishing the doctrine survives only through active
   maintenance, not consensus. Neither entry resolves; both are load-bearing for how a psychological
   profile should treat this alias's doctrine (a chosen, defended position, not an easy default).
-- **The Undertow/Rannic Sorvell era-placement question** (flagged in Biography/stats above): whether
-  `MCD-1858`'s "eventual" defeat happens during or near Pirate Dawn (ages 48–52) or much later,
-  post-Moonvault (Book 2-adjacent, centuries on) is genuinely unresolved in the ledger. This matters
-  directly for game-planning this alias's pacing/strand structure, since it determines whether the
-  corpus's implicit timeline is tightly Rebellion-bound (ages 21–30) or stretches across a much
-  longer span the way the Scourge alias explicitly does. **Recommend surfacing this to Abad during
-  the Psychological Profile/Game Plan discussion rather than assuming an answer here.**
-- **The Foldtide never dramatized for this alias** — a real gap in an otherwise thoroughly-mined
-  Captain's Five kit (Lodestone Lens, Whalebone Tether, and Undertow have each gotten a dedicated
-  "first dramatized use" entry; the Foldtide has not). Open for a future wave if Abad wants it.
-- The unnamed young crewman from `MCD-913` and the unnamed rigger from `MCD-1072` (traced by Garren
-  Hask for leaking fleet positions under duress, resolved by Kanja buying the man's family's freedom
-  rather than punishing him) both stay unnamed in the ledger's own text — leave them that way unless
-  a future Chronicle deliberately names and pays off either thread.
+- **The Undertow/Rannic Sorvell era-placement question — resolved, Batch 321, 2026-10-02:**
+  `MCD-1858`'s defeat of Rannic Sorvell runs on the Rootline (`ARS-436`), a Long-Mask-era,
+  Daba-forged tool, not the Book-2-onward Undertow — consistent with his own established Long Mask
+  Pirate Dawn era (ages 48–52, `MCD-250`) and a tightly Rebellion-bound corpus otherwise (ages
+  21–30). No further ambiguity to surface.
+- **The Foldtide (and the rest of the Captain's Five Moonvault kit) is correctly absent from this
+  alias, not a gap** — it's Book-2-onward material that doesn't exist during this alias's Rebellion
+  window. Not open for a future wave on these terms; a legitimate future use would need its own
+  Book-2-or-later register, outside this alias's own era.
+- The unnamed young crewman from `MCD-913` and the unnamed crew member from `MCD-1203` (traced by
+  Garren Hask for leaking fleet positions under duress, resolved by Kanja buying the man's family's
+  freedom rather than punishing him) both stay unnamed in the ledger's own text — leave them that way
+  unless a future Chronicle deliberately names and pays off either thread.
 - **Dol Maren pronoun check, per this task's explicit ask:** a full statement-level grep across all
   102 "Sovereign Ghost" Chronicle entries found no `she`/`her` pronoun error for Dol Maren or Maret
   Vos in the ledger's own statement text — every mention is either name-only or explicitly annotated
@@ -227,7 +238,8 @@ Psychological Profile:
   mistaken for the fleet and fired on (`MCD-783`), a war widow's direct accountability confrontation
   over the alias's first reputation *failure* (`MCD-1216`, answered with honesty rather than
   deflection), impersonators exploiting the black-sail mythology for extortion or cover (`MCD-444`,
-  `MCD-1467`), and a permanent, unrecovered loss with "no clean resolution" (`MCD-1227`).
+  `MCD-914`, `MCD-1209`, `MCD-1214`), and a permanent, unrecovered loss with "no clean resolution"
+  (`MCD-1227`).
 - **Growth/adaptation shown concretely rather than asserted:** the fleet begins verifying distress
   calls after being burned by a staged one (`MCD-1214`), and a captured mechanical construct's
   engineering becomes a genuine hull advance (`MCD-794`) — the alias learns from its own defeats and
@@ -235,7 +247,7 @@ Psychological Profile:
 - **Economic-ethics and institutional-trust registers, distinct from combat entirely:** Dol Maren
   refuses an exclusive-licensing fortune for his weather/hull technique, distributing it freely
   instead (`MCD-1218`); a historian's accurate manuscript on the fleet is voluntarily shelved
-  unpublished (`MCD-799`); a maritime tribunal testimony entry (`MCD-1464`) is a new institutional
+  unpublished (`MCD-798`); a maritime tribunal testimony entry (`MCD-1464`) is a new institutional
   register distinct from the earlier foreign-nation reputation-acknowledgment entries (`MCD-490`,
   `MCD-1040`).
 - **First-contact and humanitarian registers pushing past the Trust conflict's own boundaries:** an

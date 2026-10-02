@@ -1,6 +1,9 @@
 # The Champion Sent to Kill a Ghost
 
-*Locked canon, Batch 280, 2026-09-11 (`MCD-1460`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 280, 2026-09-11 (`MCD-1460`); corrected Batch 321, 2026-10-02 (a reference to
+the Ironhand Gauntlets, Long-Mask-era gear that doesn't exist yet in this Rebellion-era window and
+that would contradict the Trinity-era Onyx powers the duel is built around, reworded to Mafesto and
+Obsidian Malice left aboard, Onyx carried alone). Sovereign Ghost of the Great Sea Alias Chronicle
 XCIV, wave 32, first entry in the wave. A detailed, battle-intense personal duel showcase against a
 Directorate-trained champion sent to kill Kanja specifically, distinct from every prior fleet-scale or
 institutional antagonist. Not a territory Chronicle. Narrated in neutral third-person prose.*
@@ -15,9 +18,9 @@ Directorate.
 "He's not lying about the training," Garren Hask said, reading the man's approach through a glass as
 the skiff put in. "Walks like he's spent twenty years being told he's the best they've got."
 
-"He's not wrong to think it," Kanja said, and went ashore alone, unarmored but for the Ironhand
-Gauntlets and the sword at his hip, leaving the Trinity's larger weight anchored offshore. This was a
-duel, and he intended to fight it as one.
+"He's not wrong to think it," Kanja said, and went ashore alone, leaving Mafesto and Obsidian Malice
+anchored offshore with the rest of the Trinity's larger weight, carrying only Onyx at his hip. This
+was a duel, and he intended to fight it as one.
 
 The First Blade was fast in a way most men weren't — trained specifically, it turned out over the
 first exchange, against exactly this: a swordsman who moved like Onyx of Oblivion's Cadence Ruin,
@@ -49,4 +52,7 @@ the Fleet-Marshal's institutional grudge arc (`MCD-952`-`957`), the flagship-vs-
 per the standing craft note, highlighting Onyx of Oblivion's Cadence Ruin, Soulbound Edge, and Whisper
 of Shadows in sequence against an opponent purpose-trained to deny the first of those. The First Blade
 is deliberately left unnamed. Sets up the closing entry of wave 34 (`MCD-1468`), which follows his
-report back to his superiors. No new named characters. First entry in wave 32.*
+report back to his superiors. No new named characters. First entry in wave 32. Corrected Batch 321,
+2026-10-02 to remove the Ironhand Gauntlets (Long-Mask-era gear that cannot appear in this
+Rebellion-era, Onyx-centered entry), replaced with Mafesto and Obsidian Malice left aboard and Onyx
+carried alone.*

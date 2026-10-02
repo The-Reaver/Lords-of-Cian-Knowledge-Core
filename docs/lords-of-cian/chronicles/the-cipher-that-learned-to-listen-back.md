@@ -1,7 +1,7 @@
 # The Cipher That Learned to Listen Back
 
 *Locked canon, Batch 157, 2026-09-11 (`MCD-496`). The Crow King Alias Chronicle XII, closing the
-fourth wave. Rebellion era, age 23. Not a territory Chronicle. New standalone material. Narrated in
+fourth wave. Rebellion era, ages 23-28. Not a territory Chronicle. New standalone material. Narrated in
 neutral third-person prose. No new named characters beyond the already-locked apprentice singer from
 "The Apprentice Who Learned to Listen" (`MCD-451`).*
 

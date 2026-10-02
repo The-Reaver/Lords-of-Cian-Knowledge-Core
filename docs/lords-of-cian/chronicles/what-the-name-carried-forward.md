@@ -1,8 +1,11 @@
 # What the Name Carried Forward
 
 *Locked canon, Batch 161, 2026-09-11 (`MCD-508`). Captain Alias Chronicle XV, closing the fourth
-wave — and closing the fourth wave for all eleven aliases. Rebellion era. Not a territory Chronicle.
-New standalone material. Narrated in neutral third-person prose. No new named characters.*
+wave — and closing the fourth wave for all eleven aliases. Not a territory Chronicle.
+New standalone material. Narrated in neutral third-person prose. No new named characters. Corrected
+Batch 321, 2026-10-02: struck a mistaken "Rebellion era" header tag -- this scene's own "generations
+into the crew's own extended family" framing places it well after the war, consistent with the rest
+of the entry.*
 
 ---
 

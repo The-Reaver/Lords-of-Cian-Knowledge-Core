@@ -10,10 +10,10 @@ The word reached them the ordinary way, three days late, carried by a trader who
 mean anything to the two people he told it to: Garren Hask had died at his own ledger table, quietly,
 his heart finally finishing what it had been threatening to do for years.
 
-The fourth generation had never known Hask well -- a handful of seasons keeping a dozen supply lines
-honest during one long siege, years ago, was the whole of it -- but something in him went still
-anyway, the same stillness he'd felt the day the trap door had shown him the trader's story about a
-river town, except this time nothing underneath it turned out to be good news.
+The fourth generation had never known Hask well -- three weeks keeping a dozen supply lines
+honest during one siege, years ago, was the whole of it -- but something in him went still
+anyway, the same stillness he'd felt the day the trader's story about a river town had first reached
+him, except this time nothing underneath it turned out to be good news.
 
 He sat with the number for a long time before he understood why it wouldn't resolve the way every
 other number in his life resolved. He could account for grain, wages, debts, requisitions, entire
@@ -40,7 +40,11 @@ just sat with a number before."
 
 ---
 
-*Continuity notes (not narrative): the fourth generation's reaction to Garren Hask's already-locked
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (a garbled line clarified -- "the
+day the trap door had shown him the trader's story" fixed to "the day the trader's story... had
+reached him" -- and the siege's duration corrected from "a handful of seasons" to "three weeks" to
+match `MCD-1278`'s own three-week duration). The fourth generation's reaction to Garren Hask's
+already-locked
 death ("The Morning the Ledger Went Quiet," Captain Alias Chronicle XCII, `MCD-1422`, wave 31),
 cross-alias continuity extending his own established prior connection to Hask's supply accounting
 ("The Siege That Needed No Braid," Chronicle LXXXVI, `MCD-1278`, wave 29). A deliberately new

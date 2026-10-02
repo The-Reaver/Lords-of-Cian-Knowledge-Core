@@ -1,10 +1,13 @@
 # The Listener on the Other Side
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1286`). Iron Bastard Alias Chronicle LXVII, wave 23, first entry. Introduces the doctrine's first genuine peer opponent — a Trust-trained diagnostician using the real method against him. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1286`); corrected Batch 321, 2026-10-02 (the inline
+citation "the tower at MCD-497" reworded to remove the leaked rule-ID). Iron Bastard Alias Chronicle
+LXVII, wave 23, first entry. Introduces the doctrine's first genuine peer opponent — a Trust-trained
+diagnostician using the real method against him. Not a territory Chronicle.*
 
 ---
 
-The garrison bridge should have read clean. Kanja's first pass found the true load-bearing tension exactly where three prior engagements against similar spans had taught him to expect it, and doubled verification confirmed the same number twice, the way it always had since the tower at MCD-497. He was a breath from discharge when something in the timing snagged — not the bridge's tension, but the *rhythm* of it, a pattern that shifted a fraction of a second after his first pass, as though the structure itself had noticed being read and adjusted.
+The garrison bridge should have read clean. Kanja's first pass found the true load-bearing tension exactly where three prior engagements against similar spans had taught him to expect it, and doubled verification confirmed the same number twice, the way it always had since the support tower years before. He was a breath from discharge when something in the timing snagged — not the bridge's tension, but the *rhythm* of it, a pattern that shifted a fraction of a second after his first pass, as though the structure itself had noticed being read and adjusted.
 
 Structures didn't do that. People did.
 

@@ -14,7 +14,7 @@ any Chronicle is written or rewritten — not a summary produced after the fact.
 
 Every locked rule touching Ezio Valcari, pulled from `canon-ledger.json` and organized thematically.
 Ezio is a genuine backfill case in the same sense Daba was: he has never had his own Chronicle
-series, but he is an extensively demonstrated recurring supporting character across 31 Kanja
+series, but he is an extensively demonstrated recurring supporting character across 84 Kanja
 Industrial Myth Alias Chronicles (plus one Lord of Embers crossover) and 4 of Lauris Letitia's own
 Character Chronicles. The profile below must synthesize that demonstrated characterization, not
 invent a competing one.
@@ -151,7 +151,7 @@ invent a competing one.
 
 ### Existing Chronicle corpus
 Unlike Ozmund or Kanja-version (both launched from near-zero), Ezio already has substantial
-demonstrated characterization on the page — 31 Industrial Myth Alias Chronicles plus 4 Lauris
+demonstrated characterization on the page — 84 Industrial Myth Alias Chronicles plus 4 Lauris
 Character Chronicles, spanning from his teens through adulthood:
 
 - **Origin appearance** (`MCD-373`, Industrial Myth III, "The Boy Who Kept the Numbers Honest"):

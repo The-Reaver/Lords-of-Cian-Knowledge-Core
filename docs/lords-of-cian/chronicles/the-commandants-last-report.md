@@ -8,9 +8,12 @@ territory Chronicle.*
 
 Voris hadn't filed a field report in years, not since he'd handed the pursuit to his second and meant
 it. But when the Directorate's own historical office asked whether he'd contribute a closing chapter
-to its internal record on the phenomenon it had spent decades classifying and never once fully caught,
-he agreed, on the condition that it be filed as a retrospective, not a live intelligence document --
-nothing anyone still chasing the case could use, only what he'd actually come to understand.
+to its internal record on the phenomenon -- the recurring Hymn-Engine signature the Directorate's own
+files still carried under "the Crow King," an institutional shorthand that had long since stopped
+describing any one still-active operative -- which it had spent decades tracking and never once fully
+contained, he agreed, on the condition that it be filed as a retrospective, not a live intelligence
+document -- nothing anyone still tracking the lineage's ongoing work could use, only what he'd
+actually come to understand.
 
 He wrote it the way he'd have written any report, plainly, without the flourish a lesser man might
 have reached for after so many years spent thinking about a single adversary. He described the first
@@ -34,10 +37,15 @@ been available to him.
 
 ---
 
-*Continuity notes (not narrative): closes Commandant Voris's arc definitively as a historical figure,
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (clarified that the Directorate's
+"decades tracking" the phenomenon is retrospective institutional analysis of the craft/legend
+carried under an old case name, not an active, ongoing pursuit of Kanja personally under the "Crow
+King" classification this many years into the Long Mask, since he operates under the Scourge identity
+by this point, `ARS-310`). Closes Commandant Voris's arc definitively as a historical figure,
 consistent with "The Last Scarecrow" (Chronicle XLV, `MCD-860`)'s established retirement from active
 pursuit -- this is a retrospective institutional document, not a field re-engagement, and does not
 contradict his prior closure. Mirrors "The Scholar Who Wanted the Whole Truth" (`MCD-1274`) as the
-Directorate-side counterpart to the crew-side historical record: both sides of the conflict now hold
-a formal, honest accounting of the phenomenon. No new named characters beyond the already-locked
-Commandant Voris. No new proper nouns.*
+Directorate-side counterpart to the crew-side historical record: both sides of the Rebellion-era
+conflict, years after the fighting itself ended, now hold a formal, honest accounting of the
+phenomenon. No new named characters beyond the already-locked Commandant Voris. No new proper
+nouns.*

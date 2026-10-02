@@ -1,6 +1,6 @@
 # What the Name Would Carry Without Him
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1390`). Captain Alias Chronicle XC, wave 30, closing the wave and this run. A final, reflective closer looking toward the distant future, deliberately left open rather than resolved.*
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1390`). Captain Alias Chronicle XC, wave 30, closing the wave and this run. A final, reflective closer looking toward the distant future, deliberately left open rather than resolved. Corrected Batch 321, 2026-10-02: reworded a Chronicle-count reference and a narrator-aside into in-world phrasing.*
 
 ---
 
@@ -10,7 +10,7 @@ He thought, as he sometimes let himself think on nights like this one, about a f
 
 "You built something that doesn't need you to keep existing," Efa Gol had told him once, years before, counting coin at a table much like the one behind him now. He understood it fully only now, watching the wall hold its names in the dark, the way understanding some things only ever arrived slowly, one funeral and one wedding and one ordinary evening at a time.
 
-This account leaves him here — not at an ending, because nothing about this alias has ever pointed toward one, but at a pause worth marking: ninety Chronicles into a name given freely rather than imposed, the founding table gathered once more, the wall still standing, the ledger still counting, the crew still choosing this, one ordinary day after another, exactly the way they always had.
+He stays there a while longer in the dark — not at an ending, because nothing about this alias has ever pointed toward one, but at a pause worth marking: deep into a name given freely rather than imposed, the founding table gathered once more, the wall still standing, the ledger still counting, the crew still choosing this, one ordinary day after another, exactly the way they always had.
 
 ---
 

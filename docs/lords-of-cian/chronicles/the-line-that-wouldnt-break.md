@@ -14,10 +14,10 @@ was worth the risk of exposure. Kanja was the only one on the line carrying anyt
 work tool.
 
 Onyx of Oblivion cleared its sheath in the same motion that put him between the enforcers and the
-nearest cluster of unarmed workers, and what followed wasn't the clean, decisive powers showcase the
-line had heard about from the Warehouse Twelve stories — it was close, chaotic, fought in a tight
-space crowded with people who couldn't get clear fast enough, every strike calculated as much around
-what stood behind an enforcer as the enforcer himself. Whisper of Shadows carried him between three
+nearest cluster of unarmed workers, and what followed wasn't the clean, decisive fight the stories
+about him made it sound like — it was close, chaotic, fought in a tight space crowded with people who
+couldn't get clear fast enough, every strike calculated as much around what stood behind an enforcer
+as the enforcer himself. Whisper of Shadows carried him between three
 separate knots of workers in the span of seconds, not to strike faster but to physically be the
 obstacle standing where an enforcer's blade would otherwise have reached someone with no way to
 defend themselves.

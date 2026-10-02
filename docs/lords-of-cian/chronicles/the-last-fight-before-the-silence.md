@@ -44,6 +44,7 @@ revisit the pre-Long-Mask Scourge — a genuinely new register for this alias, s
 combat showcase in the sixteen prior waves is set during the Long Mask with Onyx of Oblivion
 correctly absent under its L9 seal. Here, six years before that seal begins (MCD-246, ages 30-314),
 Onyx fights unsealed and unrestrained, and the gear system doesn't exist yet (the post-Mafesto V1
-armor debuts age ~33-35, per MCD-291/ARS-344 — consistent with Kanja wearing only an ordinary coat
+armor debuts age 33, per `ARS-347` — consistent with Kanja wearing only an ordinary coat
 here, not the Forge-Coat relic). Plants a deliberate, unscripted forward hint of the seal to come
-without naming it. First entry in the Scourge's seventeenth wave.*
+without naming it. First entry in the Scourge's seventeenth wave. Corrected Batch 321, 2026-10-02:
+the V1 armor-debut citation corrected from "MCD-291/ARS-344" (unrelated rules) to `ARS-347` alone.*

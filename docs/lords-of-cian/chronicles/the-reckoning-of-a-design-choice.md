@@ -1,6 +1,6 @@
 # The Reckoning of a Design Choice
 
-*Locked canon, Batch 257, 2026-09-11 (`MCD-1187`). Blue-Collar Titan Alias Chronicle LXXVI, wave 26, opening the wave. A deferred-consequence entry -- a considered, reasonable early-siege design compromise surfaces a hidden cost years later, distinct from the alias's earlier rushed-mistake register.*
+*Locked canon, Batch 257, 2026-09-11 (`MCD-1187`). Blue-Collar Titan Alias Chronicle LXXVI, wave 26, opening the wave. A deferred-consequence entry -- a considered, reasonable early-siege design compromise surfaces a hidden cost years later, distinct from the alias's earlier rushed-mistake register. Corrected Batch 321, 2026-10-02: Kanja's dialogue reworded so it no longer quotes "The Wall He Got Wrong" (MCD-665's own Chronicle title) as an in-world phrase.*
 
 ---
 
@@ -10,7 +10,7 @@ Six years on, a section of that same gallery had begun to sag in a pattern that 
 
 "You didn't do anything wrong," the current gallery foreman said, showing him the survey. "Everyone who reviewed it at the time signed off."
 
-"That's not the same question as whether it was right." Kanja studied the deformation pattern a long time before he spoke again. "The Wall He Got Wrong was a mistake I made in a moment and owned in the same hour. This is different. This is a choice I made carefully, for good reasons, that turned out to cost something I couldn't have seen costing at the time."
+"That's not the same question as whether it was right." Kanja studied the deformation pattern a long time before he spoke again. "The wall I got wrong, years back, was a mistake I made in a moment and owned in the same hour. This is different. This is a choice I made carefully, for good reasons, that turned out to cost something I couldn't have seen costing at the time."
 
 That distinction mattered to him more than the foreman seemed to think it should. A rushed error was a failure of diligence he could correct by being more careful next time. A reasoned compromise that aged badly was a harder thing to sit with -- it meant even his most careful judgment, exercised honestly under real constraints, wasn't immune to being wrong in ways that only time could reveal.
 

@@ -1,6 +1,6 @@
 # The Siege That Never Came
 
-*Locked canon, Batch 223, 2026-09-11 (`MCD-1011`). The Blue-Collar Titan Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 223, 2026-09-11 (`MCD-1011`). The Blue-Collar Titan Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "charged and ready" reworded to reflect that Obsidian Malice draws its reserve from Mafesto's gathered kinetic energy rather than functioning as a standalone pre-chargeable battery.*
 
 ---
 
@@ -11,8 +11,8 @@ happening at all.
 
 He spent the full day preparing for it anyway, the same way he'd have prepared for a certainty.
 
-Obsidian Malice was charged and ready by midafternoon. Every collapsible chokepoint in the northern
-approach was rigged and re-checked twice. The crew rotated into defensive positions two hours before
+Obsidian Malice was ready to discharge by midafternoon, its reserve built from the morning's work.
+Every collapsible chokepoint in the northern approach was rigged and re-checked twice. The crew rotated into defensive positions two hours before
 dusk, tense in the particular way that came from knowing exactly what was about to happen rather than
 merely fearing it might.
 

@@ -1,10 +1,10 @@
 # The Weeks He Wasn't There
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1385`). Captain Alias Chronicle LXXXV, wave 29. The sub-series' deepest self-sufficiency entry yet: the crew runs everything, unsupervised, across a full six-week absence.*
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1385`). Captain Alias Chronicle LXXXV, wave 29. The sub-series' deepest self-sufficiency entry yet: the crew runs everything, unsupervised, across a full six-week absence. Corrected Batch 321, 2026-10-02: reworded a quoted Chronicle title in Kanja's own internal reasoning into plain in-world phrasing.*
 
 ---
 
-Six weeks was longer than Kanja had ever been away from Pier Nine at once, and he'd chosen the timing deliberately — not because the crew needed watching less than ever, but because he'd started to suspect, after "The Command He Left Behind" and everything the rotating-chair structure had since proven, that the only real way to know whether an institution could stand without him was to genuinely stop checking on it for longer than felt comfortable.
+Six weeks was longer than Kanja had ever been away from Pier Nine at once, and he'd chosen the timing deliberately — not because the crew needed watching less than ever, but because he'd started to suspect, after the handful of days he'd once stepped back for and everything the rotating-chair structure had since proven, that the only real way to know whether an institution could stand without him was to genuinely stop checking on it for longer than felt comfortable.
 
 He told no one exactly when he'd return. That was deliberate too.
 

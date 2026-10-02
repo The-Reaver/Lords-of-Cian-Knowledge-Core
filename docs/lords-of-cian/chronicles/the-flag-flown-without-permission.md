@@ -14,8 +14,8 @@ The camp's leader met him at the gate with the wary confidence of a man who'd bu
 borrowed reputation and wasn't entirely sure how it would survive contact with the original.
 
 "You're going to tell me we've got no right to it," the man said, before any accusation had actually
-been made. "I know. We made the banner two years ago, after word reached us that you'd cleared the
-Salt Keep. Figured if slavers believed you might be watching this strait too, they'd think twice
+been made. "I know. We made the banner a few years ago, after word reached us that you'd broken a
+slaver galleon's whole hold open off the Gale Straits. Figured if slavers believed you might be watching this strait too, they'd think twice
 before running it. It worked. Three transports rerouted around us rather than risk finding out if the
 rumor was true."
 
@@ -49,4 +49,6 @@ it standing. Just keep it honest."
 *Continuity notes (not narrative): reputation propagating and operating entirely without the
 Scourge's direct involvement — a resistance group deters slavers using a fabricated banner in a
 region he's never actually visited, dramatizing the reach of legend at range. No new named
-characters. First entry in the Scourge's twelfth wave.*
+characters. First entry in the Scourge's twelfth wave. Corrected Batch 321, 2026-10-02: the "cleared
+the Salt Keep" callback (which happens at age 140, 85 years after this entry's age 55) was swapped
+for the earlier, era-appropriate MCD-381 galleon liberation.*

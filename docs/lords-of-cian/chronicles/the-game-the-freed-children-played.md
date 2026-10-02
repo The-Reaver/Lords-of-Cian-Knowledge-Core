@@ -4,7 +4,7 @@
 
 ---
 
-The settlement had been founded by Salt Keep survivors two decades past and had grown into
+The settlement had been founded by Salt Keep survivors roughly twenty-five years past and had grown into
 something close to a proper town, and the first thing he noticed passing through its market square,
 unannounced and unrecognized, was a cluster of children playing a game that used his own name as its
 rules.
@@ -47,4 +47,6 @@ kept getting larger, one freed hand at a time, for as long as anyone kept playin
 retelling — here the legend has drifted into a children's game with its own internal logic, observed
 anonymously rather than engaged directly, extending the "unrecognized man among his own legend"
 register into a new, generational form. No new named characters. Third entry in the Scourge's eighth
-wave.*
+wave. Corrected Batch 321, 2026-10-02: the settlement's founding corrected from "two decades past"
+to "roughly twenty-five years past," matching this entry's age (~165) against the Salt Keep's own
+locked age-140 fall (`MCD-446`).*

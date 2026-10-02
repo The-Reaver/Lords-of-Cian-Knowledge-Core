@@ -2,14 +2,15 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1275`). Crow King Alias Chronicle LXXXIII, wave 28. An
 extended operational lull during relative peace raises the question of whether restraint itself was
-always the craft's purest form. Not a territory Chronicle.*
+always the craft's purest form. Not a territory Chronicle. Corrected Batch 321, 2026-10-02: removed
+language treating the Rebellion as a still-live front this far into the alias's run.*
 
 ---
 
 Four months passed without a single operation needing the craft at all -- a stretch of relative quiet
-along the front none of them had planned for and none of them entirely trusted, but real all the same.
-No garrison to evade, no convoy to extract, no false signal worth throwing because there was nothing,
-for once, that needed one.
+in the long war against the Trust that none of them had planned for and none of them entirely
+trusted, but real all the same. No garrison to evade, no convoy to extract, no false signal worth
+throwing because there was nothing, for once, that needed one.
 
 The fourth generation found the quiet harder to sit with than he expected. He kept the numeric
 discipline sharp out of habit, practicing falsified ledgers against imaginary depots that didn't

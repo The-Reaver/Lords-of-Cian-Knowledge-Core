@@ -16,9 +16,10 @@ ever quite found the nerve to demand it back from a man who had built the rest o
 having survived being outmaneuvered by it. He kept it in his own quarters, coat and feather crown
 both, propped in the corner where a lesser man might have hung a captured banner instead.
 
-"You'd think I'd want it burned," he told the young officer sent to interview him for the Coalfell
-inquiry, years after that second scarecrow had turned up on a different garrison's sensor housing
-entirely. "Everyone assumes hatred. It's not that. I built a career studying one night I lost as
+"You'd think I'd want it burned," he told the young officer sent to interview him for a follow-up
+inquiry into Coalfell, years after that second scarecrow had turned up on a different garrison's
+sensor housing entirely -- long after the original inquiry board's own first hearings had already
+closed. "Everyone assumes hatred. It's not that. I built a career studying one night I lost as
 completely and as elegantly as it's possible to lose without a single shot being fired. That
 scarecrow is the only honest teacher I've ever had. Everything since — the triple-redundant grid,
 the patrol doctrine, everything the Directorate's built to try to stop the next one — it all traces
@@ -46,8 +47,12 @@ lost.
 
 ---
 
-*Continuity notes (not narrative): closes the wave from the perspective of the alias's own defining
-opponent, already locked in `MCD-236`. Dramatizes the institutional aftermath and lasting influence
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (disambiguated "the Coalfell
+inquiry" into "a follow-up inquiry into Coalfell," years after the original board's own first
+hearings, since `MCD-384`'s own sensor technician testified before that original board only "weeks
+later" -- this is a distinct, later proceeding, not the same hearing). Closes the wave from the
+perspective of the alias's own defining opponent, already locked in `MCD-236`. Dramatizes the
+institutional aftermath and lasting influence
 of the Night of the Crow King on Trust doctrine, tying together both prior Chronicles' events (the
 second scarecrow at Coalfell, `MCD-384`) into Voris's own retrospective understanding. No new named
 characters beyond the already-locked Commandant Voris. Closes the Crow King's three-Chronicle wave

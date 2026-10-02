@@ -25,6 +25,14 @@ drop the idea and try something else. He went the other direction. I think that'
 buried in the marsh grass and the crown of feathers, if anyone bothered to look past how impressive
 the finished version turned out to be."
 
+"What happened after those months?"
+
+"He set it down. Didn't touch it again for the better part of a year, by his own account — not
+because he'd given up on it, just because nothing ever forced it back out of him. The Wetlands did.
+Whatever he built that night at the encirclement wasn't invented from nothing in an hour, whatever the
+official record says. It was a year of quiet, unfinished thinking, sitting untouched until a man with
+no other options needed it all at once."
+
 "Do you think he remembers it the same way you do?"
 
 "I know he does. He's the one who told me, years after the fact, that he thinks about that fire more
@@ -42,6 +50,10 @@ being the one who does."
 
 *Continuity notes (not narrative): closes the eleventh wave from the already-locked Corren Halst's
 perspective, reinforcing "Before the Marsh" (Chronicle XXXI) as a deliberately preserved piece of the
-crew's own oral history rather than a one-off flashback. No new named characters; uses only
-already-locked figures (Corren Halst) plus an unnamed recruit. Closes the Crow King's eleventh
-three-Chronicle wave (with "Before the Marsh" and "What the Hounds Heard").*
+crew's own oral history rather than a one-off flashback. Extended Batch 321, 2026-10-02: a line added
+reconciling the months of post-campfire refinement described here with `MCD-236`'s own "invented...
+on the spot" framing of the Wetlands escape -- the idea sat shelved and untouched for roughly a year
+after the campfire failure, not under continuous development, until the encirclement forced it back
+out under real pressure, so both accounts are true of two different stages of the same idea. No new
+named characters; uses only already-locked figures (Corren Halst) plus an unnamed recruit. Closes the
+Crow King's eleventh three-Chronicle wave (with "Before the Marsh" and "What the Hounds Heard").*

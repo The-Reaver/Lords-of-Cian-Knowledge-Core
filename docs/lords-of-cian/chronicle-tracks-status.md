@@ -20,7 +20,7 @@ tracked here as it proceeds — see CLAUDE.md's gate section for the protocol it
 | Ozmund Verehimu | `character-profiles/ozmund-verehimu.md` | wave 3 locked | 120 (Chronicles I-CXX, `MCD-1730`-`1849`) |
 | Lauris Letitia | `character-profiles/lauris-letitia.md` | not started (backfill) — **note: profile doc header reads "Gate cleared: NO" despite 109 locked Chronicles; flagged 2026-09-30, needs Abad's look before more Lauris material is built** | 109 |
 | Daba | `character-profiles/daba.md` | wave 3 locked | 56 |
-| Ezio Valcari | `character-profiles/ezio-valcari.md` | wave 1 locked | 1 (own series, `MCD-1876`) — plus extensively established as supporting cast across 31 Industrial Myth Alias Chronicles + 4 Lauris Character Chronicles |
+| Ezio Valcari | `character-profiles/ezio-valcari.md` | wave 1 locked | 1 (own series, `MCD-1876`) — plus extensively established as supporting cast across 84 Industrial Myth Alias Chronicles + 4 Lauris Character Chronicles |
 
 ## Kanja-version track (new, 2026-09-28 — distinct from the Alias Chronicle track below)
 
@@ -47,12 +47,12 @@ in Kanja's own single underlying psychology rather than inventing a separate one
 |---|---|---|---|
 | Bane | `character-profiles/alias-bane.md` | not started (backfill) | 102 |
 | The Trench Monarch | `character-profiles/alias-trench-monarch.md` | not started (backfill) | 102 |
-| The Industrial Myth | `character-profiles/alias-industrial-myth.md` | not started (backfill) | 93 |
-| The Blue-Collar Titan | `character-profiles/alias-blue-collar-titan.md` | not started (backfill) | 93 |
-| The Sovereign Ghost of the Great Sea | `character-profiles/alias-sovereign-ghost.md` | not started (backfill) | 93 |
+| The Industrial Myth | `character-profiles/alias-industrial-myth.md` | not started (backfill) | 102 |
+| The Blue-Collar Titan | `character-profiles/alias-blue-collar-titan.md` | not started (backfill) | 102 |
+| The Sovereign Ghost of the Great Sea | `character-profiles/alias-sovereign-ghost.md` | not started (backfill) | 102 |
 | The Scourge | `character-profiles/alias-scourge.md` | not started (backfill) | 93 |
-| The Crow King | `character-profiles/alias-crow-king.md` | not started (backfill) | 93 |
-| The Iron Bastard | `character-profiles/alias-iron-bastard.md` | not started (backfill) | 93 |
+| The Crow King | `character-profiles/alias-crow-king.md` | walkthrough drafted | 102 |
+| The Iron Bastard | `character-profiles/alias-iron-bastard.md` | not started (backfill) | 102 |
 | The Lord of Embers | `character-profiles/alias-lord-of-embers.md` | not started (backfill) | 93 |
 | The Storm That Walks | `character-profiles/alias-storm-that-walks.md` | not started (backfill) | 93 |
 | Captain | `character-profiles/alias-captain.md` | not started (backfill) | 93 |

@@ -1,7 +1,7 @@
 # The Extraction That Never Fired a Shot
 
 *Locked canon, Batch 134, 2026-09-11 (`MCD-449`). The Crow King Alias Chronicle VII, first entry in
-the third wave. Rebellion era, age 23. Not a territory Chronicle. New standalone material. Narrated
+the third wave. Rebellion era, ages 23-28. Not a territory Chronicle. New standalone material. Narrated
 in neutral third-person prose. No new named characters.*
 
 ---

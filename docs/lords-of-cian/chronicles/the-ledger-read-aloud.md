@@ -25,7 +25,7 @@ read it."
 
 The magistrate assigned two clerks to the cross-check, expecting, by the visible set of his jaw, to
 find enough error to dismiss the whole submission by lunch. They did not finish by lunch. They did
-not finish by evening. Three clerks working two full days against the district's own sealed
+not finish by evening. Two clerks working two full days against the district's own sealed
 production logs found four entries requiring correction out of four hundred and twelve, each
 correction moving a figure by a matter of coin, not principle, and none of them in the district's
 favor.

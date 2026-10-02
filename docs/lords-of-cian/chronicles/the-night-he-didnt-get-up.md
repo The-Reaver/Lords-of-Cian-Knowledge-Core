@@ -10,7 +10,7 @@ it.
 
 Pell Ostra found him an hour after the district had started gathering, curled against a crate with
 his boots still on, breathing slow and even and entirely undisturbed by the growing sound of a hundred
-people waiting for a man who wasn't coming. Ostra didn't wake him. He'd counted the weeks without
+people waiting for a man who wasn't coming. Ostra didn't wake him. She'd counted the weeks without
 counting them — six districts running one into the next with barely a night between, a pace no one had
 asked Kanja to keep and no one had managed to talk him out of either.
 

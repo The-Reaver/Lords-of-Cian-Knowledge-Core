@@ -1,10 +1,10 @@
 # What She Built Without Him Watching
 
-*Locked canon, Batch 257, 2026-09-11 (`MCD-1177`). Blue-Collar Titan Alias Chronicle LXVI, wave 22, closing the wave. A letting-go mentorship entry -- Kanja deliberately withholds his own inspection from a former mentee's first solo project.*
+*Locked canon, Batch 257, 2026-09-11 (`MCD-1177`). Blue-Collar Titan Alias Chronicle LXVI, wave 22, closing the wave. A letting-go mentorship entry -- Kanja deliberately withholds his own inspection from a former mentee's first solo project. Corrected Batch 321, 2026-10-02: "three Chronicles back" reworded to "weeks back."*
 
 ---
 
-The stonemason he'd sponsored into her own license three Chronicles back sent word she was leading a full repair on her own -- no second name on the contract, no journeyman standing behind her, a genuine structural assessment of a collapsed granary wall that a hundred people were depending on being right. She hadn't asked him to inspect it. Garren Hask had heard about it secondhand and assumed Kanja would want to.
+The stonemason he'd sponsored into her own license weeks back sent word she was leading a full repair on her own -- no second name on the contract, no journeyman standing behind her, a genuine structural assessment of a collapsed granary wall that a hundred people were depending on being right. She hadn't asked him to inspect it. Garren Hask had heard about it secondhand and assumed Kanja would want to.
 
 "You should look it over before she starts cutting," Hask said. "One pass. She wouldn't have to know."
 

@@ -24,8 +24,7 @@ in a way his own past had never taught him to expect from himself.
 Garren Hask sat at a tally table that had moved three times in two years and always looked, somehow,
 exactly the same — ledgers stacked in the same order, backup copies filed in the same undisclosed
 places, a district's entire honest history kept in one man's careful hand. Callum Breck passed
-through mid-afternoon with his infant daughter balanced on one hip, four years older than the boy who
-had chalked three words on a captured officer's forehead without asking anyone's permission first, and
+through mid-afternoon with his infant daughter balanced on one hip, four years older than Kanja, and
 nodded once, unhurried, the way he nodded at most things now. Efa Gol and Pell Ostra worked side by
 side at the edge of a site neither of them commanded that day, one reading the ground and one
 addressing her materials, neither needing him there to keep doing exactly what they'd learned to do

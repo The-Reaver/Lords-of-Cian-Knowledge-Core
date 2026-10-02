@@ -1,6 +1,6 @@
 # The Promise for After He's Gone
 
-*Locked canon, Batch 212, 2026-09-11 (`MCD-920`). Captain Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 212, 2026-09-11 (`MCD-920`). Captain Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Hask's "thirty years building something" softened to "the better part of twenty years," which otherwise overshot the window established by the charter's own corrected founding timeline (`MCD-1376`).*
 
 ---
 
@@ -16,7 +16,7 @@ him with it one night on the aft deck, and for once didn't ask what it was.
 "It's not for you to read. It's for whoever counts the crew after I'm not the one counting them
 anymore." He closed it and set it on his knee. "I've been thinking about something I never let
 myself think about while I still had the energy to outrun it. You're going to outlive every name in
-this book. Not might. Will. And I've spent thirty years building something — the ledgers, the naming
+this book. Not might. Will. And I've spent the better part of twenty years building something — the ledgers, the naming
 customs, the dispute council, all of it — that only works because people like me are standing behind
 it making sure it does. One day there won't be a me. Or a Halst, or a Vos, or half the names in this
 notebook. And I want to know what happens to the name after that. Not to you. To the word itself."

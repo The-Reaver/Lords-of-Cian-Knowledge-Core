@@ -1,6 +1,6 @@
 # The Trade He Chose Instead
 
-*Locked canon, Batch 285, 2026-09-11 (`MCD-1509`). Storm That Walks Alias Chronicle XCVIII, wave 33. The third-generation student's own grown son tells her he will not carry the craft forward -- a purely domestic, no-combat register establishing for the first time on the page that the doctrine's continuity was never a matter of bloodline, only of choosing it.*
+*Locked canon, Batch 285, 2026-09-11 (`MCD-1509`). Storm That Walks Alias Chronicle XCVIII, wave 33. The third-generation student's own grown son tells her he will not carry the craft forward -- a purely domestic, no-combat register establishing for the first time on the page that the doctrine's continuity was never a matter of bloodline, only of choosing it. Corrected Batch 321, 2026-10-02: the fourth-generation apprentice's pronouns corrected to he/him, matching the clear majority usage across this track.*
 
 ---
 
@@ -8,7 +8,7 @@ He had grown up on the school's own grounds the way another boy might grow up on
 
 He told her himself, plainly and without apology, on an ordinary evening with nothing to forecast. He'd spent the last two years apprenticed to a hull-wright three docks down, not the school, learning the grain of wood and the honest geometry of a keel, and he meant to keep doing it. He hadn't hidden it from her. He simply hadn't said it out loud until the apprenticeship was far enough along that it wasn't a question anymore.
 
-She sat with it longer than she expected to need. Not disappointment exactly -- she was careful, telling it to the fourth-generation apprentice afterward, to name it precisely -- but something closer to a brief, foolish grief for a version of continuity she hadn't realized she'd been quietly assuming: blood carrying the craft the way Sephtis's own line never had, since Sephtis had chosen her the same way she'd chosen the girl who now held full authority over every reading on this coast.
+She sat with it longer than she expected to need. Not disappointment exactly -- she was careful, telling it to the fourth-generation apprentice afterward, to name it precisely -- but something closer to a brief, foolish grief for a version of continuity she hadn't realized she'd been quietly assuming: blood carrying the craft the way Sephtis's own line never had, since Sephtis had chosen her the same way she'd chosen the boy who now held full authority over every reading on this coast.
 
 "You already knew that wasn't how it worked," the apprentice told her, gently, once the student had said as much aloud. "You picked me. Nobody picked me because of who my mother was."
 

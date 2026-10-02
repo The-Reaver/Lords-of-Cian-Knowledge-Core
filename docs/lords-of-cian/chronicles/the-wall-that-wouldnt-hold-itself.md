@@ -35,8 +35,8 @@ were finished. Nobody along the terrace had lost their home. Two families had lo
 stored on the lower shelves, and there was nothing anyone could do about that now beyond helping them
 salvage what the water hadn't already taken.
 
-Kanja sat on the wet stone afterward, hands split and raw in a way three years of Onyx-work had never
-left them, and said little for a long while.
+Kanja sat on the wet stone afterward, hands split and raw in a way a year or more of Onyx-work had
+never left them, and said little for a long while.
 
 "Feels strange, not having anyone to be right about," Corren Halst said eventually, sitting down
 beside him. "No owner refusing to pay. No rumor to run down. Just — a wall, and whether it held."

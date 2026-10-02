@@ -1,7 +1,9 @@
 # The Vault That Held No Light
 
 *Locked canon, Batch 236, 2026-09-11 (`MCD-1045`). Crow King Alias Chronicle LIX, wave 20. A detailed
-full-Trinity combat showcase fought in total darkness. Not a territory Chronicle.*
+full-Trinity combat showcase fought in total darkness. Not a territory Chronicle. Clarified Batch
+321, 2026-10-02: a pre-age-30 Rebellion-era entry; the Trinity (Mafesto, Obsidian Malice, Onyx of
+Oblivion) is fully available throughout, consistent with `MCD-246`.*
 
 ---
 

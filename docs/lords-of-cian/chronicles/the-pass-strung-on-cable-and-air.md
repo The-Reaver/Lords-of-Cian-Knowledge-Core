@@ -1,6 +1,11 @@
 # The Pass Strung on Cable and Air
 
-*Locked canon, Batch 237, 2026-09-11 (`MCD-1047`). Iron Bastard Alias Chronicle LVIII, wave 20. A detailed high-altitude Trinity combat showcase against a mountain-pass suspension crossing, introducing thin air as a new environmental wrinkle on the resonance doctrine's reach. Not a territory Chronicle.*
+*Locked canon, Batch 237, 2026-09-11 (`MCD-1047`); corrected Batch 321, 2026-10-02 (the Trinity
+gear reworded to the Long-Mask-era kit, since wave 20 falls years past the Trinity's age-30
+surrender, `MCD-246`; the second student's pronoun corrected to she/her, the majority usage). Iron
+Bastard Alias Chronicle LVIII, wave 20. A detailed high-altitude combat showcase against a
+mountain-pass suspension crossing, introducing thin air as a new environmental wrinkle on the
+resonance doctrine's reach. Not a territory Chronicle.*
 
 ---
 
@@ -16,7 +21,7 @@ carried less of the sound than it should.
 "It's the altitude," he said, before anyone asked. "Thinner air, less to carry the resonance on. I'm
 not being lied to. I'm being told the truth quietly instead of loud."
 
-He closed the distance instead of trying to force the read from range, Mafesto's listening awareness
+He closed the distance instead of trying to force the read from range, the Sovereign Eyes
 narrowing rather than spreading wide, until his palm found the cable itself a body-length from the
 anchor bolt. The tension came through clean at contact — the first tower carried the crossing's true
 load-bearing weight; the second and third, he read next, carried decoy tension deliberately slackened
@@ -26,19 +31,19 @@ nothing came down but confusion. Cut the first and the whole crossing failed.
 He verified it twice before committing, the doubled read now reflex rather than discipline he had to
 remind himself of. Only then did he give the signal.
 
-Obsidian Malice's discharge went into the first anchor tower's true bearing point, a single precise
+The Ironhand Gauntlets' leverage went into the first anchor tower's true bearing point, a single precise
 strike that started the failure at the source rather than tearing the whole structure apart at once —
 the span sagged, then dropped, slow enough that the garrison crew working it had time to scramble off
-the towers rather than ride them down. Mafesto's Kinetic Transfer System caught and redirected the
+the towers rather than ride them down. The Forge-Coat and Ironfall Boots grounded and redirected the
 answering volley from the rock nests flanking the crossing, each absorbed impulse feeding back into the
-next strike rather than wasted. Onyx's Cadence Ruin swept the near tower's melee crew off the platform
-in three strokes, the blade reading each opponent's balance the way its bearer read the cable, and the
-garrison broke before the second span had finished settling.
+next strike rather than wasted. The Rexmar Machete swept the near tower's melee crew off the platform
+in three strokes, Kanja's own instinctive Rexmar-Mar sense reading each opponent's balance the way he
+read the cable, and the garrison broke before the second span had finished settling.
 
 The column crossed on the two remaining spans an hour later, load-bearing weight never having been
 where the enemy wanted it believed to be.
 
-"Thin air," the second student said afterward, testing the principle against the mountain wind himself,
+"Thin air," the second student said afterward, testing the principle against the mountain wind herself,
 "same doctrine. It just makes you stand closer to hear the truth of it."
 
 "It always has," Kanja said. "The mountain just isn't shy about admitting it."
@@ -52,6 +57,7 @@ Under the Ice"), desert wind (`MCD-725`, "What the Wind Carried Instead of Sound
 Its Own Signature"), each solved differently; here solved by closing to direct contact rather than
 withdrawing or waiting. Also a fresh combat setup — a mountain-pass cable-suspension crossing with
 decoy load-bearing towers — distinct from every prior bridge, tower, and Crawler-formation showcase in
-the run, and a detailed full-Trinity combat sequence per standing craft direction. The second student
-(established `MCD-719`, "The Second Student") appears in a supporting capacity; no new named
+the run, and a detailed, battle-intense Long-Mask-era combat sequence (Sovereign Eyes, Ironhand
+Gauntlets, Forge-Coat and Ironfall Boots, the Rexmar Machete) per standing craft direction. The second
+student (established `MCD-719`, "The Second Student") appears in a supporting capacity; no new named
 characters. First entry in the Iron Bastard's twentieth wave.*

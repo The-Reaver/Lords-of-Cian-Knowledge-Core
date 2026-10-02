@@ -3,7 +3,9 @@
 *Locked canon, Batch 154, 2026-09-11 (`MCD-486`). The Blue-Collar Titan Alias Chronicle XI.
 Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle. New standalone material
 — a detailed, time-pressured armor-and-weapon combat/rescue showcase per Abad's craft instruction.
-Narrated in neutral third-person prose. No new named characters.*
+Narrated in neutral third-person prose. No new named characters. Corrected Batch 321, 2026-10-02:
+"not yet fully spent from an earlier encounter" corrected to "not yet fully recharged" (inverted
+charge phrasing).*
 
 ---
 
@@ -16,8 +18,8 @@ Kanja had roughly eleven minutes.
 Mafesto's Kinetic Transfer System read the sealed chamber's exact location through solid rock before
 he'd covered half the distance, converting the desperate pace into stored charge rather than losing
 time to fatigue. The holdouts had reinforced the chamber's access door specifically to resist a rushed
-breach — Obsidian Malice's first discharge only cracked it, the war club's cycle not yet fully spent
-from an earlier encounter, costing precious seconds Kanja didn't have to lose. He forced the crack
+breach — Obsidian Malice's first discharge only cracked it, the war club's cycle not yet fully
+recharged, costing precious seconds Kanja didn't have to lose. He forced the crack
 wider by hand instead, Mafesto's converted charge lent directly to raw physical output, tearing metal
 that should have taken tools and time neither available.
 

@@ -6,7 +6,7 @@
 
 The plan was simple enough on its own terms: a false signal placed to convince a garrison quartermaster
 that a supply convoy had already been rerouted, drawing him away from his post long enough for the
-real convoy to pass unchallenged. The apprentice's student had built it and brought it to her own
+real convoy to pass unchallenged. The apprentice had built it and brought it to her own
 student — the third generation, only months into carrying real operational weight — to run alone as a
 test of readiness.
 
@@ -48,13 +48,16 @@ had genuinely been waiting weeks to receive.
 
 ---
 
-*Continuity notes (not narrative): the first entry across all sixteen waves built around a genuine
-ethical disagreement within the three-generation lineage itself, rather than a technical mistake
-("The Student's First Failure," Chronicle XXIV), a transmission milestone ("The Third Voice She Never
-Expected," Chronicle XXXIX), or a captured-apprentice test ("What She Wouldn't Say," Chronicle
-XXIII). The third-generation practitioner (introduced teaching in Chronicle XXXIX) refuses an
-operationally sound plan on grounds her own teacher hadn't yet had to weigh against this specific
-kind of target, and Kanja deliberately declines to resolve the disagreement by fiat, treating her
-independent judgment as the craft's intended outcome rather than a deviation from it. No new named
-characters; all three generations of the lineage remain unnamed per established pattern. Second
-entry in the Crow King's sixteenth wave.*
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (a one-word fix, "apprentice's
+student" -> "apprentice," in the narrative above -- the plan was built by the apprentice herself and
+handed to her own student, the third generation, not handed down a nonexistent fourth person). The
+first entry across all sixteen waves built around a genuine ethical disagreement within the
+three-generation lineage itself, rather than a technical mistake ("The Student's First Failure,"
+Chronicle XXIV), a transmission milestone ("The Third Voice She Never Expected," Chronicle XXXIX,
+where the apprentice's own teaching of the third generation deepened, not where any new generation
+was introduced), or a captured-apprentice test ("What She Wouldn't Say," Chronicle XXIII). The
+third-generation practitioner refuses an operationally sound plan on grounds her own teacher hadn't
+yet had to weigh against this specific kind of target, and Kanja deliberately declines to resolve the
+disagreement by fiat, treating her independent judgment as the craft's intended outcome rather than a
+deviation from it. No new named characters; all three generations of the lineage remain unnamed per
+established pattern. Second entry in the Crow King's sixteenth wave.*

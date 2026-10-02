@@ -1,6 +1,6 @@
 # The First Thing He Built After the War
 
-*Locked canon, Batch 257, 2026-09-11 (`MCD-1199`). Blue-Collar Titan Alias Chronicle LXXXVIII, wave 30, opening the wave. A peacetime coda -- the first project Kanja undertakes after the Sewer War of Killane's ceasefire, contrasted against thirty waves of crisis-driven work.*
+*Locked canon, Batch 257, 2026-09-11 (`MCD-1199`). Blue-Collar Titan Alias Chronicle LXXXVIII, wave 30, opening the wave. A peacetime coda -- the first project Kanja undertakes after the Sewer War of Killane's ceasefire, contrasted against years of crisis-driven work. Corrected Batch 321, 2026-10-02: "thirty waves of" reworded to in-world time phrasing in both the header and the narrative prose.*
 
 ---
 
@@ -12,7 +12,7 @@ He built a well instead. Not a monument -- he'd already made his position on tho
 
 "I know." Kanja set the stone, checked it, moved to the next. "I wanted to build something first. Something that wasn't in response to anything trying to kill somebody."
 
-It was slower work than anything the siege had demanded, without the compressed urgency that had shaped thirty waves of crises answered in hours or days. He took two full weeks over it, more care in the joinery than strict function required, because for the first time the only deadline was his own patience with the work itself.
+It was slower work than anything the siege had demanded, without the compressed urgency that had shaped years of crises answered in hours or days. He took two full weeks over it, more care in the joinery than strict function required, because for the first time the only deadline was his own patience with the work itself.
 
 Children found the finished well before most of the adults did, testing the pump handle with the particular delight of something new that hadn't existed in living memory at that corner. None of them knew or particularly cared who'd built it. That, more than anything about the well itself, was the part Kanja found he'd needed.
 

@@ -13,9 +13,9 @@ He came ashore alone, unarmored beneath a plain traveler's coat, and found forty
 spears standing between him and a dock that had done nothing wrong in living memory.
 
 "Stand down," the harbormaster called, voice cracking on the second word. "We know what you are.
-We know what you did to the Salt Keep."
+We've heard what you've done to men who thought a chained hold was nobody's business but their own."
 
-"You know a story about what I did to the Salt Keep." He stopped well short of spear range and
+"You know a story about what I've done to men like that." He stopped well short of spear range and
 raised both empty hands, deliberately, the way he'd learned to when the fear in a crowd outran the
 facts feeding it. "I'm not here for your harbor. I'm here because a Trust cruiser three days behind
 me is running captives through this strait, and I need a place to put two hundred people who haven't
@@ -46,5 +46,9 @@ too, the part where the fear had nearly cost two hundred people a proper meal on
 
 *Continuity notes (not narrative): dramatizes the legend's own cost for the first time in this
 alias's run — reputation as liability rather than asset, forcing de-escalation through patient
-honesty rather than force or gear. Set early in V1 service (age 36), roughly a year after "The Shape
-the Smoke Remembers." No new named characters. First entry in the Scourge's sixth wave.*
+honesty rather than force or gear. Set early in V1 service (age 36), roughly twelve to sixteen years
+before "The Shape the Smoke Remembers" (Pirate Dawn, ages 48-52). No new named characters. First
+entry in the Scourge's sixth wave. Corrected Batch 321, 2026-10-02: the elapsed-time note was
+reversed (age 36 precedes Pirate Dawn, it cannot be "roughly a year after" it); the Salt Keep
+callback was removed, since the Salt Keep (age 140) hasn't happened yet at age 36 and no other
+already-locked liberation predates this entry closely enough to substitute cleanly.*

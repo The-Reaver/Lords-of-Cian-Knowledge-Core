@@ -32,8 +32,8 @@ care about the part underneath it -- the listening, the restraint, the willingne
 slowly instead of loudly -- surviving at all, in whatever shape it takes, whether anyone remembers to
 call it by this name or not."
 
-Thirty waves and ninety Chronicles after a scared young man invented a trick in under an hour to save
-three hundred lives, the craft was four generations deep, written into two separate institutional
+Decades and four generations after a scared young man invented a trick in under an hour to save
+three hundred lives, the craft was written into two separate institutional
 archives, carried in shapes he'd never taught and couldn't have predicted, and still, somewhere, an
 unanswered question sitting quietly between three people who trusted the process more than they
 needed the answer right away.

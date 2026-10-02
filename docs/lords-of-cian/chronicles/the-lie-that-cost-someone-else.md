@@ -1,7 +1,7 @@
 # The Lie That Cost Someone Else
 
 *Locked canon, Batch 157, 2026-09-11 (`MCD-494`). The Crow King Alias Chronicle X, first entry in
-the fourth wave. Rebellion era, age 23. Not a territory Chronicle. New standalone material — the
+the fourth wave. Rebellion era, ages 23-28. Not a territory Chronicle. New standalone material — the
 first genuine failure entry in this alias's run. Narrated in neutral third-person prose. No new
 named characters.*
 
@@ -30,7 +30,7 @@ lie built for someone else found them instead." Kanja didn't accept the deflecti
 discomfort of it instead. "I've spent years being careful about what a deception costs the people it's
 aimed at. I hadn't spent nearly enough thought on what it costs the people who simply happen to be
 standing nearby when it goes off. That's a blind spot in the whole method, and I don't think
-Chronicle-worthy successes should crowd out the account of when it actually fails someone."
+the successes people retell should crowd out the account of when it actually fails someone."
 
 He spent the following weeks building a new verification step into every future signal — a mapping
 pass to account for exactly the kind of bystander presence that had gone unconsidered this time,

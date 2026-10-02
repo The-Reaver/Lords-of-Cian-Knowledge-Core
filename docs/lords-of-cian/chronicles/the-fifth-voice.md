@@ -15,7 +15,7 @@ not settling it. Now he stood in front of all four of them at once: Kanja, the a
 generation, the fourth generation, in a room too small for the moment it was actually holding.
 
 "Why do you want it," Kanja asked him, the same question he'd once asked a two-year messenger-runner
-who would go on to become the fourth generation himself, and the same one the third generation had
+who would go on to become the fourth generation himself, and the same one the apprentice had
 answered years before that, in her own words, to a man who hadn't known yet what he was building.
 
 "Because I already do it," the runner's son said, "badly, on my own, whenever I hear something that
@@ -44,7 +44,11 @@ spent three separate seasons finding reasons to put off.
 
 ---
 
-*Continuity notes (not narrative): the long-deferred fifth-generation question -- raised in
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (the narrative originally had
+Kanja recall this same question being "answered" by the third generation herself, contradicting
+`MCD-548`, where he learned of her only after the apprentice had already begun teaching her without
+asking him first -- corrected above to the apprentice, whom he did personally teach and test).
+The long-deferred fifth-generation question -- raised in
 "What the Fifth Generation Might Ask" (Chronicle LXVI, `MCD-1258`, wave 22) and advanced but left
 unresolved in "The Question the Fourth Generation Finally Asked" (Chronicle LXXXVIII, `MCD-1280`,
 wave 30) -- is finally answered: teaching of a fifth generation formally begins, with the runner's

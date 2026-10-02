@@ -22,10 +22,10 @@ closing on his position before he'd finished confirming the hold was empty.
 trap needed reading faster than talking would normally allow. "Every raid for years. You built this
 to catch the man in the stories, not the man actually standing here."
 
-Obsidian Malice's charge, banked across two years exactly as it always was, answered the first
-gunship's broadside with a discharge that didn't merely disable it but drove its bow around into the
-second ship's path, buying seconds the Sovereign Eyes used to read all five vessels' positions at
-once through drifting smoke that had been meant to blind him, not the other way around.
+The Ironhand Gauntlets' leverage, braced against the first gunship's own hull, answered its
+broadside by driving its bow around into the second ship's path, buying seconds the Sovereign Eyes
+used to read all five vessels' positions at once through drifting smoke that had been meant to blind
+him, not the other way around.
 
 The strategist herself watched from the sixth ship's deck, close enough to see the trap fail and
 distant enough to survive its failing. She never learned his real name, and would spend the rest of
@@ -33,7 +33,7 @@ her career insisting, against every colleague's disbelief, that the ghost hadn't
 being unbeatable.
 
 "He beat it," she wrote, in the one surviving account of that season, "by being harder to predict
-than six years of records suggested. Every raid I'd catalogued was real. What I'd missed was that he
+than nine years of records suggested. Every raid I'd catalogued was real. What I'd missed was that he
 noticed being catalogued, somewhere in the last two of them, and had already started varying what the
 records would eventually show — before I'd finished writing the plan that depended on them staying
 the same."
@@ -45,4 +45,8 @@ Two of the six decoys made it home. The consortium didn't fund a seventh season.
 *Continuity notes (not narrative): the first entry where an antagonist has studied and specifically
 engineered a trap against the Scourge's own known tactical patterns, distinct from every prior
 straightforward raid or duel — resolved through adaptability under pressure rather than raw gear
-superiority. No new named characters. Second entry in the Scourge's seventh wave.*
+superiority. No new named characters. Second entry in the Scourge's seventh wave. Corrected Batch
+321, 2026-10-02: removed an anachronistic Obsidian Malice presence and its duplicated "two-year
+dormant charge" claim (the Trinity surrendered at age 30, `MCD-246`), swapped for the Ironhand
+Gauntlets doing the same work; fixed an internal "nine years" vs. "six years" inconsistency to a
+consistent nine years.*

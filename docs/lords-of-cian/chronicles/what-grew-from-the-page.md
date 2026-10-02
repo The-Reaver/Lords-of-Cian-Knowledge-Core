@@ -19,8 +19,9 @@ they'd gotten a local reputation for it.
 The fourth generation went very still.
 
 "Listen before you act. Restraint over cleverness." He said it out loud, once, the way he might read
-it off the page itself, because he still remembered writing those exact words down years before a
-raid took the only copy out of his hands. "That's not a coincidence. That's the actual sentence."
+it off the page itself, because he still remembered hearing the third generation read those exact
+words aloud, years before a raid took the only copy out of her hands. "That's not a coincidence.
+That's the actual sentence."
 
 He brought it to the apprentice and the third generation together rather than deciding what it meant
 alone -- the same habit the fourth generation himself had learned from watching how the runner's-son
@@ -40,7 +41,11 @@ know what six years of an idea, left completely alone, had turned into.
 
 ---
 
-*Continuity notes (not narrative): opens wave 31 by resolving where the physically lost doctrine page
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (the narrative originally had the
+fourth generation claim he wrote the page's words down himself; the page was written by the third
+generation, `MCD-1256`, and lost from her possession during a raid, `MCD-1257` -- corrected above so
+the fourth generation instead recognizes words he once heard her read aloud). Opens wave 31 by
+resolving where the physically lost doctrine page
 from "The Page That Went Missing" (Chronicle LXV, `MCD-1257`, wave 22) actually ended up -- surfacing
 years later as the seed of an independent, unsanctioned practice built on its philosophy alone, with
 no knowledge of the Hymn-Engine, the Crow King name, or Kanja's identity, consistent with `MCD-1257`'s

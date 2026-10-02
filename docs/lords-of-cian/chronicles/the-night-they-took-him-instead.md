@@ -19,11 +19,11 @@ man before deciding what ransom the Trench Monarch's own crew might pay to get h
 killing him outright and letting the district draw its own conclusions was worth more than any sum
 they could ask for.
 
-Onyx alone couldn't cut rope it couldn't reach, bound as his hands were behind him, but Whisper of
-Shadows didn't need his hands to work -- a controlled application against the door hinge itself,
-patient rather than rushed, the two men outside never registering that the silence in the room had
-changed shape before the door came off its frame from the inside rather than being forced through
-it. What followed was short and one-sided: two men who'd planned for a bound prisoner and found
+Onyx alone couldn't cut rope it couldn't reach, bound as his hands were behind him, but Veil Piercer
+didn't need his hands to work -- a controlled application against the door hinge itself, patient
+rather than rushed, the two men outside never registering that the silence in the room had changed
+shape before the door came off its frame from the inside rather than being forced through it. What
+followed was short and one-sided: two men who'd planned for a bound prisoner and found
 instead one already free, the fight ending before either of them fully understood the door hadn't
 simply failed on its own.
 

@@ -1,6 +1,9 @@
 # The Command Vehicle in the Formation
 
-*Locked canon, Batch 218, 2026-09-11 (`MCD-962`). The Iron Bastard Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 218, 2026-09-11 (`MCD-962`); corrected Batch 321, 2026-10-02 (Mafesto's
+listening awareness and Obsidian Malice's discharge reworded to the Long-Mask-era kit, since wave
+17 falls years past the Trinity's age-30 surrender, `MCD-246`). The Iron Bastard Alias Chronicle LI,
+wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -14,7 +17,7 @@ turn. This was the first time the answer wasn't disabling all eight at once but 
 mattered among seven decoys built to look exactly like it.
 
 "They all read the same on a passing glance," he said, moving along the ring's outer edge out of sight
-of the gunners, Mafesto's listening awareness spread wide across the formation. "Every plate seam, every
+of the gunners, the Sovereign Eyes sweeping the formation wide while he listened. "Every plate seam, every
 axle tension, close enough to fool an eye. But a command vehicle carries more than the others — more
 communication gear, more bracing to hold the extra weight steady, and bracing has its own signature no
 amount of matching paint changes."
@@ -26,7 +29,7 @@ seven carried.
 
 "That one," he said, and didn't touch the other seven at all.
 
-Obsidian Malice's discharge went into the fourth Crawler alone, a single precise strike disabling its
+The Ironhand Gauntlets' leverage went into the fourth Crawler alone, a single precise strike disabling its
 drive train without a sound loud enough to alert the rest of the ring. Command orders stopped reaching
 the other seven within minutes; without a coordinating voice, the formation broke apart into individual
 crews making individual, uncertain decisions, and the depot's garrison walked out through gaps that had

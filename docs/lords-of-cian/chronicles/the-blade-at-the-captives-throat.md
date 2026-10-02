@@ -12,9 +12,9 @@ saying once every other exit had closed.
 crews that fight you. I've never heard what you do to a man holding exactly this."
 
 The Forge-Coat's grounding weave had already absorbed everything the deck's remaining defenders could
-throw. Mafesto's stored charge sat ready, more than enough to end the standoff in a heartbeat, and
-every ounce of it was useless the instant a single wrong heartbeat meant a dead child instead of a
-disarmed captain.
+throw. The whole of the Long Mask's built gear sat ready, more than enough to end the standoff in a
+heartbeat, and every ounce of it was useless the instant a single wrong heartbeat meant a dead child
+instead of a disarmed captain.
 
 He stopped where he stood, hands open, and did the only thing the moment actually called for, which
 had nothing to do with any weapon built into the last hundred years of his gear. He waited.
@@ -48,4 +48,6 @@ did."
 *Continuity notes (not narrative): a hostage-standoff resolved through patience and psychological
 restraint rather than gear or force — the first entry in this alias's run where the gear's full
 combat capability is deliberately withheld as the correct tactical choice. No new named characters.
-Second entry in the Scourge's eighth wave.*
+Second entry in the Scourge's eighth wave. Corrected Batch 321, 2026-10-02: removed an anachronistic
+Mafesto reference (the Trinity surrendered at age 30, `MCD-246`), swapped for the Long Mask's built
+gear system (`ARS-344` through `356`).*

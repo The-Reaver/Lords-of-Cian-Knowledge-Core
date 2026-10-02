@@ -1,6 +1,9 @@
 # The Gate the River Swallowed
 
-*Locked canon, Batch 205, 2026-09-11 (`MCD-897`). The Iron Bastard Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 205, 2026-09-11 (`MCD-897`); corrected Batch 321, 2026-10-02 (Obsidian
+Malice's discharge reworded to the Long-Mask-era Ironhand Gauntlets' leverage, since wave 16 falls
+years past the Trinity's age-30 surrender, `MCD-246`). The Iron Bastard Alias Chronicle XLVI, wave
+16. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -33,10 +36,10 @@ down toward the submerged fitting. "But the chain doesn't care what's between us
 I'm touching it."
 
 The anchor points gave up the gate's real weak seam — a fitting rushed during construction, tensioned
-unevenly against the current's steady push. Obsidian Malice's discharge went into the chain rather
-than the gate directly, the resonance carried down through solid contact into the ironwork beneath the
-waterline, and the fitting gave all at once, the gate swinging wide on the current's own force before
-the garrison upstream had finished registering that anything had happened at all.
+unevenly against the current's steady push. The Ironhand Gauntlets' own leverage went into the chain
+rather than the gate directly, braced hand over hand until the strained fitting gave all at once, the
+gate swinging wide on the current's own force before the garrison upstream had finished registering
+that anything had happened at all.
 
 Three settlements' water traffic opened again within the hour. Kanja stood on the bank afterward,
 still dripping, turning the lesson over more than the victory.

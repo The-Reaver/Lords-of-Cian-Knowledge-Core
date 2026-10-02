@@ -1,10 +1,10 @@
 # The Grandchild Who Wanted the Old Stories
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-597`). Captain Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-597`). Captain Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Garren Hask's stated age and the elapsed span since Kanja first named him reduced ("well past his hundredth year" to "well past eighty"; "eighty years" to "thirty years") to fit inside the window established by his locked death at wave 31 (`MCD-1422`, roughly Kanja age 50-55).*
 
 ---
 
-Garren Hask was well past his hundredth year and still kept his ledgers, though his hands shook
+Garren Hask was well past eighty and still kept his ledgers, though his hands shook
 enough now that a younger relative did most of the actual writing for him. That relative's own
 daughter — Hask's great-grandniece, eight years old and utterly unimpressed by most things — had
 one request whenever the strange, quiet man who visited sometimes came by the house: the ship
@@ -29,7 +29,7 @@ care, or is that just what they tell people?"
 
 "He called me by my actual name," Hask said, "when most everyone else on that dock called me
 nothing at all, or worse. That's the whole story, really. Everything after it was just what grew out
-of that one small thing, over and over, for eighty years."
+of that one small thing, over and over, for thirty years."
 
 The girl considered this with the seriousness only children bring to matters adults have stopped
 examining. "So the name wasn't because you were scary. It was because you were nice."

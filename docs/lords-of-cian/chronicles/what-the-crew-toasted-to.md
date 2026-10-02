@@ -1,8 +1,12 @@
 # What the Crew Toasted To
 
 *Locked canon, Batch 138, 2026-09-11 (`MCD-463`). Captain Alias Chronicle IX, closing the third
-wave — and closing the third wave for all eleven aliases. Rebellion era. Not a territory Chronicle.
-New standalone material. Narrated in neutral third-person prose. No new named characters.*
+wave — and closing the third wave for all eleven aliases. Not a territory Chronicle.
+New standalone material. Narrated in neutral third-person prose. No new named characters. Corrected
+Batch 321, 2026-10-02: struck a mistaken "Rebellion era" header tag and fixed "decades after
+Warehouse Twelve" to "years after Warehouse Twelve" -- Corren Halst was not freed until the Black
+Trench, which came after Warehouse Twelve, so "decades" could not have elapsed by this point in the
+Rebellion.*
 
 ---
 
@@ -13,7 +17,7 @@ themselves gathered in the same place at once, someone would raise a cup, and th
 and the toast was always some variation of the same handful of words.
 
 "To the man who digs his own crown," Corren Halst offered, one such evening, the old dredge-line
-phrase still carrying weight decades after Warehouse Twelve.
+phrase still carrying weight years after Warehouse Twelve.
 
 "To the one who carries the charge for one person same as he would for the whole fleet," Pell Ostra
 added, her own memory of a beam and forty seconds still close enough to color the words.

@@ -7,9 +7,9 @@ of an unrelated bullied bystander (`MCD-948`).*
 
 ---
 
-He had trained a frightened conscript's boy and a fourteen-year-old stranger's footwork before he
-ever taught Corren Halst, Danne Sok, or Maret Vos a single deliberate thing about how to hold a
-blade -- an oversight none of the three had ever raised, and one Kanja only noticed himself the
+He had trained Callum Breck's own young riveter's apprentice and a fourteen-year-old stranger's
+footwork before he ever taught Corren Halst, Danne Sok, or Maret Vos a single deliberate thing about
+how to hold a blade -- an oversight none of the three had ever raised, and one Kanja only noticed himself the
 morning after the tannery ambush left him bound and blind for the better part of an hour. The three
 men who'd been with him since before the name existed had learned to fight the way most of the
 Rebellion learned anything: by surviving it, not by being taught it.

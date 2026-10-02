@@ -1,6 +1,8 @@
 # The Squall That Broke the Line
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1211`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1211`); corrected Batch 321, 2026-10-02 (the Sovereign
+Eyes is Long-Mask-era gear that doesn't exist yet in this Rebellion-era, still-live-Trinity window;
+swapped for Mafesto's own built-in overlay). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXIII, wave 25, first entry in the wave. A detailed full-Trinity combat showcase fought through an
 active storm rather than around it. Not a territory Chronicle. Narrated in neutral third-person
 prose.*
@@ -14,7 +16,7 @@ that the ghost fleet's reputation for elusiveness relied on clear conditions to 
 What he hadn't accounted for was a captain willing to fight straight through the storm rather than
 around it.
 
-Kanja went over *The Audit*'s rail into rain that stung like grapeshot, the Sovereign Eyes' overlay
+Kanja went over *The Audit*'s rail into rain that stung like grapeshot, Mafesto's own helm overlay
 the only thing rendering three enemy hulls clean through water thick enough to blind unaided sight,
 each one closing on a different heading in the chaos the storm had handed the Trust commander as
 cover. Mafesto's Kinetic Transfer System read wave-impact and gunfire both through the same
@@ -49,4 +51,6 @@ full-Trinity showcase per standing craft direction — Mafesto's grounding funct
 combined wave and cannon impact for the first time, Obsidian Malice's sound-targeting through
 obscured visibility, and Onyx of Oblivion's Whisper of Shadows/Soulbound Edge choreographed in storm
 conditions. The Trust flotilla commander is deliberately unnamed. No new named characters. First
-entry in wave 25.*
+entry in wave 25. Corrected Batch 321, 2026-10-02 to remove the Sovereign Eyes (Long-Mask-era gear
+that cannot appear alongside the still-live Trinity in this Rebellion-era entry), replaced with
+Mafesto's own built-in helm overlay.*

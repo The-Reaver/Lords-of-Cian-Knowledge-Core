@@ -8,7 +8,7 @@ song, or percussion. Not a territory Chronicle.*
 
 The third generation did not tell him what to build. That was the point of the test.
 
-"Your teacher taught you to listen before you speak," she said. "I'm not going to teach you to sing
+"I taught you to listen before you speak," she said. "I'm not going to teach you to sing
 before you're ready, because I don't actually know if you're supposed to. Go find out what the craft
 looks like when it's yours."
 
@@ -31,7 +31,7 @@ existed only on paper, starving the position they were actually meant to reinfor
 margin the crew needed to take it without a fight.
 
 When the auditor finally caught the gap and reported a fraud investigation upward, there was nothing
-left to trace it to — no voice, no signal, no pattern of false radio chatter for a cryptographer to
+left to trace it to — no voice, no signal, no pattern of false signal chatter for a cryptographer to
 study. Just a set of numbers that had been true enough, for eleven days, to survive being checked.
 
 The third generation read his own account of it afterward and said nothing for a long moment. "I
@@ -47,7 +47,11 @@ own version instead of teaching him mine again."
 
 ---
 
-*Continuity notes (not narrative): the fourth generation's (introduced `MCD-1046`, "The Fourth
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (two fixes: the third
+generation's line originally read "Your teacher taught you to listen before you speak" -- an odd
+third-person self-reference, since she is his teacher -- corrected to "I taught you..."; and "no
+pattern of false radio chatter" corrected to "no pattern of false signal chatter," since this world
+has no radios, `WC-012`/`WC-013`). The fourth generation's (introduced `MCD-1046`, "The Fourth
 Voice," wave 20) first independent field use of the craft, and the first entry across twenty-one
 waves built entirely around falsified administrative record-keeping rather than any vocal, musical,
 percussive, or sensory deception -- extending the already-established "the craft was never really

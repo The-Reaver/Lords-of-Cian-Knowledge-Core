@@ -1,6 +1,6 @@
 # The Man Carrying Two Masters
 
-*Locked canon, Batch 223, 2026-09-11 (`MCD-1005`). The Blue-Collar Titan Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 223, 2026-09-11 (`MCD-1005`). The Blue-Collar Titan Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the unnamed recurring crew chief's pronoun corrected from she/her to he/him, matching the earlier-established usage at `MCD-652`.*
 
 ---
 
@@ -45,7 +45,7 @@ filing the same false reports for another week out of habit before anyone told h
 never once told the rest of the crew what he'd carried alone for a month.
 
 "You could've had him removed the day you found him," the crew chief said afterward, once the whole
-shape of it had finally reached her secondhand. "Safer for everyone."
+shape of it had finally reached him secondhand. "Safer for everyone."
 
 "Safer isn't the only thing I'm building down here." Kanja checked a brace the man himself had set
 two days after his sister came home — steady work, honest hands, no different than before. "He didn't

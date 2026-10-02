@@ -1,6 +1,9 @@
 # The Channel the Ice Sealed Shut
 
-*Locked canon, Batch 269, 2026-09-11 (`MCD-1403`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 269, 2026-09-11 (`MCD-1403`); corrected Batch 321, 2026-10-02 (the Sovereign
+Eyes/Blueprint Eye and an ungrounded "Ironfall Boots' grip-plating" claim are Long-Mask-era gear that
+doesn't exist yet in this Rebellion-era, still-live-Trinity window; swapped for Mafesto's own helm
+overlay and its own grounding footing). Sovereign Ghost of the Great Sea Alias Chronicle
 XCI, wave 31, first entry in the wave. A detailed full-Trinity combat showcase fought on foot across
 refrozen pack ice rather than ship-to-ship, when raiders exploit an early freeze to trap The Receipt
 and a supply tender in a sealed channel. Not a territory Chronicle. Narrated in neutral third-person
@@ -21,9 +24,9 @@ for on open water.
 Kanja felt it before he saw it — not through the ice itself, but through Mafesto's Kinetic Transfer
 System reading the tender's own hull, faint shudders traveling up through the ice-locked keel every
 time a raider's weight shifted wrong across a thin patch. He was over the rail and onto the ice before
-the first grapple line even landed, the Sovereign Eyes' Blueprint Eye overlay resolving the pack's
-uneven thickness into a clean map of where a man's weight could and couldn't be trusted, and the
-Ironfall Boots' grip-plating biting into surfaces that would have sent an unaugmented man sliding flat
+the first grapple line even landed, Mafesto's own helm overlay resolving the pack's
+uneven thickness into a clean map of where a man's weight could and couldn't be trusted, Mafesto's own
+grounded footing biting into surfaces that would have sent an unaugmented man sliding flat
 on his back with the first hard turn.
 
 He didn't fight them where the ice was thick and stable — he drew them, deliberately, toward the
@@ -53,9 +56,13 @@ wrong."
 Trinity combat showcase fought entirely on foot across refrozen pack ice rather than ship-to-ship or
 in the water, distinct from the wave-17 ice-locked winter rationing entry ("What Went Without, So
 Others Could Have," `MCD-953`), which involved no combat, and from every prior naval boarding-action
-showcase. Highlights Mafesto's Kinetic Transfer System reading hull vibration through ice, the
-Sovereign Eyes' Blueprint Eye overlay mapping ice thickness, the Ironfall Boots' grip-plating, a
+showcase. Highlights Mafesto's Kinetic Transfer System reading hull vibration through ice, Mafesto's
+own helm overlay mapping ice thickness, its own grounded footing, a
 precision Obsidian Malice application fracturing ice underfoot rather than striking a target directly,
 and Onyx of Oblivion's Whisper of Shadows and Soulbound Edge. Zero deaths on either side, consistent
 with the restraint-over-fear doctrine. Reuses Garren Hask, Danne Sok (referenced). No new named
-characters — the raiders are deliberately unnamed. First entry in wave 31.*
+characters — the raiders are deliberately unnamed. First entry in wave 31. Corrected Batch 321,
+2026-10-02 to remove the Sovereign Eyes/Blueprint Eye (Long-Mask-era gear that cannot appear
+alongside the still-live Trinity in this Rebellion-era entry) and an "Ironfall Boots' grip-plating"
+claim that was never an established `ARS-353` feature anyway, both replaced with Mafesto's own helm
+overlay and grounded footing.*

@@ -1,7 +1,7 @@
 # The Spy Who Read the Signals Back
 
 *Locked canon, Batch 187, 2026-09-11 (`MCD-547`). The Crow King Alias Chronicle XIV. Rebellion era,
-age 23. Not a territory Chronicle. New standalone material. Narrated in neutral third-person prose.
+ages 23-28. Not a territory Chronicle. New standalone material. Narrated in neutral third-person prose.
 No new named characters.*
 
 ---

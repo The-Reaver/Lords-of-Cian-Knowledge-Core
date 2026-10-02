@@ -42,7 +42,7 @@ she'd actually wanted.
 ---
 
 *Continuity notes (not narrative): the hardest moral-tension entry in the Industrial Myth's run so
-far -- distinct from the ideologically-driven rival organizer already established (`MCD-437`-439) in
+far -- distinct from the ideologically-driven rival organizer already established (`MCD-438`) in
 that the widow's demand for violence comes from grief, not doctrine, and the refusal costs her
 something real rather than converting her. Deliberately left unresolved on her side; the systemic
 outcome (the overseer's removal) is real but explicitly not framed as having made her whole. No new

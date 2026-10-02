@@ -6,9 +6,10 @@ method, deliberately contrasting the failed imitation at `MCD-947`.*
 
 ---
 
-She had been one of the first fourteen names on Garren Hask's own attendance sheet the season the
-tally-verification classes formalized at Warehouse Twelve -- a rope-splicer from the second canal
-row who asked more questions in her first week than anyone else asked in a month, not because she
+She had been one of the fourteen original requesters whose demand first convinced Garren Hask the
+tally-verification method needed a formal course at all -- one of the sixteen who actually sat for
+it once Warehouse Twelve opened the classes that season -- a rope-splicer from the second canal row
+who asked more questions in her first week than anyone else asked in a month, not because she
 doubted the method but because she meant to actually understand it rather than merely copy its
 motions.
 

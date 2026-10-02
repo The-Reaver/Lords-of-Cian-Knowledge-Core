@@ -1,6 +1,12 @@
 # The Guild That Wanted to Own the Sound
 
-*Locked canon, Batch 248, 2026-09-11 (`MCD-1082`). Iron Bastard Alias Chronicle LXIII, wave 21, closing the wave. An economic/institutional entry: a merchant consortium offers to buy exclusive licensing rights to the resonance doctrine. Not a territory Chronicle.*
+*Locked canon, Batch 248, 2026-09-11 (`MCD-1082`); corrected Batch 321, 2026-10-02 ("the
+rebellion's own treasury" reworded to "the resistance network's own coffers," since the Rebellion
+formally ends at `MCD-245`/`246` and wave 21 falls years past it; the garbled, mis-gendered line
+about the teaching lineage corrected to name the first and second students plainly, matching the
+second student's established she/her majority). Iron Bastard Alias Chronicle LXIII, wave 21,
+closing the wave. An economic/institutional entry: a merchant consortium offers to buy exclusive
+licensing rights to the resonance doctrine. Not a territory Chronicle.*
 
 ---
 
@@ -9,7 +15,7 @@ meeting requested rather than an ambush laid. The Ferrowright Consortium control
 across half the Trust's shipping lanes, and its delegation sat across from Kanja in a warehouse office
 with a proposal already drafted: exclusive rights to teach, certify, and license the diagnostic-listening
 method, a share of every future inspection fee paid to structures cleared by it, and a standing retainer
-larger than anything the rebellion's own treasury held.
+larger than anything the resistance network's own coffers held.
 
 Garren Hask read the contract twice before Kanja did, the way he read every number that crossed the
 crew's ledger, and set it down without comment on the figures. "It's a fair offer," he said, which from
@@ -27,8 +33,8 @@ resentment. But a licensing board answerable to a consortium's shareholders wasn
 honesty the doctrine had been built on — the same honesty that had gotten a Trust scholar's report
 shelved once already for being inconvenient rather than wrong.
 
-"I already have a board," Kanja said. "It's smaller than yours. It's a man who trained the first student,
-and a student who's since trained a third generation of his own, and every one of them answerable to
+"I already have a board," Kanja said. "It's smaller than yours. It's the first student I ever trained,
+and a second who's since trained a third generation of her own, and every one of them answerable to
 whether the read was true, not to who profits from it." He slid the contract back across the table,
 unsigned. "Teach anyone who'll take the time and tell the truth with it. Charge nothing for the teaching.
 That's the only license I'll put my name to."

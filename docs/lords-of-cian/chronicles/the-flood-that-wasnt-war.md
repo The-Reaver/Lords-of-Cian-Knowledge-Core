@@ -1,6 +1,6 @@
 # The Flood That Wasn't War
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1383`). Captain Alias Chronicle LXXXIII, wave 28. A large-scale disaster-relief response with no enemy anywhere in it, directly answering the "what is Captain for now" question left open at the Rebellion's close.*
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1383`). Captain Alias Chronicle LXXXIII, wave 28. A large-scale disaster-relief response with no enemy anywhere in it, directly answering the "what is Captain for now" question left open at the Rebellion's close. Corrected Batch 321, 2026-10-02: Corren Halst's pronoun fixed to he/him per `CC-158`, and a writers'-room "combat showcase" phrase reworded to in-world narration.*
 
 ---
 
@@ -8,9 +8,9 @@ A season of storms broke three separate levees along the same river system that 
 
 There was no enemy in any of it. No raiders, no Directorate patrol, no ambush waiting in the confusion — only water, and thousands of people who needed moving faster than the water could catch them, and a crew that had spent years since the war's end quietly becoming as good at this as it had once been at fighting. Three ships worked the evacuation simultaneously: the Receipt running the heaviest transport loads, the Second Chance working the shallows where deeper hulls couldn't follow, Pell Ostra's engineering crews shoring failing sections of the two levees that hadn't yet given way entirely, buying the evacuation more time than anyone had dared hope for.
 
-Mira worked the intake line at seventeen now, cross-checking names against Efa Gol's own registry method without needing to be taught it twice, and it was her steady count — not any Trinity gear, not any combat showcase — that the district's own relief coordinator singled out afterward as the thing that had kept the operation from becoming as chaotic as the flood itself.
+Mira worked the intake line at seventeen now, cross-checking names against Efa Gol's own registry method without needing to be taught it twice, and it was her steady count — not any gear, not any fight — that the district's own relief coordinator singled out afterward as the thing that had kept the operation from becoming as chaotic as the flood itself.
 
-Kanja spent the three days of the response doing ordinary work alongside everyone else — hauling, carrying, running lines — and it wasn't until the last family was accounted for that Corren Halst said, watching him coil a rope alongside deckhands half his effective age and immeasurably shorter his lifespan, what she'd been thinking the whole three days.
+Kanja spent the three days of the response doing ordinary work alongside everyone else — hauling, carrying, running lines — and it wasn't until the last family was accounted for that Corren Halst said, watching him coil a rope alongside deckhands half his effective age and immeasurably shorter his lifespan, what he'd been thinking the whole three days.
 
 "This is the answer. Not the one written down anywhere. This, right here — a war ending and the crew just becoming this instead. Nobody has to ask what 'Captain' is for anymore. It's for exactly this."
 

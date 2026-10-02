@@ -1,6 +1,6 @@
 # The Fumes That Ate the Iron
 
-*Locked canon, Batch 257, 2026-09-11 (`MCD-1178`). Blue-Collar Titan Alias Chronicle LXVII, wave 23, opening the wave. The alias's first corrosive-hazard entry -- a breached mineral-runoff pocket that eats gear and stone alike, forcing a full Trinity showcase without the usual tools.*
+*Locked canon, Batch 257, 2026-09-11 (`MCD-1178`). Blue-Collar Titan Alias Chronicle LXVII, wave 23, opening the wave. The alias's first corrosive-hazard entry -- a breached mineral-runoff pocket that eats gear and stone alike, forcing a full Trinity showcase without the usual tools. Corrected Batch 321, 2026-10-02: a materials slip removed -- Obsidian Malice is a Mao-forged Drakma war club (`ARS-030`), not a blade sharing an "iron bracket" alloy family.*
 
 ---
 
@@ -10,7 +10,7 @@ Kanja put a hand near the seep and pulled it back fast enough that Halst noticed
 
 It ate iron fastest of all. A support bracket six feet from the seep had already gone soft and pitted at the edges, and the tool cart nearest the breach was losing its handles to a fine reddish crumble. Eleven workers were retreating from it correctly, upwind and uphill, but the only clear route out ran directly across the widening pool.
 
-Obsidian Malice stayed in its housing. A blade forged from the same family of alloys as the corroding bracket had no business anywhere near an actively eating acid slurry, and testing that assumption mid-crisis wasn't a risk worth taking. Onyx of Oblivion's Soulbound Edge went unused for the same reason. What Kanja needed wasn't a cutting tool -- it was distance, timing, and a way to move eleven people across ground that was actively becoming less solid with every passing minute.
+Obsidian Malice stayed in its housing. Even Mao-forged Living Drakma had no business anywhere near an actively eating acid slurry, and testing that assumption mid-crisis wasn't a risk worth taking. Onyx of Oblivion's Soulbound Edge went unused for the same reason. What Kanja needed wasn't a cutting tool -- it was distance, timing, and a way to move eleven people across ground that was actively becoming less solid with every passing minute.
 
 Mafesto's kinetic transfer mapped the pool's actual edges through the stone itself, reading where the acid had genuinely saturated rock versus where fear had workers avoiding ground that was still sound, and found a drier lip along the gallery's northern wall two feet wider than anyone retreating in a panic had trusted enough to use. He walked it first himself, boots absorbing what damage the margin still carried, then called each worker across one at a time by name and footing rather than letting them bunch and guess.
 

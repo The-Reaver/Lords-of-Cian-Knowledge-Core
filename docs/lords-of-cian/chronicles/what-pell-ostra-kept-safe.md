@@ -4,10 +4,10 @@
 
 ---
 
-Years before she was packing the accelerant charges that would open the Black Trench's ravine or
-scaling the Scrip-Forge stockpile at Ash-Wharf, Pell Ostra talked to chemicals the way other people
-talked to friends, and had never once been trusted with anything more important than a shipment of
-lamp oil.
+Months before she was packing the charges that would seal the Black Trench's ravine or scaling the
+Scrip-Forge Raid's accelerant to detonate the Dead Drakma stockpile at Ash-Wharf, Pell Ostra talked
+to chemicals the way other people talked to friends, and had never once been trusted with anything
+more important than a shipment of lamp oil.
 
 The raid on the Marrow Landing counting-house wasn't supposed to reach the records room. It reached
 it anyway, a Compliance detail moving faster than anyone had accounted for, straight toward six

@@ -11,7 +11,7 @@ when killing was the easier option, the same restraint he'd watched cost the Tru
 years earlier.
 
 "You're the same one," he said, once the fighting had stopped and Kanja crouched to cut his bonds
-rather than leave that to a subordinate. "Bane. The one from the Furnace District before that, if the
+rather than leave that to a subordinate. "Bane. The one from the dredge-lines before that, if the
 stories line up right. And now this." He studied the coat, the Trinity relics still humming down from
 the fight. "Three names. One man wearing all of them."
 
@@ -48,4 +48,7 @@ single witness's direct recognition. Resolved through pragmatic self-interest ra
 threat, consistent with the already-locked "Already-Finished Negotiation" presence trait (VB-060)
 without restating it directly. Set three years before the Long Mask begins; full Trinity available,
 no seal on Onyx yet, though Onyx itself doesn't appear on the page this entry. Second entry in the
-Scourge's seventeenth wave.*
+Scourge's seventeenth wave. Corrected Batch 321, 2026-10-02: the dialogue's second-alias callback
+corrected from "the Furnace District" (the Industrial Myth alias's signature event, `MCD-244`) to
+"the dredge-lines" (the Trench Monarch's own domain), matching both the prose and the rule
+statement's stated "Bane, the Trench Monarch, and the Scourge."*

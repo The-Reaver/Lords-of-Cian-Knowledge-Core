@@ -1,6 +1,9 @@
 # The Bridge That Was Still Growing
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1283`). Iron Bastard Alias Chronicle LXIV, wave 22, first entry. The doctrine's first application to a living, growing structure. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1283`); corrected Batch 321, 2026-10-02 (Onyx's Cadence
+Ruin and Obsidian Malice's discharge reworded to the Long-Mask-era kit, since wave 22 falls years
+past the Trinity's age-30 surrender, `MCD-246`). Iron Bastard Alias Chronicle LXIV, wave 22, first
+entry. The doctrine's first application to a living, growing structure. Not a territory Chronicle.*
 
 ---
 
@@ -14,7 +17,7 @@ Every structure he'd ever read had a tension that stayed where he found it until
 
 "It changes everything about what I do." A resonance discharge built for dead material assumed the thing being struck had no way to answer back except by breaking. A living root under stress didn't just fail — it could recoil, shift its own growth toward the injury, protect itself in ways no rope or timber ever had. Reading it as though it were already dead risked killing outright a structure three generations of a settlement had spent that long growing on purpose.
 
-The garrison's advance column reached the gorge's far side before Kanja had finished re-reading it his new way — slower, patient, distinguishing the bridge's own living tension from the six load-bearing anchor roots an enemy sapper crew was already working to sever by hand rather than force him to discharge anything at all. He let them work two of the six loose before Onyx's Cadence Ruin closed the distance in four seconds flat, and Obsidian Malice's discharge went not into the bridge but into the sappers' own cutting tools, shearing every blade to the haft in one pulse.
+The garrison's advance column reached the gorge's far side before Kanja had finished re-reading it his new way — slower, patient, distinguishing the bridge's own living tension from the six load-bearing anchor roots an enemy sapper crew was already working to sever by hand rather than force him to strike anything at all. He let them work two of the six loose before the Rexmar Machete closed the distance in four seconds flat, and the Ironhand Gauntlets' leverage went not into the bridge but into the sappers' own cutting tools, shearing every blade to the haft in one pulse.
 
 The bridge kept its two half-severed roots. The settlement's own arborists said, months later, that the wound had already begun closing over by the time the growing season turned.
 

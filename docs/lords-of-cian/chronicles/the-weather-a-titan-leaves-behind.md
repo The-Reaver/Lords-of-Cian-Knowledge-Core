@@ -1,6 +1,6 @@
 # The Weather a Titan Leaves Behind
 
-*Locked canon, Batch 274, 2026-09-11 (`MCD-1420`). Storm That Walks Alias Chronicle XCIII, wave 31, closing the wave. A Titan-class vessel's distant passage disturbs the water and sky in ways none of the school's three blended traditions can read, mirroring and completing `MCD-1358`'s reverse case from the other side -- the first honest doctrine gap the institution documents rather than solves, closing wave 31 with the frontier still open.*
+*Locked canon, Batch 274, 2026-09-11 (`MCD-1420`). Storm That Walks Alias Chronicle XCIII, wave 31, closing the wave. A Titan-class vessel's distant passage disturbs the water and sky in ways none of the school's three blended traditions can read, mirroring and completing `MCD-1358`'s reverse case from the other side -- the first honest doctrine gap the institution documents rather than solves, closing wave 31 with the frontier still open. Corrected Batch 321, 2026-10-02: the fourth-generation apprentice's pronouns corrected to he/him, matching the clear majority usage across this track, and a writers'-room "Thirty waves" reference removed from the narrative prose.*
 
 ---
 
@@ -16,11 +16,11 @@ Kanja felt it before any of them did, the way he sometimes did without meaning t
 
 They held the fleet at anchor through the disturbance rather than sail into water none of them understood, the same caution the school had built its whole reputation on since a lost escort vessel taught it the cost of doing otherwise. The pulses faded within the day, the vessel's distant passage carrying it beyond even Kanja's own range, and the water settled back into weather the school's traditions could read again.
 
-That evening the apprentice wrote the entry into the creed's book herself, in the space the student had left beside the overlap-window principle weeks before -- not an answer, only an honest question, recorded plainly rather than forced into a shape that fit. *Some disturbances are not storms. We do not yet know how to read what a Titan leaves behind it. This is not a failure of the method. This is the edge of what the method has learned to look for so far.*
+That evening the apprentice wrote the entry into the creed's book himself, in the space the student had left beside the overlap-window principle weeks before -- not an answer, only an honest question, recorded plainly rather than forced into a shape that fit. *Some disturbances are not storms. We do not yet know how to read what a Titan leaves behind it. This is not a failure of the method. This is the edge of what the method has learned to look for so far.*
 
 Efa Gol found Kanja on deck afterward, the ledger still open behind him, and didn't ask what troubled him because she could see it plainly enough.
 
-"Thirty waves," she said, "and the water's still finding new ways to be bigger than what you've built to understand it."
+"All these years," she said, "and the water's still finding new ways to be bigger than what you've built to understand it."
 
 "Good," he said, after a moment, and meant it the way he'd meant very little else all day. "I'd worry more the day it stopped."
 

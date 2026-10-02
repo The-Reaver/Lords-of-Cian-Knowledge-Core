@@ -37,11 +37,13 @@ you're about to lose that same certainty yourself, watching what she does with i
 
 ---
 
-*Continuity notes (not narrative): closes the thirteenth wave by beginning a third generation of the
-lineage -- the apprentice's own student (`MCD-548`) now teaching a student of her own, extending the
-mentorship arc into a genuinely new stage (the apprentice's own uncertainty about teaching, mirroring
-her own first lesson) rather than repeating the flawless-transmission pattern of prior mentorship
-entries. No new named characters beyond the already-locked apprentice and student, both unnamed
-matching established pattern; the newest student is likewise left unnamed. Closes the Crow King's
-thirteenth three-Chronicle wave (with "The Village That Walked Out Singing" and "The Game Neither of
-Them Won").*
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 -- closes the thirteenth wave not
+by introducing any new generation but by deepening the apprentice's own teaching relationship with
+her already-established student (the third generation, `MCD-548`): the student's request to be
+taught properly, rather than simply deployed, prompts the apprentice to teach with real intention for
+the first time, extending the mentorship arc into a genuinely new stage (the apprentice's own
+uncertainty about teaching, mirroring her own first lesson) rather than repeating the
+flawless-transmission pattern of prior mentorship entries. No new named characters beyond the
+already-locked apprentice and third-generation student, both unnamed matching established pattern.
+Closes the Crow King's thirteenth three-Chronicle wave (with "The Village That Walked Out Singing"
+and "The Game Neither of Them Won").*

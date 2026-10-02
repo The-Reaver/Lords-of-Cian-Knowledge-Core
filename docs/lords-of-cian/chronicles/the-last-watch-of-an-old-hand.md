@@ -1,29 +1,35 @@
 # The Last Watch of an Old Hand
 
-*Locked canon, Batch 217, 2026-09-11 (`MCD-958`). Sovereign Ghost of the Great Sea Alias Chronicle LVI, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 217, 2026-09-11 (`MCD-958`); corrected Batch 321, 2026-10-02 (reworded so the
+old hand was already in his mid-forties when he signed on after Ghost Harbor, rather than "nearly the
+same age" as a 21-year-old Kanja, so the loss reads as a lifespan gap -- mortal man against Kanja's own
+longevity -- rather than decades of elapsed fleet service, which this alias's nine-year Rebellion-era
+window can't support). Sovereign Ghost of the Great Sea Alias Chronicle LVI, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
 He had stood the lantern watch longer than anyone else aboard *The Ledger*, one of the hands who'd
-signed on in the first lean season after Ghost Harbor and never once transferred off, and when his
-knees finally refused the ladder to the crow's platform without help, he didn't wait to be told the
-watch belonged to someone younger now.
+signed on in the first lean season after Ghost Harbor already a man of forty-five with a lifetime of
+salt water behind him, and never once transferred off. When his knees finally refused the ladder to
+the crow's platform without help, he didn't wait to be told the watch belonged to someone younger now.
 
-"Forty-one years at sea," he told the eighteen-year-old he was training to take the post, the two of
-them on the deck rather than the platform for the first time in longer than the boy had been alive.
-"Started on a fishing boat before I ever heard the word Rebellion. I'll tell you what nobody tells you
-when you're young enough to think you'll be doing this forever — the sea doesn't slow down for you. You
-just get to a point where you can't keep up with it the way you used to, and the honest thing is to say
-so before it costs someone else the mistake your pride wouldn't let you admit to."
+"The better part of a life at sea," he told the eighteen-year-old he was training to take the post, the
+two of them on the deck rather than the platform for the first time since he'd come aboard. "Started on
+a fishing boat before I ever heard the word Rebellion. I'll tell you what nobody tells you when you're
+young enough to think you'll be doing this forever — the sea doesn't slow down for you. You just get to
+a point where you can't keep up with it the way you used to, and the honest thing is to say so before
+it costs someone else the mistake your pride wouldn't let you admit to."
 
-Kanja found him at the rail that evening, watching the horizon the way he'd watched it for four
-decades, and sat with him without saying much at first — the two of them nearly the same age when the
-old hand had signed on, and nothing close to it now.
+Kanja found him at the rail that evening, watching the horizon the way he had every evening since
+he'd come aboard — the old hand already forty-five when he signed on, Kanja barely past twenty and
+looking it, the gap between them plain from the first day and only growing plainer with each year that
+passed.
 
-"You don't look a day past the man I met wading out of Ghost Harbor's own tide," the old hand said,
-without bitterness in it, just plain observation, the kind only forty years aboard gave a man license
-to make out loud. "I've buried two wives and watched my own hands stop trusting the rigging the way
-they used to. You're still the same age you were the day I signed on."
+"You don't look a day older than the man I met wading out of Ghost Harbor's own tide," the old hand
+said, without bitterness in it, just plain observation, the kind only years serving under the same
+captain gave a man license to make out loud. "I buried two wives before I ever came aboard this fleet,
+back when I still thought that was the worst the sea and time together could do to a man. You're still
+the exact age you were the day I signed on."
 
 "I know," Kanja said. "I don't have a good answer for what that means to the people who sail with me. I
 never have."
@@ -34,15 +40,15 @@ telling you because somebody who's known you the whole way through should say it
 instead of everyone just quietly not mentioning it the way the crew always does."
 
 He stood his last full watch three weeks later, by his own choice rather than any failing that forced
-it, the eighteen-year-old beside him the whole night learning the last of what forty years had taught
-him about reading a dark horizon. He didn't leave the fleet — he stayed aboard as ballast crew, teaching
-knot-work and weather-sense to hands a third his age, until age took him gently, years later, in his own
-bunk rather than at sea, with Garren Hask's ledger recording a name that does not appear here, kept
-private per the same habit the fleet extends to every departure.
+it, the eighteen-year-old beside him the whole night learning the last of what a lifetime at sea had
+taught him about reading a dark horizon. He didn't leave the fleet — he stayed aboard as ballast crew,
+teaching knot-work and weather-sense to hands a third his age, until age took him gently, within the
+year, in his own bunk rather than at sea, with Garren Hask's ledger recording a name that does not
+appear here, kept private per the same habit the fleet extends to every departure.
 
 "That's the part nobody writes the ballads about either," Efa Gol said, at the small service held for
-him at sea. "Not the battles. Just forty years of a man who kept climbing that ladder until his knees
-told him to stop, and taught someone else to climb it after."
+him at sea. "Not the battles. Just a long life at sea, a man who kept climbing that ladder until his
+knees told him to stop, and taught someone else to climb it after."
 
 ---
 

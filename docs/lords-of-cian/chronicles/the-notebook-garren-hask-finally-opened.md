@@ -1,7 +1,8 @@
 # The Notebook Garren Hask Finally Opened
 
 *Locked canon, Batch 251, 2026-09-11 (`MCD-1090`). Captain Alias Chronicle LXII, wave 21. The
-mortality-succession thread advances, deliberately without resolving. Not a territory Chronicle.*
+mortality-succession thread advances, deliberately without resolving. Not a territory Chronicle.
+Corrected Batch 321, 2026-10-02: Corren Halst's pronoun fixed to he/him throughout per `CC-158`.*
 
 ---
 
@@ -29,10 +30,10 @@ rewritten across years: whether the council should keep choosing its own chair b
 it always had, or whether someone should be named now, while the founding generation could still teach
 the role instead of leaving it to be reinvented cold. Hask proposed, hesitantly, a name he'd turned
 over more than any other — Corren Halst, the one among them who'd already led a split engagement on
-her own and never once needed Kanja in the room to make a hard call correctly.
+his own and never once needed Kanja in the room to make a hard call correctly.
 
 Halst didn't accept it on the spot, and didn't pretend the offer wasn't real either. "Ask me again in
-five years," she said. "Not because I'm saying no. Because if the point is that this outlasts any one
+five years," he said. "Not because I'm saying no. Because if the point is that this outlasts any one
 of us, then naming me today because Hask's heart scared him last month is exactly the kind of decision
 the charter was built to slow down, not speed up."
 
@@ -45,7 +46,7 @@ to its blank space instead of an empty page waiting for one.
 
 Kanja walked out beside Halst afterward. "Five years," he said.
 
-"Five years," she agreed. "Ask me again then, and I'll actually have thought about it instead of just
+"Five years," he agreed. "Ask me again then, and I'll actually have thought about it instead of just
 reacting to Hask nearly dying in front of us."
 
 ---

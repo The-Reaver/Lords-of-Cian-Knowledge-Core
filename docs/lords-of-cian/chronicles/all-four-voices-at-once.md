@@ -18,8 +18,9 @@ more ground and more lives with more hands doing the work. This was one garrison
 in every way except who was holding it together.
 
 Kanja took the opening false signal, the same worn, plain-voiced relay he'd used for two decades. The
-apprentice -- rasp-voiced still, the cost of the original marsh trick never healed and never regretted
--- carried the Braid's interleaving through the middle of it, three patterns held steady against a
+apprentice -- rasp-voiced still, the cost of the Braid's six-week rehearsal never healed and never
+regretted -- carried the Braid's interleaving through the middle of it, three patterns held steady
+against a
 sensor grid that had never faced her particular version of the trick. Her own student, the third
 generation, read the garrison's guard rotation the way she'd learned to read almost anything: patient,
 listening longer than felt comfortable before acting at all. And when the garrison's logistics officer
@@ -40,7 +41,10 @@ I'm glad it did."
 
 ---
 
-*Continuity notes (not narrative): the first operation run by the full direct teaching lineage --
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (the narrative originally
+attributed the apprentice's permanent rasp to "the original marsh trick," which had no rehearsal; her
+rasp is established at `MCD-418` as the cost of the Braid's six-week rehearsal instead -- corrected
+above). The first operation run by the full direct teaching lineage --
 Kanja, the second-generation apprentice (`MCD-451`, "The Apprentice Who Learned to Listen," her voice
 already established as permanently rasp-voiced per `MCD-418`), the third generation (her own student,
 `MCD-548`), and the fourth generation (the third generation's student, `MCD-1046`) -- together in one

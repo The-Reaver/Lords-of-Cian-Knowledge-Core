@@ -1,10 +1,11 @@
 # Everyone Who Ever Sailed Under the Name
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-618`). Captain Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-618`). Captain Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the census-keeping reassigned from "Garren Hask's descendants" to the ledger's successive (taught, non-hereditary) keepers, matching the already-locked lineage at `MCD-1384`/`1388`/`1422`/`1423`.*
 
 ---
 
-Garren Hask's descendants had kept the tradition of the ledgers going long after his own hand grew
+The ledger's successive keepers -- each one taught the craft by the keeper before them, never a
+matter of blood -- had kept the tradition of the ledgers going long after Hask's own hand grew
 too unsteady to write in them, and somewhere in the accumulated volumes — a project none of them had
 set out to build on purpose, just years of habit compounding — sat a running tally nobody had
 formally commissioned: every person who had ever served aboard a ship under the name Captain, going
@@ -31,13 +32,14 @@ Kanja sat with the number a long while, the weight of it settling somewhere the 
 displayed so openly. "I never set out to build something this size. I just wanted the people closest
 to me to know I meant it, when I said I'd bring them home or be honest when I couldn't."
 
-"That's exactly how something this size gets built," Garren Hask's own descendant said, closing the
-ledger. "Not by setting out to build it. By meaning the small thing, over and over, for long enough
+"That's exactly how something this size gets built," the ledger's current keeper said, closing the
+volume. "Not by setting out to build it. By meaning the small thing, over and over, for long enough
 that it stops being small."
 
 ---
 
 *Continuity notes (not narrative): a scale-reflection entry using the world's established long
-lifespans to survey the alias's full cumulative reach across decades — extends the Garren Hask
-lineage's ledger-keeping tradition (established in the grandchild entry, wave 8) into a formal
-census. No new named characters. First entry in Captain's fifteenth wave.*
+lifespans to survey the alias's full cumulative reach across decades — extends the ledger's taught,
+non-hereditary keeper tradition (established in the grandchild entry, wave 8, and matching
+`MCD-1384`/`1388`/`1422`/`1423`) into a formal census. No new named characters. First entry in
+Captain's fifteenth wave.*

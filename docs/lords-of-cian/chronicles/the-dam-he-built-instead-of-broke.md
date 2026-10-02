@@ -1,6 +1,11 @@
 # The Dam He Built Instead of Broke
 
-*Locked canon, Batch 205, 2026-09-11 (`MCD-898`). The Iron Bastard Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 205, 2026-09-11 (`MCD-898`); corrected Batch 321, 2026-10-02 (Mafesto's own
+mechanism reworded to the Forge-Coat/Ironfall Boots' grounding function, since wave 16 falls years
+past the Trinity's age-30 surrender, `MCD-246`; "ask the Rebellion for help" reworded to "ask the
+resistance network for help," since the Rebellion itself formally ends at `MCD-245`/`246`). The Iron
+Bastard Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person
+prose.*
 
 ---
 
@@ -8,7 +13,7 @@ There was no enemy at the highland dam, no garrison to break, no column to colla
 Only a settlement of some four hundred people whose water supply depended on a retaining wall built
 two generations earlier by hands with less skill than good intentions, now failing quietly under its
 own accumulated age, and a headman too proud to abandon the only home his people had ever built to
-ask the Rebellion for help through the usual channels.
+ask the resistance network for help through the usual channels.
 
 Kanja had come anyway, word of the failing wall having reached him through an ordinary trader rather
 than any request.
@@ -28,11 +33,11 @@ somewhere worse.
 higher up that had drawn every worried eye in the settlement for a season. "That's the one actually
 carrying the load wrong. The rest is just where the wall is showing you it's tired."
 
-Mafesto's absorbed strength went into holding the correction steady rather than delivering a discharge
-at all — the closest the Trinity had ever come to lending raw force to a structure rather than taking
-it from one, bracing the base seam while local hands packed and resealed it under instruction, the
-resonance doctrine used for the first time not to diagnose a weapon's opening but to keep an ordinary
-wall standing a while longer than its builders' skill alone would have allowed.
+The Forge-Coat and Ironfall Boots' own grounding function went into holding the correction steady
+rather than delivering any discharge at all — Kanja braced against the base seam, his own weight and
+the gear's conductance carrying the load while local hands packed and resealed it under instruction,
+the resonance doctrine used for the first time not to diagnose a weapon's opening but to keep an
+ordinary wall standing a while longer than its builders' skill alone would have allowed.
 
 "You could have broken it in a minute," the headman said afterward, watching the dam hold steady under
 a stress test of released water it hadn't managed cleanly in years. "You spent the better part of a

@@ -37,8 +37,10 @@ found, each time, that it held.
 
 ---
 
-*Continuity notes (not narrative): a quiet, non-combat reflective closer narrated through Callum
-Breck's (`CC-118`, `MCD-238`) own perspective, drawing an explicit parallel between his own
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (citation fix -- `MCD-238` is an
+unrelated Iron Bastard rule; Callum Breck's own dossier and silence arc are `CC-117`/`CC-119`). A
+quiet, non-combat reflective closer narrated through Callum
+Breck's (`CC-117`, `CC-119`) own perspective, drawing an explicit parallel between his own
 already-locked four-month post-Black-Trench silence and Kanja's temporary deafness in "The Silence
 After the Blast" (`MCD-1266`) and near-deception in "The Hunter Who Studied the Hunter" (`MCD-1265`).
 Garren Hask (`CC-115`) reused for continuity. Distinct in register from the prior Crow King closers

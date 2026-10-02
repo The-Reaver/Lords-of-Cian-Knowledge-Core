@@ -45,5 +45,7 @@ earned every year she had it."
 *Continuity notes (not narrative): a ritual/memory entry marking the end of The Audit's operational
 life, distinct from any prior combat-loss entry — a natural retirement rather than a battle death,
 letting the established crew (Hask, Efa Gol, Breck, Dol Maren) each contribute a memory. Extends
-Dol Maren's already-locked shipwright role and Callum Breck's voice-recovery history. No new named
+Dol Maren's already-locked shipwright role and Callum Breck's voice-recovery history. Efa Gol's
+retelling of Iron Shallows is the corrected account per `MCD-233`/`MCD-598` (Batch 321, 2026-10-02)
+-- the decoy force pulled back clear, not a rescue of men already written off as lost. No new named
 characters. Third entry in Captain's eighth wave.*

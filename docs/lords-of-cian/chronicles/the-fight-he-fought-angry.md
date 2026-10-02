@@ -17,10 +17,10 @@ man who'd thrown it — he drove the disarmed guard bodily into the two behind h
 mass and momentum that had nothing tactical about it, everything personal, and the successor watching
 from the boarding line noted it without comment, understanding this wasn't a night for correction.
 
-Obsidian Malice discharged a full two-year charge into a bulkhead that hadn't needed nearly that much
-force to breach, the excess venting as a concussion that dropped three uninvolved crew members who'd
-been nowhere near the fight, an overcorrection he registered only after the fact, with a flicker of
-something that looked, on his own face, uncomfortably close to shame.
+The Ironhand Gauntlets drove a blow into a bulkhead that hadn't needed nearly that much force to
+breach, the excess traveling through the deck as a concussion that dropped three uninvolved crew
+members who'd been nowhere near the fight, an overcorrection he registered only after the fact, with
+a flicker of something that looked, on his own face, uncomfortably close to shame.
 
 The consortium's senior partner, cornered in the flagship's own hold, made the mistake of speaking
 before assessing the room correctly. "They were evidence. We did what any reasonable—"
@@ -46,4 +46,7 @@ remembering, not burying."
 *Continuity notes (not narrative): a rare loss-of-composure register — genuine fury over a rescue
 denied by preemptive murder driving a messier, harder-fought engagement, including a near-overreach
 checked only by the successor's intervention, contrasting sharply with every prior controlled
-showcase. No new named characters. Second entry in the Scourge's fifteenth wave.*
+showcase. No new named characters. Second entry in the Scourge's fifteenth wave. Corrected Batch
+321, 2026-10-02: removed an anachronistic Obsidian Malice presence and its duplicated "two-year
+dormant charge" claim (the Trinity surrendered at age 30, `MCD-246`), swapped for the Ironhand
+Gauntlets doing the same work.*

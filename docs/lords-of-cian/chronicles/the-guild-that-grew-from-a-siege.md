@@ -1,6 +1,6 @@
 # The Guild That Grew From a Siege
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-662`). The Blue-Collar Titan Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-662`). The Blue-Collar Titan Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "joined six weeks earlier" and "in six weeks earlier" both reworded to remove a numeric conflict with the entry's own "fifth week of the siege" framing.*
 
 ---
 
@@ -10,7 +10,7 @@ none of them had been asked to build: a standing association of Killane's underg
 independent of any single crew, meant to outlast the war itself.
 
 "We want to formalize what's already happening," the senior organizer told him, a former
-repair-crew foreman who'd joined six weeks earlier still doubting the whole effort. "Shared
+repair-crew foreman who'd joined in the siege's opening days still doubting the whole effort. "Shared
 knowledge of the tunnel network. A standard for what's safe to dig and what isn't, taught the way
 you've been teaching it. Mutual aid when a crew loses someone. We don't want it to end when the
 soldiers leave."
@@ -39,7 +39,7 @@ would have cost you nothing."
 "It would have cost them everything, eventually. A name outlives a man's reputation exactly as long
 as the man's reputation holds up, and no reputation holds up forever." Kanja watched the founders
 carry the signed charter off toward the surface, toward a peacetime none of them had fully believed
-in six weeks earlier. "I'd rather they build something that doesn't need me to keep standing."
+in when they'd first joined. "I'd rather they build something that doesn't need me to keep standing."
 
 ---
 

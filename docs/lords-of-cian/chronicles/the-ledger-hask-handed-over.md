@@ -1,6 +1,6 @@
 # The Ledger Hask Handed Over
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1384`). Captain Alias Chronicle LXXXIV, wave 28, closing the wave. Garren Hask formally hands the crew's ledger to the deckhand Kanja once taught to read.*
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1384`). Captain Alias Chronicle LXXXIV, wave 28, closing the wave. Garren Hask formally hands the crew's ledger to the deckhand Kanja once taught to read. Corrected Batch 321, 2026-10-02: "Thirty years of context" softened to "the better part of twenty years," matching the C9 reconciliation applied to `MCD-920`/`MCD-1514`.*
 
 ---
 
@@ -10,7 +10,7 @@ Garren Hask had been threatening to hand the ledger over for years, the way he'd
 
 The deckhand — grown now, steady, unrecognizable as the same anxious young hand who'd once traced letters under Kanja's patient finger — took the ledger with both hands, the same way Hask had once taken it from whoever kept it before him, a lineage none of the newer crew had ever thought to ask about.
 
-"I don't know everything you know," the deckhand said. "Thirty years of context in every line."
+"I don't know everything you know," the deckhand said. "The better part of twenty years of context in every line."
 
 "Nobody ever does, the day they take it over. That's not a flaw in the handoff. That's just what a handoff is." Hask smiled, the first genuinely unguarded smile Kanja had seen from him since the health scare years before. "You'll learn the rest the way I did. By keeping it long enough that it becomes yours."
 

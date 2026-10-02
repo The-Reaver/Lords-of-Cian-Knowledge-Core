@@ -6,7 +6,7 @@
 
 Efa Gol had run decoy and diversion command on every major engagement since Ash-Wharf, a hundred and
 twenty-eight years of reading a crowd's panic and turning it into a shape the crew could use, and she
-told him plainly, the morning after the Salt Keep's harbor siege, that this had been her last one.
+told him plainly, years after the Salt Keep's wall breach, that this had been her last one.
 
 "Not because I can't," she said, before he could ask, because she knew he would. "Because I've started
 noticing the half-second where I used to just know which way a crowd was going to break, and now I
@@ -48,4 +48,7 @@ leaving you to find out the hard way that it should have been."
 role rather than a written record, distinct in register from Garren Hask's ledger-keeping reflections
 elsewhere in this run — command competence eroding gracefully and being handed off deliberately,
 before failure rather than after it. No new named characters (the successor is referenced, not
-introduced). First entry in the Scourge's eighth wave.*
+introduced). First entry in the Scourge's eighth wave. Corrected Batch 321, 2026-10-02: the Salt
+Keep callback corrected from "the morning after... harbor siege" (false immediacy -- this entry is
+set at age 150, a decade after the Salt Keep's age-140 fall, `MCD-446`) to "years after... wall
+breach" (`MCD-446` was a wall breach, not a harbor siege).*

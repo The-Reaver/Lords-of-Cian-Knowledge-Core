@@ -18,4 +18,4 @@ When the quarantine finally lifted six weeks later, the crew returned and closed
 
 ---
 
-*Continuity notes (not narrative): the method's first district-wide humanitarian-crisis entry, distinct from MCD-928's individual foreman's-daughter fever death -- here an entire district is sealed for six weeks and the case must be built entirely secondhand through a single courier, forcing the ledger to explicitly mark what it can and cannot verify rather than guessing. No new named characters; the midwife-courier, the administrator, and the district workers are unnamed. Strictly unarmed and non-combat throughout.*
+*Continuity notes (not narrative): the method's first district-wide humanitarian-crisis entry, distinct from MCD-405's individual foreman's-daughter fever death -- here an entire district is sealed for six weeks and the case must be built entirely secondhand through a single courier, forcing the ledger to explicitly mark what it can and cannot verify rather than guessing. No new named characters; the midwife-courier, the administrator, and the district workers are unnamed. Strictly unarmed and non-combat throughout.*

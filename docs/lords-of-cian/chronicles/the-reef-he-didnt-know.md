@@ -12,9 +12,10 @@ account he'd gathered in two and a half centuries of following chains across eve
 
 The Sovereign Eyes' recalibrated lenses read the reef's structure through water clouded with silt no
 chart had recorded, picking out channels wide enough for a launch boat between coral formations that
-would have gutted anything larger on the first pass. Mafesto's Kinetic Transfer System, tuned across
+would have gutted anything larger on the first pass. The Forge-Coat's grounding weave, tuned across
 years to naval boarding impacts, adapted without complaint to a new kind of shock entirely — the jolt
-of a launch boat scraping coral rather than taking cannon fire, converted and stored exactly the same.
+of a launch boat scraping coral rather than taking cannon fire, turned harmlessly aside exactly the
+same.
 
 The depot's guards, confident the reef itself was their true defense, had grown careless in a way
 generations of Salt-Keep-trained crews back home would never have permitted, and the Forge-Coat's
@@ -44,4 +45,6 @@ impossible for anyone but themselves.
 *Continuity notes (not narrative): the V4 gear's sensory refinement tested in genuinely unfamiliar
 terrain — a reef system never before encountered — demonstrating the mature Sovereign Eyes'
 capabilities distinctly from the earlier debut's teething failures. No new named characters. Third
-entry in the Scourge's ninth wave.*
+entry in the Scourge's ninth wave. Corrected Batch 321, 2026-10-02: removed an anachronistic Mafesto
+reference (the Trinity surrendered at age 30, `MCD-246`), swapped for the Forge-Coat's grounding
+weave.*

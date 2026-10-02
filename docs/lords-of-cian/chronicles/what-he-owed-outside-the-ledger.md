@@ -68,8 +68,9 @@ tally-verification/restitution method (`MCD-231`), since the loss in question --
 grafted orchard stock, destroyed by necessary military flooding -- has no owner to charge and no
 coin figure that closes it; the entry ends on acknowledgment and honest record-keeping rather than
 repair, a first for the sub-series. No new named characters -- the woman is unnamed, and Garren Hask
-(already locked) appears in his established ledger-keeper role. Collision-checked: "Kessic flats" is
-new geography (no existing ledger hit under this name), introduced as a plain agricultural flood
-zone consistent with the already-locked Dredge-Line Ambush's canal-flooding mechanics (`MCD-231`) and
-not claimed as a settlement, Hold, or Atlas-tracked location. First entry in the Trench Monarch's
+(already locked) appears in his established ledger-keeper role. Collision-checked: "Kessic flats"
+sits within the same broader Kessic region as the already-locked Kessic installations found
+elsewhere in the Chronicle corpus, introduced here as a plain agricultural flood sub-area consistent
+with the already-locked Dredge-Line Ambush's canal-flooding mechanics (`MCD-231`) and not claimed as
+a settlement, Hold, or Atlas-tracked location in its own right. First entry in the Trench Monarch's
 twenty-first wave.*

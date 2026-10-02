@@ -15,10 +15,10 @@ The Forge-Coat's V2 grounding weave, built for absorbing cannon concussion and b
 across a rolling deck, adapted without complaint to a different kind of violence entirely — a
 mounted outrider's lance took the coat's shoulder plating dead-on and transferred its force into the
 weave's structure instead of the man wearing it, the horse veering off riderless a heartbeat later.
-Mafesto's Kinetic Transfer System, tuned across years of naval boarding actions to absorb the jolt of
+The same grounding weave, tuned across years of naval boarding actions to absorb the jolt of
 grappling hooks and falling rigging, found the caravan's own thrown stones and swung cudgels a
-strange but entirely serviceable substitute, storing each impact as readily as it had ever stored a
-wave's slap against a hull.
+strange but entirely serviceable substitute, turning each impact harmlessly aside the same way it
+had ever turned aside a wave's slap against a hull.
 
 Dust replaced smoke as the medium the Sovereign Eyes' amber lenses had to read, and read it they did
 — the escort's flanking riders picked out through a haze that would have hidden them from any
@@ -29,9 +29,9 @@ from cold. "You're supposed to be a sailor's ghost story. What are you doing thr
 sea?"
 
 "Following the chains. They don't stop being chains just because the ground under them dried out."
-Obsidian Malice's two-year charge, still full, went unspent — the wagon locks gave to the Ironhand
-Gauntlets alone, riveted plate tearing hasps that had never been built to survive a man's bare
-strength applied with intent. "You picked this road because you thought it was safe from me. It
+The wagon locks gave to the Ironhand Gauntlets alone, riveted plate tearing hasps that had never
+been built to survive a man's bare strength applied with intent. "You picked this road because you
+thought it was safe from me. It
 wasn't the road that made you safe before. It was that nobody who could stop you had bothered to
 follow this far."
 
@@ -47,6 +47,8 @@ turning back toward the freed line, done with the conversation. "That part trave
 ---
 
 *Continuity notes (not narrative): the first land-based liberation in the Scourge's Chronicle run,
-proving the gear system (Forge-Coat V2, Mafesto, Sovereign Eyes, Ironhand Gauntlets) functions
+proving the gear system (Forge-Coat V2, Sovereign Eyes, Ironhand Gauntlets) functions
 identically off water — a new terrain register distinct from every prior naval/harbor showcase. No
-new named characters. Second entry in the Scourge's sixth wave.*
+new named characters. Second entry in the Scourge's sixth wave. Corrected Batch 321, 2026-10-02:
+removed an anachronistic Mafesto/Obsidian Malice presence (the Trinity surrendered at age 30,
+`MCD-246`), swapped for the Forge-Coat/Ironhand Gauntlets doing the same work.*

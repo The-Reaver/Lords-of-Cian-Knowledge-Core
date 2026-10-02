@@ -10,8 +10,8 @@ Voris had stepped back from active pursuit years before, not in disgrace and not
 way a man sets down a study he's finally satisfied he's finished. His second took the command in his
 place and, with it, inherited a filing cabinet's worth of reports, two scarecrows kept in a corner
 for reasons the old commandant had never fully explained, and no clear answer for what he was
-supposed to do the first time the Crow King's name came across his own desk instead of his
-predecessor's.
+supposed to do the first time an operation carrying all the old Crow King hallmarks landed on his own
+desk instead of his predecessor's.
 
 He did what seemed reasonable: he read every report Voris had ever filed, cover to cover, twice.
 
@@ -42,11 +42,15 @@ useful than any answer he could have handed over instead.
 
 ---
 
-*Continuity notes (not narrative): institutional continuation of the Voris arc without contradicting
-its established closure -- "The Last Scarecrow" (Chronicle XLV, `MCD-860`) already establishes Voris
-has stepped back from active operational pursuit and does not receive further scarecrows; this entry
-keeps him offstage in that same retired capacity, consulted rather than re-engaged in the field, and
-introduces his already-referenced "own second" (Chronicle XLV) now promoted in his place, facing the
-craft directly for the first time. No new named characters; both the new commandant and Voris's
-current second are unnamed, and Voris himself remains the only named figure on the Directorate side
-of this alias's run. No new proper nouns.*
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (overclaim/citation wording, and
+the "Crow King's name came across his own desk" line in the narrative above reworded to treat the
+craft as a recognizable phenomenon/legend rather than an actively, formally pursued named Rebellion-
+era classification -- Kanja himself operates under the Scourge identity by this point in the Long
+Mask, `ARS-310`). Institutional continuation of the Voris arc without contradicting its established
+closure -- consistent with, and extended by, Voris's established retirement from active operational
+pursuit at "The Last Scarecrow" (Chronicle XLV, `MCD-860`); this entry keeps him offstage in that same
+retired capacity, consulted rather than re-engaged in the field, and introduces his already-referenced
+"own second" (Chronicle XLV) now promoted in his place, facing the craft directly for the first time.
+No new named characters; both the new commandant and Voris's current second are unnamed, and Voris
+himself remains the only named figure on the Directorate side of this alias's run. No new proper
+nouns.*

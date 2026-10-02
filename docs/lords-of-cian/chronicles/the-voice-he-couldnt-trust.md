@@ -25,9 +25,8 @@ bars herself — a register she'd built years ago, distinct from his own, that h
 to carry the operation's entire weight alone. "You taught me the pattern. You didn't teach me that I
 needed you standing next to me to run it."
 
-He fell back to signal instead — hand patterns, the old percussive taps against his own armor plate
-that the craft had carried as a secondary channel since long before this compound, since a wind shift
-years back had first forced real-time improvisation out of necessity rather than design. It wasn't
+He fell back to signal instead — hand patterns, percussive taps against his own armor plate, invented
+on the spot for lack of any better option, nothing the craft had ever needed before tonight. It wasn't
 enough on its own to fool anyone. It was enough to tell her, in real time, when the patrol's attention
 had genuinely turned and when it hadn't, freeing her to adjust the pattern's rhythm without breaking
 her own voice to check.
@@ -59,12 +58,15 @@ couldn't speak.
 
 ---
 
-*Continuity notes (not narrative): the first entry across all sixteen waves built around a genuine
+*Continuity notes (not narrative): corrected Batch 321, 2026-10-02 (citation fix -- "When the Plan
+Broke Mid-Song," Chronicle XXVI, `MCD-841`, has no tap signals at all, only a wind-shift-forced vocal
+improvisation; the percussive/tap-signal channel is established here, in this entry, for the first
+time, not retroactively). The first entry across all sixteen waves built around a genuine
 physical limit landing on Kanja himself rather than a crew member, a tactic's opponent, or a
 bystander — a throat wound that removes his own voice from an operation already underway, forcing the
 already-locked apprentice to carry a full pattern alone for the first time and Kanja to fall back on
-the craft's older percussive/tap signal channel (established in "When the Plan Broke Mid-Song,"
-Chronicle XXVI) as a coordination backup rather than a deception tool in its own right. Distinct from
+a percussive/tap signal channel, established here for the first time as a
+coordination backup rather than a deception tool in its own right. Distinct from
 "What the Silence Taught Them" (Chronicle XXX), which was the apprentice's own conceptual realization
 that the craft was never purely vocal; this entry is a forced, bodily constraint on Kanja specifically,
 tested under real operational pressure rather than arrived at through reflection. Establishes a new

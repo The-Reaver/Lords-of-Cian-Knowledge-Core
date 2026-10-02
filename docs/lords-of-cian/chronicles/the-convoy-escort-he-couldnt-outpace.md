@@ -11,7 +11,7 @@ the principle correct more often than not.
 
 Every time the Forge-Coat's crew closed within striking range of the lead transport, the convoy split
 into three scattered lines across pre-scouted channels, forcing a choice between pursuing the largest
-prize or catching none of them at all. Every time Mafesto's stored charge built toward a decisive
+prize or catching none of them at all. Every time the Long Mask's own gear built toward a decisive
 strike, the escort commander's own scouts read the buildup and scattered his ships wider still,
 trading formation discipline for pure unpredictability.
 
@@ -21,8 +21,8 @@ engagement he lets us have is small enough to cost him one ship instead of the w
 
 "Then we stop chasing the convoy and start reading where it has to end up." He'd spent the third
 night doing exactly that — not raw pursuit, but mapping every channel the scattered lines could
-plausibly use before running out of open water entirely, the way Sovereign Eyes had once read a reef
-no chart recorded, applied now to a wider, slower kind of puzzle.
+plausibly use before running out of open water entirely, the Sovereign Eyes turned now to a wider,
+slower kind of puzzle than any single reef had ever posed.
 
 By the fourth day's end, two of the convoy's three scattered lines had been run down and boarded,
 freeing three hundred and eight captives across both engagements — a genuine, substantial victory,
@@ -44,4 +44,7 @@ again."
 
 *Continuity notes (not narrative): an extended multi-day pursuit-and-attrition register, distinct
 from every prior single-decisive-engagement showcase, ending in a genuine partial success rather than
-total victory. No new named characters. Second entry in the Scourge's thirteenth wave.*
+total victory. No new named characters. Second entry in the Scourge's thirteenth wave. Corrected
+Batch 321, 2026-10-02: removed an anachronistic Mafesto reference (the Trinity surrendered at age
+30, `MCD-246`), swapped for the Long Mask's own gear; removed a forward reference to "The Reef He
+Didn't Know" (`MCD-812`, age 255, which hasn't happened yet at this entry's age 160).*

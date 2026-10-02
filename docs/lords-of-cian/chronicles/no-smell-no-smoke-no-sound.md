@@ -1,6 +1,6 @@
 # No Smell, No Smoke, No Sound
 
-*Locked canon, Batch 244, 2026-09-11 (`MCD-1068`). Blue-Collar Titan Alias Chronicle LXI, wave 21. The alias's first asphyxiant-vapor hazard entry, a detailed full-Trinity rescue showcase distinct from every prior water-, fire-, and collapse-based crisis. Not a territory Chronicle.*
+*Locked canon, Batch 244, 2026-09-11 (`MCD-1068`). Blue-Collar Titan Alias Chronicle LXI, wave 21. The alias's first asphyxiant-vapor hazard entry, a detailed full-Trinity rescue showcase distinct from every prior water-, fire-, and collapse-based crisis. Not a territory Chronicle. Corrected Batch 321, 2026-10-02: "four Chronicles back" reworded to "weeks back"; "stayed sheathed" corrected to "stayed at his back" (Obsidian Malice is a war club with no sheath, `ARS-030`).*
 
 ---
 
@@ -12,7 +12,7 @@ Twenty-one laborers were working the gallery on the other side, unaware, on a sc
 
 Mafesto's kinetic transfer had never been asked to read weight before — not heat through stone, not pressure and current through standing water, but density itself, the almost imperceptible way heavier air settled and pooled along a gallery's low points while breathable air rode above it. Kanja mapped the pocket a stride at a time, memorizing where the floor of it sat relative to twenty-one men who had no idea they were standing in the shallow end of something that would eventually cover their heads.
 
-Obsidian Malice stayed sheathed. A discharge strong enough to breach rock was strong enough to spark against trapped mineral vapor mixed through the pocket — venting the gas the way he'd vented smoke four Chronicles back would as likely ignite it as clear it. The two problems looked similar and solved in opposite directions, and getting that backward here meant a fireball instead of a rescue.
+Obsidian Malice stayed at his back. A discharge strong enough to breach rock was strong enough to spark against trapped mineral vapor mixed through the pocket — venting the gas the way he'd vented smoke weeks back would as likely ignite it as clear it. The two problems looked similar and solved in opposite directions, and getting that backward here meant a fireball instead of a rescue.
 
 So he cut, instead of striking. Onyx of Oblivion's Soulbound Edge found a narrow seam above the gallery's original ventilation shaft — sealed, not by accident, by the same crew that had opened the gas pocket below — and opened it with a single controlled draw, no spark, no percussion, just clean stone parting along a line his hand had already read. Fresh air fell through the new gap and pushed the heavy vapor down and out through the original low drain Mafesto had already mapped, a slow, deliberate displacement instead of a violent vent. Cadence Ruin dropped the two engineers stationed to confirm no one walked out of that gallery breathing; Veil Piercer caught a third who'd started running for the surface to report it working.
 

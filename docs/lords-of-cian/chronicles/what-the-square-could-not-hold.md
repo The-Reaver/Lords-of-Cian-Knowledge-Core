@@ -1,6 +1,6 @@
 # What the Square Could Not Hold
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-666`). The Blue-Collar Titan Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-666`). The Blue-Collar Titan Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "a lever and a cutting tool" corrected to "a lever and a breaking bar" (Obsidian Malice is a war club, `ARS-030`, not a cutting implement).*
 
 ---
 
@@ -12,7 +12,7 @@ Kanja was three streets away when he heard it.
 
 There was no Trinity combat in what followed, no enemy to fight — only Mafesto's Kinetic Transfer
 System steadying his footing on unstable rubble that shifted with every step, and Obsidian Malice
-used exclusively as a lever and a cutting tool, clearing collapsed stalls off trapped vendors one
+used exclusively as a lever and a breaking bar, clearing collapsed stalls off trapped vendors one
 careful section at a time while civilians who'd never heard the alias's name in connection with
 anything but rumors of a war they weren't part of watched a stranger in worn armor dig through
 their own market by hand.

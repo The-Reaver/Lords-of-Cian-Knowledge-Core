@@ -1,6 +1,6 @@
 # The Man He Let Walk Away
 
-*Locked canon, Batch 268, 2026-09-11 (`MCD-1402`); corrected Batch 320, 2026-10-01 (Danne Sok reconciled to he/him, matching `CC-159`). Blue-Collar Titan Alias Chronicle XCIII, wave 31, closing the wave. A former-enemy reconciliation entry -- the Trust combat engineer spared in "The Engineer Who Fought Like One" returns years later, no longer an adversary.*
+*Locked canon, Batch 268, 2026-09-11 (`MCD-1402`); corrected Batch 320, 2026-10-01 (Danne Sok reconciled to he/him, matching `CC-159`); corrected Batch 321, 2026-10-02 ("thirty-odd Chronicles' worth" reworded to "years"). Blue-Collar Titan Alias Chronicle XCIII, wave 31, closing the wave. A former-enemy reconciliation entry -- the Trust combat engineer spared in "The Engineer Who Fought Like One" returns years later, no longer an adversary.*
 
 ---
 
@@ -10,7 +10,7 @@ Kanja recognized the walk before he recognized the face -- a man crossing the pl
 
 "You didn't have to." Kanja set down the level he'd been using and studied him properly for the first time since the duel that had ended in a stalemate neither of them finished. "You look like a man who's spent the years since building things instead of defending them."
 
-"Mostly. The war left half my own district's infrastructure in worse condition than anything I ever tried to break of yours." The engineer glanced toward the plaza's new well, the guild hall down the street, the visible evidence of thirty-odd Chronicles' worth of work. "I came to ask something I wouldn't have believed myself capable of asking, back when we were choosing ground to fight on instead of ground to build on. I want your crew's help. Not the alias's reputation -- your actual people, the ones who know what they're doing."
+"Mostly. The war left half my own district's infrastructure in worse condition than anything I ever tried to break of yours." The engineer glanced toward the plaza's new well, the guild hall down the street, the visible evidence of years of work. "I came to ask something I wouldn't have believed myself capable of asking, back when we were choosing ground to fight on instead of ground to build on. I want your crew's help. Not the alias's reputation -- your actual people, the ones who know what they're doing."
 
 It would have been easy, and not unreasonable, to hear a request like that as an opening for suspicion -- a former enemy engineer seeking access to the crew that had out-built and outfought his own side for the length of a siege. Kanja didn't reach for that reading. The man across from him had chosen not to finish a fight he could plausibly have won, on the strength of nothing but recognizing honest craft in an opponent; that debt, unlike most owed from the war, had already been repaid in full the moment the blade came down.
 

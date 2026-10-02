@@ -1,6 +1,6 @@
 # The Defector Who Chose the Name
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-598`). Captain Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-598`). Captain Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the sailor's account of Iron Shallows reframed from an invented six-man rescue to the actual locked event -- holding position to pull Efa Gol's thirty-fighter decoy force back out safely under pressure (`MCD-233`), which asserts zero casualties on either side.*
 
 ---
 
@@ -14,13 +14,15 @@ defectors usually did. He asked to join the crew.
 "I understand it better than you think." The sailor hadn't slept, by the look of him — the decision
 had clearly cost him something to reach. "I've served eleven years under officers who'd let half a
 crew drown before they'd risk a ship's schedule to pull them out. I heard what your captain did at
-Iron Shallows — held position under fire to recover six men who'd already been written off as lost,
-cost him the tactical advantage of the whole engagement to do it. My own commander wouldn't have
-spent a minute of delay on six men. Yours spent an hour."
+Iron Shallows — held the line long enough to pull every one of the thirty decoy fighters back clear
+of the escort's response before the causeway ever came down, when half a commander in his position
+would have let the timing slip and called the risk acceptable. My own commander wouldn't have spent
+a minute of delay on thirty men who weren't officially in danger yet by his own ledger. Yours spent
+an hour making sure not one of them ever was."
 
 "That's the story," Kanja said, arriving in time to hear the last of it. "I'd want you to know the
 truth of it before you decide anything on the strength of a story. It wasn't calculated generosity.
-It was six of my own people, and I wasn't leaving without them, cost or no cost."
+It was my own people, and I wasn't leaving until every one of them was clear, cost or no cost."
 
 "That's exactly why I'm here," the sailor said. "Not because it was strategic. Because it wasn't,
 and you did it anyway."
@@ -44,5 +46,7 @@ somewhere was actually true," the man said. "That's worth more than safety, in t
 *Continuity notes (not narrative): shows the reputation for care functioning as active recruitment
 leverage before someone even joins — distinct from wave 5's "former enemy officer earning trust,"
 which covered a joined member's slow proving; this entry covers the decision to defect itself,
-grounded in the already-locked Iron Shallows recovery. No new named characters. Second entry in
-Captain's eighth wave.*
+grounded in the already-locked Iron Shallows decoy-withdrawal (`MCD-233`). No new named characters.
+Second entry in Captain's eighth wave. Corrected Batch 321, 2026-10-02: removed an invented six-man
+rescue that contradicted `MCD-233`'s locked zero-casualty account, reframed as the tense withdrawal
+of Efa Gol's own thirty-person decoy force.*
