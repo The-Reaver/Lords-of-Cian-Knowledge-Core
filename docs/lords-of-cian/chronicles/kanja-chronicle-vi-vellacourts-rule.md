@@ -17,7 +17,7 @@ unnamed. No child-safety issues.*
 
 ---
 
-**Dark Ledger.** Somewhere a little past the half-billionth second. A held breath, long, longer than
+Dark Ledger. Somewhere a little past the half-billionth second. A held breath, long, longer than
 a man of his size should hold one, and a cold that came on all at once and stayed. Then a strain in
 the right hand, sharp, the kind a hand takes when it closes on something that is trying very hard to
 move. Then, a short while after, a single spike.
@@ -42,7 +42,8 @@ everything I had.
 
 What follows, I learned later. Some of it I read out of his body when his hand found the grip again:
 the old cut across the inside of his left wrist, the precise memory his right hand still keeps of a
-blade it was told to hold still. Some of it he gave me, when I asked, in the plain way he gives anything. And the rest is
+blade it was told to hold still. Some of it he gave me, when I asked, in the plain way he gives
+anything. And the rest is
 Mordane's, which every harbor on the Gale Straits can still recite, and which I have checked against
 the other two and found, to my surprise, accurate.
 
@@ -77,7 +78,7 @@ The sailors called it Vellacourt's Rule. Other captains copied it. By the time t
 Vellacourt, there were nine ships on that coast with a red lever on the quarterdeck, and the man
 could not board a single one of them.
 
-That is the arithmetic, and I want it understood, because the stories leave it out. Since the Pier he
+That is the arithmetic. Since the Pier he
 had freed people the slow way, the honest way, by paper and pressure and pursuit, and pursuit had
 always been the one tool that never failed him. Vellacourt had broken it. While the Rule stood, every
 slaver he chased became a hold full of drowned people, and every hold full of drowned people was
@@ -85,8 +86,8 @@ paid for by the Trust and logged as his doing. The Rule did not just protect Vel
 man the thing that killed the people he came for.
 
 He told me it took him a season to decide. The bigger the cost, the longer the columns, and the
-quieter he gets. He did not decide to kill
-Vellacourt because Vellacourt was the worst man on that coast. He decided because the Rule was
+quieter he gets. He did not decide to kill Vellacourt
+because Vellacourt was the worst man on that coast. He decided because the Rule was
 Vellacourt's, and a rule belongs to the man people name it after, and a rule only dies when what
 happened to that man becomes the thing everyone remembers instead.
 
@@ -137,8 +138,8 @@ hatch onto the main deck the way a man goes up the stairs of his own house.
 He did not hide. That was the choice.
 
 He carried the smoke capsules in the coat's shoulders even then, and could have filled the deck in a
-breath and taken Vellacourt in the cloud unseen. He did not open one. The whole point of the night was that it had to
-be seen. A man killed in smoke becomes a rumor. A man killed in lantern light, in front of his own
+breath and taken Vellacourt in the cloud unseen. He did not open one. The whole point
+of the night was that it had to be seen. A man killed in smoke becomes a rumor. A man killed in lantern light, in front of his own
 crew, by someone who has told them in advance exactly what will happen, becomes a rule.
 
 The watch saw him come out of the forward hatch soaking wet, collar up, eyes burning amber in the
@@ -156,9 +157,9 @@ anything.
 and sit on the deck, you will row home tonight in your own boats, and nobody will follow you. I'm
 telling you now so that you have time to decide."
 
-Mordane's is the only account I trust, because it is the only one that admits he was afraid. He said nobody argued. It was not that the man was threatening them; it
-was that he spoke as if the thing had already
-been decided somewhere they had not been invited, and he was only informing them of the result. He
+Mordane's is the only account I trust, because it is the only one that
+admits he was afraid. He said nobody argued. It was not that the man was threatening them; it was
+that he spoke as if the thing had already been decided somewhere they had not been invited, and he was only informing them of the result. He
 said the first man to sit down was the bosun, who was the hardest man aboard, and that after that it
 was easy.
 
@@ -297,7 +298,7 @@ hundred and forty freed; forty men rowed home; a rule ended; the cost, a scar al
 left wrist, and, some thirty years on, a brace across the wrist of the next gauntlets he built. He
 says the brace was never about Vellacourt. I have noted that he says so.
 
-The memory is the receipt. I have it now. I did not have it then. For eighteen years I listened in the
+I have it now. I did not have it then. For eighteen years I listened in the
 dark for that spike and did not hear it, and when it came it came alone, and I did not know what it
 cost him, and I logged it as it was: one, and his heart unmoved.
 

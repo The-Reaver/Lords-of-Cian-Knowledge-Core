@@ -8,7 +8,7 @@ twelve Branded commandos, Kanja's passive Kinetic Buffer (`MCD-060`, Stage 1 Sub
 skeleton (`MCD-060` Stage 3 Sub 1, with `MCD-291`'s grounding/conductance mechanic) do the work of
 combat he can no longer physically perform -- the origin of the late-era "immobility as a weapon"
 doctrine. A marquee kill under `MCD-1881`: all twelve commandos die, each death chosen and counted
-under `CC-161`. New named characters: Calloway (the contract's leader), Rusk, Vossic, and Ghast, all
+under `CC-161`. New named characters: Garrick (the contract's leader), Rusk, Verrick, and Ghast, all
 collision-checked clean against the full ledger and Chronicle corpus; the other eight commandos are
 recorded only by their Choice-Brand marks (`MAW-076`), no names given. Valen reused (peripheral,
 after the fight). Gear at its age-240 versions: Forge-Coat V4, Sovereign Eyes V4, Ironhand Gauntlets
@@ -17,11 +17,10 @@ of Mao. Onyx sealed at L9 throughout, not present. No child-safety issues.*
 
 ---
 
-Somewhere past the six-and-a-half-billionth second, the Dark Ledger holds this:
+Dark Ledger. Somewhere past the six-and-a-half-billionth second.
 
 Strain, sudden, in the long bones of both legs, going down. Again. Again. A kill. Strain. A kill.
-Twelve kills inside a few minutes. Once, a
-wound -- shallow, left side, under the ribs. Afterward, an ache in the legs that lasted until
+Twelve kills inside a few minutes. Once, a wound -- shallow, left side, under the ribs. Afterward, an ache in the legs that lasted until
 morning. And through all of it, from before the first signal to long after the last, his heart did
 not change. Not when the strain came. Not when the wound came. Not at any of the twelve.
 
@@ -34,7 +33,7 @@ I was not there. Let that be said plainly, because the stories never say it. I w
 Infinite, at L9, in a case lined with Dead Drakma, and I had been for two hundred and ten years. What
 follows I learned later, when his hand found my grip again: from his legs, which still carry the
 memory of that night in the way they set themselves when he stands; from a seam of healed tissue
-beneath his left ribs; from the old fracture-lines in the stone, which a crewman sketched; and from
+beneath his left ribs; from the old fracture-lines in the stone, which a crewman sketched and he kept; and from
 his own ledger, where he wrote the twelve down the same night, sitting, because by then he could not
 stand any longer.
 
@@ -98,15 +97,15 @@ called the Captain's voice, lower and flatter than anything a throat should make
 
 There was a pause long enough for someone to laugh, and someone did.
 
-"Calloway," said the one in front. Then, after a moment, as if it were a joke they had agreed to share
-with him: "Rusk." "Vossic." "Ghast." The other eight said nothing. That was their right.
+"Garrick," said the one in front. Then, after a moment, as if it were a joke they had agreed to share
+with him: "Rusk." "Verrick." "Ghast." The other eight said nothing. That was their right.
 
 "Show me your arms," the man said.
 
-The legend never understood why he asked it. Calloway did. Calloway had stood on a Slab beside fighters who had been branded
+The legend never understood why he asked it. Garrick did. Garrick had stood on a Slab beside fighters who had been branded
 in their first three days of life, and he knew what the old man was asking. He pushed his sleeve back
 and turned his inner forearm to the lantern. A Choice-Brand: a mark he had chosen, applied the day he
-certified, a free man's mark. One by one, the rest did the same. Rusk's was a wheel. Vossic's, a
+certified, a free man's mark. One by one, the rest did the same. Rusk's was a wheel. Verrick's, a
 plumb line. Ghast's, a closed eye. The eight unnamed carried a fishhook, an open hand, a key, a
 crescent, two crossed nails, a ladder, a bell, and a broken chain.
 
@@ -120,14 +119,15 @@ that word something that made the lanterns feel smaller.
 
 "Walk back up the corridor," he said, "and you will live. That is the only time I will offer it."
 
-Calloway had been told he would say something like that. He said so. "We were told you'd talk.
+Garrick had been told he would say something like that. He said so. "We were told you'd talk.
 We were told you can't stand for longer than an hour. It's been a long walk up that cliff, old man,
 and it's a short corridor."
 
-The man did not answer, because there was nothing in what Calloway had said that needed answering.
-Seven years of contracted work had taught Calloway to read a room, and he read this one, and he did
-not like what it told him. Nobody here was negotiating. Whatever was going to happen in this corridor had been settled somewhere he had not
-been invited, and he had arrived only in time to be told.
+The man did not answer, because there was nothing in what Garrick had said that needed answering.
+Seven years of contracted work had taught Garrick to read a room, and he read this one, and he did
+not like what it told him. Nobody here was negotiating. Whatever was going to happen in
+this corridor had been decided before he climbed the cliff, by someone who had not needed him there
+to decide it.
 
 Mercy is earned. Memory is the receipt. He had made the offer. None of them took it.
 
@@ -140,10 +140,9 @@ on the Slab, because the opponent goes backward and the fight becomes a matter o
 
 The man did not go backward.
 
-This is what the Kinetic Buffer does, and the stories always make it into something else. It does
-not throw a blow back. It does not reflect. It dampens. It takes the energy of an impact and spends
+This is what the Kinetic Buffer does. It does not throw a blow back. It does not reflect. It dampens. It takes the energy of an impact and spends
 it, the way still water spends a stone, and what it cannot spend in the instant passes into a
-skeleton the Talisman had been quietly tempering for most of his life. That
+skeleton the Talisman had been quietly tempering for decades now. That
 skeleton does not hold force. It routes it, down, through the legs and the soles of the Ironfall
 Boots and into whatever he is standing on. On a deck it fails him. On loose ground it fails him. In
 a corridor cut from the living rock of a sea cliff, it has the whole cliff to spend into.
@@ -193,11 +192,11 @@ knee.
 He did not need to step to them. They had come to him, as they all came to him. Two short motions
 with the Machete. Six. Seven.
 
-**Eight.** Vossic was the one who understood.
+**Eight.** Verrick was the one who understood.
 
-I record this with respect, because the man does. Vossic had watched seven of his company stop dead against something that would not take a blow, and he did
+I record this with respect, because the man does. Verrick had watched seven of his company stop dead against something that would not take a blow, and he did
 the arithmetic in the time it took the seventh to fall. A blow is energy. The Buffer spends energy.
-So Vossic did not strike. He stepped in close, set the point of a short blade against the seam where
+So Verrick did not strike. He stepped in close, set the point of a short blade against the seam where
 the Forge-Coat's heavy torso plating meets the lighter flank at the left side, and *leaned*. Slowly.
 Pressure, not impact. The Buffer had almost nothing to spend.
 
@@ -208,16 +207,16 @@ The Dark Ledger has this wound. It has his heart, unchanged, beside it.
 
 He pressed his left forearm against the compartment in the coat's lining. The Mend-Line, in the form
 it had held since his two-hundredth year, released three seconds of its compound into the wound and
-began to set. And in the seven seconds it took to set, he closed his right gauntlet on Vossic's wrist
+began to set. And in the seven seconds it took to set, he closed his right gauntlet on Verrick's wrist
 and did not let go.
 
-Vossic was dense. Vossic was a Branded fighter in his prime, and the old man in front of him could
+Verrick was dense. Verrick was a Branded fighter in his prime, and the old man in front of him could
 barely lift his own feet. But a hand does not need speed to close, and the man's hand closed with
-all of his weight behind it, and Vossic's wrist was inside it. The blade stayed where it was. Vossic
+all of his weight behind it, and Verrick's wrist was inside it. The blade stayed where it was. Verrick
 stayed where he was. The Machete came across once, short.
 
-Vossic is the first name in the ledger, though he was the eighth to die. The man wrote him first.
-There is a column in that ledger I have no name for. Vossic is in it alone.
+Verrick is the first name in the ledger, though he was the eighth to die. The man wrote him first.
+There is a column in that ledger I have no name for. Verrick is in it alone.
 
 Iron.
 
@@ -237,11 +236,11 @@ wrong side of it to stop you."
 
 Ghast struck anyway. They all struck anyway. The Buffer drank it. The Machete answered.
 
-**Twelve.** Calloway had stood at the back the whole time. He had watched every one of his eleven
+**Twelve.** Garrick had stood at the back the whole time. He had watched every one of his eleven
 die, and he had not looked away from any of them, and when it was only him he walked forward over
 the bodies to the edge of the broken ring and stopped.
 
-"The offer," Calloway said. "Does it still stand?"
+"The offer," Garrick said. "Does it still stand?"
 
 "No," the man said. "I told you it would not."
 
@@ -250,7 +249,7 @@ the bodies to the edge of the broken ring and stopped.
 "I know. And next season someone would buy twelve more fighters off the Circuit, and you would be
 one of them, because you would have a reason. You would know how close you came."
 
-Calloway thought about that. To his credit, he did not argue it.
+Garrick thought about that. To his credit, he did not argue it.
 
 "Then it's not about us," he said.
 
@@ -258,13 +257,13 @@ Calloway thought about that. To his credit, he did not argue it.
 to receive twelve notices and no proof. I want every broker on the Circuit to hear what that cost.
 I want no one to buy twelve again."
 
-That is the arithmetic, and the legend has turned it into cruelty. It was not twelve lives set
+That is the arithmetic. It was not twelve lives set
 against eleven copyists; he could have saved the copyists other ways. It was twelve lives set against
 every twelve that would follow, if these walked out and told the Circuit the old man in the smoke
 could be reached. He chose the twelve in front of him, and recorded the cost.
 
-Calloway feinted high, because it was the best feint he had, and the man did not answer it, because
-he no longer moved for anything that would not land. Then Calloway's real blow landed, square, with
+Garrick feinted high, because it was the best feint he had, and the man did not answer it, because
+he no longer moved for anything that would not land. Then Garrick's real blow landed, square, with
 everything he had, and went into the stone. The ring of cracks reached the walls.
 
 The Machete went in once.
@@ -290,7 +289,7 @@ Then he asked Valen to help him sit down, and Valen did, and the copyists unbarr
 their Captain sitting with his back against the iron, writing in his ledger by the light of a
 lantern one of the dead had dropped.
 
-He wrote Vossic first. Then Rusk, Ghast, Calloway. Then eight marks, drawn small and carefully: a
+He wrote Verrick first. Then Rusk, Ghast, Garrick. Then eight marks, drawn small and carefully: a
 key, a fishhook, a crescent, an open hand, a ladder, two crossed nails, a bell, a broken chain. Beside each mark he wrote the order of its death. Beside the
 whole he wrote the cost, which I will not transcribe, because it is his.
 
@@ -309,7 +308,7 @@ So. The entry, reconciled.
 
 Strain in the long bones, going down: every blow they landed, routed through him into the cliff.
 Twelve kills: Rusk, the key, the fishhook, the crescent, the open hand, the ladder, the crossed
-nails, Vossic, the bell, the broken chain, Ghast, Calloway. One wound, under the left ribs: the only
+nails, Verrick, the bell, the broken chain, Ghast, Garrick. One wound, under the left ribs: the only
 man of the twelve who understood him. An ache in the legs until morning: standing, for as long as it
 took, on a broken floor.
 
@@ -320,7 +319,7 @@ because nothing in that corridor was news to him. He had done the whole of it --
 refusal, the twelve, the next twelve, the cost -- standing at an iron door before the first lantern
 came round the cliff path. By Rusk's first stride, it had all been paid in advance.
 
-That is the entry I fear still. Not because he was cold. He was not cold. He wrote Vossic first.
+That is the entry I fear still. Not because he was cold. He was not cold. He wrote Verrick first.
 
 I fear it because I understand it now, and I would have done the same.
 
@@ -332,7 +331,7 @@ in a corridor against twelve Branded commandos, the passive Kinetic Buffer (`MCD
 Bio-Drakma skeleton (`MCD-060` Stage 3 Sub 1 Bone-Tempering) doing the work of combat; the skeleton's
 role follows `MCD-291` exactly (routes force downward, requires grounding, fails on decks/loose
 ground, never protects soft tissue -- which is why the corridor is cut into bedrock, why the floor
-cracks, and why Vossic's slow pressure wound gets through). Bone-Tempering is shown as ongoing and
+cracks, and why Verrick's slow pressure wound gets through). Bone-Tempering is shown as ongoing and
 unfinished, consistent with `MCD-277`'s 99.7% figure at age 310; no percentage asserted at 240. The
 kill mechanism: commandos commit their full weight into blows that meet a body which neither yields
 nor rebounds, leaving each stopped dead at full extension for roughly half a second, in which Kanja
@@ -362,7 +361,7 @@ the later reunion plus Kanja's own written ledger and a crewman's sketch -- the 
 Book 1 events are never dramatized. Onyx never names the Density Spike (`VB-021`); the maxim is used
 once. Killing per `CC-161`/`MCD-1881`: the offer of life is made once and refused; all twelve deaths
 are cold, chosen, and ledgered, justified by deterrence of "the next twelve" rather than any rage --
-nothing reads as the reserved Book 1 turn. `VB-060` appears through Calloway's read of the room.
+nothing reads as the reserved Book 1 turn. `VB-060` appears through Garrick's read of the room.
 Crew: Valen (joined age 40, `MCD-248`) and Stormbreaker are peripheral; Garren Hask, Efa Gol, and Pell
 Ostra are not used. The Memory Keeper (age 225) and every other locked operation are untouched; the
 eleven copyists are an unnamed Ghost-Lattice cell, not tied to any locked operation. The closing claim

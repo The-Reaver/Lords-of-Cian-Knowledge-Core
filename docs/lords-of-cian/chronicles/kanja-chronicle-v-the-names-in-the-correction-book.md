@@ -9,7 +9,7 @@ dead, and this Onyx account makes them the slave garrison's -- chosen by name, c
 (`ARS-130`/`ARS-411`). Kanja's second marquee kill under `MCD-1881`, his first of the Long
 Mask. Narrated retrospectively by Onyx of Oblivion in first person (`VB-062`), opening on a Dark
 Ledger entry (`ARS-437`); Onyx was sealed at L9 throughout and says so. Post-Mafesto gear only,
-at its age-55 generation. New named characters: Halvard Grenmoor (garrison master, killed), Dunmore
+at its age-55 generation. New named characters: Edric Grenmoor (garrison master, killed), Dunmore
 and Skarrow (lieutenants, killed), Mabry (lieutenant and keeper of the garrison's correction book,
 spared), all collision-checked against the full ledger and Chronicle corpus. Anirak (Blades Fury)
 and Valen reused; Bloodreaver (Torian) present in passing. No child-safety issues.*
@@ -20,11 +20,12 @@ Dark Ledger. Somewhere a little short of the eight-hundredth million second.
 
 His heart at rest. Then the spike.
 
-I know that spike. I learned it in the Rebellion, and the thing to understand is how few of them
-there were. The Rebellion's great tolls were paid to water and to stone, and his body does not spike
-for a ravine. The spikes from his own hands, across twelve years, I never needed to count twice.
+I know that spike. I learned it in the Rebellion, and the thing to understand is that his body does
+not spike for a ravine or a gorge. The Rebellion's great tolls were paid to water and to stone. The
+ones from his own hand I never needed to count twice.
 
-Inside one hour, in the dark, I counted more of them than the whole Rebellion had carried.
+Inside one hour, in the dark, I counted more of them than I had ever counted in one hour at his
+hand. The Pier, four times over.
 
 More than forty. And between them -- this is the line of the entry I could not make sense of for
 the better part of two and a half centuries -- his pulse did not leave rest. Once it climbed,
@@ -40,7 +41,7 @@ Infinite, in a sealed case in a vault on the ninth level, and I was not there.
 
 What follows I reconstructed later, when his hand found the grip again and the channel opened all
 the way: from the scar along the outside of his left forearm, from a habit of the right wrist that
-had not been there on the Pier, and from the rest -- the names, the book, the woman in the passage
+had not been there on the Pier, and which I have since set down elsewhere, and from the rest -- the names, the book, the woman in the passage
 -- which came through whole once there was a hand on me to carry it. The Dark Ledger was owed
 its causes. And what the stories later made of Chain Harbor is Rust, and the record should be Iron.
 
@@ -51,7 +52,7 @@ the selling and the shipping they were kept at Chain Harbor in pens cut into the
 below the high-tide line, the sea held out by sluice gates. That was the whole design: a cargo
 that can be drowned on a turn of a wheel does not need many guards.
 
-Its garrison was something over two hundred. Its master, Halvard Grenmoor, kept in his office above
+Its garrison was something over two hundred. Its master, Edric Grenmoor, kept in his office above
 the gates a ledger he called the correction book. Every flogging, every brand, every drowning at
 Chain Harbor went into it -- the date, the cargo-mark, the offense, and the name of the man who
 carried it out. Grenmoor believed a garrison that wrote down its corrections was a disciplined
@@ -77,7 +78,7 @@ easier than the last because each blow fed the one after it. The people she free
 Three of them stood at her back with whatever they had torn loose and held the passage so she
 could keep working. Nobody had ordered them to.
 
-The garrison could not get into the passage. So Halvard Grenmoor did what his design had always
+The garrison could not get into the passage. So Edric Grenmoor did what his design had always
 promised. He gave the drowning order. All six pens, at the top of the flood. His lieutenants
 Dunmore and Skarrow went down to the sluice wheels with twenty men to turn them.
 
@@ -85,7 +86,7 @@ The flood had a little under half an hour left to run.
 
 • • •
 
-I want to be exact about the arithmetic, because he was.
+
 
 Six pens. Something over nine hundred people in them. Two sluice galleries, one at each end of
 the wall, each reachable by a single stair. Half an hour to the top of the flood. A crew that
@@ -102,7 +103,7 @@ long enough by then to read the sum off his face, said only, "Which gallery."
 
 He went over the side in the Forge-Coat -- the second one, sea-leather over a mesh of Dead
 Drakma wire, the high armored collar that gave the Long Mask its silhouette. The first goggles,
-copper-framed, their phosphor coating giving off the pale predator glow it had never been meant
+copper-framed, their phosphor coating giving off the dull amber predator glow it had never been meant
 to have. The riveted plate gloves he had worn for twenty years. The machete at his belt. The
 Talisman bonded into his bones, where nobody can take it from him.
 
@@ -163,7 +164,7 @@ to sound less like a man than a judgment. "Every correction. Who gave it."
 
 Mabry said that he did.
 
-The man read it. All of it, every page. Twenty-two years of Chain Harbor.  The names of the men
+The man read it. All of it, every page. Twenty-two years of Chain Harbor. The names of the men
 who had carried out the corrections, over and over, the same names, because in any garrison the
 same few men volunteer. Remove the men who volunteer and a garrison is only a garrison again. Leave
 them, and they carry the book to the next harbor in their hands.
@@ -202,11 +203,11 @@ in the Rebellion, that the line between the man who holds the whip and the man w
 is a line the whip does not feel. I took it for rhetoric. At Chain Harbor I learned he had meant
 it as a measurement.
 
-Mercy is earned. That morning, nobody whose name was in that book had earned any.
+Mercy is earned. That morning, nobody whose name he read aloud from that book had earned any.
 
 • • •
 
-He left Halvard Grenmoor for last.
+He left Edric Grenmoor for last.
 
 Grenmoor had not hidden. I record it in his favor. He was waiting on the drowning steps -- the stone
 stair down the inside of the harbor wall to the eastern pen, where cargo marked for correction
@@ -324,7 +325,7 @@ His heart at rest. Then the spike. More than forty, inside one hour, the pulse n
 but once.
 
 Reconciled. Dunmore and the men at the west wheel, but for the one who knelt. The names in the
-yard.  Skarrow on the gatehouse steps. Halvard Grenmoor on the drowning steps, last. The wound:
+yard. Skarrow on the gatehouse steps. Edric Grenmoor on the drowning steps, last. The wound:
 a hook-knife, closed with a belt pouch, a scar along his left forearm.
 
 Against them: something over nine hundred people in six pens, wet to the knee, all of them breathing.
@@ -343,7 +344,7 @@ Morning Star forged at Chain Harbor (`ARS-130`/`ARS-411`, mechanics per `ARS-367
 described in-world without naming them). The "massacre" is read as the slave garrison's dead,
 chosen individually by name from the garrison's own punishment ledger -- a cold, costed, ledgered
 choice per `CC-161`, the drowning order supplying the ratio that made death the only answer
-inside the flood's half hour.  Marquee kill per `MCD-1881`: named victim (Halvard Grenmoor) and
+inside the flood's half hour. Marquee kill per `MCD-1881`: named victim (Edric Grenmoor) and
 named lieutenants (Dunmore, Skarrow), with Mabry -- whose name is in the book once but never read
 aloud -- spared explicitly as the record's keeper, "not mercy," and the kneeling man at the west
 wheel spared before the book was opened. The yard killings are given an explicit ratio (removing
@@ -359,11 +360,11 @@ years past the Pier, implying no fixed year length. Onyx never names the Density
 its Iron/Rust register and maxim are used sparingly. Gear at age 55, post-Mafesto only: Forge-Coat
 V2 (ages 40-80, sea-leather over Dead Drakma wire mesh, armored high collar, `ARS-347`); Breath
 Collar's command voice (integrated since age 40, `ARS-351`); Sovereign Eyes V1 (from age 33, the
-unintended phosphor glow; the amber calibration is V2 at age 60, so the glow is left uncolored,
+unintended phosphor glow; the amber calibration is V2 at age 60, so the glow is described as a dull amber, matching the locked Pirate Dawn corpus (`MCD-381`) and Chronicle VI,
 `ARS-350`); Ironhand Gauntlets V1 (riveted plate gloves, from age 35, `ARS-352`); Ironfall Boots'
 stomp tremor (`ARS-353`; the heel blade deliberately not used); Mend-Line V1 (hand-applied belt
 pouches, from age 50, `ARS-355`); the Rexmar Machete carried at the belt (`ARS-260`/`ARS-425`);
-the Talisman of Mao (`MCD-060`).  The Smoke System is not used; no Mafesto, Obsidian Malice, or
+the Talisman of Mao (`MCD-060`). The Smoke System is not used; no Mafesto, Obsidian Malice, or
 Onyx appears in any scene. Crew: Valen (present by age 40 per `MCD-248`; his length of service
 is deliberately left unstated to avoid taking a side in the open `ARS-344`/`MCD-248` join-date
 question); Torian/Bloodreaver (recruited age 33, `MCD-247`), his heat used against the east
