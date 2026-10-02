@@ -35,7 +35,7 @@ direction, not decided.
 
 | Character | Profile doc | Status | Existing Chronicles |
 |---|---|---|---|
-| Kanja Haku Rexmar | `character-profiles/kanja-haku-rexmar.md` | wave 1 locked | 3 (Chronicles I–III, `MCD-1866`–`1868`) |
+| Kanja Haku Rexmar | `character-profiles/kanja-haku-rexmar.md` | wave 1 locked | 4 (Chronicles I–IV, `MCD-1866`–`1868`, `MCD-1880`) |
 
 ## Alias Chronicle track (Kanja's 11 aliases)
 

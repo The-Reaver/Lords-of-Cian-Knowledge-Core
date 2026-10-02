@@ -4015,6 +4015,40 @@ whenever Abad wants a dedicated session:
     wage-skimming statistics that may be an intentional echo or a duplication; a couple of
     wording-only items that don't need a ruling, just a tweak (already applied in the Batch 349 fix).
 
+## Anchor-hero marquee kills, Batches 350-352, 2026-10-02
+
+**Batch 350** locked Daba Chronicles LVII-LVIII (`MCD-1878`/`1879`), dramatizing Harek Vondel's
+killing and Vex Thurlow's handover -- the only two Batch-312 villain defeats whose tracks were
+gate-cleared. The other seven stay blocked on gate backfills (Bane, Crow King, Sovereign Ghost,
+Blue-Collar Titan, Lauris) or on a Red Beard track that doesn't exist yet. A grounded archive
+roadmap was written alongside (`docs/lords-of-cian/archive-roadmap-2026-10-02.md`).
+
+Abad then set a new direction: Kanja should carry devastating kills across the Rebellion and even
+more across the Long Mask, cultivated alongside 1804, Ozmund, and Lauris as the four Book-1 anchors,
+with notable (lesser) victories spread among everyone else. **Batch 351** applied a light Fable
+review of everything since the Phase 5 pass (Batch 349 came back clean; fixes to Daba LVII/LVIII,
+`MCD-1855`/`1861`/`1878`/`1879`, daba.md, the roadmap, and the Kanja IV draft). **Batch 352** locked:
+- **Kanja Chronicle IV, "Ninety Seconds on the Sovereign Pier"** (`MCD-1880`) -- the first
+  dramatization anywhere of `MCD-245`/`246`. (The Black Trench Titans were the first target
+  considered, but manuscript Chronicle III already kills all three on the page.) Onyx narrates
+  throughout and shifts from "the blade" to "I" as the case closes. Maro's Accords negotiation is
+  locked at "the better part of two years."
+- **`CC-161`**, Kanja's killing doctrine: no-killing is a costed default, never an absolute; kills
+  are chosen, cold, ledgered, never rage, with the rage reserved for Maro's death in Book 1.
+  `MCD-1129` and the Kanja profile's values facet reworded to "no-killing-by-default."
+- **`MCD-1881`**, the anchor-kill tiering (Marquee / Notable / Ledger), ~15-20 marquee kills across
+  the four anchors. Daba's stay unattributed (legend only inside 1804); Ozmund at most one,
+  pre-Ceremony, unwitnessed by Draconis; Kanja's Long Mask kills post-Mafesto gear only. Vondel and
+  the Pier are the first two.
+- **`VB-062`**, the two-account rule: any event in Kanja's life may be told from any angle, and every
+  significant one always also has an Onyx account (the Kanja-version track). Onyx's Long Mask
+  accounts are retrospective, told after the Karkosa Heist reunion. Abad's approval: "go with
+  retrospective, keep the two years, lock it."
+
+Abad then raised that Onyx is biologically tethered to Kanja, asking what that opens up. The ledger
+only says "bonded" (`ARS-020`) and "communicates only through whoever holds its grip" (`MCD-201`); a
+tether rule is not yet drafted. Ledger at `ledger_version` 35.4, 2,656 rules, 352 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

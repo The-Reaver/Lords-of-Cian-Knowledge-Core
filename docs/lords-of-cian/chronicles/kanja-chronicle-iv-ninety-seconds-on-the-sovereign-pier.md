@@ -1,6 +1,6 @@
 # Kanja Chronicle IV: Ninety Seconds on the Sovereign Pier
 
-*UNLOCKED -- pending Abad's approval. Draft, 2026-10-02. Fourth entry of the "Kanja version"
+*Locked canon, Batch 352, 2026-10-02 (`MCD-1880`). Fourth entry of the "Kanja version"
 Chronicle track. Age 30, the final day of the Rebellion. Dramatizes the Battle of the Sovereign Pier
 (`MCD-245`) and the Trinity's surrender (`MCD-246`) for the first time anywhere in the corpus -- the
 first marquee kill under the anchor-hero kill tiering. Per `VB-026`, this is the Rebellion's end and
@@ -9,7 +9,10 @@ throughout, and its self-reference completes the shift from "the blade" to "I" o
 moment of sealing. New named characters: Ivo Strell (assassination-team lead) and eight operatives
 named by surname only (Hesk, Vauden, Tasker, Caddel, Orrel, Teague, Danver, Lisk), all
 collision-checked clean against the full ledger and Chronicle corpus. Dol Maren reused (he/him per
-Batch 226). No child-safety issues.*
+Batch 226). No child-safety issues. Corrected before locking per the light Fable review (Batch 351): Onyx power
+names realigned with the locked showcase, the blade's span corrected to thirteen years, Obsidian
+Malice's charge state and the machete lineage fixed. Abad's approval: "go with retrospective, keep
+the two years, lock it."*
 
 ---
 
@@ -256,6 +259,6 @@ from the treaty (`MCD-246`). Onyx's narration completes `VB-026`'s handoff here 
 blade's third-person self-reference used throughout the track's earlier codas becomes first-person
 at the moment of sealing. Nothing in this entry foreshadows the Fulfillment Ceremony or Maro
 Rexmar's death; the 284-vs-296-year interval question (open) is not touched. Under the amended
-killing doctrine (`CC-161`, pending), the nine deaths are an explicit, costed choice, the three
+killing doctrine (`CC-161`), the nine deaths are an explicit, costed choice, the three
 spared an equally explicit one -- arithmetic, not rage, keeping the reserved post-Fulfillment
 "urge to destroy his enemies" untouched.*

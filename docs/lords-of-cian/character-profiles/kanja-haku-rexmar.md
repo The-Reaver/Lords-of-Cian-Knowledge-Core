@@ -1,6 +1,6 @@
 # Kanja Haku Rexmar — Profile & Game Plan
 
-**Status:** wave 1 locked (Chronicles I–III)
+**Status:** wave 1 locked (Chronicles I–IV)
 **Track:** Kanja version (new track, Onyx-narrated)
 **Gate cleared:** YES, 2026-09-28 — Chronicle prose may now be drafted for this track.
 
@@ -277,8 +277,8 @@ forward, starting from Chronicle I of this track.
   Breck names the Trench Monarch, the fire names the Scourge, the Directorate names Bane — and he
   treats the name as belonging to "the people who spoke the word," not to himself. Both are the same
   defense from two angles: keep the self smaller than the function.
-- **Values — what he will not compromise — CONFIRMED:** the "no killing" doctrine at the Dredge-Line
-  is not squeamishness, it's doctrine — the moment the fight becomes killing, it becomes a war the
+- **Values — what he will not compromise — CONFIRMED (amended Batch 352, `CC-161`):** the "no killing" doctrine at the Dredge-Line
+  is a costed default, not an absolute, and not squeamishness — it's doctrine — the moment the fight becomes killing, it becomes a war the
   Trust's military can answer, rather than a humiliation its bureaucracy has no clean response to.
   Evidence over violence, first demonstrated at the Scrip-Forge Raid, recurs as his signature method
   for twelve years. And per Ash-Wharf: material, reputation, and strategy are all spendable; "the
@@ -398,3 +398,8 @@ going." Section 2 is closed.
   (`MCD-1865`) — Kanja, Sephtis, and Ironbane field `CULT-197`'s three-source Anti-Resonance
   countermeasure together for the first time. Onyx's second real appearance, grown longer and more
   assertive. Batch 313.
+- **IV — "Ninety Seconds on the Sovereign Pier"** (`MCD-1880`). Age 30, the Rebellion's final day.
+  The Battle of the Sovereign Pier and the Trinity's surrender, dramatized for the first time: nine
+  killed in ninety seconds, three deliberately spared, "Yes," the sealing. Onyx narrates throughout
+  and shifts to "I" as the case closes. First Kanja marquee kill (`MCD-1881`); governing precedent
+  for the killing doctrine (`CC-161`). Batch 352.
