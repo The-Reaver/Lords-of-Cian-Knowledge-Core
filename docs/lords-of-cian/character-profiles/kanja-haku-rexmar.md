@@ -384,7 +384,7 @@ going." Section 2 is closed.
 - **Gate status: CLEARED.** Status updated to "game plan approved" — Chronicle prose may now be
   drafted for this track.
 
-### Game Plan amendment — the Long Mask wave (PROPOSED, 2026-10-02, pending Abad's pick)
+### Game Plan amendment — the Long Mask wave (APPROVED, 2026-10-02)
 
 Abad's direction: "open the Long Mask wave with Dark Ledger openings. keep fable oversight."
 
@@ -426,6 +426,10 @@ Abad's direction: "open the Long Mask wave with Dark Ledger openings. keep fable
   3. **The Sleeping Giant, age 240** (`MCD-262`) — alone in a corridor against twelve Branded
      commandos, too old to fight the way he used to. Dark Ledger opening: twelve spikes, and his
      heart rate never rose. The most frightening of the three because it is the calmest.
+- **Abad's pick / direction, 2026-10-02:** "approve the amendment, draft all three, keep numbers
+  approximate." All three candidates drafted as wave one of the Long Mask extension; Dark Ledger
+  seconds-counts stay approximate (no fixed Cian year length implied). Gate scope extended: the
+  Kanja-version track is now cleared for the Long Mask (ages 30–314) as well as the Rebellion.
 
 ---
 
