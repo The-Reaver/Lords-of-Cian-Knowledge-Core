@@ -1,14 +1,16 @@
 # Lauris Chronicle XXXIII: Aligned, Not Opposed
 
 *Locked canon, Batch 299, 2026-09-18 (`MCD-1650`). Thirty-third entry in Lauris Letitia's own
-Chronicle series, continuing "Strand D" into the Disillusionment sub-period in earnest. Full-scene
+Chronicle series, continuing "Strand D" into the transition into the Disillusionment sub-period. Full-scene
 treatment of Operation 31 (previously only summarized at `MCD-189`): the target designated Subject
 IM-099, revealed to be Kareth-Vassen Aerelin, a Cian-diaspora Kareth War-Order operative running an
 autonomous 60-year campaign against the engineering tradition's trafficking networks. Dramatizes the
 mutual recognition, the staged termination that closed the Directorate's contract, and the formation
 of the ongoing informal intelligence alliance `MCD-189` already locks -- Lauris's first deliberate act
 of working against, rather than merely doubting, the institution she served. No new named characters;
-Aerelin already locked. Zero collisions.*
+Aerelin already locked. Zero collisions. Corrected Batch 334, 2026-10-02: header softened (no longer
+asserts the Disillusionment sub-period "in earnest"); her age phrasing corrected to match her true
+~6,000-year age (`MCD-1533`).*
 
 -----
 
@@ -36,8 +38,8 @@ The confrontation itself, when it came, resolved in minutes rather than the exte
 either party's reputation might have suggested. Subject IM-099 did not fight to win. She fought, by
 Lauris's own reading of the engagement's shape, to be taken seriously long enough to speak — and
 when Lauris permitted the opening, the subject identified herself plainly: Kareth-Vassen Aerelin, a
-Kareth War-Order operative some eighty thousand years into a life Lauris's own six-thousand-year span
-could not yet fully comprehend, running an autonomous campaign against the same apparatus Lauris had
+Kareth War-Order operative some eighty thousand years into a life Lauris's own span, not yet six
+thousand years, could not yet fully comprehend, running an autonomous campaign against the same apparatus Lauris had
 spent nine operations learning to fear the shape of, under cover the Directorate itself had
 mistaken, for sixty years, for ordinary organized crime.
 

@@ -10,7 +10,10 @@ observing her Cian operations closely enough to reverse-engineer Karth-Sera from
 rather than possessing an independent copy from Kares Prime -- and the fact that she "has never
 resolved, in writing, how to feel about it." Extends directly from Chronicle XXX's dawning realization
 that the apparatus studies her specifically. No new named characters; the subject stays unnamed,
-matching `MCD-186`'s own phrasing. Zero collisions.*
+matching `MCD-186`'s own phrasing. Zero collisions. Corrected Batch 334, 2026-10-02: the Karth-Sera
+curriculum's own development timeline corrected -- built by Tiramen for Lauris starting in her third
+century at Karth-Ven, developed by the Sister-Hold over roughly two thousand years, rather than
+absorbed by Lauris alone over six hundred years.*
 
 -----
 
@@ -31,10 +34,10 @@ The seventh did not fight that way.
 
 I want to be careful in describing what she recorded, because the precision of the account is, I
 think, the entire point of it. The seventh subject's opening stance was not a cooperative-era form.
-It was Karth-Sera — the curriculum developed under the Karth-Ven Sister-Hold between her own ages of
-1,800 and 2,400, the discipline she herself had spent six hundred years absorbing before it had ever
-been exported anywhere, let alone to a facility on a world the curriculum's own architects had never
-set foot on. The subject's weight transfer between strikes, the particular economy of motion Karth-
+It was Karth-Sera — the curriculum Tiramen had begun building for her in her third century at
+Karth-Ven and that the Sister-Hold had spent the better part of two thousand years developing
+through its four disciplines, before it had ever been exported anywhere, let alone to a facility on
+a world the curriculum's own architects had never set foot on. The subject's weight transfer between strikes, the particular economy of motion Karth-
 Sera trains into a combatant specifically to conserve energy across sustained engagements rather than
 spend it in a single opening exchange — Lauris recognized all of it, because she recognized herself
 in it, calibrated to a stage of development she placed, in her own written assessment, at roughly

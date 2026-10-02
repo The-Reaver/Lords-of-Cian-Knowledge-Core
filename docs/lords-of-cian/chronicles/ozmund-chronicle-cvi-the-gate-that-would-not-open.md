@@ -6,7 +6,9 @@ pre-Fulfillment-Ceremony (`MCD-025`), Aethelgard alive throughout. A deliberatel
 "no threshold to cross" discipline (`CC-015`/`017`/`MCD-024`) — a frozen storehouse gate that a
 fraction of a Density Spike would open instantly and without any risk to anyone, which young Ozmund
 refuses on principle to use, spending a full winter morning freeing it by hand instead. Narrated by
-Red Beard (Tarn Cestari) per `VB-020`/`022`/`CC-020`. No new named characters.*
+Red Beard (Tarn Cestari) per `VB-020`/`022`/`CC-020`. No new named characters. Corrected Batch 333,
+2026-10-02: Osric's citation corrected from Chronicle I (`MCD-1730`) to his actual introduction at
+Chronicle XLVI (`MCD-1775`).*
 
 ---
 
@@ -76,5 +78,5 @@ household drivers. Extends the "no threshold to cross" facet (`CC-015`/`017`/`MC
 least dramatic possible register, deliberately distinct from Chronicle XLIX's ("What He Practiced in
 the Dark") solitary floor-testing at the Aldenmoor quarry — that entry tested the minimum edge of
 control under his own chosen terms; this one tests whether the discipline holds when no stakes and no
-witness argue for it at all. Reuses Osric (established Chronicle I, `MCD-1730`); no new named
+witness argue for it at all. Reuses Osric (established Chronicle XLVI, `MCD-1775`); no new named
 characters, no new place names. No foreshadowing of Book-1-era material.*

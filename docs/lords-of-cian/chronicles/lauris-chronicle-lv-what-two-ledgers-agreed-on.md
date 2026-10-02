@@ -6,7 +6,9 @@ Lauris with Garren Hask, the crew's established "counter" and ledger-keeper (`CC
 deliberate thematic echo of Chronicle V's "two archives" evening with Sephtis, distinct in content:
 practical bookkeeping rather than ancient architecture, and a record-keeper who counts casualties
 and cargo rather than centuries. No new named characters. Written under Abad's blanket
-authorization: "lock it, continue uninterrupted, test and push to main."*
+authorization: "lock it, continue uninterrupted, test and push to main." Corrected Batch 334,
+2026-10-02: a narrator-boundary fix -- Fermand no longer claims personal authorship of a war-era
+biographical detail that belongs to the crew's own war accounts.*
 
 ---
 
@@ -15,7 +17,7 @@ spent six thousand years learning to be patient with numbers that never stop cha
 evening comparing methods. Neither of us won the argument. I do not think either of us wanted to."*
 
 Garren Hask keeps a ledger the way other men keep a wound — checked daily, never quite closed,
-attended to whether or not attending to it changes anything. I have known him since he was a
+attended to whether or not attending to it changes anything. He was, when the rebellion found him, a
 dock-smith with thirty-one years on Dock-Row Six and a wife whose suspicions of Scrip fraud turned
 out, in the end, to have been understated rather than exaggerated, and in all the years since I have
 never once seen him let a figure stand unverified simply because verifying it again would be

@@ -8,13 +8,15 @@ not withhold, and reported through ordinary Directorate channels, are opened as 
 previously unaddressed debt. Deepens rather than resolves -- she confirms only that "reported"
 never meant "released," and locates one partial transfer trail that goes cold before naming a
 destination. No new named characters; Aerelin (already locked) supplies the lead. Narrated by
-Fermand Aurelias per `CC-034`/`VB-024`.*
+Fermand Aurelias per `CC-034`/`VB-024`. Corrected Batch 334, 2026-10-02: "nineteen years" and "twenty
+years ago" corrected to "two centuries"/"two centuries ago" to match her true ~6,000-year age
+(`MCD-1533`).*
 
 ---
 
 *Archive fragment, present-day: "Seven facilities. Three I kept for myself. Four I gave to the
 Directorate because the arithmetic, at the time, said I could not carry all seven. I have called
-the four closed for nineteen years. I am no longer certain that word was ever accurate."*
+the four closed for two centuries. I am no longer certain that word was ever accurate."*
 
 I have transcribed a great many of Lauris's reports across the years I have kept her archive, and I
 can say with some confidence that this is the first time I have watched her revisit a closed
@@ -34,7 +36,7 @@ expected. "I told myself the four were the Directorate's problem after I filed t
 said. "I did not ask what the Directorate's problem meant for the people inside. I assumed
 processing meant something like what happened to the subjects at the Drowning Vault, or worse, and
 I let the assumption stand in for an answer, because looking closer would have cost time I did not
-have, twenty years ago."
+have, two centuries ago."
 
 I want to be precise about what the manifest fragment actually showed, because I think the
 precision matters more here than the drama of the discovery. It recorded a transfer -- subjects

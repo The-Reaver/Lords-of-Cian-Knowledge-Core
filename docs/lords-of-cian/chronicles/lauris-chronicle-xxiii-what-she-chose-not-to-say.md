@@ -9,7 +9,8 @@ Lauris recognized on sight and delivered to the Directorate's Coastal Containmen
 disclosing her recognition. Deliberately frames this as a quieter, unwritten precursor to the
 private-notation habit Chronicle VII (`MCD-1624`) establishes as formally beginning at Operation 6,
 rather than contradicting that entry -- Operation 4's omission is an instinct not yet named, not
-yet a practice. No new named characters; Therik Voll already locked.*
+yet a practice. Corrected Batch 334, 2026-10-02: a Chronicle-numeral self-reference reworded to
+plain in-world phrasing. No new named characters; Therik Voll already locked.*
 
 -----
 
@@ -46,7 +47,7 @@ She delivered it to the Coastal Containment Office precisely as instructed. She 
 what she recognized it to be.
 
 I want to be careful here, because I think it would be easy to read this as the same discipline
-Chronicle VII records her formally adopting at Operation 6 -- the private ledger of discrepancies
+an earlier account records her formally adopting at Operation 6 -- the private ledger of discrepancies
 between what the official record claimed and what her own hands and eyes had found -- and I do not
 believe that would be accurate. She has told me, directly, that Operation 4 was not yet that. She
 did not sit afterward and write an entry contrasting the file against the truth. She simply did not

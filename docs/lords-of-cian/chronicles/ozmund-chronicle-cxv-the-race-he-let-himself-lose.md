@@ -3,10 +3,11 @@
 *Locked canon, Batch 306, 2026-09-23 (`MCD-1844`). Character Chronicle track, Ozmund Verehimu's
 series, Chronicle CXV, second entry of the coming-of-age strand's second wave, set strictly pre-
 Fulfillment-Ceremony (`MCD-025`), Aethelgard alive throughout. A rare entry of genuine, unguarded joy
-— young Ozmund and stable boy Cobb, a real peer without power (`MCD-1772`), in an ordinary afternoon
+— young Ozmund and stable boy Cobb, a real peer without power (`MCD-1773`), in an ordinary afternoon
 that has nothing to do with discipline, inheritance, or restraint at all. Narrated by Red Beard (Tarn
 Cestari) per `VB-020`/`022`/`CC-020`. Reuses Cobb, already-locked minor named character. No new named
-characters.*
+characters. Corrected Batch 333, 2026-10-02: Cobb's citation corrected from Chronicle XLIII
+(`MCD-1772`) to his actual introduction at Chronicle XLIV (`MCD-1773`).*
 
 ---
 
@@ -66,7 +67,7 @@ to know that the door was there. He did not have to walk through it often for it
 no crisis, no threat, and no use of the Density Spike beyond the ordinary physical exertion of running
 freely for once rather than holding back — extends the "no threshold to cross" psychology (`CC-015`/
 `017`/`MCD-024`) from its usual register of danger-management into a rare register of simple, low-stakes
-relief. Reuses Cobb (`MCD-1772`, "a genuine peer without power who teaches Ozmund that courage and fear
+relief. Reuses Cobb (`MCD-1773`, "a genuine peer without power who teaches Ozmund that courage and fear
 coexist") without contradicting his established role, giving the friendship a lighter register than the
 Joren entry (`MCD-1776`) — a deliberate contrast, not a correction, between a friendship he was able to
 keep and one he wasn't. No new named characters. No foreshadowing of Book-1-era material.*

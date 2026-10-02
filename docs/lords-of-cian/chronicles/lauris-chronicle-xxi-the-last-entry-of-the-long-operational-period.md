@@ -9,7 +9,9 @@ positioned at the exact threshold of `MCD-174`'s decision window without depicti
 future entries or already covered by `MCD-174` directly. Introduces one new minor named character,
 Doreth, born at Vask Aldreth to one of the forty Ilvane residents relocated there in Chronicle XVIII
 (`MCD-1635`) -- collision-checked clean against the full live ledger (zero prior hits for "Doreth"),
-a deliberate closing callback tying this wave's entries together. Full text below.*
+a deliberate closing callback tying this wave's entries together. Corrected Batch 334, 2026-10-02:
+"thirty years" corrected to "two hundred years" to match Fermand's ~200-year tenure (MCD-194/271);
+two writers'-room/citation leaks reworded into in-world phrasing. Full text below.*
 
 -----
 
@@ -20,8 +22,8 @@ and that this, in itself, is new."*
 
 I have saved this entry for last among the six I set down from this period, not because it is the
 most eventful -- it is, if anything, the quietest -- but because I believe it is the one in which she
-comes closest, without yet knowing it herself, to the decision that `MCD-174` records her reaching in
-the years immediately following. I want to be careful here. She had not decided to leave Kares Prime.
+comes closest, without yet knowing it herself, to the decision her own later record shows her
+reaching in the years immediately following. I want to be careful here. She had not decided to leave Kares Prime.
 By every account she has given me, that decision was still ahead of her, gradual, and would not fully
 form for some hundred and eighty years yet. But I do not think it is an accident that the entry I
 found most difficult to read past without pausing sits at the exact hinge between the two.
@@ -38,7 +40,7 @@ recognize what the Vask's own instrumentation could not yet fully explain.
 *
 
 I will not dwell long on the training itself, because Lauris's own account of it is brief, almost
-perfunctory by the standard of everything else in this wave -- a handful of sessions across several
+perfunctory by the standard of everything else in this season of her record -- a handful of sessions across several
 months, conducted with the same patient, duration-first discipline she had first built for Serath and
 had since, by her own note, refined twice more with two other students whose own accounts I have not
 yet been given access to transcribe. What she does record, in more detail than the training itself
@@ -65,7 +67,7 @@ Twenty-three deployments, by her own count: six defended trade-points, eight geo
 three inter-Vask disputes resolved without lethal force, four students trained at her own request, and
 the single defense of Vask Olmedrin that remains, in her own words, "the only one of the twenty-three
 that ever approached what I am actually capable of." Fifteen hundred and sixty years, condensed to a
-page and a half, written in the same flat, unembellished hand I have now spent thirty years learning
+page and a half, written in the same flat, unembellished hand I have now spent two hundred years learning
 to read for what it does not say as much as for what it does.
 
 Her closing line, longer than most, and the one I have chosen to end this account with rather than
@@ -78,7 +80,7 @@ I record the question, because I have learned that the questions I write down ar
 eventually answer, whether or not I intend to at the time I write them.*
 
 I have not yet found, in her archive, the entry that answers this one directly. I understand, from
-everything locked elsewhere in her record, that the answer took shape gradually across the years that
+everything else in her record, that the answer took shape gradually across the years that
 followed, and that when it finally arrived, it did not arrive as a single decision so much as an
 accumulation she could no longer set back down. But I believe this is the night it began in earnest,
 and I have chosen to close this account here -- not at a departure, not at a farewell, but at a

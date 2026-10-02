@@ -6,7 +6,9 @@ Chronicle series, part of the wave-one push of Strand L. Advances the Twin Anoma
 demolition, still unanalyzed, still unshown to Sephtis, whom she expects would recognize them.
 Deepens rather than resolves -- the Operation 38 and Sample K-403 inquiries elsewhere in this wave
 give her fresh cause to reconsider showing him, and she comes closer than she ever has before, but
-still declines. No new named characters. Narrated by Fermand Aurelias.*
+still declines. Corrected Batch 334, 2026-10-02: age-arithmetic fixes ("six thousand years" corrected
+to "two thousand years," twice; "decades ago" corrected to "centuries ago") to match her true
+~6,000-year age (`MCD-1533`). No new named characters. Narrated by Fermand Aurelias.*
 
 ---
 
@@ -23,9 +25,9 @@ a product of the same engineering tradition she would later identify as T.D.K.'s
 more than once, that she expects Sephtis would recognize the pages on sight. She has never shown him.
 
 What changed this season, insofar as anything changed, was not the photographs themselves. It was the
-accumulation of everything else this wave of her archive has surfaced alongside them: the Operation 38
+accumulation of everything else this season of her archive has surfaced alongside them: the Operation 38
 facilities she reported rather than withheld, moved somewhere she cannot yet trace; Sample K-403,
-filed by her own hand decades ago and now reclassified into an archive she cannot locate; the Drowning
+filed by her own hand centuries ago and now reclassified into an archive she cannot locate; the Drowning
 Vault's hundred and twenty, whose revival Sephtis himself has just helped her understand as far more
 complicated than she had assumed. Each of these, in its own way, involves a piece of evidence she
 once judged small enough to set aside, only to discover later that setting it aside had a cost she had
@@ -34,8 +36,8 @@ not priced correctly at the time.
 She raised this connection herself, unprompted, on the evening she took the photographs out for what
 I understood to be the first time in several years. "I have made this mistake before," she said. "I
 decide a piece of evidence is not yet actionable, and I let 'not yet' become 'indefinitely' without
-ever consciously choosing the second version. K-403 sat filed for six thousand years because I never
-went back to it. I do not want these pages to become the same kind of oversight."
+ever consciously choosing the second version. K-403 sat filed for the better part of two thousand
+years because I never went back to it. I do not want these pages to become the same kind of oversight."
 
 I asked whether she intended to show them to Sephtis that evening. She did not answer immediately,
 which I have learned, across this chronicle, is generally itself an answer. She looked at the six
@@ -60,8 +62,8 @@ else has looked at it and told her it is true.
 
 She has not set a date for showing him. She has, for the first time in the years I have known her,
 told me plainly that she intends to, eventually, rather than leaving the question open indefinitely
-the way she left Sample K-403 open for six thousand years without noticing the omission had become
-permanent.
+the way she left Sample K-403 open for the better part of two thousand years without noticing the
+omission had become permanent.
 
 Her closing note: *Six pages. Not tonight. I have written "not yet" in this archive more times than I
 can currently count without reviewing every entry. I am trying, this time, to make sure "not yet"

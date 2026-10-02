@@ -8,7 +8,9 @@ facility clearances conducted together rather than covertly in parallel, resulti
 engineered Karesian subjects rescued to concealment rather than left to Directorate processing.
 Deliberately stops at the edge of Operation 38 (reserved, not drafted here) and does not touch
 Operation 40 (the Defection, reserved). No new named characters; Aerelin already locked. Zero
-collisions.*
+collisions. Corrected Batch 334, 2026-10-02: "six operations from the end of a career" corrected to
+"three operations"; "thirty years of transcribing hers" corrected to "two hundred years" to match
+Fermand's ~200-year tenure (MCD-194/271).*
 
 -----
 
@@ -54,7 +56,7 @@ reviewing officer, described the three facilities' locations, their defensive ar
 successful neutralization accurately in every operational particular. It did not mention the 280
 subjects at all. Her archive entry, by contrast, is the longest of this entire stretch, and I have
 chosen to close this account with the passage from it I consider most revealing of where she now
-stood, six operations from the end of a career she had not yet consciously decided to end:
+stood, three operations from the end of a career she had not yet consciously decided to end:
 
 *"I have spent thirty-six operations learning what this apparatus is. I have spent this one, for the
 first time, actively building something to stand against it — not alone, not secretly hedging my own
@@ -66,5 +68,5 @@ beginning to have the honesty to call myself as well."*
 
 She did not, in that entry or any that followed it in this stretch of her archive, complete the
 sentence with the word itself. I have chosen not to supply it for her. Some accounts, I have learned
-across thirty years of transcribing hers, are more faithfully rendered by what the ledger-keeper
+across two hundred years of transcribing hers, are more faithfully rendered by what the ledger-keeper
 chooses to leave, for the moment, unwritten.

@@ -9,7 +9,10 @@ rather than resolves: confronts, for the first time, the tension between an ongo
 and a dwindling audience to receive it, since her cohort (Velith, `MCD-1553`, among the 47
 parthenogenically-conceived children who will produce no descendants of their own, `MCD-1559`) has no
 future generation to inherit it. No new named characters; Velith and Selene already locked. Abad's
-blanket authorization: "lock it, continue uninterrupted, test and push to main."*
+blanket authorization: "lock it, continue uninterrupted, test and push to main." Corrected Batch 334,
+2026-10-02: age-arithmetic fixes ("six thousand years" to "two thousand years," "six millennia" to
+"two millennia," and the Iron-Speakers' distance reworded) to match her true ~6,000-year age
+(`MCD-1533`).*
 
 -----
 
@@ -27,14 +30,14 @@ The occasion was small, by any external measure. She had spent the day cross-ref
 signature with Sephtis — not the Iron-Spire question that occupied them once before, but a newer
 finding, something genuinely worth recording in the archive the Iron-Speakers asked her, at her
 departure, to keep as her civilization's sole continuing testimony to the world beyond Kares Prime. She
-has honored that request faithfully for six thousand years. I have never once heard her question the
+has honored that request faithfully for two thousand years. I have never once heard her question the
 obligation itself. What she questioned this evening, for the first time in my presence, was not whether
 to keep the record, but who, precisely, the record was still for.
 
 *
 
 The arithmetic is simple enough to state and, I have come to understand, considerably harder to sit
-with than its simplicity suggests. The Iron-Speakers who asked for this testimony are centuries dead.
+with than its simplicity suggests. The Iron-Speakers who asked for this testimony are two thousand years and a world away.
 The civilization that commissioned it exists now only in the twelve surviving Vasks and the population
 within them, declining still, by the same slow attrition that produced her own synthesis in the first
 place. And her own cohort — the forty-seven children raised alongside her at Threnarr specifically to
@@ -43,7 +46,7 @@ Sister-Hold's own parthenogenic initiation requirement, live out their tens of t
 years without producing children of their own. They are, in the civilization's own quiet understanding,
 though never told so directly, its functional final generation.
 
-Which means the testimony she has kept faithfully across six millennia — this evening's finding
+Which means the testimony she has kept faithfully across two millennia — this evening's finding
 included — is being addressed, with each new entry, to an audience that does not merely age or dwindle
 the way any living readership eventually does. It is an audience that will, within some finite and
 already largely determined span, simply cease to exist at all. Not through any new catastrophe. Through

@@ -5,7 +5,9 @@ Chronicle series, Strand W (Witness / present-day, quiet register). A stakes-fre
 Lauris with Callum Breck, whose voice was rebuilt gradually through purely functional speech after
 the Black Trench (`CC-119`) -- consistent with that established economy of words rather than
 restaging his silence arc itself. No new named characters. Written under Abad's blanket
-authorization: "lock it, continue uninterrupted, test and push to main."*
+authorization: "lock it, continue uninterrupted, test and push to main." Corrected Batch 334,
+2026-10-02: a narrator-boundary fix -- Fermand no longer claims personal authorship of the war-era
+account of Breck's silence.*
 
 ---
 
@@ -13,10 +15,10 @@ authorization: "lock it, continue uninterrupted, test and push to main."*
 between the two of us, perhaps forty words. I did not need more than that to know exactly how the
 afternoon had gone. I am told most people find this uncomfortable. I found it restful."*
 
-I have written elsewhere, in accounts closer to the war than this one, of the four months Callum
-Breck spent unable to speak to anyone but his infant daughter after Nev Torr died under his watch at
-the Black Trench, and of the twenty-six words that, years later, guided the fleet's escape through
-Ghost Harbor's reef gap. I do not intend to retell that story here. I mention it only because it is
+It is recorded elsewhere, in the crew's own accounts of the war, that Callum Breck spent four months
+unable to speak to anyone but his infant daughter after Nev Torr died under his watch at the Black
+Trench, and that twenty-six words, years later, guided the fleet's escape through Ghost Harbor's reef
+gap. I do not intend to retell that story here. I mention it only because it is
 the reason I found the afternoon I am about to describe worth setting down at all: a man who once
 went four months in silence, and who rebuilt his own voice one purely functional sentence at a
 time, does not spend words carelessly even now that speaking again costs him nothing. Every sentence

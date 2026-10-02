@@ -1,18 +1,22 @@
 # Lauris Chronicle XXIX: The City Was Big. She Was Small.
 
 *Locked canon, Batch 299, 2026-09-18 (`MCD-1646`). Twenty-ninth entry in Lauris Letitia's own
-Chronicle series, part of the "Strand D" (Sealbound Directorate years) thread, opening this wave's
-run through the Specialist and Disillusionment sub-periods (Operations 21-39). Full-scene treatment
+Chronicle series, part of the "Strand D" (Sealbound Directorate years) thread, closing the
+Established Hunter period before this wave's run through the Specialist and Disillusionment
+sub-periods (Operations 21-39). Full-scene treatment
 of Operation 22 (the Velaris outbreak, previously only summarized at `MCD-1538`), dramatizing the
 47-hour discrete-strike clearance of roughly 600 afflicted subjects and the origin of the "Petite
 Catastrophe" alias (`MCD-1539`), quoting the already-locked perimeter-watch enforcer's after-action
 line directly. Also dramatizes `MCD-1541`'s escalating institutional trust: by this operation the
 Directorate had begun issuing her only contracts no other contractor in its pool could plausibly
-complete. No new named characters. Zero proper-noun collisions.*
+complete. No new named characters. Zero proper-noun collisions. Corrected Batch 334, 2026-10-02: the archive
+fragment's designation corrected from "Specialist" to "Established Hunter" (Operation 22 closes that
+period, matching Chronicle XXVII/`MCD-1538`); the Brokenwall comparison rewritten so Brokenwall is
+also discrete strikes rather than one continuous engagement, matching `MCD-1538`'s own lock.*
 
 -----
 
-*Archive fragment, Specialist designation LL-001-S-022: "Six hundred, across forty-seven hours. I
+*Archive fragment, Established Hunter designation LL-001-S-022: "Six hundred, across forty-seven hours. I
 did not lose the count once, and I enjoyed none of it. I record that plainly, because the name they
 gave me afterward reads as though I did."*
 
@@ -25,14 +29,15 @@ before catalogued at that scale: sudden, violent, and — the detail that made t
 than any other contractor's — spreading by proximity rather than by any traceable vector, which meant
 every hour of delay multiplied the eventual cost.
 
-She did not approach it as she had approached Brokenwall roughly eighteen months prior, the operation her own file
-treats as precedent. At Brokenwall she had climbed a single sustained combat-progression curve
-through the afflicted population as one continuous engagement, the pattern her career had by then
-made familiar to her own body. At Velaris she chose differently, and her archive records the
-reasoning without sentiment: six hundred afflicted subjects moving through a living city of forty
-thousand unafflicted residents was not, in her assessment, a single battle. It was six hundred
-separate small mercies, each one requiring enough precision that the person standing beside the
-afflicted subject never fully understood what had happened.
+She approached it the same way she had approached Brokenwall roughly eighteen months prior, the
+operation her own file treats as precedent. At Brokenwall she had already abandoned her usual single
+combat-progression climb for discrete, individual strikes across twenty-two hours; Velaris asked for
+the same method at three times the scale, in a living city of forty thousand, with the affliction
+spreading by proximity rather than any traceable vector. Six hundred afflicted subjects moving
+through a living city of forty thousand unafflicted residents was not, in her assessment, a single
+battle. It was six hundred separate small mercies rather than two hundred, each one requiring enough
+precision that the person standing beside the afflicted subject never fully understood what had
+happened.
 
 She worked the city in discrete strikes across forty-seven continuous hours, sleeping — by her own
 later admission to me, volunteered rather than asked for, which she does rarely about her own limits

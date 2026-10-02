@@ -6,7 +6,9 @@ pre-Fulfillment-Ceremony (`MCD-025`), Aethelgard alive throughout. A deliberatel
 entry — a harvest-season log-toss contest against Osric at the estate, in which young Ozmund, for once,
 consciously allows the full measure of his ordinary strength through rather than holding it back,
 discovering a rare, safe, witnessed pleasure in simply being strong without needing to hide it.
-Narrated by Red Beard (Tarn Cestari) per `VB-020`/`022`/`CC-020`. No new named characters.*
+Narrated by Red Beard (Tarn Cestari) per `VB-020`/`022`/`CC-020`. No new named characters. Corrected
+Batch 333, 2026-10-02: Osric's citation corrected from Chronicle I (`MCD-1730`) to his actual
+introduction at Chronicle XLVI (`MCD-1775`).*
 
 ---
 
@@ -70,5 +72,5 @@ entries in this wave (`MCD-1836`, `MCD-1840`) and the sacrifice shown in Chronic
 a genuine, safe, witnessed instance of ordinary (non-Spike) strength being let through freely rather
 than suppressed — extends the profile's "no threshold to cross" facet by showing restraint as a chosen
 discipline rather than an involuntary cage, consistent with the closing note of this entry itself.
-Reuses Osric (established Chronicle I, `MCD-1730`) in a warm register distinct from his prior
+Reuses Osric (established Chronicle XLVI, `MCD-1775`) in a warm register distinct from his prior
 appearances. No new named characters, no new place names. No foreshadowing of Book-1-era material.*

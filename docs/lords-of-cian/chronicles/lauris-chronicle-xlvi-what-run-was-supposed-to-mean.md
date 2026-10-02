@@ -10,7 +10,11 @@ months, and Lauris treats CP-414's last words as an unfulfilled instruction rath
 memory. Deliberately does not resolve whether CP-609 can be reached in time or what "reaching" will
 mean in practice, and does not restage or contradict any already-locked facility-clearance material.
 New designation CP-609 (a Directorate-style designation, not a proper name), collision-checked clean.
-Abad's blanket authorization: "lock it, continue uninterrupted, test and push to main."*
+Abad's blanket authorization: "lock it, continue uninterrupted, test and push to main." Corrected
+Batch 334, 2026-10-02: "the Directorate's own successor apparatus...dissolution" corrected to "the
+Directorate itself...reorganizations she has spent this season tracing" -- the Directorate is a
+still-active Book 1 institution, not dissolved; "a warehouse district decades ago" corrected to "the
+Korren foothills centuries ago."*
 
 -----
 
@@ -37,9 +41,9 @@ literally she meant that.
 *
 
 CP-609, per the surfaced record, is a designation still held within an active containment framework —
-not the Directorate's own successor apparatus directly, but one of the smaller, semi-independent
-holding operations that inherited fragments of its methodology after the institution's own gradual
-dissolution, the kind of operation that survives on inertia and old protocol rather than any coherent
+not the Directorate itself directly, but one of the smaller, semi-independent
+holding operations that split off from its regional containment offices during the reorganizations
+she has spent this season tracing, surviving on inertia and old protocol rather than any coherent
 present-day authority. The profile is incomplete. What exists suggests a subject held under conditions
 Lauris described to me, reading it, as "recognizable" — a word she did not elaborate on, and that I did
 not press her to elaborate on, given what I already understood the word to be carrying.
@@ -75,7 +79,7 @@ the last time ended in a blade would be its own kind of forgetting what she actu
 
 I do not know, setting this down, whether CP-609 will be found in time, or found at all, or whether the
 record that named her will prove, on closer inspection, to be as unreliable as the register that once
-told Lauris a lost Karesian fragment had simply been "disposed of." I know only that a promise made in a
-warehouse district decades ago, spoken by a woman with seconds left to speak it, is still, by Lauris's
+told Lauris a lost Karesian fragment had simply been "disposed of." I know only that a promise made in the
+Korren foothills centuries ago, spoken by a woman with seconds left to speak it, is still, by Lauris's
 own account, unpaid — and that she has, for the first time in this account's memory, chosen to let the
 possibility of paying it slow her down rather than send her forward at once.

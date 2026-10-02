@@ -7,20 +7,23 @@ Directorate's containment archives, which Lauris delivered into Directorate cust
 Operation 4 without disclosing what she recognized it as. Deepens rather than resolves -- she
 confirms the fragment has since been administratively reclassified and moved, widening rather than
 narrowing the search, and locates partial leads on two further fragments she cannot yet act on. No
-new named characters. Narrated by Fermand Aurelias.*
+new named characters. Corrected Batch 334, 2026-10-02: age-arithmetic fixes ("six thousand years"
+corrected to "two thousand years"; "second contract" corrected to "fourth contract"; "decades"
+corrected to "centuries") to match her true ~6,000-year age (`MCD-1533`). Narrated by Fermand
+Aurelias.*
 
 ---
 
 *Archive fragment, present-day: "I filed it myself, at Operation 4, before I knew what I was filing.
-I have known what it was for the better part of six thousand years. I still do not have it back."*
+I have known what it was for the better part of two thousand years. I still do not have it back."*
 
 I had not, before this entry, fully appreciated how long a debt can sit quietly beneath a career
 before its owner decides to act on it. Sample K-403 has existed in Lauris's personal archive as an
 acknowledged fact -- a fragment of Karesian biological material she herself delivered into the
-Directorate's Coastal Containment Office during her second contract, decades before she understood
+Directorate's Coastal Containment Office during her fourth contract, centuries before she understood
 what the tradition processing such fragments actually was -- for longer than most institutions on
 Cian have existed at all. She raised it with me this season not because anything new had forced the
-issue, but because the Operation 38 inquiry, which I have recorded elsewhere in this wave, put her in
+issue, but because the Operation 38 inquiry, which I have recorded elsewhere this season, put her in
 the habit of asking what "filed" and "processed" and "reported" actually meant in Directorate
 practice, rather than accepting the words at face value.
 

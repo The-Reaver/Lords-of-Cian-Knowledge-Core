@@ -5,10 +5,12 @@ series, Chronicle XLIX, fourth entry of the closing coming-of-age strand, set st
 Fulfillment-Ceremony (`MCD-025`), Aethelgard alive throughout. The most interior, least-witnessed
 entry in the series to date — a wholly private, self-directed discipline in which young Ozmund tests
 not the ceiling of his Density Spike but its floor, alone, at night, at the already-locked flooded
-quarry near Aldenmoor (`MCD-1747`), extending the "no threshold to cross" psychology (`CC-015`/
+quarry near Aldenmoor (`MCD-1746`), extending the "no threshold to cross" psychology (`CC-015`/
 `017`/`MCD-024`) into the one register where he alone gets to set the terms. Narrated by Red Beard
 (Tarn Cestari) per `VB-020`/`022`/`CC-020`, explicitly flagged within the text as the thinnest account
-he was ever given, reconstructed from a single, brief, unrepeated mention. No new named characters.*
+he was ever given, reconstructed from a single, brief, unrepeated mention. No new named characters.
+Corrected Batch 333, 2026-10-02: the Aldenmoor citation corrected from `MCD-1747` (Bevin, Chronicle
+XVIII) to `MCD-1746` (the actual introduction of the Aldenmoor settlement, Chronicle XVII).*
 
 ---
 
@@ -63,7 +65,7 @@ nearly as dark as I found it.
 
 *Continuity notes (not narrative): set strictly pre-Fulfillment-Ceremony, purely solitary — no other
 character appears on the page at all, the entry's deliberate register. Reuses the already-locked
-settlement of Aldenmoor (`MCD-1747`) rather than inventing a new place name; the flooded quarry itself
+settlement of Aldenmoor (`MCD-1746`) rather than inventing a new place name; the flooded quarry itself
 is a feature within it, not a separate named location. Extends the "no threshold to cross" facet of the
 profile to its logical, previously-undramatized endpoint: since the ceiling was never his to earn, the
 floor — the minimum controllable edge of the Density Spike — becomes the one place his discipline is

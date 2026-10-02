@@ -1,7 +1,8 @@
 # The Envoy Who Came to Provoke
 
 *Locked canon, Batch 306, 2026-09-23 (`MCD-1814`). Ozmund Verehimu Character Chronicle series,
-Chronicle LXXXV, House politics strand wave 3, sixth entry.*
+Chronicle LXXXV, House politics strand wave 3, sixth entry. Corrected Batch 333, 2026-10-02: "a
+family Bible" reworded to "a family register" to remove a real-world religious-term leak.*
 
 ---
 
@@ -16,7 +17,7 @@ its origin — something to do, as best he ever pieced together, with a conteste
 generations back that Skarne's family had lost and never stopped believing had been decided unfairly.
 It wasn't an active feud. There had been no violence between the two Houses in living memory, no open
 conflict of any kind. It was simply a cold, patient resentment that Skarne's family had apparently
-kept alive across three generations the way some families keep a family Bible — carefully, and
+kept alive across three generations the way some families keep a family register — carefully, and
 without ever quite explaining to outsiders why it mattered so much to them still.
 
 Ser Dravot Skarne arrived at House Verehimu, Ozmund twenty-six by then, ostensibly to discuss a

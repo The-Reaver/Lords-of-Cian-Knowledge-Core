@@ -8,7 +8,9 @@ than institutional help, testing the condition Lauris negotiated at her recruitm
 relationship with Aerelin's network "stays on terms she controls rather than the movement's central
 command" (`MCD-194`). No new named characters; Aerelin and Sephtis already locked. Deepens rather
 than resolves -- the operative's situation and whether Lauris acts remain open at the entry's close.
-Abad's blanket authorization: "lock it, continue uninterrupted, test and push to main."*
+Abad's blanket authorization: "lock it, continue uninterrupted, test and push to main." Corrected
+Batch 334, 2026-10-02: "twenty decades of Era G" corrected to "two centuries with the Lords of Cian"
+(a writers'-room era-label leak).*
 
 -----
 
@@ -24,8 +26,8 @@ The message came through the channel Sephtis has held, personally rather than as
 command function, since before Lauris ever arrived at the movement's headquarters: the sole route by
 which Aerelin's autonomous Kareth War-Order network reaches her, established at Lauris's own
 recruitment as one of three conditions negotiated without modification — that her relationship with
-Aerelin and the network stays on terms she controls, not the movement's. In twenty decades of Era G, by
-Sephtis's own account, Aerelin had used the channel sparingly, and never before for a request framed,
+Aerelin and the network stays on terms she controls, not the movement's. In two centuries with the
+Lords of Cian, by Sephtis's own account, Aerelin had used the channel sparingly, and never before for a request framed,
 explicitly, as personal rather than operational.
 
 The request itself: one of the roughly eighteen autonomous operatives Lauris's Operation 35 had once

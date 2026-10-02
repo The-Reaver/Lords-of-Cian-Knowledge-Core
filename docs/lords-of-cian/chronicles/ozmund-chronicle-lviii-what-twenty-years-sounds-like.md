@@ -1,6 +1,6 @@
 # What Twenty Years Sounds Like
 
-*Locked canon, Batch 306, 2026-09-23 (`MCD-1787`). Ozmund Verehimu Character Chronicle series, Chronicle LVIII, Draconis strand wave 3.*
+*Locked canon, Batch 306, 2026-09-23 (`MCD-1787`). Ozmund Verehimu Character Chronicle series, Chronicle LVIII, Draconis strand wave 3. Corrected Batch 333, 2026-10-02: "God" reworded to "the gods" to remove a real-world religious-term leak.*
 
 ---
 
@@ -14,7 +14,7 @@ The General told me he said nothing about any of it, and that Draconis, catching
 
 What struck the General, hearing it, was how little alarm the observation carried for Draconis himself, set against how much it carried for him. He told me he understood, standing in that cold armory, that he had spent so many years measuring the man against danger — knives, seals, beams, bolts — that he had somehow never once measured him against the ordinary, unstoppable fact of simply growing old, and that this, unlike every other threat the General had ever quietly stood ready to answer on his behalf, was the one he had no motion, single or otherwise, that could do anything at all against.
 
-Draconis, for his part, seemed to find the General's silence more troubling than his own stiff hand, and asked him plainly what was wrong. The General told me he'd answered only that he'd been thinking Halyn's boy would be old enough for a proper blade soon, and that he hoped Draconis meant to be the one who taught him to hold it. Draconis had laughed at that, low and genuine, and said he intended to be exactly that, God and his own knees willing, and the General told me he had let the moment close there, unwilling to say the truer thing sitting just behind it — that he had, for the first time in all the years he'd known him, caught himself afraid of an ending that had nothing to do with any enemy either of them had ever faced together.
+Draconis, for his part, seemed to find the General's silence more troubling than his own stiff hand, and asked him plainly what was wrong. The General told me he'd answered only that he'd been thinking Halyn's boy would be old enough for a proper blade soon, and that he hoped Draconis meant to be the one who taught him to hold it. Draconis had laughed at that, low and genuine, and said he intended to be exactly that, the gods and his own knees willing, and the General told me he had let the moment close there, unwilling to say the truer thing sitting just behind it — that he had, for the first time in all the years he'd known him, caught himself afraid of an ending that had nothing to do with any enemy either of them had ever faced together.
 
 ---
 

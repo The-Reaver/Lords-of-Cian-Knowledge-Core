@@ -15,8 +15,8 @@ there was no trick. I liked her better for saying so."*
 
 Efa Gol reads a problem the way I have watched other people read a familiar sentence — not slowly,
 not cautiously, simply correctly, on the first pass, because she has trained herself for years to
-see what is actually in front of her rather than what she expects to find there. I have written
-before, of her own war record, that the text pairs her assessment style directly against panic: she
+see what is actually in front of her rather than what she expects to find there. The crew's own
+record of her war pairs her assessment style directly against panic: she
 reads a man surveying trouble correctly because she has done the same herself, under considerably
 worse circumstances than the one I am about to describe.
 

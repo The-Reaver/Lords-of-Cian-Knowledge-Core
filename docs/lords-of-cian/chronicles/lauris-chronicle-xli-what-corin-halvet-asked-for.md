@@ -8,7 +8,9 @@ accumulated rescues") without resolving it: for the first time, a named individu
 population requests, on his own initiative, to leave concealment rather than remain protected
 within it. Deliberately a relational debt rather than a facility-monitoring visit, distinct in kind
 from Chronicles IV and VIII. New named character: Corin Halvet, collision-checked clean against the
-full live ledger. Abad's blanket authorization: "lock it, continue uninterrupted, test and push to
+full live ledger. Corrected Batch 334, 2026-10-02: "the Directorate's successor interests" corrected
+to "the Directorate" -- the Directorate is a still-active Book 1 institution, not dissolved. Abad's
+blanket authorization: "lock it, continue uninterrupted, test and push to
 main."*
 
 -----
@@ -30,8 +32,8 @@ operations before defection. He had been an adult already at the time of his res
 told, no small distinction among the concealed populations she protects — most were recovered as
 engineered constructs still mid-process, requiring years of the network's own careful stabilization
 before anything resembling an ordinary life became possible for them at all. Corin Halvet had needed
-none of that. He had simply needed, for two hundred years, somewhere the Directorate's successor
-interests could not find him, and the network had given him exactly that, faithfully, without
+none of that. He had simply needed, for two hundred years, somewhere the Directorate
+could not find him, and the network had given him exactly that, faithfully, without
 incident, for the whole of the interval.
 
 What he asked for now was not release from a danger he no longer believed existed. He was, by his own

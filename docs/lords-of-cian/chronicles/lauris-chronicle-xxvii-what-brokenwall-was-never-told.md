@@ -7,8 +7,8 @@ sustained precision-strike clearance of roughly two hundred simultaneously affli
 private discovery of the planted Ionic Rite-derived resonance node responsible, and her decision to
 rebury rather than destroy it. Deliberately leaves the parallel, later Velaris outbreak (Operation
 22, where she destroys the equivalent node outright) unnamed and undramatized, since Operation 22
-falls outside this entry's 1-20 operation range and is reserved for separate treatment. No new named
-characters.*
+is reserved for its own entry. Corrected Batch 334, 2026-10-02: a header wording fix only (no prose
+change). No new named characters.*
 
 -----
 

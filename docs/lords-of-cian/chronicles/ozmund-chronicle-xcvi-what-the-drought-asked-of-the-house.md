@@ -11,11 +11,14 @@ figures — Armsmaster Berrin Hollis, falconer Annis Fairweather, Master Alric F
 Oswin Kade — separately confirmed to him as having happened, though no single account of it survives
 in full; Red Beard notes openly that he has assembled the scene from four partial memories rather than
 one complete one. The strand's first full ensemble entry, all four figures in the same room together.
-No new named characters.*
+No new named characters. Corrected Batch 333, 2026-10-02: "the first account in this strand I've had
+to build" reworded to "the first of these accounts I've had to build" (Red Beard builds, not just
+transcribes, throughout the series); a stray in-line "(Chronicle XLV)" citation removed from Kade's
+dialogue, since it's narration, not something Kade himself would say.*
 
 ---
 
-I want to be honest about this one, because it's the first account in this strand I've had to build
+I want to be honest about this one, because it's the first of these accounts I've had to build
 rather than simply transcribe. No single person I spoke with — not Hollis, not Fairweather, not Fenmoor,
 not Kade — remembered that meeting whole. Each of them remembered a piece of it clearly enough to swear
 to, and each piece fit the others closely enough, in sequence and in substance, that I've chosen to set
@@ -39,7 +42,7 @@ could, and that eleven working hawks represented years of training that water al
 never buy back. Kade, closer to Hollis's position than not but arriving at it from a different angle,
 wanted the guard's own drinking water guaranteed above all else, arguing that a House that let its own
 sworn men go thirsty while horses drank their fill had already broken the arrangement he'd once described
-to me at length in his own account (Chronicle XLV) — protection given, obligation honored in return.
+to me at length in his own account — protection given, obligation honored in return.
 
 Fenmoor, by every account, said almost nothing for the first half of the argument, which Kade
 remembered finding uncharacteristic and slightly unsettling in a man normally so quick to correct

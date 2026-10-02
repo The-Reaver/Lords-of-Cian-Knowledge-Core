@@ -10,7 +10,10 @@ oxygen-binding capacity. Dramatizes the controlled Phalanx-arrested descent, the
 engagement against the twenty-three released Karesian-derived constructs, and the eight-hour manual
 reconstruction of the breached primary containment barrier, resealed with four hours to spare.
 Closes on deliberate dramatic irony, consistent with `MCD-183`'s reserved Operation 25 reveal: she
-believes she has contained a breach, not knowing the true scale of what her reseal preserved. No new
+believes she has contained a breach, not knowing the true scale of what her reseal preserved.
+Corrected Batch 334, 2026-10-02: a Drowning Vault/K-Theta cave-system conflation reworded (the
+closing-paragraph forward reference now points to the Drowning Vault's own hundred and twenty rather
+than to an unrelated cave-system thread). No new
 named characters.*
 
 -----
@@ -72,8 +75,9 @@ nothing in the operation's scope had given her reason to ask it.
 She would not learn the answer for eight further operations. I do not record it here, because it is
 not yet, in the account this entry is telling, hers to know -- but I have chosen to close this
 entry acknowledging its shadow rather than pretending it is not there, because I think a reader who
-already knows what Chronicle VIII records of her present-day maintenance visits deserves to
-recognize this moment for what it quietly was: not the end of a debt, but its beginning, sealed
+already knows what her later archive records of the hundred and twenty still secured behind that
+wall deserves to recognize this moment for what it quietly was: not the end of a debt, but its
+beginning, sealed
 behind a wall she rebuilt with her own hands and believed, for a time she now recognizes as far too
 long, to be simply a job well finished.
 

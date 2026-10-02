@@ -9,7 +9,8 @@ debt-collector to intimidate defaulters. Deliberately a debt of legend/reputatio
 site or population debt, distinct in kind from every other Strand L entry so far. New named
 character: Tevan Kesk, collision-checked clean against the full live ledger. Deepens rather than
 resolves -- the origin of the misuse and its full spread stay open. Abad's blanket authorization:
-"lock it, continue uninterrupted, test and push to main."*
+"lock it, continue uninterrupted, test and push to main." Corrected Batch 334, 2026-10-02: a grammar
+fix ("a itinerant trader" to "an itinerant trader").*
 
 -----
 
@@ -62,7 +63,7 @@ real for being small.
 
 What she did not do, and what I have come to understand she considers the genuinely unresolved part of
 this account, is press Kesk on where the name had come from in the first place. He claimed, when asked
-once and not pressed further, to have heard it years ago from a itinerant trader who told the story as
+once and not pressed further, to have heard it years ago from an itinerant trader who told the story as
 a warning rather than an instruction — a detail that satisfied neither of us as a full explanation, and
 that Lauris chose, deliberately, not to pursue past that single answer.
 

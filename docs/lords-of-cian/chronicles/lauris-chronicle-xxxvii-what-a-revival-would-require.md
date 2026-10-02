@@ -8,7 +8,8 @@ debts -- the Drowning Vault's 120 released"). Deepens rather than resolves -- a 
 session with Sephtis establishes that the population's 20-to-8,000-year generation-age spread
 (`MCD-183`) makes a single unified revival protocol impossible, reframing the debt as considerably
 more complex than a release event, without attempting or completing any part of that release. No new
-named characters. Narrated by Fermand Aurelias.*
+named characters. Corrected Batch 334, 2026-10-02: a timeline phrase reworded so the archive-room
+meeting is no longer placed "years before" Fermand knew either of them. Narrated by Fermand Aurelias.*
 
 ---
 
@@ -20,7 +21,8 @@ I do not often find myself present for a working session between Lauris and Seph
 resolution whatsoever, and I want to record this one carefully, because I think its lack of
 resolution is precisely what makes it worth recording. They met, at Lauris's own request, in the
 Karkosa's archive room -- the same room, I am told, where Sephtis first laid his own archive open to
-her, fourteen hours across a single sitting, years before I knew either of them. This meeting ran a
+her, fourteen hours across a single sitting, in the first days after I met her, before I had come to
+know either of them. This meeting ran a
 single afternoon, and produced not an answer but a considerably better account of the question.
 
 The subject was the Drowning Vault. Lauris recorded her personal commitment to release its secured

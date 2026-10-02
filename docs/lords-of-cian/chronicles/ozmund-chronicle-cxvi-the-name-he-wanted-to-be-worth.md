@@ -6,7 +6,10 @@ Fulfillment-Ceremony (`MCD-025`), Aethelgard alive throughout. A purely internal
 overhears how the household has already begun speaking of him in the third person, as a coming legend
 rather than a living boy, and privately arrives at a distinction between the reputation the world is
 already assembling for him and the far smaller, quieter thing he actually wants to be remembered for.
-Narrated by Red Beard (Tarn Cestari) per `VB-020`/`022`/`CC-020`. No new named characters.*
+Narrated by Red Beard (Tarn Cestari) per `VB-020`/`022`/`CC-020`. No new named characters. Corrected
+Batch 333, 2026-10-02: Osric's and Cobb's citations corrected from Chronicle I (`MCD-1730`) and
+Chronicle XLIII (`MCD-1772`) to their actual introductions at Chronicle XLVI (`MCD-1775`) and
+Chronicle XLIV (`MCD-1773`) respectively.*
 
 ---
 
@@ -67,6 +70,6 @@ emotional throughline" (the fight to be the author of your own will) into the re
 reputation for the first time, and lays groundwork — without foreshadowing it — for the later, locked
 distinction between the self-chosen name "Venim" and the world-given title "the Dark Monarch" (`MCD-100`,
 profile section 2, "a name he chose vs. a title the world gave him"), neither of which is named or
-alluded to on the page here. References Osric (`MCD-1730`/`1843`), Cobb (`MCD-1772`/`1844`), and Joren
+alluded to on the page here. References Osric (`MCD-1775`/`1843`), Cobb (`MCD-1773`/`1844`), and Joren
 (`MCD-1776`) only as memory, not restaging any of their scenes. No new named characters. No foreshadowing
 of Book-1-era material.*

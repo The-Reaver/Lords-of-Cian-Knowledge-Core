@@ -3,11 +3,14 @@
 *Locked canon, Batch 306, 2026-09-23 (`MCD-1848`). Character Chronicle track, Ozmund Verehimu's
 series, Chronicle CXIX, sixth entry of the coming-of-age strand's second wave, set strictly pre-
 Fulfillment-Ceremony (`MCD-025`), Aethelgard alive throughout. A quiet meditation on the disparity
-between his own Karesian-inherited long lifespan (`MCD-016`/`CC-016`, extending the already-locked
+between his own Karesian-inherited long lifespan (`CC-016`, extending the already-locked
 89,003-year-old Val Mirel Kareth, `MCD-101`) and the ordinary human spans of Osric and Cobb, the two
 people this wave has shown him growing closest to — resolved not with despair but with a deliberate
 choice about how to love people he will very likely outlive. Narrated by Red Beard (Tarn Cestari) per
-`VB-020`/`022`/`CC-020`. No new named characters.*
+`VB-020`/`022`/`CC-020`. No new named characters. Corrected Batch 333, 2026-10-02: removed a
+non-existent `MCD-016` citation (left `CC-016` as the valid citation); corrected Osric's and Cobb's
+citations from Chronicle I (`MCD-1730`) and Chronicle XLIII (`MCD-1772`) to their actual introductions
+at Chronicle XLVI (`MCD-1775`) and Chronicle XLIV (`MCD-1773`) respectively.*
 
 ---
 
@@ -75,5 +78,5 @@ is already implied by his heritage. Extends the profile's "defining emotional th
 your own will) into mortality and loss for the first time in the series, resolved deliberately without
 despair or foreshadowing of any specific future death — Osric and Cobb are both left alive and
 unremarkable at the close, consistent with the strand's non-melodramatic register. References Osric
-(`MCD-1730`/`1843`) and Cobb (`MCD-1772`/`1844`) without restaging their established scenes. No new named
+(`MCD-1775`/`1843`) and Cobb (`MCD-1773`/`1844`) without restaging their established scenes. No new named
 characters. No foreshadowing of Book-1-era material.*

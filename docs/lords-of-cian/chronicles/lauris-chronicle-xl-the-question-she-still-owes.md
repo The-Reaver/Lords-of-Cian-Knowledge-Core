@@ -7,17 +7,19 @@ breaking non-contact still has not arisen, per `MCD-198`'s own standing framing.
 resolves -- the accumulated weight of the five debts advanced earlier in this wave (`MCD-1652` through
 `MCD-1656`) gives Lauris fresh cause to weigh reaching for Sephtis's standing broker-contact protocol,
 and she comes to the threshold of it, then declines again, closing the wave on the same unresolved
-question it opened adjacent to. No new named characters. Narrated by Fermand Aurelias.*
+question it opened adjacent to. Corrected Batch 334, 2026-10-02: "twenty-two years" corrected to
+"centuries" (three instances) to match her true ~6,000-year age (`MCD-1533`); "this wave" reworded to
+"this season" (two instances). No new named characters. Narrated by Fermand Aurelias.*
 
 ---
 
-*Archive fragment, present-day: "Twenty-two years since I asked myself, in writing, whether ending
+*Archive fragment, present-day: "Centuries since I first asked myself, in writing, whether ending
 Verith's life was the right decision. I have not asked Val Mirel. I told Sephtis, once, that the
 reason would eventually arise. I am recording, tonight, that I still do not consider it to have
 arisen."*
 
 I want to close this season's account of Lauris's standing debts where it belongs, which is not with
-a resolution but with the one debt among them that touches every other debt this wave has recorded,
+a resolution but with the one debt among them that touches every other debt this season has recorded,
 without quite belonging to any single one of them. Val Mirel Kareth, Ozmund's mother, has known of
 Lauris's existence for roughly eighteen hundred years and has tracked her operational profile at a
 distance for the whole of that span without initiating contact, per the standing War-Order protocol of
@@ -39,7 +41,7 @@ to carry more weight than the assessment that set it aside accounted for.
 She raised the connection herself, on the last evening of this season's review, in a conversation I
 record as faithfully as I am able. "I have spent this season discovering that 'not yet' has a cost I
 have not always been honest with myself about," she said. "Verith is the oldest 'not yet' I am
-carrying. Twenty-two years since the question of whether I was right to kill her rather than deliver
+carrying. Centuries since the question of whether I was right to kill her rather than deliver
 her for processing has sat exactly where I left it, waiting for a reason to raise it with the one
 person whose answer I actually want."
 
@@ -64,11 +66,11 @@ certainty rather than a reason, and I do not believe certainty is coming before 
 rather than after it."
 
 I record this as the honest close of the season's ledger, not because it resolves anything, but
-because I believe it names, more precisely than any single entry before it, what this entire wave has
-actually been about: a woman who has spent six thousand years discharging debts through action alone,
+because I believe it names, more precisely than any single entry before it, what this entire season
+has actually been about: a woman who has spent six thousand years discharging debts through action alone,
 discovering that some of what she carries will not be discharged that way at all.
 
-Her closing note, the last entry of the season: *Verith. Twenty-two years, and the four other accounts
+Her closing note, the last entry of the season: *Verith. Centuries, and the four other accounts
 this season reopened besides. I still have not asked Val Mirel. I am no longer telling myself the
 reason has not arrived. I am telling myself, instead, that I have not yet been brave enough to decide
 it has. That is a truer sentence, and a harder one to keep writing.*

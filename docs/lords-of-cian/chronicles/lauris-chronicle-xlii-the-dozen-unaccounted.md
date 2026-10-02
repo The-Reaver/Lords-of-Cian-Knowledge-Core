@@ -8,7 +8,8 @@ her own recognition of it. Deliberately an archival/informational debt rather th
 distinct in kind from Chronicles IV and VIII. Reuses already-locked Directorate historian Vael
 Korr-Drennen (`MCD-1541`) as the research contact rather than inventing a new named figure. No new
 named characters. Abad's blanket authorization: "lock it, continue uninterrupted, test and push to
-main."*
+main." Corrected Batch 334, 2026-10-02: "decades before I was born" corrected to "centuries before I
+was born" to match Fermand's ~200-year tenure (MCD-194/271).*
 
 -----
 
@@ -20,7 +21,7 @@ Lauris does not often ask me to accompany her to an archive rather than a battle
 find these occasions, when they come, more instructive than most of the ones that involve the Spine of
 Dagon. This account concerns one of them: a week spent almost entirely indoors, in the company of old
 paper and an older woman, pursuing a debt that has sat, by Lauris's own reckoning, unresolved since
-Operation 4 of her Apprentice Contracts — decades before I was born, let alone before I began keeping
+Operation 4 of her Apprentice Contracts — centuries before I was born, let alone before I began keeping
 her record.
 
 The debt is this. Sample K-403, recovered from smuggler Therik Voll's stores during that contract and

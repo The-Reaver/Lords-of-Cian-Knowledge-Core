@@ -5,7 +5,8 @@ Chronicle series, Strand W (Witness / present-day, quiet register). A stakes-fre
 Lauris with Kanja himself -- present-day, no alias in effect, no battle. Puts `CC-134`'s combat-joy
 trait on the page through an inversion of expectation: Kanja seeks her out specifically for
 exquisite control rather than raw capacity, since her density saturates without loss of precision
-(extending `ARS-357` through `374`). No new named characters. Written under Abad's blanket
+(extending `ARS-357` through `366`). Corrected Batch 334, 2026-10-02: ARS citation corrected from
+"374" to "366". No new named characters. Written under Abad's blanket
 authorization: "lock it, continue uninterrupted, test and push to main."*
 
 ---

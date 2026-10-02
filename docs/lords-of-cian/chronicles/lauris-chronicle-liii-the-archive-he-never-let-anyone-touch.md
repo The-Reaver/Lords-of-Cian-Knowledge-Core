@@ -7,20 +7,22 @@ his own frame for the first time in the series -- he continues narrating in the 
 third-person Baroque/Zafón-Noir register per `CC-034`/`VB-024` even while describing his own
 actions, rather than switching to first person. Puts `CC-134`'s combat-joy trait on the page in
 the most domestic register the series has attempted yet: forty-one archive crates moved in an
-afternoon. No new named characters. Written under Abad's blanket authorization: "lock it, continue
+afternoon. No new named characters. Corrected Batch 334, 2026-10-02: "thirty years" corrected to
+"two hundred years" (four instances) and "two decades of Ezio's correspondence" to "two centuries" to
+match Fermand's ~200-year tenure (MCD-194/271). Written under Abad's blanket authorization: "lock it, continue
 uninterrupted, test and push to main."*
 
 ---
 
 *Archive fragment, present-day, undated by her own habit: "Fermand has kept every page himself for
-thirty years and has never once asked anyone to help carry them. I counted the crates today.
+two hundred years and has never once asked anyone to help carry them. I counted the crates today.
 Forty-one. He counted them differently. He said 'enough.' I did not argue with the number he
 chose."*
 
 I will note a peculiarity of this account before I begin it properly, so that a reader is not left
 wondering at it partway through. Fermand Aurelias appears in the pages that follow as a participant
 rather than only as the hand that sets them down, and he intends to hold to exactly the same
-discipline in describing himself that he has held to for thirty years in describing everyone else:
+discipline in describing himself that he has held to for two hundred years in describing everyone else:
 the third person, the clinical remove, no confession dressed up as narration. Fermand was there. He
 did not care for being there. He is writing it down regardless, because leaving a true thing out of
 the record on the grounds that it happened to him would be a worse failure of the account than any
@@ -30,7 +32,7 @@ The archive room beneath his own quarters had not been properly reorganized in p
 years — not through neglect, precisely, but through the ordinary attrition of a man who adds to a
 thing daily and reshelves nothing, on the theory that there will always be a slower month in which
 to do it properly. There was not, as it turned out, ever going to be a slower month. There were
-forty-one crates of loose transcription, cross-referenced shorthand, and two decades of Ezio's
+forty-one crates of loose transcription, cross-referenced shorthand, and two centuries of Ezio's
 correspondence copied in Fermand's own hand, stacked against three walls in an order that made
 sense to no one, including, by his own admission when pressed, Fermand himself.
 
@@ -58,7 +60,7 @@ began carrying while he named, and within perhaps twenty minutes it became appar
 narrating the contents of forty-one crates from a chair was considerably less exhausting than
 narrating them while also lifting them, and he sat down, and stayed sat, and continued.
 
-I want to record plainly what it was to watch this, since I have spent thirty years watching her do
+I want to record plainly what it was to watch this, since I have spent two hundred years watching her do
 harder things and have never quite found the vocabulary for this particular register of her. She
 carried crates that required both arms and her full attention, three and four at a stack, up a
 narrow stair, for the better part of two hours, and she did it the way I have seen her cross a
@@ -81,7 +83,7 @@ without rehearsal.
 "I know," she said. "I wanted to."
 
 He has thought, since, about how rarely anyone extends him a kindness with no ledger attached — he
-has spent thirty years as the one who keeps the account of other people's debts and doesn't often
+has spent two hundred years as the one who keeps the account of other people's debts and doesn't often
 find himself owed anything in return, nor does he particularly expect to be. He does not know, fully,
 what to do with an afternoon that cost him nothing and asked nothing back. He is aware, setting this
 down, that the honest thing to do with it is simply to record that it happened, exactly as he would
