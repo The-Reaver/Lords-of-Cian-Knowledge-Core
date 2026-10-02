@@ -1,6 +1,9 @@
 # The Marshal Who Took It Personally
 
-*Locked canon, Batch 217, 2026-09-11 (`MCD-952`). Sovereign Ghost of the Great Sea Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 217, 2026-09-11 (`MCD-952`); corrected Batch 321, 2026-10-02 (reworked so the
+Marshal was personally the commanding officer who lost his own ship at Ghost Harbor, rather than "a
+junior officer aboard her" watching someone else's career end -- that framing contradicted `MCD-957`'s
+own account of him blaming his personal judgment for the loss). Sovereign Ghost of the Great Sea Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -9,9 +12,9 @@ committee, a blockade squadron assembled from a standing order, a hunter-group d
 people who never had to answer personally for its failure. The newly-seated Fleet-Marshal of the Trust's
 Western Squadron was the first to make it about himself.
 
-He'd lost his previous command at Ghost Harbor, one of the six grounded destroyers whose captain had
-been quietly retired afterward while the Marshal, then a junior officer aboard her, had watched the tide
-do to his career what the fleet's tactics had done to the ship. Promotion had not softened it. His first
+He'd lost his previous command at Ghost Harbor, one of the six grounded destroyers, and watched the
+tide do to his career exactly what the fleet's own tactics had done to his ship. Promotion had not
+softened it. His first
 act on taking the Western Squadron was a standing bounty, paid from his own family's holdings rather
 than Trust funds, for any intelligence — credible or not — on the ghost fleet's movements.
 
@@ -50,4 +53,6 @@ antagonist in that his motive is personal (a career lost at Ghost Harbor, MCD-23
 institutional, and his method (patient roving reconnaissance rather than a single decisive engagement)
 is the first to genuinely learn the fleet's patterns rather than react to them. Deliberately ends without
 a direct confrontation, seeding a thread to be paid off later in the run. Second entry in the
-seventeenth wave.*
+seventeenth wave. Corrected Batch 321, 2026-10-02: the Marshal is now consistently the commanding
+officer who personally lost his ship at Ghost Harbor, matching `MCD-957`'s own account rather than
+contradicting it with a "junior officer" framing.*

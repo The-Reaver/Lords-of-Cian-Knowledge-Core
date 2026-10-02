@@ -22,13 +22,15 @@ Pell Ostra timed the breach to the minute the tide finished turning, three charg
 seaward wall without touching the load-bearing arch the captives were held beneath -- work she'd done
 a hundred times and still measured twice, murmuring numbers to the charges the way she always had.
 The successor ran her diversion up the patrol road, drawing both checkpoints' attention north exactly
-long enough. Kanja went in through the breach alone, moved eighty-one people down a stretch of
-exposed beach in under forty minutes, and was back aboard before either checkpoint had finished
+long enough. Kanja went in through the breach first, opening the line and reading the beach for the
+fastest safe path, carrying his own share same as anyone — but it was the successor's own people,
+more of them and faster on their feet than he'd been in years, who moved most of the eighty-one down
+the exposed stretch in under forty minutes. He was back aboard before either checkpoint had finished
 investigating a diversion that, by the time they understood it as one, no longer mattered.
 
 Efa Gol met him at the rail when it was done, the way she had a hundred times before, and said nothing
 about the folded coat or the three weeks of silence that had come before it. Garren Hask logged
-eighty-one names into a ledger that, by his own count, now ran past two hundred and seventy-nine years
+eighty-one names into a ledger that, by his own count, now ran past two hundred and eighty-three years
 without missing a single one. Neither of them asked whether it had been worth choosing to stay for.
 The number, this time, was its own answer.
 
@@ -43,5 +45,12 @@ time since handing full institutional trust to the successor (`MCD-904`, age 265
 particular choice rather than a reversal of that established trust; the successor's own three-
 diversion doctrine (`MCD-1254`) is reused, not replaced. Reuses Efa Gol (`CC-130`/`131`), her
 established unnamed successor, Pell Ostra (`CC-132`/`133`), and Garren Hask (`CC-115`/`116`). Age
-313, V4 gear (`ARS-348`, debut age 241). Onyx of Oblivion correctly absent per its L9 seal throughout
-the Long Mask. First entry of the Scourge's thirty-first wave. No new named characters.*
+313, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent per its L9 seal throughout
+the Long Mask. First entry of the Scourge's thirty-first wave. No new named characters. Corrected
+Batch 321, 2026-10-02: softened the beach-liberation physical beat per Abad's ruling on Kanja's
+locked late-Long-Mask physical decline (`MCD-271`'s "good days vs. bad days"), shifting most of the
+hands-on carrying to the successor's own people while Kanja opens the breach and directs, without
+changing the outcome (81 freed, under 40 minutes); corrected Garren Hask's ledger span from "two
+hundred and seventy-nine years" to "two hundred and eighty-three," using the age-30 anchor that
+reconciles this figure across all five entries that stated it inconsistently; corrected the
+`ARS-348` citation to its own locked ranges.*

@@ -1,7 +1,7 @@
 # The Ones Who Sold Him Out
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1469`). The Scourge Alias Chronicle XCIV, wave 32, first
-entry. Age 205, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 205, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -21,7 +21,7 @@ cover.
 
 The Forge-Coat's plating turned the first crossbow bolt at the shoulder seam before its owner had
 finished loosing a second; the Ironhand Gauntlets closed the gap in four strides and put both archers
-down before either reloaded. Mafesto's Kinetic Transfer System caught a third man's own committed
+down before either reloaded. The same grounding weave caught a third man's own committed
 lunge and returned it against the rock he'd been braced on, breaking nothing that needed breaking
 twice. It was over in under a minute, the ambush undone as cleanly as it had been assembled, and none
 of the four men in the rocks ever got a clear look at what had unmade their plan.
@@ -48,8 +48,11 @@ skill or luck. Resolved without punishment of the informant, deliberately left o
 caught nor named), extending the sub-series' established preference for honest, unresolved ledger
 entries over tidy closure (`MCD-1231`, `MCD-1254`). Reuses Efa Gol's established unnamed successor
 (`MCD-904`/`1240`/`1254`) and Garren Hask (`CC-115`/`116`) in established roles. Age 205 places this
-within Forge-Coat/Sovereign Eyes V3 (`ARS-347`/`348`, ages 80-241) and Ironhand Gauntlets V3
-(`ARS-352`, ages 180-260); Obsidian Malice not needed given the ambush's short range and low numbers.
-Onyx of Oblivion correctly absent per its L9 seal throughout the Long Mask. No new named characters.
+within Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-284) and Ironhand Gauntlets
+V3
+(`ARS-352`, ages 180-260). Onyx of Oblivion, Mafesto, and Obsidian Malice correctly absent per the
+Trinity's age-30 surrender (`MCD-246`). No new named characters.
 Does not touch, restage, or contradict the already-locked final night of the persona (`MCD-1022`,
-age 314, and its immediate approach at `MCD-1406`-`1408`).*
+age 314, and its immediate approach at `MCD-1406`-`1408`). Corrected Batch 321, 2026-10-02: removed
+an anachronistic Mafesto reference, swapped for the Forge-Coat's grounding weave; relabeled
+Forge-Coat/Sovereign Eyes gear generation V3 -> V4 to match `ARS-348`'s own locked ranges.*

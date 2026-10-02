@@ -179,38 +179,32 @@ grounded in Kanja's own single underlying psychology, not a separate invented on
 
 ### Abilities / gear
 
-- **The Trinity in its crew-protective register.** Distinct in register from every other alias's
-  showcases per the ledger's own framing (`MCD-396`): Mafesto's Kinetic Transfer System is shown
-  absorbing/redirecting force *away from* civilians and crew rather than at an enemy (`MCD-396`,
-  volley fire meant for eleven unarmored recruits; `MCD-1058`, a ramming cutter's shock redirected
-  along pilings rather than through civilians; `MCD-1377`, a collapsing tenement's structural
-  force redirected with no enemy present at all); Obsidian Malice discharged to disable footing
-  or scatter a boarding line rather than kill (`MCD-396`, `MCD-1058`); Onyx of Oblivion's
-  detection powers used for non-combat purposes — Veil Piercer for crowd-intent discrimination
-  rather than targeting (`MCD-1518`), and, notably, `MCD-1518` also shows Kanja **deliberately
-  never drawing Obsidian Malice at all** when the threat is internal to a panicked crowd rather
-  than an external enemy — restraint as its own demonstrated skill.
+- **The Trinity in its crew-protective register (Rebellion-era waves 1-19 only).** Distinct in
+  register from every other alias's showcases per the ledger's own framing (`MCD-396`): Mafesto's
+  Kinetic Transfer System is shown absorbing/redirecting force *away from* civilians and crew
+  rather than at an enemy (`MCD-396`, volley fire meant for eleven unarmored recruits); Obsidian
+  Malice discharged to disable footing or scatter a boarding line rather than kill (`MCD-396`);
+  Onyx of Oblivion's detection powers used for non-combat purposes. This register is confined to
+  the Rebellion-era waves, before the age-30 surrender (`MCD-246`).
 - **Coordinated command over solo heroics.** `MCD-461` — Kanja maps a strongpoint and directs
   three separate named subordinates (Efa Gol's decoys, Pell Ostra's demolition team, Callum
   Breck's assault element) through a three-vector plan, his own Trinity held mostly in reserve.
   `MCD-1515` inverts this further: Kanja fights *under* Callum Breck's tactical command as the
   newly-seated chair, the first time in the sub-series he isn't the one directing.
-- **Full-Trinity combat showcases, in this crew-protective register, recur throughout the
-  post-"Trinity's surrender" waves** (`MCD-1058`, `MCD-1091`, `MCD-1367`, `MCD-1374`, `MCD-1381`,
-  `MCD-1386`, `MCD-1515`, `MCD-1518`, `MCD-1521`) — see the Biography/stats era-span flag above;
-  this is the same material driving that open contradiction, since these showcases require Trinity
-  access the Long Mask era's own locked rule (`MCD-246`) says shouldn't exist.
+- **Kanja's own Long Mask-era kit (the seven-piece post-Mafesto gear system, `ARS-344` through
+  `ARS-356` -- the Forge-Coat, Sovereign Eyes, Breath Collar, Ironhand Gauntlets, Ironfall Boots,
+  Smoke System, Mend-Line -- plus the Rexmar Machete, his own trained swordsmanship, and his
+  instinctive Rexmar-Mar tactical sense) runs throughout the post-"Trinity's surrender" waves**
+  (`MCD-1058`, `MCD-1091`, `MCD-1367`, `MCD-1370`, `MCD-1374`, `MCD-1377`, `MCD-1381`, `MCD-1386`,
+  `MCD-1421`, `MCD-1515`, `MCD-1518`, `MCD-1521`), consistent with the Trinity's own locked
+  age-30-314 sealing (`MCD-246`) -- corrected across Batches 314 and 321 from an earlier draft
+  that mistakenly used full-Trinity gear in these same entries. The deliberate-restraint beat in
+  `MCD-1518` (Kanja choosing not to engage the Ironhand Gauntlets at all against a panicked crowd)
+  stands on its own regardless of which gear system is in play.
 - **New environmental registers for this alias specifically:** a high mountain pass defending a
-  war-orphan caravan, first on-page Captain-track use of Onyx's Whisper of Shadows (`MCD-1367`);
-  total blind darkness during a moonless storm, coordinated by Efa Gol on sound-count alone
-  (`MCD-1374`); a crowded civic plaza during a food distribution (`MCD-1091`).
-- **Underlying Kanja gear not used in this alias's own material:** the Long Mask-era Forge-Coat/
-  Sovereign Eyes/Ironhand Gauntlets/Ironfall Boots/Smoke System/Mend-Line loadout (`ARS-344`
-  through `ARS-356`) is the gear built specifically *because* the Trinity was sealed at L9 for
-  ages 30-314 (`MCD-246`) — none of it appears anywhere in the Captain track, which uses the
-  Trinity directly and often. This absence is consistent with Captain's own combat register but
-  reinforces the era-span question above: the two gear systems are mutually exclusive by design,
-  and the Captain track's post-Rebellion entries never engage with that exclusivity at all.
+  war-orphan caravan (`MCD-1367`); total blind darkness during a moonless storm, coordinated by
+  Efa Gol on sound-count alone (`MCD-1374`); a crowded civic plaza during a food distribution
+  (`MCD-1091`).
 
 ### Already-locked plot beats (book-level or Chronicle-level)
 
@@ -387,9 +381,9 @@ inventing something new.)*
 
 ## 3. Game Plan
 
-*(Not started — requires the Psychological Profile above, plus a ruling on the Trinity/Long-Mask
-era-span contradiction flagged in the walkthrough, before narrator, pacing, and Chronicle-pitch
-work can proceed.)*
+*(Not started — requires the Psychological Profile above before narrator, pacing, and
+Chronicle-pitch work can proceed. The Trinity/Long-Mask era-span contradiction flagged in the
+walkthrough has since been resolved, Batches 314 and 321, and no longer blocks this stage.)*
 
 ---
 

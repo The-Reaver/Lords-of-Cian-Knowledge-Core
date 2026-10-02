@@ -6,7 +6,7 @@ V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
 ---
 
 The overseer had died the way most of them died who chose to fight rather than surrender: fast, and
-by his own decision, drawing a blade against Mafesto's Kinetic Transfer System rather than open the
+by his own decision, drawing a blade against the Forge-Coat's grounding weave rather than open the
 compound's holds when he was given the chance to. Forty-three captives came out of the ground beneath
 his depot before morning. What no one had accounted for, in the count Garren Hask kept that night, was
 the boy — six years old, the overseer's own son, asleep in the depot's attached house when his father
@@ -41,8 +41,11 @@ entry about captives, informants, or reformed slavers, since the boy is neither 
 perpetrator but an innocent bystander to both. Deliberately left unresolved (the boy's outcome is
 never followed up), matching the sub-series' established practice for open threads (`MCD-1231`,
 `MCD-1234`). Efa Gol (`CC-130`/`131`) referenced in an established supporting role. Age 120 places
-this within Forge-Coat V3 (`ARS-347`/`348`, ages 80-241), Ironhand Gauntlets V2 (`ARS-352`, ages
+this within Forge-Coat V3 (`ARS-347`/`348` locks V3 at ages 80-180), Ironhand Gauntlets V2
+(`ARS-352`, ages
 80-180), and Mend-Line V2 (`ARS-355`, ages 100-200) -- no combat showcase in this entry, gear
-referenced only in passing. Onyx of Oblivion correctly absent per its L9 seal throughout the Long
-Mask. No new named characters (the fisherman and the boy are both deliberately unnamed). Does not
-touch, restage, or contradict the already-locked final night of the persona (`MCD-1022`).*
+referenced only in passing. Onyx of Oblivion, Mafesto, and Obsidian Malice correctly absent per the
+Trinity's age-30 surrender (`MCD-246`). No new named characters (the fisherman and the boy are both deliberately unnamed). Does not
+touch, restage, or contradict the already-locked final night of the persona (`MCD-1022`). Corrected
+Batch 321, 2026-10-02: removed an anachronistic Mafesto reference, swapped for the Forge-Coat's
+grounding weave; corrected the `ARS-348` citation to its own locked ranges.*

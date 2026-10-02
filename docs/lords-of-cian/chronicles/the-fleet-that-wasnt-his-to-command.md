@@ -1,7 +1,7 @@
 # The Fleet That Wasn't His to Command
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1471`). The Scourge Alias Chronicle XCVI, wave 32, closing
-the wave. Age 195, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+the wave. Age 195, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -23,13 +23,13 @@ and not one signal after, the same terms he'd have offered anyone he trusted eno
 The engagement itself ran four hours, the foreign squadron's six ships holding the depot's seaward
 approach while his own crew went in low and dark against the landward wall — Sovereign Eyes reading
 the compound's guard rotation through the dark, Ironhand Gauntlets and the Rexmar Machete clearing the
-inner cordon room by room, Obsidian Malice's discharge collapsing a reinforced gate the foreign
+inner cordon room by room, the same Gauntlets' leverage collapsing a reinforced gate the foreign
 squadron's own guns hadn't been able to touch from the water. Ninety-six captives came out before the
 depot's last defenders surrendered to a combined force neither side could have fielded alone.
 
 Afterward, the foreign commodore offered a standing arrangement — future operations, an open channel,
 something closer to alliance than a single night's cooperation had been. Kanja declined that part
-cleanly, the same instinct that had refused a Trust letter of marque fourteen years before: one
+cleanly, the same instinct that had refused a Trust letter of marque forty years before: one
 battle, freely chosen and freely ended, was a debt neither side owed the other anything further for.
 The commodore didn't push it, and the squadron sailed home flying no flag that mentioned him at all.
 
@@ -42,10 +42,16 @@ Insurance They Tried to Buy" (`MCD-1019`) were both refusals of ongoing institut
 entry extends that same independence principle into an accepted, time-limited cooperation instead of
 a flat refusal, deliberately declining to convert a single joint operation into a standing
 arrangement. A detailed full-gear combat showcase (Sovereign Eyes, Ironhand Gauntlets, the Rexmar
-Machete `ARS-260`, and Obsidian Malice) per this run's craft note. Age 195 places this within
-Forge-Coat/Sovereign Eyes V3 (`ARS-347`/`348`, ages 80-241) and Ironhand Gauntlets V3 (`ARS-352`, ages
+Machete `ARS-260`) per this run's craft note. Age 195 places this within
+Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-284) and Ironhand Gauntlets V3
+(`ARS-352`, ages
 180-260); Mend-Line still V2 (`ARS-355`, ages 100-200, since age 195 is just short of the V3 threshold
-at 200). Onyx of Oblivion correctly absent per its L9 seal throughout the Long Mask. No new named
+at 200). Onyx of Oblivion, Mafesto, and Obsidian Malice correctly absent per the Trinity's age-30
+surrender (`MCD-246`). No new named
 characters (the foreign commodore is unnamed and one-scene). Does not touch, restage, or contradict
 the already-locked final night of the persona (`MCD-1022`). Closes the Scourge's thirty-second wave
-(with "The Ones Who Sold Him Out," `MCD-1469`, and "The Man Who Raised the Slaver's Son," `MCD-1470`).*
+(with "The Ones Who Sold Him Out," `MCD-1469`, and "The Man Who Raised the Slaver's Son," `MCD-1470`).
+Corrected Batch 321, 2026-10-02: removed an anachronistic Obsidian Malice "discharge," swapped for
+the Ironhand Gauntlets' leverage; corrected "fourteen years before" to "forty years before," matching
+this entry's age (195) against `MCD-1017`'s own age (155); relabeled Forge-Coat/Sovereign Eyes gear
+generation V3 -> V4 to match `ARS-348`'s own locked ranges.*

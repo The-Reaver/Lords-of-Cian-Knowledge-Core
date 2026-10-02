@@ -1,6 +1,8 @@
 # The Widow's Question
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1216`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1216`); corrected Batch 321, 2026-10-02 (removed a
+misplaced "off the Sovereign Coast" location reference, which belongs to the unrelated flagship duel
+at `MCD-799`, not the Captain Who Didn't Believe in Ghosts, `MCD-774`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXVIII, wave 26, closing the wave. A war widow confronts Kanja directly over a death from the
 alias's own first reputation failure. Not a territory Chronicle. Narrated in neutral third-person
 prose.*
@@ -12,8 +14,8 @@ that she'd gone to some trouble to arrange the meeting rather than simply happen
 perhaps thirty, plainly dressed, with the specific tired steadiness of someone who had done all her
 crying already and had questions left instead.
 
-"My husband served aboard the *Vigilant Crown*," she said. "The one that fought you off the Sovereign
-Coast — the captain who didn't believe in ghosts and made you prove it real." A real fight, years
+"My husband served aboard the *Vigilant Crown*," she said. "Her captain didn't believe in ghosts and
+made you prove it real." A real fight, years
 back, where the reputation had failed to end things bloodlessly, before doctrine and legend had
 hardened into the near-unbroken record the fleet carried now. "He died in that fight. I want to know
 why it had to be a fight at all, when every other ship you've met since got to walk away whole."
@@ -48,4 +50,6 @@ war widow confronts Kanja directly over a death from "The Captain Who Didn't Bel
 rather than comfort or excuse, refusing to either take blame beyond what's his or deflect it
 entirely. Extends Garren Hask's true-record ledger (`MCD-445`) as the thing that ultimately answers
 her. The widow is deliberately unnamed. No new named characters. Closes wave 26 (with "The Signal
-They Almost Answered," `MCD-1214`, and "The Captain Who Gave Up His Ship," `MCD-1215`).*
+They Almost Answered," `MCD-1214`, and "The Captain Who Gave Up His Ship," `MCD-1215`). Corrected
+Batch 321, 2026-10-02: removed a misplaced "off the Sovereign Coast" location reference, which
+belongs to the unrelated flagship duel at `MCD-799`.*

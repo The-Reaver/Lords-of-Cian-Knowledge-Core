@@ -1,6 +1,7 @@
 # The Fever That Didn't Care About Flags
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1202`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1202`); corrected Batch 321, 2026-10-02 ("a decade" trimmed
+to "years" to fit this alias's nine-year Rebellion-era window). Sovereign Ghost of the Great Sea Alias Chronicle
 LXIV, wave 22, first entry in the wave. An internal medical crisis aboard the fleet's own ship, no
 enemy or rescue involved. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -9,7 +10,7 @@ enemy or rescue involved. Not a territory Chronicle. Narrated in neutral third-p
 The sickness started with one man on *The Receipt* complaining of a headache he blamed on bad water,
 and within four days it had put nineteen more on their backs with the same fever, the same rattling
 cough, and no clear source anyone could point to. Efa Gol, who had commanded decoys and diversions
-against Trust patrols for a decade without losing her nerve, found this a different kind of problem:
+against Trust patrols for years without losing her nerve, found this a different kind of problem:
 an enemy that didn't move, didn't retreat, and couldn't be out-maneuvered by reading a man's stance.
 
 She quarantined *The Receipt* at anchor in a sheltered cove rather than risk carrying the fever to
@@ -46,4 +47,5 @@ quarantine-cordon showcase of "The Ship They Meant to Sink" (`MCD-1038`, wave 20
 Pell Ostra's (`CC-132`/`CC-133`, she/her) materials expertise into medical-adjacent investigation.
 Garren Hask's ledger (`MCD-445`) gains a new category — deaths the fleet itself, not any enemy, is
 responsible for reckoning. No new named characters; the fever victims are deliberately unnamed.
-First entry in wave 22.*
+First entry in wave 22. Corrected Batch 321, 2026-10-02: "a decade" trimmed to "years" to fit this
+alias's nine-year Rebellion-era window (ages 21-30).*

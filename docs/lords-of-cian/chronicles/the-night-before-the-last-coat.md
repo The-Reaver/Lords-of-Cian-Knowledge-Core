@@ -8,7 +8,7 @@ Chronicle. Narrated in neutral third-person prose.*
 
 No one aboard knew yet that it was the second-to-last night rather than any other. The year Kanja had
 chosen to stay for was nearly spent -- the window at the tide-cut road closed and freed, the ledger
-of names filed in its own binding, more than eighty individually followed lives added to what Garren
+of names filed in its own binding, forty-one individually followed lives added to what Garren
 Hask still kept and Sena still tracked apart from it -- and the operation scheduled for the following
 night was, on paper, no different from a hundred that had come before it: a holding compound, a
 timed approach, a route the successor had already walked twice in scouting.
@@ -40,8 +40,11 @@ Didn't Put Back On" (`MCD-1255`, age 313) and carried through this wave's first 
 extra year chosen then is shown, here, fully spent. Reuses Efa Gol (`CC-130`/`131`), Garren Hask
 (`CC-115`/`116`), and Efa Gol's established unnamed successor (`MCD-904`, `MCD-1240`, `MCD-1254`)
 together for the second time in a single entry, matching the full-supporting-cast gathering `MCD-1255`
-established as this approach to the persona's own close. Age 314, V4 gear (`ARS-348`, debut age 241),
+established as this approach to the persona's own close. Age 314, V4 gear (`ARS-348` locks V4 at
+ages 180-284),
 though no combat occurs in this entry. Onyx of Oblivion correctly absent per its L9 seal throughout
 the Long Mask. Closes the Scourge's thirty-first wave (with "The Window That Wouldn't Come Twice,"
 `MCD-1406`, and "The Names the Ledger Kept Track Of," `MCD-1407`) at ninety-three total entries
-across thirty-one complete waves. No new named characters.*
+across thirty-one complete waves. No new named characters. Corrected Batch 321, 2026-10-02:
+corrected "more than eighty individually followed lives" to "forty-one," matching `MCD-1407`'s own
+stated count; corrected the `ARS-348` citation to its own locked ranges.*

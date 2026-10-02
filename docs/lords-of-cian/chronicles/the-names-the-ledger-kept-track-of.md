@@ -6,7 +6,7 @@
 ---
 
 Garren Hask's ledger had always counted -- freed, dead, missing, returned -- a number at the end of
-every entry across two hundred and seventy years of keeping it. What it had never done, until the
+every entry across two hundred and eighty-three years of keeping it. What it had never done, until the
 week Sena asked him to, was follow a name past the count it belonged to and find out what became of
 the person attached to it.
 
@@ -41,6 +41,10 @@ prior entries. Direct generational continuation of Sena's established arc (`MCD-
 first near-lethal impulse against a surrendered captive; `MCD-1241`, age 235, teaching the same
 restraint to a newer crew member) -- her own independently kept record of people she personally freed
 is new material extending, not contradicting, both entries. Reuses Garren Hask (`CC-115`/`116`) and
-Sena (established `MCD-1043`/`1241`) alongside Kanja. Age 313, V4 gear (`ARS-348`, debut age 241),
+Sena (established `MCD-1043`/`1241`) alongside Kanja. Age 313, V4 gear (`ARS-348` locks V4 at ages
+180-284),
 though no combat occurs in this entry. Onyx of Oblivion correctly absent per its L9 seal throughout
-the Long Mask. Second entry of the Scourge's thirty-first wave. No new named characters.*
+the Long Mask. Second entry of the Scourge's thirty-first wave. No new named characters. Corrected
+Batch 321, 2026-10-02: corrected Garren Hask's ledger span from "two hundred and seventy years" to
+"two hundred and eighty-three," using the age-30 anchor that reconciles this figure across all five
+entries that stated it inconsistently; corrected the `ARS-348` citation to its own locked ranges.*

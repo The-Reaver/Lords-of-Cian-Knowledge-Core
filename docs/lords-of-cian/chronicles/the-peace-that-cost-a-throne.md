@@ -1,13 +1,14 @@
 # The Peace That Cost a Throne
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1221`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1221`); corrected Batch 321, 2026-10-02 ("a decade" trimmed
+to "years" to fit this alias's nine-year Rebellion-era window). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXIII, wave 28. Kanja declines to use the fleet's reputation to settle a succession dispute. Not a
 territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
-The island principality's council came to the fleet with a request Kanja hadn't heard before in a
-decade of doing this work — not rescue, not protection, but a verdict. Two claimants to the small
+The island principality's council came to the fleet with a request Kanja hadn't heard before in years
+of doing this work — not rescue, not protection, but a verdict. Two claimants to the small
 territory's hereditary seat, both with genuine, tangled claims, had brought their dispute to the brink
 of open conflict between their supporters, and a faction on the council wanted the ghost fleet's own
 reputation lent to one side simply to end the standoff before it turned violent.
@@ -48,4 +49,5 @@ use the fleet's reputation to settle a governance/succession dispute, insisting 
 people's own process instead, distinct from every prior diplomatic entry (the foreign-nation
 alliance, the tribunal, the coalition battle), none of which involved internal self-governance of a
 third party. Reuses Efa Gol and Garren Hask. The island principality, its council spokesman, and both
-claimants are deliberately unnamed. No new named characters.*
+claimants are deliberately unnamed. No new named characters. Corrected Batch 321, 2026-10-02: "a
+decade" trimmed to "years" to fit this alias's nine-year Rebellion-era window (ages 21-30).*

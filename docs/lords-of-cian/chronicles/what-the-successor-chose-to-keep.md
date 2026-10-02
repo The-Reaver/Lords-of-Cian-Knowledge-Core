@@ -18,7 +18,7 @@ garrison to identify as a single coordinated threat. It worked because it didn't
 the reputation had trained enemies to expect.
 
 He watched the plan unfold from a position that had nothing to do with commanding it, the same way
-he'd watched her first solo command from a distance seven years earlier. This wasn't a doctrine
+he'd watched her first solo command from a distance forty-two years earlier. This wasn't a doctrine
 handed down and executed faithfully. It was a doctrine she'd absorbed thoroughly enough to depart
 from on her own judgment, keeping what still worked and discarding what no longer fit the garrisons
 she was actually facing rather than the ones the reputation had originally been built against.
@@ -38,5 +38,7 @@ age 270) -- here, over forty years into her own command tenure, she departs deli
 Kanja's and Efa Gol's established methods rather than replicating either, establishing the
 institution has evolved past its founders even before the persona's own end. Efa Gol's successor
 remains deliberately unnamed, consistent with established convention. No new named characters. Age
-312, V4 gear (`ARS-348`, debut age 241). Onyx of Oblivion correctly absent per its L9 seal throughout
-the Long Mask.*
+312, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent per its L9 seal throughout
+the Long Mask. Corrected Batch 321, 2026-10-02: corrected "seven years earlier" to "forty-two years
+earlier," matching this entry's age (312) against her first solo command at age 270 (`MCD-1240`);
+corrected the `ARS-348` citation to its own locked ranges.*

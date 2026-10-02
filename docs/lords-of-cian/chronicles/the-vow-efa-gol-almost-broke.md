@@ -1,6 +1,7 @@
 # The Vow Efa Gol Almost Broke
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1207`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1207`); corrected Batch 321, 2026-10-02 ("a decade" trimmed
+to "years" to fit this alias's nine-year Rebellion-era window). Sovereign Ghost of the Great Sea Alias Chronicle
 LXIX, wave 23, closing the wave. A character-depth entry testing Efa Gol's own restraint against her
 Black Trench trauma. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -13,7 +14,7 @@ man now wore, and something in the set of his jaw put her back on that ravine fl
 body still warm under the cloth she'd covered him with.
 
 She didn't kill him. That was the fact Garren Hask would later log plainly, without embellishment,
-because it was the fact that mattered. But she came closer to it than she had in a decade of
+because it was the fact that mattered. But she came closer to it than she had in years of
 commanding decoys and diversions with a level head others relied on precisely because it never
 cracked — her hand on her blade, the man backing against the rail with no understanding of what he'd
 walked into, and ten full seconds where nobody aboard was certain which way it would go.
@@ -45,4 +46,5 @@ restraint doctrine against her personal Black Trench trauma (`CC-131`) rather th
 executing it flawlessly. Reuses Pell Ostra and Kanja. The parley soldier is deliberately unnamed and
 explicitly confirmed not to be one of the two men from her backstory. No new named characters.
 Closes wave 23 (with "The Bounty He Wouldn't Claim," `MCD-1205`, and "The Wind That Wouldn't Come,"
-`MCD-1206`).*
+`MCD-1206`). Corrected Batch 321, 2026-10-02: "a decade" trimmed to "years" to fit this alias's
+nine-year Rebellion-era window (ages 21-30).*

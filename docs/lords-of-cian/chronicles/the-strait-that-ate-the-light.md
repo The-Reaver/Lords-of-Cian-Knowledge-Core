@@ -1,10 +1,11 @@
 # The Strait That Ate the Light
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-784`). Sovereign Ghost of the Great Sea Alias Chronicle XXIX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-784`); corrected Batch 321, 2026-10-02 ("Kothrane Strait"
+fixed to "Kothrane Narrows," the locked name per `MCD-242`). Sovereign Ghost of the Great Sea Alias Chronicle XXIX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
-The fog off Kothrane Strait had a local reputation for swallowing ships whole even without a war to
+The fog off Kothrane Narrows had a local reputation for swallowing ships whole even without a war to
 help it, and the Trust patrol squadron that pursued *The Audit* into it on the second day of a running
 engagement seemed determined to prove the reputation earned, firing blind at sounds and shadows that
 might as easily have been driftwood as an enemy hull.
@@ -51,4 +52,5 @@ can stand to."
 *Continuity notes (not narrative): a detailed multi-day running engagement fought through
 environmental attrition (fog, confused pursuit, enemy self-inflicted losses) rather than a single
 decisive battle, distinct in structure from every prior large-scale Sovereign Ghost showcase. No new
-named characters. Second entry in the tenth wave.*
+named characters. Second entry in the tenth wave. Corrected Batch 321, 2026-10-02: "Kothrane Strait"
+fixed to "Kothrane Narrows," the locked name per `MCD-242`.*

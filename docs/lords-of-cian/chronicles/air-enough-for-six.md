@@ -13,10 +13,10 @@ time the tide shifted her weight.
 "No enemy here," Kanja said, already stripping to the waist. "Just water and time."
 
 Mafesto's Kinetic Transfer System, built for absorbing and redirecting force, did nothing useful
-against a hull that needed cutting, not striking — so the work went to hands and to Obsidian Malice's
-edge, used not to discharge but simply as the sharpest tool aboard, opening a hole in the collapsed
-aft bulkhead wide enough for a man to pass through without widening it so far the whole compartment
-flooded before anyone could get out.
+against a hull that needed cutting, not striking — so the work went to hands and to Onyx of
+Oblivion's own blade, used for none of its named powers, simply as the sharpest tool aboard, opening a
+hole in the collapsed aft bulkhead wide enough for a man to pass through without widening it so far
+the whole compartment flooded before anyone could get out.
 
 The first pass found nothing but dark water and the sound, faint and rhythmic, of someone striking the
 hull from the inside to prove they were still alive to hear it answered.
@@ -48,5 +48,8 @@ a living sailor standing on *The Audit*'s deck.
 
 *Continuity notes (not narrative): a pure rescue-and-technical showcase with zero combat, distinct
 from every prior Sovereign Ghost entry — Dol Maren's hull-reading skill (`CC-120`/`CC-121`) repurposed
-for extraction rather than escape or combat, Obsidian Malice used only as a cutting tool. No new named
-characters. Second entry in the seventh wave.*
+for extraction rather than escape or combat, Onyx of Oblivion's blade used only for plain cutting, no
+named power. No new named
+characters. Second entry in the seventh wave. Corrected Batch 321, 2026-10-02: the cutting work was
+originally assigned to Obsidian Malice, which is a war club (`ARS-030`), not an edged weapon --
+reassigned to Onyx's own blade.*

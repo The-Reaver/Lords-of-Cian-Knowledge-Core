@@ -1,6 +1,9 @@
 # The Hand That Asked to Stay
 
-*Locked canon, Batch 280, 2026-09-11 (`MCD-1466`). Sovereign Ghost of the Great Sea Alias Chronicle C,
+*Locked canon, Batch 280, 2026-09-11 (`MCD-1466`); corrected Batch 321, 2026-10-02 (Wren renumbered
+from "third to hold the title" to "second," and "trained one hull-reader before this" removed, both
+matching `MCD-1039`'s own establishment of Wren as Dol Maren's first apprentice -- Dol Maren himself
+is the first hull-reader, Wren the second). Sovereign Ghost of the Great Sea Alias Chronicle C,
 wave 34, first entry in the wave. A payoff to Dol Maren's apprentice thread (`MCD-1039`): the grown
 stowaway boy, now a young man, asks to join the crew permanently as a named hull-reader. Not a
 territory Chronicle. Narrated in neutral third-person prose.*
@@ -17,7 +20,7 @@ He came to Dol Maren this time with something other than a hull to look at. "I d
 again after this crossing," he said. "I want to stay. Properly. Named in the book, not just passing
 through it."
 
-Maren didn't answer right away. He'd trained one hull-reader before this and never once asked the boy to
+Maren didn't answer right away. He'd never trained anyone before Wren, and never once asked the boy to
 choose the crew over whatever life he might have had ashore instead — had, if anything, made a point of
 not asking, so that whatever Wren chose would be entirely his own choosing and nobody else's.
 
@@ -27,7 +30,7 @@ old while the man who commands this fleet doesn't change at all."
 
 "I know," Wren said. "I've known since the first season. I'm still asking."
 
-Garren Hask entered him properly that evening — Wren Calder, hull-reader, third to hold the title since
+Garren Hask entered him properly that evening — Wren Calder, hull-reader, second to hold the title since
 the fleet first put to sea, apprenticed under Dol Maren, joined of his own choosing with full knowledge
 of what the choosing meant. Kanja shook his hand once, plainly, the way he'd shaken every hand that had
 ever chosen this crew on purpose rather than washing up in it by accident.
@@ -44,4 +47,7 @@ crew membership, a new register distinct from the informal stowaway-fostering pr
 from `MCD-1461`'s quiet-release register earlier in this same wave block. Explicitly dramatizes the
 mortality-gap conversation as a condition of joining rather than a later revelation, consistent with the
 alias's established mortality-gap entries (`MCD-958`, `MCD-1227`). Reuses Dol Maren and Garren Hask. New
-minor named character: Wren Calder. First entry in wave 34.*
+minor named character: Wren Calder. First entry in wave 34. Corrected Batch 321, 2026-10-02: Wren
+renumbered from "third to hold the title" to "second," and a "trained one hull-reader before this"
+claim removed, both reconciling with `MCD-1039`'s own establishment of Wren as Dol Maren's first
+apprentice.*

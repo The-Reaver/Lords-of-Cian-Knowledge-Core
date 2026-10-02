@@ -7,7 +7,7 @@ first entry. Age 310, V4 gear. Not a territory Chronicle. Narrated in neutral th
 
 Garren Hask kept a set of charts nobody else on the crew had ever needed to look at closely — every
 route the black-sailed reputation had ever run, marked, dated, and crossed out one by one across two
-hundred and seventy-seven years as each operation folded, relocated past finding, or simply stopped
+hundred and eighty years as each operation folded, relocated past finding, or simply stopped
 existing under the weight of its own collapsing economics. By the time this raid was planned, the
 charts held exactly one uncrossed mark left on them: a depot on a stretch of coast the crew had first
 scouted and postponed raiding sixty years earlier, judged too heavily fortified to be worth the cost
@@ -36,6 +36,11 @@ would need new charts. The old ones, he said, had done what they were made for.
 Hask's ledger-keeper role (`CC-115`) -- the original charted map of the Long Mask's earliest-known
 slaving routes, its final entry crossed out here, marking a symbolic close of an era as the persona's
 own end (`MCD-1022`, age 314) draws near without depicting it. No new named characters -- the
-garrison is unnamed. Age 310, V4 gear (`ARS-348`, debut age 241). Onyx of Oblivion correctly absent
+garrison is unnamed. Age 310, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent
 per its L9 seal throughout the Long Mask. First entry in the Scourge's thirtieth and, for this run,
-final wave.*
+final wave. Corrected Batch 321, 2026-10-02: reworded a false "three full generations" of gear
+maturing within a specific sixty-year gap (no gear-version boundary falls within it); corrected
+Garren Hask's ledger span from "two hundred and seventy-seven years" to "two hundred and eighty,"
+matching this entry's age (310) against the Scourge persona's own age-30 start, the consistent
+anchor used to reconcile this figure across all five entries that stated it inconsistently;
+corrected the `ARS-348` citation to its own locked ranges.*
