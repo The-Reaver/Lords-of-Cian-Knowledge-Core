@@ -3727,6 +3727,77 @@ Ledger reached `ledger_version` 33.8, 2,650 rules, 335 batches -- zero duplicate
 closes Phase 3. Per the confirmed roadmap, work continues into Phase 4 (the 20 Territory Chronicle
 tracks) without pausing.
 
+## Phase 4: the 20 Territory Chronicle tracks fable-review, Batches 336-339, 2026-10-02
+
+Four parallel Fable-model review agents, one per homage-era city (NYC, Chicago, LA, Detroit),
+reviewed all 20 Territory Chronicle tracks (Xaragua+Arturo, Areíto, Yara, Guanín, Borikén; Ide,
+Kwan, Umoja, Jibaro, Uhuru; Sankofa, Aztlán, Atunbi, Ijoko, Orin; Kazi+Tunji/Femi, Taifa, Hekalu,
+Nyansa, Kiti), matching the Phase 1 per-city pattern. Findings were then applied by four parallel
+Sonnet fix agents, each given the exact review text and told to apply mechanical/reconciliation
+fixes verbatim and leave anything requiring new creative invention untouched.
+
+**Batch 336, Chicago.** Amends 4 rule statements: `MCD-468`/`516` reconcile "The Occupation"
+(`PH2-042`)'s cost condition, which two entries had inverted (quoting it as requiring "nothing to
+be ashamed of" when the rule actually requires unambiguous public shame on the institution's own
+side); `MCD-343` corrects a conversion timeline from "overnight" to "within the week"; `MCD-517`
+fixes a terminology inversion ("institutional" used to mean "personal") and a backwards Kiti-
+parallel citation. Chronicle prose fixes (10 files): a Kasa pronoun drift corrected to he/him; a
+withdrawn-Chronicle event reference removed (Kofi was never at the Furnace District Strike -- that
+account was superseded in Batch 64); a missing unnamed-Kanja convention line added; a real-world
+proper-noun leak ("Council Wars") fixed; Jibaro II/III's inversion reconciled throughout
+(mechanical ownership-detail rewording only, no new plot facts); a Kanja-placement inconsistency
+fixed.
+
+**Batch 337, LA.** Amends 2 rule statements (`MCD-1025`, `MCD-1092`) renaming "Yao" -> "Mensah" and
+"Babatunde" -> "Adebayo" to resolve two near-collisions with already-locked names (Yaw, Osei's
+brother; Tunde, one of Arturo's dead cohort). Normalizes a category-field drift across 10 LA
+territory-Chronicle rules. Chronicle prose fixes (9 files): a stale timeline figure; an internal
+arithmetic error; four tech-level anachronisms fixed (a motor truck, cameras, a spreadsheet,
+electric exit lights -- none belong in this pre-industrial world); two writers'-room/meta leaks; a
+real-world proper-noun leak (a real jazz musician named in dialogue); a grammar slip; a dropped-word
+glitch; a firearm-implying line clarified as a crossbow. Deliberately left for Abad: Orin's
+phonograph/pressed-record anachronism, which changes a locked scene's actual mechanism rather than
+just a word choice.
+
+**Batch 338, Detroit.** Amends 7 rule statements: `MCD-472` removes a world-bleed error (the
+Sealbound Directorate, a mainline-Cian institution, had leaked into the separate homage World,
+`MCD-313`); `MCD-1528`-`1532` fix a parallel-drafting ordinal-count collision where Kazi's Femi-arc
+entries (IX-XIII) wrongly claimed to be the fourth-through-eighth Kazi Chronicles, duplicating
+Chronicles IV-VIII's own correct claim; `PH2-051` updates a stale "not yet individually named"
+clause superseded by Kunle/Kalamu/Tunji/Femi's own later locks. Chronicle prose fixes: a floor-size
+number conflation (200 workers vs. 4,000 pamphlet readers, mixed up in two entries); a placement
+header corrected; an intra-arc contradiction over a trustee seat's salary; a stale timeline figure;
+a misattributed incident; an ability cross-bleed (Ofin's language attributed to Owusu's ability).
+Deliberately left for Abad: whether "Torvald" (a possible Old Norse name outside the project's
+naming palette) needs renaming.
+
+**Batch 339, NYC.** Amends 3 rule statements: `PH2-061`/`062` update stale "flagged for future
+payoff" language superseded by Xaragua Chronicle VI's own closure of the Kanja/Arturo long-arc
+(`MCD-1093`); `MCD-464` updates a file-path reference after a rename (`the-price-she-wouldnt-let-
+them-pay.md` -> `yara-chronicle-ii-the-price-she-wouldnt-let-them-pay.md`, matching the project's
+standard naming convention). Chronicle prose fixes: a direct contradiction in Borikén Chronicle I
+(the church-hall ledger was both saved and burned in the same file); a testing-period duration
+error; an attrition-arithmetic error; a "Caucus" ability mechanic that had drifted from its locked
+binding-alliance definition; Kanja named on-page in Chronicle VI, breaking the unnamed-guest
+convention; two Voice Bible pillar labels and a real-world proper noun (Rorschach) leaking into
+prose; stale "pending approval" boilerplate in three already-locked headers; a stale tracker count
+corrected. Deliberately left for Abad: Xaragua Chronicle III's cohort death count (six dead
+referenced vs. Chronicle V's three named chairs) -- a numeric pick needing his own ruling.
+
+Ledger reached `ledger_version` 34.2, 2,650 rules, 339 batches -- zero duplicate IDs verified after
+every batch. This closes Phase 4 in full -- all 20 Territory Chronicle tracks fable-reviewed and
+corrected. Per the confirmed roadmap, work continues into Phase 5 (the remaining institutional
+rule-prefix blocks: MCD core, CULT, CC, ARS, MAW, PH2 definitional, ASH, SBD, WC, POL, VB, HLD,
+WGD, CHAR, COS) without pausing.
+
+A running tally of items genuinely requiring Abad's own direct review, accumulated across Phases
+1.5 through 4 so far: the Atlas's larger worldbuilding questions (Verehimu/Voskharen Wetlands, "the
+Karkosa," the Teeth's placement, `MCD-094`/`112`); the Ezio age/Fermand-sixth-knower questions; the
+Lauris dockside-crew-mortality/Vask-Ilvane/Vael-gender/Ozmund-placement questions; the Kanja-version
+track's Onyx-presence age-band convention and Ironbane's joining date; the Xaragua cohort-count
+question; Orin's phonograph anachronism; and the "Torvald" naming question. None blocking further
+phases.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
