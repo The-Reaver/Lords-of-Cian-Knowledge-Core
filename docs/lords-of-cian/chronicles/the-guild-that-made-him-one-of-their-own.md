@@ -1,8 +1,10 @@
 # The Guild That Made Him One of Their Own
 
 *Locked canon, Batch 184, 2026-09-11 (`MCD-539`). The Blue-Collar Titan Alias Chronicle XV, closing
-the fifth wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle. New
-standalone material. Narrated in neutral third-person prose. No new named characters.*
+the fifth wave. Rebellion era, post-Killane. Not a territory Chronicle. New
+standalone material. Narrated in neutral third-person prose. No new named characters. Corrected
+Batch 321, 2026-10-02: header changed from "age 20, the Sewer War of Killane" to "post-Killane" --
+this entry is set "years of honest work and honest failures since" the guild test.*
 
 ---
 
@@ -38,8 +40,9 @@ rather than diminished it.
 ---
 
 *Continuity notes (not narrative): a closing entry explicitly crediting the alias's accumulated
-honest failures (the eastern gallery collapse, MCD-485; the rushed reheat, MCD-409) rather than only
-its successes as the basis for the tradesmen's guild's formal recognition, extending "The Guild
-Master's Test" (MCD-409) into long-term institutional trust. No new named characters. Closes the
-Blue-Collar Titan's fifth three-Chronicle wave (with "The Mine That Wouldn't Give Them Up," MCD-537,
-and "The Monument He Refused to Read Dishonestly," MCD-538).*
+honest failures (the eastern gallery collapse, MCD-485; the rushed reheat, MCD-409; the rushed
+assessment that injured two men, MCD-665) rather than only its successes as the basis for the
+tradesmen's guild's formal recognition, extending "The Guild Master's Test" (MCD-409) into
+long-term institutional trust. No new named characters. Closes the Blue-Collar Titan's fifth
+three-Chronicle wave (with "The Mine That Wouldn't Give Them Up," MCD-537, and "The Monument He
+Refused to Read Dishonestly," MCD-538).*

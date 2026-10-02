@@ -13,7 +13,7 @@ third time, they found themselves sitting the same watch by accident.
 "Feels strange, doesn't it," Efa Gol said eventually. "Tomorrow's going to be different from
 anything we've done so far. I don't think either of us really knows how different yet."
 
-"I know some of it. Ostra's already spent from the accelerant work at Coldrace, and whatever's
+"I know some of it. I'm already spent from the charge-prep work for tomorrow, and whatever's
 coming is going to ask for more of that than any dredge site ever did." Pell Ostra didn't look up
 from the charge she was still checking out of habit rather than necessity. "I keep thinking about
 the name. The Trench Monarch. Feels like it belonged to something smaller than whatever we're

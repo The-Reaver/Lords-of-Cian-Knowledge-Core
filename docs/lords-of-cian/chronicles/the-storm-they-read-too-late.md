@@ -1,6 +1,6 @@
 # The Storm They Read Too Late
 
-*Locked canon, Batch 208, 2026-09-11 (`MCD-907`). The Storm That Walks Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 208, 2026-09-11 (`MCD-907`). The Storm That Walks Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (the seven-piece post-Mafesto gear system, `ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense), and Obsidian Malice's mischaracterization as "the blade's raw kinetic output" (it is a war club, `ARS-030`, not a blade, and not one of Onyx of Oblivion's own named powers) is removed along with it.*
 
 ---
 
@@ -12,16 +12,17 @@ false window had promised.
 
 He didn't try to outrun it. He turned the escort into it.
 
-Mafesto's Kinetic Transfer System banked the first real gust the way it had never been asked to bank a
-false-calm's gentle chop, drawing hard kinetic load off the lead supply hull's overstressed rigging and
-redistributing it through Kanja's own frame in three successive transfers, each one buying the crew
-above him another minute to strike sail properly instead of losing it to the wind. Obsidian Malice
-discharged twice in quick succession against the worst of the cross-swell striking the second hull's
-exposed beam, not to attack anything but to physically blunt the wave's face at the moment of impact —
-a use of the blade's raw kinetic output Onyx had never had cause to demonstrate against weather
-itself rather than an enemy. Onyx's Veil Piercer, meanwhile, cut through the driving spray and dark to
-find the third hull's snapped tow-line before it could foul the fourth's rudder, Cadence Ruin timing
-the cut to the exact moment the strain went slack enough to sever cleanly.
+The Forge-Coat and Ironfall Boots ground the first real gust the way they had never been asked to
+ground a false-calm's gentle chop, drawing hard shock off the lead supply hull's overstressed rigging
+and carrying it through Kanja's own frame in three successive holds, each one buying the crew above
+him another minute to strike sail properly instead of losing it to the wind. The Ironhand Gauntlets
+struck twice in quick succession against the worst of the cross-swell hitting the second hull's
+exposed beam, not to attack anything but to physically blunt the wave's face at the moment of
+impact — leverage and trained technique Kanja had never had cause to demonstrate against weather
+itself rather than an enemy. His own instinctive Rexmar-Mar tactical sense, meanwhile, cut through
+the driving spray and dark to find the third hull's snapped tow-line before it could foul the
+fourth's rudder, the Rexmar Machete timing the cut to the exact moment the strain went slack enough
+to sever cleanly.
 
 Two supply hulls took real damage. None were lost. No crew died.
 
@@ -35,9 +36,9 @@ truth with my own eyes once the lie ran out of time to hide behind."
 
 ---
 
-*Continuity notes (not narrative): the wave's detailed Trinity combat/rescue showcase, distinct in
-register from every prior storm-inside-combat entry — this is not a planned tactical use of a genuine
-forecast (MCD-458) but an improvised recovery from a forecast that was deliberately falsified,
-Kanja reading raw conditions directly rather than relying on any prediction at all. All three Trinity
-pieces used defensively against the storm itself rather than an enemy combatant, a new application.
-No new named characters.*
+*Continuity notes (not narrative): the wave's detailed Long Mask-era gear combat/rescue showcase,
+distinct in register from every prior storm-inside-combat entry — this is not a planned tactical use
+of a genuine forecast (MCD-458) but an improvised recovery from a forecast that was deliberately
+falsified, Kanja reading raw conditions directly rather than relying on any prediction at all. His
+full seven-piece post-surrender kit used defensively against the storm itself rather than an enemy
+combatant, a new application. No new named characters.*

@@ -3,8 +3,7 @@
 *Locked canon, Batch 277, 2026-09-11 (`MCD-1436`). Trench Monarch Alias Chronicle XCVII, wave 33,
 first entry. Rebellion era, pre-Black-Trench. A dedicated Callum Breck personal-life register,
 distinct from his already-locked coining-the-name entry (`MCD-368`) and his later reflection
-entries (`MCD-632`, `MCD-403`-adjacent) -- set before the silence arc (`CC-119`), his daughter Sera
-still an infant.*
+entry (`MCD-632`) -- set before the silence arc (`CC-119`), his daughter Sera still an infant.*
 
 ---
 

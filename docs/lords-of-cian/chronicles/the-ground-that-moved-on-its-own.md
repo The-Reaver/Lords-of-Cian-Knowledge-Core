@@ -1,6 +1,6 @@
 # The Ground That Moved on Its Own
 
-*Locked canon, Batch 257, 2026-09-11 (`MCD-1175`). Blue-Collar Titan Alias Chronicle LXIV, wave 22. The alias's first genuine natural-disaster entry -- a seismic tremor with no enemy behind it at all -- opening the wave.*
+*Locked canon, Batch 257, 2026-09-11 (`MCD-1175`). Blue-Collar Titan Alias Chronicle LXIV, wave 22. The alias's first genuine natural-disaster entry -- a seismic tremor with no enemy behind it at all -- opening the wave. Corrected Batch 321, 2026-10-02: the rhythm-reading moment reattributed from Onyx of Oblivion's Cadence Ruin (a timing-disruption power against coordinated opponents, not a seismic sense) to Mafesto's kinetic transfer, already this entry's own established mechanism; "driven point-first" corrected to "driven head-first" (Obsidian Malice is a war club, `ARS-030`, not a pointed weapon).*
 
 ---
 
@@ -12,7 +12,7 @@ That was the part that unsettled the crew more than an ambush would have. An ene
 
 Mafesto's kinetic transfer read the aftershock building before it arrived, a slow accumulation of stress traveling through stone the way current traveled through water, and for the first time Kanja used it not to find an enemy or a trapped worker but to predict where the earth itself intended to fail next. He called the order to clear two galleries a full ninety seconds before the second, larger tremor brought a ceiling section down exactly where he'd said it would.
 
-Obsidian Malice went to work not as a weapon but as an emergency shoring tool, driven point-first into fracture lines to buy structural time no ordinary timber could match on this short a notice, while Onyx of Oblivion's Cadence Ruin let him feel the rhythm of settling stone through his boots faster than any spoken warning could travel down a line of running workers. There was no one to fight. There was only the work -- reading, predicting, bracing, moving people -- done at a pace that would have looked like combat to anyone who didn't understand there was nothing on the other end of it trying to hurt them.
+Obsidian Malice went to work not as a weapon but as an emergency shoring tool, driven head-first into fracture lines to buy structural time no ordinary timber could match on this short a notice, while Mafesto's kinetic transfer let him feel the rhythm of settling stone through his boots faster than any spoken warning could travel down a line of running workers. There was no one to fight. There was only the work -- reading, predicting, bracing, moving people -- done at a pace that would have looked like combat to anyone who didn't understand there was nothing on the other end of it trying to hurt them.
 
 By the time the ground settled for good, four galleries had lost structural integrity and every worker in them had already cleared. Danne Sok found him afterward, still running a hand along a crack that hadn't been there that morning.
 

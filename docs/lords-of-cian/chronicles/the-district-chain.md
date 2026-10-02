@@ -1,7 +1,7 @@
 # The District Chain
 
 *Locked canon, Batch 183, 2026-09-11 (`MCD-535`). The Industrial Myth Alias Chronicle XIV.
-Rebellion era, age 19. Not a territory Chronicle. New standalone material — a detailed, sustained
+Rebellion era, age 21. Not a territory Chronicle. New standalone material — a detailed, sustained
 month-long campaign per Abad's craft instruction, distinct from the single-district scope of every
 prior Industrial Myth entry. Kept deliberately unarmed. Narrated in neutral third-person prose. No
 new named characters.*

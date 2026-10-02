@@ -19,7 +19,7 @@ different depending which side of a ledger you're standing on. To a slaver or a 
 ship, it means judgment. To an honest crew running an honest hold, it's meant something else for
 three years now, if you know the pattern and you're not too proud to use it."
 
-The mate had heard the stories — MCD-250's own account of surrender-on-sight without verification —
+The mate had heard the stories — accounts of surrender-on-sight without verification —
 but had assumed, the way most sailors assumed, that the reputation only ran one direction: fear,
 submission, the black crescent formation closing before anyone could think to run. She had not
 understood, until she watched her own captain deliberately summon it, that an honest crew could

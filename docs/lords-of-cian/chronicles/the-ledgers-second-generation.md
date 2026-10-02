@@ -29,7 +29,7 @@ keep working once it left their hands too."
 
 Kanja read the account twice before he set it down.
 
-"The district He Never Visited built something from an incomplete account of what we do. This is
+"That mining district that built the whole thing from a secondhand account was one thing. This is
 different. This is people we trained, training people we've never met, who built something whole
 enough to train a third district neither of us will probably ever see."
 

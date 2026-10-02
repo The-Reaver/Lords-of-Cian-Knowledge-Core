@@ -1,7 +1,7 @@
 # The Numbers He Couldn't Prove
 
 *Locked canon, Batch 183, 2026-09-11 (`MCD-534`). The Industrial Myth Alias Chronicle XIII, first
-entry in the fifth wave. Rebellion era, age 19. Not a territory Chronicle. New standalone material —
+entry in the fifth wave. Rebellion era, age 21. Not a territory Chronicle. New standalone material —
 the first genuine limit of the tally method in this alias's run. Kept deliberately unarmed, per the
 established ethos. Narrated in neutral third-person prose. No new named characters.*
 

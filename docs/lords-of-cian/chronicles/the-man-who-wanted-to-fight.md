@@ -1,7 +1,7 @@
 # The Man Who Wanted to Fight
 
 *Locked canon, Batch 130, 2026-09-11 (`MCD-438`). The Industrial Myth Alias Chronicle VIII.
-Rebellion era, age 19, the Furnace District Strike. Not a territory Chronicle. New standalone
+Rebellion era, age 21, the Furnace District Strike. Not a territory Chronicle. New standalone
 material. Kept deliberately unarmed, per this alias's established ethos. Narrated in neutral
 third-person prose. No new named characters.*
 
@@ -36,9 +36,11 @@ the fight. I'm asking you to let the numbers make the case first, so that whatev
 something nobody can call unreasonable."
 
 The hauler didn't fully believe him — said as much, plainly, before he left — but he held his
-following back long enough to let the four days run their course. The strike resolved on the fourth
-day exactly as already recorded, the numbers alone proving sufficient, and the fire that never
-started stayed exactly that: something that never had to happen.
+following back long enough to let the four days run their course. The four days of patient
+documentation concluded exactly as already recorded, the numbers alone proving sufficient to carry
+the case forward — though the strike itself would go on to hold at the gate eleven days more before
+the Sovereign Trust renegotiated the district's terms — and the fire that never started stayed
+exactly that: something that never had to happen.
 
 ---
 

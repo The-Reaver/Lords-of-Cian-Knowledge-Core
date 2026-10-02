@@ -42,7 +42,8 @@ now carrying one name it hadn't carried the day before.
 ---
 
 *Continuity notes (not narrative): the alias's first genuine loss to the work itself rather than to
-combat or to a structural failure beyond his skill (distinct from "The Monument He Refused to Read
-Dishonestly," a structural-failure entry) — here the rescue technique is flawless and still arrives
-too late, establishing a limit that no competence can answer. No new named characters. Closes the
-seventh wave.*
+combat or to a structural failure beyond his skill (distinct from "What Even He Couldn't Save,"
+MCD-485, the actual structural-failure entry) — here the rescue technique is flawless and still
+arrives too late, establishing a limit that no competence can answer. No new named characters.
+Closes the seventh wave. Corrected Batch 321, 2026-10-02: citation fixed from MCD-538 (a different,
+unrelated entry) to MCD-485.*

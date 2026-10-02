@@ -4,7 +4,7 @@
 
 ---
 
-Danne Sok had never been a man of many words, even before Kanja freed him — a fact the crew had long
+Danne Sok had never been a man of many words, even before he found Kanja — a fact the crew had long
 since stopped remarking on, the way you stop remarking on weather that never changes. What he did
 instead of speaking, more often than anyone gave him credit for noticing, was position himself.
 

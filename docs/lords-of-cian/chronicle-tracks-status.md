@@ -46,7 +46,7 @@ in Kanja's own single underlying psychology rather than inventing a separate one
 | Alias | Profile doc | Status | Existing Chronicles |
 |---|---|---|---|
 | Bane | `character-profiles/alias-bane.md` | not started (backfill) | 102 |
-| The Trench Monarch | `character-profiles/alias-trench-monarch.md` | not started (backfill) | 93 |
+| The Trench Monarch | `character-profiles/alias-trench-monarch.md` | not started (backfill) | 102 |
 | The Industrial Myth | `character-profiles/alias-industrial-myth.md` | not started (backfill) | 93 |
 | The Blue-Collar Titan | `character-profiles/alias-blue-collar-titan.md` | not started (backfill) | 93 |
 | The Sovereign Ghost of the Great Sea | `character-profiles/alias-sovereign-ghost.md` | not started (backfill) | 93 |

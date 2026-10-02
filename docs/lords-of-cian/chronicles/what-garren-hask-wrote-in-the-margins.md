@@ -1,6 +1,6 @@
 # What Garren Hask Wrote in the Margins
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-680`). The Blue-Collar Titan Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-680`). The Blue-Collar Titan Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "the one death" corrected to "the deaths" -- later-set-but-earlier-written entries (MCD-893, MCD-1070, MCD-1192) establish further deaths across the Killane campaign beyond MCD-656.*
 
 ---
 
@@ -11,7 +11,7 @@ call a titan.
 The tally, finished weeks after the siege ended, ran longer than any single battle's own count could
 have suggested: timber consumed and timber salvaged, Obsidian Malice housing repaired twice through
 genuine smithing rather than replaced, injuries sustained by crew members across six weeks of
-tunnel work, the one death the digging itself couldn't prevent, the wall that failed under a rushed
+tunnel work, the deaths the digging itself couldn't prevent, the wall that failed under a rushed
 assessment, the days lost rebuilding what a mistake had cost.
 
 "You've kept every failure in here alongside every victory," Kanja said, reading the finished
@@ -43,7 +43,7 @@ accounting would outlast whatever version of the siege eventually made its way i
 ---
 
 *Continuity notes (not narrative): a closing cost-accounting entry from established crew member
-Garren Hask, tallying the alias's true toll — materials, injuries, the one death, the wall he got
+Garren Hask, tallying the alias's true toll — materials, injuries, the deaths, the wall he got
 wrong — as a grounding counterweight to the mythic reputation, cross-referencing several entries
 from across this and prior waves without restating them. No new named characters. Closes the
 fifteenth wave and this ten-wave run.*

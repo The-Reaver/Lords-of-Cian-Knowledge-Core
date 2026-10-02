@@ -11,9 +11,9 @@ uneasily for months, mostly by fielding questions he hadn't chosen to be the ans
 What he could control, he eventually decided, was what happened after him.
 
 "You're the one who marked the officer," the new clerk said, a nervous young man barely older than
-Kanja himself, assigned to the five-district cross-checking work after the depot manifest exposure
-had made independent verification suddenly urgent across the whole canal. "Everyone says you're the
-one who actually remembers what it was like before any of this had a name."
+Kanja himself, a newly posted Trust records clerk assigned to the five-district cross-checking work
+the depot manifest exposure had made suddenly urgent across the whole canal. "Everyone says you're
+the one who actually remembers what it was like before any of this had a name."
 
 "I remember it. Doesn't mean I understand it any better than you do, just because I was there first."
 Greer had grown used to disappointing people who expected more from the encounter than he had to

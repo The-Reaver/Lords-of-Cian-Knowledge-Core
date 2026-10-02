@@ -1,14 +1,16 @@
 # What the Sea Kept Between Them
 
-*Locked canon, Batch 217, 2026-09-11 (`MCD-959`). Sovereign Ghost of the Great Sea Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 217, 2026-09-11 (`MCD-959`); corrected Batch 321, 2026-10-02 (a line referencing
+Undertow, a Book-2-onward Moonvault gift that doesn't exist in this Rebellion-era window, reworded).
+Sovereign Ghost of the Great Sea Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
 Garren Hask closed the season's ledger the way he closed every season's ledger, with the full account
 laid out plain: ships disabled rather than sunk, captives freed rather than ransomed, a Fleet-Marshal
 who'd come to apologize instead of attack, a hand who'd left in disagreement and another who'd stayed
-until his knees gave out, a food line run through a blockade, a debt paid to something that lived in
-water no chart had ever properly named. He read it aloud to the assembled crew at anchor, the way he
+until his knees gave out, a food line run through a blockade, a creature the size of a hull turned aside
+in open water without a mark laid on it. He read it aloud to the assembled crew at anchor, the way he
 did once a year, less for their benefit than for his own certainty that the true record still matched
 the legend.
 
@@ -48,11 +50,14 @@ than any legend, was the thing worth sitting with a while longer before the next
 
 ---
 
-*Continuity notes (not narrative): a reflective ensemble closer explicitly synthesizing this run's own
+*Continuity notes (not narrative): a reflective ensemble closer explicitly synthesizing this wave's own
 new threads (the Fleet-Marshal's resolution, the peaceful departure, the old hand's death, the blockade
-run, Undertow's first use) against Garren Hask's already-established true-record ledger (MCD-445) and
+run, the migrating creature turned aside unharmed) against Garren Hask's already-established true-record
+ledger (MCD-445) and
 the legend-versus-truth theme first raised in "What the Lantern Watch Prayed For" (wave 1) and "The
 Gathering at the Ghost Fleet's Anchorage" (wave 15, MCD-800) — deliberately distinct from that earlier
-gathering by centering on this run's specific losses and resolutions rather than a general celebration.
+gathering by centering on this wave's specific losses and resolutions rather than a general celebration.
 No new named characters. Closes the nineteenth wave (with "What the Marshal Couldn't Take Back" and
-"The Last Watch of an Old Hand") and this three-wave assignment (waves 17-19).*
+"The Last Watch of an Old Hand") and this three-wave assignment (waves 17-19). Corrected Batch 321,
+2026-10-02 to remove a narrative reference to Undertow (a Book-2-onward Moonvault gift that cannot
+appear in a Rebellion-era entry) and the matching continuity-note mention.*

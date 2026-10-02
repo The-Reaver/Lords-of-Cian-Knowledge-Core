@@ -3,8 +3,10 @@
 *Locked canon, Batch 156, 2026-09-11 (`MCD-492`). The Scourge Alias Chronicle XI. Long Mask era,
 age ~130, the Golden Terror period. Not a territory Chronicle. New standalone material — a detailed
 armor-and-weapon combat showcase per Abad's craft instruction. Onyx of Oblivion remains sealed at L9
-throughout the Long Mask; this showcase uses Mafesto, Obsidian Malice, and the built gear system
-only. Narrated in neutral third-person prose. No new named characters.*
+throughout the Long Mask, and Mafesto and Obsidian Malice remain surrendered per `MCD-246`; this
+showcase uses the Long Mask's built gear system only (`ARS-344` through `356`). Narrated in neutral
+third-person prose. No new named characters. Corrected Batch 321, 2026-10-02: removed an
+anachronistic Mafesto/Obsidian Malice presence, swapped for the Long Mask gear system.*
 
 ---
 
@@ -15,12 +17,12 @@ operation to proving the Scourge could be beaten by anyone willing to actually t
 
 The Scourge met the squadron alone.
 
-Mafesto's Kinetic Transfer System absorbed the lead ship's opening broadside directly into the
-Forge-Coat's grounding weave, converting six cannon strikes into stored charge before the rival
-captain's crew had finished reloading. The Sovereign Eyes read the squadron's coordinated maneuvering
-through smoke and spray that would have blinded conventional lookouts, anticipating the flanking
-attempt a full minute before it began. Obsidian Malice discharged against the second ship's rudder,
-disabling its steering in a single strike precise enough to avoid sinking it outright.
+The Forge-Coat's grounding weave absorbed the lead ship's opening broadside outright, turning six
+cannon strikes harmlessly aside before the rival captain's crew had finished reloading. The Sovereign
+Eyes read the squadron's coordinated maneuvering through smoke and spray that would have blinded
+conventional lookouts, anticipating the flanking attempt a full minute before it began. The Ironhand
+Gauntlets' leverage, braced against the second ship's rudder post, disabled its steering in a single
+strike precise enough to avoid sinking it outright.
 
 The rival captain's own flagship closed for boarding, confident in numbers if nothing else — forty
 armed crew against one man. The Ironhand Gauntlets and Ironfall Boots turned that confidence into a
@@ -44,7 +46,8 @@ depend on it. If you can hold to that, I've no further quarrel with you."
 
 *Continuity notes (not narrative): the most detailed combat showcase of the Scourge's fourth wave,
 matching Abad's craft instruction -- a genuine internal-domain challenge from a rival captain rather
-than an external slaver target, sequencing the full gear system (Forge-Coat, Sovereign Eyes, Ironhand
-Gauntlets, Ironfall Boots, Smoke System) alongside Mafesto and Obsidian Malice, with Onyx of Oblivion
-correctly absent per its established L9 seal. No new named characters. Second entry in the Scourge's
+than an external slaver target, sequencing the full Long Mask gear system (Forge-Coat, Sovereign
+Eyes, Ironhand Gauntlets, Ironfall Boots, Smoke System, `ARS-344` through `356`), with Onyx of
+Oblivion, Mafesto, and Obsidian Malice all correctly absent per the Trinity's age-30 surrender
+(`MCD-246`). No new named characters. Second entry in the Scourge's
 fourth three-Chronicle wave.*

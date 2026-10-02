@@ -1,7 +1,7 @@
 # The District He Never Visited
 
 *Locked canon, Batch 153, 2026-09-11 (`MCD-484`). The Industrial Myth Alias Chronicle XII, closing
-the fourth wave. Rebellion era, several years after the Furnace District Strike, age 19 event. Not a
+the fourth wave. Rebellion era, several years after the Furnace District Strike, age 21 event. Not a
 territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 

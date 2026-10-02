@@ -4,7 +4,7 @@
 
 ---
 
-Ondrej Vask had worked the Marrow Landing dredge line for thirty-nine years, longer than Kanja had
+Ondrej Kessler had worked the Marrow Landing dredge line for thirty-nine years, longer than Kanja had
 been alive, and he made no secret of what he thought about a reputation built by someone who hadn't
 lived a third of that time.
 
@@ -19,20 +19,20 @@ skepticism. "I haven't earned thirty-nine years of anything. I won't pretend I h
 "Then why should any of us follow a crown that hasn't dug half as long as we have?"
 
 It might have ended there, an old hand's grievance left to sit unanswered, except that three days
-later Kanja found an error in his own crew's figures for Vask's own section of the line — a small
+later Kanja found an error in his own crew's figures for Kessler's own section of the line — a small
 one, a half-shift miscounted in the workers' favor rather than against them, easy enough to let
 stand quietly. He didn't let it stand. He read the correction aloud at the next gathering, the same
 way he'd read the Ferrymouth correction weeks before, and made a point of walking the corrected
-figure to Vask directly rather than sending it through anyone else.
+figure to Kessler directly rather than sending it through anyone else.
 
-"You could've kept that quiet," Vask said, studying the correction with open suspicion. "Nobody
+"You could've kept that quiet," Kessler said, studying the correction with open suspicion. "Nobody
 would've known."
 
 "You'd have known, eventually. Everyone always does, eventually. I'd rather you hear it from me, now,
 than find it yourself later and decide it proves everything you already suspected about a boy who
 hasn't earned the right to correct thirty-nine years of anything."
 
-Vask didn't answer for a long moment. When he did, it wasn't agreement, not yet, but it wasn't the
+Kessler didn't answer for a long moment. When he did, it wasn't agreement, not yet, but it wasn't the
 same dismissal either. "What would you do, in my place. Thirty-nine years, and a boy telling you
 what your work's worth."
 
@@ -41,7 +41,7 @@ question honestly rather than answering it to win the argument. "But if I were y
 the boy to ask my advice instead of just giving me his numbers. You've read this line longer than
 I've been reading anything. I'd rather use that than pretend I don't need it."
 
-He asked. Vask, after a silence that lasted the better part of a minute, answered — a detail about
+He asked. Kessler, after a silence that lasted the better part of a minute, answered — a detail about
 the section's flooding pattern that no tally sheet had ever captured, the kind of knowledge that only
 came from thirty-nine years of standing in the same mud. It didn't end the skepticism outright. It
 gave it somewhere honest to go.

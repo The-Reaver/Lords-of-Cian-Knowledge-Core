@@ -1,7 +1,7 @@
 # The Family Behind the Numbers
 
 *Locked canon, Batch 130, 2026-09-11 (`MCD-437`). The Industrial Myth Alias Chronicle VII, first
-entry in the third wave. Rebellion era, age 19, the Furnace District Strike. Not a territory
+entry in the third wave. Rebellion era, age 21, the Furnace District Strike. Not a territory
 Chronicle. New standalone material. Kept deliberately unarmed, per this alias's established ethos.
 Narrated in neutral third-person prose. No new named characters.*
 

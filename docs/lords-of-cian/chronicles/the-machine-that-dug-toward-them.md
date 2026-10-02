@@ -1,6 +1,6 @@
 # The Machine That Dug Toward Them
 
-*Locked canon, Batch 268, 2026-09-11 (`MCD-1400`); corrected Batch 320, 2026-10-01 (Danne Sok reconciled to he/him, matching `CC-159`). Blue-Collar Titan Alias Chronicle XCI, wave 31, opening the wave. The alias's first mechanized-siege-engine combat showcase -- a Directorate boring engine driven as a weapon in its own right, not a trap or a hazard.*
+*Locked canon, Batch 268, 2026-09-11 (`MCD-1400`); corrected Batch 320, 2026-10-01 (Danne Sok reconciled to he/him, matching `CC-159`); corrected Batch 321, 2026-10-02 ("three decades of tradesman's instinct" -> "a lifetime of tradesman's instinct" -- a full-Trinity combat entry, so Kanja must be no older than 30). Blue-Collar Titan Alias Chronicle XCI, wave 31, opening the wave. The alias's first mechanized-siege-engine combat showcase -- a Directorate boring engine driven as a weapon in its own right, not a trap or a hazard.*
 
 ---
 
@@ -14,7 +14,7 @@ Kanja pressed both hands flat against the stone and held them there through a do
 
 There was no negotiating with it and no diverting it the way he'd diverted heat or gas -- a machine that size didn't care about a rerouted gallery, and by the time it broke through to the shelter there would be nothing left to reroute around. Mafesto's kinetic transfer read the grinding itself, mapping the engine's cutting head against the vibration pattern until Kanja had its exact position and speed to within a body-length, close enough to intercept it before it reached the shelter's outer wall rather than after.
 
-He met it in a narrow service gallery it hadn't been built to pass through, iron teeth the width of a cart wheel chewing rock six feet from his face, and understood in the same instant that Obsidian Malice's usual shield-breaking strike would shatter the engine's housing and send its own broken teeth flying through the gallery like shrapnel -- solving one problem by creating a worse one. So he struck the drive shaft instead, a single discharge aimed not at the cutting head but at the mechanism turning it, and felt three decades of tradesman's instinct confirm the read before the machine's own grinding stuttered and seized.
+He met it in a narrow service gallery it hadn't been built to pass through, iron teeth the width of a cart wheel chewing rock six feet from his face, and understood in the same instant that Obsidian Malice's usual shield-breaking strike would shatter the engine's housing and send its own broken teeth flying through the gallery like shrapnel -- solving one problem by creating a worse one. So he struck the drive shaft instead, a single discharge aimed not at the cutting head but at the mechanism turning it, and felt a lifetime of tradesman's instinct confirm the read before the machine's own grinding stuttered and seized.
 
 The four Directorate engineers riding its rear compartment came out fighting, and Onyx of Oblivion's Cadence Ruin dropped the first two before they cleared the hatch; Veil Piercer caught the third reaching for a lever that would have reversed the stalled engine straight back through its own crew. The fourth surrendered with his hands already in the air, staring at the seized machine rather than at the man who'd stopped it.
 

@@ -15,10 +15,10 @@ cross-check."
 
 Efa Gol was managing the queue the way she'd learned to since the milling combine's crowd, but even
 her best ordering couldn't slow six thousand people down to the speed of two pens, and Pell Ostra,
-watching the gap widen, put down the satchel he'd been guarding all morning and picked up a spare
+watching the gap widen, put down the satchel she'd been guarding all morning and picked up a spare
 sheaf of blank pages instead.
 
-"I've watched you do this enough months running to know the shape of it," he said. "Four words, worst-
+"I've watched you do this enough months running to know the shape of it," she said. "Four words, worst-
 off first, write it exact, don't soften anything. I'm not as fast as either of you and I'll get things
 wrong the first hour. But wrong and correctable beats a backlog nobody catches up from."
 

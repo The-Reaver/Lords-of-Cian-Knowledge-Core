@@ -7,11 +7,11 @@ already-locked Maret Vos.*
 
 ---
 
-Maret Vos, like Corren Halst and Danne Sok, had been freed by Kanja's own hand before the Black
-Trench — one of the earliest three, though the least often asked to speak of it. Where Halst had told
-his own account of the earliest days in quiet watches, and Danne Sok had finally broken his silence
-about a boy with shaking hands, Maret Vos had never once been asked what he himself remembered, and
-had never once volunteered it.
+Maret Vos, like Corren Halst and Danne Sok, was a survivor of the Maws who had found the other two on
+the docks before any of them found Kanja — one of the earliest three, though the least often asked to
+speak of it. Where Halst had told his own account of the earliest days in quiet watches, and Danne Sok
+had finally broken his silence about a boy with shaking hands, Maret Vos had never once been asked what
+he himself remembered, and had never once volunteered it.
 
 A new recruit finally asked, plainly, during an idle hour on the line.
 
@@ -20,19 +20,21 @@ said a word."
 
 "I don't have the kind of story that makes for good telling." Maret Vos considered the question longer
 than he'd expected, weighing whether it was finally time to answer it at all. "The others remember
-fear, or gratitude, or a boy's shaking hands. I mostly remember silence. He didn't say much, freeing
-me. He didn't need to. I think I understood what was happening from the way he moved, more than from
-anything he said."
+fear, or gratitude, or a boy's shaking hands. I mostly remember silence. I got myself out of the Maw.
+Halst and Sok, same as me — nobody carried us out. We found each other after, on the docks, three
+people who'd survived the same kind of thing and recognized it in each other without needing to say
+so. He didn't say much, the day we found him. He didn't need to. I think I understood what he was
+offering from the way he moved, more than from anything he said."
 
 "That's not nothing."
 
 "No. I think it might be the truest thing anyone's told you about those days, if I'm honest. Everyone
 wants the dramatic version — the speech, the emotion, the moment that explains everything. Mine was
-quieter than that. A boy who freed people without making it about himself, who didn't need the
-moment to mean anything beyond the fact that it happened." Maret Vos returned to his work, the
-admission complete, no further elaboration offered. "I've carried that quietness longer than I've
-carried almost anything else from before. I don't know that it makes as good a story as Halst's or
-Sok's. I think it might be closer to what actually happened, underneath both of theirs."
+quieter than that. Three people who'd already freed themselves, looking for somewhere the freedom
+would actually hold." Maret Vos returned to his work, the admission complete, no further elaboration
+offered. "I've carried that quietness longer than I've carried almost anything else from before. I
+don't know that it makes as good a story as Halst's or Sok's. I think it might be closer to what
+actually happened, underneath both of theirs."
 
 The recruit said nothing further, letting the account settle without pressing for more — the third and
 final piece of the earliest crew's own private memory of the man before any alias existed, offered

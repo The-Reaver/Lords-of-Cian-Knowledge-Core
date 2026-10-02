@@ -4,7 +4,7 @@
 
 ---
 
-Efa had run decoy columns and crowd diversions at the Ash-Wharf evacuation and Maw-9 both, and she
+Efa had run decoy columns and crowd diversions at Iron Shallows and Maw-9 both, and she
 found, to her own mild surprise, that four thousand people lined up peacefully to give wage testimony
 took a different kind of nerve than either.
 
@@ -45,7 +45,7 @@ the injustice — that's harder than it looks, and nobody ever writes a ledger e
 
 *Continuity notes (not narrative): a logistics-of-scale register distinct from the crowd/queue
 management implied but not dramatized elsewhere -- Efa Gol's already-locked crowd-flow/diversion
-expertise (`CC-116`) applied to a peaceful mass gathering rather than an evacuation or battle,
+expertise (`CC-130`/`131`) applied to a peaceful mass gathering rather than an evacuation or battle,
 complementing Ezio Valcari's documentary role with the equally essential, unglamorous work of making
 mass testimony possible without disorder. No new named characters beyond Efa Gol. Closes the
 Industrial Myth's tenth wave (with "The Last District Before the Strike" and "The Archivist Who

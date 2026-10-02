@@ -1,4 +1,4 @@
-# The Two Weeks He Wasn't There
+# The Three Weeks He Wasn't There
 
 *Locked canon, Batch 216, 2026-09-11 (`MCD-944`). The Trench Monarch Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -7,16 +7,16 @@
 Years later, long after the Black Trench and everything that came after it, Corren Halst would tell
 the story of the fever at Halworth Reach and the runner who sold an hour's warning to an owner as one
 story rather than two, because to him they had always been the same event, happening on top of each
-other in the same stretch of weeks — the two weeks the Trench Monarch wasn't, in any functional sense,
+other in the same stretch of weeks — the three weeks the Trench Monarch wasn't, in any functional sense,
 present.
 
-"People think the name did the work," he'd say. "The name didn't do anything that fortnight. He
+"People think the name did the work," he'd say. "The name didn't do anything that stretch. He
 couldn't stand up straight for half of it, and the other half he was walking a runner through the
 hardest conversation of the man's life instead of chasing anyone with a sword. Everything else that
 needed doing — every site that still needed checking, every wage dispute that didn't stop happening
 just because he was sick — that got done by whoever was standing closest with a ledger in their hand."
 
-That fortnight was the first time Halst, Sok, and Vos had run three separate sites independently,
+Those three weeks were the first time Halst, Sok, and Vos had run three separate sites independently,
 without waiting to ask what Kanja would want done, because there hadn't been time to ask and no one
 to ask it of. Halst settled a wage dispute at Coldrace using nothing but the tally method he'd watched
 Kanja use a hundred times, adapting it without permission because adapting it was the only option in
@@ -44,14 +44,14 @@ you there."
 
 "I know," Kanja said. "That's not nothing either."
 
-Garren Hask, compiling the ledger's account of that fortnight much later, gave it its own separate
+Garren Hask, compiling the ledger's account of those three weeks much later, gave it its own separate
 heading rather than folding it into either the fever entry or the runner's — the only entry in that
 stretch of the ledger credited to three names instead of one.
 
 ---
 
 *Continuity notes (not narrative): closes wave 17 by reframing the fever (`the-fever-that-wouldnt-break.md`)
-and the internal-betrayal repair (`the-man-who-sold-the-hour.md`) as one continuous fortnight, and
+and the internal-betrayal repair (`the-man-who-sold-the-hour.md`) as one continuous three-week stretch, and
 establishes a genuinely new register — the earliest crew's first fully independent operation without
 Kanja present or consulted, distinct from every prior crew-reflection entry (Halst's `MCD-436`, Sok's
 wordless loyalty at `MCD-641`, Vos's account at `MCD-533`) in showing them *acting* in his stead

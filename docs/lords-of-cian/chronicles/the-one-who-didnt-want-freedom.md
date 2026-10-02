@@ -3,14 +3,17 @@
 *Locked canon, Batch 156, 2026-09-11 (`MCD-491`). The Scourge Alias Chronicle X, first entry in the
 fourth wave. Long Mask era, age ~110, the Golden Terror period. Not a territory Chronicle. New
 standalone material — a moral-complexity entry testing the limits of the alias's rescue pattern.
-Narrated in neutral third-person prose. No new named characters.*
+Narrated in neutral third-person prose. No new named characters. Corrected Batch 321, 2026-10-02:
+the "Salt Keep" callback (which happens at age 140, thirty years after this entry's age ~110) was
+swapped for the earlier, era-appropriate MCD-381 galleon liberation.*
 
 ---
 
 The indentured works ran on a legitimate, if harsh, debt-bondage contract rather than outright
 slavery — years of labor traded against a real debt, terms harder than fair but not the manifest-
 fiction cruelty the Scourge usually broke apart without hesitation. He boarded expecting the same
-clean liberation he'd delivered at the Salt Keep and a dozen sites like it.
+clean liberation he'd delivered to the slaver galleon off the Gale Straits decades earlier (`MCD-381`)
+and a dozen sites like it.
 
 One worker refused to leave.
 

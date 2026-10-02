@@ -4,7 +4,7 @@
 
 ---
 
-He confessed before Ezio had asked him a single hard question, which should have been the tell and nearly wasn't. A modest shortfall, three months of slightly underpaid overtime, admitted freely, apologized for with what read as real discomfort, settled within the first hour with a check Ezio had no reason yet to distrust. It was, by the method's usual measure, one of the easiest closings the crew had ever handled — a man owning his own mistake before being caught in it, the kind of cooperation MCD-1165's grateful overseer had shown just weeks earlier.
+He confessed before Ezio had asked him a single hard question, which should have been the tell and nearly wasn't. A modest shortfall, three months of slightly underpaid overtime, admitted freely, apologized for with what read as real discomfort, settled within the first hour with a check Ezio had no reason yet to distrust. It was, by the method's usual measure, one of the easiest closings the crew had ever handled — a man owning his own mistake before being caught in it, the kind of cooperation a grateful overseer elsewhere had shown just weeks earlier.
 
 Ezio closed the file that evening and reopened it the next morning anyway, not from suspicion exactly, but from a habit he'd built precisely to catch cases that felt too easy: cross-referencing the confessed shortfall's timeframe against a wider window than the man had volunteered, on the general principle that an administrator who knew his books well enough to confess one figure with precision usually knew them well enough to know exactly where the boundaries of that confession sat.
 

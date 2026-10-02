@@ -1,7 +1,7 @@
 # What Ezio Valcari Understood By Then
 
 *Locked canon, Batch 130, 2026-09-11 (`MCD-439`). The Industrial Myth Alias Chronicle IX, closing
-the third wave. Rebellion era, age 19, the Furnace District Strike. Not a territory Chronicle. New
+the third wave. Rebellion era, age 21, the Furnace District Strike. Not a territory Chronicle. New
 standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Ezio Valcari.*
 
@@ -34,14 +34,16 @@ ago." Kanja finally looked up. "But when it does work, it leaves something behin
 does. It leaves a precedent nobody can credibly deny happened. That's worth the extra time it takes
 to build."
 
-The strike resolved that evening exactly as the ledger had already made undeniable, and Ezio Valcari
-filed his own copy of the tally sheets away — not as a record of what had been won, but as a method
-he intended to carry into whatever came next.
+The four days of tally work concluded that evening exactly as the ledger had already made undeniable
+— though the strike itself would go on to hold at the gate eleven days more before the Sovereign
+Trust renegotiated the district's terms — and Ezio Valcari filed his own copy of the tally sheets
+away — not as a record of what had been won, but as a method he intended to carry into whatever came
+next.
 
 ---
 
-*Continuity notes (not narrative): a closing reflection from Ezio Valcari (already locked, CC-105
-area/MCD-244-adjacent) extending his already-locked corrective-figures role into an explicit
+*Continuity notes (not narrative): a closing reflection from Ezio Valcari (already locked,
+CC-027/029/030/WC-016) extending his already-locked corrective-figures role into an explicit
 articulation of why the patience-first method works, cross-referencing "The Man Who Wanted to Fight"
 (MCD-438) directly. No new named characters beyond the already-locked Ezio Valcari. Closes the
 Industrial Myth's third three-Chronicle wave (with "The Family Behind the Numbers," MCD-437, and

@@ -1,10 +1,10 @@
 # The Night the River Won
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1370`). Captain Alias Chronicle LXX, wave 24. The sub-series' first genuine, outright rescue failure: a father drowns despite everything the crew does, leaving his daughter, Mira, orphaned.*
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1370`). Captain Alias Chronicle LXX, wave 24. The sub-series' first genuine, outright rescue failure: a father drowns despite everything the crew does, leaving his daughter, Mira, orphaned. Corrected Batch 321, 2026-10-02: removed a post-surrender Trinity anachronism (Mafesto/Onyx of Oblivion, `MCD-246`).*
 
 ---
 
-The flood came faster than any warning could outrun it, a river district's levee failing in the dark two hours before the crew could reach it by the fastest line Corren Halst could plot, and by the time the Second Chance's boats went into that current there were already more people in the water than any rescue line could reach at once. They pulled thirty-one people out alive. They did not pull out a man named Joran, who had gotten his daughter onto a rooftop and gone back for his wife and never surfaced again, though Mafesto's Kinetic Transfer System redirected debris around every rescuer in that water and Onyx read the current itself for anything worth finding until well past the point where finding meant saving.
+The flood came faster than any warning could outrun it, a river district's levee failing in the dark two hours before the crew could reach it by the fastest line Corren Halst could plot, and by the time the Second Chance's boats went into that current there were already more people in the water than any rescue line could reach at once. They pulled thirty-one people out alive. They did not pull out a man named Joran, who had gotten his daughter onto a rooftop and gone back for his wife and never surfaced again, though the Forge-Coat and Ironfall Boots redirected debris around every rescuer in that water and Kanja's own trained instinct read the current itself for anything worth finding until well past the point where finding meant saving.
 
 Kanja was the one who told Mira, eight years old and already soaked through and shaking on that rooftop, that her father wasn't coming. He had never once, in every alias, in every era, found an easier way to say a true and terrible thing, and he didn't pretend to have found one now.
 
@@ -16,4 +16,4 @@ Efa Gol carried Mira off the rooftop herself, wrapped in a dry coat that smelled
 
 ---
 
-*Continuity notes (not narrative): the sub-series' first genuine, unresolved rescue failure -- thirty-one saved, one lost, with no reframing into a hidden win, deliberately distinct from every prior close-call or morally complex entry. Introduces two new minor named characters: Joran (the drowned father, non-recurring) and Mira (his orphaned daughter, established here to recur across waves 24-25); both collision-checked clean against the full live ledger (zero prior hits for either name). No crew-roster change -- Kanja, Corren Halst, Efa Gol, and the Trinity gear all reused. First entry, wave 24.*
+*Continuity notes (not narrative): the sub-series' first genuine, unresolved rescue failure -- thirty-one saved, one lost, with no reframing into a hidden win, deliberately distinct from every prior close-call or morally complex entry. Introduces two new minor named characters: Joran (the drowned father, non-recurring) and Mira (his orphaned daughter, established here to recur across waves 24-25); both collision-checked clean against the full live ledger (zero prior hits for either name). No crew-roster change -- Kanja, Corren Halst, Efa Gol, and Kanja's own post-surrender gear all reused. First entry, wave 24.*

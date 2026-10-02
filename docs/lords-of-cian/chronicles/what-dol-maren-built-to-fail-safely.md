@@ -6,9 +6,9 @@ own run.*
 
 ---
 
-Dol Maren had built seventeen plank-bridges across the dredge canals in the weeks after the flood
-that founded the alias, and he had never once, in all that time, told anyone how he actually rated
-them.
+Dol Maren had built and load-tested seventeen plank-bridges across the dredge canals during the
+Dredge-Line Ambush itself — the flood that founded the alias — and he had never once, in all the
+time since, told anyone how he actually rated them.
 
 The district assumed a bridge either held or it didn't. Maren rated each one against a number no one
 else asked for: the heaviest load he expected it to be asked to carry, doubled, and then a further

@@ -18,20 +18,22 @@ beginning.
 
 The beginning, which he told to no one but Kanja, on a quiet night with no raid ahead of them and
 nothing pressing enough to make talking about it feel like weakness, had nothing to do with the flood
-that founded the alias at all. He'd been freed from a work-camp two districts over, months before the
-Dredge-Line Ambush, by a rebellion cell that dissolved within weeks of freeing him — betrayed from the
-inside, its leader taking a bribe that put every other freed worker back in chains within a season.
-Halst alone had escaped that second capture, and had spent the months since privately certain that
-freedom offered by anyone, however sincere in the moment, carried no guarantee it would still be
-freedom by winter.
+that founded the alias at all. He'd been freed from one of the Maws, months before the Dredge-Line
+Ambush, by a rebellion cell that dissolved within weeks of freeing him — betrayed from the inside, its
+leader taking a bribe that put every other freed worker back in chains within a season. Halst alone
+had escaped that second capture, and had spent the months since privately certain that freedom offered
+by anyone, however sincere in the moment, carried no guarantee it would still be freedom by winter.
 
-He'd watched Kanja's crew from a careful distance for three weeks after the flood before approaching
-at all — not out of fear of the fighting, but out of the specific, hard-earned suspicion that this,
-too, might dissolve into betrayal the way the last one had. What convinced him wasn't the flood
-itself, or the reputation already building around it. It was Garren Hask's ledger, glimpsed once from
-outside a tent, meticulous and cross-witnessed and answerable to the workers it tracked rather than to
-any single man's word — the specific kind of accountability his first rescuer had never bothered to
-build, and the exact thing that had let that first rescue collapse without warning.
+He'd made his way to the docks after that, wary of joining anyone outright, and it was there he found
+Danne Sok and Maret Vos — two other Maw survivors with the same careful distance in them, the same
+unwillingness to be freed twice and betrayed twice. The three of them watched Kanja's crew together
+for three weeks after the flood before approaching at all — not out of fear of the fighting, but out
+of the specific, hard-earned suspicion that this, too, might dissolve into betrayal the way the last
+one had. What convinced him wasn't the flood itself, or the reputation already building around it. It
+was Garren Hask's ledger, glimpsed once from outside a tent, meticulous and cross-witnessed and
+answerable to the workers it tracked rather than to any single man's word — the specific kind of
+accountability his first rescuer had never bothered to build, and the exact thing that had let that
+first rescue collapse without warning.
 
 "I didn't join because I trusted you," he told Kanja plainly. "I joined because I trusted the ledger.
 You, I decided to trust later, once I'd watched long enough to believe the ledger wasn't just for

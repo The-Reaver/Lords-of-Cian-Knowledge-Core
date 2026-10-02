@@ -1,6 +1,6 @@
 # The Boy Who Wanted the Blade Instead
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-653`). The Blue-Collar Titan Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-653`). The Blue-Collar Titan Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "the way he'd watched Kanja turn one... in front of" corrected to "the way he'd heard the crew describe Kanja turning one... in front of" -- MCD-374 establishes Kanja surfaced alone with nobody watching.*
 
 ---
 
@@ -27,8 +27,8 @@ see buried. Every joint you learn to read right is one more thing they can't use
 we understood it first. That's not smaller than killing them. It just doesn't get you killed doing
 it, and it actually adds up to something when the war's over and you're still here to see it."
 
-The boy didn't answer for a long moment, turning the fitting in his hands the way he'd watched
-Kanja turn one, weeks earlier, in front of two confused municipal repairmen.
+The boy didn't answer for a long moment, turning the fitting in his hands the way he'd heard the
+crew describe Kanja turning one, weeks earlier, in front of two confused municipal repairmen.
 
 "Teach me the joints, then," he said finally. "But if it comes to a blade—"
 

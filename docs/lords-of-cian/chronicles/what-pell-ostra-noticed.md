@@ -1,7 +1,7 @@
 # What Pell Ostra Noticed
 
 *Locked canon, Batch 183, 2026-09-11 (`MCD-536`). The Industrial Myth Alias Chronicle XV, closing
-the fifth wave. Rebellion era, age 19. Not a territory Chronicle. New standalone material. Narrated
+the fifth wave. Rebellion era, age 21. Not a territory Chronicle. New standalone material. Narrated
 in neutral third-person prose. No new named characters beyond the already-locked Pell Ostra.*
 
 ---

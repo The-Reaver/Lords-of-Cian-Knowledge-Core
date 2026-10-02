@@ -6,8 +6,11 @@ shock, the Ironhand Gauntlets scattering a boarding line through leverage and tr
 the Rexmar Machete wielded through Kanja's own swordsmanship and instinctive Rexmar-Mar tactical
 sense. Not a territory Chronicle. Corrected batch 314, 2026-09-28: an earlier draft mistakenly used
 Trinity-era gear (Mafesto, Obsidian Malice, Onyx of Oblivion), which Kanja surrendered to the vault
-at age 30 for the entire 284-year Long Mask (`MCD-246`) -- this scene, dated roughly 8.5 months after
-that surrender, could not have used it.*
+at age 30 for the entire 284-year Long Mask (`MCD-246`) -- this scene, dated roughly five years after
+that surrender, could not have used it. Timestamp loosened Batch 321, 2026-10-02 (from "roughly 8.5
+months") so the seven-piece Long Mask-era gear system it already correctly uses (built ages 33-50,
+`ARS-344` through `356`) falls inside its own existence window; also corrects Corren Halst's pronoun
+to he/him per `CC-158`.*
 
 ---
 
@@ -65,7 +68,7 @@ counted everything, precisely, out loud, until the last one was off the pier and
 Corren Halst, coiling the last of Ostra's net line, said what nobody else had quite put into words
 yet: "That's the fourth line of the charter, isn't it. Not written down. Just done."
 
-Kanja didn't correct her.
+Kanja didn't correct him.
 
 ---
 

@@ -3,9 +3,12 @@
 *Locked canon, Batch 111, 2026-09-10 (`MCD-381`). The Scourge Alias Chronicle II. Long Mask era,
 Pirate Dawn (ages 48-52, `MCD-250`), a new naval engagement distinct from the already-locked Boiling
 Strait. A detailed showcase of the early Scourge loadout -- the Forge-Coat, the Sovereign Eyes'
-predator-eyed glow, the Ironhand Gauntlets, the Ironfall Boots, and the Smoke System's Terror mode
--- and the Rexmar Machete. Not a territory Chronicle. New standalone material. Narrated in neutral
-third-person prose. No new named characters.*
+predator-eyed glow, the Ironhand Gauntlets, the Ironfall Boots, and the Smoke System's early
+sustained-discharge use -- and the Rexmar Machete. Not a territory Chronicle. New standalone
+material. Narrated in neutral third-person prose. No new named characters. Corrected Batch 321,
+2026-10-02: the Forge-Coat relabeled V1 -> V2 (`ARS-347` places V2 at ages 40-80, which Pirate
+Dawn's ages 48-52 fall within; V1 ends at age 33) and the "Terror mode" reference removed, since
+`ARS-354` locks Terror mode as a V3-only addition (ages 80-180), not yet existing at this age.*
 
 ---
 
@@ -13,11 +16,13 @@ The slaver galleon's captain had paid well for the rumor that black sails on the
 meant only one thing worth doing: strike them yourself, and empty your hold onto the deck, before
 whatever was coming closed the distance. He gave the order twenty minutes too late.
 
-The Forge-Coat came through the smoke first — V1, still crude by every measure the years ahead
-would demand of it, small-arms rated and barely twelve kilograms, but already carrying the coolant
-system's twin shoulder vents primed for what would come to be called Terror mode: two capsules
-discharged in sustained bilateral flow, not to conceal the man inside but to make him unmistakably,
-theatrically visible through it, a silhouette the smoke seemed to trace rather than hide. Behind the
+The Forge-Coat came through the smoke first — V2 by now, treated sea-leather over Dead Drakma wire
+mesh, the armored high collar already in place, rated for edged weapons rather than small arms alone
+and barely nine kilograms, though still years from the layered composite the role would eventually
+demand — already carrying the coolant system's twin shoulder vents, used now in a sustained bilateral
+flow that was not yet the formalized Terror mode of later years, just an early, instinctive discharge
+pattern, not meant to conceal the man inside but to make him unmistakably, theatrically visible
+through it, a silhouette the smoke seemed to trace rather than hide. Behind the
 goggles' crude copper frames, the phosphor coating's accidental predator-glow caught what little
 lantern-light the deck still had and threw it back amber, an effect nobody had designed on purpose
 and nobody, having seen it work, would ever remove.
@@ -57,9 +62,10 @@ was at using it."
 *Continuity notes (not narrative): the detailed armor-and-weapon showcase for this wave, set during
 Pirate Dawn (ages 48-52) rather than restaging the already-locked Boiling Strait (a different
 character's, Bloodreaver's, engagement). Demonstrates the early-version Scourge loadout precisely
-per its own locked evolution timeline: Forge-Coat V1 (ARS-347, age 33 debut, still in service),
+per its own locked evolution timeline: Forge-Coat V2 (ARS-347, ages 40-80),
 Sovereign Eyes V1's unintended predator-glow (ARS-350), Ironhand Gauntlets V1 riveted plate (ARS-352),
-Ironfall Boots' impact-sole tremor effect (ARS-353), the Smoke System's Terror mode (ARS-354), and
+Ironfall Boots' impact-sole tremor effect (ARS-353), the Smoke System's early sustained-discharge use,
+not yet formalized as Terror mode (ARS-354), and
 the Rexmar Machete (ARS-260) doing the actual swordwork, deliberately contrasted against the
 theatrical smoke-and-eyes reputation. No new named characters. Second entry in the Scourge's
 three-Chronicle wave.*

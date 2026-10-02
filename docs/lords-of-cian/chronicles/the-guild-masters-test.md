@@ -2,7 +2,9 @@
 
 *Locked canon, Batch 120, 2026-09-11 (`MCD-409`). Blue-Collar Titan Alias Chronicle VI, closing
 the second wave. Rebellion era. Not a territory Chronicle. New standalone material. Narrated in
-neutral third-person prose. No new named characters.*
+neutral third-person prose. No new named characters. Corrected Batch 321, 2026-10-02: two stray
+references to the Rolling Foundry Campaign (a different alias's later era, age 27) removed and
+reworded self-contained to this alias's own Killane-era window.*
 
 ---
 
@@ -23,14 +25,13 @@ separated genuine trained hands from a convincing performance of them.
 He worked it in silence for the better part of an hour, checking the reheat at each stage against
 the metal's own color rather than a clock, correcting the housing's warp by degrees rather than
 forcing it straight in one aggressive pass — the same unhurried patience, the guild master noted
-without saying so aloud, that a fourteen-year-old apprentice somewhere along the Rolling Foundry
-Campaign's route had once been taught to bring to a bent hinge.
+without saying so aloud, that he'd once been taught to bring to a bent hinge at his father's forge.
 
 "You rushed the third reheat," she said, when he finished, examining the trued housing with a
 professional's exacting eye. "Not badly. A journeyman's mistake, not a fraud's. But you rushed it."
 
-"I did." He didn't argue the point. "Six months out of a real forge does that to your patience, even
-when you know better."
+"I did." He didn't argue the point. "Weeks running tunnels instead of a real forge does that to your
+patience, even when you know better."
 
 "That's the most honest answer anyone's given me in this seat in years." She set the housing aside,
 already calling for her guild's route ledgers. "Every impostor who's sat where you're sitting swears

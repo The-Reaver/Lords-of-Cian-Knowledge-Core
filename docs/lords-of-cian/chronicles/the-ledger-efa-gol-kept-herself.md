@@ -1,6 +1,6 @@
 # The Ledger Efa Gol Kept Herself
 
-*Locked canon, Batch 257, 2026-09-11 (`MCD-1192`). Blue-Collar Titan Alias Chronicle LXXXI, wave 27, closing the wave. Efa Gol presents her own independent accounting of the alias's toll -- a second-voice legacy entry paying off her wave-19 introduction.*
+*Locked canon, Batch 257, 2026-09-11 (`MCD-1192`). Blue-Collar Titan Alias Chronicle LXXXI, wave 27, closing the wave. Efa Gol presents her own independent accounting of the alias's toll -- a second-voice legacy entry paying off her wave-19 introduction. Corrected Batch 321, 2026-10-02: "three years back" corrected to "months back" (the Killane campaign runs within ages 20-21, not years); "the flooding fight that first brought her into its orbit" corrected to "the cellar breach," matching her actual first appearance at `MCD-1012`.*
 
 ---
 

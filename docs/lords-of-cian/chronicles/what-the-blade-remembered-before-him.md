@@ -7,9 +7,9 @@ combat, clarifying what "Soulbound" actually means.*
 ---
 
 Most nights the blade said nothing that couldn't be read in how it moved. Onyx of Oblivion didn't
-speak the way a person spoke, not even to Kanja; what passed between them lived closer to Angle-
-Whisper's own compressed certainty than to words, meaning arriving whole rather than assembled letter
-by letter. On the night in question, cleaning the blade by lamplight after a day with no fight in it
+speak the way a person spoke, not even to Kanja; what passed between them arrived more like
+understanding than speech, meaning arriving whole rather than assembled letter by letter. On the
+night in question, cleaning the blade by lamplight after a day with no fight in it
 at all, Kanja asked it a question he'd never quite worked up to before.
 
 *Who held you before me.*
@@ -52,8 +52,8 @@ choice something ancient kept making, on purpose, every single day he carried it
 
 *Continuity notes (not narrative): a dedicated sentience/mechanic deep-dive on Onyx of Oblivion,
 clarifying Soulbound Edge (`ARS-020`) as a renewable, revocable bond rather than possession --
-distinct from Mafesto's forged-and-bonded relationship (`MCD-291` and related gear-system rules) and
-consistent with Onyx's already-locked moral-absolutist voice (`VB-021`). Introduces Onyx's long,
+distinct from Mafesto's forged-and-bonded relationship (`ARS-010`/`MCD-232`) and consistent with
+Onyx's already-locked moral-absolutist voice (`VB-021`). Introduces Onyx's long,
 unspecified pre-Kanja history and a prior wielder the blade refused, without naming or detailing
 either -- a deliberate, undramatized hook rather than new plot obligation, matching the sub-series'
 established pattern of leaving some threads open. No combat, no new named characters. First entry in

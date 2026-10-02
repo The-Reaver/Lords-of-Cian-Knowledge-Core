@@ -3,8 +3,11 @@
 *Locked canon, Batch 186, 2026-09-11 (`MCD-543`). The Scourge Alias Chronicle XIII, first entry in
 the fifth wave. Long Mask era, age ~150, the Golden Terror period. Not a territory Chronicle. New
 standalone material — a detailed, large-scale fleet battle per Abad's craft instruction. Onyx of
-Oblivion remains sealed at L9 throughout the Long Mask; this showcase uses Mafesto, Obsidian Malice,
-and the built gear system only. Narrated in neutral third-person prose. No new named characters.*
+Oblivion remains sealed at L9 throughout the Long Mask, and Mafesto and Obsidian Malice remain
+surrendered per `MCD-246`; this showcase uses the Long Mask's built gear system only (`ARS-344`
+through `356`). Narrated in neutral third-person prose. No new named characters. Corrected Batch
+321, 2026-10-02: removed an anachronistic Mafesto/Obsidian Malice presence, swapped for the Long
+Mask gear system.*
 
 ---
 
@@ -20,8 +23,8 @@ The Forge-Coat's grounding weave absorbed the armada's opening long-range volley
 Eyes read the shoal patterns invisible to the armada's own unfamiliar navigators, guiding the smaller
 fleet through channels the larger force couldn't safely follow. Three armada vessels ran aground
 within the first hour, their own numbers advantage undone by ground none of their captains had ever
-sailed. Obsidian Malice discharged twice against the armada flagship's own steering, disabling rather
-than sinking it, while the Ironhand Gauntlets and Ironfall Boots carried the Scourge through a
+sailed. The Ironhand Gauntlets' leverage disabled the armada flagship's own steering twice over
+rather than sinking it, while the same Gauntlets and the Ironfall Boots carried the Scourge through a
 boarding action against the command vessel that ended its coordination entirely.
 
 With the flagship disabled and three more ships grounded, the remaining armada scattered rather than
@@ -41,7 +44,8 @@ cooperates with them. Today it didn't."
 ---
 
 *Continuity notes (not narrative): the largest fleet-scale engagement of the Scourge's run, matching
-Abad's craft instruction, deploying the full gear system (Forge-Coat, Sovereign Eyes, Ironhand
-Gauntlets, Ironfall Boots) against a twelve-ship Directorate armada -- Onyx of Oblivion correctly
-absent per its established L9 seal. No new named characters. First entry in the Scourge's fifth
+Abad's craft instruction, deploying the full Long Mask gear system (Forge-Coat, Sovereign Eyes,
+Ironhand Gauntlets, Ironfall Boots, `ARS-344` through `356`) against a twelve-ship Directorate armada
+-- Onyx of Oblivion, Mafesto, and Obsidian Malice all correctly absent per the Trinity's age-30
+surrender (`MCD-246`). No new named characters. First entry in the Scourge's fifth
 three-Chronicle wave.*

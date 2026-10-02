@@ -1,6 +1,8 @@
 # The Debt the Sea Called In
 
-*Locked canon, Batch 217, 2026-09-11 (`MCD-951`). Sovereign Ghost of the Great Sea Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 217, 2026-09-11 (`MCD-951`); corrected Batch 321, 2026-10-02 (the Foldtide and
+Undertow were Book-2-onward Moonvault gifts that don't exist in this Rebellion-era window -- swapped
+for Kanja's own Mar-bloodline tide-sense plus ordinary anchor-chain work). Sovereign Ghost of the Great Sea Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -20,22 +22,22 @@ scaled down into something that still swam. Obsidian Malice could cut it. Killin
 question that mattered; killing it in open water, thrashing, with three more crewed hulls close enough
 to be caught in the dying of something that size, was.
 
-He didn't reach for the blade. He unspooled the Foldtide instead, and from it the net-line Haryn Dael's
-own tradition had named for a goddess who dragged the drowned down to her hall rather than let the sea
-give them back — Undertow, never yet thrown at anything in all the years he'd carried it coiled and
-unused, because nothing yet had been both large enough and lawful enough a target to need it.
+He didn't reach for the blade. He read the water instead — the same Mar-bloodline current-sense that
+told him where a tide would turn before the tide itself knew it, now turned on the creature's own wake
+and the drag trailing behind it. He called for anchor chain, two hulls' worth, fed out fast and crossed
+ahead of its path rather than behind it, Corren Halst and the boarding crews hauling the slack taut the
+instant it struck the tangle.
 
-It was large enough now. He cast the net-line wide across open water ahead of the creature's own path,
-and where it touched the sea a current opened beneath it that had no business existing anywhere the
-wind wasn't driving it — a downward pull violent enough to seize the creature mid-lunge and haul the
-whole vast coiling length of it under, not killed, not drowned, simply taken somewhere deep and
-distant and colder than the convoy's charted water, the way the goddess it was named for had always
-taken what she wanted without asking whether the sea agreed to give it up.
+It was large enough to feel the chain and strong enough to fight it, but the current itself was reading
+for him now, the pull of the water doing half the work the iron couldn't: he called the haul on a swell
+he felt coming a full breath before it broke, and the combined weight of chain and tide dragged the
+whole vast coiling length of it under, not killed, not drowned, simply taken down and out past the
+convoy's own draft, deep enough and far enough that nothing shallow-water-bound could follow it back.
 
-The pull didn't stop cleanly. It caught the edge of *The Receipt*'s own hull for three ugly seconds
-before Kanja released the line, and Dol Maren spent the better part of an hour afterward examining
-planking that had nearly gone the same way as the merchant ships' before deciding, out loud, that the
-weapon needed to be thrown from farther off next time, or not at all near a hull worth keeping.
+The chain didn't come free cleanly. It caught the edge of *The Receipt*'s own hull for three ugly
+seconds before Kanja called the release, and Dol Maren spent the better part of an hour afterward
+examining planking that had nearly gone the same way as the merchant ships' before deciding, out loud,
+that the line needed to be run from farther off next time, or not at all near a hull worth keeping.
 
 Two merchant crews were pulled from the water. One hull was lost outright. Nobody aboard the convoy
 ever learned what had actually happened beneath the surface, only that the thing that had been killing
@@ -46,15 +48,17 @@ day's account.
 
 "I could have. It wasn't fighting us. It was just enormous and in the wrong water at the wrong time,
 same as half the things we've ever pulled someone out from under." Kanja looked at the coiled,
-salt-stiffened net-line before stowing it away again. "I don't know how long it stays where I put it.
-Maybe it comes back angrier. But I'd rather find that out than carry the alternative — that the first
-time I ever used this thing, it was to kill something for the crime of being bigger than us."
+salt-stiffened chain before stowing it away again. "I don't know how long it stays where I put it.
+Maybe it comes back angrier. But I'd rather find that out than carry the alternative — that the
+quickest way through was killing something for the crime of being bigger than us."
 
 ---
 
-*Continuity notes (not narrative): first dramatized use of Undertow (ARS-388), the last previously
-undetailed Captain's-Five treasure, and the alias's first entirely natural (non-human, non-mechanical)
+*Continuity notes (not narrative): the alias's first entirely natural (non-human, non-mechanical)
 threat — distinct from the fear-immune Directorate war-construct of wave 13 ("The Thing the Directorate
-Built to Hunt Them," MCD-793). Establishes the weapon's real cost/risk (near-damage to the fleet's own
-hull) and Kanja's restraint-over-force reasoning applied to a non-sapient danger for the first time, an
-extension of the doctrine beyond human/Trust targets. First entry in the seventeenth wave.*
+Built to Hunt Them," MCD-793). Establishes the near-damage risk of improvised anchor-chain work and
+Kanja's restraint-over-force reasoning applied to a non-sapient danger for the first time, an
+extension of the doctrine beyond human/Trust targets. First entry in the seventeenth wave. Corrected
+Batch 321, 2026-10-02 to remove the Foldtide and Undertow (ARS-388), both Book-2-onward Moonvault
+gifts that cannot appear in a Rebellion-era entry -- replaced with Kanja's own Mar-bloodline tide-sense
+(MCD-295) and ordinary anchor-chain work.*

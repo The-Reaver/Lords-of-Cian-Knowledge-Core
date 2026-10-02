@@ -3,7 +3,9 @@
 *Locked canon, Batch 122, 2026-09-11 (`MCD-415`). The Scourge Alias Chronicle VI, closing the
 second wave. Long Mask era, Pirate Dawn (ages 48-52, `MCD-250`). A rival warlord's direct challenge
 to the Gale Straits crescent formation's authority. Not a territory Chronicle. New standalone
-material. Narrated in neutral third-person prose. No new named characters.*
+material. Narrated in neutral third-person prose. No new named characters. Corrected Batch 321,
+2026-10-02: the slaver-captain callback (MCD-381) corrected from a claimed killing to a disarming,
+matching the alias's established disarm-not-kill doctrine.*
 
 ---
 
@@ -28,7 +30,7 @@ to disprove."
 The warlord, having built his own career on exactly this kind of personal-stakes challenge, couldn't
 refuse without conceding the very point he'd sailed south to make. The exchange lasted less than a
 minute — the Rexmar Machete meeting an experienced blade with the same unhurried, plainly skilled
-precision that had ended a slaver captain's life years earlier at a different latitude, disarming
+precision that had disarmed a slaver captain years earlier at a different latitude, disarming
 rather than killing, because the point had never been the warlord's death, only the demonstration.
 
 "The crescent's not a story," Kanja said, standing over a warlord disarmed but unharmed, loud enough

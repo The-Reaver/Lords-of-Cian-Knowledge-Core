@@ -6,7 +6,7 @@ without water anywhere in it.*
 
 ---
 
-The canal that had drowned two hundred soldiers the year before was, by midsummer, a cracked silt
+The canal that had broken the column's advantage the year before was, by midsummer, a cracked silt
 bed a determined child could walk across without wetting a boot.
 
 Nothing about the district's dispute work had ever assumed a dry canal. The tally method's usual
@@ -19,8 +19,8 @@ never given him: goods that used to reach the district by barge, transparent to 
 canal, now moved by wagon, out of sight, along routes nobody had ever needed to document before.
 
 Dol Maren's seventeen bridges stood over nothing. The plank spans that had once been the district's
-most contested crossings — worth fighting over, worth an ambush, worth the "Line That Wouldn't Break"
-kind of defense — became, overnight, irrelevant pieces of engineering spanning dry silt. What mattered
+most contested crossings — worth fighting over, worth an ambush, worth defending to the last plank —
+became, overnight, irrelevant pieces of engineering spanning dry silt. What mattered
 instead was the wagon track itself, and who controlled which stretch of it, and whether a load
 claimed for one district actually arrived there or quietly diverted to a buyer the cracked canal bed
 made suddenly much harder to catch doing it.

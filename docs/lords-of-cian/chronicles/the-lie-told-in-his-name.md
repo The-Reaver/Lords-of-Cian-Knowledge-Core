@@ -58,7 +58,7 @@ you took instead wasn't mine to give."
 
 *Continuity notes (not narrative): a genuinely new register for the alias -- prior "lies told under
 his name" were malicious (the impersonator's extortion, `MCD-401`) or profit-motivated (the bribery
-slander campaign, `MCD-449`); this is the first entry where someone invokes the name out of love and
+slander campaign, `MCD-624`); this is the first entry where someone invokes the name out of love and
 desperation rather than fraud, forcing Kanja to separate the sympathetic impulse from the
 unauthorized use of his reputation without collapsing the distinction into either full forgiveness or
 punishment. Resolved through the established tally-verification method (`MCD-231`) rather than

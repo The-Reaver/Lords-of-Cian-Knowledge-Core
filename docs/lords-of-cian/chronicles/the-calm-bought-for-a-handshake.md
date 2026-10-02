@@ -1,6 +1,6 @@
 # The Calm Bought for a Handshake
 
-*Locked canon, Batch 220, 2026-09-11 (`MCD-984`). The Storm That Walks Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-984`). The Storm That Walks Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft had the Trinity present as the visible deterrent, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete).*
 
 ---
 
@@ -28,9 +28,10 @@ exchange of terms beneath a truce flag neither side fully trusted yet. The windo
 delegations arrived within minutes of each other, in full sight of one another the whole crossing,
 with no cover available to either for the kind of betrayal both still half expected.
 
-The Trinity was present on Kanja's own vessel throughout, visibly, and used for nothing at all — not a
-deterrent brandished, simply a fact both delegations could see and account for in their own
-calculations without anyone needing to say a word about it.
+Kanja's own gear — the Forge-Coat, the Ironhand Gauntlets, the Rexmar Machete at his hip — stood
+visible on his own vessel throughout, and was used for nothing at all — not a deterrent brandished,
+simply a fact both delegations could see and account for in their own calculations without anyone
+needing to say a word about it.
 
 "You could have used that calm to move against either of them," one delegation's senior negotiator
 said afterward, watching the fair weather hold exactly as promised. "Instead you handed us both the
@@ -46,7 +47,7 @@ delegation had believed possible walking in.
 
 *Continuity notes (not narrative): the sub-series' first entry using storm-timing to enable a fragile
 diplomatic negotiation's physical safety directly, rather than a military advantage, a civilian rescue
-(MCD-459, MCD-570-572), or a policy question about sharing the method itself (MCD-573-575). The Trinity
-appears as a visible, unused deterrent rather than a combat or rescue tool, a register not yet used in
-this sub-series. Names Sephtis's successor and Kanja; the two delegations are unnamed. No new named
-characters.*
+(MCD-459, MCD-570-572), or a policy question about sharing the method itself (MCD-573-575). Kanja's
+own Long Mask-era gear appears as a visible, unused deterrent rather than a combat or rescue tool, a
+register not yet used in this sub-series. Names Sephtis's successor and Kanja; the two delegations are
+unnamed. No new named characters.*

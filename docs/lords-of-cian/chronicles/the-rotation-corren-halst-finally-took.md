@@ -2,7 +2,9 @@
 
 *Locked canon, Batch 279, 2026-09-11 (`MCD-1459`); corrected Batch 320, 2026-10-01 (Corren Halst
 and Danne Sok reconciled to he/him, matching the clear majority usage across the corpus and the
-same resolution already applied to Maret Vos and Dol Maren, Batch 226). Blue-Collar Titan Alias
+same resolution already applied to Maret Vos and Dol Maren, Batch 226); corrected Batch 321,
+2026-10-02 ("eight decades" -> "a decade" -- this alias has no Long Mask counterpart, and Kanja's
+Rebellion-era tenure can't exceed roughly a decade). Blue-Collar Titan Alias
 Chronicle CII, wave 34, closing the wave. A graceful institutional handoff extended to one of
 Kanja's own founding crew for the first time, mirroring his own declined permanent council seat.*
 
@@ -32,7 +34,7 @@ Corren Halst was quiet for a moment, turning the offer over with the same care h
 
 "This is the same shape, isn't it. You're not retiring me. You're moving the thing I'm actually best at somewhere my leg can't disqualify me from it."
 
-"That's exactly what it is." Kanja held out a hand, and he took it, the handshake settling something neither of them needed to say aloud. "I've had eight decades of people trying to make me the exception to every rule this crew runs on. You don't get to be the exception either, not even the kind that quietly steps aside before anyone asks him to. You're too good at this to let a ladder decide where your knowledge stops mattering."
+"That's exactly what it is." Kanja held out a hand, and he took it, the handshake settling something neither of them needed to say aloud. "I've had a decade of people trying to make me the exception to every rule this crew runs on. You don't get to be the exception either, not even the kind that quietly steps aside before anyone asks him to. You're too good at this to let a ladder decide where your knowledge stops mattering."
 
 Word of the new arrangement reached Danne Sok by the following morning, and he found Corren Halst already at the training hall, a fresh line of recruits waiting for their first lesson.
 

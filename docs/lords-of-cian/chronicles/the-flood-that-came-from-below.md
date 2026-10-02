@@ -48,8 +48,10 @@ reliable sense anyone has. I learned that the hard way, same as everyone working
 
 *Continuity notes (not narrative): the most detailed single combat/rescue Trinity showcase of the
 Blue-Collar Titan's run, matching Abad's craft instruction for armor/weapon-focused entries to be
-"super detailed, super battle intense and coordinated" -- extends the non-visual sensory principle
-already established for this alias ("The Six-Week Silence," MCD-374) into a full flooding-tunnel
-combat/rescue combining Mafesto's pressure-reading, Obsidian Malice's gate-breach discharge, and
+"super detailed, super battle intense and coordinated" -- establishes the non-visual sensory
+principle this alias returns to throughout its run into a full flooding-tunnel combat/rescue
+combining Mafesto's pressure-reading, Obsidian Malice's gate-breach discharge, and
 Onyx of Oblivion's Whisper of Shadows/Veil Piercer/Cadence Ruin in sequence. No new named characters.
-First entry in the Blue-Collar Titan's third three-Chronicle wave.*
+First entry in the Blue-Collar Titan's third three-Chronicle wave. Corrected Batch 321, 2026-10-02:
+citation fixed -- this entry, not MCD-374, is the actual origin of the alias's non-visual sensory
+principle.*

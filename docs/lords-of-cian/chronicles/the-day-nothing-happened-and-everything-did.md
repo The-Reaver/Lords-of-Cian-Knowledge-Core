@@ -1,16 +1,17 @@
 # The Day Nothing Happened and Everything Did
 
 *Locked canon, Batch 153, 2026-09-11 (`MCD-483`). The Industrial Myth Alias Chronicle XI.
-Rebellion era, age 19, the Furnace District Strike. Not a territory Chronicle. New standalone
+Rebellion era, age 21, the Furnace District Strike. Not a territory Chronicle. New standalone
 material — a detailed showcase of sustained tension and moral craft in place of combat, per the
 spirit of Abad's craft instruction adapted to this alias's unarmed register. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---
 
-The district administrator mustered every guard at his disposal on the strike's final morning,
-visible ranks forming at the tally table's approach roads in a display meant to end the four days of
-patient documentation through sheer intimidated collapse before the last count was even finished.
+The district administrator mustered every guard at his disposal on one of the mornings during the
+strike's long stand at the gate, visible ranks forming at the tally table's approach roads in a
+display meant to break the strike's resolve through sheer intimidated collapse before the last count
+was even finished.
 
 Kanja didn't stop the count.
 

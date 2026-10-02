@@ -41,7 +41,8 @@ instead of merely measure it.
 
 *Continuity notes (not narrative): a quiet mentorship closer distinct from the wave's flood-combat and
 inter-crew-mediation entries, extending the already-locked non-visual/tactile sensory principle
-("The Six-Week Silence," MCD-374; "The Flood That Came From Below," MCD-440) with a human,
+("The Flood That Came From Below," MCD-440) with a human,
 non-equipment source of the same knowledge. No new named characters. Closes the Blue-Collar Titan's
 third three-Chronicle wave (with "The Flood That Came From Below," MCD-440, and "The Two Gangs Under
-Killane," MCD-441).*
+Killane," MCD-441). Corrected Batch 321, 2026-10-02: citation fixed from MCD-374 to MCD-440 as the
+origin of the alias's non-visual sensory principle.*

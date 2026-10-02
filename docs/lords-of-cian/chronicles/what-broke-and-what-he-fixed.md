@@ -3,7 +3,9 @@
 *Locked canon, Batch 120, 2026-09-11 (`MCD-408`). Blue-Collar Titan Alias Chronicle V. Rebellion
 era, a field-repair showcase distinct from any prior Trinity combat sequence. Not a territory
 Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
-characters.*
+characters. Corrected Batch 321, 2026-10-02: a stray reference to the Rolling Foundry Campaign (a
+different alias's later era, age 27) removed from a line that belongs entirely inside this alias's
+own Killane-era window.*
 
 ---
 
@@ -17,7 +19,7 @@ using it cracked like that, next full discharge is as likely to shatter the hous
 
 "Then I'm not doing a full discharge until it's fixed." Kanja was already examining the fracture
 himself, turning the war club in the firelight, reading the crack's depth and direction the way he'd
-once read a bent hinge for a fourteen-year-old apprentice. "But I'm not waiting on a forge three
+once read a bent hinge at his father's forge. "But I'm not waiting on a forge three
 weeks away either. Get me a portable kiln, the finest Dead Drakma filing stock we've got, and about
 six hours nobody's going to interrupt."
 
