@@ -1,6 +1,7 @@
 # The Debt Paid in Silence
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1224`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1224`); corrected Batch 321, 2026-10-02 (a writers'-room
+"an early wave" phrase reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXVI, wave 29. An anonymous benefactor, once helped by the fleet, repays them without
 acknowledgment. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -19,7 +20,7 @@ actually needed rather than what would look impressive to give, and wanted nothi
 
 Garren Hask found the answer eventually, not through investigation but through an old entry in his own
 ledger — a merchant captain, freed years back from a Trust prison hold the fleet had liberated in
-passing during an early wave, who had since built a modest but genuine fortune in honest trade and
+passing during one of its earliest campaigns, who had since built a modest but genuine fortune in honest trade and
 apparently never stopped keeping track of the fleet that had given him the chance to build it.
 
 Kanja found him at his own dockside warehouse, older, greyer, and visibly uncomfortable at being
@@ -40,8 +41,9 @@ debt recorded as paid in full though neither side had ever called it a debt to b
 ---
 
 *Continuity notes (not narrative): a legacy/reciprocity register — an anonymous benefactor, revealed
-to be a figure the fleet helped in an earlier, unspecified wave, repays them without acknowledgment or
+to be a figure the fleet helped in an earlier, unspecified campaign, repays them without acknowledgment or
 announcement, distinct from every prior gratitude/reunion entry, which were all direct and public.
 Reuses Danne Sok, Efa Gol, Garren Hask. The benefactor is deliberately left unnamed even after being
 found, at his own request, consistent with the ledger's own established practice of withholding names
-on request. No new named characters.*
+on request. No new named characters. Corrected Batch 321, 2026-10-02 to reword "an early wave" to
+in-world language.*

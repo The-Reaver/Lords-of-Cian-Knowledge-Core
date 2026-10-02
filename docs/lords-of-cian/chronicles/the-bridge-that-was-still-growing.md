@@ -15,13 +15,13 @@ Every structure he'd ever read had a tension that stayed where he found it until
 
 "Does that change what you do?"
 
-"It changes everything about what I do." A resonance discharge built for dead material assumed the thing being struck had no way to answer back except by breaking. A living root under stress didn't just fail — it could recoil, shift its own growth toward the injury, protect itself in ways no rope or timber ever had. Reading it as though it were already dead risked killing outright a structure three generations of a settlement had spent that long growing on purpose.
+"It changes everything about what I do." A resonance strike built for dead material assumed the thing being struck had no way to answer back except by breaking. A living root under stress didn't just fail — it could recoil, shift its own growth toward the injury, protect itself in ways no rope or timber ever had. Reading it as though it were already dead risked killing outright a structure three generations of a settlement had spent that long growing on purpose.
 
 The garrison's advance column reached the gorge's far side before Kanja had finished re-reading it his new way — slower, patient, distinguishing the bridge's own living tension from the six load-bearing anchor roots an enemy sapper crew was already working to sever by hand rather than force him to strike anything at all. He let them work two of the six loose before the Rexmar Machete closed the distance in four seconds flat, and the Ironhand Gauntlets' leverage went not into the bridge but into the sappers' own cutting tools, shearing every blade to the haft in one pulse.
 
 The bridge kept its two half-severed roots. The settlement's own arborists said, months later, that the wound had already begun closing over by the time the growing season turned.
 
-"You could have brought it down faster," the second student said, once the garrison had withdrawn rather than lose the crossing to prove a point. "Discharged the whole span and let them find another way across."
+"You could have brought it down faster," the second student said, once the garrison had withdrawn rather than lose the crossing to prove a point. "Struck the whole span and let them find another way across."
 
 "I could have. It would have worked exactly like the doctrine always has, against something that was never built — it grew, the way I grew, the way you did. I wasn't going to be the first thing that ever cut it down just because cutting it down was the fast answer." Kanja set his palm against the root one more time, feeling the slow breathing rhythm settle back toward its ordinary rate. "Some things you listen to because you need to know if they'll hold. Some things you listen to because you owe them the difference."
 

@@ -1,6 +1,8 @@
 # What Dol Maren Passed Down
 
-*Locked canon, Batch 234, 2026-09-11 (`MCD-1039`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 234, 2026-09-11 (`MCD-1039`); corrected Batch 321, 2026-10-02 (a writers'-room
+parenthetical naming "this alias's own history" directly in narrative prose reworded to in-world
+language). Sovereign Ghost of the Great Sea Alias Chronicle
 LIX, wave 20. Dol Maren's first succession/mentorship entry for this alias. Not a territory
 Chronicle. Narrated in neutral third-person prose.*
 
@@ -16,7 +18,7 @@ He wasn't put ashore. Dol Maren looked at the correction, looked at the boy, and
 again," and the boy did, three more times on three more sections of hull, each time right.
 
 What followed wasn't a single lesson but a season of them — the flexible-hull principle that had
-outlasted a hurricane years before (already established, this alias's own history), broken down past
+outlasted a hurricane years before, broken down past
 the finished technique into the raw feel of it: where wood wanted to give before it wanted to break,
 how a hull under sustained stress spoke differently than one under a single hard impact, why a repair
 rushed to look finished always failed sooner than one left visibly unfinished but sound. Dol Maren
@@ -53,4 +55,6 @@ outlasting any one person ("What the Sea Kept Between Them," `MCD-959`) into a c
 passing that knowledge on rather than only stating its importance. The apprentice is deliberately
 left unnamed, consistent with this alias's established convention for one-scene or single-arc minor
 figures (the lantern watchman, the fishing family's daughter, the historian). No new named
-characters. Second entry in the twentieth wave.*
+characters. Second entry in the twentieth wave. Corrected Batch 321, 2026-10-02 to remove a
+writers'-room parenthetical naming "this alias's own history" directly in narrative prose (the
+cross-reference to `MCD-411` here in the continuity notes already covers it).*

@@ -1,6 +1,7 @@
 # The Passenger Nobody Could Know They Carried
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-796`). Sovereign Ghost of the Great Sea Alias Chronicle XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-796`); corrected Batch 321, 2026-10-02 (a writers'-room
+"combat showcases" phrase in narrative prose reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -16,7 +17,7 @@ this up assumed she'd try to run it fast and loud."
 "Then we don't run it fast and loud." Kanja was already planning the alternative. "We run it slow and
 invisible."
 
-The extraction that followed used none of the fleet's usual combat showcases — no anchor-chain weapon,
+The extraction that followed used none of the fleet's usual tactics — no anchor-chain weapon,
 no boarding action, no open engagement of any kind. *The Audit* approached the blockade under the same
 darkened-hull, silent-running configuration that had once let her vanish from a Trust patrol's own
 sight, threading the gap between two overlapping patrol arcs at a speed slow enough that neither
@@ -49,4 +50,5 @@ own legitimacy than any single naval engagement the fleet had fought that year.
 *Continuity notes (not narrative): a pure stealth-extraction showcase with zero combat — smuggling a
 Trust political dissident past a Directorate blockade using the alias's established darkened-hull,
 silent-running capability, deliberately choosing concealment over confrontation even when confrontation
-was winnable. No new named characters. Second entry in the fourteenth wave.*
+was winnable. No new named characters. Second entry in the fourteenth wave. Corrected Batch 321,
+2026-10-02 to reword "combat showcases" to in-world language in narrative prose.*

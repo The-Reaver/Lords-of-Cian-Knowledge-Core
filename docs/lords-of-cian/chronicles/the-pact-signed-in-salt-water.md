@@ -1,13 +1,15 @@
 # The Pact Signed in Salt Water
 
-*Locked canon, Batch 234, 2026-09-11 (`MCD-1040`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 234, 2026-09-11 (`MCD-1040`); corrected Batch 321, 2026-10-02 (a writers'-room
+parenthetical naming "this alias's fourth wave" directly in narrative prose reworded to in-world
+language). Sovereign Ghost of the Great Sea Alias Chronicle
 LX, wave 20, closing the wave. A sustained diplomatic alliance entry, deepening the foreign-nation
 thread first opened in wave 4. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
-The letter that had once offered safe harbor in good faith (already established, this alias's fourth
-wave) turned out not to be the end of that contact but its opening move. Three years on, the same
+The letter that had once offered safe harbor in good faith turned out not to be the end of that
+contact but its opening move. Three years on, the same
 foreign nation's envoy returned — older, less formal, carrying not another letter but a standing
 proposal: a genuine reciprocal arrangement, not a one-time offer of refuge but ongoing joint patrols
 against the slaving routes that ran through waters neither power alone could fully cover.
@@ -52,4 +54,6 @@ wave 8). Extends Garren Hask's already-locked true-record ledger role (`MCD-445`
 institutional, cross-power accountability mechanism for the first time. The envoy is deliberately
 left unnamed, consistent with this alias's established convention. No new named characters. Closes
 the twentieth wave (with "The Ship They Meant to Sink," `MCD-1038`, and "What Dol Maren Passed
-Down," `MCD-1039`).*
+Down," `MCD-1039`). Corrected Batch 321, 2026-10-02 to remove a writers'-room parenthetical naming
+"this alias's fourth wave" directly in narrative prose (the cross-reference to `MCD-490` here in the
+continuity notes already covers it).*

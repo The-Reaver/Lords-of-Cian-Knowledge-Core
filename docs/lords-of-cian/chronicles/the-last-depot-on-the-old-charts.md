@@ -16,8 +16,9 @@ at the time, and never quite circled back to since.
 It was still fortified. Sixty years hadn't softened the walls any, and the garrison inside had used
 the decades of being overlooked to entrench rather than relax. What had changed was everything
 around it — sixty years of the reputation growing, of doctrine refined across hundreds of prior
-liberations, of gear matured through three full generations since the last time anyone on the crew
-had stood at this particular coastline weighing whether the fight was worth it.
+liberations, of the same gear worn in and hard-tested through sixty more years of use since the last
+time anyone on the crew had stood at this particular coastline weighing whether the fight was worth
+it.
 
 It fell in under two hours, the walls that had once looked prohibitive proving no match for what the
 crew had become in the sixty years since they'd first turned away from it. Eighty-nine freed, the

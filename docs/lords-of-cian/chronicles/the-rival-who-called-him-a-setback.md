@@ -1,7 +1,7 @@
 # The Rival Who Called Him a Setback
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1233`). The Scourge Alias Chronicle LXVIII, wave 23. Age
-190, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+190, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -40,6 +40,8 @@ genuine strategic disagreement between two liberation methods (direct action ver
 reform) left honestly unresolved rather than one side proven right. Extends the jurisdictional
 self-restraint already established in "The Contract He Wouldn't Sign" (`MCD-1017`) and "The
 Three-Cornered Fight" (`MCD-1041`) into a voluntary operational narrowing, not imposed by any
-authority. The three advocates are unnamed and one-scene. No new named characters. Age 190, V3 gear
-(`ARS-348`, ages 80-241). Onyx of Oblivion correctly absent per its L9 seal throughout the Long
-Mask.*
+authority. The three advocates are unnamed and one-scene. No new named characters. Age 190, V4 gear
+(`ARS-348` locks V4 at ages 180-284, which age 190 falls within). Onyx of Oblivion correctly absent
+per its L9 seal throughout the Long
+Mask. Corrected Batch 321, 2026-10-02: relabeled gear generation V3 -> V4 to match `ARS-348`'s own
+locked ranges.*

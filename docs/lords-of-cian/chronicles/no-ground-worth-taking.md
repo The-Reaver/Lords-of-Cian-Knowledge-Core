@@ -1,6 +1,10 @@
 # No Ground Worth Taking
 
-*Locked canon, Batch 113, 2026-09-10 (`MCD-386`). Iron Bastard Alias Chronicle I. Rebellion era, a
+*Locked canon, Batch 113, 2026-09-10 (`MCD-386`); clarified Batch 321, 2026-10-02 (this general is
+a separate, one-scene figure, distinct from the recurring Directorate general of `MCD-454`/`723`/
+`730`/`734`/`1082`/`1301`/`1303`, who loses four different engagements -- the original Stand, the
+four-alloy Crawler variant, a bridge, and a berm -- and voluntarily resigns rather than being
+disgraced by a single report as this one is). Iron Bastard Alias Chronicle I. Rebellion era, a
 new solo stand distinct from the original Iron Bastard's Stand (`MCD-238`, age 25). Not a territory
 Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
@@ -50,5 +54,7 @@ advantage bare. It did. It just turned out the advantage was never the terrain t
 (`MCD-238`), deliberately set on open ground with no cover, established explicitly to prove the
 alias's core doctrine holds independent of terrain, since the original engagement's own open ground
 already established that (MCD-238's own text: "open ground with no exploitable terrain"). No new
-named characters; the general is unnamed and one-scene. First entry in the Iron Bastard's
-three-Chronicle wave.*
+named characters; the general here is unnamed and one-scene -- a distinct figure from the recurring
+Directorate general of `MCD-454` and its own legacy arc (`MCD-723`/`730`/`734`/`1082`/`1301`/
+`1303`), not the same man across both threads. First entry in the Iron Bastard's three-Chronicle
+wave.*

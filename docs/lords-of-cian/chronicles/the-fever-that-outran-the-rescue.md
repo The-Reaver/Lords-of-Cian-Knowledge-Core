@@ -1,7 +1,7 @@
 # The Fever That Outran the Rescue
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1248`). The Scourge Alias Chronicle LXXXIII, wave 28. Age
-205, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+205, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -38,5 +38,7 @@ threat at all and the failure is purely a limit of timing against disease, with 
 (`ARS-355`) explicitly and correctly unable to help, consistent with its established scope
 ("manages bleeding and structural damage only -- not pain, organ repair, or concussive injury," which
 this entry extends to exclude illness as well, a logical reading rather than a contradiction). No new
-named characters. Age 205, V3 gear (`ARS-348`, ages 80-241). Onyx of Oblivion correctly absent per
-its L9 seal throughout the Long Mask.*
+named characters. Age 205, V4 gear (`ARS-348` locks V4 at ages 180-284, which age 205 falls within).
+Onyx of Oblivion correctly absent per
+its L9 seal throughout the Long Mask. Corrected Batch 321, 2026-10-02: relabeled gear generation
+V3 -> V4 to match `ARS-348`'s own locked ranges.*

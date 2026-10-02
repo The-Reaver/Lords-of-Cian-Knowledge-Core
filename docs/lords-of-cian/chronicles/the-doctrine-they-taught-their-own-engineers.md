@@ -1,13 +1,18 @@
 # The Doctrine They Taught Their Own Engineers
 
-*Locked canon, Batch 197, 2026-09-11 (`MCD-723`). The Iron Bastard Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-723`); corrected Batch 321, 2026-10-02 (the opening
+reference corrected from "no ground worth taking" -- which belongs to the separate, one-scene
+general of `MCD-386` -- to this general's own career-ending report, `MCD-454`, so the legacy arc
+spanning `MCD-723`/`730`/`734`/`1082`/`1301`/`1303` consistently follows a single recurring
+figure). The Iron Bastard Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth
+run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
-The general who had once filed a career-ending report admitting there had been no ground worth taking
-found himself, a year later, invited to lecture at a Trust military academy — not as a disgraced
-officer, as his superiors had once framed him, but as the closest thing the Directorate had to an
-expert on a doctrine none of them had ever managed to counter.
+The general who had once filed the resignation report conceding the doctrine's adaptability across
+four straight engagements found himself, a year later, invited to lecture at a Trust military
+academy — not as a disgraced officer, as his superiors had once framed him, but as the closest thing
+the Directorate had to an expert on a doctrine none of them had ever managed to counter.
 
 He hadn't expected the reversal. He hadn't asked for it either.
 

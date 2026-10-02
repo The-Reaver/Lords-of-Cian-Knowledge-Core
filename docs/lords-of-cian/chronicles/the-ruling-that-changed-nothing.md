@@ -1,7 +1,7 @@
 # The Ruling That Changed Nothing
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1250`). The Scourge Alias Chronicle LXXXV, wave 29, first
-entry. Age 200, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 200, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -39,6 +39,8 @@ build a box that fit a man they'd never once managed to actually catch.
 Tried to Name Him" (`MCD-1229`, age 98), over a century later -- the eventual ruling changes
 nothing operationally, a wry institutional-friction closer consistent with that entry's own point
 about ambiguity as protection. Extends Garren Hask's ledger-keeper role with a legal-tracking
-dimension. No new named characters. Age 200, V3 gear (`ARS-348`, ages 80-241). Onyx of Oblivion
+dimension. No new named characters. Age 200, V4 gear (`ARS-348` locks V4 at ages 180-284, which age
+200 falls within). Onyx of Oblivion
 correctly absent per its L9 seal throughout the Long Mask. First entry in the Scourge's twenty-ninth
-wave.*
+wave. Corrected Batch 321, 2026-10-02: relabeled gear generation V3 -> V4 to match `ARS-348`'s own
+locked ranges.*

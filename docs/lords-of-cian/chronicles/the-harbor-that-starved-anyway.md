@@ -1,6 +1,8 @@
 # The Harbor That Starved Anyway
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1208`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1208`); corrected Batch 321, 2026-10-02 ("a decade" trimmed
+to "years" to fit this alias's nine-year Rebellion-era window; Kanja's dialogue quoting the
+writers'-room term "a Trinity showcase" reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle
 LXX, wave 24, first entry in the wave. Sustained drought/famine relief through trade logistics, zero
 combat. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -12,10 +14,10 @@ was already three weeks into rationing that wasn't going to stretch through the 
 left. No siege, no blockade, no enemy fleet to disable — just bad rain for two years and a granary
 that had run dry a month before the next crop could possibly come in.
 
-There was no combat in what followed, and Kanja said as much to a crew that had spent a decade
+There was no combat in what followed, and Kanja said as much to a crew that had spent years
 learning to read enemies and threats before anything else. "Nobody's attacking this town. The
 drought doesn't care about the doctrine. What it needs from us is grain, and grain doesn't come from
-a Trinity showcase."
+Mafesto or a blade."
 
 The fleet spent six weeks running trade routes rather than patrol routes — Dol Maren negotiating hull
 space with merchant captains who'd never dealt with the ghost fleet on these terms before, Danne Sok
@@ -43,4 +45,7 @@ through trade logistics alone, distinct from the earlier ice-locked winter ratio
 fleet's own crisis, `MCD-953`) and from single-convoy blockade-running ("The Line They Ran Through
 Fire," `MCD-956`) — this is sustained civilian humanitarian infrastructure work with zero combat or
 threat of it anywhere in the entry. Reuses Dol Maren, Danne Sok, Efa Gol, Pell Ostra, Garren Hask.
-The harbor town is deliberately unnamed. No new named characters. First entry in wave 24.*
+The harbor town is deliberately unnamed. No new named characters. First entry in wave 24. Corrected
+Batch 321, 2026-10-02: "a decade" trimmed to "years" (this alias's Rebellion-era window spans only
+nine years, ages 21-30), and a "Trinity showcase" writers'-room phrase in Kanja's own dialogue
+reworded to in-world language.*

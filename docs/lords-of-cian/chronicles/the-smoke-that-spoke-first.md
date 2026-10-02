@@ -1,7 +1,7 @@
 # The Smoke That Spoke First
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1237`). The Scourge Alias Chronicle LXXII, wave 24,
-closing the wave. Age 225, V3 gear. Not a territory Chronicle. Narrated in neutral third-person
+closing the wave. Age 225, V4 gear. Not a territory Chronicle. Narrated in neutral third-person
 prose.*
 
 ---
@@ -38,6 +38,8 @@ System's Signal mode (`ARS-354`, "one capsule through a directional nozzle, visi
 for crew communication") being used by a non-crew party, showing the signal has organically spread
 into allied folklore beyond the crew's own operational use — a world-texture register distinct from
 every prior combat or diplomatic entry. The watch-captain is unnamed and one-scene. No new named
-characters. Age 225, V3 gear (`ARS-348`, ages 80-241). Onyx of Oblivion correctly absent per its L9
+characters. Age 225, V4 gear (`ARS-348` locks V4 at ages 180-284, which age 225 falls within). Onyx
+of Oblivion correctly absent per its L9
 seal throughout the Long Mask. Closes the Scourge's twenty-fourth wave (with "The Half-Second the
-Blade Bought," `MCD-1235`, and "What the Collar Filtered Out," `MCD-1236`).*
+Blade Bought," `MCD-1235`, and "What the Collar Filtered Out," `MCD-1236`). Corrected Batch 321,
+2026-10-02: relabeled gear generation V3 -> V4 to match `ARS-348`'s own locked ranges.*

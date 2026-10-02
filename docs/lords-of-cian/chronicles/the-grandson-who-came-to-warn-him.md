@@ -1,7 +1,7 @@
 # The Grandson Who Came to Warn Him
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1474`). The Scourge Alias Chronicle XCIX, wave 33, closing
-the wave. Age 230, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+the wave. Age 230, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -40,9 +40,12 @@ choosing loyalty to the crew unprompted -- distinct in register from every prior
 later. Also extends the established informal-alliance pattern (`MCD-382`) into a proactive warning
 rather than passive protection. Reuses Efa Gol's (`CC-130`/`131`) established contact network and
 Garren Hask (`CC-115`/`116`) in an established role. Age 230 places this within Forge-Coat/Sovereign
-Eyes V3 (`ARS-347`/`348`, ages 80-241) and Ironhand Gauntlets V3 (`ARS-352`, ages 180-260); no combat
+Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-284) and Ironhand Gauntlets V3 (`ARS-352`, ages
+180-260); no combat
 occurs in this entry, the threat being avoided rather than fought. Onyx of Oblivion correctly absent
 per its L9 seal throughout the Long Mask. No new named characters (the grandson is deliberately
 unnamed). Does not touch, restage, or contradict the already-locked final night of the persona
 (`MCD-1022`). Closes the Scourge's thirty-third wave (with "What Pell Ostra Set Down," `MCD-1472`,
-and "The Crossing With No Water," `MCD-1473`).*
+and "The Crossing With No Water," `MCD-1473`). Corrected Batch 321, 2026-10-02: relabeled
+Forge-Coat/Sovereign Eyes gear generation V3 -> V4 to match `ARS-348`'s own locked ranges (Ironhand
+Gauntlets correctly stays V3 per `ARS-352`'s own separate, later V3/V4 boundary at age 260).*

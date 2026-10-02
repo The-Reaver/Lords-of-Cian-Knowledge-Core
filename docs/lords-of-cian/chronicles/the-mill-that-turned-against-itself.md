@@ -18,7 +18,7 @@ He reached first not for a strike but for the discipline the second student had 
 
 The device revealed itself on the eleventh full rotation — a tensioned charge lashed directly into the main shaft's own housing, built to let three full turns build sympathetic strain into a support beam over the milling floor and bring the whole structure down onto a harvest crowd that would, within the hour, be standing directly beneath it.
 
-Doubled verification confirmed it twice before Kanja committed to the strike — once for the tension itself, once for the standing-alone check the wall at Sennow Crossing had taught him never to skip again — and the Ironhand Gauntlets went into the device alone, a strike placed with enough precision to sever the rigged charge from the shaft without breaking a single legitimate gear-tooth around it. The mill's three wheels kept turning through the discharge and past it, grinding grain for a festival crowd that never learned how close the floor beneath them had come to opening.
+Doubled verification confirmed it twice before Kanja committed to the strike — once for the tension itself, once for the standing-alone check the wall at Sennow Crossing had taught him never to skip again — and the Ironhand Gauntlets went into the device alone, a strike placed with enough precision to sever the rigged charge from the shaft without breaking a single legitimate gear-tooth around it. The mill's three wheels kept turning through the strike and past it, grinding grain for a festival crowd that never learned how close the floor beneath them had come to opening.
 
 "You could have stopped the mill," the miller said afterward, hands still unsteady around a cup he hadn't drunk from. "Nobody would have blamed you for it."
 

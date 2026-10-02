@@ -13,7 +13,7 @@ one sat fully submerged — a full arm's length of moving current between Kanja 
 
 He knelt at the bank first rather than wading in.
 
-"Every gate I've ever read, I've read through air," he said, half to himself, half to Mafesto's
+"Every gate I've ever read, I've read through air," he said, half to himself, half to his own
 listening awareness. "Water doesn't carry the harmonic the same way. It doesn't lose it, either. It
 just changes what it sounds like on the way through."
 

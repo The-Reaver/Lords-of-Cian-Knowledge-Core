@@ -19,9 +19,10 @@ toward its fortieth minute against an opponent this precisely prepared was the k
 made a two-hundred-year-old choice feel, for exactly as long as the thought lasted, negotiable.
 
 He didn't reach for it. What he reached for instead was plainer and slower: the Rexmar Machete,
-carried the whole fight as backup rather than primary, and twenty years of the same accumulated
-gauntlet-and-footwork technique that had freed two hundred and eleven captives off a slaver galleon
-decades before any of this gear existed to help him do it. The bodyguard's whole training had
+carried the whole fight as backup rather than primary, and a century and a half of the same
+accumulated gauntlet-and-footwork technique that had already freed two hundred and eleven captives
+off a slaver galleon, back when the gear was newer and the hands behind it less practiced than
+they'd since become. The bodyguard's whole training had
 prepared for a legend. What actually beat him was closer to what had always actually been doing the
 work underneath the legend — plain swordsmanship, plain endurance, forty-one minutes instead of
 forty, one exchange longer than the other man's preparation had accounted for.
@@ -37,6 +38,11 @@ exactly where it stayed.
 Answer" (`MCD-810`, where a gear failure forced a fallback) -- here nothing fails; the temptation is
 purely internal, the extended duel itself creating pressure toward unsealing Onyx of Oblivion, and
 the seal holds through choice rather than necessity, reaffirming the L9 seal's established discipline
-across the Long Mask. No new named characters -- the bodyguard and captain are unnamed. Age 215, V3
-gear (`ARS-348`, ages 80-241). Onyx of Oblivion correctly remains sealed throughout, as it must for
-the entirety of the Long Mask. First entry in the Scourge's twenty-seventh wave.*
+across the Long Mask. No new named characters -- the bodyguard and captain are unnamed. Age 215, V4
+gear (`ARS-348` locks V4 at ages 180-284, which age 215 falls within). Onyx of Oblivion correctly
+remains sealed throughout, as it must for
+the entirety of the Long Mask. First entry in the Scourge's twenty-seventh wave. Corrected Batch
+321, 2026-10-02: removed a false claim that the galleon fight (`MCD-381`, ages 48-52) predated "any
+of this gear" -- the gear existed then too, just a newer and less-refined version -- and corrected
+"twenty years" of accumulated technique to "a century and a half," matching the actual gap between
+ages 52 and 215; relabeled gear generation V3 -> V4 to match `ARS-348`'s own locked ranges.*

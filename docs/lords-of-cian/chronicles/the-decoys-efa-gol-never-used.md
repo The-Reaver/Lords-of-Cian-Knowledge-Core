@@ -1,6 +1,8 @@
 # The Decoys Efa Gol Never Used
 
-*Locked canon, Batch 199, 2026-09-11 (`MCD-791`). Sovereign Ghost of the Great Sea Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 199, 2026-09-11 (`MCD-791`); corrected Batch 321, 2026-10-02 (Kanja's dialogue
+quoted another Chronicle's own title, "Ten Ships That Were One," as if it were in-world phrasing --
+reworded to describe the operation plainly instead). Sovereign Ghost of the Great Sea Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -22,7 +24,7 @@ Trust the ghost fleet had finally been destroyed, buying months of unguarded mov
 came out. "Tempting. Would have worked. Also would have crushed every settlement that's built hope on
 us still being out here. Not worth what it would cost people who've never even met us."
 
-"Ten Ships That Were One worked," Kanja said, remembering the decoy squadron that had protected a
+"Rigging one hull to read as ten worked," Kanja said, remembering the decoy squadron that had protected a
 merchant convoy months before. "What made that one different?"
 
 "That one only cost effort. These—" she tapped the discarded pages "—cost trust, or lives, or hope
@@ -42,4 +44,6 @@ using the wrong trick at the wrong cost."
 *Continuity notes (not narrative): a supporting-cast closer for Efa Gol (already-locked, `MCD-233`/
 `CC-130`), revealing the discipline and restraint underlying her decoy craft — most of her plans
 deliberately never used, a new dimension of the restraint-over-fear theme applied to her own tactical
-judgment. No new named characters. Closes the twelfth wave.*
+judgment. No new named characters. Closes the twelfth wave. Corrected Batch 321, 2026-10-02 to remove
+Kanja's dialogue quoting another Chronicle's own title, "Ten Ships That Were One" (`MCD-773`), as if
+it were in-world phrasing.*

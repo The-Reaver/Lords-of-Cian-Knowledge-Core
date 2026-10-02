@@ -1,6 +1,7 @@
 # The Fleet That Wasn't Ready
 
-*Locked canon, Batch 258, 2026-09-11 (`MCD-1223`). Sovereign Ghost of the Great Sea Alias Chronicle
+*Locked canon, Batch 258, 2026-09-11 (`MCD-1223`); corrected Batch 321, 2026-10-02 (a writers'-room
+"no clean Trinity showcase available" phrase reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXV, wave 29, first entry in the wave. A genuine vulnerability register — the fleet caught mid-refit
 and under-strength. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
@@ -11,7 +12,7 @@ for replacement, a third of her crew ashore on rotation, and Dol Maren's careful
 utterly unprepared for the six Trust raiders that closed on the anchorage at first light, well outside
 the pattern any prior enemy had ever attacked on.
 
-There was no clean Trinity showcase available for what followed, and Kanja knew it within the first
+There was no clean fight available for what followed, and Kanja knew it within the first
 thirty seconds — *The Audit* and *The Receipt* were two days out on separate patrol routes, too far to
 reach the anchorage before the raiders closed, and *The Ledger* herself couldn't maneuver properly
 with her own deck torn open for repair.
@@ -45,4 +46,5 @@ bare for the first time in years, recorded plainly alongside everything else.
 genuinely under-strength (mid-refit, crew dispersed, flagships too far to reinforce) rather than at
 full operational readiness, a detailed but imperfect combat showcase distinct from every prior
 full-strength engagement. Reuses Dol Maren, Pell Ostra, Garren Hask. The raiders are deliberately
-unnamed. No new named characters. First entry in wave 29.*
+unnamed. No new named characters. First entry in wave 29. Corrected Batch 321, 2026-10-02 to reword
+"no clean Trinity showcase available" to in-world language.*

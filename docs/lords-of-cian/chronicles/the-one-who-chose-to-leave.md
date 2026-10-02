@@ -1,7 +1,7 @@
 # The One Who Chose to Leave
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1475`). The Scourge Alias Chronicle C, wave 34, first
-entry. Age 198, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 198, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
@@ -44,7 +44,11 @@ named character (Rowan Vail, collision-checked clean against the full ledger bef
 reassigned rather than removed from continuity, following this sub-series' established practice of
 occasional justified new names within a single alias's own cast (`MCD-1043`'s Sena). Reuses Efa Gol
 (`CC-130`/`131`) and Garren Hask (`CC-115`/`116`) in established roles. Age
-198 places this within Forge-Coat V3 (`ARS-347`/`348`, ages 80-241), Ironhand Gauntlets V3 (`ARS-352`,
+198 places this within Forge-Coat V4 (`ARS-347`/`348` locks V4 at ages 180-284), Ironhand Gauntlets
+V3 (`ARS-352`,
 ages 180-260), and Mend-Line still V2 (`ARS-355`, ages 100-200, just short of the V3 threshold at 200).
 No combat in this entry. Onyx of Oblivion correctly absent per its L9 seal throughout the Long Mask.
-Does not touch, restage, or contradict the already-locked final night of the persona (`MCD-1022`).*
+Does not touch, restage, or contradict the already-locked final night of the persona (`MCD-1022`).
+Corrected Batch 321, 2026-10-02: relabeled Forge-Coat gear generation V3 -> V4 to match `ARS-348`'s
+own locked ranges (Ironhand Gauntlets and the Mend-Line correctly keep their own separately-locked
+version boundaries).*

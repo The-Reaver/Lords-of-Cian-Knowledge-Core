@@ -17,7 +17,7 @@ He found the man exactly where the report said he'd be, standing over the granar
 
 "I taught that student the difference between a fight he'd chosen for good reason and his own anger wearing the doctrine's clothes. You've just told me you understood that lesson completely and rejected it anyway."
 
-"I understood it. I rejected it. Those aren't the same as forgetting it." He didn't reach for the granary's foundation again, didn't discharge anything — the confrontation itself seemed to have settled the immediate threat without a second act needed. "What happens now?"
+"I understood it. I rejected it. Those aren't the same as forgetting it." He didn't reach for the granary's foundation again, didn't strike anything — the confrontation itself seemed to have settled the immediate threat without a second act needed. "What happens now?"
 
 Kanja didn't answer immediately. The Ironhand Gauntlets stayed still at his side; the Forge-Coat and Ironfall Boots' grounding held ready without engaging; the Rexmar Machete remained sheathed. This wasn't a structure to be read and this wasn't an enemy to be broken — it was a former student standing in the wreckage of a lesson that had genuinely taken, just not in the direction anyone had intended.
 
