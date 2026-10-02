@@ -14,7 +14,13 @@ Cipher Cane (`ARS-404`) used on the page for the first time, and closes on the b
 deliberately bureaucratic-judo defeat `MCD-1864` already locks: Modrin's own superiors prosecute him
 not for extortion, which the Trust has no institutional interest in, but for defrauding the Trust's
 own equipment-maintenance budget. No combat, no Kanja, strictly pre-Book-1. No new named characters
-beyond the already-locked Callas Modrin.*
+beyond the already-locked Callas Modrin. Corrected Batch 332, 2026-10-02: a settlement-count
+contradiction (the prose's own setup of three settlements/nine levies vs. later references to
+"eleven settlements"/"eleven files"/"cheated for eleven years") reconciled to three throughout; a
+dangling numeric age claim ("seventy-five years of work," colliding with his age's own unresolved
+cross-track discrepancy, see `CC-028`'s open flag) reworded to non-numeric phrasing pending Abad's
+ruling on his true age; two cosmetic fixes (a run-on clause, a sealed-data-plate/local-copy
+clarification).*
 
 ---
 
@@ -62,11 +68,11 @@ She volunteered everything. The date. The reading. The sum. The inspector's name
 prompting, the way a debt is given when someone has finally asked the right question of a person
 who has been waiting years for anyone to ask it at all.
 
-That evening, in a rented room with the shutters latched, Ezio took the cane he carries everywhere
-and is, I suspect, the least remarked-upon object in the whole of Kanja's crew -- a plain length of
+That evening, in a rented room with the shutters latched, Ezio took the cane he carries everywhere,
+which is, I suspect, the least remarked-upon object in the whole of Kanja's crew -- a plain length of
 turned wood that reads, to anyone who has ever looked at it, as the affectation of a theorist who
 has read too many books and walked too few miles. He pressed it, hollow end first, against the
-sealed Directorate data-plate the reeve's own district office kept on file, and held it there
+sealed Directorate data-plate, a copy the reeve's own district office kept on file, and held it there
 without moving for the better part of a minute, his eyes closed, his fingers resting along its
 length the way a physician's rest along a wrist.
 
@@ -93,7 +99,7 @@ Modrin received him in a district requisitions office three settlements further 
 behind a smaller desk, precisely as unremarkable as every report had promised -- the sort of face
 that asks to be trusted by virtue of asking nothing else of a room at all. He did not recognize
 Ezio as a threat. I do not believe he recognized Ezio as anything at all, which I have come to
-understand is very close to the entire secret of how Ezio Valcari has survived seventy-five years of
+understand is very close to the entire secret of how Ezio Valcari has survived a lifetime of
 work that would have gotten a more memorable man killed a dozen times over.
 
 Ezio laid eleven years of paper on the desk between them, in order, and asked a single question:
@@ -109,7 +115,7 @@ appear on a maintenance log built to record the equipment's own last known state
 His second answer was that perhaps the readings had been recorded by a junior technician, in error,
 and the error was not his to account for.
 
-"There is no junior technician's name anywhere on any of these eleven files," Ezio said. "There is
+"There is no junior technician's name anywhere on any of these nine files," Ezio said. "There is
 only yours."
 
 His third answer, and I do not think either of us expected it, was silence -- the particular
@@ -135,11 +141,11 @@ without further review, an equipment-replacement allotment from the district's o
 budget -- an allotment Modrin had been quietly pocketing the difference of for eleven years, coin
 the extortion victims never saw a scrip of.
 
-He was arrested within the month, not for what he had done to eleven settlements, but for what he
+He was arrested within the month, not for what he had done to three settlements, but for what he
 had done to a budget line the Trust actually cared about.
 
 I asked Ezio whether that troubled him -- that the only justice available to a poor woman cheated
-for eleven years was the accident of a bureaucracy discovering it had also, incidentally, been
+three times over was the accident of a bureaucracy discovering it had also, incidentally, been
 cheated.
 
 He considered the question longer than he considers most.

@@ -3588,6 +3588,43 @@ Ledger reached `ledger_version` 33.3, 2,650 rules, 330 batches -- zero duplicate
 the roadmap, work continues into Phase 2 (the Character Chronicle tracks) without pausing; the
 above Atlas worldbuilding decisions stay queued for whenever Abad reviews them directly.
 
+## Phase 2: the Character Chronicle tracks fable-review, in progress, 2026-10-02
+
+Four parallel Fable-model review agents launched, one per Character Chronicle protagonist (Ozmund
+Verehimu, Lauris Letitia, Daba, Ezio Valcari), matching the Phase 1 per-track pattern.
+
+**Batch 332, Ezio Valcari (the smallest-scope review, completed first).** Reviewed his profile doc,
+his one locked Chronicle (`MCD-1876`), and three still-UNLOCKED/PENDING-APPROVAL draft Chronicles
+II-IV (drafted earlier this session, never presented to or approved by Abad -- `ezio-chronicle-ii`
+through `-iv.md`). Amends `ARS-404`'s rule statement to remove a real-world-term leak ("the way a
+doctor reads an X-ray"). Prose-only fixes, no ledger-statement change: `MCD-1876`'s locked Chronicle
+I had a settlement-count contradiction (prose set up three settlements/nine levies but later
+referenced "eleven settlements"/"eleven files"/"cheated for eleven years" -- reconciled to three
+throughout) and a dangling numeric age claim ("seventy-five years of work," reworded to non-numeric
+phrasing pending the age ruling below); the profile doc's three different Industrial Myth
+appearance counts (84/31/35, all measuring genuinely different things) got one clarifying sentence
+rather than a change.
+
+The three pending drafts were corrected for internal consistency (dangling numeric spans reworded,
+an incorrect header claim about Lauris Chronicle I's own content corrected, a `CC-108` overstatement
+softened) but deliberately NOT locked -- they remain exactly what they were, drafts awaiting Abad's
+own review, per the gate's non-negotiable discipline. Two findings need Abad's direct creative
+ruling rather than unilateral resolution, both flagged in the drafts' own headers for whenever he
+reviews them: (1) **Ezio's true age** -- `CC-028`'s "75 years old" is contradicted by `MCD-373`
+(which places him at roughly 16 at the Furnace District Strike, Kanja age 21, implying roughly 309
+at Book 1) and by `MCD-194`/`MCD-1661` (a recruitment arrangement with Lauris that has held "two
+centuries"), a Character-Codex-era stat (Batch 10/27) three later tracks have silently outgrown,
+same class as the Lauris 4,000 -> 6,000 reconciliation (`MCD-1533`); (2) **whether Fermand Aurelias
+is a sixth knower** of Ezio's classified combat capability -- pending Chronicle IV's own dialogue
+reads as telling him, in direct tension with both its own header and Chronicle III's header, which
+both assert he "stays outside the closed five-person list" (`WC-016`/`CC-027`/`CC-111`); the review
+also flagged that locked Lauris Chronicle IX already narrates Fermand as if he partially knows,
+suggesting the project may want one explicit ruling rather than letting this accrete further.
+
+Ledger reached `ledger_version` 33.4, 2,650 rules, 331 batches -- zero duplicate IDs verified.
+Reviews of Ozmund, Lauris, and Daba's much larger corpora remain running; their findings will be
+processed as sub-batches continuing from 333 as each completes.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

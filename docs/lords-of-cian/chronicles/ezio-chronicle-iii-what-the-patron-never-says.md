@@ -9,7 +9,14 @@ untouched and unforeshadowed. Fermand narrates with only partial knowledge -- he
 closed five-person list who know Ezio's classified capability (`WC-016`/`CC-111`), and this entry
 does not grant him privileged knowledge of Nadea's feelings either; he notices a tension he cannot
 fully account for and says so honestly, preserving the "carries deception" throughline even for the
-reader's closest window into Ezio. No new named characters. Strictly pre-Book-1, no combat.*
+reader's closest window into Ezio. No new named characters. Strictly pre-Book-1, no combat. Still
+UNLOCKED/PENDING APPROVAL -- corrected (not locked) Batch 332, 2026-10-02, per a fable-review pass:
+a dangling numeric span ("three decades of keeping this man's account") contradicting the much
+longer association `MCD-194`/`MCD-1661` already lock, reworded to non-numeric phrasing. Flagged for
+Abad's attention rather than resolved here: this entry's own header claim that Fermand "is not on
+the closed five-person list" sits in tension with Chronicle IV's prose (see that file's own flag) --
+the two pending entries need one consistent ruling on Fermand's actual knowledge before either
+locks.*
 
 ---
 
@@ -89,7 +96,7 @@ actually occurred."
 
 "No," he agreed. "It was not."
 
-I let the matter rest there, because I have learned, in three decades of keeping this man's account,
+I let the matter rest there, because I have learned, in all my years of keeping this man's account,
 that there are silences he permits and silences he closes, and that the difference between the two
 is not mine to decide. I record the stillness between them because it is true, and because I
 believe -- though I cannot prove it, and would not pretend to Ezio that I could -- that whatever sits

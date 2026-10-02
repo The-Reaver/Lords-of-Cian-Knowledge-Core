@@ -17,7 +17,11 @@ Ezio is a genuine backfill case in the same sense Daba was: he has never had his
 series, but he is an extensively demonstrated recurring supporting character across 84 Kanja
 Industrial Myth Alias Chronicles (plus one Lord of Embers crossover) and 4 of Lauris Letitia's own
 Character Chronicles. The profile below must synthesize that demonstrated characterization, not
-invent a competing one.
+invent a competing one. (Note on the three different counts used below, added Batch 332,
+2026-10-02, per a fable-review pass: "84" is the total count of Industrial Myth rules mentioning
+him in any capacity; "31" is his genuine on-page Industrial Myth appearances specifically; "35" is
+that 31 plus his 4 Lauris appearances. Use the count that matches what's actually being measured
+in context.)
 
 ### Biography / stats
 - `CC-027` / `WC-016` — publicly known as a theorist/spymaster, but classified as an elite

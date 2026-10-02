@@ -3,12 +3,19 @@
 *UNLOCKED / PENDING APPROVAL. Drafted for Batch 319, 2026-09-30. Second Chronicle in Ezio Valcari's
 own Character Chronicle series, opening wave 2. Narrated by Fermand Aurelias (`CC-034`/`VB-024`).
 Dramatizes `MCD-194`'s recruitment of Lauris Letitia from Ezio's own side for the first time --
-Lauris's own Chronicle I ("The Shape Taught Twice") and later corpus tell her side of the
-aftermath; this tells the two-decade decision that preceded it, putting his defining "selects people
-for years before acting" relationship pattern directly on the page. Consistent throughout with
+Lauris's own corpus references the meeting's terms (`MCD-194`, and recruitment is referenced again
+in her Chronicles XLIV/LXXVII/XCIII/C) but never dramatizes the meeting itself; this tells the
+two-decade decision that preceded it, putting his defining "selects people for years before acting"
+relationship pattern directly on the page. Consistent throughout with
 everything Lauris's 109-Chronicle corpus has already established about the meeting itself. No new
 named characters -- reuses Lauris, Aerelin, and Sephtis (via reference). Strictly pre-Book-1, no
-combat.*
+combat. Still UNLOCKED/PENDING APPROVAL -- corrected (not locked) Batch 332, 2026-10-02, per a
+fable-review pass: this header's claim that Lauris Chronicle I "tells her side of the aftermath" of
+the recruitment is wrong -- no Lauris Chronicle dramatizes the meeting itself, only references its
+terms -- corrected above. Also flagged by the same review for whenever Abad reviews this draft: it
+and Chronicles III-IV are labeled "Drafted for Batch 319," but no Batch 319 exists in
+`batches_completed` (318 -> 320); the actual batch number will be assigned sequentially at lock
+time.*
 
 ---
 

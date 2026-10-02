@@ -7,7 +7,19 @@ protection role (`WC-016`: "Valen protects Ezio's cover") mechanically on the pa
 show the two cousins' bond (`CC-026`/`CC-108`, the shared Sinister Bloodline and War-Side tradition)
 as warmth rather than only inheritance. Deliberately humanizes the core-wound material -- being
 raised into a family trade of violence -- by showing what was also, genuinely, love. No new named
-characters. Strictly pre-Book-1, no combat.*
+characters. Strictly pre-Book-1, no combat. Still UNLOCKED/PENDING APPROVAL -- corrected (not
+locked) Batch 332, 2026-10-02, per a fable-review pass: two dangling numeric spans ("since we were
+boys" paired with "thirty years of the reflex"/"thirty years running," impossible together)
+reworded to non-numeric phrasing; "trained the same way, by the same people" softened to "trained
+toward the same expectation, by the same family" to avoid overstating this header's own `CC-108`
+citation (Valen, specifically, personally trained Ezio -- not an undifferentiated shared trainer).
+Flagged for Abad's attention rather than resolved here: this entry's prose (Ezio to Fermand, "He
+kept what we were trained to be") reads as effectively telling Fermand what Valen's training
+produced and why it's being protected, which sits in real tension with this file's own header claim
+that "Fermand stays outside the closed five-person list throughout" and with Chronicle III's
+matching claim -- needs one consistent ruling (is Fermand a sixth knower, matching the "she does
+know" precedent already set for Lauris at `CC-073`/`WC-016`? or should the dialogue be softened to
+stop short of that?) before either entry locks.*
 
 ---
 
@@ -57,7 +69,7 @@ falling glass before the thought of catching it has fully formed."
 
 "That is a great deal of trust to place in a reflex."
 
-"It is not trust in the reflex," he said. "It is trust in thirty years of the reflex never once
+"It is not trust in the reflex," he said. "It is trust in a lifetime of the reflex never once
 having failed."
 
 *
@@ -69,8 +81,8 @@ instinct.
 
 He was quiet long enough that I thought he might not answer at all.
 
-"We were raised the same way," he said finally. "Trained the same way, by the same people, toward
-the same expectation -- that whatever we were, we would be useful for it, and that the usefulness
+"We were raised the same way," he said finally. "Trained toward the same expectation, by the same family --
+that whatever we were, we would be useful for it, and that the usefulness
 was the whole of the point. I chose, eventually, not to let that be the whole of what I am. Valen
 chose something else. He kept what we were trained to be, and he simply decided, on his own, without
 anyone asking him to, that he would spend a portion of it protecting the choice I made instead of
@@ -94,7 +106,7 @@ I had assumed, without ever quite examining the assumption, that whatever bound 
 protection was duty inherited from the same tradition that trained them both into weapons before
 either had any say in the matter. I no longer believe that. I believe the tradition gave them the
 capability, and nothing more than the capability. What Valen does with it -- the laugh placed at the
-exact half-second a stranger's curiosity drifts too close, thirty years running, never once
+exact half-second a stranger's curiosity drifts too close, all our lives running, never once
 acknowledged, never once failed -- he built entirely on his own, out of nothing the family that
 raised them ever asked of him.
 
