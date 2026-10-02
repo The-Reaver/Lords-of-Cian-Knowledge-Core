@@ -47,7 +47,7 @@ finished believing the first design flaw was fixed."
 ---
 
 *Continuity notes (not narrative): the detailed armor-and-weapon showcase for this wave, extending
-the already-locked Aegis-Talisman resonance mechanic (`MCD-238`, "frequency inversion lens" per its
+the already-locked Aegis-Talisman resonance mechanic (`ARS-050`, "frequency inversion lens" per its
 own locked description) into a more technical, multi-stage use -- diagnostic listening before
 broadcast -- combined with Mafesto's Kinetic Transfer System, Obsidian Malice's discharge, and
 Onyx's Cadence Ruin working together against a purpose-built countermeasure. No new named

@@ -1,9 +1,11 @@
 # The Bridge That Chose Its Moment
 
-*Locked canon, Batch 135, 2026-09-11 (`MCD-452`). The Iron Bastard Alias Chronicle VII, first
-entry in the third wave. Rebellion era, age 25. Not a territory Chronicle. New standalone material —
-a detailed armor-and-weapon combat showcase per Abad's craft instruction. Narrated in neutral
-third-person prose. No new named characters.*
+*Locked canon, Batch 135, 2026-09-11 (`MCD-452`); clarified Batch 321, 2026-10-02 (placed
+explicitly after the Battle of the Falling Bridge, `MCD-243`, as a second, deliberately diagnostic
+application of the same bridge-collapse-against-cavalry tactic, rather than a competing "first").
+The Iron Bastard Alias Chronicle VII, first entry in the third wave. Rebellion era, age 25. Not a
+territory Chronicle. New standalone material — a detailed armor-and-weapon combat showcase per
+Abad's craft instruction. Narrated in neutral third-person prose. No new named characters.*
 
 ---
 
@@ -44,5 +46,8 @@ whoever's standing on it and the least to whoever isn't." Kanja didn't look back
 *Continuity notes (not narrative): the most detailed single combat showcase of the Iron Bastard's
 run using a bridge rather than a Crawler as the resonance target, matching Abad's craft instruction
 -- extends the already-locked diagnostic-listening-before-broadcast principle (MCD-387) into a
-timing-precision rescue/combat hybrid distinct from every prior Iron Bastard entry. No new named
-characters. First entry in the Iron Bastard's third three-Chronicle wave.*
+timing-precision rescue/combat hybrid distinct from every prior Iron Bastard entry. Explicitly a
+second, slower, more diagnostic bridge-collapse-against-cavalry engagement following the original
+Battle of the Falling Bridge (`MCD-243`), not a competing claim to be the first such use of Mafesto's
+Kinetic Transfer System as a structural weapon. No new named characters. First entry in the Iron
+Bastard's third three-Chronicle wave.*

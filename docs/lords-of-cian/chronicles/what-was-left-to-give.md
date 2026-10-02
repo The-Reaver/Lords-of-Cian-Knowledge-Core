@@ -20,7 +20,8 @@ logistics — counting, rationing, arguing with a settlement council too proud a
 once to easily accept help from people they didn't know and had no reason yet to trust.
 
 Nobody's gear solved any of it. The Forge-Coat didn't carry grain. The Sovereign Eyes couldn't read
-a harvest that didn't exist. What moved sacks from a stolen storeroom to fifty-two families and a
+a harvest that didn't exist, and there was no Trinity to call on even if either had. What moved sacks
+from a stolen storeroom to fifty-two families and a
 town's own empty tables was simply hands, days, and the same patience the doctrine asked of every
 surrender extended instead to a problem that had no one left to surrender to.
 
@@ -36,5 +37,9 @@ and famine relief rather than the liberation itself -- a deliberate contrast to 
 Stopped Needing Him" (`MCD-814`, self-sufficiency already achieved) by showing the unglamorous
 groundwork such self-sufficiency depends on. No gear or Trinity capability solves the actual problem,
 a genuine limits-of-force entry distinct from every combat showcase. No new named characters. Age
-130, V3 gear (`ARS-348`, ages 80-241). Onyx of Oblivion correctly absent per its L9 seal throughout
-the Long Mask.*
+130, V3 gear (`ARS-348` locks V3 at ages 80-180, which age 130 falls within). Onyx of Oblivion,
+Mafesto, and Obsidian Malice correctly absent per the Trinity's age-30 surrender (`MCD-246`)
+throughout
+the Long Mask. Corrected Batch 321, 2026-10-02: reworded the soft "Trinity capability" line to make
+explicit the Trinity no longer exists in this era, and corrected the `ARS-348` citation to its own
+locked ranges.*

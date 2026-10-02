@@ -16,7 +16,7 @@ no wake, nothing that fit any explanation a naval board would accept. They didn'
 called me unreliable. Same result, different word."
 
 Kanja said nothing at first, recognizing in the man's account the exact engagement — the allowed
-sighting, deliberately unresolved, that had opened the alias's very first Chronicle a year before.
+sighting he'd staged himself, deliberately unresolved, a year before at Ghost Harbor.
 
 "That was us," he said finally. "I let your patrol see it and vanish on purpose. I told you at the
 time it would cost your side something. I didn't think through what it would cost you specifically."
@@ -51,4 +51,5 @@ the acceptable price of a strategy that worked.
 *Continuity notes (not narrative): a genuine collateral human cost of the alias's own deterrence
 doctrine — a Trust officer stripped of his commission for accurately reporting the allowed sighting
 from `MCD-377` (Chronicle I), confirmed directly by Kanja rather than left ambiguous. No new named
-characters. First entry in the fourteenth wave.*
+characters. First entry in the fourteenth wave. Corrected Batch 321, 2026-10-02 to reword "the alias's
+very first Chronicle" to in-world language.*
