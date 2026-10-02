@@ -3,16 +3,19 @@
 *Locked canon, Batch 193, 2026-09-11 (`MCD-607`); corrected Batch 321, 2026-10-02 (reworked from "the
 third ship" to the fourth, resolving a cross-track naming collision with the Sovereign Ghost of the
 Great Sea alias's own third-flagship naming scene, `MCD-788` -- Hask had already named *The Ledger* as
-the third flagship by the time of this vote; this scene names the fleet's fourth vessel, a non-flagship
-transport). Captain Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+the third flagship by the time of this vote; this scene names the fourth vessel to be formally named, a
+non-flagship transport); corrected again Batch 347, 2026-10-02 ("the fleet's fourth vessel" reworded
+throughout to "the fourth vessel to be formally named," clarifying this counts formally-named ships
+rather than the fleet's literal fourth vessel overall -- the fleet holds many more than four ships by
+this point). Captain Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
 
 ---
 
 Garren Hask had named the fleet's first three flagships himself, alone, by right of the habit he'd
 started before anyone thought to question it — The Audit, then The Receipt, then The Ledger, each his
 own choice, each carrying his particular sense of what a ship's name owed to the people who sailed her.
-When a fourth vessel was taken clean, hull sound and worth keeping but plainly no flagship, he did
-something he'd never done before.
+When the fourth vessel to be formally named was taken clean, hull sound and worth keeping but plainly
+no flagship, he did something he'd never done before.
 
 "This one isn't mine to name," he announced to the assembled crew. "I've had my say three times.
 Let's hear what the rest of you think a ship like this one owes its name to."
@@ -48,5 +51,9 @@ the alias's broader pattern of delegated ownership rather than centralized autho
 characters. Second entry in Captain's eleventh wave. Corrected Batch 321, 2026-10-02: originally
 framed as naming the fleet's *third* ship, which collided with the Sovereign Ghost of the Great Sea
 alias's own, separately locked third-flagship naming scene (`MCD-788`, *The Ledger*). Reframed as the
-fourth vessel and a non-flagship transport -- *The Second Chance* itself, its name, and its origin
-story are unchanged; only the count and Hask's own "I've had my say" line were updated.*
+fourth vessel to be formally named and a non-flagship transport -- *The Second Chance* itself, its name,
+and its origin story are unchanged; only the count and Hask's own "I've had my say" line were updated.
+Corrected again Batch 347, 2026-10-02: "the fourth vessel" reworded throughout to "the fourth vessel to
+be formally named," since the fleet holds many more than four ships by this point and the earlier
+phrasing read as if this were the fleet's literal fourth vessel overall rather than the fourth one to
+receive a formal name.*

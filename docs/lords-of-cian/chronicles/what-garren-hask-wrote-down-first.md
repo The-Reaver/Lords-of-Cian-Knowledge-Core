@@ -52,8 +52,10 @@ canal.
 *Continuity notes (not narrative): not an origin/recruitment vignette -- Garren Hask's actual
 recruitment is locked at `CC-115` (the Forge-7 evidence, pre-Dredge-Line Ambush). This entry is the
 moment he formally takes over the crew's ledger-keeping role, set before the Dredge-Line Ambush, his
-own pre-crew habit of independently cross-checking the Trench Monarch's figures earning him the job.
+own pre-crew habit of independently cross-checking Kanja's figures earning him the job.
 Corrected Batch 321: originally misdrafted as a first-meeting recruitment scene with an erroneous
 "thirty-one-year-old" age reference (31 is his tenure, `CC-115`; his actual age is 53, `CC-115`/
-Batch 48). No new named characters beyond the already-locked Garren Hask. Closes the Trench Monarch's
-sixth three-Chronicle wave.*
+Batch 48). Corrected again Batch 347, 2026-10-02: "the Trench Monarch's figures" was anachronistic
+(this scene is set before that alias name is coined); corrected to "Kanja's figures." No new named
+characters beyond the already-locked Garren Hask. Closes the Trench Monarch's sixth three-Chronicle
+wave.*
