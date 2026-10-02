@@ -3,7 +3,9 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1312`). The Lord of Embers Alias Chronicle LXVI, wave
 22, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). An unplanned
 institutional-discontinuity entry, distinct from the successor's own established training bookend
-(MCD-887). Not a territory Chronicle. Narrated in neutral third-person prose.*
+(MCD-887). Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321,
+2026-10-02: the senior smith's "I've trained her for six years" conflicted with MCD-887's own
+"the last several months" for the same training span; fixed to match.*
 
 ---
 
@@ -15,9 +17,9 @@ joints that no forge-side remedy touched, that would only get worse, and that ma
 between a hammer landing true and a hammer landing on someone's hand a matter of when, not if.
 
 She told Kanja herself, at the end of a working day, before she told anyone else. "I've trained her
-for six years," she said, meaning the successor everyone on the terrace already deferred to without
-being told to. "I told myself that was so she'd be ready when I was old. I don't think I meant
-this soon."
+the better part of this tour," she said, meaning the successor everyone on the terrace already
+deferred to without being told to. "I told myself that was so she'd be ready when I was old. I
+don't think I meant this soon."
 
 "Nobody means any of it soon," Kanja said. "That doesn't make her less ready."
 

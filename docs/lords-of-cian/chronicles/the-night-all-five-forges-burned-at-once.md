@@ -1,9 +1,11 @@
 # The Night All Five Forges Burned at Once
 
-*Locked canon, Batch 189, 2026-09-11 (`MCD-552`). The Lord of Embers Alias Chronicle XVI, first
+*Locked canon, Batch 189, 2026-09-11 (`MCD-552`). The Lord of Embers Alias Chronicle XIII, first
 entry in the fifth wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory
 Chronicle. New standalone material — a detailed, large-scale combat showcase per Abad's craft
-instruction. Narrated in neutral third-person prose. No new named characters.*
+instruction. Narrated in neutral third-person prose. No new named characters. Renumbered Batch 321,
+2026-10-02: was mislabeled Chronicle XVI, duplicating "The Crew That Rebuilt Without Him"; corrected
+to XIII, the numeral freed by MCD-500's own correction.*
 
 ---
 

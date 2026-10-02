@@ -2,7 +2,9 @@
 
 *Locked canon, Batch 238, 2026-09-11 (`MCD-1050`). The Lord of Embers Alias Chronicle LVIII, wave 20.
 Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. Narrated in neutral
-third-person prose.*
+third-person prose. Corrected Batch 321, 2026-10-02: softened chronology compression ("eighteen
+months and thirty-one settlements deep," treating the tour as already complete mid-tour, to "months
+and two dozen settlements deep").*
 
 ---
 
@@ -27,7 +29,7 @@ place. Who rebuilds a field that nothing ever attacked?"
 
 There was no enemy to answer for it, no siege to break, no reheat to slow down and do more carefully
 — every register the floor had ever tested itself against assumed a punishment with a shape and a
-source. This had neither. It was simply the size of the work itself, eighteen months and thirty-one
+source. This had neither. It was simply the size of the work itself, months and two dozen
 settlements deep, finally costing something no rebuild speed could reach back and prevent.
 
 He halted the site's smelting entirely for four days — the first voluntary stoppage of the whole

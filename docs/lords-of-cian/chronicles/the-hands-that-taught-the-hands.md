@@ -3,20 +3,24 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1330`). The Lord of Embers Alias Chronicle LXXXIV, wave
 28, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), later in the
 tour. A generational-transmission entry distinct from every prior apprentice-legacy beat. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the
+old man was originally written as present "three decades and one full generation removed" from the
+campaign's own opening -- impossible inside an 18-month tour. Kept in-tour: he's now a first-stop
+apprentice the campaign is revisiting roughly sixteen months later, in the same tour.*
 
 ---
 
 The old man had been one of the very first, back before the campaign had a name anyone used
 consistently, back when the terrace was smaller and the method itself was still being worked out
-one mistake at a time. He'd stayed near the coast his whole life since, never following the tour
+one mistake at a time. He'd stayed near that stretch of coast in the time since, never following the tour
 further than a settlement or two, building a modest reputation of his own as the kind of smith who
 taught anyone who asked without ever charging for it — a habit he'd never once had to explain to
 himself, because he'd simply never known the trade taught any other way.
 
 "You're the reason I don't remember learning it any differently," he told Kanja, the day the
-campaign finally passed back through his stretch of coast for the first time in years, watching a
-girl no older than he'd been at their own first meeting work a piece under his correction. "I
+campaign finally passed back through his stretch of coast for the first time in sixteen months,
+watching a girl no older than he'd been at their own first meeting work a piece under his
+correction. "I
 forget sometimes that there was a version of this trade before you, where you had to pay or be born
 into the right family to learn it at all."
 
@@ -33,9 +37,9 @@ didn't get to decide who deserved to learn. Everything else I've taught you sinc
 lesson, worn into a hundred different shapes."
 
 Kanja watched the two of them work the rest of the afternoon together, correction and question
-passing between them the same unhurried way it always had, three decades and one full generation
-removed from the terrace where it had started, recognizably the same method it had always been and
-recognizably no longer needing him in the room to keep being taught correctly.
+passing between them the same unhurried way it always had, sixteen months removed from the terrace
+where it had started, recognizably the same method it had always been and recognizably no longer
+needing him in the room to keep being taught correctly.
 
 "It doesn't feel like it's mine anymore," he admitted, walking back to the Anvil that evening.
 

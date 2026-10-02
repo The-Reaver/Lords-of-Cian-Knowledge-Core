@@ -1,13 +1,13 @@
 # The Anvil's Last Anchorage
 
-*Locked canon, Batch 202, 2026-09-11 (`MCD-890`). The Lord of Embers Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-890`). The Lord of Embers Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed a settlement-count error ("a hundred and twenty" settlements, when the campaign's own locked total is 31, MCD-241) throughout; Efa Gol's "a hundred and twenty thousand people" line is unchanged, since that reached-population figure is correct per MCD-241.*
 
 ---
 
 The final anchorage was not a burned district or a threatened settlement, but an ordinary coastal town
 that had asked for nothing more than the standard six days every stop along the route had received —
 repairs, training, the reheat lesson taught to whoever wanted it, nothing about the visit distinguished
-from any of the hundred and nineteen that had come before it, except that it was the last.
+from any of the thirty that had come before it, except that it was the last.
 
 The crew worked the six days the same way they'd worked every prior stop, and if anyone aboard The
 Anvil felt the weight of the tour ending, they did not let it slow the pace of the work itself.
@@ -18,10 +18,10 @@ particular campaign's name. "Feels like it should feel bigger than it does, stan
 of it."
 
 "Maybe it doesn't need to feel bigger. Maybe it's supposed to feel like exactly what it was — six days,
-over and over, a hundred and twenty times." Kanja watched the last embers settle, no ceremony attached
+over and over, thirty-one times." Kanja watched the last embers settle, no ceremony attached
 to the moment beyond the two of them standing there. "I didn't set out to build something that felt
 enormous while it was happening. I set out to build something that would still be standing, in small
-pieces, in a hundred and twenty places, long after the campaign itself was over. I think that's what
+pieces, in thirty-one places, long after the campaign itself was over. I think that's what
 we actually did."
 
 "What happens to the name, once the tour's finished? 'Lord of Embers' doesn't stop being what people
@@ -29,7 +29,7 @@ call you just because the campaign that earned it does."
 
 "No. It doesn't." He considered the question honestly, watching the forge fire finish its own slow
 burn down to nothing. "The name outlasts the campaign. It always does. But the actual thing underneath
-it — the method, the reheat, the six days, the hundred and twenty settlements that know how to rebuild
+it — the method, the reheat, the six days, the thirty-one settlements that know how to rebuild
 themselves now without waiting on anyone — that's not mine anymore, if it ever fully was. That part
 doesn't need the name to keep going. It just needs the people who learned it to keep teaching it the
 same way it was taught to them."

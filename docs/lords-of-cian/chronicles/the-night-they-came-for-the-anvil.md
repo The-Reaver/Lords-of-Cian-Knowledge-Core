@@ -3,12 +3,14 @@
 *Locked canon, Batch 125, 2026-09-11 (`MCD-423`). Lord of Embers Alias Chronicle V. Rebellion
 era, during the Rolling Foundry Campaign (`MCD-241`). A detailed Trinity showcase defending The
 Anvil itself. Not a territory Chronicle. New standalone material. Narrated in neutral third-person
-prose. No new named characters.*
+prose. No new named characters. Corrected Batch 321, 2026-10-02: softened chronology compression
+("full eighteen-month accumulation" and "thirty-one settlements," impossible this early in the
+tour -- this is Chronicle V, wave 2 -- to "months" and "two dozen settlements").*
 
 ---
 
 The raid on The Anvil came at anchor, at night, timed for the one window when the converted ore-barge
-carried its full eighteen-month accumulation of salvaged Dead Drakma stock below decks — a target
+carried months of salvaged Dead Drakma stock accumulated below decks — a target
 worth more, to the right buyer, than any single settlement the Rolling Foundry Campaign had yet
 visited.
 
@@ -32,9 +34,9 @@ Anvil's deck.
 "You could have let them take the barge and just protected the apprentices belowdecks," the crew's
 salvage master said afterward, surveying the intact cargo hold. "Would have been a safer fight."
 
-"The barge isn't just cargo. It's eighteen months of settlements trusting us to actually deliver what
+"The barge isn't just cargo. It's months of settlements trusting us to actually deliver what
 we promised them — the repairs, the training, the connection to Anansi's network. If raiders take
-this ship, that's not a material loss. That's a promise broken to thirty-one settlements who took us
+this ship, that's not a material loss. That's a promise broken to two dozen settlements who took us
 at our word." Kanja checked the ramp's collapsed section, already planning its repair. "I don't fight
 for the Drakma stock. I fight for what the stock represents to people who are counting on it still
 being here next season."

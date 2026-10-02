@@ -3,7 +3,9 @@
 *Locked canon, Batch 284, 2026-09-11 (`MCD-1499`). Lord of Embers Alias Chronicle XCVII, first entry
 in the thirty-third wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A detailed,
 battle-intense Trinity combat showcase closing on a deliberate capture-and-escape. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Mafesto is a
+full bio-bonded exoskeleton, not forearm-scale gear; reworded so it's worn inert across his frame
+and read by the guards as ordinary plate armor, rather than being held "against his forearm."*
 
 ---
 
@@ -14,8 +16,10 @@ was, and who else was drawing from it, was to let himself be walked through the 
 in irons and see what got said around a man everyone assumed was helpless.
 
 It was the first time the alias's run had asked patience to carry the opening act of an engagement
-instead of the Trinity. Mafesto stayed dormant against his forearm the whole first night, giving off
-nothing an interrogator's hands would find. Kanja answered questions with half-truths precise enough
+instead of the Trinity. Mafesto stayed dormant across his frame the whole first night, worn inert
+beneath a prisoner's stripped-down gear and read by the guards as nothing more than scavenged plate
+armor, giving off nothing an interrogator's hands would find. Kanja answered questions with
+half-truths precise enough
 to sound broken and vague enough to give away nothing, and listened while two guards argued, three
 cells down, about whether the storehouse's third shipment had cleared inspection yet — the detail the
 whole capture had been staged to surface.

@@ -3,7 +3,8 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1333`). The Lord of Embers Alias Chronicle LXXXVII, wave
 29, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A labor/
 economic-governance entry establishing a formal apprentice compensation structure. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: softened
+chronology compression ("Thirty-one settlements... later" to "Two dozen settlements... later").*
 
 ---
 
@@ -16,7 +17,7 @@ doing while we learn it."
 
 It hadn't been a deliberate oversight so much as an accident of how the method had grown — food,
 shelter, and training had always been given freely, and in the campaign's early, smaller days that
-had felt like more than enough. Thirty-one settlements and thousands of apprentices later, the
+had felt like more than enough. Two dozen settlements and thousands of apprentices later, the
 successor realized, sitting with the question, that "more than enough" had quietly become an
 assumption nobody had ever actually tested against what the apprentices themselves needed.
 

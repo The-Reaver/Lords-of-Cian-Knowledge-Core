@@ -1,8 +1,9 @@
 # The Smith They Said Couldn't Be One
 
-*Locked canon, Batch 159, 2026-09-11 (`MCD-502`). The Lord of Embers Alias Chronicle XV, closing
+*Locked canon, Batch 159, 2026-09-11 (`MCD-502`). The Lord of Embers Alias Chronicle XII, closing
 the fourth wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. New
-standalone material. Narrated in neutral third-person prose. No new named characters.*
+standalone material. Narrated in neutral third-person prose. No new named characters. Renumbered
+Batch 321, 2026-10-02: was mislabeled Chronicle XV; corrected to XII.*
 
 ---
 

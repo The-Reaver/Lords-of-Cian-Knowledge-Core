@@ -3,20 +3,22 @@
 *Locked canon, Batch 284, 2026-09-11 (`MCD-1501`). Lord of Embers Alias Chronicle XCIX, wave 33,
 closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A detailed,
 battle-intense Trinity combat showcase closing the wave. Not a territory Chronicle. Narrated in
-neutral third-person prose.*
+neutral third-person prose. Corrected Batch 321, 2026-10-02: Mafesto is a full bio-bonded
+exoskeleton, not forearm-scale; the Directorate's crude copy reworded from "a bulky iron harness
+worn over a soldier's forearm" to a partial chest-and-shoulder harness.*
 
 ---
 
 The device the Directorate fielded against a reopened coastal drift looked, at first glance, like a
-crude twin of Mafesto — a bulky iron harness worn over a soldier's forearm, built by an engineer who
+crude twin of Mafesto — a bulky iron harness strapped across a soldier's chest and shoulder, built by an engineer who
 had studied the aftermath of three separate engagements closely enough to sketch, with real
 precision, what a grounded blow's scorch-pattern looked like without ever seeing the mechanism that
 produced it.
 
 It worked, in the sense that it did something. It failed in every sense that mattered. The harness
 took the first blow it was used to block and rather than grounding the force through a calibrated
-frame built specifically to carry it, fed the whole charge directly into the wearer's own arm,
-shattering it from the inside and dropping him before Kanja had thrown a second strike. The engineer
+frame built specifically to carry it, fed the whole charge directly into the wearer's own chest,
+shattering ribs from the inside and dropping him before Kanja had thrown a second strike. The engineer
 watching from cover, close enough to see his own design fail exactly the way three separate advisory
 memos he'd ignored had warned it might, kept watching anyway, taking notes on the failure with the
 same care he'd taken sketching the success.

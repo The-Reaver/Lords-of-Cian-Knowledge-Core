@@ -1,9 +1,12 @@
 # The Settlement That Kept the Forge Lit
 
 *Locked canon, Batch 136, 2026-09-11 (`MCD-457`). The Lord of Embers Alias Chronicle IX, closing the
-third wave. Rebellion era, age 27, several years after the events of "An Apprenticeship That
-Outlasted the War" (`MCD-391`). Not a territory Chronicle. New standalone material. Narrated in
-neutral third-person prose. No new named characters.*
+third wave. Long Mask era, well after the events of "An Apprenticeship That Outlasted the War"
+(`MCD-391`). Not a territory Chronicle. New standalone material. Narrated in neutral third-person
+prose. No new named characters. Corrected Batch 321, 2026-10-02: re-eraed from "age 27, several
+years after" an event itself locked at age 27 (a literal contradiction) to the Long Mask, where
+"years later" and an unnamed, gearless Kanja passing through as a stranger both hold without
+issue.*
 
 ---
 

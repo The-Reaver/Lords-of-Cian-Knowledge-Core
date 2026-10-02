@@ -2,17 +2,23 @@
 
 *Locked canon, Batch 238, 2026-09-11 (`MCD-1052`). The Lord of Embers Alias Chronicle LX, wave 20,
 closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle.
-Narrated in neutral third-person prose.*
+Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: softened chronology
+compression (the delegation's arrival placed roughly a year into the campaign's 18-month tour
+rather than at its end, and the senior smith's closing line changed from "eighteen months" to "a
+year") and fixed a misattributed reference (the eldest's "we already did that" now correctly
+points at the itinerant master smith's judged contest, MCD-921, not an impossible prior council
+test "years back").*
 
 ---
 
 The regional smiths' guild council didn't send a challenger this time, and didn't send a skeptic
 either. They sent a formal delegation, three elders and a clerk with a bound ledger of their own, to
-a forge terrace two settlements from the tour's end.
+a forge terrace roughly a year into the tour.
 
-"We're not here to test you," the eldest said, before Kanja could ask. "We already did that, years
-back, and lost the argument to our own stress-tested iron. We're here because our journeyman
-examinations still don't have a name for what half our apprentices are now asking to be tested on."
+"We're not here to test you," the eldest said, before Kanja could ask. "We heard about the contest
+with the traveling smith — the mallet settled that argument for us the same way it settled his.
+We're here because our journeyman examinations still don't have a name for what half our
+apprentices are now asking to be tested on."
 
 The senior smith's own successor — the woman who'd taken independent command of a wildfire response
 two settlements prior, forging firebreak tools while Kanja worked under her plan rather than his own
@@ -42,7 +48,7 @@ every alias the Directorate had ever bothered classifying — an entry with no p
 all, examinable by any guild journeyman anywhere the council's charter reached, whether or not they'd
 ever once stood near a forge Kanja himself had lit.
 
-"Eighteen months of this," the senior smith said afterward, watching the delegation's wagon start
+"A year of this," the senior smith said afterward, watching the delegation's wagon start
 back down the coast road, "and the thing that actually outlasts you was never going to be a story
 about you at all."
 

@@ -53,7 +53,7 @@ in Kanja's own single underlying psychology rather than inventing a separate one
 | The Scourge | `character-profiles/alias-scourge.md` | not started (backfill) | 102 |
 | The Crow King | `character-profiles/alias-crow-king.md` | walkthrough drafted | 102 |
 | The Iron Bastard | `character-profiles/alias-iron-bastard.md` | not started (backfill) | 102 |
-| The Lord of Embers | `character-profiles/alias-lord-of-embers.md` | not started (backfill) | 93 |
+| The Lord of Embers | `character-profiles/alias-lord-of-embers.md` | not started (backfill) | 102 |
 | The Storm That Walks | `character-profiles/alias-storm-that-walks.md` | not started (backfill) | 102 |
 | Captain | `character-profiles/alias-captain.md` | not started (backfill) | 102 |
 
