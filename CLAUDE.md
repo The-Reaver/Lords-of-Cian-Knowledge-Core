@@ -3434,6 +3434,115 @@ per chunk, a dedicated consolidation pass budgeted as its own chunk-sized task) 
 another thread entirely -- Ezio's second wave (drafted, still pending approval) remains untouched
 and separately open.
 
+## Phase 1: the full fable-review sweep of all 11 Alias Chronicle tracks, Batches 321-330, 2026-10-02
+
+Following the Bane pilot (Batch 320), Abad authorized the full remaining scope: a Fable-model
+read-only review of each of the other 10 Alias Chronicle tracks (Trench Monarch, Industrial Myth,
+Blue-Collar Titan, Sovereign Ghost of the Great Sea, The Scourge, Crow King, Iron Bastard, Lord of
+Embers, Storm That Walks, Captain -- 93-102 entries each, ~900 Chronicles total), run continuously
+and uninterrupted against a multi-hour time/usage budget, with explicit instruction on model
+division of labor: Fable-model agents review and produce exact findings/fix instructions; Sonnet-
+model agents apply those findings exactly as instructed, editing Chronicle prose files directly and
+writing (never running) an unexecuted `merge_batch321_<track>_fixes.py` ledger-amendment script,
+never touching `canon-ledger.json` or git themselves. Ten Sonnet fix-application agents ran in
+parallel; this session processed each one's hand-back report as it landed -- verifying new rule IDs
+were collision-free, renumbering each script's hardcoded batch label to the next sequential number
+(several agents independently used the shared "321" placeholder per their shared naming
+instruction, requiring sequential renumbering: 321-330), running it, confirming the zero-duplicate-
+ID verification line, then committing and pushing.
+
+Recurring error classes found across nearly every track, consistent with the pilot's own findings:
+Trinity-era gear (Mafesto/Obsidian Malice/Onyx of Oblivion's named powers) appearing in scenes set
+after Kanja's age-30 surrender (`MCD-246`) without being swapped for the correct post-surrender kit
+(`ARS-344` through `356`, the Forge-Coat/Sovereign Eyes/Breath Collar/Ironhand Gauntlets/Ironfall
+Boots/Smoke System/Mend-Line plus the Rexmar Machete); Obsidian Malice (a war club, `ARS-030`)
+mischaracterized as a bladed/sheathed weapon; its "two years of dormant charge" (a one-time
+pre-Black-Trench bank, `ARS-342`) claimed redundantly as a fast-regenerating reserve; Voice Bible
+characterization labels (`VB-060`'s "Already-Finished Negotiation") leaking into narrative prose as
+quoted in-world phrases; writers'-room batch/wave/Chronicle-numeral terminology and literal rule-ID
+citations leaking into prose; duplicate Chronicle numerals within a track, renumbered; stale
+`chronicle-tracks-status.md` Chronicle counts (93 -> 102 for every track except The Scourge and Lord
+of Embers, which were already counted correctly); and further Corren Halst/Danne Sok pronoun misses
+beyond the pilot's own sweep.
+
+**Batch 321, Blue-Collar Titan.** New rule `MCD-1877` reconciles the Sewer War of Killane into a
+two-phase campaign (covert infiltration, then an open phase ending in a local negotiated
+ceasefire), both within ages 20-21; "resistance command" clarified as the Rebellion's own
+senior-crew/allied-cells council, never a superior hierarchy, matching the `MAW-066` precedent.
+Amends `MCD-1459` (pronoun), `MCD-680` ("the one death" -> "the deaths"), `MCD-1198` (ceasefire
+re-attributed to the campaign's open phase).
+
+**Batch 322, Industrial Myth.** Pure amendments, no new rules: `MCD-230` and `VB-061` fix the
+Furnace District Strike's age (19 -> 21) and reconcile the alias name's informal pre-Strike
+circulation against its formal Directorate classification at the Strike itself; `ARS-425` drops an
+anachronistic Furnace-District clause from this strictly-unarmed alias; `MCD-770` (pronoun);
+`MCD-1442` names a new collision-checked-clean character, Renner Kall.
+
+**Batch 323, Trench Monarch.** New rule `CC-160` locks a full dossier for Maret Vos (he/him per
+Batch 226), a Maw survivor who found Corren Halst and Danne Sok on the docks before finding Kanja --
+`CC-158`/`CC-159` amended in place to add the matching "found each other on the docks" clause.
+Further amendments rewrite Garren Hask's `MCD-623` recruitment scene into his actual ledger-keeper
+promotion moment, fix a Dredge-Line kill-count conflict with the no-killing doctrine, and correct
+Tavin Greer's and Dol Maren's own timeline drift.
+
+**Batch 324, Crow King.** Amends 6 rule statements: `MCD-854`/`916` reworded so Chronicle XXXIX
+reads as the apprentice deepening her teaching of an already-established student rather than a
+contradictory fourth generation; `MCD-1484` fully rewritten from Trinity gear to the correct
+Long-Mask-era kit; `MCD-1261` reframes a self-contradicting "neutral Sovereign Trust magistrate" as
+an Aethel-Gard magistrate and strips active-Rebellion framing from the Long-Mask era; `MCD-1264`/
+`MCD-418` fix a rasp-voice cause attribution.
+
+**Batch 325, Storm That Walks.** Amends 27 rule statements: reframes Sephtis's death (`MCD-982` and
+4 downstream) as a staged withdrawal rather than a real death, consistent with his being alive
+elsewhere in canon; swaps Trinity-era gear for the Long-Mask kit across 14 entries; resolves the
+fourth-generation apprentice's pronoun to he/him across 5 entries (one file renamed to match); fixes
+two timeline slips and a wrong citation.
+
+**Batch 326, Iron Bastard.** Amends 19 rule statements: swaps Trinity-era gear across 17 entries;
+rewrites `MCD-719` to introduce a genuinely new second trainee rather than misidentifying the first
+student, with 5 downstream gender fixes; disentangles two recurring Directorate generals
+(`MCD-386` vs. `MCD-454`'s arc); strips Rebellion-era framing from Long-Mask entries; fixes two
+pronouns (Danne Sok in `MCD-963`, an unnamed scholar in `MCD-421`).
+
+**Batch 327, Sovereign Ghost of the Great Sea.** Amends 7 rule statements: `MCD-1071`/`1211`/`1403`
+swap Book-2-era Moonvault/Long-Mask gear leaks for Mafesto's own period-correct kit; `MCD-607`/
+`788` resolve a fleet-naming collision with the Captain track (`MCD-607` reframed as the fleet's
+fourth vessel, a distinct non-flagship transport); `MCD-250` gets a Pirate-Dawn-sailcloth
+reconciling clause; `MCD-1466` corrects a hull-reader ordinal. Substantial rewrite of
+`alias-sovereign-ghost.md`'s era-anchoring/abilities/reserved-threads sections; a Fleet-Marshal
+command-status contradiction resolved (`MCD-952` rewritten to match `MCD-957`'s account).
+
+**Batch 328, Captain.** Amends 13 rule statements plus a "wave N of ten" phrasing fix across
+`MCD-606`-`620` (15 rules): corrects a Kinetic Transfer System reference (one file renamed/rewritten
+away from referencing Trinity gear), two pronoun fixes, a sleep-misattribution fix. Substantial
+rewrite of `alias-captain.md`'s era-span, gear-usage, and CC-dossier sections.
+
+**Batch 329, The Scourge.** Amends 21 rule statements: strips 17 Trinity anachronisms and "two-year
+dormant charge" claims from this strictly-post-age-30 alias; softens Kanja's physical-decline
+framing (`MCD-1406`/`1022`) so crew/successor does the hands-on work; relabels V3->V4 gear-
+generation across a dozen entries; reconciles the Salt Keep date across four entries; drops a false
+linkage and two forward-reference leaks; fixes a self-contradicting deployment count and the
+Ash-Wharf/age-30 span arithmetic. Garren Hask's ledger-age reconciled to one consistent "age - 30"
+anchor across 5 entries; two near-collision renames (Kessara -> Varrow, Ferrenline -> Orencliff
+docks).
+
+**Batch 330, Lord of Embers.** Amends 20 rule statements: rewrites `MCD-1322`'s damaged item from
+the Long-Mask-era Forge-Coat to Mafesto's own Void-Lattice plating (correct for an age-27,
+pre-surrender entry); softens chronology compression across five mid-tour entries; fixes `MCD-890`'s
+settlement-count error against the locked 31; rewrites `MCD-1330`'s 30-year gap to an in-tour
+16-month gap; re-eraes `MCD-457` to the Long Mask; matches `MCD-1312`'s training span to `MCD-887`'s;
+fixes two Mafesto-scale mischaracterizations; renumbers two Chronicle-numeral collisions. Full
+rewrite of `what-the-coat-couldnt-shed.md` (retitled "What Mafesto Couldn't Shed"); a character
+rename (Toma -> Ilo) clearing a collision with the already-locked Tomas Grieve.
+
+This closes Phase 1 in full -- all 11 Alias Chronicle tracks (990+ Chronicles) fable-reviewed and
+corrected. Ledger reached `ledger_version` 33.2, 2,650 rules, 329 batches -- zero duplicate IDs
+verified after every batch. Per the roadmap Abad confirmed, work continues straight into Phase 1.5
+(the Atlas, `GEO-` rules) without pausing, since several Phase 1 reviews surfaced place-name
+problems (the Kessic/Hallmere and Kessara/Varrow collisions, Killane's real geography, unplaced
+invented naval/territory geography) the Atlas should settle once before any further
+geography-touching fixes land.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
