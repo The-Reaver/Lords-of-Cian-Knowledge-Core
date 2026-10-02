@@ -3625,6 +3625,70 @@ Ledger reached `ledger_version` 33.4, 2,650 rules, 331 batches -- zero duplicate
 Reviews of Ozmund, Lauris, and Daba's much larger corpora remain running; their findings will be
 processed as sub-batches continuing from 333 as each completes.
 
+**Batch 335, Daba.** Amends 6 rule statements: a stray "Wrenna" that the Batch-296 cross-block
+rename (to "Tessin," avoiding a collision with Chronicle XXIX's Isolde Wrenna) never swept from
+`MCD-1870`/`1871`/`1873`; "Corrow" renamed "Sarrow" to resolve a collision with the already-locked
+Bane-track Corrow ravine network (`MCD-1581`, Chronicles XI/XV); a male "Tessin" paragraph
+cross-contaminated from a different character's own plot (Kazi's Tunji Chronicle V), corrected to
+Perrin (`MCD-1871`); "Elowen Marn" renamed "Elowen Sarn" to resolve a collision with the Marn family
+(`MCD-1613`); "Sarel Doune" renamed "Lisbet Doune" to resolve a collision with "Serel" (`MCD-1874`);
+Deryn Kettel's pronouns corrected to she/her. Prose-only: `MCD-1619`'s own "the name, not the
+number" origin had been misassigned to Kanja in Chronicle XLIX, corrected back to Daba; a dozen
+stale/impossible timeline figures across 14 Chronicles softened or corrected to match 1804's young
+age during the mentorship era and the locked casualty/duration figures at `MCD-232`/`244`; a runner
+"Ossa" renamed "Tova" to resolve a collision with villain Ossa Drem (`CC-154`); two writers'-room
+leaks, one firearms anachronism, one terrain-word slip fixed. Ledger reached `ledger_version` 33.5,
+2,650 rules, 332 batches.
+
+**Batch 336, Ozmund.** Amends 10 rule statements: `MCD-1741`-`1745`'s "Set roughly N years before
+the Fulfillment Ceremony" age-framing reworded to "Set strictly pre-Fulfillment-Ceremony, Ozmund age
+N" (the original framing was impossible against `CC-015`/`CC-090`, which place the Ceremony at
+roughly age 201); `MCD-1806`'s age reconciled 26->25; `MCD-1819` strips a reserved-thread leak (the
+Crown-Scar's true siphon nature referenced as a form of conscious authority Ozmund doesn't yet know
+he has, per `MCD-025`); `MCD-1843`/`1844`/`1778` fix wrong rule-ID citations for Osric, Cobb, and
+Aldenmoor's actual introduction points. Prose fixes (17 files): the same Crown-Scar leak in
+Chronicle XC; a dangling "five thousand years gone" figure for Drakmund softened; "Commander Rell"
+renamed "Welk" to resolve an intra-track surname collision with the unrelated Rell/Tamsy
+fen-household family; a footer self-contradiction, a command-span overstatement, a writers'-room
+leak, and two real-world-term leaks ("family Bible," capital-G "God") fixed. Deliberately left for
+Abad's own ruling: the larger ~190-year gap between Ozmund's youth and Red Beard's "decades later"
+interview framing; a pre-existing `MCD-138`/`MCD-1850` tension over Drakmund's exact age; an
+ordering question about Chronicle I's own unstated age; the Karkosa Atlas-queue dependency in two
+entries; whether to lock a specific Book-2 duration number in Chronicle XII. Ledger reached
+`ledger_version` 33.6, 2,650 rules, 333 batches.
+
+**Batch 337, Lauris -- closes Phase 2.** Amends 14 rule statements: citation fixes (`MCD-1639`
+mentor-rule number, `MCD-1692` Velkar-riverbed operation number), a training-location fix
+(`MCD-1662`, Threnarr not Karth-Ven), a wording overstatement (`MCD-1667`), two ARS-citation range
+fixes (`MCD-1561`/`1671`, "357-374" -> "357 through 366"), and removal of duplicate/miscounted
+Strand K ordinal-position clauses (`MCD-1633`-`1638`, `MCD-1677`, `MCD-1683`). Prose fixes (57 of
+109 files): stale age-arithmetic corrected to her true ~6,000-year age (`MCD-1533`) across ~30
+entries; Fermand's tenure corrected from "thirty years" to "two hundred years" (`MCD-194`/`271`)
+across ~10 entries; an anachronistic weapon reference removed from pre-forging Chronicle II; an
+overstated "first lethal combat" claim softened; Brokenwall reframed as discrete strikes to match
+`MCD-1538`; the Karth-Sera curriculum's origin corrected; the Directorate's still-active status
+corrected against two "dissolved" references; non-Karesian pronoun fixes (Kares Prime is
+single-sex); a gender fix for Operation 28's "Copy"; a Drowning Vault/K-Theta conflation fixed; four
+fixes in Chronicle LXXX; an Operation 36 report-source fix; an unsupported "twelve-year truce" line
+deleted; plus the full mechanical sweep (writers'-room/rule-ID leaks, "wave"/"strand" leaks,
+Chronicle-numeral self-references, narrator-boundary fixes). Deliberately left for Abad's own direct
+ruling: the dockside-crew mortality question (several Strand W entries show Garren Hask and other
+Rebellion-era crew alive centuries past their locked mortality elsewhere -- the single largest
+open item from the whole Phase 2 pass); whether "Vask Ilvane" should be reframed as a non-Vask Hold
+(a 13th-Vask collision against `MCD-155`/`160`); Vael Korr-Drennen's gender (a 3-2 split in the
+corpus); the Ozmund/Book-1 placement question in two Strand W entries; and five pre-existing
+ledger-only contradictions (`MCD-156`/`160`/`171`/`217`/`267`) queued for a dedicated future
+reconciliation batch. Ledger reached `ledger_version` 33.7, 2,650 rules, 334 batches -- zero
+duplicate IDs verified after every batch.
+
+This closes Phase 2 in full. Per the confirmed roadmap, work continues into Phase 3 (the
+Kanja-version track) without pausing. A running tally of items genuinely requiring Abad's own
+direct review, accumulated across Phases 1.5 and 2 so far: the Atlas's larger worldbuilding
+questions (Verehimu/Voskharen Wetlands, "the Karkosa," the Teeth's placement, `MCD-094`/`112`), the
+Ezio age/Fermand-sixth-knower questions, and the Lauris dockside-crew-mortality/Vask-Ilvane/Vael-
+gender/Ozmund-placement questions above -- none blocking further phases, all worth a dedicated
+session with Abad once the roadmap's mechanical sweep is further along.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
