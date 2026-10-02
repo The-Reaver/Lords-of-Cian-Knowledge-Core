@@ -3798,6 +3798,111 @@ track's Onyx-presence age-band convention and Ironbane's joining date; the Xarag
 question; Orin's phonograph anachronism; and the "Torvald" naming question. None blocking further
 phases.
 
+## Phase 5: the institutional rule-block fable-review, Batches 340-344, 2026-10-02
+
+Four parallel Fable-model review agents, grouped by rule-prefix family, reviewed the project's
+non-Chronicle institutional/world-mechanics rule blocks directly (not narrative prose) -- checking
+canon-ledger.json's own rule statements for internal contradictions, stale cross-references,
+terminology drift, naming collisions, and category/status-field metadata drift. Findings were then
+applied by matching Sonnet fix agents, mirroring the Phase 1-4 pattern. The one deliberately
+deferred block: MCD core (~1,800 rules, the project's largest single prefix), given its enormous
+scale -- flagged as a future undertaking, not attempted in this pass.
+
+**Batch 340, CC-/WGD-/CHAR- (22 rule statements amended).** Fixes Abyss's "crew's youngest member"
+claim against Pyro's own locked age (`CC-101`, `MCD-1715`); reconciles a half-applied Batch-321 fix
+where Danne Sok's memory still described Kanja as "freed" rather than found alongside (`CC-159`,
+`MCD-530`, `MCD-234`); closes a stale age-ranking gap left by `MCD-1851` (`CC-058`); corrects
+`SBD-041`/`MCD-022`'s false-claims lists, which had wrongly flagged Pyro's natural birth as part of
+Dexton's lie when `MCD-022` locks it as true; fixes a `CC-088` misattribution (`SBD-048`); removes a
+writers'-room leak (`WGD-009`); adds a reconciling clause connecting "the Sovereignty Summit" and
+"the Fulfillment Ceremony" as the same event (`MCD-091`, `CC-009`); fixes a citation error, a
+garbled sentence, and a wrong rule citation (`CC-148`/`022`/`154`); renames Varruk's "Cadence Ruin"
+(later reconciled, see Batch 343). Normalizes category drift across 100 `CC-` rules.
+
+**Batch 341, PH2-/WC-/POL-/VB-/COS- (17 rule statements amended).** Removes two firearms
+anachronisms from homage-era definitional rules (`PH2-014`/`016`); updates `PH2-048`'s own
+description of the Chronicle-track structure to match the Batch 64 correction, and extends its
+survival-applied list to include Sauti and Duro; realizes `PH2-049`'s "not yet drafted" firearms
+placeholder against the now-locked `ARS-426`; fixes a stale `WC-018` citation and a `WC-024`/`WC-003`
+density-tier table gap; fixes a broken city-rename phrase (`PH2-009`) and two real-world-date leaks
+into in-world character facts (`PH2-023`/`042`); extends `VB-026`/`020` to record the Kanja-version
+track's narrator assignment and the Alias Chronicle track's deliberate exemption from it; fixes a
+Sin-Eater density range mismatch (`CC-105`) and an army-commitment overstatement (`POL-102`).
+Normalizes category drift across 42 rules and status drift across 30 rules.
+
+**Batch 342, CULT-/ASH-/SBD- (37 rule statements amended).** Separates Dexton's one accurate claim
+(Pyro's natural birth) from his false ones (`SBD-041`); renames an Ashkeel archive register away
+from a collision with Onyx's "Black Ledger" power (`ASH-047`); fixes a direct contradiction about
+the Null Caucus's relative age (`CULT-156`); corrects a stale post-Batch-103 Maw-7/Karkosa venue
+citation (`CULT-140`); fixes a misreading of the Calibration Array's completeness (`CULT-187`); fixes
+a depth-direction error in Ashkeel's vertical geography (`ASH-046`); fixes a `GEO-002` region-count
+conflation (`ASH-001`); reconciles two names for the Ashkeel founding war (`ASH-010`/`054`/`056`);
+rewrites `SBD-010` to distinguish it clearly from `SBD-041` as two separate false SBD narratives;
+clarifies in-world SBD asset-designation numbers from this ledger's own `SBD-` rule-ID series
+(`SBD-042`/`043`); updates several stale cross-references; removes real-world proper-noun leaks from
+seven Ashkeel in-world names; renames three named Ashkeel figures to resolve collisions with
+already-locked characters. Normalizes category drift across 47 `CULT-`/`ASH-` rules.
+
+**Batch 343, reconciliation (no new facts).** The Batch 342 Varruk rename ran against a slightly
+earlier ledger snapshot than Batch 340's own independent rename of the same ability (Batch 340 chose
+"the Riptide Break," Batch 342 chose "Cadence Break" without seeing Batch 340's choice), leaving
+`CC-099` referencing a name that no longer existed in `CC-098`. Standardized on "Cadence
+Break"/"Cadence Saturation" and corrected `CC-099`'s own cross-reference to match -- a real artifact
+of running two parallel rename agents against the same contested name without them seeing each
+other's work; worth remembering for any future parallel-rename pass (serialize renames touching the
+same proper noun, or have a consolidation step reconcile them, as done here).
+
+**Batch 344, ARS-/MAW-/HLD- (28 rule statements amended).** Corrects four stale "CONFLICT-CHECK"
+notes that wrongly placed Ozmund's Maw entry in Book 3 when it's actually locked as Book 1
+(`MAW-030`/`100`/`101`, `ARS-270`); fixes a self-contradicting Reclamation venue/date (`MAW-065`,
+`MAW-121`); corrects the Unarmed Siege of Maw-3's mechanism to match its own higher-authority source;
+reconciles the Grand Circuit's founding date and fixes era-boundary arithmetic (`MAW-091`); fixes
+bout-count, Reclamation-date, and patron-house citation errors (`MAW-119`/`120`); corrects a
+Cestari-era anachronism and a biology-type mismatch (`MAW-125`/`144`); fixes a tense error treating
+an unhappened Book 1 event as already accomplished (`MAW-096`); de-numericizes an internally
+inconsistent manumission-rate claim (`MAW-079`); corrects the Trinity's seal-duration arithmetic and
+the Moonvault gift split (`ARS-010`/`060`); fixes gear-era label mismatches and several stale/wrong
+rule-ID citations. Normalizes category drift on 2 `ARS-` rules and status-field casing on 72 rules
+across the three blocks.
+
+Ledger reached `ledger_version` 34.7, 2,650 rules, 344 batches -- zero duplicate IDs verified after
+every batch. This closes Phase 5's fable-review-then-fix pass across all five institutional
+rule-block groups (CULT/ASH/SBD, CC/WGD/CHAR, ARS/MAW/HLD, PH2/WC/POL/VB/COS). The MCD core block
+(~1,800 rules) remains genuinely open for a future dedicated pass -- it was deliberately not
+attempted here given its scale relative to everything else reviewed.
+
+**Running tally of items requiring Abad's own direct review, accumulated across Phases 1.5 through
+5.** None of these block further work; they're queued for whenever Abad wants a dedicated session:
+- **Atlas/geography:** the Verehimu/Voskharen Wetlands naming question; whether "the Karkosa" the
+  crew keeps an archive aboard is the Karkosa Complex itself or a distinct base; the Teeth's Atlas
+  placement; `MCD-094`'s area-vs-population-weight framing; `MCD-112`'s Southern Seaboard
+  definition; a full Portside/Kessic-region/naval-geography/Kesmara/House-Verehimu-seat enrichment
+  pass; the Shattered Kingdoms' land-area-vs-political-weight percentage question (`POL-010` vs
+  `WC-012` vs `MCD-094`).
+- **Character Chronicle tracks:** Ezio's true age (`CC-028`'s "75" vs. two tracks implying ~309);
+  whether Fermand is a sixth knower of Ezio's classified capability; the Lauris dockside-crew-
+  mortality question (several Strand W entries show crew alive centuries past their locked
+  mortality elsewhere -- the single largest open item from the whole Phase 2 pass); whether "Vask
+  Ilvane" is a 13th Vask or an outlying Hold; Vael Korr-Drennen's gender (a 3-2 split in the
+  corpus); the Ozmund/Book-1 placement question in two Lauris Strand W entries; VB-020/VB-023 vs
+  CC-034's standing Ezio-narrator conflict.
+- **Kanja-version track:** a standing age-band convention for Onyx's `VB-026` presence growth;
+  whether narrator codas should be first-person or "the blade" third-person by age; locking
+  Ironbane's (and possibly Soulreaver Zora's) Rebellion-era joining date; naming the custodial
+  apparatus Auberon is handed to.
+- **Territory Chronicles:** Xaragua Chronicle III's cohort death count; Orin's phonograph/
+  pressed-record anachronism; the "Torvald" naming-convention question; several near-collision names
+  (Guaní/Guanín, Kasa/Kasi, Tunji/Tunde) flagged but not renamed.
+- **Institutional rules:** the CULT block's "T.D.K. returned and was immediately contained at the
+  Great Breach" framing across 16 rules, which conflicts with the locked Book 2-5 arc (the single
+  largest structural question surfaced in Phase 5); ASH-018 vs WC-011 on where Trust Scrip
+  circulates in the Shattered Kingdoms; Matar's recruitment date and Orlok's timeline (both `CC-`
+  internal contradictions needing a numeric pick); Valen's age contradiction (a locked `MCD-248`
+  origin scene); the Ghost-Lattice/Silent Mara chronology hedge; three further numeric picks (House
+  Brekka's founding date, Lady Aravel's age, Essek Nightfall's date); Osseren's Pillar-reinstatement
+  question; "the Patient Stone" cross-block naming collision; COS-001's "Vakas power" vs "the Vault"
+  ambiguity; roughly a dozen further near-collision character names.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
