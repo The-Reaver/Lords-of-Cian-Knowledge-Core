@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "35.0",
+  "ledger_version": "35.1",
   "last_updated": "2026-10-02",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2636,6 +2636,13 @@
       "source": "Fable-model (background agent) read-only review of canon-ledger.json MCD rules 901-1350 against the full ledger and Chronicle corpus, 2026-10-02.",
       "rule_count": 0,
       "note": "Mechanical fixes only from a Fable-model read-only review of MCD-901 through MCD-1350: amends 19 rule statements (MCD-951 Undertow/ARS-388 anachronism -> Mar-bloodline tide-sense; MCD-1215 fourth -> fifth unnamed ship, cross-referencing The Second Chance/MCD-607; MCD-1241/MCD-1247 Forge-Coat V3 -> V4 gear at ages 235/180 per ARS-348; MCD-1054/1055/981 Sephtis's 'death' -> staged withdrawal per MCD-982; MCD-1135 an uncited 'two years' figure -> 'the cross-district trust built since the Dredge-Line'; MCD-1137 a self-referential error in its own correction note, 'found Halst and Sok' -> 'found Danne Sok and Maret Vos'; MCD-1074 ARS-347 -> ARS-348 in a V4-gear citation list; MCD-958 'Kanja's ageless nature and an original crew member's' -> 'Kanja's long lifespan and a veteran hand's (already forty-five when he signed on)'; MCD-1311/1314/1326/1329/1332 Mafesto's own 'grounding mechanism/function' -> Kanja's own grounding conductance (MCD-291) working through Mafesto's Kinetic Transfer System (ARS-010); MCD-1071 a stomp-tremor wrongly attributed to Mafesto's own boots -> a stamp through Mafesto's armored boots (the tremor function belongs to the Ironfall Boots); MCD-1038 tension-reading wrongly attributed to Mafesto's Kinetic Transfer System -> Kanja's own Iron Bastard doctrine; MCD-1244 'unseal Onyx' -> 'go back for Onyx,' since Onyx is vaulted at Karkosa during the Long Mask, not carried sealed on his person). Also renumbers a shared placeholder batch citation, 'Corrected Batch 321,' to the real batch number for each alias track across 21 rules (Trench Monarch -> 323: MCD-944/1029/1062/1123/1127/1129/1137/1147; Crow King -> 324: MCD-1261/1262; Iron Bastard -> 326: MCD-1047/1080/1284/1287/1290/1293/1296/1301/1302; Sovereign Ghost -> 327: MCD-1071/1211; Lord of Embers -> 330: MCD-969/1050/1052/1084/1322/1328/1330/1333/1334), and normalizes two stray category fields, MCD-1024/MCD-1093, from 'territory-chronicle' to the correct 'phase2-territory-chronicle'. Companion prose fixes applied directly to the matching Chronicle .md files for MCD-1241/1247 (V3 -> V4 gear) and MCD-1054/1055/981 (Sephtis's death/decline -> staged withdrawal); MCD-951's own Chronicle file was checked and found already correct from a prior pass. Deliberately left untouched: the Garren Hask/Efa Gol/Pell Ostra cross-track mortality contradiction (MCD-920, 1089, 1090, 1243, 1246, 1252, 1253, 1254, 1255, 1076) and the naval-cannon tech-level question, both flagged NEEDS ABAD, plus all ENRICHMENT/optional items from the same review."
+    },
+    {
+      "batch": 349,
+      "date": "2026-10-02",
+      "source": "Fable-model read-only review of MCD-001 through MCD-450 against the full ledger, mechanical/reconciliation subset implemented by this session. Section A (genuine creative contradictions requiring Abad's own ruling) deliberately left untouched.",
+      "rules_affected": 106,
+      "note": "Mechanical-fix subset of a Fable-model read-only review of MCD-001 through MCD-450. Statement fixes: MCD-139 (superseded by MCD-140's Avatar-count correction), MCD-050 (Division 5's function resolved per MCD-135), MCD-034 (two artifacts -> three named per ARS-361, stale 'Session Lock 2' note removed), MCD-103 (superseded -- Session Lock 2 never existed, OPEN-005), MCD-110 (Maw-7 Slab corrected to the Throat per the Batch 103 GEO-003 correction), MCD-084 (clarified his parents, not Red Beard, were executed at the Slab of Judgment/Maw-7), MCD-209 (Lauris's age 4,000->6,000 per MCD-1533; Orlok's post-enlightenment figure 30,000x->20,000x per MCD-096/CC-058), MCD-214 (age-ratio twelve->nineteen times recomputed off her corrected age; Val Saeryn's citation MCD-155->MCD-101/MCD-149, MCD-155 being about an unrelated character), MCD-217 (age/lifespan-remaining recomputed off her corrected 6,000-year age, citation MCD-148->MCD-149), MCD-156 (birth-date recomputed; Selene's death re-dated to ~28 years before Lauris's departure per MCD-174/MCD-1686, replacing a stale '1,400 years into her life' figure MCD-172 already contradicts, and her age at death recomputed from her age at conception, MCD-162), MCD-163 (the density-reading-gap figure corrected to age 14/2,800x per MCD-166), MCD-171 ('first lethal combat' reworded to 'first life-threatening deployment,' no opponent in that scene), MCD-208 (the Stage-2 autonomous-running duration clarified as two centuries at that point in the narrative, three by Book 1's present per MCD-142), MCD-201 (dropped an assertion of Yuto Haku's death, which MCD-314 already locks as false -- he's alive), MCD-309 (updated its own forward reference now that MCD-314 has resolved Haku's fate as alive), MCD-338 (recorded that both interstitial chapters have since been drafted and locked at MCD-1621/MCD-1622, Batch 297), MCD-256 (clarified the Century Mark as the first Stage-1-to-2 transition Kanja himself perceives, not the Talisman's actual first transition, which MCD-142/208/252 already show ran autonomously earlier), MCD-312 (ship count twelve->twenty-two to match the already-locked 22-ship arrowhead at MCD-242/MCD-392), MCD-230 (swapped the Blue-Collar Titan/Industrial Myth list order to match their own stated ages, 20 before 21), MCD-235 (The Audit reframed from 'capital ship' to 'escort warship' per MCD-285), MCD-257 (a real-world-object leak, 'tennis ball' -> 'a man's fist'), MCD-258 (a tech-level anachronism -- this world has no cameras/film -- 'filmed' -> 'recorded in full by... sketch-artists and scribes'), and MCD-275/MCD-277/MCD-254 (a circular-citation chain fixed: MCD-254 now carries the actual Krael three-generation-dynasty genealogy text that both MCD-275 and MCD-277 point to, and both of their own citations corrected to point at MCD-254 directly rather than at each other). 'B25' from the original review was confirmed already fixed in an earlier batch (MCD-1720 already cites ARS-344) and not reapplied. Metadata: 52 rules' uppercase 'LOCKED' status normalized to lowercase 'locked' (C1), MCD-051/MCD-122's composite statuses normalized to 'locked' with their qualifier information already present in their own statement prose, MCD-112's 'FLAGGED' normalized to lowercase 'flagged' (a genuinely open item, left open), MCD-131/132/133's null category set to 'character-pyro' matching MCD-022 (C2), and 23 rules' stale 'World Mechanics'/'phase2-homage-chronicle' category tags normalized to the corpus-wide convention 'phase2-territory-chronicle' (C3; MCD-338 deliberately left at 'World Mechanics', a structural rule rather than a territory Chronicle; MCD-1024/MCD-1093 confirmed already correct and left untouched). Deliberately NOT touched: Section A of the review (the 296-vs-284-year Fulfillment Ceremony timing question, the Kares Prime timeline arithmetic, Lauris/Fermand's joining dates, Haryn Dael's age vs the Moonvault's age, Nadea Thren's champion-seat history, Valen's join-date/surname, the first-Verehimu contradiction, 'Yuto Haku' naming, the adulthood-phase arithmetic for the Kareth sisters, and the lower-priority A12 tensions) -- all left exactly as-is, reserved for Abad's own direct ruling."
     }
   ],
   "rules": [
@@ -2643,158 +2650,157 @@
       "id": "MCD-001",
       "category": "core-world-rules",
       "statement": "No antithesis language. All capabilities are physical, engineered, or biological. The Ten Tongues system uses frequency, resonance, and density, described in physics terms only.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-002",
       "category": "core-world-rules",
       "statement": "Mythic Realism. The narrative voice is Rorschach-Tolkien.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-003",
       "category": "core-world-rules",
       "statement": "The Pi-Awakening occurs between Kanja's 314th and 315th birthday.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-004",
       "category": "core-world-rules",
       "statement": "Kanja's Rebellion (ages 18-30) was against the Sovereign Trust (visible government), NOT the SBD. The SBD is clandestine, uncovered in the Book 1 epilogue.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-005",
       "category": "core-world-rules",
       "statement": "Institutional naming: the Sovereign Trust is the visible government. The Directorate is the informal name for the Trust's enforcement apparatus, used in common speech, especially labor districts and rebellion-era records. The SBD is the clandestine layer beneath both. Three names, one institutional architecture.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-010",
       "category": "naming-resolutions",
       "statement": "Hermes is now Fermand Aurelias. Hermes remains as an operational alias only.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-011",
       "category": "naming-resolutions",
       "statement": "Varro Kharas is now Lord Varro Dominael, \"The Crownless Marshal.\"",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-012",
       "category": "naming-resolutions",
       "statement": "Archon Thorne is discarded. Does not exist.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-013",
       "category": "naming-resolutions",
       "statement": "Archon Meridian is Archon Un Ra, T.D.K.'s hidden son. He does not know this.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-020",
       "category": "character-varkul",
       "statement": "Varkul's morphing is a natural adaptive response to habitat, not a transformation power. Land Form and Hydro-Titan Form are both canon. The Harrow Ring is hydrodynamic physics.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-021",
       "category": "character-nadea-thren",
       "statement": "Lady Nadea Thren is an independent operator who defected FROM the SBD. She is NOT T.D.K.'s champion and NOT \"Glass Ordained.\" She is Ezio's patron. The Mirrored Chorus dissolved upon her departure.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-022",
       "category": "character-pyro",
       "statement": "Pyro's hidden birth name is Ignis. \"Pyro\" is a ship-name. His birth is NATURAL. The Dhar-Kael bond was completed by his mother (the last keeper) BEFORE T.D.K.'s Living Gate curse. The Demaron event is separate from and after the birth; Stormbreaker's trauma is preserved, resequenced rather than replaced.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-023",
       "category": "character-onyx",
       "statement": "Onyx is Kanja's Blade. SBD blackscribe origin. Black Ledger chronicler. Sentient Drakma Longsword, royal Karesian.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-024",
       "category": "character-ozmund",
       "statement": "Ozmund's Density Spike is Karesian inheritance, active from birth with an early trigger at age 2. He carries the Crown-Scar plus Kares Prime Kareth War-Order blood, meaning T.D.K.'s command architecture running on Karesian hardware. He has full conscious density control without an Awakening.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-025",
       "category": "character-ozmund",
       "statement": "Ozmund's Book 1 arc: his father Aethelgard Verehimu and Kanja's father Maro Rexmar are both murdered at the Fulfillment Ceremony (Book 1's opening) -> he rejects the crown -> hires Ezio to investigate -> enters Maw circuits -> discovers the Crown-Scar truth (T.D.K.'s neural architecture in every Verehimu) -> takes the Venim surname, shedding Verehimu -> builds the Unchained Legion -> Red Beard brings 150,000 Cestari -> defects to the Shattered Kingdoms at the climax -> marches on T.D.K.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-026",
       "category": "plot-threats",
       "statement": "Project Apotheosis and Subject 0-Alpha are LIVE THREATS discovered during the Book 1 investigation, not resolved backstory.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-030",
       "category": "character-lauris",
       "statement": "Lauris Letitia's Anomalous Mass is density without corresponding weight, Karesian biology from Kares Prime. She doesn't sink because her density has no weight; the physics cannot reconcile the two.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-031",
       "category": "character-lauris",
       "statement": "Lauris is full-blooded Karesian. NOT a lab product, NOT manufactured, NOT a Lattice-Amplification Variant.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-032",
       "category": "character-lauris",
       "statement": "Lauris is a former SBD contractor who left voluntarily. Ezio offered clarity; she accepted.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-033",
       "category": "character-lauris",
       "statement": "Lauris's weapons: Aristocrat (rapier), Spine of Dagon (6.2ft greatsword with Swallow sheath), Attia's Rite (Kanja-forged breaker), Phalanx (Night-Glass / Solar-Spire / Phoenix-Guard / Triad-Lock).",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-034",
       "category": "character-lauris",
-      "statement": "Lauris Letitia is the last born pure-blood Karesian before the men died and the women ruled alone. The pinnacle of Karesian biology, surpassing all pure-bloods before her, and the biological ceiling of an extinct cooperation between Karesian men and women. She will inherit two battle artifacts from the Kareth sisters (details deferred to \"Session Lock 2, April 11 2026\" -- not yet located in this corpus).",
-      "status": "LOCKED",
-      "note": "Full backstory/psych profile/capability profile deferred to a document not yet found: 'Session Lock 2 (April 11, 2026)'."
+      "statement": "Lauris Letitia is the last born pure-blood Karesian before the men died and the women ruled alone. The pinnacle of Karesian biology, surpassing all pure-bloods before her, and the biological ceiling of an extinct cooperation between Karesian men and women. She will inherit three battle artifacts from the Kareth sisters -- the Convergence, the Gradient, and the Patient Stone (ARS-361; received no earlier than Book 3).",
+      "status": "locked"
     },
     {
       "id": "MCD-040",
       "category": "world-dhar-kael",
       "statement": "The Dhar-Kael (the Bound Ones) are a clade of three companion species bonded symbiotically with Karesian biology: Tide-Back Coursers (Varkul's species, land/water), Oath-Raptors (Varruk's species, sky), Apex-Felines (Sorya's species, shadow/memory). Imprint happens during a juvenile window. The bond is permanent, biological, non-transferable. Pyro's mother was the last keeper of the tradition. Three survivors remain; when they die, the clade is extinct.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-041",
       "category": "world-vael-kem",
       "statement": "The Vael Kem (the Hollow Tide) are a deep-ocean civilization with pressure-based biology, the inverse of Karesian density. They consumed Dhar-Kael as a food source and drove them to near-extinction. The Rexmar bloodline's military tradition was forged in this war, protecting what cannot protect itself. The Vael Kem are scattered, not destroyed.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-050",
       "category": "tdk-military",
-      "statement": "T.D.K. (Anu Un Ra) military structure: Division 1 Weights/Conquest, Champion General Baryon, open warfare. Division 2 Echoes/Nameless Pursuit, Champion Sereth Vaul \"The Silencer,\" tracking/pursuit/Ever-Haunt. Division 3 Mirages/Illusions, Champion Lady Vestige, illusion warfare. Division 4 Crownless Host/Dominion, Champion Lord Varro Dominael, undead legions/siege. Division 5, post-Thren replacement Champion Bolo Troth, function TBD. The Mirrored Chorus dissolved upon Nadea Thren's defection. 5 active champions, 5 active divisions.",
-      "status": "LOCKED"
+      "statement": "T.D.K. (Anu Un Ra) military structure: Division 1 Weights/Conquest, Champion General Baryon, open warfare. Division 2 Echoes/Nameless Pursuit, Champion Sereth Vaul \"The Silencer,\" tracking/pursuit/Ever-Haunt. Division 3 Mirages/Illusions, Champion Lady Vestige, illusion warfare. Division 4 Crownless Host/Dominion, Champion Lord Varro Dominael, undead legions/siege. Division 5, post-Thren replacement Champion Bolo Troth, institutional-subversion and cult-coordination command (function resolved at MCD-135). The Mirrored Chorus dissolved upon Nadea Thren's defection. 5 active champions, 5 active divisions.",
+      "status": "locked"
     },
     {
       "id": "MCD-051",
       "category": "tdk-military",
       "statement": "The Era Zero War is REMOVED from canon. Project Apotheosis and Subject 0-Alpha are now active threats discovered during Book 1's investigation, not resolved backstory. Ozmund's entire military arc (crown rejection, Venim identity, Unchained Legion, Red Beard's 150,000-Cestari defection) occurs within Book 1's present narrative.",
-      "status": "LOCKED, REMOVED (Era Zero War specifically)"
+      "status": "locked"
     },
     {
       "id": "MCD-052",
       "category": "world-crown-scar",
       "statement": "Crown-Scar mechanics: a neural residue graft of T.D.K.'s command-frequency architecture, bioelectrically integrated, designed to be hereditary. The root-access tether was lost when Haku's campaigns fractured T.D.K.'s infrastructure. It was given BEFORE Verehimu's betrayal; T.D.K. created his own downfall tool.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-053",
@@ -2807,69 +2813,69 @@
       "id": "MCD-060",
       "category": "talisman-of-mao",
       "statement": "The Talisman of Mao has 3 stages, 9 substages total. Stage 1, Sovereign Umbrella, recipient the Crew: sub1 Shadow-Pulse (lattice-awareness + digital invisibility), sub2 Blight Immunity (frequency neutralization), sub3 Kinetic Buffer (Newtonian dampening). Stage 2, Grounded Bastion, recipient the Planet: sub1 Heavy Hand (density transfer through contact), sub2 Foundry Anvil (radiance channeled into subterranean strata), sub3 Gravity-Fetter pendant AND Architectural Reinforcement / Lattice-Coupling, blended as one mechanic (see MCD-061). Stage 3, Internal Quench, recipient the Captain: sub1 Bone-Tempering, sub2 Biological Total-Lock, sub3 Governor's Shackle.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-061",
       "category": "talisman-of-mao",
       "statement": "Resolution of CONFLICT-001 (Grounded Bastion Substage 3): the Gravity-Fetter pendant and Architectural Reinforcement/Lattice-Coupling are cause and effect within it, per Abad's direct ruling (2026-08-13). This resolves the lighthouse/Pi-Awakening staging.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-08-13"
     },
     {
       "id": "MCD-070",
       "category": "book1-structure",
       "statement": "Book 1, \"The Deposed King.\" Opening: murder scene, two kings dead, Ezio and Fermand investigate, hired by Ozmund. Three acts: Investigation -> 10-Day Interregnum -> Karkosa Heist. Epilogue: the Great Breach, SBD uncovered, T.D.K.'s 5,000-year dormancy ends.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-080",
       "category": "maw-terminology",
       "statement": "Maw system terms: Maw (the venue/sport/institution), Grand Maw (mega-venues), the Slab (combat floor), Branded (any fighter in the Maw system), Branded Peak, Proven, Shaper, Shapers' Compact, Blood Writ, Proving, Brand-Line, the Display.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-081",
       "category": "maw-house-system",
       "statement": "Maw House System, four tiers: Pillars (7 founding Houses), Banners (30-40 Great Houses), Standards (300-500 chartered Houses), Pits (thousands, unlicensed).",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-082",
       "category": "maw-circuit",
       "statement": "Grand Circuit progression: Pit Circuits -> Regional Circuits -> Provincial Provings -> Grand Circuit -> the Apex (Karkosa, annual) -> the Reclamation (Vakas, every 50 years).",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-083",
       "category": "maw-vakas",
       "statement": "Vakas, the Reclamation, is not a death match, it is a judgment. Scales to ~150% of the champion's density. Evaluates authenticity, courage, innovation, integrity. Approved fighters unlock the Proven tier (5,000-8,000x). Corrupt or fraudulent champions die.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-084",
       "category": "character-red-beard",
-      "statement": "Red Beard: Reclamation-Proven at 7,000x. Trained with Ozmund in secret. Current density 16,000x actual, ceiling approximately 18,000x. The world believes he is 4,800x. Parents: Handler-4412 and Handler-6019. The Quiet Table fed 3,000 Cestari across twelve Maws for nine years. Executed on the Slab of Maw-7.",
-      "status": "LOCKED"
+      "statement": "Red Beard: Reclamation-Proven at 7,000x. Trained with Ozmund in secret. Current density 16,000x actual, ceiling approximately 18,000x. The world believes he is 4,800x. Parents: Handler-4412 and Handler-6019. The Quiet Table fed 3,000 Cestari across twelve Maws for nine years. His parents were executed on the Slab of Judgment (Maw-7, Keldane; MAW-065/MAW-121).",
+      "status": "locked"
     },
     {
       "id": "MCD-085",
       "category": "sovereign-pier-accords",
       "statement": "Kanja's surrender was political, not military. King Maro Rexmar and Aethelgard Verehimu secretly negotiated a pact; when both are murdered at the Fulfillment Ceremony, the pact dies. The Book 1 investigation is about who killed a peace.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-090",
       "category": "session-lock-2026-03-25",
       "statement": "Lineage locks: Maro Rexmar is Kanja's father. Drakmund Verehimu is the Evil King, Aethelgard's father, exiled by Aethelgard, alive in the Shattered Kingdoms, capable, carrying a Crown-Scar. Aethelgard Verehimu was king for one month before the double regicide.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25"
     },
     {
       "id": "MCD-091",
       "category": "session-lock-2026-03-25",
       "statement": "The Double Regicide: both Maro Rexmar and Aethelgard Verehimu are murdered at the Fulfillment Ceremony, killed by the Three Ronin with SBD wet-work support team cover-up. The Fulfillment Ceremony is the ceremonial event held at the Sovereignty Summit; the two names refer to the same occasion. The Fulfillment Ceremony is separate from the Sovereign Pier Accords, roughly 296 years apart.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25",
       "note": "A-3 (Abad, 2026-08-23) confirms this rule already states the resolution the audit asked for; no change needed."
     },
@@ -2877,129 +2883,129 @@
       "id": "MCD-092",
       "category": "session-lock-2026-03-25",
       "statement": "The Three Ronin: the Silence (Decimus Korr, 2,800x), the Ghost (unknown name, Lawless Reaches, 180x), the Blade (Serai Noth, 3,400x). An SBD wet-work team of 6-8 sanitizes after each operation. Reckonings: Silence by Red Beard (Book 4), Ghost by Anansi/Valeria (Book 4), Blade by Valen (Book 5).",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25"
     },
     {
       "id": "MCD-093",
       "category": "session-lock-2026-03-25",
       "statement": "The Beloved (Ronin victims, Book 3): Nelle Adessi, healer, 38x, killed mid-ledger-entry. Tomas Grieve, builder, 220x, killed reaching for the door to help Nelle. A coordinated 94-second Ronin operation, all three Ronin involved.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25"
     },
     {
       "id": "MCD-094",
       "category": "session-lock-2026-03-25",
       "statement": "Shattered Kingdoms geography: world split roughly Shattered Kingdoms 75%, Sovereign Trust 15%, Jicome 10%. Five nations: Aethel-Gard (neutral), Obsidian Prefecture (antagonist), Astral Archipelago (allied), Celestial Zenith (allied through Orlok), Hollow Shogunate (antagonist, Book 3+). The Kingdoms of Merak are a pre-Old Dominion civilization T.D.K. purged over roughly 30,000-40,000 years.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25"
     },
     {
       "id": "MCD-095",
       "category": "session-lock-2026-03-25",
       "statement": "Archipelago characters: Soledad Keme is the true name of the Singularity (First Seat). Legbara Kalunga is the true name of the Event Horizon / Master Void-Cusp, the Singularity's Champion.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25"
     },
     {
       "id": "MCD-096",
       "category": "session-lock-2026-03-25",
       "statement": "Orlok finalized: age 76,003 years. Density variable, resting 12,000x, combat 16,000-18,000x, ascension 20,000x with a reforged staff. Four disciplines only: Density Manipulation, Kinetic Ascension, Density Sight, the Vault. Enlightenment is triggered by the Vakas draw (Book 4).",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25"
     },
     {
       "id": "MCD-097",
       "category": "books-3-5-structure",
       "statement": "Book 3, The Dark Monarch: Crown-Scar arc, Shogunate war, Archon as a third force. Book 4, The Broken Meridian: alliance converges, Orlok vs Vakas (the draw). Book 5, The Miner's Son: three fronts, T.D.K. contained, Pyro peaks, Orlok transcends.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25"
     },
     {
       "id": "MCD-098",
       "category": "book5-gate-battle",
       "statement": "Book 5 Gate Battle: Orlok holds the Broken Meridian entrance. Gate team: Orlok, Anansi, Ezio, Fermand, Legbara Kalunga. Ezio's cover dies at the gate; the gate lives.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25"
     },
     {
       "id": "MCD-099",
       "category": "post-book5",
       "statement": "Post-Book-5: T.D.K. is contained, not killed. Ever-Haunt is freed from direction. The Shattered Kingdoms are left unresolved. Drakmund Verehimu is alive as an open thread. Archon Meridian is an unresolved third force.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-03-25"
     },
     {
       "id": "MCD-100",
       "category": "session-lock-final-additions",
       "statement": "The Dark Monarch (Book 3): the Crown-Scar is a CHOICE Ozmund makes. \"The Dark Monarch\" is a title the world gives him. Kanja does NOT lose in this series. Red Beard delivers the awakening.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-101",
       "category": "kareth-sisters",
       "statement": "Val Saeryn Kareth is Kanja's mother. Val Mirel Kareth is Ozmund's mother. They are sisters, both Karesian. Kanja and Ozmund are cousins through their mothers, not their fathers. Ages: Val Saeryn 93,179 years, Val Mirel 89,003 years.",
-      "status": "LOCKED core facts; full profiles deferred to a document not yet found"
+      "status": "locked"
     },
     {
       "id": "MCD-102",
       "category": "character-kanja",
       "statement": "Kanja does not lose in this series. Post-Pi-Awakening: Rexmar bloodline plus Karesian biology plus Density Spike plus indomitable will and durability equals peak tier.",
-      "status": "LOCKED"
+      "status": "locked"
     },
     {
       "id": "MCD-103",
       "category": "power-tier-hierarchy",
-      "statement": "A definitive power-tier ranking of all combat-relevant characters exists. Stated as built and locked in 'Session Lock 2, April 11 2026' -- not yet located in this corpus.",
-      "status": "referenced as LOCKED elsewhere; source document not yet found"
+      "statement": "A definitive power-tier ranking of all combat-relevant characters exists. Stated as built and locked in 'Session Lock 2, April 11 2026' -- not yet located in this corpus. Resolved Batch 69 (OPEN-005): 'Session Lock 2' never existed as a standalone document; the operative combat-tier ranking is the density-tier table locked at WC-024/WC-003.",
+      "status": "superseded"
     },
     {
       "id": "MCD-110",
       "category": "session-lock-geography-2026-08-12, corrected 2026-08-15",
-      "statement": "Jicome is Haku's unified kingdom: a Rex mainland (capital Rexhaven) and a Mar archipelago, united by Haku and held by the Rexmar line after him. The Sovereign Trust Domain (capital Karkosa, including Stormshelter Cove and Maw-7 Slab) is a SEPARATE, distinct territory, not Jicome under another name. ORIGINAL TEXT, SUPERSEDED: \"Jicome is the mapped Sovereign Trust Domain...\"",
-      "status": "LOCKED",
+      "statement": "Jicome is Haku's unified kingdom: a Rex mainland (capital Rexhaven) and a Mar archipelago, united by Haku and held by the Rexmar line after him. The Sovereign Trust Domain (capital Karkosa, including Stormshelter Cove and the Throat -- the unnumbered Grand Maw of Karkosa, MAW-060; Maw-7 is the separate Keldane venue, MAW-061, per the Batch 103 GEO-003 correction) is a SEPARATE, distinct territory, not Jicome under another name. ORIGINAL TEXT, SUPERSEDED: \"Jicome is the mapped Sovereign Trust Domain...\"",
+      "status": "locked",
       "locked_date": "2026-08-12"
     },
     {
       "id": "MCD-111",
       "category": "session-lock-geography-2026-08-12, corrected 2026-08-15",
       "statement": "The Regional Atlas's 'Jicome' region (capital Rexhaven, far northwest) IS the Rex/mainland half of the nation of Jicome (see corrected MCD-110). ORIGINAL TEXT, SUPERSEDED: \"The Atlas's separate 'Jicome' region... is not the nation of Jicome...\"",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-08-12"
     },
     {
       "id": "MCD-112",
       "category": "session-lock-geography-2026-08-12, flagged for correction 2026-08-15",
       "statement": "FLAGGED, not resolved: whether 'Southern Seaboard' means Jicome's coastline, the Sovereign Trust Domain's coastline, or both. Needs Abad's direct ruling before Phase 1 item 5 proceeds.",
-      "status": "FLAGGED",
+      "status": "flagged",
       "locked_date": "2026-08-12"
     },
     {
       "id": "MCD-120",
       "category": "session-lock-rexmar-lineage-2026-08-12",
       "statement": "The Haku unification: Jicome holds a mainland (Rex bloodline) and its own archipelago (Mar bloodline), both descending from the same Rex/Mar stock. Haku united the two into one people and one kingdom.",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-08-12"
     },
     {
       "id": "MCD-121",
       "category": "session-lock-rexmar-lineage-2026-08-12",
       "statement": "After Haku, the Rexmar line held Jicome as functional Kings of the Sea, then five successive generations traded functional power for ceremonial Royalty: Turey, Amaru, Yabura, Yaro, Maro Rexmar (Kanja's father, assassinated at the Sovereignty Summit).",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-08-12"
     },
     {
       "id": "MCD-122",
       "category": "correction-2026-08-13",
       "statement": "The Meridian Compact and the Sovereign Trust are NOT the same institution. The Meridian Compact is its own distinct faction, led by Archon Meridian (Archon Un Ra, T.D.K.'s hidden son).",
-      "status": "LOCKED, supersedes prior assumption",
+      "status": "locked",
       "locked_date": "2026-08-13"
     },
     {
       "id": "MCD-130",
       "category": "session-lock-archon-meridian-2026-08-13",
       "statement": "The naming link is deliberate: Archon Meridian leads the Meridian Compact, and the name is his father's. Archon Meridian is Archon Un Ra, T.D.K.'s hidden son, placed under that name by his father, unaware of his true parentage. The name 'Meridian' traces to Anu Un Ra's ancient identity as 'the Ash-King of Broken Meridian.'",
-      "status": "LOCKED",
+      "status": "locked",
       "locked_date": "2026-08-13"
     },
     {
@@ -4012,14 +4018,16 @@
       "statement": "Pyro's mother is NOT dead. When the Demaron entity took hold of her, T.D.K.'s Living Gate (voice-keyed breach-lattice) was deployed as a containment mechanism, designed to seal the threat away. She inverted the Gate's function into a forge instead of letting it seal her along with the entity. That act transformed her rather than ending her: she is fused into the Gate's own architecture, no longer flesh in the ordinary sense, bound into the boundary she built. The Triad Guardians (Varkul, Varruk, Sorya) are what she pushed outward through that inversion before the fusion completed, permanently bonded to Pyro.",
       "status": "locked",
       "source": "Operator ruling, 2026-08-22: 'i love that angle. apporved'",
-      "note": "Resolves OPEN-006. Supersedes the SBD Directives' 'termination... with Kanja's consent' account as the operative truth -- that account stands per CONFLICT-002 as the Directorate's own cold institutional read of watching a person stop being flesh and start being infrastructure, not a lie exactly, but not what actually happened either. Does not contradict MCD-022 (birth natural, Demaron event separate from birth, no prior mention of the mother being terminated) -- this rule gives that separate event a concrete physical outcome instead of leaving it undefined."
+      "note": "Resolves OPEN-006. Supersedes the SBD Directives' 'termination... with Kanja's consent' account as the operative truth -- that account stands per CONFLICT-002 as the Directorate's own cold institutional read of watching a person stop being flesh and start being infrastructure, not a lie exactly, but not what actually happened either. Does not contradict MCD-022 (birth natural, Demaron event separate from birth, no prior mention of the mother being terminated) -- this rule gives that separate event a concrete physical outcome instead of leaving it undefined.",
+      "category": "character-pyro"
     },
     {
       "id": "MCD-132",
       "statement": "Pyro's birth and his mother's transformation into the Living Gate are two effects of the same single event -- described as Pyro being 'born in the severed instant' -- not two separate events with a gap between them. This narrows MCD-022's 'separate from and after the birth' framing to mean sequentially distinct within the same event, not separated by meaningful time.",
       "status": "locked",
       "source": "Operator ruling, 2026-08-22, resolving the WC-017/MCD-022 sequencing note flagged during Batch 9 review",
-      "note": "A future book-level scene can still play the transformation and the birth as distinct beats within one continuous sequence -- this rule fixes only that they are not separated by an extended interval, since the Directorate's own account (already ruled unreliable) implied a longer institutional process."
+      "note": "A future book-level scene can still play the transformation and the birth as distinct beats within one continuous sequence -- this rule fixes only that they are not separated by an extended interval, since the Directorate's own account (already ruled unreliable) implied a longer institutional process.",
+      "category": "character-pyro"
     },
     {
       "id": "CC-001",
@@ -4606,7 +4614,8 @@
       "statement": "The Character Codex (CC-045/CC-046) and the SBD Directives (SBD-010) both state Pyro's mother died during the Living Gate event. This is deliberate misdirection built into the world's own documents, not a continuity error -- multiple in-universe records converge on the same false conclusion by design, so anyone consulting the Codex or SBD casework has every reason to believe she is dead. MCD-131 and MCD-132 remain the sole objective account of what actually happened to her: she survived, inverting the Living Gate into a forge rather than being sealed by it, fused into its architecture.",
       "status": "locked",
       "source": "Operator ruling, 2026-08-22, resolving CONFLICT-005 (approved verbatim: 'i need those sections to believe that she is dead. it is deliberately there for this purpose... SBD also has conflicting information. this is meant to be deliberate.')",
-      "note": "Extends the CONFLICT-002 pattern (SBD's own account already ruled unreliable institutional narrative, 2026-08-15) to the Character Codex as well -- both documents are now understood as in-world sources built to misdirect, not drafting errors needing correction. MCD-131/MCD-132 stand as the authorial truth beneath both."
+      "note": "Extends the CONFLICT-002 pattern (SBD's own account already ruled unreliable institutional narrative, 2026-08-15) to the Character Codex as well -- both documents are now understood as in-world sources built to misdirect, not drafting errors needing correction. MCD-131/MCD-132 stand as the authorial truth beneath both.",
+      "category": "character-pyro"
     },
     {
       "id": "MCD-134",
@@ -5322,8 +5331,8 @@
     {
       "id": "MCD-139",
       "category": "master-canon-decision",
-      "statement": "A-6 resolved (Abad, 2026-08-23): there are 16 Avatars total, with Pyro counted among them (consistent with the 16 Avatar Two-Tier Placements document and CC-047). The crew totals 17 once Kanja himself is counted alongside his 16 Avatars. This resolves the inconsistency flagged in CC-075: references to '17 Avatars' (including WC-014's Talisman synchronization-server framing) mean 17 crew members, not 17 Talisman-bonded recipients; the Talisman's Sovereign Umbrella protects the 16 Avatars as recipients, with Kanja as the source wearing it rather than a 17th recipient of his own device.",
-      "status": "locked",
+      "statement": "A-6 resolved (Abad, 2026-08-23): there are 16 Avatars total, with Pyro counted among them (consistent with the 16 Avatar Two-Tier Placements document and CC-047). The crew totals 17 once Kanja himself is counted alongside his 16 Avatars. This resolves the inconsistency flagged in CC-075: references to '17 Avatars' (including WC-014's Talisman synchronization-server framing) mean 17 crew members, not 17 Talisman-bonded recipients; the Talisman's Sovereign Umbrella protects the 16 Avatars as recipients, with Kanja as the source wearing it rather than a 17th recipient of his own device. Superseded by MCD-140 (Batch 28): the Avatar count is 19, not 16; WC-014 corrected to match.",
+      "status": "superseded",
       "source": "Ambiguities A-1 through A-7 from the Canon Sync Audit (Codex vs Master Canon), resolved by Abad 2026-08-23 in a one-question-per-output walkthrough"
     },
     {
@@ -6674,7 +6683,7 @@
     {
       "id": "MCD-156",
       "category": "World Mechanics",
-      "statement": "The Last Conclave's final-conception decision wasn't executed immediately -- the Threnarr archivists spent roughly 1,200 years continually refining the donor and maternal-candidate selection for marginally higher genetic integrity, until sample degradation began outpacing the gains, forcing the conception at the latest viable point: Lauris was born ~4,000 years before the series' present. Selene (her mother) raised her for the first 1,400 years of her life before Selene was killed defending Vask Threnarr against a raiding incursion, at 67,400 years old; Selene's archive of raising Lauris is among what Lauris still carries aboard the Karkosa.",
+      "statement": "The Last Conclave's final-conception decision wasn't executed immediately -- the Threnarr archivists spent roughly 1,200 years continually refining the donor and maternal-candidate selection for marginally higher genetic integrity, until sample degradation began outpacing the gains, forcing the conception at the latest viable point: Lauris was born ~6,000 years before the series' present (MCD-1533). Selene (her mother) raised her and remained at her side until Selene was killed defending Vask Threnarr against a raiding incursion roughly 28 years before Lauris's departure (Lauris age ~3,972, MCD-174/MCD-1686), at roughly 42,200 years old (38,200 at conception, MCD-162); Selene's archive of raising Lauris is among what Lauris still carries aboard the Karkosa.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era B ('The Death of the Men')."
     },
@@ -6723,7 +6732,7 @@
     {
       "id": "MCD-163",
       "category": "World Mechanics",
-      "statement": "The Iron-Speakers knew at Lauris's birth that she was the civilization's last possible preservation -- their attempts to identify second and third candidate profiles had already failed by the time she was conceived. They did not yet know what the 47-donor recombination had actually produced (MCD-157); they expected a cooperative-era baseline and treated her accordingly. The gap between what they expected and what she actually was didn't become visible until her first anomalous density reading roughly 1,400 years later.",
+      "statement": "The Iron-Speakers knew at Lauris's birth that she was the civilization's last possible preservation -- their attempts to identify second and third candidate profiles had already failed by the time she was conceived. They did not yet know what the 47-donor recombination had actually produced (MCD-157); they expected a cooperative-era baseline and treated her accordingly. The gap between what they expected and what she actually was didn't become visible until her first anomalous density reading at age 14 (2,800x, double the cohort ceiling, MCD-166).",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era D ('Birth and the Threnarr Childhood')."
     },
@@ -6779,7 +6788,7 @@
     {
       "id": "MCD-171",
       "category": "World Mechanics",
-      "statement": "Lauris's first lethal combat came at age 1,247: a mining collapse at Vask Threnarr trapped three women, and she held the unstable shaft in sustained Triad-Lock for three hours while extracting them, absorbing a calculated 2.4 million metric tons of cumulative pressure-equivalent. An orbital trade representative who witnessed the aftermath filed a report that seeded a persistent cross-network rumor about her -- the same rumor Sephtis encountered in his own archival research roughly 1,800 years before Lauris actually arrived on Cian.",
+      "statement": "Lauris's first life-threatening deployment came at age 1,247: a mining collapse at Vask Threnarr trapped three women, and she held the unstable shaft in sustained Triad-Lock for three hours while extracting them, absorbing a calculated 2.4 million metric tons of cumulative pressure-equivalent. An orbital trade representative who witnessed the aftermath filed a report that seeded a persistent cross-network rumor about her -- the same rumor Sephtis encountered in his own archival research roughly 1,800 years before Lauris actually arrived on Cian.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era E ('Vask Karth-Ven and the Long Development'). The four combat disciplines developed here resolve cleanly onto Lauris's already-locked named weapons (MCD-033, ARS-220) rather than colliding with them -- weapon and discipline share a name."
     },
@@ -6989,7 +6998,7 @@
     {
       "id": "MCD-201",
       "category": "World Mechanics",
-      "statement": "Onyx's introduction to Lauris, conducted in the captain's cabin with Kanja present (Onyx communicates only through whoever holds its grip), took roughly ninety seconds: Kanja extended the sword grip-first as a gesture of availability rather than transfer, and Onyx's silent evaluation of her biological signature, density profile, and combat history concluded with a positive judgment -- Operationally Aligned -- and her permanent addition to the Black Ledger. Onyx then conveyed, through Kanja, that the Black Ledger had held a space reserved for her for roughly 1,200 years, a reservation traced to Onyx's predecessor wielder: Yuto Haku, Kanja's revered ancestor already locked as the only being to force Anu Un Ra's retreat (CC-056, WC-020). Yuto had known of her eventual arrival, via the same orbital-trade rumor network Sephtis had drawn on, without knowing her name, and had reserved the space anyway; the reservation survived his death and every wielder transition since, until Lauris claimed it.",
+      "statement": "Onyx's introduction to Lauris, conducted in the captain's cabin with Kanja present (Onyx communicates only through whoever holds its grip), took roughly ninety seconds: Kanja extended the sword grip-first as a gesture of availability rather than transfer, and Onyx's silent evaluation of her biological signature, density profile, and combat history concluded with a positive judgment -- Operationally Aligned -- and her permanent addition to the Black Ledger. Onyx then conveyed, through Kanja, that the Black Ledger had held a space reserved for her for roughly 1,200 years, a reservation traced to Onyx's predecessor wielder: Yuto Haku, Kanja's revered ancestor already locked as the only being to force Anu Un Ra's retreat (CC-056, WC-020). Yuto had known of her eventual arrival, via the same orbital-trade rumor network Sephtis had drawn on, without knowing her name, and had reserved the space anyway; the reservation survived every wielder transition since, until Lauris claimed it.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era G ('The Lords of Cian and the Attia Role') -- her integration into the crew, the Sephtis Conversation, the Kanja introduction, the Onyx introduction, the forging and delivery of Attia's Rite, her present-day crew relationships, the World Adaptation Observation, and her present-day operational status. Two proper-noun rulings applied per Abad's calls before drafting: Onyx's predecessor wielder, named 'Yuto Rexmar Haku' in the source, is locked as 'Yuto Haku' -- dropping 'Rexmar' since the already-locked timeline (MCD-110/MCD-... Jicome/Rexmar rules) has the Rexmar line beginning after Haku, not with him; and the source's claim that Yuto Haku 'defeated T.D.K. in his Era 12 containment program' is dropped in favor of the already-locked framing (CC-056, WC-020: Haku forced Anu Un Ra's retreat during the Deposition, ~5,000 years ago, via overstretch and Verehimu's betrayal), since 'Era 12' is a separate, much older era and the attribution conflicts with the locked Deposition mechanism. The source's 'Jicome'/'Verehimu' geography is kept renamed Kesmara/Voskharen per Batch 36's ruling, for continuity with the Era F rules. One chronology slip silently corrected, consistent with the Batch 36 precedent of dropping a contradictory age clause: the source describes the World Adaptation pattern recognition as occurring in Lauris's 'second century on Cian' while also placing it 'roughly a century' into her Lords of Cian tenure -- inconsistent with her already-locked ~2,000-year Directorate career preceding her recruitment (MCD-175, MCD-192). Locked here as 'roughly a century into her Lords of Cian tenure' only, dropping the contradictory 'second century on Cian' framing."
     },
@@ -7038,14 +7047,14 @@
     {
       "id": "MCD-208",
       "category": "World Mechanics",
-      "statement": "Roughly a century into her tenure with the Lords of Cian, Lauris detected the same anomaly at double magnitude in the Karkosa's home harbor -- a location with no known history of engineering-tradition activity. She raised the observation to Sephtis, whose archives had no direct precedent but did contain the Talisman of Mao's canonical but previously untested Stage 2 'Foundry Anvil (planetary structural repair)' specification. Fourteen weeks of joint research confirmed the Talisman had been autonomously running Stage 2 for roughly three centuries, incorporating Living Drakma into the geological substrate around Kanja's operational presence -- the mechanism underlying the World Adaptation phenomena already locked at MCD-146/147. Lauris's continuous geological observation across Lords of Cian territories, cross-referenced against Sephtis's archival framework, has since produced a quantified model of the planet's adaptation curve (documented in the Blueprint's Section V). The intelligence is held jointly by Lauris and Sephtis, not centralized in Lords of Cian command: Ezio knows of its existence without requesting access, and Kanja -- per the standing mandate that he not know what his own Talisman has been doing on his behalf -- does not know of it at all, as of the present-day timeline.",
+      "statement": "Roughly a century into her tenure with the Lords of Cian, Lauris detected the same anomaly at double magnitude in the Karkosa's home harbor -- a location with no known history of engineering-tradition activity. She raised the observation to Sephtis, whose archives had no direct precedent but did contain the Talisman of Mao's canonical but previously untested Stage 2 'Foundry Anvil (planetary structural repair)' specification. Fourteen weeks of joint research confirmed the Talisman had been autonomously running Stage 2 for roughly two centuries at that point (three by Book 1's present, MCD-142), incorporating Living Drakma into the geological substrate around Kanja's operational presence -- the mechanism underlying the World Adaptation phenomena already locked at MCD-146/147. Lauris's continuous geological observation across Lords of Cian territories, cross-referenced against Sephtis's archival framework, has since produced a quantified model of the planet's adaptation curve (documented in the Blueprint's Section V). The intelligence is held jointly by Lauris and Sephtis, not centralized in Lords of Cian command: Ezio knows of its existence without requesting access, and Kanja -- per the standing mandate that he not know what his own Talisman has been doing on his behalf -- does not know of it at all, as of the present-day timeline.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era G ('The Lords of Cian and the Attia Role') -- her integration into the crew, the Sephtis Conversation, the Kanja introduction, the Onyx introduction, the forging and delivery of Attia's Rite, her present-day crew relationships, the World Adaptation Observation, and her present-day operational status. Two proper-noun rulings applied per Abad's calls before drafting: Onyx's predecessor wielder, named 'Yuto Rexmar Haku' in the source, is locked as 'Yuto Haku' -- dropping 'Rexmar' since the already-locked timeline (MCD-110/MCD-... Jicome/Rexmar rules) has the Rexmar line beginning after Haku, not with him; and the source's claim that Yuto Haku 'defeated T.D.K. in his Era 12 containment program' is dropped in favor of the already-locked framing (CC-056, WC-020: Haku forced Anu Un Ra's retreat during the Deposition, ~5,000 years ago, via overstretch and Verehimu's betrayal), since 'Era 12' is a separate, much older era and the attribution conflicts with the locked Deposition mechanism. The source's 'Jicome'/'Verehimu' geography is kept renamed Kesmara/Voskharen per Batch 36's ruling, for continuity with the Era F rules. One chronology slip silently corrected, consistent with the Batch 36 precedent of dropping a contradictory age clause: the source describes the World Adaptation pattern recognition as occurring in Lauris's 'second century on Cian' while also placing it 'roughly a century' into her Lords of Cian tenure -- inconsistent with her already-locked ~2,000-year Directorate career preceding her recruitment (MCD-175, MCD-192). Locked here as 'roughly a century into her Lords of Cian tenure' only, dropping the contradictory 'second century on Cian' framing."
     },
     {
       "id": "MCD-209",
       "category": "World Mechanics",
-      "statement": "Lauris's present-day combat profile: static density ~14,000x, rising through her combat-progression curve to ~18,000x at one minute, ~22,000x at thirty minutes, ~26,000x at sixty minutes, and approaching ~30,000x past ninety minutes, with no measurable fatigue threshold. Her tactical profile (Compact Siege) wins through duration rather than opening force. Across roughly 4,000 years of combat she has never been defeated, killed, or surrendered a fight, though she has been delayed, contained, or fought to a standstill; her only meaningful moments of risk have come in engagements resolved in under five minutes, before her combat-progression curve could activate. Her plausible theoretical defeat conditions are opponents who could end a fight in its opening seconds: Anu Un Ra's Warbody at sustained Sovereign Mass with Predictive Oracle architecture, Kanja's Density Spike at limitless impact if it connects immediately, or Orlok at post-enlightenment ~30,000x if he specifically cultivated a discipline against her profile (which he has not, having never engaged her). Operation 28's post-Sister-Hold subject (MCD-186) remains the closest any opponent has come to matching her specifically, despite that subject's engineered constraints.",
+      "statement": "Lauris's present-day combat profile: static density ~14,000x, rising through her combat-progression curve to ~18,000x at one minute, ~22,000x at thirty minutes, ~26,000x at sixty minutes, and approaching ~30,000x past ninety minutes, with no measurable fatigue threshold. Her tactical profile (Compact Siege) wins through duration rather than opening force. Across roughly 6,000 years of combat (MCD-1533) she has never been defeated, killed, or surrendered a fight, though she has been delayed, contained, or fought to a standstill; her only meaningful moments of risk have come in engagements resolved in under five minutes, before her combat-progression curve could activate. Her plausible theoretical defeat conditions are opponents who could end a fight in its opening seconds: Anu Un Ra's Warbody at sustained Sovereign Mass with Predictive Oracle architecture, Kanja's Density Spike at limitless impact if it connects immediately, or Orlok at post-enlightenment ~20,000x (MCD-096/CC-058) if he specifically cultivated a discipline against her profile (which he has not, having never engaged her). Operation 28's post-Sister-Hold subject (MCD-186) remains the closest any opponent has come to matching her specifically, despite that subject's engineered constraints.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era G ('The Lords of Cian and the Attia Role') -- her integration into the crew, the Sephtis Conversation, the Kanja introduction, the Onyx introduction, the forging and delivery of Attia's Rite, her present-day crew relationships, the World Adaptation Observation, and her present-day operational status. Two proper-noun rulings applied per Abad's calls before drafting: Onyx's predecessor wielder, named 'Yuto Rexmar Haku' in the source, is locked as 'Yuto Haku' -- dropping 'Rexmar' since the already-locked timeline (MCD-110/MCD-... Jicome/Rexmar rules) has the Rexmar line beginning after Haku, not with him; and the source's claim that Yuto Haku 'defeated T.D.K. in his Era 12 containment program' is dropped in favor of the already-locked framing (CC-056, WC-020: Haku forced Anu Un Ra's retreat during the Deposition, ~5,000 years ago, via overstretch and Verehimu's betrayal), since 'Era 12' is a separate, much older era and the attribution conflicts with the locked Deposition mechanism. The source's 'Jicome'/'Verehimu' geography is kept renamed Kesmara/Voskharen per Batch 36's ruling, for continuity with the Era F rules. One chronology slip silently corrected, consistent with the Batch 36 precedent of dropping a contradictory age clause: the source describes the World Adaptation pattern recognition as occurring in Lauris's 'second century on Cian' while also placing it 'roughly a century' into her Lords of Cian tenure -- inconsistent with her already-locked ~2,000-year Directorate career preceding her recruitment (MCD-175, MCD-192). Locked here as 'roughly a century into her Lords of Cian tenure' only, dropping the contradictory 'second century on Cian' framing."
     },
@@ -7080,7 +7089,7 @@
     {
       "id": "MCD-214",
       "category": "World Mechanics",
-      "statement": "Lauris's chronological age relative to the Kareth War-Order inverts against Karesian adult-developmental seniority: she is roughly twelve times Kanja's age in calendar years, but her synthesis-genome youth places her, in Karesian generational terms, at biological 'young first adult' status -- younger in adult-developmental terms than several senior Kareth War-Order operatives (including Val Saeryn at 93,179, MCD-155) despite being chronologically older than all of them. The Karesian framework for relative seniority does not produce a clean ordering across the Kares Prime / Kareth-diaspora developmental divergence.",
+      "statement": "Lauris's chronological age relative to the Kareth War-Order inverts against Karesian adult-developmental seniority: she is roughly nineteen times Kanja's age in calendar years, but her synthesis-genome youth places her, in Karesian generational terms, at biological 'young first adult' status -- younger in adult-developmental terms than several senior Kareth War-Order operatives (including Val Saeryn at 93,179, MCD-101/MCD-149) despite being chronologically older than all of them. The Karesian framework for relative seniority does not produce a clean ordering across the Kares Prime / Kareth-diaspora developmental divergence.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era H ('Synthesis') -- the chronicle's closing frame. No new operational events; this era consolidates the accumulated Section VI material into her present-day identity, clarifies what she is not, sketches a flexible five-book structural framework (explicitly not fixed plot specification), and frames the chronicle's thematic function. One minor number normalized: the source's 'karth-ven achieved at age 1,841' is locked to match the already-locked age 1,840 (MCD-172), a one-year rounding discrepancy rather than a substantive conflict. This batch closes Section VI (Eras A through H) of the World Adaptation Blueprint in its entirety."
     },
@@ -7101,7 +7110,7 @@
     {
       "id": "MCD-217",
       "category": "World Mechanics",
-      "statement": "The chronicle frames Lauris as 'a chapter of the world, walking': the personal-scale echo of the Talisman of Mao's planetary hardening (MCD-208) -- when her body hardens against a sustained engagement, it previews in miniature what the Foundry Anvil mechanism is doing to Cian's crust. As of Book 1's present-day, she is roughly 4,000 years old with roughly 96,000 years of expected lifespan remaining, consistent with the already-locked ~100,000-year Karesian lifespan (MCD-148). The chronicle is treated as an open, continuing documentation project rather than a closed biography.",
+      "statement": "The chronicle frames Lauris as 'a chapter of the world, walking': the personal-scale echo of the Talisman of Mao's planetary hardening (MCD-208) -- when her body hardens against a sustained engagement, it previews in miniature what the Foundry Anvil mechanism is doing to Cian's crust. As of Book 1's present-day, she is roughly 6,000 years old (MCD-1533) with roughly 94,000 years of expected lifespan remaining, consistent with the already-locked ~100,000-year Karesian lifespan (MCD-149). The chronicle is treated as an open, continuing documentation project rather than a closed biography.",
       "status": "locked",
       "source": "'World_Adaptation_Blueprint' (Google Drive fileId 1L89Y-CxdnRPmQoDLEUHD2viTcSLoB11rFC72KT7UZJA, Lore Vault), Section VI ('The Lauris Letitia Chronicle'), Era H ('Synthesis') -- the chronicle's closing frame. No new operational events; this era consolidates the accumulated Section VI material into her present-day identity, clarifies what she is not, sketches a flexible five-book structural framework (explicitly not fixed plot specification), and frames the chronicle's thematic function. One minor number normalized: the source's 'karth-ven achieved at age 1,841' is locked to match the already-locked age 1,840 (MCD-172), a one-year rounding discrepancy rather than a substantive conflict. This batch closes Section VI (Eras A through H) of the World Adaptation Blueprint in its entirety."
     },
@@ -7193,7 +7202,7 @@
     {
       "id": "MCD-230",
       "category": "World Mechanics",
-      "statement": "Kanja's Twenty-Two Victories (ages 18-30, 12 years) break down precisely as 10 Conventional Victories, 6 Unwinnable Victories (each earning a Directorate-classified alias), and 6 Operational/labor-logistics Campaigns -- correcting the earlier draft's (WC-023) imprecise 'sixteen conventional' paraphrase (a secondary source's coarser bucketing of 10 Conventional plus 6 Campaigns together). Aliases in acquisition order: the Trench Monarch (18), Bane (19, Black Trench, Unwinnable), the Industrial Myth (21, first iteration, Furnace District Strike), the Blue-Collar Titan (20, Sewer War of Killane), Sovereign Ghost of the Great Sea (21, Ghost Harbor, Unwinnable), the Scourge (22, Ash-Wharf), the Crow King (23, Unwinnable), the Iron Bastard (25, Unwinnable), the Lord of Embers (27, Unwinnable), the Storm That Walks (29, Gale Straits, Unwinnable) -- and Captain, the one name that was never a Directorate classification. Corrected Batch 321, 2026-10-02: the Furnace District Strike's age corrected from 19 to 21 (Ezio Valcari's own age math across the Industrial Myth Alias Chronicle corpus only resolves at 21). The name 'the Industrial Myth' itself circulated informally among workers before the Strike; the Directorate's own formal classification of it dates to the Strike itself, reconciling the several pre-Strike Chronicle entries that already use the name informally.",
+      "statement": "Kanja's Twenty-Two Victories (ages 18-30, 12 years) break down precisely as 10 Conventional Victories, 6 Unwinnable Victories (each earning a Directorate-classified alias), and 6 Operational/labor-logistics Campaigns -- correcting the earlier draft's (WC-023) imprecise 'sixteen conventional' paraphrase (a secondary source's coarser bucketing of 10 Conventional plus 6 Campaigns together). Aliases in acquisition order: the Trench Monarch (18), Bane (19, Black Trench, Unwinnable), the Blue-Collar Titan (20, Sewer War of Killane), the Industrial Myth (21, first iteration, Furnace District Strike), Sovereign Ghost of the Great Sea (21, Ghost Harbor, Unwinnable), the Scourge (22, Ash-Wharf), the Crow King (23, Unwinnable), the Iron Bastard (25, Unwinnable), the Lord of Embers (27, Unwinnable), the Storm That Walks (29, Gale Straits, Unwinnable) -- and Captain, the one name that was never a Directorate classification. Corrected Batch 321, 2026-10-02: the Furnace District Strike's age corrected from 19 to 21 (Ezio Valcari's own age math across the Industrial Myth Alias Chronicle corpus only resolves at 21). The name 'the Industrial Myth' itself circulated informally among workers before the Strike; the Directorate's own formal classification of it dates to the Strike itself, reconciling the several pre-Strike Chronicle entries that already use the name informally.",
       "status": "locked",
       "source": "'Twenty_Two_Victories_Definitive_Edition.docx' (Google Drive fileId 1UNgPMvWCgzMBRpFIS8xH6g0NW4VRX_pj), cross-checked and corrected against the actual written manuscript chapters (Chronicle_I through Chronicle_VIII.docx, Google Drive folder 1rxU-b1bySd0NVlxK91xNn4RtjyyKms-0), which take precedence as the higher-authority source over the planning-document chronicle for the eight battles both cover. Finalizes the pre-existing draft rule WC-023 (World Codex v3.4) with the source's own precise breakdown. Two proper-noun renames applied throughout, consistent with Batch 40's precedent: 'Verehimu Wetlands' and 'Verehimu Span' (generic geography, also misspelled 'Vegehimu' in places in the source) -> Voskharen Wetlands / Voskharen Span, distinct from House Verehimu. Two manuscript-vs-planning-document corrections applied per Abad's ruling: MCD-232's Trinity-deployment clause (Mafesto was already bonded ~2 years before Black Trench and worn dormant; Black Trench is its first combat deployment as part of the complete three-piece Trinity, not a partial deployment with Mafesto unbonded) and MCD-234's claim about where Kanja first met freed Cestari fighters (the manuscript's own opening line for Maw-9 states three of his earliest crew had already fought with him at the Black Trench one battle earlier). Two optional manuscript-detail enrichments confirmed by Abad: MCD-233 gains the decoy force and demolition-charge detail; MCD-235's cruiser count is tightened to match the manuscript exactly (one sunk, two beached and burned) and notes a confirmed-deliberate naming relation (the Ash-Wharf dispensary's Adessi is an elder relative of the already-locked Nelle Adessi, not the same person)."
     },
@@ -7228,7 +7237,7 @@
     {
       "id": "MCD-235",
       "category": "World Mechanics",
-      "statement": "The Siege of the Ghost Harbor (Sovereign Ghost of the Great Sea alias, Unwinnable) and the Ash-Wharf Massacre (birth of the Scourge persona). Ghost Harbor: escaped a six-warship blockade of a landlocked basin by exploiting the tidal draft difference between his shallow fleet and the Trust's grounded destroyers, aided by a magnetic-interference weapon improvised from melted anchor chains aboard his flagship, The Audit (the Trust capital ship captured at Iron Shallows). Ash-Wharf: detonated his own 800-ton Dead Drakma stockpile to neutralize three Trust cruisers (one capsized and sank, two ran aground on the breakwater and burned) and save roughly 4,000 evacuated civilians from a punitive bombardment, standing in his own burning coat as the harbor burned -- the unplanned, emergent origin of the Scourge persona. The Ash-Wharf's medical dispensary was run by a woman named Adessi, an elder relative of the already-locked Nelle Adessi (a distinct person, a different era) -- noted here to preempt confusion between the two.",
+      "statement": "The Siege of the Ghost Harbor (Sovereign Ghost of the Great Sea alias, Unwinnable) and the Ash-Wharf Massacre (birth of the Scourge persona). Ghost Harbor: escaped a six-warship blockade of a landlocked basin by exploiting the tidal draft difference between his shallow fleet and the Trust's grounded destroyers, aided by a magnetic-interference weapon improvised from melted anchor chains aboard his flagship, The Audit (the Trust escort warship captured at Iron Shallows, MCD-285). Ash-Wharf: detonated his own 800-ton Dead Drakma stockpile to neutralize three Trust cruisers (one capsized and sank, two ran aground on the breakwater and burned) and save roughly 4,000 evacuated civilians from a punitive bombardment, standing in his own burning coat as the harbor burned -- the unplanned, emergent origin of the Scourge persona. The Ash-Wharf's medical dispensary was run by a woman named Adessi, an elder relative of the already-locked Nelle Adessi (a distinct person, a different era) -- noted here to preempt confusion between the two.",
       "status": "locked",
       "source": "'Twenty_Two_Victories_Definitive_Edition.docx' (Google Drive fileId 1UNgPMvWCgzMBRpFIS8xH6g0NW4VRX_pj), cross-checked and corrected against the actual written manuscript chapters (Chronicle_I through Chronicle_VIII.docx, Google Drive folder 1rxU-b1bySd0NVlxK91xNn4RtjyyKms-0), which take precedence as the higher-authority source over the planning-document chronicle for the eight battles both cover. Finalizes the pre-existing draft rule WC-023 (World Codex v3.4) with the source's own precise breakdown. Two proper-noun renames applied throughout, consistent with Batch 40's precedent: 'Verehimu Wetlands' and 'Verehimu Span' (generic geography, also misspelled 'Vegehimu' in places in the source) -> Voskharen Wetlands / Voskharen Span, distinct from House Verehimu. Two manuscript-vs-planning-document corrections applied per Abad's ruling: MCD-232's Trinity-deployment clause (Mafesto was already bonded ~2 years before Black Trench and worn dormant; Black Trench is its first combat deployment as part of the complete three-piece Trinity, not a partial deployment with Mafesto unbonded) and MCD-234's claim about where Kanja first met freed Cestari fighters (the manuscript's own opening line for Maw-9 states three of his earliest crew had already fought with him at the Black Trench one battle earlier). Two optional manuscript-detail enrichments confirmed by Abad: MCD-233 gains the decoy force and demolition-charge detail; MCD-235's cruiser count is tightened to match the manuscript exactly (one sunk, two beached and burned) and notes a confirmed-deliberate naming relation (the Ash-Wharf dispensary's Adessi is an elder relative of the already-locked Nelle Adessi, not the same person)."
     },
@@ -7361,7 +7370,7 @@
     {
       "id": "MCD-254",
       "category": "World Mechanics",
-      "statement": "The Meridian Crossing (age 90): the Sovereign Trust commits its last major naval asset (20 warships under Commodore Veska -- an unrelated, coincidentally-named Trust officer, not Lauris's instructor Veska Karth-Ven) against Kanja's 14 ships in deep water chosen to deny his usual terrain/acoustic tricks. Six Avatars operating invisibly beneath two decoy ships disable 7 of 20 ships in 4 minutes without a shot fired, forcing the Trust's doctrine to pivot from anti-fleet to anti-personnel targeting -- the strategic shift that makes the Talisman's later stealth capabilities load-bearing for the rest of the era.",
+      "statement": "The Meridian Crossing (age 90): the Sovereign Trust commits its last major naval asset (20 warships under Commodore Veska -- an unrelated, coincidentally-named Trust officer, not Lauris's instructor Veska Karth-Ven) against Kanja's 14 ships in deep water chosen to deny his usual terrain/acoustic tricks. Six Avatars operating invisibly beneath two decoy ships disable 7 of 20 ships in 4 minutes without a shot fired, forcing the Trust's doctrine to pivot from anti-fleet to anti-personnel targeting -- the strategic shift that makes the Talisman's later stealth capabilities load-bearing for the rest of the era. The Krael name across the Long Mask is a three-generation Sovereign Trust naval dynasty descending from Admiral Dessius Krael of the Gale Straits (MCD-242): Dessius Krael II (active around Kanja's age 100) and Krael III (ages 222 and 298, MCD-275/MCD-277), a deliberate dynasty rather than a coincidental homonym.",
       "status": "locked",
       "source": "'Long_Mask_Chronicles_Definitive_Edition.docx' (Google Drive, Lore Vault folder) -- Kanja Rexmar's 284-year 'Long Mask' disguised period (ages 30-314), covering 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger entries. Extracted via four parallel background-agent summarization passes (lines 1-850, 800-1967, 1460-2119, 2100-2514) followed by manual synthesis, collision-checking, and condensation into narrative-cluster rules (1-4 source battles/campaigns per rule), following the same approach used for Twenty_Two_Victories (Batch 41). Two continuity reconciliations pre-agreed by Abad before drafting were applied where the relevant scenes appeared: Lauris Letitia's Forged Triad recalibration (MCD-267) does not overwrite her true origin at MCD-176 -- Kanja's role is a major rebuild/recalibration extending his already-locked maintenance-authority relationship (MCD-204), not original forging; and Fermand Aurelias's post-Citadel resilience (MCD-268) is locked as trained/conditioned physiology and extreme mental fortitude, not an inherent biological grant, consistent with his already-locked baseline at CC-033, with his escape framed as substantially his own doing rather than a passive rescue. Several proper-noun collision checks were run against the live ledger before drafting: 'Commodore Veska' (this document) vs. 'Veska Karth-Ven' (Lauris's Kares Prime instructor) and 'Admiral Vos' (this document) vs. 'Maret Vos' (locked crew member) are both coincidental homonyms across unrelated characters/eras, not renamed; the Krael family name across this document (Dessius Krael II, age 100; Krael III, age 222 and 298) is locked as an intentional three-generation dynasty descending from the already-locked Admiral Dessius Krael ('the Gale Straits admiral'); Stormreaver/Kairo's 'Zephyr-Frame' is read as forged flight equipment layered onto his already-locked Aero Variant/Falcon-Pack biology, not a contradiction; and 'the Living Gate's cavern system' (an ancient Karesian heritage site surveyed by the Trust at age 282) is read as the same Living Gate later activated as T.D.K.'s containment mechanism at Pyro's birth (age ~290, MCD-131/132) -- an existing ancient structure T.D.K. later weaponized, not a separate location, and not a contradiction of the already-locked birth sequence. All naming/identity calls above were presented to Abad in-conversation for override before locking."
     },
@@ -7375,21 +7384,21 @@
     {
       "id": "MCD-256",
       "category": "World Mechanics",
-      "statement": "Golden Terror opens (ages 95-105): the Lighthouse Deception (95) and the Century Mark (100) are minor/status operations; the Century Mark marks the Talisman of Mao's first explicit transition from Stage 1 toward Stage 2. The Masquerade of Ironport (105) opens Part III ('The Golden Terror') with Kanja infiltrating a Trust gala in his actual gear worn as a 'costume,' stealing a 340-name guest registry and harbor codes later reused in the Dead Fleet Rises.",
+      "statement": "Golden Terror opens (ages 95-105): the Lighthouse Deception (95) and the Century Mark (100) are minor/status operations; the Century Mark marks the first transition from Stage 1 toward Stage 2 that Kanja himself perceives (Grounded Bastion had already been running autonomously without his knowledge, MCD-142/MCD-208/MCD-252). The Masquerade of Ironport (105) opens Part III ('The Golden Terror') with Kanja infiltrating a Trust gala in his actual gear worn as a 'costume,' stealing a 340-name guest registry and harbor codes later reused in the Dead Fleet Rises.",
       "status": "locked",
       "source": "'Long_Mask_Chronicles_Definitive_Edition.docx' (Google Drive, Lore Vault folder) -- Kanja Rexmar's 284-year 'Long Mask' disguised period (ages 30-314), covering 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger entries. Extracted via four parallel background-agent summarization passes (lines 1-850, 800-1967, 1460-2119, 2100-2514) followed by manual synthesis, collision-checking, and condensation into narrative-cluster rules (1-4 source battles/campaigns per rule), following the same approach used for Twenty_Two_Victories (Batch 41). Two continuity reconciliations pre-agreed by Abad before drafting were applied where the relevant scenes appeared: Lauris Letitia's Forged Triad recalibration (MCD-267) does not overwrite her true origin at MCD-176 -- Kanja's role is a major rebuild/recalibration extending his already-locked maintenance-authority relationship (MCD-204), not original forging; and Fermand Aurelias's post-Citadel resilience (MCD-268) is locked as trained/conditioned physiology and extreme mental fortitude, not an inherent biological grant, consistent with his already-locked baseline at CC-033, with his escape framed as substantially his own doing rather than a passive rescue. Several proper-noun collision checks were run against the live ledger before drafting: 'Commodore Veska' (this document) vs. 'Veska Karth-Ven' (Lauris's Kares Prime instructor) and 'Admiral Vos' (this document) vs. 'Maret Vos' (locked crew member) are both coincidental homonyms across unrelated characters/eras, not renamed; the Krael family name across this document (Dessius Krael II, age 100; Krael III, age 222 and 298) is locked as an intentional three-generation dynasty descending from the already-locked Admiral Dessius Krael ('the Gale Straits admiral'); Stormreaver/Kairo's 'Zephyr-Frame' is read as forged flight equipment layered onto his already-locked Aero Variant/Falcon-Pack biology, not a contradiction; and 'the Living Gate's cavern system' (an ancient Karesian heritage site surveyed by the Trust at age 282) is read as the same Living Gate later activated as T.D.K.'s containment mechanism at Pyro's birth (age ~290, MCD-131/132) -- an existing ancient structure T.D.K. later weaponized, not a separate location, and not a contradiction of the already-locked birth sequence. All naming/identity calls above were presented to Abad in-conversation for override before locking."
     },
     {
       "id": "MCD-257",
       "category": "World Mechanics",
-      "statement": "The Vanishing of Pier 19 (age 110) recruits Voidbreaker (Jax, Spatial-Displacement Variant, age 22) after he accidentally folds an entire warehouse depot into a pocket the size of a tennis ball; equipment forged: Phase-Rippers, Void-Marker Darts, Null-Cloak. The Dead Fleet Rises (age 120) -- 20 derelict hulks disguised as a Scourge fleet luring away a 12-warship Trust group for 16 hours while Anansi's team copies 40 years of Trust financial records -- is the first trace of the shadow organization operating inside the Trust's own financial architecture, later confirmed at the Proxy War (age 305) and tied to Book 1's already-locked investigation.",
+      "statement": "The Vanishing of Pier 19 (age 110) recruits Voidbreaker (Jax, Spatial-Displacement Variant, age 22) after he accidentally folds an entire warehouse depot into a pocket the size of a man's fist; equipment forged: Phase-Rippers, Void-Marker Darts, Null-Cloak. The Dead Fleet Rises (age 120) -- 20 derelict hulks disguised as a Scourge fleet luring away a 12-warship Trust group for 16 hours while Anansi's team copies 40 years of Trust financial records -- is the first trace of the shadow organization operating inside the Trust's own financial architecture, later confirmed at the Proxy War (age 305) and tied to Book 1's already-locked investigation.",
       "status": "locked",
       "source": "'Long_Mask_Chronicles_Definitive_Edition.docx' (Google Drive, Lore Vault folder) -- Kanja Rexmar's 284-year 'Long Mask' disguised period (ages 30-314), covering 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger entries. Extracted via four parallel background-agent summarization passes (lines 1-850, 800-1967, 1460-2119, 2100-2514) followed by manual synthesis, collision-checking, and condensation into narrative-cluster rules (1-4 source battles/campaigns per rule), following the same approach used for Twenty_Two_Victories (Batch 41). Two continuity reconciliations pre-agreed by Abad before drafting were applied where the relevant scenes appeared: Lauris Letitia's Forged Triad recalibration (MCD-267) does not overwrite her true origin at MCD-176 -- Kanja's role is a major rebuild/recalibration extending his already-locked maintenance-authority relationship (MCD-204), not original forging; and Fermand Aurelias's post-Citadel resilience (MCD-268) is locked as trained/conditioned physiology and extreme mental fortitude, not an inherent biological grant, consistent with his already-locked baseline at CC-033, with his escape framed as substantially his own doing rather than a passive rescue. Several proper-noun collision checks were run against the live ledger before drafting: 'Commodore Veska' (this document) vs. 'Veska Karth-Ven' (Lauris's Kares Prime instructor) and 'Admiral Vos' (this document) vs. 'Maret Vos' (locked crew member) are both coincidental homonyms across unrelated characters/eras, not renamed; the Krael family name across this document (Dessius Krael II, age 100; Krael III, age 222 and 298) is locked as an intentional three-generation dynasty descending from the already-locked Admiral Dessius Krael ('the Gale Straits admiral'); Stormreaver/Kairo's 'Zephyr-Frame' is read as forged flight equipment layered onto his already-locked Aero Variant/Falcon-Pack biology, not a contradiction; and 'the Living Gate's cavern system' (an ancient Karesian heritage site surveyed by the Trust at age 282) is read as the same Living Gate later activated as T.D.K.'s containment mechanism at Pyro's birth (age ~290, MCD-131/132) -- an existing ancient structure T.D.K. later weaponized, not a separate location, and not a contradiction of the already-locked birth sequence. All naming/identity calls above were presented to Abad in-conversation for override before locking."
     },
     {
       "id": "MCD-258",
       "category": "World Mechanics",
-      "statement": "The Wind That Robbed the Treasury (age 130) recruits Ghostwind (Sylas, 19, Hollowed Density biology, near-undetectable), caught after redistributing stolen treasury funds to 23 settlements over 7 months; equipment: Slipstream Harness, Wind-Razors, Vane-Compass. The Requiem at Gallows Bay (age 140) is a full theatrical rescue of 200 political prisoners, unintentionally filmed by the Trust's own propaganda crew and later leaked as Scourge recruitment material. The Blackboard Lesson (age 148) is a purely humanitarian infiltration -- Kanja personally correcting 47 cadets' dangerously outdated navigation charts at the Trust's Naval Academy, later formally adopted.",
+      "statement": "The Wind That Robbed the Treasury (age 130) recruits Ghostwind (Sylas, 19, Hollowed Density biology, near-undetectable), caught after redistributing stolen treasury funds to 23 settlements over 7 months; equipment: Slipstream Harness, Wind-Razors, Vane-Compass. The Requiem at Gallows Bay (age 140) is a full theatrical rescue of 200 political prisoners, unintentionally recorded in full by the Trust's own propaganda chroniclers (sketch-artists and scribes) and later leaked as Scourge recruitment material. The Blackboard Lesson (age 148) is a purely humanitarian infiltration -- Kanja personally correcting 47 cadets' dangerously outdated navigation charts at the Trust's Naval Academy, later formally adopted.",
       "status": "locked",
       "source": "'Long_Mask_Chronicles_Definitive_Edition.docx' (Google Drive, Lore Vault folder) -- Kanja Rexmar's 284-year 'Long Mask' disguised period (ages 30-314), covering 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger entries. Extracted via four parallel background-agent summarization passes (lines 1-850, 800-1967, 1460-2119, 2100-2514) followed by manual synthesis, collision-checking, and condensation into narrative-cluster rules (1-4 source battles/campaigns per rule), following the same approach used for Twenty_Two_Victories (Batch 41). Two continuity reconciliations pre-agreed by Abad before drafting were applied where the relevant scenes appeared: Lauris Letitia's Forged Triad recalibration (MCD-267) does not overwrite her true origin at MCD-176 -- Kanja's role is a major rebuild/recalibration extending his already-locked maintenance-authority relationship (MCD-204), not original forging; and Fermand Aurelias's post-Citadel resilience (MCD-268) is locked as trained/conditioned physiology and extreme mental fortitude, not an inherent biological grant, consistent with his already-locked baseline at CC-033, with his escape framed as substantially his own doing rather than a passive rescue. Several proper-noun collision checks were run against the live ledger before drafting: 'Commodore Veska' (this document) vs. 'Veska Karth-Ven' (Lauris's Kares Prime instructor) and 'Admiral Vos' (this document) vs. 'Maret Vos' (locked crew member) are both coincidental homonyms across unrelated characters/eras, not renamed; the Krael family name across this document (Dessius Krael II, age 100; Krael III, age 222 and 298) is locked as an intentional three-generation dynasty descending from the already-locked Admiral Dessius Krael ('the Gale Straits admiral'); Stormreaver/Kairo's 'Zephyr-Frame' is read as forged flight equipment layered onto his already-locked Aero Variant/Falcon-Pack biology, not a contradiction; and 'the Living Gate's cavern system' (an ancient Karesian heritage site surveyed by the Trust at age 282) is read as the same Living Gate later activated as T.D.K.'s containment mechanism at Pyro's birth (age ~290, MCD-131/132) -- an existing ancient structure T.D.K. later weaponized, not a separate location, and not a contradiction of the already-locked birth sequence. All naming/identity calls above were presented to Abad in-conversation for override before locking."
     },
@@ -7508,7 +7517,7 @@
     {
       "id": "MCD-275",
       "category": "World Mechanics",
-      "statement": "Tier-2 Campaign C9, the Shadow Skirmishes (ages 280-310): four engagements retroactively forming the pattern behind the Proxy War -- the Karesian Survey Interdiction (282, the Living Gate cavern-system survey referenced at MCD-269); the Verehimu Surveillance Operation (290, targeting House Verehimu, the noble bloodline, not the geographic region already renamed Voskharen at Batch 40, via credentials from a Trust official three years dead); the Officer Reassignment Pattern (298, exposing that competent officers including Commodore Veska, 'young Krael' (Krael III, per MCD-277), and Governor Tallis were quietly sidelined rather than promoted); and the Pre-Positioning (308, Trust assets repositioning toward the Gilded Lighthouse's coordinates without the Trust's own knowledge of why).",
+      "statement": "Tier-2 Campaign C9, the Shadow Skirmishes (ages 280-310): four engagements retroactively forming the pattern behind the Proxy War -- the Karesian Survey Interdiction (282, the Living Gate cavern-system survey referenced at MCD-269); the Verehimu Surveillance Operation (290, targeting House Verehimu, the noble bloodline, not the geographic region already renamed Voskharen at Batch 40, via credentials from a Trust official three years dead); the Officer Reassignment Pattern (298, exposing that competent officers including Commodore Veska, 'young Krael' (Krael III, per MCD-254), and Governor Tallis were quietly sidelined rather than promoted); and the Pre-Positioning (308, Trust assets repositioning toward the Gilded Lighthouse's coordinates without the Trust's own knowledge of why).",
       "status": "locked",
       "source": "'Long_Mask_Chronicles_Definitive_Edition.docx' (Google Drive, Lore Vault folder) -- Kanja Rexmar's 284-year 'Long Mask' disguised period (ages 30-314), covering 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger entries. Extracted via four parallel background-agent summarization passes (lines 1-850, 800-1967, 1460-2119, 2100-2514) followed by manual synthesis, collision-checking, and condensation into narrative-cluster rules (1-4 source battles/campaigns per rule), following the same approach used for Twenty_Two_Victories (Batch 41). Two continuity reconciliations pre-agreed by Abad before drafting were applied where the relevant scenes appeared: Lauris Letitia's Forged Triad recalibration (MCD-267) does not overwrite her true origin at MCD-176 -- Kanja's role is a major rebuild/recalibration extending his already-locked maintenance-authority relationship (MCD-204), not original forging; and Fermand Aurelias's post-Citadel resilience (MCD-268) is locked as trained/conditioned physiology and extreme mental fortitude, not an inherent biological grant, consistent with his already-locked baseline at CC-033, with his escape framed as substantially his own doing rather than a passive rescue. Several proper-noun collision checks were run against the live ledger before drafting: 'Commodore Veska' (this document) vs. 'Veska Karth-Ven' (Lauris's Kares Prime instructor) and 'Admiral Vos' (this document) vs. 'Maret Vos' (locked crew member) are both coincidental homonyms across unrelated characters/eras, not renamed; the Krael family name across this document (Dessius Krael II, age 100; Krael III, age 222 and 298) is locked as an intentional three-generation dynasty descending from the already-locked Admiral Dessius Krael ('the Gale Straits admiral'); Stormreaver/Kairo's 'Zephyr-Frame' is read as forged flight equipment layered onto his already-locked Aero Variant/Falcon-Pack biology, not a contradiction; and 'the Living Gate's cavern system' (an ancient Karesian heritage site surveyed by the Trust at age 282) is read as the same Living Gate later activated as T.D.K.'s containment mechanism at Pyro's birth (age ~290, MCD-131/132) -- an existing ancient structure T.D.K. later weaponized, not a separate location, and not a contradiction of the already-locked birth sequence. All naming/identity calls above were presented to Abad in-conversation for override before locking."
     },
@@ -7522,7 +7531,7 @@
     {
       "id": "MCD-277",
       "category": "World Mechanics",
-      "statement": "Tier-3 ledger highlights: the Rat-Catcher's Apprentice (age 96) dates Pyro's mother's joining the fleet as provisions manager, well before his birth. The Dog Watch (age 248) places Varruk's first appearance 42 years before the Triad's bonding with Pyro (~290), consistent with MCD-270's Birth of Fire dating. The Iron Wedding (198) is Ironbane's crew-officiated marriage. The Old Admiral's Grandson (222) is Krael III's back-channel meeting with Kanja, per the genealogy resolved at MCD-254/MCD-275. The Pyro Incident (296) is the first observed instance of the Triad's thermal-management function around Pyro. The Final Forge (304) is the literal last item Kanja ever personally forges. The Countdown Annotation (310) gives precise late-stage figures: Bone-Tempering 99.7% complete, the Governor's Shackle at 99.7% capacity, voluntary movement at ~15% of peak, Shimmer visible to 1,200m. The Final Coat Fitting (312) is Valen's formal fitting for the Forge-Coat as the era's next legend-bearer. The Last Breakfast (314) closes the Long Mask on Pyro serving Kanja stew as the Shimmer and the Gilded Lighthouse's pendant activate.",
+      "statement": "Tier-3 ledger highlights: the Rat-Catcher's Apprentice (age 96) dates Pyro's mother's joining the fleet as provisions manager, well before his birth. The Dog Watch (age 248) places Varruk's first appearance 42 years before the Triad's bonding with Pyro (~290), consistent with MCD-270's Birth of Fire dating. The Iron Wedding (198) is Ironbane's crew-officiated marriage. The Old Admiral's Grandson (222) is Krael III's back-channel meeting with Kanja, per the genealogy locked at MCD-254. The Pyro Incident (296) is the first observed instance of the Triad's thermal-management function around Pyro. The Final Forge (304) is the literal last item Kanja ever personally forges. The Countdown Annotation (310) gives precise late-stage figures: Bone-Tempering 99.7% complete, the Governor's Shackle at 99.7% capacity, voluntary movement at ~15% of peak, Shimmer visible to 1,200m. The Final Coat Fitting (312) is Valen's formal fitting for the Forge-Coat as the era's next legend-bearer. The Last Breakfast (314) closes the Long Mask on Pyro serving Kanja stew as the Shimmer and the Gilded Lighthouse's pendant activate.",
       "status": "locked",
       "source": "'Long_Mask_Chronicles_Definitive_Edition.docx' (Google Drive, Lore Vault folder) -- Kanja Rexmar's 284-year 'Long Mask' disguised period (ages 30-314), covering 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger entries. Extracted via four parallel background-agent summarization passes (lines 1-850, 800-1967, 1460-2119, 2100-2514) followed by manual synthesis, collision-checking, and condensation into narrative-cluster rules (1-4 source battles/campaigns per rule), following the same approach used for Twenty_Two_Victories (Batch 41). Two continuity reconciliations pre-agreed by Abad before drafting were applied where the relevant scenes appeared: Lauris Letitia's Forged Triad recalibration (MCD-267) does not overwrite her true origin at MCD-176 -- Kanja's role is a major rebuild/recalibration extending his already-locked maintenance-authority relationship (MCD-204), not original forging; and Fermand Aurelias's post-Citadel resilience (MCD-268) is locked as trained/conditioned physiology and extreme mental fortitude, not an inherent biological grant, consistent with his already-locked baseline at CC-033, with his escape framed as substantially his own doing rather than a passive rescue. Several proper-noun collision checks were run against the live ledger before drafting: 'Commodore Veska' (this document) vs. 'Veska Karth-Ven' (Lauris's Kares Prime instructor) and 'Admiral Vos' (this document) vs. 'Maret Vos' (locked crew member) are both coincidental homonyms across unrelated characters/eras, not renamed; the Krael family name across this document (Dessius Krael II, age 100; Krael III, age 222 and 298) is locked as an intentional three-generation dynasty descending from the already-locked Admiral Dessius Krael ('the Gale Straits admiral'); Stormreaver/Kairo's 'Zephyr-Frame' is read as forged flight equipment layered onto his already-locked Aero Variant/Falcon-Pack biology, not a contradiction; and 'the Living Gate's cavern system' (an ancient Karesian heritage site surveyed by the Trust at age 282) is read as the same Living Gate later activated as T.D.K.'s containment mechanism at Pyro's birth (age ~290, MCD-131/132) -- an existing ancient structure T.D.K. later weaponized, not a separate location, and not a contradiction of the already-locked birth sequence. All naming/identity calls above were presented to Abad in-conversation for override before locking."
     },
@@ -8131,7 +8140,7 @@
     {
       "id": "MCD-309",
       "category": "World Mechanics",
-      "statement": "Per Abad's explicit ruling: pre-Kanja Rexmar bloodline members (Rex and Mar alike) are not biologically enhanced the way Kanja is, but are capable of unusually long lifespans through indomitable will and spirit rather than biology -- consistent with this world's general long-lifespan convention without requiring Karesian blood. This is what makes it plausible for a figure like Maro Rexmar to have lived across a very long span; it is deliberately NOT extended to assert anything about Haku the Unifier's own fate, which stays unaddressed and open.",
+      "statement": "Per Abad's explicit ruling: pre-Kanja Rexmar bloodline members (Rex and Mar alike) are not biologically enhanced the way Kanja is, but are capable of unusually long lifespans through indomitable will and spirit rather than biology -- consistent with this world's general long-lifespan convention without requiring Karesian blood. This is what makes it plausible for a figure like Maro Rexmar to have lived across a very long span; it is deliberately NOT extended to assert anything about Haku the Unifier's own fate, which was subsequently resolved separately at MCD-314 (alive; narrative reveal reserved).",
       "status": "locked",
       "source": "Rexmar_Civilization_Codex_Entry.docx (Google Drive fileId 1dNbJttiWk1HK7cmPI8JP_SUd9xyFqPvQ, the Lore Vault copy -- two other non-Lore-Vault copies exist, an identical Google Doc conversion and an earlier draft with a differing byline; the Lore Vault .docx was used as primary per the ledger's own authority_order rule). Second document drafted under Phase 1b of the pre-Book-1-era roadmap; this document is also the original source for two contradictions Batch 49 already resolved (WC-005's Pi-Awakening reframe, MCD-221's Line front roster). Two items were flagged to Abad before drafting and resolved by his explicit ruling: pre-Kanja Rexmar longevity via indomitable will rather than biological enhancement (resolves the Val Saeryn Kareth/Maro Rexmar timeline question, MCD-309/MCD-310), and the extraction era ('The Fall') being read as institutional/prominence decline rather than any loss of individual capability (MCD-308). Haku the Unifier's fate is deliberately left unaddressed per Abad's own instruction, not asserted either way. One further reconciliation applied using this project's established compatible-reading precedent, not separately escalated: the Dark-Drakma material contradiction with the already-locked ARS-348 (Living Drakma) resolved as a folding technique normally applied to Dead Drakma, with Kanja's Forge-Coat as a documented rare exception (MCD-302)."
     },
@@ -8152,7 +8161,7 @@
     {
       "id": "MCD-312",
       "category": "World Mechanics",
-      "statement": "The Leadership Template and the Twenty-Two Victories, extending MCD-230/232/234/242: Kanja's crew-building repeats Haku's unification method (MCD-304) at individual scale -- demonstrating supremacy in terms already respected, then showing what that supremacy is for, rather than recruiting through offered power or position. The Twenty-Two Victories read the same way: each was an engineering solution to a labor or military problem (the Scrip-Forge Raid as labor action, the Sewer War of Killane using mining-terrain knowledge, etc.), consistent with and extending rather than duplicating the already-locked battle roster. New tactical detail for the already-named, already-counted 'Storm That Walks' Unwinnable Victory (age 29, Gale Straits, MCD-230): twelve raiders driven through forty warships in arrowhead formation, twice, escaping into a storm.",
+      "statement": "The Leadership Template and the Twenty-Two Victories, extending MCD-230/232/234/242: Kanja's crew-building repeats Haku's unification method (MCD-304) at individual scale -- demonstrating supremacy in terms already respected, then showing what that supremacy is for, rather than recruiting through offered power or position. The Twenty-Two Victories read the same way: each was an engineering solution to a labor or military problem (the Scrip-Forge Raid as labor action, the Sewer War of Killane using mining-terrain knowledge, etc.), consistent with and extending rather than duplicating the already-locked battle roster. New tactical detail for the already-named, already-counted 'Storm That Walks' Unwinnable Victory (age 29, Gale Straits, MCD-230): twenty-two raiders driven through forty warships in arrowhead formation, twice (the 22-ship arrowhead of MCD-242), escaping into a storm.",
       "status": "locked",
       "source": "Rexmar_Civilization_Codex_Entry.docx (Google Drive fileId 1dNbJttiWk1HK7cmPI8JP_SUd9xyFqPvQ, the Lore Vault copy -- two other non-Lore-Vault copies exist, an identical Google Doc conversion and an earlier draft with a differing byline; the Lore Vault .docx was used as primary per the ledger's own authority_order rule). Second document drafted under Phase 1b of the pre-Book-1-era roadmap; this document is also the original source for two contradictions Batch 49 already resolved (WC-005's Pi-Awakening reframe, MCD-221's Line front roster). Two items were flagged to Abad before drafting and resolved by his explicit ruling: pre-Kanja Rexmar longevity via indomitable will rather than biological enhancement (resolves the Val Saeryn Kareth/Maro Rexmar timeline question, MCD-309/MCD-310), and the extraction era ('The Fall') being read as institutional/prominence decline rather than any loss of individual capability (MCD-308). Haku the Unifier's fate is deliberately left unaddressed per Abad's own instruction, not asserted either way. One further reconciliation applied using this project's established compatible-reading precedent, not separately escalated: the Dark-Drakma material contradiction with the already-locked ARS-348 (Living Drakma) resolved as a folding technique normally applied to Dead Drakma, with Kanja's Forge-Coat as a documented rare exception (MCD-302)."
     },
@@ -8966,21 +8975,21 @@
     },
     {
       "id": "MCD-334",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Xaragua Chronicle I ('The Line That Did Not Break') is the first entry in Xaragua's own Chronicle series, per the corrected structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest -- not the reverse. Ogoun Xarey (Xaragua) holds a coastal redoubt against a besieging force alongside Mino and Chui (PH2-017), thinning his own center to hold the gate. An unnamed stranger arrives partway through, fights in the thinned center as one more body under Ogoun Xarey's doctrine (no command taken, no persuasion offered), and the extra eleven minutes he buys is what lets the gate close on the fleeing settlement's full eight hundred rather than fewer. He departs before the battle's aftermath is fully counted, leaving behind only a rumor among the defenders. Slots into no existing mainline battle -- original homage-era material set in Xaragua itself. Supersedes MCD-331 in full.",
       "status": "locked",
       "source": "Reworked homage-era territory Chronicles, chat-drafted 2026-09-05, original invention, no external source document. Full narrative text in docs/lords-of-cian/chronicles/."
     },
     {
       "id": "MCD-335",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Umoja Chronicle I ('The Man Who Mapped the Door') is the first entry in Umoja's own Chronicle series, per the corrected structure above. Kofi (Umoja) hosts a late-night meeting; his own chosen head of security -- the secret informant already established at PH2-040 -- has mapped the apartment for a raid meant to kill him in his sleep. An unnamed stranger arrives just ahead of the raid, identifies the compromised window, and fights off the roof team without taking command of Kofi's own response (Kofi's own instinct is to warn his neighbors, not flee). This is the specific factor that converts Kofi's already-locked close call into a clean survival. The informant is not confronted on-page and is gone by dawn, his fate left open for a future entry. Slots into no existing mainline battle -- original homage-era material set in Umoja itself. Supersedes MCD-332 in full.",
       "status": "locked",
       "source": "Reworked homage-era territory Chronicles, chat-drafted 2026-09-05, original invention, no external source document. Full narrative text in docs/lords-of-cian/chronicles/."
     },
     {
       "id": "MCD-336",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Yara Chronicle I ('The Seat She Did Not Wait For') is the first entry in Yara's own Chronicle series, per the corrected structure above. Yalokona (Yara) is pressured by her own movement's leadership to defer her candidacy for a 'more electable' figure, per the already-locked detail at PH2-006; she refuses and announces publicly instead, in a roofless hall at midday, in front of a crowd. An unnamed stranger stands among the witnesses, present only as one more pair of eyes satisfying her own Unbought and Unbossed ability's witnessed/on-record condition (PH2-006) -- he offers no advice, no dialogue, and is never identified. She wins the seat that year on the strength of having refused to ask permission in public. Slots into no existing mainline battle -- original homage-era material set in Yara itself. Supersedes MCD-333 in full.",
       "status": "locked",
       "source": "Reworked homage-era territory Chronicles, chat-drafted 2026-09-05, original invention, no external source document. Full narrative text in docs/lords-of-cian/chronicles/."
@@ -9078,7 +9087,7 @@
     },
     {
       "id": "MCD-337",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Xaragua Chronicle II ('The Man at the Head of the Table') is the fourth Phase 2 homage-era guest-relation Chronicle, but chronologically the first in-universe -- it precedes Xaragua Chronicle I (MCD-334) and Yara Chronicle I (MCD-336), establishing the mechanism that let Kanja already be trusted enough to appear, unchallenged, in both. Arturo Salvatierra Duho (PH2-061), leader of Batey's Five Families (PH2-060), tests the still-unnamed Kanja over three unwatched days in Xaragua, then grants him passage through all five Batey territories (Xaragua, Areito, Yara, Guanin, Boriken) on tested behavior alone, never learning his name -- Kanja declines the one opening to give it, and Arturo does not press, consistent with the unnamed-guest pattern in Ogoun Xarey's and Yalokona's own Chronicles. Arturo's Blood Debt ability is shown small and controlled (a self-inflicted cut, sealed instantly), not at full extent. Yaisa (PH2-062) appears silently in the scene. Slots into no existing mainline battle -- original homage-era material set in Xaragua itself.",
       "status": "locked",
       "source": "Xaragua Chronicle II ('The Man at the Head of the Table') and its new characters (Arturo, the Five Families, Yaisa), chat-drafted 2026-09-06, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/xaragua-chronicle-ii-the-man-at-the-head-of-the-table.md."
@@ -9093,7 +9102,7 @@
     {
       "id": "MCD-338",
       "category": "World Mechanics",
-      "statement": "Two interstitial world-phenomena chapters are structurally confirmed as standalone -- not folded into any POV character's ongoing chapters: an Ever Haunt chapter (elaborating the pursuit-phenomenon classification already locked at WC-019, CULT-197/198) and a Painter chapter (elaborating the ancient wandering predator already locked at CHAR-001). Both are atmospheric/phenomena-focused interludes rather than tied to a single POV character's arc, slotted between books rather than embedded within existing chapters. Exact book placement and full chapter content remain undrafted, reserved for a future dedicated pass.",
+      "statement": "Two interstitial world-phenomena chapters are structurally confirmed as standalone -- not folded into any POV character's ongoing chapters: an Ever Haunt chapter (elaborating the pursuit-phenomenon classification already locked at WC-019, CULT-197/198) and a Painter chapter (elaborating the ancient wandering predator already locked at CHAR-001). Both are atmospheric/phenomena-focused interludes rather than tied to a single POV character's arc, slotted between books rather than embedded within existing chapters. Both chapters have since been drafted and locked (Batch 297): the Ever-Haunt interstitial sits between Book 1 and Book 2 (MCD-1621), the Painter interstitial between Book 2 and Book 3 (MCD-1622).",
       "status": "locked",
       "source": "Roadmap Step 1 closeout (OPEN-005/007/008), chat-drafted 2026-09-06, original invention, no external source document."
     },
@@ -9169,49 +9178,49 @@
     },
     {
       "id": "MCD-339",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Areito Chronicle I ('What Doesn't Land') is the first entry in Areito's own Chronicle series, per the established structure (MCD-334/335/336): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Kwame Ade (PH2-004), eleven days after the public break that marks his second reinvention, sits unguarded in a barbershop back room awaiting retaliation from three former allies. An unnamed stranger arrives an hour ahead of them and stands aside, present but uninvolved. When the three arrive, Kwame Ade's signature ability ('conviction as armor,' PH2-004) is shown directly in operation: two honest blows thrown by a man still torn by love and betrayal simply don't land, a drawn blade is sheathed unused, and the third man leaves without striking at all -- Kwame Ade never raises a hand. The stranger departs afterward, leaving one line as a deliberate forward reference to PH2-004's own stated vulnerability: the one man who will eventually land a blow on Kwame Ade is someone who shares his exact certainty, not his doubt -- left as foreshadowing, unresolved here. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Areito itself.",
       "status": "locked",
       "source": "Areito Chronicle I ('What Doesn't Land'), chat-drafted 2026-09-07, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-i-what-doesnt-land.md."
     },
     {
       "id": "MCD-340",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Guanin Chronicle I ('The Debt Comes Due') is the first entry in Guanin's own Chronicle series, per the established structure (MCD-334/335/336/339): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Eri Kotoko (PH2-008), on the evening his six-year forced-restraint bargain finally ends, is watched by an unnamed stranger who arrives on a dockside bench and stays present but uninvolved through the night. Eri Kotoko's signature ability ('The Unanswered Blow,' PH2-008) is shown directly in operation for the first time: six years of deliberately, consciously banked provocation, released in a single precise strike against the man who actually caused it (an unnamed counting-house figure who spent those six years needling him personally, believing the silence permanent) rather than a proxy, consistent with the ability's stated deliberate-release mechanic and its cost (anger, rather than conscious release, would have reset the banked force to nothing -- the scene is explicit that no anger is shown). PH2-008's already-locked friction with Kwame Ade is not dramatized here, left open for a future entry. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Guanin itself.",
       "status": "locked",
       "source": "Guanin Chronicle I ('The Debt Comes Due'), chat-drafted 2026-09-08, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-i-the-debt-comes-due.md."
     },
     {
       "id": "MCD-341",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Boriken Chronicle I ('The Fire That Found No Center') is the first entry in Boriken's own Chronicle series, per the established structure (MCD-334/335/336/339/340): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. An unnamed career administrator (the Commissioner), after five failed raids each capturing only a fragment of Guani's (PH2-010) distributed authority, shifts strategy from hunting the man to burning five of his institutions simultaneously in one night (the hospital wing, the garbage depot, two rooftop meeting halls, and a church hall). Guani's signature ability ('No Single Point,' PH2-010) is shown directly in operation for the first time: no single location holds the real him, so none of the five strikes ends him. The ability's stated cost is also dramatized as the story's actual engine, not just a caveat -- the church hall's six-year debt ledger burns and cannot be fully rebuilt from the memory of the forty people who held pieces of it, a real, uncompensated loss rather than a disguised win. An unnamed stranger is present at the church-hall raid and helps carry people to safety, without taking command, credit, or narrative authorship of the outcome. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Boriken itself. Completes the first Chronicle entry for all five Batey territories (Xaragua, Areito, Yara, Guanin, Boriken).",
       "status": "locked",
       "source": "Boriken Chronicle I ('The Fire That Found No Center'), chat-drafted 2026-09-08, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-i-the-fire-that-found-no-center.md."
     },
     {
       "id": "MCD-342",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Ide Chronicle I ('What Could Not Be Buried') is the first entry in Ide's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. An unnamed local authority (the Magistrate of Ide) publicly executes an innocent man over a granary theft he did not commit, deciding guilt within the hour before anyone can establish the truth. Ase (PH2-036), arriving three streets away too late to intervene, spends the following days documenting the dead man's name, every witness, and the Magistrate's own words with total precision. Ase's signature ability ('Named and Numbered,' PH2-036) is shown directly in operation for the first time, honoring both its mechanic and its stated cost: she has no power to have stopped the execution (she arrives after, as the ability requires), but her account, once copied and carried out of Ide by multiple independent routes before the Magistrate's men can seize the original plates, becomes permanently impossible to erase or deny. An unnamed Kanja is present at the execution itself, equally unable to intervene, and later helps smuggle one copy of the account out of the city without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Ide itself, and opens Muungano's own run of territory Chronicles (Umoja already has one, Umoja Chronicle I, MCD-335; Ide, Kwan, Jibaro, and Uhuru had none before this entry).",
       "status": "locked",
       "source": "Ide Chronicle I ('What Could Not Be Buried'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/ide-chronicle-i-what-could-not-be-buried.md."
     },
     {
       "id": "MCD-343",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Kwan Chronicle I ('The Weight of Being Asked') is the first entry in Kwan's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341/342): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. After eleven weeks of stalled open-housing organizing, Kasa (PH2-038) personally asks an unnamed, long-entrenched ward broker not to march but to speak one public sentence endorsing the cause in his own voice. Kasa's signature ability ('The Invitation,' PH2-038) is shown directly in operation for the first time via this fresh recipient, deliberately distinct from the ability's own already-locked backstory event (the coalition's invitation of a real-world- shaped outside leader, who per PH2-038 stays backstory-only and is never separately named or dramatized on-page, matching the Toussaint-Louverture/Ogoun-Xarey precedent): the broker's single sentence converts eleven previously unreachable homeowners into marchers within the week. The ability's stated cost is honored explicitly and not softened -- the broker's words do not stop a single rock when the resulting march is attacked three blocks in, and the eventual agreement is left as a victory of uncertain real weight, consistent with PH2-038's own framing. An unnamed Kanja is present at the march and shields a struck marcher without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Kwan itself, continuing Muungano's own run of territory Chronicles (Umoja and Ide already have one; Jibaro and Uhuru still do not). Corrected Batch 340, 2026-10-02: 'overnight' corrected to 'within the week' to match the Kwan Chronicle II prose fix.",
       "status": "locked",
       "source": "Kwan Chronicle I ('The Weight of Being Asked'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/kwan-chronicle-i-the-weight-of-being-asked.md."
     },
     {
       "id": "MCD-344",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Jibaro Chronicle I ('What the Walls Refused') is the first entry in Jibaro's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341/342/343): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Omoba (PH2-042) and his people occupy a seminary building past the one-day threshold; when the diocese sends men to force them out by violence, the door itself refuses to yield. Omoba's signature ability ('The Occupation,' PH2-042) is shown directly in operation for the first time, dramatizing both its mechanic and its stated cost in the same episode: the seminary, an institution Omoba can shame into complicity, becomes permanently unreclaimable by force; an adjoining half-acre lot, never actually held a full day and belonging to no institution with anything to be ashamed of, is retaken within the hour with no resistance at all, matching PH2-042's stated limitation ('doesn't work on open ground or purely private property') precisely rather than leaving it abstract. An unnamed Kanja is embedded in the occupation from early in the week, doing ordinary logistics (carrying donated bread), without taking command, credit, or narrative authorship of the outcome. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Jibaro itself, continuing Muungano's own run of territory Chronicles (Umoja, Ide, and Kwan already have one; only Uhuru remains).",
       "status": "locked",
       "source": "Jibaro Chronicle I ('What the Walls Refused'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/jibaro-chronicle-i-what-the-walls-refused.md."
     },
     {
       "id": "MCD-345",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Uhuru Chronicle I ('The Patience That Cost Him') is the first entry in Uhuru's own Chronicle series, per the established structure (MCD-334/335/336/339/340/341/342/343/344): each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Ofin (PH2-044), blocked by a hostile council bloc's repeated defeat of the fair-housing review board's funding (the same board Kwan Chronicle I's ward broker once staked one public sentence on, MCD-343), refuses to stop resubmitting it across dozens of votes. Ofin's signature ability ('The Override,' PH2-044) is shown directly in operation for the first time: the specific obstruction breaks completely and permanently once a court-ordered redistricting finally shifts the council's composition, exactly matching the ability's stated mechanic. The ability's cost is honored explicitly without resolving into the character's already-locked capstone death: the same engine wearing the obstruction down is shown visibly wearing Ofin down in turn (reduced sleep, a physician his wife wants him to see, looking older than his years), left as foreshadowing per PH2-044's own stated 'foreshadowed limit to how long he can keep paying for it' rather than paid off here -- his 1987 death at his own desk remains the deliberate, as-built capstone cost for a future entry. This Chronicle also closes the continuity thread opened in Kwan Chronicle I: the fair-housing agreement left there as 'a victory of uncertain real weight' is confirmed here, years later, as genuinely made real through Ofin's endurance rather than Kasa's original legitimacy-granting act, honoring both leaders' distinct signature abilities without either doing the other's work. An unnamed Kanja is present in City Hall's late-hour orbit across several nights without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Uhuru itself, and completes a first Chronicle entry for every one of Muungano's five territories (Ide, Kwan, Umoja, Jibaro, Uhuru), matching Batey's own completed set.",
       "status": "locked",
       "source": "Uhuru Chronicle I ('The Patience That Cost Him'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-i-the-patience-that-cost-him.md."
@@ -9253,56 +9262,56 @@
     },
     {
       "id": "MCD-351",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Kazi Chronicle I ('The Line That Heard Him') is the first entry in Kazi's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. When a foreman keeps the assembly line running around a jammed press rather than relieving the two men absorbing its backlog, Irin (PH2-051) calls a halt from his own station. Irin's signature ability ('The Line Stops,' PH2-051) is shown directly in operation for the first time: every man bound into the same production chain feels the halt instantly, without a word passed hand to hand, exactly matching the ability's stated mechanic. The same episode dramatizes the ability's stated cost precisely: three outside hires brought in to break the standstill feel nothing at all, since they were never structurally bound into the same chain of labor, exactly matching PH2-051's stated limitation. The foreman is deliberately left unnamed, matching established precedent for undetailed antagonists. An unnamed Kanja is hired onto the line itself for the week and present at his own station without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Kazi itself, and opens Mji's own run of territory Chronicles (Taifa, Hekalu, Nyansa, and Kiti still have none).",
       "status": "locked",
       "source": "Kazi Chronicle I ('The Line That Heard Him'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/kazi-chronicle-i-the-line-that-heard-him.md."
     },
     {
       "id": "MCD-352",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Taifa Chronicle I ('Bound Without a Word') is the first entry in Taifa's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. When a dawn raid hits the claimed land's outer post faster than any rider could warn the other sworn cells, Osei (PH2-053) feels the need arrive whole, and sworn hands converge from three unconnected cities within minutes of each other. Osei's signature ability ('Kin at a Distance,' PH2-053) is shown directly in operation for the first time, exactly matching its stated mechanic. The ability's cost is dramatized explicitly: Osei states plainly that people who merely agree with or admire the cause, without having sworn the oath and meant it, feel nothing and are never reached, matching PH2-053's stated limitation ('cannot compel anyone who hasn't sworn it'). Yaw (PH2-053) is referenced consistently with his already-locked co-founder role, not separately detailed. The RNA's real exiled first president remains backstory-only per PH2-053's own precedent. An unnamed Kanja watches from the post's edge without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Taifa itself, continuing Mji's own run of territory Chronicles (Kazi already has one; Hekalu, Nyansa, and Kiti still do not).",
       "status": "locked",
       "source": "Taifa Chronicle I ('Bound Without a Word'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/taifa-chronicle-i-bound-without-a-word.md."
     },
     {
       "id": "MCD-353",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Hekalu Chronicle I ('Whoever Sits Down') is the first entry in Hekalu's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A rival cooperative owner, suspicious of Adom's (PH2-055) table, freely chooses to sit and eat, and returns days later with an unprompted joint wage-floor proposal he cannot fully explain offering. Adom's signature ability ('The Common Table,' PH2-055) is shown directly in operation for the first time, exactly matching its stated mechanic. The ability's cost is dramatized explicitly through both the rival's own required free choice to sit and a referenced past case of a man who sat down without ever meaning to be there and left entirely unchanged, matching PH2-055's stated limitation ('cannot be forced on the unwilling'). An unnamed Kanja is seated at the table itself throughout without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Hekalu itself, continuing Mji's own run of territory Chronicles (Kazi and Taifa already have one; Nyansa and Kiti still do not).",
       "status": "locked",
       "source": "Hekalu Chronicle I ('Whoever Sits Down'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/hekalu-chronicle-i-whoever-sits-down.md."
     },
     {
       "id": "MCD-354",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Nyansa Chronicle I ('The Word That Stuck') is the first entry in Nyansa's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. Adisa (PH2-057) names, aloud, his own organizing committee's unexamined exclusion of night-shift workers from its votes; the argument never returns to its old unresolved shape afterward, and the night shift wins its vote within the month. Adisa's signature ability ('The Long Correction,' PH2-057) is shown directly in operation for the first time, exactly matching its stated mechanic. The same episode dramatizes the ability's stated cost via a deliberate contrast case: Adisa tries the identical technique on a rival faction leader whose program has no latent doubt underneath it, and it fails completely, matching PH2-057's stated limitation ('can't implant a belief that isn't already half-formed there'). Adisa's real co-theorist and life partner (homage to Grace Lee Boggs) remains backstory-only per PH2-057's own precedent and is not referenced on-page. The rival faction leader is deliberately left unnamed. An unnamed Kanja watches from the back of both meetings without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Nyansa itself, continuing Mji's own run of territory Chronicles (Kazi, Taifa, and Hekalu already have one; only Kiti still does not).",
       "status": "locked",
       "source": "Nyansa Chronicle I ('The Word That Stuck'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/nyansa-chronicle-i-the-word-that-stuck.md."
     },
     {
       "id": "MCD-355",
-      "category": "World Mechanics",
+      "category": "phase2-territory-chronicle",
       "statement": "Kiti Chronicle I ('What Wore Down Instead') is the first entry in Kiti's own Chronicle series, per the established structure: each Phase 2 homage-era territory has its own Chronicles, with its own leader as protagonist and Kanja appearing only as an unnamed guest. A manufactured scandal, run for three weeks by the old machine, is meant to wear Owusu (PH2-059) down; instead his next election comes in stronger. Owusu's signature ability ('The Long Tenure,' PH2-059) is shown directly in operation for the first time: sustained attrition against him while he holds the seat strengthens his grip rather than weakening it, exactly matching the ability's stated mechanic. The ability's cost is stated explicitly as foreshadowing rather than dramatized in the moment, matching the same restraint used for Ofin's capstone cost in Uhuru Chronicle I (MCD-345): Owusu states plainly, unprompted, that the strength is purely institutional and lapses completely the instant he leaves the seat, matching PH2-059's stated limitation exactly. The old machine's operatives are deliberately left unnamed. An unnamed Kanja is a quiet presence around the office across the stretch without taking command, credit, or narrative authorship. No new named characters introduced. Slots into no existing mainline battle -- original homage-era material set in Kiti itself, and completes a first Chronicle entry for every one of Mji's five territories (Kazi, Taifa, Hekalu, Nyansa, Kiti), which in turn completes territory-Chronicle coverage at the first-Chronicle level for all four homage-era cities built so far (Batey, Muungano, Ílú-Márùn, Mji).",
       "status": "locked",
       "source": "Kiti Chronicle I ('What Wore Down Instead'), chat-drafted 2026-09-09, original invention, no external source document. Full narrative text at docs/lords-of-cian/chronicles/kiti-chronicle-i-what-wore-down-instead.md."
     },
     {
       "id": "MCD-356",
-      "category": "phase2-homage-chronicle",
+      "category": "phase2-territory-chronicle",
       "statement": "Areito Chronicle II, \"The One Who Stood Where He Stood\" (full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-ii-the-one-who-stood-where-he-stood.md), the second entry in Areito's own Chronicles, protagonist Kwame Ade (PH2-004), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present throughout but granted no command, intervention, or resolution credit. Set seven years after Areito Chronicle I (MCD-339): Adeyemi, a new named character (Yoruba, 'the crown befits me') and former cellmate from Kwame Ade's first prison reinvention (the same conversion PH2-004 locks as the origin of his certainty, distinct from the second-reinvention era that produced Chronicle I's three unnamed attackers), confronts him alone and unarmed, arguing that spending their shared cell-forged conviction on strangers rather than the six men who forged it with him was a betrayal wearing conviction's own clothes. Adeyemi throws one blow matching his own genuine, unhesitating certainty and it lands, drawing the first blood anyone has ever drawn from Kwame Ade -- directly dramatizing PH2-004's own stated vulnerability ('only someone matching his own absolute certainty can hurt him... the one real threat to him was always going to come from someone who once stood exactly where he stood') as a literal, physical fact for the first time. Adeyemi does not finish the blow, finding himself newly and genuinely uncertain in a way he has not been in seven years, and departs with his own arc deliberately left open -- whether he returns, and which side of his new uncertainty he lands on, is unresolved. The unnamed Kanja offers one small, wordless, uncredited act of aid (a cloth pressed into Kwame Ade's hand for the wound) after Adeyemi leaves. No collision: Adeyemi is checked against the full live ledger and confirmed distinct from the already-locked Xaragua supporting-cast figures Kwabena (PH2-014) and Kwaku (PH2-016).",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Areito's own Chronicles, directly paying off the explicit hook left at the close of Areito Chronicle I (MCD-339). Full narrative text at docs/lords-of-cian/chronicles/areito-chronicle-ii-the-one-who-stood-where-he-stood.md."
     },
     {
       "id": "MCD-357",
-      "category": "phase2-homage-chronicle",
+      "category": "phase2-territory-chronicle",
       "statement": "Guanin Chronicle II, \"What He Chose to Print\" (full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-ii-what-he-chose-to-print.md), the second entry in Guanin's own Chronicles, protagonist Eri Kotoko (PH2-008), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present at two separate moments months apart, taking no side and granted no command, intervention, or resolution credit. Dramatizes PH2-008's already-locked 'real, documented public friction with Kwame Ade... kept as genuine unresolved alliance tension' for the first time: Kwame Ade's Areito press prints a pamphlet, circulated by crier, calling Eri Kotoko's patient institution-building strategy a form of collaboration; Eri Kotoko, provoked in public, does not answer in the moment, instead spending four months building a documented account of Guanin's institutions raised without violence, then publishing his own pamphlet setting that account beside Kwame Ade's words without conceding either side, closing on one precisely aimed line. This puts 'The Unanswered Blow' (PH2-008) on the page in a new register -- a banked, deliberately delayed rhetorical reply rather than physical retaliation against a wrongdoer (as in Guanin Chronicle I, MCD-340) -- while matching the ability's stated mechanic exactly (deliberate, conscious release only; anger in the moment resets it to nothing). The alliance tension is deliberately left genuinely unresolved at the close, per PH2-008's own framing, with no side conceded. Eri Kotoko's closing line carries a deliberate, ambiguous echo of Areito Chronicle II's (MCD-356) events (Adeyemi's wound) without asserting he has specific knowledge of them. No new named characters; the scene is carried by the two already-locked leaders plus unnamed criers and distributors, consistent with the world's established pre-industrial crier/pamphlet media system (PH2-049, WC-012/WC-013). First Chronicle to put two already-locked homage-era leaders in direct dialogue (at a distance, through print) with each other.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-09, no source document. Third entry in Guanin's own Chronicles, dramatizing PH2-008's already-locked, genuine unresolved public friction with Kwame Ade, first flagged as undramatized in Guanin Chronicle I's (MCD-340) own continuity notes. Full narrative text at docs/lords-of-cian/chronicles/guanin-chronicle-ii-what-he-chose-to-print.md."
     },
     {
       "id": "MCD-358",
-      "category": "phase2-homage-chronicle",
+      "category": "phase2-territory-chronicle",
       "statement": "Uhuru Chronicle II, \"What He Finished First\" (full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-ii-what-he-finished-first.md), the second entry in Uhuru's own Chronicles, protagonist Ofin (PH2-044), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present in City Hall's late-hour orbit throughout the night but explicitly sent home and absent from the room itself at the moment of Ofin's death, granted no intervention or resolution authorship. Pays off PH2-044's own stated capstone cost directly: the last standing obstruction, a years-long appointment blockade, breaks completely and permanently one final time on the page ('The Override' shown in full effect), and the same night, having sent everyone home to sit alone with the win and finish some paperwork in his own hand, Ofin dies of a heart attack at his own desk -- dramatizing PH2-044's stated mechanic ('the same engine that breaks every wall against him burns him from the inside') as immediately and literally as the ability's own text implies. Kept explicitly 'as-built, not flipped' per PH2-044's own instruction, matching the real historical record of Harold Washington being found by his own staff the following morning: nothing is prevented, altered, or intervened upon. Kasa (PH2-038) and Omoba (PH2-042) are referenced consistently with their already-locked coalition roles, not independently detailed here. No new named characters; no new proper nouns requiring a collision check. Closes Ofin's own arc as the deliberate capstone cost his signature ability always foreshadowed.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-09, no source document. Second entry in Uhuru's own Chronicles, paying off PH2-044's own stated capstone cost, explicitly flagged as unresolved in Uhuru Chronicle I's (MCD-345) continuity notes. Full narrative text at docs/lords-of-cian/chronicles/uhuru-chronicle-ii-what-he-finished-first.md."
@@ -9323,14 +9332,14 @@
     },
     {
       "id": "MCD-361",
-      "category": "phase2-homage-chronicle",
+      "category": "phase2-territory-chronicle",
       "statement": "Xaragua Chronicle III, \"Where the Table Began\" (full narrative text at docs/lords-of-cian/chronicles/xaragua-chronicle-iii-where-the-table-began.md), the third Xaragua Chronicle written but chronologically the earliest of all three by decades -- it precedes both Xaragua Chronicle II (MCD-337) and Xaragua Chronicle I (MCD-334), matching the same write-order-versus-in-universe-order pattern MCD-337 already established. Protagonist Arturo Salvatierra Duho (PH2-061), decades before 'de la Muerte.' Dramatizes for the first time the loss PH2-061 already locks (his dock-boy cohort -- Nzila, Tunde, and Bendu, three new named characters, collision-checked against the full live ledger, zero prior hits -- lost to war and Xaragua's own street war, leaving only Arturo and Yaisa) and the origin of all three faces of 'Blood Debt': the protective face's first real use (saving Yaisa, dying in a cellar), the dark reverse's one deliberate, formative use (against the man responsible for the street war, deliberately left unnamed), and the personal cost of the reverse face landing visibly and permanently in his own aging, consistent with PH2-061's statement that 'every true use of the reverse face visibly ages him.' Also dramatizes the founding moment of 'No Blood at My Table' and the Five Families' original two-person nucleus (Arturo and Yaisa), matching PH2-061's framing that this is 'his direct answer to that decade -- a debt he is still paying, not resolved grief.' An unnamed Kanja appears only briefly and at the margins, one indistinct face among several strangers helping in the aftermath, given no dialogue and no interaction with Arturo -- deliberately consistent with why Arturo does not recognize or remember him by the time of Xaragua Chronicle II, decades later, where their first real meeting is written as a first meeting. Yaisa (PH2-062) appears as a wounded survivor, not yet Arturo's second-in-command. This Chronicle slots into no existing MCD- rule -- original homage-era material set in Xaragua itself, decades before any other Xaragua Chronicle.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-09, no source document. Third Xaragua Chronicle written, chronologically the earliest by decades. This is the flagged prequel material Batch 67 held open: 'the intended place to show the vulnerable, breaking version of him before this stillness was earned.' Full narrative text at docs/lords-of-cian/chronicles/xaragua-chronicle-iii-where-the-table-began.md."
     },
     {
       "id": "MCD-362",
-      "category": "phase2-homage-chronicle",
+      "category": "phase2-territory-chronicle",
       "statement": "Xaragua Chronicle IV, \"The One He Chose to Teach\" (full narrative text at docs/lords-of-cian/chronicles/xaragua-chronicle-iv-the-one-he-chose-to-teach.md), the fourth Xaragua Chronicle, set after Xaragua Chronicle II (MCD-337) in the 'modern' Arturo era -- chronologically the most recent of the four Xaragua Chronicles. Protagonist Arturo Salvatierra Duho (PH2-061). Introduces and dramatizes Naya, his protegee, directly for the first time (a new named character, collision-checked against the full live ledger, zero prior hits) -- found by Arturo as a six-year-old sole survivor of a tenement fire, her grief-held stillness deliberately mirroring and not restaging Arturo's own dock-boy-cohort loss (MCD-361). Sixteen years later, Arturo hands her, for the first time, sole authority to hear and resolve a dispute between two of the Five Families' captains over disputed dock territory; she resolves it through patience and listening rather than force, matching the ethos of 'No Blood at My Table.' Arturo confirms afterward that the test was never of her judgment (already proven over years) but of his own willingness to let someone else's judgment carry equal weight to his own. Explicitly reaffirms Yaisa's (PH2-062) unique standing as the only person who can banter with Arturo unguarded, declining to extend it to Naya; the separate flagged long-arc promise that Kanja himself eventually earns that same standing remains untouched, left for a future entry. Kanja appears only briefly and at the margins, granted no command, intervention, or resolution credit; his passage through Batey was already granted in Xaragua Chronicle II, so no re-introduction or re-testing occurs here. No proper-noun collisions beyond Naya, checked before drafting.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document. Fourth Xaragua Chronicle, dramatizing Naya, Arturo's protegee, directly for the first time -- PH2-061 names her only in passing as flagged-for-future-payoff material. Full narrative text at docs/lords-of-cian/chronicles/xaragua-chronicle-iv-the-one-he-chose-to-teach.md."
@@ -9351,14 +9360,14 @@
     },
     {
       "id": "MCD-363",
-      "category": "phase2-homage-chronicle",
+      "category": "phase2-territory-chronicle",
       "statement": "Kazi Chronicle II, \"The Names Beside His\" (full narrative text at docs/lords-of-cian/chronicles/kazi-chronicle-ii-the-names-beside-his.md), the second entry in Kazi's own Chronicles, protagonist Irin (PH2-051), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present at the jailhouse and helping distribute printed sheets before dawn, granted no command, intervention, or resolution credit. Names and dramatizes the two lieutenants PH2-051 already flags: Kunle (PH2-063) and Kalamu (PH2-064). Eleven days after the events of Kazi Chronicle I (MCD-351), the plant retaliates against a single striker, Bakari (a new minor named character), with a trumped-up charge over a torn gate. Kunle mounts his legal defense while Kalamu publicizes the retaliatory timing to four thousand readers ahead of trial; the charge does not hold. Irin explicitly reflects that 'The Line Stops' (PH2-051) has its own stated limits -- it moves men bound into the same chain of labor but cannot catch a single man isolated in a room with no one watching -- and that Kunle's and Kalamu's distinct gifts are not a deficiency in his own but a genuinely different kind of power the movement needs alongside it. Bakari and the unnamed plant management are deliberately left minor/undetailed. All three new names (Kunle, Kalamu, Bakari) collision-checked against the full live ledger before drafting, zero prior hits. Seventh territory overall (after Xaragua, Areito, Guanin, Uhuru, Aztlan, and Sankofa) to receive a second Chronicle entry, and the first Mji territory to do so.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document. Names and details the two Kazi lieutenants PH2-051 flags but leaves undetailed ('homage to John Watson, Mike Hamlin, and Ken Cockrel Sr. ... not yet individually named or detailed'), and dramatizes them directly in Kazi Chronicle II. Full narrative text at docs/lords-of-cian/chronicles/kazi-chronicle-ii-the-names-beside-his.md."
     },
     {
       "id": "MCD-364",
-      "category": "phase2-homage-chronicle",
+      "category": "phase2-territory-chronicle",
       "statement": "Boriken Chronicle II, \"What Memory Could Carry Back\" (full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-ii-what-memory-could-carry-back.md), the second entry in Boriken's own Chronicles, protagonist Guani (PH2-010), not a Kanja Chronicle -- Kanja appears only as an unnamed guest, present across four years of reconstruction sessions, transcribing others' memories without contributing any of his own or taking command, credit, or resolution authorship. Extends a specific, deliberate detail in Boriken Chronicle I's (MCD-341) own wording: the church hall's six-year debt ledger, burned in the raid, 'cannot be fully rebuilt from the memory of the forty people who held pieces of it' -- implying partial recovery, dramatized here for the first time. Over four years of monthly sessions, the original forty contributors dwindle to twenty-six (through relocation, attrition, and death) while reconstructing roughly four-fifths of the six-year account from memory alone. Dona Alma, a new minor named character (collision-checked against the full live ledger, zero prior hits), dies shortly after recovering a key eleven-month gap in the ledger, in keeping with the Chronicle's theme of memory as a finite, mortal resource. Guani explicitly reframes the unnamed Commissioner's original arson as a category error -- burning a record while mistaking it for the debt itself, which lived on in the people who remembered it -- and states plainly that some portion of what burned is permanently, irrecoverably gone, honoring rather than resolving that loss. The unnamed Commissioner from Chronicle I is referenced but not brought back on-page; his fate stays deliberately unaddressed. No new proper nouns beyond Dona Alma requiring a collision check. Eighth territory overall (after Xaragua, Areito, Guanin, Uhuru, Aztlan, Sankofa, and Kazi) to receive a second Chronicle entry.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-10, no source document. Second entry in Boriken's own Chronicles, extending (not paying off a pre-flagged hook) a specific, deliberate detail in Boriken Chronicle I's (MCD-341) own wording. Full narrative text at docs/lords-of-cian/chronicles/boriken-chronicle-ii-what-memory-could-carry-back.md."
