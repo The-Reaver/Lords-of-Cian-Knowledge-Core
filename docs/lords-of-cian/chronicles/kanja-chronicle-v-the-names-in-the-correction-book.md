@@ -184,24 +184,26 @@ come back to the book, and turn the page.
 
 Men whose names were not in the book were told, once, to put their weapons down and sit, and the
 ones who did were never touched. The ones who tried to make a line found Valen in front of them
-instead, and Valen leaves men breathing when he is asked to, and that morning he was asked to. Nobody whose name was not in the book died in that
-yard. Nobody whose name was in it lived, except one, and I will come to him.
+instead, and Valen leaves men breathing when he is asked to, and that morning he was asked to.
+Nobody whose name was not in the book died in that yard. Nobody whose name was in it lived, except
+one, and I will come to him.
 
 He did not hurry. He did not shout. He did not explain himself. I have read that hour out of his
 body a hundred times since, and what I keep returning to is how little there is in it. No heat. No
 grief. A blade going where a name had sent it, and coming back.
 
 Skarrow's name was the ninth he read in the yard. Skarrow did not step forward. He ran for the
-gatehouse with the pen keys on his belt, as if the keys were still worth something, and the only way
-to the gatehouse from where he stood ran a few paces past the man. The man did not run after him. He stamped once on the paving -- the boots carry a tremor through shared ground, for a
-few paces, enough to take a man's footing -- and Skarrow fell on the steps of the gatehouse, and the
-man walked over to him, and read him the last entry under his name, and killed him.
+gatehouse with the pen keys on his belt, as if the keys were still worth something, and his way ran
+a few paces past the man. The man did not chase him. He stamped once on the paving -- the boots
+carry a tremor through shared ground, enough to take a man's footing -- and Skarrow went down on
+the gatehouse steps, and the man walked over to him, read him the last entry under his name, and
+killed him.
 
-Some of the garrison had drowned prisoners. Some had branded fighters too young to hold a blade. Some had only
-flogged. The book did not distinguish between them, and neither did he. He had told me, once, in the
-Rebellion, that the line between a man who holds the whip and a man who orders it held is a line the
-whip does not feel. I thought it was rhetoric at the time. In the yard at Chain Harbor I learned that
-he had meant it as a measurement.
+Some of the garrison had drowned prisoners. Some had branded fighters too young to hold a blade. Some
+had only flogged. The book did not distinguish between them, and neither did he. He told me once, in
+the Rebellion, that the line between the man who holds the whip and the man who orders it held is a
+line the whip does not feel. I took it for rhetoric. At Chain Harbor I learned he had meant it as a
+measurement.
 
 Mercy is earned. That morning, nobody whose name was in that book had earned any.
 
@@ -250,7 +252,8 @@ He gave the book back to Mabry.
 
 Mabry's name was in it once: a flogging, eleven years earlier, by his own hand. He had written every
 other entry in that book and done the thing he wrote down exactly once. The man had read that entry
-twice in the office, and moved on, and that was a choice too.
+twice in the office, and moved on. The book needed a keeper. That was the whole of the reason, and
+he did not pretend it was mercy.
 
 "Keep writing," the man said. "Every name I read today. What they did. That they died, and who did
 it." He tapped the book's open page with one plated finger. "Under mine."
