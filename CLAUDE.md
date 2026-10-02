@@ -3868,11 +3868,61 @@ across the three blocks.
 Ledger reached `ledger_version` 34.7, 2,650 rules, 344 batches -- zero duplicate IDs verified after
 every batch. This closes Phase 5's fable-review-then-fix pass across all five institutional
 rule-block groups (CULT/ASH/SBD, CC/WGD/CHAR, ARS/MAW/HLD, PH2/WC/POL/VB/COS). The MCD core block
-(~1,800 rules) remains genuinely open for a future dedicated pass -- it was deliberately not
-attempted here given its scale relative to everything else reviewed.
+(~1,800 rules) was deliberately deferred given its scale relative to everything else reviewed --
+picked back up immediately afterward as a self-initiated continuation of the same standing review
+mandate (see below), since budget remained and MCD is the project's single largest rule block.
+
+## Phase 5 continued: the MCD-core block fable-review, Batches 345-347+, 2026-10-02
+
+The deferred MCD core (~1,877 rules at the time) was split by pure ID-number range into four
+roughly-equal chunks (no natural thematic sub-grouping exists at this scale): MCD-1351-1877,
+MCD-451-900, MCD-901-1350, and MCD-1-450. Same Fable-review-then-Sonnet-fix pipeline as the rest of
+Phase 5, run per chunk via background agents given full-ledger grep access (the highest-value
+findings were consistently cross-chunk -- stale references into the Lauris/Chronicle-track material
+elsewhere in MCD, or into CC-/ARS-/MAW- rules).
+
+**Batch 345, MCD-1351-1877 (8 rule statements amended).** Fixes `MCD-1462`, `MCD-1402`, `MCD-1401`,
+`MCD-1374`, `MCD-1500`, `MCD-1720` (a Master-at-Arms citation pointing at the wrong rule, `MCD-291`
+instead of `ARS-344`), `MCD-1750`, `MCD-1370`. Normalizes 11 stale category fields (`MCD-1523`
+through `MCD-1532`, `MCD-1877`) to `phase2-territory-chronicle`.
+
+**Batch 346, MCD-451-900 (157 rule statements amended).** 13 hand-targeted fixes (`MCD-607`,
+`CC-115`, `MCD-530`, `MCD-811`, `MCD-829`, `MCD-623`, `MCD-680`, `MCD-516`, `MCD-378`/`379`/`410`/
+`411`/`412`) plus 144 wording corrections via a recurring "wave-wording" pattern fix applied across
+MCD-561-890. Three Chronicle prose files corrected alongside: `what-danne-sok-never-told-anyone.md`,
+`the-vote-that-named-the-third-ship.md`, and `what-garren-hask-wrote-down-first.md` (an anachronistic
+"Trench Monarch" alias reference, used before that alias name existed, corrected to "Kanja").
+
+**Batch 347, MCD-901-1350 (19 rule statements amended, 29 citations renumbered, 2 categories
+fixed).** Fixes the Undertow/Mar-bloodline tide-sense reconciliation (`MCD-951`), a ship-numbering
+gap (`MCD-1215`), two V3-to-V4 Forge-Coat gear-era corrections (`MCD-1241`/`1247`), Sephtis's
+"death"/"decline" reframed as his already-locked staged withdrawal (`MCD-982`) across three rules
+(`MCD-1054`/`1055`/`981`), a stale trust-timeline claim (`MCD-1135`), a crew-roster fix (`MCD-1137`),
+a stale `ARS-` cross-reference (`MCD-1074`), an "ageless" claim corrected against this character's
+actual locked long-but-finite lifespan (`MCD-958`), five rules where Mafesto's own gear was wrongly
+credited with Kanja's biological grounding mechanism (`MCD-1311`/`1314`/`1326`/`1329`/`1332`), a
+stomp/stamp Ironfall-Boots-not-Mafesto fix (`MCD-1071`), an attribution fix for who reads tension in
+the Iron Bastard doctrine (`MCD-1038`), and an "unseal Onyx"/"go back for Onyx" wording fix
+(`MCD-1244`). Separately, 29 rules across five Alias Chronicle tracks carried a wrong "Corrected
+Batch 321" citation for fixes that actually landed in later, track-specific batches -- renumbered to
+the correct batch per track (Trench Monarch -> 323, Crow King -> 324, Iron Bastard -> 326, Sovereign
+Ghost of the Great Sea -> 327, Lord of Embers -> 330). `MCD-1024`/`1093` normalized to
+`phase2-territory-chronicle`. Five Chronicle prose files corrected alongside (two V3->V4 gear fixes,
+three Sephtis-staged-withdrawal reframings).
+
+**Batch 348 (pending), MCD-1-450.** The fourth and final chunk's read-only review has landed and
+flagged 12 genuine contradictions needing Abad's own ruling (folded into the running tally below,
+several of them the single most load-bearing open items in the whole project -- see A1/A3/A4/A5
+there) plus 24 mechanical fixes and metadata normalizations (one, the `MCD-1720` citation, was
+already fixed by Batch 345 and correctly skipped). A Sonnet fix agent is applying the mechanical
+subset now; not yet merged as of this writing.
+
+Ledger reached `ledger_version` 35.0, 2,650 rules, 347 batches after Batch 347 -- zero duplicate IDs
+verified after every batch run so far.
 
 **Running tally of items requiring Abad's own direct review, accumulated across Phases 1.5 through
-5.** None of these block further work; they're queued for whenever Abad wants a dedicated session:
+5 (including the MCD-core continuation).** None of these block further work; they're queued for
+whenever Abad wants a dedicated session:
 - **Atlas/geography:** the Verehimu/Voskharen Wetlands naming question; whether "the Karkosa" the
   crew keeps an archive aboard is the Karkosa Complex itself or a distinct base; the Teeth's Atlas
   placement; `MCD-094`'s area-vs-population-weight framing; `MCD-112`'s Southern Seaboard
@@ -3898,10 +3948,51 @@ attempted here given its scale relative to everything else reviewed.
   largest structural question surfaced in Phase 5); ASH-018 vs WC-011 on where Trust Scrip
   circulates in the Shattered Kingdoms; Matar's recruitment date and Orlok's timeline (both `CC-`
   internal contradictions needing a numeric pick); Valen's age contradiction (a locked `MCD-248`
-  origin scene); the Ghost-Lattice/Silent Mara chronology hedge; three further numeric picks (House
-  Brekka's founding date, Lady Aravel's age, Essek Nightfall's date); Osseren's Pillar-reinstatement
-  question; "the Patient Stone" cross-block naming collision; COS-001's "Vakas power" vs "the Vault"
-  ambiguity; roughly a dozen further near-collision character names.
+  origin scene -- see the sharper join-date form of this below); the Ghost-Lattice/Silent Mara
+  chronology hedge; three further numeric picks (House Brekka's founding date, Lady Aravel's age,
+  Essek Nightfall's date); Osseren's Pillar-reinstatement question; "the Patient Stone" cross-block
+  naming collision; COS-001's "Vakas power" vs "the Vault" ambiguity; roughly a dozen further
+  near-collision character names.
+- **Cross-track mortality, confirmed three times independently:** Garren Hask (and by extension Efa
+  Gol/Pell Ostra) is locked dying of old age around Kanja-age 50-55 on the Captain Alias Chronicle
+  track, but shown alive and active through Kanja age 300-314+ on the Scourge Alias Chronicle track
+  and in several Lauris Character Chronicle entries -- surfaced independently in the Lauris Phase 2
+  review and in two separate MCD-core chunks (451-900, 901-1350). This is the single most load-bearing
+  unresolved cross-track contradiction in the entire project; it needs one ruling (which track
+  controls, or whether "Garren Hask" is doing double duty for two distinct people) rather than three
+  separate fixes.
+- **Captain's-Five Moonvault-gift anachronism:** several pre-Book-1 Sovereign Ghost of the Great Sea
+  entries (Long Mask/Pirate Dawn era) use Book-2-era Moonvault gifts (Undertow, originally; now
+  reconciled per Batch 347's `MCD-951` fix using Kanja's own Mar-bloodline tide-sense instead, the
+  same pattern already used for the Rootline fix in Batch 314) -- worth a sweep for any other
+  instances of this same era-mismatch class across the Sovereign Ghost track.
+- **From the MCD-001-450 review, the highest-impact items (see the fourth chunk's full findings for
+  all twelve):**
+  - **A1 (load-bearing):** whether the Fulfillment Ceremony (Book 1's opening) sits 284 or 296 years
+    after the Sovereign Pier Accords -- `MCD-091`/`ARS-010` say 296, but every rule locking Kanja's
+    age at the Pi-Awakening/Long-Mask-end (age 314) and the 284-year Long Mask itself implies 284.
+    Needs a numeric ruling; several other rules (`MCD-226`, `MCD-279`, `MCD-320`) silently assume one
+    answer or the other.
+  - **A3:** the Kares Prime collapse timeline (`MCD-153`/`156`/`158`/`162`) is arithmetically
+    impossible against Lauris's Batch-291-corrected age of 6,000 (`MCD-1533`) -- the old "~7,200
+    years before present" onset figure needs replacing with a number Abad picks.
+  - **A4:** Lauris's and Fermand's joining dates contradict each other across `MCD-267`,
+    `MCD-175`-`195`/`194`, and `MCD-268` -- three different implied timelines for when each of them
+    joined the crew.
+  - **A5:** Haryn Dael's age (~4,200) vs the Moonvault's own age (6,000+) -- he can't have personally
+    founded a settlement older than he is.
+  - **A6, A7, A8, A9, A10, A11:** Nadea Thren's "not T.D.K.'s champion" framing vs her locked
+    predecessor-champion history; Valen's join-date (`MCD-248` age 40 vs `ARS-344` already
+    Master-at-Arms at 26) plus a surname question (Valcari or not); the first-Verehimu contradiction
+    (`MCD-138` ~5,000 years vs `MCD-1850` ~8,000 years, already in the Phase 2 tally, restated here
+    since it also lives in the MCD-core range); "Yuto Haku" as a possibly-invented given name
+    appearing nowhere else in the ledger; a second un-renamed "Verehimu" geography item (`MCD-147`);
+    an internal arithmetic error in the adulthood-phase table vs. the Kareth sisters' own ages
+    (`MCD-149`).
+  - **A12 (lower priority, flag only):** a Book-1 combat-ceiling absolute-wording tension; a
+    no-killing-doctrine tension at the Sovereign Pier; two operations with near-identical
+    wage-skimming statistics that may be an intentional echo or a duplication; a couple of
+    wording-only items that don't need a ruling, just a tweak (already slated for the Batch 348 fix).
 
 ## Separate, unrelated thread: the interactive archive app
 
