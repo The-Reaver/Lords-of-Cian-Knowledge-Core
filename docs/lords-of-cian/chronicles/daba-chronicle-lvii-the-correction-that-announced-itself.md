@@ -1,12 +1,13 @@
 # Daba Chronicle LVII: The Correction That Announced Itself
 
-*UNLOCKED -- pending Abad's approval. Daba Chronicle LVII. Close-third on Daba, no dedicated
-narrator, matching the series' established convention. Dramatizes Harek Vondel's killing by 1804
-(`CC-147`/`MCD-1855`) for the first time -- queued since Batch 312, explicitly flagged in Daba's own
-profile doc as a candidate beat for a future wave, not yet drafted. Set during the network's
+*Locked canon, Batch 350, 2026-10-02 (`MCD-1878`). Daba Chronicle LVII. Close-third on Daba, no
+dedicated narrator, matching the series' established convention. Dramatizes Harek Vondel's killing
+by 1804 (`CC-147`/`MCD-1855`) for the first time -- queued since Batch 312, explicitly flagged in
+Daba's own profile doc as a candidate beat for a future wave. Set during the network's
 post-founding, pre-dormancy years (mature network era, after Block F's own timeframe). Reuses
 already-locked 1804 members Kether and Rhyne Cadec; no new named characters. The kill is deliberately
-not attributed to Kanja or any Alias, consistent with `MCD-1569`'s standing separation.*
+not attributed to Kanja or any Alias, consistent with `MCD-1569`'s standing separation. Abad's
+approval: "lock it."*
 
 ---
 

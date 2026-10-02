@@ -1,12 +1,12 @@
 # Daba Chronicle LVIII: What the Debt Paper Led To
 
-*UNLOCKED -- pending Abad's approval. Daba Chronicle LVIII. Close-third on Daba, no dedicated
-narrator, matching the series' established convention. Dramatizes Vex Thurlow's capture and handover
-by 1804 (`CC-153`/`MCD-1861`) for the first time -- queued since Batch 312, explicitly flagged in
-Daba's own profile doc as a candidate beat for a future wave, not yet drafted. Set during the
-network's semi-dormant years, matching Block I's era and register. Reuses already-locked 1804
-members Orsk Dresk and Kether; no new named characters. Resolution stays deliberately unglamorous and
-unresolved, per the source rule's own framing.*
+*Locked canon, Batch 350, 2026-10-02 (`MCD-1879`). Daba Chronicle LVIII. Close-third on Daba, no
+dedicated narrator, matching the series' established convention. Dramatizes Vex Thurlow's capture
+and handover by 1804 (`CC-153`/`MCD-1861`) for the first time -- queued since Batch 312, explicitly
+flagged in Daba's own profile doc as a candidate beat for a future wave. Set during the network's
+semi-dormant years, matching Block I's era and register. Reuses already-locked 1804 members Orsk
+Dresk and Kether; no new named characters. Resolution stays deliberately unglamorous and unresolved,
+per the source rule's own framing. Abad's approval: "lock it."*
 
 ---
 

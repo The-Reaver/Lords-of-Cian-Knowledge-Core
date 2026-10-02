@@ -1,6 +1,7 @@
 # Daba — Profile & Game Plan
 
-**Status:** wave 3 locked (Chronicles LIV–LVI, 56 total)
+**Status:** wave 3 locked (Chronicles LIV–LVI, 56 total), plus two queued villain-defeat entries
+locked (Chronicles LVII–LVIII, 58 total)
 **Track:** Character Chronicle (new faction)
 **Gate cleared:** YES, 2026-09-28.
 
@@ -488,3 +489,7 @@ batch number.
   his own position for the first time; Kether named as his unwitting successor. Batch 316.
 - **LVI — "What Vetting Cannot See"** (`MCD-1874`). The corpus's first honest, non-malicious
   vetting failure — a real, unclosable limit of the doctrine itself. Batch 316.
+- **LVII — "The Correction That Announced Itself"** (`MCD-1878`). Harek Vondel's killing by 1804
+  (`CC-147`/`MCD-1855`), dramatized for the first time. Batch 350.
+- **LVIII — "What the Debt Paper Led To"** (`MCD-1879`). Vex Thurlow's capture and handover by
+  1804 (`CC-153`/`MCD-1861`), dramatized for the first time. Batch 350.
