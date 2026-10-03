@@ -396,8 +396,8 @@ resolved here.
     The Triad have no locked book-level beat at all.
 20. **Corpus silence.** Zero Chronicles mention Pyro or the Triad, though locked Alias Chronicles cover
     Kanja 300-314 (`MCD-493`, `MCD-1472`, `MCD-1477`, `MCD-1252`, `MCD-1255`, `MCD-1022`). Whether
-    their silence means he was off the page or absent from the fleet is unstated; a 23-ton aquatic
-    guardian and a 27-foot raptor living aboard would be hard to leave out of a scene.
+    their silence means he was off the page or absent from the fleet is unstated; a two-ton courser
+    and a raptor with a 27-foot wingspan living aboard would be hard to leave out of a scene.
 
 ---
 

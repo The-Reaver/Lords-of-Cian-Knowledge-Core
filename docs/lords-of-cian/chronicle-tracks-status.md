@@ -22,7 +22,7 @@ tracked here as it proceeds — see CLAUDE.md's gate section for the protocol it
 | Daba | `character-profiles/daba.md` | wave 3 locked + marquee kill | 59 (incl. Chronicles LVII-LVIII, the Harek Vondel/Vex Thurlow villain defeats, and LIX, the Fenwold stair, `MCD-1887`) |
 | Ezio Valcari | `character-profiles/ezio-valcari.md` | wave 1 locked | 1 (own series, `MCD-1876`) — plus extensively established as supporting cast across 84 Industrial Myth Alias Chronicles + 4 Lauris Character Chronicles |
 | Anirak | `character-profiles/anirak.md` | walkthrough drafted (Tier 1, Book-1 anchor hero, 2026-10-03); 20 connective-tissue findings queued | 0 own series; appears in Kanja Chronicle V (`MCD-1883`, her recruitment) |
-| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | walkthrough in progress (priority launch, 2026-10-03) | 0 own series |
+| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | walkthrough drafted (priority launch, 2026-10-03); 20 connective-tissue findings queued, age at Book 1 depends on the 284/296 ruling | 0 (no Chronicle mentions him) |
 | Triad Guardians (Varkul, Sorya, Varruk) | `character-profiles/triad-guardians.md` | walkthrough in progress (priority launch, 2026-10-03) | 0 own series |
 
 ## Kanja-version track (new, 2026-09-28 — distinct from the Alias Chronicle track below)
