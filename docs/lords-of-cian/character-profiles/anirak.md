@@ -10,9 +10,9 @@ any Chronicle is written or rewritten — not a summary produced after the fact.
 
 Abad's direction, 2026-10-03: "Anirak is an incredible tier 1 character and an anchor as well," and
 "every connective tissue must be well thought out and well placed so it's only logical." This
-walkthrough therefore lists every locked rule that names her or her kit (21 rules, checked against
-`canon-ledger.json` at `ledger_version` 36.3, 2,667 rules; later batches through 37.2 are noted
-where they resolve a finding), plus the adjacent rules her
+walkthrough therefore lists every locked rule that names her or her kit (35 rules, refreshed in full
+against `canon-ledger.json` at `ledger_version` 37.2, 2,687 rules, through Batch 370; findings that
+later batches resolved are marked), plus the adjacent rules her
 characterization depends on, and closes with a precise list of the contradictions and gaps found
 among them. Nothing in this section resolves anything; it records what is locked and where the
 seams are.
@@ -39,26 +39,34 @@ statement (the ledger is the source of truth for exact wording).
 - `CC-112` — Her eyes are bioluminescent violet; the Siren is always-on biology, not a deployable
   ability. Everyone who looks at her, friend or enemy, is captured to some degree.
 - `CC-113` — Her momentum-stacking generates more torque in denser media: measurably faster and more
-  powerful underwater than on land (torque-through-resistance). She also has acoustic
-  hydro-sensitivity that functions as a sonar-like sense underwater.
+  powerful underwater than on land (torque-through-resistance; the rule calls it "already a Codex
+  mandate," see finding 17). She also has acoustic hydro-sensitivity that functions as a sonar-like
+  sense underwater.
+- `MCD-1896` — The Deep Road (Batch 369): the abyssal route along the trench floors, home ground of
+  the pressure-born Vael Kem, crossable only by bodies or hulls that can bear crushing pressure.
+  "Pressure-born beings, Ren (Abyss) and Anirak among them, can travel it where ordinary sailors
+  cannot." It is also one reason the Book 5 Tide Line must be held undersea (`MCD-1889`).
 - `MCD-264` — Maw-11, liberated in the Maw Cascade at Kanja age 140 (an inside job using Ghostwind
   infiltration and a Hymn-Engine counter-frequency device, 3,800 freed), is named as "Anirak's
   former facility."
 - **Not locked anywhere:** her age (at recruitment or at Book 1), lifespan basis, density figure
-  (resting or ceiling), height/build, family, birthplace (`MCD-1896`, Batch 369, now implies a
-  pressure-born, deep-water origin: "Pressure-born beings, Ren (Abyss) and Anirak among them"), how she entered the Maw at 12, or whether
-  she is herself Cestari-branded (`CC-021` defines "Cestari" as a slave-caste brand). Pronouns are
-  she/her in every rule and in the one Chronicle that names her.
+  (resting or ceiling), height/build, family, which community or settlement she was born in
+  (`MCD-1896` makes her pressure-born and able to travel the Deep Road, but names no community for
+  her), how she entered the Maw at 12, or whether she is herself Cestari-branded (`CC-021` defines
+  "Cestari" as a slave-caste brand). Pronouns are she/her in every rule and in the one Chronicle
+  that names her.
 
 ### Relationships
 - **Kanja.**
   - `MCD-251` — Kanja recruited her by offering to build weapons for her biology rather than suppress
     it; the Chain Storm kit is forged at Chain Harbor.
-  - `MCD-1883` — The dramatized recruitment: the Captain names the pull of her eyes, "struck it from
-    the count," looks at her hands; she says the harness existed "so the blows wouldn't stack"; he
-    answers "I'll build the opposite," and the only cost is "Nothing you stop being."
-  - `MCD-252` (context) — Stormbreaker's recruitment at age 70 establishes the template "Trust sends
-    containment team, Kanja arrives first, offers to teach not cage," stated to recur at Chain
+  - `MCD-1883` — The dramatized recruitment, in the Chronicle's order: the Captain feels his attention
+    snag on her eyes and sets it aside, looks at her hands, and then names the pull ("Your eyes pull.
+    Felt it. Struck it from the count."), followed by "Your hands broke those chains. Before we came."
+    She answers "They harnessed me. So the blows wouldn't stack." He says "I'll build the opposite."
+    She asks "Cost?" and his answer is "Nothing you stop being."
+  - `MCD-252` (context) — Stormbreaker's recruitment at age 70 establishes the template "Trust
+    sends containment team, Kanja arrives first, offers to teach not cage," stated to recur at Chain
     Harbor and the Breathing Dark.
   - `MCD-253` (context) — The crew's equipment philosophy, "he does not suppress, he directs," stated
     explicitly at age 85 and applied retroactively to Bloodreaver's heat, Stormbreaker's gravity, and
@@ -66,9 +74,12 @@ statement (the ledger is the source of truth for exact wording).
 - **Her own unit.**
   - `MCD-251` — Establishes her four-person unit as the first sub-crew loyal to a lieutenant rather
     than to Kanja directly.
-  - `MCD-1883` — Three freed prisoners hold the eastern passage at her back without orders, then
-    "do not join the crew. They join her"; Valen asks whose orders they take and they look at her
-    first; the Captain lets it stand. The three are named Edda, Hamund, and Odile at `MCD-1890`.
+  - `MCD-1883` — Three freed prisoners hold the eastern passage at her back without orders ("No one
+    ordered it"), then "do not join the crew. They join her"; Valen asks whose orders they take and
+    they look at her before they answer; the Captain lets it stand.
+  - `MCD-1890` — Names the three: Edda, Hamund, and Odile, "Maw-raised and loyal to her before any
+    loyalty to Kanja," her core on the Tide Line. `ARS-447` locks their formation, the Eastern
+    Passage, as the oldest combination in her Codex.
 - **Ren Oshaal (Abyss).**
   - `CC-114` — "Surface Storm" (her kinetic, rotational output) and "Deep Pressure" (his
     gravitational field) are a deliberate tactical and relational pairing: her blades shred
@@ -77,10 +88,15 @@ statement (the ledger is the source of truth for exact wording).
     world wasn't built for."
   - `CC-112` — Ren's negative-density field is the one known exception to the Siren: it strips the
     effect within its radius, letting him see her clearly.
+  - `ARS-446` — "Storm and Depth": her Fangs cut a target's structure and Ren's active field (+200%
+    load within about 15 meters) collapses it; his field strips her gaze from everyone inside it, and
+    its load falls on her too if she stays inside, so she clears the radius before it closes.
   - `ARS-369` — At Flood State, Ren's role shifts from finisher to full aftermath-radius manager,
     clearing targets so she doesn't have to stop.
   - `ARS-372` — Ren learns to target the structural failure points her forge-hot chain wraps create,
     without either of them naming the mechanism.
+  - `MCD-1890` — On the Tide Line Ren holds his locked role at her side as aftermath-radius manager.
+    `MCD-1896` — both are pressure-born and can travel the Deep Road.
   - `CC-066` / `CC-101` / `CC-138` (context, Ren's own profile) — Ren is ~45 (described as the crew's
     youngest adult recruit, Pyro being younger), ~150x, carries no weapons; sent to the surface at 16,
     recruited by Sephtis; an orphan with an unresolved identity/belonging throughline who regards Kanja
@@ -89,22 +105,29 @@ statement (the ledger is the source of truth for exact wording).
   - `MCD-221` — Commands the Book 5 Line front independently. Since Batch 368 Anirak holds her own
     fourth front, the Tide Line (`MCD-1889`), which meets the Line's flank once.
   - `ARS-369` — When she reaches Flood State he silently increases his own operational distance by
-    30 meters, at the one moment the Tide Line's shore phase meets the Line's flank (Batch 368).
-- **Ironbane (Darius).** `ARS-371` — From the Book 5 Tide Line she relays naval-perimeter positions
-  to Ironbane's fleet on the Line without narrating how she knows (Batch 368).
+    30 meters, at the one moment the Tide Line's shore phase meets the Line's flank, the one time he
+    stands within sight of her at Flood State.
+- **Ironbane (Darius) and Zora.** `ARS-371` — From the Book 5 Tide Line she relays naval-perimeter
+  positions to Ironbane's fleet on the Line without narrating how she knows. `MCD-1890` — Zora,
+  Ironbane's partner (`CC-063`), fights on the Tide Line, so the two fronts' standing links run
+  through the two of them and through Anirak's sonar relays; `ARS-447` locks "Two Storms," Anirak's
+  Voice and Zora's Scream, in a fixed order.
 - **Lauris Letitia.** `ARS-374` — Combined operational note: both grow more dangerous the longer a
   fight runs, in opposite detection directions (Anirak louder and harder to escape, Lauris quieter and
-  harder to find); in a shared Book 5 engagement her Siren's Voice compounds against opponents already
-  destabilized by the Spine's pressure wave, and her Debt Collection chain-pulls exploit Lauris's
-  Triad-Lock breaches in the following second.
+  harder to find, which defeats any instrument trying to track both); in any shared engagement before
+  Book 5 (in Book 5 Lauris is on the Engine front, `ARS-386`, and Anirak on the Tide Line), her
+  Siren's Voice compounds against opponents already destabilized by the Spine's pressure wave, and her
+  Debt Collection chain-pulls exploit Lauris's Triad-Lock breaches in the following second. `ARS-446`
+  names this the Joint Account (before Book 5 only).
 - **Valen and Torian (Bloodreaver).** `MCD-1883` — Both present at Chain Harbor; Valen is among those
-  whose attention her eyes catch "for a breath."
+  whose attention her eyes catch "for a breath." Torian boils the east wheel housing while the Captain
+  stops the west wheel. `MCD-1890` — Torian fights on the Tide Line in her pirate crew.
 - **Ozmund (thematic only).** `CC-112` — Her inability to tell genuine attention from biologically
   induced attention directly parallels Ozmund's Crown-Scar loyalty-uncertainty problem. No locked
   personal relationship between them.
 
 ### Abilities / gear
-- `ARS-130` — Her kit is "the Chain Storm": the Twin Fangs, the Siren's Voice, the Triform Morning
+- `ARS-130` — Her kit is the "Chain Storm": the Twin Fangs, the Siren's Voice, the Triform Morning
   Star.
 - `MCD-251` — All three pieces of the Chain Storm are forged by Kanja at Chain Harbor.
 - `ARS-367` — The Twin Fangs are Living Drakma hook-swords, heart-rate responsive, warming and
@@ -112,6 +135,11 @@ statement (the ledger is the source of truth for exact wording).
   Siren's Voice neuroacoustic vertigo/nausea emission are independent baseline capabilities. Her
   hydro-sensitivity perceives the ocean (waves, weather, submersibles) ambiently, ahead of any
   instrument.
+- `ARS-438` — The Siren's Voice is her own biology, a sub-audible neuroacoustic hum her throat
+  produces; the Siren Gorget, forged at Chain Harbor, carries it farther and shapes it into the locked
+  forward cone (about 10 meters, 15-20% distance-misjudgment). Without the gorget the hum is weak and
+  unshaped, which is why she has not fought without it since Chain Harbor. Water carries the cone at
+  full strength; the hum is felt in the body, so it reaches the deafened; no effect on the undead.
 - `ARS-411` — The Triform Morning Star is the third Chain Storm weapon, a Drakma-alloy mace whose head
   shifts via wrist-torque and impact-force triggers between Grapple-Star (spike-and-talon
   capture/disarm), Lantern-Star (strobing light core), and Split-Crown (~40% wider striking radius).
@@ -122,8 +150,14 @@ statement (the ledger is the source of truth for exact wording).
   to her measured pulse, warming and drawing tight as her heart climbs; a gorget with crystal nodes
   "built to carry what her own throat already did," carrying her voice's hum farther; a mace whose
   head turns through talons, lantern, crown. Forged from "Living Drakma from the fleet's stores" in
-  the garrison's own forge over seventy waking hours. (Abad's ruling recorded in
-  `kanja-haku-rexmar.md`: the gorget is tied to her own Siren voice.)
+  the garrison's own forge over seventy hours. (Abad's ruling recorded in `kanja-haku-rexmar.md`: the
+  gorget is tied to her own Siren voice; now locked at `ARS-438`.)
+- `ARS-439` — The Chain-Strike doctrine: every strike's recoil is fed into the next motion so the
+  chains never come to rest. Stack is the fuel (consecutive landed strikes and absorbed impacts, which
+  sets the Fangs' reach); Fury is the engine (her heart rate). Rising Stack drives heart rate up,
+  which heats the pulse-keyed Fangs and moves her from Warm toward White. Stack bleeds away after a few
+  seconds of stillness, the biological root of "no stillness." Each Fang hangs on a chain anchored at
+  her forearm, and the Morning Star rides across her back until drawn.
 - `ARS-368` — The Fury Escalation States: **Warm** (elevated heart rate, full fine control, all
   techniques available); **Hot** (high heart rate, reduced reaction time, first involuntary
   Voice/gaze synchronization begins); **White** (combat ceiling as established through Book 4,
@@ -134,21 +168,43 @@ statement (the ledger is the source of truth for exact wording).
   White.
 - `ARS-370` — Voice/gaze synchronization (distinct from the always-on gaze): the timing coordination
   between Voice pulse and direct eye contact becomes biologically automatic as Fury escalates —
-  involuntary at Hot, consistent at White, a single inseparable compound effect at Flood State.
+  involuntary at Hot, consistent at White, a single inseparable compound effect at Flood State. The
+  first involuntary occurrence (Book 3) unsettles her briefly; by Book 5 she doesn't register it.
 - `ARS-371` — Active hydro-sensitivity sonar: ~300m active sonar when her heat-conducting Twin Fangs
-  chains run hot (Hot state or above); ambient in Books 2-4, active in Book 5.
+  chains run hot (Hot state or above); ambient in Books 2-4, active in Book 5. It makes her the
+  alliance's earliest naval-perimeter warning system.
 - `ARS-372` — Chain thermal transfer at Flood State: forge-adjacent Fangs; two chain wraps held three
   seconds on one contact point structurally weaken (not burn through) the material there.
 - `ARS-373` — Hard constraints for all future drafting: no stillness, no sniping, no clean kills —
-  total engagement is doctrine, not a last resort; Flood State only on the Book 5 Tide Line, and any
-  earlier engagement approaching that duration must be interrupted; active sonar requires Hot or
-  above, the Book 2 seed is ambient only; the Siren's Voice has no effect on undead combatants, so
-  living troops must be routed toward her zone.
+  total engagement is doctrine, not an escalation of last resort; Flood State only on the Book 5 Tide
+  Line, and any earlier engagement approaching that duration must be interrupted; active sonar
+  requires Hot or above, the Book 2 seed is ambient only; the Siren's Voice has no effect on undead
+  combatants, so living troops must be routed toward her zone.
 - `CULT-197` — Her Lantern-Star strobe mode is part of the crew's light-vulnerability toolkit against
   the Ever-Haunt (alongside Ironbane's bio-electric discharge and Pyro's thermal flash-heating):
   involuntary dispersal in lower tiers, degraded function in higher ones.
-- Named techniques: the Chain-Strike doctrine (named at `ARS-369`, defined at `ARS-439`) and Debt
-  Collection (named at `ARS-374`, defined at `ARS-440`).
+- **Debt Collection** — named at `ARS-374`, defined at `ARS-440`: a Fang's hook catches a limb, weapon,
+  or shield, and the chain-pull turns the opponent's own momentum into the start of her next strike,
+  adding it to her Stack. The name is Maw language, from the circuit that priced its fighters' freedom
+  (`MAW-079`) and that she turned into a fighting style.
+- **The Combination Codex (`ARS-441` through `ARS-447`, Batch 370)** — her named combinations by
+  state:
+  - Warm (`ARS-441`): First Payment, Compound Interest, The Lien, Siren's Draw, Foreclosure. Before
+    Book 3 she never fights above Warm, and these, with the undersea and partner combinations, are the
+    whole of her craft across the Long Mask and Books 1-2. Foreclosure's Split-Crown sweep clears
+    those the Voice has dropped within her reach.
+  - Hot (`ARS-442`, Book 3 onward only): The Double Take; Echo Cast (Book 5 only, active sonar fixing
+    positions to about 300 meters). Books 3-4 Hot and White fights are inland, so the active sonar
+    first fires undersea in Book 5.
+  - White (`ARS-443`, Book 3 onward only): Called Debt (a two-chain torsion released before any
+    three-second hold); The Long Note, fusing the chains' one long note with the Voice's hum.
+  - Flood State (`ARS-444`): no named combinations; the Chain Storm running with no gap, the Voice and
+    gaze one compound effect. No account set before Book 5 may show it.
+  - Undersea (`ARS-445`): The Drowning Spiral; Black-Water Lantern (the Lantern-Star strobe as the
+    only light in black water; the outcome with Sereth Vaul stays reserved).
+  - Partner (`ARS-446`): Storm and Depth (with Ren); Joint Account (with Lauris, before Book 5 only).
+  - Tide Line crew (`ARS-447`, each run below Flood State): Double Draw (Stormbreaker), Mark and
+    Collect (Voidbreaker), Two Storms (Zora), The Eastern Passage (Edda, Hamund, and Odile).
 
 ### Already-locked plot beats (book-level or Chronicle-level)
 - **Long Mask, Kanja age 55** — `MCD-251` / `MCD-1883`: the Chain Harbor Massacre and her
@@ -159,30 +215,44 @@ statement (the ledger is the source of truth for exact wording).
   does not look away; recruited afterward; the Chain Storm forged over seventy hours.
 - **Long Mask, Kanja age 140** — `MCD-264`: Maw-11, "Anirak's former facility," liberated (3,800
   freed). Her own participation is not stated.
-- **Book 1** — nothing locked.
+- **Book 1** — no plot beat locked. (`ARS-441`, `ARS-374`, and `ARS-446` cover her craft across the
+  Long Mask and Books 1-2 but give no scene.)
 - **Book 2** — `ARS-373` / `ARS-371`: the "Book 2 seed" of her hydro-sensitivity is ambient only.
-- **Book 3** — `ARS-370`: the first involuntary Voice/gaze synchronization; it unsettles her briefly
-  because her biology acted without her authorization.
-- **Book 4** — `ARS-368`: White is her combat ceiling as established through Book 4.
+- **Book 3** — `ARS-370` / `ARS-442`: the first involuntary Voice/gaze synchronization (Hot,
+  The Double Take); it unsettles her briefly because her biology acted without her authorization.
+- **Book 4** — `ARS-368` / `ARS-443`: White is her combat ceiling as established through Book 4;
+  her Books 3-4 Hot and White fights are inland (`ARS-442`).
 - **Book 5** — `MCD-1889`-`1892`: sole command of the Tide Line, Book 5's fourth front, with her
   pirate-crew unit (her Chain Harbor core Edda, Hamund, Odile; Torian, Stormbreaker, Azar,
-  Voidbreaker, Ghostwind, Stormreaver, Zora; Ren): undersea against Sereth Vaul, her named opponent,
-  then ashore holding the Prefecture's 200,000 legionaries turned by Lady Vestige;
-  `ARS-369`: Flood State for the first and only time, Red Beard opening his distance by 30m;
-  `ARS-370`: synchronization reaches full expression and she no longer registers it; `ARS-371`: active
-  sonar, reporting to Ironbane; `ARS-372`: chain thermal transfer, Ren targeting the failure points;
-  `ARS-374`: shared engagement with Lauris.
+  Voidbreaker, Ghostwind, Stormreaver, Zora; Ren). It opens in the Talisman's 48-hour reallocation
+  deficit and runs in two phases: undersea against Sereth Vaul, her named opponent (`MCD-1892`),
+  then ashore holding the Prefecture's 200,000 legionaries turned by Lady Vestige, with her always-on
+  attention-capture the one force on the shore that competes with Vestige's perception field
+  (`MCD-1891`); `ARS-369`: Flood State for the first and only time, Red Beard opening his distance by
+  30m; `ARS-370`: synchronization reaches full expression and she no longer registers it; `ARS-371`:
+  active sonar, reporting to Ironbane; `ARS-372`: chain thermal transfer, Ren targeting the failure
+  points; `ARS-444`-`447`: Flood State's gapless Chain Storm, the undersea combinations, and the Tide
+  Line crew combinations.
+- **Pre-Book-5 shared engagements** — `ARS-374` / `ARS-446` (Joint Account): any shared engagement
+  with Lauris is before Book 5; in Book 5 Lauris is on the Engine front (`ARS-386`).
 - **Anchor-kill tiering** — `MCD-1881` defines Marquee / Notable / Ledger kills and reserves Marquee
-  kills to the Book-1 anchor heroes. As amended Batch 362, she is the fifth anchor hero.
+  kills to the Book-1 anchor heroes. As amended Batch 362, she is the fifth anchor hero, and her
+  marquee kills sit no earlier than her recruitment at Chain Harbor unless her own profile
+  establishes earlier material.
 
 ### Reserved / unresolved threads
 Things already flagged in the ledger as deliberately open, not yet paid off, or explicitly held
 back for a future book/Chronicle. These constrain what the profile and game plan may touch.
 - **Flood State** is reserved for the Book 5 Tide Line (`MCD-1889`); no pre-Book-5 engagement may reach it, and
-  any that approaches its duration must be interrupted (`ARS-369`, `ARS-373`).
-- **The first involuntary Voice/gaze synchronization** is reserved for Book 3 (`ARS-370`).
+  any that approaches its duration must be interrupted (`ARS-369`, `ARS-373`, `ARS-444`).
+- **The first involuntary Voice/gaze synchronization** is reserved for Book 3 (`ARS-370`); no
+  pre-Book-3 material may show her at Hot or above (`ARS-442`).
 - **Active sonar** is reserved for Book 5 / Hot state and above; Book 2 is ambient only (`ARS-371`,
   `ARS-373`).
+- **Sereth Vaul** — the outcome of the Silencer against the Siren's Voice is reserved for Book 5's own
+  drafting, and no pre-Book-5 material may assert or imply it (`MCD-1892`, `ARS-445`).
+- **Lady Vestige's turn of the legions** — how the turn breaks, and what breaking it costs, is
+  reserved for Book 5's own drafting (`MCD-1891`).
 - **The four-person unit** (the three named at `MCD-1890`, Batch 368; the composition of the four
   is proposed in Section 2, recommendation 3); the unit's formal establishment is not dramatized; `MCD-1883`'s notes deliberately stop at "the seed."
 - **The Siren's emotional cost** (`CC-112`) — that she cannot tell genuine attention from what her
@@ -192,9 +262,9 @@ back for a future book/Chronicle. These constrain what the profile and game plan
   dramatized.
 - **Maw-11** (`MCD-264`) — her former facility's liberation 85 years after her recruitment is named
   but her relationship to it (presence, reaction, people she left there) is open.
-- **Her age at 55 is deliberately never stated** (`MCD-1883` continuity notes).
-- **Undead limit** (`ARS-373`) — the Voice's failure against the Crownless Host is locked as a
-  constraint, never shown.
+- **Her age is never stated** (`MCD-1883` continuity notes: "her current age is never stated").
+- **Undead limit** (`ARS-373`, `ARS-438`) — the Voice's failure against the Crownless Host is locked
+  as a constraint, never shown.
 - Standing kit constraints from `ARS-373` bind every entry: no stillness, no sniping, no clean kills.
 
 ### Existing Chronicle corpus (if any)
@@ -216,22 +286,25 @@ characterization, not a competing invention.
     kills no one on the page.
 - Adjacent, not naming her: `lauris-chronicle-xcviii-the-weight-nobody-else-would-stand-under.md`
   (`MCD-1715`) is a Lauris/Ren practice scene that states Ren is "by a wide margin, the youngest adult recruit" (consistent with `CC-101`).
-- No Alias Chronicle, Territory Chronicle, or other Character Chronicle names her, despite the
-  tracker row in `chronicle-tracks-status.md` describing her as "supporting cast across Kanja/Alias
-  Chronicles."
+- No Alias Chronicle, Territory Chronicle, or other Character Chronicle names her.
 
 ### Connective-tissue findings
 
 **Resolved since this walkthrough was drafted:**
-- **Batch 368, the Tide Line (`MCD-1889`-`1892`):** finding 1 (anchor status), finding 12 (the Line
-  roster), and the open Book 5 role. Her Chain Harbor core is named Edda, Hamund, and Odile.
+- **Batch 362:** finding 1 (anchor status).
+- **Batch 368, the Tide Line (`MCD-1889`-`1892`):** finding 12 (the Line roster) and the open Book 5
+  role. Her Chain Harbor core is named Edda, Hamund, and Odile (part of finding 14).
 - **Batch 370, the Combination Codex (`ARS-438`-`447`):** findings 4 and 5 (the Siren's Voice is her
   own sub-audible felt hum, carried and shaped by the Siren Gorget; the Codex uses "Siren's Voice" and
-  "her gaze" distinctly, and bare "Siren" stays `CC-112`'s term for the gaze), finding 6 (before Book 3 she fights at Warm only), finding 7 (active sonar first
-  fires undersea in Book 5; Book 3-4 Hot and White fights are inland), and finding 8 (Stack is the
-  fuel and Fury the engine). Chain-Strike and Debt Collection are both defined.
-- Still open for her Psychological Profile: her kill doctrine (finding 15), whether she is Cestari
-  herself (13), and her unit beyond the three named members (14).
+  "her gaze" distinctly, and bare "Siren" stays `CC-112`'s term for the gaze), finding 6 (before Book 3
+  she fights at Warm only), finding 7 (active sonar first fires undersea in Book 5; Book 3-4 Hot and
+  White fights are inland), and finding 8 (Stack is the fuel and Fury the engine). Chain-Strike and
+  Debt Collection are both defined.
+- **A correction of record:** the tracker row in `chronicle-tracks-status.md` was corrected (finding
+  19).
+- **Still open:** findings 2, 3, 9, 10, 11, 13, 15, 16, 17, and 18, and the unit's count and Ren's
+  status (14). The kill doctrine (15), whether she is Cestari herself (13), and the unit beyond the
+  three named members (14) are the three still open for her Psychological Profile.
 
 Every contradiction or gap found among her rules, or between rules and Chronicles. Listed, not
 resolved.
@@ -243,48 +316,60 @@ resolved.
 2. **No Book 1 role exists.** No rule places her in Book 1. Her earliest book-level beat is `ARS-373`'s
    "the Book 2 seed is ambient only." Between Kanja age 55 and Book 2 the only rule naming her is
    `MCD-264` (a facility reference). An anchor hero "for Book 1" has nothing locked to anchor.
+   `ARS-441`/`374`/`446` now cover her craft in this span but give no plot beat.
 3. **Recruitment-template chronology.** `MCD-252` (Stormbreaker, age 70) says the template "Trust
    sends containment team, Kanja arrives first, offers to teach not cage" "recurs at Chain Harbor
    and the Breathing Dark" — but Chain Harbor is age 55 (`MCD-251`), fifteen years *before* the
    template is established. And `MCD-1883` has no Trust containment team at all: the fleet arrives on
    an unrelated errand ("Anansi's lattice has marked a transport for taking... The roads should be
    quiet. The roads are loud.") and the threat is the slave garrison.
-4. **Is the Siren's Voice biology or gear?** `ARS-367`: "her Siren's Voice neuroacoustic
+4. **Is the Siren's Voice biology or gear? Resolved, Batch 370 (`ARS-438`):** the Voice is her own
+   sub-audible hum, and the Siren Gorget carries and shapes it. Original finding, kept for the record:
+   `ARS-367`: "her Siren's Voice neuroacoustic
    vertigo/nausea emission [is an] independent baseline [capability]." Versus `MCD-251`: "the Twin
    Fangs, the Siren's Voice, and the Triform Morning Star (already locked at ARS-130) are forged
    here," and `ARS-130` lists it as one of three Chain Storm items. `MCD-1883` bridges this with a
    gorget "built to carry what her own throat already did," but the gorget appears in no `ARS-` rule
    and has no name.
-5. **"Siren" names two different things.** `CC-112`: "Anirak's Siren (bioluminescent violet eyes) is
+5. **"Siren" names two different things. Resolved, Batch 370 (`ARS-438`-`447`):** the Codex keeps "the
+   Siren's Voice" (the hum) and "her gaze" distinct; bare "Siren" stays `CC-112`'s term for the gaze.
+   Original finding, kept for the record: `CC-112`: "Anirak's Siren (bioluminescent violet eyes) is
    an always-on biological effect." `ARS-367`/`ARS-411`: "the Siren's Voice" is the acoustic
    emission. `ARS-370` then synchronizes the two. The bare term "the Siren" is ambiguous.
-6. **Hot state versus the Book 3 "first" synchronization.** `ARS-368`: at Hot, "first involuntary
-   Voice/gaze synchronization begins." `ARS-370`: "First involuntary occurrence (Book 3)." She serves
+6. **Hot state versus the Book 3 "first" synchronization. Resolved, Batch 370 (`ARS-441`/`442`):**
+   before Book 3 she never fights above Warm, and Hot and above are Book 3 onward only. Original
+   finding, kept for the record: `ARS-368`: at Hot, "first involuntary Voice/gaze synchronization
+   begins." `ARS-370`: "First involuntary occurrence (Book 3)." She serves
    with the crew from Kanja age 55 through Book 1 (roughly two and a half centuries, per `MCD-246`'s
    age-314 end of the Long Mask). Any pre-Book-1 entry where she reaches Hot would put the "first"
    involuntary synchronization centuries before Book 3.
-7. **Active sonar versus the White ceiling.** `ARS-371`: sonar goes active "when her heat-conducting
+7. **Active sonar versus the White ceiling. Resolved, Batch 370 (`ARS-442`):** her Book 3-4 Hot and
+   White fights are inland, so the active sonar first fires undersea in Book 5. Original finding,
+   kept for the record: `ARS-371`: sonar goes active "when her heat-conducting
    Twin Fangs chains are running hot (Hot state or above)," and is "ambient Books 2-4, active Book 5."
    `ARS-368`: White (above Hot) is "combat ceiling as established through Book 4." Reaching White in
    Books 2-4 means reaching Hot, which should trigger active sonar before Book 5.
-8. **Two escalation scales with no locked relationship.** `MCD-251`: "momentum accumulates with
+8. **Two escalation scales with no locked relationship. Resolved, Batch 370 (`ARS-439`):** Stack is
+   the fuel and Fury the engine; rising Stack drives her heart rate up. Original finding, kept for the
+   record: `MCD-251`: "momentum accumulates with
    consecutive strikes." `ARS-411`: kill radius "~3m at low Stack to ~6m at high Stack." `ARS-367`/
    `ARS-368`: the Fangs and the four states are keyed to heart rate ("as her Fury climbs"; "elevated
    heart rate," "high heart rate"). Whether Stack count and Fury state are one mechanism or two is not
    stated. `MCD-1883` dramatizes both (blows stacking in the harness; links keyed to her pulse).
-9. **"No conventional ceiling" versus "combat ceiling."** `ARS-367`: "built for momentum accumulation
-   without a conventional ceiling." `ARS-368`: "White (combat ceiling as established through Book 4)."
-   `ARS-369` implies the limit is engagement duration, not biology, but no rule says so.
+9. **"Without a conventional ceiling" versus "combat ceiling."** `ARS-367`: "built for momentum accumulation
+   without a conventional ceiling." `ARS-368`: "White (combat ceiling as established through Book 4, ..."
+   `ARS-369` implies the limit is engagement duration, not biology, and `MCD-1889` now names the
+   Tide Line's length as why she reaches Flood State there, but no rule reconciles the "without a
+   conventional ceiling" wording with White being a ceiling.
 10. **Living Drakma forging conditions.** `ARS-367`: the Twin Fangs are "Living Drakma hook-swords."
     `WC-013`: Living Drakma "Cannot be industrialized; ritual-forged only under specific lunar/quench
     conditions." `MCD-1883`: forged from "Living Drakma from the fleet's stores" in a slave garrison's
-    forge over seventy waking hours, no lunar condition shown. `ARS-411` gives the Morning Star only
+    forge over seventy hours, no lunar condition shown. `ARS-411` gives the Morning Star only
     as "Drakma-alloy," Living or Dead unspecified.
 11. **The Ren timeline.** `CC-101`: Ren is "Age ~45 (the crew's youngest adult recruit; Pyro, roughly
     24-36 at Book 1, is younger)," sent to the surface at 16, recruited by Sephtis. So Ren cannot have
     joined earlier than roughly the Long Mask's last three decades, and `CC-114`'s pairing and her
     protector role must be recent relative to her ~250-plus years of service; no rule dates them.
-    
 12. **Line-front roster gaps — resolved, Batch 368.** Anirak and Ren moved to the Tide Line,
     Lauris placed on the Engine front in `MCD-221`, and `ARS-374` rescoped to before Book 5. Original
     finding, kept for the record: `MCD-221` lists the Line front as "Anirak, Ironbane's fleet, Aethel-Gard
@@ -298,12 +383,15 @@ resolved.
     "Anirak's former facility." `MCD-1883`: "Sold out of the circuit and shipped in a damping harness,"
     eleven days at Chain Harbor (a holding port between sale and shipping). Which Maw raised her is
     only implied; whether she was present at Maw-11's liberation is unstated; whether she is herself
-    Cestari is unstated (`MCD-251` says she was "freeing captive Cestari").
-14. **The four-person unit.** `MCD-251`: "Establishes her four-person unit as the first sub-crew loyal
-    to a lieutenant." `MCD-1883` notes: "the seed of her four-person unit's lieutenant-level loyalty...
-    without naming them or claiming the unit's formal establishment." The three are named at
-    `MCD-1890`; whether
-    Ren is ever part of the unit (which would make five) is unaddressed.
+    Cestari is unstated (`MCD-251` says she was "freeing captive Cestari"). `MCD-1896` (Batch 369) now
+    makes her pressure-born, which bears on the caste question but does not settle it.
+14. **The four-person unit. Partly resolved, Batch 368 (`MCD-1890`):** the three are named as Edda,
+    Hamund, and Odile; the count of four and Ren's status remain open. Original finding, kept for the
+    record: `MCD-251`: "Establishes her four-person unit as the first sub-crew loyal to a lieutenant
+    rather than to Kanja directly." `MCD-1883` notes: "the seed of her four-person unit's
+    lieutenant-level loyalty... without naming them or claiming the unit's formal establishment." The
+    three are named at `MCD-1890`; whether Ren is ever part of the unit (which would make five) is
+    unaddressed.
 15. **Kill register.** `ARS-373`: "no stillness, no sniping, no clean kills -- total engagement is
     doctrine." Kanja (`CC-161`) and Lauris (`CC-162`) both carry locked necessity-only pre-Book-1 kill
     registers, and `MCD-1881` attaches marquee-kill conditions to each anchor. Anirak has no locked kill
@@ -313,14 +401,18 @@ resolved.
     says whether the always-on gaze (`CC-112`) affects undead or the Ever-Haunt; `CULT-197` addresses
     only her Lantern-Star against the Ever-Haunt.
 17. **A cited "Codex mandate" that doesn't exist as a rule.** `CC-113`: underwater superiority is
-    "already a Codex mandate." No separate locked rule states it; `CC-113` is the only one.
+    "already a Codex mandate." No separate locked rule states it; `CC-113` is the only one
+    (`ARS-445` cites `CC-113` for the same point).
 18. **The equipment philosophy omits her.** `MCD-253` applies "he does not suppress, he directs"
     "retroactively to Bloodreaver's heat, Stormbreaker's gravity, and Azar's dread alike," but not to
     Anirak, whose `MCD-251` recruitment is the same offer.
-19. **Tracker overstatement.** `chronicle-tracks-status.md` says "supporting cast across Kanja/Alias
-    Chronicles"; the corpus holds one Kanja Chronicle naming her and no Alias Chronicles.
+19. **Tracker overstatement. Resolved: tracker row corrected; now reads "0 own series; appears in
+    Kanja Chronicle V (`MCD-1883`, her recruitment)."** Original finding, kept for the record:
+    `chronicle-tracks-status.md` said "supporting cast across Kanja/Alias Chronicles"; the corpus holds
+    one Kanja Chronicle naming her and no Alias Chronicles.
 20. **No conflict found** on pronouns (she/her throughout) or the epithet ("later Blades Fury,"
-    `MCD-251`; "Blades Fury (Anirak)," `MCD-140`; "The crew will call her Blades Fury," `MCD-1883`).
+    `MCD-251`; "Blades Fury (Anirak)," `MCD-140`; and "The crew will call her Blades Fury" in the
+    Chronicle V text of `MCD-1883`).
 
 ---
 
@@ -375,8 +467,8 @@ she speaks twice and every word counts.
     radius (`CC-112`), stripped of it and still hers.
     - **The one she can be sure of, and the one she trusts.** Ren, whose field strips the Siren so he
     sees her clearly (`CC-112`), the one known exception. And Kanja, who named the pull to her
-    honestly. He felt it, said so, struck it from the count, and looked at her hands instead
-    (`MCD-1883`). She cannot be sure of his attention, but she trusts his honesty about it.
+    honestly. He looked at her hands, then named the pull aloud ("Felt it. Struck it from the
+    count") (`MCD-1883`). She cannot be sure of his attention, but she trusts his honesty about it.
   - **The parallel.** Her doubt mirrors Ozmund's Crown-Scar doubt, the fear that loyalty given to him
     was compelled (`CC-112`, `MCD-319`). She and Ozmund carry the same question in two different
     bodies.
@@ -396,7 +488,9 @@ she speaks twice and every word counts.
   - **Her own body acting without her.** The first involuntary sync of her Voice and gaze unsettles
     her (`ARS-370`), because for one moment her body authored something she did not. Flood State is
     the far end of that road: there her techniques run on instinct alone, no longer chosen
-    (`ARS-369`), though by Book 5 she no longer registers the sync at all (`ARS-370`).
+    (`ARS-369`). By Book 5 the fear of her body acting without her has gone, since she no longer
+    registers the sync (`ARS-370`), which is why the throughline can call Flood State the battle where
+    she is entirely herself.
   - **The doubt that could unmake her.** The suspicion that a loyalty she trusted was only her eyes.
     Her three proved their loyalty in a deed rather than a look, which is
     exactly why losing one of them would cost her more than any wound.
@@ -421,8 +515,8 @@ she speaks twice and every word counts.
      her techniques run on instinct (`ARS-369`). Ren's locked role there is "neutralizing what she's
      disoriented and clearing targets so she doesn't have to stop" (`ARS-369`). On the shore, the men
      inside her storm are turned legionaries, deceived living soldiers (`MCD-1891`). That is the risk Flood State
-     carries. Ren's clearing (`ARS-369`, `ARS-444`) is the safeguard, and what it costs stays reserved
-     (`MCD-1891`).
+     carries. Ren's clearing (`ARS-369`, `ARS-444`) is the safeguard, and what breaking the turn costs stays
+     reserved (`MCD-1891`).
 2. **Is she Cestari? (finding 13).** Recommend no. The Cestari are a Farm-bred caste, branded within
    72 hours of birth (`MAW-010`, `MAW-070`, `MAW-071`). She was Maw-raised only from twelve
    (`MCD-251`), and `MCD-1896` already makes her pressure-born. So she was born free in a deep-water
