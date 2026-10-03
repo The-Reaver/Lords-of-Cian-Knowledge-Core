@@ -557,7 +557,7 @@ match after three rounds of independent review.
 
 ## 3. Game Plan
 
-*PROPOSED 2026-10-03, for Abad's review. Nothing below is approved yet.*
+*PROPOSED 2026-10-03, for Abad's review. Nothing below is approved yet. Clean on the sixth independent review.*
 
 - **Narrator / voice (PROPOSED):** close-third on Anirak herself, with no dedicated named narrator.
   This matches `VB-020`'s close-third assignment for the Alias, Territory, and Daba tracks. Locking
@@ -628,8 +628,9 @@ match after three rounds of independent review.
     fought at Warm, so the fight is short.
   - **Attribution.** Her legend is public and runs under her epithet, "Blades Fury." Public rumor
     carries the epithet. Her name stays out of public telling, held only by the crew, the circuit's
-    own records, those who once held her, and the SBD, whose permanent files carry her under code
-    designations (`CC-122`, `SBD-052`). That is the opposite of Daba's
+    own records, those who once held her, and the SBD. Its field files name her, and its escalated
+    permanent copies strip the name to a code (`SBD-052`). It classifies her biology as the
+    Kinetic-Stack Variant (`CC-122`). That is the opposite of Daba's
     unattributed register. The epithet is undated in canon ("later Blades Fury," `MCD-251`), so this
     also sets it in public use by Kanja 140. (Both are new facts, flagged here for Abad's ruling,
     not assumed.)
