@@ -118,7 +118,8 @@ years ago and give T.D.K. direct control during his dormancy.
   breaks `CULT-191`.
 
 **14. Nadea Thren was "never T.D.K.'s champion," yet Bolo Troth is called "her replacement."**
-- **Recommend a new rule, `CC-163`.** The Legacy Lattice silently registered her SBD unit as T.D.K.'s
+- **Recommend a new rule, `CC-165`** (renumbered from `CC-163`, which Batch 371 used for Anirak's
+  origin). The Legacy Lattice silently registered her SBD unit as T.D.K.'s
   fifth division without her knowledge. Finding that slot is what made her defect.
 - The other Champions refilled it with Bolo under Lattice-delegated authority, which also explains how
   anyone appointed him during the dormancy.

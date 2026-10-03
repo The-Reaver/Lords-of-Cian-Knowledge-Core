@@ -1,5 +1,5 @@
 """Batch 371: Anirak's Psychological Profile recommendations locked (CC-163, CC-164),
-plus mechanical amendments to MCD-251 and ARS-440."""
+plus amendments to MCD-251, ARS-440 and ARS-441 (Foreclosure)."""
 import json, re
 from collections import Counter
 
@@ -30,7 +30,7 @@ amend = {
     "ARS-440": ("by a circuit that priced its fighters' freedom at a ratio set above any ordinary career's return (MAW-079)",
                 "by a circuit that priced her freedom against the debt she was sold for (CC-163), the same system that sets the Cestari manumission ratio above any ordinary career's return (MAW-079)"),
     "ARS-441": ("clears everyone the Voice has dropped within her reach",
-                "sweeps the weapons from everyone the Voice has dropped within her reach and is lethal only to those who keep coming (CC-164)"),
+                "strips the weapons from everyone the Voice has dropped within her reach and is lethal only to those who keep coming (CC-164)"),
 }
 R = {r["id"]: r for r in d["rules"]}
 for rid, (old, new) in amend.items():
@@ -42,8 +42,8 @@ d["batches_completed"].append({
     "batch": nb, "source": SOURCE, "rules_affected": 5,
     "note": ("Anirak's Psychological Profile closed: CC-163 (origin -- pressure-born, sold into the Maw "
              "circuit at twelve against a debt, never Cestari; her Chain Harbor unit is Anirak leading "
-             "Edda, Hamund, and Odile) and CC-164 (her necessity-kill register from her recruitment "
-             "onward, with the Flood State clause carried by Ren). MCD-251, ARS-440 and ARS-441 "
+             "Edda, Hamund, and Odile) and CC-164 (her necessity-kill register from the fleet's "
+             "arrival at Chain Harbor onward, with the Flood State clause carried by Ren). MCD-251, ARS-440 and ARS-441 "
              "amended to match. The Batch 365 log's pending 'CC-163' is the Nadea Thren proposal, "
              "renumbered CC-165. Passed the Connective-Tissue Gate on a third independent review. "
              "Abad's approval, verbatim: 'approved' / 'lock it.'")})

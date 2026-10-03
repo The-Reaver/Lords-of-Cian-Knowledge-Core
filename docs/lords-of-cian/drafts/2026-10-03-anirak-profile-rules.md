@@ -8,14 +8,16 @@ before the merge.*
 
 **CC-163 (new, character-crew).** Anirak's origin. She is pressure-born (`MCD-1896`): born free in a
 pressure-born deep-water community, she was sold into the Maw circuit at twelve against a debt, which
-began her Maw-raised years (`MCD-251`). The circuit set her freedom against that debt, the debt-fighter
+began her Maw-raised years (`MCD-251`; Maw-11 was her former facility,
+`MCD-264`). The circuit set her freedom against that debt, the debt-fighter
 path a fighter like Ash Korren also walks (`MAW-147`). She is Branded in the Maw's sense, the term for
 any fighter in the system (`MCD-080`). She was never Cestari and carries no Cestari birth-brand: the
 Cestari are Farm-bred and branded within 72 hours of birth (`MAW-010`, `MAW-070`, `MAW-071`,
 `MAW-076`). That keeps her distinct from Red Beard while giving her the same enemy. The origin fits her
 underwater superiority (`CC-113`), her ambient sea-sense (`ARS-367`), and her ease on the Deep Road
 (`MCD-1896`). Who owed the debt, whether her community was of the Vael Kem (`MCD-041`), what became of
-it, and whether she bears any House mark all stay open. Her Chain Harbor unit, the four-person unit of
+it, and which brand, if any, she carries (`MAW-076` defines only the Cestari birth-brand and the free
+volunteer's Choice-Brand) all stay open. Her Chain Harbor unit, the four-person unit of
 `MCD-251`, is Anirak leading Edda, Hamund, and Odile (`MCD-1890`).
 
 **CC-164 (new, character-crew).** Anirak's kill register, from the fleet's arrival at Chain Harbor
@@ -26,7 +28,7 @@ who sits or runs is not struck, the standard she watched kept in the Chain Harbo
 She never executes a surrendering or fleeing person and never kills for deterrence. Giving ground
 inside an engagement is not fleeing; a man who leaves the fight is. "No clean kills -- total
 engagement is doctrine" (`ARS-373`) describes how she fights, not whom she kills. Her gaze and Voice
-reach everyone in range (`CC-112`, `ARS-438`), but Foreclosure's sweep (`ARS-441`, as amended below) is
+reach everyone in range (`CC-112`, `ARS-438`), but Foreclosure's sweep (`ARS-441`) is
 lethal only to the men still coming; anyone the Voice has dropped who sits or runs is disarmed and
 passed over, and it does not kill men already down. At Flood State, on the Book 5 Tide Line only, she cannot make the register's
 discriminations herself (terms, passing over those who sit or run), because she acts on instinct alone
@@ -45,7 +47,7 @@ This parallels Kanja's `CC-161` and Lauris's `CC-162` without merging with eithe
   career's return (`MAW-079`)" becomes "by a circuit that priced her freedom against the debt she was
   sold for (`CC-163`), the same system that sets the Cestari manumission ratio above any ordinary
   career's return (`MAW-079`)".
-- **`ARS-441`.** Foreclosure's "clears everyone the Voice has dropped within her reach" becomes "sweeps
+- **`ARS-441`.** Foreclosure's "clears everyone the Voice has dropped within her reach" becomes "strips
   the weapons from everyone the Voice has dropped within her reach and is lethal only to those who
   keep coming (`CC-164`)". This carries the approved recommendation ("disables the men the Voice
   has dropped; it does not kill men already down") into the Codex itself.

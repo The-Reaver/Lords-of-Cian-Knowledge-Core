@@ -1,6 +1,6 @@
 # Anirak (Blades Fury) — Profile & Game Plan
 
-**Status:** profile in discussion -- Section 2 PROPOSED 2026-10-03
+**Status:** profile approved -- Section 2 approved and locked 2026-10-03 (Batch 371, `CC-163`/`CC-164`); Game Plan next
 **Track:** Character Chronicle (Tier 1, Book-1 anchor hero per MCD-1881 as amended 2026-10-03)
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
@@ -50,9 +50,9 @@ statement (the ledger is the source of truth for exact wording).
   former facility."
 - **Not locked anywhere:** her age (at recruitment or at Book 1), lifespan basis, density figure
   (resting or ceiling), height/build, family, which community or settlement she was born in
-  (`MCD-1896` makes her pressure-born and able to travel the Deep Road, but names no community for
-  her), how she entered the Maw at 12, or whether she is herself Cestari-branded (`CC-021` defines
-  "Cestari" as a slave-caste brand). Pronouns are she/her in every rule and in the one Chronicle
+  (`MCD-1896` makes her pressure-born, and `CC-163` a free-born child of a pressure-born deep-water
+  community, but neither names it), and which brand, if any, she carries. Settled at `CC-163`
+  (Batch 371): she was sold into the Maw at twelve against a debt and was never Cestari. Pronouns are she/her in every rule and in the one Chronicle
   that names her.
 
 ### Relationships
@@ -184,14 +184,16 @@ statement (the ledger is the source of truth for exact wording).
   involuntary dispersal in lower tiers, degraded function in higher ones.
 - **Debt Collection** — named at `ARS-374`, defined at `ARS-440`: a Fang's hook catches a limb, weapon,
   or shield, and the chain-pull turns the opponent's own momentum into the start of her next strike,
-  adding it to her Stack. The name is Maw language, from the circuit that priced its fighters' freedom
-  (`MAW-079`) and that she turned into a fighting style.
+  adding it to her Stack. The name is Maw language, from the circuit that priced her freedom against the debt she was sold
+  for (`CC-163`; `MAW-079`'s ratio is the Cestari form of the same system), and that she turned into a
+  fighting style.
 - **The Combination Codex (`ARS-441` through `ARS-447`, Batch 370)** — her named combinations by
   state:
   - Warm (`ARS-441`): First Payment, Compound Interest, The Lien, Siren's Draw, Foreclosure. Before
     Book 3 she never fights above Warm, and these, with the undersea and partner combinations, are the
-    whole of her craft across the Long Mask and Books 1-2. Foreclosure's Split-Crown sweep disarms
-    those the Voice has dropped within her reach and kills only those who keep coming (`CC-164`).
+    whole of her craft across the Long Mask and Books 1-2. Foreclosure's Split-Crown sweep strips
+    the weapons from those the Voice has dropped within her reach and kills only those who keep coming
+    (`CC-164`).
   - Hot (`ARS-442`, Book 3 onward only): The Double Take; Echo Cast (Book 5 only, active sonar fixing
     positions to about 300 meters). Books 3-4 Hot and White fights are inland, so the active sonar
     first fires undersea in Book 5.
@@ -384,7 +386,8 @@ resolved.
     eleven days at Chain Harbor (a holding port between sale and shipping). Which Maw raised her is
     only implied; whether she was present at Maw-11's liberation is unstated; whether she is herself
     Cestari is unstated (`MCD-251` says she was "freeing captive Cestari"). `MCD-1896` (Batch 369) now
-    makes her pressure-born, which bears on the caste question but does not settle it.
+    makes her pressure-born, which bears on the caste question but does not settle it. **Resolved,
+    Batch 371 (`CC-163`):** free-born, sold into the circuit at twelve against a debt, never Cestari.
 14. **The four-person unit. Partly resolved, Batch 368 (`MCD-1890`):** the three are named as Edda,
     Hamund, and Odile; the count of four and Ren's status remain open. Original finding, kept for the
     record: `MCD-251`: "Establishes her four-person unit as the first sub-crew loyal to a lieutenant
@@ -426,7 +429,7 @@ Grounded in her locked rules and her one on-page scene so far, Kanja Chronicle V
 she speaks twice and every word counts.
 
 - **Core wound / formative event (PROPOSED):** *the harness.* She was Maw-raised from twelve (`MCD-251`;
-  that she was sold into the circuit at twelve against a debt is this profile's proposal), then sold out of the circuit and shipped in a damping harness whose only purpose was
+  sold into the circuit at twelve against a debt, `CC-163`), then sold out of the circuit and shipped in a damping harness whose only purpose was
   to stop her body being what it is: "They harnessed me. So the blows wouldn't stack" (`MCD-1883`).
   The wound is not cruelty in general. It is being made smaller so other people could feel safe
   around her. The circuit that sold her treated her nature as the danger and built a device to suppress
@@ -534,7 +537,9 @@ she speaks twice and every word counts.
    sea-sense (`ARS-367`), and the Siren itself. The alternative is to amend `MCD-1896` to "beings who
    thrive under pressure" and leave her birthplace open.
 
-**Abad's ruling, verbatim, once given:**
+**Abad's ruling, verbatim:** "approved" / "lock it." Locked Batch 371: recommendations 1 and 3 at
+`CC-164`/`CC-163`, 2 and 4 at `CC-163`, with `MCD-251`, `ARS-440` and `ARS-441` (Foreclosure) amended to
+match after three rounds of independent review.
 
 ---
 
