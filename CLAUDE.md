@@ -4059,6 +4059,41 @@ the sealed blade through the Heartline as a causeless signal -- never drafted or
 Abad's approval: "Both Heartline / Dark Ledger. keep all three, lock it." Ledger at `ledger_version`
 35.5, 2,657 rules, 353 batches.
 
+## The Onyx voice gate, the no-kill window, and necessity kills, Batches 354-357, 2026-10-03
+
+Abad read the first three Long Mask Onyx drafts (Kanja Chronicles V-VII, unlocked) and asked
+whether they matched the Voice Bible's Onyx cadence. They did not, and neither did locked Kanja I,
+III, or IV: the track had been written as a reflective first-person literary voice instead of the
+telegraphic, morally absolute blade the Voice Bible and the Voice Progression Sheet require. Both
+governing documents are now mirrored in the repo at `docs/lords-of-cian/voice/`, and per Abad
+("this should have been part of the rules that's gated") the voice check is now a gate step in
+`docs/lords-of-cian/character-profiles/_TEMPLATE.md`, with `scripts/onyx_voice_check.py` as the
+Phase 4 tool. A full read-only voice audit found the drift confined to the Kanja-version track plus
+four Alias Chronicle entries that give Onyx conversational lines (Iron Bastard `MCD-715`, `MCD-720`,
+`MCD-721`; borderline Trench Monarch `MCD-1127`), and flagged several Storm That Walks entries
+(`MCD-562`/`565`/`568`/`574`/`577`/`583`) that put Onyx in combat with no stated age.
+
+**Batch 354 (`MCD-1882`):** Kanja kills no one by his own hand between the Sovereign Pier (age 30)
+and the opening of the Pirate Dawn. Abad: "lock in the age 30 and 48 no killing." **Batch 355
+(`CC-161` amended):** pre-Book-1 kills are necessity kills only -- no reciting crimes then killing,
+no killing a surrendering man, deterrence never his stated reason, judgment of the dead belongs to
+Onyx's narration afterward. Abad: "go with your recommendation on the CC-161 amendment." A
+read-only kill audit found zero locked violations of either rule; the only breaches were in the
+unlocked drafts, plus one borderline beat in Chronicle IV. **Batch 356:** `MCD-1882` pinned (ages
+31-47 kill-free, first kill after the Pier at 48), `CC-161` refined (fleeing/disengaging = no
+threat; a brand check to decide whom to spare is allowed; terms stated once; no announced deaths),
+and Chronicle IV/`MCD-1880` corrected so Caddel goes over the rail to come at the king. Abad:
+"approved." **Batch 357 (`VB-063`; `VB-062`, `ARS-437` amended):** the Onyx voice standard --
+Onyx is "the blade," never "I" (Chronicle IV's closing line the single exception); articles follow
+the manuscript codas; "spike" banned from prose ("jolt" in `ARS-437`); exact seconds-counts on a
+365-day year from the Pier; the Phase 1 coda is already full Codex voice; "the Captain" from Phase 3;
+present tense the Phase 4 default. Abad chose the recommended option on all four questions.
+
+Still open: redrafts of Chronicles V-VII in Phase 4 cadence (in progress, unlocked), then proposed
+rewrites of locked Kanja I, III, and IV plus `MCD-1866`/`1868`/`1880`'s voice wording, the four
+Alias Onyx lines, and pinning the Storm That Walks entries' ages -- all locked material needing
+Abad's approval. Ledger at `ledger_version` 35.9, 2,659 rules, 357 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

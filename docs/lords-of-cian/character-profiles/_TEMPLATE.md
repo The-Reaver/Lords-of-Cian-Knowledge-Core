@@ -71,7 +71,11 @@ this file always reflects current understanding, not a batch-log history of how 
   that governs each entry's in-world age stated explicitly. Every draft gets a voice check
   against this spec (sentence length, articles, tense, naming, verdict register, banned words
   and structures, dialogue 50% rule) before it is presented to Abad; a draft that fails is
-  redrafted, not presented with the failures listed.
+  redrafted, not presented with the failures listed. For Onyx, the standing rulings are locked at
+  `VB-063`, and `scripts/onyx_voice_check.py` must report PASS on every line for a Phase 4 entry;
+  the final test is reading the draft beside the "ONYX:" coda in
+  `docs/lords-of-cian/chronicles/chronicle-viii-the-ash-wharf-massacre.md` -- if it is not
+  recognizably the same instrument, it is redrafted.
 - **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
   character's life/role actually calls for a split)
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the
