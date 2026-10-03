@@ -1,6 +1,6 @@
 # Lauris Letitia — Profile & Game Plan
 
-**Status:** walkthrough drafted
+**Status:** profile in discussion (backfill) -- Sections 2-3 PROPOSED 2026-10-03, awaiting Abad's review
 **Track:** Character Chronicle (Tier 1)
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
@@ -379,14 +379,118 @@ Built collaboratively with Abad, not handed to him finished. Draft proposals go 
 **PROPOSED**, and are corrected in place (not appended-and-superseded) once discussed —
 this file always reflects current understanding, not a batch-log history of how we got there.
 
-- **Core wound / formative event:**
-- **Defense mechanisms:**
-- **Values — what they will not compromise:**
-- **How they hold contradiction** (the specific tension that makes them dramatically interesting):
-- **Relationship patterns:**
-- **What breaks them / their real vulnerability:**
-- **Defining emotional throughline** (the equivalent of Lauris's combat-joy, Daba's
-  discipline-over-mass doctrine, Arturo's chosen-family-as-answer-to-loss):
+This is a backfill: 109 Chronicles already exist, so every facet below is drawn from what the corpus
+has already shown, cited by rule ID and Chronicle numeral. Where the corpus leaves a question
+genuinely open, it is flagged as open rather than answered.
+
+- **Core wound / formative event (PROPOSED):** *"Then I am a record."* The night at age 1,840 when
+  Selene finally told her what she was (`MCD-172`, dramatized at Chronicle VI, `MCD-1623`): the
+  last planned preservation of a civilization already ending, the whole of its remaining
+  preservation capacity spent on one body (`MCD-155`-`159`). The wound is not that she was made.
+  The wound is being made *to carry an ending* — a person whose purpose, at the moment of its
+  design, was to be what is left. She integrated it in under twenty-four hours, the youngest
+  karth-ven on record (`MCD-172`), and the corpus is careful that this was not numbness (Ch. VI).
+  The wound did not go away; it changed shape. In everything after, it surfaces as **lateness** —
+  arriving after the thing she would have kept out of the record has already entered it. She was
+  three days away when Velith died and was told by courier (Ch. XIV, `MCD-1631`). She was thirty
+  seconds late for Selene, and refuses to let anyone read that number as speed: *"Thirty seconds
+  is not fast. Thirty seconds is the length of time I was too late by"* (Ch. LXIX). CP-414 asked her
+  to run and she could only give a clean death (Ch. XXXII, `MCD-187`). **Flagged for Abad, not
+  settled:** whether the core wound should be named as the making itself (Ch. VI) or as the
+  lateness the making keeps producing (Ch. XIV/LXIX/XXXII). The corpus supports both; this draft
+  treats the first as the root and the second as its recurring face.
+- **Defense mechanisms (PROPOSED):** *accuracy as care.* Her oldest inheritance is careful witness
+  (`MCD-161`, from age eight at Ch. X), and every loss in the corpus is met the same way: she
+  records it, exactly, without softening (Ch. LXIX), and refuses to record as fact what she did not
+  see (Ch. XIV). On Velith: the memory "did not need a room full of people to hold it. It needed
+  accuracy" — "the one gift she had always been certain she could give" (Ch. XIV). Two related
+  defenses follow from it. First, *carrying the gap rather than accepting a confident lie*: she
+  will not press a frightened man past what he actually knows (Ch. I; Tevan Kesk at Ch. XLIII,
+  `MCD-1660`). Second, *withholding until a thing is someone's to carry*: the Kanja Gap
+  (`MCD-200`), Ezio's classified capability (`MCD-194`), the unfiled Velaris node (Ch. XXIX), the
+  Twin Anomaly photographs still unshown to Sephtis (Ch. XXXIX, `MCD-1656`). Her own words for it,
+  about protecting Ezio: *"It was simply not yet his to carry"* (Ch. IX, `MCD-1626`). The record is
+  where she puts what she cannot yet fix; the withholding is how she decides who else has to hold
+  it.
+- **Values — what she will not compromise (PROPOSED):** (1) **Accuracy over comfort**, her own
+  included — no claim beyond what was witnessed, no flattering account of her own effect (her one
+  recorded self-doubt at Ch. II, `MCD-1562`, is itself an act of refusing to overclaim). (2) **The
+  person inside a thing matters independently of whether the thing survives** — the principle she
+  gave Doreth at Aldreth and turned on her own mother's death (Ch. LXIX); the root of her refusal
+  to treat engineered Karesians as inventory. (3) **The chance, not just the clean ending** — her
+  post-Operation-29 turn: CP-609 is owed "not the death, but the chance" (Ch. LXXXVII, `MCD-1704`),
+  and Corin Halvet's request to leave concealment is treated as his to make (`MCD-1658`). (4)
+  **Her own deployment is hers** — the three unmodified conditions of her recruitment (`MCD-194`)
+  are the only terms she has ever set on any institution, and she has kept them for two centuries.
+  (5) **Promises outlast the people who asked for them** — the Iron-Speakers' testimony debt
+  (`MCD-211`, Ch. XLV), CP-414's four sentences (Ch. XLVI).
+- **How she holds contradiction (PROPOSED)** — the specific tension that makes her dramatically
+  interesting: **the series' joy-carrier (`CC-134`) has the largest ledger of deaths of any lead** —
+  ~4,800 terminations across forty contracts (`MCD-1560`), a species whose end is already
+  determined, every friend from her childhood outlived. She does not resolve this by enjoying the
+  killing. The corpus says so in her own hand: *"Six hundred, across forty-seven hours. I did not
+  lose the count once, and I enjoyed none of it. I record that plainly, because the name they gave
+  me afterward reads as though I did"* (Ch. XXIX, `MCD-1646`). The joy lives in the body's full
+  capacity — the walk, the reach, the read (Ch. I: "joy, unqualified, in the use of a body that has
+  never once betrayed her") — and never in the death at the end of it. The world keeps misreading
+  the one as the other, which is why every name it gives her ("the Petite Catastrophe," `MCD-1539`)
+  is wrong in the same direction, and why she has stopped correcting it: "a name someone else
+  insists on fitting you tells you more about what they needed to believe" (Ch. XXIX). Her
+  physiology mirrors this exactly: she becomes *less* detectable the more fully she is herself
+  (`ARS-358`). The fuller her capacity, the less of her the instruments — and the observers —
+  actually register. Two smaller inversions sit alongside: calendar-older than almost anyone and
+  developmentally a young first adult (`MCD-214`); a witness by training who has spent two
+  centuries choosing what not to say.
+- **Relationship patterns (PROPOSED):** *presence, not remedy.* She does not counsel, console, or
+  fix. She takes up the place in a room that the situation needs a body in — between two armed
+  delegations at the vein (Ch. II), between an engagement and Ezio's vantage point for two hundred
+  years (Ch. IX, `CC-111`), beside three burdened crew members who leave "quieter for the sharing of
+  the room" (Ch. LII, `MCD-1669`). Her own statement of the pattern: *"I do not think joy is meant to
+  fix anything the others carry. I think it is only meant to be in the room with it"* (Ch. LII).
+  Her ties run at low volume across long durations (`MCD-215`; Sephtis and Valen, the closest),
+  are non-romantic, and are not lonely (`MCD-215`). She lets people reach their own knowledge at
+  their own pace — Ezio worked out the arrangement on his own, three years late, and she simply
+  confirmed it (Ch. IX). The one place she defers beyond protocol is Kanja (`MCD-199`/`205`), and
+  that deference rests on a fact she is deliberately keeping from him.
+- **What breaks her / her real vulnerability (PROPOSED):** not defeat — she has never been
+  defeated, killed, or made to surrender (`MCD-209`). Two things, both in the corpus. **(a) The
+  unfinished ledger and repetition.** Fermand states it plainly at Ch. I: "She fears *repetition* —
+  the possibility that a thing she thought singular was only the first instance she happened to
+  witness," and "Lauris Letitia does not fear an unfinished war. She fears an unfinished ledger."
+  Strand L exists because that ledger keeps widening (see the reserved list). **(b) The body
+  itself.** Her joy rests on a body that has never betrayed her (Ch. I). Operation 28's "Copy" fought
+  with her own reverse-engineered curriculum (`MCD-186`, Ch. XXXI), and Ch. XCVI (`MCD-1713`) opened
+  the possibility that a literal sample of her own biology, taken at Directorate intake, fed it. If
+  the body that is the source of her joy was also raw material for the thing she has spent her
+  life dismantling, the joy has nowhere clean to stand. **Deliberately left unconfirmed** (per
+  `MCD-1713`); this profile does not answer it and recommends it stay unanswered until Abad chooses
+  to spend it. A third, quieter edge: the one archive entry where force was not the answer and she
+  could not tell whether she had done anything at all (Ch. II) — she is least certain of herself
+  exactly where her body is not the instrument.
+- **Defining emotional throughline (locked: combat-joy, `CC-134` — PROPOSED shape):** *the person
+  half of the record.* Selene's answer to "Then I am a record" was "You are also a person" (Ch. VI),
+  and Lauris's answer to Selene's death was to keep being one: *"She spent four thousand years
+  arguing that I was also a person, not only a record. I think the truest way to honor that is to
+  continue being one"* (Ch. LXIX). This draft proposes that her joy is exactly that continuing — not
+  denial of the ledger and not compensation for it, but her refusal to let the ledger be the whole
+  account of her. She keeps the record of every ending with total accuracy, and she lives at full
+  capacity in the same body that keeps it. Grief is in the archive; joy is in the walk across the
+  open ground. Set against the other leads (`CC-134`): Kanja carries grief, Lauris carries the
+  proof that a person built to be the record of an ending can still take pleasure in being alive
+  inside it.
+- **Genuinely open questions, flagged rather than invented:**
+  1. **Her kill register after defection.** `CC-161`'s necessity-kill doctrine governs Kanja only.
+     Lauris's corpus shows contract terminations of cornered or non-resisting targets (CP-414, Ch.
+     XXXII; Hellem Veth-Kovan by agreement, `MCD-192`), and one kill in the heat of grief (Selene's
+     killer, Ch. LXIX). Whether present-day Lauris (Era G) still executes a non-immediate threat,
+     or now kills only of necessity, is not settled anywhere. The marquee pitch below is built as a
+     necessity kill so it does not decide this by accident.
+  2. **Core wound naming** (making vs. lateness), above.
+  3. **The self-sampling question** (Ch. XCVI), above — recommended to stay open.
+  4. **Fermand's own warmth toward her** — the corpus narrator is openly warm about Lauris
+     (Ch. I, LII), against `VB-024`'s "only 'My dear Ezio' receives warmth." Ch. IX addresses the
+     rule directly and sets it aside "in this account only." See the voice findings below; this is
+     a narrator question as much as a character one.
 
 **Abad's ruling, verbatim, once given:**
 
@@ -394,16 +498,150 @@ this file always reflects current understanding, not a batch-log history of how 
 
 ## 3. Game Plan
 
-- **Narrator / voice:** (confirm against Voice Bible rules if one is already locked; propose one
-  if not, and get it confirmed before drafting)
-- **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
-  character's life/role actually calls for a split)
-- **Reserved threads for this series** (deliberately not touched yet, carried over from the
-  walkthrough plus anything new identified during profile discussion)
-- **Chronicle I candidates** (2-3 pitches, not one pre-committed draft):
-  1.
-  2.
-  3.
+- **Narrator / voice (confirmed, not chosen):** Fermand Aurelias, per `CC-034` (Fermand narrates all
+  Ezio and Lauris POV chapters), `VB-020` (track assignment: Lauris Character Chronicles = Fermand),
+  and `VB-024` (Narrator 4). The corpus frame stays as established: each entry opens with a short
+  italic archive fragment in Lauris's own spare voice (`MCD-211`, quotes catalog `MCD-1558`), then
+  Fermand's narration as transcriber and witness.
+- **Voice spec, gated (Abad, 2026-10-03):** governing document is
+  `docs/lords-of-cian/voice/voice-bible-definitive.md`, Narrator 4 sheet plus Hard Constraints
+  (Section II) and the Exclusion List (Section VI). No Onyx passages occur in this series, so the
+  Voice Progression Sheet does not apply. Binding rules, quoted:
+  - Narrator 4: *"Clinical. Methodical. Chillingly precise. Flat internal emotional baseline.
+    Action sequences read like a forensic audit of an ongoing disaster."* *"NO slang. NO
+    contractions. NO action-movie clichés. NO folksy voice (that is Ezio's)... NO panic. Ever."*
+    *"He perceives the world through institutional architecture."* *"HARD CONSTRAINTS: NO panic.
+    NO slang. NO contractions. Complete sentences. Scholar's precision. His composure never breaks
+    in narration. If violence occurs, it is described with the clinical detachment of an autopsy
+    report written during the autopsy."* *"To Ezio: 'My dear Ezio' (the only person who receives
+    warmth)."*
+  - Hard Constraints: *"NO ANTITHESIS: Never balance clauses."* Banned words: *"magic,"
+    "sorcery," "supernatural," "mystical," "deity," "god," "goddess"* (plus the Exclusion List's
+    divine, enchanted, spell, mana, arcane, conjure, bewitch, hex, incantation, ritual in a mystical
+    sense). *"VIOLENCE IS PHYSICS."* *"POWERS THROUGH SENSATION."* The Density Spike is never named.
+    No borrowed terminology (arena, gladiator, colosseum, bookmaker).
+  - Exclusion List: *"BANNED STRUCTURES: Balanced antithesis clauses. 'Not only X but also Y.'
+    'While X is true, Y is also true.' Rhetorical balance of any kind."* *"BANNED NARRATION:
+    Characters explaining their powers to the reader... Info-dumps."* Dialogue follows Pillar 3
+    (the 50% rule, no phatic lines, understatement for humor).
+  - **Compliance spot-check of the existing 109 entries (findings only; no files changed):**
+    1. *Contractions* — effectively clean. Two in narration across 109 files: Ch. LIII
+       ("doesn't often") is a genuine slip; Ch. CVIII ("I'll show you") is a remembered line set off
+       by dashes rather than quote marks, arguably dialogue.
+    2. *Banned words* — clean in substance. "Panic" appears 4 times, always describing other people
+       (never Fermand's composure); "spell" once as a verb. One lowercase "spike" in Ch. LXXXI
+       ("a collapse-phase rather than a spike") is not the Density Spike's name but is worth
+       swapping, given `VB-063` already bans the word in Onyx prose.
+    3. *Antithesis* — **systemic non-compliance.** A crude pattern count finds roughly 315
+       "not X, but Y" / "rather than" constructions in narration across the 109 files (about three
+       per entry; some "rather than" uses are benign). The balanced cadence is Fermand's signature
+       move in this corpus: "Not the smile of a woman enjoying cruelty. The smile of a woman doing..."
+       and "does not fear an unfinished war. She fears an unfinished ledger" (Ch. I); "not from
+       malice but from arithmetic" (Ch. II).
+    4. *Emotional baseline and warmth* — **non-compliant in register, never in composure.** Fermand
+       never panics, but his narration is reflective, confessional, and often openly uncertain
+       ("I do not know, setting this down..."), not the flat forensic audit the sheet specifies. He
+       is openly warm about Lauris ("the truest thing I have ever written about her," Ch. I; Ch.
+       LII), against the "only Ezio receives warmth" rule; Ch. IX names the rule and sets it aside
+       for that entry only.
+    5. *Point of view* — **unresolved spec conflict.** All 109 entries use Fermand's first person as
+       transcriber. The Voice Bible's Narrator 3 header calls Ezio/Lauris chapters "Third Person
+       Limited," and the Narrator 4 sample passage is impersonal third person.
+    6. *Register* — `CC-034` calls the voice "Baroque/Zafón-Noir"; `VB-024`/Narrator 4 calls it
+       clinical/methodical. The corpus follows `CC-034` (long periodic sentences, Zafonian
+       atmosphere) and rarely uses the Narrator 4 sample's layered institutional anatomy.
+    7. *Dialogue* — Lauris's own lines largely comply with Pillar 3 (short declaratives: "The Hold
+       continues"). The Voice Bible's Section IV has no Lauris entry; recommend one built from the
+       `MCD-1558` quotes catalog so her dialogue has a written standard.
+    8. *Minor numeric* — Ch. II's "forty centuries later" is loose against ~3,560 years from that
+       scene to the present (`MCD-1533`).
+  - **Decision needed before the next draft:** (a) whether Fermand's Lauris narration is held to
+    the Narrator 4 sheet as written (forensic, third person, no antithesis, warmth only for Ezio),
+    or the sheet is amended to recognize the established first-person transcriber frame and
+    `CC-034`'s Baroque register; (b) whether the 109 existing entries stay as they are (the
+    "regular accounting" treatment the Kanja-version track gave the existing Alias corpus, Batch
+    313) with the spec binding new entries only. Either way, a Fermand voice check — antithesis,
+    contractions, banned words, warmth, POV — should run on every new draft before it is presented,
+    the same way `scripts/onyx_voice_check.py` gates Onyx.
+- **Pacing convention (confirmed):** the four-strand braid already in use since Batch 293
+  (`docs/lords-of-cian/character-chronicle-gameplan.md`) — Strand K (Kares Prime), Strand D
+  (Directorate years), Strand L (the Ledger, deepen-don't-resolve), Strand W (Witness, stakes-free) —
+  one entry per strand per wave, numbered continuously (the next entry is Chronicle CX). The split
+  fits her life: a ~4,000-year homeworld past, a 40-contract career, a set of standing debts, and a
+  present-day crew life are four different clocks, and a single sequence would bury three of them.
+  A wave led by one of the candidates below fills its remaining strands in the usual way.
+- **Reserved threads for this series** (carried over from Section 1, plus additions from Section 2):
+  - Strand D still reserves Operations 25, 30, 34, 38, and 40; **the Defection (Op. 40) is never
+    dramatized.**
+  - **Book-reserved:** the K-Theta cave populations and their reveal to Kanja (`MCD-190`/`193`); the
+    Drowning Vault's 120 (`MCD-183`); the Book 5 discharge of both (`MCD-216`); the Kanja Gap and
+    the Blueprint Eye reading (`MCD-200`/`216`, Book 4); the World Adaptation observation
+    (`MCD-208`, Book 3 to Ezio only); the Kareth-sister artifacts (`ARS-361`, Book 3+); the four
+    wrinkles (`ARS-362`-`365`); Sereth Vaul's Book 2 hunt (`MCD-279`/`281`); first Val Mirel contact
+    and the Verith question (`MCD-180`/`216`, Book 4).
+  - **Deepen-only (Strand L):** the third Op. 38 facility (`MCD-191`); Sample K-403 and the scattered
+    fragments; the Twin Anomaly photographs; the Brokenwall/Velaris node actor and the device
+    secured at Ch. XC (`MCD-1707`); Chronicle I's itinerant chalk-ring instructor (`MCD-1561`);
+    Operation 28's curriculum; Corin Halvet and the consent-of-descendants question; Aerelin's
+    operative; the Iron-Speakers' testimony debt; the "Petite Catastrophe" story and its
+    "itinerant trader."
+  - **Added by Section 2:** the self-sampling question (Ch. XCVI) stays unconfirmed; her
+    present-day kill register stays undecided until Abad rules; Ezio's classified capability is
+    never shown or described from her side (`CC-027`, `MCD-194`).
+- **Next-wave candidates** (pitches to pick from or redirect, not one pre-committed draft):
+  1. **Marquee kill (`MCD-1881`) — "The Instruments Read an Empty Room."** *Strand L, present day
+     (Era G, before Book 1).* Pays off the CP-609 thread at its live edge (`MCD-1663`, `MCD-1704`:
+     she is en route as a transfer begins). **Named victim:** Warden **Ilmar Hesketh**, custodian of
+     **the Cairnholt Intake**, one of the small semi-independent holding operations that split off
+     from a Directorate regional containment office and still runs on inherited protocol (both new
+     names, collision-checked clean against the ledger and the full Chronicle folder). **Setup:**
+     the Intake's walls carry density instruments built to the Directorate's "old ways" (Ch. III) —
+     tuned to find exactly a Karesian signature — and its transfer manifest carries a "non-viable"
+     column for subjects the destination will not accept, with an inherited deny-recovery protocol:
+     sealing and flooding the lower cells. CP-609 is on that column. **How the kill happens:**
+     Lauris walks in at rising saturation; every instrument in the Intake logs an empty corridor
+     while the guards watch her pass (`ARS-358` beating purpose-built detection for the first time,
+     where Chronicle I only beat a hedge-ward). Hesketh, warned by his men's eyes and not his
+     instruments, goes to the lower lock and puts his hands on the sealing wheel. She kills him at
+     the wheel — one Aristocrat strike, the precision discipline (`MCD-170`) — a necessity kill
+     against a man working the mechanism that is killing others, so the open kill-register question
+     is not decided by accident. Fermand renders it in a few clinical lines, autopsy register. The
+     combat-joy is in the walk, never the strike (Ch. XXIX's line held). She opens the cells.
+     CP-609 runs — from the Intake and from Lauris too, declining protection — and Lauris lets her,
+     which is the first time CP-414's "Run" means something other than a clean death. Hesketh's
+     ledgers show earlier transfers already completed elsewhere, so "you will not be the last" is
+     deepened, not closed. **Why it becomes legend:** the surviving staff carry one detail out
+     intact: the Intake's instruments, built to find her kind, recorded an empty room for the whole
+     of it while the warden died at his own wheel. The line travels through containment circles and
+     into the files of an institution that already classifies her Reclassified — Hostile
+     (`MCD-192`) — a record Book 1 can quote ("the instruments read an empty room") without anyone
+     needing to explain it. **Must not touch:** Operation 40; the K-Theta caves or their reveal to
+     Kanja; the Drowning Vault's 120 or any Book 5 discharge; the third Op. 38 facility (Cairnholt
+     must not be it); the Kareth-sister artifacts and the Patient Stone (Book 3+, so the
+     undetectability comes from saturation alone); Ezio's classified capability; Val Mirel and
+     Verith; the self-sampling answer; the node actor; and Sereth Vaul (no stated causal link to his
+     Book 2 assignment). **Flag:** this is the first entry to partly discharge a Strand L thread (the
+     "reach" of CP-609), which breaks the strand's deepen-only rule once and needs Abad's explicit
+     say-so; it could equally run as a Strand D-register entry in present day if he prefers to keep
+     L pure.
+  2. **"The Testimony That Did Not Need Her Blade."** *Strand L or D-register, present day.* The
+     already-queued `MCD-1860` beat: Lauris exposes Ilsevet Sorrenta (`CC-152`) and the Ember Circuit
+     debt-bondage operation with the Eighty Interviews method (`MCD-1540`, Ch. III) — weeks of
+     corroborated testimony from bonded fighters — and the Trust prosecutes Sorrenta only because
+     some of the "volunteers" were Trust citizens. A deliberate counterweight to candidate 1: a
+     defeat with no kill, won by witness rather than capacity, pressing the Ch. II question (does
+     she change outcomes when her body is not the instrument?). **Must not:** kill Sorrenta (locked
+     exposure and prosecution), give her enforcers any legend, or touch Ezio's capability.
+  3. **"The Grammar of a Second Hand."** *Strand L, present day.* Lauris finally examines the device
+     secured at Ch. XC (`MCD-1707`) and finds its keying grammar matches the chalk-ring geometry the
+     itinerant instructor taught the tin-weighers in Chronicle I (`MCD-1561`) — linking two open
+     threads into one hand without naming it, and without deciding whether that hand is Anu Un Ra's
+     apparatus or a separate actor (`MCD-1538` stays open). Deepens her core fear (Section 2: the
+     unfinished ledger, repetition) directly. **Flag:** asserting a single actor across both threads
+     is itself a new fact and needs Abad's approval before drafting.
+  - *Companion note, not a fourth pitch:* if candidate 1 is chosen, the wave's Strand W entry is a
+    natural place for Valen ("the Other Patience," `MCD-206`) to spar with her afterward and notice,
+    without either of them naming it, whether the joy came back intact.
 - **Abad's pick / direction:**
 
 ---
