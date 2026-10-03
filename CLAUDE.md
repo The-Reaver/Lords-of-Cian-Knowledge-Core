@@ -4277,6 +4277,23 @@ Iron-Speaker line "We have sent nothing beyond this world" reads as the Conclave
 against the individual diaspora of `MCD-158`. Ledger at `ledger_version` 37.1, 2,677 rules, 369
 batches.
 
+**Batch 370, Anirak's Combination Codex (`ARS-438`-`447`).** Abad: "draft Anirak's Combination
+Codex next," then "lock the Codex when the review is clean and connecting logically. if not, it
+NEVER passes." The Codex went through four independent adversarial reviews: NOT CLEAN three times,
+fixed each time, CLEAN on the fourth. It defines:
+- **The Siren's Voice:** her own sub-audible, felt hum. The Siren Gorget carries it and shapes it
+  into the 10m cone. It reaches the deafened, and does nothing to the undead.
+- **The Chain-Strike doctrine:** Stack is the fuel and Fury, her heart rate, is the engine. Stack
+  drains when she stands still.
+- **Debt Collection:** her hook-and-pull family.
+- **Her carry:** the Fangs on forearm chains, the Morning Star across her back.
+
+Named combinations by Fury state, undersea, with partners, and with the Tide Line crew. A real era
+gate follows from `ARS-370`: before Book 3 she fights at Warm only, Hot and White begin in Book 3
+and are fought inland in Books 3-4, and active sonar first fires undersea in Book 5. The review loop
+is the Connective-Tissue Gate working as intended. Ledger at `ledger_version` 37.2, 2,687 rules, 370
+batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

@@ -1,6 +1,6 @@
 # Draft for approval: Anirak's Combination Codex
 
-*UNLOCKED -- pending Abad's approval. Drafted 2026-10-03 from his direction: "draft Anirak's
+*LOCKED, Batch 370, 2026-10-03 (`ARS-438`-`447`), after four independent reviews (clean on the fourth). Abad's approval: "draft Anirak's Combination Codex next" and "keep going, lock the Codex when the review is clean and connecting logically. if not, it NEVER passes." Drafted 2026-10-03 from his direction: "draft Anirak's
 Combination Codex next" -- "in this she will shine and we will display her incredible array of
 devastating combinations." Rules only, no Chronicle prose. Every combination is built from her
 already-locked mechanics: `MCD-251`, `CC-112`-`114`, `CC-122`, `ARS-130`, `ARS-367`-`374`, `ARS-411`,
@@ -26,7 +26,7 @@ The hum sits below hearing and is felt in the body ("It sits in the chest. Floor
 
 **ARS-439 (new).** The Chain-Strike doctrine, which names her style and links her two scales.
 
-The locked doctrine is the frame (`ARS-411`): the Twin Fangs set the perimeter, the Siren's Voice
+The locked doctrine is the frame (`ARS-411`; named at `ARS-369`): the Twin Fangs set the perimeter, the Siren's Voice
 degrades perception of it, and the Triform Morning Star punishes whoever crosses it. Chain-Strike is
 how she runs that frame without a pause. Every strike's recoil is fed into the next motion, so the
 chains never come to rest.
@@ -66,7 +66,9 @@ is a form of Debt Collection.
 (`ARS-368`). Before Book 3 she never fights above Warm. `ARS-370` makes her first Voice/gaze
 synchronization, which Hot triggers, a Book 3 event, so before Book 3 every engagement ends or is
 broken off before her Stack carries her heart past Warm (the same duration logic `ARS-369`/`373`
-apply to Flood State). These are the whole of her craft across the Long Mask and Books 1-2.
+apply to Flood State). These, with the undersea and partner combinations below, are the whole of her craft across the
+Long Mask and Books 1-2, and before Book 3 her Fangs work across the low-to-middle range of their
+locked reach.
 - **First Payment.** Her opening. A Fang hooks the lead opponent's weapon arm. A Debt Collection pull
   drags the arm across his body into a Grapple-Star catch, and the weapon is gone. She banks her
   first Stack before the second man has set his feet.
@@ -139,7 +141,8 @@ Book 5 (`ARS-371`).
   become failure points that Anirak's Debt Collection pulls open in the following second. Lauris
   grows quieter and Anirak louder, and no instrument can track both.
 
-**ARS-447 (new).** Tide Line crew combinations (`MCD-1890`), each built on the partner's locked kit:
+**ARS-447 (new).** Tide Line crew combinations (`MCD-1890`), each built on the partner's locked kit. Each is run
+below Flood State; once she reaches it, the crew works around her instinct (`ARS-444`):
 - **Double Draw (with Stormbreaker).** Her chain-pull drags a target into the Equinox's gravity
   corona, which pulls the struck target into the hit rather than knocking it away (`ARS-417`). The
   target is pulled twice, from two directions, by two different physics.

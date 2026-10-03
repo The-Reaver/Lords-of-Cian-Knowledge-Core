@@ -220,6 +220,18 @@ characterization, not a competing invention.
   Chronicles."
 
 ### Connective-tissue findings
+
+**Resolved since this walkthrough was drafted:**
+- **Batch 368, the Tide Line (`MCD-1889`-`1892`):** finding 1 (anchor status), finding 12 (the Line
+  roster), and the open Book 5 role. Her Chain Harbor core is named Edda, Hamund, and Odile.
+- **Batch 370, the Combination Codex (`ARS-438`-`447`):** findings 4 and 5 (the Siren's Voice is her
+  own sub-audible felt hum, carried and shaped by the Siren Gorget, and "Siren" covers both her gaze
+  and her voice), finding 6 (before Book 3 she fights at Warm only), finding 7 (active sonar first
+  fires undersea in Book 5; Book 3-4 Hot and White fights are inland), and finding 8 (Stack is the
+  fuel and Fury the engine). Chain-Strike and Debt Collection are both defined.
+- Still open for her Psychological Profile: her kill doctrine (finding 15), whether she is Cestari
+  herself (13), and her unit beyond the three named members (14).
+
 Every contradiction or gap found among her rules, or between rules and Chronicles. Listed, not
 resolved.
 
