@@ -585,7 +585,7 @@ match after three rounds of independent review.
     acts.
   - **The Siren.** It is shown as faces turning and staying turned. It is never named as a power in
     narration.
-  - **The Voice.** It is felt, not heard: "It sits in the chest. Floors tilt. Distances lie"
+  - **The Voice.** It is felt in the body: "It sits in the chest. Floors tilt. Distances lie"
     (`MCD-1883`).
   - **Section IV, Kanja's dialogue.** Through the Long Mask his speech is the Scourge persona,
     "rougher, deliberately coarsened." Chronicle V's terse lines ("Felt it. Struck it from the
@@ -603,7 +603,9 @@ match after three rounds of independent review.
     fails is redrafted.
 - **Era and kit gates for every pre-Book-1 entry (PROPOSED, all drawn from locked rules):**
   - **When.** No entry before the fleet's arrival at Chain Harbor (Kanja age 55, `MCD-251`,
-    `MCD-1883`), and nothing after the Fulfillment Ceremony. The launch wave stays strictly
+    `MCD-1883`). The launch wave ends with the Long Mask at Kanja 314 (`MCD-1022`), so the Scourge
+    persona governs every entry. Whether any gap lies between the Long Mask's end and the
+    Fulfillment Ceremony is the open 284-versus-296 question on the approval list. The launch wave stays strictly
     pre-Book-1, the same standing constraint Ozmund's and Ezio's launches carry.
   - **Fury state.** Warm only (`ARS-441`). Every fight ends or breaks off before her Stack carries her
     heart past Warm, and her Fangs work across only the low-to-middle range of their locked reach
@@ -619,8 +621,9 @@ match after three rounds of independent review.
   - **How many.** At most three before Book 1.
   - **The standard.** Each one has a named victim and a full scene and is a `CC-164` necessity kill,
     fought at Warm, so the fight is short.
-  - **Attribution.** Her legend is public and runs under her epithet, "Blades Fury." Records and
-    rumor carry the epithet; her name stays with the crew. That is the opposite of Daba's
+  - **Attribution.** Her legend is public and runs under her epithet, "Blades Fury." Public rumor
+    carries the epithet. Her name stays out of public telling, held only by the crew, the circuit's
+    own records, and those who once held her. That is the opposite of Daba's
     unattributed register. The epithet is undated in canon ("later Blades Fury," `MCD-251`), so this
     also sets it in public use by Kanja 140. (Both are new facts, flagged here for Abad's ruling,
     not assumed.)
@@ -649,12 +652,12 @@ match after three rounds of independent review.
   1. **The body the world was not built for.** Ren surfaced at sixteen with a field his settlement
      could not hold (`CC-101`). He comes aboard an adult, already recruited, and his recruitment by
      Sephtis stays off-page (`CC-101`). Nobody can stand near him. Deck planks groan inside his radius, and the crew gives him room. She walks into his
-     field, and its load falls on her too (`ARS-446`). For the first time, someone looks at her and
-     is not pulled (`CC-112`). She takes him as her charge unasked. This dramatizes the undated
+     field, and its load falls on her too (`ARS-446`). For the first time since the circuit, someone looks at her
+     and is not pulled (`CC-112`). She takes him as her charge unasked. This dramatizes the undated
      origin of their pairing (`CC-114`).
      - Register: notable, no kill.
-     - Era: late Long Mask. `CC-101` dates only his surfacing, so this sits no earlier than about
-       29 years before Book 1. His age when recruited is not locked and the pitch does not state it.
+     - Era: late Long Mask, by Kanja 314, within the last ~29 years before Book 1. `CC-101` dates
+       only his surfacing. His age when recruited is not locked and the pitch does not state it.
      - Guards: her three stay outside his radius, since that payoff is reserved. Neither of them
        asks about the other's origin, which keeps `CC-163`'s Vael Kem question open.
   2. **What Maw-11 kept.** Kanja age 140, the Maw Cascade's inside job (`MCD-264`): Ghostwind
@@ -673,16 +676,16 @@ match after three rounds of independent review.
   3. **The second harness.** A Sealbound Directorate containment unit fields a damping rig built
      against Stack, a harness made for her. It closes on her mid-fight, and her three hold the line
      while she breaks it, as they held the eastern passage. Her core wound is restaged. She breaks the
-     rig but does not win clean: the unit withdraws with the captive it came to take, and that person
+     rig. The unit withdraws with the captive it came to take, and that person
      is not recovered. The SBD already classifies her biology (`CC-122`), and the rig's design
-     survives in SBD files, so it can be built again. Whether the rig's maker dies is set by `CC-164`
+     survives in SBD files. Whether the rig's maker dies is set by `CC-164`
      in the scene itself.
      - Register: notable or marquee.
      - Era: mid-Long Mask, after Maw-11 (Kanja 140) and before Ren comes aboard.
      - New fact, flagged: an SBD anti-Stack rig whose design survives. It stays an open thread,
        with no future use reserved or implied.
      - The unit's identity is collision-checked against the `SBD-` detachments at drafting.
-  - **Recommendation:** open with 2. It is a locked event whose operators `MCD-264` leaves unnamed, it gives
+  - **Recommendation:** open with 2. It is a locked event that leaves her part in it open, it gives
     her first marquee kill, and it touches her origin. Then 1, the strongest emotional entry. Then 3.
     All three can run as one wave.
 - **Abad's pick / direction:**
