@@ -396,9 +396,9 @@ this file always reflects current understanding, not a batch-log history of how 
   in Chronicle I through the closing meal in Chronicle L) coexists with institutional distance from
   the whole he's responsible for. He does not lead by command presence; he leads by demonstrated
   proof, the same currency he demands of anyone who wants close to him.
-- **What breaks him / his real vulnerability (PROPOSED):** not physical defeat — only one Chronicle in the corpus (LII, `MCD-1870`) puts him personally
-  in physical danger; his S-tier rating (`CC-135`) has been dramatized as a limit under threat exactly
-  once. His real vulnerability is that the accounting never
+- **What breaks him / his real vulnerability (PROPOSED):** not physical defeat — only one Chronicle in the corpus before LIX (LII, `MCD-1870`) puts him personally
+  in physical danger (Chronicle LIX, `MCD-1887`, later puts him at the charge footing in person); his S-tier rating (`CC-135`) had been dramatized as a limit under threat exactly
+  once before that. His real vulnerability is that the accounting never
   resolves. Chronicle XL states this as flatly as the corpus ever states anything: "neither the doubt
   nor the determination resolves the other" — he has never once let the private list stop him from
   acting, but he has also never once achieved the certainty that would let him set the list down.

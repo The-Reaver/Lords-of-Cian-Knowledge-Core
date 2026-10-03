@@ -5,7 +5,7 @@ Chronicle track, part of its Long Mask extension (Dark Ledger openings, retrospe
 `VB-062`/`ARS-437`). Age 240, two hundred and ten years past the Sovereign Pier. Dramatizes the
 Sleeping Giant (`MCD-262`) for the first time anywhere in the corpus: alone in a corridor against
 twelve Branded commandos, the Talisman's passive absorption and the tempered skeleton route every
-landed blow into the bedrock, doing the work of combat the Captain can no longer physically perform --
+landed blow into the bedrock, doing the work of the mobile combat the Captain can no longer physically perform (he cannot dodge, turn fast, or run) --
 the origin of the late-era "immobility as a weapon" doctrine. A marquee kill under `MCD-1881`. Redrafted
 to the Onyx voice standard (`VB-063`: "the blade", never "I"; Phase 4 present tense; exact
 seconds-count) and to `CC-161` as amended in Batches 355-356 (terms stated once, no names demanded, an
@@ -43,7 +43,7 @@ This is the reconciliation.
 
 • • •
 
-Two hundred and forty years. The Captain does not fight.
+Two hundred and forty years. The Captain does not fight on his feet.
 
 Settled thirty-five years now, since the day Stormbreaker took the line in his place. The crew holds to it without saying it. The Avatars fight. The Captain directs.
 
