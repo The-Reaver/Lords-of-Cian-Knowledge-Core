@@ -86,8 +86,8 @@ seven hundred years teaching her: one blow placed at the exact point where a str
 structure. On a man, that point is not large. Her right hand entered below the left collarbone at a
 downward angle. The first rib failed. The upper lobe of the left lung failed with it. The force
 travelled on through the great vessels above the heart, which tore at their root. Hesketh's hands
-came off the wheel in the same instant. He was dead before his knees reached the stone. The cistern
-gauge shows the wheel stopped at three spokes. She turned it back by hand, all three, and the water
+came off the wheel in the same instant. He was dead before his knees reached the stone. The wheel
+stopped at three spokes. She turned it back by hand, all three, and the water
 stopped at the depth of a child's shin.
 
 The surgeon who examined him for the absorbing operation wrote one line about the wound: *a single
