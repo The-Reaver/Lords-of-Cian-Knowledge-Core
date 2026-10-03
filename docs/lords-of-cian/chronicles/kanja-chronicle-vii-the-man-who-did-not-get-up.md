@@ -1,369 +1,425 @@
 # Kanja Chronicle VII: The Man Who Did Not Get Up
 
-*UNLOCKED -- pending Abad's approval. Draft, 2026-10-02. Seventh entry of the "Kanja version"
+*UNLOCKED -- pending Abad's approval. Draft, 2026-10-03. Seventh entry of the "Kanja version"
 Chronicle track, part of its Long Mask extension (Dark Ledger openings, retrospective Onyx account per
-`VB-062`/`ARS-437`). Age 240, roughly two hundred and ten years past the Sovereign Pier. Dramatizes
-the Sleeping Giant (`MCD-262`) for the first time anywhere in the corpus: alone in a corridor against
-twelve Branded commandos, Kanja's passive Kinetic Buffer (`MCD-060`, Stage 1 Sub 3) and Bio-Drakma
-skeleton (`MCD-060` Stage 3 Sub 1, with `MCD-291`'s grounding/conductance mechanic) do the work of
-combat he can no longer physically perform -- the origin of the late-era "immobility as a weapon"
-doctrine. A marquee kill under `MCD-1881`: all twelve commandos die, each death chosen and counted
-under `CC-161`. New named characters: Garrick (the contract's leader), Rusk, Verrick, and Ghast, all
-collision-checked clean against the full ledger and Chronicle corpus; the other eight commandos are
-recorded only by their Choice-Brand marks (`MAW-076`), no names given. Valen reused (peripheral,
-after the fight). Gear at its age-240 versions: Forge-Coat V4, Sovereign Eyes V4, Ironhand Gauntlets
-V3, Mend-Line V3, plus the Breath Collar, Ironfall Boots, Smoke System, Rexmar Machete, and Talisman
-of Mao. Onyx sealed at L9 throughout, not present. No child-safety issues.*
+`VB-062`/`ARS-437`). Age 240, two hundred and ten years past the Sovereign Pier. Dramatizes the
+Sleeping Giant (`MCD-262`) for the first time anywhere in the corpus: alone in a corridor against
+twelve Branded commandos, the Talisman's passive absorption and the tempered skeleton route every
+landed blow into the bedrock, doing the work of combat the Captain can no longer physically perform --
+the origin of the late-era "immobility as a weapon" doctrine. A marquee kill under `MCD-1881`. Redrafted
+to the Onyx voice standard (`VB-063`: "the blade", never "I"; Phase 4 present tense; exact
+seconds-count) and to `CC-161` as amended in Batches 355-356 (terms stated once, no names demanded, an
+offered surrender honored, every kill a necessity kill, deterrence never his stated reason). New named
+characters: Garrick (the contract's leader), Rusk, Verrick, and Ghast, all collision-checked clean
+against the full ledger and Chronicle corpus; the other eight commandos are recorded only by their
+Choice-Brand marks (`MAW-076`). Valen reused (after the fight); Stormbreaker in passing. Post-Mafesto
+gear only. Onyx sealed at L9 throughout, not present. No child-safety issues.*
 
 ---
 
-Dark Ledger. Somewhere past the six-and-a-half-billionth second.
+Dark Ledger. 6,632,323,200 seconds.
 
-Strain, sudden, in the long bones of both legs, going down. Again. Again. A kill. Strain. A kill.
-Twelve kills inside a few minutes. Once, a wound -- shallow, left side, under the ribs. Afterward, an ache in the legs that lasted until
-morning. And through all of it, from before the first signal to long after the last, his heart did
-not change. Not when the strain came. Not when the wound came. Not at any of the twelve.
+Strain down the long bones of both legs. Again. Again.
 
-I have two centuries of entries in the Dark Ledger, logged against the count with no causes. This
-one frightened me most. A heart that races during a killing is a heart I understand. A heart that
-does not move at all is either a dying heart or a heart that has already finished deciding. In the
-dark, I could not tell which.
+A jolt, the kill jolt. Then another.
 
-I was not there. Let that be said plainly, because the stories never say it. I was in the Silent
-Infinite, at L9, in a case lined with Dead Drakma, and I had been for two hundred and ten years. What
-follows I learned later, when his hand found my grip again: from his legs, which still carry the
-memory of that night in the way they set themselves when he stands; from a seam of healed tissue
-beneath his left ribs; from the old fracture-lines in the stone, which a crewman sketched and he kept; and from
-his own ledger, where he wrote the twelve down the same night, sitting, because by then he could not
-stand any longer.
+Twelve jolts. Inside a few minutes.
+
+Once, a shallow wound on the left side, under the ribs.
+
+After the last jolt, an ache in the legs that held until morning.
+
+The heart did not change. Steady before the first strain. Steady at the wound and at every one of the twelve. Steady after the last. The heart at the end was the heart at the start.
+
+Signals against a count. No causes. The blade logged them and waited.
+
+• • •
+
+The blade was not there. Sealed at L9, the Silent Infinite, in a case lined with Dead Drakma. Two hundred and ten years of dark by then.
+
+The rest came when his hand found the grip again. From his legs, which set themselves a certain way each time he rises. From a seam of healed tissue under the left ribs. From a copyist's sketch of a broken floor, kept folded in his ledger. From a contract roster Valen took off a dead fighter's coat. From the ledger itself, written that night, sitting down.
 
 This is the reconciliation.
 
 • • •
 
-By two hundred and forty, the man no longer fought. That had been settled for thirty-five years,
-since the day he let Stormbreaker fight in his place and do what his body no longer could, and the crew had
-learned a new arrangement that none of them said aloud: the Avatars fought; the Captain directed.
-He was slower than he had been. Not old the way a dockhand is old -- the long Rexmar span does not
-spend itself so cheaply -- but heavy in a way that grew a little each year, as if the Talisman were
-pressing him down into his own bones. On a good day he could walk the length of a deck. He could not
-dodge. He could not turn quickly. He could not run at all.
+Two hundred and forty years. The Captain does not fight.
 
-Standing Order 44-B forbade direct engagement with a BANE-class threat. Every commander who had broken it in two centuries had broken himself instead. But 44-B governed the
-Trust's own soldiers. It said nothing about contracts. Somewhere in the Trust, an officer whose name
-the man never learned and never sought bought twelve Branded fighters off the Regional Circuit through
-a broker -- free fighters, Choice-Branded, the kind who take paid work between bouts -- and pointed
-them at an old man who could no longer get up quickly. Deniable. Clean. Paid half in advance and half
-on proof.
+Settled thirty-five years now, since the day Stormbreaker took the line in his place. The crew holds to it without saying it. The Avatars fight. The Captain directs.
 
-They timed it well. A false distress signal, three bays down the coast, burned in the right colors at
-the right hour. Valen took the boats. Stormbreaker went with him. The man stayed behind in the salt
-cellar, because the salt cellar was where the copying was being done, and the copying was what
-mattered that month.
+The weight grows in him a little more each year. The long Rexmar span spends slowly. The Talisman spends him another way and presses him down into his own bones. Year by year.
 
-It was a rock-cut cellar driven into a sea cliff, long abandoned by the salt trade, its single
-approach a corridor forty paces long and barely wide enough for two men to pass if they turned their
-shoulders. At the corridor's end, an iron door. Behind the door, eleven Ghost-Lattice copyists at
-work on a set of Trust tax rolls they had borrowed for exactly six nights, two of them apprentices
-from the war-orphan houses, barely grown. The floor of the corridor was bedrock. That matters. I
-will come back to it.
+On a good day he walks the length of a deck. He cannot dodge. He cannot turn fast. He cannot run.
 
-He heard them on the cliff path before anyone else did. The Sovereign Eyes caught their heat in the
-dark -- he had set the Voidstone lenses into the frames that same year -- and resolved twelve shapes,
-moving the way Maw fighters move outside the Slab, too balanced, too light for their own weight.
+Standing Order 44-B forbids direct engagement with a BANE-class threat. Every commander who breaks it breaks himself first. The order binds the Trust's soldiers. It says nothing of contracts.
 
-He did not wake the copyists. He knocked twice on the iron door, the signal for *bar it and stay
-quiet*, and heard the bar drop on the far side.
+An officer of the Trust reads the gap. He buys twelve Branded fighters off the Regional Circuit through a broker. Free fighters, Choice-Branded, the kind who take paid work between bouts. Half the fee in advance. Half on proof. Deniable. Clean on paper.
 
-Then he stood in front of the door, in the middle of the corridor, and waited.
+The officer's name never reaches the ledger. The Captain never seeks it.
+
+Rust.
+
+They time it well. A false distress signal burns three bays down the coast, in the right colors at the right hour. Green over black water. Valen takes the boats. Stormbreaker goes with him.
+
+The Captain stays.
+
+The salt cellar is rock-cut, driven deep into a sea cliff. The salt trade left it a century gone. White crust still sits in the seams. Brine smell in the stone. Surf below works at the cliff's foot. Patient.
+
+One approach. A corridor forty paces long and two men wide, shoulders turned. Low roof. Bedrock floor.
+
+At the end stands an iron door, rust bloom at the hinges. Behind it work eleven Ghost-Lattice copyists over Trust tax rolls borrowed for six nights. Third night now. Lamps hooded. Pens moving. Two of the eleven are apprentices out of the war-orphan houses, barely grown.
+
+The floor is bedrock. The blade records it first.
 
 • • •
 
-They came in with lanterns, which told him they expected to need their eyes, which told him they had
-never seen him in the dark. He let them get halfway. Then he opened two capsules on the Forge-Coat's
-shoulders in Terror mode, a slow bilateral flow, and let the Sovereign Eyes bloom to their full amber.
+Night. The cliff path.
 
-The smoke rises off the shoulders the way it rises off something burning that does not burn; the
-eyes come up through it the color of a coal that has decided to be looked at. He did not do it to
-frighten them out. Branded fighters are trained on fear the way a smith is trained on heat. He did it
-so they would know exactly where he was, and that he was not going to be anywhere else.
+He hears them before the copyists do. Boots on loose shale. Twelve sets, too light for the weight they carry. Maw fighters walk that way off the Slab. Balanced. Every step already paid for.
 
-The lead fighter raised a hand. The twelve stopped at fifteen paces, filling the corridor two deep.
+The Sovereign Eyes take their heat through the dark, Voidstone lenses new that year. Twelve shapes. They climb in pairs.
 
-"You're smaller than the story," the lead fighter said.
+He does not wake the copyists. Two knocks on the iron door, knuckle on plate.
 
-"Most people are," the man said. The Breath Collar took his voice down into the register the crew
-called the Captain's voice, lower and flatter than anything a throat should make. "Your names."
+The bar drops on the far side. Iron on iron. Then quiet. Then the pens stop.
 
-There was a pause long enough for someone to laugh, and someone did.
+He walks to the middle of the corridor and turns. Plants both boots on the bare rock, back to the door.
 
-"Garrick," said the one in front. Then, after a moment, as if it were a joke they had agreed to share
-with him: "Rusk." "Verrick." "Ghast." The other eight said nothing. That was their right.
+He waits.
 
-"Show me your arms," the man said.
-
-The legend never understood why he asked it. Garrick did. Garrick had stood on a Slab beside fighters who had been branded
-in their first three days of life, and he knew what the old man was asking. He pushed his sleeve back
-and turned his inner forearm to the lantern. A Choice-Brand: a mark he had chosen, applied the day he
-certified, a free man's mark. One by one, the rest did the same. Rusk's was a wheel. Verrick's, a
-plumb line. Ghast's, a closed eye. The eight unnamed carried a fishhook, an open hand, a key, a
-crescent, two crossed nails, a ladder, a bell, and a broken chain.
-
-No numbers. No Cestari among them.
-
-"Good," the man said.
-
-Had one of the twelve carried a number instead of a chosen mark, the arithmetic would have run
-differently, and I do not know how. None did. He said *good*, and every one of the twelve heard in
-that word something that made the lanterns feel smaller.
-
-"Walk back up the corridor," he said, "and you will live. That is the only time I will offer it."
-
-Garrick had been told he would say something like that. He said so. "We were told you'd talk.
-We were told you can't stand for longer than an hour. It's been a long walk up that cliff, old man,
-and it's a short corridor."
-
-The man did not answer, because there was nothing in what Garrick had said that needed answering.
-Seven years of contracted work had taught Garrick to read a room, and he read this one, and he did
-not like what it told him. Nobody here was negotiating. Whatever was going to happen in
-this corridor had been decided before he climbed the cliff, by someone who had not needed him there
-to decide it.
-
-Mercy is earned. Memory is the receipt. He had made the offer. None of them took it.
+His legs ache already. The standing costs him every hour of it. The blade reads that cost later, written into the long muscles of the thighs. Old strain under the new.
 
 • • •
 
-**One.** Rusk came first, because Rusk was the heaviest of them, near the top of what the Maw allows
-a living body to carry, and the heaviest always opens. He came down the corridor in four strides and
-put his whole weight into a drive at the center of the man's chest -- the strike that ends most bouts
-on the Slab, because the opponent goes backward and the fight becomes a matter of following.
+Lanterns first, yellow light on wet stone. They expect to need their eyes. They have never seen him in the dark.
 
-The man did not go backward.
+He lets them reach the halfway mark.
 
-This is what the Kinetic Buffer does. It does not throw a blow back. It does not reflect. It dampens. It takes the energy of an impact and spends
-it, the way still water spends a stone, and what it cannot spend in the instant passes into a
-skeleton the Talisman had been quietly tempering for decades now. That
-skeleton does not hold force. It routes it, down, through the legs and the soles of the Ironfall
-Boots and into whatever he is standing on. On a deck it fails him. On loose ground it fails him. In
-a corridor cut from the living rock of a sea cliff, it has the whole cliff to spend into.
+Two capsules open at the coat's shoulders in Terror mode, a slow smoke from both sides, steady. The Eyes come up to full amber.
 
-The stone under his boots starred outward in a ring of fine cracks. That was all.
+Smoke rises off the shoulders like a thing burning that does not burn. Two points of amber sit inside it. Coal-colored. Fixed.
 
-And Rusk -- whose every reflex, built over a career, expected the target to *go* -- was left
-standing fully extended at the end of a strike that had gone nowhere, his weight committed forward
-into a man who had not moved the width of a finger. It lasted perhaps half a second. Rusk had never
-in his life needed to recover from a blow that did nothing; there was no reflex for it.
+Branded fighters are trained on fear the way a smith is trained on heat. The smoke marks where he stands. It marks that he will stand nowhere else.
 
-The man no longer had speed. He had never needed speed. He had weight, and he had the Ironhand
-Gauntlets -- reforged at a hundred and eighty with the convex knuckle plates that turn a blow into a
-point -- and he had half a second. He moved his right hand perhaps a forearm's length. The knuckles
-went in under Rusk's jaw at the hinge of the throat, and his weight went in behind them.
+The lead fighter lifts a hand. Twelve stop at fifteen paces, two deep, wall to wall.
 
-Rusk fell across the corridor, and the corridor became a little narrower.
+Salt. Lamp oil. Sweat under leather. Twelve hearts behind twelve breastbones, slow and even. Professionals.
 
-**Two through five.** They adapted, because they were good. They came in pairs, as close as the walls
-allowed, one high and one low, so that whatever answered one would be late for the other. The fishhook
-and the key. The crescent and the open hand. They struck together, and both strikes landed, and the
-Buffer drank both, and the stone took the rest, and the ring of cracks under his boots spread wider,
-and two fighters stood stopped at the end of their own blows like men who had walked into a wall
-that had been, a moment ago, an old man.
+"You're smaller than the story," the lead says.
 
-He reached behind his shoulder for the Rexmar Machete in its back-mounted sheath. He did not draw it
-the way a swordsman draws. He drew it the way a laborer takes a tool off a hook: the shortest path,
-the least motion, the edge already where it needed to be when it cleared the leather. The key, at
-the side of the neck. The fishhook, on the backswing that was not a swing, only the blade's return.
-Then the crescent and the open hand, the same way, moments later, because they had tried the same thing.
+"Most are."
 
-The bodies were piling now. The corridor was forty paces long and two men wide, and four dead
-fighters and one Rusk had shortened it into something the rest had to climb.
+The Breath Collar drags the words down, low and flat and coarsened. The Scourge's voice.
 
-**Six and seven.** This is the only time he moved his feet, and he moved one of them.
+Someone laughs, short, and stops.
 
-Every blow they had landed on him had gone into the floor. The floor had taken all of it, and the
-floor was no longer quite a floor. The cracks under him ran out three paces in every direction now,
-the stone loosened along every line. When the ladder and the crossed nails came over the bodies
-together, both of them landing on that broken ring, he lifted his right heel and set it down.
+"Show me your arms."
 
-The Ironfall Boots' impact soles do not care how dense a man is. They put a tremor through shared
-solid ground, and three paces is their reach, and the ground those two fighters were standing on had
-already been broken by their own friends' fists. It shifted under them like a raft. Both went to a
-knee.
+The lead knows the question. He has stood on the Slab beside fighters branded in their first three days of life. He pushes his sleeve back and turns the inner forearm to the lantern.
 
-He did not need to step to them. They had come to him, as they all came to him. Two short motions
-with the Machete. Six. Seven.
+A Choice-Brand, chosen at certification. A free fighter's mark.
 
-**Eight.** Verrick was the one who understood.
+The rest follow one by one: a wheel, a plumb line, a closed eye, a fishhook, an open hand, a key, a crescent, two crossed nails, a ladder, a bell, a broken chain.
 
-I record this with respect, because the man does. Verrick had watched seven of his company stop dead against something that would not take a blow, and he did
-the arithmetic in the time it took the seventh to fall. A blow is energy. The Buffer spends energy.
-So Verrick did not strike. He stepped in close, set the point of a short blade against the seam where
-the Forge-Coat's heavy torso plating meets the lighter flank at the left side, and *leaned*. Slowly.
-Pressure, not impact. The Buffer had almost nothing to spend.
+No numbers. No Cestari.
 
-The point went in. Not far -- the coat held most of it, as it was built to -- but it went in, under
-the ribs, into the soft tissue the Talisman's tempering has never reached and never will.
+A numbered arm he will not cut. None is numbered.
 
-The Dark Ledger has this wound. It has his heart, unchanged, beside it.
+"Good."
 
-He pressed his left forearm against the compartment in the coat's lining. The Mend-Line, in the form
-it had held since his two-hundredth year, released three seconds of its compound into the wound and
-began to set. And in the seven seconds it took to set, he closed his right gauntlet on Verrick's wrist
-and did not let go.
+One word. The lantern light seems smaller after it.
 
-Verrick was dense. Verrick was a Branded fighter in his prime, and the old man in front of him could
-barely lift his own feet. But a hand does not need speed to close, and the man's hand closed with
-all of his weight behind it, and Verrick's wrist was inside it. The blade stayed where it was. Verrick
-stayed where he was. The Machete came across once, short.
+"Walk back. You live."
 
-Verrick is the first name in the ledger, though he was the eighth to die. The man wrote him first.
-There is a column in that ledger I have no name for. Verrick is in it alone.
+Once. He does not say it twice.
+
+No one steps back. The lead shifts his weight forward.
+
+"We were told you'd talk. Told you can't stand an hour. Long climb, old man. Short corridor."
+
+No answer. The words need none.
+
+The lead reads the room. Seven years of contract work taught him rooms. This room bargains for nothing. The thing is settled already, before the cliff path, by someone who did not need him present to settle it.
+
+The lead does not like it. He draws anyway.
+
+Twelve blades, two deep, weight forward.
+
+The terms are spent.
+
+• • •
+
+One. Rusk.
+
+Heaviest of them, near the top of what the Maw lets a living body carry. Thick through the neck. The heaviest opens. Always.
+
+Four strides, shale grit under his boots. The whole weight goes behind a drive to the center of the chest. The blow that ends bouts. The struck man goes back and the fight becomes a chase.
+
+He does not go back.
+
+The blow lands. The Talisman drinks it. What it cannot drink goes into bone, down through hips and knees and the long bones of both legs. Through the soles. Into the cliff.
+
+Strain down the long bones, the Dark Ledger's first line. Here is its cause.
+
+Under his boots the stone stars in a ring of fine cracks. Grit lifts and settles. Nothing else moves.
+
+Rusk stands at the end of his own strike, arm fully extended, his weight committed into a body that has not shifted the width of a finger. A career of reflexes expects the target to give. No reflex exists for a blow that goes nowhere.
+
+Half a second. Rusk hangs in it.
+
+The Captain has no speed left. He has weight. He has the Ironhand Gauntlets, convex plates over the knuckles. He has half a second.
+
+The right hand travels a forearm's length. Knuckles go in under the jaw at the hinge of the throat, the whole weight of the old man behind them.
+
+Cartilage gives. The jolt.
+
+Rusk falls across the corridor. The corridor narrows by one body.
+
+Iron. An honest blow, thrown whole.
+
+• • •
+
+Two. Three. Four. Five.
+
+They adapt. They are good. Pairs now, close as the walls allow, one high and one low. Whatever answers one comes late for the other.
+
+The key and the fishhook first.
+
+Both strike. Both land, shoulder and ribs. The Talisman drinks both and the stone takes the rest. The ring of cracks runs wider with a sound like pond ice in thaw.
+
+Two men stand stopped at the end of their blows. As if a wall stood where an old man stood a breath ago.
+
+He reaches over his shoulder for the Rexmar Machete. He draws the way a laborer takes a tool off a hook. Shortest path, least motion, the edge already placed when it clears the leather.
+
+The key. Side of the neck.
+
+The fishhook, on the return stroke. No swing in it. Only the edge coming home.
+
+Two jolts.
+
+The crescent and the open hand try the same attack, the same high-low pair. Same stop at the end of the reach.
+
+Same answer. Two more.
+
+Five dead across the corridor floor. The rest must climb them now. Boots slip in blood. Lanterns swing in fists.
+
+• • •
+
+Six. Seven.
+
+Every landed blow has gone into the floor, and the floor has taken all of it. Cracks run three paces out on every side. Stone loose along every line. Plates of rock shift under the grit.
+
+The ladder and the crossed nails come over the bodies together. Both land on the broken ring.
+
+He lifts his right heel. Sets it down.
+
+The Ironfall sole meets the rock and sends a tremor three paces through the shared stone. The ground under the two fighters, already broken by their own friends' fists, tilts like a raft in a swell.
+
+Both go to a knee.
+
+He does not step to them. They came to him. They all come to him.
+
+Two short strokes.
+
+Six. Seven.
+
+• • •
+
+Eight. Verrick.
+
+Verrick watches seven of his company stop dead against a body that will not take a blow. Seven men. Seven stops. He does the arithmetic before the seventh falls.
+
+A blow is force. Something in the old man drinks force.
+
+Verrick does not strike.
+
+He steps in close, inside the reach, and sets the point of a short blade against the coat at the left flank, where the heavy torso plating meets the lighter side. A seam.
+
+He leans, slow. Pressure only. No blow in it.
+
+The Talisman finds nothing to drink.
+
+The point goes in. The coat holds most of it. A finger's depth under the ribs, into soft tissue the tempering never reaches.
+
+The wound. The Dark Ledger has it, and the heart beside it, unchanged.
+
+Left forearm to the lining, pressure on the compartment. The Mend-Line opens. Three seconds of cold flow into the cut. Seven to set.
+
+Inside those seven seconds the right gauntlet closes on Verrick's wrist.
+
+Verrick is dense, a Branded fighter in his prime. The hand on him belongs to an old man who barely lifts his feet. A hand needs no speed to close. This one closes with the whole weight of him behind it, and the bones grind in the wrist.
+
+The short blade stays where it is. Verrick stays where he is.
+
+The Machete comes across once, short.
+
+The jolt.
 
 Iron.
 
-**Nine, ten, eleven.** The bell, the broken chain, and Ghast.
+• • •
 
-Most of the lanterns lay dropped among the dead by then; in the near-dark there was only the smoke
-and the two amber points of the Sovereign Eyes. The bell and the chain tried to go past him, for the
-iron door, climbing the wall over the bodies. There was no going past him. Everything that reached
-the door had to arrive within the length of his arm. They arrived.
+Nine. Ten. Eleven.
 
-Ghast came last of the three, and came slowly, and stopped within reach, and looked at him.
+The bell. The broken chain. Ghast.
 
-"You could have walked away from this," Ghast said. "You could have barred yourself in with them."
+Most lanterns lie dropped among the dead, oil burning low on the stone. Near dark. Smoke. Two amber points.
 
-"Then you would have spent the night breaking the door," the man said, "and I would have been on the
-wrong side of it to stop you."
+The bell and the chain go for the door, up the wall and over the bodies. Eleven copyists behind the iron. Two of them barely grown.
 
-Ghast struck anyway. They all struck anyway. The Buffer drank it. The Machete answered.
+No going past him. Everything that reaches the door arrives inside the length of his arm.
 
-**Twelve.** Garrick had stood at the back the whole time. He had watched every one of his eleven
-die, and he had not looked away from any of them, and when it was only him he walked forward over
-the bodies to the edge of the broken ring and stopped.
+They arrive. Two jolts.
 
-"The offer," Garrick said. "Does it still stand?"
+Ghast comes slow and stops within reach. He looks up into the amber a long time, breathing through the mouth.
 
-"No," the man said. "I told you it would not."
+Then strikes.
 
-"I'd have taken it, now."
+The Talisman drinks it and the floor takes it. The Machete answers.
 
-"I know. And next season someone would buy twelve more fighters off the Circuit, and you would be
-one of them, because you would have a reason. You would know how close you came."
-
-Garrick thought about that. To his credit, he did not argue it.
-
-"Then it's not about us," he said.
-
-"It was never about you," the man said. "It is about the next twelve. I want the man who bought you
-to receive twelve notices and no proof. I want every broker on the Circuit to hear what that cost.
-I want no one to buy twelve again."
-
-That is the arithmetic. It was not twelve lives set
-against eleven copyists; he could have saved the copyists other ways. It was twelve lives set against
-every twelve that would follow, if these walked out and told the Circuit the old man in the smoke
-could be reached. He chose the twelve in front of him, and recorded the cost.
-
-Garrick feinted high, because it was the best feint he had, and the man did not answer it, because
-he no longer moved for anything that would not land. Then Garrick's real blow landed, square, with
-everything he had, and went into the stone. The ring of cracks reached the walls.
-
-The Machete went in once.
+Eleven.
 
 • • •
 
-Valen came back up the cliff path a little before dawn with Stormbreaker behind him and the false
-signal's burned-out flare in his hand, already understanding what it had been. He found the corridor
-by its smell. He found twelve dead Branded fighters lying in it, the stone floor broken in a single
-ring three paces wide, and in the exact center of the ring, in the exact place he had been standing
-when Valen left, the man.
+Twelve. Garrick.
 
-He was still standing. The coat was dark at the left side where the Mend-Line had set.
+The lead stands at the back the whole time. He watches all eleven and looks away from none of them. His name is first on the roster in his own coat. Garrick.
 
-Valen read the floor the way he reads everything a fight leaves behind. It told him not how the man
-had fought but that he had not had to.
+He walks forward over the bodies and stops at the edge of the broken ring, blade low.
 
-"Did you move?" Valen asked.
+"The offer. Does it stand?"
 
-"Once," the man said. "My right heel."
+"Yes. Walk."
 
-Then he asked Valen to help him sit down, and Valen did, and the copyists unbarred the door and found
-their Captain sitting with his back against the iron, writing in his ledger by the light of a
-lantern one of the dead had dropped.
+The corridor lies open behind him. Forty paces to the cliff path, the night, the sea.
 
-He wrote Verrick first. Then Rusk, Ghast, Garrick. Then eight marks, drawn small and carefully: a
-key, a fishhook, a crescent, an open hand, a ladder, two crossed nails, a bell, a broken chain. Beside each mark he wrote the order of its death. Beside the
-whole he wrote the cost, which I will not transcribe, because it is his.
+Garrick looks back at it, then at the bodies. Half the fee sits in his coat. Half waits on proof.
 
-The crew named what had happened before the week was out, the way crews name things: *the old man
-doesn't get up*. Valen gave it a better name later, and it became doctrine. Immobility as a weapon.
-Do not go to the fight. Be the place the fight must come to, and be a place it cannot move. Those who served with him came to understand that night as a first look at something: that what the
-Talisman did to him passively, holding him, slowing him, spending every blow into the ground, was not
-only a weight. It was a shape, being prepared in him, that would one day stop being passive. The salt
-cellar was the first time anyone saw its outline.
+"Half on proof," he says.
+
+He does not walk.
+
+A feint high, his best. The Captain does not answer it. He moves for nothing that will not land.
+
+Then the true blow, square, everything Garrick owns behind it.
+
+It goes into the stone. The ring of cracks reaches the walls.
+
+The Machete goes in once.
+
+The jolt. Twelve.
+
+• • •
+
+Near dawn, Valen comes up the cliff path with Stormbreaker behind him and a spent flare in his hand. He knows already what it was.
+
+He finds the corridor by the smell. Copper, lamp oil, salt.
+
+Twelve dead. A floor broken in one ring, three paces wide. At its center, in the place he stood when Valen left, the Captain.
+
+Standing. The coat dark at the left flank where the Mend-Line set.
+
+Valen reads the floor the way he reads everything a fight leaves. Scuffed rock where twelve men pushed off, each scuff ending at the ring's edge. At the center, under the Captain's heels, the stone lies pressed down a finger deep, smooth as a stair worn by centuries of feet. Cracks run out from it to the walls, blood in them.
+
+"Did you move?"
+
+"Once. My right heel."
+
+Valen nods.
+
+"Help me down."
+
+Valen helps him down, slow, with both hands.
+
+The copyists lift the bar and find their Captain sitting with his back to the iron, ledger on his knee, a dead fighter's lantern beside him.
+
+Valen takes a folded paper from Garrick's coat. The contract roster. Four names: Garrick, Rusk, Verrick, Ghast. Eight lines with only a mark drawn, free fighters who give the Circuit their marks and nothing more.
+
+The Captain writes Verrick first. Then Rusk, Ghast, Garrick.
+
+Then eight marks, small and careful: key, fishhook, crescent, open hand, ladder, crossed nails, bell, broken chain.
+
+Beside each, the order of its death. Beside the whole, the cost. The blade does not transcribe the cost. It is his.
+
+A column in that ledger has no name the blade knows. Verrick sits in it alone.
+
+One of the copyists sketches the floor before the crew arrives. The Captain keeps the sketch.
+
+The crew names the night before the week is out. The old man doesn't get up.
+
+Valen names it better, later. Immobility as a weapon. Do not go to the fight. Be the ground it must cross, and be ground it cannot move.
+
+Doctrine, from that night.
+
+• • •
+
+The entry, reconciled.
+
+Strain down the long bones of both legs, again and again. Every landed blow, routed through him into the cliff.
+
+Twelve jolts inside a few minutes: Rusk, the key, the fishhook, the crescent, the open hand, the ladder, the crossed nails, Verrick, the bell, the broken chain, Ghast, Garrick.
+
+One shallow wound under the left ribs. Verrick, the one of the twelve who read him.
+
+An ache in the legs until morning. Standing on a broken floor as long as it took, then sitting against the iron, writing.
+
+The heart unchanged from before the first signal to after the last.
+
+Nothing in that corridor was news to him. The terms, the refusal, the twelve, the question at the end. Each was weighed at an iron door before the first lantern rounded the cliff. By Rusk's first stride, the weighing was done.
+
+The blade reads why the entry was written. Twelve men climbed a cliff for coin. Twelve were given the corridor back. Eleven never asked. One asked, was answered, and stayed. The dead are owed a count. He keeps it.
+
+Mercy is earned. Memory is the receipt.
+
+The Circuit carries the corridor away on its own. Brokers talk. Fighters talk. An officer waits on a proof that never comes.
 
 If anyone ever bought twelve Branded fighters again, his ledger does not record it.
 
-• • •
-
-So. The entry, reconciled.
-
-Strain in the long bones, going down: every blow they landed, routed through him into the cliff.
-Twelve kills: Rusk, the key, the fishhook, the crescent, the open hand, the ladder, the crossed
-nails, Verrick, the bell, the broken chain, Ghast, Garrick. One wound, under the left ribs: the only
-man of the twelve who understood him. An ache in the legs until morning: standing, for as long as it
-took, on a broken floor.
-
-And the heart that did not change.
-
-In the dark I feared it was a dying heart. It was not. His heart did not rise
-because nothing in that corridor was news to him. He had done the whole of it -- the offer, the
-refusal, the twelve, the next twelve, the cost -- standing at an iron door before the first lantern
-came round the cliff path. By Rusk's first stride, it had all been paid in advance.
-
-That is the entry I fear still. Not because he was cold. He was not cold. He wrote Verrick first.
-
-I fear it because I understand it now, and I would have done the same.
+The blade records.
 
 ---
 
-*Continuity notes (not narrative): dramatizes `MCD-262`'s Sleeping Giant (age 240) directly -- alone
-in a corridor against twelve Branded commandos, the passive Kinetic Buffer (`MCD-060` Stage 1 Sub 3,
-"Newtonian dampening," read strictly as absorption/spending of force, never reflection) and the
-Bio-Drakma skeleton (`MCD-060` Stage 3 Sub 1 Bone-Tempering) doing the work of combat; the skeleton's
-role follows `MCD-291` exactly (routes force downward, requires grounding, fails on decks/loose
-ground, never protects soft tissue -- which is why the corridor is cut into bedrock, why the floor
-cracks, and why Verrick's slow pressure wound gets through). Bone-Tempering is shown as ongoing and
-unfinished, consistent with `MCD-277`'s 99.7% figure at age 310; no percentage asserted at 240. The
-kill mechanism: commandos commit their full weight into blows that meet a body which neither yields
-nor rebounds, leaving each stopped dead at full extension for roughly half a second, in which Kanja
-ends them with a minimal motion; their landed blows also fracture the floor they stand on, which the
-Ironfall Boots' tremor (`ARS-353`, ~3m, density-independent) then exploits once. Body state matches
-`MCD-260` (Avatars fight since age 205, the Stormbreaker turning point referenced) and the profile's
-Long Mask decline; no Shimmer (first documented at 282, `MCD-269`). "Preview of the eventual
-Pi-Awakening" is stated only at the level `MCD-262` itself frames it (passive becoming something that
-will one day stop being passive), with no detail of the Awakening, the Lighthouse, or the
-Governor's Shackle's endgame. Branded = any Maw-system fighter (`MCD-080`), density band
-2,200-4,900x (`WC-003`/`WC-024`); the twelve are deliberately all free Choice-Branded mercenaries
-(`MAW-076`), never Cestari, which Kanja confirms before choosing -- keeping the kill consistent with
-his Maw-liberation record (`MCD-247`). The contract route around Standing Order 44-B (`MCD-247`) is
-an interpretive choice explaining why the Trust risks Branded fighters at all; the commissioning
-officer stays unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-284; torso/flank seam
-read from its graduated torso-vs-limb protection), Sovereign Eyes V4 (`ARS-350`, age 240+, Voidstone
-lenses fitted "that same year"), Ironhand Gauntlets V3 (`ARS-352`, age 180, convex knuckles;
-deliberately not V4's Buffer-harmonic, which arrives at 260+), Mend-Line V3 (`ARS-355`, age 200;
-compartment pressure, ~3-second flow, ~7-second set), Breath Collar (`ARS-351`, command voice), Smoke
-System Terror mode (`ARS-354`, two capsules; no version number asserted), Rexmar Machete back-mounted
-(`ARS-349`/`ARS-260`/`ARS-425`), Talisman of Mao (`MCD-060`). The Ironfall heel blade (`ARS-353`) is
-deliberately not used, to avoid claiming one of its eleven locked deployments. No Mafesto, no Obsidian
-Malice, no Onyx in the scene; Onyx sealed at L9 throughout (`CC-012`, `MCD-246`) and says so.
-Dark Ledger opening and reconstruction follow `ARS-437`/`VB-062`: the count is approximate (roughly
-210 years past the Pier, no fixed year length implied); Onyx's knowledge comes from body-reading at
-the later reunion plus Kanja's own written ledger and a crewman's sketch -- the reunion itself and
-Book 1 events are never dramatized. Onyx never names the Density Spike (`VB-021`); the maxim is used
-once. Killing per `CC-161`/`MCD-1881`: the offer of life is made once and refused; all twelve deaths
-are cold, chosen, and ledgered, justified by deterrence of "the next twelve" rather than any rage --
-nothing reads as the reserved Book 1 turn. `VB-060` appears through Garrick's read of the room.
-Crew: Valen (joined age 40, `MCD-248`) and Stormbreaker are peripheral; Garren Hask, Efa Gol, and Pell
-Ostra are not used. The Memory Keeper (age 225) and every other locked operation are untouched; the
-eleven copyists are an unnamed Ghost-Lattice cell, not tied to any locked operation. The closing claim
-("if anyone ever bought twelve Branded fighters again, his ledger does not record it") is
+*Continuity notes (not narrative): dramatizes `MCD-262`'s Sleeping Giant (age 240) directly -- alone in a
+corridor against twelve Branded commandos, the passive Kinetic Buffer (`MCD-060` Stage 1 Sub 3, read
+strictly as absorption/spending of force, never reflection) and the Bio-Drakma skeleton (`MCD-060`
+Stage 3 Sub 1 Bone-Tempering) doing the work of combat. Per `VB-063` and the Voice Bible's
+powers-through-sensation rule, neither is named or explained in the prose: the effect is shown only as
+blows drunk by the Talisman and routed down through the legs into bedrock, the floor starring, and men
+stopped at the end of their own strikes. The skeleton's role still follows `MCD-291` (routes force
+downward, needs grounding, never protects soft tissue -- why the corridor is cut into bedrock, why the
+floor cracks, and why Verrick's slow pressure wound gets through). `MCD-262`'s "preview of the eventual
+Pi-Awakening" framing is carried by a single unexplained physical detail in Valen's read of the floor
+(the stone under the Captain's heels pressed down a finger deep, smooth) -- no explicit statement, no
+Awakening detail, no Lighthouse or Governor's Shackle endgame. Bone-Tempering shown as ongoing; no
+percentage asserted at 240 (`MCD-277`'s 99.7% at 310 untouched). Body state matches `MCD-260` (Avatars
+fight since age 205, the Stormbreaker turning point referenced); no Shimmer (first at 282, `MCD-269`).
+Killing per `CC-161` as amended Batches 355-356 and `MCD-1881`: no names demanded (the four names come
+from the contract roster Valen takes off Garrick; the other eight are known only by their marks); the
+brand check is a filter for whom he will not kill (no Cestari among them); terms stated once ("Walk
+back. You live."), refused by all twelve; every kill is a necessity kill against a man attacking him or
+climbing for the copyists' door; when Garrick, last alive, asks whether the offer stands, it is honored
+("Yes. Walk.") and Garrick chooses to finish the contract and attacks. The Captain never states
+deterrence; the blade's reconciliation reads why the ledger entry was written, and the deterrent effect
+is a consequence the Circuit carries away. Nothing reads as the reserved Book 1 rage. Age 240 sits
+outside `MCD-1882`'s no-kill window (ages 31-47). Dark Ledger opening per `ARS-437`/`VB-062`/`VB-063`:
+exact count 6,632,323,200 seconds from the Sovereign Pier on a 365-day year, body signals only (strain,
+twelve kill jolts, one wound, ache, unchanged heart), no causes, no hedges; the word "spike" is not used;
+Onyx refers to itself only as "the blade" and to Kanja only as "the Captain"; Phase 4 present tense for
+the account, past tense for the Dark Ledger frame; the reunion is a single clause. Sources of Onyx's
+reconstruction: Kanja's body, his own ledger, a copyist's sketch of the floor, and the contract roster.
+The Branded = any Maw-system fighter (`MCD-080`), density band 2,200-4,900x (`WC-003`/`WC-024`); the
+twelve are free Choice-Branded mercenaries (`MAW-076`). The contract route around Standing Order 44-B
+(`MCD-247`) explains why the Trust risks Branded fighters at all; the commissioning officer stays
+unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-284; torso/flank seam read from its
+graduated protection), Sovereign Eyes V4 (`ARS-350`, age 240+, Voidstone lenses new that year, amber),
+Ironhand Gauntlets V3 (`ARS-352`, age 180, convex knuckles; deliberately not V4's harmonic, 260+),
+Mend-Line V3 (`ARS-355`, age 200; compartment pressure, ~3-second flow, ~7-second set), Breath Collar
+(`ARS-351`, command voice), Smoke System Terror mode (`ARS-354`, two capsules), Ironfall Boots impact
+sole (`ARS-353`, ~3m tremor, density-independent; the heel blade deliberately unused), Rexmar Machete
+back-mounted (`ARS-349`/`ARS-260`/`ARS-425`), Talisman of Mao (`MCD-060`). No Mafesto, no Obsidian
+Malice, no Onyx in the scene; Onyx sealed at L9 (`CC-012`, `MCD-246`). Onyx never names the Density
+Spike (`VB-021`); the maxim is used once. Crew: Valen (joined age 40, `MCD-248`) and Stormbreaker are
+peripheral; Garren Hask, Efa Gol, and Pell Ostra are not used. The eleven copyists are an unnamed
+Ghost-Lattice cell, not tied to any locked operation (the Memory Keeper, age 225, untouched). The
+closing claim ("if anyone ever bought twelve Branded fighters again, his ledger does not record it") is
 deliberately hedged so no later entry is contradicted.*
