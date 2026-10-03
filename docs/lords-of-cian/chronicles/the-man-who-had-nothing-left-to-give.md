@@ -23,7 +23,7 @@ settled too deep to argue past easily. "I don't have another version of that voi
 wish I did. I'm not sure the man who spoke back then even still exists."
 
 Kasa didn't press the way "The Invitation" usually worked — didn't repeat the ask, didn't lean on the
-history between them to force a yes. She sat with him instead, across several visits over several
+history between them to force a yes. He sat with him instead, across several visits over several
 weeks, not asking for the voice again until something in his own account of the intervening years
 made clear there was, in fact, still something left underneath the exhaustion — not the same voice as
 before, quieter, more careful, but real.
