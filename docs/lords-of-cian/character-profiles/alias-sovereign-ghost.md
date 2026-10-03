@@ -26,7 +26,7 @@ corpus) rather than inventing a separate one for this alias.
   **Sovereign Ghost of the Great Sea (21)** → the Scourge (22) → Crow King (23) → Iron Bastard (25)
   → Lord of Embers (27) → Storm That Walks (29) → Captain (never a Directorate classification).
 - `MCD-235` — Origin battle: the Siege of the Ghost Harbor. Escaped a six-warship blockade of a
-  landlocked basin by exploiting the tidal-draft difference between his shallow fleet and the
+  near-landlocked basin by exploiting the tidal-draft difference between his shallow fleet and the
   Trust's grounded destroyers, aided by a magnetic-interference weapon improvised from melted
   anchor chains aboard his flagship, *The Audit* (the Trust capital ship captured at Iron Shallows).
 - `MCD-233` / `MCD-285` — The Battle of Iron Shallows (age 19, no alias earned there) is the

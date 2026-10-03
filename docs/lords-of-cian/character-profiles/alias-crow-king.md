@@ -56,7 +56,7 @@ established recurring cast.
   deployment for the next 250 years. Filed under general Scourge/Theatrics-System material, not
   under the Crow King's own Chronicle numbering.
 - `MCD-237` — The Three-Day Blackout: nine coordinated Hymn-Engine teams overload the feedback
-  loops of all nine Blight Frequency relay towers on the Jicome Eastern Seaboard simultaneously
+  loops of all nine Blight Frequency relay towers on Jicome's stretch of the Southern Seaboard simultaneously
   (with Anansi and Sephtis), scrambling continental biological suppression for three days — the
   first mass demonstration the Blight was artificial technology, and framed as planting the seed
   of the later Pi-Awakening.
