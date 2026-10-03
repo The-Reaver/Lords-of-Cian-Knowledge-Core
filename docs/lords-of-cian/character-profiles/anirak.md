@@ -168,7 +168,7 @@ statement (the ledger is the source of truth for exact wording).
   sonar, reporting to Ironbane; `ARS-372`: chain thermal transfer, Ren targeting the failure points;
   `ARS-374`: shared engagement with Lauris.
 - **Anchor-kill tiering** — `MCD-1881` defines Marquee / Notable / Ledger kills and reserves Marquee
-  kills to the Book-1 anchor heroes. (See finding 1 below on her status under it.)
+  kills to the Book-1 anchor heroes. As amended Batch 362, she is the fifth anchor hero.
 
 ### Reserved / unresolved threads
 Things already flagged in the ledger as deliberately open, not yet paid off, or explicitly held
@@ -220,12 +220,10 @@ characterization, not a competing invention.
 Every contradiction or gap found among her rules, or between rules and Chronicles. Listed, not
 resolved.
 
-1. **Anchor status is not yet in the ledger.** This file's Track line cites `MCD-1881` "as amended
-   2026-10-03," but the live `MCD-1881` text (ledger 36.3) still reads: "reserved to the four Book-1
-   anchor heroes (Kanja across the Rebellion and the Long Mask, Daba/1804, Ozmund, Lauris)" with a
-   "Working target roughly 15-20 marquee kills across the four anchors." No batch adds Anirak.
-   Separately, `character-chronicle-gameplan.md` lists her under "Tier 2 — Avatars and Titan-tier
-   figures," not Tier 1.
+1. **Anchor status: resolved, Batch 362.** `MCD-1881` was amended on 2026-10-03 to make Anirak a
+   Tier 1 character and a fifth Book-1 anchor hero. Her marquee kills sit no earlier than the Chain
+   Harbor recruitment unless her profile establishes earlier material. The gameplan doc now lists
+   her in Tier 1. Resolved, kept here for the record.
 2. **No Book 1 role exists.** No rule places her in Book 1. Her earliest book-level beat is `ARS-373`'s
    "the Book 2 seed is ambient only." Between Kanja age 55 and Book 2 the only rule naming her is
    `MCD-264` (a facility reference). An anchor hero "for Book 1" has nothing locked to anchor.
