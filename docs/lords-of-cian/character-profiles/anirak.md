@@ -557,28 +557,106 @@ match after three rounds of independent review.
 
 ## 3. Game Plan
 
-- **Narrator / voice:** (confirm against Voice Bible rules if one is already locked; propose one
-  if not, and get it confirmed before drafting)
-- **Voice spec, gated (Abad, 2026-10-03):** name the governing voice document(s) and quote the
-  rules that bind this series -- `docs/lords-of-cian/voice/voice-bible-definitive.md` (the
-  narrator's own sheet, hard constraints, exclusion list) and, for any Onyx-narrated or
-  Onyx-voiced passage, `docs/lords-of-cian/voice/voice-progression-sheet.md`, with the Phase
-  that governs each entry's in-world age stated explicitly. Every draft gets a voice check
-  against this spec (sentence length, articles, tense, naming, verdict register, banned words
-  and structures, dialogue 50% rule) before it is presented to Abad; a draft that fails is
-  redrafted, not presented with the failures listed. For Onyx, the standing rulings are locked at
-  `VB-063`, and `scripts/onyx_voice_check.py` must report PASS on every line for a Phase 4 entry;
-  the final test is reading the draft beside the "ONYX:" coda in
-  `docs/lords-of-cian/chronicles/chronicle-viii-the-ash-wharf-massacre.md` -- if it is not
-  recognizably the same instrument, it is redrafted.
-- **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
-  character's life/role actually calls for a split)
-- **Reserved threads for this series** (deliberately not touched yet, carried over from the
-  walkthrough plus anything new identified during profile discussion)
-- **Chronicle I candidates** (2-3 pitches, not one pre-committed draft):
-  1.
-  2.
-  3.
+*PROPOSED 2026-10-03, for Abad's review. Nothing below is approved yet.*
+
+- **Narrator / voice (PROPOSED):** close-third on Anirak herself, with no dedicated named narrator.
+  This is `VB-020`'s standing default for protagonist tracks (Alias, Territory, Daba). The reason it
+  fits her is the Siren. Every character who looks at her is subject to the pull (`CC-112`), so any
+  character-narrator would be telling her story through captured attention. Close-third rides behind
+  her own eyes instead. It can show the one thing she cannot know, whether the attention around her
+  is real, without the narration itself being caught.
+  - **Alternative held, not proposed for the launch:** Ren as witness-narrator for chosen later
+    entries. He is the one person whose field strips the Siren and who sees her clearly (`CC-112`,
+    `ARS-446`). Two limits keep him out of the launch. He surfaced at sixteen and is about 45 at
+    Book 1 (`CC-101`), so he can witness only her last decades before Book 1. And he would need his
+    own narrator sheet in the Voice Bible, a new `VB-` rule.
+- **Voice spec (PROPOSED):** governed by `docs/lords-of-cian/voice/voice-bible-definitive.md`.
+  - **Section I, all four Pillars.** Rorschach-Tolkien syntax and Germanic diction. Sensory before
+    emotion. Spartan dialogue under the 50% Rule. Mythic Realism, including the Karesian prose rule:
+    her mass and momentum are felt in the room.
+  - **Section II, every hard constraint.** No antithesis. No banned words. The Density Spike never
+    named. Violence as physics. Powers through sensation. No borrowed terminology.
+  - **Section VI, the full exclusion list.** Banned words, terms, structures, narration, and
+    dialogue.
+  - **Her dialogue, from Chronicle V's two lines.** Facts and costs: "They harnessed me. So the blows
+    wouldn't stack." / "Cost?" She never explains her biology, and never declares intent before she
+    acts.
+  - **The Siren.** It is shown as faces turning and staying turned. It is never named as a power in
+    narration.
+  - **The Voice.** It is felt, not heard: "It sits in the chest. Floors tilt. Distances lie"
+    (`MCD-1883`).
+  - **Tense and naming.** Past tense, matching the close-third corpus. Kanja is "the Captain"
+    throughout, as in Chronicle V.
+  - **No Onyx passages.** Onyx is sealed for the whole Long Mask, so `VB-063` and the progression
+    sheet do not apply.
+  - **The check.** Every draft is checked against this spec before it is presented. A draft that
+    fails is redrafted.
+- **Era and kit gates for every pre-Book-1 entry (PROPOSED, all drawn from locked rules):**
+  - **When.** No entry before the fleet's arrival at Chain Harbor (Kanja age 55, `MCD-251`,
+    `MCD-1883`), and nothing after the Fulfillment Ceremony. The launch wave stays strictly
+    pre-Book-1, the same standing constraint Ozmund's and Ezio's launches carry.
+  - **Fury state.** Warm only (`ARS-441`). Every fight ends or breaks off before her Stack carries her
+    heart past Warm. No sync (`ARS-370`), no Flood State (`ARS-369`), active sonar never, and her
+    sea-sense ambient only (`ARS-371`).
+  - **Her kit.** Fangs on forearm chains, the Siren Gorget, and the Triform Morning Star across her
+    back, all from Chain Harbor on (`MCD-1883`, `ARS-411`, `ARS-438`, `ARS-439`).
+  - **Kanja's kit.** Post-Mafesto gear only, Onyx sealed (`MCD-246`, `ARS-344`).
+  - **Kills.** Every kill falls under `CC-164`.
+  - **Standing constraints.** `ARS-373` binds: no stillness, no sniping.
+- **Marquee-kill constraints (PROPOSED; `MCD-1881` leaves these to this Game Plan):**
+  - **How many.** At most three before Book 1.
+  - **The standard.** Each one has a named victim and a full scene and is a `CC-164` necessity kill,
+    fought at Warm, so the fight is short.
+  - **Attribution.** Her legend is public and runs under her epithet, "Blades Fury." Records and
+    rumor carry the epithet; her name stays with the crew. That is the opposite of Daba's
+    unattributed register. (This is a new fact. It is flagged here for Abad's ruling, not assumed.)
+- **Pacing convention (PROPOSED):** a single continuous sequence, numbered I onward. Chronicle I is
+  freestanding, and any strand structure is deferred until a later wave, following the Ozmund and
+  Ezio precedent rather than Lauris's four-strand launch. Her life inside the pre-Book-1 window is
+  one linear stretch: Chain Harbor, the Long Mask fleet, Ren, Maw-11. It does not need parallel
+  strands yet. Possible later strands, not committed: her three, the deep (Ren and the Deep Road),
+  and the debt (her origin).
+- **Reserved threads for this series** (no launch entry may touch, assert, or imply these):
+  - **Book 3 onward.** Hot and White states, and the first involuntary sync (`ARS-370`, `ARS-442`,
+    `ARS-443`).
+  - **Book 5.** Flood State (`ARS-369`, `ARS-444`). Active sonar (`ARS-371`). The outcome against
+    Sereth Vaul (`MCD-1892`). How Lady Vestige's turn of the legions breaks, and what it costs
+    (`MCD-1891`).
+  - **Her central doubt.** The payoff the profile names: she notices her three inside Ren's field,
+    stripped of the Siren and still hers. It is reserved for a later wave's close, not spent in the
+    launch.
+  - **What breaks her.** Losing one of her three is never drafted without Abad's direct call.
+  - **Her origin's open questions.** Who owed the debt, whether her community was Vael Kem, and which
+    brand she carries (`CC-163`).
+  - **The Siren on the undead.** Its failure against the undead (`ARS-373`, `ARS-438`) is not shown
+    before Book 2.
+  - **Her age.** It is never stated (`MCD-1883`).
+- **Chronicle I candidates** (PROPOSED, for Abad to pick from or redirect):
+  1. **The body the world was not built for.** Ren surfaces at sixteen with a field his settlement
+     could not hold, and Sephtis recruits him (`CC-101`). Aboard ship nobody can stand near him. Deck
+     planks groan inside his radius, and the crew gives him room. She walks into his field, and its
+     load falls on her too (`ARS-446`). For the first time, someone looks at her and is not pulled
+     (`CC-112`). She takes him as her charge unasked. This dramatizes the undated origin of their
+     pairing (`CC-114`).
+     - Register: notable, no kill.
+     - Era: late Long Mask.
+  2. **What Maw-11 kept.** Kanja age 140, the Maw Cascade's inside job (`MCD-264`): Ghostwind
+     infiltrates, and a Hymn-Engine counter-frequency device takes the facility's controls.
+     Maw-11 is her former facility, so she knows its passages, and that knowledge is why she is
+     inside. She meets the place that held her, and people she left there. One named handler moves
+     to kill as the controls fail. He is her first marquee kill, a necessity kill at Warm, and 3,800
+     walk out (`MCD-264`). This fills the open slot `MCD-264` left: her relationship to the facility.
+     - Register: marquee.
+     - The victim's name is collision-checked at drafting.
+  3. **The second harness.** A Sealbound Directorate containment unit fields a damping rig built
+     against Stack, a harness made for her. It closes on her mid-fight, and her three hold the line
+     while she breaks it, as they held the eastern passage. Her core wound is restaged, and this time
+     she wins. Whether the rig's maker dies is set by `CC-164` in the scene itself.
+     - Register: notable or marquee.
+     - The unit's identity is collision-checked against the `SBD-` detachments at drafting.
+  - **Recommendation:** open with 2. It is a locked event with a slot already left for her, it gives
+    her first marquee kill, and it touches her origin. Then 1, the strongest emotional entry. Then 3.
+    All three can run as one wave.
 - **Abad's pick / direction:**
 
 ---
