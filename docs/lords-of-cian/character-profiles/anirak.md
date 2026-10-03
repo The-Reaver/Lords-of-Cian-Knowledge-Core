@@ -26,8 +26,7 @@ thematically rather than by ID order. Each entry: `RULE-ID` — one-line paraphr
 statement (the ledger is the source of truth for exact wording).
 
 ### Biography / stats
-- `MCD-251` — Recruited at the Chain Harbor Massacre, Kanja age 55 (the Long Mask's Southern Sweep
-  years). Named "Anirak, later Blades Fury." Kinetic-Stack Variant biology: momentum accumulates
+- `MCD-251` — Recruited at the Chain Harbor Massacre, Kanja age 55 (the Long Mask's Southern Sweep years, per `MCD-255`). Named "Anirak, later Blades Fury." Kinetic-Stack Variant biology: momentum accumulates
   with consecutive strikes. Maw-raised since age 12. Found mid-mutiny, already freeing captive
   Cestari by hand when the fleet arrived.
 - `MCD-140` — One of the nineteen Avatars under the Talisman of Mao's Sovereign Umbrella, listed in
@@ -315,7 +314,7 @@ resolved.
    Harbor recruitment unless her profile establishes earlier material. The gameplan doc now lists
    her in Tier 1. Resolved, kept here for the record.
 2. **No Book 1 role exists.** No rule places her in Book 1. Her earliest book-level beat is `ARS-373`'s
-   "the Book 2 seed is ambient only." Between Kanja age 55 and Book 2 the only rule placing her at a dated event in that span is
+   "the Book 2 seed is ambient only." Between Kanja age 55 and Book 2 the only rule tying her to a dated event in that span is
    `MCD-264` (a facility reference). An anchor hero "for Book 1" has nothing locked to anchor.
    `ARS-441`/`374`/`446` now cover her craft in this span but give no plot beat.
 3. **Recruitment-template chronology.** `MCD-252` (Stormbreaker, age 70) says the template "Trust
@@ -390,7 +389,7 @@ resolved.
     Hamund, and Odile; the count of four and Ren's status remain open. Original finding, kept for the
     record: `MCD-251`: "Establishes her four-person unit as the first sub-crew loyal to a lieutenant
     rather than to Kanja directly." `MCD-1883` notes: "the seed of her four-person unit's
-        lieutenant-level loyalty... without naming them or claiming the unit's formal establishment."
+    lieutenant-level loyalty... without naming them or claiming the unit's formal establishment."
     Current status: the three are named at `MCD-1890`; whether Ren is ever part of the unit (which
     would make five) is unaddressed.
 15. **Kill register.** `ARS-373`: "no stillness, no sniping, no clean kills -- total engagement is
@@ -509,7 +508,7 @@ she speaks twice and every word counts.
    - From Chain Harbor onward: necessity kills only, terms given once where there is time, and
      anyone who sits or runs is untouched. That is the standard she saw kept in the Chain Harbor yard
      (`MCD-1883`).
-      - Her "no clean kills -- total engagement is doctrine" (`ARS-373`) describes how she fights, not whom she kills.
+   - Her "no clean kills -- total engagement is doctrine" (`ARS-373`) describes how she fights, not whom she kills.
    - Foreclosure's sweep (`ARS-441`) disables the men the Voice has dropped; it does not kill men
      already down.
    - **Flood State clause:** at Flood State, on the Tide Line only, no terms are possible, because
