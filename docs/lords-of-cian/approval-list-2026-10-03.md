@@ -261,6 +261,7 @@ and cruisers in mainline Cian.
 
 The Anirak, Pyro, and Triad walkthroughs raised their own questions. These get answered inside each
 character's Psychological Profile, which is the gate's next step. The main ones:
-- Whether Anirak's Siren voice is body or forged gear.
+- ~~Whether Anirak's Siren voice is body or forged gear.~~ Resolved at `ARS-438` (Batch 370): her body,
+  carried and shaped by the gorget.
 - Whether the Triad were made at the Gate or are an ancient clade.
 - What Pyro knows about his father.

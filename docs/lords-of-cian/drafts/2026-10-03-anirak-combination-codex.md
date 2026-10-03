@@ -54,9 +54,10 @@ momentum and turns it into the start of her next strike, adding it to her Stack.
 takes is a debt she has absorbed (impact is fuel, `ARS-367`), and Debt Collection is how she pays it
 back with interest.
 
-The name is Maw language. She was Maw-raised (`MCD-251`) and sold out of the circuit (`MCD-1883`) by a circuit that priced its
-fighters' freedom at a ratio set above any ordinary career's return (`MAW-079`), and she turned its vocabulary into a fighting style. Every combination below that pulls
-is a form of Debt Collection.
+The name is Maw language. She was sold into the Maw circuit at twelve against a debt (`CC-163`), Maw-raised (`MCD-251`), and
+sold out of the circuit (`MCD-1883`). That circuit priced her freedom against the debt, the same system that sets the Cestari
+manumission ratio above any ordinary career's return (`MAW-079`), and she turned its vocabulary into a fighting style. Every
+pulling combination in the Codex (`ARS-441` through `ARS-447`) is a form of Debt Collection. *(Amended Batch 371.)*
 
 ---
 
@@ -66,7 +67,7 @@ is a form of Debt Collection.
 (`ARS-368`). Before Book 3 she never fights above Warm. `ARS-370` makes her first Voice/gaze
 synchronization, which Hot triggers, a Book 3 event, so before Book 3 every engagement ends or is
 broken off before her Stack carries her heart past Warm (the same duration logic `ARS-369`/`373`
-apply to Flood State). These, with the undersea and partner combinations below, are the whole of her craft across the
+apply to Flood State). These, with the undersea and partner combinations (`ARS-445`, `ARS-446`), are the whole of her craft across the
 Long Mask and Books 1-2, and before Book 3 her Fangs work across the low-to-middle range of their
 locked reach.
 - **First Payment.** Her opening. A Fang hooks the lead opponent's weapon arm. A Debt Collection pull

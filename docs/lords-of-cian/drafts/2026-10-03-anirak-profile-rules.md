@@ -43,10 +43,14 @@ This parallels Kanja's `CC-161` and Lauris's `CC-162` without merging with eithe
   than to Kanja directly" becomes "Establishes her four-person unit (Anirak leading Edda, Hamund, and
   Odile, `MCD-1890`), whose three are the first sub-crew loyal to a lieutenant rather than to Kanja
   directly".
-- **`ARS-440`.** "by a circuit that priced its fighters' freedom at a ratio set above any ordinary
-  career's return (`MAW-079`)" becomes "by a circuit that priced her freedom against the debt she was
-  sold for (`CC-163`), the same system that sets the Cestari manumission ratio above any ordinary
-  career's return (`MAW-079`)".
+- **`ARS-440`.** "She was Maw-raised (`MCD-251`) ... Every combination below that pulls is a form of
+  Debt Collection." becomes "She was sold into the Maw circuit at twelve against a debt (`CC-163`),
+  Maw-raised (`MCD-251`), and sold out of the circuit (`MCD-1883`). That circuit priced her freedom
+  against the debt, the same system that sets the Cestari manumission ratio above any ordinary career's
+  return (`MAW-079`), and she turned its vocabulary into a fighting style. Every pulling combination in
+  the Codex (`ARS-441` through `ARS-447`) is a form of Debt Collection."
+- **`ARS-441`, a second clause.** "with the undersea and partner combinations below" becomes "with the
+  undersea and partner combinations (`ARS-445`, `ARS-446`)".
 - **`ARS-441`.** Foreclosure's "clears everyone the Voice has dropped within her reach" becomes "strips
   the weapons from everyone the Voice has dropped within her reach and is lethal only to those who
   keep coming (`CC-164`)". This carries the approved recommendation ("disables the men the Voice

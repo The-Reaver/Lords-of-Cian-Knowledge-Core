@@ -303,10 +303,12 @@ characterization, not a competing invention.
   Debt Collection are both defined.
 - **A correction of record:** the tracker row in `chronicle-tracks-status.md` was corrected (finding
   19).
-- **Still open:** findings 2, 3, 9, 10, 11, 13, 15, 16, 17, and 18, and the unit's count and Ren's
-  status (14). The kill doctrine (15), whether she is Cestari herself (13), the unit beyond the
-  three named members (14), and her origin (from `MCD-1896`'s "pressure-born") are the four still
-  open for her Psychological Profile, matching Section 2's four recommendations.
+- **Batch 371 (Psychological Profile locked):** finding 13 resolved at `CC-163` (free-born,
+  pressure-born, sold into the circuit at twelve against a debt, never Cestari); finding 15 resolved
+  at `CC-164` (her own necessity-kill register); finding 14 resolved at `CC-163` (the four-person unit
+  is Anirak leading Edda, Hamund, and Odile; Ren is not a member of it); her origin adopted from
+  `MCD-1896` at `CC-163`. `MCD-251`, `ARS-440` and `ARS-441` (Foreclosure) amended to match.
+- **Still open:** findings 2, 3, 9, 10, 11, 16, 17, and 18.
 
 Every contradiction or gap found among her rules, or between rules and Chronicles. Listed, not
 resolved.
@@ -428,14 +430,14 @@ this file always reflects current understanding, not a batch-log history of how 
 Grounded in her locked rules and her one on-page scene so far, Kanja Chronicle V (`MCD-1883`), where
 she speaks twice and every word counts.
 
-- **Core wound / formative event (PROPOSED):** *the harness.* She was Maw-raised from twelve (`MCD-251`;
+- **Core wound / formative event (APPROVED 2026-10-03):** *the harness.* She was Maw-raised from twelve (`MCD-251`;
   sold into the circuit at twelve against a debt, `CC-163`), then sold out of the circuit and shipped in a damping harness whose only purpose was
   to stop her body being what it is: "They harnessed me. So the blows wouldn't stack" (`MCD-1883`).
   The wound is not cruelty in general. It is being made smaller so other people could feel safe
   around her. The circuit that sold her treated her nature as the danger and built a device to suppress
   it. Kanja's answer is the inverse of the wound: "I'll build the opposite." "Cost?"
   "Nothing you stop being." Everything she becomes afterward is built on that sentence.
-- **Defense mechanisms (PROPOSED):**
+- **Defense mechanisms (APPROVED 2026-10-03):**
   - **Motion.** Her biology already makes stillness costly, since Stack drains when she stops
     (`ARS-439`). Psychologically, stillness is the harness. A fighter who stops can be held, so she
     never stops: "no stillness" is doctrine (`ARS-373`) and temperament at once.
@@ -445,7 +447,7 @@ she speaks twice and every word counts.
     of speeches.
   - **Watching.** At Chain Harbor she "watches all of it" and "does not look away." She takes the
     full measure of a situation before she gives anything of herself.
-- **Values -- what she will not compromise (PROPOSED):**
+- **Values -- what she will not compromise (APPROVED 2026-10-03):**
   - **Nothing she stops being.** She will not be damped, harnessed, or made smaller for anyone's
     comfort, and she will not ask it of anyone else.
   - **Hands on the chains.** Freeing the held comes first. She was breaking fetters by hand before
@@ -454,7 +456,7 @@ she speaks twice and every word counts.
     assigned (`CC-114`), because she recognized a body the world was never built for.
   - **Loyalty that is chosen, never ordered.** Her three "hold the passage so she can work. No one
     ordered it" (`MCD-1883`). Theirs is the loyalty she trusts most among those her eyes have touched.
-- **How she holds contradiction (PROPOSED):** *the most watched woman in any room, and the one who
+- **How she holds contradiction (APPROVED 2026-10-03):** *the most watched woman in any room, and the one who
   can never be sure she is seen.* Her violet eyes capture everyone's attention, friend and enemy,
   always (`CC-112`). In Chronicle V the pull "lands in her too, from the far side. She cannot tell
   what anyone gives her from what her eyes take." She inspires loyalty she can never prove is real.
@@ -475,7 +477,7 @@ she speaks twice and every word counts.
   - **The parallel.** Her doubt mirrors Ozmund's Crown-Scar doubt, the fear that loyalty given to him
     was compelled (`CC-112`, `MCD-319`). She and Ozmund carry the same question in two different
     bodies.
-- **Relationship patterns (PROPOSED):** she bonds through action and proximity, not words.
+- **Relationship patterns (APPROVED 2026-10-03):** she bonds through action and proximity, not words.
   - **Followers who choose her.** Her three set the template: "the first sub-crew loyal to a
     lieutenant rather than to Kanja directly" (`MCD-251`). When Valen asks whose orders they take,
     they look at her before they answer.
@@ -485,7 +487,7 @@ she speaks twice and every word counts.
     locked relationship between them yet; this is the one gesture on record.
   - **Holding attention at arm's length.** She holds everyone else's attention at arm's length,
     because she cannot know which of it is real.
-- **What breaks her / her real vulnerability (PROPOSED):**
+- **What breaks her / her real vulnerability (APPROVED 2026-10-03):**
   - **The harness, in any form.** Being held still, damped, or made smaller. It is the one thing that
     both her biology and her history fear.
   - **Her own body acting without her.** The first involuntary sync of her Voice and gaze unsettles
@@ -497,14 +499,14 @@ she speaks twice and every word counts.
   - **The doubt that could unmake her.** The suspicion that a loyalty she trusted was only her eyes.
     Her three proved their loyalty in a deed rather than a look, which is
     exactly why losing one of them would cost her more than any wound.
-- **Defining emotional throughline (PROPOSED):** *nothing she stops being.* Where Lauris carries joy,
+- **Defining emotional throughline (APPROVED 2026-10-03):** *nothing she stops being.* Where Lauris carries joy,
   Kanja grief, and Ozmund doubt (`CC-134`), Anirak carries momentum. That is not rage, and not
   appetite. It is the refusal to be stopped, made smaller, or harnessed, and a hunger to be chosen
   by deeds she can trust, where her eyes cannot reach. Her arc runs from the harness to the
   Tide Line, where for one battle she is allowed to be entirely, unstoppably herself, and by then she no
   longer registers the sync (`ARS-370`). She does it in front of the few people whose regard she trusts most.
 
-**Four open questions, with recommendations (PROPOSED):**
+**Four open questions, with recommendations (APPROVED 2026-10-03):**
 1. **Her kill doctrine (finding 15).** Recommend her own register, on the `CC-162` pattern (parallel
    to Kanja's `CC-161` without merging with it). `CC-161` and `MCD-1882` govern only Kanja's own
    hand, and her doctrine must not import his Book 1 turn.
@@ -523,7 +525,7 @@ she speaks twice and every word counts.
 2. **Is she Cestari? (finding 13).** Recommend no. The Cestari are a Farm-bred caste, branded within
    72 hours of birth (`MAW-010`, `MAW-070`, `MAW-071`). She was Maw-raised only from twelve
    (`MCD-251`), and `MCD-1896` already makes her pressure-born. So she was born free in a deep-water
-   community and was sold into the circuit at twelve against a debt (proposed). She is Branded, as any
+   community and was sold into the circuit at twelve against a debt. She is Branded, as any
    Maw fighter is (`MCD-080`), but not Cestari-born. That keeps her distinct from Red Beard while
    giving her the same enemy. If approved, `ARS-440`'s "a circuit that priced its fighters' freedom
    at a ratio set above any ordinary career's return (`MAW-079`)" gets a mechanical clarification: her
