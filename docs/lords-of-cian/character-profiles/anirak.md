@@ -11,7 +11,8 @@ any Chronicle is written or rewritten — not a summary produced after the fact.
 Abad's direction, 2026-10-03: "Anirak is an incredible tier 1 character and an anchor as well," and
 "every connective tissue must be well thought out and well placed so it's only logical." This
 walkthrough therefore lists every locked rule that names her or her kit (21 rules, checked against
-`canon-ledger.json` at `ledger_version` 36.3, 2,667 rules), plus the adjacent rules her
+`canon-ledger.json` at `ledger_version` 36.3, 2,667 rules; later batches through 37.2 are noted
+where they resolve a finding), plus the adjacent rules her
 characterization depends on, and closes with a precise list of the contradictions and gaps found
 among them. Nothing in this section resolves anything; it records what is locked and where the
 seams are.
@@ -67,7 +68,7 @@ statement (the ledger is the source of truth for exact wording).
     than to Kanja directly.
   - `MCD-1883` — Three freed prisoners hold the eastern passage at her back without orders, then
     "do not join the crew. They join her"; Valen asks whose orders they take and they look at her
-    first; the Captain lets it stand. The three are unnamed.
+    first; the Captain lets it stand. The three are named Edda, Hamund, and Odile at `MCD-1890`.
 - **Ren Oshaal (Abyss).**
   - `CC-114` — "Surface Storm" (her kinetic, rotational output) and "Deep Pressure" (his
     gravitational field) are a deliberate tactical and relational pairing: her blades shred
@@ -182,8 +183,7 @@ back for a future book/Chronicle. These constrain what the profile and game plan
 - **The first involuntary Voice/gaze synchronization** is reserved for Book 3 (`ARS-370`).
 - **Active sonar** is reserved for Book 5 / Hot state and above; Book 2 is ambient only (`ARS-371`,
   `ARS-373`).
-- **The three (later four-person) unit** — the members are named Edda, Hamund, and Odile
-  (`MCD-1890`, Batch 368); the unit's formal establishment is not dramatized; `MCD-1883`'s notes deliberately stop at "the seed."
+- **The four-person unit** (Anirak plus Edda, Hamund, and Odile, `MCD-1890`, Batch 368); the unit's formal establishment is not dramatized; `MCD-1883`'s notes deliberately stop at "the seed."
 - **The Siren's emotional cost** (`CC-112`) — that she cannot tell genuine attention from what her
   eyes take — is locked as fact and touched once in `MCD-1883` ("She cannot tell what anyone gives
   her from what her eyes take"), never developed.
@@ -302,7 +302,8 @@ resolved.
     Cestari is unstated (`MCD-251` says she was "freeing captive Cestari").
 14. **The four-person unit.** `MCD-251`: "Establishes her four-person unit as the first sub-crew loyal
     to a lieutenant." `MCD-1883` notes: "the seed of her four-person unit's lieutenant-level loyalty...
-    without naming them or claiming the unit's formal establishment." The three are unnamed; whether
+    without naming them or claiming the unit's formal establishment." The three are named at
+    `MCD-1890`; whether
     Ren is ever part of the unit (which would make five) is unaddressed.
 15. **Kill register.** `ARS-373`: "no stillness, no sniping, no clean kills -- total engagement is
     doctrine." Kanja (`CC-161`) and Lauris (`CC-162`) both carry locked necessity-only pre-Book-1 kill
@@ -334,11 +335,11 @@ Grounded in her locked rules and her one on-page scene so far, Kanja Chronicle V
 she speaks twice and every word counts.
 
 - **Core wound / formative event (PROPOSED):** *the harness.* She was Maw-raised from twelve (`MCD-251`;
-  that she was *sold* into it is this profile's proposal), then sold out of the circuit and shipped in a damping harness whose only purpose was
+  that she was sold into the circuit at twelve against a debt is this profile's proposal), then sold out of the circuit and shipped in a damping harness whose only purpose was
   to stop her body being what it is: "They harnessed me. So the blows wouldn't stack" (`MCD-1883`).
   The wound is not cruelty in general. It is being made smaller so other people could feel safe
-  around her. Every institution that held her treated her nature as the danger and built a device to
-  suppress it. Kanja's answer is the inverse of the wound: "I'll build the opposite." "Cost?"
+  around her. The circuit that sold her treated her nature as the danger and built a device to suppress
+  it. Kanja's answer is the inverse of the wound: "I'll build the opposite." "Cost?"
   "Nothing you stop being." Everything she becomes afterward is built on that sentence.
 - **Defense mechanisms (PROPOSED):**
   - **Motion.** Her biology already makes stillness costly, since Stack drains when she stops
@@ -358,23 +359,25 @@ she speaks twice and every word counts.
   - **Protecting bodies the world was not built for.** She took up Ren as her charge without being
     assigned (`CC-114`), because she recognized a body the world was never built for.
   - **Loyalty that is chosen, never ordered.** Her three "hold the passage so she can work. No one
-    ordered it" (`MCD-1883`). Theirs is the only loyalty she fully trusts.
+    ordered it" (`MCD-1883`). Theirs is the loyalty she trusts most among those her eyes have touched.
 - **How she holds contradiction (PROPOSED):** *the most watched woman in any room, and the one who
   can never be sure she is seen.* Her violet eyes capture everyone's attention, friend and enemy,
   always (`CC-112`). In Chronicle V the pull "lands in her too, from the far side. She cannot tell
   what anyone gives her from what her eyes take." She inspires loyalty she can never prove is real.
-    - **The connective point (proposed as the profile's key insight).** Her three shared her pens and
+      - **The connective point (proposed as the profile's key insight).** Her three shared her pens and
     faced her while she broke their fetters, so the Siren touched them as it touches everyone
     (`CC-112`). What she trusts is not their eyes but their act. Freed, they turned their backs to her
     and faced the garrison, holding the eastern passage so she could work, and "no one ordered it"
-    (`MCD-1883`). It is the loyalty she trusts most because it was proven in a deed, not in a gaze. That
+    (`MCD-1883`). Among those her eyes have touched, it is the loyalty she trusts most, because it was proven in a
+    deed and not in a gaze. That
     is why "her three do not join the crew. They join her" (`MCD-1883`), and why they are her core on
     the Tide Line (`MCD-1890`). Her doubt about them stays open. Its proposed answer is a future
-    payoff: the day the three stand inside Ren's field, which strips the Siren within its radius
-    (`CC-112`), and are still hers.
-  - **The others she can be sure of.** Ren, whose field strips the Siren so he sees her clearly
-    (`CC-112`). And Kanja, the first to name the pull to her honestly. He
-    felt it, said so, struck it from the count, and looked at her hands instead (`MCD-1883`).
+    payoff: the day she notices the three inside Ren's field, which strips the Siren within its
+    radius (`CC-112`), stripped of it and still hers.
+    - **The one she can be sure of, and the one she trusts.** Ren, whose field strips the Siren so he
+    sees her clearly (`CC-112`), the one known exception. And Kanja, the first to name the pull to her
+    honestly. He felt it, said so, struck it from the count, and looked at her hands instead
+    (`MCD-1883`). She cannot be sure of his attention, but she trusts his honesty about it.
   - **The parallel.** Her doubt mirrors Ozmund's Crown-Scar doubt, the fear that loyalty given to him
     was compelled (`CC-112`, `MCD-319`). She and Ozmund carry the same question in two different
     bodies.
@@ -394,7 +397,7 @@ she speaks twice and every word counts.
   - **Her own body acting without her.** The first involuntary sync of her Voice and gaze unsettles
     her (`ARS-370`), because for one moment her body authored something she did not. Flood State is
     the far end of that road: there her techniques run on instinct alone, no longer chosen
-    (`ARS-369`).
+    (`ARS-369`), though by Book 5 she no longer registers the sync at all (`ARS-370`).
   - **The doubt that could unmake her.** The suspicion that a loyalty she trusted was only her eyes.
     Her three proved their loyalty in a deed rather than a look, which is
     exactly why losing one of them would cost her more than any wound.
@@ -402,7 +405,8 @@ she speaks twice and every word counts.
   Kanja grief, and Ozmund doubt (`CC-134`), Anirak carries momentum. That is not rage, and not
   appetite. It is the refusal to be stopped, made smaller, or harnessed, and a hunger to be chosen
   by deeds she can trust, where her eyes cannot reach. Her arc runs from the harness to the
-  Tide Line, where for one battle she is allowed to be entirely, unstoppably herself. She does it in front of the few people whose regard she trusts most.
+  Tide Line, where for one battle she is allowed to be entirely, unstoppably herself, and by then she no
+  longer registers her body acting ahead of her (`ARS-370`). She does it in front of the few people whose regard she trusts most.
 
 **Four open questions, with recommendations (PROPOSED):**
 1. **Her kill doctrine (finding 15).** Recommend her own register, on the `CC-162` pattern (parallel
@@ -411,20 +415,23 @@ she speaks twice and every word counts.
    - From Chain Harbor onward: necessity kills only, terms given once where there is time, and
      anyone who sits or runs is untouched. That is the standard she saw kept in the Chain Harbor yard
      (`MCD-1883`).
-   - Her "no clean kills, total engagement" (`ARS-373`) describes how she fights, not whom she kills.
+      - Her "no clean kills, total engagement" (`ARS-373`) describes how she fights, not whom she kills.
+   - Foreclosure's sweep (`ARS-441`) disables the men the Voice has dropped; it does not kill men
+     already down.
    - **Flood State clause:** at Flood State, on the Tide Line only, no terms are possible, because
      her techniques run on instinct (`ARS-369`). Ren's locked role there is "neutralizing what she's
      disoriented and clearing targets so she doesn't have to stop" (`ARS-369`). On the shore, the men
-     inside her storm are turned legionaries, deceived living soldiers (`MCD-1891`). That is Flood
-     State's real cost, and it is what keeps it from reading as a power fantasy.
+     inside her storm are turned legionaries, deceived living soldiers (`MCD-1891`). That is the risk Flood State
+     carries. Ren's clearing (`ARS-369`, `ARS-444`) is the safeguard, and what it costs stays reserved
+     (`MCD-1891`).
 2. **Is she Cestari? (finding 13).** Recommend no. The Cestari are a Farm-bred caste, branded within
    72 hours of birth (`MAW-010`, `MAW-070`, `MAW-071`). She was Maw-raised only from twelve
    (`MCD-251`), and `MCD-1896` already makes her pressure-born. So she was born free in a deep-water
-   community and entered the Maw at twelve under a purchased debt (proposed). She is Branded, as any
+   community and was sold into the circuit at twelve against a debt (proposed). She is Branded, as any
    Maw fighter is (`MCD-080`), but not Cestari-born. That keeps her distinct from Red Beard while
    giving her the same enemy. If approved, `ARS-440`'s "a circuit that priced its fighters' freedom
    at a ratio set above any ordinary career's return (`MAW-079`)" gets a mechanical clarification: her
-   own freedom was priced by her purchased debt, and `MAW-079`'s 3:1 ratio is the Cestari template of
+   own freedom was priced by her debt, and `MAW-079`'s 3:1 ratio is the Cestari template of
    the same system.
 3. **Her unit (finding 14).** Recommend that `MCD-251`'s "four-person unit" is Anirak herself plus
    Edda, Hamund, and Odile. There is no unnamed fourth member to account for.
