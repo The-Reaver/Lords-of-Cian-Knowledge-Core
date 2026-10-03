@@ -576,7 +576,8 @@ match after three rounds of independent review.
     emotion. Spartan dialogue under the 50% Rule. Mythic Realism, including the Karesian prose rule:
     her mass and momentum are felt in the room.
   - **Section II, every hard constraint.** No antithesis. No banned words. The Density Spike never
-    named. Violence as physics. Powers through sensation. No borrowed terminology.
+    named. Violence as physics. Powers through sensation. No borrowed terminology. The Show, Don't
+    Tell Protocol.
   - **Section VI, the full exclusion list.** Banned words, terms, structures, narration, and
     dialogue.
   - **Her dialogue, from Chronicle V's two lines.** Facts and costs: "They harnessed me. So the blows
@@ -590,8 +591,10 @@ match after three rounds of independent review.
     "rougher, deliberately coarsened." Chronicle V's terse lines ("Felt it. Struck it from the
     count") are the model for how he speaks to her.
   - **Section V, the POV cadence.** Every POV sequence runs environmental read, threat assessment,
-    a one-sentence verdict, then action described as physics. Her verdicts are her own, in plain
-    terms. Iron and Rust stay Onyx's vocabulary.
+    a binary judgment delivered in one sentence, then action described as physics. Step (2) of the
+    template asks "who is Iron, who is Rust." Proposed for Abad's ruling, not assumed: her
+    threat assessment keeps the binary but in her own plain terms, without the words Iron and Rust,
+    following the Red Beard template, which makes binary verdicts without them.
   - **Tense and naming.** Past tense, matching the close-third corpus. Kanja is "the Captain"
     throughout, as in Chronicle V.
   - **No Onyx passages.** Onyx is sealed for the whole Long Mask, so `VB-063`'s Onyx rules and the
@@ -603,7 +606,8 @@ match after three rounds of independent review.
     `MCD-1883`), and nothing after the Fulfillment Ceremony. The launch wave stays strictly
     pre-Book-1, the same standing constraint Ozmund's and Ezio's launches carry.
   - **Fury state.** Warm only (`ARS-441`). Every fight ends or breaks off before her Stack carries her
-    heart past Warm. No sync (`ARS-370`), no Flood State (`ARS-369`), active sonar never, and her
+    heart past Warm, and her Fangs work across only the low-to-middle range of their locked reach
+    (`ARS-441`). No sync (`ARS-370`), no Flood State (`ARS-369`), active sonar never, and her
     sea-sense ambient only (`ARS-371`).
   - **Her kit.** Fangs on forearm chains, the Siren Gorget, and the Triform Morning Star across her
     back, all from Chain Harbor on (`MCD-1883`, `ARS-411`, `ARS-438`, `ARS-439`).
@@ -617,7 +621,9 @@ match after three rounds of independent review.
     fought at Warm, so the fight is short.
   - **Attribution.** Her legend is public and runs under her epithet, "Blades Fury." Records and
     rumor carry the epithet; her name stays with the crew. That is the opposite of Daba's
-    unattributed register. (This is a new fact. It is flagged here for Abad's ruling, not assumed.)
+    unattributed register. The epithet is undated in canon ("later Blades Fury," `MCD-251`), so this
+    also sets it in public use by Kanja 140. (Both are new facts, flagged here for Abad's ruling,
+    not assumed.)
 - **Pacing convention (PROPOSED):** a single continuous sequence, numbered I onward. Chronicle I is
   freestanding, and any strand structure is deferred until a later wave, following the Ozmund and
   Ezio precedent rather than Lauris's four-strand launch. Her life inside the pre-Book-1 window is
@@ -640,25 +646,26 @@ match after three rounds of independent review.
     As a constraint of this Game Plan, not a locked fact, the launch wave does not show it.
   - **Her age.** It is never stated (`MCD-1883`).
 - **Chronicle I candidates** (PROPOSED, for Abad to pick from or redirect):
-  1. **The body the world was not built for.** Ren surfaces at sixteen with a field his settlement
-     could not hold (`CC-101`). He comes aboard already recruited. Sephtis's recruitment stays
-     off-page, since `MCD-982` has Sephtis living on in disguise by then. Nobody can stand near the
-     boy. Deck planks groan inside his radius, and the crew gives him room. She walks into his
+  1. **The body the world was not built for.** Ren surfaced at sixteen with a field his settlement
+     could not hold (`CC-101`). He comes aboard an adult, already recruited, and his recruitment by
+     Sephtis stays off-page (`CC-101`). Nobody can stand near him. Deck planks groan inside his radius, and the crew gives him room. She walks into his
      field, and its load falls on her too (`ARS-446`). For the first time, someone looks at her and
      is not pulled (`CC-112`). She takes him as her charge unasked. This dramatizes the undated
      origin of their pairing (`CC-114`).
      - Register: notable, no kill.
-     - Era: late Long Mask, about 29 years before Book 1 (`CC-101`).
+     - Era: late Long Mask. `CC-101` dates only his surfacing, so this sits no earlier than about
+       29 years before Book 1. His age when recruited is not locked and the pitch does not state it.
      - Guards: her three stay outside his radius, since that payoff is reserved. Neither of them
        asks about the other's origin, which keeps `CC-163`'s Vael Kem question open.
   2. **What Maw-11 kept.** Kanja age 140, the Maw Cascade's inside job (`MCD-264`): Ghostwind
-     infiltrates, and a Hymn-Engine counter-frequency device takes the facility's controls.
+     infiltrates, and a Hymn-Engine counter-frequency device does its work.
      Maw-11 is her former facility, so she knows its passages and maps Ghostwind's route. She cannot
      go in covertly, because every eye finds her (`CC-112`). So she goes in as the visible draw: the
      yard turns to her while Ghostwind works. She meets the place that held her, and people she left
      there. One named handler moves
-     to kill as the controls fail. He is her first marquee kill, a necessity kill at Warm, and 3,800
-     walk out (`MCD-264`). This fills the open slot `MCD-264` left: her relationship to the facility.
+     to kill as the device does its work. He is her first marquee kill, a necessity kill at Warm, and
+     3,800 walk out (`MCD-264`). `MCD-264` already locks Maw-11 as her former facility. What it leaves
+     open is her part in the operation.
      - Register: marquee.
      - New fact, flagged: her part in the inside job extends `MCD-264`, which does not name her
        among its operators.
@@ -666,13 +673,16 @@ match after three rounds of independent review.
   3. **The second harness.** A Sealbound Directorate containment unit fields a damping rig built
      against Stack, a harness made for her. It closes on her mid-fight, and her three hold the line
      while she breaks it, as they held the eastern passage. Her core wound is restaged. She breaks the
-     rig but does not win clean: the unit withdraws with part of what it came for, and the rig's
-     design survives in Directorate files, so it can be built again. Whether the rig's maker dies is
-     set by `CC-164` in the scene itself.
+     rig but does not win clean: the unit withdraws with the captive it came to take, and that person
+     is not recovered. The SBD already classifies her biology (`CC-122`), and the rig's design
+     survives in SBD files, so it can be built again. Whether the rig's maker dies is set by `CC-164`
+     in the scene itself.
      - Register: notable or marquee.
      - Era: mid-Long Mask, after Maw-11 (Kanja 140) and before Ren comes aboard.
+     - New fact, flagged: an SBD anti-Stack rig whose design survives. It stays an open thread,
+       with no future use reserved or implied.
      - The unit's identity is collision-checked against the `SBD-` detachments at drafting.
-  - **Recommendation:** open with 2. It is a locked event with a slot already left for her, it gives
+  - **Recommendation:** open with 2. It is a locked event whose operators `MCD-264` leaves unnamed, it gives
     her first marquee kill, and it touches her origin. Then 1, the strongest emotional entry. Then 3.
     All three can run as one wave.
 - **Abad's pick / direction:**
