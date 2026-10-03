@@ -10,7 +10,7 @@ any Chronicle is written or rewritten — not a summary produced after the fact.
 
 Abad's direction, 2026-10-03: "Anirak is an incredible tier 1 character and an anchor as well," and
 "every connective tissue must be well thought out and well placed so it's only logical." This
-walkthrough therefore lists every locked rule that names her or her kit (35 rules, refreshed in full
+walkthrough therefore lists every locked rule that names her or her kit (36 rules, refreshed in full
 against `canon-ledger.json` at `ledger_version` 37.2, 2,687 rules, through Batch 370; findings that
 later batches resolved are marked), plus the adjacent rules her
 characterization depends on, and closes with a precise list of the contradictions and gaps found
@@ -303,8 +303,9 @@ characterization, not a competing invention.
 - **A correction of record:** the tracker row in `chronicle-tracks-status.md` was corrected (finding
   19).
 - **Still open:** findings 2, 3, 9, 10, 11, 13, 15, 16, 17, and 18, and the unit's count and Ren's
-  status (14). The kill doctrine (15), whether she is Cestari herself (13), and the unit beyond the
-  three named members (14) are the three still open for her Psychological Profile.
+  status (14). The kill doctrine (15), whether she is Cestari herself (13), the unit beyond the
+  three named members (14), and her origin (from `MCD-1896`'s "pressure-born") are the four still
+  open for her Psychological Profile, matching Section 2's four recommendations.
 
 Every contradiction or gap found among her rules, or between rules and Chronicles. Listed, not
 resolved.
@@ -314,7 +315,7 @@ resolved.
    Harbor recruitment unless her profile establishes earlier material. The gameplan doc now lists
    her in Tier 1. Resolved, kept here for the record.
 2. **No Book 1 role exists.** No rule places her in Book 1. Her earliest book-level beat is `ARS-373`'s
-   "the Book 2 seed is ambient only." Between Kanja age 55 and Book 2 the only rule naming her is
+   "the Book 2 seed is ambient only." Between Kanja age 55 and Book 2 the only rule placing her at a dated event in that span is
    `MCD-264` (a facility reference). An anchor hero "for Book 1" has nothing locked to anchor.
    `ARS-441`/`374`/`446` now cover her craft in this span but give no plot beat.
 3. **Recruitment-template chronology.** `MCD-252` (Stormbreaker, age 70) says the template "Trust
@@ -389,9 +390,9 @@ resolved.
     Hamund, and Odile; the count of four and Ren's status remain open. Original finding, kept for the
     record: `MCD-251`: "Establishes her four-person unit as the first sub-crew loyal to a lieutenant
     rather than to Kanja directly." `MCD-1883` notes: "the seed of her four-person unit's
-    lieutenant-level loyalty... without naming them or claiming the unit's formal establishment." The
-    three are named at `MCD-1890`; whether Ren is ever part of the unit (which would make five) is
-    unaddressed.
+        lieutenant-level loyalty... without naming them or claiming the unit's formal establishment."
+    Current status: the three are named at `MCD-1890`; whether Ren is ever part of the unit (which
+    would make five) is unaddressed.
 15. **Kill register.** `ARS-373`: "no stillness, no sniping, no clean kills -- total engagement is
     doctrine." Kanja (`CC-161`) and Lauris (`CC-162`) both carry locked necessity-only pre-Book-1 kill
     registers, and `MCD-1881` attaches marquee-kill conditions to each anchor. Anirak has no locked kill
@@ -455,7 +456,7 @@ she speaks twice and every word counts.
   can never be sure she is seen.* Her violet eyes capture everyone's attention, friend and enemy,
   always (`CC-112`). In Chronicle V the pull "lands in her too, from the far side. She cannot tell
   what anyone gives her from what her eyes take." She inspires loyalty she can never prove is real.
-      - **The connective point (proposed as the profile's key insight).** Her three were in the eastern passage
+  - **The connective point (proposed as the profile's key insight).** Her three were in the eastern passage
     and faced her while she broke their fetters, so the Siren touched them as it touches everyone
     (`CC-112`). What she trusts is not their eyes but their act. Freed, they turned their backs to her
     and faced the garrison, holding the eastern passage so she could work, and "no one ordered it"
@@ -465,7 +466,7 @@ she speaks twice and every word counts.
     the Tide Line (`MCD-1890`). Her doubt about them stays open. Its proposed answer is a future
     payoff: the day she notices the three inside Ren's field, which strips the Siren within its
     radius (`CC-112`), stripped of it and still hers.
-    - **The one she can be sure of, and the one she trusts.** Ren, whose field strips the Siren so he
+  - **The one she can be sure of, and the one she trusts.** Ren, whose field strips the Siren so he
     sees her clearly (`CC-112`), the one known exception. And Kanja, who named the pull to her
     honestly. He looked at her hands, then named the pull aloud ("Felt it. Struck it from the
     count") (`MCD-1883`). She cannot be sure of his attention, but she trusts his honesty about it.
@@ -477,7 +478,7 @@ she speaks twice and every word counts.
     lieutenant rather than to Kanja directly" (`MCD-251`). When Valen asks whose orders they take,
     they look at her before they answer.
   - **Charges she protects unasked.** Ren is the one on record (`CC-114`).
-    - **Equals marked by restraint.** Kanja set aside her pull. Red Beard, at the one moment the Tide
+  - **Equals marked by restraint.** Kanja set aside her pull. Red Beard, at the one moment the Tide
     Line meets the Line, silently opens 30 more meters around her Flood State (`ARS-369`). There is no
     locked relationship between them yet; this is the one gesture on record.
   - **Holding attention at arm's length.** She holds everyone else's attention at arm's length,
@@ -508,7 +509,7 @@ she speaks twice and every word counts.
    - From Chain Harbor onward: necessity kills only, terms given once where there is time, and
      anyone who sits or runs is untouched. That is the standard she saw kept in the Chain Harbor yard
      (`MCD-1883`).
-      - Her "no clean kills, total engagement" (`ARS-373`) describes how she fights, not whom she kills.
+      - Her "no clean kills -- total engagement is doctrine" (`ARS-373`) describes how she fights, not whom she kills.
    - Foreclosure's sweep (`ARS-441`) disables the men the Voice has dropped; it does not kill men
      already down.
    - **Flood State clause:** at Flood State, on the Tide Line only, no terms are possible, because
@@ -527,7 +528,8 @@ she speaks twice and every word counts.
    own freedom was priced by her debt, and `MAW-079`'s 3:1 ratio is the Cestari template of
    the same system.
 3. **Her unit (finding 14).** Recommend that `MCD-251`'s "four-person unit" is Anirak herself plus
-   Edda, Hamund, and Odile. There is no unnamed fourth member to account for.
+   Edda, Hamund, and Odile. `MCD-1890` calls the three "her original Chain Harbor unit"; the
+   four-person reading counts Anirak as the unit's leader-member. There is no unnamed fourth member to account for.
 4. **Her origin (new, from `MCD-1896`).** Batch 369's Deep Road rule already names her pressure-born.
    Recommend adopting it as her origin, which fits her underwater superiority (`CC-113`), her
    sea-sense (`ARS-367`), and the Siren itself. The alternative is to amend `MCD-1896` to "beings who
