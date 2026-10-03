@@ -1,6 +1,6 @@
 # Anirak (Blades Fury) — Profile & Game Plan
 
-**Status:** walkthrough drafted
+**Status:** profile in discussion -- Section 2 PROPOSED 2026-10-03
 **Track:** Character Chronicle (Tier 1, Book-1 anchor hero per MCD-1881 as amended 2026-10-03)
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
@@ -329,14 +329,92 @@ Built collaboratively with Abad, not handed to him finished. Draft proposals go 
 **PROPOSED**, and are corrected in place (not appended-and-superseded) once discussed —
 this file always reflects current understanding, not a batch-log history of how we got there.
 
-- **Core wound / formative event:**
-- **Defense mechanisms:**
-- **Values — what they will not compromise:**
-- **How they hold contradiction** (the specific tension that makes them dramatically interesting):
-- **Relationship patterns:**
-- **What breaks them / their real vulnerability:**
-- **Defining emotional throughline** (the equivalent of Lauris's combat-joy, Daba's
-  discipline-over-mass doctrine, Arturo's chosen-family-as-answer-to-loss):
+Grounded in her locked rules and her one on-page scene so far, Kanja Chronicle V (`MCD-1883`), where
+she speaks twice and every word counts.
+
+- **Core wound / formative event (PROPOSED):** *the harness.* She was sold into the Maw at twelve
+  (`MCD-251`), then sold out of the circuit and shipped in a damping harness whose only purpose was
+  to stop her body being what it is: "They harnessed me. So the blows wouldn't stack" (`MCD-1883`).
+  The wound is not cruelty in general. It is being made smaller so other people could feel safe
+  around her. Every institution that held her treated her nature as the danger and built a device to
+  suppress it. Kanja's answer is the inverse of the wound: "I'll build the opposite." "Cost?"
+  "Nothing you stop being." Everything she becomes afterward is built on that sentence.
+- **Defense mechanisms (PROPOSED):**
+  - **Motion.** Her biology already makes stillness costly, since Stack drains when she stops
+    (`ARS-439`). Psychologically, stillness is the harness. A fighter who stops can be held, so she
+    never stops: "no stillness" is doctrine (`ARS-373`) and temperament at once.
+  - **Doing, before saying.** She breaks her own harness, then the fetters of everyone in her pen,
+    before anyone arrives to help. In Chronicle V's yard she speaks two lines to the Captain: a
+    fact and a cost question, and nothing she does not mean. She answers with action and is suspicious
+    of speeches.
+  - **Watching.** At Chain Harbor she "watches all of it" and "does not look away." She takes the
+    full measure of a situation before she gives anything of herself.
+- **Values -- what she will not compromise (PROPOSED):**
+  - **Nothing she stops being.** She will not be damped, harnessed, or made smaller for anyone's
+    comfort, and she will not ask it of anyone else.
+  - **Hands on the chains.** Freeing the held comes first. She was breaking fetters by hand before
+    the fleet arrived (`MCD-251`).
+  - **Protecting bodies the world was not built for.** She took up Ren as her charge without being
+    assigned (`CC-114`), because she recognized a body the world was never built for.
+  - **Loyalty that is chosen, never ordered.** Her three "hold the passage so she can work. No one
+    ordered it" (`MCD-1883`). Theirs is the only loyalty she fully trusts.
+- **How she holds contradiction (PROPOSED):** *the most watched woman in any room, and the one who
+  can never be sure she is seen.* Her violet eyes capture everyone's attention, friend and enemy,
+  always (`CC-112`). In Chronicle V the pull "lands in her too, from the far side. She cannot tell
+  what anyone gives her from what her eyes take." She inspires loyalty she can never prove is real.
+  - **The connective point (proposed as the profile's key insight).** Her three freed prisoners held
+    the eastern passage at her back. They chose her while she was facing away, before her eyes could
+    ever have reached them. Their loyalty is the one loyalty in her life the Siren cannot have
+    caused. That is why "her three do not join the crew. They join her" (`MCD-1883`), and why
+    they are her core on the Tide Line (`MCD-1890`).
+  - **The others she can be sure of.** Ren, whose field strips the Siren so he sees her clearly
+    (`CC-112`). And Kanja, the first person to feel the pull and deliberately strike it from the
+    count, looking at her hands instead (`MCD-1883`).
+  - **The parallel.** Her doubt mirrors Ozmund's Crown-Scar doubt, the fear that loyalty given to him
+    was compelled (`CC-112`, `MCD-319`). She and Ozmund carry the same question in two different
+    bodies.
+- **Relationship patterns (PROPOSED):** she bonds through action and proximity, not words.
+  - **Followers who choose her.** Her three set the template: "the first sub-crew loyal to a
+    lieutenant rather than to Kanja directly" (`MCD-251`). When Valen asks whose orders they take,
+    they look at her before they answer.
+  - **Charges she protects unasked.** Ren is the first (`CC-114`).
+  - **Equals she trusts by their restraint.** Kanja set aside her pull. Red Beard silently gives her
+    storm 30 more meters (`ARS-369`), a respect paid in distance rather than words.
+  - **Holding attention at arm's length.** She holds everyone else's attention at arm's length,
+    because she cannot know which of it is real.
+- **What breaks her / her real vulnerability (PROPOSED):**
+  - **The harness, in any form.** Being held still, damped, or made smaller. It is the one thing that
+    both her biology and her history fear.
+  - **Her own body acting without her.** The first involuntary sync of her Voice and gaze unsettles
+    her (`ARS-370`), because for one moment her body authored something she did not. Flood State is
+    the far end of that road: there her techniques run on instinct alone, no longer chosen
+    (`ARS-369`).
+  - **The doubt that could unmake her.** The suspicion that a loyalty she trusted was only her eyes.
+    The Siren cannot touch her three, and she knows it, which is exactly why losing one of them would
+    cost her more than any wound.
+- **Defining emotional throughline (PROPOSED):** *nothing she stops being.* Where Lauris carries joy,
+  Kanja grief, and Ozmund doubt (`CC-134`), Anirak carries momentum. That is not rage, and not
+  appetite. It is the refusal to be stopped, made smaller, or harnessed, and an insistence on being
+  loved only by those who chose her with their eyes closed. Her arc runs from the harness to the
+  Tide Line, where for one battle she is allowed to be entirely, unstoppably herself. She does it in
+  front of the few people whose regard she knows is real.
+
+**Three open questions from the walkthrough, with recommendations (PROPOSED):**
+1. **Her kill doctrine (finding 15).** Recommend she fights under the Captain's standing doctrine
+   while she serves under his command (`CC-161`):
+   - necessity kills only
+   - terms stated once
+   - every man who sits is untouched (as at Chain Harbor, `MCD-1883`)
+
+   Her "no clean kills, total engagement" (`ARS-373`) describes how she fights, not whom she kills.
+   Flood State on the Tide Line is the one place her control is gone. That is exactly why Ren and the
+   crew manage the radius around her there (`ARS-369`). It also makes Flood State her real cost
+   rather than a power fantasy.
+2. **Is she Cestari? (finding 13).** Recommend no. "Cestari" is a caste of people born property
+   (`CC-021`). She was sold into the Maw at twelve (`MCD-251`), so she was Branded under a purchased
+   debt, not Cestari-born. That keeps her distinct from Red Beard while giving her the same enemy.
+3. **Her unit (finding 14).** Recommend that `MCD-251`'s "four-person unit" is Anirak herself plus
+   Edda, Hamund, and Odile. There is no unnamed fourth member to account for.
 
 **Abad's ruling, verbatim, once given:**
 
