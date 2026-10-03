@@ -560,11 +560,12 @@ match after three rounds of independent review.
 *PROPOSED 2026-10-03, for Abad's review. Nothing below is approved yet.*
 
 - **Narrator / voice (PROPOSED):** close-third on Anirak herself, with no dedicated named narrator.
-  This is `VB-020`'s standing default for protagonist tracks (Alias, Territory, Daba). The reason it
-  fits her is the Siren. Every character who looks at her is subject to the pull (`CC-112`), so any
+  This matches `VB-020`'s close-third assignment for the Alias, Territory, and Daba tracks. Locking
+  it means amending `VB-020`'s assignment list to add Anirak's track. The reason it fits her is the
+  Siren. Every character who looks at her is subject to the pull (`CC-112`), so any
   character-narrator would be telling her story through captured attention. Close-third rides behind
-  her own eyes instead. It can show the one thing she cannot know, whether the attention around her
-  is real, without the narration itself being caught.
+  her own eyes instead. It holds her uncertainty about whether the attention around her is real
+  without ever resolving it, and the narration itself is never caught.
   - **Alternative held, not proposed for the launch:** Ren as witness-narrator for chosen later
     entries. He is the one person whose field strips the Siren and who sees her clearly (`CC-112`,
     `ARS-446`). Two limits keep him out of the launch. He surfaced at sixteen and is about 45 at
@@ -585,10 +586,16 @@ match after three rounds of independent review.
     narration.
   - **The Voice.** It is felt, not heard: "It sits in the chest. Floors tilt. Distances lie"
     (`MCD-1883`).
+  - **Section IV, Kanja's dialogue.** Through the Long Mask his speech is the Scourge persona,
+    "rougher, deliberately coarsened." Chronicle V's terse lines ("Felt it. Struck it from the
+    count") are the model for how he speaks to her.
+  - **Section V, the POV cadence.** Every POV sequence runs environmental read, threat assessment,
+    a one-sentence verdict, then action described as physics. Her verdicts are her own, in plain
+    terms. Iron and Rust stay Onyx's vocabulary.
   - **Tense and naming.** Past tense, matching the close-third corpus. Kanja is "the Captain"
     throughout, as in Chronicle V.
-  - **No Onyx passages.** Onyx is sealed for the whole Long Mask, so `VB-063` and the progression
-    sheet do not apply.
+  - **No Onyx passages.** Onyx is sealed for the whole Long Mask, so `VB-063`'s Onyx rules and the
+    progression sheet do not apply. Its ruling (3) still binds: the word "spike" appears in no prose.
   - **The check.** Every draft is checked against this spec before it is presented. A draft that
     fails is redrafted.
 - **Era and kit gates for every pre-Book-1 entry (PROPOSED, all drawn from locked rules):**
@@ -600,7 +607,8 @@ match after three rounds of independent review.
     sea-sense ambient only (`ARS-371`).
   - **Her kit.** Fangs on forearm chains, the Siren Gorget, and the Triform Morning Star across her
     back, all from Chain Harbor on (`MCD-1883`, `ARS-411`, `ARS-438`, `ARS-439`).
-  - **Kanja's kit.** Post-Mafesto gear only, Onyx sealed (`MCD-246`, `ARS-344`).
+  - **Kanja's kit.** Post-Mafesto gear only (`ARS-310`, `ARS-345` through `ARS-356`), at the gear
+    generation correct for his age, as Chronicle V does at 55. Onyx sealed (`MCD-246`).
   - **Kills.** Every kill falls under `CC-164`.
   - **Standing constraints.** `ARS-373` binds: no stillness, no sniping.
 - **Marquee-kill constraints (PROPOSED; `MCD-1881` leaves these to this Game Plan):**
@@ -613,7 +621,7 @@ match after three rounds of independent review.
 - **Pacing convention (PROPOSED):** a single continuous sequence, numbered I onward. Chronicle I is
   freestanding, and any strand structure is deferred until a later wave, following the Ozmund and
   Ezio precedent rather than Lauris's four-strand launch. Her life inside the pre-Book-1 window is
-  one linear stretch: Chain Harbor, the Long Mask fleet, Ren, Maw-11. It does not need parallel
+  one linear stretch: Chain Harbor, the Long Mask fleet, Maw-11, Ren. It does not need parallel
   strands yet. Possible later strands, not committed: her three, the deep (Ren and the Deep Road),
   and the debt (her origin).
 - **Reserved threads for this series** (no launch entry may touch, assert, or imply these):
@@ -628,31 +636,41 @@ match after three rounds of independent review.
   - **What breaks her.** Losing one of her three is never drafted without Abad's direct call.
   - **Her origin's open questions.** Who owed the debt, whether her community was Vael Kem, and which
     brand she carries (`CC-163`).
-  - **The Siren on the undead.** Its failure against the undead (`ARS-373`, `ARS-438`) is not shown
-    before Book 2.
+  - **The Siren on the undead.** Its failure against the undead is locked (`ARS-373`, `ARS-438`).
+    As a constraint of this Game Plan, not a locked fact, the launch wave does not show it.
   - **Her age.** It is never stated (`MCD-1883`).
 - **Chronicle I candidates** (PROPOSED, for Abad to pick from or redirect):
   1. **The body the world was not built for.** Ren surfaces at sixteen with a field his settlement
-     could not hold, and Sephtis recruits him (`CC-101`). Aboard ship nobody can stand near him. Deck
-     planks groan inside his radius, and the crew gives him room. She walks into his field, and its
-     load falls on her too (`ARS-446`). For the first time, someone looks at her and is not pulled
-     (`CC-112`). She takes him as her charge unasked. This dramatizes the undated origin of their
-     pairing (`CC-114`).
+     could not hold (`CC-101`). He comes aboard already recruited. Sephtis's recruitment stays
+     off-page, since `MCD-982` has Sephtis living on in disguise by then. Nobody can stand near the
+     boy. Deck planks groan inside his radius, and the crew gives him room. She walks into his
+     field, and its load falls on her too (`ARS-446`). For the first time, someone looks at her and
+     is not pulled (`CC-112`). She takes him as her charge unasked. This dramatizes the undated
+     origin of their pairing (`CC-114`).
      - Register: notable, no kill.
-     - Era: late Long Mask.
+     - Era: late Long Mask, about 29 years before Book 1 (`CC-101`).
+     - Guards: her three stay outside his radius, since that payoff is reserved. Neither of them
+       asks about the other's origin, which keeps `CC-163`'s Vael Kem question open.
   2. **What Maw-11 kept.** Kanja age 140, the Maw Cascade's inside job (`MCD-264`): Ghostwind
      infiltrates, and a Hymn-Engine counter-frequency device takes the facility's controls.
-     Maw-11 is her former facility, so she knows its passages, and that knowledge is why she is
-     inside. She meets the place that held her, and people she left there. One named handler moves
+     Maw-11 is her former facility, so she knows its passages and maps Ghostwind's route. She cannot
+     go in covertly, because every eye finds her (`CC-112`). So she goes in as the visible draw: the
+     yard turns to her while Ghostwind works. She meets the place that held her, and people she left
+     there. One named handler moves
      to kill as the controls fail. He is her first marquee kill, a necessity kill at Warm, and 3,800
      walk out (`MCD-264`). This fills the open slot `MCD-264` left: her relationship to the facility.
      - Register: marquee.
+     - New fact, flagged: her part in the inside job extends `MCD-264`, which does not name her
+       among its operators.
      - The victim's name is collision-checked at drafting.
   3. **The second harness.** A Sealbound Directorate containment unit fields a damping rig built
      against Stack, a harness made for her. It closes on her mid-fight, and her three hold the line
-     while she breaks it, as they held the eastern passage. Her core wound is restaged, and this time
-     she wins. Whether the rig's maker dies is set by `CC-164` in the scene itself.
+     while she breaks it, as they held the eastern passage. Her core wound is restaged. She breaks the
+     rig but does not win clean: the unit withdraws with part of what it came for, and the rig's
+     design survives in Directorate files, so it can be built again. Whether the rig's maker dies is
+     set by `CC-164` in the scene itself.
      - Register: notable or marquee.
+     - Era: mid-Long Mask, after Maw-11 (Kanja 140) and before Ren comes aboard.
      - The unit's identity is collision-checked against the `SBD-` detachments at drafting.
   - **Recommendation:** open with 2. It is a locked event with a slot already left for her, it gives
     her first marquee kill, and it touches her origin. Then 1, the strongest emotional entry. Then 3.
