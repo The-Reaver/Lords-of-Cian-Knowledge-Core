@@ -1,6 +1,6 @@
 # What the Crawler Graveyard Taught Him
 
-*Locked canon, Batch 197, 2026-09-11 (`MCD-720`). The Iron Bastard Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-720`). The Iron Bastard Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Onyx's lines corrected Batch 359, 2026-10-03, to the Voice Bible's utilitarian register (VB-063); no facts changed. Abad's approval: "go."*
 
 ---
 
@@ -30,9 +30,9 @@ The ambush broke the moment its cover was named rather than sprung, the conceale
 positions that had only ever worked on the assumption of being read as background rather than
 examined individually.
 
-"You could have misread that whole yard," Onyx observed afterward, studying the eleven genuine wrecks
-still scattered where they'd fallen years apart from each other. "Eleven signatures, all old damage,
-two of them not."
+His hand rested on Onyx's grip afterward while he looked over the eleven genuine wrecks still
+scattered where they'd fallen years apart from each other, and the blade's verdict came up through
+it, bone-conducted: "Yard nearly misread. Eleven signatures, all old damage, two of them not."
 
 "I could have. The old mistake would have been assuming a field full of familiar-looking metal was
 safe to read quickly just because I recognized the shape of it. Familiarity isn't verification. I

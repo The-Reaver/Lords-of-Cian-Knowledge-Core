@@ -1,6 +1,7 @@
 # What the Chart Didn't Show
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-586`). The Storm That Walks Alias Chronicle XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-586`). The Storm That Walks Alias Chronicle XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Age pinned Batch 359, 2026-10-03: Rebellion era (age
+29-30), pre-sealing (`MCD-246`), so the Trinity gear stands. Abad's approval: "go."*
 
 ---
 

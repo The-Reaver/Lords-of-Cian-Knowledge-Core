@@ -1,6 +1,6 @@
 # The Three Voices in One Hand
 
-*Locked canon, Batch 197, 2026-09-11 (`MCD-721`). The Iron Bastard Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-721`). The Iron Bastard Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Onyx's lines corrected Batch 359, 2026-10-03, to the Voice Bible's utilitarian register (VB-063); no facts changed. Abad's approval: "go."*
 
 ---
 
@@ -26,7 +26,8 @@ listening pass instead of three sequential ones. The discharge that followed too
 in one continuous cascade, each layer's failure feeding directly into the next without the pause a
 sequential approach would have required between them.
 
-"That's new," Onyx said afterward, the ground beneath the collapsed relay station still settling.
+Onyx's verdict came up through the grip afterward, bone-conducted, while the ground beneath the
+collapsed relay station still settled: "Three voices. One hand. New."
 
 "It's not new. It's what I should have been doing years ago, if I'd trusted that every piece of this
 Trinity was already listening the whole time, whether I was asking it to or not. I just hadn't thought

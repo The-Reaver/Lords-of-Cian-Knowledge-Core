@@ -8,10 +8,12 @@ after the Scrip-Forge Raid (`MCD-231`), before the Anchor and Anvil's back room 
 alias earned — so Onyx of Oblivion's presence can open from genuine zero, matching the
 manuscript's own Chronicle I. New named characters: Pava Rill, Emrik Rill (collision-checked
 clean). No child-safety issues. Narrated in neutral third-person prose throughout, with a short,
-unlabeled first-person coda at the close — Onyx's very first appearance in this track, mirroring
-the length and register of the manuscript's own Chronicle I coda rather than anything longer. Corrected Batch 338, 2026-10-02: the
+unlabeled closing coda in Onyx's own voice — its very first appearance in this track, kept to
+roughly the length of the manuscript's own Chronicle I coda. Corrected Batch 338, 2026-10-02: the
 wage-shortfall dialogue conflated a 14%-content assay with a 14% shortfall against the note's 38%
-stamp; corrected to state both figures so the arithmetic reads correctly.*
+stamp; corrected to state both figures so the arithmetic reads correctly. Voice corrected Batch 359,
+2026-10-03, to the Voice Progression Sheet's Phase 1 and VB-063; no facts changed. Abad's approval:
+"go."*
 
 ---
 
@@ -29,29 +31,28 @@ the warehouse gaps was the flat grey of an hour that belonged to no one — too 
 watch, too early for the day crew — and he worked in it the way he worked in most hours, without
 apparent awareness that some of them were meant for rest.
 
-"I need a repair," Pava said. "Copper kettle, cracked seam. I can pay six notes now and the rest
-in two weeks."
+"Copper kettle. Cracked seam," Pava said. "Six notes now. The rest in two weeks."
 
 He took the kettle from her without asking why the rest would take two weeks, turned it once in
 the light, found the seam with his thumb before his eyes had finished the turn. "Four notes," he
-said. "Not six. The crack's shallow. I don't need to re-forge the base, just reseal the seam."
+said. "Shallow crack. The base holds. Only the seam wants sealing."
 
 "The ironmonger quoted eleven for less."
 
-"The ironmonger doesn't need the four notes as badly as you need the seven you'd save."
+"The ironmonger needs the notes less than you need the seven."
 
 She looked at him for a moment, the specific look of a woman deciding whether she was being
 mocked, and found nothing in his face that supported the theory. He was already setting the
 kettle on the bench, already reaching for the flux.
 
 "My boy's sick," she said, because the silence asked for something and she did not have anything
-else ready to put into it. "Chest cough. Apothecary wants eleven for the tincture. I make nine
-notes a week at the ropewalk, less this month."
+else ready to put into it. "Chest cough. Eleven for the tincture. I make nine a week at the
+ropewalk. Less this month."
 
 "Less how much less."
 
-"The stamp says thirty-eight parts Drakma. The note assays at fourteen. I tested it myself, at the assay stall by the
-grain exchange, after I heard—" She stopped. She had heard something, in fact, in the way half
+"Stamp says thirty-eight parts Drakma. Assays at fourteen. Tested it at the grain-exchange stall.
+After I heard—" She stopped. She had heard something, in fact, in the way half
 the district had heard something in the last four days: a fire, a forge, a boy who had proven
 something about Scrip-notes that everyone had felt but no one had been able to hold up to the
 light. "After I heard there was a way to test them."
@@ -65,30 +66,25 @@ She had three left. He heated the assay burner without asking whether she wanted
 first note to the blue cone the way she had seen the crowd do it outside the burned-out shell of
 Forge-7 two days ago, and the note whined instead of singing, thin and sour, dying too soon.
 
-"Fourteen," he agreed. "Against a stamp of thirty-eight. Consistent with the Forge-7 batch. You're not being cheated worse than
-anyone else on this dock. You're being cheated the same amount as everyone."
+"Fourteen," he agreed. "Against thirty-eight. Same as the Forge-7 batch. Same as everyone on this
+dock."
 
 "That's not a comfort."
 
-"It isn't meant to be one. It's meant to be a number you can use." He set the note down, careful
+"It's a number. Use it." He set the note down, careful
 not to burn it further than the flame already had, and looked at the kettle instead of at her,
 which she understood, correctly, as a kindness — a place for both of them to put their eyes while
 he decided something.
 
-"I'm not giving you the tincture money," he said. "You didn't come here for charity, and if I
-hand you seven notes you didn't earn, you'll spend the next month wondering what you owe me for
-it, and I don't want anything from you that isn't the four notes for this kettle." He picked the
-flux back up. "But I can do the seam for two notes instead of four, if you let me keep the crack's
-copper scrap for the forge stock. It's good copper. I can use it."
+"No tincture money," he said. "You didn't come for charity. Seven unearned notes buy a month of
+wondering what you owe me." He picked the flux back up. "Two notes instead of four. I keep the
+crack's copper scrap for forge stock. Good copper. I can use it."
 
 "That's charity with a different name."
 
-"It's a trade. I need copper scrap. You need two notes freed up. The crack gives me exactly as
-much copper as I need for something else on the bench today. I'm not inventing a discount to make
-you feel looked after. I'm telling you what the material's actually worth to me." He held her eye
-this time, briefly, the way he had held it over the assay flame. "If you want to check that I'm
-not lying about the value of the scrap, ask any smith on the row what a cracked kettle's copper
-sells for. I'll wait."
+"It's a trade. I need copper scrap. You need two notes freed. That's the copper's worth to
+me." He held her eye this time, briefly, the way he had held it
+over the assay flame. "Ask any smith on the row what cracked-kettle copper sells for. I'll wait."
 
 She did not ask any smith on the row. She paid two notes, took the resealed kettle when it cooled,
 and stood in the doorway a moment longer than the transaction required.
@@ -97,10 +93,10 @@ and stood in the doorway a moment longer than the transaction required.
 
 "I don't know what you heard."
 
-"I heard the plates were swapped clean and the fire took four hours and forty men walked out
-without a scratch and nobody's seen a face that matches the story since."
+"Plates swapped clean. Four hours of fire. Forty men out without a scratch. No face to match the
+story since."
 
-"Then you've heard a story with no face in it. I'd leave it that way." He was already turning back
+"A story with no face. Leave it that way." He was already turning back
 to the bench, already reaching for the next piece of unfinished work, and the gesture was not
 dismissal so much as a man returning to the only conversation he'd ever fully trusted: the one
 between his hands and the metal.
@@ -110,7 +106,7 @@ was not nothing.
 
 • • •
 
-Three days later a boy of perhaps ten, thin through the shoulders in the specific way of a child
+Three days later a boy of ten, thin through the shoulders in the specific way of a child
 recovering from something rather than never having eaten enough, appeared at the forge's open
 door and stood there long enough that Kanja finally looked up.
 
@@ -119,20 +115,18 @@ door and stood there long enough that Kanja finally looked up.
 The boy startled at being named by a stranger, then remembered, visibly, that his mother mentioned
 things to people. "She said you fixed the kettle cheap."
 
-"I fixed it for what it was worth. There's a difference, and you should learn it before you're
-much older, because most of what people call generosity is actually just somebody doing the
-arithmetic wrong on purpose and hoping you won't notice."
+"I fixed it for what it was worth. Learn the difference. Most generosity is bad arithmetic, done on
+purpose."
 
 "She said you also knew about the money. The bad money."
 
-"I know it's bad. I don't know how to make it good yet. Those aren't the same thing either."
+"I know it's bad. I don't know how to make it good. Yet."
 
 Emrik considered this with the seriousness particular to children who have recently been sick
 enough to think about consequences. "The tincture worked. I'm better."
 
-"Good. Tell your mother the kettle should hold another two years before the seam wants attention
-again. If it goes before then, it's the copper's fault and she should come back and tell me so,
-because that would mean I did the reseal wrong, and I'd want to know."
+"Good. Tell your mother the seam holds two years. If it fails sooner, the reseal was wrong. She
+tells me."
 
 The boy nodded, satisfied by an answer that neither over-promised nor under-explained, and left
 the way children leave places that have treated them like people capable of understanding a
@@ -145,19 +139,27 @@ canal three weeks out that a hundred people did not know they were about to be a
 
 • • •
 
-At his hip, still new enough that the leather of the sheath had not yet taken the shape of his
-stride, the dark blade had listened to all of it — the woman's nine notes, the boy's cough, the
-arithmetic of a copper scrap traded instead of given — and it did not yet have the words for what
-it was learning. It knew weight. It knew the debased note's dying tone and the way the boy's hands
-had moved when he found the seam by touch before his eyes finished the turn.
+The blade rides at the boy's hip. New hand. New leather. The sheath has not yet taken the shape of
+his stride.
 
-It did not know, yet, that it was starting to keep a record of anything beyond blades and blows.
-It would know that later. For now, it only listened, the way a thing newly made listens to
-everything, because it does not yet know which of it will matter.
+Nine notes. The woman counts them at the anvil and the count is short. Her son coughs in a room the
+blade never enters. The cough travels in her voice. The blade hears it there.
 
-The kettle held. The boy got better. Nobody wrote either of those facts down.
+Scrip on the blue cone. Thin tone. Sour. Dies early. Thirty-eight stamped. Fourteen in the metal.
+Rust.
 
-The blade did.
+The boy finds the seam before his eyes finish the turn. Thumb first. The copper speaks to the hand.
+The hand answers.
+
+The boy refuses the gift. Weighs the crack's copper instead. Takes it at its worth and takes two
+notes off the price. The trade is honest to the grain. The woman stands hunger-light in the doorway
+and takes nothing she has not earned. Iron. The boy gives nothing that would make her owe. Iron.
+
+Three days. The son returns. Thin shoulders. No cough. The kettle holds.
+
+Nobody in Lower Portside writes it down.
+
+The blade records.
 
 ---
 
@@ -169,9 +171,11 @@ Psychological Profile's "arithmetic as armor" / dignity-through-earned-trade rea
 extended here from combat/politics into an ordinary household transaction — matching the same
 dignity-over-charity instinct already established for Ozmund's own household-kindness register
 (`MCD-1765`-adjacent territory) without implying any direct connection between the two cousins, who
-per `MCD-318` remain strangers at this point in both their lives. Onyx is present but almost
-entirely silent — "still new enough that the leather... had not yet taken the shape of his
-stride" places the bonding (`ARS-020`, age 17) as recent, and the closing coda is deliberately the
-shortest and least articulate in the track so far, establishing the true starting point the later
-entries grow from. No combat anywhere in this entry. Pava Rill and Emrik Rill are one-scene minor
+per `MCD-318` remain strangers at this point in both their lives. Onyx is present only in the
+closing coda — "the sheath has not yet taken the shape of his stride" places the bonding (`ARS-020`,
+age 17) as recent — and per the Voice Progression Sheet's Phase 1 and `VB-063` the coda already
+speaks in full Codex voice (present tense, compressed, Iron/Rust verdicts, "the blade" for itself,
+"the boy" for Kanja), sharper than the body; what grows across later entries is the body
+narration's compression, never the coda's articulacy (the earlier "least articulate" convention is
+superseded by `VB-063`). No combat anywhere in this entry. Pava Rill and Emrik Rill are one-scene minor
 characters, not developed further here.*

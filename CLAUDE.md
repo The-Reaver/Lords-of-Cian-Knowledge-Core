@@ -4089,10 +4089,17 @@ the manuscript codas; "spike" banned from prose ("jolt" in `ARS-437`); exact sec
 365-day year from the Pier; the Phase 1 coda is already full Codex voice; "the Captain" from Phase 3;
 present tense the Phase 4 default. Abad chose the recommended option on all four questions.
 
-Still open: redrafts of Chronicles V-VII in Phase 4 cadence (in progress, unlocked), then proposed
-rewrites of locked Kanja I, III, and IV plus `MCD-1866`/`1868`/`1880`'s voice wording, the four
-Alias Onyx lines, and pinning the Storm That Walks entries' ages -- all locked material needing
-Abad's approval. Ledger at `ledger_version` 35.9, 2,659 rules, 357 batches.
+**Batch 358 (`MCD-1883`-`1885`):** Kanja Chronicles V-VII locked -- the first Long Mask Onyx
+accounts (Chain Harbor age 55, Vellacourt's Rule age 48 as the first kill since the Pier, the
+Sleeping Giant age 240), redrafted in Phase 4 voice and the necessity-kill doctrine before
+presentation; the Sleeping Giant's Pi-Awakening hint reduced to one buried physical detail. Abad:
+"go." **Batch 359:** the same "go" covered the locked-material corrections -- Kanja I (Phase 1 coda
+in full Codex voice), II (dialogue only), III (late Phase 2), IV (close of Phase 3, "the Captain,"
+"the blade" throughout bar the sanctioned sealing line), `MCD-1866`/`1868`/`1880` voice wording,
+Onyx's conversational lines in the four Alias entries rewritten as utilitarian grip-fragments, and
+eight Storm That Walks entries (`MCD-562`/`565`/`568`/`571`/`574`/`577`/`583`/`586`) pinned
+Rebellion-era, pre-sealing (no gear change needed). Every Kanja-version entry now passes the gated
+voice check for its phase. Ledger at `ledger_version` 36.1, 2,662 rules, 359 batches.
 
 ## Separate, unrelated thread: the interactive archive app
 

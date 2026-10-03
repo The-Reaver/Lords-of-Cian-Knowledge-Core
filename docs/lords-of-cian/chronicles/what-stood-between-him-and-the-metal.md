@@ -1,6 +1,6 @@
 # What Stood Between Him and the Metal
 
-*Locked canon, Batch 197, 2026-09-11 (`MCD-715`). The Iron Bastard Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-715`). The Iron Bastard Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Onyx's lines corrected Batch 359, 2026-10-03, to the Voice Bible's utilitarian register (VB-063); no facts changed. Abad's approval: "go."*
 
 ---
 
@@ -29,7 +29,8 @@ variable.
 doctrine doesn't care how hard the structure is to reach. It only cares whether I can eventually touch
 it. They just made touching it cost more than it used to."
 
-"Will it work again?" Onyx asked, the question carrying its own flat certainty about the answer.
+Under his palm, Onyx's grip carried the blade's assessment, bone-conducted, flat: "Screen
+cleared. Trick known now. Second use: hollow."
 
 "Once, on someone who hasn't studied what happened here. Not twice. That's true of almost everything
 they've tried against this doctrine so far — and it's true of almost everything I've tried against

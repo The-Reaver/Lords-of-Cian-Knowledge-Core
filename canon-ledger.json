@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "36.0",
+  "ledger_version": "36.1",
   "last_updated": "2026-10-03",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2697,6 +2697,12 @@
       "source": "Original invention, chat-drafted 2026-10-02/03, no source document",
       "rules_affected": 3,
       "note": "Kanja Chronicles V-VII locked (MCD-1883-1885): the first Long Mask Onyx accounts -- Chain Harbor (age 55), Vellacourt's Rule (age 48, first kill since the Pier), the Sleeping Giant (age 240) -- redrafted to the VB-063 Phase 4 voice and the CC-161 necessity-kill doctrine before presentation. Abad's approval: \"go\""
+    },
+    {
+      "batch": 359,
+      "source": "Voice correction of locked material per VB-063 and the Voice Progression Sheet (docs/lords-of-cian/voice/), 2026-10-03; no facts changed",
+      "rules_affected": 11,
+      "note": "Onyx voice corrections across locked material: Kanja Chronicles I (Phase 1 coda in full Codex voice, dialogue trimmed), II (dialogue only, pre-bonding), III (late Phase 2), IV (close of Phase 3, 'the Captain', 'the blade' throughout bar the sealing line); MCD-1866/1868/1880 voice wording; Onyx's conversational lines in Alias Chronicles MCD-715/720/721/1127 rewritten as utilitarian grip-fragments (prose only); eight Storm That Walks entries (MCD-562/565/568/571/574/577/583/586) pinned Rebellion-era, pre-sealing. Abad's approval: \"go\""
     }
   ],
   "rules": [
@@ -10997,7 +11003,7 @@
     {
       "id": "MCD-562",
       "category": "kanja-alias-chronicle",
-      "statement": "\"The Fight With Nowhere to Hide\" (full narrative text at docs/lords-of-cian/chronicles/the-fight-with-nowhere-to-hide.md), the Storm That Walks Alias Chronicle XVII, wave 6 of ten (waves 6-15). Full daylight, no storm cover -- Onyx adapts Whisper of Shadows to stillness instead of rain, Mafesto and Obsidian Malice fight fully visible, proving the Trinity isn't dependent on weather to be dangerous.",
+      "statement": "\"The Fight With Nowhere to Hide\" (full narrative text at docs/lords-of-cian/chronicles/the-fight-with-nowhere-to-hide.md), the Storm That Walks Alias Chronicle XVII, wave 6 of ten (waves 6-15). Full daylight, no storm cover -- Onyx adapts Whisper of Shadows to stillness instead of rain, Mafesto and Obsidian Malice fight fully visible, proving the Trinity isn't dependent on weather to be dangerous. Age pinned Batch 359, 2026-10-03: age 29, Rebellion era, pre-sealing (MCD-246), so the Trinity gear stands.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -11018,7 +11024,7 @@
     {
       "id": "MCD-565",
       "category": "kanja-alias-chronicle",
-      "statement": "\"The Tide That Turned Twice\" (full narrative text at docs/lords-of-cian/chronicles/the-tide-that-turned-twice.md), the Storm That Walks Alias Chronicle XX, wave 7 of ten (waves 6-15). A Trinity showcase using a predicted tidal surge, not a storm, at a river-mouth garrison -- a new coastal environment for the doctrine.",
+      "statement": "\"The Tide That Turned Twice\" (full narrative text at docs/lords-of-cian/chronicles/the-tide-that-turned-twice.md), the Storm That Walks Alias Chronicle XX, wave 7 of ten (waves 6-15). A Trinity showcase using a predicted tidal surge, not a storm, at a river-mouth garrison -- a new coastal environment for the doctrine. Age pinned Batch 359, 2026-10-03: age 29, Rebellion era, pre-sealing (MCD-246), so the Trinity gear stands.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -11039,7 +11045,7 @@
     {
       "id": "MCD-568",
       "category": "kanja-alias-chronicle",
-      "statement": "\"What the Hardened Crews Stopped Fearing\" (full narrative text at docs/lords-of-cian/chronicles/what-the-hardened-crews-stopped-fearing.md), the Storm That Walks Alias Chronicle XXIII, wave 8 of ten (waves 6-15). A Trinity showcase exploiting the storm-hardened squadron's own overconfidence: their storm-hardening made them stop watching for a threat, not just weather.",
+      "statement": "\"What the Hardened Crews Stopped Fearing\" (full narrative text at docs/lords-of-cian/chronicles/what-the-hardened-crews-stopped-fearing.md), the Storm That Walks Alias Chronicle XXIII, wave 8 of ten (waves 6-15). A Trinity showcase exploiting the storm-hardened squadron's own overconfidence: their storm-hardening made them stop watching for a threat, not just weather. Age pinned Batch 359, 2026-10-03: age 30, Rebellion era, pre-sealing (MCD-246), so the Trinity gear stands.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -11060,7 +11066,7 @@
     {
       "id": "MCD-571",
       "category": "kanja-alias-chronicle",
-      "statement": "\"The Boats That Didn't Come In\" (full narrative text at docs/lords-of-cian/chronicles/the-boats-that-didnt-come-in.md), the Storm That Walks Alias Chronicle XXVI, wave 9 of ten (waves 6-15). A rescue showcase using Mafesto during the storm itself, with a real, uncompensated loss -- one fisherman -- rather than a clean save.",
+      "statement": "\"The Boats That Didn't Come In\" (full narrative text at docs/lords-of-cian/chronicles/the-boats-that-didnt-come-in.md), the Storm That Walks Alias Chronicle XXVI, wave 9 of ten (waves 6-15). A rescue showcase using Mafesto during the storm itself, with a real, uncompensated loss -- one fisherman -- rather than a clean save. Age pinned Batch 359, 2026-10-03: age 29-30, Rebellion era, pre-sealing (MCD-246), so the Trinity gear stands.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -11081,7 +11087,7 @@
     {
       "id": "MCD-574",
       "category": "kanja-alias-chronicle",
-      "statement": "\"What the Storm Exposed\" (full narrative text at docs/lords-of-cian/chronicles/what-the-storm-exposed.md), the Storm That Walks Alias Chronicle XXIX, wave 10 of ten (waves 6-15). A Trinity showcase foiling the embedded agent's theft attempt during an actual predicted storm.",
+      "statement": "\"What the Storm Exposed\" (full narrative text at docs/lords-of-cian/chronicles/what-the-storm-exposed.md), the Storm That Walks Alias Chronicle XXIX, wave 10 of ten (waves 6-15). A Trinity showcase foiling the embedded agent's theft attempt during an actual predicted storm. Age pinned Batch 359, 2026-10-03: age 30, Rebellion era, pre-sealing (MCD-246), so the Trinity gear stands.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -11102,7 +11108,7 @@
     {
       "id": "MCD-577",
       "category": "kanja-alias-chronicle",
-      "statement": "\"What Three Months Bought in One Night\" (full narrative text at docs/lords-of-cian/chronicles/what-three-months-bought-in-one-night.md), the Storm That Walks Alias Chronicle XXXII, wave 11 of the ten-wave run (waves 6-15). A full Trinity showcase when the storm finally arrives, resolving the siege in one night.",
+      "statement": "\"What Three Months Bought in One Night\" (full narrative text at docs/lords-of-cian/chronicles/what-three-months-bought-in-one-night.md), the Storm That Walks Alias Chronicle XXXII, wave 11 of the ten-wave run (waves 6-15). A full Trinity showcase when the storm finally arrives, resolving the siege in one night. Age pinned Batch 359, 2026-10-03: age 30, Rebellion era, pre-sealing (MCD-246), so the Trinity gear stands.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -11144,7 +11150,7 @@
     {
       "id": "MCD-583",
       "category": "kanja-alias-chronicle",
-      "statement": "\"The Ground That Moved With the Water\" (full narrative text at docs/lords-of-cian/chronicles/the-ground-that-moved-with-the-water.md), the Storm That Walks Alias Chronicle XXXVIII, wave 13 of the ten-wave run (waves 6-15). A Trinity showcase exploiting rising floodwater against a garrison's fixed earthworks.",
+      "statement": "\"The Ground That Moved With the Water\" (full narrative text at docs/lords-of-cian/chronicles/the-ground-that-moved-with-the-water.md), the Storm That Walks Alias Chronicle XXXVIII, wave 13 of the ten-wave run (waves 6-15). A Trinity showcase exploiting rising floodwater against a garrison's fixed earthworks. Age pinned Batch 359, 2026-10-03: age 30, Rebellion era, pre-sealing (MCD-246), so the Trinity gear stands.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -11165,7 +11171,7 @@
     {
       "id": "MCD-586",
       "category": "kanja-alias-chronicle",
-      "statement": "\"What the Chart Didn't Show\" (full narrative text at docs/lords-of-cian/chronicles/what-the-chart-didnt-show.md), the Storm That Walks Alias Chronicle XLI, wave 14 of the ten-wave run (waves 6-15). A Trinity showcase recovering from a genuine forecast blind spot: a storm-shifted shoal no chart showed.",
+      "statement": "\"What the Chart Didn't Show\" (full narrative text at docs/lords-of-cian/chronicles/what-the-chart-didnt-show.md), the Storm That Walks Alias Chronicle XLI, wave 14 of the ten-wave run (waves 6-15). A Trinity showcase recovering from a genuine forecast blind spot: a storm-shifted shoal no chart showed. Age pinned Batch 359, 2026-10-03: age 29-30, Rebellion era, pre-sealing (MCD-246), so the Trinity gear stands.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-11, no source document."
     },
@@ -21168,7 +21174,7 @@
     {
       "id": "MCD-1866",
       "category": "kanja-character-chronicle",
-      "statement": "Kanja Chronicle I, 'The Fourteen Percent That Was Hers' (full text at docs/lords-of-cian/chronicles/kanja-chronicle-i-the-fourteen-percent-that-was-hers.md). The opening entry of the new Kanja-version Chronicle track -- Kanja himself as protagonist, narrated per VB-020/021/026's progressive narrator-handoff mechanic, distinct from the existing Alias Chronicle track. Age 18, four days after the Scrip-Forge Raid (MCD-231), three weeks before the Dredge-Line Ambush -- a deliberately small, non-combat vignette: a widow, Pava Rill, and her son Emrik bring a cracked kettle to Kanja's forge; he refuses to simply give her the money her debased wages cost her, instead trading two saved notes for the kettle's copper scrap at its real value, extending his already-locked evidence-over-charity, dignity-through-earned-trade ethos from politics into an ordinary household transaction. Onyx of Oblivion appears only in a near-silent, unlabeled closing coda -- its first appearance in this track, deliberately the shortest and least articulate of the whole wave, establishing the true zero point the later entries grow from.",
+      "statement": "Kanja Chronicle I, 'The Fourteen Percent That Was Hers' (full text at docs/lords-of-cian/chronicles/kanja-chronicle-i-the-fourteen-percent-that-was-hers.md). The opening entry of the new Kanja-version Chronicle track -- Kanja himself as protagonist, narrated per VB-020/021/026's progressive narrator-handoff mechanic, distinct from the existing Alias Chronicle track. Age 18, four days after the Scrip-Forge Raid (MCD-231), three weeks before the Dredge-Line Ambush -- a deliberately small, non-combat vignette: a widow, Pava Rill, and her son Emrik bring a cracked kettle to Kanja's forge; he refuses to simply give her the money her debased wages cost her, instead trading two saved notes for the kettle's copper scrap at its real value, extending his already-locked evidence-over-charity, dignity-through-earned-trade ethos from politics into an ordinary household transaction. Onyx of Oblivion appears only in a short, unlabeled closing coda -- its first appearance in this track -- already in its full Codex voice per the Voice Progression Sheet's Phase 1 and VB-063 (present tense, compressed, verdicts delivered, 'the blade' and 'the boy'), sharper than the literary body around it. Voice wording corrected Batch 359, 2026-10-03. Abad's approval: 'go'",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-28, extending already-locked material throughout (MCD-231/1568/1570 for Chronicles I-II; MCD-1865/CULT-197/198/WC-019 for Chronicle III)."
     },
@@ -21182,7 +21188,7 @@
     {
       "id": "MCD-1868",
       "category": "kanja-character-chronicle",
-      "statement": "Kanja Chronicle III, 'What the Dark Could Not Keep' (full text at docs/lords-of-cian/chronicles/kanja-chronicle-iii-what-the-dark-could-not-keep.md). The third entry of the Kanja-version track, age 27 (within this track's Rebellion-only window, before the Trinity's age-30 surrender, MCD-246). Dramatizes Renfel Auberon's defeat (CC-157/MCD-1865) -- the one Batch-312 villain explicitly assigned to this track rather than any Alias Chronicle wave, per the Game Plan's villain-defeat arbitration, since it requires Onyx as an active pre-age-30 combat participant. Kanja, Sephtis, and Ironbane corner Auberon in an unregistered warehouse holding six illegally captured Ever-Haunt entities and field CULT-197's three-source Anti-Resonance countermeasure (Onyx's Cadence Ruin, Sephtis's Chrono-Anchor bells, Ironbane's King's Roar) together on the page for the first time, forcing every entity to collapse to its lowest tier or disperse rather than be harmed outright. Auberon is captured alive, already partially Green-Mark-contaminated (CULT-198) from years of unsafe proximity to his own stock, and handed to the older custodial apparatus that tracks anomalies of this kind rather than to ordinary Trust law enforcement. Onyx's coda has grown to its second real appearance in this track -- longer and more assertive than Chronicle I's, still unlabeled, matching the Game Plan's specified growth curve.",
+      "statement": "Kanja Chronicle III, 'What the Dark Could Not Keep' (full text at docs/lords-of-cian/chronicles/kanja-chronicle-iii-what-the-dark-could-not-keep.md). The third entry of the Kanja-version track, age 27 (within this track's Rebellion-only window, before the Trinity's age-30 surrender, MCD-246). Dramatizes Renfel Auberon's defeat (CC-157/MCD-1865) -- the one Batch-312 villain explicitly assigned to this track rather than any Alias Chronicle wave, per the Game Plan's villain-defeat arbitration, since it requires Onyx as an active pre-age-30 combat participant. Kanja, Sephtis, and Ironbane corner Auberon in an unregistered warehouse holding six illegally captured Ever-Haunt entities and field CULT-197's three-source Anti-Resonance countermeasure (Onyx's Cadence Ruin, Sephtis's Chrono-Anchor bells, Ironbane's King's Roar) together on the page for the first time, forcing every entity to collapse to its lowest tier or disperse rather than be harmed outright. Auberon is captured alive, already partially Green-Mark-contaminated (CULT-198) from years of unsafe proximity to his own stock, and handed to the older custodial apparatus that tracks anomalies of this kind rather than to ordinary Trust law enforcement. Onyx's coda is its second appearance in this track -- longer and more interpretive than Chronicle I's, still unlabeled -- with the body narration at the Voice Progression Sheet's late Phase 2 (combat compressed into fragments and present tense, Iron/Rust verdicts in the intense moments), per VB-063. Voice wording corrected Batch 359, 2026-10-03. Abad's approval: 'go'",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-09-28, extending already-locked material throughout (MCD-231/1568/1570 for Chronicles I-II; MCD-1865/CULT-197/198/WC-019 for Chronicle III)."
     },
@@ -21294,7 +21300,7 @@
     {
       "id": "MCD-1880",
       "category": "kanja-character-chronicle",
-      "statement": "Kanja Chronicle IV, \"Ninety Seconds on the Sovereign Pier\" (full narrative text at docs/lords-of-cian/chronicles/kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md), the fourth entry of the Kanja-version track and the first time the Battle of the Sovereign Pier (MCD-245) and the Trinity's surrender (MCD-246) are dramatized anywhere in the corpus. Age 30, the Rebellion's final day. King Maro Rexmar walks down the pier while Kanja is caulking The Audit's hull with active Living Drakma sealant and asks him to accept the Accords he spent the better part of two years negotiating in secret with Aethelgard Verehimu (recognition as sovereign King of Jicome in exchange for the Trinity, CC-009/MCD-085). A twelve-operative Trust team led by Ivo Strell attacks with Blight-projector sidearms tuned to the relics' Living Drakma; the still-wet sealant absorbs the signal first. In ninety seconds Kanja kills nine (Strell, Hesk, Vauden, Tasker, Caddel, Orrel, Teague, Danver, Lisk) -- every operative standing between his father and the landward end of the pier -- and deliberately drives the three posted at the seaward end into the harbor alive; Dol Maren hauls them out. Strell's warrant authorizes the attack irrespective of the negotiation's outcome. Kanja answers 'Yes' and surrenders Mafesto, Obsidian Malice, and Onyx that night; the Rexmar Machete stays on his belt (ARS-425). Narrated by Onyx throughout, completing VB-026's handoff: its self-reference shifts from 'the blade' to 'I' at the moment the case closes, beginning the seconds-count MCD-246 locks. The first Kanja marquee kill under MCD-1881 and the governing precedent for CC-161. Nothing foreshadows the Fulfillment Ceremony or Maro's death. Abad's approval: 'go with retrospective, keep the two years, lock it.' Corrected Batch 356, 2026-10-03: Caddel goes over the rail to come at the king from the water side rather than to escape, keeping all nine kills necessity kills under CC-161. Abad's approval: 'approved'",
+      "statement": "Kanja Chronicle IV, \"Ninety Seconds on the Sovereign Pier\" (full narrative text at docs/lords-of-cian/chronicles/kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md), the fourth entry of the Kanja-version track and the first time the Battle of the Sovereign Pier (MCD-245) and the Trinity's surrender (MCD-246) are dramatized anywhere in the corpus. Age 30, the Rebellion's final day. King Maro Rexmar walks down the pier while Kanja is caulking The Audit's hull with active Living Drakma sealant and asks him to accept the Accords he spent the better part of two years negotiating in secret with Aethelgard Verehimu (recognition as sovereign King of Jicome in exchange for the Trinity, CC-009/MCD-085). A twelve-operative Trust team led by Ivo Strell attacks with Blight-projector sidearms tuned to the relics' Living Drakma; the still-wet sealant absorbs the signal first. In ninety seconds Kanja kills nine (Strell, Hesk, Vauden, Tasker, Caddel, Orrel, Teague, Danver, Lisk) -- every operative standing between his father and the landward end of the pier -- and deliberately drives the three posted at the seaward end into the harbor alive; Dol Maren hauls them out. Strell's warrant authorizes the attack irrespective of the negotiation's outcome. Kanja answers 'Yes' and surrenders Mafesto, Obsidian Malice, and Onyx that night; the Rexmar Machete stays on his belt (ARS-425). Narrated by Onyx throughout, completing VB-026's handoff at the Voice Progression Sheet's close of Phase 3: 'the blade' holds from first line to last, the Captain is 'the Captain,' and its single sanctioned first-person line ('So I began it.') falls at the moment the case closes, beginning the seconds-count MCD-246 locks (VB-063). The first Kanja marquee kill under MCD-1881 and the governing precedent for CC-161. Nothing foreshadows the Fulfillment Ceremony or Maro's death. Abad's approval: 'go with retrospective, keep the two years, lock it.' Corrected Batch 356, 2026-10-03: Caddel goes over the rail to come at the king from the water side rather than to escape, keeping all nine kills necessity kills under CC-161. Abad's approval: 'approved' Voice wording corrected Batch 359, 2026-10-03. Abad's approval: 'go'",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-10-02, no source document. Follows Abad's direction that pre-Book-1 marquee kills be concentrated on the four Book-1 anchor heroes, and his standing rule that every event in Kanja's life always has an Onyx account."
     },
