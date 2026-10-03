@@ -1,386 +1,414 @@
 # Kanja Chronicle V: The Names in the Correction Book
 
-*UNLOCKED -- pending Abad's approval. Draft, 2026-10-02. Fifth entry of the "Kanja version"
-Chronicle track and the first of its Long Mask extension (Game Plan amendment, 2026-10-02). Age
-55, the Long Mask's Southern Sweep years. Dramatizes the Chain Harbor Massacre (`MCD-251`)
-for the first time anywhere in the corpus: the locked rule names the massacre but never its
-dead, and this Onyx account makes them the slave garrison's -- chosen by name, counted, cold
-(`CC-161`) -- alongside Anirak's recruitment, mid-mutiny, and the forging of her Chain Storm
-(`ARS-130`/`ARS-411`). Kanja's second marquee kill under `MCD-1881`, his first of the Long
-Mask. Narrated retrospectively by Onyx of Oblivion in first person (`VB-062`), opening on a Dark
-Ledger entry (`ARS-437`); Onyx was sealed at L9 throughout and says so. Post-Mafesto gear only,
-at its age-55 generation. New named characters: Edric Grenmoor (garrison master, killed), Dunmore
-and Skarrow (lieutenants, killed), Mabry (lieutenant and keeper of the garrison's correction book,
-spared), all collision-checked against the full ledger and Chronicle corpus. Anirak (Blades Fury)
-and Valen reused; Bloodreaver (Torian) present in passing. No child-safety issues.*
+*UNLOCKED -- pending Abad's approval. Draft 2026-10-03 (redraft of the 2026-10-02 draft). Fifth entry
+of the "Kanja version" Chronicle track and the first of its Long Mask extension (Game Plan amendment,
+2026-10-02). Age 55, the Long Mask's Southern Sweep years. Dramatizes the Chain Harbor Massacre
+(`MCD-251`) for the first time anywhere in the corpus: the locked rule names the massacre but never its
+dead, and this Onyx account makes them the slave garrison's -- every one of them killed in the act of
+drowning the pens or coming at the Captain, under `CC-161`'s necessity-only doctrine -- alongside
+Anirak's recruitment, mid-mutiny, and the forging of her Chain Storm (`ARS-130`/`ARS-411`). Kanja's
+second marquee kill under `MCD-1881`, his first of the Long Mask. Narrated retrospectively by Onyx of
+Oblivion as "the blade" (`VB-062`/`VB-063`), opening on an exact Dark Ledger entry (`ARS-437`); Onyx
+was sealed at L9 throughout and says so. Post-Mafesto gear only, at its age-55 generation. New named
+characters: Edric Grenmoor (garrison master, killed), Dunmore and Skarrow (lieutenants, killed), Mabry
+(lieutenant and keeper of the garrison's correction book, spared), all collision-checked against the
+full ledger and Chronicle corpus. Anirak (Blades Fury), Valen, and Bloodreaver (Torian) reused. No
+child-safety issues.*
 
 ---
 
-Dark Ledger. Somewhere a little short of the eight-hundredth million second.
+Dark Ledger. 791,942,400 seconds.
 
-His heart at rest. Then the spike.
+Heart at rest. Then a jolt. The kill jolt. The blade learned its shape in the Rebellion. It knew the shape in the dark.
 
-I know that spike. I learned it in the Rebellion, and the thing to understand is that his body does
-not spike for a ravine or a gorge. The Rebellion's great tolls were paid to water and to stone. The
-ones from his own hand I never needed to count twice.
+Forty-three of them. One hour.
 
-Inside one hour, in the dark, I counted more of them than I had ever counted in one hour at his
-hand. The Pier, four times over.
+Between them the heart held at rest, slow and even, a walking pulse. Once it climbed, sharp and short. The climb of opened flesh. A wound. Then rest again. Then more jolts.
 
-More than forty. And between them -- this is the line of the entry I could not make sense of for
-the better part of two and a half centuries -- his pulse did not leave rest. Once it climbed,
-sharp and brief, the way it climbs for a blade that has found flesh. A wound. Then it settled,
-and the spikes went on arriving, evenly, like the footfalls of a man walking a corridor and
-reading the doors.
+After the hour, no sleep. Two hundred and fifty-two thousand seconds of waking. In the shoulders, a forge rhythm. Lift and fall, lift and fall, steady as a bellows.
 
-Afterward: most of three days without sleep. A forge rhythm in the shoulders, steady as a bellows.
-And near the end of it, once, his heart lifted, the way it had not lifted in that whole hour.
+Near the end, once, the heart lifted.
 
-That is what the Dark Ledger held. Signals, against a count. No causes. I was in the Silent
-Infinite, in a sealed case in a vault on the ninth level, and I was not there.
+That was the entry. Signals against a count. No causes. The blade lay sealed on the ninth level of the Silent Infinite. The blade was not there.
 
-What follows I reconstructed later, when his hand found the grip again and the channel opened all
-the way: from the scar along the outside of his left forearm, from a habit of the right wrist that
-had not been there on the Pier, and which I have since set down elsewhere, and from the rest -- the names, the book, the woman in the passage
--- which came through whole once there was a hand on me to carry it. The Dark Ledger was owed
-its causes. And what the stories later made of Chain Harbor is Rust, and the record should be Iron.
+The causes came after. When his hand found the grip again, the body gave them up. A scar on the left forearm. A new set to the right wrist. Old forge-strain still lodged in the shoulder. The rest came whole, through the grip.
+
+The Dark Ledger is owed its causes. The blade pays them now.
 
 • • •
 
-Chain Harbor was a holding port. The Maws of the Southern Seaboard needed fighters, and between
-the selling and the shipping they were kept at Chain Harbor in pens cut into the harbor wall
-below the high-tide line, the sea held out by sluice gates. That was the whole design: a cargo
-that can be drowned on a turn of a wheel does not need many guards.
+Chain Harbor. A holding port.
 
-Its garrison was something over two hundred. Its master, Edric Grenmoor, kept in his office above
-the gates a ledger he called the correction book. Every flogging, every brand, every drowning at
-Chain Harbor went into it -- the date, the cargo-mark, the offense, and the name of the man who
-carried it out. Grenmoor believed a garrison that wrote down its corrections was a disciplined
-garrison. He was not wrong about that. He was wrong about who would read it.
+The Maws need fighters. Between the sale and the shipping, the fighters wait here. Six pens, hewn into the harbor wall below the tide line. Wet stone. Iron grates. Salt-rot in every seam. The sea held out by sluice gates.
 
-The fleet came in on the morning flood under black sails, four ships in the crescent, to take a
-shipment Anansi's lattice had marked for interdiction -- a transport, taken at sea, cleanly. They
-came into the roads expecting a quiet harbor and found it already loud.
+Two wheels work the gates. One gallery at each end of the wall. One stair to each gallery.
 
-The pens had mutinied.
+That is the whole design. Cargo that drowns on a turn of a wheel needs few guards.
 
-It had started in the eastern pen, with one prisoner the garrison had received eleven days before --
-a Maw-raised fighter, sold out of the circuit that had kept her since she was twelve, shipped in a
-damping harness. The harness was the handlers' answer to what she was. Her body did not tire under
-blows; it gathered them. Every strike she landed made the next one harder, and the Maws had long
-ago decided the only safe thing to do with her was keep her from landing enough of them in a row.
+The garrison stands at two hundred and thirty. Its master is Edric Grenmoor. His office sits above the gates. A ledger lies on a stand in that office. He calls it the correction book.
 
-At some point in the night she had landed enough of them in a row.
+Every flogging goes in it. Every brand. Every drowning. The date. The cargo-mark. The offense. The name of the hand that did it.
 
-When the fleet came into the roads she was in the eastern pen's passage with her harness in pieces
-on the stone behind her, breaking fetters with her bare hands, one shackle to the next, each one
-easier than the last because each blow fed the one after it. The people she freed did not run.
-Three of them stood at her back with whatever they had torn loose and held the passage so she
-could keep working. Nobody had ordered them to.
-
-The garrison could not get into the passage. So Edric Grenmoor did what his design had always
-promised. He gave the drowning order. All six pens, at the top of the flood. His lieutenants
-Dunmore and Skarrow went down to the sluice wheels with twenty men to turn them.
-
-The flood had a little under half an hour left to run.
+Grenmoor holds that a garrison which writes its corrections down is a disciplined garrison. He is right. Twenty-two years of pages say so.
 
 • • •
 
+The fleet comes in on the morning flood. Black sails. Four hulls in the crescent. Anansi's lattice has marked a transport for taking, out past the roads. The roads should be quiet.
 
+The roads are loud.
 
-Six pens. Something over nine hundred people in them. Two sluice galleries, one at each end of
-the wall, each reachable by a single stair. Half an hour to the top of the flood. A crew that
-could put perhaps forty fighters ashore, against a garrison five times that size on its own ground.
+The pens have risen.
 
-Every tool he had spent twenty-five years building -- the forged order, the shame, the bribe,
-the legend -- needed time, and the sea did not offer any. There was no version of that half hour
-in which the wheels stopped turning while the men turning them were still standing.
+It starts in the eastern pen with one prisoner, eleven days landed. Maw-raised since twelve. Sold out of the circuit and shipped in a damping harness. The handlers know what she is. Her body does not tire under blows. It gathers them. Each strike she lands loads the next. The harness exists to break the chain.
 
-He did the sum on deck while the boats went over the side. Valen, who had been at his shoulder
-long enough by then to read the sum off his face, said only, "Which gallery."
+In the night she lands enough of them in a row.
 
-"West," he said. "Torian takes east. Nobody goes into the pens. She has them."
+Now she stands in the eastern passage. The harness lies in pieces behind her. Bare hands on the fetters. One shackle, then the next. Each breaks easier than the last. Iron rings on the flags. The sound carries down the whole wall.
 
-He went over the side in the Forge-Coat -- the second one, sea-leather over a mesh of Dead
-Drakma wire, the high armored collar that gave the Long Mask its silhouette. The first goggles,
-copper-framed, their phosphor coating giving off the dull amber predator glow it had never been meant
-to have. The riveted plate gloves he had worn for twenty years. The machete at his belt. The
-Talisman bonded into his bones, where nobody can take it from him.
+Three freed prisoners stand at her back. Torn chain in their fists, a grate-bar, a bucket. They hold the passage so she can work. No one ordered it.
 
-He landed on the harbor wall at the west stair with eleven minutes gone.
+Iron.
 
-• • •
+The garrison cannot take the passage. So Grenmoor gives the order his design was built to give.
 
-Dunmore was at the west wheel with nine men, and the gate was already a hand's breadth open,
-and the sea was coming through the gap in a flat green sheet into the pen below.
+All six pens. Top of the flood.
 
-The man did not shout. He came down the stair in four strides, and Dunmore turned at the sound
-of the boots on stone and saw the coat and the high collar and the two pale lights where a face
-should have been, and for a moment did not move, which is what the coat is for.
+Dunmore takes the west wheel with nine men. Skarrow takes the east with nine more.
 
-That moment was all he took.
-
-The machete is not a relic. It reads nothing, hears nothing, breaks no harmonics. It is a laborer's
-blade, brass-riveted and worn narrow by generations of sharpening, and what it does it does because
-of the hand on it. He took Dunmore across the throat on the first stroke, and Dunmore went back
-against the wheel he had been turning, and the man put his shoulder into the wheel over the body
-and drove the gate shut against the sea.
-
-Nine more. They came at him because the wheel was their whole order. He fought them where the
-wall and the wheel housing left room for one man at a time, and he let each one come. A plated
-fist into a breastbone, short, the hips behind it. The machete into the gap under an arm. A knee,
-a wrist, a throat. He was not fast the way the stories make him fast. He was simply already where
-they were going, every time, because the ground told him where they would have to go.
-
-The seventh had a hook-knife, and opened the outside of his left forearm from wrist to elbow
-through the coat's sleeve before he died. That was the climb in the pulse. That was the wound. The
-man looked at it once, pressed a pouch from his belt to it, held it shut the length of a breath
-while the compound set hard, and turned to the eighth.
-
-The ninth threw down his crowbar and his knife and knelt on the wet stone with his hands open,
-and the man looked at him, and did not kill him, and went up the stair.
-
-Nine spikes, in less time than it takes to tell. His heart at rest.
-
-At the east gallery Torian had boiled the water standing in the wheel housing until no one could put
-a hand on the spokes, and Skarrow had taken his men back up the stair rather than cook. The gates
-held. The flood topped and turned. The pens were wet to the knee and nobody in them had drowned.
-
-That was not the massacre. That was only its first minutes.
+Twenty-six minutes to the top of the flood.
 
 • • •
 
-The massacre was the rest of that hour, and it is the part the stories never get right, because
-they make it fury. It was a reading.
+On deck the Captain makes the count.
 
-The garrison did not surrender when the gates held. It fell back into the yard and made ready,
-because it still outnumbered the crew, and because a garrison that has drowned people does not
-expect terms. The man went up to Grenmoor's office first, before he gave a single order about the
-yard, and found the correction book on its stand and Mabry, the lieutenant who kept it, standing
-in front of it with a sword he had plainly never drawn in anger.
+Six pens. Nine hundred and twelve people in them. Two wheels. Two stairs. Forty fighters to put ashore. Two hundred and thirty against them, on their own stone. Twenty-six minutes.
 
-"You keep this," the man said. It came out through the collar -- the lower voice, the one built
-to sound less like a man than a judgment. "Every correction. Who gave it."
+A forged order needs days. Shame needs witnesses. A bribe needs a buyer with time to count coin. The sea gives none of it.
 
-Mabry said that he did.
+The wheels turn while the hands on them stand.
 
-The man read it. All of it, every page. Twenty-two years of Chain Harbor. The names of the men
-who had carried out the corrections, over and over, the same names, because in any garrison the
-same few men volunteer. Remove the men who volunteer and a garrison is only a garrison again. Leave
-them, and they carry the book to the next harbor in their hands.
+Valen stands at his shoulder. He reads the sum off the Captain's face.
 
-Then he took the book down into the yard and opened it, and began to read the names aloud.
+"Which gallery."
 
-That is the hour. I have checked it against every spike in the Dark Ledger, and it does not vary.
+"West." A glance aft. "Torian. East."
 
-He would read a name. He would wait. Sometimes a man stepped forward, because he had been a
-soldier for a long time and did not know what else to do when his name was called. Sometimes
-the men around him stepped away from him, and that was the same thing. Sometimes nobody moved,
-and the man would read the entries under that name -- the dates, the marks, what had been done --
-in that voice, into that silence, until somebody moved. Then he would go to the man whose name
-it was and kill him, and come back to the book, and turn the page.
+"The pens?"
 
-Men whose names were not in the book were told, once, to put their weapons down and sit, and the
-ones who did were never touched. The ones who tried to make a line found Valen in front of them
-instead, and Valen leaves men breathing when he is asked to, and that morning he was asked to.
-Nobody whose name was not in the book died in that yard. Nobody whose name was read aloud in it
-lived. One name in the book was never read aloud at all, and I will come to him.
+"Hers."
 
-He did not hurry or shout or explain himself. I have read that hour out of his body a hundred
-times since, and what I keep returning to is how little there is in it. No heat. No grief. A
-blade going where a name had sent it, and coming back.
+The boats go over the side.
 
-Skarrow's name was the ninth he read in the yard. Skarrow did not step forward. He ran for the
-gatehouse with the pen keys on his belt, as if the keys were still worth something, and his way
-ran a few paces past the man. The man did not chase him. He stamped once on the paving -- the
-boots carry a tremor through shared ground, enough to take a man's footing -- and Skarrow went
-down on the gatehouse steps, and the man walked over to him, read him the last entry under his
-name, and killed him.
+The Forge-Coat settles on him. Sea-leather, stiff with salt. Under it the wire mesh lies cold through the shirt and heavy at the shoulders. The high collar closes at the jaw. Breath fogs inside it. The goggles come down. Copper frames bite the brow. The world goes dim amber. To anyone looking back, two dull lights burn where a face should be. Riveted plate on both hands, worn smooth at the knuckle. The machete at the belt. A row of stiff pouches beside it. The Talisman, in the bone, where no hand reaches.
 
-Some of the garrison had drowned prisoners. Some had branded fighters too young to hold a blade. Some
-had only flogged. The book did not distinguish between them, and neither did he. He told me once,
-in the Rebellion, that the line between the man who holds the whip and the man who orders it held
-is a line the whip does not feel. I took it for rhetoric. At Chain Harbor I learned he had meant
-it as a measurement.
-
-Mercy is earned. That morning, nobody whose name he read aloud from that book had earned any.
+He lands on the harbor wall at the west stair. Eleven minutes gone.
 
 • • •
 
-He left Edric Grenmoor for last.
+West gallery. Wet stone, rust on the wheel housing, salt-bloom on the spokes. The gate stands a hand's breadth open. The sea comes through the gap in a flat green sheet. Below, in the pen, voices rise with the water.
 
-Grenmoor had not hidden. I record it in his favor. He was waiting on the drowning steps -- the stone
-stair down the inside of the harbor wall to the eastern pen, where cargo marked for correction
-was walked to the water -- with his sword sheathed and his hands folded on its pommel. He had
-heard every name.
+Dunmore on the wheel. Nine men at the spokes and around them. Crowbars, hook-knives, two short swords.
 
-The man came down the steps to him with the book open in one hand and the machete in the other,
-and stopped three steps above him.
+Threat: all ten. The wheel is their order. The wheel drowns nine hundred.
 
-Grenmoor said that it was a trade. He had not built the Maws or written the law that fed them;
-he had only kept the harbor the trade required, better than anyone else would have, with fewer
-losses and a record of everything. If the Scourge killed every man who kept such a harbor, it
-would have to kill half the Southern Seaboard. He said it well.
+Verdict: every hand on that wheel is killing now. Stop the hands.
 
-That is Rust. It sounds like Iron, which is the danger of it.
+The Captain comes down the stair in four strides. Boot-iron on stone. Dunmore turns at the sound. Sees the coat, the collar, the two amber lights. Freezes.
 
-The man did not argue with him. He read him his own entries. There were not many of them -- Grenmoor
-was a master; he ordered and others did -- but there were some, from the early years, before
-he had the rank to have others do it, and the last of them was nine years old. A cargo-mark, an
-offense written as *incitement*, and the correction: *drowned, east pen, by my own hand, as example*.
+The coat buys that heartbeat. The Captain spends it.
 
-Then he read Grenmoor that morning's order, which Grenmoor had also written down. *All pens. Top
-of the flood.*
+Machete across the throat. One stroke. Dunmore goes back against the spokes. The Captain sets his shoulder to the wheel over the body. Drives. The wheel groans. Rust flakes off the axle. The gate grinds shut on the sea. The green sheet thins. Stops.
 
-"You kept a better harbor than anyone else would have," the man said. "I believe you. That's why
-it has to be you."
+Nine more. They come at him. The wheel is all they have. The wall and the housing leave room for one at a time. He lets each one come.
 
-Grenmoor drew. He was no coward, and no poor swordsman. It made no difference to the sum. The man
-took the first cut on the plated back of his left glove, stepped inside the second before it was
-a cut at all, and put the machete into Grenmoor below the breastbone and up, and held him there on
-the drowning steps until he was finished, and then let him down onto the stone and closed the book.
+Plated fist to a breastbone, short, the hips behind it. Bone gives with a wet crack. The machete under a raised arm. A knee folds sideways. A wrist turns the wrong way. A throat.
 
-That was the last spike of the hour. I have it in the Dark Ledger with nothing beside it. Now it
-has a name.
+No speed in it. He stands where they must go. The stone tells him.
+
+The seventh carries a hook-knife. The hook opens the outside of the left forearm, wrist to elbow, through the coat's sleeve. Heat. Then wet. That is the climb in the pulse.
+
+The seventh dies.
+
+The Captain looks at the arm once. Thumbs a pouch from the belt. Presses it to the cut. A bitter reek of lye and tar. The compound bites and sets hard. One breath. Then the eighth.
+
+The ninth drops his crowbar. Drops his knife. Kneels on the wet stone, hands open.
+
+The Captain steps past him.
+
+The ninth lives.
+
+Nine jolts. The heart at rest through all but one.
 
 • • •
 
-He gave the book back to Mabry.
+East gallery. Torian reaches the housing first. His blood runs hot. He lays both palms on the iron. The water standing in the housing begins to tick, then to seethe, then to boil. Steam pours off the spokes. No hand can close on them.
 
-Mabry's name was in it once: a flogging, eleven years earlier, by his own hand. He had written
-every other entry in that book and done the thing he wrote down exactly once. The man had read
-that entry twice in the office, and moved on. The book needed a keeper. That was the whole of
-the reason, and he did not pretend it was mercy.
+Skarrow's men take the stair back up, scalded and cursing.
 
-"Keep writing," the man said. "Every name I read today. What they did. That they died, and who
-did it." He tapped the book's open page with one plated finger. "Under mine."
+The gates hold. The flood tops. Turns. The pens stand wet to the knee. No one in them drowns.
 
-Mabry wrote it. That book exists: the only full account of the Chain Harbor Massacre, in a dead
-man's ledger, by the one officer of its garrison who lived.
+That is the hour's first stroke. The rest is the yard.
 
 • • •
 
-Her name was Anirak. The crew would later call her Blades Fury. She had watched the whole thing --
-up out of the eastern passage when the gates held, her three at her back, her knuckles split open
-from the fetters, standing at the edge of the yard while he read the names, never once looking away.
+The garrison does not break. It falls back to the yard below the gatehouse and forms. Two hundred and twenty men with shields, spears, and hook-knives. They mean to retake the wheels. Then the pens.
 
-She had been killing too, before the fleet came, and never pretended otherwise. But she killed the
-way she does everything -- all the way in, each blow harder than the last until nothing is left in
-front of her. What she watched in that yard was the opposite. A man who stopped between every one.
-Who checked a book.
+Forty of the crew stand against them. The Captain at the center. Valen at his left. Torian at the gatehouse door.
 
-When it was done she crossed the yard to him, and he turned, and their eyes met.
+The yard: old stone, cracked with tide-damp. A flogging post at the center. A blood channel cut into the flags beneath it. Rust on the post's rings.
 
-Everyone who looks at her is caught. It is not a thing she does; it is a thing she is, the way
-heat is a thing Torian is, and she has never been able to tell how much of what anyone gave her
-was given and how much was taken. His attention snagged on her like anyone's. He noticed it go, and
-set it aside, the way he sets aside the stamped value of a debased note to see what the coin weighs.
+Rust.
 
-"Your eyes pull," he said. "I felt it. I've taken it out of the count." He looked at her hands,
-not her face. "What's left is that you were breaking those chains before anyone came."
+The Captain gives terms. Once. Through the collar the voice comes out low and coarse. Gravel in a drain.
 
-She said nobody had ever told her that before. That they felt it.
+"Sit. Weapons down. You live."
 
-"Then nobody's ever told you anything true about it," he said. "They put you in a harness to keep
-the blows from adding up."
+Some sit. Spears clatter on the flags. Forty men. Then sixty. They sit where they stand, hands on their knees.
 
-"It's the only thing they've ever done with me."
+No one touches them. Not that hour. Not after.
 
-"I'd build the opposite," he said. "Something that can take what you are all the way to the top
-and not break. I won't take any of it off you. I'd make something to hold it."
+The rest come.
 
-She asked what it would cost her.
+The line advances in a press. Shield-rim to shield-rim. The Captain walks into the center of it. A spear-point finds the coat's chest. It skids on the mesh beneath the leather. The shaft bows. A plated hand closes on the shaft and pulls. Its holder comes with it. Down.
 
-"Nothing you'd have to stop being," he said.
+Valen works the left, fast and quiet. Hilt to a temple. Edge across the back of a knee. Flat of the blade to a wrist. Men drop around him and stay down, breathing. He leaves them so. The Captain asked it of him on the boat.
 
-• • •
+Every man who reaches the Captain dies.
 
-That is the forge rhythm in the shoulders, and the three days without sleep.
+A shield-man drives in with his weight behind the boss. The Captain turns the boss with the cut forearm. The compound cracks. It holds. Machete into the armpit. Down.
 
-He took the garrison's own forge -- it had made the fetters for six pens; it was a good forge --
-and worked it for most of three days with Living Drakma from the fleet's stores. Two hook-swords
-on chains, keyed to her pulse, built to warm and tighten as her heart climbed instead of fighting
-it. A gorget set with crystal nodes that hummed below hearing, so anyone in front of her would
-misjudge where the chains were and feel the floor tilt without knowing why. And a mace whose
-head turned through three shapes at a twist of the wrist -- talons, lantern, opening crown --
-because a perimeter, he told her, needs more than one way to punish whoever crosses it.
+Two at once from the flanks, one spear and one hook. He steps inside the spear. The hook comes. The plated glove takes it. Iron on iron. A bright shriek. Fist to the throat. Then the spearman, still dragging his point back.
 
-She tested the hook-swords in the yard where he had read the names. The chains began to glow along
-their links, dull forge amber and then brighter, their sound in the air one continuous shriek,
-and nothing she did could make them fail.
+A spearman drops his spear mid-charge and sits. Knees on stone, three paces off. The Captain steps around him.
 
-That is where his heart lifted. Not during the hour. Not on the drowning steps. In the same yard,
-three days later, watching something he had made hold.
+A man runs for the outer gate. Out of the yard. Out of the fight. No one follows.
 
-Her three did not join the crew that week. They joined her. When Valen asked them plainly whose
-orders they would take, they looked at her before they answered. The man saw it and let it stand,
-and said nothing. He does that when he likes what he sees and does not want to make it smaller
-by naming it.
+The press thins. The press breaks. The ones still standing sit.
+
+Thirty-two come at him. Thirty-two fall.
 
 • • •
 
-Dark Ledger. Somewhere a little short of the eight-hundredth million second.
+Skarrow does not come at him. Skarrow breaks for the east stair.
 
-His heart at rest. Then the spike. More than forty, inside one hour, the pulse never leaving rest
-but once.
+Keys on his belt, a pry-bar in his fist. The housing has cooled in the turning tide. Steam gone, spokes bare.
 
-Reconciled. Dunmore and the men at the west wheel, but for the one who knelt. The names in the
-yard. Skarrow on the gatehouse steps. Edric Grenmoor on the drowning steps, last. The wound:
-a hook-knife, closed with a belt pouch, a scar along his left forearm.
+He takes the stair two steps at a stride. Reaches the wheel. Jams the bar between the spokes. Heaves.
 
-Against them: something over nine hundred people in six pens, wet to the knee, all of them breathing.
+The gate below grinds open a finger's width, then a hand's. The sea finds the gap. In the eastern pen, the slap of water on stone. Then the voices.
 
-The stories say Chain Harbor was a rage. I have the count, and there was no rage in it anywhere. It
-was a man reading a book aloud until he reached the end, and then closing it.
+Threat: one man. One wheel. Nine hundred below it.
 
-Memory is the receipt. Mabry kept it. Every name in it is right.
+Verdict: he is drowning them now.
+
+The Captain stands forty paces off. He stamps once. The boot drives into the flags. A shudder runs through the stone of the wall, up the stair, into the wheel's iron. Skarrow's feet go. He slides down three wet steps on his back.
+
+He gets up. Lunges for the bar again. Both hands on it. Heaves.
+
+The Captain reaches the stair. One stroke. Skarrow falls across the spokes. The Captain throws the wheel back. The gate shuts.
+
+Nothing is said to him.
+
+• • •
+
+Grenmoor does not hide. He waits on the drowning steps.
+
+The drowning steps run down the inner face of the wall to the eastern pen. Cargo marked for correction walks them to the water. The middle of each step is worn hollow by bare feet. At the foot stands the drowning gate. A small gate. A hand-bar.
+
+He has heard the yard. All of it.
+
+The Captain comes down to him. Stops three steps above.
+
+Grenmoor's hand leaves his sword-hilt. It closes on the hand-bar. He hauls. The bar lifts. The sea hisses at the seam.
+
+The Captain comes down the three steps.
+
+Grenmoor lets go of the bar. Draws, fast and clean. Twenty-two years of drill in the wrist. The first cut comes high. The Captain takes it on the back of the left glove. Sparks. The second cut never finishes. He is inside it. Machete below the breastbone, angled up. Held. Grenmoor's weight settles onto the blade. Then onto the stone.
+
+The Captain sets the bar back down. The seam closes.
+
+No word passes between them.
+
+Grenmoor kept a good harbor. Fewer losses than any port on that coast. A record of everything. A sound trade, by his reckoning.
+
+Rust.
+
+That is the last jolt of the hour. Forty-three.
+
+• • •
+
+The yard goes still. The sitting men sit. Valen's men lie where he left them, breathing. The flood ebbs off the pens.
+
+The Captain climbs to the office.
+
+Mabry is there. The lieutenant who keeps the book. He stands before the stand with a sword he has never drawn in anger. The point shakes. He did not come down the stair.
+
+The Captain takes the book off the stand. Turns the pages. All of them. Twenty-two years. He says nothing.
+
+He holds it out.
+
+Mabry sets the sword on the desk. Takes the book.
+
+"Keep writing."
+
+Mabry looks up.
+
+"Every name. Mine with them."
+
+Mabry writes. Ink and a scratching nib. Wind off the water at the shutter. The Captain stands over him through every line. Nine names from the west gallery. Thirty-two from the yard. Skarrow. Grenmoor. Beside each, the hand that did it. One name, forty-three times.
+
+That book survives. The only full account of Chain Harbor. In the garrison's own hand.
+
+• • •
+
+The blade sets Mabry's new page beside the old ones.
+
+Every man who died in that yard has his name in the book. Skarrow's name is there. Grenmoor's. Dunmore and his eight from the west wheel, all of them. Floggings, brands, drownings. The same names, page after page, across twenty-two years. In any garrison the same few hands volunteer. Those hands took the wheels. Those hands charged.
+
+No man who is not in the book died.
+
+The men with nothing written against them sat down.
+
+Mabry's name stands in the book once. A flogging, eleven years old, by his own hand. He did not come down the stair. He keeps the book now.
+
+The Captain never opened the book before the yard. The book sorted them all the same.
+
+Iron.
+
+• • •
+
+She watches all of it.
+
+Up from the eastern passage once the gates hold. Her three at her back. Knuckles split to the bone from the fetters. She stands at the yard's edge. She does not look away.
+
+When the yard goes still she crosses it.
+
+Her eyes are violet. Lit from within. Every face in the yard turns to her and stays turned. The sitting garrison. The crew. Valen, for a breath. The pull lands in all of them. It lands in her too, from the far side. She cannot tell what anyone gives her from what her eyes take.
+
+The pull reaches the Captain. His attention snags on her. He feels it go. He sets it aside, the way he sets aside the stamp on a debased note to weigh the coin. He looks at her hands.
+
+"Your eyes pull. Felt it. Struck it from the count."
+
+She waits.
+
+"Your hands broke those chains. Before we came."
+
+"They harnessed me. So the blows wouldn't stack."
+
+"I'll build the opposite."
+
+"Cost?"
+
+"Nothing you stop being."
+
+Her name is Anirak. The crew will call her Blades Fury.
+
+• • •
+
+The garrison's forge made the fetters for six pens. It is a good forge. A heavy anvil and a deep hearth. Oxhide bellows, cracked at the seams. The Captain patches the bellows first.
+
+Then seventy hours.
+
+Living Drakma from the fleet's stores. It glows sullen on the anvil. It rings high under the hammer. Coal-reek and quench-steam fill the shed. The cut forearm stiffens. He works it anyway.
+
+Two hook-swords on chains. He sets two fingers to her wrist and takes her pulse. Again after she runs the yard's length. The links come out of the quench keyed to that beat. When her heart climbs, they warm. They draw tight.
+
+A gorget for her throat. Crystal nodes set in the band. Built to carry what her own throat already did. She speaks low and the nodes take up the sound. A hum below hearing. It sits in the chest. Floors tilt. Distances lie. Her voice does the work. The gorget carries it farther.
+
+A mace. Its head turns through three shapes at a twist of the wrist. Talons, lantern, crown.
+
+She tests the hook-swords in the yard. The chains warm along the links. Dull amber. Then brighter. The air screams with them, one long note. She drives them harder. Harder. They hold.
+
+The Captain watches from the forge door. Forearm wrapped. Shoulders aching in the bellows rhythm.
+
+There the heart lifts. Once.
+
+• • •
+
+Her three do not join the crew. They join her.
+
+Valen asks them whose orders they take. They look at her before they answer.
+
+The Captain sees it. Lets it stand. Says nothing.
+
+Iron.
+
+• • •
+
+Dark Ledger. 791,942,400 seconds. Reconciled.
+
+Forty-three jolts. Dunmore and eight at the west wheel. The ninth knelt and lived. Thirty-two in the yard, every one of them coming at him. Skarrow on the east stair, both hands on the bar. Grenmoor on the drowning steps, his sword drawn first.
+
+The climb in the pulse: a hook-knife. The outside of the left forearm, wrist to elbow. Closed with a belt pouch. The scar stands there still.
+
+Two hundred and fifty-two thousand seconds without sleep: the garrison forge. The shoulder rhythm: bellows and hammer.
+
+The heart lifting: a woman in a yard, swinging chains that held.
+
+Against the forty-three: nine hundred and twelve in six pens. Wet to the knee. Breathing.
+
+Every man who died in that yard is in the book. No man who is not in the book died.
+
+The stories call Chain Harbor a rage. Rust. The heart sat at rest through all of it.
+
+Mercy is earned. Memory is the receipt. Mabry keeps the receipt.
+
+The blade records.
 
 ---
 
-*Continuity notes (not narrative): dramatizes `MCD-251` directly -- Anirak found mid-mutiny,
-already freeing captive Cestari by hand when the fleet arrived; recruited by Kanja's offer to
-build weapons for her biology rather than suppress it; the Twin Fangs, Siren's Voice, and Triform
-Morning Star forged at Chain Harbor (`ARS-130`/`ARS-411`, mechanics per `ARS-367`/`ARS-411`,
-described in-world without naming them). The "massacre" is read as the slave garrison's dead,
-chosen individually by name from the garrison's own punishment ledger -- a cold, costed, ledgered
-choice per `CC-161`, the drowning order supplying the ratio that made death the only answer
-inside the flood's half hour. Marquee kill per `MCD-1881`: named victim (Edric Grenmoor) and
-named lieutenants (Dunmore, Skarrow), with Mabry -- whose name is in the book once but never read
-aloud -- spared explicitly as the record's keeper, "not mercy," and the kneeling man at the west
-wheel spared before the book was opened. The yard killings are given an explicit ratio (removing
-the garrison's habitual volunteers so the practice does not travel to the next harbor) to keep
-them inside `CC-161`'s costed-default frame rather than reading as pure retribution. Nothing
-reads as the "urge to destroy his enemies," which stays reserved for Book 1. Narrated by Onyx
-in first person, retrospectively (`VB-062`), openly acknowledging it was sealed at L9 (`CC-012`,
-`MCD-246`); opens and closes on a Dark Ledger entry (`ARS-437`) carrying only body signals -- kill
-spikes, one wound, sleeplessness, forge strain, a single heart-lift -- with causes reconstructed
-from the restored channel at the grip, the reunion itself never dramatized. The seconds-count ("a
-little short of the eight-hundredth million second") is deliberately approximate for twenty-five
-years past the Pier, implying no fixed year length. Onyx never names the Density Spike (`VB-021`);
-its Iron/Rust register and maxim are used sparingly. Gear at age 55, post-Mafesto only: Forge-Coat
-V2 (ages 40-80, sea-leather over Dead Drakma wire mesh, armored high collar, `ARS-347`); Breath
-Collar's command voice (integrated since age 40, `ARS-351`); Sovereign Eyes V1 (from age 33, the
-unintended phosphor glow; the amber calibration is V2 at age 60, so the glow is described as a dull amber, matching the locked Pirate Dawn corpus (`MCD-381`) and Chronicle VI,
-`ARS-350`); Ironhand Gauntlets V1 (riveted plate gloves, from age 35, `ARS-352`); Ironfall Boots'
-stomp tremor (`ARS-353`; the heel blade deliberately not used); Mend-Line V1 (hand-applied belt
-pouches, from age 50, `ARS-355`); the Rexmar Machete carried at the belt (`ARS-260`/`ARS-425`);
-the Talisman of Mao (`MCD-060`). The Smoke System is not used; no Mafesto, Obsidian Malice, or
-Onyx appears in any scene. Crew: Valen (present by age 40 per `MCD-248`; his length of service
-is deliberately left unstated to avoid taking a side in the open `ARS-344`/`MCD-248` join-date
-question); Torian/Bloodreaver (recruited age 33, `MCD-247`), his heat used against the east
-wheel per the crew's "fight the environment" doctrine (`MCD-250`); Anansi's lattice mentioned
-only as the source of the interdiction plan (`MCD-248`). Garren Hask, Efa Gol, and Pell Ostra
-deliberately absent. Anirak's prior facility left implicit as the Maw circuit; Maw-11 is her
-locked former facility (`MCD-264`), freed much later at age 140, and nothing here contradicts it.
-Her Maw-raising "since she was twelve" is restated from `MCD-251`; her current age is never stated.
-Her Siren gaze is handled as always-on attention-capture she cannot distinguish from real attention
-(`CC-112`), with Kanja naming and discounting its pull -- an interpretive choice that makes
-the recruitment rest on that honesty. Her three freed companions are planted as the seed of her
-four-person unit's loyalty to her rather than to Kanja (`MCD-251`), without naming them or claiming
-the unit's formal establishment. The "Maw-raised fighter... damping harness" detail is invented
-texture consistent with her Kinetic-Stack/Fury biology (`CC-122`, `ARS-367`). Southern Sweep era
-(ages 50-70, `MCD-255`) and black-sail crescent formation (`MCD-250`) used as period setting only.
-Haku's fate, the Fulfillment Ceremony, Maro Rexmar, and the Pi-Awakening are untouched.
-Naming: "Grenmoor" and "Mabry" replace the assigned pool names "Ostrand" and "Brecken," which
+*Continuity notes (not narrative): dramatizes `MCD-251` directly -- Anirak found mid-mutiny, already
+freeing captive Cestari by hand in the eastern passage when the fleet arrived, three freed prisoners
+holding the passage at her back; recruited by the Captain's offer to build weapons for her biology
+instead of suppressing it; the Twin Fangs (hook-swords on chains keyed to her pulse), the Siren's Voice
+(a crystal-noded gorget that carries her own voice's hum, so its effect works with her voice instead of
+being a separate power), and the Triform Morning Star (talons/lantern/crown) forged in the garrison's
+own forge over seventy waking hours (`ARS-130`/`ARS-411`, mechanics per `ARS-367`/`ARS-411`, shown
+through sensation without naming them). Her three follow her, not the crew -- the seed of her four-person
+unit's lieutenant-level loyalty (`MCD-251`), without naming them or claiming the unit's formal
+establishment. Rulings applied: `CC-161` as amended Batches 355-356 -- every one of the forty-three
+kills is a necessity kill in the act: Dunmore and eight men turning the west wheel against nine hundred
+and twelve prisoners; thirty-two garrison men who came at the Captain in the yard after terms were
+stated once ("Sit. Weapons down. You live."); Skarrow with both hands on the east wheel's bar, reopening
+the gate, after the boot tremor first threw him down the wheel stair; Grenmoor at the drowning gate's
+hand-bar, then drawing first. Surrenders honored throughout: the ninth man at the west wheel kneels and
+lives, every man who sits in the yard is never touched, a spearman who sits mid-charge is stepped around,
+a man fleeing the yard is not followed, Valen leaves his men breathing. The Captain never reads names
+aloud, never reads anyone their record, never pronounces a verdict, and says nothing to Skarrow or
+Grenmoor. The correction book enters only after the yard is quiet: he turns its pages silently in the
+office and hands it to Mabry ("Keep writing. Every name. Mine with them."), standing over him while the
+forty-three are entered. The verdict belongs to Onyx afterward: every man who died in the yard is in the
+book, no man outside the book died, the book's habitual volunteers being the hands that took the wheels
+and charged. Mabry (his name in the book once, a flogging; never came down the stair) is spared as the
+book's keeper. `MCD-1882`: age 55 sits after the Pirate Dawn's opening at 48, outside the no-kill window.
+Marquee kill per `MCD-1881`: named victim Edric Grenmoor plus named lieutenants Dunmore and Skarrow.
+Nothing reads as the "urge to destroy his enemies," reserved for Book 1. Voice per `VB-063`: Onyx as
+"the blade," never "I"; Kanja only "the Captain" in narration; present-tense account inside a past-tense
+Dark Ledger frame; exact seconds-count 791,942,400 (twenty-five years and forty-one days past the
+Sovereign Pier treaty on a 365-day year); "jolt" for the Heartline's kill signal (`ARS-437`, word
+"spike" banned); body signals only in the entry -- forty-three kill jolts in one hour with the heart at
+rest throughout but one sharp climb (the wound), 252,000 seconds without sleep, a forge rhythm in the
+shoulders, one heart-lift near the end -- each reconciled at the close. The reunion appears in one line
+only. Onyx never names the Density Spike (`VB-021`); the maxim is used once. Gear at age 55, post-Mafesto
+only: Forge-Coat V2 (sea-leather over Dead Drakma wire mesh, high armored collar, `ARS-347`); Breath
+Collar's coarsened command voice (`ARS-351`); Sovereign Eyes V1 (copper-framed, the unintended phosphor
+glow described as dull amber, matching the Pirate Dawn corpus, `MCD-381`, `ARS-350`); Ironhand
+Gauntlets V1 (riveted plate gloves, `ARS-352`); Ironfall Boots' stomp tremor (`ARS-353`, heel blade not
+used); Mend-Line V1 (hand-applied belt pouch, lye-and-tar reek, `ARS-355`); the Rexmar Machete at the
+belt (`ARS-260`/`ARS-425`); the Talisman of Mao in the bone (`MCD-060`), unused. The Smoke System is not
+used; no Mafesto, Obsidian Malice, or Onyx appears in any scene. Crew: Valen (present by age 40 per
+`MCD-248`; length of service left unstated to avoid the open `ARS-344`/`MCD-248` join-date question);
+Torian/Bloodreaver (recruited age 33, `MCD-247`), his heat boiling the east wheel housing per the crew's
+"fight the environment" doctrine (`MCD-250`), the housing cooling in the turning tide before Skarrow's
+attempt; Anansi's lattice only as the source of the interdiction plan (`MCD-248`). Garren Hask, Efa Gol,
+and Pell Ostra deliberately absent. Anirak's prior facility left implicit as the Maw circuit; Maw-11
+(`MCD-264`, freed at age 140) is not contradicted. Her Maw-raising "since twelve" is restated from
+`MCD-251`; her current age is never stated. Her Siren gaze is always-on attention-capture she cannot
+tell from real attention (`CC-112`); the Captain names the pull, strikes it from his count, and looks at
+her hands. Exact figures chosen for the blade's count: nine hundred and twelve prisoners in six pens; a
+garrison of two hundred and thirty; twenty-six minutes to the top of the flood; forty crew ashore.
+Southern Sweep era (ages 50-70, `MCD-255`) and black-sail crescent formation (`MCD-250`) used as
+period setting only. Haku's fate, the Fulfillment Ceremony, Maro Rexmar, and the Pi-Awakening are
+untouched. Naming: "Grenmoor" and "Mabry" replace the assigned pool names "Ostrand" and "Brecken," which
 near-collide with the already-locked crew names Pell Ostra and Callum Breck (the Yao/Yaw precedent,
 Batch 337); "Skarrow" is kept from the pool but sits near Ser Dravot Skarne and is flagged.*
