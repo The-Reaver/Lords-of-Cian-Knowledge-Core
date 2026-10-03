@@ -11,7 +11,7 @@ already-locked mechanics: `MCD-251`, `CC-112`-`114`, `CC-122`, `ARS-130`, `ARS-3
 ## Foundations: three gaps closed first
 
 **ARS-438 (new).** The Siren's Voice: her body and her gorget. This reconciles `ARS-367` ("baseline
-capability") with `MCD-251`/`ARS-130` ("forged at Chain Harbor").
+capability") with `MCD-251`/`MCD-1883` ("forged at Chain Harbor").
 
 The Siren's Voice is Anirak's own biology: a sub-audible neuroacoustic hum her throat produces. The
 Siren Gorget, forged at Chain Harbor (`MCD-1883`), carries it farther and shapes it. Its crystal nodes take up
@@ -32,7 +32,7 @@ how she runs that frame without a pause. Every strike's recoil is fed into the n
 chains never come to rest.
 
 Her two locked scales are one system:
-- **Stack** is the fuel. It counts consecutive landed strikes (`MCD-251`, `ARS-411`) and absorbed impacts (`ARS-367`). It sets the Fangs' reach, about 3 meters at low Stack and 6 at high.
+- **Stack** is the fuel. It counts consecutive landed strikes (`MCD-251`) and absorbed impacts (`ARS-367`). It sets the Fangs' reach, about 3 meters at low Stack and 6 at high.
 - **Fury** is the engine. It is her heart rate (`ARS-368`). Rising Stack drives her heart rate up,
   and a rising heart rate heats the pulse-keyed Fangs (`MCD-1883`) and moves her from Warm toward
   White.
@@ -54,8 +54,8 @@ momentum and turns it into the start of her next strike, adding it to her Stack.
 takes is a debt she has absorbed (impact is fuel, `ARS-367`), and Debt Collection is how she pays it
 back with interest.
 
-The name is Maw language. She was Maw-raised (`MCD-251`) and sold out of the circuit (`MCD-1883`) by a system that set every
-fighter's freedom at a debt ratio built to be unreachable (`MAW-079`), and she turned its vocabulary into a fighting style. Every combination below that pulls
+The name is Maw language. She was Maw-raised (`MCD-251`) and sold out of the circuit (`MCD-1883`) by a circuit that priced its
+fighters' freedom at a ratio set above any ordinary career's return (`MAW-079`), and she turned its vocabulary into a fighting style. Every combination below that pulls
 is a form of Debt Collection.
 
 ---
@@ -85,8 +85,8 @@ apply to Flood State). These are the whole of her craft across the Long Mask and
 
 **ARS-442 (new).** Hot-state combinations, Book 3 onward only. No pre-Book-3 material may show her
 at Hot or above (`ARS-370`). Her reaction time narrows and the Voice and her gaze begin to fire
-together on their own. In Books 3-4 her Hot and White engagements are fought out of the water, so
-her hot chains have no sea to sound; the active sonar (`ARS-371`) first fires undersea in Book 5.
+together on their own. In Books 3-4 her Hot and White engagements are fought inland, beyond reach of
+open sea, so her hot chains have no sea to sound; the active sonar (`ARS-371`) first fires undersea in Book 5.
 - **The Double Take.** The involuntary sync lands the Voice's vertigo and her gaze's
   attention-capture in the same instant, so an opponent loses his footing in the same instant his attention is caught. Her Fangs take the moment. The first time, in Book 3, it unsettles her briefly, because her
   own body acted without her (`ARS-370`); after that she learns to take the moment.
@@ -98,11 +98,13 @@ her hot chains have no sea to sound; the active sonar (`ARS-371`) first fires un
 control is reduced, the Fangs run near forge heat, and the Voice and her gaze fire together every
 time. Her shapes get bigger and more committed.
 - **Called Debt.** Both Fangs wrap one opponent and she pulls the two chains against each other,
-  twisting his frame in torsion until one point in it gives. It is the White-state
-  breaker for a single hard target.
+  twisting his frame in torsion until one point in it gives. The torsion is released before any
+  three-second hold, so it stays distinct from the Flood-State thermal failure point (`ARS-372`). It is
+  the White-state breaker for a single hard target.
 - **The Long Note.** The chains have sung one long note at speed since the Chain Harbor yard (`MCD-1883`).
-  At White, at near-forge heat, she fuses that note with the Voice's hum into one wall of sound, and the
-  enemies inside it lose balance, distance, and direction at the same moment.
+  At White, at near-forge heat, she fuses that note with the Voice's hum into one wall of sound within her
+  Fang reach, and the enemies inside it lose balance, distance, and direction at the same moment. The
+  locked cone figures stand.
 
 **ARS-444 (new).** Flood State has no named combinations. It happens only on the Book 5 Tide Line
 (`ARS-368`/`369`/`373`, `MCD-1889`), and there her techniques survive only as instinct, never as
@@ -143,11 +145,13 @@ Book 5 (`ARS-371`).
   target is pulled twice, from two directions, by two different physics.
 - **Mark and Collect (with Voidbreaker).** He embeds a Void-Marker dart behind the target and folds to
   it (`ARS-419`), and his displacement-strike staggers the target forward into her Fang radius. She
-  holds the Voice until he has folded, so it does not spoil the exact position his strike needs.
+  holds the Voice until his strike lands and he folds back out to a dart off her cone's line, so the
+  Voice never catches him or spoils the exact position his strike needs.
 - **Two Storms (with Zora).** Zora's Scream is a 5-meter sonic-boom cone that ruptures eardrums and
   breaks balance (`ARS-420`). The cone throws outward from the point of impact, and inside it
   Anirak's own acoustic sea-sense (`ARS-367`) would be deafened, so Zora strikes from Anirak's side
-  of the target, throwing the cone away from her, and only after the Fangs have pulled clear. The order is fixed: the Voice
+  of the target, throwing the cone away from her, and only after the Fangs have pulled clear. Zora steps in only after the Voice pulse has passed, so
+  she is never in the cone when it fires. The order is fixed: the Voice
   goes first, so its vertigo has the target off-balance before the Scream lands, and no one can
   brace against the second hit. The crew drills the order until it is instinct.
 - **The Eastern Passage (with Edda, Hamund, and Odile).** This is the formation from Chain Harbor,
@@ -174,10 +178,15 @@ Book 5 (`ARS-371`).
   - water carrying the gorget's cone at full strength
   - rising Stack driving her heart rate up
   - Stack draining under stillness
-  - Voice-before-Scream sequencing, with Zora outside the Fang radius
-    - before Book 3 she fights at Warm only (an implication of `ARS-370`, made explicit), every
+  - Voice-before-Scream sequencing, with Zora striking from Anirak's side after the Fangs pull clear
+    and the Voice pulse has passed
+  - before Book 3 she fights at Warm only (an implication of `ARS-370`, made explicit), every
     engagement ending or broken off before Hot
-  - Books 3-4 Hot/White engagements fought out of the water, so active sonar first fires in Book 5
+  - Books 3-4 Hot/White engagements fought inland, beyond reach of open sea, so active sonar first
+    fires in Book 5
+  - absorbed impacts counting toward Stack
+  - Ren's field load falling on her if she stays inside it
+  - the Long Note: the chain note fused with the Voice's hum within her Fang reach, at White
   - her carry: Fangs chained at the forearm, the Morning Star across her back
   - the Black-Water Lantern's strobe blinding anything that hunts by sight
 - **Names:** all collision-checked clean. "The Eastern Passage" deliberately reuses the Chain Harbor
