@@ -284,3 +284,6 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
   confirmed zero collisions against the live ledger and each other. Files at
   `docs/lords-of-cian/chronicles/ozmund-chronicle-li-*.md` through `ozmund-chronicle-cxx-*.md`.
   **Ozmund's series now stands at 120 Chronicles total — 20 entries per strand across all six strands.**
+- **CXXI — "The Night the Dike Held"** (`MCD-1886`). Ozmund's single pre-Ceremony marquee kill under
+  `MCD-1881`: Marek Draye at the Lowmere dike, unwitnessed by Draconis, the first entry written to the
+  Voice Bible's Narrator 2 sheet (Red Beard). Batch 360. **Series now stands at 121 Chronicles.**

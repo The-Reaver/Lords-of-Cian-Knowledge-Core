@@ -1,6 +1,6 @@
 # The Night the Dike Held
 
-*UNLOCKED -- pending Abad's approval. Draft, 2026-10-03, proposed `MCD-1886`. Character Chronicle
+*Locked canon, Batch 360, 2026-10-03 (`MCD-1886`). Abad's approval: "as long as it makes sense I approve." Character Chronicle
 track, Ozmund Verehimu's series, Chronicle CXXI. Ozmund's single marquee kill under `MCD-1881`:
 strictly pre-Fulfillment-Ceremony (`MCD-025`), the only one, unwitnessed by Colonel Viktor Draconis
 (`CC-085`). Narrated by Red Beard (Tarn Cestari) per `VB-020`/`022`/`CC-020`, written to the Voice

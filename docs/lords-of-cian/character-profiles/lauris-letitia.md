@@ -1,8 +1,8 @@
 # Lauris Letitia — Profile & Game Plan
 
-**Status:** profile in discussion (backfill) -- Sections 2-3 PROPOSED 2026-10-03, awaiting Abad's review
+**Status:** game plan approved (backfill), 2026-10-03
 **Track:** Character Chronicle (Tier 1)
-**Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
+**Gate cleared:** YES, 2026-10-03. Chronicle prose may be drafted; every draft is still presented in full and locked only on Abad's explicit approval.
 
 This file is the standing gate artifact for this character, per the Character Chronicle Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
@@ -492,7 +492,13 @@ genuinely open, it is flagged as open rather than answered.
      rule directly and sets it aside "in this account only." See the voice findings below; this is
      a narrator question as much as a character one.
 
-**Abad's ruling, verbatim, once given:**
+**Abad's ruling, verbatim:** "as long as it makes sense I approve" (2026-10-03, given on the full
+Sections 2-3 proposal). Section 2 is closed as drafted, with the open questions settled the way the
+draft recommended: the core wound is the making (Ch. VI), with lateness as its recurring face; the
+self-sampling question (Ch. XCVI) stays unconfirmed; and Fermand's warmth toward her is handled by
+the voice decision in Section 3. One question needs its own rule before it binds: her present-day
+kill register. Proposed as `CC-162` (necessity kills only after the Defection), drafted alongside
+Chronicle CX and pending its own lock.
 
 ---
 
@@ -642,7 +648,15 @@ genuinely open, it is flagged as open rather than answered.
   - *Companion note, not a fourth pitch:* if candidate 1 is chosen, the wave's Strand W entry is a
     natural place for Valen ("the Other Patience," `MCD-206`) to spar with her afterward and notice,
     without either of them naming it, whether the joy came back intact.
-- **Abad's pick / direction:**
+- **Abad's pick / direction:** "as long as it makes sense I approve" (2026-10-03). Applied as:
+  candidate 1, "The Instruments Read an Empty Room," drafted as Chronicle CX in Strand L. The
+  CP-609 reach is the one sanctioned partial discharge of a Strand L thread: CP-609 runs from
+  Lauris too, and Hesketh's ledgers widen "you will not be the last," so the thread stays open.
+  Voice: Fermand's first-person transcriber frame and `CC-034`'s register stand for this series
+  (all 109 existing entries kept as written). New entries are held to the Voice Bible's hard
+  constraints: no antithesis, no contractions in narration, no banned words, violence rendered in
+  the Narrator 4 autopsy register. Proposed as `VB-064`, pending its own lock alongside CX.
+  Candidates 2 and 3 stay queued.
 
 ---
 

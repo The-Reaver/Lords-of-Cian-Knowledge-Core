@@ -1,6 +1,6 @@
 # Daba Chronicle LIX: The Count at the Bottom of the Stair
 
-*UNLOCKED -- pending Abad's approval. Draft, 2026-10-03, proposed `MCD-1887`. Daba Chronicle LIX.
+*Locked canon, Batch 360, 2026-10-03 (`MCD-1887`). Abad's approval: "as long as it makes sense I approve." Daba Chronicle LIX.
 Close-third on Daba, no dedicated narrator, matching the series' established convention, written to
 the Voice Bible's hard constraints (no antithesis, no banned words, sensory detail before named
 emotion, Spartan dialogue). Daba's marquee kill under `MCD-1881`, and the "at most one personal

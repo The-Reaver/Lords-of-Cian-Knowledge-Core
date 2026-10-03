@@ -4101,6 +4101,29 @@ eight Storm That Walks entries (`MCD-562`/`565`/`568`/`571`/`574`/`577`/`583`/`5
 Rebellion-era, pre-sealing (no gear change needed). Every Kanja-version entry now passes the gated
 voice check for its phase. Ledger at `ledger_version` 36.1, 2,662 rules, 359 batches.
 
+## The anchor-hero marquee-kill wave: Ozmund, Daba, Lauris, Batch 360, 2026-10-03
+
+Abad asked for "the Ozmund, Lauris and Daba wave," the next marquee kills under `MCD-1881`. Ozmund
+and Daba were gate-cleared; Lauris's gate had never closed (her Sections 2-3 were blank despite 109
+Chronicles), so a background agent drafted her Psychological Profile and Game Plan as proposals
+first. **Batch 360 (`MCD-1886`, `MCD-1887`)** locked **Ozmund Chronicle CXXI, "The Night the Dike
+Held"** -- his single pre-Ceremony kill, Marek Draye (a Branded deserter extorting the fen hamlet of
+Lowmere) killed with one open hand while levering a dike's sluice chain toward a breach, unwitnessed
+by Draconis, legend "the night the dike held itself"; the first Ozmund entry written to the Voice
+Bible's Red Beard sheet -- and **Daba Chronicle LIX, "The Count at the Bottom of the Stair"** -- his
+one permitted personal kill, Captain Edran Brannick killed at a stair-foot as he moves a lit match to
+a charge under twenty-two people, the Rookery link surfacing only afterward from his own service book
+("Rookery. Correction. Stairs first. Complete."), unattributed per `MCD-1569`. Abad's approval: "as
+long as it makes sense I approve." The same words were applied to Lauris's Sections 2-3: her gate is
+now cleared (core wound the making, lateness its recurring face; candidate 1 picked), and **Lauris
+Chronicle CX, "The Instruments Read an Empty Room"** (Warden Ilmar Hesketh of the Cairnholt Intake,
+killed at a flooding wheel; CP-609 runs) is drafted as an unlocked draft, alongside two proposed rules
+that also await lock: `VB-064` (Fermand's first-person transcriber frame and `CC-034` register stand,
+existing 109 entries kept as written, new entries held to the hard constraints) and `CC-162` (Lauris's
+post-Defection kill register: necessity only). Flagged and not yet acted on: 44 of Ozmund's 120 older
+Chronicles name the Spike in prose and run looser than Red Beard's sheet; Lauris's corpus carries ~315
+antithesis constructions. Ledger at `ledger_version` 36.2, 2,664 rules, 360 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

@@ -493,3 +493,7 @@ batch number.
   (`CC-147`/`MCD-1855`), dramatized for the first time. Batch 350.
 - **LVIII — "What the Debt Paper Led To"** (`MCD-1879`). Vex Thurlow's capture and handover by
   1804 (`CC-153`/`MCD-1861`), dramatized for the first time. Batch 350.
+- **LIX — "The Count at the Bottom of the Stair"** (`MCD-1887`). Daba's marquee kill under
+  `MCD-1881` and his one permitted personal kill: Captain Edran Brannick at the Fenwold stair, a
+  necessity kill whose Rookery connection surfaces only afterward from the dead man's service book.
+  Batch 360.
