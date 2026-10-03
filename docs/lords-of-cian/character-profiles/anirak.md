@@ -628,7 +628,8 @@ match after three rounds of independent review.
     fought at Warm, so the fight is short.
   - **Attribution.** Her legend is public and runs under her epithet, "Blades Fury." Public rumor
     carries the epithet. Her name stays out of public telling, held only by the crew, the circuit's
-    own records, and those who once held her. That is the opposite of Daba's
+    own records, those who once held her, and the SBD, whose permanent files carry her under code
+    designations (`CC-122`, `SBD-052`). That is the opposite of Daba's
     unattributed register. The epithet is undated in canon ("later Blades Fury," `MCD-251`), so this
     also sets it in public use by Kanja 140. (Both are new facts, flagged here for Abad's ruling,
     not assumed.)
@@ -650,13 +651,13 @@ match after three rounds of independent review.
   - **What breaks her.** Losing one of her three is never drafted without Abad's direct call.
   - **Her origin's open questions.** Who owed the debt, whether her community was Vael Kem, and which
     brand she carries (`CC-163`).
-  - **The Siren on the undead.** Its failure against the undead is locked (`ARS-373`, `ARS-438`).
-    As a constraint of this Game Plan, not a locked fact, the launch wave does not show it.
+  - **The undead.** The Siren's Voice fails against the undead (`ARS-373`, `ARS-438`). Whether her
+    gaze does is open (finding 16). As a constraint of this Game Plan, the launch wave shows neither.
   - **Her age.** It is never stated (`MCD-1883`).
 - **Chronicle I candidates** (PROPOSED, for Abad to pick from or redirect):
   1. **The body the world was not built for.** Ren surfaced at sixteen with a field his settlement
-     could not hold (`CC-101`). He comes aboard an adult, already recruited, and his recruitment by
-     Sephtis stays off-page (`CC-101`). Nobody can stand near him. Deck planks groan inside his radius, and the crew gives him room. She walks into his
+     could not hold (`CC-101`). He comes aboard an adult, already recruited by Sephtis (`CC-101`),
+     and the recruitment stays off-page. Nobody can stand near him. Deck planks groan inside his radius, and the crew gives him room. She walks into his
      field, and its load falls on her too (`ARS-446`). Someone looks at her and is not pulled,
      the one known exception (`CC-112`). She takes him as her charge unasked. This dramatizes the undated
      origin of their pairing (`CC-114`).
@@ -665,6 +666,12 @@ match after three rounds of independent review.
        only his surfacing. His age when recruited is not locked and the pitch does not state it.
      - Guards: her three stay outside his radius, since that payoff is reserved. Neither of them
        asks about the other's origin, which keeps `CC-163`'s Vael Kem question open.
+     - **Open question for Abad, flagged:** `MCD-982` has Sephtis stage his own death during the
+       Long Mask, believed by the whole lineage, and its date is not locked. If the staged death
+       comes before Ren's recruitment, the fleet buried the man who recruited him. Options: (a) Sephtis
+       recruits Ren under his disguise and Ren never connects the two; (b) Kanja is told the truth;
+       (c) the staged death is dated after Ren boards. Recommended: (a). It keeps `MCD-982`'s secret
+       intact, and his disguise "elsewhere during the Long Mask" is already locked.
   2. **What Maw-11 kept.** Kanja age 140, the Maw Cascade's inside job (`MCD-264`): Ghostwind
      infiltrates, and a Hymn-Engine counter-frequency device does its work.
      Maw-11 is her former facility, so she knows its passages and maps Ghostwind's route. She cannot
@@ -680,8 +687,8 @@ match after three rounds of independent review.
      - Guard: no debtor, brand, or birth community is named or implied. Her origin's open questions
        stay closed to this entry.
      - The victim's name is collision-checked at drafting.
-  3. **The second harness.** A Sealbound Directorate containment unit comes to take a captive of
-     its own, and it carries a damping rig built against Stack in case she intervenes, a harness made
+  3. **The second harness.** A Sealbound Directorate retrieval detachment, the class `SBD-050` sets
+     for subject recovery, comes to take a captive of its own, and it carries a damping rig built against Stack in case she intervenes, a harness made
      for her. It closes on her mid-fight, and her three hold the line
      while she breaks it, as they held the eastern passage. Her core wound is restaged. She breaks the
      rig. The unit withdraws with the captive it came to take, and that person
@@ -692,7 +699,7 @@ match after three rounds of independent review.
      - Era: mid-Long Mask, after Maw-11 (Kanja 140) and before Ren comes aboard.
      - New fact, flagged: an SBD anti-Stack rig whose design survives. It stays an open thread,
        with no future use reserved or implied.
-     - The unit's identity is collision-checked against the `SBD-` detachments at drafting.
+     - The detachment's identity is collision-checked against the `SBD-` detachments at drafting.
   - **Recommendation:** run all three as one wave, in chronological order: 2, then 3, then 1, so
     the numerals follow her life. Pitch 2 opens because it is a locked event that leaves her part in
     it open, it gives her first marquee kill, and it returns her to the place that held her. Pitch 1,
