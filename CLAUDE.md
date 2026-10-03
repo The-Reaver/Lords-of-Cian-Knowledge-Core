@@ -4181,6 +4181,27 @@ third non-negotiable rule (top of this file), and `scripts/connective_tissue_che
 mechanical half. Gate files are opening for Anirak, Pyro, and the Triad Guardians, which are both
 priority launches. Ledger at `ledger_version` 36.4, 2,667 rules, 362 batches.
 
+**Batch 363, hard-constraint corrections.** A full audit of all 1,505 Chronicle files covered
+narrative prose only (header and continuity notes skipped). It found the Voice Bible's hard
+constraints broken in 48 files, and 65 mechanical edits were applied with no new facts:
+- 22 places in Ozmund's track that name the Density Spike, now "the density in his blood" or "the
+  density in him"
+- 7 lowercase "spike" uses
+- 21 banned words (the Iron Bastard priest arc's "god" is now "the one they prayed to")
+- one "arena"
+- one rule ID leaked into prose
+- era-impossible tech (engines on sailing ships, steam drive, sonar, a gun turret, three
+  photographs turned to sketches per `MCD-258`, homage-world newspapers turned to broadsheets per
+  `PH2-049`)
+- five self-referential "Chronicle" uses
+
+Held for Abad's ruling: the manuscript's own "spike" uses in Chronicle III, whether `PH2-049`'s
+"pre-industrial" binds mainline Cian (the manuscript has artillery, Crawlers, and cruisers), and
+`MCD-1535`'s photographs. Rules Walkthroughs are now drafted for Anirak (21 rules, 20 findings),
+Pyro (61 rules, 20 findings, no Chronicle mentions him), and the Triad Guardians (56 rules, 16
+findings, the central one being whether they were created at the Gate or are an ancient clade).
+Ledger at `ledger_version` 36.5, 2,667 rules, 363 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "36.4",
+  "ledger_version": "36.5",
   "last_updated": "2026-10-03",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2721,6 +2721,12 @@
       "source": "Abad's direct ruling in conversation, 2026-10-03",
       "rules_affected": 1,
       "note": "MCD-1881 amended: Anirak named a Tier 1 character and a fifth Book-1 anchor hero for the marquee-kill tier, kept distinct from MCD-212's four operational anchors. The same message made the Connective-Tissue Gate the project's third non-negotiable rule (CLAUDE.md, _TEMPLATE.md, scripts/connective_tissue_check.py) and opened gate files for Anirak, Pyro, and the Triad Guardians. Abad's approval: \"Anirak is an incredible tier 1 character and an anchor as well. Pyro and his Triad need to be well written. every connective tissue must be well thought out and well placed so it's only logical this is how we move from here on out please make sure this is gated.\""
+    },
+    {
+      "batch": 363,
+      "source": "Hard-constraint audit of all 1,505 Chronicle files, 2026-10-03",
+      "rules_affected": 3,
+      "note": "Mechanical hard-constraint corrections under Abad's connective-tissue mandate ('anything that needs correction is mandated to be corrected'), no new facts: 65 prose edits across 48 Chronicle files. Details: the Density Spike named in Ozmund prose (22, now 'the density in his blood' / 'the density in him'); lowercase 'spike' in density, signal and object senses (7); banned words (21, the Iron Bastard priest arc's 'god' now 'the one they prayed to'); 'arena' to 'the Maw'; one literal rule ID in prose; era tech (sailing-ship 'engines', 'steam-driven', 'sonar', 'gun turret', three photographs to sketches per the MCD-258 precedent, homage-world newspapers to broadsheets per PH2-049, Crawler 'control panel'/'drive train'); five self-referential 'Chronicle' uses. Also SBD-020/021/022 status casing normalized. Held for Abad's ruling: three manuscript 'spike' uses in Chronicle III, PH2-049's scope over mainline Cian, and MCD-1535's photographs."
     }
   ],
   "rules": [
@@ -3231,21 +3237,21 @@
       "id": "SBD-020",
       "category": "sbd-triad-guardian-varkul",
       "statement": "SBD's Miremaw Varkul is classified a 'living preservation clause.' SBD is barred from capturing, bonding, or commanding Varkul.",
-      "status": "LOCKED",
+      "status": "locked",
       "source": "SBD Executive Director A.M. Directives"
     },
     {
       "id": "SBD-021",
       "category": "sbd-triad-guardian-varruk",
       "statement": "SBD's Varruk is rated OMEGA-PRIME threat. Named capabilities: Pattern-Scouting, Angle-Whisper, Guidance by Refusal, Cadence Break (renamed from 'Cadence Ruin' to resolve the collision with Onyx of Oblivion's blade power, ARS-020).",
-      "status": "LOCKED",
+      "status": "locked",
       "source": "SBD Executive Director A.M. Directives"
     },
     {
       "id": "SBD-022",
       "category": "sbd-triad-guardian-sorya",
       "statement": "SBD's Sorya is rated OMEGA-PRIME (conditional) threat, framed as a 'living archive.' Named capabilities: Witness-Scouting, Shard-Recall, Vow-Taste.",
-      "status": "LOCKED",
+      "status": "locked",
       "source": "SBD Executive Director A.M. Directives"
     },
     {

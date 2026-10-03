@@ -33,8 +33,8 @@ What he settled on, the General said — and told me it took years, that his fat
 have arrived at it whole — was a coin. An ordinary Trust half-scrip, worn thin at one edge from
 handling. Aethelgard kept it in a coat pocket and, whenever the boy's temper was climbing toward
 somewhere it shouldn't go, would set the coin on the table on its edge, spin it once with two
-fingers, and say nothing at all until it fell. *Wait until it falls.* Nothing about the density in him in the
-instruction. Nothing about what the boy could or couldn't do with it. Just: here is a thing with
+fingers, and say nothing at all until it fell. *Wait until it falls.* Nothing in the instruction about the
+density in him. Nothing about what the boy could or couldn't do with it. Just: here is a thing with
 weight, and it will come down on its own schedule, and you are going to sit here and watch it do
 that instead of deciding anything while you're still angry.
 
