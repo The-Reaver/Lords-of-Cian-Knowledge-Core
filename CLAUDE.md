@@ -4231,6 +4231,26 @@ The 37 items that need a new fact are on `docs/lords-of-cian/approval-list-2026-
 Abad. The foundations come first: the 284-year offset, and the human lifespan question that
 decides Garren Hask's death. Ledger at `ledger_version` 36.9, 2,668 rules, 367 batches.
 
+**Batch 368, the Tide Line (`MCD-1889`-`1892`).** Abad's direction: Anirak, now an anchor hero,
+holds a fourth Book 5 front on her own with "the rest of the pirate crew" ("go with C and all your
+recommendations"; "and all of my recommendations in this she will shine and we will display her
+incredible array of devastating combinations").
+- **The front.** It opens in the Talisman's 48-hour deficit and runs in two phases. Undersea, it
+  holds against Sereth Vaul's Ever-Haunt sea forces and a third Tide-Wraith site. Ashore, it holds
+  the western front of `MCD-328`, where Lady Vestige turns the Prefecture's 200,000 legionaries
+  mid-battle.
+- **The unit.** Anirak's Chain Harbor core, now named Edda, Hamund, and Odile. Then Torian,
+  Stormbreaker, Azar, Voidbreaker, Ghostwind, Stormreaver, Zora, and Ren.
+- **Her opponent.** Sereth Vaul, "the Silencer," against her Siren's Voice. The outcome is reserved.
+- **Carried over intact.** Flood State, the Ironbane sonar relay, and Red Beard's 30 meters all move
+  to the Tide Line unchanged.
+- **Roster fixes.** `MCD-097`, `WC-022`, and `MCD-221` now count four fronts. `MCD-221` also aligns
+  the other rosters: Lauris on the Engine front, Valeria at the Gate.
+
+Still pending: how the worlds connect without space travel. "One world, many shores" is recommended.
+The draft is at `docs/lords-of-cian/drafts/2026-10-03-tide-line-and-world-crossing.md`. Ledger at
+`ledger_version` 37.0, 2,672 rules, 368 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

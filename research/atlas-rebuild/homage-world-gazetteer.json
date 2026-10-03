@@ -326,7 +326,7 @@
     "first_source": "Batch 290",
     "mention_count": 28,
     "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Ílú-Márùn|Ìlú-Márùn|Ilu-Marun",
-    "notes": "No coast, river, hill or district geography is stated anywhere. Spelling drift: ledger uses \"Ílú-Márùn\" (acute I); CLAUDE.md uses \"Ìlú-Márùn\" (grave I)."
+    "notes": "No coast, river, hill or district geography is stated anywhere. Spelling drift: ledger uses \"Ílú-Márùn\" (acute I); the project instructions file uses \"Ìlú-Márùn\" (grave I)."
   },
   {
     "name": "Muungano",

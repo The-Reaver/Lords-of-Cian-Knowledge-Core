@@ -84,11 +84,12 @@ statement (the ledger is the source of truth for exact wording).
     recruited by Sephtis; an orphan with an unresolved identity/belonging throughline who regards Kanja
     as a paternal figure.
 - **Red Beard (Tarn Cestari).**
-  - `MCD-221` — Commands the Book 5 Line front independently; Anirak is on its roster.
+  - `MCD-221` — Commands the Book 5 Line front independently. Since Batch 368 Anirak holds her own
+    fourth front, the Tide Line (`MCD-1889`), which meets the Line's flank once.
   - `ARS-369` — When she reaches Flood State he silently increases his own operational distance by
-    30 meters.
-- **Ironbane (Darius).** `ARS-371` — On the Book 5 Line front she reports naval-perimeter positions
-  to Ironbane without narrating how she knows (extends `MCD-221`'s Ironbane's-fleet component).
+    30 meters, at the one moment the Tide Line's shore phase meets the Line's flank (Batch 368).
+- **Ironbane (Darius).** `ARS-371` — From the Book 5 Tide Line she relays naval-perimeter positions
+  to Ironbane's fleet on the Line without narrating how she knows (Batch 368).
 - **Lauris Letitia.** `ARS-374` — Combined operational note: both grow more dangerous the longer a
   fight runs, in opposite detection directions (Anirak louder and harder to escape, Lauris quieter and
   harder to find); in a shared Book 5 engagement her Siren's Voice compounds against opponents already
@@ -125,7 +126,7 @@ statement (the ledger is the source of truth for exact wording).
   techniques available); **Hot** (high heart rate, reduced reaction time, first involuntary
   Voice/gaze synchronization begins); **White** (combat ceiling as established through Book 4,
   reduced fine control, near-forge Fang temperature, synchronization consistent); **Flood State**
-  (Book 5 Line front only, fine control absent, doctrine replaced by pure kinetic momentum).
+  (Book 5 Tide Line only, `MCD-1889`, fine control absent, doctrine replaced by pure kinetic momentum).
 - `ARS-369` — Flood State: the Chain-Strike doctrine's techniques persist only as biological
   instinct, not intentional choices; no engagement before Book 5 lasts long enough to push her past
   White.
@@ -137,7 +138,7 @@ statement (the ledger is the source of truth for exact wording).
 - `ARS-372` — Chain thermal transfer at Flood State: forge-adjacent Fangs; two chain wraps held three
   seconds on one contact point structurally weaken (not burn through) the material there.
 - `ARS-373` — Hard constraints for all future drafting: no stillness, no sniping, no clean kills —
-  total engagement is doctrine, not a last resort; Flood State only on the Book 5 Line front, and any
+  total engagement is doctrine, not a last resort; Flood State only on the Book 5 Tide Line, and any
   earlier engagement approaching that duration must be interrupted; active sonar requires Hot or
   above, the Book 2 seed is ambient only; the Siren's Voice has no effect on undead combatants, so
   living troops must be routed toward her zone.
@@ -161,8 +162,10 @@ statement (the ledger is the source of truth for exact wording).
 - **Book 3** — `ARS-370`: the first involuntary Voice/gaze synchronization; it unsettles her briefly
   because her biology acted without her authorization.
 - **Book 4** — `ARS-368`: White is her combat ceiling as established through Book 4.
-- **Book 5** — `MCD-221`: Line front under Red Beard (with Ironbane's fleet, Aethel-Gard heavy
-  infantry, Celestial Zenith warriors under Loyalty-Quasar, the Astral Archipelago fleet);
+- **Book 5** — `MCD-1889`-`1892`: sole command of the Tide Line, Book 5's fourth front, with her
+  pirate-crew unit (her Chain Harbor core Edda, Hamund, Odile; Torian, Stormbreaker, Azar,
+  Voidbreaker, Ghostwind, Stormreaver, Zora; Ren): undersea against Sereth Vaul, her named opponent,
+  then ashore holding the Prefecture's 200,000 legionaries turned by Lady Vestige;
   `ARS-369`: Flood State for the first and only time, Red Beard opening his distance by 30m;
   `ARS-370`: synchronization reaches full expression and she no longer registers it; `ARS-371`: active
   sonar, reporting to Ironbane; `ARS-372`: chain thermal transfer, Ren targeting the failure points;
@@ -173,7 +176,7 @@ statement (the ledger is the source of truth for exact wording).
 ### Reserved / unresolved threads
 Things already flagged in the ledger as deliberately open, not yet paid off, or explicitly held
 back for a future book/Chronicle. These constrain what the profile and game plan may touch.
-- **Flood State** is reserved for the Book 5 Line front; no pre-Book-5 engagement may reach it, and
+- **Flood State** is reserved for the Book 5 Tide Line (`MCD-1889`); no pre-Book-5 engagement may reach it, and
   any that approaches its duration must be interrupted (`ARS-369`, `ARS-373`).
 - **The first involuntary Voice/gaze synchronization** is reserved for Book 3 (`ARS-370`).
 - **Active sonar** is reserved for Book 5 / Hot state and above; Book 2 is ambient only (`ARS-371`,
@@ -270,7 +273,9 @@ resolved.
     protector role must be recent relative to her ~250-plus years of service; no rule dates them.
     Separately, `MCD-1715`'s Chronicle prose calls Ren the youngest "by a margin of some hundred and
     thirty-odd years," against `CC-101`'s statement that Pyro is younger.
-12. **Line-front roster gaps.** `MCD-221` lists the Line front as "Anirak, Ironbane's fleet, Aethel-Gard
+12. **Line-front roster gaps — resolved, Batch 368.** Anirak and Ren moved to the Tide Line,
+    Lauris placed on the Engine front in `MCD-221`, and `ARS-374` rescoped to before Book 5. Original
+    finding, kept for the record: `MCD-221` lists the Line front as "Anirak, Ironbane's fleet, Aethel-Gard
     heavy infantry, Celestial Zenith warriors under Loyalty-Quasar, and the Astral Archipelago fleet."
     `ARS-369`/`ARS-372` give Ren a Line-front role, but Ren is not on `MCD-221`'s roster. `ARS-374`
     places Lauris in a "shared Book 5 engagement" with Anirak "extend[ing] MCD-221's Line-front

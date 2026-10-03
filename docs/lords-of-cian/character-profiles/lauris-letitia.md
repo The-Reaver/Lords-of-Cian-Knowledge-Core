@@ -189,8 +189,8 @@ are cited together.
   manufactured; she never sinks regardless of density output; the Meridian peak is
   location-specific and must not appear elsewhere; the corridor pressure wave requires both
   conditions at once, not either alone.
-- `ARS-374` — A combined-engagement note with Anirak (extends `MCD-221`'s Book 5 Line-front
-  roster): the two become more dangerous the longer a fight runs but in *opposite* detection
+- `ARS-374` — A combined-engagement note with Anirak (rescoped Batch 368 to any shared
+  engagement before Book 5; in Book 5 she is on the Engine front, `ARS-386`): the two become more dangerous the longer a fight runs but in *opposite* detection
   directions — Anirak louder and harder to escape, Lauris quieter and harder to find — defeating any
   instrument tracking both at once.
 - Weapon-forging/maintenance history: `MCD-176` (original commission at Mao, pre-dating Kanja's
