@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "35.9",
+  "ledger_version": "36.0",
   "last_updated": "2026-10-03",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2691,6 +2691,12 @@
       "source": "Original invention, chat-drafted 2026-10-03, no source document; rulings on the Voice Bible and Voice Progression Sheet (docs/lords-of-cian/voice/)",
       "rules_affected": 3,
       "note": "VB-063 locks the Onyx voice standard and its gated check (the blade not I; manuscript articles; 'spike' banned; exact seconds-count; Phase 1 coda in full voice; 'the Captain'; Phase 4 present tense); VB-062 first-person clause superseded; ARS-437 'spike' -> 'jolt'. Abad's approval: \"Self-reference: \"The blade\" (Recommended). Articles: Follow the manuscript (Recommended). \"Spike\": Ban it everywhere (Recommended). Count: Exact (Recommended).\""
+    },
+    {
+      "batch": 358,
+      "source": "Original invention, chat-drafted 2026-10-02/03, no source document",
+      "rules_affected": 3,
+      "note": "Kanja Chronicles V-VII locked (MCD-1883-1885): the first Long Mask Onyx accounts -- Chain Harbor (age 55), Vellacourt's Rule (age 48, first kill since the Pier), the Sleeping Giant (age 240) -- redrafted to the VB-063 Phase 4 voice and the CC-161 necessity-kill doctrine before presentation. Abad's approval: \"go\""
     }
   ],
   "rules": [
@@ -21333,6 +21339,27 @@
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-10-03, no source document; rulings on the Voice Bible and Voice Progression Sheet (docs/lords-of-cian/voice/)",
       "statement": "The Onyx voice standard and its gated check. Every Onyx-narrated or Onyx-voiced passage, in any track, is governed by the Voice Bible's Narrator 1 sheet and the Voice Progression Sheet (mirrored at docs/lords-of-cian/voice/), with the phase fixed by in-world age: Phase 1 ages 18-20, Phase 2 21-27, Phase 3 27-30, Phase 4 the Long Mask. Standing rulings where the documents and the manuscript differ: (1) Onyx refers to itself as 'the blade' ('us' permitted), never 'I'; the single exception is Kanja Chronicle IV's closing line at the sealing. (2) Articles follow the manuscript codas: kept, with the telegraphic effect carried by very short sentences, fragments, and refrains rather than article-dropping. (3) The word 'spike' is banned from all prose, the Density Spike and the Heartline's signals alike. (4) The seconds-count is exact, never hedged, reckoned on a 365-day year from the Sovereign Pier treaty. Carried from the documents: the Phase 1 closing coda is already in full Codex voice (present tense, compressed, verdicts delivered) -- the body narration compresses over the phases, the coda never grows from inarticulate to articulate; from Phase 3 Onyx calls Kanja 'the Captain', in Phase 4 only 'the Captain'; present tense is the Phase 4 default, including the scenes inside a retrospective Long Mask account, with past tense kept for the Dark Ledger frame and deep history; no equivocation, no balanced antithesis, no textbook explanation of powers or gear, no narrator emotional display -- loyalty shows as precision. Onyx speaks in any scene only through the grip and only in utilitarian fragments. Before any such draft is presented to Abad it passes the gated voice check in the character-profile template; a failing draft is redrafted, not presented. Supersedes the 'least articulate' Chronicle I coda convention (MCD-1866) and the first-person clause of VB-062. Abad's approval: 'Self-reference: \"The blade\" (Recommended). Articles: Follow the manuscript (Recommended). \"Spike\": Ban it everywhere (Recommended). Count: Exact (Recommended).'"
+    },
+    {
+      "id": "MCD-1883",
+      "category": "kanja-character-chronicle",
+      "statement": "Kanja Chronicle V, 'The Names in the Correction Book' (full text at docs/lords-of-cian/chronicles/kanja-chronicle-v-the-names-in-the-correction-book.md). Fifth entry of the Kanja-version track and the first Long Mask Onyx account (VB-062, ARS-437, VB-063 Phase 4). Age 55. Dramatizes the Chain Harbor Massacre (MCD-251) for the first time: garrison master Edric Grenmoor orders all six harbor-wall pens (912 prisoners) drowned at the top of the flood while Anirak breaks fetters in the eastern passage; the Captain stops the west sluice wheel (Dunmore and eight others killed turning it, the ninth kneels and is spared) while Torian boils the east wheel housing; the 220-strong garrison then charges to retake the wheels, terms are called once, every man who sits is untouched, and the 32 who come at him die; Skarrow dies reopening the east gate and Grenmoor dies on the drowning steps after hauling the drowning-gate bar and drawing first -- 43 deaths, all necessity kills under CC-161 (Batches 355-356), nothing read to anyone. Only afterward does the Captain take the garrison's correction book and hand it to the spared keeper Mabry ('Keep writing. Every name. Mine with them.'); Onyx's own verdict, after the fact, is that every man who died is in the book and no man outside it died. Anirak's recruitment and the forging of her chained hook-swords, gorget (built to carry her own Siren voice), and three-shape mace (ARS-130/411) follow. Kanja's second marquee kill under MCD-1881, his first of the Long Mask. New named characters: Edric Grenmoor, Dunmore, Skarrow (killed), Mabry (spared). Abad's approval: 'go'",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-10-02/03, no source document"
+    },
+    {
+      "id": "MCD-1884",
+      "category": "kanja-character-chronicle",
+      "statement": "Kanja Chronicle VI, 'Vellacourt's Rule' (full text at docs/lords-of-cian/chronicles/kanja-chronicle-vi-vellacourts-rule.md). Sixth entry of the Kanja-version track, a Long Mask Onyx account (VB-062, ARS-437, VB-063 Phase 4). Age 48, the opening act of the Pirate Dawn, weeks before the Night of Black Sails (MCD-250) -- the Captain's first kill since the Sovereign Pier, closing MCD-1882's no-kill window. Admiral Teshar Vellacourt, a bought-rank convoy admiral under a Sovereign Trust forced-labor charter paid per head for 'cargo lost to piracy,' floods his holds when pursued (Vellacourt's Rule, copied onto nine ships; 612 drowned by his own filings). After a season spent working out how to board a ship nobody can board, the Captain swims under the hull, ruins both sea-cock spindles, reaches the 340 chained below, then stands on the lit deck and states terms once ('Sit. You row home.'). The lever fails twice; Vellacourt reads his charter aloud, orders lamp oil into the hold, carries a lantern to the hatch himself, and draws; the cutlass opens the Captain's left wrist through the unbraced V1 gauntlet gap, and one stroke of the Rexmar Machete kills him in the attack -- a necessity kill under CC-161. Sailing master Mordane carries the account home ('Tell it exact.'); the harbors draw the two-ways lesson themselves, the red levers come out within a season, and ships later strike to the black sails on sight. Marquee kill under MCD-1881. New named characters: Teshar Vellacourt (killed), Mordane. Abad's approval: 'go'",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-10-02/03, no source document"
+    },
+    {
+      "id": "MCD-1885",
+      "category": "kanja-character-chronicle",
+      "statement": "Kanja Chronicle VII, 'The Man Who Did Not Get Up' (full text at docs/lords-of-cian/chronicles/kanja-chronicle-vii-the-man-who-did-not-get-up.md). Seventh entry of the Kanja-version track, a Long Mask Onyx account (VB-062, ARS-437, VB-063 Phase 4). Age 240. Dramatizes the Sleeping Giant (MCD-262) for the first time: twelve Choice-Branded commandos contracted around Standing Order 44-B attack a rock-cut salt cellar holding eleven Ghost-Lattice copyists while Valen and Stormbreaker chase a false signal. The Captain, who no longer fights, checks their arms (no Cestari among them -- a filter for whom he will not kill), states terms once ('Walk back. You live.'), and all twelve refuse; every blow they land is drunk by the Talisman and routed down his bones into the bedrock floor, leaving each man stopped at the end of his own strike for the half-second that ends him. Verrick alone reads him and wounds him with slow pressure under the left ribs. After eleven are dead Garrick asks whether the offer stands and is answered 'Yes. Walk.'; he stays for the unpaid half of the contract and attacks -- every kill a necessity kill under CC-161. The Sleeping Giant's preview of the eventual Pi-Awakening is carried by a single unremarked detail: the stone under the Captain's heels pressed down a finger deep, smooth as a worn stair. Origin of the crew's 'the old man doesn't get up' and Valen's immobility-as-a-weapon doctrine. Marquee kill under MCD-1881. New named characters: Garrick, Rusk, Verrick, Ghast (all killed). Abad's approval: 'go'",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-10-02/03, no source document"
     }
   ],
   "open_decisions": [

@@ -1,6 +1,6 @@
 # Kanja Chronicle V: The Names in the Correction Book
 
-*UNLOCKED -- pending Abad's approval. Draft 2026-10-03 (redraft of the 2026-10-02 draft). Fifth entry
+*Locked canon, Batch 358, 2026-10-03 (`MCD-1883`). Fifth entry
 of the "Kanja version" Chronicle track and the first of its Long Mask extension (Game Plan amendment,
 2026-10-02). Age 55, the Long Mask's Southern Sweep years. Dramatizes the Chain Harbor Massacre
 (`MCD-251`) for the first time anywhere in the corpus: the locked rule names the massacre but never its
@@ -13,7 +13,7 @@ was sealed at L9 throughout and says so. Post-Mafesto gear only, at its age-55 g
 characters: Edric Grenmoor (garrison master, killed), Dunmore and Skarrow (lieutenants, killed), Mabry
 (lieutenant and keeper of the garrison's correction book, spared), all collision-checked against the
 full ledger and Chronicle corpus. Anirak (Blades Fury), Valen, and Bloodreaver (Torian) reused. No
-child-safety issues.*
+child-safety issues. Abad's approval: "go."*
 
 ---
 

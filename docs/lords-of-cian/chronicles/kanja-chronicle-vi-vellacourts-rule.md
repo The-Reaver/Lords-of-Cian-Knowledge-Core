@@ -1,6 +1,6 @@
 # Kanja Chronicle VI: Vellacourt's Rule
 
-*UNLOCKED -- pending Abad's approval. Draft, 2026-10-03. Sixth entry of the "Kanja version"
+*Locked canon, Batch 358, 2026-10-03 (`MCD-1884`). Sixth entry of the "Kanja version"
 Chronicle track, part of the Long Mask extension's first set (the Onyx accounts). Age 48, the
 opening act of the Pirate Dawn, some weeks before the Night of Black Sails (`MCD-250`). The
 Captain's first kill since the Sovereign Pier: ages 31-47 are kill-free by his own hand (`MCD-1882`
@@ -13,7 +13,7 @@ retrospectively by Onyx of Oblivion as "the blade" (`VB-062`/`VB-063`, `ARS-437`
 Dark Ledger entry; Onyx was sealed at L9 and was not present. Killing per `CC-161` as amended
 Batches 355-356: terms stated once, no death announced, a necessity kill inside an attack. New
 named characters: Teshar Vellacourt and Mordane (his sailing master, surname only), both
-collision-checked clean against the full ledger and Chronicle corpus. No child-safety issues.*
+collision-checked clean against the full ledger and Chronicle corpus. No child-safety issues. Abad's approval: "go."*
 
 ---
 

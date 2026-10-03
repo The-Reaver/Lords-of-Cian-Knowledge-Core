@@ -1,6 +1,6 @@
 # Kanja Chronicle VII: The Man Who Did Not Get Up
 
-*UNLOCKED -- pending Abad's approval. Draft, 2026-10-03. Seventh entry of the "Kanja version"
+*Locked canon, Batch 358, 2026-10-03 (`MCD-1885`). Seventh entry of the "Kanja version"
 Chronicle track, part of its Long Mask extension (Dark Ledger openings, retrospective Onyx account per
 `VB-062`/`ARS-437`). Age 240, two hundred and ten years past the Sovereign Pier. Dramatizes the
 Sleeping Giant (`MCD-262`) for the first time anywhere in the corpus: alone in a corridor against
@@ -13,7 +13,7 @@ offered surrender honored, every kill a necessity kill, deterrence never his sta
 characters: Garrick (the contract's leader), Rusk, Verrick, and Ghast, all collision-checked clean
 against the full ledger and Chronicle corpus; the other eight commandos are recorded only by their
 Choice-Brand marks (`MAW-076`). Valen reused (after the fight); Stormbreaker in passing. Post-Mafesto
-gear only. Onyx sealed at L9 throughout, not present. No child-safety issues.*
+gear only. Onyx sealed at L9 throughout, not present. No child-safety issues. Abad's approval: "go."*
 
 ---
 
