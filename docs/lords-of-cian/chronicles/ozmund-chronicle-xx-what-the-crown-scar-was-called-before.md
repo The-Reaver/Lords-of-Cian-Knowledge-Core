@@ -11,8 +11,8 @@ it truly was — an old nursemaid's private name for it and a half-remembered Ho
 Drakmund Verehimu (`MCD-138`) — resonating forward toward `MCD-290` without stating or explaining it.
 Introduces one new minor named character, Ysbel, Ozmund's infant nursemaid — collision-checked against
 `canon-ledger.json` before use, zero prior hits. Corrected Batch 333, 2026-10-02: a dangling
-five-thousand-year figure (inconsistent with Drakmund's own ~5,000-year-ago placement, MCD-138/
-MCD-1850) softened to vaguer "already an old story"/"deep into a very long life"/"all his long years"
+five-thousand-year figure (then in tension with Drakmund's age; reconciled in Batch 367 -- Drakmund is
+~8,000+ years old per MCD-138/MCD-1850 -- so the softened phrasing stands) softened to vaguer "already an old story"/"deep into a very long life"/"all his long years"
 phrasing throughout.*
 
 ---

@@ -108,9 +108,9 @@ are cited together.
   Codex's Blueprint Eye ability hasn't yet performed a reading that would close the gap. He is
   separately, and non-contingently, her equipment's primary maintenance authority on Cian (`MCD-204`,
   `267`) — he rebuilt her original Forged Triad after her defection.
-- `MCD-196`-`198` — **Sephtis is her closest operational alliance.** He'd known of her existence
-  since a rumor report roughly 1,200 years before her arrival, making him the only being on Cian
-  continuously aware of her before she got there. Their joint archive on Anu Un Ra's engineering
+- `MCD-196`-`198` — **Sephtis is her closest operational alliance.** His archive held the rumor
+  reports from roughly 1,200 years before her arrival, and he had followed her from early in his
+  own life. Their joint archive on Anu Un Ra's engineering
   tradition (`MCD-197`) is, on his own assessment, the single most comprehensive understanding of
   T.D.K.'s long-cycle programs outside his own apparatus — not disclosed to the wider crew; Ezio
   knows it exists without requesting access; Kanja doesn't know of it at all. Sephtis also holds the

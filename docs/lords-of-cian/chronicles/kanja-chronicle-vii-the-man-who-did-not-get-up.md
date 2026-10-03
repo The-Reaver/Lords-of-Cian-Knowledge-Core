@@ -418,7 +418,7 @@ Mend-Line V3 (`ARS-355`, age 200; compartment pressure, ~3-second flow, ~7-secon
 sole (`ARS-353`, ~3m tremor, density-independent; the heel blade deliberately unused), Rexmar Machete
 back-mounted (`ARS-349`/`ARS-260`/`ARS-425`), Talisman of Mao (`MCD-060`). No Mafesto, no Obsidian
 Malice, no Onyx in the scene; Onyx sealed at L9 (`CC-012`, `MCD-246`). Onyx never names the Density
-Spike (`VB-021`); the maxim is used once. Crew: Valen (joined age 40, `MCD-248`) and Stormbreaker are
+Spike (`VB-021`); the maxim is used once. Crew: Valen (Master-at-Arms since the Rebellion, `ARS-344`) and Stormbreaker are
 peripheral; Garren Hask, Efa Gol, and Pell Ostra are not used. The eleven copyists are an unnamed
 Ghost-Lattice cell, not tied to any locked operation (the Memory Keeper, age 225, untouched). The
 closing claim ("if anyone ever bought twelve Branded fighters again, his ledger does not record it") is

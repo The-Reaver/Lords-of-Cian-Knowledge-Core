@@ -4202,6 +4202,35 @@ Pyro (61 rules, 20 findings, no Chronicle mentions him), and the Triad Guardians
 findings, the central one being whether they were created at the Gate or are an ancient clade).
 Ledger at `ledger_version` 36.5, 2,667 rules, 363 batches.
 
+**Batches 364-367, mechanical reconciliations.** Four read-only reviews (timeline, crew and tracks,
+institutions, Atlas) went through the running tally. They are in the session scratchpad, and the
+recommendations are carried into `docs/lords-of-cian/approval-list-2026-10-03.md`. Every finding
+that needed no new fact was applied, each batch scripted with exact-match asserts and zero duplicate
+IDs:
+- **Batch 364 (Atlas).** `MCD-147` completes the Batch 40 Voskharen rename, and its Living Drakma
+  deposits now read as diffuse trace. The Teeth is placed at Atlas cell N16, and new `GEO-007`
+  records the Throat, the Teeth, the Old Dominion capital, and RA/UK as Lawless Reaches sub-areas.
+  `MCD-237`'s Southern Seaboard correction is applied. `POL-040` gains its short western coast, and
+  Ash Harbor is now a near-landlocked reef-gap basin.
+- **Batch 365 (institutional).** Yuto is recorded as Haku's given name. Trust Scrip is a parallel
+  currency in the Shattered Kingdoms. Osseren is demoted and never reinstated, and the Council seats
+  are by doctrine. `MCD-144` is reworded as the on-page register. Stale "only entry" and "future beat"
+  notes are cleared, and "kill spike" becomes "kill jolt." `VB-063` gets its phase-boundary ages. The
+  Sleeping Giant is narrowed to "does not fight on his feet," in rules and in Chronicle VII's prose.
+- **Batch 366 (tracks).** Ilvane becomes a Threnarr daughter-hold, not a thirteenth Vask. Stale
+  Moonvault-gift claims are cleared from Sovereign Ghost rules. The Xaragua III cohort is five, with
+  three dead. Ozmund XII loses an unsourced number, and the Captain profile's miscount is fixed.
+- **Batch 367 (timeline).** Lauris was recruited at about Kanja 114, followed by a ~1,800-year
+  Directorate career. Valen's contradicting age is dropped from `MCD-248`. Drakmund is the
+  ~8,000-year first Verehimu of `MCD-1850`, and the `MCD-149` adulthood labels are rescaled.
+  Silent Mara's hedge is fixed. Sephtis's knowledge of Lauris is archival. The Black Ledger's age
+  becomes ~3,000 years, and `MCD-1851` becomes "Merak-era." Lauris XCVIII's "youngest" line is
+  fixed.
+
+The 37 items that need a new fact are on `docs/lords-of-cian/approval-list-2026-10-03.md`, awaiting
+Abad. The foundations come first: the 284-year offset, and the human lifespan question that
+decides Garren Hask's death. Ledger at `ledger_version` 36.9, 2,668 rules, 367 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

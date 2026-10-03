@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 300, 2026-09-18 (`MCD-1715`). Ninety-eighth entry in Lauris Letitia's own
 Chronicle series, Strand W. A stakes-free entry pairing Lauris with Abyss (Ren Oshaal, `CC-101`),
-the crew's youngest member -- she becomes his preferred practice partner for controlling his
+the crew's youngest adult recruit -- she becomes his preferred practice partner for controlling his
 Negative-Density Variant field's active-range output, since her own biology tolerates standing
 inside it without the discomfort most of the crew experience. Puts `CC-134`'s combat-joy trait on
 the page as the pleasure of testing a genuine physical limit safely, alongside her established
@@ -15,7 +15,7 @@ characters.*
 *Archive fragment, present-day, undated by her own habit: "Ren asked, the first time, whether it
 hurt. It did not. I told him so, and he did not believe me, so I stood there again until he did."*
 
-Ren Oshaal is, by a margin of some hundred and thirty-odd years, the youngest member of this crew,
+Ren Oshaal is, by a wide margin, the youngest adult recruit this crew has taken on,
 and I have observed that this fact sits on him less as a distinction than as a mild, chronic
 inconvenience, the way a smaller man might resent being handed the lightest end of every load out of
 someone else's misplaced consideration. His field is his arsenal and, by his own admission to me on

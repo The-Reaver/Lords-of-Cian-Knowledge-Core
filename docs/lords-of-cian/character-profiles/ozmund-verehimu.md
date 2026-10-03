@@ -23,7 +23,7 @@
 
 ### Relationships
 - `MCD-101` / `CC-004` — Cousin to Kanja through their mothers: Val Saeryn Kareth (Kanja's mother) and Val Mirel Kareth (Ozmund's mother) are Kareth War-Order war-sisters. Val Mirel is 89,003 years old, a Seventh Wing tactician.
-- `MCD-138` — Lineage: Drakmund Verehimu (first Verehimu, ~5,000 years old, original Crown-Scar recipient) → Aethelgard Verehimu (son) → Ozmund (grandson). Both later Crown-Scars are inherited from Drakmund, not independently installed.
+- `MCD-138` — Lineage: Drakmund Verehimu (first Verehimu, ~8,000+ years old -- the Aethel-Gard general of `MCD-1850` -- original Crown-Scar recipient) → Aethelgard Verehimu (son) → Ozmund (grandson). Both later Crown-Scars are inherited from Drakmund, not independently installed.
 - `MCD-025` — His father Aethelgard is murdered alongside Kanja's father Maro Rexmar at the Fulfillment Ceremony — Book 1's opening, and Ozmund's inciting wound.
 - `MCD-318` — The Moonvault Rescue is explicitly the first joint operation between the cousins *since their mothers' generation* — meaning Kanja and Ozmund were not close, or possibly not in contact at all, before this. Distant cousins by blood, strangers by relationship, until adulthood.
 - `MCD-134` — Lilith Cyzak: former Sovereign Trust scientist/economic analyst, no inherent power, durability from a transfusion of Ozmund's own blood (nearly fatal at first). Ozmund and Red Beard train her; she becomes capable of sparring both directly. Capable of targeted "economic terrorism" with a Robin-Hood ideology. His "calibration point through cost-benefit reasoning."
