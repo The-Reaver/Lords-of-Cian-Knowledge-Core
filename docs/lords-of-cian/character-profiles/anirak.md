@@ -147,8 +147,8 @@ statement (the ledger is the source of truth for exact wording).
 - `CULT-197` — Her Lantern-Star strobe mode is part of the crew's light-vulnerability toolkit against
   the Ever-Haunt (alongside Ironbane's bio-electric discharge and Pyro's thermal flash-heating):
   involuntary dispersal in lower tiers, degraded function in higher ones.
-- Named techniques referenced but never defined: "the Chain-Strike doctrine" (`ARS-369`) and "Debt
-  Collection chain-pulls" (`ARS-374`).
+- Named techniques: the Chain-Strike doctrine (named at `ARS-369`, defined at `ARS-439`) and Debt
+  Collection (named at `ARS-374`, defined at `ARS-440`).
 
 ### Already-locked plot beats (book-level or Chronicle-level)
 - **Long Mask, Kanja age 55** — `MCD-251` / `MCD-1883`: the Chain Harbor Massacre and her
@@ -183,7 +183,8 @@ back for a future book/Chronicle. These constrain what the profile and game plan
 - **The first involuntary Voice/gaze synchronization** is reserved for Book 3 (`ARS-370`).
 - **Active sonar** is reserved for Book 5 / Hot state and above; Book 2 is ambient only (`ARS-371`,
   `ARS-373`).
-- **The four-person unit** (Anirak plus Edda, Hamund, and Odile, `MCD-1890`, Batch 368); the unit's formal establishment is not dramatized; `MCD-1883`'s notes deliberately stop at "the seed."
+- **The four-person unit** (the three named at `MCD-1890`, Batch 368; the composition of the four
+  is proposed in Section 2, recommendation 3); the unit's formal establishment is not dramatized; `MCD-1883`'s notes deliberately stop at "the seed."
 - **The Siren's emotional cost** (`CC-112`) — that she cannot tell genuine attention from what her
   eyes take — is locked as fact and touched once in `MCD-1883` ("She cannot tell what anyone gives
   her from what her eyes take"), never developed.
@@ -214,8 +215,7 @@ characterization, not a competing invention.
     the Captain watching her swing chains that held; her three joining her rather than the crew. She
     kills no one on the page.
 - Adjacent, not naming her: `lauris-chronicle-xcviii-the-weight-nobody-else-would-stand-under.md`
-  (`MCD-1715`) is a Lauris/Ren practice scene that states Ren is the crew's youngest member "by a
-  margin of some hundred and thirty-odd years" (relevant to finding 11).
+  (`MCD-1715`) is a Lauris/Ren practice scene that states Ren is "by a wide margin, the youngest adult recruit" (consistent with `CC-101`).
 - No Alias Chronicle, Territory Chronicle, or other Character Chronicle names her, despite the
   tracker row in `chronicle-tracks-status.md` describing her as "supporting cast across Kanja/Alias
   Chronicles."
@@ -226,8 +226,8 @@ characterization, not a competing invention.
 - **Batch 368, the Tide Line (`MCD-1889`-`1892`):** finding 1 (anchor status), finding 12 (the Line
   roster), and the open Book 5 role. Her Chain Harbor core is named Edda, Hamund, and Odile.
 - **Batch 370, the Combination Codex (`ARS-438`-`447`):** findings 4 and 5 (the Siren's Voice is her
-  own sub-audible felt hum, carried and shaped by the Siren Gorget, and "Siren" covers both her gaze
-  and her voice), finding 6 (before Book 3 she fights at Warm only), finding 7 (active sonar first
+  own sub-audible felt hum, carried and shaped by the Siren Gorget; the Codex uses "Siren's Voice" and
+  "her gaze" distinctly, and bare "Siren" stays `CC-112`'s term for the gaze), finding 6 (before Book 3 she fights at Warm only), finding 7 (active sonar first
   fires undersea in Book 5; Book 3-4 Hot and White fights are inland), and finding 8 (Stack is the
   fuel and Fury the engine). Chain-Strike and Debt Collection are both defined.
 - Still open for her Psychological Profile: her kill doctrine (finding 15), whether she is Cestari
@@ -284,8 +284,7 @@ resolved.
     24-36 at Book 1, is younger)," sent to the surface at 16, recruited by Sephtis. So Ren cannot have
     joined earlier than roughly the Long Mask's last three decades, and `CC-114`'s pairing and her
     protector role must be recent relative to her ~250-plus years of service; no rule dates them.
-    Separately, `MCD-1715`'s Chronicle prose calls Ren the youngest "by a margin of some hundred and
-    thirty-odd years," against `CC-101`'s statement that Pyro is younger.
+    
 12. **Line-front roster gaps — resolved, Batch 368.** Anirak and Ren moved to the Tide Line,
     Lauris placed on the Engine front in `MCD-221`, and `ARS-374` rescoped to before Book 5. Original
     finding, kept for the record: `MCD-221` lists the Line front as "Anirak, Ironbane's fleet, Aethel-Gard
@@ -364,8 +363,8 @@ she speaks twice and every word counts.
   can never be sure she is seen.* Her violet eyes capture everyone's attention, friend and enemy,
   always (`CC-112`). In Chronicle V the pull "lands in her too, from the far side. She cannot tell
   what anyone gives her from what her eyes take." She inspires loyalty she can never prove is real.
-      - **The connective point (proposed as the profile's key insight).** Her three shared her pens and
-    faced her while she broke their fetters, so the Siren touched them as it touches everyone
+      - **The connective point (proposed as the profile's key insight).** Her three were in the eastern passage
+    and faced her while she broke their fetters, so the Siren touched them as it touches everyone
     (`CC-112`). What she trusts is not their eyes but their act. Freed, they turned their backs to her
     and faced the garrison, holding the eastern passage so she could work, and "no one ordered it"
     (`MCD-1883`). Among those her eyes have touched, it is the loyalty she trusts most, because it was proven in a
@@ -375,7 +374,7 @@ she speaks twice and every word counts.
     payoff: the day she notices the three inside Ren's field, which strips the Siren within its
     radius (`CC-112`), stripped of it and still hers.
     - **The one she can be sure of, and the one she trusts.** Ren, whose field strips the Siren so he
-    sees her clearly (`CC-112`), the one known exception. And Kanja, the first to name the pull to her
+    sees her clearly (`CC-112`), the one known exception. And Kanja, who named the pull to her
     honestly. He felt it, said so, struck it from the count, and looked at her hands instead
     (`MCD-1883`). She cannot be sure of his attention, but she trusts his honesty about it.
   - **The parallel.** Her doubt mirrors Ozmund's Crown-Scar doubt, the fear that loyalty given to him
@@ -385,7 +384,7 @@ she speaks twice and every word counts.
   - **Followers who choose her.** Her three set the template: "the first sub-crew loyal to a
     lieutenant rather than to Kanja directly" (`MCD-251`). When Valen asks whose orders they take,
     they look at her before they answer.
-  - **Charges she protects unasked.** Ren is the first (`CC-114`).
+  - **Charges she protects unasked.** Ren is the one on record (`CC-114`).
     - **Equals marked by restraint.** Kanja set aside her pull. Red Beard, at the one moment the Tide
     Line meets the Line, silently opens 30 more meters around her Flood State (`ARS-369`). There is no
     locked relationship between them yet; this is the one gesture on record.
@@ -406,7 +405,7 @@ she speaks twice and every word counts.
   appetite. It is the refusal to be stopped, made smaller, or harnessed, and a hunger to be chosen
   by deeds she can trust, where her eyes cannot reach. Her arc runs from the harness to the
   Tide Line, where for one battle she is allowed to be entirely, unstoppably herself, and by then she no
-  longer registers her body acting ahead of her (`ARS-370`). She does it in front of the few people whose regard she trusts most.
+  longer registers the sync (`ARS-370`). She does it in front of the few people whose regard she trusts most.
 
 **Four open questions, with recommendations (PROPOSED):**
 1. **Her kill doctrine (finding 15).** Recommend her own register, on the `CC-162` pattern (parallel
