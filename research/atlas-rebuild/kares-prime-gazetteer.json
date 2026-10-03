@@ -1,0 +1,770 @@
+[
+  {
+    "name": "Kares Prime",
+    "aliases": [
+      "the homeworld",
+      "High-Gravity Warborn world"
+    ],
+    "type": "world",
+    "city_or_region": "—",
+    "parent": "the shared universe (with Cian and the homage World)",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "High-gravity world (~4.7x Cian), inner ring of a binary star system, dense mineral-heavy atmosphere, constant tectonics: \"mountains rise and fall across generations, not millennia\".",
+        "source": "MCD-148"
+      },
+      {
+        "claim": "Perpetual amber-and-bronze binary-star light.",
+        "source": "MCD-1549"
+      },
+      {
+        "claim": "Classified High-Gravity Warborn.",
+        "source": "MCD-141 (superseded rule, phrase reused)"
+      },
+      {
+        "claim": "Lauris departing: \"The world is below me.\"",
+        "source": "MCD-1558; lauris-chronicle-lxxi"
+      }
+    ],
+    "first_source": "MCD-148",
+    "mention_count": 121,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Kares Prime",
+    "notes": "Era of record for mapping: Lauris's lifetime (~6,000 to ~2,000 years before Book 1). Tectonics mean any map must be era-stamped."
+  },
+  {
+    "name": "The binary star system",
+    "aliases": [
+      "the two stars",
+      "binary-star light"
+    ],
+    "type": "star system",
+    "city_or_region": "—",
+    "parent": "—",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Kares Prime orbits \"in the inner ring of a binary star system\".",
+        "source": "MCD-148"
+      },
+      {
+        "claim": "Its light is amber-and-bronze through the atmosphere; Cian-born eyes cannot see some of it.",
+        "source": "MCD-1549"
+      }
+    ],
+    "first_source": "MCD-148",
+    "mention_count": 3,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: binary",
+    "notes": "Stars unnamed; number of planets, moons, and the system's relation to Cian's star undefined. Never shown in a Chronicle."
+  },
+  {
+    "name": "The primary continent (unnamed)",
+    "aliases": [],
+    "type": "continent",
+    "city_or_region": "Kares Prime",
+    "parent": "Kares Prime",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Vask Karth-Ven is built \"into a deep-mountain ridge along the spine of Kares Prime's primary continent\".",
+        "source": "MCD-1554"
+      }
+    ],
+    "first_source": "MCD-1554",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: primary continent",
+    "notes": "\"Primary\" implies other continents; none named. No seas, rivers or coasts are named on Kares Prime."
+  },
+  {
+    "name": "The spine ridge (deep-mountain ridge)",
+    "aliases": [
+      "\"the mountain's own spine\""
+    ],
+    "type": "mountain range",
+    "city_or_region": "Kares Prime",
+    "parent": "The primary continent",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Karth-Ven's halls are \"cut into living stone\" in it.",
+        "source": "MCD-1554; lauris-chronicle-xii"
+      },
+      {
+        "claim": "\"carved into a mountain spine that had not been surveyed for habitation\" with the care older Vasks got.",
+        "source": "lauris-chronicle-xvii"
+      }
+    ],
+    "first_source": "MCD-1554",
+    "mention_count": 3,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: spine of Kares|mountain spine|mountain\\'s own spine",
+    "notes": ""
+  },
+  {
+    "name": "Orbital trade-points (general)",
+    "aliases": [
+      "trade-points",
+      "the trade-point network"
+    ],
+    "type": "trade station network",
+    "city_or_region": "Kares Prime",
+    "parent": "Kares Prime (low orbit per ledger)",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "\"orbital trade-points in low planetary orbit\" for Living Drakma micro-particulate, metalwork and Ironstorm-Blood products.",
+        "source": "MCD-1550"
+      },
+      {
+        "claim": "The vector for T.D.K.'s K-strand agent.",
+        "source": "MCD-153; MCD-1550"
+      },
+      {
+        "claim": "Six defended during the Long Operational Period.",
+        "source": "MCD-1555"
+      },
+      {
+        "claim": "Staffed by six factors in Lauris's day vs two hundred defenders in the cooperative era; distress signals relayed \"through two intermediary Vasks\".",
+        "source": "lauris-chronicle-xvi"
+      },
+      {
+        "claim": "Lauris Chronicle LXIX speaks of \"Threnarr's thinned trade-points\".",
+        "source": "lauris-chronicle-lxix"
+      }
+    ],
+    "first_source": "MCD-1550",
+    "mention_count": 25,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: trade-points?",
+    "notes": "See conflict K2: orbital vs surface."
+  },
+  {
+    "name": "The Olmedrin orbital trade-point",
+    "aliases": [
+      "the Olmedrin point"
+    ],
+    "type": "trade station / departure point",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Olmedrin",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Lauris departs \"through the Olmedrin orbital trade-point\" with ~1,200 women present.",
+        "source": "MCD-174"
+      },
+      {
+        "claim": "\"the journey to and arrival at the Vask Olmedrin orbital trade-point\".",
+        "source": "MCD-1688"
+      },
+      {
+        "claim": "Has an \"outer gate\" and \"trade-point grounds\" where the crowd gathers; she \"boarded the departing vessel\".",
+        "source": "lauris-chronicle-lxxi"
+      },
+      {
+        "claim": "Distinct from the unnamed outer trade-point of Chronicle XVI.",
+        "source": "MCD-1633"
+      }
+    ],
+    "first_source": "MCD-174",
+    "mention_count": 5,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Olmedrin (?:orbital )?trade-point|Olmedrin point",
+    "notes": "Departure point for Cian (arrival: Kesmara orbital descent station, MCD-175). Transit time and route undefined."
+  },
+  {
+    "name": "The unnamed outer trade-point (Chronicle XVI)",
+    "aliases": [],
+    "type": "trade station",
+    "city_or_region": "Kares Prime",
+    "parent": "Kares Prime",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Has a receiving hall; outsiders load crated Drakma onto \"a transport sled bound for their vessel\".",
+        "source": "lauris-chronicle-xvi; MCD-1633"
+      }
+    ],
+    "first_source": "MCD-1633",
+    "mention_count": 0,
+    "mention_count_basis": "not countable (generic or unnamed)",
+    "notes": "Lauris did not record its name."
+  },
+  {
+    "name": "The trade-point Vael Threnarr-Karth died defending",
+    "aliases": [],
+    "type": "trade station",
+    "city_or_region": "Kares Prime",
+    "parent": "Kares Prime",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "The last male Karesian died \"defending an orbital trade-point he had no obligation to defend\", ~60 years before Lauris's birth.",
+        "source": "MCD-155"
+      }
+    ],
+    "first_source": "MCD-155",
+    "mention_count": 0,
+    "mention_count_basis": "not countable (generic or unnamed)",
+    "notes": "Unnamed; may or may not be one of the above."
+  },
+  {
+    "name": "The forty Vasks (cooperative era)",
+    "aliases": [
+      "the original forty"
+    ],
+    "type": "polity set (city-republics)",
+    "city_or_region": "Kares Prime",
+    "parent": "Kares Prime",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "~40 city-republics run by Iron-Speaker councils; ~4 million people at peak.",
+        "source": "MCD-150; MCD-159"
+      },
+      {
+        "claim": "Twenty-eight depopulated; their archives folded into the twelve survivors.",
+        "source": "MCD-155; MCD-160"
+      }
+    ],
+    "first_source": "MCD-150",
+    "mention_count": 2,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: forty Vasks|\\bforty\\b(?= Vasks)",
+    "notes": "The 28 depopulated Vasks are unnamed and unplaced."
+  },
+  {
+    "name": "Vask Threnarr",
+    "aliases": [
+      "Threnarr"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Largest (~3,200), medical-archival and genetic preservation.",
+        "source": "MCD-160"
+      },
+      {
+        "claim": "Nearest neighbor of Aldreth \"across a mountain saddle\"; the two share an ore-vein.",
+        "source": "lauris-chronicle-ii"
+      },
+      {
+        "claim": "Deep-mountain galleries beneath its medical-archival complex, a seam ~400 m down.",
+        "source": "lauris-chronicle-xv; MCD-171"
+      },
+      {
+        "claim": "Has an outer defensive line and walls; raided (Velith's and Selene's deaths).",
+        "source": "MCD-165; MCD-174; lauris XIV, LXIX"
+      },
+      {
+        "claim": "Its galleries are \"more distant\" from Ilvane than Aldreth's.",
+        "source": "lauris-chronicle-xviii"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 120,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Threnarr(?!-)",
+    "notes": "Largest surviving Vask (~3,200); medical-archival repository and genetic preservation site; Lauris's birth-hold."
+  },
+  {
+    "name": "Vask Aldreth",
+    "aliases": [
+      "Aldreth"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Agriculture and Ironstorm Blood-derived exports.",
+        "source": "MCD-160"
+      },
+      {
+        "claim": "Across a mountain saddle from Threnarr.",
+        "source": "lauris-chronicle-ii"
+      },
+      {
+        "claim": "Nearer to Ilvane than Threnarr \"by some six days' travel\"; absorbs Ilvane's forty.",
+        "source": "lauris-chronicle-xviii; MCD-1635"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 34,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Aldreth(?!-)",
+    "notes": "Agriculture and Ironstorm-Blood exports; Selene's home Vask."
+  },
+  {
+    "name": "Vask Karth-Ven",
+    "aliases": [
+      "Karth-Ven",
+      "\"the witnessed-walking deep-place\""
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "\"smallest but operationally critical\".",
+        "source": "MCD-160"
+      },
+      {
+        "claim": "Smallest of the twelve, ~480 residents; built into the spine ridge of the primary continent; 60 m Drakma training floor.",
+        "source": "MCD-1554; lauris-chronicle-xii"
+      },
+      {
+        "claim": "Keeps its own calendar tied to the floor's maintenance cycles.",
+        "source": "lauris-chronicle-xii"
+      },
+      {
+        "claim": "About three weeks on foot from Olmedrin by mountain passages.",
+        "source": "lauris-chronicle-lxxi"
+      },
+      {
+        "claim": "Has an outer grazing terrace bordering a neighboring settlement's water channel.",
+        "source": "lauris-chronicle-lxiii"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 141,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Karth-Ven",
+    "notes": "Combat-development repository."
+  },
+  {
+    "name": "Vask Olmedrin",
+    "aliases": [
+      "Olmedrin"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "\"the smallest by population, orbital-trade specialists managing contact with departing travelers\".",
+        "source": "MCD-160"
+      },
+      {
+        "claim": "Defended alone by Lauris against 400 raiders at age 2,800; outer defensive line.",
+        "source": "MCD-173"
+      },
+      {
+        "claim": "\"the smallest of the twelve surviving Vasks\".",
+        "source": "lauris-chronicle-lxxi"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 44,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Olmedrin",
+    "notes": "Orbital-trade specialists."
+  },
+  {
+    "name": "Vask Sethrenn",
+    "aliases": [
+      "Sethrenn"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Listed among the twelve.",
+        "source": "MCD-160"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Sethrenn",
+    "notes": "One of eight further Vasks; function unassigned individually."
+  },
+  {
+    "name": "Vask Vor-Meth",
+    "aliases": [
+      "Vor-Meth"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Listed among the twelve.",
+        "source": "MCD-160"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Vor-Meth",
+    "notes": "One of eight further Vasks; function unassigned."
+  },
+  {
+    "name": "Vask Iralek",
+    "aliases": [
+      "Iralek"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Listed among the twelve; also the second element of Olda Threnarr-Iralek's name.",
+        "source": "MCD-160; MCD-164"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 6,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Iralek(?!\\w)",
+    "notes": "One of eight further Vasks; function unassigned."
+  },
+  {
+    "name": "Vask Ostrenn",
+    "aliases": [
+      "Ostrenn"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Listed among the twelve.",
+        "source": "MCD-160"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Ostrenn",
+    "notes": "One of eight further Vasks; function unassigned."
+  },
+  {
+    "name": "Vask Drenmar",
+    "aliases": [
+      "Drenmar"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Listed among the twelve.",
+        "source": "MCD-160"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Drenmar",
+    "notes": "One of eight further Vasks; function unassigned."
+  },
+  {
+    "name": "Vask-of-Vasks",
+    "aliases": [
+      "the original founding site"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "\"the original founding site -- kept as a cultural rather than operational center\".",
+        "source": "MCD-160"
+      },
+      {
+        "claim": "\"its halls given over almost entirely to archive\"; holds diaspora and trade-point records; Lauris finds Cian there; has minute-keepers for the Council.",
+        "source": "lauris-chronicle-lxvi/lxvii/lxviii"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 10,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Vask-of-Vasks",
+    "notes": "Cultural, not operational, center; archive Vask."
+  },
+  {
+    "name": "Vask Aerth",
+    "aliases": [
+      "Aerth"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Listed among the twelve.",
+        "source": "MCD-160"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Aerth",
+    "notes": "One of eight further Vasks; function unassigned."
+  },
+  {
+    "name": "Vask Karen-Drael",
+    "aliases": [
+      "Karen-Drael"
+    ],
+    "type": "Vask (city-republic), one of the twelve survivors",
+    "city_or_region": "Kares Prime",
+    "parent": "The twelve surviving Vasks",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Listed among the twelve.",
+        "source": "MCD-160"
+      }
+    ],
+    "first_source": "MCD-160",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Karen-Drael",
+    "notes": "One of eight further Vasks; function unassigned."
+  },
+  {
+    "name": "Ilvane",
+    "aliases": [
+      "the failing hold of Ilvane"
+    ],
+    "type": "daughter-hold (settlement)",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Threnarr (founding parent); absorbed by Aldreth",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "A daughter-hold founded from Threnarr ~9,000 years earlier, \"never one of the forty Vasks\"; ~40 residents absorbed by Aldreth.",
+        "source": "MCD-1635 (as amended Batch 366)"
+      },
+      {
+        "claim": "Aldreth's galleries \"sat nearer Ilvane's location by some six days' travel\".",
+        "source": "lauris-chronicle-xviii"
+      },
+      {
+        "claim": "Its central chamber's ventilation had failed twice.",
+        "source": "lauris-chronicle-xviii"
+      },
+      {
+        "claim": "Closing archive line: \"Ilvane no longer exists as a Vask.\"",
+        "source": "lauris-chronicle-xviii"
+      }
+    ],
+    "first_source": "MCD-1635",
+    "mention_count": 27,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Ilvane",
+    "notes": "See conflict K3. Proves other non-Vask settlements exist; none other is named."
+  },
+  {
+    "name": "The Threnarr deep-mountain galleries (mining seam)",
+    "aliases": [],
+    "type": "mine",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Threnarr",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Seam ~400 m below the surface under the medical-archival complex; a fault rated stable 11,000 years shifted.",
+        "source": "lauris-chronicle-xv; MCD-171"
+      }
+    ],
+    "first_source": "lauris-chronicle-xv",
+    "mention_count": 5,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: mining collapse|deep-mountain galleries",
+    "notes": ""
+  },
+  {
+    "name": "The Threnarr medical-archival complex and archive",
+    "aliases": [],
+    "type": "archive / medical complex",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Threnarr",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Genetic preservation and the cryogenic samples.",
+        "source": "MCD-154; MCD-160"
+      }
+    ],
+    "first_source": "MCD-154",
+    "mention_count": 6,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Threnarr archive|medical-archival",
+    "notes": ""
+  },
+  {
+    "name": "The Threnarr–Aldreth ore-vein (and boundary marker)",
+    "aliases": [],
+    "type": "ore-vein",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Threnarr / Vask Aldreth",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Shared 11,000 years; Aldreth takes the southern face for four months; Threnarr gains a smaller secondary deposit.",
+        "source": "lauris-chronicle-ii; MCD-1562"
+      }
+    ],
+    "first_source": "lauris-chronicle-ii",
+    "mention_count": 5,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: ore-vein|the vein",
+    "notes": ""
+  },
+  {
+    "name": "The mountain saddle between Threnarr and Aldreth",
+    "aliases": [],
+    "type": "pass",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Threnarr / Vask Aldreth",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Aldreth is Threnarr's \"nearest neighbor across a mountain saddle\".",
+        "source": "lauris-chronicle-ii"
+      }
+    ],
+    "first_source": "lauris-chronicle-ii",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: mountain saddle",
+    "notes": ""
+  },
+  {
+    "name": "Karth-Ven central training floor",
+    "aliases": [],
+    "type": "training platform",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Karth-Ven",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "60-meter circular platform of high-gravity-forged Drakma, calibrated 28,000 years.",
+        "source": "MCD-1554"
+      },
+      {
+        "claim": "Fails to read Lauris at age ~3,150.",
+        "source": "MCD-1637"
+      }
+    ],
+    "first_source": "MCD-1554",
+    "mention_count": 18,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: training floor",
+    "notes": ""
+  },
+  {
+    "name": "Karth-Ven third gallery (resealed)",
+    "aliases": [],
+    "type": "gallery",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Karth-Ven",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "Drakma stock store below the residence chambers; collapse at age ~2,150; resealed; the floor stands above it.",
+        "source": "lauris-chronicle-xvii"
+      }
+    ],
+    "first_source": "lauris-chronicle-xvii",
+    "mention_count": 3,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: third gallery",
+    "notes": ""
+  },
+  {
+    "name": "Karth-Ven outer grazing terrace and the neighboring water channel",
+    "aliases": [],
+    "type": "terrace / boundary",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Karth-Ven",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "A forty-pace boundary dispute with \"a neighboring settlement\".",
+        "source": "lauris-chronicle-lxiii"
+      }
+    ],
+    "first_source": "lauris-chronicle-lxiii",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: grazing terrace",
+    "notes": ""
+  },
+  {
+    "name": "The Karth-Ven–Olmedrin mountain passages",
+    "aliases": [],
+    "type": "route",
+    "city_or_region": "Kares Prime",
+    "parent": "Vask Karth-Ven / Vask Olmedrin",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "\"the better part of three weeks, most of it on foot\"; Lauris stops \"at each of the twelve Vasks in turn where the route allowed\".",
+        "source": "lauris-chronicle-lxxi"
+      },
+      {
+        "claim": "\"walked the mountain passage out of Karth-Ven\".",
+        "source": "lauris-chronicle-lxx"
+      }
+    ],
+    "first_source": "lauris-chronicle-lxxi",
+    "mention_count": 2,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: mountain passage",
+    "notes": ""
+  },
+  {
+    "name": "The Iron-Halls of Vask",
+    "aliases": [],
+    "type": "archive institution",
+    "city_or_region": "Kares Prime",
+    "parent": "Kares Prime (Vask unstated)",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "The central institution of the Sister-Hold era.",
+        "source": "MCD-158"
+      },
+      {
+        "claim": "The oldest archive, reaching back ~34,000 years.",
+        "source": "MCD-1548"
+      }
+    ],
+    "first_source": "MCD-158",
+    "mention_count": 6,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Iron-Halls of Vask",
+    "notes": ""
+  },
+  {
+    "name": "The Council of Iron-Speakers / Great Conclave / Last Conclave",
+    "aliases": [],
+    "type": "governing assembly",
+    "city_or_region": "Kares Prime",
+    "parent": "Kares Prime (seat unstated)",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "The Great Conclave commissioned the K-strand inquiry; the Last Conclave made three decisions.",
+        "source": "MCD-153; MCD-154"
+      },
+      {
+        "claim": "The full Council convenes rarely; minutes kept by Vask-of-Vasks minute-keepers.",
+        "source": "lauris-chronicle-lxvii"
+      }
+    ],
+    "first_source": "MCD-153",
+    "mention_count": 7,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Conclave|Council of Iron-Speakers",
+    "notes": ""
+  },
+  {
+    "name": "Sister-Hold (institution, not a place)",
+    "aliases": [],
+    "type": "household institution",
+    "city_or_region": "Kares Prime",
+    "parent": "within each Vask",
+    "homage_of": null,
+    "locational_claims": [
+      {
+        "claim": "All-female successor to the Pair-Hold; each keeps an archive nested in its Vask's.",
+        "source": "MCD-154; MCD-158; MCD-161"
+      }
+    ],
+    "first_source": "MCD-154",
+    "mention_count": 61,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Sister-Holds?",
+    "notes": ""
+  }
+]

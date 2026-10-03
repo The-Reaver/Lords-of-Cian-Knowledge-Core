@@ -1,0 +1,1833 @@
+[
+  {
+    "name": "The homage World (unnamed)",
+    "aliases": [
+      "the homage era World",
+      "the Phase 2 World",
+      "\"this homage World\" (MCD-472)"
+    ],
+    "type": "world",
+    "city_or_region": "the homage World",
+    "parent": "the shared universe (with Cian and Kares Prime)",
+    "homage_of": "The United States, Great Migration through 2026 (thematic, not technological)",
+    "locational_claims": [
+      {
+        "claim": "A separate World within the same universe as Cian, not a Dimension and not a region of Cian; follows the Kares Prime precedent: a distinct, physically reachable planet.",
+        "source": "MCD-313"
+      },
+      {
+        "claim": "Travel between worlds is available in-fiction, so the Great Migration homage can be literal migration between worlds.",
+        "source": "MCD-313; OPEN-009"
+      },
+      {
+        "claim": "Firmly pre-industrial: no engines beyond the Hymn-Engine/Meridian Engine, no firearms, no broadcast media; criers and hand-copied broadsheets instead.",
+        "source": "PH2-049"
+      },
+      {
+        "claim": "The Sealbound Directorate does not operate here; a patrol in Taifa II was corrected from SBD to \"the claimed land's hostile neighbors\" as a world-bleed fix.",
+        "source": "MCD-472; PH2-049"
+      },
+      {
+        "claim": "Homage-era survivors live long enough to become ancient veterans who reinforce Book 1 on Cian.",
+        "source": "PH2-048"
+      }
+    ],
+    "first_source": "MCD-313",
+    "mention_count": 5,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: homage World|homage world|separate World",
+    "notes": "No in-fiction proper name exists for this planet anywhere in canon. No sky, moon, climate, continent or ocean facts are locked."
+  },
+  {
+    "name": "Crossing between the homage World and Cian (mechanism undefined)",
+    "aliases": [
+      "travel between worlds"
+    ],
+    "type": "inter-world route",
+    "city_or_region": "the homage World",
+    "parent": "The homage World / Cian",
+    "homage_of": "Great Migration (literalized)",
+    "locational_claims": [
+      {
+        "claim": "Travel between worlds exists, \"as it already is for Lauris\" (her route ran Vask Olmedrin orbital trade-point to the Kesmara orbital descent station on Cian).",
+        "source": "MCD-313; MCD-174; MCD-175"
+      },
+      {
+        "claim": "Kanja appears in every territory as an unnamed guest, but no Chronicle shows him arriving from Cian; Xaragua II has him \"three days making his way toward that table\" in Xaragua.",
+        "source": "MCD-337; xaragua-chronicle-ii narrative"
+      },
+      {
+        "claim": "Xaragua I: \"He was not dressed for Xaragua's coast\"; leaves \"in the direction of whatever coast next needed a body.\"",
+        "source": "xaragua-chronicle-i narrative"
+      },
+      {
+        "claim": "The only depiction of an homage-World figure on Cian (Ogoun Xarey at Maw-15) was withdrawn.",
+        "source": "MCD-331 (withdrawn, superseded by MCD-334)"
+      }
+    ],
+    "first_source": "MCD-313",
+    "mention_count": 0,
+    "mention_count_basis": "not countable (no named mechanism exists)",
+    "notes": "Gap: no named port, gate, station or vessel; no arrival point on either side; no transit time. Needed before the Atlas can draw a universe-level link."
+  },
+  {
+    "name": "The old empire (overseas colonial power, unnamed)",
+    "aliases": [
+      "\"the old empire\"",
+      "the occupier"
+    ],
+    "type": "foreign polity",
+    "city_or_region": "the homage World",
+    "parent": "The homage World (overseas)",
+    "homage_of": "French and Spanish colonial empires (Haitian/Cuban/Dominican independence wars)",
+    "locational_claims": [
+      {
+        "claim": "Ogoun Xarey's mentor believed \"the old empire could be reasoned with\" and died \"in a foreign cell\".",
+        "source": "PH2-002"
+      },
+      {
+        "claim": "Xaragua I: a besieging force; \"the ships on the horizon\" decide the coast is not worth the cost.",
+        "source": "xaragua-chronicle-i narrative; MCD-334"
+      }
+    ],
+    "first_source": "PH2-002",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: old empire",
+    "notes": "Implies an overseas power with a navy. Not located."
+  },
+  {
+    "name": "Lands across the sea (Yaque's country; \"the exiles abroad\")",
+    "aliases": [
+      "abroad",
+      "overseas"
+    ],
+    "type": "foreign region",
+    "city_or_region": "the homage World",
+    "parent": "The homage World (overseas)",
+    "homage_of": "Nicaragua (Sandino); the Cuban exile communities",
+    "locational_claims": [
+      {
+        "claim": "Kwabena \"crosses the sea to fight beside Yaque\"; Baiguate trains \"with allies abroad\" and lands again.",
+        "source": "PH2-014; PH2-018"
+      },
+      {
+        "claim": "Ina is \"courier between the mountains and the exiles abroad\".",
+        "source": "PH2-016"
+      },
+      {
+        "claim": "Arturo's cohort: \"war took several overseas\".",
+        "source": "PH2-061"
+      }
+    ],
+    "first_source": "PH2-014",
+    "mention_count": 4,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: across the sea|abroad|overseas",
+    "notes": "At least one foreign country reachable by sea from Xaragua. Unnamed."
+  },
+  {
+    "name": "The mountains of refuge (Xaragua's hinterland)",
+    "aliases": [
+      "\"the mountains\""
+    ],
+    "type": "mountain region",
+    "city_or_region": "the homage World / Batey hinterland",
+    "parent": "Xaragua",
+    "homage_of": "The Cibao / central mountains of Hispaniola; the Sierra Maestra",
+    "locational_claims": [
+      {
+        "claim": "Cibao \"the first man to turn the mountains into a refuge for the escaped and hunted\"; named from the Taino term for Hispaniola's central mountain stronghold region.",
+        "source": "PH2-014"
+      },
+      {
+        "claim": "A courier route runs \"between the mountains and the exiles abroad\".",
+        "source": "PH2-016"
+      }
+    ],
+    "first_source": "PH2-014",
+    "mention_count": 2,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: the mountains",
+    "notes": "Count is noisy (generic phrase). Never shown in a Chronicle. Whether these mountains are inside Batey's city limits or a separate country is the Xaragua scale question (see report)."
+  },
+  {
+    "name": "Duro and Doss's small town (unnamed)",
+    "aliases": [
+      "\"a small-town setting adjacent to the Batey cluster\""
+    ],
+    "type": "town",
+    "city_or_region": "the homage World",
+    "parent": "adjacent to Batey",
+    "homage_of": "Briarcliff Manor / Westchester County towns, NY",
+    "locational_claims": [
+      {
+        "claim": "A small-town setting adjacent to the Batey cluster.",
+        "source": "PH2-047"
+      },
+      {
+        "claim": "Has a market square where Duro cries his findings and hands out broadsheets.",
+        "source": "PH2-047"
+      }
+    ],
+    "first_source": "PH2-047",
+    "mention_count": 5,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Duro",
+    "notes": "No Chronicle yet. Contains: the market square."
+  },
+  {
+    "name": "The town two days south (unnamed)",
+    "aliases": [
+      "\"a town two days south\""
+    ],
+    "type": "town",
+    "city_or_region": "the homage World",
+    "parent": "south of Muungano",
+    "homage_of": "none",
+    "locational_claims": [
+      {
+        "claim": "One copy of Ase's account is sewn into a traveler's coat \"bound for a town two days south that had never heard the Magistrate's name\".",
+        "source": "ide-chronicle-i narrative; MCD-342"
+      }
+    ],
+    "first_source": "MCD-342",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: two days south",
+    "notes": "The only stated overland distance from any homage city."
+  },
+  {
+    "name": "Taifa's claimed land",
+    "aliases": [
+      "the claimed land",
+      "the claimed territory"
+    ],
+    "type": "claimed territory",
+    "city_or_region": "the homage World",
+    "parent": "Mji (by affiliation) but physically distant",
+    "homage_of": "The Republic of New Afrika's claimed national territory (the Deep South \"Kush\" district)",
+    "locational_claims": [
+      {
+        "claim": "Taifa homages the RNA, \"a Black nationalist movement that drafted its own constitution and sought its own claimed territory\".",
+        "source": "PH2-052"
+      },
+      {
+        "claim": "Sworn cells are \"scattered across three cities and one stretch of claimed land none of them could reach inside a week's hard travel\".",
+        "source": "taifa-chronicle-i narrative; MCD-352"
+      },
+      {
+        "claim": "Has hostile neighbors who send patrols.",
+        "source": "MCD-472; the-oath-he-didnt-mean narrative"
+      }
+    ],
+    "first_source": "PH2-052",
+    "mention_count": 9,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: claimed land",
+    "notes": "Contains: the outer post; a second \"claimed outpost\" (Taifa I). Location relative to Mji undefined."
+  },
+  {
+    "name": "The claimed land's outer post",
+    "aliases": [
+      "the outer post",
+      "the outer network"
+    ],
+    "type": "outpost",
+    "city_or_region": "the homage World",
+    "parent": "Taifa's claimed land",
+    "homage_of": "none",
+    "locational_claims": [
+      {
+        "claim": "A dawn raid hits it; sworn hands converge \"from three different directions at once\" from towns that \"shared no road\".",
+        "source": "taifa-chronicle-i narrative"
+      },
+      {
+        "claim": "Site of the insincere recruit's near-betrayal.",
+        "source": "the-oath-he-didnt-mean narrative; MCD-472"
+      }
+    ],
+    "first_source": "MCD-352",
+    "mention_count": 6,
+    "mention_count_basis": "narrative prose of the taifa territory Chronicles only, pattern: outer post",
+    "notes": ""
+  },
+  {
+    "name": "Taifa's three (and four) cities",
+    "aliases": [
+      "\"three cities\"",
+      "\"a fourth city\""
+    ],
+    "type": "cities (unnamed)",
+    "city_or_region": "the homage World",
+    "parent": "The homage World",
+    "homage_of": "The RNA's multi-city membership (Detroit, Jackson, New York, etc.)",
+    "locational_claims": [
+      {
+        "claim": "Cells in three cities; word comes \"from a fourth city, one he had no sworn cell in at all\", of a different claimed outpost.",
+        "source": "taifa-chronicle-i narrative"
+      },
+      {
+        "claim": "Sworn members \"in three separate cities\" share Osei's joy.",
+        "source": "taifa-chronicle-iii narrative"
+      }
+    ],
+    "first_source": "MCD-352",
+    "mention_count": 4,
+    "mention_count_basis": "narrative prose of the taifa territory Chronicles only, pattern: three cities|fourth city|three separate cities",
+    "notes": "Whether these include Batey, Muungano or Ilu-Marun, or are further unnamed cities, is undefined. The homage World therefore has more than four cities."
+  },
+  {
+    "name": "Batey",
+    "aliases": [
+      "NYC-equivalent"
+    ],
+    "type": "city",
+    "city_or_region": "the homage World",
+    "parent": "The homage World",
+    "homage_of": "New York City",
+    "locational_claims": [
+      {
+        "claim": "City name (Taino communal gathering plaza), replacing leaked real \"NYC\" in 31 rule statements.",
+        "source": "Batch 290; PH2-009/060/061"
+      },
+      {
+        "claim": "Five territories: Xaragua, Areito, Yara, Guanin, Boriken; no Staten Island homage.",
+        "source": "PH2-001-010; dev doc"
+      },
+      {
+        "claim": "One citywide underworld layer, the Five Families, one family per territory.",
+        "source": "PH2-060"
+      },
+      {
+        "claim": "Coastal: Xaragua has a coast, docks and a fish market; Yara has dockworkers and a flood-control problem.",
+        "source": "xaragua-chronicle-i/ii; yara-chronicle-iii"
+      },
+      {
+        "claim": "A small town lies adjacent to the Batey cluster.",
+        "source": "PH2-047"
+      }
+    ],
+    "first_source": "Batch 290",
+    "mention_count": 26,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Batey(?!-)",
+    "notes": ""
+  },
+  {
+    "name": "Ìlú-Márùn",
+    "aliases": [
+      "Ilu-Marun",
+      "Ílú-Márùn",
+      "LA-equivalent"
+    ],
+    "type": "city",
+    "city_or_region": "the homage World",
+    "parent": "The homage World",
+    "homage_of": "Los Angeles",
+    "locational_claims": [
+      {
+        "claim": "City name (Yoruba, \"Five-Town\"); five territories: Sankofa, Aztlan, Atunbi, Ijoko, Orin.",
+        "source": "Batch 290; PH2-020-029"
+      }
+    ],
+    "first_source": "Batch 290",
+    "mention_count": 28,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Ílú-Márùn|Ìlú-Márùn|Ilu-Marun",
+    "notes": "No coast, river, hill or district geography is stated anywhere. Spelling drift: ledger uses \"Ílú-Márùn\" (acute I); CLAUDE.md uses \"Ìlú-Márùn\" (grave I)."
+  },
+  {
+    "name": "Muungano",
+    "aliases": [
+      "Chicago-equivalent"
+    ],
+    "type": "city",
+    "city_or_region": "the homage World",
+    "parent": "The homage World",
+    "homage_of": "Chicago",
+    "locational_claims": [
+      {
+        "claim": "Third city; five territories Ide, Kwan, Umoja, Jibaro, Uhuru.",
+        "source": "PH2-035-044; Batch 290"
+      },
+      {
+        "claim": "Wards and aldermen; a council bloc; a court-ordered redistricting.",
+        "source": "uhuru-chronicle-i/ii; kwan-chronicle-i"
+      },
+      {
+        "claim": "Fish carts and a morning catch imply a fishing shore.",
+        "source": "ide-chronicle-i narrative"
+      },
+      {
+        "claim": "A town lies two days south.",
+        "source": "ide-chronicle-i"
+      }
+    ],
+    "first_source": "PH2-035",
+    "mention_count": 34,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Muungano",
+    "notes": ""
+  },
+  {
+    "name": "Mji",
+    "aliases": [
+      "Detroit-equivalent"
+    ],
+    "type": "city",
+    "city_or_region": "the homage World",
+    "parent": "The homage World",
+    "homage_of": "Detroit",
+    "locational_claims": [
+      {
+        "claim": "Fourth city; territories Kazi, Taifa, Hekalu, Nyansa, Kiti.",
+        "source": "PH2-050-059; OPEN-011"
+      },
+      {
+        "claim": "Has freight piers and a central loading yard (Kazi's district).",
+        "source": "kazi-chronicle-iii narrative"
+      }
+    ],
+    "first_source": "PH2-050",
+    "mention_count": 33,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Mji\\b",
+    "notes": "\"Mji\" is Swahili for \"town/city,\" so it reads as a generic noun. Distinguish from Taifa's other unnamed cities on any map."
+  },
+  {
+    "name": "Xaragua",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Batey",
+    "parent": "Batey",
+    "homage_of": "The Bronx",
+    "locational_claims": [
+      {
+        "claim": "Bronx-equivalent; named for a Taino chiefdom (in what is now Haiti); supplies the alliance's raw force.",
+        "source": "PH2-001"
+      },
+      {
+        "claim": "Has a southern approach and a coastal redoubt on \"this spit of land\", held against a seaborne siege.",
+        "source": "xaragua-chronicle-i; MCD-334"
+      },
+      {
+        "claim": "Has docks, a dockside cantina and a fish market; Arturo was a dock boy here.",
+        "source": "xaragua-chronicle-ii/iii/v"
+      },
+      {
+        "claim": "Arturo is a Xaragua native and grants Kanja passage through all five Batey territories from here.",
+        "source": "PH2-061; MCD-337"
+      }
+    ],
+    "first_source": "PH2-001",
+    "mention_count": 140,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Xaragua)\\b",
+    "notes": "The territory carries a nation-scale history (see report: Xaragua scale question)."
+  },
+  {
+    "name": "Areíto",
+    "aliases": [
+      "Areito"
+    ],
+    "type": "territory",
+    "city_or_region": "Batey",
+    "parent": "Batey",
+    "homage_of": "Harlem",
+    "locational_claims": [
+      {
+        "claim": "Harlem-equivalent; its underworld (numbers, corners) is the supply and intelligence network; its Renaissance is the recruitment engine.",
+        "source": "PH2-003"
+      },
+      {
+        "claim": "Its press \"had set every broadside out of Areíto for the better part of a decade\".",
+        "source": "guanin-chronicle-ii"
+      }
+    ],
+    "first_source": "PH2-003",
+    "mention_count": 68,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Areíto|Areito)\\b",
+    "notes": "Spelled Areito in ledger rule IDs/statements and Areíto in prose."
+  },
+  {
+    "name": "Yara",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Batey",
+    "parent": "Batey",
+    "homage_of": "Brooklyn",
+    "locational_claims": [
+      {
+        "claim": "Brooklyn-equivalent; founding myth: \"the oldest free ground in the alliance, settled before Xaragua ever burned\".",
+        "source": "PH2-005"
+      },
+      {
+        "claim": "Half its public buildings are roofless by design, by long custom.",
+        "source": "yara-chronicle-i"
+      },
+      {
+        "claim": "Needs flood control; has dockworkers.",
+        "source": "yara-chronicle-iii"
+      }
+    ],
+    "first_source": "PH2-005",
+    "mention_count": 47,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Yara)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Guanín",
+    "aliases": [
+      "Guanin"
+    ],
+    "type": "territory",
+    "city_or_region": "Batey",
+    "parent": "Batey",
+    "homage_of": "Queens",
+    "locational_claims": [
+      {
+        "claim": "Queens-equivalent; named for the prestige gold-copper alloy.",
+        "source": "PH2-007"
+      },
+      {
+        "claim": "Has crier squares where Areito's pamphlets are read; \"both accounts still standing in the same square for anyone in either territory\".",
+        "source": "guanin-chronicle-ii"
+      }
+    ],
+    "first_source": "PH2-007",
+    "mention_count": 59,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Guanín|Guanin)\\b",
+    "notes": "Guanin II implies a square shared with, or reachable from, Areito."
+  },
+  {
+    "name": "Borikén",
+    "aliases": [
+      "Boriken"
+    ],
+    "type": "territory",
+    "city_or_region": "Batey",
+    "parent": "Batey",
+    "homage_of": "none (invented fifth territory; Young Lords NYC)",
+    "locational_claims": [
+      {
+        "claim": "Invented fifth Batey territory, not a borough; mutual-aid network of clinics, breakfast programs and occupied buildings.",
+        "source": "PH2-009"
+      },
+      {
+        "claim": "Has \"different corners\" where impostors operate.",
+        "source": "boriken-chronicle-iii"
+      }
+    ],
+    "first_source": "PH2-009",
+    "mention_count": 41,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Borikén|Boriken)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Sankofa",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Ìlú-Márùn",
+    "parent": "Ìlú-Márùn",
+    "homage_of": "South Central Los Angeles",
+    "locational_claims": [
+      {
+        "claim": "South Central-equivalent.",
+        "source": "PH2-020"
+      },
+      {
+        "claim": "Has \"western blocks\" whose control is disputed.",
+        "source": "sankofa-chronicle-i; MCD-346"
+      }
+    ],
+    "first_source": "PH2-020",
+    "mention_count": 70,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Sankofa)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Aztlán",
+    "aliases": [
+      "Aztlan"
+    ],
+    "type": "territory",
+    "city_or_region": "Ìlú-Márùn",
+    "parent": "Ìlú-Márùn",
+    "homage_of": "East Los Angeles",
+    "locational_claims": [
+      {
+        "claim": "East LA-equivalent; Nahuatl naming register.",
+        "source": "PH2-022"
+      },
+      {
+        "claim": "Contains East Gate High.",
+        "source": "PH2-030"
+      }
+    ],
+    "first_source": "PH2-022",
+    "mention_count": 41,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Aztlán|Aztlan)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Atunbi",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Ìlú-Márùn",
+    "parent": "Ìlú-Márùn",
+    "homage_of": "Watts",
+    "locational_claims": [
+      {
+        "claim": "Watts-equivalent.",
+        "source": "PH2-024"
+      },
+      {
+        "claim": "Vacant lots turned into gardens.",
+        "source": "PH2-025; atunbi-chronicle-i"
+      }
+    ],
+    "first_source": "PH2-024",
+    "mention_count": 28,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Atunbi)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Ijoko",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Ìlú-Márùn",
+    "parent": "Ìlú-Márùn",
+    "homage_of": "Compton",
+    "locational_claims": [
+      {
+        "claim": "Compton-equivalent; its tax base is \"thinning year over year as families and businesses both packed up for somewhere the numbers worked better\".",
+        "source": "PH2-026; ijoko-chronicle-i"
+      }
+    ],
+    "first_source": "PH2-026",
+    "mention_count": 31,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Ijoko)\\b",
+    "notes": "Ijoko II calls Ijoko a \"district\" and its capital flows \"elsewhere\"."
+  },
+  {
+    "name": "Orin",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Ìlú-Márùn",
+    "parent": "Ìlú-Márùn",
+    "homage_of": "Leimert Park",
+    "locational_claims": [
+      {
+        "claim": "Leimert Park-equivalent.",
+        "source": "PH2-028"
+      }
+    ],
+    "first_source": "PH2-028",
+    "mention_count": 31,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Orin)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Ide",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Muungano",
+    "parent": "Muungano",
+    "homage_of": "Bronzeville",
+    "locational_claims": [
+      {
+        "claim": "Bronzeville-equivalent.",
+        "source": "PH2-035"
+      },
+      {
+        "claim": "A granary \"fed half of Ide through the lean months\".",
+        "source": "ide-chronicle-i"
+      }
+    ],
+    "first_source": "PH2-035",
+    "mention_count": 41,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Ide)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Kwan",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Muungano",
+    "parent": "Muungano",
+    "homage_of": "The West Side",
+    "locational_claims": [
+      {
+        "claim": "West Side-equivalent.",
+        "source": "PH2-037"
+      },
+      {
+        "claim": "Called \"the ward\"; a hostile neighborhood begins \"three blocks in\".",
+        "source": "kwan-chronicle-i"
+      },
+      {
+        "claim": "Uhuru I: the review board was staked \"in a different ward entirely\".",
+        "source": "uhuru-chronicle-i"
+      }
+    ],
+    "first_source": "PH2-037",
+    "mention_count": 39,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Kwan)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Umoja",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Muungano",
+    "parent": "Muungano",
+    "homage_of": "West Garfield Park",
+    "locational_claims": [
+      {
+        "claim": "West Garfield Park-equivalent.",
+        "source": "PH2-039"
+      },
+      {
+        "claim": "A district with a dozen organized workplaces.",
+        "source": "umoja-chronicle-iii"
+      }
+    ],
+    "first_source": "PH2-039",
+    "mention_count": 56,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Umoja)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Jibaro",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Muungano",
+    "parent": "Muungano",
+    "homage_of": "Lincoln Park",
+    "locational_claims": [
+      {
+        "claim": "Lincoln Park-equivalent.",
+        "source": "PH2-041"
+      },
+      {
+        "claim": "Contains the seminary, a half-acre lot, a guild textile mill, a city freight depot, three charity tenements, and a neighborhood schoolhouse.",
+        "source": "jibaro I-III"
+      }
+    ],
+    "first_source": "PH2-041",
+    "mention_count": 31,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Jibaro)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Uhuru",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Muungano",
+    "parent": "Muungano",
+    "homage_of": "Citywide / City Hall",
+    "locational_claims": [
+      {
+        "claim": "\"The citywide/City Hall-equivalent territory... institutional political power rather than one neighborhood.\"",
+        "source": "PH2-043"
+      }
+    ],
+    "first_source": "PH2-043",
+    "mention_count": 45,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Uhuru)\\b",
+    "notes": "Non-spatial: overlaps every other Muungano territory. Map as an overlay, not a district."
+  },
+  {
+    "name": "Kazi",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Mji",
+    "parent": "Mji",
+    "homage_of": "No neighborhood (League of Revolutionary Black Workers / DRUM; real site Dodge Main, Hamtramck -- suggested, not locked)",
+    "locational_claims": [
+      {
+        "claim": "\"Anchored on the auto-plant floor rather than any single building or neighborhood\".",
+        "source": "PH2-050"
+      },
+      {
+        "claim": "Yet Kazi III gives Kazi \"its own district\" with piers and a central loading yard.",
+        "source": "kazi-chronicle-iii"
+      }
+    ],
+    "first_source": "PH2-050",
+    "mention_count": 125,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Kazi)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Taifa",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Mji",
+    "parent": "Mji",
+    "homage_of": "No neighborhood (Republic of New Afrika)",
+    "locational_claims": [
+      {
+        "claim": "Mji's second territory, a land-sovereignty project.",
+        "source": "PH2-052"
+      },
+      {
+        "claim": "Cells spread over three or four cities plus a claimed land a week's hard travel away.",
+        "source": "taifa-chronicle-i"
+      }
+    ],
+    "first_source": "PH2-052",
+    "mention_count": 28,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Taifa)\\b",
+    "notes": "See conflict H2."
+  },
+  {
+    "name": "Hekalu",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Mji",
+    "parent": "Mji",
+    "homage_of": "No neighborhood (Shrine of the Black Madonna; real site on Linwood Avenue, Detroit -- suggested, not locked)",
+    "locational_claims": [
+      {
+        "claim": "Cooperative-economics territory: farms, a press, cultural complexes.",
+        "source": "PH2-054"
+      },
+      {
+        "claim": "A bakery cooperative, with a rival cooperative \"two blocks over\".",
+        "source": "hekalu-chronicle-i"
+      }
+    ],
+    "first_source": "PH2-054",
+    "mention_count": 29,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Hekalu)\\b",
+    "notes": ""
+  },
+  {
+    "name": "Nyansa",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Mji",
+    "parent": "Mji",
+    "homage_of": "No neighborhood (James Boggs)",
+    "locational_claims": [
+      {
+        "claim": "Movement-theory territory.",
+        "source": "PH2-056"
+      },
+      {
+        "claim": "Its organizing committee covers \"the plant's night-shift workers\".",
+        "source": "nyansa-chronicle-i"
+      }
+    ],
+    "first_source": "PH2-056",
+    "mention_count": 28,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Nyansa)\\b",
+    "notes": "Which plant? Possibly Kazi's; undefined."
+  },
+  {
+    "name": "Kiti",
+    "aliases": [],
+    "type": "territory",
+    "city_or_region": "Mji",
+    "parent": "Mji",
+    "homage_of": "The Detroit mayoralty (no neighborhood)",
+    "locational_claims": [
+      {
+        "claim": "Capstone \"seat of power\" territory, paralleling Uhuru.",
+        "source": "PH2-058"
+      }
+    ],
+    "first_source": "PH2-058",
+    "mention_count": 33,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: \\b(?:Kiti)\\b",
+    "notes": "Non-spatial; map as an overlay."
+  },
+  {
+    "name": "The coastal redoubt and its gate",
+    "aliases": [],
+    "type": "redoubt / fortification",
+    "city_or_region": "Batey / Xaragua",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Gate is \"eight hundred people's only way off this spit of land\"; stake-line, east face, low-tide mud; the southern approach held six generations.",
+        "source": "xaragua-chronicle-i; MCD-334"
+      }
+    ],
+    "first_source": "xaragua-chronicle-i",
+    "mention_count": 7,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: redoubt|the gate",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The dockside cantina (back room above it)",
+    "aliases": [],
+    "type": "tavern",
+    "city_or_region": "Batey / Xaragua",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Arturo's table sits in \"the back room above the dockside cantina\".",
+        "source": "xaragua-chronicle-ii; MCD-337"
+      }
+    ],
+    "first_source": "xaragua-chronicle-ii",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: cantina",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Xaragua fish market",
+    "aliases": [],
+    "type": "market",
+    "city_or_region": "Batey / Xaragua",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Kanja \"stopped a beating in the fish market\".",
+        "source": "xaragua-chronicle-ii"
+      }
+    ],
+    "first_source": "xaragua-chronicle-ii",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: fish market",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Xaragua docks",
+    "aliases": [],
+    "type": "waterfront",
+    "city_or_region": "Batey / Xaragua",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Arturo's dock-boy cohort; a docking-fees dispute became the street war; Yaisa finds Kanja \"near the docks\".",
+        "source": "xaragua-chronicle-iii/iv/v"
+      }
+    ],
+    "first_source": "xaragua-chronicle-iii/iv/v",
+    "mention_count": 9,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: \\bdocks?\\b",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The dry-goods store cellar",
+    "aliases": [],
+    "type": "building",
+    "city_or_region": "Batey / Xaragua",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Yaisa survives in \"the cellar under the dry-goods store\"; Arturo's first use of Blood Debt.",
+        "source": "xaragua-chronicle-iii; MCD-361"
+      }
+    ],
+    "first_source": "xaragua-chronicle-iii",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: dry-goods",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The street-war instigator's table",
+    "aliases": [],
+    "type": "building",
+    "city_or_region": "Batey / Xaragua",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "\"his own table two blocks over\" from the cohort's block.",
+        "source": "xaragua-chronicle-iii"
+      }
+    ],
+    "first_source": "xaragua-chronicle-iii",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: two blocks over",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The western supply line",
+    "aliases": [],
+    "type": "route",
+    "city_or_region": "Batey / Xaragua (outbound)",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Arturo is gone eleven days \"running the western supply line\".",
+        "source": "xaragua-chronicle-iii"
+      }
+    ],
+    "first_source": "xaragua-chronicle-iii",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: western supply line",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Arturo's house (the remembrance room)",
+    "aliases": [],
+    "type": "residence",
+    "city_or_region": "Batey / Xaragua",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Annual remembrance with three empty chairs.",
+        "source": "xaragua-chronicle-v; MCD-1024"
+      }
+    ],
+    "first_source": "xaragua-chronicle-v",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: three empty chairs|at the house",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The freight hold (child-trafficking site)",
+    "aliases": [],
+    "type": "building",
+    "city_or_region": "Batey / Xaragua",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "\"a man selling children out of a freight hold two streets from here\".",
+        "source": "xaragua-chronicle-vi"
+      }
+    ],
+    "first_source": "xaragua-chronicle-vi",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: freight hold",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The tenement fire site",
+    "aliases": [],
+    "type": "building (destroyed)",
+    "city_or_region": "Batey / Xaragua",
+    "parent": "Xaragua",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Where Arturo found six-year-old Naya.",
+        "source": "xaragua-chronicle-iv; MCD-362"
+      }
+    ],
+    "first_source": "xaragua-chronicle-iv",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the xaragua territory Chronicles only, pattern: tenement fire",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The barbershop back room",
+    "aliases": [],
+    "type": "barbershop",
+    "city_or_region": "Batey / Areíto",
+    "parent": "Areíto",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Kwame Ade waits there for his former allies.",
+        "source": "areito-chronicle-i; MCD-339"
+      }
+    ],
+    "first_source": "areito-chronicle-i",
+    "mention_count": 4,
+    "mention_count_basis": "narrative prose of the areito territory Chronicles only, pattern: barbershop",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Kwame Ade's print shop (the Areíto press)",
+    "aliases": [],
+    "type": "print shop",
+    "city_or_region": "Batey / Areíto",
+    "parent": "Areíto",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Adeyemi confronts him there; it sets \"every broadside out of Areíto\".",
+        "source": "areito-chronicle-ii; guanin-chronicle-ii"
+      }
+    ],
+    "first_source": "areito-chronicle-ii",
+    "mention_count": 4,
+    "mention_count_basis": "narrative prose of the areito territory Chronicles only, pattern: print shop|press",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The roofless announcement hall",
+    "aliases": [],
+    "type": "hall",
+    "city_or_region": "Batey / Yara",
+    "parent": "Yara",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Yalokona announces her candidacy \"where the sky could hear it\".",
+        "source": "yara-chronicle-i; MCD-336"
+      }
+    ],
+    "first_source": "yara-chronicle-i",
+    "mention_count": 2,
+    "mention_count_basis": "narrative prose of the yara territory Chronicles only, pattern: roofless|announcement hall",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Yara community clinic (planned)",
+    "aliases": [],
+    "type": "clinic",
+    "city_or_region": "Batey / Yara",
+    "parent": "Yara",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Funded eighteen months late after the bribe refusal.",
+        "source": "yara-chronicle-ii; MCD-464"
+      }
+    ],
+    "first_source": "yara-chronicle-ii",
+    "mention_count": 6,
+    "mention_count_basis": "narrative prose of the yara territory Chronicles only, pattern: clinic",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The forty-family block",
+    "aliases": [],
+    "type": "block",
+    "city_or_region": "Batey / Yara",
+    "parent": "Yara",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "A zoning variance would have displaced forty families.",
+        "source": "yara-chronicle-ii"
+      }
+    ],
+    "first_source": "yara-chronicle-ii",
+    "mention_count": 3,
+    "mention_count_basis": "narrative prose of the yara territory Chronicles only, pattern: forty families",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Guanín crier squares",
+    "aliases": [],
+    "type": "public square",
+    "city_or_region": "Batey / Guanín",
+    "parent": "Guanín",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Criers read pamphlets here; Eri Kotoko's reply is set \"beside his\" in the same square.",
+        "source": "guanin-chronicle-ii; MCD-357"
+      }
+    ],
+    "first_source": "guanin-chronicle-ii",
+    "mention_count": 8,
+    "mention_count_basis": "narrative prose of the guanin territory Chronicles only, pattern: square",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The counting-house (Eri Kotoko's target)",
+    "aliases": [],
+    "type": "counting-house",
+    "city_or_region": "Batey / Guanín",
+    "parent": "Guanín",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Site of \"The Unanswered Blow\".",
+        "source": "guanin-chronicle-i; MCD-340"
+      },
+      {
+        "claim": "Guanín also has a cooperative counting-house paying equal wages.",
+        "source": "guanin-chronicle-ii"
+      }
+    ],
+    "first_source": "guanin-chronicle-i",
+    "mention_count": 7,
+    "mention_count_basis": "narrative prose of the guanin territory Chronicles only, pattern: counting-house",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Guanín granary",
+    "aliases": [],
+    "type": "granary",
+    "city_or_region": "Batey / Guanín",
+    "parent": "Guanín",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "\"never once been seized\".",
+        "source": "guanin-chronicle-ii"
+      }
+    ],
+    "first_source": "guanin-chronicle-ii",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the guanin territory Chronicles only, pattern: granary",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The hearing hall",
+    "aliases": [],
+    "type": "hall",
+    "city_or_region": "Batey / Guanín",
+    "parent": "Guanín",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "A clerk insults Eri Kotoko at a hearing.",
+        "source": "guanin-chronicle-iii"
+      }
+    ],
+    "first_source": "guanin-chronicle-iii",
+    "mention_count": 4,
+    "mention_count_basis": "narrative prose of the guanin territory Chronicles only, pattern: hearing",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The hospital wing",
+    "aliases": [],
+    "type": "hospital",
+    "city_or_region": "Batey / Borikén",
+    "parent": "Borikén",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Taken by \"walking in and staying\"; raided; reopens.",
+        "source": "PH2-010; boriken-chronicle-i"
+      }
+    ],
+    "first_source": "PH2-010",
+    "mention_count": 4,
+    "mention_count_basis": "narrative prose of the boriken territory Chronicles only, pattern: hospital wing",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The garbage depot (distribution yard)",
+    "aliases": [],
+    "type": "depot",
+    "city_or_region": "Batey / Borikén",
+    "parent": "Borikén",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Occupied and turned into a distribution yard.",
+        "source": "boriken-chronicle-i"
+      }
+    ],
+    "first_source": "boriken-chronicle-i",
+    "mention_count": 3,
+    "mention_count_basis": "narrative prose of the boriken territory Chronicles only, pattern: garbage depot",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The two rooftop meeting halls",
+    "aliases": [],
+    "type": "hall",
+    "city_or_region": "Batey / Borikén",
+    "parent": "Borikén",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Raided the same night.",
+        "source": "boriken-chronicle-i"
+      }
+    ],
+    "first_source": "boriken-chronicle-i",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the boriken territory Chronicles only, pattern: rooftop",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The old church hall",
+    "aliases": [],
+    "type": "church hall",
+    "city_or_region": "Batey / Borikén",
+    "parent": "Borikén",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Burned with its six-year ledger; rebuilt; ledger reconstructed there over four years.",
+        "source": "boriken-chronicle-i/ii; MCD-341; MCD-364"
+      }
+    ],
+    "first_source": "boriken-chronicle-i/ii",
+    "mention_count": 5,
+    "mention_count_basis": "narrative prose of the boriken territory Chronicles only, pattern: church hall",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The execution square (Ide)",
+    "aliases": [],
+    "type": "public square",
+    "city_or_region": "Muungano / Ide",
+    "parent": "Ide",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Public execution over the granary theft; Ase three streets away.",
+        "source": "ide-chronicle-i; MCD-342"
+      }
+    ],
+    "first_source": "ide-chronicle-i",
+    "mention_count": 6,
+    "mention_count_basis": "narrative prose of the ide territory Chronicles only, pattern: square",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The Ide granary",
+    "aliases": [],
+    "type": "granary",
+    "city_or_region": "Muungano / Ide",
+    "parent": "Ide",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Feeds half of Ide; the real thief left by the east door.",
+        "source": "ide-chronicle-i"
+      }
+    ],
+    "first_source": "ide-chronicle-i",
+    "mention_count": 5,
+    "mention_count_basis": "narrative prose of the ide territory Chronicles only, pattern: granary",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The anonymous print-shop (Ide)",
+    "aliases": [],
+    "type": "print shop",
+    "city_or_region": "Muungano / Ide",
+    "parent": "Ide",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Plates burned in the street by the Magistrate's men.",
+        "source": "ide-chronicle-i"
+      }
+    ],
+    "first_source": "ide-chronicle-i",
+    "mention_count": 4,
+    "mention_count_basis": "narrative prose of the ide territory Chronicles only, pattern: print-shop",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Ase's archive room",
+    "aliases": [],
+    "type": "archive",
+    "city_or_region": "Muungano / Ide",
+    "parent": "Ide",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Where she weighs filing the ally's theft.",
+        "source": "ide-chronicle-iii"
+      }
+    ],
+    "first_source": "ide-chronicle-iii",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the ide territory Chronicles only, pattern: archive room",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The ward broker's building and stoop",
+    "aliases": [],
+    "type": "residence",
+    "city_or_region": "Muungano / Kwan",
+    "parent": "Kwan",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "The broker's grandson plays \"three doors down\".",
+        "source": "kwan-chronicle-i; MCD-343"
+      }
+    ],
+    "first_source": "kwan-chronicle-i",
+    "mention_count": 2,
+    "mention_count_basis": "narrative prose of the kwan territory Chronicles only, pattern: stoop|broker\\'s building",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The open-housing march route",
+    "aliases": [],
+    "type": "route",
+    "city_or_region": "Muungano / Kwan",
+    "parent": "Kwan",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "The mob waits \"three blocks in\" where one neighborhood becomes another.",
+        "source": "kwan-chronicle-i"
+      }
+    ],
+    "first_source": "kwan-chronicle-i",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the kwan territory Chronicles only, pattern: three blocks in",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The apartment above the print shop (Kofi's)",
+    "aliases": [],
+    "type": "residence",
+    "city_or_region": "Muungano / Umoja",
+    "parent": "Umoja",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Mapped for the raid; roof team through the shutter.",
+        "source": "umoja-chronicle-i; PH2-040; MCD-335"
+      }
+    ],
+    "first_source": "umoja-chronicle-i",
+    "mention_count": 2,
+    "mention_count_basis": "narrative prose of the umoja territory Chronicles only, pattern: apartment|print shop",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The occupied seminary",
+    "aliases": [],
+    "type": "seminary",
+    "city_or_region": "Muungano / Jibaro",
+    "parent": "Jibaro",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Unreclaimable by force after a week; clinic built \"one floor down\"; kitchen.",
+        "source": "jibaro-chronicle-i; MCD-344"
+      },
+      {
+        "claim": "PH2-042: Omoba \"occupied a seminary and a church, running... programs from the latter\".",
+        "source": "PH2-042"
+      }
+    ],
+    "first_source": "jibaro-chronicle-i",
+    "mention_count": 9,
+    "mention_count_basis": "narrative prose of the jibaro territory Chronicles only, pattern: seminary",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The adjoining half-acre lot",
+    "aliases": [],
+    "type": "lot",
+    "city_or_region": "Muungano / Jibaro",
+    "parent": "Jibaro",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Retaken and fenced; legally separate from the seminary.",
+        "source": "jibaro-chronicle-i"
+      }
+    ],
+    "first_source": "jibaro-chronicle-i",
+    "mention_count": 6,
+    "mention_count_basis": "narrative prose of the jibaro territory Chronicles only, pattern: lot",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The five occupied buildings (mill, freight depot, three tenements)",
+    "aliases": [],
+    "type": "buildings",
+    "city_or_region": "Muungano / Jibaro",
+    "parent": "Jibaro",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Become a cooperative housing and workshop network.",
+        "source": "jibaro-chronicle-iii; MCD-516"
+      }
+    ],
+    "first_source": "jibaro-chronicle-iii",
+    "mention_count": 3,
+    "mention_count_basis": "narrative prose of the jibaro territory Chronicles only, pattern: textile mill|freight depot|tenements",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The neighborhood schoolhouse",
+    "aliases": [],
+    "type": "school",
+    "city_or_region": "Muungano / Jibaro",
+    "parent": "Jibaro",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Occupation fails to take; resolved by negotiation.",
+        "source": "the-building-that-wouldnt-choose-a-side; MCD-468"
+      }
+    ],
+    "first_source": "the-building-that-wouldnt-choose-a-side",
+    "mention_count": 4,
+    "mention_count_basis": "narrative prose of the jibaro territory Chronicles only, pattern: schoolhouse",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "City Hall (Muungano)",
+    "aliases": [],
+    "type": "civic building",
+    "city_or_region": "Muungano / Uhuru",
+    "parent": "Uhuru",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Council chamber; Ofin's office and desk, where he dies.",
+        "source": "uhuru-chronicle-i/ii; PH2-044; MCD-345; MCD-358"
+      }
+    ],
+    "first_source": "uhuru-chronicle-i/ii",
+    "mention_count": 10,
+    "mention_count_basis": "narrative prose of the uhuru territory Chronicles only, pattern: City Hall|council chamber|office",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Sankofa's western blocks",
+    "aliases": [],
+    "type": "blocks",
+    "city_or_region": "Ìlú-Márùn / Sankofa",
+    "parent": "Sankofa",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Kojo's claim; later runs them for Baale.",
+        "source": "sankofa-chronicle-i"
+      }
+    ],
+    "first_source": "sankofa-chronicle-i",
+    "mention_count": 3,
+    "mention_count_basis": "narrative prose of the sankofa territory Chronicles only, pattern: western blocks",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Baale's community health clinic",
+    "aliases": [],
+    "type": "clinic",
+    "city_or_region": "Ìlú-Márùn / Sankofa",
+    "parent": "Sankofa",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Front room, back stair, alley behind; pamphlets nailed to its outer wall.",
+        "source": "sankofa-chronicle-iii/iv/v; MCD-518; MCD-1023; MCD-1025"
+      }
+    ],
+    "first_source": "sankofa-chronicle-iii/iv/v",
+    "mention_count": 17,
+    "mention_count_basis": "narrative prose of the sankofa territory Chronicles only, pattern: clinic",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The market three streets from the clinic",
+    "aliases": [],
+    "type": "market",
+    "city_or_region": "Ìlú-Márùn / Sankofa",
+    "parent": "Sankofa",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Pamphlets left in stacks there.",
+        "source": "sankofa-chronicle-iv"
+      }
+    ],
+    "first_source": "sankofa-chronicle-iv",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the sankofa territory Chronicles only, pattern: market",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The grain merchant's stall (dead drop)",
+    "aliases": [],
+    "type": "market stall",
+    "city_or_region": "Ìlú-Márùn / Sankofa",
+    "parent": "Sankofa",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Dead drop behind it; chalk mark on its back wall.",
+        "source": "sankofa-chronicle-v"
+      }
+    ],
+    "first_source": "sankofa-chronicle-v",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the sankofa territory Chronicles only, pattern: grain merchant",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The room above the shuttered print shop",
+    "aliases": [],
+    "type": "residence",
+    "city_or_region": "Ìlú-Márùn / Sankofa",
+    "parent": "Sankofa",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Adebayo found there.",
+        "source": "sankofa-chronicle-vi; MCD-1092"
+      }
+    ],
+    "first_source": "sankofa-chronicle-vi",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the sankofa territory Chronicles only, pattern: shuttered print shop",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The Aztlán meeting hall",
+    "aliases": [],
+    "type": "hall",
+    "city_or_region": "Ìlú-Márùn / Aztlán",
+    "parent": "Aztlán",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Iya leads every woman out of it.",
+        "source": "aztlan-chronicle-ii; MCD-359"
+      }
+    ],
+    "first_source": "aztlan-chronicle-ii",
+    "mention_count": 1,
+    "mention_count_basis": "narrative prose of the aztlan territory Chronicles only, pattern: \\bhall\\b",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "East Gate High",
+    "aliases": [],
+    "type": "school",
+    "city_or_region": "Ìlú-Márùn / Aztlán",
+    "parent": "Aztlán",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Wholly invented school where Mati teaches; inside-the-schools hub of the walkout.",
+        "source": "PH2-030"
+      }
+    ],
+    "first_source": "PH2-030",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus, pattern: East Gate High",
+    "notes": "The only named sub-territory institution in the homage World besides \"the Downtown Combine\". Not dramatized in any Chronicle."
+  },
+  {
+    "name": "Oluwole's garden lot",
+    "aliases": [],
+    "type": "garden",
+    "city_or_region": "Ìlú-Márùn / Atunbi",
+    "parent": "Atunbi",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "A third taken by a dawn demolition crew; later wins a four-year reclassification fight.",
+        "source": "atunbi-chronicle-i; MCD-348; MCD-469"
+      }
+    ],
+    "first_source": "atunbi-chronicle-i",
+    "mention_count": 13,
+    "mention_count_basis": "narrative prose of the atunbi territory Chronicles only, pattern: \\blot\\b|garden",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The Ijoko council chamber",
+    "aliases": [],
+    "type": "civic building",
+    "city_or_region": "Ìlú-Márùn / Ijoko",
+    "parent": "Ijoko",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Adwoa holds the gavel there.",
+        "source": "ijoko-chronicle-i; MCD-349"
+      }
+    ],
+    "first_source": "ijoko-chronicle-i",
+    "mention_count": 10,
+    "mention_count_basis": "narrative prose of the ijoko territory Chronicles only, pattern: council chamber|chamber",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The converted storefront (Orin venue)",
+    "aliases": [],
+    "type": "venue",
+    "city_or_region": "Ìlú-Márùn / Orin",
+    "parent": "Orin",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Onilu plays; a promoter records the final number.",
+        "source": "orin-chronicle-i; MCD-350"
+      }
+    ],
+    "first_source": "orin-chronicle-i",
+    "mention_count": 2,
+    "mention_count_basis": "narrative prose of the orin territory Chronicles only, pattern: storefront",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The plant (Kazi's assembly floor)",
+    "aliases": [],
+    "type": "factory",
+    "city_or_region": "Mji / Kazi",
+    "parent": "Kazi",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Stations, press, finishing section, gantries, gate, yard, water station, break-room, foreman's office; \"two buildings over\".",
+        "source": "kazi I-XIII; PH2-050"
+      }
+    ],
+    "first_source": "kazi I-XIII",
+    "mention_count": 53,
+    "mention_count_basis": "narrative prose of the kazi territory Chronicles only, pattern: \\bplant\\b|\\bline\\b",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Kazi's central loading yard and piers",
+    "aliases": [],
+    "type": "waterfront",
+    "city_or_region": "Mji / Kazi",
+    "parent": "Kazi",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Scattered dock gangs; a halt called from the central loading yard.",
+        "source": "kazi-chronicle-iii; MCD-523"
+      }
+    ],
+    "first_source": "kazi-chronicle-iii",
+    "mention_count": 3,
+    "mention_count_basis": "narrative prose of the kazi territory Chronicles only, pattern: loading yard|piers?",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Kazi jail and courtroom",
+    "aliases": [],
+    "type": "civic building",
+    "city_or_region": "Mji / Kazi",
+    "parent": "Kazi",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Bakari held and tried.",
+        "source": "kazi-chronicle-ii; MCD-363"
+      }
+    ],
+    "first_source": "kazi-chronicle-ii",
+    "mention_count": 4,
+    "mention_count_basis": "narrative prose of the kazi territory Chronicles only, pattern: \\bjail\\b|courtroom",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The union local and its trustee offices",
+    "aliases": [],
+    "type": "union hall",
+    "city_or_region": "Mji / Kazi",
+    "parent": "Kazi",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Femi's election count; closed trustee meetings; fund archive.",
+        "source": "kazi IX, X, XIII"
+      }
+    ],
+    "first_source": "kazi IX, X, XIII",
+    "mention_count": 10,
+    "mention_count_basis": "narrative prose of the kazi territory Chronicles only, pattern: trustee|count table",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The union regional office",
+    "aliases": [],
+    "type": "office",
+    "city_or_region": "Mji / Kazi",
+    "parent": "Kazi",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "\"two buildings from where he currently punched a clock\".",
+        "source": "kazi-chronicle-xi"
+      }
+    ],
+    "first_source": "kazi-chronicle-xi",
+    "mention_count": 3,
+    "mention_count_basis": "narrative prose of the kazi territory Chronicles only, pattern: regional office",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Adaeze's house",
+    "aliases": [],
+    "type": "residence",
+    "city_or_region": "Mji / Kazi",
+    "parent": "Kazi",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Where Tunji was raised from age nine.",
+        "source": "kazi-chronicle-vii"
+      }
+    ],
+    "first_source": "kazi-chronicle-vii",
+    "mention_count": 4,
+    "mention_count_basis": "narrative prose of the kazi territory Chronicles only, pattern: Adaeze",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Adom's table and the Hekalu bakery",
+    "aliases": [],
+    "type": "cooperative",
+    "city_or_region": "Mji / Hekalu",
+    "parent": "Hekalu",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "A rival cooperative runs \"two blocks over\".",
+        "source": "hekalu-chronicle-i; MCD-353"
+      }
+    ],
+    "first_source": "hekalu-chronicle-i",
+    "mention_count": 29,
+    "mention_count_basis": "narrative prose of the hekalu territory Chronicles only, pattern: bakery|table",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "Owusu's office (the seat)",
+    "aliases": [],
+    "type": "civic building",
+    "city_or_region": "Mji / Kiti",
+    "parent": "Kiti",
+    "homage_of": "none (generic site)",
+    "locational_claims": [
+      {
+        "claim": "Strength is \"institutional\"; lapses during a six-week recess.",
+        "source": "kiti-chronicle-i; MCD-475"
+      }
+    ],
+    "first_source": "kiti-chronicle-i",
+    "mention_count": 23,
+    "mention_count_basis": "narrative prose of the kiti territory Chronicles only, pattern: office|seat",
+    "notes": "Unnamed in prose; descriptive label only."
+  },
+  {
+    "name": "The Downtown Combine (and \"Downtown\")",
+    "aliases": [],
+    "type": "organization / implied district",
+    "city_or_region": "Batey",
+    "parent": "Batey",
+    "homage_of": "The Italian-American mob incursion into Harlem Policy",
+    "locational_claims": [
+      {
+        "claim": "Nunzio Ferro's organization, \"the Downtown Combine\".",
+        "source": "PH2-013"
+      }
+    ],
+    "first_source": "PH2-013",
+    "mention_count": 1,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Downtown Combine",
+    "notes": "Implies a \"Downtown\" district in Batey; never mapped."
+  },
+  {
+    "name": "The Five Families' five turfs",
+    "aliases": [],
+    "type": "underworld jurisdiction",
+    "city_or_region": "Batey",
+    "parent": "Batey",
+    "homage_of": "The New York Five Families",
+    "locational_claims": [
+      {
+        "claim": "One family per territory, each operating within its own turf; Areito's Policy operation is one of them.",
+        "source": "PH2-060"
+      }
+    ],
+    "first_source": "PH2-060",
+    "mention_count": 12,
+    "mention_count_basis": "whole corpus (all Chronicle files incl. headers/notes + ledger statements), pattern: Five Families",
+    "notes": "None of the five families is individually named."
+  }
+]
