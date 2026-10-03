@@ -98,8 +98,11 @@ def main():
     for rid in cited:
         r = rules.get(rid)
         if not r:
-            print(f"   FAIL  {rid}: not in ledger")
-            fail = True
+            if re.search(r"\*\*`?" + re.escape(rid) + r"`?\b|" + re.escape(rid) + r"`? \(new", text):
+                print(f"   PROPOSED  {rid}: defined by this draft, not yet in the ledger")
+            else:
+                print(f"   FAIL  {rid}: not in ledger")
+                fail = True
             continue
         st = r.get("status", "")
         flag = "" if st == "locked" else f"  <-- status '{st}'"
