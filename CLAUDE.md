@@ -4124,6 +4124,20 @@ post-Defection kill register: necessity only). Flagged and not yet acted on: 44 
 Chronicles name the Spike in prose and run looser than Red Beard's sheet; Lauris's corpus carries ~315
 antithesis constructions. Ledger at `ledger_version` 36.2, 2,664 rules, 360 batches.
 
+**Batch 361 (`MCD-1888`, `VB-064`, `CC-162`)** locked Lauris Chronicle CX together with its two rules.
+`VB-064` keeps Fermand's first-person transcriber frame and `CC-034`'s register for her series and
+supersedes `VB-024`'s conflicting third-person and Ezio-only-warmth instructions there. The Voice
+Bible's hard constraints bind every entry, old and new, and existing entries that break one are
+corrected. `CC-162` limits Lauris to necessity kills from the Defection onward, leaving her
+Directorate contracts exactly as recorded. Abad's approval: "as long as it makes sense I approve"
+and "anything that needs correction is mandated to be corrected everything has to make sense. above
+all things everything has to connect to everything else logically the connective tissue must be
+Flawless that is the number one priority above all things." **Standing directive from the same
+message:** logical connective tissue across the whole canon is the project's number one priority.
+Every contradiction gets corrected. Mechanical corrections that add no new fact are applied
+directly. A resolution that needs a new fact is drafted, presented, and locked on approval. Ledger
+at `ledger_version` 36.3, 2,667 rules, 361 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

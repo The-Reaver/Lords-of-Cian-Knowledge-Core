@@ -1,14 +1,14 @@
 # Lauris Chronicle CX: The Instruments Read an Empty Room
 
-*UNLOCKED -- pending Abad's approval. Draft, 2026-10-03, proposed `MCD-1888`. One hundred tenth
+*Locked canon, Batch 361, 2026-10-03 (`MCD-1888`). Abad's approval: "as long as it makes sense I approve" and "anything that needs correction is mandated to be corrected everything has to make sense. above all things everything has to connect to everything else logically the connective tissue must be Flawless that is the number one priority above all things." One hundred tenth
 entry in Lauris Letitia's own Chronicle series, the first written after her gate was cleared
 (backfill, 2026-10-03). Strand L, present day before Book 1. Lauris's marquee kill under `MCD-1881`.
 Pays off the CP-609 thread at its live edge (`MCD-1663`, `MCD-1704`) as the one sanctioned partial
 discharge of a Strand L thread: CP-609 runs, from Lauris too, and the warden's ledgers widen CP-414's
 "you will not be the last" (`MCD-187`), so the thread stays open. Narrated by Fermand Aurelias in the
 established first-person transcriber frame (`CC-034`), held to the Voice Bible's hard constraints
-(proposed `VB-064`): no antithesis, no contractions in narration, no banned words, violence in the
-Narrator 4 autopsy register. The kill is a necessity kill (proposed `CC-162`). Density Saturation
+(`VB-064`): no antithesis, no contractions in narration, no banned words, violence in the
+Narrator 4 autopsy register. The kill is a necessity kill (`CC-162`). Density Saturation
 (`ARS-358`) beats purpose-built detection for the first time, from saturation alone; the Kareth-sister
 artifacts (`ARS-361`) play no part. New named characters and places: Warden Ilmar Hesketh and the
 Cairnholt Intake, both collision-checked clean.*
@@ -131,7 +131,7 @@ longer than I expected.
 
 *Continuity notes (not narrative): Lauris's marquee kill under `MCD-1881` -- named victim, full scene,
 a legend referenceable in Book 1 ("the instruments read an empty room," now in her Reclassified --
-Hostile file, `MCD-192`). Necessity kill (proposed `CC-162`): Hesketh is turning the sealing wheel
+Hostile file, `MCD-192`). Necessity kill (`CC-162`): Hesketh is turning the sealing wheel
 that is flooding thirty-eight cells, is told once to stop, and turns it again; every guard is
 disabled with Attia's Rite (`MCD-170`) and lives. Density Saturation (`ARS-358`) is entered through
 seven minutes of sustained engagement in the yard, then reads first as calibration fault and then

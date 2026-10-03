@@ -666,3 +666,7 @@ Updated as each wave locks. One line per entry: numeral, title, rule ID, one-sen
 batch number.
 
 -
+- **CX — "The Instruments Read an Empty Room"** (`MCD-1888`). Strand L, present day. Her marquee
+  kill under `MCD-1881`: Warden Ilmar Hesketh of the Cairnholt Intake, killed at the flooding wheel
+  (a necessity kill under `CC-162`); the corridor instruments read an empty room while she walked
+  them; CP-609 runs free. Narrated under `VB-064`. Batch 361.

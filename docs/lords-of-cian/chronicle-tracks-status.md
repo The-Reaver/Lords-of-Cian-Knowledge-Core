@@ -18,7 +18,7 @@ tracked here as it proceeds — see CLAUDE.md's gate section for the protocol it
 | Character | Profile doc | Status | Existing Chronicles |
 |---|---|---|---|
 | Ozmund Verehimu | `character-profiles/ozmund-verehimu.md` | wave 3 locked + marquee kill | 121 (Chronicles I-CXXI, `MCD-1730`-`1849`, `MCD-1886`) |
-| Lauris Letitia | `character-profiles/lauris-letitia.md` | game plan approved (backfill, 2026-10-03); Chronicle CX drafted, pending approval | 109 |
+| Lauris Letitia | `character-profiles/lauris-letitia.md` | game plan approved (backfill, 2026-10-03); Chronicle CX locked | 110 (Chronicles I-CX) |
 | Daba | `character-profiles/daba.md` | wave 3 locked + marquee kill | 59 (incl. Chronicles LVII-LVIII, the Harek Vondel/Vex Thurlow villain defeats, and LIX, the Fenwold stair, `MCD-1887`) |
 | Ezio Valcari | `character-profiles/ezio-valcari.md` | wave 1 locked | 1 (own series, `MCD-1876`) — plus extensively established as supporting cast across 84 Industrial Myth Alias Chronicles + 4 Lauris Character Chronicles |
 
