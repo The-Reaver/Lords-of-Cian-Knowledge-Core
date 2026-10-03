@@ -29,7 +29,7 @@ grass, finally understanding what I'd actually been fighting."
 "And what was that, sir?"
 
 "Not a man. A method." Voris looked at the scarecrow the way another man might look at an old
-photograph of someone he'd once loved and lost. "Everyone below my rank thinks the Crow King's gift
+portrait of someone he'd once loved and lost. "Everyone below my rank thinks the Crow King's gift
 is escape. It isn't. Escape is just what the gift produces. The actual gift is that he studies a
 system's own confidence in itself until he finds the exact seam where that confidence becomes a
 blind spot, and then he doesn't break the system — he uses its own rules against it, so precisely

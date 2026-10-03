@@ -24,7 +24,7 @@ waiting for her was, by any measure, considerably larger than anything the Appre
 asked of her.
 
 The Voskharen Trench's juvenile Tide-Wraith had killed eleven fishing crews across a single season,
-surfacing without warning from feeding zones no vessel's sonar had reliably charted, and the
+surfacing without warning from feeding zones no vessel's sounding-lines had reliably charted, and the
 Directorate's answer, developed over three prior failed engagements, was bait: a hardened vessel,
 *the Halfmoon Tide*, built heavier and slower than any working fishing boat specifically to survive a
 strike long enough for its passenger to respond to one.
@@ -64,7 +64,7 @@ against the Trench floor, had run, by the vessel crew's own timed account, ninet
 *
 
 I want to record the crew's reaction at some length, because I believe it is the true substance of
-this Chronicle, more than the engagement itself. Eleven fishing crews had died to this creature across
+this entry, more than the engagement itself. Eleven fishing crews had died to this creature across
 a single season. *The Halfmoon Tide*'s own crew of nine had spent two days bracing for the same fate,
 armored and grim in the particular way of men who have accepted a mission's danger without yet
 believing they will survive it. Ninety seconds after the water finally broke, every one of them was

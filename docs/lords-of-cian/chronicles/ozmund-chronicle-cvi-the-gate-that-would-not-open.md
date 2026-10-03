@@ -29,7 +29,7 @@ in the wet beneath the sacking. It was not a small inconvenience. It was not a l
 one's life depended on that gate opening in the next hour rather than the next four. That, the General
 told me, was precisely the trouble with it.
 
-He was old enough by then to understand exactly what a single fraction of the Spike, held at its very
+He was old enough by then to understand exactly what a single fraction of the density in his blood, held at its very
 lowest edge, would do to that ice and that swollen wood — a fraction so small it would have looked, to
 anyone watching, like nothing more than an unusually strong shove. No one would have known. No one
 would have been harmed. The grain would have been under cover in the time it takes to draw one breath,
@@ -37,7 +37,7 @@ and he could have walked away and let the morning go on to whatever came next, a
 would ever have known the difference was himself.
 
 He told me he stood in front of that gate for longer than he was proud of, turning the thought over. It
-is one thing, he said, to refuse the Spike when refusing it costs something real — when the harder
+is one thing, he said, to refuse the density in him when refusing it costs something real — when the harder
 path is also the nobler one, and a man can at least warm himself with the knowledge that he chose
 correctly. It is another thing entirely to refuse it over a stuck door in the freezing dark, for no
 audience, with no one to know or care which choice he made, and to feel, standing there, how badly he

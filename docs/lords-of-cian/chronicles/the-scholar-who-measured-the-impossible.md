@@ -30,7 +30,7 @@ We could theoretically build it. It would cost roughly four times what any curre
 costs, weigh twice as much, and still be vulnerable in principle, just slower to fail." He set down
 the latest data set, eleven months of careful, honest measurement that told a story nobody above him
 wanted published as written. "The politically acceptable answer is that this is some kind of
-forbidden or supernatural weapon. The actual answer is that it's applied physics, unusually well
+forbidden or inexplicable weapon. The actual answer is that it's applied physics, unusually well
 understood by one specific person, and the only real defense is admitting that and engineering
 around it honestly instead of hoping for a countermeasure that doesn't require changing how we build
 things."

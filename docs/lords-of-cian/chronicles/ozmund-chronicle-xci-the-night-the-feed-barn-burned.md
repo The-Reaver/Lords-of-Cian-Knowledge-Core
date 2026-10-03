@@ -41,7 +41,7 @@ than panic would have, because panic he knew how to manage in a boy that age, an
 
 What none of them knew, and what I only understood myself once I'd heard the account whole, was that
 the boy had spent the first several minutes of that fire consciously and deliberately doing nothing at
-all with the one thing that might have ended it outright — a Density Spike could have collapsed the
+all with the one thing that might have ended it outright — a single surge of the density in his blood could have collapsed the
 threatened section of roof cleanly away from the stalls in less time than it took Hollis to organize a
 second bucket line, and the General told me, decades later, that the temptation had been the worst of
 his young life precisely because it would have looked, to everyone watching, like nothing more than a

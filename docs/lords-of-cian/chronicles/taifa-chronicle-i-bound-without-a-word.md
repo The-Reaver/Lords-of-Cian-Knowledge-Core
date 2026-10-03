@@ -36,7 +36,7 @@ question that seemed worth asking.
 "How did they know to come."
 
 "They didn't know. They felt it, the same way I felt the post needed them before I'd sent word to a
-single soul." Osei was still catching his breath, the fight only just finished. "It isn't magic, and
+single soul." Osei was still catching his breath, the fight only just finished. "It isn't luck, and
 it isn't some trick of timing I can take credit for planning. Every one of them swore the same oath
 I did, meaning what they meant when they said it. That's not nothing. Once a person swears something
 like that and means it all the way through, the distance between them and the place the oath needs

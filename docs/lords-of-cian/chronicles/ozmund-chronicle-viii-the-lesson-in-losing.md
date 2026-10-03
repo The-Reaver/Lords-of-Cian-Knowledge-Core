@@ -18,7 +18,7 @@ a man reporting an unbroken record he was still, on some level, proud of. Not pr
 of the losing itself — that it had been real, all eleven years of it, and that nobody had ever once
 arranged it to be otherwise.
 
-The house rule was simple and, as far as he ever told me, never once bent: no Spike on the practice
+The house rule was simple and, as far as he ever told me, never once bent: none of the density in his blood on the practice
 floor. Not because Aethelgard feared for himself — he was a competent swordsman by the ordinary
 measure of competent, drilled since boyhood the way any lord's son of that House was drilled, but
 nothing more than that, no gift under it, nothing waiting to answer a strike. He'd have lost to most

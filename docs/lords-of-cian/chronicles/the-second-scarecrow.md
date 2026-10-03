@@ -29,7 +29,7 @@ instrument of its own blind spot, each rotation covering exactly the ground the 
 just vacated. By the time the captain's report reached his own superiors, the honest answer —
 *we were never actually hiding anyone, we simply moved faster than your patrol pattern could ever
 notice* — read, to anyone who hadn't lived through the four nights of preparation behind it, as
-something closer to sorcery than tactics.
+something closer to the impossible than to tactics.
 
 "He's mocking us," the second said, staring at the scarecrow's crude crown of gathered black
 feathers. "Leaving the same calling card twice."

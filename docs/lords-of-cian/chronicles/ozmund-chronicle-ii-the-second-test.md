@@ -13,7 +13,7 @@ resolved the threat instantly and left no doubt behind. No new named characters.
 ---
 
 The first time, he told me, it had been easy to hold still, because the shape of the danger was one
-his body already knew how to ignore — a knife is a knife, and the Spike had been awake for knives
+his body already knew how to ignore — a knife is a knife, and the density in his blood had been awake for knives
 since before he could walk. The second time was harder, he said, because nothing in the room looked
 like danger at all, and he had to trust a man to see a threat that even he, with everything he
 carried, wasn't entirely certain was there until it was already past.

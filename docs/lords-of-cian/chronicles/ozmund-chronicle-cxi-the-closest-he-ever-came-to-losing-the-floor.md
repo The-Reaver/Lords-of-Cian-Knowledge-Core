@@ -27,7 +27,7 @@ heartbeats the entire weight of the wagon and everything in it stood a real chan
 the horse still in the traces.
 
 He told me he did not decide to catch the harness. There was no decision in it at all, and that, he
-said, was the entire substance of what frightened him afterward — every use of the Spike he had ever
+said, was the entire substance of what frightened him afterward — every use of the density in him he had ever
 practiced, every hour at the quarry below Aldenmoor finding the exact threshold of a held breath, every
 year of the Stone Count and the copied line and the whole architecture of discipline he had built
 around himself since before he could remember building it, all of it lived in the space where there was

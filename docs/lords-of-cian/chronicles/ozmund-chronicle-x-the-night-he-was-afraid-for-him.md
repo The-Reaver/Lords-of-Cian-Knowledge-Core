@@ -47,7 +47,7 @@ He said his father reached over at that point and took the pipe apart to clean i
 did with his hands when he needed them occupied, and said that he didn't know what shape it would take
 — the danger, whatever it eventually was — and that not knowing was its own particular kind of
 unbearable, worse in its way than knowing something specific and being able to prepare against it.
-"I can teach you what to do with the Spike," he said. "I've spent your whole life teaching you that.
+"I can teach you what to do with the density in your blood," he said. "I've spent your whole life teaching you that.
 I have no idea how to teach you what to do with being the kind of thing men will eventually decide is
 worth killing you over, or using you for, or both. I don't know that lesson. I never had to learn it
 myself. And it keeps me up more nights than I'd ever admit to your mother's people, who'd tell me I

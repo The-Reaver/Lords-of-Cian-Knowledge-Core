@@ -4,13 +4,13 @@
 
 ---
 
-The temple's own foundation had begun to worry its keepers, a hairline crack spreading beneath the pillar their congregation had held sacred for longer than the settlement around it had kept records — the pillar their own founding account named as sustained, not by masonry, but by the god's continued attention to the people who prayed beneath it. When the settlement's engineers suggested calling for the man who could read a structure's truth without cutting into it, the priest was the only one who said no.
+The temple's own foundation had begun to worry its keepers, a hairline crack spreading beneath the pillar their congregation had held sacred for longer than the settlement around it had kept records — the pillar their own founding account named as sustained, not by masonry, but by the continued attention of the one they prayed to toward the people who prayed beneath it. When the settlement's engineers suggested calling for the man who could read a structure's truth without cutting into it, the priest was the only one who said no.
 
-"You understand what you're offering to do," the priest said, when Kanja arrived anyway, sent for over the priest's own objection by a congregation that wanted the crack addressed regardless of what the answer turned out to be. "You're offering to tell four hundred people whether their god is real by the same method you'd use on a Trust garrison wall."
+"You understand what you're offering to do," the priest said, when Kanja arrived anyway, sent for over the priest's own objection by a congregation that wanted the crack addressed regardless of what the answer turned out to be. "You're offering to tell four hundred people whether what they pray to is real by the same method you'd use on a Trust garrison wall."
 
 "I'm offering to tell you whether the pillar is structurally sound," Kanja said. "That's the whole of what the doctrine can actually answer. It's never once told me what a thing means. Only whether it's holding."
 
-"That distinction doesn't survive contact with four hundred people who've spent their whole lives believing the two are the same question." The priest hadn't moved from the temple's own threshold, a physical as much as an argued barrier. "If you find ordinary stone holding up ordinary stone the ordinary way stone always has, you haven't just answered an engineering question. You've told my congregation their god was never actually here."
+"That distinction doesn't survive contact with four hundred people who've spent their whole lives believing the two are the same question." The priest hadn't moved from the temple's own threshold, a physical as much as an argued barrier. "If you find ordinary stone holding up ordinary stone the ordinary way stone always has, you haven't just answered an engineering question. You've told my congregation the one they prayed to was never actually here."
 
 Kanja considered that longer than he'd expected to need. "I've spent years telling scholars, generals, settlement councils, and my own students that the doctrine only ever answers one honest question. I don't think I've ever had to ask myself what happens when the honest answer might cost someone something bigger than a war or a wage dispute."
 

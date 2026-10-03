@@ -18,7 +18,7 @@ a floor next to him."
 "I did. For about eighteen months, on and off, whenever the barge came through." She didn't dwell on
 it, turning back to the dispute the petitioners had actually come to settle — a talented smith denied
 guild standing over a technicality that concealed an older prejudice underneath it. "He never taught
-me anything mystical. Taught me to true a hinge, taught me patience with a reheat, taught me a floor
+me anything secret. Taught me to true a hinge, taught me patience with a reheat, taught me a floor
 judges work by the work and nothing else. I spent the rest of my life making sure that lesson didn't
 die with the campaign that taught it to me."
 

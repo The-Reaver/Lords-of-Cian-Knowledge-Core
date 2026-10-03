@@ -20,7 +20,7 @@ Berrin Hollis had trained three generations of House Verehimu men-at-arms and bu
 he'd outlived by the time I found him, an old man with a bad hip and a worse temper, still running
 drills twice a week on a yard he swore had gotten smaller since his knees got worse. He didn't want
 to talk about the General at first. He said everyone who came asking wanted the same story — the
-Spike, the arena, the crown he'd thrown back in everyone's face — and none of them wanted the part he
+the density in his blood, the Maw, the crown he'd thrown back in everyone's face — and none of them wanted the part he
 actually remembered, which was a boy who couldn't hold a proper guard to save his life for the better
 part of a year. I told him that was exactly the part I wanted. He looked at me a long time before he
 believed it, and then he talked for three hours without stopping once.

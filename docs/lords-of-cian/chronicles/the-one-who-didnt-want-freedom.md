@@ -12,7 +12,7 @@ swapped for the earlier, era-appropriate MCD-381 galleon liberation.*
 The indentured works ran on a legitimate, if harsh, debt-bondage contract rather than outright
 slavery — years of labor traded against a real debt, terms harder than fair but not the manifest-
 fiction cruelty the Scourge usually broke apart without hesitation. He boarded expecting the same
-clean liberation he'd delivered to the slaver galleon off the Gale Straits decades earlier (`MCD-381`)
+clean liberation he'd delivered to the slaver galleon off the Gale Straits decades earlier
 and a dozen sites like it.
 
 One worker refused to leave.

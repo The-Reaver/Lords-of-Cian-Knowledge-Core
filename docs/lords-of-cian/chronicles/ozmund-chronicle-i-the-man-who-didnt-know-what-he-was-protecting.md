@@ -44,7 +44,7 @@ forward, have died for without being asked twice.
 
 What the General told me — and told me only that once, low, like it still cost him something twenty
 years later — was what he did during it, which was nothing. He said he felt it the moment the first
-man came through the grain-store door: the Spike, awake the way it was always awake, no different
+man came through the grain-store door: the density in his blood, awake the way it was always awake, no different
 from breathing, ready the way it had been ready since before he could form the memory of it not
 being ready. One motion. He could have ended all twelve of them before Draconis's blade cleared its
 sheath, and no one on that road would ever have known his name was worth more than the coin they'd
@@ -53,7 +53,7 @@ come to steal.
 He didn't move. He told me he made himself small on the carriage floor — genuinely small, genuinely
 afraid, the fear real even if the danger to him personally never was — because some instinct he
 didn't yet have words for understood that if Draconis knew what he was protecting, he would stop
-protecting it the same way. A man doesn't throw himself between a god and a knife. He throws himself
+protecting it the same way. A man doesn't throw himself between a mountain and a knife. He throws himself
 between a boy and a knife because the boy needs him to. The General let him need it.
 
 Aethelgard reached the carriage before the last man was down, having come from farther back in the

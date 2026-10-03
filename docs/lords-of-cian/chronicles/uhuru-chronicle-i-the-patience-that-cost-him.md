@@ -48,7 +48,7 @@ language he'd rewritten for what felt like the fortieth time.
 
 "Didn't come for the glamour." The stranger set the coffee down and didn't linger over an
 explanation he clearly didn't feel he owed. "Came to see what it actually looks like, up close, the
-part of this the newspapers never print — not the speech, not the vote count. This. A man rewriting
+part of this the broadsheets never print — not the speech, not the vote count. This. A man rewriting
 the same three paragraphs at midnight because rewriting them is the only weapon he's got left that
 the other side hasn't figured out how to vote against yet."
 

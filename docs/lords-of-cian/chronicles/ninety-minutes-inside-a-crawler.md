@@ -18,7 +18,7 @@ free and rattling across the deck plating, a coolant line fitting weeping fluid 
 been solid that morning — and the crew had stopped speculating about what was happening and started,
 quietly, bracing for whichever piece would fail next.
 
-"It's not an attack," the gunner said, over the vibration, hands pressed flat against a control panel
+"It's not an attack," the gunner said, over the vibration, hands pressed flat against the control levers
 that had started buzzing under his palms like something alive. "There's no impact. Nothing's hitting
 us. It's like the whole vehicle just — remembered it was made of parts, and decided it didn't want to
 be one thing anymore."

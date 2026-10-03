@@ -14,7 +14,7 @@ craft they'd never actually practiced to lend credibility to a cause.
 
 "Anyone can carry a hammer and call themselves a smith," she said, when Kanja's crew requested the
 guild's cooperation smuggling salvaged Dead Drakma through their supply routes. "I've met soldiers
-who picked up the title because it photographed well for a pamphlet. Before I risk my guild's
+who picked up the title because it sketched well for a pamphlet. Before I risk my guild's
 standing helping you, you're going to prove it in front of me, on my own forge, to my own
 satisfaction."
 

@@ -40,7 +40,7 @@ every way that mattered. There was no crowd here that would read an honest showi
 dangerous — every soul watching already knew the shape of who he was as a person, if not the full truth
 of what ran in his blood, and the only thing at stake in besting Osric at a log toss was Osric's own
 good-natured pride, which the General assured me was in no danger of lasting harm. So, for once, he let
-it through — not the Spike, never the Spike, but the honest, ordinary strength of a young man who had
+it through — not the density in his blood, never that, but the honest, ordinary strength of a young man who had
 spent years hauling grain and prying frozen gates and had simply never before been given a safe enough
 room to be proud of it out loud.
 

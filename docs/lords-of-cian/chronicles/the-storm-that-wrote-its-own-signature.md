@@ -14,7 +14,7 @@ faked, but overwritten, a static charge climbing the ironwork ahead of each stri
 tension signature of its own across the entire structure.
 
 "That's not the roof lying to me," he said, watching a second strike land a ridge away and the false
-signature spike again in answer. "That's the storm writing over it before I can even ask."
+signature jump again in answer. "That's the storm writing over it before I can even ask."
 
 He tried working through it, isolating the charge and reading past it the way he'd learned to read
 past falsified signatures before. It didn't hold — the storm's own signature wasn't a fixed

@@ -47,7 +47,7 @@ found the sentence no more available the second time. "I don't want to be anywhe
 right here anymore. That doesn't make sense. Three minutes ago I wanted you dead."
 
 "I know exactly how that feels, because I've watched it happen to eleven other men before you, and
-I still don't have a better way to explain it than the truth: it isn't magic and it isn't
+I still don't have a better way to explain it than the truth: it isn't a trick and it isn't
 brainwashing, whatever your friends are going to tell you tonight when you don't come home for
 dinner. You came at me with everything you actually had. I answered with everything I actually
 had. Something in a man recognizes that, once it's happened to him for real, and doesn't forget it

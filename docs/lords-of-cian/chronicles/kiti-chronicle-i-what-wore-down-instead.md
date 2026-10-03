@@ -55,7 +55,7 @@ afternoon."
 "You've thought about that day already."
 
 "I think about it more than anyone watching me hold this seat for twenty years would probably
-guess." Owusu picked the newspaper back up, folded it once, set it aside for good this time. "It's
+guess." Owusu picked the broadsheet back up, folded it once, set it aside for good this time. "It's
 purely institutional, whatever this is. Not personal strength I've built that travels with me
 wherever I go afterward. The office itself is doing something to whatever wears at me while I'm in
 it, and the office doesn't come home with a man once he's handed the keys to someone else. I intend

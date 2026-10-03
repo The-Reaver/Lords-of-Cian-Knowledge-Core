@@ -12,7 +12,7 @@ The pillar's signature came back clean under Kanja's palm — not miraculous, no
 
 "So it was never held up by anything but stone."
 
-"It was held up by stone cut with a skill I don't have a name for beyond calling it exceptional. I don't know who built it, or why they built it this well for a pillar that could have been built adequately instead. That's not a question the doctrine answers." Kanja met the priest's eyes directly. "I can tell you the tension is real and the joinery is real and neither of those facts has anything to say about whether your god chose to be present in the work of whoever built it this carefully. I've spent this whole doctrine's life learning that a structure only ever tells me the truth about itself, never the truth about what it means to the people who built it or the people who still pray beneath it."
+"It was held up by stone cut with a skill I don't have a name for beyond calling it exceptional. I don't know who built it, or why they built it this well for a pillar that could have been built adequately instead. That's not a question the doctrine answers." Kanja met the priest's eyes directly. "I can tell you the tension is real and the joinery is real and neither of those facts has anything to say about whether the one you pray to chose to be present in the work of whoever built it this carefully. I've spent this whole doctrine's life learning that a structure only ever tells me the truth about itself, never the truth about what it means to the people who built it or the people who still pray beneath it."
 
 The priest was quiet for a long moment, tracing the crack's actual path with his own eyes now that he understood which century it belonged to.
 

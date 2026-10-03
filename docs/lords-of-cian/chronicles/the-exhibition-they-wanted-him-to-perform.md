@@ -6,7 +6,7 @@
 
 The resistance's own information office wanted a show. Recruitment had slowed in the eastern districts, and someone with a printing press and good intentions had decided that a public demonstration of the Blue-Collar Titan's full Trinity capability -- something dramatic, something people could tell their neighbors about -- would move more names onto the enlistment rolls than another pamphlet ever would.
 
-"We'll stage it against something safe," the office's coordinator explained, spreading a proposed script across the table. "A rock face nobody needs cleared. Obsidian Malice at full discharge. It photographs well."
+"We'll stage it against something safe," the office's coordinator explained, spreading a proposed script across the table. "A rock face nobody needs cleared. Obsidian Malice at full discharge. It sketches well."
 
 "It's a lie dressed as a demonstration," Kanja said, not unkindly, but flatly enough that the coordinator stopped talking. "I've spent this entire war refusing to fabricate things for causes I actually believe in. I'm not starting now because the cause is my own reputation instead of someone else's."
 

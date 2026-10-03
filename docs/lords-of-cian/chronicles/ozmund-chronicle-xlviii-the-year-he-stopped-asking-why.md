@@ -29,11 +29,11 @@ as everyone else's before him.
 He told me he began that year already tired of a question he had been asking, in one form or another,
 for longer than he could clearly remember asking it: why him. Not the self-pity of it — he was careful
 to correct me when I first heard it that way — but the genuine, structural puzzlement of a boy who had
-never had a single day of his life without the Spike sitting inside him, awake, waiting, asked for
+never had a single day of his life without the density in his blood sitting there, awake, waiting, asked for
 nothing and given anyway, the way another boy might be given a name he didn't choose or a face he
 didn't design. He had asked his father. He had asked his mother, once, badly, in a tone he told me he
 still winced to remember. Neither of them had an answer that satisfied him, because there wasn't one to
-give — the Spike was not a decision anyone had made about him, it was simply the shape the blood had
+give — the density in him was not a decision anyone had made about him, it was simply the shape the blood had
 always taken, going back to a man five thousand years dead whose own reasons, if he'd ever had any,
 were unrecoverable now by anyone.
 

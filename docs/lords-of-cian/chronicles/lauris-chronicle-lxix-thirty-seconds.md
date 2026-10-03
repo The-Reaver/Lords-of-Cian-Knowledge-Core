@@ -17,7 +17,7 @@ age-arithmetic fixes to match her true ~6,000-year age (`MCD-1533`). No contradi
 
 I have known, since I first began assembling this account of her deep past, that I would eventually
 have to write this entry. I have put it off longer than the strict chronology required, transcribing
-Chronicles further along the sequence before returning to complete this one, and I will admit that
+entries further along the sequence before returning to complete this one, and I will admit that
 plainly rather than pretend otherwise. There are entries in this archive that ask only to be recorded.
 This one asked, of me, something closer to permission.
 

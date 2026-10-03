@@ -31,7 +31,7 @@ The commander refused it anyway, on principle, precisely because accepting would
 admitting the story worked on him the way it worked on everyone else. The garrison fought. It lost —
 faster and more completely than a garrison that surrendered would have, exactly as Bane had warned —
 and the commander survived it, disciplined to the last, still unconvinced afterward that anything
-supernatural had happened to him at the gate. He had simply made a bad tactical decision, he
+beyond tactics had happened to him at the gate. He had simply made a bad tactical decision, he
 maintained, against a dangerous but ordinary opponent, and he would go on maintaining that for the
 rest of his career.
 

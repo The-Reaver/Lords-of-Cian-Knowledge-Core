@@ -33,7 +33,7 @@ way that mattered — that the shape of it became visible to him at all, and eve
 other people kept handing him pieces of it he hadn't known were still being kept.
 
 There were smaller pieces than the ones I've already set down, fragments too slight to carry a whole
-Chronicle on their own but that kept surfacing anyway, in the years I spent gathering what I could of
+account on their own but that kept surfacing anyway, in the years I spent gathering what I could of
 him. A stable groom, long past his working years by the time I found him, who remembered a night a
 mare went into a difficult foaling and the young heir stayed past midnight holding a lantern steady
 for a hand that wasn't his own, because the groom's hands, by then, had started to shake with age and
@@ -60,7 +60,7 @@ each one, in its own moment, seemed to him like the only decent thing available 
 decent things the way some men breathe, without expecting anyone to notice the rhythm of it or keep
 count.
 
-What the House remembered of him, in the end, wasn't a Chronicle. It was smaller than that, and
+What the House remembered of him, in the end, wasn't a story told whole. It was smaller than that, and
 stranger, and it outlasted him leaving in ways I don't think even he anticipated — a scattering of
 small true stories, kept by people with nothing to gain from keeping them, waiting patiently across
 however many years for someone to finally come asking. I only had to ask.

@@ -58,7 +58,7 @@ He told me he never became especially skilled at it — there was no need, once 
 capable of what he was capable of to spend his afternoons patching hulls. But he said he never forgot
 how, either, and that some quiet part of him, all the years afterward, took a particular satisfaction in
 knowing there was at least one thing he could do competently that had nothing whatsoever to do with the
-Spike, the Scar, or the name he carried — a thing his father had given him not because it was owed to
+density in his blood, the Scar, or the name he carried — a thing his father had given him not because it was owed to
 him by blood, but simply because he thought a boy ought to have it.
 
 ---

@@ -31,9 +31,9 @@ has to earn it first.
 
 He told me he understood, stepping into that ring, exactly how much of himself he could safely let
 through without anyone so much as suspecting there was more behind it — and that the true trouble was
-never the Spike, which of course never so much as stirred, but the ordinary strength of his own two
+never the density in his blood, which of course never so much as stirred, but the ordinary strength of his own two
 arms and back, built by years of the kind of work most lords' sons never do, honest labor at a grain
-line or a stuck gate or a training yard, strength that had nothing supernatural in it at all and would
+line or a stuck gate or a training yard, strength that was plainly his own muscle and nothing more and would
 still, he judged, have been more than enough to win every bout in that ring cleanly. He held it back
 anyway. Not all of it — he told me he was careful, even telling it to me, not to claim he'd thrown the
 matches outright — but enough, consistently enough, across three separate bouts, that he placed

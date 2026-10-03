@@ -21,7 +21,7 @@ the answer and didn't think it was the point.
 
 The General said there was no morning he could point to and call the first one. No day his father sat
 him down and explained what he was. He said it the way you'd describe never learning to walk because
-you'd simply always been able to — the Spike was there before language was there, before the memory
+you'd simply always been able to — the density in his blood was there before language was there, before the memory
 that holds a beginning was there, folded into him the same way his own pulse was, and Aethelgard had
 to raise a son he could never once watch cross a threshold, because there wasn't one. Every other
 family in the history of that bloodline had gotten an Awakening — a morning, a scar, a boy who went
@@ -33,7 +33,7 @@ What he settled on, the General said — and told me it took years, that his fat
 have arrived at it whole — was a coin. An ordinary Trust half-scrip, worn thin at one edge from
 handling. Aethelgard kept it in a coat pocket and, whenever the boy's temper was climbing toward
 somewhere it shouldn't go, would set the coin on the table on its edge, spin it once with two
-fingers, and say nothing at all until it fell. *Wait until it falls.* Nothing about the Spike in the
+fingers, and say nothing at all until it fell. *Wait until it falls.* Nothing about the density in him in the
 instruction. Nothing about what the boy could or couldn't do with it. Just: here is a thing with
 weight, and it will come down on its own schedule, and you are going to sit here and watch it do
 that instead of deciding anything while you're still angry.
@@ -52,14 +52,14 @@ answer he'd expected and told him something the General repeated to me word for 
 in a voice that still sounded like he was hearing it for the first time: "Then that's the only
 homework I can give you. Not what you can do — I couldn't take that from you if I wanted to, I never
 had it to give you in the first place. Just whether, next time, you know which one it was before it's
-already happened." Every evening after that, whether the Spike had answered to anything that day or
+already happened." Every evening after that, whether the density in him had answered to anything that day or
 not, the boy had to say so out loud, at supper, unprompted. Not a confession. An accounting. Aethelgard
 never once used the word *discipline* for it, the General said, though it plainly was that, from
 about as early an age as discipline can be asked of anyone.
 
 I asked him once — the only time I ever pushed at this story rather than just receiving it — whether
 it had worked. He was quiet long enough that I thought he wasn't going to answer, and then he said
-that it hadn't taught him to control the Spike, because there was never anything about the Spike that
+that it hadn't taught him to control the density in him, because there was never anything about it that
 needed controlling; it had simply never once behaved badly on its own. What the coin and the
 accounting had taught him, he said, was the only thing that actually needed teaching: how to tell the
 difference between a thing that had always been true about him and a thing he was, in any given

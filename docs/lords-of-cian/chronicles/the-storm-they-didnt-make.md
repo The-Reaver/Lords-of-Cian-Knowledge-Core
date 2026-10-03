@@ -36,7 +36,7 @@ He had Dol Maren brought up from below, and for the better part of an hour he wa
 two of his sons through what he actually watched for — the specific cloud banks that meant a crossing
 should wait, the swell pattern that meant it was safe, marks on a hand-copied chart they could keep and
 pass down themselves. No mystery in any of it. Just attention, repeated for years until it looked like
-magic to anyone who hadn't done the looking.
+foreknowledge to anyone who hadn't done the looking.
 
 "This works whether we're anywhere near your coast or not," Kanja told them as they climbed back down
 to their skiff, chart wrapped in oilcloth against the spray. "That's the whole point of giving it to

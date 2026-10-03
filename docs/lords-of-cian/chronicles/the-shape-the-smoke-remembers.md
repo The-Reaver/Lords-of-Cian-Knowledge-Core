@@ -40,7 +40,7 @@ The captain himself came last, honor blade drawn, convinced that whatever theatr
 disabled his crew would break against a man willing to close the distance and refuse to flinch.
 He was not wrong about the refusal. He was wrong about what waited for it. The Rexmar Machete — no
 Trinity relic, no forged legend, just an ancestral field blade passed down a bloodline older than
-any of the Long Mask's built armor — met his honor blade on a line that owed nothing to sorcery and
+any of the Long Mask's built armor — met his honor blade on a line that owed nothing to legend and
 everything to a lifetime of honest practice, and put him on the deck in four exchanges that any
 witness, however frightened, could have described afterward as simply better swordsmanship.
 
@@ -48,7 +48,7 @@ The hold was opened without another blow struck. Two hundred and eleven chained 
 into the smoke-wreathed dawn, and the galleon's surviving crew, questioned separately weeks later by
 a Trust patrol that eventually pieced the account together, gave descriptions of the attacker that
 agreed on almost nothing except two details: the amber eyes that seemed to watch from inside the
-smoke rather than through it, and the fact that nothing about the fight had felt like magic, once you
+smoke rather than through it, and the fact that nothing about the fight had felt uncanny, once you
 were close enough to actually see the blade doing the work.
 
 "That's the part they always leave out of the stories," the freed captives' own account read, passed

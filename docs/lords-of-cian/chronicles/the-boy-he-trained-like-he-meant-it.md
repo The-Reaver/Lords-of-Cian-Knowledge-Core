@@ -37,7 +37,7 @@ Nev Torr came in low and fast on the third pass, a real opening if Kanja hadn't 
 handspan before committing the parry, turning the boy's own forward momentum into the thing that
 spun him half around and put him on the ground — not swept, not thrown, just out-angled by a body
 that understood where weight wanted to go a fraction sooner than his did. Twice more the same
-lesson landed a different way: once on a feint Nev Torr telegraphed with his shoulder before his
+lesson landed a different way: once on a feint Nev Torr signaled with his shoulder before his
 blade ever moved, once on a recovery he rushed instead of resetting his stance for.
 
 He didn't let the boy win once, and didn't apologize for it either. "You'll thank me for this before

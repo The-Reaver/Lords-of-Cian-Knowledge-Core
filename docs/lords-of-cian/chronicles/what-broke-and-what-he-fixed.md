@@ -42,7 +42,7 @@ club with a single point of failure built into its entire existence. I'd rather 
 alive myself, in case that forge is ever three weeks away when it matters most."
 
 The repair held through the following eleven engagements without incident, and the field armorer,
-years later, would cite it as the moment he stopped thinking of the Trinity as something mystical and
+years later, would cite it as the moment he stopped thinking of the Trinity as something beyond understanding and
 started thinking of it as, at bottom, extraordinarily well-made equipment — maintained, like anything
 else worth keeping, by someone who understood exactly how it was built.
 

@@ -20,7 +20,7 @@ whatever's under those lights isn't open water."
 The reef, when the lead's line finally found it, sat exactly where a captain trusting the false
 markers would have driven a hull at full speed — close enough to the surface to gut a keel, far enough
 below to stay invisible until the moment it wasn't. Three Trust gunships waited a half-mile off in the
-dark, engines cold, sails struck, counting on the wreck to do their work before they ever had to fire
+dark, lamps doused, sails struck, counting on the wreck to do their work before they ever had to fire
 a shot.
 
 "They studied us," Kanja said, watching the false lights with something closer to respect than anger.
@@ -38,7 +38,7 @@ that?"
 "They committed three ships to sit dark and silent waiting on a wreck. That means they're not
 expecting a fight. Let's not disappoint the effort they put into pretending we'd never notice."
 
-*The Audit* came about a second time, engines dark, running the same silent approach the gunships had
+*The Audit* came about a second time, lamps dark, running the same silent approach the gunships had
 planned to use on a drowning crew — and took the lead vessel's rigging apart in the same confusion its
 own captain had built to trap someone else, boarded and disabled before the other two ships had
 finished understanding the reef hadn't done what it was supposed to.

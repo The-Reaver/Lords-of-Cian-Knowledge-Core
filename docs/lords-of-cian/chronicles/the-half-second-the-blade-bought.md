@@ -19,7 +19,7 @@ eleventh and final such trigger, and one more among the nine that counted as a s
 against an enemy. Against the fall itself: the
 rotation that triggered the blade also caught its edge into the pit's dirt wall on the way down,
 one clean bite deep enough to arrest the drop entirely, leaving him hanging a body's length above a
-floor spiked with iron stakes rather than landing on it, the chained captive's wrist still held fast
+floor bristling with iron stakes rather than landing on it, the chained captive's wrist still held fast
 in his other hand.
 
 Climbing out one-handed, blade still seated in the wall, took longer than the fall had — long enough
@@ -28,7 +28,7 @@ time. Mafesto's absence had trained this alias for exactly this kind of moment: 
 just a length of embedded steel doing double duty as a handhold and a guards' problem to solve
 before either of them worked out how.
 
-The pit stayed in the depot's floor after that night, spikes and all, a hazard for whichever crew
+The pit stayed in the depot's floor after that night, stakes and all, a hazard for whichever crew
 took the place over next. Garren Hask logged the near-fall exactly as he logged everything else —
 plainly, without embellishment — and noted, almost as an aside, that it was the eleventh time the boots
 had answered when nothing else in the loadout could have.

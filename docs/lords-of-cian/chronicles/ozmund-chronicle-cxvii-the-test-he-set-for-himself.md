@@ -48,7 +48,7 @@ promised to tell him the moment that stopped being true.
 So he set himself a test, deliberately, the way he set himself every other test in those years, alone
 and without an audience for it. The following morning, when the retainer opened with another remark about
 Aethelgard's softness — offered, as always, lightly, as though it cost nothing and meant less — Ozmund
-answered him. Not with heat, and not with the Spike, which never once entered his consideration at any
+answered him. Not with heat, and not with the density in his blood, which never once entered his consideration at any
 point in the whole week; simply with a level, unhurried correction, delivered exactly as he had watched
 his father deliver such things a hundred times before, naming precisely what the retainer had gotten
 wrong about the levee's own history and precisely why the "softness" he was describing had, in point of

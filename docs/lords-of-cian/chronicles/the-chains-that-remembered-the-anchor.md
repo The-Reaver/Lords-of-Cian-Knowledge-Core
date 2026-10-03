@@ -18,7 +18,7 @@ didn't know better, as ordinary ballast.
 Kanja activated it personally, standing at the housing's control brace as the escort's three
 gunships closed to engagement range. The effect built slowly, a low resonant hum climbing through
 the deck plates before anything visibly happened — and then every iron fitting on the nearest
-gunship's hull answered at once: rigging clasps seizing mid-motion, a gun turret's traverse locking
+gunship's hull answered at once: rigging clasps seizing mid-motion, a gun mounting's traverse locking
 hard enough to strain its own gears, the anchor windlass below decks screaming as its own chain
 tried, uselessly, to obey a pull it had no way to satisfy.
 
@@ -47,7 +47,7 @@ something about the world he cannot unlearn.
 "Your side's own chain, captured a year ago at Iron Shallows." Kanja checked the housing's output,
 satisfied, and began powering it down before it drew more than the engagement required. "Anchor
 chain remembers what it was forged for — holding a ship still against a current that wants to carry
-it away. I just gave it a different current to fight. It's not magic. It's the exact same iron, doing
+it away. I just gave it a different current to fight. It's not a trick. It's the exact same iron, doing
 the exact same job it's always done, pointed somewhere your captains never thought to check."
 
 ---

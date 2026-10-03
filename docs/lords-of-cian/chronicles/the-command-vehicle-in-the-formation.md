@@ -30,7 +30,7 @@ seven carried.
 "That one," he said, and didn't touch the other seven at all.
 
 The Ironhand Gauntlets' leverage went into the fourth Crawler alone, a single precise strike disabling its
-drive train without a sound loud enough to alert the rest of the ring. Command orders stopped reaching
+drive gearing without a sound loud enough to alert the rest of the ring. Command orders stopped reaching
 the other seven within minutes; without a coordinating voice, the formation broke apart into individual
 crews making individual, uncertain decisions, and the depot's garrison walked out through gaps that had
 been a defensive ring an hour before.

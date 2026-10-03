@@ -19,7 +19,7 @@ a crime for far too long."*
 Operation 24 came to her as a containment-and-neutralize contract of a shape her instrumentation had
 never quite catalogued before: a hostile entity haunting the flooded lower districts of a river-delta
 settlement, its density signature reading, on the Directorate's own remote instrumentation, as
-unstable to the point of near uselessness — spiking and collapsing across a range that made
+unstable to the point of near uselessness — surging and collapsing across a range that made
 conventional threat-assessment protocols simply refuse to resolve a number. Two Directorate response
 teams had already been driven back by it, neither managing so much as a clear visual identification
 before withdrawing.
@@ -29,12 +29,12 @@ abandoned granary the entity had apparently claimed as a den. I have asked her t
 itself more than once, and she gives, each time, roughly the same account: not difficult in the way a
 capable opponent is difficult, but disorienting in a register she had rarely encountered before or
 since. The entity's density did not merely rise and fall the way any combatant's output naturally
-does under strain. It fluctuated on a rhythm she could not predict, spiking to a crushing mass one
+does under strain. It fluctuated on a rhythm she could not predict, surging to a crushing mass one
 moment and collapsing to something scarcely denser than water the next, as though its own body could
 not settle on what it was supposed to weigh.
 
 She ended the engagement with the Spine of Dagon, timing the killing strike to a collapse-phase
-rather than a spike, a judgment call she has told me she made on instinct rather than calculation and
+rather than a surge, a judgment call she has told me she made on instinct rather than calculation and
 has never fully been able to reconstruct the reasoning behind since.
 
 *
