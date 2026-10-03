@@ -33,6 +33,13 @@ Things already flagged in the ledger as deliberately open, not yet paid off, or 
 back for a future book/Chronicle. These constrain what the profile and game plan may touch.
 -
 
+### Connective-tissue findings
+Every contradiction or gap found while building this walkthrough, among this character's rules or
+between rules and Chronicles. Covers ages and dates, who knows what and since when, gear era,
+places, and names. Quote both sides with IDs. Each one is resolved, or explicitly queued for
+Abad's ruling, before the gate clears.
+-
+
 ### Existing Chronicle corpus (if any)
 For a character with Chronicles already locked (backfill case): a list of what's already been
 written and what it already establishes, so the profile is a synthesis of demonstrated
@@ -76,6 +83,12 @@ this file always reflects current understanding, not a batch-log history of how 
   the final test is reading the draft beside the "ONYX:" coda in
   `docs/lords-of-cian/chronicles/chronicle-viii-the-ash-wharf-massacre.md` -- if it is not
   recognizably the same instrument, it is redrafted.
+- **Connective-tissue gate, mandatory (Abad, 2026-10-03):** every draft for this series passes
+  the third non-negotiable rule in `CLAUDE.md` before it is presented. That means
+  `scripts/connective_tissue_check.py` exits 0, an independent reviewer reads the draft against
+  every rule the script lists, any changed fact is propagated everywhere it is stated, and the
+  draft is presented with a connective-tissue note. The Section 1 findings above must be resolved
+  or queued before this gate clears.
 - **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
   character's life/role actually calls for a split)
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the

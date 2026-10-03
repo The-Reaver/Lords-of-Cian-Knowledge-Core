@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "36.3",
+  "ledger_version": "36.4",
   "last_updated": "2026-10-03",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2715,6 +2715,12 @@
       "source": "Original invention, chat-drafted 2026-10-03, no source document",
       "rules_affected": 3,
       "note": "Lauris Chronicle CX locked (MCD-1888), her marquee kill under MCD-1881 and the first entry after her gate cleared, with VB-064 (Fermand's Lauris voice: first-person transcriber frame and CC-034 register stand; hard constraints bind every entry) and CC-162 (her post-Defection kill register: necessity only). Abad's approval: \"as long as it makes sense I approve\" and \"anything that needs correction is mandated to be corrected everything has to make sense. above all things everything has to connect to everything else logically the connective tissue must be Flawless that is the number one priority above all things\""
+    },
+    {
+      "batch": 362,
+      "source": "Abad's direct ruling in conversation, 2026-10-03",
+      "rules_affected": 1,
+      "note": "MCD-1881 amended: Anirak named a Tier 1 character and a fifth Book-1 anchor hero for the marquee-kill tier, kept distinct from MCD-212's four operational anchors. The same message made the Connective-Tissue Gate the project's third non-negotiable rule (CLAUDE.md, _TEMPLATE.md, scripts/connective_tissue_check.py) and opened gate files for Anirak, Pyro, and the Triad Guardians. Abad's approval: \"Anirak is an incredible tier 1 character and an anchor as well. Pyro and his Triad need to be well written. every connective tissue must be well thought out and well placed so it's only logical this is how we move from here on out please make sure this is gated.\""
     }
   ],
   "rules": [
@@ -21326,7 +21332,7 @@
     {
       "id": "MCD-1881",
       "category": "World Mechanics",
-      "statement": "The anchor-kill tiering, a standing writer's-guide rule for pre-Book-1 material. Three tiers: Marquee -- a named, fully dramatized kill or defeat that becomes legend and can be referenced in Book 1, reserved to the four Book-1 anchor heroes (Kanja across the Rebellion and the Long Mask, Daba/1804, Ozmund, Lauris); Notable -- a real, dramatized victory that does not define how the world speaks of the hero, for every other hero; Ledger -- background tallies. Working target roughly 15-20 marquee kills across the four anchors, each with a named victim and a full scene, never a body count. Constraints: for Daba/1804, 'marquee' means fully dramatized with a named victim in his own series while the kill stays publicly unattributed per MCD-1569, legend only inside 1804's own record, and network-executed except for at most one personal kill; Ozmund's stay strictly pre-Fulfillment-Ceremony, at most one, unwitnessed by Draconis, so his Book 3 escalation is not spent early; Kanja's Long Mask marquee kills use post-Mafesto gear only, Onyx sealed. Harek Vondel (MCD-1878, Daba/1804) and the Sovereign Pier (MCD-1880, Kanja) are the first two marquee kills under this rule. Abad's approval: 'go with retrospective, keep the two years, lock it.'",
+      "statement": "The anchor-kill tiering, a standing writer's-guide rule for pre-Book-1 material. Three tiers: Marquee -- a named, fully dramatized kill or defeat that becomes legend and can be referenced in Book 1, reserved to the four Book-1 anchor heroes (Kanja across the Rebellion and the Long Mask, Daba/1804, Ozmund, Lauris); Notable -- a real, dramatized victory that does not define how the world speaks of the hero, for every other hero; Ledger -- background tallies. Working target roughly 15-20 marquee kills across the four anchors, each with a named victim and a full scene, never a body count. Constraints: for Daba/1804, 'marquee' means fully dramatized with a named victim in his own series while the kill stays publicly unattributed per MCD-1569, legend only inside 1804's own record, and network-executed except for at most one personal kill; Ozmund's stay strictly pre-Fulfillment-Ceremony, at most one, unwitnessed by Draconis, so his Book 3 escalation is not spent early; Kanja's Long Mask marquee kills use post-Mafesto gear only, Onyx sealed. Harek Vondel (MCD-1878, Daba/1804) and the Sovereign Pier (MCD-1880, Kanja) are the first two marquee kills under this rule. Abad's approval: 'go with retrospective, keep the two years, lock it.' Amended Batch 362, 2026-10-03: Anirak is a Tier 1 character and a Book-1 anchor hero. The anchor heroes are now five -- Kanja, Daba/1804, Ozmund, Lauris, and Anirak -- and the working target of roughly 15-20 marquee kills spans all five. Her marquee kills sit no earlier than her recruitment at the Chain Harbor mutiny (MCD-251, dramatized at MCD-1883, Kanja age 55) unless her own profile establishes earlier material. Their specific constraints are set in her Game Plan once her Character Chronicle gate clears. 'Anchor hero' here is the marquee-kill tier only. It is distinct from MCD-212's four operational anchors of the Lords of Cian (Sephtis archival, Kanja command, Ezio strategic, Lauris operational), which this amendment does not change. Abad's approval: 'Anirak is an incredible tier 1 character and an anchor as well. Pyro and his Triad need to be well written. every connective tissue must be well thought out and well placed so it's only logical this is how we move from here on out please make sure this is gated.'",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-10-02, no source document. Follows Abad's direction that pre-Book-1 marquee kills be concentrated on the four Book-1 anchor heroes, and his standing rule that every event in Kanja's life always has an Onyx account."
     },

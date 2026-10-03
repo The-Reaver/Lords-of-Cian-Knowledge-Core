@@ -21,6 +21,9 @@ tracked here as it proceeds — see CLAUDE.md's gate section for the protocol it
 | Lauris Letitia | `character-profiles/lauris-letitia.md` | game plan approved (backfill, 2026-10-03); Chronicle CX locked | 110 (Chronicles I-CX) |
 | Daba | `character-profiles/daba.md` | wave 3 locked + marquee kill | 59 (incl. Chronicles LVII-LVIII, the Harek Vondel/Vex Thurlow villain defeats, and LIX, the Fenwold stair, `MCD-1887`) |
 | Ezio Valcari | `character-profiles/ezio-valcari.md` | wave 1 locked | 1 (own series, `MCD-1876`) — plus extensively established as supporting cast across 84 Industrial Myth Alias Chronicles + 4 Lauris Character Chronicles |
+| Anirak | `character-profiles/anirak.md` | walkthrough in progress (Tier 1, Book-1 anchor hero, 2026-10-03) | 0 own series; supporting cast across Kanja/Alias Chronicles |
+| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | walkthrough in progress (priority launch, 2026-10-03) | 0 own series |
+| Triad Guardians (Varkul, Sorya, Varruk) | `character-profiles/triad-guardians.md` | walkthrough in progress (priority launch, 2026-10-03) | 0 own series |
 
 ## Kanja-version track (new, 2026-09-28 — distinct from the Alias Chronicle track below)
 

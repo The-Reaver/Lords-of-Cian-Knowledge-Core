@@ -59,6 +59,10 @@ Salvatierra Duho.
   his own memory.
 - **Anansi** — SBD/enemy designation "Shadowforge" (confirmed the same
   person), secretly Valeria Korth's brother.
+- **Anirak** — added to Tier 1 by Abad, 2026-10-03 ("Anirak is an incredible tier 1 character and
+  an anchor as well"), and a fifth Book-1 anchor hero for marquee kills (`MCD-1881` as amended,
+  Batch 362). Recruited mid-mutiny at Chain Harbor (`MCD-251`/`MCD-1883`). Gate file:
+  `character-profiles/anirak.md`.
 - **Orlok** — ~76,003 years old, self-taught S-Tier fighter, 20,000x density
   ceiling, Enlightenment carries a biological erosion cost.
 
@@ -66,9 +70,12 @@ Salvatierra Duho.
 Bloodreaver (Torian), Ironbane (Darius), Voidbreaker (Jax), Ghostwind
 (Sylas), Stormreaver (Kairo), Stormbreaker (Kaelen), Soulreaver Zora, Damu
 (Julian Dael-Koss), Abyss (Ren Oshaal), Matar, Cooper (Ronan Kellsward),
-Valeria Korth, Lady Nadea Thren, Anirak, Vargo Vakas, Anu Un Ra (T.D.K.),
+Valeria Korth, Lady Nadea Thren, Vargo Vakas, Anu Un Ra (T.D.K.),
 Legbara Kalunga, Pyro (Ignis Rexmar), the Triad (Varkul, Sorya, Varruk —
-could run as one shared thread or three separate ones, undecided).
+could run as one shared thread or three separate ones, undecided). **Pyro and
+the Triad are priority launches** per Abad, 2026-10-03 ("Pyro and his Triad
+need to be well written"). Gate files: `character-profiles/pyro.md`,
+`character-profiles/triad-guardians.md`. (Anirak moved to Tier 1, 2026-10-03.)
 
 ### Tier 3 — antagonists
 Cassius Verehimu ("the False Lion"), Colonel Viktor Draconis, Lucius

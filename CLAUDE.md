@@ -53,6 +53,40 @@ steps require Abad's actual review -- for the backfill, presented in digestible 
 35 separate live discussions, but no character's row in the tracker moves to "game plan approved" on
 a blanket authorization alone; each batch still gets an explicit sign-off.
 
+## The third non-negotiable rule: the Connective-Tissue Gate (Abad, 2026-10-03)
+
+Abad, verbatim: "above all things everything has to connect to everything else logically the
+connective tissue must be Flawless that is the number one priority above all things" and "every
+connective tissue must be well thought out and well placed so it's only logical this is how we move
+from here on out please make sure this is gated."
+
+Logical connection across the whole canon outranks every other consideration. Nothing gets
+presented to Abad until it has passed this gate. That covers every Chronicle, every rule draft,
+every correction, every profile section, and every merge. The gate, in order:
+
+1. **Mechanical check.** Run `python3 scripts/connective_tissue_check.py <draft>`. It must exit 0:
+   every cited rule ID exists and is locked. The script's output is the checklist: every proper
+   noun with the rules and Chronicles that already use it, every new name with its near-collisions,
+   and every number (age, year, count, density, distance) in the narrative.
+2. **Independent review.** A fresh-context reviewer, one who did not write the draft, reads it beside
+   every rule the script listed and tries to break it. They check ages and dates against each
+   character's timeline. They check gear against era (Trinity before the age-30 surrender,
+   post-Mafesto kit after, Book-2 Moonvault gifts never before Book 2). They check who knows what
+   and since when. They check places against the Atlas, voice against the narrator's sheet, kills
+   against `CC-161`/`CC-162`/`MCD-1882`, and reserved threads against the profile. Every finding gets
+   fixed and the draft is re-checked before it is presented.
+3. **Propagation.** Any change to a locked fact is carried in the same batch to every rule
+   statement, Chronicle, profile, and tracker row that states it, found by a repo-wide grep. A fact
+   corrected in one place and left stale in another is a gate failure.
+4. **Presentation.** Every draft is presented with a short connective-tissue note: what it agrees
+   with, what it extends, what it touches, and which new names were collision-checked. Approval
+   and lock then follow the first non-negotiable rule.
+
+Mechanical corrections that only realign a passage with an already-locked fact, or remove a banned
+word, are applied directly under Abad's correction mandate. They still pass steps 1-3. A resolution
+that needs a new fact is drafted and presented for approval. The gate step also lives in
+`docs/lords-of-cian/character-profiles/_TEMPLATE.md`.
+
 ## Rule-ID prefixes in use
 
 `MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.). Check the ledger for the next unused ID in a prefix before drafting; never guess.
@@ -4137,6 +4171,15 @@ message:** logical connective tissue across the whole canon is the project's num
 Every contradiction gets corrected. Mechanical corrections that add no new fact are applied
 directly. A resolution that needs a new fact is drafted, presented, and locked on approval. Ledger
 at `ledger_version` 36.3, 2,667 rules, 361 batches.
+
+**Batch 362 (`MCD-1881` amended).** Abad: "Anirak is an incredible tier 1 character and an anchor
+as well. Pyro and his Triad need to be well written. every connective tissue must be well thought
+out and well placed so it's only logical this is how we move from here on out please make sure this
+is gated." Anirak is now Tier 1 and a fifth Book-1 anchor hero for the marquee-kill tier. That tier
+is kept distinct from `MCD-212`'s four operational anchors. The Connective-Tissue Gate is now the
+third non-negotiable rule (top of this file), and `scripts/connective_tissue_check.py` is its
+mechanical half. Gate files are opening for Anirak, Pyro, and the Triad Guardians, which are both
+priority launches. Ledger at `ledger_version` 36.4, 2,667 rules, 362 batches.
 
 ## Separate, unrelated thread: the interactive archive app
 
