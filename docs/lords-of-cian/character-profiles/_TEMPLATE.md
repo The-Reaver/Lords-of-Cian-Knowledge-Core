@@ -64,6 +64,14 @@ this file always reflects current understanding, not a batch-log history of how 
 
 - **Narrator / voice:** (confirm against Voice Bible rules if one is already locked; propose one
   if not, and get it confirmed before drafting)
+- **Voice spec, gated (Abad, 2026-10-03):** name the governing voice document(s) and quote the
+  rules that bind this series -- `docs/lords-of-cian/voice/voice-bible-definitive.md` (the
+  narrator's own sheet, hard constraints, exclusion list) and, for any Onyx-narrated or
+  Onyx-voiced passage, `docs/lords-of-cian/voice/voice-progression-sheet.md`, with the Phase
+  that governs each entry's in-world age stated explicitly. Every draft gets a voice check
+  against this spec (sentence length, articles, tense, naming, verdict register, banned words
+  and structures, dialogue 50% rule) before it is presented to Abad; a draft that fails is
+  redrafted, not presented with the failures listed.
 - **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
   character's life/role actually calls for a split)
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the

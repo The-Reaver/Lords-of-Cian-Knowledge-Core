@@ -430,6 +430,16 @@ Abad's direction: "open the Long Mask wave with Dark Ledger openings. keep fable
   approximate." All three candidates drafted as wave one of the Long Mask extension; Dark Ledger
   seconds-counts stay approximate (no fixed Cian year length implied). Gate scope extended: the
   Kanja-version track is now cleared for the Long Mask (ages 30–314) as well as the Rebellion.
+- **Abad's rulings on the first Long Mask drafts, 2026-10-03:** "lock in the age 30 and 48 no
+  killing" (locked as `MCD-1882`, Batch 354). Chronicle V's yard reading of named men "cannot come
+  off as vengeful ... we must figure out a clean way to make sure that this does not apply until
+  after his father's death" -- pre-Book-1 kills must not be verdict-then-execution; the fix is
+  pending a drafted amendment to `CC-161`. The Sleeping Giant's Pi-Awakening hint in VII is kept,
+  "handled in a way where it could be easily ignored by the reader and then they can come back
+  later and say whoa." Anirak's gorget is tied to her own Siren voice ("built to carry what her
+  own throat already did"). Voice: Onyx drafts were found off-cadence against the Voice Progression
+  Sheet; every Onyx entry now passes a gated voice check against
+  `docs/lords-of-cian/voice/` before it is presented (see the template's Game Plan section).
 
 ---
 

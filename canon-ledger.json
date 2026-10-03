@@ -1,7 +1,7 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "35.5",
-  "last_updated": "2026-10-02",
+  "ledger_version": "35.6",
+  "last_updated": "2026-10-03",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
     "Voice Bible governs tone/language only, not facts.",
@@ -2667,6 +2667,12 @@
       "source": "Original invention, chat-drafted 2026-10-02, no source document. Formalizes Abad's statement that Onyx is biologically tethered to Kanja, extending ARS-020, MCD-201, CC-012, CC-013, MCD-246, and VB-062.",
       "rules_affected": 1,
       "note": "Locks the Heartline (Onyx's biological bond to Kanja) and the Dark Ledger (its record of felt-but-unwitnessed signals during the sealed Long Mask), as the source mechanism for VB-062's retrospective Long Mask accounts. All three flagged choices kept: the names, Kanja not knowing until the reunion, and the reserved Book-1 beat of Maro's death arriving through the Heartline. Abad's approval, quoted verbatim: 'Both Heartline / Dark Ledger. keep all three, lock it'"
+    },
+    {
+      "batch": 354,
+      "source": "Original invention, chat-drafted 2026-10-03, no source document",
+      "rules_affected": 1,
+      "note": "MCD-1882: Kanja kills no one by his own hand between the Sovereign Pier (age 30) and the opening of the Pirate Dawn (age ~48). Abad's approval: \"lock in the age 30 and 48 no killing.\""
     }
   ],
   "rules": [
@@ -21295,6 +21301,13 @@
       "statement": "The Heartline. Onyx of Oblivion's bond to Kanja (ARS-020, bonded at seventeen) is biological, not mere attunement: at bonding, the blade's Living Drakma lattice keyed itself to his blood, pulse, and nervous system. The Heartline is why Onyx feels Kanja at any distance, though it speaks only through whoever holds its grip (MCD-201). Across distance it runs one way -- Onyx receives, Kanja does not -- and carries the body only: heartbeat, strain and exhaustion, wounds and illness, sleep, the specific spike of a kill, and density surges, which Onyx records but never names (VB-021). It never carries words, sights, places, or thoughts; full exchange happens only through the grip. The Heartline does not break when Onyx is sealed at L9, the Silent Infinite (CC-012); it holds for the entire 284-year Long Mask. In the dark, Onyx keeps the Dark Ledger, a section of the Black Ledger (CC-013) unlike the rest of it: the Black Ledger records what the blade witnesses, the Dark Ledger only what it felt -- signals logged against its running seconds-count (MCD-246), with no causes attached. When the Karkosa Heist returns Onyx to Kanja's hand in Book 1 (MCD-070, ARS-010), grip contact restores the full channel: Onyx reads 284 years out of his body (scars, changed muscle memory, accumulated strain) and reconciles every Dark Ledger entry against what actually happened -- the mechanism behind VB-062's retrospective Long Mask accounts, each of which can open on a Dark Ledger entry before revealing its cause. Limits: through the Heartline, Onyx cannot locate Kanja, warn him, or act; it can only feel and record. Kanja does not know the bond survived the sealing until the reunion. Reserved: Maro Rexmar's death at the Fulfillment Ceremony happens while Onyx is still sealed and reaches the blade through the Heartline as a signal with no cause; this beat belongs to Book 1 and must not be drafted, foreshadowed, or referenced in any pre-Book-1 material. Abad's approval: 'Both Heartline / Dark Ledger. keep all three, lock it'",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-10-02, no source document. Formalizes Abad's statement that Onyx is biologically tethered to Kanja, extending ARS-020, MCD-201, CC-012, CC-013, MCD-246, and VB-062."
+    },
+    {
+      "id": "MCD-1882",
+      "category": "World Mechanics",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-10-03, no source document",
+      "statement": "The Long Mask's no-kill window. From the Sovereign Pier (age 30, MCD-1880 -- the nine killed there are the last) until the opening of the Pirate Dawn (age ~48, MCD-250), Kanja kills no one by his own hand. Onyx's Dark Ledger (ARS-437) records no kill spike across the whole span. The era's operations (MCD-247 through MCD-249: the Unarmed Siege of Maw-3, the Crucible Market raid, the False Dragon's Wake, and the rest) stay bloodless by his hand, carried by forged pressure, Standing Order 44-B, and the 'legend is the weapon' doctrine. The window governs Kanja's own hand only; crew and Avatars sit outside it. It binds every track: no Alias, Character, Territory, or Kanja-version Chronicle may show him killing anyone between those ages, and any existing entry that does is reconciled to non-lethal, crew-performed, or re-dated action. Extends CC-161 and MCD-1881. Abad's approval: 'lock in the age 30 and 48 no killing.'"
     }
   ],
   "open_decisions": [
