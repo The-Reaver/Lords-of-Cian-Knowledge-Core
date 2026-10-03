@@ -12,7 +12,9 @@ collision-checked clean against the full ledger and Chronicle corpus. Dol Maren 
 Batch 226). No child-safety issues. Corrected before locking per the light Fable review (Batch 351): Onyx power
 names realigned with the locked showcase, the blade's span corrected to thirteen years, Obsidian
 Malice's charge state and the machete lineage fixed. Abad's approval: "go with retrospective, keep
-the two years, lock it."*
+the two years, lock it." Corrected Batch 356, 2026-10-03: Caddel goes over the rail to
+come at the king from the water side, so her death is a necessity kill under `CC-161`; Abad's
+approval: "approved."*
 
 ---
 
@@ -120,9 +122,9 @@ no longer had a purpose, met Obsidian Malice on the backswing.
 Tasker and Caddel had flanked along the gunwale of *The Audit* itself. Whisper of Shadows let the
 blade hear them breathing against the hull -- the man heard it through the blade and did not look.
 He reversed the blade over his shoulder, point-down along his own spine, and stepped back into
-them. Tasker died against the hull Kanja had spent four hours repairing. Caddel tried to go over the
-rail and the blade caught her at the ankle tendon and the man caught her at the collar, and he did
-not let her reach the water.
+them. Tasker died against the hull Kanja had spent four hours repairing. Caddel went over the rail to come at the king
+from the water side, and the blade caught her at the ankle tendon and the man caught her at the
+collar, and he did not let her reach the water.
 
 **Ten through forty.** The projectors were empty or dropped. The remaining seven came the old way,
 with steel, and the man met them the old way. Veil Piercer ran through the blade at the frequency of
