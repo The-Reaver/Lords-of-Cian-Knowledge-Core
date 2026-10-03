@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 299, 2026-09-18 (`MCD-1633`). Sixteenth entry in Lauris Letitia's own Chronicle
 series, the third entry of Strand K (Kares Prime / deep past). Dramatizes one of the six defensive
-operations against non-Karesian incursions at orbital trade-points from the Long Operational Period
+operations against non-Karesian incursions at crossing-harbors from the Long Operational Period
 (`MCD-1555`, age 1,841-~3,400), at an unnamed outer trade-point distinct from the Olmedrin point she
 later departs through (`MCD-175`). No new named characters -- the smuggling crew stays deliberately
 unnamed, matching the project's established convention for secondary figures (Chronicle II's opposing

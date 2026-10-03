@@ -4251,6 +4251,32 @@ Still pending: how the worlds connect without space travel. "One world, many sho
 The draft is at `docs/lords-of-cian/drafts/2026-10-03-tide-line-and-world-crossing.md`. Ledger at
 `ledger_version` 37.0, 2,672 rules, 368 batches.
 
+**Batch 369: world cosmology, no space travel (`MCD-1893`-`1897`).** Abad: "in this universe of mine
+there is no space travel," then "I want to go with all of the recommendations for world travel" and
+"keep going, lock it when the review is clean." The rules lock **One World, Many Shores**.
+- **Four continent-worlds** share one planet (`MCD-142`): Cian, Kares Prime, the homage World, and
+  an uncharted fourth. "Cian" names Kanja's continent-world; the planet as a whole has no common
+  name. The Foreign Sea nation is a maritime power within reach of Cian, not the fourth continent.
+- **The Long Currents** are the only crossings. They run one way, with hard-to-read return loops.
+  Kares Prime sits where several currents converge. A current runs from the homage World to Cian,
+  the Book 1 route of `PH2-048`. Kanja's Mar sense makes him one of the few who can cross both ways.
+- **Kares Prime's 4.7x gravity** comes from the planet's densest mass under its continent. Its
+  "binary star" is a parhelion, a doubled sun formed by mineral crystal in its dense air.
+- **Living Drakma** comes from one impact at Mao, focused antipodally. It lies under three
+  continents and is absent from the homage World.
+- **The Deep Road** is a crushing-pressure abyssal route used by the Vael Kem and T.D.K.'s sea
+  forces.
+- **The Low Water** is a land bridge that surfaces once a generation, held in reserve.
+
+All orbital, planetfall, and binary-star wording is replaced across 23 rules and 3 Lauris
+Chronicles, and `WC-013`/`MCD-147`/`MCD-315` are reconciled on Living Drakma's range. An independent
+adversarial review found five critical gaps (missed "orbital-trade" wording, the Foreign Sea
+nation's routine traffic, the Living Drakma range, two-way Kares Prime traffic, the homage-to-Cian
+route); all were fixed before lock. One pre-existing tension stays noted, not changed: Lauris LXXI's
+Iron-Speaker line "We have sent nothing beyond this world" reads as the Conclave's official position
+against the individual diaspora of `MCD-158`. Ledger at `ledger_version` 37.1, 2,677 rules, 369
+batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

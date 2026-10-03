@@ -1,6 +1,6 @@
 # Draft for approval: The Tide Line, and how the worlds connect
 
-*Part 1 LOCKED, Batch 368, 2026-10-03 (`MCD-1889`-`1892` and the listed amendments). Abad's approval: "go with C and all your recommendations" and "and all of my recommendations in this she will shine and we will display her incredible array of devastating combinations." Part 2 is still a pending choice. Drafted 2026-10-03 from his direction: "go with C and all your
+*Part 1 LOCKED, Batch 368, 2026-10-03 (`MCD-1889`-`1892` and the listed amendments). Abad's approval: "go with C and all your recommendations" and "and all of my recommendations in this she will shine and we will display her incredible array of devastating combinations." Part 2 resolved in Batch 369 (One World, Many Shores, with the Long Currents, the Deep Road, and the Low Water). Drafted 2026-10-03 from his direction: "go with C and all your
 recommendations" for Anirak's fourth Book 5 front, and "in this universe of mine there is no space
 travel so we have to find a clever way where people can wind up in another world." Part 1 is drafted
 rule text to lock. Part 2 is a choice of mechanism, with a recommendation. Nothing here is locked.*

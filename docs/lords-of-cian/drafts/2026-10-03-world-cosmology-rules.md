@@ -1,6 +1,6 @@
 # Draft for lock: world cosmology (no space travel)
 
-*UNLOCKED -- pending Abad's lock. Drafted 2026-10-03 from "I want to go with all of the recommendations for world travel." Merge script: `merge_batch369_world_crossing.py` (dry-run clean).*
+*LOCKED, Batch 369, 2026-10-03, after the independent review's findings were fixed. The locked text is in canon-ledger.json (MCD-1893-1897), which supersedes the pre-review text below. Drafted 2026-10-03 from "I want to go with all of the recommendations for world travel." Merge script: `merge_batch369_world_crossing.py` (dry-run clean).*
 
 ---
 

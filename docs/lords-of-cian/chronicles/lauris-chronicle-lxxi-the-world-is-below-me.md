@@ -3,7 +3,7 @@
 *Locked canon, Batch 300, 2026-09-18 (`MCD-1688`). Seventy-first entry in Lauris Letitia's own
 Chronicle series, the fourteenth entry of Strand K and the closing entry of this wave's departure
 sequence. Set at age ~4,000, in the final weeks and hours before the departure already locked at
-`MCD-174` -- the journey to and arrival at the Vask Olmedrin orbital trade-point, the gathering of
+`MCD-174` -- the journey to and arrival at the Vask Olmedrin crossing-harbor, the gathering of
 roughly 1,200 Karesian women to see her off, and her own final recorded line on departing Kares
 Prime, already locked at `MCD-1558` ("The world is below me. It will be below me for the rest of my
 life. I will continue."), placed in its full original context for the first time. Ends at the
@@ -85,5 +85,5 @@ nothing further to add to it. I do not believe it needs anything added.
 
 *The world is below me. It will be below me for the rest of my life. I will continue.*
 
-She has kept that promise for approximately two thousand years since making planetfall on Cian, and
+She has kept that promise for approximately two thousand years since making landfall on Cian, and
 keeps it, in every meaningful sense, in every year since.
