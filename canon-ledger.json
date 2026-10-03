@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "35.6",
+  "ledger_version": "35.7",
   "last_updated": "2026-10-03",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2673,6 +2673,12 @@
       "source": "Original invention, chat-drafted 2026-10-03, no source document",
       "rules_affected": 1,
       "note": "MCD-1882: Kanja kills no one by his own hand between the Sovereign Pier (age 30) and the opening of the Pirate Dawn (age ~48). Abad's approval: \"lock in the age 30 and 48 no killing.\""
+    },
+    {
+      "batch": 355,
+      "source": "Original invention, chat-drafted 2026-10-03, no source document",
+      "rules_affected": 1,
+      "note": "CC-161 amended: pre-Book-1 kills by Kanja's own hand are necessity kills only -- no verdict-then-execution, no killing a surrendering man, judgment of the dead belongs to Onyx's narration afterward. Abad's approval: \"go with your recommendation on the CC-161 amendment\""
     }
   ],
   "rules": [
@@ -21277,7 +21283,7 @@
     {
       "id": "CC-161",
       "category": "character-codex",
-      "statement": "Kanja's killing doctrine. His no-killing stance is a deliberately costed default, never an absolute. The Scrip-Forge Raid, the Dredge-Line Ambush, and the Maw-9 demolition stay bloodless because bloodlessness was the better weapon there -- a humiliation the Trust's bureaucracy has no clean answer to, rather than a war its military can. When the ratio demands death, he chooses it explicitly and records the cost. Governing precedents: the Black Trench (MCD-232, 1,400+ Brigade losses), the Falling Bridge (MCD-243, 400 mounted pursuers dropped into a gorge), and the Sovereign Pier (MCD-245/MCD-1880, nine killed, three deliberately spared). His kills across the Rebellion and the Long Mask are cold, ledgered, and terrifying because they are calm and chosen, never rage. The urge to destroy his enemies stays reserved for the turn caused by Maro Rexmar's death at the Fulfillment Ceremony; nothing before Book 1 may read as that turn arriving early. Abad's approval: 'go with retrospective, keep the two years, lock it.'",
+      "statement": "Kanja's killing doctrine. His no-killing stance is a deliberately costed default, never an absolute. The Scrip-Forge Raid, the Dredge-Line Ambush, and the Maw-9 demolition stay bloodless because bloodlessness was the better weapon there -- a humiliation the Trust's bureaucracy has no clean answer to, rather than a war its military can. When the ratio demands death, he chooses it explicitly and records the cost. Governing precedents: the Black Trench (MCD-232, 1,400+ Brigade losses), the Falling Bridge (MCD-243, 400 mounted pursuers dropped into a gorge), and the Sovereign Pier (MCD-245/MCD-1880, nine killed, three deliberately spared). His kills across the Rebellion and the Long Mask are cold, ledgered, and terrifying because they are calm and chosen, never rage. The urge to destroy his enemies stays reserved for the turn caused by Maro Rexmar's death at the Fulfillment Ceremony; nothing before Book 1 may read as that turn arriving early. Abad's approval: 'go with retrospective, keep the two years, lock it.' Amended Batch 355, 2026-10-03: before Maro Rexmar's death, every kill by Kanja's own hand is a necessity kill -- the person is an active, immediate threat to life in that moment (attacking, or working the wheel, lever, or blade that is killing others). He never names or recites a person's crimes, asks them to confirm their guilt, or pronounces a verdict and then kills them; he never executes a man who is surrendering or no longer a threat, deterrence included -- an offered surrender is honored. Any deterrent effect is a consequence others carry away, never his stated reason. Judgment of the dead belongs to Onyx's narration after the fact (the Black Ledger's Iron/Rust verdicts), never to Kanja beforehand. The verdict-then-execution register stays reserved for after Maro's death, alongside the urge to destroy his enemies. Abad's approval: 'go with your recommendation on the CC-161 amendment'",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-10-02, no source document. Follows Abad's direction that pre-Book-1 marquee kills be concentrated on the four Book-1 anchor heroes, and his standing rule that every event in Kanja's life always has an Onyx account."
     },
