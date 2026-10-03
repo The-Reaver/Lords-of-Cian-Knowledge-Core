@@ -29,6 +29,8 @@ amend = {
                 "Establishes her four-person unit (Anirak leading Edda, Hamund, and Odile, MCD-1890), whose three are the first sub-crew loyal to a lieutenant rather than to Kanja directly"),
     "ARS-440": ("by a circuit that priced its fighters' freedom at a ratio set above any ordinary career's return (MAW-079)",
                 "by a circuit that priced her freedom against the debt she was sold for (CC-163), the same system that sets the Cestari manumission ratio above any ordinary career's return (MAW-079)"),
+    "ARS-441": ("clears everyone the Voice has dropped within her reach",
+                "sweeps the weapons from everyone the Voice has dropped within her reach and is lethal only to those who keep coming (CC-164)"),
 }
 R = {r["id"]: r for r in d["rules"]}
 for rid, (old, new) in amend.items():
@@ -37,12 +39,13 @@ for rid, (old, new) in amend.items():
 
 nb = max(b["batch"] for b in d["batches_completed"]) + 1
 d["batches_completed"].append({
-    "batch": nb, "source": SOURCE, "rules_affected": 4,
+    "batch": nb, "source": SOURCE, "rules_affected": 5,
     "note": ("Anirak's Psychological Profile closed: CC-163 (origin -- pressure-born, sold into the Maw "
              "circuit at twelve against a debt, never Cestari; her Chain Harbor unit is Anirak leading "
              "Edda, Hamund, and Odile) and CC-164 (her necessity-kill register from her recruitment "
-             "onward, with the Flood State clause carried by Ren). MCD-251 and ARS-440 amended "
-             "mechanically to match. Passed the Connective-Tissue Gate on a second independent review. "
+             "onward, with the Flood State clause carried by Ren). MCD-251, ARS-440 and ARS-441 "
+             "amended to match. The Batch 365 log's pending 'CC-163' is the Nadea Thren proposal, "
+             "renumbered CC-165. Passed the Connective-Tissue Gate on a third independent review. "
              "Abad's approval, verbatim: 'approved' / 'lock it.'")})
 d["ledger_version"] = str(round(float(d["ledger_version"]) + 0.1, 1))
 d["last_updated"] = "2026-10-03"

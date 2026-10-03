@@ -82,8 +82,8 @@ locked reach.
   cone makes distances lie, so an opponent steps back to where he judges he is safe and lands
   inside the Fangs' radius. It works only on the living.
 - **Foreclosure.** The Voice hits a crowd, and vertigo and nausea break its footing. A Split-Crown
-  sweep (about 40% wider striking radius, `ARS-411`) clears everyone the Voice has dropped within
-  her reach. It is the core of how she holds a line alone.
+  sweep (about 40% wider striking radius, `ARS-411`) sweeps the weapons from everyone the Voice has
+  dropped within her reach and is lethal only to those who keep coming (`CC-164`, Batch 371). It is the core of how she holds a line alone.
 
 **ARS-442 (new).** Hot-state combinations, Book 3 onward only. No pre-Book-3 material may show her
 at Hot or above (`ARS-370`). Her reaction time narrows and the Voice and her gaze begin to fire

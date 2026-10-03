@@ -190,8 +190,8 @@ statement (the ledger is the source of truth for exact wording).
   state:
   - Warm (`ARS-441`): First Payment, Compound Interest, The Lien, Siren's Draw, Foreclosure. Before
     Book 3 she never fights above Warm, and these, with the undersea and partner combinations, are the
-    whole of her craft across the Long Mask and Books 1-2. Foreclosure's Split-Crown sweep clears
-    those the Voice has dropped within her reach.
+    whole of her craft across the Long Mask and Books 1-2. Foreclosure's Split-Crown sweep disarms
+    those the Voice has dropped within her reach and kills only those who keep coming (`CC-164`).
   - Hot (`ARS-442`, Book 3 onward only): The Double Take; Echo Cast (Book 5 only, active sonar fixing
     positions to about 300 meters). Books 3-4 Hot and White fights are inland, so the active sonar
     first fires undersea in Book 5.
