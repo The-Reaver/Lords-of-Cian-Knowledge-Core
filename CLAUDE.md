@@ -4294,6 +4294,32 @@ and are fought inland in Books 3-4, and active sonar first fires undersea in Boo
 is the Connective-Tissue Gate working as intended. Ledger at `ledger_version` 37.2, 2,687 rules, 370
 batches.
 
+**Batch 371: Anirak's Psychological Profile locked (`CC-163`, `CC-164`).** Abad: "approved," then
+"lock it." The profile's four recommendations became two rules:
+- **`CC-163`, her origin.** She is pressure-born (`MCD-1896`), born free and sold into the Maw at
+  twelve against a debt. The circuit set her freedom against that debt, as with Ash Korren
+  (`MAW-147`). She is Branded in the Maw's sense but was never Cestari, so she carries no Cestari
+  birth-brand. Her Chain Harbor unit is Anirak leading Edda, Hamund, and Odile. Ren is not a member.
+  Open: who owed the debt, whether her community was Vael Kem, and which brand she carries.
+- **`CC-164`, her kill register.** It runs from the fleet's arrival at Chain Harbor onward, on the
+  `CC-162` pattern.
+  - Necessity kills only. Terms are given once where there is time, and anyone who sits or runs is
+    not struck.
+  - Giving ground inside a fight is not fleeing.
+  - Foreclosure is lethal only to those still coming.
+  - At Flood State she cannot make these judgments, so Ren carries them.
+
+Mechanical amendments:
+- `MCD-251`: Anirak leads the unit, and only the three are loyal to a lieutenant.
+- `ARS-440`: the circuit priced her freedom against the debt.
+- `ARS-441`: Foreclosure strips weapons from the dropped and kills only those who keep coming. Two
+  "below" references in the Codex now cite rule IDs.
+
+The approval list's Nadea Thren proposal moves to `CC-165`. The batch took six independent reviews
+to reach a clean gate. Five came back NOT CLEAN: Foreclosure's original wording contradicted the
+approved register, and the rest was stale doc text. Ledger at `ledger_version` 37.3, 2,689 rules,
+371 batches. Next for Anirak: the Game Plan (Section 3).
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

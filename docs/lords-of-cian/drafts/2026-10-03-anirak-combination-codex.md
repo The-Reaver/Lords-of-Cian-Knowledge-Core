@@ -196,4 +196,4 @@ below Flood State; once she reaches it, the crew works around her instinct (`ARS
 - **Names:** all collision-checked clean. "The Eastern Passage" deliberately reuses the Chain Harbor
   location as a callback.
 - **Her kill doctrine is not touched.** Combinations are techniques. How and when she kills stays
-  open for her own profile, per the walkthrough's finding 15.
+  open for her own profile, per the walkthrough's finding 15. Since resolved at `CC-164` (Batch 371).

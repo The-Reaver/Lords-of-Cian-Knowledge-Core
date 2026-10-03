@@ -1,6 +1,6 @@
 # Rule text: Anirak's Psychological Profile recommendations
 
-*Locking draft, 2026-10-03. Abad approved the profile and its four recommendations ("approved"),
+*LOCKED, Batch 371, 2026-10-03, after six independent reviews (`CC-163`, `CC-164`; `MCD-251`, `ARS-440`, `ARS-441` amended). Locking draft, 2026-10-03. Abad approved the profile and its four recommendations ("approved"),
 then said "lock it." This file holds the exact rule text, run through the Connective-Tissue Gate
 before the merge.*
 

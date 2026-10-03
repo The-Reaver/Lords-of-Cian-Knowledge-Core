@@ -10,8 +10,8 @@ any Chronicle is written or rewritten — not a summary produced after the fact.
 
 Abad's direction, 2026-10-03: "Anirak is an incredible tier 1 character and an anchor as well," and
 "every connective tissue must be well thought out and well placed so it's only logical." This
-walkthrough therefore lists every locked rule that names her or her kit (36 rules, refreshed in full
-against `canon-ledger.json` at `ledger_version` 37.2, 2,687 rules, through Batch 370; findings that
+walkthrough therefore lists every locked rule that names her or her kit (38 rules, refreshed in full
+against `canon-ledger.json` at `ledger_version` 37.3, 2,689 rules, through Batch 371; findings that
 later batches resolved are marked), plus the adjacent rules her
 characterization depends on, and closes with a precise list of the contradictions and gaps found
 among them. Nothing in this section resolves anything; it records what is locked and where the
@@ -48,6 +48,9 @@ statement (the ledger is the source of truth for exact wording).
 - `MCD-264` — Maw-11, liberated in the Maw Cascade at Kanja age 140 (an inside job using Ghostwind
   infiltration and a Hymn-Engine counter-frequency device, 3,800 freed), is named as "Anirak's
   former facility."
+- `CC-163` (Batch 371) — Her origin: pressure-born, born free in a pressure-born deep-water community,
+  sold into the Maw circuit at twelve against a debt, the circuit setting her freedom against it; Branded
+  in the Maw's sense, never Cestari, no Cestari birth-brand.
 - **Not locked anywhere:** her age (at recruitment or at Book 1), lifespan basis, density figure
   (resting or ceiling), height/build, family, which community or settlement she was born in
   (`MCD-1896` makes her pressure-born, and `CC-163` a free-born child of a pressure-born deep-water
@@ -71,8 +74,9 @@ statement (the ledger is the source of truth for exact wording).
     explicitly at age 85 and applied retroactively to Bloodreaver's heat, Stormbreaker's gravity, and
     Azar's dread (Anirak is not named in the list, though `MCD-251` uses the same offer for her).
 - **Her own unit.**
-  - `MCD-251` — Establishes her four-person unit as the first sub-crew loyal to a lieutenant rather
-    than to Kanja directly.
+  - `MCD-251` (amended Batch 371) — Establishes her four-person unit (Anirak leading Edda, Hamund, and
+    Odile), whose three are the first sub-crew loyal to a lieutenant rather than to Kanja directly.
+  - `CC-163` — Ren is not a member of the unit.
   - `MCD-1883` — Three freed prisoners hold the eastern passage at her back without orders ("No one
     ordered it"), then "do not join the crew. They join her"; Valen asks whose orders they take and
     they look at her before they answer; the Captain lets it stand.
@@ -240,6 +244,10 @@ statement (the ledger is the source of truth for exact wording).
   kills to the Book-1 anchor heroes. As amended Batch 362, she is the fifth anchor hero, and her
   marquee kills sit no earlier than her recruitment at Chain Harbor unless her own profile
   establishes earlier material.
+- **Kill register** — `CC-164` (Batch 371): necessity kills only from the fleet's arrival at Chain
+  Harbor onward; terms once where there is time; anyone who sits or runs is not struck; Foreclosure
+  is lethal only to those still coming; at Flood State the crew (Ren) carries the discriminations she
+  cannot make.
 
 ### Reserved / unresolved threads
 Things already flagged in the ledger as deliberately open, not yet paid off, or explicitly held
@@ -255,7 +263,7 @@ back for a future book/Chronicle. These constrain what the profile and game plan
 - **Lady Vestige's turn of the legions** — how the turn breaks, and what breaking it costs, is
   reserved for Book 5's own drafting (`MCD-1891`).
 - **The four-person unit** (the three named at `MCD-1890`, Batch 368; the composition of the four
-  is proposed in Section 2, recommendation 3); the unit's formal establishment is not dramatized; `MCD-1883`'s notes deliberately stop at "the seed."
+  is locked at `CC-163`, Batch 371: Anirak leading the three); the unit's formal establishment is not dramatized; `MCD-1883`'s notes deliberately stop at "the seed."
 - **The Siren's emotional cost** (`CC-112`) — that she cannot tell genuine attention from what her
   eyes take — is locked as fact and touched once in `MCD-1883` ("She cannot tell what anyone gives
   her from what her eyes take"), never developed.
@@ -383,21 +391,23 @@ resolved.
     roster," while `ARS-386` places Lauris on "the Book 5 Engine front." `ARS-374` also invokes "the
     Spine's pressure wave," whose amplified form `ARS-365`/`ARS-366` restrict to the Meridian's
     enclosed corridors.
-13. **Maw provenance and caste.** `MCD-251`: "Maw-raised since age 12." `MCD-264`: Maw-11 is
+13. **Maw provenance and caste. Caste resolved, Batch 371 (`CC-163`):** free-born, sold into the
+    circuit at twelve against a debt, never Cestari; whether she was present at Maw-11's liberation
+    stays open. Original finding, kept for the record: `MCD-251`: "Maw-raised since age 12." `MCD-264`: Maw-11 is
     "Anirak's former facility." `MCD-1883`: "Sold out of the circuit and shipped in a damping harness,"
     eleven days at Chain Harbor (a holding port between sale and shipping). Which Maw raised her is
     only implied; whether she was present at Maw-11's liberation is unstated; whether she is herself
     Cestari is unstated (`MCD-251` says she was "freeing captive Cestari"). `MCD-1896` (Batch 369) now
-    makes her pressure-born, which bears on the caste question but does not settle it. **Resolved,
-    Batch 371 (`CC-163`):** free-born, sold into the circuit at twelve against a debt, never Cestari.
-14. **The four-person unit. Partly resolved, Batch 368 (`MCD-1890`):** the three are named as Edda,
-    Hamund, and Odile; the count of four and Ren's status remain open. Original finding, kept for the
+    makes her pressure-born, which bears on the caste question but does not settle it.
+14. **The four-person unit. Resolved, Batch 371 (`CC-163`):** Anirak leading Edda, Hamund, and Odile
+    (the three named at `MCD-1890`, Batch 368); Ren is not a member. Original finding, kept for the
     record: `MCD-251`: "Establishes her four-person unit as the first sub-crew loyal to a lieutenant
     rather than to Kanja directly." `MCD-1883` notes: "the seed of her four-person unit's
     lieutenant-level loyalty... without naming them or claiming the unit's formal establishment."
-    Current status: the three are named at `MCD-1890`; whether Ren is ever part of the unit (which
-    would make five) is unaddressed.
-15. **Kill register.** `ARS-373`: "no stillness, no sniping, no clean kills -- total engagement is
+    Status at the time of the finding: the three were named at `MCD-1890`; whether Ren was part of the
+    unit was unaddressed.
+15. **Kill register. Resolved, Batch 371 (`CC-164`):** her own necessity-kill register from the
+    fleet's arrival at Chain Harbor onward. Original finding, kept for the record: `ARS-373`: "no stillness, no sniping, no clean kills -- total engagement is
     doctrine." Kanja (`CC-161`) and Lauris (`CC-162`) both carry locked necessity-only pre-Book-1 kill
     registers, and `MCD-1881` attaches marquee-kill conditions to each anchor. Anirak has no locked kill
     register; "total engagement" and "no clean kills" have not been squared with the necessity-only
@@ -460,7 +470,7 @@ she speaks twice and every word counts.
   can never be sure she is seen.* Her violet eyes capture everyone's attention, friend and enemy,
   always (`CC-112`). In Chronicle V the pull "lands in her too, from the far side. She cannot tell
   what anyone gives her from what her eyes take." She inspires loyalty she can never prove is real.
-  - **The connective point (proposed as the profile's key insight).** Her three were in the eastern passage
+  - **The connective point (the profile's key insight).** Her three were in the eastern passage
     and faced her while she broke their fetters, so the Siren touched them as it touches everyone
     (`CC-112`). What she trusts is not their eyes but their act. Freed, they turned their backs to her
     and faced the garrison, holding the eastern passage so she could work, and "no one ordered it"
