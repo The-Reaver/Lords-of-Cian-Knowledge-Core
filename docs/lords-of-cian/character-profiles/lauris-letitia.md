@@ -365,7 +365,7 @@ characterization, not invention:**
   single most useful data point in the whole corpus for a "what breaks her" psychological-profile
   discussion.
 - **New minor named characters introduced across the corpus**, all collision-checked clean per the
-  batch log and none contradicted elsewhere: Iron-Speaker Vann, Vask Ilvane (a location), Serath,
+  batch log and none contradicted elsewhere: Iron-Speaker Vann, Ilvane (a Threnarr daughter-hold), Serath,
   Doreth, Rassa, Merel Vantree, Ossen Fael, the Halfmoon Tide (a vessel — Strand K/D); Corin Halvet,
   Tevan Kesk, CP-609 (a designation, not a name — Strand L). None recur outside their own strand's
   thread except Serath (reused across three Strand K entries) and Merel Vantree (single

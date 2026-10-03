@@ -62,7 +62,7 @@ grounded in Kanja's own single underlying psychology, not a separate invented on
   explicitly past it: `MCD-1056` is dated roughly five years after the Trinity's surrender.
   Everything from wave 20 through wave 34 (`MCD-1056`-`1522`) is peacetime/post-war, and multiple
   entries span real elapsed decades and generations (Garren Hask's grandnephew, `MCD-508`; his
-  great-grandniece, `MCD-597`; a "fourth generation" reference in a cross-alias entry, `MCD-1486`;
+  great-grandniece, `MCD-597`; the Crow King lineage's fourth generation hearing of his death (`MCD-1486`);
   Hask's own death of old age, `MCD-1422`). **A real contradiction with `MCD-246` (the Trinity
   sealed at L9 for the entire 284-year Long Mask, ages 30-314) was found and fixed across Batches
   314 and 321: a number of post-surrender entries originally described "full Trinity combat
@@ -361,7 +361,7 @@ repeated, deliberate absences used as trust-building tests rather than avoidance
 celebratory/conflict-free entries (a wedding, `MCD-919`; a founding-crew reunion, `MCD-1389`); the
 run's only sustained comedy (`MCD-996`); explicit generational transmission as a recurring
 structural device (grandnephew, great-grandniece, the taught-to-read deckhand, Danne Sok's
-daughter, the fourth-generation cross-reference at `MCD-1486`); and command dilemmas that are
+daughter, the Crow King lineage's own fourth-generation echo at `MCD-1486`, which is not Hask's family line); and command dilemmas that are
 allowed to have no clean answer (`MCD-506`, `MCD-1371`) rather than being resolved into a win. The
 mortality-gap theme (`MCD-920`/`1089`/`1373`/`1387`/`1422`/`1423`) is the alias's own closest
 equivalent to a defining emotional throughline — worth treating as a leading candidate for that

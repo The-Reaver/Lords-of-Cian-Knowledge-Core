@@ -4,7 +4,8 @@
 series, the fifth entry of Strand K (Kares Prime / deep past). Dramatizes the second of the three
 inter-Vask security operations from the Long Operational Period (`MCD-1555`; the first is Chronicle
 II, `MCD-1562`) -- a resource-scarcity conflict between Karesians resolved without lethal force. This
-entry introduces one new named location, Vask Ilvane, a small, terminally failing Vask whose
+entry introduces one new named location, Ilvane, a small, terminally failing daughter-hold of Threnarr
+(never one of the forty Vasks, `MCD-155`/`160`) whose
 remaining ~40 residents Threnarr and Aldreth (both already-locked locations, established as
 neighboring Vasks in Chronicle II) dispute over absorbing -- collision-checked clean against the full
 live ledger (zero prior hits for "Ilvane"). No new named characters; the dispute itself stays
@@ -23,7 +24,7 @@ Period, as the one that most plainly reveals what the decline actually looked li
 not war, not catastrophe, but a slow arithmetic problem dressed, every few centuries, in the clothes
 of a dispute between neighbors who had once had no reason to dispute anything.
 
-Vask Ilvane, by the time this account begins, held some forty residents, down from a population her
+Ilvane, by the time this account begins, held some forty residents, down from a population her
 archive estimates once numbered in the low thousands. Its central chamber's ventilation system had
 failed twice in the preceding decade and could not, by the assessment of its own remaining
 Iron-Speaker, be repaired a third time with the personnel Ilvane had left to repair it. Winter was

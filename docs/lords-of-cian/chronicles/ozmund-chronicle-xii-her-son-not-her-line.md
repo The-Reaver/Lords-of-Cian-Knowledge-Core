@@ -64,8 +64,8 @@ whole of it — before she came back to test whether he'd kept the discipline in
 He told me that much with something close to pride, decades later, a boy's private triumph still
 warm enough at the edges to hear in an old man's voice.
 
-I only understood what she'd actually given him much later, watching him hold a command post through
-three days of General Baryon's own doctrine breaking against it without once raising his voice above
+I only understood what she'd actually given him much later, watching him hold a command post while
+General Baryon's own doctrine broke against it without once raising his voice above
 what the moment required. He never called it the Stone Count in front of the Legion. He didn't need
 to. I'd heard the phrase exactly once, years before I ever saw what it looked like grown into a man
 who could stand at the center of a battle the way a wall stands at the center of weather, and I knew

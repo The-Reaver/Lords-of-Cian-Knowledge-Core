@@ -43,7 +43,7 @@ He would spend years afterward trying to understand what he'd actually done in t
 fully manage it, only ever manage to do it again, more deliberately, when it mattered enough. What he
 understood immediately, kneeling there with his hands still pressed against a wound that was healing
 under them in a way no wound should, was smaller and worse than any of that: it had worked on her,
-finally, when there had been someone left alive to use it on. It had done nothing at all for six other
+finally, when there had been someone left alive to use it on. It had done nothing at all for three other
 people he'd known his entire adult life, because he had not been there, and because whatever this was
 in his hands had apparently been waiting, unclaimed and unknown to him, for exactly the one night it
 would have mattered most and hadn't been anywhere near enough of them.
@@ -56,7 +56,7 @@ carried water down the block without being asked and helped an old woman move a 
 own doorway, and was gone again by the time Arturo thought to ask anyone his name.
 
 The man who had started it — who had let a dispute over docking fees become a street war rather than
-swallow the smaller loss, and had done the arithmetic that six dead boys was an acceptable price for
+swallow the smaller loss, and had done the arithmetic that three dead boys was an acceptable price for
 winning it — held court three days later at his own table two blocks over, entirely unconcerned,
 because men like him rarely paid for arithmetic like that themselves.
 
@@ -75,7 +75,7 @@ himself paying debts that never actually stopped accruing.
 finished. She had not asked where he'd gone. She had not needed to.
 
 "I am older. That part isn't a trick of the light." He sat beside her, the two of them the entire
-surviving population of something that had, eleven days before, been six people deep. "I don't
+surviving population of something that had, eleven days before, been five people deep. "I don't
 intend to spend myself that way again if I can help it. Once was already more than I understood the
 price of when I agreed to pay it."
 
@@ -85,7 +85,7 @@ He was quiet a long while, the particular quiet of a man building something in t
 grief had been living, because grief on its own does not hold a shape and a man cannot carry it
 indefinitely without something to pour it into. "A table," he said, finally. "Not this one. Mine.
 Whoever sits at it is safe there, completely, the way none of us were safe in that room the night it
-mattered. I can't undo what happened to six people I loved because I wasn't standing close enough to
+mattered. I can't undo what happened to three people I loved because I wasn't standing close enough to
 them. I can build the one thing that makes sure it never happens again to anyone who sits close
 enough to me to matter."
 

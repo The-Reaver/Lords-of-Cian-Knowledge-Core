@@ -29,7 +29,7 @@ form for some hundred and eighty years yet. But I do not think it is an accident
 found most difficult to read past without pausing sits at the exact hinge between the two.
 
 She had returned to Vask Aldreth -- the same Hold that had, some eight hundred and fifty years
-earlier, absorbed the forty residents of a failing Vask Ilvane rather than let its last archive
+earlier, absorbed the forty residents of the failing hold of Ilvane rather than let its last archive
 scatter unremembered -- at the request of its Iron-Speakers, who had written to her about a child
 born there some years after the absorption, to a mother who had been among the original forty. The
 child, Doreth, was testing at a density well past what Aldreth's own instructors had encountered in
