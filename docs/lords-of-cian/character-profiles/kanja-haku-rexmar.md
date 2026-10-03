@@ -319,9 +319,12 @@ going." Section 2 is closed.
 ## 3. Game Plan
 
 - **Narrator / voice:** Onyx of Oblivion, per `VB-020`/`021`/`026`'s progressive-handoff mechanic —
-  neutral third-person prose at the start, Onyx's presence growing chapter by chapter (an unlabeled
-  reflective coda by Chronicle III/VI-equivalent, an explicitly labeled voice by Chronicle
-  VIII-equivalent), reaching full narrator status by the Rebellion's end. This is the entire point of
+  literary third-person narration at the start with Onyx's closing coda already in its full Codex
+  voice, the narration compressing toward the blade's register phase by phase (the Voice
+  Progression Sheet, `docs/lords-of-cian/voice/voice-progression-sheet.md`: Phase 1 ages 18-20,
+  Phase 2 21-27, Phase 3 27-30), until by the Rebellion's end the narrator is the blade. Standing
+  voice rulings at `VB-063` (Batch 357): "the blade," never "I"; articles kept; no "spike"; exact
+  seconds-counts. Every draft passes the gated voice check before it is presented. This is the entire point of
   the track and is not up for renegotiation here — it's what distinguishes this from the Alias
   Chronicle track's flat prose.
 - **Pacing convention:** single continuous sequence, not multi-strand. **Per Abad's direction
@@ -391,8 +394,9 @@ Abad's direction: "open the Long Mask wave with Dark Ledger openings. keep fable
 - **Scope:** extends this track past the Rebellion into the Long Mask (ages 30–314, `MCD-246`–`277`),
   as `VB-062` already contemplates. Same single numbered sequence (Chronicle V onward), entries may be
   written out of age order.
-- **Narrator / voice:** Onyx in full first person, steady state (the handoff completed at the
-  Sovereign Pier, `MCD-1880`). Every Long Mask entry is retrospective (`VB-062`): Onyx was sealed at
+- **Narrator / voice:** Onyx in full Phase 4 voice, steady state (the handoff completed at the
+  Sovereign Pier, `MCD-1880`): "the blade," never "I" (`VB-063`), present tense for the scenes,
+  "the Captain" only. Every Long Mask entry is retrospective (`VB-062`): Onyx was sealed at
   L9 and says so plainly. **Each entry opens on a Dark Ledger entry (`ARS-437`)** — a seconds-count
   plus the felt signal and nothing else ("his heart did something it had done only once before") —
   then reconstructs what actually happened, from what the Heartline's restored channel later read out
