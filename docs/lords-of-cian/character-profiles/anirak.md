@@ -573,8 +573,13 @@ match after three rounds of independent review.
     own narrator sheet in the Voice Bible, a new `VB-` rule.
 - **Voice spec (PROPOSED):** governed by `docs/lords-of-cian/voice/voice-bible-definitive.md`.
   - **Section I, all four Pillars.** Rorschach-Tolkien syntax and Germanic diction. Sensory before
-    emotion. Spartan dialogue under the 50% Rule. Mythic Realism, including the Karesian prose rule:
-    her mass and momentum are felt in the room.
+    emotion. Spartan dialogue under the 50% Rule. Mythic Realism: her biology is momentum, so she is rendered
+    through the physics of mass in motion, impact gathered and spent. The Karesian prose rule applies
+    to Karesian or high-density characters around her, not to her; her density is not locked.
+  - **Pillar 1 at close-third register (proposed for Abad's ruling).** Short sentences and
+    fragments, Germanic diction. Articles and pronouns are kept. `VB-063` ruling (2) keeps articles
+    even for Onyx and carries the telegraphic effect through short sentences and fragments instead,
+    so her close-third does the same.
   - **Section II, every hard constraint.** No antithesis. No banned words. The Density Spike never
     named. Violence as physics. Powers through sensation. No borrowed terminology. The Show, Don't
     Tell Protocol.
@@ -652,8 +657,8 @@ match after three rounds of independent review.
   1. **The body the world was not built for.** Ren surfaced at sixteen with a field his settlement
      could not hold (`CC-101`). He comes aboard an adult, already recruited, and his recruitment by
      Sephtis stays off-page (`CC-101`). Nobody can stand near him. Deck planks groan inside his radius, and the crew gives him room. She walks into his
-     field, and its load falls on her too (`ARS-446`). For the first time since the circuit, someone looks at her
-     and is not pulled (`CC-112`). She takes him as her charge unasked. This dramatizes the undated
+     field, and its load falls on her too (`ARS-446`). Someone looks at her and is not pulled,
+     the one known exception (`CC-112`). She takes him as her charge unasked. This dramatizes the undated
      origin of their pairing (`CC-114`).
      - Register: notable, no kill.
      - Era: late Long Mask, by Kanja 314, within the last ~29 years before Book 1. `CC-101` dates
@@ -672,9 +677,12 @@ match after three rounds of independent review.
      - Register: marquee.
      - New fact, flagged: her part in the inside job extends `MCD-264`, which does not name her
        among its operators.
+     - Guard: no debtor, brand, or birth community is named or implied. Her origin's open questions
+       stay closed to this entry.
      - The victim's name is collision-checked at drafting.
-  3. **The second harness.** A Sealbound Directorate containment unit fields a damping rig built
-     against Stack, a harness made for her. It closes on her mid-fight, and her three hold the line
+  3. **The second harness.** A Sealbound Directorate containment unit comes to take a captive of
+     its own, and it carries a damping rig built against Stack in case she intervenes, a harness made
+     for her. It closes on her mid-fight, and her three hold the line
      while she breaks it, as they held the eastern passage. Her core wound is restaged. She breaks the
      rig. The unit withdraws with the captive it came to take, and that person
      is not recovered. The SBD already classifies her biology (`CC-122`), and the rig's design
@@ -685,9 +693,10 @@ match after three rounds of independent review.
      - New fact, flagged: an SBD anti-Stack rig whose design survives. It stays an open thread,
        with no future use reserved or implied.
      - The unit's identity is collision-checked against the `SBD-` detachments at drafting.
-  - **Recommendation:** open with 2. It is a locked event that leaves her part in it open, it gives
-    her first marquee kill, and it touches her origin. Then 1, the strongest emotional entry. Then 3.
-    All three can run as one wave.
+  - **Recommendation:** run all three as one wave, in chronological order: 2, then 3, then 1, so
+    the numerals follow her life. Pitch 2 opens because it is a locked event that leaves her part in
+    it open, it gives her first marquee kill, and it returns her to the place that held her. Pitch 1,
+    the strongest emotional entry, closes the wave.
 - **Abad's pick / direction:**
 
 ---
