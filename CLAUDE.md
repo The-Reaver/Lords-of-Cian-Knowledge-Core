@@ -4339,6 +4339,22 @@ your recommendations."
 
 Ledger at `ledger_version` 37.4, 2,690 rules, 372 batches.
 
+**Batch 373: Anirak's first Chronicle wave locked (`MCD-1898`-`MCD-1900`).** Abad: "approved." Three
+entries, close-third per `VB-065`, in her chronological order:
+- **I, "What Maw-11 Kept"** (Kanja 140). Her part in the Maw Cascade's inside job (`MCD-264`): she
+  maps Ghostwind's route and goes in the front gate as the visible draw while the pens sing the
+  counter-frequency themselves. Her first marquee kill: Gethin Tamber, the free tunnel master, a
+  `CC-164` necessity kill. The handlers, mostly Cestari, walk out with the 3,800.
+- **II, "The Second Harness"** (~Kanja 175, Tideglass). A thirteen-strong SBD Level 3 retrieval unit
+  nets her in a lead-shot rig built against her Stack. It fails on her Voice, and they take Ardith
+  anyway. No kill. The rig's design survives in SBD files, with no future use reserved.
+- **III, "The Body the World Was Not Built For"** (~Kanja 300). Ren comes aboard; his face is the one
+  the Siren never catches. She takes him as her charge (`CC-114`). Sephtis is not named (item 38).
+
+Review history: I took five independent review rounds, II six, III four, each fixed and re-reviewed
+until clean. After the clean pass, I/II/III each took only small wording edits from that pass's own
+optional list, which add no facts. Ledger at `ledger_version` 37.5, 2,693 rules, 373 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

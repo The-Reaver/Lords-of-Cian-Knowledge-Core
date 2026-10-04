@@ -1,12 +1,12 @@
 # Anirak Chronicle III: The Body the World Was Not Built For
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (clean on the fourth independent review). Third
+*Locked canon, Batch 373, 2026-10-04 (`MCD-1900`). Clean on the fourth independent review. Abad's approval: "approved". Third
 entry of Anirak's Character Chronicle series (Game Plan pitch 1, locked at Batch 372), closing the
 launch wave. Close-third on Anirak per `VB-065`. The late Long Mask, roughly Kanja 300. Ren (Abyss,
 Ren Oshaal) comes aboard an adult, already recruited off the page, and she takes him as her charge
 unasked, the undated origin of their pairing (`CC-114`). Notable register, no kill, no fight. No new
 named characters. Anirak, Ren, Edda, Hamund, and Odile reused; the Captain referred to, not on the
-page. No child-safety issues. Not canon until approved.*
+page. No child-safety issues.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Anirak (Blades Fury) — Profile & Game Plan
 
-**Status:** game plan approved -- Section 2 locked 2026-10-03 (Batch 371, `CC-163`/`CC-164`); Section 3 locked 2026-10-04 (Batch 372, `VB-065`)
+**Status:** wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) -- Section 2 locked 2026-10-03 (Batch 371, `CC-163`/`CC-164`); Section 3 locked 2026-10-04 (Batch 372, `VB-065`)
 **Track:** Character Chronicle (Tier 1, Book-1 anchor hero per MCD-1881 as amended 2026-10-03)
 **Gate cleared:** YES, 2026-10-04 (Batch 372). Chronicle prose may be drafted, under Section 3's voice spec and gates.
 
@@ -714,4 +714,14 @@ match after three rounds of independent review.
 Updated as each wave locks. One line per entry: numeral, title, rule ID, one-sentence summary,
 batch number.
 
--
+- **I, "What Maw-11 Kept"** (`MCD-1898`, Batch 373). Kanja 140: she goes in the front gate of the
+  facility that held her as the visible draw while the pens sing their way free; her first marquee
+  kill, Gethin Tamber, the free tunnel master, at the first grate. Note: Game Plan pitch 2 said "one
+  named handler"; he was made a free master over the handlers so she does not kill an enslaved
+  Cestari.
+- **II, "The Second Harness"** (`MCD-1899`, Batch 373). ~Kanja 175, Tideglass: a Directorate
+  retrieval detachment nets her in a lead-shot rig built against her Stack; it fails on her Voice,
+  and they take Ardith anyway. No kill.
+- **III, "The Body the World Was Not Built For"** (`MCD-1900`, Batch 373). ~Kanja 300: Ren comes
+  aboard, the one face that leaves her and comes back loose; she walks into his ring and takes him as
+  her charge. No fight.

@@ -1,12 +1,11 @@
 # Anirak Chronicle I: What Maw-11 Kept
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (clean on the fifth independent review). First
+*Locked canon, Batch 373, 2026-10-04 (`MCD-1898`). Clean on the fifth independent review. Abad's approval: "approved". First
 entry of Anirak's Character Chronicle series (Game Plan pitch 2, locked at Batch 372). Close-third on
 Anirak per `VB-065`. Kanja age 140, the Long Mask, the Maw Cascade's inside job at Maw-11 (`MCD-264`).
 Her first marquee kill under `MCD-1881`, a `CC-164` necessity kill. New named character: Gethin
 Tamber, the tunnel master of Maw-11, collision-checked against the full ledger and Chronicle corpus.
-Anirak, the Captain, Ghostwind (Sylas), Edda, Hamund, and Odile reused. No child-safety issues. Not
-canon until approved.*
+Anirak, the Captain, Ghostwind (Sylas), Edda, Hamund, and Odile reused. No child-safety issues.*
 
 ---
 

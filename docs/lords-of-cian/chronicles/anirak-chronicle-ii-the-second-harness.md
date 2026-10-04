@@ -1,13 +1,13 @@
 # Anirak Chronicle II: The Second Harness
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (clean on the sixth independent review). Second
+*Locked canon, Batch 373, 2026-10-04 (`MCD-1899`). Clean on the sixth independent review. Abad's approval: "approved". Second
 entry of Anirak's Character Chronicle series (Game Plan pitch 3, locked at Batch 372). Close-third on
 Anirak per `VB-065`. The Long Mask, roughly Kanja 175, after Maw-11 (`MCD-264`) and before Ren comes
 aboard. A thirteen-strong Sealbound Directorate Retrieval Detachment (`SBD-050`) comes for a subject of
 its own and brings a damping rig built against her. Notable register, no kill. New named character:
 Ardith (the subject), collision-checked against the full ledger and Chronicle corpus (near in shape to
 Vask Aldreth, distinct in register). The rig's maker stays unnamed. Anirak, Edda, Hamund, and Odile
-reused. No child-safety issues. Not canon until approved.*
+reused. No child-safety issues.*
 
 ---
 
