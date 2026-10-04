@@ -480,12 +480,13 @@ written under the recommended answer and says where it depends on one.
   `ARS-200`). Pyro's mother was the last keeper of their tradition (`MCD-040`, `MCD-136`); this
   option asserts nothing about where, or by whom, the three were kept before 290 (TB1). After
   Pyro's natural birth, within the same event (`MCD-022`, `MCD-132`), she inverted the Gate into a
-  forge (`MCD-131`). New fact: what the forge made was the bond; it sealed the imprint between the
+  forge (`MCD-131`). New fact: what the forge did was seal the bond, the imprint between the
   three juveniles and the newborn (`MCD-270`). She pushed them outward through the inversion before
   her fusion completed (`MCD-131`, already worded this way). Varruk's sighting 42 years earlier
   (`MCD-277`) stands. Scope: `WC-017`'s "producing the Triad Guardians" and `CC-046`'s "produced"
   become "sending out the Triad Guardians, bonded to him," and `WC-017`'s "before Pyro was born"
-  takes the clarifying clause set out in `pyro.md` B2. `CC-046` is a Codex rule, already
+  takes the clarifying clause set out in `pyro.md` B2. This option depends on TA2 option 1's
+  clarifying clauses on `MCD-022` and `MCD-136`. `CC-046` is a Codex rule, already
   flagged as in-world misdirection on the mother's death (`MCD-133`).
 - **Option 2: quickened at the Gate.** The keeper carried the clade's last line, and the forge
   brought three new juveniles to life from it. This keeps "produced" literally. Cost: it breaks
@@ -502,13 +503,12 @@ written under the recommended answer and says where it depends on one.
   and `MCD-136`'s "was completed" as a keying: as last keeper, the mother keyed the three to the
   child she was carrying before the curse took hold (`MCD-022`, `MCD-136`). The imprint itself
   completed within the birth event, after the natural birth, as she pushed them out through the
-  inverted Gate (`MCD-270`, `MCD-132`, `MCD-131`). New fact: the forge sealed it permanently. The
-  juvenile window of `MCD-040` is the unbonded state: a Dhar-Kael stays juvenile until it
-  imprints, however long that takes, and matures only after. All three could therefore be
-  "juvenile" at 290 whatever their age, Varruk included. New fact: imprint ends the juvenile window.
-  Consequence: the Triad grew up alongside Pyro, still juvenile in stage at the Pyro Incident (Kanja
-  296, `MCD-277`; Varruk decades old in years), grown by Book 1. Scope: clarifying clauses on `MCD-040`, on `MCD-022`'s and
-  `MCD-136`'s "completed" (the bond keyed beforehand, the imprint completed at the birth event),
+  inverted Gate (`MCD-270`, `MCD-132`, `MCD-131`). New fact: the forge sealed it permanently. New
+  fact: the juvenile window of `MCD-040` is the span in which imprint is possible and maturation is
+  held, so all three could be "juvenile" at 290 whatever their age, Varruk included (decades old in
+  years). New fact: imprint closes the window and starts maturation, which takes years, so the
+  three are still young at the Pyro Incident (Kanja 296, `MCD-277`) and grown by Book 1. Scope:
+  clarifying clauses on `MCD-040`, on `MCD-022`'s and `MCD-136`'s "completed" (the bond keyed beforehand, the imprint completed at the birth event),
   and on `CC-046`. Cost: under this option no unimprinted Dhar-Kael ever matures, which bears on
   how the clade lived through the Vael Kem war (`MCD-041`) and how any Dhar-Kael without a keeper
   lived at all.
@@ -533,10 +533,11 @@ written under the recommended answer and says where it depends on one.
   the three (finding 12): Varkul holds through will (`CC-095`), Varruk through the path (`CC-099`),
   Sorya through the vow. With eidetic recall across every sense (`CC-096`), she carries the keeper
   and the night of the Gate up to the moment she was pushed out, which is why she is the one who
-  can show Pyro his history from outside his own view (`ARS-414`). What she shows under `ARS-414`
-  covers his father's identity only; his mother's survival stays reserved unless Abad rules
-  otherwise. That memory needs no ruling on whether the keeper raised the three (TB2): the keeper's contact in completing the bond (`MCD-022`,
-  `MCD-136`) and the Gate night itself (`MCD-131`) are enough. Open question for Abad: whether she
+  can show Pyro his history from outside his own view (`ARS-414`). `ARS-414` ties her showing to
+  when he learns his father's identity, and gives its content as his own history. Proposed: what
+  she shows stops short of his mother's survival, which stays reserved unless Abad rules otherwise.
+  That memory needs no ruling on whether the keeper raised the three (TB2): the keeper's contact in
+  completing the bond (`MCD-022`, `MCD-136`) and the Gate night itself (`MCD-131`) are enough. Open question for Abad: whether she
   knows Kanja is the father. This option leaves it open, because that adds no new fact; a ruling
   that she knows would need one more new fact for how she learned it (for instance, Kanja present
   at the keying). If she is ruled to know, `CC-079`'s list of knowers is open-ended ("multiple
@@ -566,7 +567,7 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
   - **Varkul** carries it in the body. Separation from Pyro strains him physically (`CC-095`).
   - **Sorya** carries it in memory. She holds the keeper and that night up to the moment she was
     pushed out (`CC-096`, `MCD-131`). Depends on TA3.
-  - **Varruk** is the only one with a life the fleet saw before the Gate (`MCD-277`). He ranged
+  - **Varruk** is the only one whose life before the Gate is on record (`MCD-277`). He ranged
     before the bond and ranges still, always on the safe path back to Pyro (`CC-099`).
 - **Defense mechanisms (PROPOSED -- for Abad's confirmation):**
   - **Shared: closeness and overwatch.** Proposed: none of the three is out of reach of Pyro for
@@ -667,11 +668,12 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   file's "one accurate element," yet the same file's "Kanja's wife" is also true (`CC-046`,
   `WC-017`), so the phrase is not an exhaustive list. Its claim "the Triad raised from birth by
   Pyro's mother in her own Shattered Kingdoms homeland" is locked false as a whole, and it can fail
-  on any one part: "raised," "from birth," or "homeland." Two options, for Abad's ruling.
+  on any one of four parts: "raised," "from birth," "homeland," or "in the Shattered Kingdoms." Two
+  options, for Abad's ruling.
   - **Option (i), a proposed new fact:** the keeper did not raise them.
   - **Option (ii), a proposed new fact:** she kept them, but not from their birth, or not in a
-    homeland. This sits more easily with `MCD-040`'s "last keeper" and with this profile's
-    throughline.
+    homeland, or not in the Shattered Kingdoms. This sits more easily with `MCD-040`'s "last
+    keeper" and with this profile's throughline.
   - TA1 and TA3 stand under either option; neither depends on custody before 290. Her homeland
     stays open. Any entry quoting the file locks it only as said (`VB-067`).
 - **TB3. Varkul's two names (finding 6).** Recommended: "Drown-Warden" is the crew's and the
@@ -700,7 +702,7 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
 - **TB10. T.D.K.'s "Coursers" (finding 14).** Two options.
   - **Recommended: rename T.D.K.'s asset in `MCD-320`.** The shared word collides with the
     Tide-Back Coursers, Varkul's species (`MCD-040`), and project practice renames such collisions
-    (Cadence Ruin to Cadence Break, `CC-098`; the Old Dragon to the Elder Wyrm, `MCD-302`). Cost: a
+    (Cadence Ruin to Cadence Break, `CC-098`; the Old Dragon to the Elder Wyrm, `MCD-302`, renamed Batch 308). Cost: a
     change to a quoted line ("Deploy the Coursers"), and a new name for Abad to pick, a new fact.
   - **Alternative: a clarifying clause on `MCD-320`** that T.D.K.'s Coursers are his own asset,
     unrelated to the Tide-Back Coursers. Cost: a standing name collision between a T.D.K. asset
