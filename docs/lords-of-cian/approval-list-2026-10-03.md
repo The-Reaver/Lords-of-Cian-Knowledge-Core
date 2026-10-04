@@ -255,6 +255,22 @@ and cruisers in mainline Cian.
 **37. Your manuscript's own wording in Chronicle III:** "heartbeat spiked" and "cargo spike" ×2.
 - **Recommend:** "heartbeat climbed." Keep "cargo spike," because it is a named tool.
 
+## Added 2026-10-04
+
+**38. Sephtis's staged death (`MCD-982`) against his open place in the crew.** The Storm That Walks
+track has Sephtis fake his death during the Long Mask and live on in disguise, believed dead by his
+whole lineage and the fleet. But locked canon also has him openly with the crew from Lauris's arrival
+(about Kanja 114) through the present day: Lauris's "Sephtis on day one" (`MCD-195`), her closest
+alliance aboard (`MCD-206`), the joint archive (`MCD-212`), present-day scenes (`MCD-1565`), and
+24 years of knowing Pyro's father (`CC-110`).
+- The locked Chronicle says it plainly: "What none of them — not she, not Kanja, not the fleet that
+  mourned him at the rail — ever came to learn" (`the-sky-the-day-they-buried-him.md`).
+- **Recommend:** the withdrawal was from the forecasting lineage's public life only. Kanja and the
+  crew were in on it, and he stayed with them. This rewrites that Chronicle line and `MCD-982`'s
+  "continues on elsewhere in disguise" clause. It is a new fact, so it needs your approval.
+- Found while locking Anirak's Game Plan (Batch 372). The plan's Sephtis option was dropped because
+  it rested on the same clash.
+
 ---
 
 ## Not on this list: character-gate questions

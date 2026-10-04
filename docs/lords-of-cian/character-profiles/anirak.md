@@ -1,8 +1,8 @@
 # Anirak (Blades Fury) — Profile & Game Plan
 
-**Status:** profile approved -- Section 2 approved and locked 2026-10-03 (Batch 371, `CC-163`/`CC-164`); Game Plan next
+**Status:** game plan approved -- Section 2 locked 2026-10-03 (Batch 371, `CC-163`/`CC-164`); Section 3 locked 2026-10-04 (Batch 372, `VB-065`)
 **Track:** Character Chronicle (Tier 1, Book-1 anchor hero per MCD-1881 as amended 2026-10-03)
-**Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
+**Gate cleared:** YES, 2026-10-04 (Batch 372). Chronicle prose may be drafted, under Section 3's voice spec and gates.
 
 This file is the standing gate artifact for this character, per the Character Chronicle Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
@@ -557,7 +557,7 @@ match after three rounds of independent review.
 
 ## 3. Game Plan
 
-*PROPOSED 2026-10-03, for Abad's review. Nothing below is approved yet. Clean on the sixth independent review.*
+*APPROVED 2026-10-04 and locked at Batch 372 (`VB-065`; `VB-020`, `MCD-1881`, `CC-163` amended). Clean on the sixth independent review; the rule text passed its own review before the merge. One recommendation was dropped at lock: the Sephtis option, which rested on a false premise (see pitch 1).*
 
 - **Narrator / voice (PROPOSED):** close-third on Anirak herself, with no dedicated named narrator.
   This matches `VB-020`'s close-third assignment for the Alias, Territory, and Daba tracks. Locking
@@ -667,12 +667,10 @@ match after three rounds of independent review.
        only his surfacing. His age when recruited is not locked and the pitch does not state it.
      - Guards: her three stay outside his radius, since that payoff is reserved. Neither of them
        asks about the other's origin, which keeps `CC-163`'s Vael Kem question open.
-     - **Open question for Abad, flagged:** `MCD-982` has Sephtis stage his own death during the
-       Long Mask, believed by the whole lineage, and its date is not locked. If the staged death
-       comes before Ren's recruitment, the fleet buried the man who recruited him. Options: (a) Sephtis
-       recruits Ren under his disguise and Ren never connects the two; (b) Kanja is told the truth;
-       (c) the staged death is dated after Ren boards. Recommended: (a). It keeps `MCD-982`'s secret
-       intact, and his disguise "elsewhere during the Long Mask" is already locked.
+     - **Sephtis (resolved at lock):** Sephtis is openly with the crew in these years (`MCD-195`,
+       `MCD-206`), so his recruiting Ren needs no explanation. The draft's open question assumed
+       otherwise, from `MCD-982`'s staged withdrawal. That clash between `MCD-982` and Sephtis's open
+       presence predates this Game Plan and is on the approval list.
   2. **What Maw-11 kept.** Kanja age 140, the Maw Cascade's inside job (`MCD-264`): Ghostwind
      infiltrates, and a Hymn-Engine counter-frequency device does its work.
      Maw-11 is her former facility, so she knows its passages and maps Ghostwind's route. She cannot
@@ -705,7 +703,9 @@ match after three rounds of independent review.
     the numerals follow her life. Pitch 2 opens because it is a locked event that leaves her part in
     it open, it gives her first marquee kill, and it returns her to the place that held her. Pitch 1,
     the strongest emotional entry, closes the wave.
-- **Abad's pick / direction:**
+- **Abad's pick / direction:** "let's go with your recommendations." All three pitches, as one wave, in
+  chronological order: 2 (What Maw-11 kept), then 3 (The second harness), then 1 (The body the world
+  was not built for). Every other recommendation stands as written above.
 
 ---
 

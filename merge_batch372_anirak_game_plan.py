@@ -1,4 +1,4 @@
-"""Batch 372: Anirak's Game Plan locked -- VB-065 new; VB-020, MCD-1881, CC-163, CC-101 amended."""
+"""Batch 372: Anirak's Game Plan locked -- VB-065 new; VB-020, MCD-1881, CC-163 amended."""
 import json, re
 from collections import Counter
 
@@ -26,7 +26,7 @@ d["rules"].append({"id": "VB-065", "category": "voice-bible",
                    "status": "locked", "source": SOURCE})
 
 R = {r["id"]: r for r in d["rules"]}
-for rid in ("VB-020", "CC-101"):
+for rid in ("VB-020",):
     a = amend_text(rid)
     m = re.match(r'"(.*)" becomes "(.*)"$', a)
     old, new = m.group(1), m.group(2)
@@ -39,14 +39,15 @@ for rid in ("MCD-1881", "CC-163"):
 
 nb = max(b["batch"] for b in d["batches_completed"]) + 1
 d["batches_completed"].append({
-    "batch": nb, "source": SOURCE, "rules_affected": 5,
+    "batch": nb, "source": SOURCE, "rules_affected": 4,
     "note": ("Anirak's Game Plan approved and locked; her Character Chronicle gate is cleared. VB-065 "
              "sets her track's voice (close-third, articles kept, binary verdicts without Iron and Rust, "
              "no 'spike'). VB-020 adds her track to the close-third assignment. MCD-1881 sets her "
              "marquee constraints (at most three before Book 1, CC-164 necessity kills at Warm, run "
              "under the epithet Blades Fury). CC-163 dates the epithet's public use by Kanja 140 and "
-             "lists who holds her name. CC-101: Sephtis recruited Ren under the disguise he kept after "
-             "his staged withdrawal (MCD-982). Wave picked: Maw-11, the second harness, then Ren, in "
+             "lists who holds her name. The Game Plan's CC-101 Sephtis option was dropped: review found "
+             "Sephtis openly with the crew in Ren's recruitment years (MCD-195, MCD-206), so CC-101 "
+             "needs no change. Wave picked: Maw-11, the second harness, then Ren, in "
              "chronological order. Abad's approval, verbatim: 'let's go with your recommendations.'")})
 d["ledger_version"] = str(round(float(d["ledger_version"]) + 0.1, 1))
 d["last_updated"] = "2026-10-04"

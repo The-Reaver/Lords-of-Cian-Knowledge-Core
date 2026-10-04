@@ -4320,6 +4320,25 @@ to reach a clean gate. Five came back NOT CLEAN: Foreclosure's original wording 
 approved register, and the rest was stale doc text. Ledger at `ledger_version` 37.3, 2,689 rules,
 371 batches. Next for Anirak: the Game Plan (Section 3).
 
+**Batch 372: Anirak's Game Plan locked (`VB-065`); her gate is cleared.** Abad: "let's go with
+your recommendations."
+- **Voice (`VB-065`).** Close-third on Anirak, with no designated narrator. Articles and pronouns are
+  kept. Her binary threat verdicts use plain words, without Iron and Rust. The word "spike" is
+  banned. Kanja is "the Captain" in the Scourge register.
+- **Narrator list (`VB-020`).** Her track is added to the close-third assignment.
+- **Marquee kills (`MCD-1881`).** At most three before Book 1. Each is a `CC-164` necessity kill
+  fought at Warm, and each runs publicly under the epithet Blades Fury.
+- **Her name (`CC-163`).** The epithet is in public use by Kanja 140. Her real name is held by the
+  crew, the circuit's records, her former holders, and the SBD.
+- **Wave picked.** Maw-11 (Kanja 140, her first marquee kill), then the second harness, then Ren, in
+  chronological order.
+- **Dropped at lock.** The plan's Sephtis option rested on a false premise. Review found Sephtis
+  openly with the crew in Ren's recruitment years (`MCD-195`, `MCD-206`), so `CC-101` stays as it
+  was. The older clash between `MCD-982`'s staged death and his open presence is now approval-list
+  item 38.
+
+Ledger at `ledger_version` 37.4, 2,690 rules, 372 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.
