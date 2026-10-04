@@ -35,7 +35,7 @@ It sits under three rules and never loosens any of them.
     Account never serves as the trace against another Comrade Account.
   - **The reserved-rule bar.** No teller asserts, implies, foreshadows, or references what a
     reserved rule forbids.
-- **`VB-068`** (proposed) binds this standard to those rules and adds one bar of its own: "No new entry
+- **`VB-068`** (proposed) binds this standard to those rules and adds, among its clauses, one bar of its own: "No new entry
   or new scene, Series narration included, states a fact about an institution that no locked rule
   holds; the reliable narration of a locked entry, cited by its rule ID (or of manuscript Chronicles
   I-VIII, cited by number), counts as held. Such a fact
@@ -44,7 +44,8 @@ It sits under three rules and never loosens any of them.
   institution, as distinct from an event involving one, and it is checked in every entry's
   Connective-Tissue review, Series entries included (§7, item 9). An unreliable teller's false
   claim about an institution is locked only as said (`VB-067`), and its trace is a locked rule, or
-  the reliable narration of a locked entry, that holds the truth (`VB-067`). This standard governs *how* accounts sound. What they
+  the Series or type-none narration of a locked entry, that holds the truth (a Comrade Account never
+  serves as the trace against another Comrade Account, `VB-067`). This standard governs *how* accounts sound. What they
   may say stays with `VB-067` and `VB-068`. Where this standard and either rule seem to differ, the
   rule controls.
 - **The Voice Bible** (`VB-001` to `VB-005`, `VB-010` to `VB-013`, `VB-040`, `VB-050`) binds every
@@ -455,7 +456,7 @@ breathe, half-believed by everyone, reads true.
   2. **Vantage declared.** "Was at the gate. Yard was behind the wall." Comrades mark their limits
      honestly [CRAFT on 01 §4].
   3. **Insider allusion before the full telling.** Shorthand the crew shares; an outsider hears it
-     spelled out [MODERATE; 01 F7; 03 F2; †Paine 1967].
+     in full [MODERATE; 01 F7; 03 F2; †Paine 1967].
   4. **Action in the teller's own sector, rich and checkable.** The teller's own work is the most
      accurate part, and it locks as fact (`VB-067`) [CRAFT on 02 §4].
   5. **Credit drifts toward the leader, on a traced matter only.** "The Captain saw it first," when
@@ -471,8 +472,8 @@ breathe, half-believed by everyone, reads true.
   8. **Coda with an open moral stance,** or a prosocial warning to the listener ("Don't sail with
      him") [MODERATE; 03 F6; 01 F7].
 - **Must be on the page.**
-  - an identified listener: named, or identified by description where a locked rule keeps them
-    unnamed (`PH2-048`, `MCD-1093`)
+  - an identified listener: named, or identified by description (a locked rule or the
+    unnamed-office default, §4.3, may require description; `PH2-048`, `MCD-1093`)
   - a declared vantage
   - at least one thing the teller admits not knowing
   - one insider detail no outsider would have (the veteran's test, 06 §2.8)
@@ -759,7 +760,8 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
   - Hostile offices there stay unnamed. This is the standard's default, drawn from the precedents
     of the unnamed Commissioner (`MCD-341`), the Magistrate of Ide (`MCD-342`), and the
     counterintelligence apparatus that stays unnamed even in resolution (`MCD-1092`). A diocese and
-    a plant office stay unnamed in the same way.
+    a plant office stay unnamed in the same way. Hostile organizations already named in canon keep
+    their names (the Downtown Combine, `PH2-013`).
   - A Dossier there is a hand-copied or printed record of an unnamed office (`PH2-049`). Printing
     exists in that World (as Kalamu's sheets are, `PH2-064`; the Areíto press, `MCD-357`); those
     rules are cited for the medium only, and neither is a Dossier. It never names what canon keeps
@@ -856,7 +858,7 @@ independently replicated by Moussaïd et al. 2015]
 6. Let exactly one detail be startlingly right, and give it a reason: a rhyme, a ledger, a tight
    network.
 7. Where the entry carries more than one teller or community, make them disagree with each other.
-   Each teller's state and listener are fixed; the header names every teller (`VB-068`).
+   Each teller's state and listener are fixed; the header lists every teller, by name or description (`VB-068`).
 
 **Legend migrating to aliases** [MODERATE; 02 F8; †Brunvand 1981, Fine 1992]
 
@@ -1201,7 +1203,7 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 - *Fact:* the result, once a record exists. Reckoners' figures are the room's ledger (`MAW-087`).
 
 **Open / close**
-- *Open:* the bell, a wager laid.
+- *Open:* the bell (`MCD-1886`), a wager laid.
 - *Close:* the result, and the walk out through the vomitoria (`MAW-064`).
 
 **Challenge**
@@ -1229,7 +1231,7 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 - Whether a wager is recorded on a slip given to the bettor is **[RULE NEEDED]**; name candidates
   at N7.
 - Crowd slang for a fighter: **[NAME NEEDED: N8]**. For a bout: **[NAME NEEDED: N9]**.
-- The bell is already Maw language in Red Beard's keyword list (Voice Bible).
+- The bell is held in locked narration: "a floor before the bell," "No second bell" (`MCD-1886`).
 - Pits by tier (`MAW-142`, `MAW-143`).
 - Harvest-day contests near Greyfen (`MCD-1838`).
 - Banned: "arena," "gladiator," "bookmaker" (`VB-013`, `VB-050`).
@@ -1278,7 +1280,8 @@ a generalization, 01 F8; †Norrick 1997]
   family meal.
 - Arturo's remembrance with its empty chairs (`MCD-1024`).
 - **Caution:** the Common Table (`PH2-055`) is Adom's signature ability, not an ordinary dinner. A
-  meal there carries its binding, and tellers there are bound by it.
+  meal there binds those who freely chose to sit (`PH2-055`; not one sent under orders, `MCD-473`),
+  and the bond lapses without renewal (`MCD-525`).
 
 ### M7. Work break: docks and the plant floor
 
@@ -1540,7 +1543,8 @@ locked house rules; CRAFT]
 - Every `ASH-` rule is adult material; `ASH-024` to `ASH-030` are the explicit core.
 - Any Ashkeel account is adult-only and non-explicit.
 - Any sexual detail stays off the page.
-- Ashkeel has never appeared in any entry, so a first entry clears the launch gate like any other.
+- Ashkeel has never appeared in any entry, so a first entry clears the Connective-Tissue Gate, and a Series Launch Protocol gate
+  where it centres on a protagonist.
 
 **Who and order**
 - Council houses and tiers (`ASH-031`) and collar ranks (`ASH-034`).
@@ -1767,8 +1771,9 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
    fact about an institution that no locked rule holds (the reliable narration of a locked entry,
    cited by its rule ID, or of manuscript Chronicles I-VIII, cited by number, counts as held); such a fact is drafted as its own rule (`VB-068`), a
    **[RULE NEEDED]** draft for Abad. An unreliable teller's false claim about an institution is
-   locked only as said (`VB-067`) and traces to a locked rule, or the reliable narration of a locked
-   entry, that holds the truth. A fact about an
+   locked only as said (`VB-067`) and traces to a locked rule, or the Series or type-none narration of a
+   locked entry, that holds the truth (a Comrade Account never serves as the trace against another
+   Comrade Account, `VB-067`). A fact about an
    institution here means a fact about a standing structure, office, form, procedure, vocabulary,
    or practice of a named institution, as distinct from an event involving one. Header fields and
    procedure use locked vocabulary or plain words, and the templates' optional fields assert no
