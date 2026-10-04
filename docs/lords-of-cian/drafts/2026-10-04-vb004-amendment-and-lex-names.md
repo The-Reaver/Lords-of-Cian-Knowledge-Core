@@ -1,6 +1,6 @@
 # VB-004 amendment and the account-craft vocabulary (LEX-001 to LEX-025)
 
-*Draft for Abad's approval, 2026-10-04 (revision 4, after the third independent review). Nothing here is locked. It carries out his rulings at
+*Draft for Abad's approval, 2026-10-04 (revision 5, after the fourth independent review). Nothing here is locked. It carries out his rulings at
 `VB-068`'s lock ("lock it, approve the picks, confirm all three"): the comic registers may run
 broader than `VB-004` in told accounts, set out as a `VB-004` amendment; and the approved picks from
 the naming table (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`, part (b))
@@ -83,7 +83,7 @@ before a bout (`MAW-064`). It is slang only; `MAW-064`'s terms stand.
 **LEX-008**. a hewer: Maw crowd slang for a Branded fighter, heard in the Common Tiers (`MAW-064`, `MAW-087`),
 after the hardest labor a crowd knows. "Branded" stays the term in narration (`VB-013`).
 
-**LEX-009**. a bell: Maw crowd slang for a bout ("three bells tonight"), from the bell that opens
+**LEX-009**. a bell: Maw crowd slang for a bout ("three bells on the card," `MAW-087`), from the bell that opens
 a bout ("a floor before the bell," `MCD-1886`). Ozmund Testament CXXI's "No second bell" (`MCD-1886`) reads in this sense: one bout, and no
 second called. This rule sets no round structure for a Maw bout. Context keeps the word apart from a
 time-bell, the Chrono-Anchor Bells (`ARS-402`), the Belly (`MAW-061`), and the bell among the marks
@@ -180,6 +180,8 @@ they are part of what Abad approves.
   Comrade bound, whatever the register.
 - R0.4's sub-bullet recording the pending ruling is removed.
 - Section 1's stale "`VB-068` (proposed)" becomes "`VB-068`".
+- Lauris's profile (`docs/lords-of-cian/character-profiles/lauris-letitia.md`, Game Plan) states
+  Pillar 3's old humor limit for her Records; it is updated to the amended `VB-004`.
 - The naming table's header records which picks locked and which are held.
 - CLAUDE.md adds `LEX` to the rule-ID prefixes in use, as a new prefix for in-world common
   vocabulary and venue names, and records Batch 377 in its history.
@@ -205,6 +207,9 @@ they are part of what Abad approves.
 - **Readings flagged:** LEX-009's opening bell rests on "a floor before the bell" (`MCD-1886`), and
   it reads the same entry's "No second bell" as no second bout, setting no round structure. LEX-012
   recasts N12 from the Trust's own form name ("the Posted Bill") to lowercase common speech ("the
-  posted bill"), because no posting procedure is held (`VB-068`).
+  posted bill"), because no posting procedure is held (`VB-068`). LEX-002 to LEX-004 and LEX-015
+  read a named house's location and the identity of its keeper as plain place and person facts,
+  outside `VB-068`'s "standing structure, office" clause; a house's trade, custom, or offices are
+  drafted as their own rule.
 - **Names collision-checked:** all 25, against `canon-ledger.json` and every entry file, with
   near-collisions to edit distance 2 (naming table, part (b)).

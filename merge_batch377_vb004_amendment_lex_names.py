@@ -140,6 +140,14 @@ for k, v in NAMES.items():
 assert "NAME NEEDED: N12" not in s and "until the `VB-004` amendment" not in s
 open(STD, "w", encoding="utf-8").write(s)
 
+# --- propagation: Lauris's profile ---
+LP = "docs/lords-of-cian/character-profiles/lauris-letitia.md"
+lp = open(LP, encoding="utf-8").read()
+a = "(the 50% rule, no phatic lines, understatement for\nhumor)"
+assert lp.count(a) == 1, "lauris pillar 3 line"
+lp = lp.replace(a, "(the 50% rule, no phatic\nlines; humor through irony and understatement outside a told account, and in one as broad as\n`VB-004` as amended, Batch 377, allows; Fermand keeps his own sheet)")
+open(LP, "w", encoding="utf-8").write(lp)
+
 # --- propagation: the naming table header ---
 t = open(TABLE, encoding="utf-8").read()
 a = "Part (b)'s approved picks lock as their own rules; nothing in part (b) is usable before then."
