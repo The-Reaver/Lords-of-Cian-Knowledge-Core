@@ -79,9 +79,12 @@ REPL = [
   named."""),
     ("""  Each is written through deadpan irony and understatement only (`VB-004`): the insult arrives flat
   and short, and the toast leaves its biggest claim unsaid.""",
-     """  The toast is a long rhymed boasting narrative. In characters' talk in a told account, each may
-  run as broad as `VB-004` as amended (Batch 377) allows; otherwise each is written through irony
-  and understatement only (`VB-004`)."""),
+     """  The toast is a long rhymed narrative of a badman's or trickster's exploits. In characters' talk in
+  a told account, each may run as broad as `VB-004` as amended (Batch 377) allows; otherwise each is
+  written through irony and understatement only (`VB-004`)."""),
+    ("""Mainline tellers carry dock, forge, and
+  Maw idiom under the same limit.""", """Mainline tellers carry dock, forge, and
+  Maw idiom; it runs broad only inside a register `VB-004` as amended lists."""),
     ("- A dock hiring place, if one is drafted: **[NAME NEEDED: N3]**.",
      "- The dock hiring yard: the Call Yard (`LEX-005`)."),
     ("""Its exaggeration or edge
@@ -129,9 +132,10 @@ whatever the register (`VB-004` as amended, Batch 377)."""),
      "  otherwise irony and understatement, `VB-004`)."),
     ("""It is a recognized genre of tall telling, told deadpan: the
   teller states the impossible in the flattest voice on the watch (`VB-004`).""",
-     """It is a recognized genre of tall telling, often told deadpan:
-  the teller states the impossible in the flattest voice on the watch (in a told account, as broad
-  as `VB-004` as amended, Batch 377, allows; otherwise irony and understatement, `VB-004`)."""),
+     """It is a recognized genre of tall telling, often told deadpan,
+  the teller stating the impossible in the flattest voice on the watch. In a told account it may
+  run as broad as `VB-004` as amended (Batch 377) allows; otherwise irony and understatement
+  (`VB-004`)."""),
 ]
 for a, b in REPL:
     assert s.count(a) == 1, a[:70]
@@ -139,7 +143,7 @@ for a, b in REPL:
 # section 7 item 14 humor bullet
 i = s.index("    - Humor is irony and understatement only (`VB-004`). Every comic register")
 j = s.index("    - No balanced antithesis", i)
-s = s[:i] + "    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`), whatever\n      room a scene is set in. In a told account, characters' talk may use only the comic registers\n      `VB-004` as amended (Batch 377) lists: in the homage World, ritual insult, signifying, call\n      and response, and the toast (a long rhymed boasting narrative), and on Cian, dock, forge, and\n      Maw idiom (R0.4); R15; R18; every comic register of M1, M4, and M7; M2's funny boast; M3's\n      parting jab; M9's tall telling; and the comic stories of M6 and M11. Any other register, M8's\n      comic arc and its closing drink toast and M10's tall tales among them, stays at irony and\n      understatement, whatever its idiom or World. For this purpose the teller's voice in a Comrade\n      Account, an Adversary Account, or a Hearsay entry counts as characters' talk, its reliability\n      as `VB-067` sets it. In a Comrade Account, a register that inflates a matter of fact is used\n      only within `VB-067`'s Comrade bound, traced (§4.1, item 7). The 50% rule, the phatic bar,\n      fact over emotion, and every hard constraint still apply. The amendment changes no narration\n      and no Dossier text, speech quoted in a Dossier included. Each designated narrator, as\n      narrator, as teller, and as a speaking character, keeps their own sheet (`VB-021` to\n      `VB-025`). Every track voice ruling and every character's own voice (`VB-030`) still governs\n      that character's diction, and these registers run inside it. Onyx stays under `VB-063` alone.\n      Every such register stays non-explicit (item 17).\n" + s[j:]
+s = s[:i] + "    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`), whatever\n      room a scene is set in. In a told account, characters' talk may use only the comic registers\n      `VB-004` as amended (Batch 377) lists, each listed rule or module taken whole: R0.4 (in the\n      homage World, ritual insult, signifying, call and response, and the toast, a long rhymed\n      narrative of a badman's or trickster's exploits; on Cian, dock, forge, and Maw idiom, which\n      carries a listed register and licenses none by itself); R15; R18; M1, M4, M7, and M9; M2's\n      funny boast; M3's parting jab; and the comic stories of M6 and M11. Any other register stays\n      at irony and understatement, whatever its idiom or World. A named exclusion controls over R15\n      and R18: M8's comic arc and its closing drink toast and M10's tall tales stay at irony and\n      understatement even when performed or told in rounds. For this purpose the teller's voice in a\n      Comrade Account, an Adversary Account, or a Hearsay entry counts as characters' talk, its\n      reliability as `VB-067` sets it. In a Comrade Account, a register that inflates a matter of\n      fact is used only within `VB-067`'s Comrade bound, traced (§4.1, item 7). The 50% rule, the\n      phatic bar, fact over emotion, and every hard constraint still apply. The amendment changes no\n      narration and no Dossier text, speech quoted in a Dossier included. Each designated narrator,\n      as narrator, as teller, and as a speaking character, keeps their own sheet (`VB-021` to\n      `VB-025`). Every track voice ruling and every character's own voice (`VB-030`) still governs\n      that character's diction, and these registers run inside it. Onyx stays under `VB-063` alone.\n      Every such register stays non-explicit (item 17).\n" + s[j:]
 # R0.4 ruling note
 a = """  - Abad ruled at `VB-068`'s lock that these registers may run broader in told accounts. The
     broader registers apply once the `VB-004` amendment that sets them out locks. Until then,
