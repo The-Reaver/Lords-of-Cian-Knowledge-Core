@@ -143,9 +143,10 @@ open(STD, "w", encoding="utf-8").write(s)
 # --- propagation: Lauris's profile ---
 LP = "docs/lords-of-cian/character-profiles/lauris-letitia.md"
 lp = open(LP, encoding="utf-8").read()
-a = "(the 50% rule, no phatic lines, understatement for\nhumor)"
+a = "    (the 50% rule, no phatic lines, understatement for humor)."
 assert lp.count(a) == 1, "lauris pillar 3 line"
-lp = lp.replace(a, "(the 50% rule, no phatic\nlines; humor through irony and understatement outside a told account, and in one as broad as\n`VB-004` as amended, Batch 377, allows; Fermand keeps his own sheet)")
+lp = lp.replace(a, "    (the 50% rule, no phatic lines; humor through irony and understatement outside a told account,\n"
+                   "    and in one as broad as `VB-004` as amended, Batch 377, allows; Fermand keeps his own sheet).")
 open(LP, "w", encoding="utf-8").write(lp)
 
 # --- propagation: the naming table header ---
