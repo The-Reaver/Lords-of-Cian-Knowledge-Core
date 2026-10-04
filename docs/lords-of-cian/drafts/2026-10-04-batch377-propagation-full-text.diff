@@ -197,33 +197,32 @@
 +reliable narration records the teller as mistaken or misled, or in secondhand relay, and traced),
 +whatever the register (`VB-004` as amended, Batch 377).
  
-@@ -1806,6 +1812,21 @@
+@@ -1806,6 +1812,20 @@
      - No phatic talk; dialogue cut by half.
 -    - Humor is irony and understatement only (`VB-004`). Every comic register, including R0.4,
 -      R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and
 -      M11, is written deadpan until the `VB-004` amendment Abad approved in principle at
 -      `VB-068`'s lock is itself locked; after that, each runs as that amendment allows.
-+    - Outside a told account, characters' talk keeps irony and understatement (`VB-004`), whatever
-+      room a scene is set in. In a told account, characters' talk may use every comic register this
-+      standard sets out, as broad as `VB-004` as amended (Batch 377) allows. A comic register is any
-+      talk this standard sets out whose purpose in the telling is laughter, among them the comic
-+      story, the funny boast, the tall tale, ritual insult, ridicule, teasing and hazing, jeering
-+      and heckling, and R0.4's toast, each only where its purpose in the telling is laughter;
-+      `VB-068` names R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the
-+      comic stories of M6 and M11. R0.4's toast is a long rhymed narrative of a badman's or
-+      trickster's exploits, a register apart from M8's closing drink toast, which is a comic
-+      register only where its purpose is laughter. For this purpose the teller's voice in a Comrade
-+      Account, an Adversary Account, or a Hearsay entry counts as characters' talk, its reliability
-+      as `VB-067` sets it. In a Comrade Account, a register that inflates a matter of fact is used
-+      only within `VB-067`'s Comrade bound, traced (§4.1, item 7). The 50% rule, the phatic bar,
-+      fact over emotion, and every hard constraint still apply. The amendment changes no narration
-+      and no Dossier text, speech quoted in a Dossier included. Each designated narrator, as
-+      narrator, as teller, and as a speaking character, keeps their own sheet (`VB-021` to
-+      `VB-025`). Every track voice ruling and every character's own voice (`VB-030`) still governs
-+      that character's diction, and these registers run inside it. Onyx stays under `VB-063` alone.
-+      Every such register stays nonexplicit (item 17).
++    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`), whatever
++      room a scene is set in. In a told account, characters' talk may use the comic registers
++      `VB-004` as amended (Batch 377) sets out, as broad as it allows. Each register `VB-068` names
++      is a comic register as ruled, in full: R0.4 (in the homage World, signifying, ritual insult,
++      call and response, and the toast, a long rhymed narrative of a badman's or trickster's
++      exploits; on Cian, dock, forge, and Maw idiom carrying any of these), R15, R18, M1, M2's funny
++      boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and M11. Any other talk this
++      standard sets out, M8's closing drink toast included, is a comic register only where its
++      purpose in the telling is laughter. For this purpose the teller's voice in a Comrade Account,
++      an Adversary Account, or a Hearsay entry counts as characters' talk, its reliability as
++      `VB-067` sets it. In a Comrade Account, a register that inflates a matter of fact is used only
++      within `VB-067`'s Comrade bound, traced (§4.1, item 7). The 50% rule, the phatic bar, fact
++      over emotion, and every hard constraint still apply. The amendment changes no narration and no
++      Dossier text, speech quoted in a Dossier included. Each designated narrator, as narrator, as
++      teller, and as a speaking character, keeps their own sheet (`VB-021` to `VB-025`). Every track
++      voice ruling and every character's own voice (`VB-030`) still governs that character's
++      diction, and these registers run inside it. Onyx stays under `VB-063` alone. Every such
++      register stays nonexplicit (item 17).
      - No balanced antithesis, including "not only… but also" and "while X, Y."
-@@ -1824,2 +1845,5 @@
+@@ -1824,2 +1844,5 @@
      and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).
 +    In a told account, every comic register stays nonexplicit; sexual talk is between adults only,
 +    with no minor present, addressed, or referenced, and no minor is the subject of a sexual insult,
@@ -251,13 +250,14 @@
 -`MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.). Check the ledger for the next unused ID in a prefix before drafting; never guess.
 +`MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`, `LEX`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.; `LEX-` was claimed 2026-10-04, Batch 377, for in-world common vocabulary and venue names, each locked as its own rule per `VB-068`). Check the ledger for the next unused ID in a prefix before drafting; never guess.
  
-@@ -4419,2 +4419,20 @@
+@@ -4419,2 +4419,21 @@
  
 +**Batch 377: comic registers in told accounts (`VB-004` and `VB-068` amended) and the account-craft vocabulary
 +(`LEX-001` to `LEX-025`).** Abad: "<approval quote, verbatim>"
 +- **The amendment.** In a told account (a Comrade Account, Adversary Account, or Hearsay entry, or a
-+  storytelling scene), characters' talk may use every comic register the account craft standard sets out (Abad's
-+  ruling at `VB-068`'s lock, its 'including' read as it stands; `VB-068` amended to record it).
++  storytelling scene), characters' talk may use every comic register the account craft standard sets out: each register
++  `VB-068` names in full, and any other talk where its purpose is laughter (Abad's ruling at `VB-068`'s
++  lock, its 'including' read as it stands; `VB-068` amended to record it).
 +  Narration and Dossier text are unchanged. Each designated narrator keeps their own sheet, and every
 +  track voice ruling still governs its characters' diction. Onyx stays under `VB-063` alone. A Comrade
 +  teller inflates fact only within `VB-067`'s bound. Child-safety and Ashkeel lines are written in.

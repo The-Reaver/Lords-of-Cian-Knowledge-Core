@@ -1,6 +1,6 @@
 # VB-004 amendment and the account-craft vocabulary (LEX-001 to LEX-025)
 
-*Draft for Abad's approval, 2026-10-04 (revision 13, after the twelfth independent review). Nothing here is locked. It carries out his rulings at
+*Draft for Abad's approval, 2026-10-04 (revision 14, after the thirteenth independent review). Nothing here is locked. It carries out his rulings at
 `VB-068`'s lock ("lock it, approve the picks, confirm all three"): the comic registers may run
 broader than `VB-004` in told accounts, set out as a `VB-004` amendment; and the approved picks from
 the naming table (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`, part (b))
@@ -20,38 +20,38 @@ than irony and understatement. A told account here means a Comrade Account, an A
 a Hearsay entry (`VB-067`), or a scene in any entry in which a character tells a story aloud
 (`VB-068`). For this amendment only, the teller's voice in a Comrade Account, an Adversary Account,
 or a Hearsay entry counts as characters' talk; its reliability stays as `VB-067` sets it. The
-registers are every comic register the account craft standard sets out, as Abad ruled at `VB-068`'s
-lock; `VB-068` names among them R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9,
-and the comic stories of M6 and M11. A comic register here is any talk the standard sets out whose
-purpose in the telling is laughter, among them the comic story, the funny boast, the tall tale,
-ritual insult, ridicule, teasing and hazing, jeering and heckling, and R0.4's toast; each of these
-is a comic register only where its purpose in the telling is laughter. R0.4's toast is a long rhymed
-narrative of a badman's or trickster's exploits, a register apart from M8's closing drink toast,
-which is a comic register only where its purpose is laughter. Outside a told account, characters'
-talk in every scene keeps irony and understatement, whatever room it is set in. This amendment
-changes no narration and no Dossier text, speech quoted in a Dossier included. Each designated
-narrator (`VB-020`), as narrator, as teller, and as a speaking character, keeps their own sheet
-(`VB-021` to `VB-025`). Every track voice ruling (`VB-020`, `VB-022`, `VB-024`, `VB-063`, `VB-064`,
-`VB-065`, `CC-034`) and every character's own voice (`VB-030`) still governs that character's
-diction, and the registers this amendment permits run inside it. Onyx's voice, narrating or through
-the grip, stays under `VB-063` alone. What any of these registers may claim stays with `VB-067` and
-`VB-068`: in a Comrade Account, a register that inflates a matter of fact is used only within
-`VB-067`'s Comrade bound, on a matter where a locked rule or reliable narration records the teller
-as mistaken or misled, or in secondhand relay, and traced. The 50% rule, the bar on phatic talk,
-fact over emotion, the banned words, and every hard constraint still apply. Every register this
-amendment permits stays nonexplicit. Sexual talk in any of them is between adults only, with no
-minor present, addressed, or referenced, and no minor is the subject of a sexual insult, boast, or
-story (account craft standard, M1, M4, and section 7, item 17). No character under thirty appears in
-or near any Ashkeel setting, and no sexual detail reaches the page there (`ASH-016`, `ASH-036`;
-account craft standard, M13)."
+registers are those of Abad's ruling at `VB-068`'s lock. Each register `VB-068` names is a comic
+register as ruled, in full: R0.4 (in the homage World, signifying, ritual insult, call and response,
+and the toast; on Cian, dock, forge, and Maw idiom carrying any of these), R15, R18, M1, M2's funny
+boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and M11. Any other talk the
+standard sets out is a comic register only where its purpose in the telling is laughter, as a tall
+tale, ridicule, teasing, jeering, or heckling can be. R0.4's toast is a long rhymed narrative of a
+badman's or trickster's exploits, a register apart from M8's closing drink toast, which is a comic
+register only where its purpose is laughter. Outside a told account, characters' talk in every scene
+keeps irony and understatement, whatever room it is set in. This amendment changes no narration and
+no Dossier text, speech quoted in a Dossier included. Each designated narrator (`VB-020`), as
+narrator, as teller, and as a speaking character, keeps their own sheet (`VB-021` to `VB-025`).
+Every track voice ruling (`VB-020`, `VB-022`, `VB-024`, `VB-063`, `VB-064`, `VB-065`, `CC-034`) and
+every character's own voice (`VB-030`) still governs that character's diction, and the registers
+this amendment permits run inside it. Onyx's voice, narrating or through the grip, stays under
+`VB-063` alone. What any of these registers may claim stays with `VB-067` and `VB-068`: in a Comrade
+Account, a register that inflates a matter of fact is used only within `VB-067`'s Comrade bound, on
+a matter where a locked rule or reliable narration records the teller as mistaken or misled, or in
+secondhand relay, and traced. The 50% rule, the bar on phatic talk, fact over emotion, the banned
+words, and every hard constraint still apply. Every register this amendment permits stays
+nonexplicit. Sexual talk in any of them is between adults only, with no minor present, addressed, or
+referenced, and no minor is the subject of a sexual insult, boast, or story (account craft standard,
+M1, M4, and section 7, item 17). No character under thirty appears in or near any Ashkeel setting,
+and no sexual detail reaches the page there (`ASH-016`, `ASH-036`; account craft standard, M13)."
 
 ### (a2) VB-068 amendment
 
 Appended to `VB-068`:
 
 "Amended Batch 377, 2026-10-04: the `VB-004` amendment this rule anticipated is locked. It reads
-the ruling's "including" as it stands, so every comic register the account craft standard sets out
-may run broad in a told account, within `VB-004` as amended."
+the ruling's "including" as it stands: in a told account, each register this rule names may run
+broad in full, and any other talk the account craft standard sets out may run broad where its
+purpose in the telling is laughter, within `VB-004` as amended."
 
 ---
 
@@ -231,13 +231,16 @@ merge on a scratch copy.
   read a named house's location and the identity of its keeper as plain place and person facts,
   outside `VB-068`'s "standing structure, office" clause; a house's trade, custom, or offices are
   drafted as their own rule. `VB-068` records the ruling as covering "the standard's comic registers,
-  including" a named set. The amendment reads "including" as it stands: every comic register the
-  standard sets out may run broad in a told account, the named ones among them. **For Abad to
-  confirm:** this goes beyond the single registers he was asked about (naming table, part (c), item
-  8). It also reaches, for example, M8's comic arc (its closing drink toast only where its purpose is laughter), M10's tall tales told to
-  children, ritual insult at a Cian corner (M2), the heckled brag (section 6), and crowd jeering at a bout where its purpose is laughter (M5),
-  always inside the told-account, child-safety, and track-voice limits. If he wants any of these kept
-  at irony and understatement, the amendment and the standard's section 7, item 14 name them as
-  exclusions. R0.4's toast and M8's closing drink toast are named apart so they never collide.
+  including" a named set. The amendment reads "including" as it stands: each named rule or module is
+  a comic register in full, and any other talk the standard sets out counts only where its purpose in
+  the telling is laughter. **For Abad to confirm:** this goes beyond the single registers he was
+  asked about (naming table, part (c), item 8), since R0.4, M1, M4, M7, and M9 count in full (M4's
+  hazing and M7's teasing-in of new hands among them). Through the purpose test it also reaches, for
+  example, M8's comic arc, M10's tall tales told to children, ritual insult at a Cian corner (M2),
+  the heckled brag (section 6), and crowd jeering at a bout (M5), each only where its purpose is
+  laughter, and always inside the told-account, child-safety, and track-voice limits. If he wants any
+  of these kept at irony and understatement, the amendment and the standard's section 7, item 14 name
+  them as exclusions. R0.4's toast and M8's closing drink toast are named apart so they never
+  collide.
 - **Names collision-checked:** all 25, against `canon-ledger.json` and every entry file, with
   near-collisions to edit distance 2 (naming table, part (b)).
