@@ -36,10 +36,10 @@ Ghostwind studied the lines a long while. Then her face.
 "They know me everywhere."
 
 He set a roll of oilcloth on the table and opened it. Bronze reeds, thirty, each as long as a forearm,
-weighted at the foot. She lifted one. Blew down it. The table shook under
-her palms, low and slow, and the shaking went up her wrists into her chest.
+weighted at the foot. Ghostwind lifted one and hummed down it. The table
+shook under her palms, low and slow.
 
-She set it down.
+Ghostwind set it down.
 
 The Captain turned from the window. Collar open. The voice rough and low.
 
@@ -54,7 +54,8 @@ The Captain turned from the window. Collar open. The voice rough and low.
 Maw-11 sat in a fold of the southern coast hills. Grey stone. Low walls. A regional Maw, small beside
 the Grand Maws. Three thousand eight hundred Branded in its pens.
 
-She came up the road at dusk, her three behind her. Edda. Hamund. Odile. No hoods.
+She came up the road at dusk, her three behind her. Edda. Hamund. Odile. No hoods. The Captain's
+wagons waited on the hill road below the gate.
 
 The smell reached her before the walls did. Lamp oil and old sweat. Wet straw gone sour. Iron, and
 the copper under iron that is blood dried a long time. It went into her nose and down into her chest
@@ -64,9 +65,7 @@ The mast stood over the hill behind the walls, black against the last light. Tal
 remembered. A thin pole. A box at the top, its face turned down toward the pen block.
 
 She knew what came off it. She had carried it in her arms for years, in that place. Slow blood. Heavy
-limbs. Arms that could not lift high enough to try a grate. Tonight it touched nothing of her. Whatever
-kept that weight off the crew had kept it off her since Chain Harbor. It reached no farther than the
-crew.
+limbs. Arms that could not lift high enough to try a grate. Tonight it touched nothing of her.
 
 Two gate guards. Spears grounded. Lanterns on hooks.
 
@@ -82,8 +81,8 @@ Edda and Hamund took the gate behind her. Odile set her back to the hinge post.
 • • •
 
 The yard. Packed sand over stone, raked smooth in rows. Lamps on poles at the corners. The Slab in the
-middle, a raised floor of fitted blocks, the seams stained dark. Old blood in the sand. New blood on the
-Slab's edge from the afternoon's bouts.
+middle, a raised floor of fitted blocks, the seams stained dark. Blood in the sand. Blood on the Slab's edge,
+the afternoon's, not yet swept.
 
 Forty men. Slab crews at the reset carts with brooms and iron bars. Guards at the armory doors. Handlers
 at the water trough, cups in hand.
@@ -100,7 +99,7 @@ Someone said it. Then several.
 She kept walking. Along the Slab's edge. Around it.
 
 The guards came off the armory doors. Eight. Spears and hook-poles. The handlers came behind them with
-clubs off the rack, twelve of them, bold in numbers, slow in the hands. The Slab crews stayed at the
+clubs off the rack, twelve of them, bunched, clubs held too tight. The Slab crews stayed at the
 carts, bars in their fists, watching.
 
 She read them as she walked.
@@ -110,6 +109,8 @@ Guards: drilled. Spreading to flank. They would come together.
 Handlers: they would come behind the guards.
 
 Crews: they would come only if the rest went first.
+
+Nobody in this yard has to die.
 
 Hold them here. All of them alive.
 
@@ -138,7 +139,7 @@ A hook-pole came at her back. She felt the air move and stepped into the swing, 
 took the shaft across her shoulder. It went into her and stayed in her. She turned with it and gave it
 back through the Star into the man's thigh. He went down sideways.
 
-The handlers bunched. Twelve, two guards at the ends. They meant to rush her together.
+The handlers bunched. Twelve, the last guards at the ends. They meant to rush her together.
 
 She let her voice go.
 
@@ -146,8 +147,8 @@ Low in her throat. Under hearing. The crystal nodes in the gorget took it up and
 her, a long blade of it, forward.
 
 The front rank's hands went to their chests. A man swayed. Another planted his club in the sand and
-leaned on it. The man at the center set his feet a pace too far back and stood there, braced, out of
-reach by his own measure. The figure-eight came round and reached him.
+leaned on it. The man at the center stepped back to where his eye said he was clear. He stood braced a pace inside
+the reach. The figure-eight came round and found him.
 
 She opened the Star's head wide and swept it through them. Clubs spun out of hands. Men went to their
 knees, heads down, retching into the sand, and stayed there. A guard tried to rise. His face found her
@@ -158,12 +159,11 @@ No one came again.
 She kept moving. Round the Slab. Round again. The men on the ground lay still. Every face in the yard
 was on her.
 
-The chains glowed along their links. Dull amber. Her heart sat raised and steady. She kept it there.
-She always had.
+The chains glowed along their links. Dull amber. Her heart sat raised and steady.
 
 • • •
 
-She felt it in the stone. Low. Under hearing. Up through the sand into her boots, into her knees, into her
+She felt it in the stone. A grinding, slower than a heartbeat. Up through the sand into her boots, into her knees, into her
 ribs. A few voices. Then more. Then many.
 
 The pens were singing.
@@ -182,7 +182,8 @@ Then a hole tore in the low note, near the first grate. Voices stopping. Startin
 
 Someone was at the grate.
 
-The third door off the yard stood open. It had been shut when she came in.
+The third door off the yard stood a hand's width open. It had been shut when she came in. Lamp-light
+below it, moving away.
 
 She knew who held the key to that door.
 
@@ -194,10 +195,9 @@ links steady, climbing no higher.
 Gethin Tamber ran the tunnels at Maw-11. He had run them in her years there. The staging. The armory
 keys. The pens.
 
-A free man. A careful one. He knew what every Branded in his tunnels was worth. Nothing left his
-tunnels uncounted.
+A free man. A careful one. Nothing left his tunnels uncounted.
 
-He would have been below when the singing started. He would have felt it in the floor. Every tunnel
+He would have felt the singing in the floor wherever he stood. Every tunnel
 master in the south had heard of the Blackout.
 
 The staging rack inside the door held the hook-poles. She passed it at a run. One hook was gone.
@@ -273,7 +273,7 @@ She sang through all of it.
 
 • • •
 
-Anirak walked. Two steps each way before the grate, so what she carried would not bleed off. She turned
+Anirak walked. Two steps each way before the grate. She turned
 her face down the tunnel, from the bars. The singing found its depth again.
 
 It filled the tunnel. It filled the stone. She felt it in her teeth.
@@ -354,18 +354,19 @@ Ghostwind's infiltration and a Hymn-Engine counter-frequency device, 3,800 freed
 former facility. This entry adds her part, which `MCD-264` does not name (a new fact, flagged for the
 lock rule): she mapped Ghostwind's route from her own knowledge of the tunnels and, unable to go in
 unseen (`CC-112`), went in openly by the front gate as the visible draw, holding the yard while Ghostwind
-worked below. The device is rendered as thirty forearm-length bronze reeds, weighted at the foot, felt
-as vibration rather than heard, carried in by Ghostwind and sung into by the pens: the Hymn-Engine's
+worked below. The device is rendered as thirty forearm-length bronze reeds, weighted at the foot,
+demonstrated by Ghostwind humming down one, felt as vibration rather than heard, carried in by Ghostwind and sung into by the pens: the Hymn-Engine's
 synchronized-voice cancellation of Blight Frequency suppression (`ARS-398`, `MCD-236`) under its
 precision-beam doctrine (`MCD-248`), after the Calibration Theft's redesign (`MCD-265`, age 108), an
 inside job in the literal sense. The mast's box overloads and splits, as the Blackout's relay towers
-were overloaded (`MCD-237`). That the Maw's Branded are held under Blight suppression matches the
-"Tether-managed levels" of `ARS-377` and the standard suppression of `MAW-131`; the box faces the pen
+were overloaded (`MCD-237`). The Maw's Branded are held under Blight suppression (`ARS-398`), alongside the Tether suppression of
+`ARS-377` and `MAW-131`; the box faces the pen
 block, so the yard and its bouts sit in spill only; the bent and sheared grates show the freed at their
 true density. Anirak is one of the nineteen Avatars under the Sovereign Umbrella (`MCD-140`), whose
-Blight Immunity (`MCD-060`, Stage 1 Sub 2) covers the crew, so the mast does not touch her tonight; she
-knows its weight from her years there, and it covers the crew only, which is why the pens need the
-singing. Anansi's portable generator, the Frequency Vaccine (`MCD-265`, age 180), comes later and is
+Blight Immunity (`MCD-060`, Stage 1 Sub 2) covers the Avatars within the Umbrella's reach of the
+Captain, whose wagons wait on the hill road below the gate, so the mast does not touch her tonight; she
+knows its weight from her years there. The Umbrella does not cover the Branded in the pens, which is why
+the pens need the singing. Anansi's portable generator, the Frequency Vaccine (`MCD-265`, age 180), comes later and is
 not used. Ghostwind at 29 (recruited at 19, age 130, `MCD-258`), with the Slipstream Harness and the
 Vane-Compass (`ARS-409`); the Wind-Razors are not drawn. Her kill: Gethin Tamber, a free tunnel master
 (a Tier 2 Backstage post per `MAW-077`, which runs tunnels, staging, and armories; handlers are
