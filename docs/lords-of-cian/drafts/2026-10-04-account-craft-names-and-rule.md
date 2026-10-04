@@ -204,7 +204,7 @@ antithesis. Those items are dropped here. The rest remain open.
    The research documents greeting rituals as real openers (06 §2.1, §2.2). The standard resolves
    this by carrying openings in action or in lines that carry information (R0.2). Please confirm.
 5. **Spanish in homage-World speech.** In the Chronicle locked at `MCD-337`, dockhands call Kanja
-   *el que no necesita nada*, while `PH2-061` frames Spanish as the imposed colonial tongue and
+   *el que no necesita nada*, while `PH2-061` frames Arturo's Spanish names as imposed by colonization and
    `PH2-034` bars real-world-derived in-world names. The standard allows Spanish as spoken phrase
    and never as an invented name. Please confirm.
 6. **Research examples that must not be imported.** These are not canon, but they would break

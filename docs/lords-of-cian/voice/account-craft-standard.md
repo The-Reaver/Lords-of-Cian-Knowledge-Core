@@ -34,9 +34,10 @@ It sits under three rules and never loosens any of them.
     Account never serves as the trace against another Comrade Account.
   - **The reserved-rule bar.** No teller asserts, implies, foreshadows, or references what a
     reserved rule forbids.
-- **`VB-068`** (proposed) binds this standard to those rules and adds one bar of its own: "No
-  account, Series narration included, states a fact about an institution that no locked rule holds;
-  such a fact is drafted as its own rule." The bar binds every account and every narration. Its
+- **`VB-068`** (proposed) binds this standard to those rules and adds one bar of its own: "No new entry
+  or new scene, Series narration included, states a fact about an institution that no locked rule
+  holds; the reliable narration of a locked entry, cited by its rule ID, counts as held. Such a fact
+  is drafted as its own rule." The bar binds every new entry and new scene. Its
   object is a standing structure, office, form, procedure, vocabulary, or practice of a named
   institution, as distinct from an event involving one, and it is checked in every entry's
   Connective-Tissue review, Series entries included (§7, item 9). An unreliable teller's false
@@ -47,7 +48,7 @@ It sits under three rules and never loosens any of them.
 - **The Voice Bible** (`VB-001` to `VB-005`, `VB-010` to `VB-013`, `VB-040`, `VB-050`) binds every
   sentence of every account, and so do the track rulings `VB-063` (Onyx), `VB-022` (Red Beard's
   Testaments), `VB-064` (Lauris's Records), `VB-065` (Anirak's Collections) and `VB-020` (the
-  close-third Rolls and Annals), with `CC-034` and `VB-024` for Ezio's Exhibits. That means no
+  close-third Alias entries, Rolls and Annals), with `CC-034` and `VB-024` for Ezio's Exhibits. That means no
   phatic talk, the 50% dialogue cut, humor limited to irony and understatement (`VB-004`), no
   balanced antithesis, none of the banned words or borrowed terms, and the Density Spike never
   named. Section 2.0 shows how real talk survives those constraints.
@@ -127,7 +128,7 @@ in its filler words.
   thinks the story was for.
   - *"No bridge at the ford since."*
 - **R4. Most real stories are small, shared, and open.** [MODERATE; 01 F7] Insiders gesture at a
-  story instead of telling it ("after the Trench, nobody sailed with him"). A refusal is a story
+  story instead of telling it ("after that winter, nobody sailed with him"). A refusal is a story
   ("Won't speak of the cellar"). A group's story may end without a moral settled.
 
 ### 2.2 Getting the floor, and giving it back
@@ -198,8 +199,8 @@ in its filler words.
   (mimicry as judgment). Word-perfect quotation of a long exchange is the oddity.
 - **R17. The tense slips at the climax.** [STRONG for the switch, MODERATE for its placement; 01
   F10] It moves past to present at the peak and back to past for the frame. This applies to a
-  character telling a story aloud. It does not override a track's narration tense (`VB-063`,
-  `VB-065`).
+  character telling a story aloud. It does not override a track's narration tense (`VB-063`, and any
+  track's established tense).
 
 ### 2.7 Performance and tuning
 
@@ -432,8 +433,9 @@ breathe, half-believed by everyone, reads true.
   - The teller is never deliberately lying (`VB-067`).
   - Outside those matters, the teller's account of their own sector is reliable and locks as fact,
     and so is what they witnessed outside it (`VB-067`, "what the teller saw and knew").
-  - Quoted speech locks for its substance, not its wording. The teller rebuilds dialogue (R16),
-    so the exact words are the teller's reconstruction.
+  - That the words were said, in substance, locks as fact; what they claim locks only as said
+    (`VB-067`). The teller rebuilds dialogue (R16), so the exact words are the teller's
+    reconstruction.
 - **Who tells to whom.** Always give an identified listener: named, or identified by description
   where a locked rule keeps them unnamed (`PH2-048`, `MCD-1093`). A comrade tells different things
   to these listeners [STRONG; 05 F7; †Marsh 2007, Higgins & Rholes 1978, Echterhoff et al. 2005,
@@ -479,7 +481,8 @@ breathe, half-believed by everyone, reads true.
     - `CC-027`: the closed list who know Ezio's capability
     - `CC-085`: Draconis does not know what Ozmund is
     - `MCD-1093`: Arturo never learns Kanja's name; "Guaikán" is his private word
-    - `MCD-1569` and `MCD-1881`: 1804 is never credited, and Daba's kills stay unattributed
+    - `MCD-1569` and `MCD-1881`: 1804 never publicly credited alongside the crew; Daba's kills
+      publicly unattributed, legend only inside 1804's own record
   - Onyx's grip-speech reported by anyone without a locked basis for hearing it.
   - Performer exaggeration or edge drift on any matter of fact, unless traced (`VB-067`).
   - Two comrades in identical wording, unless the scene means a coordinated story [MODERATE; 04
@@ -569,7 +572,7 @@ breathe, half-believed by everyone, reads true.
     partisan line, not at random [MODERATE; 08 F12; †Hastorf & Cantril 1954, Noor et al. 2012, Lau &
     Russell 1980]
 - **Dehumanization register by institution.** [STRONG that it accompanies violence; CONTESTED that
-  it is necessary; 08 F10; †Baumeister 1997]
+  it is necessary; 08 F10; †Baumeister 1997, Rai et al. 2017]
   - Mechanistic for a bureaucracy ("stock," "units").
   - Animalistic for a raider band.
   - Absent for an idealist, who grants his victims are people and breaks them anyway.
@@ -652,7 +655,7 @@ Subject: [as the officer knows it -- often a nickname or alias]
 3. My reading: [loose words: "looks like," "I judge"]
 4. Not established: [often blank -- its absence is a marker]
 5. Scrip disbursed (optional): [sums, to whom]
-Grave-Analyst sign-off: [initials]  (SBD-050, SBD-052)
+Grave-Analyst sign-off: [Grave-Analyst]  (SBD-050, SBD-052)
 ```
 
 - **On the page.** First person, local names, small grammar slips, the honest "unknown."
@@ -730,7 +733,7 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
 - **Sovereign Trust variant.**
   - The public record is cried aloud: the false Rookery record (`MCD-1566`), read by a Trust crier
     (`MCD-1573`). The form of that notice is **[NAME NEEDED: N12]**.
-  - Internal Trust records draw on the Central Ledger (`WC-007`) and disbursement ledgers. They also
+  - Internal Trust records draw on the Central Ledger (`WC-007`). They also
     carry phantom orders the Trust processes as its own (`MCD-271`), a Dossier that records a
     command it never truly issued.
   - On the page: an agentless "fire of undetermined origin"; a precise figure with its source lost
@@ -974,9 +977,11 @@ closed.
 - Aztlán's unnamed bar (`PH2-030`).
 - A named bar: **[NAME NEEDED: H1]**.
 - An after-hours spot: **[NAME NEEDED: H2]**.
+- A social club: **[NAME NEEDED: H4]**.
 - No broadcast media or firearms in the room (`PH2-049`).
 - Spanish may appear as spoken phrase (`MCD-337`); invented names never draw on it (`PH2-034`,
-  `PH2-061`). Pending Abad's ruling (companion draft part (c), item 5).
+  `PH2-061`). Pending Abad's ruling (companion draft part (c), item 5). Until he rules, no spoken
+  Spanish beyond `MCD-337`'s locked phrase (`VB-068`).
 
 **Ashkeel**
 - Mortal enemies drink in the same halls under the Council peace (`ASH-011`). The everyday hall is
@@ -1224,7 +1229,7 @@ a generalization, 01 F8; †Norrick 1997]
 - By invitation, or by having a story worth the floor.
 
 **Brag / fact**
-- A comic adult tale is tolerated. A child's exaggeration is corrected openly.
+- An adult's comic tale is tolerated. A child's exaggeration is corrected openly.
 - Family facts are corrected by the other parent.
 
 **Open / close**
@@ -1290,7 +1295,7 @@ a generalization, 01 F8; †Norrick 1997]
 - The morning hiring of dockers: **[NAME NEEDED: N3]**.
 
 **Venues, homage World**
-- The Kazi plant line and the count table (`PH2-051`).
+- The Kazi plant line (`PH2-051`) and the count table (`MCD-1528`).
 - Tunji's floor, lined up before the halt is called (`PH2-065`).
 - Femi's trustee seat inside the local (`PH2-066`).
 
@@ -1721,7 +1726,8 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
    - `CC-027`: who knows Ezio's capability
    - `CC-085`: what Draconis believes
    - `MCD-1093`: Kanja's name and the private "Guaikán"
-   - `MCD-1569` and `MCD-1881`: 1804 never credited; Daba's kills unattributed
+   - `MCD-1569` and `MCD-1881`: 1804 never publicly credited alongside the crew; Daba's kills
+     publicly unattributed, legend only inside 1804's own record
    - Onyx's grip-speech, which no one hears without a locked basis
    - `PH2-048`: Kanja unnamed in the Annals
 7. **Trace table.** Every statement that departs from the truth is listed with the locked rule, or
@@ -1785,9 +1791,10 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
 17. **Child safety.** No sexual content involving any minor, in any setting. Ashkeel is adult-only
     and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).
 
-**Presentation note.** The connective-tissue note for a non-Series account adds four lines to the
+**Presentation note.** The connective-tissue note for a non-Series account adds these lines to the
 usual four (agrees, extends, touches, names checked):
 - the account type, and the teller state for a told account
 - the setting module used
 - the trace table for every false statement
 - the knowledge-window rules checked
+- for an Adversary Account, the accurate point and the rule or reliable account that holds it
