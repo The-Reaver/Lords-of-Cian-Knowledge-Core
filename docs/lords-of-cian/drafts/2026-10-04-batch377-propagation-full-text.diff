@@ -1,0 +1,274 @@
+--- before: docs/lords-of-cian/voice/account-craft-standard.md
++++ after: docs/lords-of-cian/voice/account-craft-standard.md
+@@ -36,3 +36,3 @@
+     reserved rule forbids.
+-- **`VB-068`** (proposed) binds this standard to those rules and adds, among its clauses, one bar of its own: "No new entry
++- **`VB-068`** binds this standard to those rules and adds, among its clauses, one bar of its own: "No new entry
+   or new scene, Series narration included, states a fact about an institution that no locked rule
+@@ -53,4 +53,5 @@
+   close-third Alias entries, Rolls and Annals), with `CC-034` and `VB-024` for Ezio's Exhibits. That means no
+-  phatic talk, the 50% dialogue cut, humor limited to irony and understatement (`VB-004`), no
+-  balanced antithesis, none of the banned words or borrowed terms, and the Density Spike never
++  phatic talk; the 50% dialogue cut; dialogue humor limited to irony and understatement outside a
++  told account (`VB-004`), and in one as broad as `VB-004` as amended (Batch 377) allows; no
++  balanced antithesis; none of the banned words or borrowed terms; and the Density Spike never
+   named. Section 2.0 shows how real talk survives those constraints.
+@@ -97,9 +98,7 @@
+   Signifying, ritual insult, call and response, and the toast carry the homage World's registers.
+-  Each is written through deadpan irony and understatement only (`VB-004`): the insult arrives flat
+-  and short, and the toast leaves its biggest claim unsaid. Mainline tellers carry dock, forge, and
++  The toast is a long rhymed narrative of a badman's or trickster's exploits. In characters' talk in
++  a told account, each may run as broad as `VB-004` as amended (Batch 377) allows; otherwise each is
++  written through irony and understatement only (`VB-004`). Mainline tellers carry dock, forge, and
+   Maw idiom under the same limit.
+   - *"Heard you rowed against the tide. Tide's still here."*
+-  - Abad ruled at `VB-068`'s lock that these registers may run broader in told accounts. The
+-    broader registers apply once the `VB-004` amendment that sets them out locks. Until then,
+-    `VB-004` holds.
+ - **R0.5 Banned words stay banned inside a told story.** Oaths and church talk use other words: a
+@@ -195,3 +194,4 @@
+ - **R15. Rounds escalate in brag zones.** [STRONG; 06 §2.4, §3] Each round tops the last with a
+-  larger claim told in a flatter voice, through irony and understatement only (`VB-004`).
++  larger claim (in a told account, as broad as `VB-004` as amended, Batch 377, allows; otherwise
++  irony and understatement, `VB-004`).
+ 
+@@ -210,4 +210,4 @@
+ - **R18. Performance is a frame.** [MODERATE; 01 F9] It is keyed by a formula opener, a modesty
+-  disclaimer before a polished telling, and a dry, understated line left a beat to land
+-  (`VB-004`). Polish is evidence of repetition, so a performed story is livelier and less reliable
++  disclaimer before a polished telling, and a line left a beat to land (in a told account, as
++  broad as `VB-004` as amended, Batch 377, allows; otherwise irony and understatement, `VB-004`). Polish is evidence of repetition, so a performed story is livelier and less reliable
+   at once.
+@@ -746,3 +746,3 @@
+   - The public record is cried aloud: the false Rookery record (`MCD-1566`), read by a Trust crier
+-    (`MCD-1573`). The form of that notice is **[NAME NEEDED: N12]**.
++    (`MCD-1573`). Common speech calls a posted Trust notice the posted bill (`LEX-012`); no rule sets its form.
+   - Scrip debt is a Metabolic Tether to the Central Ledger (`WC-007`), which Scrip transaction value
+@@ -971,4 +971,4 @@
+ **Drift**
+-- Comic stories grow, each telling a larger claim in a drier voice: irony and understatement only
+-  (`VB-004`). The bloodiest version wins (R22).
++- Comic stories grow, each telling a larger claim (in a told account, as broad as `VB-004` as
++  amended, Batch 377, allows; otherwise irony and understatement, `VB-004`). The bloodiest version wins (R22).
+ - The room's shared grudge polishes the story; in a room that hates the Trust, it becomes "the
+@@ -977,3 +977,3 @@
+ **Venues, mainline Cian**
+-- Category word: **[NAME NEEDED: N1]**. Canon uses "tavern" and "inn" as generic words.
++- Category word: tapstead (`LEX-001`). Canon uses "tavern" and "inn" as generic words.
+ - The Anchor and Anvil: the early Rebellion's room, with a back room, a long table, and tea. It
+@@ -988,4 +988,4 @@
+ - Tavern basements as the lowest Pits (`MAW-142`).
+-- Named taverns: **[NAME NEEDED: N2a]** (dockside), **[NAME NEEDED: N2b]** (foundry district),
+-  **[NAME NEEDED: N2c]** (Maw-side).
++- Named taverns: the Slack Hawser (`LEX-002`) (dockside), the Tallow Lamp (`LEX-003`) (foundry district),
++  the Last Bell (`LEX-004`) (Maw-side).
+ 
+@@ -994,5 +994,5 @@
+ - The bar where Ohun's stray projectile finds the wall (`PH2-030`).
+-- A named bar: **[NAME NEEDED: H1]**.
+-- An after-hours spot: **[NAME NEEDED: H2]**.
+-- A social club: **[NAME NEEDED: H4]**.
++- A named bar: the Shekere (`LEX-015`).
++- An after-hours spot: kibanda (`LEX-016`).
++- A social club: egbe (`LEX-018`).
+ - No broadcast media or firearms in the room (`PH2-049`).
+@@ -1002,4 +1002,4 @@
+ **Ashkeel**
+-- Mortal enemies drink in the same halls under the Council peace (`ASH-011`). The everyday hall is
+-  **[NAME NEEDED: A1]**.
++- Mortal enemies drink in the same halls under the Council peace (`ASH-011`). The everyday hall is a
++  brazier-house (`LEX-025`).
+ - See M13 for its restrictions.
+@@ -1048,4 +1048,4 @@
+ **Venues, mainline Cian**
+-- The gathering spot and its regulars: **[NAME NEEDED: N14]**.
+-- Lookout: **[NAME NEEDED: N15]**.
++- The gathering spot and its regulars: the pump and the pump-lads (`LEX-013`).
++- Lookout: a whistler (`LEX-014`).
+ - Whether unlicensed bets run through runners to an unlicensed Reckoner is **[RULE NEEDED]**:
+@@ -1057,3 +1057,3 @@
+   - the Weregildd's blind couriers (`WGD-003`)
+-  - canal-district gambling houses (`MCD-402`), the category word being **[NAME NEEDED: N10a]**,
++  - canal-district gambling houses (`MCD-402`), the category word being dice-house (`LEX-010`),
+     and a named house **[NAME NEEDED: N10b]**
+@@ -1067,6 +1067,6 @@
+ - Sankofa's dice games (`MCD-1023`, `MCD-1092`).
+-- Gaps:
+-  - corner and crew **[NAME NEEDED: H9]**
+-  - lookout **[NAME NEEDED: H8]**
+-  - street game **[NAME NEEDED: H10]**
++- Street words:
++  - corner and crew: pembe (`LEX-020`)
++  - lookout: oju (`LEX-019`)
++  - street game: kete (`LEX-021`)
+ - Whether Policy has runners, slips, and banks is **[RULE NEEDED]**: `PH2-003` and `PH2-011` to
+@@ -1115,3 +1115,3 @@
+ - Areíto's barbershop back room (`MCD-339`).
+-- The general word: **[NAME NEEDED: H3]**.
++- The general word: kinyozi (`LEX-017`).
+ - Its argument-as-deliberation register suits Kwame Ade's and Eri Kotoko's public friction
+@@ -1147,3 +1147,4 @@
+ **Open / close**
+-- *Open:* an insult that means welcome, said flat and understated (`VB-004`).
++- *Open:* an insult that means welcome (in a told account, as broad as `VB-004` as amended,
++  Batch 377, allows; otherwise irony and understatement, `VB-004`).
+ - *Close:* a call to the Slab, the watch, or the line.
+@@ -1162,3 +1163,3 @@
+   `MAW-065`).
+-- The fighters' waiting room: **[NAME NEEDED: N5]**.
++- The fighters' waiting room: the Sweat (`LEX-007`).
+ - Handler crews (`MAW-077`).
+@@ -1174,3 +1175,3 @@
+ - Crew: the crew training hall (`MCD-1459`); the forecastle and galley.
+-- The crew's own word for its mess: **[NAME NEEDED: N4]**.
++- The crew's own word for its mess: the Trough (`LEX-006`).
+ 
+@@ -1178,3 +1179,3 @@
+ - The plant floor's changing room and the ball-yard bench.
+-- The sport itself is **[NAME NEEDED: H11]**.
++- The sport itself is ulli (`LEX-022`).
+ 
+@@ -1231,3 +1232,3 @@
+   at N7.
+-- Crowd slang for a fighter: **[NAME NEEDED: N8]**. For a bout: **[NAME NEEDED: N9]**.
++- Crowd slang for a fighter: a hewer (`LEX-008`). For a bout: a bell (`LEX-009`).
+ - The bell is held in locked narration: "a floor before the bell," "No second bell" (`MCD-1886`).
+@@ -1238,3 +1239,3 @@
+ **Venues, homage World**
+-- The street sport and its crowd: **[NAME NEEDED: H11]**.
++- The street sport and its crowd: ulli (`LEX-022`).
+ 
+@@ -1289,4 +1290,4 @@
+ **Who and order**
+-- Seniority and skill. The senior hand anchors the ritual joke, a dry line of irony or
+-  understatement (`VB-004`).
++- Seniority and skill. The senior hand anchors the ritual joke (in a told account, as broad as
++  `VB-004` as amended, Batch 377, allows; otherwise irony and understatement, `VB-004`).
+ 
+@@ -1303,3 +1304,4 @@
+ **Open / close**
+-- *Open:* ritual teasing, deadpan (`VB-004`).
++- *Open:* ritual teasing (in a told account, as broad as `VB-004` as amended, Batch 377, allows;
++  otherwise irony and understatement, `VB-004`).
+ - *Close:* the return to work, a whistle.
+@@ -1320,3 +1322,3 @@
+ - The Portside Dockmaster's Office (`MCD-249`).
+-- A dock hiring place, if one is drafted: **[NAME NEEDED: N3]**.
++- The dock hiring yard: the Call Yard (`LEX-005`).
+ 
+@@ -1380,4 +1382,6 @@
+ **Turns**
+-- Long turns for the yarn-teller. It is a recognized genre of tall telling, told deadpan: the
+-  teller states the impossible in the flattest voice on the watch (`VB-004`).
++- Long turns for the yarn-teller. It is a recognized genre of tall telling, often told deadpan,
++  the teller stating the impossible in the flattest voice on the watch. In a told account it may
++  run as broad as `VB-004` as amended (Batch 377) allows; otherwise irony and understatement
++  (`VB-004`).
+ 
+@@ -1483,3 +1487,3 @@
+ - Daba's private annual reading of names (`MCD-1610`).
+-- A general Cian funeral custom: **[NAME NEEDED: N11]**. It must not overwrite the crew's own
++- A general Cian funeral custom: the lykewake (`LEX-011`). It must not overwrite the crew's own
+   practice.
+@@ -1488,3 +1492,3 @@
+ - Arturo's annual remembrance (`MCD-1024`).
+-- The homegoing custom: **[NAME NEEDED: H13]**.
++- The homegoing custom: ayie (`LEX-024`).
+ 
+@@ -1525,3 +1529,3 @@
+ - Independent pamphlets with corrections (`MCD-638`).
+-- The Trust's public-notice form: **[NAME NEEDED: N12]**.
++- Common speech for a posted Trust notice: the posted bill (`LEX-012`); no rule sets its form.
+ 
+@@ -1568,3 +1572,3 @@
+ - The Promenade and its clubs (`ASH-032`, `ASH-043`, `ASH-045`).
+-- Everyday halls: **[NAME NEEDED: A1]**.
++- Everyday halls: brazier-house (`LEX-025`).
+ 
+@@ -1606,3 +1610,3 @@
+ - Hekalu's cooperative (`PH2-055`), under the caution in M6.
+-- The gathering itself: **[NAME NEEDED: H12]**.
++- The gathering itself: baraza (`LEX-023`).
+ - No banned words in sermon talk (R0.5).
+@@ -1708,3 +1712,5 @@
+ drift on any matter of fact locks as fact unless traced (`VB-067`, §4.1), so a Comrade teller there
+-brags in judgment, feeling, and dry understatement.
++inflates a matter of fact only within `VB-067`'s Comrade bound (on a matter where a locked rule or
++reliable narration records the teller as mistaken or misled, or in secondhand relay, and traced),
++whatever the register (`VB-004` as amended, Batch 377).
+ 
+@@ -1806,6 +1812,21 @@
+     - No phatic talk; dialogue cut by half.
+-    - Humor is irony and understatement only (`VB-004`). Every comic register, including R0.4,
+-      R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and
+-      M11, is written deadpan until the `VB-004` amendment Abad approved in principle at
+-      `VB-068`'s lock is itself locked; after that, each runs as that amendment allows.
++    - Outside a told account, characters' talk keeps irony and understatement (`VB-004`), whatever
++      room a scene is set in. In a told account, characters' talk may use every comic register this
++      standard sets out, as broad as `VB-004` as amended (Batch 377) allows. A comic register is any
++      talk this standard sets out whose purpose in the telling is laughter, among them the comic
++      story, the funny boast, the tall tale, ritual insult, ridicule, teasing and hazing, jeering
++      and heckling, and R0.4's toast, each only where its purpose in the telling is laughter;
++      `VB-068` names R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the
++      comic stories of M6 and M11. R0.4's toast is a long rhymed narrative of a badman's or
++      trickster's exploits, a register apart from M8's closing drink toast, which is a comic
++      register only where its purpose is laughter. For this purpose the teller's voice in a Comrade
++      Account, an Adversary Account, or a Hearsay entry counts as characters' talk, its reliability
++      as `VB-067` sets it. In a Comrade Account, a register that inflates a matter of fact is used
++      only within `VB-067`'s Comrade bound, traced (§4.1, item 7). The 50% rule, the phatic bar,
++      fact over emotion, and every hard constraint still apply. The amendment changes no narration
++      and no Dossier text, speech quoted in a Dossier included. Each designated narrator, as
++      narrator, as teller, and as a speaking character, keeps their own sheet (`VB-021` to
++      `VB-025`). Every track voice ruling and every character's own voice (`VB-030`) still governs
++      that character's diction, and these registers run inside it. Onyx stays under `VB-063` alone.
++      Every such register stays nonexplicit (item 17).
+     - No balanced antithesis, including "not only… but also" and "while X, Y."
+@@ -1824,2 +1845,5 @@
+     and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).
++    In a told account, every comic register stays nonexplicit; sexual talk is between adults only,
++    with no minor present, addressed, or referenced, and no minor is the subject of a sexual insult,
++    boast, or story (`VB-004` as amended, Batch 377).
+ 
+--- before: docs/lords-of-cian/character-profiles/lauris-letitia.md
++++ after: docs/lords-of-cian/character-profiles/lauris-letitia.md
+@@ -531,3 +531,4 @@
+     Characters explaining their powers to the reader... Info-dumps."* Dialogue follows Pillar 3
+-    (the 50% rule, no phatic lines, understatement for humor).
++    (the 50% rule, no phatic lines; humor through irony and understatement outside a told account,
++    and in one as broad as `VB-004` as amended, Batch 377, allows; Fermand keeps his own sheet).
+   - **Compliance spot-check of the existing 109 entries (findings only; no files changed):**
+--- before: docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md
++++ after: docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md
+@@ -2,3 +2,3 @@
+ 
+-*Part (a) locked as `VB-068`, Batch 376 (2026-10-04). Part (b)'s approved picks lock as their own rules; nothing in part (b) is usable before then. It is the companion to
++*Part (a) locked as `VB-068`, Batch 376 (2026-10-04). Part (b)'s approved picks locked as `LEX-001` to `LEX-025`, Batch 377; N10b and the [RULE NEEDED] keys (N6, N7, N13, N16, H5, H6, H7) are held. Part (c), item 8 is resolved by `VB-004` as amended, Batch 377. Two picks locked with a change: N12 recast as common speech, 'the posted bill' (`LEX-012`); A1's brazier locked as a flameless stone basin (`LEX-025`). It is the companion to
+ `docs/lords-of-cian/voice/account-craft-standard.md`, which marks every vocabulary gap as
+--- before: CLAUDE.md
++++ after: CLAUDE.md
+@@ -93,3 +93,3 @@
+ 
+-`MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.). Check the ledger for the next unused ID in a prefix before drafting; never guess.
++`MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`, `LEX`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.; `LEX-` was claimed 2026-10-04, Batch 377, for in-world common vocabulary and venue names, each locked as its own rule per `VB-068`). Check the ledger for the next unused ID in a prefix before drafting; never guess.
+ 
+@@ -4419,2 +4419,20 @@
+ 
++**Batch 377: comic registers in told accounts (`VB-004` and `VB-068` amended) and the account-craft vocabulary
++(`LEX-001` to `LEX-025`).** Abad: "<approval quote, verbatim>"
++- **The amendment.** In a told account (a Comrade Account, Adversary Account, or Hearsay entry, or a
++  storytelling scene), characters' talk may use every comic register the account craft standard sets out (Abad's
++  ruling at `VB-068`'s lock, its 'including' read as it stands; `VB-068` amended to record it).
++  Narration and Dossier text are unchanged. Each designated narrator keeps their own sheet, and every
++  track voice ruling still governs its characters' diction. Onyx stays under `VB-063` alone. A Comrade
++  teller inflates fact only within `VB-067`'s bound. Child-safety and Ashkeel lines are written in.
++- **The names.** `LEX-` is a new prefix for in-world common vocabulary and venue names, one rule per
++  name as `VB-068` requires: 14 mainline, 10 homage-World, 1 Ashkeel. LEX-025 fixes one hall feature,
++  a stone basin over a sealed heat-gallery with no open flame. N10b and the [RULE NEEDED] keys are
++  held.
++- **Propagation.** The standard's name markers and deadpan-only lines were updated in the same batch.
++  Sync owed: the mirrored Voice Bible's Pillar 3 humor line (`docs/lords-of-cian/voice/voice-bible-definitive.md`)
++  is a read-only copy and now differs from `VB-004` as amended; the ledger rule controls, and the
++  Drive source document is Abad's to update.
++Ledger at `ledger_version` 37.9, 2,721 rules, 377 batches.
++
+ ## Separate, unrelated thread: the interactive archive app
