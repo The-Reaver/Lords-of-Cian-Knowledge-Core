@@ -494,8 +494,9 @@ written under the recommended answer and says where it depends on one.
 (findings 2, 3).**
 - **Option 1 (recommended): the keyed bond and the open window.** As last keeper, the mother keyed
   the three to the child she was carrying before the curse took hold (`MCD-022`, `MCD-136`). The
-  imprint itself completed at the birth (`MCD-270`), and the Gate's forge sealed it permanently
-  (`MCD-131`). The juvenile window of `MCD-040` is the unbonded state: a Dhar-Kael stays juvenile
+  imprint itself completed within the birth event, after the natural birth, as she pushed them out
+  through the inverted Gate, and the forge sealed it permanently (`MCD-270`, `MCD-132`,
+  `MCD-131`). The juvenile window of `MCD-040` is the unbonded state: a Dhar-Kael stays juvenile
   until it imprints, however long that takes, and matures only after. All three could therefore be
   "juvenile" at 290 whatever their age, Varruk included. New fact: imprint ends the juvenile window.
   Consequence: the Triad grew up alongside Pyro, small and young at the Pyro Incident (Kanja 296,
@@ -623,13 +624,17 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
 None of these blocks the profile. Each carries a recommendation, or is queued.
 
 - **TB1. Where the three lived before 290, and where the bond happened (findings 3, 4).**
-  Recommended: in the keeper's care; the birth and the bonding at the Living Gate cavern, the real
-  site of `MCD-269`, which gives Kanja's 12 km line a fixed point (`MCD-270`). Varruk is the one
-  the fleet saw at the Dog Watch (`MCD-277`). Where Varkul and Sorya were kept before 290 stays open.
-- **TB2. Which part of Dexton's claim is false (finding 5).** Under TA1 option 1, the mother did
-  keep them, so the false parts of `SBD-041` are "raised from birth" and the rearing "in her own
-  Shattered Kingdoms homeland." Her homeland stays open. Any entry quoting the file locks it only as
-  said (`VB-067`).
+  Recommended: the birth and the bonding at the Living Gate cavern, the real site of `MCD-269`,
+  which gives Kanja's 12 km line a fixed point (`MCD-270`). Varruk is the one the fleet saw at the
+  Dog Watch (`MCD-277`). Where the three lived before 290, and in whose care, stays open; this file
+  does not assert that the keeper raised or kept them (TB2).
+- **TB2. Which part of Dexton's claim is false (finding 5).** Recommended: the claim stays false as
+  a whole. TA1 option 1 asserts nothing about who kept the three before 290, so `SBD-041`'s
+  "the Triad raised from birth by Pyro's mother in her own Shattered Kingdoms homeland" keeps no
+  true part, and `SBD-041`'s one accurate element remains the natural birth alone. This is the
+  choice that adds the fewest new facts: no `SBD-041` clause is needed. The alternative, a new fact
+  that the keeper did raise them, would make a second accurate element and require a clause on
+  `SBD-041`. Her homeland stays open. Any entry quoting the file locks it only as said (`VB-067`).
 - **TB3. Varkul's two names (finding 6).** Recommended: "Drown-Warden" is the crew's and the
   Codex's epithet (`CC-049`); "Miremaw" is the SBD's own field name for him (`SBD-020`, `SBD-044`),
   the kind of name the Continuity Lock now strips from new titles (`CULT-199`). A clarifying clause
@@ -665,17 +670,26 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
 - **TB13. The Oath-Raptor's name.** New. Varruk's species is the Oath-Raptor (`MCD-040`), and Sorya,
   an Apex-Feline, is the Guardian bound to the Oath (`CC-097`). Recommended: no change now, and a
   one-line explanation of the species names when the clade's history is first drafted.
+- **TB14. Varruk's two ways of signalling danger.** New, raised in review. `CC-098` says Guidance by
+  Refusal "communicates danger by refusing to land on or fly a given path, never by warning";
+  `ARS-413` says his everyday register includes "growls signal danger." Recommended reading: the
+  two rules cover different scopes. Guidance by Refusal governs path guidance (where to go and where
+  not to land), and there he never warns. The growl belongs to the everyday register the crew reads
+  for danger near at hand. A clarifying clause on `CC-098` limiting "never by warning" to path
+  guidance would close the gap.
 
 ### For the Game Plan
 
 - **Series name (`VB-066`), proposed: the Keepings.** One entry is a Keeping. It comes from the
   clade's last keeper (`MCD-040`, `MCD-136`), from what the three do for Pyro, and from Sorya as
-  the True Log, a keeping of memory (`ARS-403`). Collision check, case-insensitive: zero hits for
-  "keepings" in `canon-ledger.json` or `docs/lords-of-cian/chronicles/`. The singular "keeping"
-  appears only as an ordinary word, and "keeper" appears in rank titles such as the Scale-Keepers
-  (`CULT-011`). Near-collisions within edit distance 2: "keying" and "kneeling," both common words.
-  - Alternative, the Witnesses: an ordinary word in 16 ledger statements, and it overlaps Sorya's
-    named Witness-Scouting and Witness Shriek (`CC-096`, `ARS-414`).
+  the True Log, a keeping of memory (`ARS-403`). Collision check, case-insensitive: zero exact hits
+  for "keepings" in `canon-ledger.json` or `docs/lords-of-cian/chronicles/`. The singular "keeping"
+  appears only as an ordinary word. Near words within edit distance 2 of "keepings," across the
+  ledger and the entries, are all common words: "keeping," "feelings," "meetings," "seeping," and
+  "weeping." Keeper titles such as the Scale-Keepers (`CULT-011`) sit at edit distance 3 or more.
+  - Alternative, the Witnesses: an ordinary word in 15 ledger statements (15 occurrences). It
+    overlaps Sorya's named Witness-Scouting and Witness Shriek (`CC-096`, `ARS-414`), and Lauris's
+    Records already name a strand "Witness" (Strand W, `lauris-letitia.md`).
   - Rejected: the Bonds, which collides with the SBD's "Triad Bond Mechanics" domain (`CULT-200`)
     and the "Pyro Bond" of `CC-095` and `CC-099`.
   - If Abad prefers three separate series, each Guardian needs its own name at that step.
@@ -683,9 +697,10 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   - **Recommended: close-third held outside the animals, no designated narrator.** The narration
     renders what they do and what their bodies show (Varkul's flank markings pulsing with threat,
     `ARS-412`; Varruk's growl, purr, and whine, `ARS-413`), with no interior monologue. This matches
-    the no-narrator status of Daba's Rolls and Anirak's Collections (`VB-020`). The SBD's own "Stone,
-    Iron, Meat" rule (`CULT-199`) is a useful model for the prose: no technology metaphors for what
-    they do.
+    the no-narrator status of Daba's Rolls and Anirak's Collections (`VB-020`). The prose borrows
+    one principle from the SBD's documentation rule (`CULT-199`): no technology metaphors for what
+    they do. It borrows none of that lexicon's words, since the account craft standard
+    (`account-craft-standard.md`, R0.6) keeps Iron and Rust for Onyx.
   - **Option: close-third on a human witness each entry** (Pyro, Stormbreaker, a crew hand), the
     Guardian as subject. The risk is entries that become the witness's story.
   - **Option: Sephtis as a recurring teller.** He is not a `VB-020` narrator, so an entry he tells
@@ -694,7 +709,12 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   - **Onyx is unavailable.** It is sealed at L9 for the whole of the Triad's pre-Book-1 life
     (`CC-012`, `MCD-246`).
 - **Kill register:** the Triad sit outside the marquee tier (`MCD-1881`). Varkul's true ceiling is
-  never shown maxed on the page (`SBD-044`).
+  never shown maxed on the page (`SBD-044`). Proposed, a new fact for Abad's ruling: a Guardian
+  uses lethal force only in defense of what its hierarchy ranks, Pyro first (`CC-095`, `CC-097`,
+  `CC-099`). This extends the logic of `ARS-412`'s Guardian Clause, which as locked binds only the
+  Harrow Ring to Pyro-vowed defense. Two edges stay open: whether Sorya's role as "the instrument
+  of correction" for a broken vow (`CC-097`) ever reaches lethal force, and how Varkul's turn to
+  aggression against the SBD (`SBD-044`) sits inside this register.
 
 **Abad's ruling, verbatim, once given:**
 

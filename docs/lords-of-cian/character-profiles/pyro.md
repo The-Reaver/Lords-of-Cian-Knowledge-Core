@@ -436,9 +436,9 @@ written under the recommended answer and says where it depends on one.
   until about eighteen, and a young man after that. Ozmund, Karesian on his mother's side
   (`MCD-101`), is written as a young man at about twenty-five (`MCD-1745`, `MCD-1806`).
   Approval-list item 2 recommends the same normal schedule to adulthood for ordinary humans. Under
-  every A1 option (his pre-Book-1 ages run off Kanja's clock) this makes Pyro about six at the Pyro Incident (Kanja 296, `MCD-277`), about
-  eighteen at the Scourge's Heir (Kanja 308, `MCD-272`), and about 24 at the Last Breakfast
-  (`MCD-277`).
+  every A1 option (his pre-Book-1 ages run off Kanja's clock) this makes Pyro about six at the Pyro
+  Incident (Kanja 296, `MCD-277`), about eighteen at the Scourge's Heir (Kanja 308, `MCD-272`), and
+  about 24 at the Last Breakfast (`MCD-277`).
 - **Option 2:** a slowed schedule from his Karesian line. He would still be a child at Book 1,
   which sits badly with proven adult work at Kanja 308 (`MCD-272`) and a Book 5 front (`MCD-221`).
 - **Option 3:** an accelerated schedule from his Thermal Variant biology. No rule supports it.
