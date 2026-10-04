@@ -1,6 +1,6 @@
 # Anirak Chronicle III: The Body the World Was Not Built For
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (third draft, after two independent review rounds). Third
+*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (clean on the fourth independent review). Third
 entry of Anirak's Character Chronicle series (Game Plan pitch 1, locked at Batch 372), closing the
 launch wave. Close-third on Anirak per `VB-065`. The late Long Mask, roughly Kanja 300. Ren (Abyss,
 Ren Oshaal) comes aboard an adult, already recruited off the page, and she takes him as her charge
@@ -13,7 +13,7 @@ page. No child-safety issues. Not canon until approved.*
 He came aboard on the morning launch, in fog.
 
 She felt the launch before she saw it. A small hull answering the swell slow, like a laden boat. Six
-oarsmen labouring at it as if one more cask sat in the bottom of it, a cask of lead.
+oarsmen laboring at it as if one more cask sat in the bottom of it, a cask of lead.
 
 The launch came alongside. The oarsmen shipped their oars fast and crowded to the far gunwale, all six,
 so the boat listed. In the stern a young man sat alone with a sea-bag on his knees.
