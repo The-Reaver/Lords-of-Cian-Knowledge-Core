@@ -492,7 +492,9 @@ written under the recommended answer and says where it depends on one.
   `MCD-277` (Varruk seen at Kanja 248, 42 years before), `MCD-022` and `MCD-136` (a bond completed
   beforehand, with animals not yet living), and arguably `MCD-040`'s "three survivors remain."
 - **Option 3: a mixed origin.** Varruk is ancient, and Varkul and Sorya were quickened at the Gate.
-  It keeps `MCD-277` and splits a unit canon treats as one.
+  It keeps `MCD-277` and splits a unit canon treats as one. Cost: it breaks `MCD-022` and
+  `MCD-136` for Varkul and Sorya, as option 2 does for all three, and strains `ARS-200`'s "last
+  three" and `MCD-041`'s hunted clade for two of the three.
 
 **TA2. How the bond was completed, and how a Guardian seen at Kanja 248 is still "juvenile" at 290
 (findings 2, 3).**
@@ -501,21 +503,24 @@ written under the recommended answer and says where it depends on one.
   child she was carrying before the curse took hold (`MCD-022`, `MCD-136`). The imprint itself
   completed within the birth event, after the natural birth, as she pushed them out through the
   inverted Gate (`MCD-270`, `MCD-132`, `MCD-131`). New fact: the forge sealed it permanently. The
-  juvenile window of `MCD-040` is the unbonded state: a Dhar-Kael stays juvenile until it imprints, however long that takes, and matures only after. All three could therefore be
+  juvenile window of `MCD-040` is the unbonded state: a Dhar-Kael stays juvenile until it
+  imprints, however long that takes, and matures only after. All three could therefore be
   "juvenile" at 290 whatever their age, Varruk included. New fact: imprint ends the juvenile window.
-  Consequence: the Triad grew up alongside Pyro, small and young at the Pyro Incident (Kanja 296,
-  `MCD-277`) and grown by Book 1. Scope: clarifying clauses on `MCD-040`, on `MCD-022`'s and
+  Consequence: the Triad grew up alongside Pyro, still juvenile in stage at the Pyro Incident (Kanja
+  296, `MCD-277`; Varruk decades old in years), grown by Book 1. Scope: clarifying clauses on `MCD-040`, on `MCD-022`'s and
   `MCD-136`'s "completed" (the bond keyed beforehand, the imprint completed at the birth event),
   and on `CC-046`. Cost: under this option no unimprinted Dhar-Kael ever matures, which bears on
   how the clade lived through the Vael Kem war (`MCD-041`) and how any Dhar-Kael without a keeper
   lived at all.
-- **Option 2: a long-lived clade with a long juvenile stage.** Juvenility lasts a century or more,
-  with no link to imprinting. No new mechanism is needed, and how the three came to maturity by
-  Book 1 stays unexplained.
+- **Option 2: a long-lived clade with a long juvenile stage.** New fact: juvenility lasts a century
+  or more, with no link to imprinting. No new imprint mechanism is needed, and how the three came
+  to maturity by Book 1 stays unexplained. On finding 2 (when the bond completed), this option
+  leaves it open; it can adopt option 1's keying clause separately.
 - **Option 3: a different Oath-Raptor at the Dog Watch.** Amend `MCD-277` so the bird seen at 248
   is not Varruk. `MCD-040` and `ARS-200` count present survivors, so a fourth bird that died before
   290 breaks neither. Cost: amending `MCD-277`, and a death for the fourth bird that a new fact must
-  supply.
+  supply. On finding 2, this option leaves it open; it can adopt option 1's keying clause
+  separately.
 
 **TA3. What Sorya's Oath is, and what the Triad know of Pyro's history (findings 11, 12).**
 - **Option 1 (recommended): the Oath is the keeper's vow.** New fact: the Oath is the vow Pyro's
@@ -586,7 +591,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
   - **Varruk: Pyro, then the pattern, then the ship.** He takes the safest path to Pyro over the
     fastest, and abandons a reconnaissance mid-flight if Pyro is threatened (`CC-099`).
 - **How they hold contradiction (PROPOSED -- for Abad's confirmation):**
-  - **Shared.** The SBD rates all three OMEGA-PRIME (`SBD-021`, `SBD-022`, `SBD-044`), and the
+  - **Shared.** The SBD rates all three OMEGA-PRIME (Sorya's conditional, `SBD-022`; `SBD-021`,
+    `SBD-044`), and the
     world regards Varkul as the strongest non-human presence in the setting (`SBD-044`). Their work
     aboard includes keeping a cook calm enough that his heat stays in (`ARS-421`). The Rexmar war
     tradition was forged protecting the Dhar-Kael (`MCD-041`); the last three Dhar-Kael now guard
@@ -619,8 +625,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
     or commanding Varkul (`SBD-020`, `CULT-199`, `CULT-200`). Varkul begins unaware of it
     (`SBD-044`).
 - **What breaks them / their real vulnerability (PROPOSED -- for Abad's confirmation):**
-  - **Shared.** Blight Frequencies and Abyssal Bile-Salts degrade each of them (`CC-095`,
-    `CC-097`, `CC-099`). When the last of the three dies, the clade is extinct (`MCD-040`).
+  - **Shared.** Blight Frequencies degrade all three (`CC-095`, `CC-097`, `CC-099`); Abyssal
+    Bile-Salts affect Varkul and Sorya (`CC-095`, `CC-097`). When the last of the three dies, the clade is extinct (`MCD-040`).
   - **Varkul.** Extended separation from Pyro (`CC-095`). Discovering the SBD's watch over him turns
     him aggressive (`SBD-044`). Proposed reading of `ARS-412`'s "Pyro-vowed defense": the Guardian
     Clause holds the Harrow Ring back from that anger unless Pyro is the one in danger.
@@ -639,10 +645,12 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
 None of these blocks the profile. Each carries a recommendation, or is queued.
 
 - **TB1. Where the three lived before 290, and where the bond happened (findings 3, 4).** Shared
-  with `pyro.md` B3. `MCD-269` locks the cavern site as the same Living Gate activated at the
-  birth, and the keeper fused into the Gate's architecture (`MCD-131`), so the birth and the
-  bonding at the cavern follow from locked rules; it gives Kanja's 12 km line a fixed point
-  (`MCD-270`). Why she was there is unlocked.
+  with `pyro.md` B3, word for word from here:
+  `MCD-269` locks the cavern site as the same Living Gate activated at the birth, and she fused into
+  the Gate's architecture (`MCD-131`), so the birth and the bonding at the cavern follow from
+  `MCD-269` and `MCD-131` on the proposed reading that they happened where she fused; this gives
+  Kanja's 12 km line a fixed point (`MCD-270`). Proposed: the curse is her voice-keyed binding to it
+  (`MCD-131`). Why she was there is unlocked.
   - Option (i), a new fact: the Karesian heritage site was the Dhar-Kael bonding ground, and she
     went there as last keeper to complete the imprint. Cost: a tradition site the ledger does not
     name, and the Trust's survey of it at Kanja 282 (`MCD-269`, `MCD-275`) then touches her bonding
@@ -689,11 +697,16 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
 - **TB9. Book roles, and the Triad's absence from Book 5's fronts (finding 13).** Queued.
   Separation strains Varkul (`CC-095`), and `MCD-221` puts Pyro on the Engine front without them.
   Recommended: they are with Pyro on the Engine front, which a clause on `MCD-221` would state.
-- **TB10. T.D.K.'s "Coursers" (finding 14).** Two options. Recommended: a clarifying clause on
-  `MCD-320` that T.D.K.'s Coursers are his own asset, unrelated to the Tide-Back Coursers of
-  `MCD-040`. Alternative: rename T.D.K.'s asset in `MCD-320`, since the shared word collides with
-  the Tide-Back Coursers; the rename removes the collision at the cost of changing a quoted line. The
-  Dhar-Kael cartilage in `CC-100` and `ARS-431` is read like `ARS-355`, as old stockpiled material.
+- **TB10. T.D.K.'s "Coursers" (finding 14).** Two options.
+  - **Recommended: rename T.D.K.'s asset in `MCD-320`.** The shared word collides with the
+    Tide-Back Coursers, Varkul's species (`MCD-040`), and project practice renames such collisions
+    (Cadence Ruin to Cadence Break, `CC-098`; the Old Dragon to the Elder Wyrm, `MCD-302`). Cost: a
+    change to a quoted line ("Deploy the Coursers"), and a new name for Abad to pick, a new fact.
+  - **Alternative: a clarifying clause on `MCD-320`** that T.D.K.'s Coursers are his own asset,
+    unrelated to the Tide-Back Coursers. Cost: a standing name collision between a T.D.K. asset
+    and Varkul's species, which project practice normally renames. Because of that cost, the rename
+    is the clearly better option.
+  - The Dhar-Kael cartilage in `CC-100` and `ARS-431` is read like `ARS-355`, as old stockpiled material.
 - **TB11. Avatar status against the Talisman's effect on the bond (finding 15).** Recommended: the
   Talisman's output endangers only the imprint itself (`MCD-270`). Once the bond was sealed, the
   three came under the Umbrella like any Avatar (`MCD-140`).
@@ -718,19 +731,27 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   a fit beside a cook named for fire. Collision check, case-insensitive: zero hits for "tending" or
   "tendings" in `canon-ledger.json`; the plain verb appears in seven entries in
   `docs/lords-of-cian/chronicles/` (tending graves, tending injuries, tending to grief), never as a
-  name. Near words within edit distance 2 of "tendings" are common words (bending, endings,
-  fending, findings, geldings, headings, lending, mending, pending, readings, sending, tellings,
-  tendons) plus "bindings," whose one capitalized form is "Sorya's Binding," the heading of
-  `CC-097`; the same judgment as for Pyro's Kindlings applies (no real collision; keep the two
-  apart in titles). One flag: if both series names are adopted, the Kindlings and the Tendings
+  name. Near words within edit distance 2, across the ledger and the entries:
+  - Plural "tendings": common words (bending, ending, endings, fending, findings, geldings,
+    headings, lending, mending, pending, readings, sending, tellings, tendons) plus "bindings."
+  - Singular "tending": a long run of common words (amending through winding), several of them
+    components of named things: the Iron Wedding (`MCD-277`), the Bonding House Collapse
+    (`MCD-255`), the Official Register of Dynamic Bonding (`ASH-039`), Vell's Landing (`MCD-1080`),
+    the Weeding Trials (`ASH-036`), Death-Impression Reading (`MCD-142`), Standing Order 44-B
+    (`MCD-247`), and Re-Tuning (`MCD-146`, through its component "Tuning"; the whole hyphenated
+    token sits at distance 5). "Binding" names Sorya's Binding (`CC-097`).
+  - Judgment, re-run honestly: no real collision. Every near match is a common "-ing" word, used
+    alone or as one word inside a longer name, and none reads as "Tending" on the page. Sorya's
+    Binding is the one to keep apart in titles, the same caution as for Pyro's Kindlings. One flag: if both series names are adopted, the Kindlings and the Tendings
   rhyme, which pairs them on purpose or reads as a near-repeat; Abad's call.
 - **Alternative, the Keepings.** One entry is a Keeping. It comes from the
   clade's last keeper (`MCD-040`, `MCD-136`), from what the three do for Pyro, and from Sorya as
   the True Log, a keeping of memory (`ARS-403`). Collision check, case-insensitive: zero exact hits
   for "keepings" in `canon-ledger.json` or `docs/lords-of-cian/chronicles/`. The singular "keeping"
-  appears only as an ordinary word. Near words within edit distance 2 of "keepings," across the
-  ledger and the entries, are all common words: "keeping," "feelings," "meetings," "seeping," and
-  "weeping." Keeper titles sit at edit distance 3 or more: the Scale-Keepers (`CULT-011`), the
+  appears only as an ordinary word. Near words within edit distance 2, across the ledger and the
+  entries: for "keepings," the common words "keeping," "feelings," "meetings," "seeping," and
+  "weeping"; for "keeping," a run of common words, two of them components of named things, the
+  Sleeping Giant (`MCD-262`, `MCD-1885`) and the Recruitment Meeting (`MCD-196`). Keeper titles sit at edit distance 3 or more: the Scale-Keepers (`CULT-011`), the
   Domus Inviolate's Keepers (`CULT-183`), the Keeper-General (`CULT-100`), the Keeper-Archivist
   (`CULT-165`), and Ashkeel's Blind Record-Keepers (`ASH-047`). One flag: "the Keepers" of
   `CULT-183` and "the Keepings" are near-homographs on the page. Further Keeper uses: the Memory
