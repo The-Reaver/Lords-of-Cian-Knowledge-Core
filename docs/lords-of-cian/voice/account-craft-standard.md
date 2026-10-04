@@ -43,8 +43,8 @@ It sits under three rules and never loosens any of them.
   object is a standing structure, office, form, procedure, vocabulary, or practice of a named
   institution, as distinct from an event involving one, and it is checked in every entry's
   Connective-Tissue review, Series entries included (§7, item 9). An unreliable teller's false
-  claim about an institution is locked only as said (`VB-067`), and its trace is a locked rule that
-  holds the truth. This standard governs *how* accounts sound. What they
+  claim about an institution is locked only as said (`VB-067`), and its trace is a locked rule, or
+  the reliable narration of a locked entry, that holds the truth (`VB-067`). This standard governs *how* accounts sound. What they
   may say stays with `VB-067` and `VB-068`. Where this standard and either rule seem to differ, the
   rule controls.
 - **The Voice Bible** (`VB-001` to `VB-005`, `VB-010` to `VB-013`, `VB-040`, `VB-050`) binds every
@@ -225,7 +225,7 @@ in its filler words.
 
 ### 2.8 Reportability and credibility
 
-- **R21. The more worth telling, the less believable.** [MODERATE; 01 F2; 06 §1]
+- **R21. The more worth telling, the less believable.** [MODERATE; 01 F2]
   - Tellers cluster credibility anchors around the least believable beat: a named witness, an odd
     sensory fact, a self-disclaimer ("Know how it sounds").
   - Where a story starts is an argument. A partisan starts at the other side's provocation; the
@@ -441,7 +441,8 @@ breathe, half-believed by everyone, reads true.
     said. The teller rebuilds dialogue (R16), so the exact words are the teller's
     reconstruction.
 - **Who tells to whom.** Always give an identified listener: named, or identified by description
-  where a locked rule keeps them unnamed (`PH2-048`, `MCD-1093`). A comrade tells different things
+  (a locked rule or the standard's unnamed-office default, §4.3, may require description;
+  `PH2-048`, `MCD-1093`). A comrade tells different things
   to these listeners [STRONG; 05 F7; †Marsh 2007, Higgins & Rholes 1978, Echterhoff et al. 2005,
   Dudukovic et al. 2004 pages, Tversky & Marsh 2000 pages; 06 §2.8]:
   - a younger hand (precedents `MCD-436`, `MCD-418`)
@@ -644,7 +645,8 @@ breathe, half-believed by everyone, reads true.
 - **Reading the templates.** A field that cites a rule uses locked SBD vocabulary. A field marked
   *(optional)* is plain-word scaffolding drawn from the research. No locked rule establishes it as
   SBD practice, a drafter may rename or drop it, and its presence in a Dossier asserts nothing
-  about the Directorate. Uncited labels ("Observed," "KEY JUDGMENT") are plain-word structure in
+  about the Directorate: a Dossier's own layout and optional fields are locked only as written and
+  are not a fact about the institution's standing forms (`VB-067`, `VB-068`). Uncited labels ("Observed," "KEY JUDGMENT") are plain-word structure in
   the same sense.
 
 **(a) Field record** (07 §4(a); SBD form: the after-action file, `SBD-052`)
@@ -987,7 +989,7 @@ closed.
 
 **Venues, homage World**
 - The room above the dockside cantina (`MCD-337`).
-- Aztlán's unnamed bar (`PH2-030`).
+- The bar where Ohun's stray projectile finds the wall (`PH2-030`).
 - A named bar: **[NAME NEEDED: H1]**.
 - An after-hours spot: **[NAME NEEDED: H2]**.
 - A social club: **[NAME NEEDED: H4]**.
@@ -1166,7 +1168,8 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 - Pillar compounds: the Quiet Rooms, the Mirror Gallery, the Bone Library (`MAW-025`).
 
 **Venues, mainline Cian: other**
-- Barracks: dredge-line and company barracks, the guardhouse and practice yard (Ozmund's track).
+- Barracks: dredge-line and company barracks (Kanja-era entries); the guardhouse and practice yard
+  (Ozmund's track).
 - Crew: the crew training hall (`MCD-1459`); the forecastle and galley.
 - The crew's own word for its mess: **[NAME NEEDED: N4]**.
 
@@ -1184,7 +1187,7 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
   - Tier 1, the Slab Ring
   - Tier 2, the Noble Tier
   - Tiers 3-5, the Common Tiers, which carry the crowd's noise
-  - Tier 6, the Handler's Gallery, free, for Cestari and the poor
+  - Tier 6, the Handler's Gallery, free, for Maw staff, Cestari handlers, and the poor
 
 **Group:** a crowd during the event, then small groups afterward.
 
@@ -1313,7 +1316,7 @@ a generalization, 01 F8; †Norrick 1997]
   Chronicle III).
 - Warehouse Twelve; the Silt Row dredge site (`MCD-621`).
 - The Portside Dockmaster's Office (`MCD-249`).
-- The morning hiring of dockers: **[NAME NEEDED: N3]**.
+- A dock hiring place, if one is drafted: **[NAME NEEDED: N3]**.
 
 **Venues, homage World**
 - The Kazi plant line (`PH2-051`) and the count table (`MCD-1528`).
@@ -1682,7 +1685,7 @@ Built on 06 §3 and extended. "Memory-holder" is the S2 checker.
 | Setting | Size | Floor | Truth norm | Memory-holder | Challenge | Best-fit account types |
 |---|---|---|---|---|---|---|
 | Tavern (M1) | 2-15 at the counter | Wit, senior regular | Brag on sport and tales; fact on money and local fact | Keeper | Ridicule, the keeper's word | Hearsay, Comrade (brag traced, §4.1), a liar to believers |
-| Corner (M2) | 3-20 | Leader, news-holder | Brag passes until it claims rank | Corner elder (a runner, once a rule sets one) | "Prove it," a witness present | Hearsay, informant source for a hostile institution's Dossier |
+| Corner (M2) | 3-20 | Leader, news-holder | Brag passes until it claims rank | Corner elder (a runner, once a rule sets one) | "Prove it," a witness present | Hearsay, informant source for a Dossier (outside Cian, a hostile institution's only) |
 | Barbershop (M3) | 4-12 | Owner | Argument welcome; brags heckled | Owner | Open argument, the owner's verdict | Hearsay, Comrade (brag traced, §4.1), public friction |
 | Pen / barracks (M4) | 10-50 | By performance | Brag off-field; fact on what was witnessed | Senior fighter, sergeant | Topping, ridicule | Comrade (private; brag traced, §4.1), Adversary (unrepentant) |
 | Crowd (M5) | Hundreds+ | None during | Loyalty over accuracy | The record, the Reckoner | Almost none until the result | Hearsay (acute) |
@@ -1692,9 +1695,9 @@ Built on 06 §3 and extended. "Memory-holder" is the S2 checker.
 | Sailors (M9) | 3-15 | Old hand | Yarn genre | Old hand, the log | "Aye, sure" | Hearsay, Comrade (yarns traced, §4.1) |
 | Elders (M10) | 3-20 | The teller | Genre-marked | Other elders | A correction of a name | Hearsay (custodial), Comrade (tall tales traced, §4.1) |
 | Wake (M11) | 10-100 | Kin, then friends | Kind exaggeration; accusation deferred | Kin | Gentle correction | Comrade (kind exaggeration traced, §4.1) |
-| Market (M12) | 2-5 in a crowd | Seller | Praise discounted; quality tested | Regular trader | Test, walk away | Hearsay, Dossier (a hostile institution's crier, e.g. the Trust's, `MCD-1573`) |
+| Market (M12) | 2-5 in a crowd | Seller | Praise discounted; quality tested | Regular trader | Test, walk away | Hearsay, Dossier (a crier's record; outside Cian, a hostile institution's only; e.g. the Trust's, `MCD-1573`) |
 | Ashkeel (M13) | Small, masked | House rule | Contract is fact | Council archive | The Council peace | Comrade, Hearsay (adult) |
-| Meeting (M14) | 10-200 | Chair | Minutes are fact | Clerk of the minutes | Point of order | Comrade, Dossier (minutes of a hostile institution only) |
+| Meeting (M14) | 10-200 | Chair | Minutes are fact | Clerk of the minutes | Point of order | Comrade, Dossier (minutes; outside Cian, a hostile institution's only) |
 | Tribunal (M15) | 2-200 | Questioner | No brag; the record is fact for the institution | Clerk, the record | Statement against evidence | Adversary, Comrade (testimony), Dossier (the record; outside Cian, a hostile institution's record only) |
 
 A Comrade Account told in a brag room stays inside the Comrade bound. Its exaggeration or edge
@@ -1722,7 +1725,8 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
    The narrative never labels its own reliability. A Hearsay entry with more than one teller names
    every teller in the header. Entries locked before `VB-067` are not relabeled (`VB-068`).
 2. **Listener** (told accounts only). The page gives an identified listener: named, or identified
-   by description where a locked rule keeps them unnamed (`PH2-048`, `MCD-1093`). The account
+   by description (a locked rule or the standard's unnamed-office default may require description;
+   `PH2-048`, `MCD-1093`). The account
    visibly bends to them (R19; 08 F9). In a Hearsay entry with more than one teller, each teller's
    listener is fixed.
 3. **Setting.** One module applies to a told account, and to any scene set in a module's room.
@@ -1763,7 +1767,8 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
    fact about an institution that no locked rule holds (the reliable narration of a locked entry,
    cited by its rule ID, or of manuscript Chronicles I-VIII, cited by number, counts as held); such a fact is drafted as its own rule (`VB-068`), a
    **[RULE NEEDED]** draft for Abad. An unreliable teller's false claim about an institution is
-   locked only as said (`VB-067`) and traces to a locked rule that holds the truth. A fact about an
+   locked only as said (`VB-067`) and traces to a locked rule, or the reliable narration of a locked
+   entry, that holds the truth. A fact about an
    institution here means a fact about a standing structure, office, form, procedure, vocabulary,
    or practice of a named institution, as distinct from an event involving one. Header fields and
    procedure use locked vocabulary or plain words, and the templates' optional fields assert no
