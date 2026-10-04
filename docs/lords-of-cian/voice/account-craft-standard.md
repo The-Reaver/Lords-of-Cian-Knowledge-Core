@@ -1,11 +1,10 @@
 # The Account Craft Standard
 
-*Working standard, drafted 2026-10-04 for Abad's review. Not locked. It becomes binding only if
-the proposed `VB-068` is approved (draft at
-`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`). It asserts no new canon
-facts. Every gap in canon vocabulary is marked **[NAME NEEDED: key]**, and each key has three
-candidate names in the companion draft. A gap that would need a new institutional fact rather than
-a name is marked **[RULE NEEDED]**. Under the proposed `VB-068`, such a fact is drafted as its own
+*Locked standard, approved by Abad 2026-10-04 and bound by `VB-068` (Batch 376). It asserts no new
+canon facts. Every gap in canon vocabulary is marked **[NAME NEEDED: key]**, and each key has three
+candidate names in the companion draft (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`).
+A key's name is usable only once its own rule locks. A gap that would need a new institutional fact
+rather than a name is marked **[RULE NEEDED]**. Under `VB-068`, such a fact is drafted as its own
 rule before any account uses it. Where the thing itself needs a rule before it can be named, the
 companion draft offers name candidates for when that rule is locked.*
 
@@ -89,7 +88,7 @@ in its filler words.
   information.
   - *"Third day. No. Fourth. Fish cart was in."*
 - **R0.2 Openings and listener signals are carried by action, or by a line that carries
-  information.** (Pending Abad's ruling, companion draft part (c), item 4.) A cup set down, a stool
+  information.** (Confirmed by Abad at `VB-068`'s lock.) A cup set down, a stool
   pulled out, a coin laid on the board. A listener's go-ahead is a question or a short command, never
   a noise: *"Which night?"* Silence is a move.
 - **R0.3 Overlap is shown by cut-offs.** An em-dash where one speaker takes the floor, and nothing
@@ -100,8 +99,9 @@ in its filler words.
   and short, and the toast leaves its biggest claim unsaid. Mainline tellers carry dock, forge, and
   Maw idiom under the same limit.
   - *"Heard you rowed against the tide. Tide's still here."*
-  - Whether these registers may run broader in told accounts is on Abad's list (companion draft
-    part (c), item 8). Until he rules, `VB-004` holds.
+  - Abad ruled at `VB-068`'s lock that these registers may run broader in told accounts. The
+    broader registers apply once the `VB-004` amendment that sets them out locks. Until then,
+    `VB-004` holds.
 - **R0.5 Banned words stay banned inside a told story.** Oaths and church talk use other words: a
   teller swears on kin, on bread, on a name.
 - **R0.6 Iron and Rust belong to Onyx (`VB-021`).** A civilian teller passes judgment in their own
@@ -997,8 +997,7 @@ closed.
 - A social club: **[NAME NEEDED: H4]**.
 - No broadcast media or firearms in the room (`PH2-049`).
 - Spanish may appear as spoken phrase (`MCD-337`); invented names never draw on it (`PH2-034`,
-  `PH2-061`). Pending Abad's ruling (companion draft part (c), item 5). Until he rules, no spoken
-  Spanish beyond `MCD-337`'s locked phrase (`VB-068`).
+  `PH2-061`). Confirmed by Abad at `VB-068`'s lock.
 
 **Ashkeel**
 - Mortal enemies drink in the same halls under the Council peace (`ASH-011`). The everyday hall is
@@ -1807,7 +1806,8 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
     - No phatic talk; dialogue cut by half.
     - Humor is irony and understatement only (`VB-004`). Every comic register, including R0.4,
       R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and
-      M11, is written deadpan, until Abad rules on the companion draft's part (c), item 8.
+      M11, is written deadpan until the `VB-004` amendment Abad approved in principle at
+      `VB-068`'s lock is itself locked; after that, each runs as that amendment allows.
     - No balanced antithesis, including "not only… but also" and "while X, Y."
     - No banned words or terms (`VB-010`, `VB-013`, `VB-050`); the Density Spike unnamed; "spike"
       absent (`VB-063`).

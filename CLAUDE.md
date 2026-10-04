@@ -4399,6 +4399,24 @@ for every character.
 Ledger at `ledger_version` 37.7, 2,695 rules, 375 batches. Next: the account craft standard and
 `VB-068` (in review), then Pyro and the Triad.
 
+**Batch 376: the account craft standard locked (`VB-068`).** Abad: "lock it, approve the picks,
+confirm all three." The standard is at `docs/lords-of-cian/voice/account-craft-standard.md`, with its
+research base in `research/accounts-psychology/00-09` (about 276 sources, graded; many citations still
+marked unverified, so a verification pass is owed).
+- **What it binds.** Every new entry outside a Series, and every storytelling scene inside any entry.
+  The teller state, an identified listener, and a setting module (M1-M15) are fixed before drafting.
+  Lies and errors show through the telling's pattern or a contradiction, never through body language.
+- **The institution bar.** No new entry or scene states a fact about an institution that no locked
+  rule holds. Reliable narration of a locked entry, cited by rule ID, counts as held.
+- **The gate.** The standard's section 7 checklist is now part of the Connective-Tissue Gate's
+  independent review.
+- **Rulings.** Greetings carried by action (R0.2) and spoken Spanish as phrase only (M1) are
+  confirmed. Comic registers may run broader than `VB-004` in told accounts, through a `VB-004`
+  amendment drafted separately; until it locks they stay deadpan.
+- **Names.** The approved vocabulary picks lock as their own rules (drafted separately). The
+  [RULE NEEDED] gaps stay open.
+Ledger at `ledger_version` 37.8, 2,696 rules, 376 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

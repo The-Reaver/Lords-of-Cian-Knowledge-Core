@@ -1,6 +1,6 @@
 # VB-068 draft and account-craft naming table
 
-*Draft for Abad's approval, 2026-10-04. Nothing here is locked. It is the companion to
+*Part (a) locked as `VB-068`, Batch 376 (2026-10-04). Part (b)'s approved picks lock as their own rules; nothing in part (b) is usable before then. It is the companion to
 `docs/lords-of-cian/voice/account-craft-standard.md`, which marks every vocabulary gap as
 **[NAME NEEDED: key]**. Part (b) answers each key. Part (c) lists conflicts with locked canon,
 flagged only and not resolved.*
@@ -51,16 +51,10 @@ track voice rulings (`VB-063` for Onyx, `VB-022` for the Testaments, `VB-064` fo
 The standard's research evidence grades are craft guidance and assert nothing in-world. Its
 proposed venue and vocabulary names are usable only after each is locked by its own rule. Its
 section 7 checklist is part of the Connective-Tissue Gate's independent review for every entry and
-scene it covers. This rule's approval covers the standard's handling of the part (c) items on
-greetings carried by action (R0.2) and on spoken Spanish (M1) only once Abad rules on those items;
-until then those clauses are pending his ruling, `VB-004` and `VB-050` govern openings, and no spoken Spanish is drafted beyond `MCD-337`'s
-locked phrase. The standard's comic registers, including R0.4, R15, R18, M1, M2's funny boast, M3's
-parting jab, M4, M7, M9, and the comic stories of M6 and M11, are written through irony and
-understatement only (`VB-004`) until Abad rules on the part (c) item on comic registers; a yes there
-is drafted and locked as a `VB-004` amendment. A change to the standard needs Abad's approval in his
+scene it covers. Abad confirmed at this rule's lock the standard's handling of greetings carried by action (R0.2) and of spoken Spanish (M1): Spanish may appear as a spoken phrase in the homage World and never as an invented name (`PH2-034`, `PH2-061`). He also ruled that the standard's comic registers, including R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and M11, may run broader than `VB-004` in told accounts; until the `VB-004` amendment that sets this out is itself locked, they are written through irony and understatement only. A change to the standard needs Abad's approval in his
 own words, like a change to any rule. Extends `VB-067`; qualifies nothing in it.
 
-Approval quote: *[to be filled with Abad's words verbatim at lock]*
+Approval quote: "lock it, approve the picks, confirm all three" (Abad, 2026-10-04). Locked as `VB-068`, Batch 376.
 
 ---
 
@@ -222,12 +216,13 @@ antithesis. Those items are dropped here. The rest remain open.
    it by rule.
 4. **The Voice Bible against the research on greetings.** `VB-004` and `VB-050` ban phatic talk.
    The research documents greeting rituals as real openers (06 §2.1, §2.2). The standard resolves
-   this by carrying openings in action or in lines that carry information (R0.2). Please confirm.
+   this by carrying openings in action or in lines that carry information (R0.2). **Confirmed by
+   Abad at `VB-068`'s lock.**
 5. **Spanish in homage-World speech.** In Xaragua Annals II (`MCD-337`), dockhands call Kanja
    *el que no necesita nada*, while `PH2-061` frames Arturo's Spanish names as imposed by colonization and
    `PH2-034` bars real-world proper names as in-world names and draws invented names from Taíno,
    Yoruba, Akan, Kikongo, Nahuatl, Swahili, or other real Black/brown-diasporic vocabulary. The standard allows Spanish as spoken phrase
-   and never as an invented name. Please confirm.
+   and never as an invented name. **Confirmed by Abad at `VB-068`'s lock.**
 6. **Research examples that must not be imported.** These are not canon, but they would break
    canon if copied:
    - 03's cross-setting note mentions phone calls in the homage World (`PH2-049` bans electronic
@@ -250,5 +245,5 @@ antithesis. Those items are dropped here. The rest remain open.
    (M7), the sailor's tall telling (M9), and the comic stories told at the family table (M6) and at
    wakes and remembrances (M11). The standard writes all of them through deadpan irony and
    understatement only. Abad, may these comic registers run broader than `VB-004` in told accounts?
-   Until you rule, the standard defaults to `VB-004`. A yes is drafted and locked as a `VB-004`
-   amendment.
+   **Abad ruled yes at `VB-068`'s lock.** The `VB-004` amendment is drafted separately; until it
+   locks, the standard defaults to `VB-004`.
