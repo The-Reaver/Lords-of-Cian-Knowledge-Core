@@ -106,6 +106,14 @@ whatever the register (`VB-004` as amended, Batch 377)."""),
   understatement (`VB-004`).""",
      """- Seniority and skill. The senior hand anchors the ritual joke (`VB-004` as amended, Batch
   377)."""),
+    ("""- Gaps:
+  - corner and crew **[NAME NEEDED: H9]**
+  - lookout **[NAME NEEDED: H8]**
+  - street game **[NAME NEEDED: H10]**""",
+     """- Street words:
+  - corner and crew: pembe (`LEX-020`)
+  - lookout: oju (`LEX-019`)
+  - street game: kete (`LEX-021`)"""),
     ("- *Open:* ritual teasing, deadpan (`VB-004`).",
      "- *Open:* ritual teasing (`VB-004` as amended, Batch 377)."),
     ("""It is a recognized genre of tall telling, told deadpan: the
@@ -123,7 +131,9 @@ j = s.index("    - No balanced antithesis", i)
 s = s[:i] + ("    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`). In a\n"
              "      told account, characters' talk may use the comic registers `VB-004` as amended (Batch\n"
              "      377) lists, R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the\n"
-             "      comic stories of M6 and M11, and none broader. The amendment changes no narration and\n"
+             "      comic stories of M6 and M11, and none broader. For this purpose the teller's voice in a\n"
+             "      Comrade Account, an Adversary Account, or a Hearsay entry counts as characters' talk,\n"
+             "      its reliability as `VB-067` sets it. The amendment changes no narration and\n"
              "      no Dossier text, and each designated narrator keeps their own sheet (`VB-021` to\n"
              "      `VB-025`).\n") + s[j:]
 # R0.4 ruling note

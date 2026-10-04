@@ -1,6 +1,6 @@
 # VB-004 amendment and the account-craft vocabulary (LEX-001 to LEX-025)
 
-*Draft for Abad's approval, 2026-10-04 (revision 5, after the fourth independent review). Nothing here is locked. It carries out his rulings at
+*Draft for Abad's approval, 2026-10-04 (revision 6, after the fifth independent review). Nothing here is locked. It carries out his rulings at
 `VB-068`'s lock ("lock it, approve the picks, confirm all three"): the comic registers may run
 broader than `VB-004` in told accounts, set out as a `VB-004` amendment; and the approved picks from
 the naming table (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`, part (b))
@@ -210,6 +210,10 @@ they are part of what Abad approves.
   posted bill"), because no posting procedure is held (`VB-068`). LEX-002 to LEX-004 and LEX-015
   read a named house's location and the identity of its keeper as plain place and person facts,
   outside `VB-068`'s "standing structure, office" clause; a house's trade, custom, or offices are
-  drafted as their own rule.
+  drafted as their own rule. `VB-068` records the ruling as covering the standard's comic registers
+  "including" its listed ones; the amendment reads that list as the registers Abad was asked about
+  (naming table, part (c), item 8), so M8's comic arc and crew toast and M10's tall tales told to
+  children stay at irony and understatement. **For Abad to confirm:** if he wants those broad too,
+  they are added to the amendment's list and to the standard's section 7, item 14.
 - **Names collision-checked:** all 25, against `canon-ledger.json` and every entry file, with
   near-collisions to edit distance 2 (naming table, part (b)).
