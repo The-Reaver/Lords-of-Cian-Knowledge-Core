@@ -442,7 +442,8 @@ ledger. Pyro has no entry corpus (Section 1), so every facet is built from locke
 
 ### (A) Questions to rule before this profile can be confirmed
 
-Four of the Section 1 findings decide facts the profile stands on. Each facet further down is
+Four questions, drawn from seven findings (1, 3, 15, 16, 17, 19, 20), decide facts the profile
+stands on. Each facet further down is
 written under the recommended answer and says where it depends on one.
 
 **A1. Pyro's age at Book 1 (finding 1).** This is item 1 on `approval-list-2026-10-03.md`.
@@ -581,7 +582,7 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     her. The man who raised Pyro believes he killed Pyro's mother, and Pyro trusts him completely.
   - **The Triad.** Bonded to him on the night he was born (`MCD-270`). Varkul holds him first by
     refusing pain and fatigue (`CC-095`), Varruk by always knowing the safest path to him
-    (`CC-099`), Sorya through the Oath (`CC-097`). They keep him steady (`ARS-421`) and pull him out
+    (`CC-099`), Sorya through the Oath (under TA3). They keep him steady (`ARS-421`) and pull him out
     of danger (`ARS-414`). They are the one bond in his life he never had to earn.
   - **The crew he feeds.** The crew drifts toward his warmth without noticing it (`ARS-421`).
     Ironbane is the first person his food is proven to heal (`MCD-272`). Proposed: his place aboard
@@ -631,15 +632,40 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   first, a natural birth (`MCD-022`). Then, within the same event (`MCD-132`), the Demaron takes
   her and the Gate deploys to seal it (`MCD-131`); Stormbreaker fights and defeats the Demaron
   (`CC-045`, `WC-017`); she inverts the Gate; the Triad are pushed out before her fusion completes,
-  and the imprint between them and the newborn completes (`MCD-131`, `MCD-270`). Kanja's consent
-  (`CC-045`) is open. Option (a), new fact for Abad: he gave it beforehand, which implies he
-  foresaw a possession and a fight that night. Option (b): it was relayed to him during the event,
-  across the 12 km line, which implies only a messenger and a short delay. Scope: clarifying clauses on `WC-017` (its "before Pyro was born" reads against
-  `MCD-022`'s natural birth first) and on `CC-046`'s order of events. Queued for whichever entry
-  first touches the birth.
-- **B3. What the Living Gate is (finding 7).** Recommended: the cavern site of `MCD-269` is the
-  Gate; the curse is her voice-keyed binding to it (`MCD-131`); the birth happens at the cavern,
-  which is why Kanja's 12 km line has a fixed point (`MCD-270`).
+  and the imprint between them and the newborn completes (`MCD-131`, `MCD-270`).
+  - **What "defeated" means.** `MCD-131` has the entity still in her when she inverts: the Gate
+    would have sealed her "along with the entity." Recommended: "defeated" (`CC-045`) means
+    subdued and held, not expelled. This keeps `WC-017`'s own order (Stormbreaker "fought and won,"
+    then her "final act") and `MCD-131`'s entity still present at the inversion. The other choice,
+    the inversion falling during the fight, breaks `WC-017`'s order. Scope: a clarifying clause on
+    `CC-045` that "defeated" means subdued, not expelled.
+  - **Kanja's consent (`CC-045`) is open.**
+    - Option (a), a new fact for Abad: he gave it beforehand, which implies he foresaw a
+      possession and a fight that night.
+    - Option (b): it was relayed to him during the event by a messenger. Cost: a 12 km relay and
+      return takes the better part of an hour or more, with the Demaron fight waiting on it, which
+      `MCD-132`'s "not separated by meaningful time" does not allow.
+    - Option (c): a pre-agreed flare across the 12 km line, an in-period signal with a precedent
+      (Valen's spent flare, `kanja-chronicle-vii-the-man-who-did-not-get-up.md`, line 314). Cost:
+      a flare carries only a meaning agreed in advance, so Kanja still agreed beforehand to what it
+      would ask; it implies partial foreknowledge, a smaller version of option (a).
+  - Scope: clarifying clauses on `WC-017` (its "before Pyro was born" reads against `MCD-022`'s
+    natural birth first) and on `CC-046`'s order of events. Queued for whichever entry first
+    touches the birth.
+- **B3. What the Living Gate is, and why the birth happened there (finding 7).** `MCD-269` locks
+  the cavern site as the same Living Gate activated at the birth, and she fused into the Gate's
+  architecture (`MCD-131`), so the birth at the cavern follows from locked rules; it gives Kanja's
+  12 km line a fixed point (`MCD-270`). Proposed: the curse is her voice-keyed binding to it
+  (`MCD-131`). Why she was there is unlocked. Shared with `triad-guardians.md` TB1.
+  - Option (i), a new fact: the Karesian heritage site was the Dhar-Kael bonding ground, and she
+    went there as last keeper to complete the imprint. Cost: a tradition site the ledger does not
+    name, and the Trust's survey of it at Kanja 282 (`MCD-269`, `MCD-275`) then touches her bonding
+    ground eight years early.
+  - Option (ii), a new fact: the curse drew her there, its lattice anchored to the site. Cost: the
+    curse becomes bound to a place, T.D.K.'s legacy architecture reaches into a Karesian heritage
+    site, and the 282 survey becomes part of the curse's story.
+  - Option (iii), adding no new fact: the reason stays open. Recommended for now, since it adds no
+    fact; whichever entry first stages the birth needs (i) or (ii) ruled first.
 - **B4. T.D.K. acting during his dormancy (finding 8).** Recommended: the curse was automatic legacy
   architecture inside the SBD's oldest protocols (`CULT-008`), tripped by her discovery (`MCD-136`),
   with no waking act by T.D.K. (`MCD-070`). Needs a clarifying clause on `CC-046`, `MCD-136`, and
@@ -659,18 +685,20 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
       wife lost to T.D.K. invites exactly that urge 24 years before Maro dies.
     - The Heartline would carry the night to the sealed blade as a body signal, logged in the Dark
       Ledger (`ARS-437`, B12).
-    - Locked entries set after the birth (`MCD-1246`, `MCD-814`, `MCD-813`) would carry that grief
-      in silence; none shows it.
+    - Locked entries set in the birth year or after (`MCD-1246`, `MCD-814`, `MCD-813`) would carry
+      that grief in silence; none shows it.
     - `kanja-haku-rexmar.md` would need a recorded line for the loss, beside the reserved wound of
       his father's death.
   - **Option (b): Kanja knows she lives, fused into the Gate, and keeps that too.** Costs: a second
     concealment beside `CC-079`, held from Pyro and from Stormbreaker; knowledge of the Gate that no
     rule gives him; and the same three entries then carry a living wife he cannot reach, again in
-    silence. It removes the competition with the "most devastating blow" ranking and the early
-    turn `CC-161` bars, because no death is grieved.
+    silence. It removes the competition with the "most devastating blow" ranking, because no death
+    is grieved. It carries the same `CC-161` exposure as option (a): a wife made unreachable by
+    T.D.K.'s curse (`CC-046`, `MCD-136`) supplies the same motive for the urge to destroy his
+    enemies, 24 years before Maro dies.
   - Under either option, proposed if the Stormbreaker facet is confirmed: Stormbreaker believes he
-    ended her. Whether Sorya's memory holds the fusion (her survival) is the Triad file's question
-    TA3, which also leaves open whether she knows the father. What Sorya shows Pyro under
+    ended her. Whether Sorya's memory holds the fusion (her survival) stays reserved under the
+    Triad file's TA3, which also leaves open whether she knows the father. What Sorya shows Pyro under
     `ARS-414` covers his father's identity only; his mother's survival stays reserved unless Abad
     rules otherwise.
 - **B6a. Where the Triad came from, and whose bond it is (findings 4, 5).** Handed to
@@ -711,6 +739,18 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   there.
 - **B15. A superseded citation in Section 1.** The 16-Avatar line now names the superseded A-6
   ruling without its ID, so `scripts/connective_tissue_check.py` passes. No fact changed.
+- **B16. How the Long Mask ends (finding 21).** For Abad's ruling, no recommendation. `MCD-1022`
+  ends the span "by conscious choice" the night the coat comes off at Kanja 314; `CC-005` ends it
+  at the pendant's severing, which triggers the Pi-Awakening, and `MCD-277` closes it on the Last
+  Breakfast as the pendant activates.
+  - Option (a): two stages. The persona ends by choice on the night of `MCD-1022`; the 284-year span
+    closes later at the pendant's severing (`CC-005`, `MCD-277`). The Last Breakfast then keeps its
+    post-Ceremony reading (`WC-022`). Cost: "ending the span" in `MCD-1022` needs a clarifying
+    clause.
+  - Option (b): one night. The coat comes off and the pendant severs together. Cost: `WC-022` puts
+    the Pi-Awakening after the murder, so `MCD-1022` and its eve (`MCD-1408`) would fall inside
+    Book 1, against their pre-Book-1 Alias placement.
+  - Under either option, this series' window ends at the Fulfillment Ceremony (B13).
 
 ### For the Game Plan
 
