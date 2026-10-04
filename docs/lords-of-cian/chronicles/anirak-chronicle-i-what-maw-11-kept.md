@@ -1,6 +1,6 @@
 # Anirak Chronicle I: What Maw-11 Kept
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (fifth draft, after four independent review rounds). First
+*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (clean on the fifth independent review). First
 entry of Anirak's Character Chronicle series (Game Plan pitch 2, locked at Batch 372). Close-third on
 Anirak per `VB-065`. Kanja age 140, the Long Mask, the Maw Cascade's inside job at Maw-11 (`MCD-264`).
 Her first marquee kill under `MCD-1881`, a `CC-164` necessity kill. New named character: Gethin
@@ -24,8 +24,7 @@ to them both.
 
 "Front gate." Her finger on it. "Yard. Slab. Three doors off the yard. Two to the armories. One down."
 
-She drew the tunnels. The old ways under the main run. Drains beneath the staging floor. A feed chute,
-bricked at the top, open at the bottom. A gap behind the triage station where the wall had settled.
+She drew the tunnels. The old ways under the main run. Drains beneath the staging floor. A feed chute, bricked at the yard end, open on the hillside. A gap behind the triage station where the wall had settled.
 
 "Ninety-one steps, chute to first grate. Dark all the way."
 
@@ -41,7 +40,7 @@ shook under her fingers as she passed, a buzz under hearing.
 
 Ghostwind set it down.
 
-The Captain turned from the window. Collar open. The voice rough and low.
+The Captain turned from the window. Shirt open at the throat. The voice rough and low.
 
 "Hold the yard an hour."
 
@@ -144,11 +143,11 @@ The wardens bunched. Twelve, the last guards at the ends. They meant to rush her
 She let her voice go.
 
 Low in her throat. Under hearing. The crystal nodes in the gorget took it up and laid it out before
-her, a long blade of it, forward.
+her, a wedge of it, forward.
 
 The front rank's hands went to their chests. A man swayed. Another planted his club in the sand and
-leaned on it. The man at the center stepped back to where his eye said he was clear. He stood braced a pace inside
-the reach. The figure-eight came round and found him.
+leaned on it. The man at the center stepped back to where he looked clear. He stood braced half a pace inside the
+reach. The figure-eight came round and found him.
 
 She opened the Star's head wide and swept it through them. Clubs spun out of hands. Men went to their
 knees, heads down, retching into the sand, and stayed there. A guard tried to rise. He swayed, and sat
@@ -156,7 +155,7 @@ back down.
 
 No one came again.
 
-She kept moving. Round the Slab. Round again. The men on the ground lay still. Every face in the yard
+She kept moving. Round the Slab. Round again. The men on the ground lay where they fell, breathing. Every face in the yard
 was on her.
 
 The chains glowed along their links. Dull amber. Her heart sat raised and steady.
@@ -199,7 +198,8 @@ A free man. A careful one. Nothing left his tunnels uncounted.
 Every tunnel
 master in the south had heard of the Blackout.
 
-An inner way ran from the armories to the staging floor. The staging rack inside the door held the
+He had come up to look at the yard, then gone back down the inner way from the armories to the
+staging floor. The staging rack inside the door held the
 hook-poles. She passed it at a run. One hook was gone.
 
 • • •
@@ -258,7 +258,7 @@ The Fang left her hand. Four paces of chain. The hook took his forearm above the
 arm came back out of the bars and across his body, the pole with it, iron scraping iron. The Star was in
 her other hand. Its talons closed on the shaft. She twisted. The pole went clattering down the tunnel.
 
-He had a knife at his belt. He drew it.
+The Fang came free. He had a knife at his belt. He drew it.
 
 His face stayed on the grate. He went back to it, low and fast, knife up, his arm going through the bars
 for the woman's belly.
@@ -358,8 +358,8 @@ worked below. The device is rendered as thirty forearm-length bronze reeds, weig
 demonstrated by Ghostwind humming down one, felt as vibration rather than heard, carried in by Ghostwind and sung into by the pens: the Hymn-Engine's
 synchronized-voice cancellation of Blight Frequency suppression (`ARS-398`, `MCD-236`) after the Hymn-Engine tradition of `MCD-248`, after the Calibration Theft's redesign (`MCD-265`, age 108), an
 inside job in the literal sense. The mast's box overloads and splits, as the Blackout's relay towers
-were overloaded (`MCD-237`). The Maw's held are kept under Blight-frequency suppression (`ARS-398`); counter-frequency neutralizing
-Maw suppression is the mechanism `MAW-088` gives the later Frequency Vaccine; the box faces the pen
+were overloaded (`MCD-237`). Maw-11's mast projector is a texture detail implied by `MCD-264`'s counter-frequency device; per
+`MAW-088`, counter-frequency also neutralizes the Maw's Tether suppression; the box faces the pen
 block, so the yard and its bouts sit in spill only; the bent and sheared grates show the freed at their
 true density. Anirak is one of the nineteen Avatars under the Sovereign Umbrella (`MCD-140`), whose
 Blight Immunity (`MCD-060`, Stage 1 Sub 2) has the crew as its recipient, so the mast does not touch
@@ -375,7 +375,7 @@ the pens, so the locked 3,800
 (`MCD-264`) counts everyone held behind the walls. Every yard fighter is disarmed or dropped and none is
 killed: a First Payment variant on the opening guard, Compound Interest, Siren's Draw, and Foreclosure
 (`ARS-441`); Foreclosure is lethal only to those who keep coming (`CC-164`), and no one keeps coming. The
-Siren's Draw misjudgment stays inside the locked 15-20% (a man braced one pace short, `ARS-411`,
+Siren's Draw misjudgment stays inside the locked 15-20% (a man braced half a pace inside the reach, `ARS-411`,
 `ARS-438`). Fury held at its first state throughout and never named: the chains at dull amber, her heart
 raised and steady, the yard broken off with the heat climbing no higher (`ARS-441`, `ARS-368`). Fangs at
 four paces, the low-to-middle reach; no sync, no active sonar. No stillness (`ARS-373`, `ARS-439`): she
