@@ -158,7 +158,8 @@ def _bare_subs(text, key, log, where):
         kk = nearest_track(text[max(0, mm.start() - 160):mm.start()], key)
         s2, p2 = TRACKS[kk]["sing"], TRACKS[kk]["plur"]
         out = (p2 if mm.group(1) else s2) + mm.group(2)
-        if TRACKS[kk].get("territory") and not mm.group(1) and not mm.group(2).strip():
+        if TRACKS[kk].get("territory") and not mm.group(1) and not mm.group(2).strip() \
+                and not re.match(r"\s+entr", text[mm.end():mm.end() + 8]):
             out = "Annals entry" + mm.group(2)
         log.append((where, pre[-40:].replace("\n", " "), mm.group(0), out))
         return out
