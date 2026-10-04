@@ -35,9 +35,8 @@ byid["VB-004"]["statement"] += (" " + amend + f" Abad's ruling at VB-068's lock:
                                  f"confirm all three'; approval of this text: '{APPROVAL}'.")
 v68 = byid["VB-068"]
 assert "Amended Batch 377" not in v68["statement"]
-v68["statement"] += (" Amended Batch 377, 2026-10-04: the VB-004 amendment this rule anticipated is locked; "
-                     "it reads the ruling's 'including' as it stands, so every comic register the standard sets out "
-                     "may run broad in a told account, within VB-004 as amended.")
+a68 = clean(re.search(r'Appended to `VB-068`:\n\n"(.+?)"\n', text, re.S).group(1))
+v68["statement"] += " " + a68 + f" Abad's approval: '{APPROVAL}'."
 for k in sorted(lex):
     d["rules"].append({"id": k, "category": CAT[k], "statement": lex[k], "status": "locked",
                        "source": SOURCE})
@@ -146,7 +145,7 @@ for a, b in REPL:
 # section 7 item 14 humor bullet
 i = s.index("    - Humor is irony and understatement only (`VB-004`). Every comic register")
 j = s.index("    - No balanced antithesis", i)
-s = s[:i] + "    - Outside a told account, characters' talk keeps irony and understatement (`VB-004`), whatever\n      room a scene is set in. In a told account, characters' talk may use every comic register this\n      standard sets out, as broad as `VB-004` as amended (Batch 377) allows; `VB-068` names R0.4,\n      R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and\n      M11 among them. R0.4's toast is a long rhymed narrative of a badman's or trickster's exploits,\n      a register apart from M8's closing drink toast. For this purpose the teller's voice in a\n      Comrade Account, an Adversary Account, or a Hearsay entry counts as characters' talk, its\n      reliability as `VB-067` sets it. In a Comrade Account, a register that inflates a matter of\n      fact is used only within `VB-067`'s Comrade bound, traced (§4.1, item 7). The 50% rule, the\n      phatic bar, fact over emotion, and every hard constraint still apply. The amendment changes no\n      narration and no Dossier text, speech quoted in a Dossier included. Each designated narrator,\n      as narrator, as teller, and as a speaking character, keeps their own sheet (`VB-021` to\n      `VB-025`). Every track voice ruling and every character's own voice (`VB-030`) still governs\n      that character's diction, and these registers run inside it. Onyx stays under `VB-063` alone.\n      Every such register stays nonexplicit (item 17).\n" + s[j:]
+s = s[:i] + "    - Outside a told account, characters' talk keeps irony and understatement (`VB-004`), whatever\n      room a scene is set in. In a told account, characters' talk may use every comic register this\n      standard sets out, as broad as `VB-004` as amended (Batch 377) allows. A comic register is any\n      talk this standard sets out whose purpose in the telling is laughter, among them the comic\n      story, the funny boast, the tall tale, ritual insult, ridicule, teasing and hazing, jeering\n      and heckling, and the toast; `VB-068` names R0.4, R15, R18, M1, M2's funny boast, M3's parting\n      jab, M4, M7, M9, and the comic stories of M6 and M11. R0.4's toast is a long rhymed narrative\n      of a badman's or trickster's exploits, a register apart from M8's closing drink toast. For\n      this purpose the teller's voice in a Comrade Account, an Adversary Account, or a Hearsay entry\n      counts as characters' talk, its reliability as `VB-067` sets it. In a Comrade Account, a\n      register that inflates a matter of fact is used only within `VB-067`'s Comrade bound, traced\n      (§4.1, item 7). The 50% rule, the phatic bar, fact over emotion, and every hard constraint\n      still apply. The amendment changes no narration and no Dossier text, speech quoted in a\n      Dossier included. Each designated narrator, as narrator, as teller, and as a speaking\n      character, keeps their own sheet (`VB-021` to `VB-025`). Every track voice ruling and every\n      character's own voice (`VB-030`) still governs that character's diction, and these registers\n      run inside it. Onyx stays under `VB-063` alone. Every such register stays nonexplicit (item\n      17).\n" + s[j:]
 # R0.4 ruling note
 a = """  - Abad ruled at `VB-068`'s lock that these registers may run broader in told accounts. The
     broader registers apply once the `VB-004` amendment that sets them out locks. Until then,
@@ -193,10 +192,11 @@ c = c.replace(a, a[:-2] + "; `LEX-` was claimed 2026-10-04, Batch 377, for in-wo
 a = "Ledger at `ledger_version` 37.8, 2,696 rules, 376 batches.\n"
 assert c.count(a) == 1
 c = c.replace(a, a + f"""
-**Batch 377: comic registers in told accounts (`VB-004` amended) and the account-craft vocabulary
+**Batch 377: comic registers in told accounts (`VB-004` and `VB-068` amended) and the account-craft vocabulary
 (`LEX-001` to `LEX-025`).** Abad: "{APPROVAL}"
 - **The amendment.** In a told account (a Comrade Account, Adversary Account, or Hearsay entry, or a
-  storytelling scene), characters' talk may use the comic registers Abad ruled on at `VB-068`'s lock.
+  storytelling scene), characters' talk may use every comic register the account craft standard sets out (Abad's
+  ruling at `VB-068`'s lock, its 'including' read as it stands; `VB-068` amended to record it).
   Narration and Dossier text are unchanged. Each designated narrator keeps their own sheet, and every
   track voice ruling still governs its characters' diction. Onyx stays under `VB-063` alone. A Comrade
   teller inflates fact only within `VB-067`'s bound. Child-safety and Ashkeel lines are written in.
