@@ -17,6 +17,8 @@ APPROVAL = "Abad's approval: 'lock it. once you're done we will move on to pyro 
 SOURCE = "Original invention, chat-drafted 2026-10-04, no source document"
 
 import subprocess
+SNAP = {r["id"]: (r["statement"], r.get("category"), r.get("source"))
+        for r in json.load(open(LEDGER, encoding="utf-8"))["rules"]}
 subprocess.run([sys.executable, "scripts/rename_series.py", "--apply"], check=True)
 
 HAND = {
@@ -31,6 +33,9 @@ HAND = {
                   "Narrative prose drafted Batch 318 as Ezio Exhibit I, 'The Frequency That Never Failed' (MCD-1876).")],
     "MCD-1867": [("Daba's own 50-Chronicle launch wave", "Daba's own 50-entry launch wave")],
     "MCD-1881": [("once her Character Chronicle gate clears", "once her Series Launch Protocol gate clears")],
+    "MCD-1882": [("no Alias, Character, Territory, or Kanja-version Chronicle may show him",
+                  "no Alias Chronicle, Kanja-version Chronicle, character Series entry, or Annals entry may show him")],
+    "MCD-1657": [("for the first time in the chronicle's run", "for the first time in the Records' run")],
 }
 d0 = json.load(open(LEDGER, encoding="utf-8"))
 r0 = {r["id"]: r for r in d0["rules"]}
@@ -55,14 +60,15 @@ for rid, stmt in (("VB-066", vb066), ("VB-067", vb067)):
     d["rules"].append({"id": rid, "category": "voice-bible", "statement": stmt + " " + APPROVAL,
                        "status": "locked", "source": SOURCE})
 assert "Qualified by VB-067" not in rules["VB-062"]["statement"]
-rules["VB-062"]["statement"] += " Amended Batch 374, 2026-10-04: " + amend + " " + APPROVAL
+rules["VB-062"]["statement"] += " Amended Batch 375, 2026-10-04: " + amend + " " + APPROVAL
 
 nb = max(b["batch"] for b in d["batches_completed"]) + 1
 assert nb == 375, nb
 d["batches_completed"].append({
     "batch": nb,
     "source": SOURCE,
-    "rules_affected": 3 + len(HAND),
+    "rules_affected": sum(1 for r in d["rules"]
+                          if SNAP.get(r["id"]) != (r["statement"], r.get("category"), r.get("source"))),
     "note": "VB-066 locks the series names ('Chronicle' reserved for Kanja; Lauris the Records, Daba the "
             "Rolls, Ozmund the Testaments, Ezio the Exhibits, Anirak the Collections, the territories the "
             "Annals) and renames the launch gate the Series Launch Protocol. VB-067 locks the account types "
@@ -72,7 +78,7 @@ d["batches_completed"].append({
             "rules) plus hand fixes to VB-020, PH2-048, PH2-061, MCD-1859, MCD-1860, MCD-1862, MCD-1864 (stale: "
             "Ezio Exhibit I already dramatizes it), MCD-1867, MCD-1881. Anirak's series name changed from the presented 'Tallies' to "
             "'Collections' after independent review found it collided with Kanja's tally method and Daba's "
-            "own 'Tally' list (MCD-1610). Clean on the ninth independent review. " + APPROVAL,
+            "own 'Tally' list (MCD-1610). Clean on the tenth independent review. " + APPROVAL,
 })
 d["ledger_version"] = str(round(float(d["ledger_version"]) + 0.1, 1))
 d["last_updated"] = "2026-10-04"

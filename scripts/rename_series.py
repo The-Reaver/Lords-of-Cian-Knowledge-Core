@@ -40,7 +40,7 @@ for t, v in TERR.items():
                      fp=(t + "-chronicle-", t + "-annals-"), territory=True)
 
 ROMAN = r"[IVXLC]+\b"
-KANJA_Q = r"(?:Alias|Kanja|manuscript|Kanja-version|Onyx|Onyx-narrated|Onyx-track|Mask|Victories)"
+KANJA_Q = r"(?:Alias|Kanja|manuscript|Kanja-version|Onyx|Onyx-narrated|Onyx-track|Mask|Victories|withdrawn)"
 
 
 def file_track_map(rules):
@@ -158,6 +158,8 @@ def _bare_subs(text, key, log, where):
         kk = nearest_track(text[max(0, mm.start() - 160):mm.start()], key)
         s2, p2 = TRACKS[kk]["sing"], TRACKS[kk]["plur"]
         out = (p2 if mm.group(1) else s2) + mm.group(2)
+        if TRACKS[kk].get("territory") and not mm.group(1) and not mm.group(2).strip():
+            out = "Annals entry" + mm.group(2)
         log.append((where, pre[-40:].replace("\n", " "), mm.group(0), out))
         return out
 
@@ -168,7 +170,9 @@ def _bare_subs(text, key, log, where):
     return text
 
 
-EXTRA_PATHS = {"character-chronicle-gameplan.md": "series-gameplan.md", "`ezio-chronicle-ii`": "`ezio-exhibit-ii`"}
+EXTRA_PATHS = {"character-chronicle-gameplan.md": "series-gameplan.md", "`ezio-chronicle-ii`": "`ezio-exhibit-ii`",
+               "ozmund-chronicle-*": "ozmund-testament-*", "lauris-chronicle-*": "lauris-record-*",
+               "daba-chronicle-*": "daba-roll-*", "anirak-chronicle-i/ii/iii-*": "anirak-collection-i/ii/iii-*"}
 
 
 def path_subs(text, renames):
