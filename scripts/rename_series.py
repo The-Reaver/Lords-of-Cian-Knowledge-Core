@@ -173,7 +173,7 @@ def _bare_subs(text, key, log, where):
 
 EXTRA_PATHS = {"character-chronicle-gameplan.md": "series-gameplan.md", "`ezio-chronicle-ii`": "`ezio-exhibit-ii`",
                "ozmund-chronicle-*": "ozmund-testament-*", "lauris-chronicle-*": "lauris-record-*",
-               "daba-chronicle-*": "daba-roll-*", "anirak-chronicle-i/ii/iii-*": "anirak-collection-i/ii/iii-*"}
+               "daba-chronicle-*": "daba-roll-*", "ozmund-chronicle-<numeral>": "ozmund-testament-<numeral>", "anirak-chronicle-i/ii/iii-*": "anirak-collection-i/ii/iii-*"}
 
 
 def path_subs(text, renames):

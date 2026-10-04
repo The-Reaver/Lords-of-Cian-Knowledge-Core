@@ -35,6 +35,8 @@ HAND = {
     "MCD-1881": [("once her Character Chronicle gate clears", "once her Series Launch Protocol gate clears")],
     "MCD-1882": [("no Alias, Character, Territory, or Kanja-version Chronicle may show him",
                   "no Alias Chronicle, Kanja-version Chronicle, character Series entry, or Annals entry may show him")],
+    "VB-065": [("her two lines in Chronicle V (MCD-1883)", "her two lines in Kanja Chronicle V (MCD-1883)")],
+    "VB-063": [("the 'least articulate' Chronicle I coda convention (MCD-1866)", "the 'least articulate' Kanja Chronicle I coda convention (MCD-1866)")],
     "MCD-1657": [("for the first time in the chronicle's run", "for the first time in the Records' run")],
 }
 d0 = json.load(open(LEDGER, encoding="utf-8"))
@@ -78,7 +80,7 @@ d["batches_completed"].append({
             "rules) plus hand fixes to VB-020, PH2-048, PH2-061, MCD-1859, MCD-1860, MCD-1862, MCD-1864 (stale: "
             "Ezio Exhibit I already dramatizes it), MCD-1867, MCD-1881. Anirak's series name changed from the presented 'Tallies' to "
             "'Collections' after independent review found it collided with Kanja's tally method and Daba's "
-            "own 'Tally' list (MCD-1610). Clean on the tenth independent review. " + APPROVAL,
+            "own 'Tally' list (MCD-1610). Clean on the eleventh independent review. " + APPROVAL,
 })
 d["ledger_version"] = str(round(float(d["ledger_version"]) + 0.1, 1))
 d["last_updated"] = "2026-10-04"

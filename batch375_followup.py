@@ -22,6 +22,12 @@ EDITS = {
     CH + "kanja-chronicle-ii-the-lesson-he-carried-alone.md": [
         ("Daba's own 50-Chronicle launch", "Daba's own 50-entry launch", 2),
     ],
+    CH + "kazi-annals-vi-the-names-he-was-teaching-to-read-the-floor.md": [
+        ("at the chronicle's close", "at the entry's close", 1),
+    ],
+    CH + "lauris-record-lxvii-what-a-civilization-takes-its-time-deciding.md": [
+        ("a deliberation the chronicle does not compress", "a deliberation the entry does not compress", 1),
+    ],
     CH + "the-notebook-garren-hask-finally-opened.md": [
         ("the Sankofa territory Annals entry's \"crack\" entry", "the Sankofa Annals' \"crack\" entry", 1),
     ],
@@ -32,6 +38,18 @@ for path, pairs in EDITS.items():
         assert t.count(old) == n, (path, old, t.count(old))
         t = t.replace(old, new)
     open(path, "w", encoding="utf-8").write(t)
+
+# Ozmund headers: "Testament track, Ozmund Verehimu's series" reads as "The Testaments, Ozmund Verehimu's series".
+n = 0
+for f in os.listdir(CH):
+    if f.startswith("ozmund-testament-"):
+        p = CH + f
+        t = open(p, encoding="utf-8").read()
+        t2 = re.sub(r"Testament(\s+)track,(\s+)Ozmund", r"The\1Testaments,\2Ozmund", t)
+        if t2 != t:
+            n += 1
+            open(p, "w", encoding="utf-8").write(t2)
+print("ozmund headers tidied:", n)
 
 # CLAUDE.md batch history: file paths only (VB-066).
 out = subprocess.run(["git", "diff", "--cached", "--name-status", "-M"], capture_output=True, text=True, check=True).stdout
