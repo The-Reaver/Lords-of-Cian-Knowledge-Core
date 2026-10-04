@@ -18,22 +18,26 @@ Appended to `VB-004`:
 "Amended Batch 377. In a told account, characters' talk may use comic registers broader than irony
 and understatement. A told account here means a Comrade Account, an Adversary Account, or a Hearsay
 entry (`VB-067`), or a scene in any entry in which a character tells a story aloud (`VB-068`). The
-registers are those Abad ruled on at `VB-068`'s lock, as the account craft standard sets them out:
-ritual insult, signifying, call and response, and the toast (R0.4); escalating story rounds (R15);
-the performed telling (R18); the tavern's growing comic story (M1); the corner's funny boast (M2);
-the barbershop's parting jab (M3); the insult that means welcome (M4); the work break's ritual joke
-(M7); the sailor's tall telling (M9); and the comic stories told at the family table (M6) and at
-wakes and remembrances (M11). The teller's voice in a Comrade Account, an Adversary Account, or a
-Hearsay entry counts as characters' talk. These stay at irony and understatement only: the narration
-of a Series entry or of an entry of account type none; the whole text of a Dossier, speech quoted in
-it included; and every designated narrator (`VB-020`) in every role, including as the teller of an
-entry outside a Series. Every track voice ruling governs its characters' talk as before (`VB-022`,
-`VB-024`, `VB-063`, `VB-064`, `VB-065`), and Onyx's voice, narrating or through the grip, is
-governed by `VB-063` alone. The 50% rule, the bar on phatic talk, fact over emotion, the banned
-words, and every hard constraint still apply. Every register this amendment permits stays
-non-explicit. Sexual talk in any of them is between adults only, with no minor present, addressed,
-or referenced, and no minor is the subject of a sexual insult, boast, or story (account craft
-standard, section 7, item 17)."
+teller's voice in a Comrade Account, an Adversary Account, or a Hearsay entry counts as characters'
+talk. The registers are those Abad ruled on at `VB-068`'s lock, as the account craft standard sets
+them out: in the homage World, ritual insult, signifying, call and response, and the toast, and on
+Cian, dock, forge, and Maw idiom (R0.4); escalating story rounds (R15); the performed telling (R18);
+the tavern's growing comic story and its ridicule (M1); the corner's funny boast (M2); the
+barbershop's parting jab (M3); the insult that means welcome, ridicule, and the counter-boast (M4);
+the work break's ritual joke (M7); the sailor's tall telling (M9); and the comic stories told at the
+family table (M6) and at wakes and remembrances (M11). This amendment changes no narration and no
+Dossier text, speech quoted in a Dossier included. Each designated narrator (`VB-020`), as narrator,
+as teller, and as a speaking character, keeps their own sheet (`VB-021` to `VB-025`). Every track
+voice ruling and every character's own voice governs that character's talk as before (`VB-022`,
+`VB-024`, `VB-030`, `VB-063`, `VB-064`, `VB-065`), and Onyx's voice, narrating or through the grip, is
+governed by `VB-063` alone. What any of these registers may claim stays with `VB-067` and `VB-068`:
+in a Comrade Account, a register that inflates a matter of fact is used only where the departure is
+traced (`VB-067`). The 50% rule, the bar on phatic talk, fact over emotion, the banned words, and
+every hard constraint still apply. Every register this amendment permits stays non-explicit. Sexual
+talk in any of them is between adults only, with no minor present, addressed, or referenced, and no
+minor is the subject of a sexual insult, boast, or story (account craft standard, section 7, item
+17). In any Ashkeel setting, no character under thirty appears in or near the scene, and no sexual
+detail reaches the page (`ASH-016`, `ASH-036`; account craft standard, M13)."
 
 ---
 
@@ -41,7 +45,7 @@ standard, section 7, item 17)."
 
 Each rule locks a word or a name and the plain fact it labels. None of them sets an institution's
 procedure. Where a name's place, keeper, or custom is unfixed, the first entry that places it fixes
-it. Collision notes are carried from the naming table.
+it. The collision notes that bear on use are carried; the full results stand in the naming table.
 
 ### Mainline Cian
 
@@ -140,8 +144,8 @@ It can run several days. Arturo's annual remembrance (`MCD-1024`) is a different
 ### Ashkeel
 
 **LEX-025**. brazier-house: Ashkeel's word for an everyday drinking hall, where mortal enemies drink
-under the Council peace (`ASH-011`). The "brazier" is the hall's grate over a heat-gallery, carrying
-warmth by convection with no open flame (`ASH-007`, `ASH-009`, `ASH-048`). Adult, non-explicit
+under the Council peace (`ASH-011`). The "brazier" is a stone basin set over a sealed heat-gallery and
+warmed through the stone, with no open flame (`ASH-007`, `ASH-009`, `ASH-048`). Adult, non-explicit
 contexts only, and no character under thirty (`ASH-016`, `ASH-036`; account craft standard, M13).
 "Brazier" is two letters from the Ionic Ground Bracer (`ARS-407`).
 
@@ -162,13 +166,38 @@ These edits change the locked standard (`docs/lords-of-cian/voice/account-craft-
 they are part of what Abad approves.
 - Every **[NAME NEEDED: key]** marker for a locked key (N1, N2a-c, N3, N4, N5, N8, N9, N10a, N11,
   N12, N14, N15, H1-H4, H8-H13, A1) is replaced by the name and its LEX ID. N10b keeps its marker.
+  M7's "A dock hiring place, if one is drafted" becomes "The dock hiring yard: the Call Yard
+  (`LEX-005`)."
 - N12's two framings (section 4, Sovereign Trust variant; M12) become "common speech calls a posted
   Trust notice the posted bill (`LEX-012`)", setting no form.
 - The deadpan-only lines are brought in line with the amended `VB-004`: section 1's Voice Bible
   summary, R0.4, R15, R18, M1's drift, M4's opening, M7's ritual joke and opening, M9's tall
-  telling, and section 7, item 14. Each now says characters' talk in a told account may run as broad
-  as `VB-004` as amended allows, while narration stays at irony and understatement.
+  telling, section 6's closing paragraph on Comrade brag rooms, and section 7, item 14. Each now
+  says characters' talk in a told account may run as broad as `VB-004` as amended allows. Section 6
+  now reads that a Comrade teller in a brag room inflates only in judgment and feeling, or where the
+  departure is traced, whatever the register.
+- R0.4's sub-bullet recording the pending ruling is removed.
 - Section 1's stale "`VB-068` (proposed)" becomes "`VB-068`".
 - The naming table's header records which picks locked and which are held.
 - CLAUDE.md adds `LEX` to the rule-ID prefixes in use, as a new prefix for in-world common
-  vocabulary and venue names.
+  vocabulary and venue names, and records Batch 377 in its history.
+
+---
+
+## (d) Connective-tissue note
+
+- **Agrees with:** `VB-068` (names usable only once each is locked by its own rule; Abad's three
+  rulings); `VB-067` (Comrade bound, trace rule, account types); `VB-004`'s 50% rule, phatic bar and
+  fact-over-emotion, left intact; every narrator sheet and track ruling (`VB-020` to `VB-025`,
+  `VB-030`, `VB-063` to `VB-065`), unchanged; `PH2-034` and `MCD-313` (homage names stay in the homage
+  World); `ASH-007`, `ASH-009`, `ASH-011`, `ASH-048` (no open flame in Ashkeel halls).
+- **Extends:** `VB-004`, with characters' talk in told accounts only; `MAW-064` and `MAW-087` with
+  crowd and fighter slang that renames nothing.
+- **Touches:** the locked account craft standard (section (c) above); CLAUDE.md's prefix list.
+- **New fact fixed:** LEX-025 sets one feature of Ashkeel's everyday halls, a stone basin over a
+  sealed heat-gallery. The pick's own rationale (drinkers around a brazier) implied open flame, which
+  `ASH-009` keeps out of residential air, so the brazier is read as a warmed stone basin.
+- **Reading flagged:** LEX-009 reads Ozmund Testament CXXI's "No second bell" (`MCD-1886`) as no
+  second bout, and sets no round structure.
+- **Names collision-checked:** all 25, against `canon-ledger.json` and every entry file, with
+  near-collisions to edit distance 2 (naming table, part (b)).

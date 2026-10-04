@@ -41,6 +41,7 @@ d["batches_completed"].append({
              "lock; narration, Dossier text, designated narrators, and track voice rulings stay as before; "
              "child-safety line added. LEX-001 to LEX-025 lock the approved vocabulary picks (a new LEX "
              "prefix for in-world common vocabulary and venue names); N10b and the RULE NEEDED keys held. "
+             "LEX-025 fixes one hall feature (a stone basin over a sealed heat-gallery, no open flame). "
              "The account craft standard and CLAUDE.md updated in the same batch. "
              f"Abad's approval, verbatim: \"{APPROVAL}\"."),
 })
@@ -54,7 +55,7 @@ s = open(STD, encoding="utf-8").read()
 NAMES = {
     "N1": "tapstead (`LEX-001`)", "N2a": "the Slack Hawser (`LEX-002`)",
     "N2b": "the Tallow Lamp (`LEX-003`)", "N2c": "the Last Bell (`LEX-004`)",
-    "N3": "the Call Yard (`LEX-005`)", "N4": "the Trough (`LEX-006`)", "N5": "the Sweat (`LEX-007`)",
+    "N4": "the Trough (`LEX-006`)", "N5": "the Sweat (`LEX-007`)",
     "N8": "a hewer (`LEX-008`)", "N9": "a bell (`LEX-009`)", "N10a": "dice-house (`LEX-010`)",
     "N11": "the lykewake (`LEX-011`)", "N14": "the pump, its regulars the pump-lads (`LEX-013`)",
     "N15": "a whistler (`LEX-014`)", "H1": "the Shekere (`LEX-015`)", "H2": "kibanda (`LEX-016`)",
@@ -69,12 +70,21 @@ REPL = [
      "- Common speech for a posted Trust notice: the posted bill (`LEX-012`); no rule sets its form."),
     ("- **`VB-068`** (proposed) binds", "- **`VB-068`** binds"),
     ("humor limited to irony and understatement (`VB-004`), no",
-     "humor in narration limited to irony and understatement, with characters' talk in a told account\n"
-     "  as broad as `VB-004` as amended (Batch 377) allows, no"),
+     "dialogue humor limited to irony and understatement outside a told account (`VB-004`), and in a\n"
+     "  told account as broad as `VB-004` as amended (Batch 377) allows, no"),
     ("""  Each is written through deadpan irony and understatement only (`VB-004`): the insult arrives flat
   and short, and the toast leaves its biggest claim unsaid.""",
      """  In characters' talk in a told account, each may run as broad as `VB-004` as amended (Batch 377)
-  allows; narration stays at irony and understatement."""),
+  allows."""),
+    ("- A dock hiring place, if one is drafted: **[NAME NEEDED: N3]**.",
+     "- The dock hiring yard: the Call Yard (`LEX-005`)."),
+    ("""Its exaggeration or edge
+drift on any matter of fact locks as fact unless traced (`VB-067`, §4.1), so a Comrade teller there
+brags in judgment, feeling, and dry understatement.""",
+     """Its exaggeration or edge
+drift on any matter of fact locks as fact unless traced (`VB-067`, §4.1), so a Comrade teller there
+inflates only in judgment and feeling, or where the departure is traced, whatever the register
+(`VB-004` as amended, Batch 377)."""),
     ("""  larger claim told in a flatter voice, through irony and understatement only (`VB-004`).""",
      """  larger claim, as broad as `VB-004` as amended (Batch 377) allows."""),
     ("""  disclaimer before a polished telling, and a dry, understated line left a beat to land
@@ -104,11 +114,12 @@ for a, b in REPL:
 # section 7 item 14 humor bullet
 i = s.index("    - Humor is irony and understatement only (`VB-004`). Every comic register")
 j = s.index("    - No balanced antithesis", i)
-s = s[:i] + ("    - Narration's humor is irony and understatement only (`VB-004`). Characters' talk in a told\n"
-             "      account may use the comic registers `VB-004` as amended (Batch 377) lists, R0.4, R15,\n"
-             "      R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6\n"
-             "      and M11, and none broader. Designated narrators and Dossier text stay at irony and\n"
-             "      understatement.\n") + s[j:]
+s = s[:i] + ("    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`). In a\n"
+             "      told account, characters' talk may use the comic registers `VB-004` as amended (Batch\n"
+             "      377) lists, R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the\n"
+             "      comic stories of M6 and M11, and none broader. The amendment changes no narration and\n"
+             "      no Dossier text, and each designated narrator keeps their own sheet (`VB-021` to\n"
+             "      `VB-025`).\n") + s[j:]
 # R0.4 ruling note
 a = """  - Abad ruled at `VB-068`'s lock that these registers may run broader in told accounts. The
     broader registers apply once the `VB-004` amendment that sets them out locks. Until then,
