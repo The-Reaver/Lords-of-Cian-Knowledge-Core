@@ -24,7 +24,7 @@ assert "Qualified by VB-067" not in rules["VB-062"]["statement"]
 rules["VB-062"]["statement"] += " Amended Batch 374, 2026-10-04: " + amend + " " + APPROVAL
 
 nb = max(b["batch"] for b in d["batches_completed"]) + 1
-assert nb == 374, nb
+assert nb == 375, nb
 d["batches_completed"].append({
     "batch": nb,
     "source": SOURCE,
@@ -35,7 +35,7 @@ d["batches_completed"].append({
             "(the Series, Comrade Account, Adversary Account, Dossier, Hearsay) and the reliability rule. "
             "VB-062 amended to match. Anirak's series name changed from the presented 'Tallies' to "
             "'Collections' after independent review found it collided with Kanja's tally method and Daba's "
-            "own 'Tally' list (MCD-1610). Clean on the eighth independent review. " + APPROVAL,
+            "own 'Tally' list (MCD-1610). Clean on the ninth independent review. " + APPROVAL,
 })
 d["ledger_version"] = str(round(float(d["ledger_version"]) + 0.1, 1))
 d["last_updated"] = "2026-10-04"

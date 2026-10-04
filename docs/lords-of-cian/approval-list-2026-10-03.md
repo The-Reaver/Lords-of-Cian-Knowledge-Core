@@ -271,6 +271,20 @@ alliance aboard (`MCD-206`), the joint archive (`MCD-212`), present-day scenes (
 - Found while locking Anirak's Game Plan (Batch 372). The plan's Sephtis option was dropped because
   it rested on the same clash.
 
+**39. Fermand narrating K-Theta material in Lauris's Records against `MCD-193`.** `MCD-193` locks that
+only Sephtis and Ezio know of the K-Theta cave system ("Kanja and the wider crew do not know"). Lauris
+Chronicle VIII (`MCD-1625`), soon Lauris Record VIII, and other Strand L K-Theta entries (e.g.
+`MCD-1712`) have Fermand narrating it firsthand ("she has told me", "I was permitted to accompany
+her").
+- The options are: (a) Fermand is a third knower, so `MCD-193` gains his name; (b) the K-Theta
+  material in those Records is rewritten so Fermand narrates only what Lauris lets him see; (c) the
+  entries stand and Fermand's knowledge stays a deliberate, unexplained gap.
+- Recommended: (a). It matches how Fermand already transcribes her archive (`VB-064`) and changes
+  one rule instead of several entries.
+- Found by the eighth review of `VB-066`/`VB-067`. Under `VB-067` a conflict with the teller bound is
+  always held for your ruling, never corrected directly. It sits beside item 7 (is Fermand a sixth
+  knower of Ezio's capability?), which has the same shape.
+
 ---
 
 ## Not on this list: character-gate questions

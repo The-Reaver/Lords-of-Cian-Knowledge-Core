@@ -85,36 +85,34 @@ def rule_territory(r, f=None):
 
 
 def named_subs(text, keys=None):
-    """Replace explicitly named references ("Lauris Chronicle IX", "Xaragua Chronicles"). Safe anywhere."""
+    """Replace explicitly named references ("Lauris Chronicle IX", "Xaragua Chronicles"). Safe anywhere.
+    Whitespace between words may be a line break; it is preserved."""
     for k, tr in TRACKS.items():
         if keys and k not in keys:
             continue
         for n in sorted(tr["names"], key=len, reverse=True):
-            text = re.sub(r"\b(" + re.escape(n) + r"(?:'s)?(?: own)?(?: launch)?) (?:Character )?Chronicle wave\b",
-                          lambda mm: mm.group(1) + " wave", text)
-            # "Lauris Letitia's own Character Chronicle series" / "Anirak's Character Chronicle series"
-            text = re.sub(r"\b(" + re.escape(n) + r"(?:'s)?(?: own)?) (?:Character |territory )?Chronicle series\b",
-                          lambda mm: mm.group(1) + " " + tr["plur"], text)
-            text = re.sub(r"\b(" + re.escape(n) + r") (?:Character |territory )?Chronicles\b",
-                          lambda mm: mm.group(1) + " " + tr["plur"], text)
-            text = re.sub(r"(?<!The )\b(" + re.escape(n) + r") (?:Character |territory )?Chronicle\b(?!'\)| Companion)",
-                          lambda mm: mm.group(1) + " " + tr["sing"], text)
-            text = re.sub(r"\b(" + re.escape(n) + r"'s(?: own)?) (?:Character |territory )?Chronicles\b",
-                          lambda mm: mm.group(1) + " " + tr["plur"], text)
-            text = re.sub(r"\b(" + re.escape(n) + r"'s(?: own)?) (?:Character |territory )?Chronicle\b",
-                          lambda mm: mm.group(1) + " " + tr["sing"], text)
+            name = r"\s+".join(re.escape(w) for w in n.split())
+            rx = re.compile(r"(?<!The )\b(" + name + r"(?:'s)?(?:\s+own)?(?:\s+launch)?)(\s+)"
+                            r"(?:(?:Character|territory)\s+)?Chronicle(s?)\b(\s+(?:series|wave)\b)?"
+                            r"(?!'\)|\s+Companion)")
+
+            def rep(mm, tr=tr):
+                tail = mm.group(4) or ""
+                if "wave" in tail:
+                    return mm.group(1) + mm.group(2) + "wave"
+                if "series" in tail:
+                    return mm.group(1) + mm.group(2) + tr["plur"]
+                return mm.group(1) + mm.group(2) + (tr["plur"] if mm.group(3) else tr["sing"])
+            text = rx.sub(rep, text)
     return text
 
 
 def generic_subs(text):
-    text = text.replace("Character Chronicle Launch Protocol", "Series Launch Protocol")
-    text = text.replace("Character Chronicle Gameplan", "Series Gameplan")
+    text = re.sub(r"Character(\s+)Chronicle\s+Launch(\s+)Protocol", r"Series\1Launch\2Protocol", text)
+    text = re.sub(r"Character(\s+)Chronicle\s+Gameplan", r"Series\1Gameplan", text)
     text = text.replace("character-chronicle-gameplan.md", "series-gameplan.md")
-    text = re.sub(r"\bNot a territory Chronicle\b", "Not a territory Annals entry", text)
-    text = re.sub(r"\b(homage-era |Phase 2 homage-era )?[Tt]erritory Chronicles\b",
-                  lambda m: (m.group(1) or "") + "territory Annals", text)
-    text = re.sub(r"\b(homage-era )?[Tt]erritory Chronicle\b",
-                  lambda m: (m.group(1) or "") + "territory Annals entry", text)
+    text = re.sub(r"\b([Tt]erritory)(\s+)Chronicle(s?)\b",
+                  lambda m: m.group(1) + m.group(2) + ("Annals" if m.group(3) else "Annals entry"), text)
     return text
 
 
@@ -132,7 +130,7 @@ def nearest_track(pre, own):
     return best[1] if best else own
 
 
-APPROVAL_Q = re.compile(r"""(?:approval|direction|approved|asked)[^"'“]{0,60}?(?:"[^"]{0,600}"|“[^”]{0,600}”|'[^']{0,600}?'(?=[.,;)\s]|$))""", re.I)
+APPROVAL_Q = re.compile(r"""(?:\bAbad's\s+(?:approval|direction)\b|\bapproval\b)[^"'“]{0,60}?(?:"[^"]{0,600}"|“[^”]{0,600}”|'[^']{0,600}?'(?=[.,;)\s]|$))""", re.I)
 
 
 def bare_subs(text, key, log, where):
@@ -163,10 +161,10 @@ def _bare_subs(text, key, log, where):
         log.append((where, pre[-40:].replace("\n", " "), mm.group(0), out))
         return out
 
-    text = re.sub(r"\b(?:Character )?Chronicle series\b", p, text)
-    text = re.sub(r"\b(?:Character )?Chronicle wave\b", "wave", text)
+    text = re.sub(r"\b(?:Character\s+)?Chronicle\s+series\b", p, text)
+    text = re.sub(r"\b(?:Character\s+)?Chronicle\s+wave\b", "wave", text)
     text = re.sub(r"\bChronicle(s)?(\s+" + ROMAN + r")", rep, text)
-    text = re.sub(r"\b(?:Character )?Chronicle(s)?(\b(?! [IVXLC]))", rep, text)
+    text = re.sub(r"\b(?:Character\s+)?Chronicle(s)?(\b(?!\s+[IVXLC]+\b))", rep, text)
     return text
 
 
@@ -243,18 +241,30 @@ def main():
         for old, new in renames.items():
             subprocess.run(["git", "mv", CH + old, CH + new], check=True)
 
-    # 3. docs (profiles, tracker, gameplan, roadmap) and CLAUDE.md: named, generic, paths
+    # 3. docs: profiles of renamed tracks get the full treatment; CLAUDE.md gets paths only (its
+    # standing-rule sections are edited by hand); other project docs get named/generic/paths.
+    PROFILE = {"lauris-letitia.md": "lauris", "daba.md": "daba", "ozmund-verehimu.md": "ozmund",
+               "ezio-valcari.md": "ezio", "anirak.md": "anirak"}
     docs = [os.path.join("docs/lords-of-cian/character-profiles", f)
             for f in os.listdir("docs/lords-of-cian/character-profiles")]
     docs += [os.path.join("docs/lords-of-cian", f) for f in os.listdir("docs/lords-of-cian") if f.endswith(".md")]
-    docs += ["CLAUDE.md"]
-    for p in docs:
+    for p in docs + ["CLAUDE.md"]:
         src = open(p, encoding="utf-8").read()
-        t = path_subs(named_subs(generic_subs(src), keys), renames)
+        if p == "CLAUDE.md":
+            t = path_subs(src, renames)
+        else:
+            t = named_subs(generic_subs(src), keys)
+            k = PROFILE.get(os.path.basename(p))
+            if k and k in keys:
+                t = bare_subs(t, k, log, p)
+            t = path_subs(t, renames)
         if t != src:
             changed.append(p)
             if apply:
                 open(p, "w", encoding="utf-8").write(t)
+    if apply and os.path.exists("docs/lords-of-cian/character-chronicle-gameplan.md"):
+        subprocess.run(["git", "mv", "docs/lords-of-cian/character-chronicle-gameplan.md",
+                        "docs/lords-of-cian/series-gameplan.md"], check=True)
 
     print(f"files changed: {len(changed)} | rules changed: {nrule} | renames: {len(renames)} | bare subs: {len(log)}")
     out = os.environ.get("RENAME_LOG")
