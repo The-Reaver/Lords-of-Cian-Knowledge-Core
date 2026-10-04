@@ -219,3 +219,10 @@ antithesis. Those items are dropped here. The rest remain open.
    - To sit is to yield in Anirak's track (`CC-164`, `MCD-1883`).
    - "Wake" already names an adult Ashkeel ritual (`ASH-028`), a ship's wake as a battle name
      (the False Dragon's Wake), and two abilities (`ARS-395`, `SBD-045`).
+8. **The Voice Bible against the research on comic registers.** `VB-004` permits irony and
+   understatement only. The research documents broader comic registers as real: signifying, ritual
+   insult and the toast (R0.4), escalating story rounds (R15), the performed telling (R18), the
+   tavern's growing comic story (M1), the insult that means welcome (M4), the work break's ritual
+   joke (M7), and the sailor's tall telling (M9). The standard writes all of them through deadpan
+   irony and understatement only. Abad, may these comic registers run broader than `VB-004` in told
+   accounts? Until you rule, the standard defaults to `VB-004`.

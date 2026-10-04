@@ -36,16 +36,21 @@ It sits under three rules and never loosens any of them.
     reserved rule forbids.
 - **`VB-068`** (proposed) binds this standard to those rules and adds one bar of its own: "No
   account, Series narration included, states a fact about an institution that no locked rule holds;
-  such a fact is drafted as its own rule." The bar binds every account and every narration. An
+  such a fact is drafted as its own rule." The bar binds every account and every narration. Its
+  object is a standing structure, office, form, procedure, vocabulary, or practice of a named
+  institution, as distinct from an event involving one, and it is checked in every entry's
+  Connective-Tissue review, Series entries included (§7, item 9). An
   unreliable teller's false claim about an institution is locked only as said (`VB-067`), and its
   trace is a locked rule that holds the truth. This standard governs *how* accounts sound. What they
   may say stays with `VB-067` and `VB-068`. Where this standard and either rule seem to differ, the
   rule controls.
 - **The Voice Bible** (`VB-001` to `VB-005`, `VB-010` to `VB-013`, `VB-040`, `VB-050`) binds every
   sentence of every account, and so do the track rulings `VB-063` (Onyx), `VB-022` (Red Beard's
-  Testaments), `VB-064` (Lauris's Records) and `VB-065`, with `CC-034` and `VB-024` for Ezio's
-  Exhibits. That means no phatic talk, the 50% dialogue cut, no balanced antithesis, none of the
-  banned words or borrowed terms, and the Density Spike never named. Section 2.0 shows how real talk
+  Testaments), `VB-064` (Lauris's Records), `VB-065` (Anirak's Collections) and `VB-020` (the
+  close-third Rolls and Annals), with `CC-034` and `VB-024` for Ezio's Exhibits. That means no
+  phatic talk, the 50% dialogue cut, humor limited to irony and understatement (`VB-004`), no
+  balanced antithesis, none of the banned words or borrowed terms, and the Density Spike never
+  named. Section 2.0 shows how real talk
   survives those constraints.
 - **The Connective-Tissue Gate** (CLAUDE.md, third rule) checks every account before Abad sees it.
   Section 7 is this standard's half of that gate.
@@ -80,13 +85,18 @@ in its filler words.
   because each one carries information.
   - *"Third day. No. Fourth. Fish cart was in."*
 - **R0.2 Openings and listener signals are carried by action, or by a line that carries
-  information.** A cup set down, a stool pulled out, a coin laid on the board. A listener's go-ahead
+  information.** (Pending Abad's ruling, companion draft part (c), item 4.) A cup set down, a stool pulled out, a coin laid on the board. A listener's go-ahead
   is a question, not a noise: *"Which night?"* Silence is a move.
 - **R0.3 Overlap is shown by cut-offs.** An em-dash where one speaker takes the floor, and nothing
   more.
 - **R0.4 Vernacular lives in rhythm and in genre moves, never in phonetic spelling.** [CRAFT]
   Signifying, ritual insult, call and response, and the toast carry the homage World's registers.
-  Mainline tellers carry dock, forge, and Maw idiom.
+  Each is written through deadpan irony and understatement only (`VB-004`): the insult arrives flat
+  and short, and the toast leaves its biggest claim unsaid. Mainline tellers carry dock, forge, and
+  Maw idiom under the same limit.
+  - *"Heard you rowed against the tide. Tide's still here."*
+  - Whether these registers may run broader in told accounts is on Abad's list (companion draft
+    part (c), item 8). Until he rules, `VB-004` holds.
 - **R0.5 Banned words stay banned inside a told story.** Oaths and church talk use other words: a
   teller swears on kin, on bread, on a name.
 - **R0.6 Iron and Rust belong to Onyx (`VB-021`).** A civilian teller passes judgment in their own
@@ -129,7 +139,7 @@ in its filler words.
   4. An exit tied back to the trigger.
 
   A teller who skips the go-ahead reads as urgent or rude: a messenger bursting in.
-- **R6. Status decides who judges, not only who tells.** [MODERATE; 01 F8; †Norrick 1997; 06 §2.6]
+- **R6. Status decides who tells and who judges.** [MODERATE; 01 F8; †Norrick 1997; 06 §2.6]
   The senior person at the table says little and evaluates ("And you let him?"). A story told upward
   gets judged, not joined.
 
@@ -177,21 +187,23 @@ in its filler words.
   - Declining to top is power or kindness.
   - A second story that matches the topic but misses the point shows that the listener
     misunderstood or is absorbed in himself.
-- **R15. Rounds escalate in brag zones.** [STRONG; 06 §2.4, §3]
+- **R15. Rounds escalate in brag zones.** [STRONG; 06 §2.4, §3] Each round tops the last with a
+  larger claim told in a flatter voice, through irony and understatement only (`VB-004`).
 
 ### 2.6 Voices and tense
 
 - **R16. Quoted speech is built, not recorded.** [STRONG; 01 F10] Tellers paraphrase, condense,
   and voice a whole crowd at once. The teller's bias lives in the *voice* they give the other party
   (mimicry as judgment). Word-perfect quotation of a long exchange is the oddity.
-- **R17. The tense slips at the climax.** [STRONG; 01 F10] It moves past to present at the peak and
+- **R17. The tense slips at the climax.** [STRONG for the switch, MODERATE for its placement; 01 F10] It moves past to present at the peak and
   back to past for the frame. This applies to a character telling a story aloud. It does not
   override a track's narration tense (`VB-063`, `VB-065`).
 
 ### 2.7 Performance and tuning
 
 - **R18. Performance is a frame.** [MODERATE; 01 F9] It is keyed by a formula opener, a modesty
-  disclaimer before a polished telling, and a pause for the laugh. Polish is evidence of
+  disclaimer before a polished telling, and a dry, understated line left a beat to land
+  (`VB-004`). Polish is evidence of
   repetition, so a performed story is livelier and less reliable at once.
 - **R19. The audience shapes the telling, and the telling reshapes memory.** [STRONG; 05 F7;
   †Marsh 2007, Higgins & Rholes 1978, Echterhoff et al. 2005; MODERATE–STRONG; 01 F11; †Hirst &
@@ -264,7 +276,9 @@ Two registers recur. Each is a way of telling inside one of the four states. The
 state:
 
 - **The performer** is an informed or uninformed teller, performing. He tells a yarn the room knows
-  is a yarn, and no one is meant to be fooled (09 matrix; 06 §2.7).
+  is a yarn, and no one is meant to be fooled (09 matrix; 06 §2.7). In a Comrade Account the
+  performer stays inside the Comrade bound: his exaggeration on any matter of fact must be traced
+  (§4.1, `VB-067`).
 - **The sincere self-justifier** is mistaken about his own act. He believes an account he built to
   live with himself (08 §3).
 
@@ -288,8 +302,9 @@ A lie is shown through four things:
   third-party warning [MODERATE–STRONG; 04 F3; †Levine 2020]
 
 Body-language myths may appear *as character*. A listener who trusts them is easy to fool: he
-believes the steady-eyed liar and suspects the stammering honest witness [STRONG; 04 F12; †Sporer
-& Schwandt 2007].
+believes the steady-eyed liar, then spends his suspicion on the stammering honest witness [STRONG;
+04 F12; †Sporer & Schwandt 2007, DePaulo et al. 2003 cue values recalled, Luke 2019 pages, Global
+Deception Research Team 2006 DOI].
 
 **R25. The mistaken teller passes every verbal test.** [STRONG; 05 F4, F9; †Wixted & Wells 2017,
 Talarico & Rubin 2003; CRAFT on 04 §3 and 05 §3]
@@ -320,7 +335,7 @@ written as a tell, and the error itself surfaces only through contradiction (R25
 | **Self** | Includes unflattering facts. | Little self-involvement, except "heard it first." | Neutral, or self-serving without knowing it. | Image protection; agentless at his own act [MODERATE; 08 F6; †Tavris & Aronson 2007]. |
 | **Uncertainty** | Admits gaps; corrects himself [STRONG; 04 F5]. | Hedges by source ("could be talk"). | Little hedging; confidence grown by retelling [STRONG; 05 F4; †Wixted & Wells 2017]. | Few gaps, or a strategic "Don't recall" exactly where the evidence bites. |
 | **Under challenge** | Gives the basis, adjusts the edges, keeps the core: "Ask Pruett. He was with me." | Backs off ("Only what I heard") or appeals to consensus. | Defends the experience; bewildered; may admit a source error on reflection. | Narrows: counter-questions, "Have I ever lied to you?", contempt for the asker; fits the story to each fact once shown [STRONG; 04 F8; †Hartwig et al. 2007]. |
-| **Across tellings** | Core holds; edges drift [MODERATE; 04 F10; †Vredeveldt et al. 2014, pages]. | Each relay shorter and sharper. | Drifts toward its past purpose; grows surer [STRONG; 05 F7; †Marsh 2007]. | A stable script; adds defensive specifics ("…and old Gudrun saw me go") [MODERATE; 04 F11]. |
+| **Across tellings** | Core holds; edges drift [MODERATE; 04 F10; †Vredeveldt et al. 2014, pages]. In a Comrade Account, edges drift on a matter of fact only where traced (§4.1). | Each relay shorter and sharper. | Drifts toward its past purpose; grows surer [STRONG; 05 F7; †Marsh 2007]. | A stable script; adds defensive specifics ("…and old Gudrun saw me go") [MODERATE; 04 F11]. |
 | **Exposed by** | Not applicable. | A direct witness or a record. | A physical fact or a co-witness; genuine surprise. | Rarely in the scene. Later: a third party, an object, two accounts compared [STRONG; 04 F8; †Hartwig et al. 2007]. |
 
 **The performer** (informed or uninformed, performing). Escalates in story rounds, uses theatrical
