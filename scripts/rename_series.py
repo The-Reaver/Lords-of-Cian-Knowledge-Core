@@ -97,7 +97,7 @@ def named_subs(text, keys=None):
                           lambda mm: mm.group(1) + " " + tr["plur"], text)
             text = re.sub(r"\b(" + re.escape(n) + r") (?:Character |territory )?Chronicles\b",
                           lambda mm: mm.group(1) + " " + tr["plur"], text)
-            text = re.sub(r"\b(" + re.escape(n) + r") (?:Character |territory )?Chronicle\b",
+            text = re.sub(r"(?<!The )\b(" + re.escape(n) + r") (?:Character |territory )?Chronicle\b(?!'\)| Companion)",
                           lambda mm: mm.group(1) + " " + tr["sing"], text)
             text = re.sub(r"\b(" + re.escape(n) + r"'s(?: own)?) (?:Character |territory )?Chronicles\b",
                           lambda mm: mm.group(1) + " " + tr["plur"], text)
@@ -213,7 +213,7 @@ def main():
     nrule = 0
     for r in d["rules"]:
         before = (r["statement"], r.get("source", ""), r.get("category"))
-        for fld in ("statement", "source"):
+        for fld in ("statement",):
             if fld not in r or not isinstance(r[fld], str):
                 continue
             v = generic_subs(r[fld])
@@ -227,6 +227,8 @@ def main():
             if k and k in keys:
                 v = bare_subs(v, k, log, r["id"])
             r[fld] = path_subs(v, renames)
+        if isinstance(r.get("source"), str):
+            r["source"] = path_subs(r["source"], renames)
         if r.get("category") in cat_map:
             r["category"] = cat_map[r["category"]]
         if before != (r["statement"], r.get("source", ""), r.get("category")):
