@@ -28,9 +28,10 @@ pattern of the telling or through contradiction with outside fact or locked cano
 through contradiction alone. None of them is ever shown through gaze, fidgeting, or any other
 body-language tell. Honest drift runs in memory's directions (rounder, larger, more famous, more
 vivid), within `VB-067`'s Comrade bound. A coordinated Comrade story must still be true. A liar's
-drift runs toward his own defense. A Hearsay entry makes its number of removes legible. No account,
-Series narration included, states a fact about an institution that no locked rule holds; such a
-fact is drafted as its own rule. A fact about an institution here means a fact about a standing
+drift runs toward his own defense. A Hearsay entry makes its number of removes legible. No new entry
+or new scene, Series narration included, states a fact about an institution that no locked rule
+holds; the reliable narration of a locked entry, cited by its rule ID, counts as held. Such a fact
+is drafted as its own rule. A fact about an institution here means a fact about a standing
 structure, office, form, procedure, vocabulary, or practice of a named institution, as distinct
 from an event involving one. This institution bar is checked in every entry's Connective-Tissue
 review, Series entries included. An unreliable teller's false claim about an institution is locked
@@ -39,15 +40,16 @@ how an account is told. What an account may say is set by `VB-067` (its reliabil
 Comrade Account bounds, its knowledge bound, its trace rule, and its reserved-rule bar), by this
 rule's institution bar, and by the Voice Bible's Pillars, hard constraints, exclusion list, and
 track voice rulings (`VB-063` for Onyx, `VB-022` for the Testaments, `VB-064` for the Records,
-`VB-065` for the Collections, `VB-020` for the close-third Rolls and Annals, and `CC-034` with
+`VB-065` for the Collections, `VB-020` for the close-third Alias entries, Rolls, and Annals, and `CC-034` with
 `VB-024` for the Exhibits). Where the standard and any of these differ, the locked rule controls.
 The standard's research evidence grades are craft guidance and assert nothing in-world. Its
 proposed venue and vocabulary names are usable only after each is locked by its own rule. Its
 section 7 checklist is part of the Connective-Tissue Gate's independent review for every entry and
 scene it covers. This rule's approval covers the standard's handling of the part (c) items on
 greetings carried by action (R0.2) and on spoken Spanish (M1) only once Abad rules on those items;
-until then those clauses are pending his ruling. The standard's comic registers (R0.4, R15, R18,
-M1, M4, M7, M9) are written through irony and understatement only (`VB-004`) until Abad rules on
+until then those clauses are pending his ruling, and no spoken Spanish is drafted beyond `MCD-337`'s
+locked phrase. The standard's comic registers (R0.4, R15, R18, M1, M4, M7, M9, and the comic stories
+of M6 and M11) are written through irony and understatement only (`VB-004`) until Abad rules on
 the part (c) item on comic registers. A change to the standard needs Abad's approval in his own
 words, like a change to any rule. Extends `VB-067`; qualifies nothing in it.
 
@@ -223,6 +225,7 @@ antithesis. Those items are dropped here. The rest remain open.
    understatement only. The research documents broader comic registers as real: signifying, ritual
    insult and the toast (R0.4), escalating story rounds (R15), the performed telling (R18), the
    tavern's growing comic story (M1), the insult that means welcome (M4), the work break's ritual
-   joke (M7), and the sailor's tall telling (M9). The standard writes all of them through deadpan
+   joke (M7), the sailor's tall telling (M9), and the comic stories told at the family table (M6) and at
+   wakes and remembrances (M11). The standard writes all of them through deadpan
    irony and understatement only. Abad, may these comic registers run broader than `VB-004` in told
    accounts? Until you rule, the standard defaults to `VB-004`.

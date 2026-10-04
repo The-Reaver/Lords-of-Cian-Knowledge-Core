@@ -445,7 +445,7 @@ breathe, half-believed by everyone, reads true.
   - an institution
 - **Step structure.**
   1. **Occasion and listener.** Why now, and to whom (R5).
-  2. **Vantage declared.** "Was at the gate. Saw none of the yard." Comrades mark their limits
+  2. **Vantage declared.** "Was at the gate. Yard was behind the wall." Comrades mark their limits
      honestly [CRAFT on 01 §4].
   3. **Insider allusion before the full telling.** Shorthand the crew shares; an outsider hears it
      spelled out [MODERATE; 01 F7; 03 F2; †Paine 1967].
@@ -484,7 +484,7 @@ breathe, half-believed by everyone, reads true.
   - Performer exaggeration or edge drift on any matter of fact, unless traced (`VB-067`).
   - Two comrades in identical wording, unless the scene means a coordinated story [MODERATE; 04
     F10; †Vredeveldt et al. 2014, pages]. A coordinated Comrade story must still be true.
-  - A reserved thread asserted, implied, or foreshadowed.
+  - A reserved thread asserted, implied, foreshadowed, or referenced.
   - A kill claim that departs from the locked record, unless a locked rule, or Series or type-none
     narration, records this teller as mistaken or misled about that kill, or the teller relays it
     secondhand. Only then may the account *inflate* or *soften* the kill, and the gate note traces
@@ -525,7 +525,8 @@ breathe, half-believed by everyone, reads true.
   3. The act owned at the decision ("Gave the order."), agentless at the harm ("…and the
      settlement was cleared").
   4. Condemning the condemners. This is strongest when partly true; give him one place where he is
-     right about the listener's own side.
+     right about the listener's own side, an accurate point that a locked rule or reliable account
+     already holds, listed in the presentation note.
   5. Advantageous comparison ("Ask what came after me.").
   6. No apology. At most a regret aimed at a technical failure ("Regret the courier was late.").
   - **Never mentions:** victims' names or later lives. Victims appear as categories or numbers.
@@ -576,7 +577,8 @@ breathe, half-believed by everyone, reads true.
     for the Triad Guardians (SBD usage; its "Iron" is no Onyx verdict) and `MCD-1854`'s Clinical
     Tone.
 - **Must never be.**
-  - A cartoon: give the adversary one accurate point.
+  - A cartoon: give the adversary one accurate point, one that a locked rule or reliable account
+    already holds, listed in the presentation note.
   - A fact about his own institution that no locked rule holds (`VB-068`).
   - A false statement without a trace to a locked rule, or to Series or type-none narration, that
     holds the truth (`VB-067`).
@@ -658,11 +660,12 @@ Grave-Analyst sign-off: [initials]  (SBD-050, SBD-052)
   copies (`SBD-047`, `MCD-1854`).
 - This is the truest and least readable document in the chain [CRAFT on 07 §4(a)].
 
-**(b) Analytic assessment** (07 §4(b); SBD form: Oracle Conflict Map work, `MCD-1727`)
+**(b) Analytic assessment** (07 §4(b)). The whole form is optional plain-word scaffolding; no locked
+rule sets an SBD assessment form.
 
 ```
-ASSESSMENT              Handling: [tier]   Prepared: [analyst]   Reviewed: [Grave-Analyst]
-Conflict Domain: [one of the six, MCD-1727]   Conflict Flag: [none | YES]
+ASSESSMENT              Handling: [tier]   Prepared: [analyst]   Reviewed: [optional]
+Conflict Domain / Conflict Flag: [optional; only where the file is itself Conflict Map work, MCD-1727]
 File heading: [the bureau's working category -- the theory already in the title]
 KEY JUDGMENT: [subject] [plain estimative word] [claim]. Certainty: [CONFIRMED | plain words]
 BASIS: [field records cited]   Corroboration: [independent? or one source traced back]
@@ -842,7 +845,7 @@ independently replicated by Moussaïd et al. 2015]
 **Legend migrating to aliases** [MODERATE; 02 F8; †Brunvand 1981, Fine 1992]
 
 - Unrelated deeds collect under a famous alias. A saying drifts upward (crew member to the Captain
-  to Haku).
+  to Haku, as an old saying, never a present deed, `MCD-314`).
 - Canon precedents: `MCD-825` (a harbor tavern hears three drifted versions), `MCD-448` (a cabin
   boy tells the legend back to its subject), `MCD-692` (a storyteller for coin), `MCD-881` (a
   ballad).
@@ -864,7 +867,8 @@ independently replicated by Moussaïd et al. 2015]
 
 **Must never be**
 
-- A deliberately open question asserted in a form its reserved rule forbids. The most common trap
+- A deliberately open question asserted, implied, foreshadowed, or referenced in a form its
+  reserved rule forbids. The most common trap
   is rumor of Haku's death, which `MCD-314` forbids.
 - An alias used before it exists.
 - A drift with no trace to the locked event.
@@ -1179,7 +1183,7 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 
 **Outsider**
 - A rival's supporter is tolerated, jeered, or threatened depending on the stakes. At the Teeth the
-  stakes are political and riots are standing (`MAW-063`, `MAW-065`).
+  stakes are political and riot risk is standing (`MAW-063`, `MAW-065`).
 
 **Drift**
 - Rumor spreads fast and unsourced under acute tension [MODERATE; 02 F5; †Allport & Postman 1947,
@@ -1549,7 +1553,7 @@ for the fit]
 
 **Open / close**
 - *Open:* the matter named.
-- *Close:* the vote, and the coffee or bread after. The real talk happens at the close.
+- *Close:* the vote, and the bread after (coffee in the homage World). The real talk happens at the close.
 
 **Challenge**
 - Points of order. "Who's speaking for whom?"
@@ -1728,8 +1732,9 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
 8. **Reserved rules.** Nothing asserts, implies, foreshadows or references what a reserved rule
    forbids: `MCD-314` (Haku), `ARS-437` (the Heartline's Book 1 beat), `MCD-1569`, and every
    profile's reserved-threads list. Open questions are repeated as rumor only in permitted form.
-9. **No new institution facts.** No account, Series narration included, states a fact about an
-   institution that no locked rule holds; such a fact is drafted as its own rule (`VB-068`), a
+9. **No new institution facts.** No new entry or new scene, Series narration included, states a
+   fact about an institution that no locked rule holds (the reliable narration of a locked entry,
+   cited by its rule ID, counts as held); such a fact is drafted as its own rule (`VB-068`), a
    **[RULE NEEDED]** draft for Abad. An unreliable teller's false claim about an institution is
    locked only as said (`VB-067`) and traces to a locked rule that holds the truth. A fact about an
    institution here means a fact about a standing structure, office, form, procedure, vocabulary,
