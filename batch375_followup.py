@@ -26,7 +26,7 @@ EDITS = {
         ("at the chronicle's close", "at the entry's close", 1),
     ],
     CH + "lauris-record-lxvii-what-a-civilization-takes-its-time-deciding.md": [
-        ("a deliberation the chronicle does not compress", "a deliberation the entry does not compress", 1),
+        ("a deliberation the\nchronicle does not compress", "a deliberation the\nentry does not compress", 1),
     ],
     CH + "the-notebook-garren-hask-finally-opened.md": [
         ("the Sankofa territory Annals entry's \"crack\" entry", "the Sankofa Annals' \"crack\" entry", 1),
