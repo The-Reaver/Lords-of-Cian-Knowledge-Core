@@ -197,7 +197,7 @@
 +reliable narration records the teller as mistaken or misled, or in secondhand relay, and traced),
 +whatever the register (`VB-004` as amended, Batch 377).
  
-@@ -1806,6 +1812,20 @@
+@@ -1806,6 +1812,21 @@
      - No phatic talk; dialogue cut by half.
 -    - Humor is irony and understatement only (`VB-004`). Every comic register, including R0.4,
 -      R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and
@@ -213,8 +213,9 @@
 +      standard sets out, M8's closing drink toast included, is a comic register only where its
 +      purpose in the telling is laughter. For this purpose the teller's voice in a Comrade Account,
 +      an Adversary Account, or a Hearsay entry counts as characters' talk, its reliability as
-+      `VB-067` sets it. In a Comrade Account, a register that inflates a matter of fact is used only
-+      within `VB-067`'s Comrade bound, traced (§4.1, item 7). The 50% rule, the phatic bar, fact
++      `VB-067` sets it. In a Comrade Account, the teller's own telling inflates a matter of fact
++      only within `VB-067`'s Comrade bound, traced (§4.1, item 7); talk the teller quotes from
++      others is locked only as said (`VB-067`). The 50% rule, the phatic bar, fact
 +      over emotion, and every hard constraint still apply. The amendment changes no narration and no
 +      Dossier text, speech quoted in a Dossier included. Each designated narrator, as narrator, as
 +      teller, and as a speaking character, keeps their own sheet (`VB-021` to `VB-025`). Every track
@@ -222,7 +223,7 @@
 +      diction, and these registers run inside it. Onyx stays under `VB-063` alone. Every such
 +      register stays nonexplicit (item 17).
      - No balanced antithesis, including "not only… but also" and "while X, Y."
-@@ -1824,2 +1844,5 @@
+@@ -1824,2 +1845,5 @@
      and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).
 +    In a told account, every comic register stays nonexplicit; sexual talk is between adults only,
 +    with no minor present, addressed, or referenced, and no minor is the subject of a sexual insult,

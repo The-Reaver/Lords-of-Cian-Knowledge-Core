@@ -1,6 +1,6 @@
 # VB-004 amendment and the account-craft vocabulary (LEX-001 to LEX-025)
 
-*Draft for Abad's approval, 2026-10-04 (revision 14, after the thirteenth independent review). Nothing here is locked. It carries out his rulings at
+*Draft for Abad's approval, 2026-10-04 (revision 15, after the fourteenth independent review). Nothing here is locked. It carries out his rulings at
 `VB-068`'s lock ("lock it, approve the picks, confirm all three"): the comic registers may run
 broader than `VB-004` in told accounts, set out as a `VB-004` amendment; and the approved picks from
 the naming table (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`, part (b))
@@ -35,9 +35,9 @@ Every track voice ruling (`VB-020`, `VB-022`, `VB-024`, `VB-063`, `VB-064`, `VB-
 every character's own voice (`VB-030`) still governs that character's diction, and the registers
 this amendment permits run inside it. Onyx's voice, narrating or through the grip, stays under
 `VB-063` alone. What any of these registers may claim stays with `VB-067` and `VB-068`: in a Comrade
-Account, a register that inflates a matter of fact is used only within `VB-067`'s Comrade bound, on
+Account, the teller's own telling inflates a matter of fact only within `VB-067`'s Comrade bound, on
 a matter where a locked rule or reliable narration records the teller as mistaken or misled, or in
-secondhand relay, and traced. The 50% rule, the bar on phatic talk, fact over emotion, the banned
+secondhand relay, and traced; talk the teller quotes from others is locked only as said (`VB-067`). The 50% rule, the bar on phatic talk, fact over emotion, the banned
 words, and every hard constraint still apply. Every register this amendment permits stays
 nonexplicit. Sexual talk in any of them is between adults only, with no minor present, addressed, or
 referenced, and no minor is the subject of a sexual insult, boast, or story (account craft standard,
@@ -58,7 +58,7 @@ purpose in the telling is laughter, within `VB-004` as amended."
 ## (b) Name rules
 
 Each rule locks a word or a name and the plain fact it labels. None of them sets an institution's
-procedure. Where a name's place or keeper is unfixed, the first entry that places it fixes it. A
+procedure. Where a name's place or keeper is unfixed, the first locked rule, or the first reliable narration of a locked entry (`VB-067`, `VB-068`), that places it fixes it; entries locked in one batch must agree on it, and an unreliable teller's or a character's placement is locked only as said. A
 house's standing custom is drafted as its own rule (`VB-068`). The collision notes that bear on use are carried; the full results stand in the naming table.
 
 ### Mainline Cian
@@ -68,15 +68,15 @@ house's standing custom is drafted as its own rule (`VB-068`). The collision not
 everyday halls have their own word (**LEX-025**). Collision-checked clean.
 
 **LEX-002**. the Slack Hawser: a dockside tapstead (**LEX-001**) on Cian, named for a rope gone
-slack when a crew is off duty. Its harbor and keeper are fixed by the first entry that places it. "Slack" is one letter from Anirak's Stack (`ARS-439`), so the house is kept out of any
+slack when a crew is off duty. Its harbor and keeper are fixed by the first locked rule, or the first reliable narration of a locked entry (`VB-067`, `VB-068`), that places it; entries locked in one batch must agree on it, and an unreliable teller's or a character's placement is locked only as said. "Slack" is one letter from Anirak's Stack (`ARS-439`), so the house is kept out of any
 scene where her Stack is named. Its trade, custom, or offices are drafted as their own rule (`VB-068`).
 
 **LEX-003**. the Tallow Lamp: a foundry-district tapstead (**LEX-001**) on Cian, named for cheap
-light. Its district and keeper are fixed by the first entry that places it. It is unconnected to
+light. Its district and keeper are fixed by the first locked rule, or the first reliable narration of a locked entry (`VB-067`, `VB-068`), that places it; entries locked in one batch must agree on it, and an unreliable teller's or a character's placement is locked only as said. It is unconnected to
 the Tallow Road near Kesmara (`MCD-1689`). Its trade, custom, or offices are drafted as their own rule (`VB-068`).
 
 **LEX-004**. the Last Bell: a Maw-side tapstead (**LEX-001**) on Cian where the crowd drinks after
-the night's final bout. Which Maw it stands near is fixed by the first entry that places it. It is
+the night's final bout. Which Maw it stands near is fixed by the first locked rule, or the first reliable narration of a locked entry (`VB-067`, `VB-068`), that places it; entries locked in one batch must agree on it, and an unreliable teller's or a character's placement is locked only as said. It is
 unconnected to the Belly (Maw-3, `MAW-061`) and to the Last Ward (`ARS-390`). Its trade, custom, or offices are drafted as their own rule (`VB-068`).
 
 **LEX-005**. the Call Yard: dockers' word on Cian for an open yard where a foreman calls the day's
@@ -127,7 +127,7 @@ from Onyx's Whisper of Shadows (`ARS-020`).
 Each of these is used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
 **LEX-015**. the Shekere: a bar in the homage World, named for the beaded gourd rattle; a room that
-keeps time. Its territory and keeper are fixed by the first entry that places it. Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention. Its trade, custom, or offices are drafted as their own rule (`VB-068`).
+keeps time. Its territory and keeper are fixed by the first locked rule, or the first reliable narration of a locked entry (`VB-067`, `VB-068`), that places it; entries locked in one batch must agree on it, and an unreliable teller's or a character's placement is locked only as said. Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention. Its trade, custom, or offices are drafted as their own rule (`VB-068`).
 
 **LEX-016**. kibanda: homage-World street word for an after-hours spot (Swahili, "shack, kiosk"). Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
