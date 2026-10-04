@@ -1,6 +1,6 @@
 # Anirak Chronicle I: What Maw-11 Kept
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (fourth draft, after three independent review rounds). First
+*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (fifth draft, after four independent review rounds). First
 entry of Anirak's Character Chronicle series (Game Plan pitch 2, locked at Batch 372). Close-third on
 Anirak per `VB-065`. Kanja age 140, the Long Mask, the Maw Cascade's inside job at Maw-11 (`MCD-264`).
 Her first marquee kill under `MCD-1881`, a `CC-164` necessity kill. New named character: Gethin
@@ -84,7 +84,7 @@ The yard. Packed sand over stone, raked smooth in rows. Lamps on poles at the co
 middle, a raised floor of fitted blocks, the seams stained dark. Blood in the sand. Blood on the Slab's edge,
 the afternoon's, not yet swept.
 
-Forty men. Slab crews at the reset carts with brooms and iron bars. Guards at the armory doors. Wardens
+Forty men. Slab crews at the reset carts with brooms and iron bars. Guards at the armory doors, free men in the Maw's pay. Wardens
 at the water trough, cups in hand, free men hired to the clubs.
 
 Every face found her.
@@ -173,8 +173,7 @@ Ghostwind had found them. Ghostwind had put the reeds in their hands.
 Up on the mast, the box began to tick. A sound like a cooling stove. Then a whine, high and thin, that
 set the yard's dogs barking somewhere behind the armories.
 
-Down there the weight would be coming off. Down there three thousand eight hundred would be lifting
-their arms.
+Down there the weight would be coming off. Down there every pen would be lifting its arms.
 
 She kept walking. Round the Slab.
 
@@ -197,10 +196,11 @@ keys. The pens.
 
 A free man. A careful one. Nothing left his tunnels uncounted.
 
-He would have felt the singing in the floor wherever he stood. Every tunnel
+Every tunnel
 master in the south had heard of the Blackout.
 
-The staging rack inside the door held the hook-poles. She passed it at a run. One hook was gone.
+An inner way ran from the armories to the staging floor. The staging rack inside the door held the
+hook-poles. She passed it at a run. One hook was gone.
 
 • • •
 
@@ -234,7 +234,7 @@ Anirak came down the last ten paces still moving, the Fangs swinging at her knee
 
 One man. One pole, hooked, set at a throat. His weight set behind it.
 
-He is killing her now.
+He will drive it.
 
 She spoke from the dark, once.
 
@@ -278,7 +278,7 @@ her face down the tunnel, from the bars. The singing found its depth again.
 
 It filled the tunnel. It filled the stone. She felt it in her teeth.
 
-Far above, through rock, a crack. Like a mast parting in a gale. Then the thin whine stopped.
+Far above, through rock, a crack. Like a cask-stave splitting. Then the thin whine stopped.
 
 In the pen, a man put his hands on two bars and pulled.
 
@@ -301,7 +301,8 @@ He was gone, the air sucking after him.
 
 They walked.
 
-Up through the staging tunnels and out the door into the yard. Grey faces, scarred arms, bare feet on
+Up through the staging tunnels and out the door into the yard. The staging hands came up out of the
+tunnels with them. Grey faces, scarred arms, bare feet on
 packed sand. Past the guards and wardens still sitting in the sand by the Slab. None of them rose. At the reset
 carts the Slab crews set their iron bars down on the sand and fell in with the rest. Past the trough and the dark armory doors. Out through the gate. Edda and Hamund stood aside. Odile kept
 her back to the hinge post. The gate stood open.
@@ -355,23 +356,22 @@ lock rule): she mapped Ghostwind's route from her own knowledge of the tunnels a
 unseen (`CC-112`), went in openly by the front gate as the visible draw, holding the yard while Ghostwind
 worked below. The device is rendered as thirty forearm-length bronze reeds, weighted at the foot,
 demonstrated by Ghostwind humming down one, felt as vibration rather than heard, carried in by Ghostwind and sung into by the pens: the Hymn-Engine's
-synchronized-voice cancellation of Blight Frequency suppression (`ARS-398`, `MCD-236`) under its
-precision-beam doctrine (`MCD-248`), after the Calibration Theft's redesign (`MCD-265`, age 108), an
+synchronized-voice cancellation of Blight Frequency suppression (`ARS-398`, `MCD-236`) after the Hymn-Engine tradition of `MCD-248`, after the Calibration Theft's redesign (`MCD-265`, age 108), an
 inside job in the literal sense. The mast's box overloads and splits, as the Blackout's relay towers
 were overloaded (`MCD-237`). The Maw's held are kept under Blight-frequency suppression (`ARS-398`); counter-frequency neutralizing
 Maw suppression is the mechanism `MAW-088` gives the later Frequency Vaccine; the box faces the pen
 block, so the yard and its bouts sit in spill only; the bent and sheared grates show the freed at their
 true density. Anirak is one of the nineteen Avatars under the Sovereign Umbrella (`MCD-140`), whose
 Blight Immunity (`MCD-060`, Stage 1 Sub 2) has the crew as its recipient, so the mast does not touch
-her tonight; she knows its weight from her years there. Only engineering extends that protection to a
-population (`MCD-265`), which is why the pens need the singing. No radius is asserted. Anansi's portable generator, the Frequency Vaccine (`MCD-265`, age 180), comes later and is
+her tonight; she knows its weight from her years there. Blight Immunity's recipient is the crew; its population-scale form is engineering (`MCD-265`), which is why the pens need the singing. No radius is asserted. Anansi's portable generator, the Frequency Vaccine (`MCD-265`, age 180), comes later and is
 not used. Ghostwind at 29 (recruited at 19, age 130, `MCD-258`), with the Slipstream Harness and the
 Vane-Compass (`ARS-409`); the Wind-Razors are not drawn. Her kill: Gethin Tamber, a free tunnel master
 (the free master over `MAW-077`'s Tier 2 backstage handlers, who run tunnels, staging, and armories), a
 `CC-164` necessity kill. He has a hook set at a singer's throat with his weight behind it, is given terms once ("Leave it. Walk."), is driving the
 hook when the Fang strips the pole, then draws a knife and goes back through the bars at her, and the
-Morning Star kills him. He never turns on Anirak. The yard's fighters are free guards and hired wardens; the Slab crews, Tier 1 handlers and
-overwhelmingly Cestari (`MAW-077`), never fight and walk out with the pens, so the locked 3,800
+Morning Star kills him. He never turns on Anirak. The yard's fighters are free guards in the Maw's pay and hired wardens; the Slab crews (Tier 1) and
+the staging hands (Tier 2), handlers overwhelmingly Cestari (`MAW-077`), never fight and walk out with
+the pens, so the locked 3,800
 (`MCD-264`) counts everyone held behind the walls. Every yard fighter is disarmed or dropped and none is
 killed: a First Payment variant on the opening guard, Compound Interest, Siren's Draw, and Foreclosure
 (`ARS-441`); Foreclosure is lethal only to those who keep coming (`CC-164`), and no one keeps coming. The
