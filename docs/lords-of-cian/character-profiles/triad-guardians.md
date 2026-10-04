@@ -93,8 +93,9 @@ Varruk.
   Talisman's output wouldn't disrupt the bonding frequencies.
 - `CULT-199` — The SBD's own protocol holds that the Guardians "operate on principles incompatible
   with SBD technology."
-- No rule locks an age, lifespan, or maturation rate for any of the three. Their age at Book 1 is
-  derivable only from Pyro's (bonded at his birth): `CC-101` gives Pyro as "roughly 24-36 at Book 1."
+- No rule locks an age, lifespan, or maturation rate for any of the three. Their bond dates from
+  Pyro's birth (`MCD-270`). Varruk was alive at Kanja 248 (`MCD-277`), so he is at least 66 at
+  Book 1 on the 284 reading. Varkul's and Sorya's ages are unlocked.
 
 ### Relationships
 
@@ -402,9 +403,10 @@ Listed for decision, not resolved. Each quotes both sides with rule IDs.
 13. **No book role, and an age that inherits an open question.** No Book 1-5 role is locked for any
     Guardian. `MCD-221` puts Pyro on the Book 5 Engine front without them, while `CC-095` says
     separation from Pyro strains Varkul and `CC-099` says Varruk always knows the path to him.
-    `CC-123` (Varkul at the clinic) is the only in-series appearance. Their age at Book 1 tracks
-    Pyro's, which `CC-101` gives as "roughly 24-36," itself downstream of the open 284-vs-296-year
-    question (A1) on when Book 1 opens.
+    `CC-123` (Varkul at the clinic) is the only in-series appearance. No rule locks an age for any
+    of the three. Their bond dates from Pyro's birth (`MCD-270`). Varruk was alive at Kanja 248
+    (`MCD-277`), so he is at least 66 at Book 1 on the 284 reading. Varkul's and Sorya's ages are
+    unlocked.
 
 14. **"Coursers" as a T.D.K. asset.** `MCD-320`: T.D.K. reacts to the Pi-Awakening with "Deploy the
     Coursers." `MCD-040`: "Tide-Back Coursers (Varkul's species)," with only three Dhar-Kael alive.
@@ -513,8 +515,8 @@ written under the recommended answer and says where it depends on one.
   how the clade lived through the Vael Kem war (`MCD-041`) and how any Dhar-Kael without a keeper
   lived at all.
 - **Option 2: a long-lived clade with a long juvenile stage.** New fact: juvenility lasts a century
-  or more, with no link to imprinting. No new imprint mechanism is needed, and how the three came
-  to maturity by Book 1 stays unexplained. On finding 2 (when the bond completed), this option
+  or more, with no link to imprinting. No new imprint mechanism is needed, and their life stage
+  at Book 1 (juvenile or grown) stays unfixed. On finding 2 (when the bond completed), this option
   leaves it open; it can adopt option 1's keying clause separately.
 - **Option 3: a different Oath-Raptor at the Dog Watch.** Amend `MCD-277` so the bird seen at 248
   is not Varruk. `MCD-040` and `ARS-200` count present survivors, so a fourth bird that died before
@@ -531,8 +533,9 @@ written under the recommended answer and says where it depends on one.
   him safe cuts against what he wants (`CC-097`). Possible scope: a clarifying clause on `CC-097`
   defining the Oath as the keeper's vow. This is also Sorya's bond expression, the one missing from
   the three (finding 12): Varkul holds through will (`CC-095`), Varruk through the path (`CC-099`),
-  Sorya through the vow. With eidetic recall across every sense (`CC-096`), she carries the keeper
-  and the night of the Gate up to the moment she was pushed out, which is why she is the one who
+  Sorya through the vow. New fact: the three were with her through the Demaron fight and the
+  inversion, so with eidetic recall across every sense (`CC-096`) she carries the keeper and the
+  night of the Gate up to the moment she was pushed out, which is why she is the one who
   can show Pyro his history from outside his own view (`ARS-414`). `ARS-414` ties her showing to
   when he learns his father's identity, and gives its content as his own history. Proposed: what
   she shows stops short of his mother's survival, which stays reserved unless Abad rules otherwise.
@@ -567,7 +570,7 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
   - **Varkul** carries it in the body. Separation from Pyro strains him physically (`CC-095`).
   - **Sorya** carries it in memory. She holds the keeper and that night up to the moment she was
     pushed out (`CC-096`, `MCD-131`). Depends on TA3.
-  - **Varruk** is the only one whose life before the Gate is on record (`MCD-277`). He ranged
+  - **Varruk** was seen at the Dog Watch, 42 years before the bond (`MCD-277`). Proposed: he ranged
     before the bond and ranges still, always on the safe path back to Pyro (`CC-099`).
 - **Defense mechanisms (PROPOSED -- for Abad's confirmation):**
   - **Shared: closeness and overwatch.** Proposed: none of the three is out of reach of Pyro for
@@ -613,8 +616,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
     three now stand under his Talisman's Sovereign Umbrella as Avatars (`MCD-140`). Sorya holds
     him to any vow he swears, as she would anyone (`CC-097`). Whether she knows he is Pyro's father
     is left open under TA3.
-  - **Stormbreaker.** A fellow guardian of Pyro (`CC-045`). Under TA1 and TA3, Sorya remembers his
-    fight with the Demaron that night.
+  - **Stormbreaker.** A fellow guardian of Pyro (`CC-045`). Proposed (depends on TA3's new fact):
+    Sorya remembers his fight with the Demaron that night.
   - **Sephtis.** Calls Sorya "the True Log," his highest compliment, matching her recall to his own
     archive (`ARS-403`, `ARS-414`). Proposed: he is the one human who treats her as a peer. His
     place aboard depends on approval-list item 38 (`MCD-982`).
@@ -671,8 +674,8 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   on any one of four parts: "raised," "from birth," "homeland," or "in the Shattered Kingdoms." Two
   options, for Abad's ruling.
   - **Option (i), a proposed new fact:** the keeper did not raise them.
-  - **Option (ii), a proposed new fact:** she kept them, but not from their birth, or not in a
-    homeland, or not in the Shattered Kingdoms. This sits more easily with `MCD-040`'s "last
+  - **Option (ii), a proposed new fact:** she kept them, and the claim fails on "from birth," on
+    "homeland," or on "in the Shattered Kingdoms." This sits more easily with `MCD-040`'s "last
     keeper" and with this profile's throughline.
   - TA1 and TA3 stand under either option; neither depends on custody before 290. Her homeland
     stays open. Any entry quoting the file locks it only as said (`VB-067`).
@@ -698,7 +701,8 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   (Kanja 296, `MCD-277`) when that event is first drafted.
 - **TB9. Book roles, and the Triad's absence from Book 5's fronts (finding 13).** Queued.
   Separation strains Varkul (`CC-095`), and `MCD-221` puts Pyro on the Engine front without them.
-  Recommended: they are with Pyro on the Engine front, which a clause on `MCD-221` would state.
+  Recommended, a new fact: they are with Pyro on the Engine front. Scope: a clause on `MCD-221`'s
+  Engine-front roster.
 - **TB10. T.D.K.'s "Coursers" (finding 14).** Two options.
   - **Recommended: rename T.D.K.'s asset in `MCD-320`.** The shared word collides with the
     Tide-Back Coursers, Varkul's species (`MCD-040`), and project practice renames such collisions
@@ -788,8 +792,8 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   - **Option: Sephtis as a recurring teller.** He is not a `VB-020` narrator, so an entry he tells
     files as a Comrade Account outside the Series (`VB-067`), and approval-list item 38 must be
     ruled first.
-  - **Onyx is unavailable.** It is sealed at L9 for the whole of the Triad's pre-Book-1 life
-    (`CC-012`, `MCD-246`).
+  - **Onyx is unavailable.** It is sealed at L9 for the whole Long Mask, Kanja 30-314 (`CC-012`,
+    `MCD-246`), which spans every locked Triad event before Book 1 (Kanja 248-314).
 - **Kill register:** the Triad sit outside the marquee tier (`MCD-1881`). Varkul's true ceiling is
   never shown maxed on the page (`SBD-044`). Proposed, a new fact for Abad's ruling: a Guardian
   uses lethal force only against an active, immediate threat to the life of Pyro or to lives

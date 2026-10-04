@@ -606,7 +606,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     her. The man who raised Pyro believes he killed Pyro's mother, and Pyro trusts him completely.
     Cost: under B2's order he is present when she inverts the Gate, so the belief holds only if he
     did not see or understand the inversion, which a new fact must supply. Support: `CC-045`'s own
-    framing that he "ended her body's vessel," in-world misdirection per `MCD-133`.
+    framing that he "ended her body's vessel," in-world misdirection per `MCD-133`. Sorya as a
+    witness to his fight rests on the Triad file's TA3 new fact (proposed).
   - **The Triad.** Bonded to him on the night he was born (`MCD-270`). Varkul holds him first by
     refusing pain and fatigue (`CC-095`), Varruk by always knowing the safest path to him
     (`CC-099`), Sorya through the Oath (under TA3). They keep him steady (`ARS-421`) and pull him out
@@ -614,7 +615,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
   - **The crew he feeds.** The crew drifts toward his warmth without noticing it (`ARS-421`).
     Ironbane is the first person his food is proven to heal (`MCD-272`). Proposed: his place aboard
     was earned at the table, one meal at a time.
-  - **The ones who keep the secret.** Kanja, Stormbreaker and Azar (`CC-079`), Sephtis for 24
+  - **The ones who keep the secret.** Kanja (`CC-079`); Stormbreaker and Azar, who know or suspect
+    (`CC-079`; which of them knows is ruled under A3); Sephtis for 24
     years (`CC-110`; his place aboard across Kanja 290-314 depends on approval-list item 38,
     `MCD-982`), and possibly Sorya, whose knowledge of the father the Triad file leaves open under
     its TA3 (pending its ruling). He is surrounded by people who hold a truth about him, and he
@@ -708,7 +710,9 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   whenever her own material is drafted. Under A3 option 1 the marriage is private.
 - **B6. Who aboard knows she survived.** New, raised by A3. No recommendation. For Abad's ruling:
   where this sits under the "most devastating blow" ranking and `CC-161`. Both options are a new
-  fact about Kanja and touch `kanja-haku-rexmar.md`, whose profile is scoped to ages 18-30.
+  fact about Kanja and touch `kanja-haku-rexmar.md`. Its Psychological Profile is confirmed for ages
+  18-30, but its Long Mask track (ages 30-314, amendment of 2026-10-02) covers the birth year.
+  Either option needs a line there, and the ruling binds any Kanja-version entry set at 290-314.
   - **Option (a): no human aboard knows, Kanja included.** He believes his wife died the night Pyro
     was born, 24 years before Book 1 (under A1 option 1). Costs:
     - Abad's verbatim ranking makes Maro's death "the most devastating blow" of Kanja's life
@@ -728,8 +732,8 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   - **Option (b): Kanja knows she lives, fused into the Gate, and keeps that too.** Costs: a second
     concealment beside `CC-079`, held from Pyro and from Stormbreaker; knowledge of the Gate that no
     rule gives him; and the same three entries then carry a living wife he cannot reach, again in
-    silence. It removes the competition with the "most devastating blow" ranking, because no death
-    is grieved. If he knows the curse is T.D.K.'s (B4), it carries the same `CC-161` exposure as
+    silence. It removes the competition of a grieved death. A wife alive and out of reach for 24
+    years may still compete with the ranking, and Abad must rule whether it does. If he knows the curse is T.D.K.'s (B4), it carries the same `CC-161` exposure as
     option (a): a wife made unreachable by T.D.K.'s curse (`CC-046`, `MCD-136`) supplies the same
     motive for the urge to destroy his enemies, 24 years before Maro dies.
   - Under either option, proposed if the Stormbreaker facet is confirmed: Stormbreaker believes he
@@ -766,9 +770,10 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
     flagship's quartermaster (`MCD-448`, `MCD-1251`; continuity notes of
     `the-boy-who-didnt-know-his-name.md`, lines 42-44).
 - **B12. The Onyx account (finding 18).** Onyx is sealed at L9 for Pyro's whole pre-Book-1 life
-  (`CC-012`, `MCD-246`). Under `VB-062` the birth needs an Onyx account. It is retrospective, files
-  in the Kanja-version track (`VB-067`), carries body signals only (`ARS-437`), and its
-  reconciliation of the Dark Ledger entry waits on the B6 ruling.
+  (`CC-012`, `MCD-246`). Under `VB-062` the birth needs an Onyx account. It is retrospective and
+  files in the Kanja-version track (`VB-067`). It opens on a Dark Ledger entry, which carries body
+  signals only (`ARS-437`), and reconstructs the cause from the full channel restored at the Book 1
+  reunion. That reconstruction waits on the B6 ruling.
 - **B13. Book 1-4 placement (finding 19).** Queued for the Game Plan. Recommended: the window
   stays between Kanja 290 and the Fulfillment Ceremony (`MCD-025`/`091`), on the Ozmund precedent,
   until Abad opens a later one. On the present reading the Last Breakfast (`MCD-277`) falls outside
