@@ -39,9 +39,9 @@ It sits under three rules and never loosens any of them.
   such a fact is drafted as its own rule." The bar binds every account and every narration. Its
   object is a standing structure, office, form, procedure, vocabulary, or practice of a named
   institution, as distinct from an event involving one, and it is checked in every entry's
-  Connective-Tissue review, Series entries included (§7, item 9). An
-  unreliable teller's false claim about an institution is locked only as said (`VB-067`), and its
-  trace is a locked rule that holds the truth. This standard governs *how* accounts sound. What they
+  Connective-Tissue review, Series entries included (§7, item 9). An unreliable teller's false
+  claim about an institution is locked only as said (`VB-067`), and its trace is a locked rule that
+  holds the truth. This standard governs *how* accounts sound. What they
   may say stays with `VB-067` and `VB-068`. Where this standard and either rule seem to differ, the
   rule controls.
 - **The Voice Bible** (`VB-001` to `VB-005`, `VB-010` to `VB-013`, `VB-040`, `VB-050`) binds every
@@ -50,8 +50,7 @@ It sits under three rules and never loosens any of them.
   close-third Rolls and Annals), with `CC-034` and `VB-024` for Ezio's Exhibits. That means no
   phatic talk, the 50% dialogue cut, humor limited to irony and understatement (`VB-004`), no
   balanced antithesis, none of the banned words or borrowed terms, and the Density Spike never
-  named. Section 2.0 shows how real talk
-  survives those constraints.
+  named. Section 2.0 shows how real talk survives those constraints.
 - **The Connective-Tissue Gate** (CLAUDE.md, third rule) checks every account before Abad sees it.
   Section 7 is this standard's half of that gate.
 
@@ -80,13 +79,15 @@ Real talk is long, overlapped, and full of filler. The Voice Bible cuts dialogue
 phatic talk (`VB-004`, `VB-050`). The two fit because realism lives in a story's *structure*, not
 in its filler words.
 
-- **R0.1 Cut filler, keep imperfection.** [CRAFT, grounded in STRONG; 04 F5] Greetings, "you
-  know," and "mm-hm" go. Self-corrections, admitted gaps, odd details, and source tags stay,
-  because each one carries information.
+- **R0.1 Cut filler, keep imperfection.** [CRAFT, grounded in STRONG; 04 F5; †DePaulo et al. 2003
+  cue values recalled, Amado et al. 2016 DOI] Greetings, "you know," and "mm-hm" go.
+  Self-corrections, admitted gaps, odd details, and source tags stay, because each one carries
+  information.
   - *"Third day. No. Fourth. Fish cart was in."*
 - **R0.2 Openings and listener signals are carried by action, or by a line that carries
-  information.** (Pending Abad's ruling, companion draft part (c), item 4.) A cup set down, a stool pulled out, a coin laid on the board. A listener's go-ahead
-  is a question, not a noise: *"Which night?"* Silence is a move.
+  information.** (Pending Abad's ruling, companion draft part (c), item 4.) A cup set down, a stool
+  pulled out, a coin laid on the board. A listener's go-ahead is a question, not a noise: *"Which
+  night?"* Silence is a move.
 - **R0.3 Overlap is shown by cut-offs.** An em-dash where one speaker takes the floor, and nothing
   more.
 - **R0.4 Vernacular lives in rhythm and in genre moves, never in phonetic spelling.** [CRAFT]
@@ -195,19 +196,20 @@ in its filler words.
 - **R16. Quoted speech is built, not recorded.** [STRONG; 01 F10] Tellers paraphrase, condense,
   and voice a whole crowd at once. The teller's bias lives in the *voice* they give the other party
   (mimicry as judgment). Word-perfect quotation of a long exchange is the oddity.
-- **R17. The tense slips at the climax.** [STRONG for the switch, MODERATE for its placement; 01 F10] It moves past to present at the peak and
-  back to past for the frame. This applies to a character telling a story aloud. It does not
-  override a track's narration tense (`VB-063`, `VB-065`).
+- **R17. The tense slips at the climax.** [STRONG for the switch, MODERATE for its placement; 01
+  F10] It moves past to present at the peak and back to past for the frame. This applies to a
+  character telling a story aloud. It does not override a track's narration tense (`VB-063`,
+  `VB-065`).
 
 ### 2.7 Performance and tuning
 
 - **R18. Performance is a frame.** [MODERATE; 01 F9] It is keyed by a formula opener, a modesty
   disclaimer before a polished telling, and a dry, understated line left a beat to land
-  (`VB-004`). Polish is evidence of
-  repetition, so a performed story is livelier and less reliable at once.
-- **R19. The audience shapes the telling, and the telling reshapes memory.** [STRONG; 05 F7;
-  †Marsh 2007, Higgins & Rholes 1978, Echterhoff et al. 2005; MODERATE–STRONG; 01 F11; †Hirst &
-  Echterhoff 2012]
+  (`VB-004`). Polish is evidence of repetition, so a performed story is livelier and less reliable
+  at once.
+- **R19. The audience shapes the telling, and the telling reshapes memory.** [STRONG; 05 F7; †Marsh
+  2007, Higgins & Rholes 1978, Echterhoff et al. 2005, Dudukovic et al. 2004 pages, Tversky & Marsh
+  2000 pages; MODERATE–STRONG; 01 F11; †Hirst & Echterhoff 2012]
   - One veteran tells three versions: funny for the drinking crowd, gentle for the widow, careful
     for the magistrate.
   - The version told most often is the one he believes twenty years on.
@@ -285,19 +287,22 @@ state:
 ### 3.1 The cardinal rule: no body-language tells
 
 **R24. Never signal a lie with gaze, fidgeting, sweat, or a single gesture.** [STRONG; 04 F12;
-†Sporer & Schwandt 2007; 01 F14; †Bond & DePaulo 2006; MODERATE; 08 F14]
+†Sporer & Schwandt 2007, DePaulo et al. 2003 cue values recalled, Luke 2019 pages, Global Deception
+Research Team 2006 DOI; 01 F14; †Bond & DePaulo 2006; MODERATE; 08 F14]
 
 - Gaze aversion has essentially no link to lying.
-- Untrained listeners catch lies at about 54%, barely above chance [STRONG; 04 F1].
+- Untrained listeners catch lies at about 54%, barely above chance [STRONG; 04 F1; †Bond & DePaulo
+  2006 split, Hartwig & Bond 2014 composite, recalled].
 - A character who "always knows" a lie is written as hubris or luck.
 
 A lie is shown through four things:
 - the *pattern* of the telling (§3.2)
-- *contradiction with outside fact*, usually exposed later through a third party, an object, or
-  two accounts set side by side [STRONG; 04 F8; †Hartwig et al. 2007; 01 F14; †Bond & DePaulo
-  2006]
+- *contradiction with outside fact*, usually exposed later through a third party, an object, or two
+  accounts set side by side [STRONG; 04 F8; †Hartwig et al. 2007, Hartwig et al. 2005 pages,
+  Hartwig, Granhag & Luke 2014 pooled effect, Luke et al. 2016; 01 F14; †Bond & DePaulo 2006]
 - *withheld evidence*: the listener holds back what they know, and the liar walks into it [STRONG;
-  04 F8; †Hartwig, Granhag & Luke 2014 pooled effect not re-checked]
+  04 F8; †Hartwig et al. 2007, Hartwig et al. 2005 pages, Hartwig, Granhag & Luke 2014 pooled
+  effect, Luke et al. 2016]
 - a *trigger* that switches a listener out of default belief: a stated motive, a contradiction, a
   third-party warning [MODERATE–STRONG; 04 F3; †Levine 2020]
 
@@ -307,7 +312,7 @@ believes the steady-eyed liar, then spends his suspicion on the stammering hones
 Deception Research Team 2006 DOI].
 
 **R25. The mistaken teller passes every verbal test.** [STRONG; 05 F4, F9; †Wixted & Wells 2017,
-Talarico & Rubin 2003; CRAFT on 04 §3 and 05 §3]
+Wells & Bradfield 1998, Talarico & Rubin 2003; CRAFT on 04 §3 and 05 §3]
 
 - She is confident, detailed, sensory, and consistent, because to her it is memory.
 - Only an outside fact exposes her, and she meets it with surprise, not adjustment: "Can't be. I
@@ -329,14 +334,14 @@ written as a tell, and the error itself surfaces only through contradiction (R25
 | Dimension | Informed | Uninformed | Mistaken | Deliberately lying |
 |---|---|---|---|---|
 | **Source** | "I saw." Gives the basis unasked. | "They say." "Had it from Jessop." The chain shows. | A sincere "I saw" for something heard or inferred (source error) [STRONG; 05 F6; †Johnson et al. 1993]. | To a believer: "Saw it myself." To a skeptic: unsourceable ("Was alone"), counter-probe ("Who's been talking?"). |
-| **Order** | Out of order; doubles back ("Before that—"). | Leveled to two or three beats [STRONG; 02 F1; †Allport & Postman 1947, Bartlett 1932]. | Coherent, polished; several events merged into one scene. | Tidy, chronological, scripted; the same phrase recurs [STRONG; 04 F5; MODERATE; 04 F10; †Vredeveldt et al. 2014, pages]. |
-| **Detail** | Sensory, spatial, odd, irrelevant; others' states of mind. | Generic; borrowed from the stock plot [STRONG; 02 F3; †Bartlett 1932]. | Vivid at the center (the weapon), blank at the edges [STRONG; 05 F1, F2]. | Rich in what can't be checked, thin in what can [STRONG; 04 F4]; thins out at the one lied point [MODERATE; 04 F9]. |
-| **Numbers, names** | Bounded and imprecise ("dozen, maybe fifteen"). | Rounded, inflated, attached to the famous name [MODERATE; 02 F7, F8; †Allport & Postman 1947, Brunvand 1981, Fine 1992]. | Specific and wrong; durations stretched [MODERATE; 05 F11; †Loftus et al. 1987]. | Selective precision: exact on the other side's crimes, round or absent on his own [STRONG; 08 F2; †Baumeister 1997]. |
+| **Order** | Out of order; doubles back ("Before that—"). | Leveled to two or three beats [STRONG; 02 F1; †Allport & Postman 1947, Bartlett 1932]. | Coherent, polished; several events merged into one scene. | Tidy, chronological, scripted; the same phrase recurs [STRONG; 04 F5; †DePaulo et al. 2003 cue values recalled, Amado et al. 2016 DOI; MODERATE; 04 F10; †Vredeveldt et al. 2014, pages]. |
+| **Detail** | Sensory, spatial, odd, irrelevant; others' states of mind. | Generic; borrowed from the stock plot [STRONG; 02 F3; †Bartlett 1932]. | Vivid at the center (the weapon), blank at the edges [STRONG; 05 F1, F2]. | Rich in what can't be checked, thin in what can [STRONG; 04 F4; †DePaulo et al. 2003 cue values recalled, Amado et al. 2016 DOI]; thins out at the one lied point [MODERATE; 04 F9]. |
+| **Numbers, names** | Bounded and imprecise ("dozen, maybe fifteen"). | Rounded, inflated, attached to the famous name [MODERATE; 02 F7, F8; †Allport & Postman 1947, Brunvand 1981, Fine 1992]. | Specific and wrong; durations stretched [MODERATE; 05 F11; †Loftus et al. 1987, Rubin & Baddeley 1989, Neter & Waksberg 1964, Izard & Dehaene 2008, Cole et al. 2013]. | Selective precision: exact on the other side's crimes, round or absent on his own [STRONG; 08 F2; †Baumeister 1997, Noor et al. 2012 pages]. |
 | **Self** | Includes unflattering facts. | Little self-involvement, except "heard it first." | Neutral, or self-serving without knowing it. | Image protection; agentless at his own act [MODERATE; 08 F6; †Tavris & Aronson 2007]. |
-| **Uncertainty** | Admits gaps; corrects himself [STRONG; 04 F5]. | Hedges by source ("could be talk"). | Little hedging; confidence grown by retelling [STRONG; 05 F4; †Wixted & Wells 2017]. | Few gaps, or a strategic "Don't recall" exactly where the evidence bites. |
-| **Under challenge** | Gives the basis, adjusts the edges, keeps the core: "Ask Pruett. He was with me." | Backs off ("Only what I heard") or appeals to consensus. | Defends the experience; bewildered; may admit a source error on reflection. | Narrows: counter-questions, "Have I ever lied to you?", contempt for the asker; fits the story to each fact once shown [STRONG; 04 F8; †Hartwig et al. 2007]. |
-| **Across tellings** | Core holds; edges drift [MODERATE; 04 F10; †Vredeveldt et al. 2014, pages]. In a Comrade Account, edges drift on a matter of fact only where traced (§4.1). | Each relay shorter and sharper. | Drifts toward its past purpose; grows surer [STRONG; 05 F7; †Marsh 2007]. | A stable script; adds defensive specifics ("…and old Gudrun saw me go") [MODERATE; 04 F11]. |
-| **Exposed by** | Not applicable. | A direct witness or a record. | A physical fact or a co-witness; genuine surprise. | Rarely in the scene. Later: a third party, an object, two accounts compared [STRONG; 04 F8; †Hartwig et al. 2007]. |
+| **Uncertainty** | Admits gaps; corrects himself [STRONG; 04 F5; †DePaulo et al. 2003 cue values recalled, Amado et al. 2016 DOI]. | Hedges by source ("could be talk"). | Little hedging; confidence grown by retelling [STRONG; 05 F4; †Wixted & Wells 2017, Wells & Bradfield 1998]. | Few gaps, or a strategic "Don't recall" exactly where the evidence bites. |
+| **Under challenge** | Gives the basis, adjusts the edges, keeps the core: "Ask Pruett. He was with me." | Backs off ("Only what I heard") or appeals to consensus. | Defends the experience; bewildered; may admit a source error on reflection. | Narrows: counter-questions, "Have I ever lied to you?", contempt for the asker; fits the story to each fact once shown [STRONG; 04 F8; †Hartwig et al. 2007, Hartwig et al. 2005 pages, Hartwig, Granhag & Luke 2014 pooled effect, Luke et al. 2016]. |
+| **Across tellings** | Core holds; edges drift [MODERATE; 04 F10; †Vredeveldt et al. 2014, pages]. In a Comrade Account, edges drift on a matter of fact only where traced (§4.1). | Each relay shorter and sharper. | Drifts toward its past purpose; grows surer [STRONG; 05 F7; †Marsh 2007, Higgins & Rholes 1978, Echterhoff et al. 2005, Dudukovic et al. 2004 pages, Tversky & Marsh 2000 pages]. | A stable script; adds defensive specifics ("…and old Gudrun saw me go") [MODERATE; 04 F11]. |
+| **Exposed by** | Not applicable. | A direct witness or a record. | A physical fact or a co-witness; genuine surprise. | Rarely in the scene. Later: a third party, an object, two accounts compared [STRONG; 04 F8; †Hartwig et al. 2007, Hartwig et al. 2005 pages, Hartwig, Granhag & Luke 2014 pooled effect, Luke et al. 2016]. |
 
 **The performer** (informed or uninformed, performing). Escalates in story rounds, uses theatrical
 intensifiers, takes no offense at "Aye, sure." The room shares the frame [MODERATE; 06 §2.7; STRONG
@@ -344,15 +349,17 @@ for the genre frame; 06 §2.9].
 
 **The sincere self-justifier** (mistaken about his own act).
 - Fluent and relaxed; makes ordinary memory corrections on trivia and none on the harm.
-- Every ambiguity resolves in his favor. Pressing him hardens him. [MODERATE; 08 F14, F5;
-  †Festinger 1957, Tavris & Aronson 2007]
+- Every ambiguity resolves in his favor. Pressing him hardens him. [MODERATE; 08 F14, F5; †Festinger
+  1957, Tavris & Aronson 2007, Shalvi et al. 2015]
 - The realistic adversary mixes two states: mistaken (self-deceived) throughout, and deliberately
   lying at one guarded fact, where he goes tidy and brief (08 §3).
 
 ### 3.3 The liar to a believer, and the liar to a skeptic
 
-[STRONG; 04 F4, F7, F8; MODERATE–STRONG; 04 F3; MODERATE; 04 F15; CRAFT on 04 §3; †Hartwig et al.
-2007 for F8, Levine 2020 for F3, Cialdini 2009 for the persuasion moves]
+[STRONG; 04 F4, F7, F8; MODERATE–STRONG; 04 F3; MODERATE; 04 F15; CRAFT on 04 §3; †DePaulo et al.
+2003 cue values recalled and Amado et al. 2016 DOI for F4, Hartwig et al. 2007, Hartwig et al. 2005
+pages, Hartwig, Granhag & Luke 2014 pooled effect and Luke et al. 2016 for F8, Levine 2020 for F3,
+Cialdini 2009 for the persuasion moves]
 
 | | Liar to an uninformed, believing listener | Liar to an informed or skeptical listener |
 |---|---|---|
@@ -361,14 +368,15 @@ for the genre frame; 06 §2.9].
 | Shape | Loose, chatty; may even self-correct harmlessly | Rigid; the same core phrase repeated |
 | Growth | Toward entertainment, like an honest yarn | Toward defense: alibis, pre-emptive answers |
 | Questions | Few come, so no cracks show | Fluent on expected questions, falters on unexpected ones ("Draw the room." "Tell it from the end." "What could the man at the next table see?") [STRONG; 04 F7] |
-| Evidence | None shown | Adjusts the story to each fact as it is laid down; the timing gives him away [STRONG; 04 F8; †Hartwig et al. 2007] |
+| Evidence | None shown | Adjusts the story to each fact as it is laid down; the timing gives him away [STRONG; 04 F8; †Hartwig et al. 2007, Hartwig et al. 2005 pages, Hartwig, Granhag & Luke 2014 pooled effect, Luke et al. 2016] |
 | Relational talk | Warm, easy | Heavy: "You know me." "Ask anyone." A favor done just before the claim. |
 | Undone by | Usually nothing, until later | Statement against evidence; the seam between rehearsed and improvised parts |
 
 **Writing rule.** The same liar can tell the same lie twice, once to a friend and once to an
 examiner. The reader learns the truth from the *difference* between the two performances, with no
-narrator comment [CRAFT on 04 §3]. The reader should see the evidence before the liar does
-[CRAFT; 04 F8; †Hartwig et al. 2007].
+narrator comment [CRAFT on 04 §3]. The reader should see the evidence before the liar does [CRAFT;
+04 F8; †Hartwig et al. 2007, Hartwig et al. 2005 pages, Hartwig, Granhag & Luke 2014 pooled effect,
+Luke et al. 2016].
 
 **The best lies are mostly true.** [MODERATE; 04 F9] A real event is moved to another night, or one
 person present is swapped. Keep the true stretches dense and let the texture thin at the single
@@ -385,7 +393,8 @@ breathe, half-believed by everyone, reads true.
 ### 4.0 The Series
 
 - **What it is.** The protagonist's own named series (`VB-066`): reliable whoever narrates it.
-- **The standard's reach.** It does not govern Series narration. That stays with the track voice
+- **The standard's reach.** It does not govern Series narration, apart from the institution bar
+  (§7, item 9), which binds Series narration too (`VB-068`). Series voice stays with the track voice
   rule: Onyx under `VB-063`, Red Beard under `VB-022`, Fermand under `VB-064` for Lauris's Records
   and under `CC-034` and `VB-024` for Ezio's Exhibits, close-third under `VB-065` and `VB-020`.
 - **What it does govern.** Any scene where a *character tells a story* inside a Series entry.
@@ -423,9 +432,12 @@ breathe, half-believed by everyone, reads true.
   - The teller is never deliberately lying (`VB-067`).
   - Outside those matters, the teller's account of their own sector is reliable and locks as fact,
     and so is what they witnessed outside it (`VB-067`, "what the teller saw and knew").
+  - Quoted speech locks for its substance, not its wording. The teller rebuilds dialogue (R16),
+    so the exact words are the teller's reconstruction.
 - **Who tells to whom.** Always give an identified listener: named, or identified by description
   where a locked rule keeps them unnamed (`PH2-048`, `MCD-1093`). A comrade tells different things
-  to these listeners [STRONG; 05 F7; †Marsh 2007, Higgins & Rholes 1978; 06 §2.8]:
+  to these listeners [STRONG; 05 F7; †Marsh 2007, Higgins & Rholes 1978, Echterhoff et al. 2005,
+  Dudukovic et al. 2004 pages, Tversky & Marsh 2000 pages; 06 §2.8]:
   - a younger hand (precedents `MCD-436`, `MCD-418`)
   - a widow
   - a fellow survivor
@@ -459,8 +471,9 @@ breathe, half-believed by everyone, reads true.
   - one insider detail no outsider would have (the veteran's test, 06 §2.8)
   - rough, half-remembered dialogue
   - the group's shared version showing where it exists: matching beats, the same joke in the same
-    place [STRONG lab; MODERATE field; 05 F8; †Hirst & Echterhoff 2012 and Roediger et al. 2001 for
-    the lab half, Thomson 1994 and Portelli 1991 for the field half]
+    place [STRONG lab; MODERATE field; 05 F8; †Hirst & Echterhoff 2012, Roediger et al. 2001, Cuc et
+    al. 2007 and Wright et al. 2009 for the lab half, Thomson 1994 and Portelli 1991 for the field
+    half]
 - **Must never be.**
   - Knowledge the teller could not have (`VB-067`). Comrade knowledge bars include:
     - `CC-027`: the closed list who know Ezio's capability
@@ -468,8 +481,9 @@ breathe, half-believed by everyone, reads true.
     - `MCD-1093`: Arturo never learns Kanja's name; "Guaikán" is his private word
     - `MCD-1569` and `MCD-1881`: 1804 is never credited, and Daba's kills stay unattributed
   - Onyx's grip-speech reported by anyone without a locked basis for hearing it.
+  - Performer exaggeration or edge drift on any matter of fact, unless traced (`VB-067`).
   - Two comrades in identical wording, unless the scene means a coordinated story [MODERATE; 04
-    F10; †Vredeveldt et al. 2014, pages].
+    F10; †Vredeveldt et al. 2014, pages]. A coordinated Comrade story must still be true.
   - A reserved thread asserted, implied, or foreshadowed.
   - A kill claim that departs from the locked record, unless a locked rule, or Series or type-none
     narration, records this teller as mistaken or misled about that kill, or the teller relays it
@@ -487,7 +501,7 @@ breathe, half-believed by everyone, reads true.
   - [ ] Everything else the teller tells of their own sector, or witnessed outside it, agrees with
     canon, since it locks as fact.
   - [ ] Crew vocabulary is era-correct: "Captain" is the crew's own word (`MCD-395`), and the
-    aliases fit the era (§7, item 9).
+    aliases fit the era (§7, item 10).
 
 ### 4.2 The Adversary Account
 
@@ -497,14 +511,15 @@ breathe, half-believed by everyone, reads true.
   2. The **teller state** (§3). Most adversaries are self-deceived, which is the mistaken state
      [MODERATE; 08 F14].
   3. **The one thing never mentioned.** Usually the victim's later life, or the first moment he
-     could have stopped [STRONG; 08 F2; †Baumeister 1997].
+     could have stopped [STRONG; 08 F2; †Baumeister 1997, Noor et al. 2012 pages].
   4. **Where agency disappears.** Active voice up to the harm, agentless at it, active after
      [MODERATE; 08 F6; †Tavris & Aronson 2007].
 - **Precedents.** `MCD-385` (Voris) and `MCD-394` (Krael) for the respected-enemy register.
   `CC-085` for the sincerely wrong register (cited for register only; Draconis tells Comrade
   Accounts, `VB-067`).
 - **Register (a): the unrepentant.** [STRONG for the account families; 08 F1, F3; MODERATE; 08 F7;
-  †Sykes & Matza 1957, Goffman 1955 not re-verified]
+  †Sykes & Matza 1957 for F1, Gini et al. 2014 DOI for F3, Goffman 1955, Brown & Levinson 1987 and
+  Hornsey & Wohl 2013 for F7]
   1. A claim of standing ("Kept the eastern road nineteen years.").
   2. The order of things, stated as plain fact.
   3. The act owned at the decision ("Gave the order."), agentless at the harm ("…and the
@@ -514,8 +529,9 @@ breathe, half-believed by everyone, reads true.
   5. Advantageous comparison ("Ask what came after me.").
   6. No apology. At most a regret aimed at a technical failure ("Regret the courier was late.").
   - **Never mentions:** victims' names or later lives. Victims appear as categories or numbers.
-- **Register (b): the self-deceived.** [STRONG; 08 F2, F4; MODERATE; 08 F5, F14; †Baumeister 1997,
-  Festinger 1957, Tavris & Aronson 2007 not re-verified]
+- **Register (b): the self-deceived.** [STRONG; 08 F2, F4; MODERATE; 08 F5, F14; †Baumeister 1997
+  and Noor et al. 2012 pages for F2, Mezulis et al. 2004 and Lau & Russell 1980 DOI for F4,
+  Festinger 1957, Tavris & Aronson 2007 and Shalvi et al. 2015 for F5]
   1. The first small step, told precisely and with sympathy.
   2. Each step following from the last ("so," "after that, no choice").
   3. Circumstance takes over the verbs near the harm ("the crowd turned").
@@ -528,13 +544,15 @@ breathe, half-believed by everyone, reads true.
     - a victim named once, early, as a person, who is a category after the act
   - **Never mentions:** the first moment he could have stopped.
 - **Register (c): the grudgingly respectful defeated.** [CONTESTED/WEAK as a measured effect; it is
-  an inference from MODERATE and STRONG findings; 08 F13, F4, F11, F12; †Goffman 1955 for F13.
-  State it as craft, not proof.]
+  an inference from MODERATE and STRONG findings; 08 F13, F4, F11, F12; †Goffman 1955, Mezulis et
+  al. 2004 and Lau & Russell 1980 for F13 and F4, Bilali 2013 DOI for F11, Hastorf & Cantril 1954,
+  Noor et al. 2012 and Lau & Russell 1980 for F12. State it as craft, not proof.]
   1. His own side's quality first.
-  2. The close call ("One more hour of tide…") [MODERATE; 08 F11].
+  2. The close call ("One more hour of tide…") [MODERATE; 08 F11; †Bilali 2013 DOI].
   3. One fixed concrete image of the enemy: a timing, a silence, one sentence spoken to him.
   4. Selective praise: skill and nerve, never cause or right.
-  5. The partisan residue: the enemy's method is still a trick [MODERATE; 08 F12].
+  5. The partisan residue: the enemy's method is still a trick [MODERATE; 08 F12; †Hastorf & Cantril
+     1954, Noor et al. 2012, Lau & Russell 1980].
   6. Self-elevation: "Took him to do it."
   7. A close that usually still justifies ("Fight him again tomorrow."), or one question left open
      and unexplained.
@@ -543,11 +561,12 @@ breathe, half-believed by everyone, reads true.
   - the listener present in the address ("You'd have done the same")
   - excuse or justification, deliberately chosen, with any switches between them marked
   - at least two moral-disengagement moves in the setting's own idiom: euphemism, displacement,
-    diffusion, minimizing, blaming the victim [STRONG; 08 F3]
+    diffusion, minimizing, blaming the victim [STRONG; 08 F3; †Gini et al. 2014 DOI]
   - the agency switch at the harm
-  - for the defeated, a betrayal clause or a close call [MODERATE; 08 F11]
+  - for the defeated, a betrayal clause or a close call [MODERATE; 08 F11; †Bilali 2013 DOI]
   - where a victor's account of the same event exists, contested details that split along the
-    partisan line, not at random [MODERATE; 08 F12]
+    partisan line, not at random [MODERATE; 08 F12; †Hastorf & Cantril 1954, Noor et al. 2012, Lau &
+    Russell 1980]
 - **Dehumanization register by institution.** [STRONG that it accompanies violence; CONTESTED that
   it is necessary; 08 F10; †Baumeister 1997]
   - Mechanistic for a bureaucracy ("stock," "units").
@@ -577,7 +596,7 @@ breathe, half-believed by everyone, reads true.
   wrote it. Teller state and listener do not apply (`VB-068`).
   - **Mainline Cian:** the Sealbound Directorate (`MCD-1727`); the Sovereign Trust (its false
     Rookery record, `MCD-1566`, cried aloud at `MCD-1573`); and any other record-keeper canon
-    locks, such as the Maw Ledger Offices (`MAW-064`, `MAW-065`), the Weregildd (`WGD-003`),
+    locks, such as the Maw Ledger Offices (`MAW-065`, `MAW-142`), the Weregildd (`WGD-003`),
     Ashkeel's Black Archives (`ASH-047`), and cult records.
   - **Elsewhere:** the hostile institutions of the protagonist's own world (`MCD-313`).
 - **The core failure.** A Dossier rarely lies the way a person does. It fails through confident
@@ -596,8 +615,8 @@ breathe, half-believed by everyone, reads true.
   - detachment classes (`SBD-050`)
   - two-signature authorization (`SBD-051`)
   - Grave-Analyst sign-off (`SBD-040`, `SBD-050`, `SBD-052`)
-  - the after-action file, Continuity Lock, code-designations, destroyed originals, and Grave-Analyst
-    shadow copies (`SBD-052`)
+  - the after-action file, Continuity Lock, code-designations, destroyed originals, and
+    Grave-Analyst shadow copies (`SBD-052`)
   - the Kesmara Continuity Vault (`SBD-063`)
   - the six Conflict Domains, "Conflict Flag = YES," "Tighten," Deception-by-Saturation, and KEY-B
     (`MCD-1727`, `SBD-030`)
@@ -714,11 +733,11 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
   - On the page: an agentless "fire of undetermined origin"; a precise figure with its source lost
     [MODERATE; 07 F8, F3; †Samet 1975, Baker et al. 1968, Irwin & Mandel 2019 for F3].
   - Survivors meet the record as "a lie built to outlast us" (`MCD-1573`).
-- **Other record-keepers.** Maw Ledger Offices (`MAW-064`, `MAW-065`), the Weregildd (`WGD-003`),
+- **Other record-keepers.** Maw Ledger Offices (`MAW-065`, `MAW-142`), the Weregildd (`WGD-003`),
   Ashkeel's Black Archives (`ASH-047`), and cult records keep files too. Each is a Dossier wherever
   its record is framed as a document within the fiction (`VB-067`).
   - Their forms and vocabulary come only from locked rules or plain words (`VB-068`).
-  - Maw records tie to the Trust through the Trust Revenue Council charter (`MAW-086`).
+  - Reckoners hold a Trust Revenue Council state charter (`MAW-086`).
 - **Homage World variant.**
   - Hostile offices there are kept unnamed by convention: the Magistrate of Ide, a diocese, a plant
     office, and the counterintelligence apparatus that stays unnamed even in resolution
@@ -732,7 +751,7 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
   - The spoken account inside keeps its hedges and corrections; the clerk's frame flattens them,
     and the contrast is characterization [CRAFT on 01 §4].
   - The witness repeats the questioner's own words (misinformation absorbed) [STRONG core; 05 F3;
-    †Loftus & Palmer 1974].
+    †Loftus & Palmer 1974, Loftus 2005, Morgan et al. 2013 pages, Scoboria et al. 2017].
 - **Must never be.**
   - A fact about the institution that no locked rule holds (`VB-068`).
   - A precise number that a locked rule contradicts, unless it is traced as an institutional
@@ -751,8 +770,8 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
   (`VB-067` type 5). The teller is usually sincere, and the error lives in the chain, not the
   speaker [CRAFT on 05 §4 and 04 §4].
 - **Who tells to whom.** A teller at a fixed **remove** from the event, with one of three motives
-  [MODERATE; 02 F5; †Allport & Postman 1947, Shibutani 1966; 03 F7]. The motive decides what is
-  emphasized.
+  [MODERATE; 02 F5; †Allport & Postman 1947, Shibutani 1966, Rosnow 1991 partly verified; 03 F7].
+  The motive decides what is emphasized.
   - *useful*: "You should know"
   - *bonding*: "Hear about—"
   - *status*: "My cousin was there"
@@ -793,7 +812,8 @@ independently replicated by Moussaïd et al. 2015]
   - The precedents: corrections printed beside claims (`MCD-638`); a crier reading a false record
     (`MCD-1573`).
 
-**The model's limits** [MODERATE; 02 F4; †Shibutani 1966]
+**The model's limits** [MODERATE; 02 F4; †Allport & Postman 1947, Bartlett 1932, Bergman & Roediger
+1999, Shibutani 1966]
 
 - Not all hearsay worsens. A tight network with stakes checks itself and can *improve* the
   account:
@@ -817,6 +837,7 @@ independently replicated by Moussaïd et al. 2015]
 6. Let exactly one detail be startlingly right, and give it a reason: a rhyme, a ledger, a tight
    network.
 7. Where the entry carries more than one teller or community, make them disagree with each other.
+   Each teller's state and listener are fixed; the header names every teller (`VB-068`).
 
 **Legend migrating to aliases** [MODERATE; 02 F8; †Brunvand 1981, Fine 1992]
 
@@ -838,7 +859,8 @@ independently replicated by Moussaïd et al. 2015]
 - An oddly precise number in hearsay means the teller is close to the source or reading from a
   sheet [MODERATE; 02 F7; †Allport & Postman 1947].
 - Under acute fear, hearsay turns breathless, present-tense, and unsourced: "Coming down the quay.
-  Whole block." [MODERATE; 02 F5; †Shibutani 1966, Allport & Postman 1947]
+  Whole block." [MODERATE; 02 F5; †Shibutani 1966, Allport & Postman 1947, Rosnow 1991 partly
+  verified]
 
 **Must never be**
 
@@ -877,7 +899,7 @@ Every module gives the same fields.
   same keys as the companion draft.
 
 Three cross-setting laws hold in every room [STRONG; 06 §3]. Where no module fits a room, the
-setting is stated and the nearest module's laws S1-S3 are applied.
+drafter works from the setting stated, S1-S3 applied, the nearest module used as a guide.
 
 - **S1. Brag zone and fact zone.** Exaggeration is shared play until a claim would change someone's
   standing, money, or safety. Past that line, a false claim costs the teller.
@@ -924,7 +946,8 @@ closed.
   1967]
 
 **Drift**
-- Comic stories grow. The bloodiest version wins (R22).
+- Comic stories grow, each telling a larger claim in a drier voice: irony and understatement only
+  (`VB-004`). The bloodiest version wins (R22).
 - The room's shared grudge polishes the story; in a room that hates the Trust, it becomes "the
   Trust's men ran" [STRONG; 02 F3; †Bartlett 1932].
 
@@ -934,7 +957,9 @@ closed.
   appears in manuscript Chronicles III, VI and VIII and has no ledger rule.
 - An unnamed harbor tavern (`MCD-825`).
 - A neutral dockside tavern (`MCD-824`).
-- The inn at Greyfen, where a story is retold four days' ride away (`MCD-1886`).
+- A tavern four days' ride from Lowmere and Greyfen, where the story of the night the dike held
+  is retold (`MCD-1886`).
+- The inn at Greyfen, where Draconis hears that story (`MCD-1886`).
 - Tavern doors as notice boards (manuscript Chronicle VI).
 - Tavern basements as the lowest Pits (`MAW-142`).
 - Named taverns: **[NAME NEEDED: N2a]** (dockside), **[NAME NEEDED: N2b]** (foundry district),
@@ -947,7 +972,7 @@ closed.
 - An after-hours spot: **[NAME NEEDED: H2]**.
 - No broadcast media or firearms in the room (`PH2-049`).
 - Spanish may appear as spoken phrase (`MCD-337`); invented names never draw on it (`PH2-034`,
-  `PH2-061`).
+  `PH2-061`). Pending Abad's ruling (companion draft part (c), item 5).
 
 **Ashkeel**
 - Mortal enemies drink in the same halls under the Council peace (`ASH-011`). The everyday hall is
@@ -1090,7 +1115,7 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 - Taboo: fear, tenderness, doubt in the group's values.
 
 **Open / close**
-- *Open:* an insult that means welcome.
+- *Open:* an insult that means welcome, said flat and understated (`VB-004`).
 - *Close:* a call to the Slab, the watch, or the line.
 
 **Challenge**
@@ -1141,7 +1166,8 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 - Afterward, "I was there when" is a status claim.
 
 **Brag / fact**
-- *Brag:* loyalty over accuracy. "We" when they win, "they" when they lose.
+- *Brag:* loyalty over accuracy. The crowd's pronoun tracks the result, and a fighter who loses
+  is "they" by the walk out.
 - *Fact:* the result, once a record exists. Reckoners' figures are the room's ledger (`MAW-087`).
 
 **Open / close**
@@ -1157,7 +1183,7 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 
 **Drift**
 - Rumor spreads fast and unsourced under acute tension [MODERATE; 02 F5; †Allport & Postman 1947,
-  Shibutani 1966].
+  Shibutani 1966, Rosnow 1991 partly verified].
 - Crowd counts grow with each retelling.
 - A crowd's account of a fight is rich in feeling and poor in mechanics.
 
@@ -1226,7 +1252,8 @@ a generalization, 01 F8; †Norrick 1997]
 **Evidence:** [MODERATE; 06 §2.7]
 
 **Who and order**
-- Seniority and skill. The senior hand anchors the ritual joke.
+- Seniority and skill. The senior hand anchors the ritual joke, a dry line of irony or
+  understatement (`VB-004`).
 
 **Group:** small knots fitted around the work. Longer sessions at meals and on watch below.
 
@@ -1239,7 +1266,7 @@ a generalization, 01 F8; †Norrick 1997]
 - Taboo: informing to management.
 
 **Open / close**
-- *Open:* ritual teasing.
+- *Open:* ritual teasing, deadpan (`VB-004`).
 - *Close:* the return to work, a whistle.
 
 **Challenge**
@@ -1316,7 +1343,8 @@ belief, ⚠ 09.]
 **Group:** on watch, in the forecastle, at the galley.
 
 **Turns**
-- Long turns for the yarn-teller. It is a recognized genre of tall telling.
+- Long turns for the yarn-teller. It is a recognized genre of tall telling, told deadpan: the
+  teller states the impossible in the flattest voice on the watch (`VB-004`).
 
 **Brag / fact**
 - *Brag:* distances, storm heights, sea creatures.
@@ -1370,9 +1398,10 @@ belief, ⚠ 09.]
 
 **Drift**
 - The elder's formative years are rich. Middle centuries are summary [STRONG for the bump;
-  MODERATE for error patterns; 05 F12; †Rubin et al. 1986 unverified].
+  MODERATE for error patterns; 05 F12; †Rubin et al. 1986, Munawar et al. 2018, Dodson et al. 2007].
 - In this world's long lifespans, tie the "bump" to formative years, not a human age band (05 F12
-  note, †Rubin et al. 1986; standing convention in CLAUDE.md).
+  note, †Rubin et al. 1986, Munawar et al. 2018, Dodson et al. 2007; standing convention in
+  CLAUDE.md).
 
 **Venues, mainline Cian**
 - Crew elder to a younger hand (`MCD-436`, `MCD-418`).
@@ -1490,10 +1519,10 @@ locked house rules; CRAFT]
 - The Thermal Baths of Forgetting: no weapons, no commerce.
 
 **Brag / fact**
-- Consent and contract are the fact zone (`ASH-021`). A false claim about a bond is treason against
-  the sanctuary.
-- Ritual formulas carry information and are not phatic: "Clear boundary" / "Open stone"
-  (`ASH-057`).
+- Consent and contract are the fact zone (`ASH-021`). Breaking a bond's explicit terms without
+  formal rite is treated as treason against the sanctuary (`ASH-021`).
+- "Clear boundary" / "Open stone" is the traditional greeting of a ritual duel-trial in the abyssal
+  rings (`ASH-057`).
 
 **Challenge**
 - Appeal to the Council peace (`ASH-011`).
@@ -1543,10 +1572,11 @@ for the fit]
 
 ### M15. Tribunal, interrogation, and the written telling
 
-**Evidence:** [STRONG; 04 F7, F8; †Hartwig et al. 2007 and the Hartwig, Granhag & Luke 2014 pooled
-effect for F8; STRONG; 07 F4; MODERATE; 07 F8; 08 F9; STRONG core; 05 F3; †Loftus & Palmer 1974;
-CRAFT on 07 §4 and 04 §4 for the fit. The research has no ethnography of a pre-industrial court.
-This module is built from the interview and records findings.]
+**Evidence:** [STRONG; 04 F7, F8; †Hartwig et al. 2007, Hartwig et al. 2005 pages, the Hartwig,
+Granhag & Luke 2014 pooled effect and Luke et al. 2016 for F8; STRONG; 07 F4; MODERATE; 07 F8; 08
+F9; STRONG core; 05 F3; †Loftus & Palmer 1974, Loftus 2005, Morgan et al. 2013 pages, Scoboria et
+al. 2017; CRAFT on 07 §4 and 04 §4 for the fit. The research has no ethnography of a pre-industrial
+court. This module is built from the interview and records findings.]
 
 **Who and order**
 - The questioner holds the floor by office: a magistrate, an arbiter council, an interrogating
@@ -1561,7 +1591,8 @@ interrogation holds only the questioner, the teller, and any clerk.
 **Turns**
 - Question and answer. The teller opens no topic, and the next question cuts a long answer short.
 - A skilled questioner holds back what he knows and lets the teller commit first. Then he lays the
-  ledger or the log on the table [STRONG; 04 F8; †Hartwig et al. 2007].
+  ledger or the log on the table [STRONG; 04 F8; †Hartwig et al. 2007, Hartwig et al. 2005 pages,
+  Hartwig, Granhag & Luke 2014 pooled effect, Luke et al. 2016].
 - He asks the unexpected question: "Tell it from the end." "Who stood at the door?" [STRONG; 04 F7]
 
 **Brag / fact**
@@ -1578,7 +1609,7 @@ interrogation holds only the questioner, the teller, and any clerk.
 - The honest teller adjusts the edges and keeps the core. The liar fits the story to each fact as
   it lands, too neatly and too late (§3.2).
 - The questioner's own words come back in the witness's answer (misinformation absorbed, 05 F3;
-  †Loftus & Palmer 1974).
+  †Loftus & Palmer 1974, Loftus 2005, Morgan et al. 2013 pages, Scoboria et al. 2017).
 
 **Outsider**
 - Everyone but the officials stands outside. A teller with standing (a known name, a guild, a
@@ -1620,21 +1651,25 @@ Built on 06 §3 and extended. "Memory-holder" is the S2 checker.
 
 | Setting | Size | Floor | Truth norm | Memory-holder | Challenge | Best-fit account types |
 |---|---|---|---|---|---|---|
-| Tavern (M1) | 2-15 at the counter | Wit, senior regular | Brag on sport and tales; fact on money and local fact | Keeper | Ridicule, the keeper's word | Hearsay, Comrade, a liar to believers |
+| Tavern (M1) | 2-15 at the counter | Wit, senior regular | Brag on sport and tales; fact on money and local fact | Keeper | Ridicule, the keeper's word | Hearsay, Comrade (brag traced, §4.1), a liar to believers |
 | Corner (M2) | 3-20 | Leader, news-holder | Brag passes until it claims rank | Corner elder, runner | "Prove it," a witness present | Hearsay, informant source for a Dossier |
-| Barbershop (M3) | 4-12 | Owner | Argument welcome; brags heckled | Owner | Open argument, the owner's verdict | Hearsay, Comrade, public friction |
-| Pen / barracks (M4) | 10-50 | By performance | Brag off-field; fact on what was witnessed | Senior fighter, sergeant | Topping, ridicule | Comrade (private), Adversary (unrepentant) |
+| Barbershop (M3) | 4-12 | Owner | Argument welcome; brags heckled | Owner | Open argument, the owner's verdict | Hearsay, Comrade (brag traced, §4.1), public friction |
+| Pen / barracks (M4) | 10-50 | By performance | Brag off-field; fact on what was witnessed | Senior fighter, sergeant | Topping, ridicule | Comrade (private; brag traced, §4.1), Adversary (unrepentant) |
 | Crowd (M5) | Hundreds+ | None during | Loyalty over accuracy | The record, the Reckoner | Almost none until the result | Hearsay (acute) |
 | Dinner (M6) | 3-8 | Adults allocate | Fact-policed | The other parent | Cross-examination | Comrade, family Hearsay |
-| Work break (M7) | 3-15 | Senior hand | Yarns pass; skill tested | Senior hand | The next task | Comrade, Hearsay |
+| Work break (M7) | 3-15 | Senior hand | Yarns pass; skill tested | Senior hand | The next task | Comrade (yarns traced, §4.1), Hearsay |
 | Veterans (M8) | 2-10 | The one closest to the worst | Strict fact among those who were there | The one who was there | Place, date, unit | Comrade, Adversary (defeated) |
-| Sailors (M9) | 3-15 | Old hand | Yarn genre | Old hand, the log | "Aye, sure" | Hearsay, Comrade |
-| Elders (M10) | 3-20 | The teller | Genre-marked | Other elders | A correction of a name | Hearsay (custodial), Comrade |
-| Wake (M11) | 10-100 | Kin, then friends | Kind exaggeration; accusation deferred | Kin | Gentle correction | Comrade |
+| Sailors (M9) | 3-15 | Old hand | Yarn genre | Old hand, the log | "Aye, sure" | Hearsay, Comrade (yarns traced, §4.1) |
+| Elders (M10) | 3-20 | The teller | Genre-marked | Other elders | A correction of a name | Hearsay (custodial), Comrade (tall tales traced, §4.1) |
+| Wake (M11) | 10-100 | Kin, then friends | Kind exaggeration; accusation deferred | Kin | Gentle correction | Comrade (kind exaggeration traced, §4.1) |
 | Market (M12) | 2-5 in a crowd | Seller | Praise discounted; quality tested | Regular trader | Test, walk away | Hearsay, Dossier (crier) |
 | Ashkeel (M13) | Small, masked | House rule | Contract is fact | Council archive | The Council peace | Comrade, Hearsay (adult) |
 | Meeting (M14) | 10-200 | Chair | Minutes are fact | Clerk of the minutes | Point of order | Comrade, Dossier (minutes) |
 | Tribunal (M15) | 2-200 | Questioner | No brag; the record is fact for the institution | Clerk, the record | Statement against evidence | Adversary, Comrade (testimony), Dossier (the record) |
+
+A Comrade Account told in a brag room stays inside the Comrade bound. Its exaggeration or edge
+drift on any matter of fact locks as fact unless traced (`VB-067`, §4.1), so a Comrade teller there
+brags in judgment, feeling, and dry understatement.
 
 ---
 
@@ -1644,29 +1679,39 @@ This list plugs into the Connective-Tissue Gate. A *told account* here means a C
 Adversary Account, a Hearsay entry, or a storytelling scene inside any entry. Step 1, the
 mechanical check (`python3 scripts/connective_tissue_check.py <draft>`), runs first. The independent
 reviewer then reads the draft beside every rule the script lists and checks each item below. Every
-item failed is fixed, and the draft goes back through the gate before it is presented.
+item failed is fixed, and the draft goes back through the gate before it is presented. Item 9,
+the institution bar, is also checked for every Series entry in its Connective-Tissue review
+(`VB-068`).
 
 ### A. Frame
 1. **Header.** For an entry drafted after `VB-067`'s lock, the header carries the account type and
    the teller as `VB-067` sets out: "teller: none" for close-third or neutral narration, and
    "account type: none" for an entry outside any Series with no teller. For a Dossier, the teller
-   names the institution and, where known, the hand. Teller state and listener never appear as
-   labels. They are none for an entry of account type none and do not apply to a Dossier. The
-   narrative never labels its own reliability. Entries locked before `VB-067` are not relabeled
-   (`VB-068`).
+   names the institution and, where known, the role of the hand. Teller state and listener never
+   appear as labels. They are none for an entry of account type none and do not apply to a Dossier.
+   The narrative never labels its own reliability. A Hearsay entry with more than one teller names
+   every teller in the header. Entries locked before `VB-067` are not relabeled (`VB-068`).
 2. **Listener** (told accounts only). The page gives an identified listener: named, or identified
    by description where a locked rule keeps them unnamed (`PH2-048`, `MCD-1093`). The account
-   visibly bends to them (R19; 08 F9).
-3. **Setting.** One module applies to a told account, and to any scene set in a module's room, or,
-   where no module fits, the setting is stated and the nearest module's laws S1-S3 are applied. The
+   visibly bends to them (R19; 08 F9). In a Hearsay entry with more than one teller, each teller's
+   listener is fixed.
+3. **Setting.** One module applies to a told account, and to any scene set in a module's room.
+   Where no module fits: the setting stated, S1-S3 applied, the nearest module used as a guide. The
    module's floor, brag/fact line, memory-holder and outsider handling are honored. A venue named in
    canon is cited; a gap is not filled with an invented name until the name is locked.
 4. **Teller state** (told accounts only; §3) is chosen. The page shows it through verbal pattern and
    outside fact, never through body language (R24), and no label names it. An honest error surfaces
-   only through contradiction (R25).
+   only through contradiction (R25). In a Hearsay entry with more than one teller, each teller's
+   state is fixed.
+5. **Type provisions** (`VB-067`). An entry of types (2) to (5) inherits the drafting conventions of
+   the Series it complements (for example `PH2-048`'s unnamed-guest convention in the Annals; for
+   Kanja, `VB-063` wherever Onyx appears). It sits behind the protagonist's Series Launch Protocol
+   gate (for Kanja, his own profile or the relevant alias profile). It is titled by type and subject
+   ("An Adversary Account: Daba") and numbered separately from the Series. An entry of account type
+   none that centres on a protagonist sits behind that protagonist's gate.
 
 ### B. Knowledge and truth
-5. **Knowledge window.** Every event the teller claims to have witnessed sits inside their locked
+6. **Knowledge window.** Every event the teller claims to have witnessed sits inside their locked
    presence and dates; relayed events carry source tags (R8) and stay inside the knowledge bound. In
    particular, check:
    - `CC-027`: who knows Ezio's capability
@@ -1675,58 +1720,64 @@ item failed is fixed, and the draft goes back through the gate before it is pres
    - `MCD-1569` and `MCD-1881`: 1804 never credited; Daba's kills unattributed
    - Onyx's grip-speech, which no one hears without a locked basis
    - `PH2-048`: Kanja unnamed in the Annals
-6. **Trace table.** Every statement that departs from the truth is listed with the locked rule, or
+7. **Trace table.** Every statement that departs from the truth is listed with the locked rule, or
    the Series or type-none narration, that holds the truth (`VB-067`). A Comrade Account never
    serves as the trace for another Comrade Account. In a Comrade Account, each departure also sits
    on a matter where that rule or narration records this teller as mistaken or misled, or in
    secondhand relay (§4.1). The table goes in the presentation note and stays out of the entry.
-7. **Reserved rules.** Nothing asserts, implies, foreshadows or references what a reserved rule
+8. **Reserved rules.** Nothing asserts, implies, foreshadows or references what a reserved rule
    forbids: `MCD-314` (Haku), `ARS-437` (the Heartline's Book 1 beat), `MCD-1569`, and every
    profile's reserved-threads list. Open questions are repeated as rumor only in permitted form.
-8. **No new institution facts.** No account, Series narration included, states a fact about an
+9. **No new institution facts.** No account, Series narration included, states a fact about an
    institution that no locked rule holds; such a fact is drafted as its own rule (`VB-068`), a
    **[RULE NEEDED]** draft for Abad. An unreliable teller's false claim about an institution is
-   locked only as said (`VB-067`) and traces to a locked rule that holds the truth. Header fields
-   and procedure use locked vocabulary or plain words, and the templates' optional fields assert no
-   institutional practice (§4.3).
+   locked only as said (`VB-067`) and traces to a locked rule that holds the truth. A fact about an
+   institution here means a fact about a standing structure, office, form, procedure, vocabulary,
+   or practice of a named institution, as distinct from an event involving one. Header fields and
+   procedure use locked vocabulary or plain words, and the templates' optional fields assert no
+   institutional practice (§4.3). This item is checked for Series entries too (`VB-068`).
 
 ### C. Era and world
-9. **Era.**
-   - Ages and dates are checked against the teller's and subject's timelines.
-   - Gear: the Trinity before the age-30 surrender (`MCD-246`); post-Mafesto kit after (`ARS-344`
-     onward); Moonvault gifts never before Book 2.
-   - An alias is never used before it exists.
-   - Kill claims are checked against `CC-161`, `CC-162`, `CC-164` and `MCD-1882`. Inflation or
-     softening appears only as traced drift (§4.1, "Must never be").
-10. **World rules.**
-    - Homage World: no firearms, engines or broadcast media; criers and broadsheets only (`PH2-049`).
-      Invented names only (`PH2-034`).
+10. **Era.**
+    - Ages and dates are checked against the teller's and subject's timelines.
+    - Gear: the Trinity before the age-30 surrender (`MCD-246`); post-Mafesto kit after (`ARS-344`
+      onward); Moonvault gifts never before Book 2.
+    - An alias is never used before it exists.
+    - Kill claims are checked against `CC-161`, `CC-162`, `CC-164` and `MCD-1882`. Inflation or
+      softening appears only as traced drift (§4.1, "Must never be").
+11. **World rules.**
+    - Homage World: no firearms, engines or broadcast media; criers and broadsheets only
+      (`PH2-049`). Invented names only (`PH2-034`).
     - Mainline: no modern-tech metaphor (`CULT-199`). Places against the Atlas (`GEO-` rules).
 
 ### D. Telling
-11. **Structure** (told accounts only). The telling has a launch, a license and an exit (R5);
+12. **Structure** (told accounts only). The telling has a launch, a license and an exit (R5);
     evaluation stalls at the peak (R2); a coda returns to the occasion (R3); and any second story or
     topping fits the room (R14).
-12. **Drift direction.**
-    - Honest tellers drift bigger, rounder, more famous and more vivid.
+13. **Drift direction.**
+    - Honest tellers drift bigger, rounder, more famous and more vivid, within `VB-067`'s Comrade
+      bound in a Comrade Account (§4.1).
     - Liars drift defensive.
     - Hearsay remove counts are legible and one exact detail is explained. Where a Hearsay entry
       carries more than one teller or community, they disagree (§4.4).
-13. **Voice Bible.**
+14. **Voice Bible.**
     - No phatic talk; dialogue cut by half.
+    - Humor is irony and understatement only (`VB-004`). Every comic register (R0.4, R15, R18, M1,
+      M4, M7, M9, and the comic stories of M6 and M11) is written deadpan, until Abad rules on the
+      companion draft's part (c), item 8.
     - No balanced antithesis, including "not only… but also" and "while X, Y."
     - No banned words or terms (`VB-010`, `VB-013`, `VB-050`); the Density Spike unnamed; "spike"
       absent (`VB-063`).
     - Iron and Rust used only by Onyx. The SBD's "Stone, Iron, Meat" lexicon (`CULT-199`) is SBD
       usage and carries no verdict.
     - Track voice rules where Onyx appears (`VB-063`).
-14. **Evidence honesty.** No marker is presented to the reader as proof of a lie. Grades here are
+15. **Evidence honesty.** No marker is presented to the reader as proof of a lie. Grades here are
     craft guidance and assert nothing in-world.
 
 ### E. Names and safety
-15. **New names.** Every new name is collision-checked against `canon-ledger.json` and the
+16. **New names.** Every new name is collision-checked against `canon-ledger.json` and the
     Chronicle corpus, near-collisions included, and the result goes in the connective-tissue note.
-16. **Child safety.** No sexual content involving any minor, in any setting. Ashkeel is adult-only
+17. **Child safety.** No sexual content involving any minor, in any setting. Ashkeel is adult-only
     and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).
 
 **Presentation note.** The connective-tissue note for a non-Series account adds four lines to the

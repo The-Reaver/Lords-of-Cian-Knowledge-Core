@@ -48,8 +48,8 @@ scene it covers. This rule's approval covers the standard's handling of the part
 greetings carried by action (R0.2) and on spoken Spanish (M1) only once Abad rules on those items;
 until then those clauses are pending his ruling. The standard's comic registers (R0.4, R15, R18,
 M1, M4, M7, M9) are written through irony and understatement only (`VB-004`) until Abad rules on
-the part (c) item on comic registers. A change to the standard needs Abad's approval
-in his own words, like a change to any rule. Extends `VB-067`; qualifies nothing in it.
+the part (c) item on comic registers. A change to the standard needs Abad's approval in his own
+words, like a change to any rule. Extends `VB-067`; qualifies nothing in it.
 
 Approval quote: *[to be filled with Abad's words verbatim at lock]*
 
