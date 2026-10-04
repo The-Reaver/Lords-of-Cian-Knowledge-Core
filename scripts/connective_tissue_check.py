@@ -34,7 +34,8 @@ Seven Eight Nine Ten Eleven Twelve Twenty Thirty Forty Fifty Hundred Thousand Fi
 Next Left Right North South East West Locked Draft Continuity Abad Batch Chronicle Chronicles Strand
 Wave Section Rule Rules Archive Book Books Lord Lady Captain Colonel General Warden Sergeant Master
 Mr Mrs Sir Old New Great Little High Low Grand Black White Red Grey Gray Green Blue Dark Iron Stone
-Pleased Good Stop Sit Walk Count Keep Tell Step Run Ten Eleven""".split())
+Pleased Good Stop Sit Walk Count Keep Tell Step Run Ten Eleven Record Records Roll Rolls Testament
+Testaments Exhibit Exhibits Collection Collections Annals Series""".split())
 
 
 def load():
