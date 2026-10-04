@@ -6,7 +6,8 @@ the proposed `VB-068` is approved (draft at
 facts. Every gap in canon vocabulary is marked **[NAME NEEDED: key]**, and each key has three
 candidate names in the companion draft. A gap that would need a new institutional fact rather than
 a name is marked **[RULE NEEDED]**. Under the proposed `VB-068`, such a fact is drafted as its own
-rule before any account uses it.*
+rule before any account uses it. Where the thing itself needs a rule before it can be named, the
+companion draft offers name candidates for when that rule is locked.*
 
 ---
 
@@ -88,8 +89,8 @@ in its filler words.
   - *"Third day. No. Fourth. Fish cart was in."*
 - **R0.2 Openings and listener signals are carried by action, or by a line that carries
   information.** (Pending Abad's ruling, companion draft part (c), item 4.) A cup set down, a stool
-  pulled out, a coin laid on the board. A listener's go-ahead is a question, not a noise: *"Which
-  night?"* Silence is a move.
+  pulled out, a coin laid on the board. A listener's go-ahead is a question or a short command, never
+  a noise: *"Which night?"* Silence is a move.
 - **R0.3 Overlap is shown by cut-offs.** An em-dash where one speaker takes the floor, and nothing
   more.
 - **R0.4 Vernacular lives in rhythm and in genre moves, never in phonetic spelling.** [CRAFT]
@@ -178,7 +179,7 @@ in its filler words.
 - **R12. A distracted listener gets a worse story.** [MODERATE; 01 F4] It is flat and trails off.
   The same Comrade tells it full to a friend and thin to a magistrate.
 - **R13. The first response to gossip decides its course.** [MODERATE; 03 F4]
-  - A go-ahead ("Go on") escalates it.
+  - A go-ahead ("Then what?") escalates it.
   - An early challenge ("Always been square with me") turns it.
   - High-status members can say no cheaply. A newcomer who says no is frozen out.
 
@@ -434,8 +435,9 @@ breathe, half-believed by everyone, reads true.
   - The teller is never deliberately lying (`VB-067`).
   - Outside those matters, the teller's account of their own sector is reliable and locks as fact,
     and so is what they witnessed outside it (`VB-067`, "what the teller saw and knew").
-  - Of dialogue the teller heard firsthand: that the words were said, in substance, locks as fact;
-    what the speaker claims locks only as said (`VB-067`). Dialogue relayed secondhand locks only as
+  - Outside a matter where a locked rule or reliable narration records this teller as mistaken or
+    misled, of dialogue the teller heard firsthand: that the words were said, in substance, locks
+    as fact; what the speaker claims locks only as said (`VB-067`). Dialogue relayed secondhand locks only as
     said. The teller rebuilds dialogue (R16), so the exact words are the teller's
     reconstruction.
 - **Who tells to whom.** Always give an identified listener: named, or identified by description
@@ -597,10 +599,11 @@ breathe, half-believed by everyone, reads true.
 
 ### 4.3 The Dossier
 
-- **Frame.** Any institution's record framed as a document within the fiction is a Dossier,
-  carrying that institution's standing misreadings (`VB-067` type 4, whose named institutions are
-  examples). The teller label names the institution and, where known, the role of the hand that
-  wrote it. Teller state and listener do not apply (`VB-068`).
+- **Frame.** Any institution's record framed as a document within the fiction is a Dossier
+  (outside Cian, hostile institutions only, `VB-067`), carrying that institution's standing
+  misreadings (`VB-067` type 4, whose named institutions are examples). The teller label names
+  the institution and, where known, the role of the hand that wrote it. Teller state and listener
+  do not apply (`VB-068`).
   - **Mainline Cian:** the Sealbound Directorate (`MCD-1727`); the Sovereign Trust (its false
     Rookery record, `MCD-1566`, cried aloud at `MCD-1573`); and any other record-keeper canon
     locks, such as the Maw Ledger Offices (`MAW-065`, `MAW-142`), the Weregildd (`WGD-003`),
@@ -664,6 +667,10 @@ Grave-Analyst sign-off: [Grave-Analyst]  (SBD-050, SBD-052)
 - A Clinical Tone slip, a mythic word for the subject, belongs here and is cleaned out of later
   copies (`SBD-047`, `MCD-1854`).
 - This is the truest and least readable document in the chain [CRAFT on 07 §4(a)].
+- The clearance field offers no Level 1. `SBD-040` runs from SEALBLACK down through Level 4 and does
+  not settle whether a Level 1 exists; `SBD-050` keys its four detachment classes to SEALBLACK and
+  Levels 2 to 4. A clearance Level 1 is **[RULE NEEDED]** before any Dossier uses it. `SBD-047`'s
+  Level 1 is a disciplinary tier (Clinical Tone Failure) and is no clearance tier.
 
 **(b) Analytic assessment** (07 §4(b)). The whole form is optional plain-word scaffolding; no locked
 rule sets an SBD assessment form.
@@ -735,9 +742,9 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
 - **Sovereign Trust variant.**
   - The public record is cried aloud: the false Rookery record (`MCD-1566`), read by a Trust crier
     (`MCD-1573`). The form of that notice is **[NAME NEEDED: N12]**.
-  - Scrip debt is held in the Central Ledger (`WC-007`, `MAW-096`). Trust records
-    carry phantom orders the Trust processes as its own (`MCD-271`), a Dossier that records a
-    command it never truly issued.
+  - Scrip debt is a Metabolic Tether to the Central Ledger (`WC-007`), which Scrip transaction value
+    also enters (`MAW-096`). Trust records carry phantom orders the Trust processes as its own
+    (`MCD-271`), a Dossier that records a command it never truly issued.
   - On the page: an agentless "fire of undetermined origin"; a precise figure with its source lost
     [MODERATE; 07 F8, F3; †Samet 1975, Baker et al. 1968, Irwin & Mandel 2019 for F3].
   - Survivors meet the record as "a lie built to outlast us" (`MCD-1573`).
@@ -747,9 +754,10 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
   - Their forms and vocabulary come only from locked rules or plain words (`VB-068`).
   - Reckoners hold a Trust Revenue Council state charter (`MAW-086`).
 - **Homage World variant.**
-  - Hostile offices there are kept unnamed by convention: the Magistrate of Ide, a diocese, a plant
-    office, and the counterintelligence apparatus that stays unnamed even in resolution
-    (`MCD-1092`).
+  - Hostile offices there stay unnamed. This is the standard's default, drawn from the precedents
+    of the unnamed Commissioner (`MCD-341`), the Magistrate of Ide (`MCD-342`), and the
+    counterintelligence apparatus that stays unnamed even in resolution (`MCD-1092`). A diocese and
+    a plant office stay unnamed in the same way.
   - A Dossier there is a hand-copied or printed record of an unnamed office (`PH2-049`). Printing
     exists in that World (as Kalamu's sheets are, `PH2-064`; the Areíto press, `MCD-357`); those
     rules are cited for the medium only, and neither is a Dossier. It never names what canon keeps
@@ -817,8 +825,9 @@ independently replicated by Moussaïd et al. 2015]
   - Repetition pushes one version toward consensus whatever its source [STRONG; 02 F10].
   - A bare denial lowers belief without removing the image ("They had to deny it."). A correction
     that supplies a better explanation works better [STRONG; 02 F11].
-  - The precedents: corrections printed beside claims (`MCD-638`); a crier reading a false record
-    (`MCD-1573`).
+  - The precedent: a crier reading a false record (`MCD-1573`).
+- **Corrections from outside the official channel.** An independent pamphlet can print corrections
+  beside the claims it answers (`MCD-638`).
 
 **The model's limits** [MODERATE; 02 F4; †Allport & Postman 1947, Bartlett 1932, Bergman & Roediger
 1999, Shibutani 1966]
@@ -1000,7 +1009,8 @@ closed.
 - A visible pecking order, made and remade in talk.
 - A leader's suggestion is taken up and a follower's is ignored.
 - People with fresh news hold the floor.
-- The runner is a trusted public figure who carries news as well as slips, and his credibility is
+- Where a locked rule sets a runner in the room (none does yet in either world; see the venue gaps
+  below), he is a trusted public figure who carries news as well as wagers, and his credibility is
   his business.
 
 **Group:** open sessions with anyone in earshot. A sponsor brings in a newcomer.
@@ -1035,13 +1045,15 @@ closed.
 **Venues, mainline Cian**
 - The gathering spot and its regulars: **[NAME NEEDED: N14]**.
 - Lookout: **[NAME NEEDED: N15]**.
-- Runner for unlicensed bets: **[NAME NEEDED: N16]**.
+- Whether unlicensed bets run through runners to an unlicensed Reckoner is **[RULE NEEDED]**:
+  `MAW-086` charters Reckoners under a Trust Revenue Council state charter, so an unlicensed one is
+  itself a fact no locked rule holds. Name candidates for the runner, for when it is locked, at N16.
 - Canon already has:
   - laundry runners and laundry-guild children (`MCD-1574`, `MCD-1887`)
   - Daba's couriers and safehouses
   - the Weregildd's blind couriers (`WGD-003`)
-  - canal-district gambling houses, the category word being **[NAME NEEDED: N10a]**, and a named
-    house **[NAME NEEDED: N10b]**
+  - canal-district gambling houses (`MCD-402`), the category word being **[NAME NEEDED: N10a]**,
+    and a named house **[NAME NEEDED: N10b]**
   - waystations (`MCD-1622`)
 
 **Venues, homage World**
@@ -1052,13 +1064,14 @@ closed.
 - Sankofa's dice games (`MCD-1023`, `MCD-1092`).
 - Gaps:
   - corner and crew **[NAME NEEDED: H9]**
-  - runner **[NAME NEEDED: H5]**
-  - slip **[NAME NEEDED: H6]**
-  - Policy bank **[NAME NEEDED: H7]**
   - lookout **[NAME NEEDED: H8]**
   - street game **[NAME NEEDED: H10]**
-- The runner knows everyone's number and everyone's debts. "Show me the slip" is the fact-zone
-  challenge [06 §2.2; the folk number-names in 09 are ⚠ unverified and not used].
+- Whether Policy has runners, slips, and banks is **[RULE NEEDED]**: `PH2-003` and `PH2-011` to
+  `PH2-013` hold none of the three. Name candidates for when it is locked: runner at H5, slip at H6,
+  Policy bank at H7.
+- Once a rule sets them, the runner knows everyone's number and everyone's debts, and "Show me the
+  slip" is the fact-zone challenge [06 §2.2; the folk number-names in 09 are ⚠ unverified and not
+  used].
 
 ### M3. The barbershop equivalent
 
@@ -1077,6 +1090,7 @@ closed.
 **Brag / fact**
 - *Brag:* sport, personal exploits.
 - *Argued on the merits:* politics. Heated disagreement is welcome.
+- Sexual talk stays between adults and non-explicit, with no minor present or referenced.
 - Taboo: shaming a present person or his child ("Not in here."), and carrying shop talk outside.
 
 **Open / close**
@@ -1208,7 +1222,9 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 
 **Venues, mainline Cian: betting vocabulary**
 - Reckoners (`MAW-081`, `MAW-086`) and the four wager classes (`MAW-087`).
-- The Reckoner's booth: **[NAME NEEDED: N6]**. The betting slip: **[NAME NEEDED: N7]**.
+- Whether Reckoners take wagers at a booth is **[RULE NEEDED]**; name candidates at N6.
+- Whether a wager is recorded on a slip given to the bettor is **[RULE NEEDED]**; name candidates
+  at N7.
 - Crowd slang for a fighter: **[NAME NEEDED: N8]**. For a bout: **[NAME NEEDED: N9]**.
 - The bell is already Maw language in Red Beard's keyword list (Voice Bible).
 - Pits by tier (`MAW-142`, `MAW-143`).
@@ -1295,7 +1311,7 @@ a generalization, 01 F8; †Norrick 1997]
 **Venues, mainline Cian**
 - Pier Nine (`CC-117`); Dock-Row Six / Lower Portside (`CC-115`); Dock-Row Four (manuscript
   Chronicle III).
-- Warehouse Twelve; the Silt Row dredge site.
+- Warehouse Twelve; the Silt Row dredge site (`MCD-621`).
 - The Portside Dockmaster's Office (`MCD-249`).
 - The morning hiring of dockers: **[NAME NEEDED: N3]**.
 
@@ -1521,7 +1537,7 @@ locked house rules; CRAFT]
 - Every `ASH-` rule is adult material; `ASH-024` to `ASH-030` are the explicit core.
 - Any Ashkeel account is adult-only and non-explicit.
 - Any sexual detail stays off the page.
-- Ashkeel has never appeared in a Chronicle, so a first entry clears the launch gate like any other.
+- Ashkeel has never appeared in any entry, so a first entry clears the launch gate like any other.
 
 **Who and order**
 - Council houses and tiers (`ASH-031`) and collar ranks (`ASH-034`).
@@ -1666,7 +1682,7 @@ Built on 06 §3 and extended. "Memory-holder" is the S2 checker.
 | Setting | Size | Floor | Truth norm | Memory-holder | Challenge | Best-fit account types |
 |---|---|---|---|---|---|---|
 | Tavern (M1) | 2-15 at the counter | Wit, senior regular | Brag on sport and tales; fact on money and local fact | Keeper | Ridicule, the keeper's word | Hearsay, Comrade (brag traced, §4.1), a liar to believers |
-| Corner (M2) | 3-20 | Leader, news-holder | Brag passes until it claims rank | Corner elder, runner | "Prove it," a witness present | Hearsay, informant source for a Dossier |
+| Corner (M2) | 3-20 | Leader, news-holder | Brag passes until it claims rank | Corner elder (a runner, once a rule sets one) | "Prove it," a witness present | Hearsay, informant source for a hostile institution's Dossier |
 | Barbershop (M3) | 4-12 | Owner | Argument welcome; brags heckled | Owner | Open argument, the owner's verdict | Hearsay, Comrade (brag traced, §4.1), public friction |
 | Pen / barracks (M4) | 10-50 | By performance | Brag off-field; fact on what was witnessed | Senior fighter, sergeant | Topping, ridicule | Comrade (private; brag traced, §4.1), Adversary (unrepentant) |
 | Crowd (M5) | Hundreds+ | None during | Loyalty over accuracy | The record, the Reckoner | Almost none until the result | Hearsay (acute) |
@@ -1676,10 +1692,10 @@ Built on 06 §3 and extended. "Memory-holder" is the S2 checker.
 | Sailors (M9) | 3-15 | Old hand | Yarn genre | Old hand, the log | "Aye, sure" | Hearsay, Comrade (yarns traced, §4.1) |
 | Elders (M10) | 3-20 | The teller | Genre-marked | Other elders | A correction of a name | Hearsay (custodial), Comrade (tall tales traced, §4.1) |
 | Wake (M11) | 10-100 | Kin, then friends | Kind exaggeration; accusation deferred | Kin | Gentle correction | Comrade (kind exaggeration traced, §4.1) |
-| Market (M12) | 2-5 in a crowd | Seller | Praise discounted; quality tested | Regular trader | Test, walk away | Hearsay, Dossier (crier) |
+| Market (M12) | 2-5 in a crowd | Seller | Praise discounted; quality tested | Regular trader | Test, walk away | Hearsay, Dossier (a hostile institution's crier, e.g. the Trust's, `MCD-1573`) |
 | Ashkeel (M13) | Small, masked | House rule | Contract is fact | Council archive | The Council peace | Comrade, Hearsay (adult) |
-| Meeting (M14) | 10-200 | Chair | Minutes are fact | Clerk of the minutes | Point of order | Comrade, Dossier (minutes) |
-| Tribunal (M15) | 2-200 | Questioner | No brag; the record is fact for the institution | Clerk, the record | Statement against evidence | Adversary, Comrade (testimony), Dossier (the record) |
+| Meeting (M14) | 10-200 | Chair | Minutes are fact | Clerk of the minutes | Point of order | Comrade, Dossier (minutes of a hostile institution only) |
+| Tribunal (M15) | 2-200 | Questioner | No brag; the record is fact for the institution | Clerk, the record | Statement against evidence | Adversary, Comrade (testimony), Dossier (the record; outside Cian, a hostile institution's record only) |
 
 A Comrade Account told in a brag room stays inside the Comrade bound. Its exaggeration or edge
 drift on any matter of fact locks as fact unless traced (`VB-067`, §4.1), so a Comrade teller there
@@ -1762,8 +1778,8 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
     - Kill claims are checked against `CC-161`, `CC-162`, `CC-164` and `MCD-1882`. Inflation or
       softening appears only as traced drift (§4.1, "Must never be").
 11. **World rules.**
-    - Homage World: no firearms, engines or broadcast media; criers and broadsheets only
-      (`PH2-049`). Invented names only (`PH2-034`).
+    - Homage World: no firearms, engines or broadcast media; criers, broadsheets and pamphlets,
+      hand-copied or printed (`PH2-049`, `PH2-064`). Invented names only (`PH2-034`).
     - Mainline: no modern-tech metaphor (`CULT-199`). Places against the Atlas (`GEO-` rules).
 
 ### D. Telling
@@ -1778,21 +1794,21 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
       carries more than one teller or community, they disagree (§4.4).
 14. **Voice Bible.**
     - No phatic talk; dialogue cut by half.
-    - Humor is irony and understatement only (`VB-004`). Every comic register (R0.4, R15, R18, M1,
-      M4, M7, M9, and the comic stories of M6 and M11) is written deadpan, until Abad rules on the
-      companion draft's part (c), item 8.
+    - Humor is irony and understatement only (`VB-004`). Every comic register, including R0.4,
+      R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and
+      M11, is written deadpan, until Abad rules on the companion draft's part (c), item 8.
     - No balanced antithesis, including "not only… but also" and "while X, Y."
     - No banned words or terms (`VB-010`, `VB-013`, `VB-050`); the Density Spike unnamed; "spike"
       absent (`VB-063`).
-    - Iron and Rust used only by Onyx. The SBD's "Stone, Iron, Meat" lexicon (`CULT-199`) is SBD
-      usage and carries no verdict.
+    - Iron and Rust used only by Onyx as verdict words. The SBD's "Stone, Iron, Meat" lexicon
+      (`CULT-199`) is SBD usage and carries no verdict.
     - Track voice rules where Onyx appears (`VB-063`).
 15. **Evidence honesty.** No marker is presented to the reader as proof of a lie. Grades here are
     craft guidance and assert nothing in-world.
 
 ### E. Names and safety
 16. **New names.** Every new name is collision-checked against `canon-ledger.json` and the
-    Chronicle corpus, near-collisions included, and the result goes in the connective-tissue note.
+    entry corpus, near-collisions included, and the result goes in the connective-tissue note.
 17. **Child safety.** No sexual content involving any minor, in any setting. Ashkeel is adult-only
     and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).
 
