@@ -560,7 +560,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
 
 - **Core wound / formative event (PROPOSED -- for Abad's confirmation):** *sent out as their keeper
   was fused into the Gate.*
-  - **Shared.** They are the last of a clade the Vael Kem ate down to three (`MCD-041`, `MCD-040`).
+  - **Shared.** They are the last of a clade the Vael Kem hunted to near-extinction, now three (`MCD-041`,
+    `MCD-040`).
     Pyro's mother, the last keeper of their tradition (`MCD-040`), keyed them to her child before
     the curse took hold (TA2's new fact; depends on TA1 and TA2). On the night of the Gate, after the birth, she pushed them out
     through the inverted Gate just before her fusion completed (`MCD-131`). The imprint and the
@@ -645,25 +646,26 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
   keeping forward, for the child of their last keeper and the line that once fought for them.
   Varkul holds, Sorya remembers, Varruk finds the way.
 
-### (B) Remaining Section 1 findings
+### (B) Remaining Section 1 findings and new items
 
 None of these blocks the profile. Each carries a recommendation, is queued, or is marked for Abad's
 ruling with no recommendation.
 
 - **TB1. Where the three lived before 290, and where the bond happened (findings 3, 4).** Shared
-  with `pyro.md` B3, word for word from here:
+  with `pyro.md` B3, word for word through option (iii):
   `MCD-269` locks the cavern site as the same Living Gate activated at the birth, and she fused into
   the Gate's architecture (`MCD-131`), so the birth and the bonding at the cavern follow from
   `MCD-269` and `MCD-131` on the proposed reading that they happened where she fused; this gives
-  Kanja's 12 km line a fixed point (`MCD-270`). Proposed: the curse is her voice-keyed binding to it
-  (`MCD-131`). Why she was there is unlocked.
+  Kanja's 12 km line a fixed point (`MCD-270`). Why she was there is unlocked.
   - Option (i), a new fact: the Karesian heritage site was the Dhar-Kael bonding ground, and she
     went there as last keeper to complete the imprint. Cost: a tradition site the ledger does not
     name, and the Trust's survey of it at Kanja 282 (`MCD-269`, `MCD-275`) then touches her bonding
     ground eight years early.
-  - Option (ii), a new fact: the curse drew her there, its lattice anchored to the site. Cost: the
-    curse becomes bound to a place, T.D.K.'s legacy architecture reaches into a Karesian heritage
-    site, and the 282 survey becomes part of the curse's story.
+  - Option (ii), a new fact: the curse drew her there. On this reading the curse is her voice-keyed
+    binding to the cavern Gate, joining `MCD-131`'s "voice-keyed breach-lattice" to `CC-046`'s curse
+    installed in her, its lattice anchored to the site. Cost: the curse becomes bound to a place,
+    T.D.K.'s legacy architecture reaches into a Karesian heritage site, and the 282 survey becomes
+    part of the curse's story.
   - Option (iii), adding no new fact: the reason stays open. Recommended for now, since it adds no
     fact; whichever entry first stages the birth needs (i) or (ii) ruled first.
   - Varruk is the one the fleet saw at the Dog Watch (`MCD-277`). Where the three lived before
@@ -678,8 +680,8 @@ ruling with no recommendation.
   - **Option (i), a proposed new fact:** the keeper did not raise them. Support: the plainest
     reading of `SBD-041`'s falsehood, which removes custody from the claim entirely.
   - **Option (ii), a proposed new fact:** she kept them, and the claim fails on "from birth," on
-    "homeland," or on "in the Shattered Kingdoms." Support: it sits with `MCD-040`'s "last keeper"
-    and with this profile's throughline.
+    "homeland," or on "in the Shattered Kingdoms." Support: it sits with `MCD-040`'s "last keeper";
+    the throughline does not require custody before 290.
   - TA1 and TA3 stand under either option; neither depends on custody before 290. Her homeland
     stays open. Any entry quoting the file locks it only as said (`VB-067`).
 - **TB3. Varkul's two names (finding 6).** Recommended, a new fact: "Drown-Warden" is the crew's and the
@@ -725,10 +727,16 @@ ruling with no recommendation.
 - **TB12. Real-world names and metadata (finding 16).** Recommended: `CC-096`'s and `CC-098`'s
   real-world species comparisons are replaced with in-world size statements; the status casing and
   category tags are normalized.
-- **Coordinated amendment of `CC-046` and `WC-017`.** Four separate items amend these two rules:
-  `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), and this file's TA1 ("produced") and
-  TA2 (the bond "completed" beforehand). At lock they are merged into one coordinated amendment
-  text per rule, so that neither rule is amended four times in pieces.
+- **Coordinated amendment of `CC-046`, `WC-017`, and `MCD-136`.** Several items amend the same
+  rules, listed per rule:
+  - `CC-046`: `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), `triad-guardians.md` TA1
+    ("produced"), and TA2 (the bond "completed" beforehand).
+  - `WC-017`: `pyro.md` B2 ("before Pyro was born"), `pyro.md` B4 ("installed"), and
+    `triad-guardians.md` TA1 ("producing").
+  - `MCD-136`: `pyro.md` B4 (the curse as legacy architecture) and `triad-guardians.md` TA2 (the
+    bond "completed" beforehand).
+  - `MCD-022` is amended by one item only (TA2), so it needs no merge.
+  Each of the three rules gets one merged amendment text at lock.
 - **TB13. The Oath-Raptor's name.** New. Varruk's species is the Oath-Raptor (`MCD-040`), and Sorya,
   an Apex-Feline, is the Guardian bound to the Oath (`CC-097`). Recommended: no change now, and a
   one-line explanation of the species names when the clade's history is first drafted.

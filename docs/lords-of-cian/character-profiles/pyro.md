@@ -260,9 +260,8 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
 - His grandfather Maro dies at the opening (`MCD-025`/`091`).
 - `MCD-277` — The Last Breakfast (Kanja 314). It closes the Long Mask "as the Shimmer and the Gilded
   Lighthouse's pendant activate"; the pendant's severing triggers the Pi-Awakening (`CC-005`), which
-  `WC-022` places after the murder and the 10-Day Interregnum. The meal is therefore
-  on the present reading a Book 1 beat after Maro's death (a placement that waits on finding
-  21's reconciliation), outside this series' window; no pre-Book-1 entry stages it or references
+  `WC-022` places after the murder and the 10-Day Interregnum. The meal is therefore a Book 1 beat
+  after Maro's death under either B16 option, outside this series' window; no pre-Book-1 entry stages it or references
   Kanja's grief at it (`CC-161`, `ARS-437`). It is his only locked Book 1 beat.
 
 **Book 3, "The Dark Monarch"**
@@ -433,9 +432,9 @@ resolved here.
     Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening";
     `MCD-277`, "The Last Breakfast (314) closes the Long Mask on Pyro serving Kanja stew as the
     Shimmer and the Gilded Lighthouse's pendant activate." A chosen ending on the night of the last
-    coat and an ending at the pendant's severing are not reconciled, and the Last Breakfast's place
-    after the Fulfillment Ceremony (read from `CC-005` and `WC-022`) waits on that reconciliation.
-    The series window's end at the Ceremony stands either way.
+    coat and an ending at the pendant's severing are not reconciled (B16). The Last Breakfast's place
+    after the Fulfillment Ceremony (read from `CC-005` and `WC-022`) holds under either way of
+    reconciling them, and the series window's end at the Ceremony stands either way.
 
 ---
 
@@ -450,9 +449,9 @@ ledger. Pyro has no entry corpus (Section 1), so every facet is built from locke
 
 ### (A) Questions to rule before this profile can be confirmed
 
-Four questions, drawn from seven findings (1, 3, 15, 16, 17, 19, 20), decide facts the profile
-stands on. Each facet further down is
-written under the recommended answer and says where it depends on one.
+Four questions, drawn from six findings (1, 3, 15, 16, 17, 20), decide facts the profile stands
+on. Each facet further down is
+written under the recommended answer; where a facet rests on one, it says so.
 
 **A1. Pyro's age at Book 1 (finding 1).** This is item 1 on `approval-list-2026-10-03.md`.
 - **Option 1 (recommended):** Book 1 opens at Kanja 314, 284 years after the Sovereign Pier, and
@@ -515,12 +514,12 @@ center of the profile.
   was). That she lives, fused into the Gate (`MCD-131`),
   stays reserved. Who aboard might know is item B6 below.
 
-**A4. Where, and by whom, he was raised (findings 19, 20).**
+**A4. Where, and by whom, he was raised (finding 20).**
 - **Option 1 (recommended):** aboard the Scourge fleet from Kanja 290 up to Book 1, with
   Stormbreaker as his guardian (`CC-045`) and the Triad with him. All three Guardians rank the ship
   in their bond hierarchy (`CC-095`, `CC-097`, `CC-099`), so they live aboard. The Scourge's Heir
   happens among the crew (`MCD-272`, proven on Ironbane). `MCD-277` gives the Pyro Incident no place
-  or observer; this option's proposed reading puts it aboard. The locked entries set in these years
+  and no named observer ("first observed instance"); this option's proposed reading puts it aboard. The locked entries set in these years
   that never mention him (`MCD-1246`, `MCD-814`, `MCD-1251`, `MCD-493`, `MCD-1243`, `MCD-815`,
   `MCD-1900`, `MCD-813`, `MCD-1252`, `MCD-1253`, `MCD-1254`, `MCD-1255`, `MCD-1406`, `MCD-1407`,
   `MCD-1408`, `MCD-1022`) are read as scenes he is off the page for. Before his first wave is
@@ -577,7 +576,7 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     proposes the quieter reading, which keeps the eventual truth (`ARS-414`) his own discovery.
 - **Values -- what he will not compromise (PROPOSED -- for Abad's confirmation):**
   - **People eat before they fight.** The crew calls his cooking "eating well before a fight," and
-    his food carries a real performance and healing effect (`ARS-421`, `MCD-223`).
+    his food carries a real performance and healing effect (`ARS-421`, `MCD-272`).
   - **Mending comes first.** His food heals for real; it is proven on Ironbane's damaged nerves
     (`MCD-272`). Nelle Adessi's clinic, a room "where people are healed," becomes the one space in
     his life outside war (`CC-123`, `CC-126`).
@@ -588,8 +587,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
 - **How he holds contradiction (PROPOSED -- for Abad's confirmation):** *the Captain's son, cooking
   for the Captain.* He cooks for the father who hides that he is his father (`CC-079`), and knows
   him as the Captain under A4's proposal. The meal
-  the Long Mask closes on, the Last Breakfast (`MCD-277`), is on the present reading a Book 1 beat after Maro's death (a placement that waits on finding
-  21's reconciliation), outside this series' window; no pre-Book-1 entry stages it or references
+  the Long Mask closes on, the Last Breakfast (`MCD-277`), is a Book 1 beat after Maro's death
+  under either B16 option, outside this series' window; no pre-Book-1 entry stages it or references
   Kanja's grief at it (`CC-161`, `ARS-437`). He ties on an apron the ledger names the Rexmar Apron,
   the name of a line he does not know is his (`ARS-421`, `CC-047`). The Rexmar war tradition was
   forged protecting the Dhar-Kael (`MCD-041`); the last three Dhar-Kael now guard a Rexmar who does
@@ -602,8 +601,7 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     and hides it (`CC-079`), and was kept 12 km from the birth so the Talisman would not disturb the
     bonding (`MCD-270`). Proposed: that distance at the birth continues as a careful distance
     across Pyro's whole life. Their closest locked moment, the Last Breakfast (`MCD-277`), is
-    on the present reading a Book 1 beat after Maro's death (a placement that waits on finding
-    21's reconciliation), outside this series' window; no pre-Book-1 entry stages it or references
+    a Book 1 beat after Maro's death under either B16 option, outside this series' window; no pre-Book-1 entry stages it or references
     Kanja's grief at it (`CC-161`, `ARS-437`).
   - **Stormbreaker, his guardian.** Stormbreaker defeated the Demaron in Pyro's mother with Kanja's
     consent and guards Pyro without Pyro knowing that history (`CC-045`); his trauma from that night
@@ -621,7 +619,7 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     Ironbane is the first person his food is proven to heal (`MCD-272`). Proposed: his place aboard
     was earned at the table, one meal at a time.
   - **The ones who keep the secret.** Kanja (`CC-079`); Stormbreaker and Azar, who know or suspect
-    (`CC-079`; which of them knows is ruled under A3); Sephtis for 24
+    (`CC-079`; which of them knows is left open, an A3 option 1 cost); Sephtis for 24
     years (`CC-110`; his place aboard across Kanja 290-314 depends on approval-list item 38,
     `MCD-982`), and possibly Sorya, whose knowledge of the father the Triad file leaves open under
     its TA3 (pending its ruling). He is surrounded by people who hold a truth about him, and he
@@ -651,11 +649,9 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
   child whose fear burns to the cook whose food the crew calls eating well before a fight
   (`ARS-421`), its healing proven by Kanja 308 (`MCD-272`), and it ends before the Fulfillment
   Ceremony. Where it later leads, a son serving his father stew on the last morning of the Long Mask
-  without knowing whom he is feeding (`MCD-277`), is on the present reading a Book 1 beat after
-  Maro's death (pending finding 21) and stays
-  reserved. His Book 5 peak stays sealed (`MCD-223`).
+  (`MCD-277`), is a Book 1 beat after Maro's death under either B16 option and stays reserved. His Book 5 peak stays sealed (`MCD-223`).
 
-### (B) Remaining Section 1 findings
+### (B) Remaining Section 1 findings and new items
 
 None of these blocks the profile. Each carries a recommendation, is queued, or is marked for Abad's
 ruling with no recommendation.
@@ -695,15 +691,17 @@ ruling with no recommendation.
   `MCD-269` locks the cavern site as the same Living Gate activated at the birth, and she fused into
   the Gate's architecture (`MCD-131`), so the birth and the bonding at the cavern follow from
   `MCD-269` and `MCD-131` on the proposed reading that they happened where she fused; this gives
-  Kanja's 12 km line a fixed point (`MCD-270`). Proposed: the curse is her voice-keyed binding to it
-  (`MCD-131`). Why she was there is unlocked. Shared with `triad-guardians.md` TB1.
+  Kanja's 12 km line a fixed point (`MCD-270`). Why she was there is unlocked. Shared with
+  `triad-guardians.md` TB1.
   - Option (i), a new fact: the Karesian heritage site was the Dhar-Kael bonding ground, and she
     went there as last keeper to complete the imprint. Cost: a tradition site the ledger does not
     name, and the Trust's survey of it at Kanja 282 (`MCD-269`, `MCD-275`) then touches her bonding
     ground eight years early.
-  - Option (ii), a new fact: the curse drew her there, its lattice anchored to the site. Cost: the
-    curse becomes bound to a place, T.D.K.'s legacy architecture reaches into a Karesian heritage
-    site, and the 282 survey becomes part of the curse's story.
+  - Option (ii), a new fact: the curse drew her there. On this reading the curse is her voice-keyed
+    binding to the cavern Gate, joining `MCD-131`'s "voice-keyed breach-lattice" to `CC-046`'s curse
+    installed in her, its lattice anchored to the site. Cost: the curse becomes bound to a place,
+    T.D.K.'s legacy architecture reaches into a Karesian heritage site, and the 282 survey becomes
+    part of the curse's story.
   - Option (iii), adding no new fact: the reason stays open. Recommended for now, since it adds no
     fact; whichever entry first stages the birth needs (i) or (ii) ruled first.
 - **B4. T.D.K. acting during his dormancy (finding 8).** Recommended, a new fact: the curse was
@@ -712,10 +710,16 @@ ruling with no recommendation.
   clarifying clause on `CC-046`, `MCD-136`, and `WC-017` ("T.D.K. had installed the Living Gate").
   The clause changes `CC-046`'s and `WC-017`'s "installed" from an act of his into the effect of his
   architecture.
-- **Coordinated amendment of `CC-046` and `WC-017`.** Four separate items amend these two rules:
-  `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), and `triad-guardians.md` TA1
-  ("produced") and TA2 (the bond "completed" beforehand). At lock they are merged into one
-  coordinated amendment text per rule, so that neither rule is amended four times in pieces.
+- **Coordinated amendment of `CC-046`, `WC-017`, and `MCD-136`.** Several items amend the same
+  rules, listed per rule:
+  - `CC-046`: `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), `triad-guardians.md` TA1
+    ("produced"), and TA2 (the bond "completed" beforehand).
+  - `WC-017`: `pyro.md` B2 ("before Pyro was born"), `pyro.md` B4 ("installed"), and
+    `triad-guardians.md` TA1 ("producing").
+  - `MCD-136`: `pyro.md` B4 (the curse as legacy architecture) and `triad-guardians.md` TA2 (the
+    bond "completed" beforehand).
+  - `MCD-022` is amended by one item only (TA2), so it needs no merge.
+  Each of the three rules gets one merged amendment text at lock.
 - **B5. His mother's name, homeland, SBD recruitment, and marriage date (finding 10).** Open, for
   whenever her own material is drafted. Under A3 option 1 the marriage is private.
 - **B6. Who aboard knows she survived.** New, raised by A3. No recommendation. For Abad's ruling:
@@ -761,7 +765,10 @@ ruling with no recommendation.
 - **B8. Varkul's two names (finding 13).** Handled in `triad-guardians.md`, item TB3.
 - **B9. Undefined abilities (finding 14).** "Causal Convergence" stays undefined and out of every
   pre-Book-1 entry; his peak is sealed (`MCD-223`). "Aethelgard-adjacent" healing (`MCD-272`)
-  follows approval-list item 17 (the rename to "Kinetic Radiance").
+  follows approval-list item 17 (the rename to "Kinetic Radiance"). Flag: item 17 gives its scope
+  as "5 rules plus `pyro.md`," but the ledger shows three rules carrying "Aethelgard Kinetic
+  Radiance" (`MCD-142`, `ARS-391`, `ARS-392`) and one carrying "Aethelgard-adjacent" (`MCD-272`);
+  the count and whether `MCD-272` falls in its scope need checking.
 - **B10. "The Scourge's Heir" (finding 15).** Recommended, adding no new fact: "the Scourge's
   Heir" is the reader-facing label of `MCD-272`'s ledger line and is never spoken in-world.
   Alternative: an epithet the crew gives the Captain's cook for the healing proven that year. That
@@ -786,8 +793,8 @@ ruling with no recommendation.
   reunion. That reconstruction waits on the B6 ruling.
 - **B13. Book 1-4 placement (finding 19).** Queued for the Game Plan. Recommended: the window
   stays between Kanja 290 and the Fulfillment Ceremony (`MCD-025`/`091`), on the Ozmund precedent,
-  until Abad opens a later one. On the present reading the Last Breakfast (`MCD-277`) falls outside
-  it; that placement waits on finding 21, and the window's end at the Ceremony stands either way.
+  until Abad opens a later one. Under either B16 option the Last Breakfast (`MCD-277`) falls outside
+  it, and the window's end at the Ceremony stands either way.
 - **B14. Corpus silence (finding 20).** Settled by A4 option 1, with the line-by-line check noted
   there.
 - **B15. A superseded citation in Section 1.** The 16-Avatar line now names the superseded A-6
@@ -811,8 +818,8 @@ ruling with no recommendation.
   fuel a fire is started from, the heat set under a pot, and the word fits a protagonist named for
   fire (`CC-047`, `MCD-022`) who is a minor for most of the window. Collision check, case-insensitive:
   zero hits for "kindling" or "kindlings" in `canon-ledger.json`; the plain word appears in two
-  entries in `docs/lords-of-cian/chronicles/` (dyed kindling in a beacon stack, a servant laying a
-  fire), never as a name. Near-collisions within edit distance 2, across the ledger and the
+  entries in `docs/lords-of-cian/chronicles/` (dyed kindling in a beacon stack; Ozmund splitting
+  kindling at the kitchen ovens, Ozmund Testament XVIII, `MCD-1747`), never as a name. Near-collisions within edit distance 2, across the ledger and the
   entries: "Binding," "bindings," "findings," "finding," "minding," "winding," "handling,"
   "dwindling," "singling," and "killing." All are common words except two names: "Binding," in
   "Sorya's Binding," the heading of `CC-097` (her loyalty structure), its only capitalized use in
