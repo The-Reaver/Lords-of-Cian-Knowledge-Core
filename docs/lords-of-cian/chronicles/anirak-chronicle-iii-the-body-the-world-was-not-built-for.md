@@ -44,7 +44,7 @@ bosun did that. Nobody told him to.
 
 By the end of the first day there was a shape on the deck that followed the young man everywhere.
 
-A ring. Five paces across. Empty.
+A ring. Ten paces across. Empty.
 
 Where he walked, the ring walked with him. Men coiling line drifted out of it. Men at the pumps found
 reasons to stand at the other pump. At the evening meal the crew sat close along the benches amidships,
@@ -217,7 +217,7 @@ chronological order). The late Long Mask, roughly Kanja 300, within the last ~29
 `CC-101` dates only Ren's surfacing at sixteen, his age when he comes aboard is not stated (he is an
 adult), and the Captain's age is not stated in the narrative. Ren (Abyss, Ren Oshaal, `CC-066`,
 `CC-101`, `CC-138`): his passive field (+30% load within about 5 m) shown as the groaning planks and
-ladder, the listing launch, the crew stepping back, and a five-pace empty ring that follows him; no
+ladder, the listing launch, the crew stepping back, and an empty ring about ten paces across (a five-meter radius) that follows him; no
 active field and no Depth-Charge; no compensator boots or vest yet, so his load is unmoderated, and the
 ninth-day measuring for "boots" and "a vest" seeds the Kanja-built Dead Drakma gravitational-compensator
 boots and field-moderating mesh vest of `CC-101` without showing them. Recruited by Sephtis (`CC-101`),
