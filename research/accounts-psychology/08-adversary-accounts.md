@@ -384,7 +384,7 @@ Sources confirmed by web search this pass are listed with venue and identifier. 
 25. Presser, L. (2004). Violent offenders, moral selves: Constructing identities and accounts in the research interview. *Social Problems, 51*(1), 82-101. https://trace.tennessee.edu/utk_socopubs/27
 26. Rai, T. S., Valdesolo, P., & Graham, J. (2017). Dehumanization increases instrumental violence, but not moral violence. *Proceedings of the National Academy of Sciences.* `[unverified]` -- supporting note in F10 only; no finding rests on it.
 27. Schivelbusch, W. (2003). *The culture of defeat: On national trauma, mourning, and recovery* (J. Chase, Trans.). New York: Metropolitan Books. https://gwonline.unc.edu/node/4866
-28. Scott, M. B., & Lyman, S. M. (1968). Accounts. *American Sociological Review, 33*(1), 46-62. https://doi.org/10.2307/2092239 (volume/issue confirmed via https://data.gesis.org/gesiskg/resource/gesis-bib-70761)
+28. Scott, M. B., & Lyman, S. M. (1968). Accounts. *American Sociological Review, 33*(1), 46-61. https://doi.org/10.2307/2092239 (volume/issue confirmed via https://data.gesis.org/gesiskg/resource/gesis-bib-70761)
 29. Shalvi, S., Gino, F., Barkan, R., & Ayal, S. (2015). Self-serving justifications: Doing wrong and feeling moral. *Current Directions in Psychological Science, 24*(2), 125-130. `[details not re-verified this pass]` (review)
 30. Sykes, G. M., & Matza, D. (1957). Techniques of neutralization: A theory of delinquency. *American Sociological Review, 22*(6), 664-670. `[details not re-verified this pass]`
 31. Tavris, C., & Aronson, E. (2007). *Mistakes were made (but not by me): Why we justify foolish beliefs, bad decisions, and hurtful acts.* Orlando, FL: Harcourt. `[details not re-verified this pass]`
