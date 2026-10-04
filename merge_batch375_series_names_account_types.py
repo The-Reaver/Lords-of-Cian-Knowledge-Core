@@ -39,6 +39,7 @@ HAND = {
     "VB-063": [("the 'least articulate' Chronicle I coda convention (MCD-1866)", "the 'least articulate' Kanja Chronicle I coda convention (MCD-1866)")],
     "MCD-509": [("and Adeyemi Annals.", "and Adeyemi Annals entries.")],
     "MCD-1093": [("set after Annals V (MCD-1024)", "set after Xaragua Annals V (MCD-1024)")],
+    "MCD-1750": [('("Testaments II-VI" collided', '(the old "Chronicles II-VI" collided')],
     "MCD-1657": [("for the first time in the chronicle's run", "for the first time in the Records' run")],
 }
 d0 = json.load(open(LEDGER, encoding="utf-8"))
