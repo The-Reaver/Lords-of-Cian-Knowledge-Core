@@ -1,7 +1,7 @@
 # The Flood That Came From Below
 
 *Locked canon, Batch 131, 2026-09-11 (`MCD-440`). The Blue-Collar Titan Alias Chronicle VII, first
-entry in the third wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle.
+entry in the third wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Annals entry.
 New standalone material — a detailed armor-and-weapon combat showcase per Abad's craft instruction.
 Narrated in neutral third-person prose. No new named characters.*
 

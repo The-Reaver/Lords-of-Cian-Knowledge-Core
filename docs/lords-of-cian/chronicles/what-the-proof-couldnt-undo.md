@@ -1,6 +1,6 @@
 # What the Proof Couldn't Undo
 
-*Locked canon, Batch 204, 2026-09-11 (`MCD-895`). The Industrial Myth Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 204, 2026-09-11 (`MCD-895`). The Industrial Myth Alias Chronicle XLVII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

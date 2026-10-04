@@ -1,7 +1,7 @@
 # What Can't Be Burned
 
 *Locked canon, Batch 125, 2026-09-11 (`MCD-422`). Lord of Embers Alias Chronicle IV, first entry
-in the second wave. Rebellion era. Not a territory Chronicle. New standalone material. Narrated in
+in the second wave. Rebellion era. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

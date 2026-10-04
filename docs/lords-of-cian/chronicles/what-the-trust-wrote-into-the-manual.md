@@ -1,6 +1,6 @@
 # What the Trust Wrote Into the Manual
 
-*Locked canon, Batch 250, 2026-09-11 (`MCD-1088`). Storm That Walks Alias Chronicle LXIII, wave 21, closing the wave. The Sovereign Trust formally codifies the storm-timing doctrine into official naval regulation, crediting it to the school rather than to any one name -- the sub-series' first entry showing the doctrine outlive personal reputation as written law rather than only living memory. Not a territory Chronicle. Corrected Batch 321, 2026-10-02: an internal timeline slip ("a season ago") is reworded to "three years ago," matching `MCD-1086`/`1337`'s own established "three years" framing for this same handoff.*
+*Locked canon, Batch 250, 2026-09-11 (`MCD-1088`). Storm That Walks Alias Chronicle LXIII, wave 21, closing the wave. The Sovereign Trust formally codifies the storm-timing doctrine into official naval regulation, crediting it to the school rather than to any one name -- the sub-series' first entry showing the doctrine outlive personal reputation as written law rather than only living memory. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: an internal timeline slip ("a season ago") is reworded to "three years ago," matching `MCD-1086`/`1337`'s own established "three years" framing for this same handoff.*
 
 ---
 

@@ -1,7 +1,7 @@
 # The Half-Second the Blade Bought
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1235`). The Scourge Alias Chronicle LXX, wave 24, first
-entry. Age 238, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 238, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

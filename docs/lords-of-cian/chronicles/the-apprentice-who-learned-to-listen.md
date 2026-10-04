@@ -1,7 +1,7 @@
 # The Apprentice Who Learned to Listen
 
 *Locked canon, Batch 134, 2026-09-11 (`MCD-451`). The Crow King Alias Chronicle IX, closing the
-third wave. Rebellion era, ages 23-28. Not a territory Chronicle. New standalone material. Narrated in
+third wave. Rebellion era, ages 23-28. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

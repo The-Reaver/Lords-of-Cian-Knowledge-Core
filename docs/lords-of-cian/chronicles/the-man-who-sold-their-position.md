@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1203`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXV, wave 22. A betrayal-from-within entry testing the restraint doctrine against coercion rather
-than an external enemy. Not a territory Chronicle. Narrated in neutral third-person prose.*
+than an external enemy. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

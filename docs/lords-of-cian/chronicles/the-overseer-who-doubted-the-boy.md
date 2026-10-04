@@ -1,7 +1,7 @@
 # The Overseer Who Doubted the Boy
 
 *Locked canon, Batch 129, 2026-09-11 (`MCD-435`). Trench Monarch Alias Chronicle VIII. Rebellion
-era, age 18, before the Black Trench. Not a territory Chronicle. New standalone material. Narrated
+era, age 18, before the Black Trench. Not a territory Annals entry. New standalone material. Narrated
 in neutral third-person prose. No new named characters.*
 
 ---

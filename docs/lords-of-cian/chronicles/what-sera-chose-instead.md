@@ -1,7 +1,7 @@
 # What Sera Chose Instead
 
 *Locked canon, Batch 240, 2026-09-11 (`MCD-1057`). Captain Alias Chronicle LIX, wave 20. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

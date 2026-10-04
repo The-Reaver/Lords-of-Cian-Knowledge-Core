@@ -3,7 +3,7 @@
 *Locked canon, Batch 261, 2026-09-11 (`MCD-1309`); corrected Batch 321, 2026-10-02 (in-world
 dialogue reworded to remove writers'-room "wave"/"Chronicle" count language). Iron Bastard Alias
 Chronicle XC, wave 30, closing the wave. A capstone reunion of the doctrine's teaching lineage and
-recurring figures, with the new unresolved countermeasure left open. Not a territory Chronicle.*
+recurring figures, with the new unresolved countermeasure left open. Not a territory Annals entry.*
 
 ---
 

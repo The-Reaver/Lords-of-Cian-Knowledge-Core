@@ -3,7 +3,7 @@
 *Locked canon, Batch 280, 2026-09-11 (`MCD-1468`). Sovereign Ghost of the Great Sea Alias Chronicle
 CII, wave 34, closing the wave. Closes the arc opened at the wave's own start three entries back
 (`MCD-1460`): the First Blade's honest report of his defeat and the mercy shown him is disbelieved and
-quietly buried by his own institution. Not a territory Chronicle. Narrated in neutral third-person
+quietly buried by his own institution. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

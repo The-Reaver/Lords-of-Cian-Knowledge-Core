@@ -1,6 +1,6 @@
 # The Blade at the Captive's Throat
 
-*Locked canon, Batch 200, 2026-09-11 (`MCD-808`). The Scourge Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 200, 2026-09-11 (`MCD-808`). The Scourge Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

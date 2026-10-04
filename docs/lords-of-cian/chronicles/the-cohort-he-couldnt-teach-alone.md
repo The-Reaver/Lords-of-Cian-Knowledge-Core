@@ -4,7 +4,7 @@
 student's pronoun corrected to he/his, matching his established male gender per `MCD-499`). Iron
 Bastard Alias Chronicle LIX, wave 20. A teaching-at-scale entry: Kanja is asked to train a full
 cohort rather than a single student, and the doctrine's own lineage becomes its solution. Not a
-territory Chronicle.*
+territory Annals entry.*
 
 ---
 

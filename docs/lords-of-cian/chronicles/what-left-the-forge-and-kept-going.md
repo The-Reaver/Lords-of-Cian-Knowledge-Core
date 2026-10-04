@@ -3,7 +3,7 @@
 *Locked canon, Batch 249, 2026-09-11 (`MCD-1085`). The Lord of Embers Alias Chronicle LXIII, wave
 21, closing the wave. Set decades after the Rolling Foundry Campaign (MCD-241), during the Long
 Mask era. A legacy beat extending "The Boy Who Refused the Forge" (MCD-884). Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

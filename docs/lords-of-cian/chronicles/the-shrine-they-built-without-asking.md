@@ -1,6 +1,6 @@
 # The Shrine They Built Without Asking
 
-*Locked canon, Batch 207, 2026-09-11 (`MCD-903`). The Scourge Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 207, 2026-09-11 (`MCD-903`). The Scourge Alias Chronicle XLVI, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

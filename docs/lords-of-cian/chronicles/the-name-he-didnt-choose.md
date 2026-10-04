@@ -3,7 +3,7 @@
 *Locked canon, Batch 107, 2026-09-10 (`MCD-368`). Trench Monarch Alias Chronicle I. Rebellion era,
 weeks after the Dredge-Line Ambush (`MCD-231`, `CC-118`), where Callum Breck unilaterally chalked
 the "Trench Monarch" name on a captured officer's forehead without Kanja ever choosing or sanctioning
-it. Not a territory Chronicle. New standalone material outside the already-locked Twenty-Two
+it. Not a territory Annals entry. New standalone material outside the already-locked Twenty-Two
 Victories list. Narrated in neutral third-person prose, no Onyx coda, consistent with the
 pre-`VB-026` early-Rebellion state. No new named characters beyond the already-locked Callum
 Breck.*

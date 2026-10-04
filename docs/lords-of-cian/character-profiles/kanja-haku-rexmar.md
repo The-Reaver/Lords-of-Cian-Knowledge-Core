@@ -1,10 +1,10 @@
 # Kanja Haku Rexmar — Profile & Game Plan
 
-**Status:** wave 1 locked (Chronicles I–IV)
+**Status:** wave 1 locked (Chronicles I–IV); Long Mask wave locked (Chronicles V–VII, Batch 358)
 **Track:** Kanja version (new track, Onyx-narrated)
 **Gate cleared:** YES, 2026-09-28 — Chronicle prose may now be drafted for this track.
 
-This file is the standing gate artifact for this character, per the Character Chronicle Launch
+This file is the standing gate artifact for this character, per the Series Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
 any Chronicle is written or rewritten — not a summary produced after the fact.
 
@@ -17,7 +17,7 @@ Rebellion's end (age 30, the Trinity's surrender, `MCD-246`). This is deliberate
 existing 11-alias **Alias Chronicle track** (990+ entries), which by explicit design (and confirmed
 by grep across the whole corpus) uses flat, neutral third-person prose throughout, with zero Onyx
 narrator presence at any era — `VB-026` itself says the progressive handoff does not apply to the
-Phase 2 territory Chronicles, and in practice it has never been applied to the Alias Chronicles
+Phase 2 territory Annals, and in practice it has never been applied to the Alias Chronicles
 either. That track is "the regular accounting" and stays exactly as it is; nothing here touches it.
 This new "Kanja version" track is where Onyx's proper narrator voice actually gets built going
 forward, starting from Chronicle I of this track.
@@ -109,15 +109,15 @@ forward, starting from Chronicle I of this track.
 - **Ezio Valcari** and **Fermand Aurelias** — Book 1's investigators (`MCD-070`). Fermand narrates
   Ezio and Lauris chapters (`CC-034`/`VB-024`); Onyx of Oblivion — Kanja's own sentient Living Drakma
   blade (`ARS-020`), a distinct entity from Fermand — narrates Kanja chapters (`VB-020`/`021`).
-- **Lauris Letitia** — cousin-adjacent by shared crew rather than blood; extensive Character
-  Chronicle series of her own (109 entries) gives her a "My dear Ezio"-warm register with Fermand and
+- **Lauris Letitia** — cousin-adjacent by shared crew rather than blood; extensive Series of
+  her own (the Records, 110 entries) gives her a "My dear Ezio"-warm register with Fermand and
   a combat-joy trait (`CC-134`) distinct from Kanja's own more austere Rebellion-era register.
 - **Ozmund Verehimu** — cousin through their mothers (`MCD-101`); per `MCD-318`, strangers by
   relationship until adulthood despite the blood tie, with the Moonvault Rescue as their first joint
   operation since their mothers' own generation — meaning nothing in this walkthrough's Rebellion/
   Long-Mask window shows them as close, or necessarily in contact at all.
-- **Anansi, Orlok, Sephtis** — core Lords of Cian crew with their own developed profiles/Character
-  Chronicle plans (`ARS-408`, `CC-141`–`143`, `ARS-402`/`403` respectively); recur across the Alias
+- **Anansi, Orlok, Sephtis** — core Lords of Cian crew with their own developed profiles/character
+  Series plans (`ARS-408`, `CC-141`–`143`, `ARS-402`/`403` respectively); recur across the Alias
   Chronicle corpus (e.g., Sephtis's storm-timing doctrine and Anansi's Ghost-Lattice, the latter
   seeded from the Midnight Freight War's captured comms equipment, `MCD-242`/`CC-149`).
 - **Daba** (`CC-135`, `MCD-1566`–`1570`) — mutual mentor/apprentice relationship during Kanja's
@@ -126,9 +126,9 @@ forward, starting from Chronicle I of this track.
   1804 runs semi-dormant, parallel to and uncredited alongside the entire Rebellion and Long Mask.
 - **Arturo Salvatierra Duho** (`PH2-060`–`062`, `MCD-337`) — a homage-era (Phase 2) figure, Kanja's
   standing point of contact across NYC's (Batey's) five territories, chronologically predating both
-  Xaragua Chronicle I and Yara Chronicle I. Kanja stays deliberately unnamed to him throughout, per
-  the same unnamed-guest convention governing every territory Chronicle. This relationship sits in a
-  different Chronicle track (Territory) but is a real, locked relationship touching Kanja himself.
+  Xaragua Annals I and Yara Annals I. Kanja stays deliberately unnamed to him throughout, per
+  the same unnamed-guest convention governing every territory Annals entry. This relationship sits in a
+  different track (the territory Annals) but is a real, locked relationship touching Kanja himself.
 - **The eleven aliases as masks, not separate people:** Trench Monarch, Bane, the Industrial Myth,
   the Blue-Collar Titan, the Sovereign Ghost of the Great Sea, the Scourge, the Crow King, the Iron
   Bastard, the Lord of Embers, the Storm That Walks, and Captain (`MCD-230`) are all Kanja himself
@@ -177,7 +177,7 @@ forward, starting from Chronicle I of this track.
   through `-viii`), already rewritten once (Batches 70–71) to match the corrected World Atlas — this
   is the *only* existing prose corpus that actually covers "Kanja as his own protagonist" in the
   sense this new track means, and per `VB-026` is the explicit model for this track's narrator voice.
-- **His role as an unnamed guest across every homage-era territory Chronicle** (Phase 2, all four
+- **His role as an unnamed guest across every homage-era territory Annals entry** (Phase 2, all four
   cities, 20 territories) — a separate track entirely, not touched by this new one.
 - **The eleven new pre-Book-1 villains locked in Batch 312** (`CC-147`–`157`, `MCD-1855`–`1865`):
   Harek Vondel (killed by Daba/1804), Orven Castellan (broken by Bane via `VB-060`), Halveth Ashcombe
@@ -186,10 +186,12 @@ forward, starting from Chronicle I of this track.
   (captured by Daba/1804), Ossa Drem (killed by Red Beard), Kruger Sennit (raided by the Blue-Collar
   Titan), Callas Modrin (exposed by Ezio Valcari), and Renfel Auberon (neutralized by a Kanja-crew
   team-up — Onyx, Sephtis, Ironbane fielding `CULT-197`'s Anti-Resonance countermeasure together).
-  **Flag: these eleven villain defeats are locked as character-plus-outcome only, with zero Chronicle
-  prose drafted for any of them, and every single one is explicitly queued "pending Abad's review" —
-  this is exactly the kind of material that originally motivated backfilling the whole Character
-  Chronicle Launch Protocol gate in the first place. Most of them belong to specific Alias Chronicle
+  **Flag: these eleven villain defeats are locked as character-plus-outcome first; four are since
+  dramatized (Vondel, Daba Roll LVII, `MCD-1878`; Thurlow, Daba Roll LVIII, `MCD-1879`; Modrin,
+  Ezio Exhibit I, `MCD-1876`; Auberon, Kanja Chronicle III, `MCD-1868`), and the rest stay queued
+  "pending Abad's review" —
+  this is exactly the kind of material that originally motivated backfilling the whole Series
+  Launch Protocol gate in the first place. Most of them belong to specific Alias Chronicle
   waves (already gated separately, all still "not started"), but several sit ambiguously close to
   what this new Kanja-version track could also plausibly dramatize, and that overlap should be
   named explicitly in the Game Plan discussion rather than assumed either way.**
@@ -241,7 +243,7 @@ forward, starting from Chronicle I of this track.
   any era, by design. It is not being touched, fixed, or folded into this new track in any way.
 - **This new "Kanja version" track has three entries (Chronicles I-III, `MCD-1866`-`1868`; see
   Section 4).** It launched from scratch, matching exactly how Ozmund's, Lauris's, and Daba's own
-  Character Chronicle series each launched from nothing.
+  series each launched from nothing.
 
 ---
 
@@ -339,7 +341,7 @@ going." Section 2 is closed.
   is tied to a specific already-classified alias (Orven Castellan/Bane, Halveth Ashcombe/Crow King,
   Rannic Sorvell/Sovereign Ghost, Kruger Sennit/Blue-Collar Titan) it stays queued for that alias's
   own future wave, once that alias's own gate clears — untouched by this track. Where a defeat is
-  tied to a different character's own Character Chronicle track (Harek Vondel and Vex Thurlow/Daba;
+  tied to a different character's own character Series track (Harek Vondel and Vex Thurlow/Daba;
   Ilsevet Sorrenta/Lauris) it likewise stays with that track. **Renfel Auberon's defeat (`MCD-1865`)
   is the one genuinely cross-cutting case** — a Kanja-crew team-up (Onyx, Sephtis, Ironbane fielding
   `CULT-197`'s Anti-Resonance countermeasure together) rather than a single classified alias's solo
@@ -362,7 +364,7 @@ going." Section 2 is closed.
      restating either already-written battle.
   2. **A dramatization of the Daba/Kanja mutual mentorship** (`MCD-1568`/`1570`), set in the
      "otherwise-unrecorded formative years" just before age 18 — the one already-locked relationship
-     in Kanja's own life that has never been shown from his side (Daba's own 50-Chronicle launch wave
+     in Kanja's own life that has never been shown from his side (Daba's own 50-entry launch wave
      covers it from Daba's POV; this would be the same events, or adjacent ones, from Kanja's). Onyx
      would be very early/minimal here, possibly not yet fully bonded depending on exact timing —
      worth checking against `ARS-020`'s age-17 bonding date before committing.
@@ -375,7 +377,7 @@ going." Section 2 is closed.
   2. Chronicle II — the Daba/Kanja mentorship from Kanja's own side, set chronologically *before*
      Chronicle I (pre-18, before Onyx's age-17 bonding per the check candidate 2 flagged) — written
      second but happening first, matching the project's established write-order-vs-in-universe-order
-     precedent (Xaragua Chronicle II, Batch 66). Confirmed against `ARS-020`: set early enough in the
+     precedent (Xaragua Annals II, Batch 66). Confirmed against `ARS-020`: set early enough in the
      mentorship that Onyx is not yet bonded at all, giving this entry zero narrator presence — a
      deliberate, clean "before the blade existed" baseline distinct from Chronicle I's minimal-but-
      present coda.

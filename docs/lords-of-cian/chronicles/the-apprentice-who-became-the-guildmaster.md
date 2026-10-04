@@ -1,6 +1,6 @@
 # The Apprentice Who Became the Guildmaster
 
-*Locked canon, Batch 202, 2026-09-11 (`MCD-872`). The Lord of Embers Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-872`). The Lord of Embers Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

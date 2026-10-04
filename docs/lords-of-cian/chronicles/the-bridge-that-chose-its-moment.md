@@ -4,7 +4,7 @@
 explicitly after the Battle of the Falling Bridge, `MCD-243`, as a second, deliberately diagnostic
 application of the same bridge-collapse-against-cavalry tactic, rather than a competing "first").
 The Iron Bastard Alias Chronicle VII, first entry in the third wave. Rebellion era, age 25. Not a
-territory Chronicle. New standalone material — a detailed armor-and-weapon combat showcase per
+territory Annals entry. New standalone material — a detailed armor-and-weapon combat showcase per
 Abad's craft instruction. Narrated in neutral third-person prose. No new named characters.*
 
 ---

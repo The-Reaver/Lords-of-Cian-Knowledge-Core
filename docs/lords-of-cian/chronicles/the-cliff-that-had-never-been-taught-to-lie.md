@@ -1,6 +1,6 @@
 # The Cliff That Had Never Been Taught to Lie
 
-*Locked canon, Batch 283, 2026-09-11 (`MCD-1487`). Iron Bastard Alias Chronicle XCIV, wave 32, first entry. The doctrine's first application to a natural geological formation with no builder, forger, or living growth cycle behind it. Not a territory Chronicle.*
+*Locked canon, Batch 283, 2026-09-11 (`MCD-1487`). Iron Bastard Alias Chronicle XCIV, wave 32, first entry. The doctrine's first application to a natural geological formation with no builder, forger, or living growth cycle behind it. Not a territory Annals entry.*
 
 ---
 

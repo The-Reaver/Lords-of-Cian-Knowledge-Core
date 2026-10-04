@@ -1,6 +1,6 @@
 # What the Blade Cut Free
 
-*Locked canon, Batch 194, 2026-09-11 (`MCD-636`). The Trench Monarch Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-636`). The Trench Monarch Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

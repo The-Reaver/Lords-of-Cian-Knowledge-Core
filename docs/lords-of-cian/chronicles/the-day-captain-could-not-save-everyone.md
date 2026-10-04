@@ -1,7 +1,7 @@
 # The Day Captain Could Not Save Everyone
 
 *Locked canon, Batch 127, 2026-09-11 (`MCD-428`). Captain Alias Chronicle IV, first entry in the
-second wave. Rebellion era. Not a territory Chronicle. New standalone material. Narrated in neutral
+second wave. Rebellion era. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

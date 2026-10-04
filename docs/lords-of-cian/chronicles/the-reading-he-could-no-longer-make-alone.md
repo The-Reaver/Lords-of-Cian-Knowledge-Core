@@ -1,6 +1,6 @@
 # The Reading He Could No Longer Make Alone
 
-*Locked canon, Batch 220, 2026-09-11 (`MCD-981`). The Storm That Walks Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 349, 2026-10-02: this entry dramatizes the opening move of the staged withdrawal Sephtis stages at `MCD-982`, not genuine physical decline.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-981`). The Storm That Walks Alias Chronicle LII, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 349, 2026-10-02: this entry dramatizes the opening move of the staged withdrawal Sephtis stages at `MCD-982`, not genuine physical decline.*
 
 ---
 

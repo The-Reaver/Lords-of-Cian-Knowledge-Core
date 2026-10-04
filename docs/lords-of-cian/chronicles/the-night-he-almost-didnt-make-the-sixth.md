@@ -1,6 +1,6 @@
 # The Night He Almost Didn't Make the Sixth
 
-*Locked canon, Batch 202, 2026-09-11 (`MCD-873`). The Lord of Embers Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed a typo ("a exhausted body" -> "an exhausted body").*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-873`). The Lord of Embers Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed a typo ("a exhausted body" -> "an exhausted body").*
 
 ---
 

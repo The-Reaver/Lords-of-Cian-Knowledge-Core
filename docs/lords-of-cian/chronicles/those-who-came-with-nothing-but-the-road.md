@@ -1,6 +1,6 @@
 # Those Who Came With Nothing But the Road
 
-*Locked canon, Batch 219, 2026-09-11 (`MCD-976`). The Lord of Embers Alias Chronicle LVI, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 219, 2026-09-11 (`MCD-976`). The Lord of Embers Alias Chronicle LVI, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

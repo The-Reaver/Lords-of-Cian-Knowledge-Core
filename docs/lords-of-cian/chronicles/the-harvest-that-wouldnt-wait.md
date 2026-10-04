@@ -1,6 +1,6 @@
 # The Harvest That Wouldn't Wait
 
-*Locked canon, Batch 243, 2026-09-11 (`MCD-1066`). Industrial Myth Alias Chronicle LXII, wave 21. The method's first agricultural-domain application, forcing its established four-day patient-documentation pacing to bend against a hard natural deadline -- a harvest window measured in fruit going soft on the branch -- rather than an administrator's artificial stalling. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 243, 2026-09-11 (`MCD-1066`). Industrial Myth Alias Chronicle LXII, wave 21. The method's first agricultural-domain application, forcing its established four-day patient-documentation pacing to bend against a hard natural deadline -- a harvest window measured in fruit going soft on the branch -- rather than an administrator's artificial stalling. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

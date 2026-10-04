@@ -1,7 +1,7 @@
 # What Patience Actually Grows
 
-*Locked canon, Batch 144, 2026-09-11 (`MCD-469`). Atunbi Chronicle II. Homage-era Ílú-Márùn,
-Atunbi/Oluwole. Territory Chronicle -- Oluwole as protagonist, Kanja an unnamed background guest
+*Locked canon, Batch 144, 2026-09-11 (`MCD-469`). Atunbi Annals II. Homage-era Ílú-Márùn,
+Atunbi/Oluwole. Territory Annals entry -- Oluwole as protagonist, Kanja an unnamed background guest
 with no command, credit, or resolution authorship. New standalone material. No new named characters.*
 
 ---
@@ -49,5 +49,5 @@ throughout, left the final one without being noticed.
 
 *Continuity notes (not narrative): a deliberate balancing entry showing "Don't Move, Improve"
 (`PH2-025`) succeeding decisively when the threat's timescale matches the ability's own, directly
-contrasting the speed-blind-spot failure of Chronicle I (MCD-348) rather than repeating it. No new
-named characters. Second Atunbi territory Chronicle.*
+contrasting the speed-blind-spot failure of Annals I (MCD-348) rather than repeating it. No new
+named characters. Second Atunbi territory Annals entry.*

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1276`). Crow King Alias Chronicle LXXXIV, wave 28,
 closing it. The third generation, old enough now to consider stepping back from front-line
-operations, decides what role she'll keep. Not a territory Chronicle.*
+operations, decides what role she'll keep. Not a territory Annals entry.*
 
 ---
 

@@ -3,7 +3,7 @@
 *Locked canon, Batch 185, 2026-09-11 (`MCD-542`); corrected Batch 321, 2026-10-02 (a `CC-116`
 citation for Callum Breck fixed to `CC-117`/`CC-119`). The Sovereign Ghost of the Great Sea Alias
 Chronicle XV, closing the fifth wave. Rebellion era, age 21, some months after Ghost Harbor. Not a
-territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+territory Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters beyond the already-locked Callum Breck.*
 
 ---

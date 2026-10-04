@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1312`). The Lord of Embers Alias Chronicle LXVI, wave
 22, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). An unplanned
 institutional-discontinuity entry, distinct from the successor's own established training bookend
-(MCD-887). Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321,
+(MCD-887). Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321,
 2026-10-02: the senior smith's "I've trained her for six years" conflicted with MCD-887's own
 "the last several months" for the same training span; fixed to match.*
 

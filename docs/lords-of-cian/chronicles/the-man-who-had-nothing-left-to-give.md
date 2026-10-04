@@ -1,7 +1,7 @@
 # The Man Who Had Nothing Left to Give
 
-*Locked canon, Batch 142, 2026-09-11 (`MCD-467`). Kwan Chronicle II. Homage-era Muungano, Kwan/Kasa.
-Territory Chronicle -- Kasa as protagonist, Kanja an unnamed background guest with no command,
+*Locked canon, Batch 142, 2026-09-11 (`MCD-467`). Kwan Annals II. Homage-era Muungano, Kwan/Kasa.
+Territory Annals entry -- Kasa as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 
 *Corrected Batch 340, 2026-10-02: pronoun fixes (Kasa is he/him throughout the Chicago territory
@@ -52,4 +52,4 @@ staying only long enough to see the door close safely behind him.
 *Continuity notes (not narrative): establishes a genuine limit and human cost of "The Invitation"
 (`PH2-038`) -- the ability cannot manufacture belief or capacity that has been genuinely exhausted,
 only invite whatever authentic remainder still exists, extending rather than contradicting the
-already-locked backstory precedent. No new named characters. Second Kwan territory Chronicle.*
+already-locked backstory precedent. No new named characters. Second Kwan territory Annals entry.*

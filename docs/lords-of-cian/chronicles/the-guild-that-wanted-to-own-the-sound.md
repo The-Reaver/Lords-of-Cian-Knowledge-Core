@@ -6,7 +6,7 @@ formally ends at `MCD-245`/`246` and wave 21 falls years past it; the garbled, m
 about the teaching lineage corrected to name the first and second students plainly, matching the
 second student's established she/her majority). Iron Bastard Alias Chronicle LXIII, wave 21,
 closing the wave. An economic/institutional entry: a merchant consortium offers to buy exclusive
-licensing rights to the resonance doctrine. Not a territory Chronicle.*
+licensing rights to the resonance doctrine. Not a territory Annals entry.*
 
 ---
 

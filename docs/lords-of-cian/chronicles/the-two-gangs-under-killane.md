@@ -1,7 +1,7 @@
 # The Two Gangs Under Killane
 
 *Locked canon, Batch 131, 2026-09-11 (`MCD-441`). The Blue-Collar Titan Alias Chronicle VIII.
-Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle. New standalone material.
+Rebellion era, age 20, the Sewer War of Killane. Not a territory Annals entry. New standalone material.
 Narrated in neutral third-person prose. No new named characters.*
 
 ---

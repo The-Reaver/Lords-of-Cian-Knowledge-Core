@@ -1,6 +1,6 @@
 # What His Hands Remembered
 
-*Locked canon, Batch 204, 2026-09-11 (`MCD-894`). The Industrial Myth Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 204, 2026-09-11 (`MCD-894`). The Industrial Myth Alias Chronicle XLVI, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

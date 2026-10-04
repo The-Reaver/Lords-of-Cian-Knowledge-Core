@@ -1,6 +1,6 @@
 # The Ninth Who Passed
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1292`). Iron Bastard Alias Chronicle LXXIII, wave 25, first entry. Discovery that one of the cohort's nine graduates has turned the doctrine to extortion. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1292`). Iron Bastard Alias Chronicle LXXIII, wave 25, first entry. Discovery that one of the cohort's nine graduates has turned the doctrine to extortion. Not a territory Annals entry.*
 
 ---
 

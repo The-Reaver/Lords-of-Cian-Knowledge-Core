@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1274`). Crow King Alias Chronicle LXXXII, wave 28,
 opening it. A historian seeks out the crew to document the craft's true history against the
-exaggerated folk legend. Not a territory Chronicle.*
+exaggerated folk legend. Not a territory Annals entry.*
 
 ---
 

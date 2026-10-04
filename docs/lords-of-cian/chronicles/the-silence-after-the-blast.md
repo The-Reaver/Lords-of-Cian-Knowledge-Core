@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1266`). Crow King Alias Chronicle LXXIV, wave 25. An
 explosion temporarily deafens Kanja mid-operation, and the lineage carries the deception without his
-hearing for the first time. Not a territory Chronicle.*
+hearing for the first time. Not a territory Annals entry.*
 
 ---
 

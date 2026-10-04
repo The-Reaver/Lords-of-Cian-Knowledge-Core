@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 125, 2026-09-11 (`MCD-424`). Lord of Embers Alias Chronicle VI, closing the
 second wave. Rebellion era, during the Rolling Foundry Campaign (`MCD-241`). Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

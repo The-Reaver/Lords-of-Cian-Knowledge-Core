@@ -1,6 +1,6 @@
 # The Quartermaster's Price
 
-*Locked canon, Batch 223, 2026-09-11 (`MCD-1007`). The Blue-Collar Titan Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 223, 2026-09-11 (`MCD-1007`). The Blue-Collar Titan Alias Chronicle LI, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

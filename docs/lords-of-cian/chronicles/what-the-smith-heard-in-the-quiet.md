@@ -1,6 +1,6 @@
 # What the Smith Heard in the Quiet
 
-*Locked canon, Batch 197, 2026-09-11 (`MCD-722`). The Iron Bastard Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-722`). The Iron Bastard Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

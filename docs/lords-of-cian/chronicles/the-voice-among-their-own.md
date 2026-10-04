@@ -1,6 +1,6 @@
 # The Voice Among Their Own
 
-*Locked canon, Batch 201, 2026-09-11 (`MCD-837`). The Crow King Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-837`). The Crow King Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

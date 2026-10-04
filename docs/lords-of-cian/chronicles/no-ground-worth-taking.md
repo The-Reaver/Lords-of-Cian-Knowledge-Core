@@ -6,7 +6,7 @@ a separate, one-scene figure, distinct from the recurring Directorate general of
 four-alloy Crawler variant, a bridge, and a berm -- and voluntarily resigns rather than being
 disgraced by a single report as this one is). Iron Bastard Alias Chronicle I. Rebellion era, a
 new solo stand distinct from the original Iron Bastard's Stand (`MCD-238`, age 25). Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

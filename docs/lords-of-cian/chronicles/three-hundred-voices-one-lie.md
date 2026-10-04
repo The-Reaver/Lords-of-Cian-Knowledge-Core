@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 112, 2026-09-10 (`MCD-384`). Crow King Alias Chronicle II. Rebellion era, a
 new deployment of the Hymn-Engine (`MCD-236`) against a different, more sophisticated sensor
-network than the one it was invented against. Not a territory Chronicle. New standalone material.
+network than the one it was invented against. Not a territory Annals entry. New standalone material.
 Narrated in neutral third-person prose. No new named characters.*
 
 ---

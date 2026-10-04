@@ -1,6 +1,6 @@
 # When the Plan Broke Mid-Song
 
-*Locked canon, Batch 201, 2026-09-11 (`MCD-841`). The Crow King Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-841`). The Crow King Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

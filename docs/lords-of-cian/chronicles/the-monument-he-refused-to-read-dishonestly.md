@@ -1,7 +1,7 @@
 # The Monument He Refused to Read Dishonestly
 
 *Locked canon, Batch 184, 2026-09-11 (`MCD-538`). The Blue-Collar Titan Alias Chronicle XIV.
-Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle. New standalone material.
+Rebellion era, age 20, the Sewer War of Killane. Not a territory Annals entry. New standalone material.
 Narrated in neutral third-person prose. No new named characters.*
 
 ---

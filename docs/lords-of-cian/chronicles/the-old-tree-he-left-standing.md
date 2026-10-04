@@ -1,6 +1,6 @@
 # The Old Tree He Left Standing
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1285`). Iron Bastard Alias Chronicle LXVI, wave 22, closing the wave. A quiet closer applying the living-structure distinction to an ordinary civilian tree, with the opposite outcome of the condemned foundry elegy. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1285`). Iron Bastard Alias Chronicle LXVI, wave 22, closing the wave. A quiet closer applying the living-structure distinction to an ordinary civilian tree, with the opposite outcome of the condemned foundry elegy. Not a territory Annals entry.*
 
 ---
 

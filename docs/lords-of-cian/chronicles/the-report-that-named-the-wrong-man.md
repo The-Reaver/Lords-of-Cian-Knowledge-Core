@@ -1,6 +1,6 @@
 # The Report That Named the Wrong Man
 
-*Locked canon, Batch 201, 2026-09-11 (`MCD-849`). The Crow King Alias Chronicle XXXIV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-849`). The Crow King Alias Chronicle XXXIV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Man Who Called Him a Liar
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-564`). The Storm That Walks Alias Chronicle XIX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-564`). The Storm That Walks Alias Chronicle XIX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

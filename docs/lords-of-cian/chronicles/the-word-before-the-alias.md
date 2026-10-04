@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 116, 2026-09-10 (`MCD-395`). Captain Alias Chronicle I. Rebellion era, the
 naval campaigns (`MCD-242`, ages 21-22), from Garren Hask's perspective -- already a locked named
-character (`CC-115`/`CC-116`). Not a territory Chronicle. No new named characters beyond the
+character (`CC-115`/`CC-116`). Not a territory Annals entry. No new named characters beyond the
 already-locked Garren Hask.*
 
 ---

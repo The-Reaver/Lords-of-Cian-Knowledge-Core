@@ -5,7 +5,7 @@ gear reworded to the Long-Mask-era kit, since wave 20 falls years past the Trini
 surrender, `MCD-246`; the second student's pronoun corrected to she/her, the majority usage). Iron
 Bastard Alias Chronicle LVIII, wave 20. A detailed high-altitude combat showcase against a
 mountain-pass suspension crossing, introducing thin air as a new environmental wrinkle on the
-resonance doctrine's reach. Not a territory Chronicle.*
+resonance doctrine's reach. Not a territory Annals entry.*
 
 ---
 

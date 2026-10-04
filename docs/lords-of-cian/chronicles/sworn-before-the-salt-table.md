@@ -3,7 +3,7 @@
 *Locked canon, Batch 280, 2026-09-11 (`MCD-1464`). Sovereign Ghost of the Great Sea Alias Chronicle
 XCVIII, wave 33. A new legal register: Kanja and Garren Hask are summoned to testify before a neutral
 maritime tribunal over a piracy accusation, resolved through honest testimony and the ledger rather than
-combat or diplomacy. Not a territory Chronicle. Narrated in neutral third-person prose.*
+combat or diplomacy. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

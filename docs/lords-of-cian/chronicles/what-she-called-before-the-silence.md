@@ -1,6 +1,6 @@
 # What She Called Before the Silence
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-563`). The Storm That Walks Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-563`). The Storm That Walks Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

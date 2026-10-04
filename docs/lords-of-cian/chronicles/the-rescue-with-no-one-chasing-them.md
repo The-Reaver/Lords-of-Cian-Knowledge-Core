@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1260`). Crow King Alias Chronicle LXVIII, wave 23. A
 mountain landslide traps villagers with no adversary anywhere in the story; the craft's coordination
-discipline is used purely for search-and-rescue. Not a territory Chronicle.*
+discipline is used purely for search-and-rescue. Not a territory Annals entry.*
 
 ---
 

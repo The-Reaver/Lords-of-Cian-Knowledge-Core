@@ -1,6 +1,6 @@
 # The Name They Wanted to Borrow
 
-*Locked canon, Batch 215, 2026-09-11 (`MCD-934`). Bane Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 215, 2026-09-11 (`MCD-934`). Bane Alias Chronicle L, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

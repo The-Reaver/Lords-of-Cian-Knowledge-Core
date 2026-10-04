@@ -1,7 +1,7 @@
 # The Day of Ten Engines
 
 *Locked canon, Batch 188, 2026-09-11 (`MCD-549`). The Iron Bastard Alias Chronicle XIII, first
-entry in the fifth wave. Rebellion era, age 25. Not a territory Chronicle. New standalone material —
+entry in the fifth wave. Rebellion era, age 25. Not a territory Annals entry. New standalone material —
 a detailed, large-scale combat showcase per Abad's craft instruction. Narrated in neutral
 third-person prose. No new named characters.*
 

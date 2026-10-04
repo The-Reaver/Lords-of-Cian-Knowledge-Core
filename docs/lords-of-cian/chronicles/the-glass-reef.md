@@ -1,7 +1,7 @@
 # The Glass Reef
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1232`). The Scourge Alias Chronicle LXVII, wave 23, first
-entry. Age 250, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 250, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

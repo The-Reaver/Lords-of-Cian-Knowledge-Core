@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 110, 2026-09-10 (`MCD-377`). Sovereign Ghost of the Great Sea Alias
 Chronicle I. Rebellion era, weeks after the Siege of the Ghost Harbor (`MCD-235`, age 21), a fresh
-naval encounter distinct from the already-locked battle summary. Not a territory Chronicle. New
+naval encounter distinct from the already-locked battle summary. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

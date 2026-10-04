@@ -1,6 +1,6 @@
 # The Promise for After He's Gone
 
-*Locked canon, Batch 212, 2026-09-11 (`MCD-920`). Captain Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Hask's "thirty years building something" softened to "the better part of twenty years," which otherwise overshot the window established by the charter's own corrected founding timeline (`MCD-1376`).*
+*Locked canon, Batch 212, 2026-09-11 (`MCD-920`). Captain Alias Chronicle XLVIII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Hask's "thirty years building something" softened to "the better part of twenty years," which otherwise overshot the window established by the charter's own corrected founding timeline (`MCD-1376`).*
 
 ---
 

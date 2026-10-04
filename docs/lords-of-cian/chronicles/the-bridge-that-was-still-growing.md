@@ -3,7 +3,7 @@
 *Locked canon, Batch 261, 2026-09-11 (`MCD-1283`); corrected Batch 321, 2026-10-02 (Onyx's Cadence
 Ruin and Obsidian Malice's discharge reworded to the Long-Mask-era kit, since wave 22 falls years
 past the Trinity's age-30 surrender, `MCD-246`). Iron Bastard Alias Chronicle LXIV, wave 22, first
-entry. The doctrine's first application to a living, growing structure. Not a territory Chronicle.*
+entry. The doctrine's first application to a living, growing structure. Not a territory Annals entry.*
 
 ---
 

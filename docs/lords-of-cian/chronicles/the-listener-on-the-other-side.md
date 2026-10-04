@@ -3,7 +3,7 @@
 *Locked canon, Batch 261, 2026-09-11 (`MCD-1286`); corrected Batch 321, 2026-10-02 (the inline
 citation "the tower at MCD-497" reworded to remove the leaked rule-ID). Iron Bastard Alias Chronicle
 LXVII, wave 23, first entry. Introduces the doctrine's first genuine peer opponent — a Trust-trained
-diagnostician using the real method against him. Not a territory Chronicle.*
+diagnostician using the real method against him. Not a territory Annals entry.*
 
 ---
 

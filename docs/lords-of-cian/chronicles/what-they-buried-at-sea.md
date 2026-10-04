@@ -6,7 +6,7 @@ service already held for the old hand in `MCD-958`; a line implying Mirella fed 
 than most of this crew has been alive" is incompatible with this alias's nine-year Rebellion-era
 window -- both reworded). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXV, wave 25, closing the wave. The fleet's own sea-burial rite for a crew member who died of
-natural causes. Not a territory Chronicle. Narrated in neutral third-person prose.*
+natural causes. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

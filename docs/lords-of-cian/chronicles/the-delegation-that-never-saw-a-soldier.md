@@ -1,6 +1,6 @@
 # The Delegation That Never Saw a Soldier
 
-*Locked canon, Batch 221, 2026-09-11 (`MCD-991`). The Crow King Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-991`). The Crow King Alias Chronicle LIII, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

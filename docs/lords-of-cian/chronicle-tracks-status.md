@@ -1,29 +1,30 @@
-# Chronicle Tracks Status
+# Series and Chronicle Tracks Status
 
-One row per protagonist across all three Chronicle tracks. This is the at-a-glance index —
-CLAUDE.md's batch-by-batch history remains the authoritative record of what happened and why, but
-this table is what to read first to see where everything currently stands.
+One row per protagonist across all three tracks (character Series, Alias Chronicles, territory
+Annals). This is the at-a-glance index — CLAUDE.md's batch-by-batch history remains the
+authoritative record of what happened and why, but this table is what to read first to see where
+everything currently stands.
 
 Status values: `not started` (no profile doc exists) → `walkthrough drafted` → `profile in
-discussion` → `profile approved` → `game plan approved` (gate cleared, Chronicle drafting may
+discussion` → `profile approved` → `game plan approved` (gate cleared, drafting may
 begin) → `wave N locked` (ongoing production, N = latest completed wave/entry count).
 
-Per Abad's 2026-09-20 direction: the Character Chronicle Launch Protocol gate (profile doc required
-before any Chronicle prose) applies retroactively to every already-launched protagonist across all
+Per Abad's 2026-09-20 direction: the Series Launch Protocol gate (profile doc required
+before any prose) applies retroactively to every already-launched protagonist across all
 three tracks, not just new ones. Backfilling 34 existing protagonists is its own large undertaking,
 tracked here as it proceeds — see CLAUDE.md's gate section for the protocol itself.
 
-## Character Chronicle track (Tier 1+)
+## Character Series track (Tier 1+)
 
-| Character | Profile doc | Status | Existing Chronicles |
+| Character | Profile doc | Status | Existing entries |
 |---|---|---|---|
-| Ozmund Verehimu | `character-profiles/ozmund-verehimu.md` | wave 3 locked + marquee kill | 121 (Chronicles I-CXXI, `MCD-1730`-`1849`, `MCD-1886`) |
-| Lauris Letitia | `character-profiles/lauris-letitia.md` | game plan approved (backfill, 2026-10-03); Chronicle CX locked | 110 (Chronicles I-CX) |
-| Daba | `character-profiles/daba.md` | wave 3 locked + marquee kill | 59 (incl. Chronicles LVII-LVIII, the Harek Vondel/Vex Thurlow villain defeats, and LIX, the Fenwold stair, `MCD-1887`) |
-| Ezio Valcari | `character-profiles/ezio-valcari.md` | wave 1 locked | 1 (own series, `MCD-1876`) — plus extensively established as supporting cast across 84 Industrial Myth Alias Chronicles + 4 Lauris Character Chronicles |
-| Anirak | `character-profiles/anirak.md` | walkthrough drafted (Tier 1, Book-1 anchor hero, 2026-10-03); Tide Line (Batch 368) and Combination Codex (Batch 370) locked; Psychological Profile approved and locked (Batch 371, `CC-163`/`CC-164`, 2026-10-03); Game Plan approved and locked (Batch 372, `VB-065`, 2026-10-04); gate cleared; wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) | 3 own series (I-III); appears in Kanja Chronicle V (`MCD-1883`, her recruitment) |
-| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | walkthrough drafted (priority launch, 2026-10-03); 20 connective-tissue findings queued, age at Book 1 depends on the 284/296 ruling | 0 (no Chronicle mentions him) |
-| Triad Guardians (Varkul, Sorya, Varruk) | `character-profiles/triad-guardians.md` | walkthrough drafted (priority launch, 2026-10-03); 16 connective-tissue findings queued, origin (created at the Gate vs. ancient clade) the central one | 0 (no Chronicle mentions them) |
+| Ozmund Verehimu | `character-profiles/ozmund-verehimu.md` | wave 3 locked + marquee kill | 121 (Testaments I-CXXI, `MCD-1730`-`1849`, `MCD-1886`) |
+| Lauris Letitia | `character-profiles/lauris-letitia.md` | game plan approved (backfill, 2026-10-03); Record CX locked | 110 (Records I-CX) |
+| Daba | `character-profiles/daba.md` | wave 3 locked + marquee kill | 59 (incl. Rolls LVII-LVIII, the Harek Vondel/Vex Thurlow villain defeats, and LIX, the Fenwold stair, `MCD-1887`) |
+| Ezio Valcari | `character-profiles/ezio-valcari.md` | wave 1 locked | 1 (own series, `MCD-1876`) — plus extensively established as supporting cast across 84 Industrial Myth Alias Chronicles + 4 Lauris Records |
+| Anirak | `character-profiles/anirak.md` | walkthrough drafted (Tier 1, Book-1 anchor hero, 2026-10-03); Tide Line (Batch 368) and Combination Codex (Batch 370) locked; Psychological Profile approved and locked (Batch 371, `CC-163`/`CC-164`, 2026-10-03); Game Plan approved and locked (Batch 372, `VB-065`, 2026-10-04); gate cleared; wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) | 3 Collections (I-III); appears in Kanja Chronicle V (`MCD-1883`, her recruitment) |
+| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | walkthrough drafted (priority launch, 2026-10-03); 20 connective-tissue findings queued, age at Book 1 depends on the 284/296 ruling | 0 (no entry mentions him) |
+| Triad Guardians (Varkul, Sorya, Varruk) | `character-profiles/triad-guardians.md` | walkthrough drafted (priority launch, 2026-10-03); 16 connective-tissue findings queued, origin (created at the Gate vs. ancient clade) the central one | 0 (no entry mentions them) |
 
 ## Kanja-version track (new, 2026-09-28 — distinct from the Alias Chronicle track below)
 
@@ -38,7 +39,7 @@ direction, not decided.
 
 | Character | Profile doc | Status | Existing Chronicles |
 |---|---|---|---|
-| Kanja Haku Rexmar | `character-profiles/kanja-haku-rexmar.md` | wave 1 locked; Long Mask wave approved 2026-10-02 | 4 (Chronicles I–IV, `MCD-1866`–`1868`, `MCD-1880`) |
+| Kanja Haku Rexmar | `character-profiles/kanja-haku-rexmar.md` | wave 1 locked; Long Mask wave locked (Batch 358) | 7 (Chronicles I–VII, `MCD-1866`–`1868`, `MCD-1880`, `MCD-1883`–`1885`) |
 
 ## Alias Chronicle track (Kanja's 11 aliases)
 
@@ -60,9 +61,9 @@ in Kanja's own single underlying psychology rather than inventing a separate one
 | The Storm That Walks | `character-profiles/alias-storm-that-walks.md` | not started (backfill) | 102 |
 | Captain | `character-profiles/alias-captain.md` | not started (backfill) | 102 |
 
-## Territory Chronicle track (20 homage-era territories + Arturo)
+## Territory Annals track (20 homage-era territories + Arturo)
 
-| Territory / figure | Leader | Profile doc | Status | Existing Chronicles |
+| Territory / figure | Leader | Profile doc | Status | Existing Annals entries |
 |---|---|---|---|---|
 | Xaragua | Ogoun Xarey | `character-profiles/territory-xaragua.md` | not started (backfill) | 6 |
 | Areíto | Kwame Ade | `character-profiles/territory-areito.md` | not started (backfill) | 3 |
@@ -86,18 +87,18 @@ in Kanja's own single underlying psychology rather than inventing a separate one
 | Kiti | Owusu | `character-profiles/territory-kiti.md` | not started (backfill) | 3 |
 | Batey (NYC) Five Families | Arturo Salvatierra Duho | `character-profiles/arturo-salvatierra-duho.md` | not started (backfill) | 6 |
 
-Chronicle counts above are approximate as of 2026-09-20 (last full census); confirm exact counts
+Entry counts above are approximate as of 2026-09-20 (last full census); confirm exact counts
 during each character's own walkthrough pass rather than trusting this table for anything but rough
 sequencing.
 
 ## Execution notes
 
-- **Mechanical steps** (rules walkthrough extraction, existing-Chronicle-corpus summarization) are
+- **Mechanical steps** (rules walkthrough extraction, existing-corpus summarization) are
   safe to run via parallel background agents per character — no creative judgment required.
-- **Creative steps** (psychological profile, game plan, Chronicle I candidates) require Abad's
+- **Creative steps** (psychological profile, game plan, first-entry candidates) require Abad's
   actual review and sign-off per character. For the 34-character backfill, these are presented in
   digestible batches rather than 34 separate live discussions, but every batch still gets an
   explicit approval before its gate gates clear — no character moves to "game plan approved" on a
   blanket authorization alone.
-- No new Chronicle prose gets drafted for any character on this list — including continuing an
+- No new prose gets drafted for any character on this list — including continuing an
   already-running series — until that character's row reaches "game plan approved."

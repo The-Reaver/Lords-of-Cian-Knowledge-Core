@@ -3,7 +3,7 @@
 *Locked canon, Batch 205, 2026-09-11 (`MCD-897`); corrected Batch 321, 2026-10-02 (Obsidian
 Malice's discharge reworded to the Long-Mask-era Ironhand Gauntlets' leverage, since wave 16 falls
 years past the Trinity's age-30 surrender, `MCD-246`). The Iron Bastard Alias Chronicle XLVI, wave
-16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

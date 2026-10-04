@@ -1,6 +1,6 @@
 # The Ledger Line He Made Them Correct
 
-*Locked canon, Batch 222, 2026-09-11 (`MCD-997`). Captain Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-997`). Captain Alias Chronicle L, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

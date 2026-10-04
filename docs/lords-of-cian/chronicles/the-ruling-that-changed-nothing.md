@@ -1,7 +1,7 @@
 # The Ruling That Changed Nothing
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1250`). The Scourge Alias Chronicle LXXXV, wave 29, first
-entry. Age 200, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 200, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

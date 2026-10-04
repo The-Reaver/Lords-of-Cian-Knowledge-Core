@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 235, 2026-09-11 (`MCD-1042`). The Scourge Alias Chronicle LIX, wave 20. A
 moral-complexity entry confronting the limit of the crew's reunion doctrine when the freed have no
-memory to trace. Not a territory Chronicle. Narrated in neutral third-person prose.*
+memory to trace. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

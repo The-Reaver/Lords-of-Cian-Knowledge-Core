@@ -3,7 +3,7 @@
 *Locked canon, Batch 199, 2026-09-11 (`MCD-788`); corrected Batch 321, 2026-10-02 ("every one of
 them" reworded to "every flagship," acknowledging the Captain-track transport *The Second Chance*
 (`MCD-607`), which Hask deliberately did not name himself; "three years into a war" corrected to
-"four years," matching The Receipt's own capture at age 22, `MCD-242`). Sovereign Ghost of the Great Sea Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+"four years," matching The Receipt's own capture at age 22, `MCD-242`). Sovereign Ghost of the Great Sea Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

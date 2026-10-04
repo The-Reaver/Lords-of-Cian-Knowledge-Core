@@ -1,7 +1,7 @@
 # The Table Across from the Owners
 
 *Locked canon, Batch 182, 2026-09-11 (`MCD-531`). Trench Monarch Alias Chronicle XIII, first entry
-in the fifth wave. Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. New
+in the fifth wave. Rebellion era, age 18, before the Black Trench. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

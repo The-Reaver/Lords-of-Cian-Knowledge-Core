@@ -3,7 +3,7 @@
 *Locked canon, Batch 280, 2026-09-11 (`MCD-1461`). Sovereign Ghost of the Great Sea Alias Chronicle
 XCV, wave 32. A new register: a years-embedded, genuinely willing Directorate agent among the crew is
 unmasked not by betrayal or discovery but by his own conscience, refusing a final order rather than
-carrying it out. Not a territory Chronicle. Narrated in neutral third-person prose.*
+carrying it out. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

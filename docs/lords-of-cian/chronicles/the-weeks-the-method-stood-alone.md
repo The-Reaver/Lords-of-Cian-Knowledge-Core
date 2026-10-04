@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1328`). The Lord of Embers Alias Chronicle LXXXII,
 first entry in the twenty-eighth wave. Rebellion era, age 27, the Rolling Foundry Campaign
 (MCD-241). Kanja incapacitated by a serious, non-fatal injury, testing whether the campaign holds
-without him at its center. Not a territory Chronicle. Narrated in neutral third-person prose.
+without him at its center. Not a territory Annals entry. Narrated in neutral third-person prose.
 Corrected Batch 321, 2026-10-02: stripped a leaked inline rule-ID citation and writers'-room
 phrasing ("in every entry since her own predecessor stepped back (MCD-1312)") in favor of plain
 in-world prose; fixed the continuity note's successor-establishment citation to MCD-887/923 (not

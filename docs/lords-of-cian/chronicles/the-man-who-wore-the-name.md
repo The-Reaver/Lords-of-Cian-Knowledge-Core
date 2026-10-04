@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 118, 2026-09-11 (`MCD-401`). Trench Monarch Alias Chronicle IV, first entry
 in the second wave. Rebellion era, within the Trench Monarch's early window (age 18). Not a
-territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+territory Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

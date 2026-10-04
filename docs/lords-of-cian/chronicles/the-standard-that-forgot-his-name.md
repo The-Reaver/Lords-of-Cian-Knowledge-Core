@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1336`). The Lord of Embers Alias Chronicle XC, wave 30,
 closing the wave. Set generations after the Rolling Foundry Campaign (MCD-241), during the Long
 Mask era. A distant-future institutional-legacy entry, distinct from every prior personal-encounter
-legacy beat. Not a territory Chronicle. Narrated in neutral third-person prose.*
+legacy beat. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

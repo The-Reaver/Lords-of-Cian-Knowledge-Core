@@ -1,7 +1,7 @@
 # The Fire That Spread Too Thin
 
-*Locked canon, Batch 140, 2026-09-11 (`MCD-465`). Umoja Chronicle II. Homage-era Muungano,
-Umoja/Kofi. Territory Chronicle -- Kofi as protagonist, Kanja an unnamed background guest with no
+*Locked canon, Batch 140, 2026-09-11 (`MCD-465`). Umoja Annals II. Homage-era Muungano,
+Umoja/Kofi. Territory Annals entry -- Kofi as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 
 *Corrected Batch 340, 2026-10-02: removed a reference to the Furnace District Strike, which Kofi
@@ -50,5 +50,5 @@ during this slower rebuilding and said nothing about it to anyone.
 
 *Continuity notes (not narrative): a genuine limit entry for "One Fire" (`PH2-040`), establishing
 that the ability accelerates trust-building rather than substituting for the underlying relational
-work -- distinct from Chronicle I's successful crisis-deployment within Kofi's own established
-network. No new named characters. Second Umoja territory Chronicle.*
+work -- distinct from Annals I's successful crisis-deployment within Kofi's own established
+network. No new named characters. Second Umoja territory Annals entry.*

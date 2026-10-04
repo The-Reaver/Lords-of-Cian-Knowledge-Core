@@ -40,7 +40,7 @@ Kanja age 50-55 on the Captain track and is alive at 313 on the Scourge and Laur
   - The ledger Hask keeps in `MCD-1252` is clarified as his private Scourge-era one.
   - The Lauris dockside entries (LV-LIX, CII, CVIII, CIX) are then read as set between about Kanja 260
     and 313.
-- Scope: 2 new rules, about 16 rule statements, about 12 Chronicles, 3 docs.
+- Scope: 2 new rules, about 16 rule statements, about 12 entries, 3 docs.
 - Alternative: he dies the morning after the last coat. That needs no Scourge edits, but it lands in
   Book 1's own year.
 
@@ -74,6 +74,9 @@ caldera settlement.
 **7. Is Fermand a sixth person who knows Ezio's classified capability?**
 - **Recommend no.** He knows a cover exists; he does not know the capability. Add one clause to
   `CC-027` making that distinction. The two unlocked Ezio drafts' headers are tidied to match.
+- Also held under this question: locked Lauris Record IX (`MCD-1626`), where Fermand narrates
+  that Ezio's true capability has not yet been forced into view. `VB-067` holds it open for your
+  ruling rather than correcting it directly.
 
 **8. Matar's recruitment.** "400 years ago" predates Kanja's birth.
 - **Recommend about 290 years ago, during the Rebellion, brought in by Sephtis.**
@@ -84,11 +87,11 @@ caldera settlement.
   left the Zenith about 80 years before Book 2. Scope: 3 rules.
 
 **10. When Red Beard met Ozmund.**
-- **Recommend: before the Ceremony.** `MAW-121`'s secret training and Chronicle I's outer-command
+- **Recommend: before the Ceremony.** `MAW-121`'s secret training and Testament I's outer-command
   night both require it.
 - The "twenty years" lines in Ozmund I and L are softened, and the meeting is locked as a narration
   convention.
-- Alternative: they met only in Book 1, which means amending `MAW-121` and recasting Chronicle I's
+- Alternative: they met only in Book 1, which means amending `MAW-121` and recasting Testament I's
   frame.
 
 **11. Maw dates.**
@@ -273,7 +276,7 @@ alliance aboard (`MCD-206`), the joint archive (`MCD-212`), present-day scenes (
 
 **39. Fermand narrating K-Theta material in Lauris's Records against `MCD-193`.** `MCD-193` locks that
 only Sephtis and Ezio know of the K-Theta cave system ("Kanja and the wider crew do not know"). Lauris
-Chronicle VIII (`MCD-1625`), soon Lauris Record VIII, and other Strand L K-Theta entries (e.g.
+Record VIII (`MCD-1625`) and other Strand L K-Theta entries (e.g.
 `MCD-1712`) have Fermand narrating it firsthand ("she has told me", "I was permitted to accompany
 her").
 - The options are: (a) Fermand is a third knower, so `MCD-193` gains his name; (b) the K-Theta

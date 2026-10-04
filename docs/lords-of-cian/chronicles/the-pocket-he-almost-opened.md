@@ -1,7 +1,7 @@
 # The Pocket He Almost Opened
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1243`). The Scourge Alias Chronicle LXXVIII, wave 26,
-closing the wave. Age 300, V4 gear. Not a territory Chronicle. Narrated in neutral third-person
+closing the wave. Age 300, V4 gear. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

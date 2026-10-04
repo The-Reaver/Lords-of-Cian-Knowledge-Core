@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1320`). The Lord of Embers Alias Chronicle LXXIV, wave
 25. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), a Directorate-aligned foundry
 running on indentured labor. A detailed, battle-intense Trinity combat showcase liberating bonded
-adult workers. Not a territory Chronicle. Narrated in neutral third-person prose.*
+adult workers. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,22 +1,22 @@
 # Ezio Valcari — Profile & Game Plan
 
-**Status:** wave 1 locked (Chronicle I)
-**Track:** Character Chronicle (Tier 1)
+**Status:** wave 1 locked (Exhibit I)
+**Track:** Exhibits (Tier 1)
 **Gate cleared:** YES, 2026-09-30.
 
-This file is the standing gate artifact for this character, per the Character Chronicle Launch
+This file is the standing gate artifact for this character, per the Series Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
-any Chronicle is written or rewritten — not a summary produced after the fact.
+any Exhibit is written or rewritten — not a summary produced after the fact.
 
 ---
 
 ## 1. Rules Walkthrough
 
 Every locked rule touching Ezio Valcari, pulled from `canon-ledger.json` and organized thematically.
-Ezio is a genuine backfill case in the same sense Daba was: he has never had his own Chronicle
-series, but he is an extensively demonstrated recurring supporting character across 84 Kanja
+Ezio is a genuine backfill case in the same sense Daba was: he had no series of his own until the
+Exhibits, but he is an extensively demonstrated recurring supporting character across 84 Kanja
 Industrial Myth Alias Chronicles (plus one Lord of Embers crossover) and 4 of Lauris Letitia's own
-Character Chronicles. The profile below must synthesize that demonstrated characterization, not
+Records. The profile below must synthesize that demonstrated characterization, not
 invent a competing one. (Note on the three different counts used below, added Batch 332,
 2026-10-02, per a fable-review pass: "84" is the total count of Industrial Myth rules mentioning
 him in any capacity; "31" is his genuine on-page Industrial Myth appearances specifically; "35" is
@@ -74,11 +74,11 @@ in context.)
   protocols compressed to a single word or gesture: he provides strategic direction, she provides
   survivable execution.
 - `MCD-1626` — Fermand's reserved warmth ("My dear Ezio") is given narrative texture directly in
-  Lauris Chronicle IX, "My Dear Ezio" — a stakes-free, non-combat evening between the two of them.
-- `MCD-1564` / `MCD-1661` — in Lauris's own Chronicle series he functions as the party she reports
-  operational debts back to (Chronicle IV, the Operation 38 facility) and as someone she
+  Lauris Record IX, "My Dear Ezio" — a stakes-free, non-combat evening between the two of them.
+- `MCD-1564` / `MCD-1661` — in Lauris's own Records he functions as the party she reports
+  operational debts back to (Record IV, the Operation 38 facility) and as someone she
   deliberately does not brief when honoring a personal, off-the-books favor for Aerelin
-  (Chronicle XLIV) — both consistent with `MCD-194`'s recruitment-condition carve-outs.
+  (Record XLIV) — both consistent with `MCD-194`'s recruitment-condition carve-outs.
 - `ARS-344` — Valen (already established as Ezio's cousin/combat mentor) is also locked as Kanja's
   own Master-at-Arms ("the White Lotus"), the one who ordered Kanja to document Mafesto's function
   starting at age 26 — a structural link between Ezio's own combat-tradition family and Kanja's
@@ -105,7 +105,7 @@ in context.)
   the SBD's Scrip-Tether system (alongside the Sovereign Umbrella's radius-nullification):
   publicly proving the debt's underlying math is fraudulent.
 
-### Already-locked plot beats (book-level or Chronicle-level)
+### Already-locked plot beats (book-level or Exhibit-level)
 - `MCD-231` / `MCD-244` / `MCD-234` / `MCD-286` — the evidence-first, unarmed documentation method
   he is most associated with predates his own recruitment onto the page: Kanja's proof-not-violence
   doctrine begins at the Scrip-Forge Raid (age 18) and reaches its purest form at the Furnace
@@ -128,9 +128,9 @@ in context.)
   tether T.D.K. could reactivate to seize direct control of Ozmund's mind.
 - `MCD-1864` — Callas Modrin (`CC-156`, a Batch-312 pre-Book-1 villain) is eventually exposed by
   Ezio personally, via the same evidence-first methodology, in a bureaucratic-judo defeat with no
-  combat. The rule itself states plainly: **"No Chronicle prose has been drafted; this is a queued
-  future beat for whenever Ezio's own Character Chronicle series launches"** — this is a
-  ready-made, already-reserved Chronicle candidate.
+  combat. The rule reserved it as a queued future beat for Ezio's own series, a ready-made
+  Exhibit candidate. Exhibit I (`MCD-1876`) has since dramatized it, and `MCD-1864` now
+  records that.
 
 ### Reserved / unresolved threads
 - His full classified combat capability (`WC-016`/`CC-027`) has never been shown on the page
@@ -139,7 +139,7 @@ in context.)
 - Nadea Thren's secret love for him — **resolved, Batch 317**: Ezio has known for years (`CC-073`
   amended) and the Book 1 climax reconciliation beat is locked (`MCD-1875`). Still reserved: the
   outcome beyond that beat (deliberately left open), and — since `MCD-1875` is Book-1-era plot —
-  any pre-Book-1 Chronicle for Ezio should not foreshadow or preempt it directly.
+  any pre-Book-1 Exhibit for Ezio should not foreshadow or preempt it directly.
 - `MCD-1171` — Pell Ostra's private margin-notes (kept from Ezio) identify an unnamed recurring
   observer connecting two otherwise unrelated frauds; the observer's identity is deliberately left
   open — a live thread that could eventually intersect Ezio's own investigative arc.
@@ -153,10 +153,10 @@ in context.)
   cover identity is and how it differs from Ezio himself — not defined anywhere yet, and not this
   track's to resolve.
 
-### Existing Chronicle corpus
+### Existing entry corpus
 Unlike Ozmund or Kanja-version (both launched from near-zero), Ezio already has substantial
 demonstrated characterization on the page — 84 Industrial Myth Alias Chronicles plus 4 Lauris
-Character Chronicles, spanning from his teens through adulthood:
+Records, spanning from his teens through adulthood:
 
 - **Origin appearance** (`MCD-373`, Industrial Myth III, "The Boy Who Kept the Numbers Honest"):
   ~age 16, already performing the method's real corrective function — cross-checking worker
@@ -299,19 +299,19 @@ makes the story more rich and stays true to Ezio's character." Section 2 is clos
   established as keeping a literal written archive (`MCD-211`). Ezio has no equivalent personal
   archive, but he *is* uniquely established as the crew's evidentiary craftsman — decoy ledgers,
   the Archive-Key, charcoal rubbings, forensic accounting. A parallel-but-distinct device: each
-  Chronicle could open with a short "exhibit" fragment — a line from a ledger, an intercepted note,
+  Exhibit could open with a short "exhibit" fragment — a line from a ledger, an intercepted note,
   a piece of testimony, something Ezio himself would have filed — before Fermand's narration
   proper reveals what the exhibit doesn't say. This would tie directly into `CC-134`'s "carries
   deception" throughline (the document is what's shown; Fermand's narration is what's true) without
   simply reusing Lauris's own device. Entirely optional — the series works fine as plain Fermand
-  narration if this feels like too much scaffolding before a single Chronicle exists.
+  narration if this feels like too much scaffolding before a single Exhibit exists.
 - **Pacing convention: PROPOSED, following the Ozmund precedent rather than Lauris's.** Ozmund's
-  launch kept Chronicle I freestanding and explicitly deferred any strand structure to a later wave,
+  launch kept Testament I freestanding and explicitly deferred any strand structure to a later wave,
   once real prose existed to organize. The same logic fits Ezio better than committing to Lauris's
   four-strand braid up front: his corpus already spans a wide range (teen apprentice years, network-
   building spymaster years, his still-unshown classified-combat identity) but almost all of it has
   been shown only through *other* characters' tracks (Kanja's Industrial Myth, Lauris's own
-  Chronicles) — Ezio's own series needs at least one entry to find its own footing before deciding
+  Records) — Ezio's own series needs at least one entry to find its own footing before deciding
   how to organize a larger run. If a strand structure does emerge later, the natural candidates
   (not committed to) would roughly be: a Method/Ledger strand (evidentiary craft, but only genuinely
   new cases — not retreading the 35 appearances already covered elsewhere), a Network/Spymaster
@@ -335,10 +335,10 @@ makes the story more rich and stays true to Ezio's character." Section 2 is clos
   - The well-covered ground (his teen years at the Furnace District Strike and the general arc of
     the ledger method) already belongs to Kanja's Industrial Myth Alias Chronicles — this series
     should open genuinely new territory rather than re-narrate scenes that exist elsewhere.
-- **Chronicle I candidates** (2-3 pitches, not one pre-committed draft):
+- **Exhibit I candidates** (2-3 pitches, not one pre-committed draft):
   1. **The Callas Modrin exposure** (`MCD-1864`) — the ready-made hook the ledger itself already
-     flags: "No Chronicle prose has been drafted; this is a queued future beat for whenever Ezio's
-     own Character Chronicle series launches." A pure bureaucratic-judo defeat, no combat, no
+     flagged as a queued future beat for Ezio's own series (since dramatized as Exhibit I,
+     `MCD-1876`). A pure bureaucratic-judo defeat, no combat, no
      Kanja — Ezio documents Modrin's falsified suppression-field readings against real Directorate
      equipment logs, and Modrin's own superiors prosecute him for defrauding the Trust's equipment
      budget rather than for extorting settlements. The single most natural, lowest-risk opener:
@@ -346,32 +346,32 @@ makes the story more rich and stays true to Ezio's character." Section 2 is clos
      `CC-156`'s already-locked Modrin.
   2. **The recruitment of Lauris, from Ezio's own side.** `MCD-194` already locks the facts: he
      observed her Directorate career from a distance for roughly two decades before ever
-     approaching her. Lauris's own Chronicle I told the aftermath of her own transformation; this
+     approaching her. Lauris's own Record I told the aftermath of her own transformation; this
      would dramatize the *decision* itself from his side for the first time — what finally tips
      two decades of patient observation into action, putting his defining "selects people for
      years before acting" relationship pattern directly on the page. Requires care to stay
-     consistent with everything Lauris's own 109-Chronicle corpus has already established about
+     consistent with everything Lauris's own 109-Record corpus has already established about
      the meeting.
   3. **An early scene establishing the Nadea Thren patron dynamic itself** (not the reconciliation,
      which stays reserved) — some ordinary operational exchange, decades before Book 1, that shows
      how the relationship actually works day to day: her direction, his execution, the unspoken
      weight of what he's chosen never to say. Lets the "carries deception" throughline breathe in
      its native register without touching the payoff `MCD-1875` reserves for Book 1's climax.
-- **Abad's pick / direction:** Chronicle I candidate 1 (the Callas Modrin exposure), Abad's
+- **Abad's pick / direction:** Exhibit I candidate 1 (the Callas Modrin exposure), Abad's
   ruling, verbatim: "Let's do option 1, and lock the Game Plan." Narrator (Fermand, per `CC-034`/
-  `VB-024`) and pacing (Chronicle I freestanding, strand structure deferred) both stand as drafted;
+  `VB-024`) and pacing (Exhibit I freestanding, strand structure deferred) both stand as drafted;
   the optional "exhibit fragment" structural echo was not separately confirmed or declined — left
   open to revisit if a future wave's strand structure makes it feel earned, not assumed for
-  Chronicle I itself. Game Plan closed.
+  Exhibit I itself. Game Plan closed.
 
 ---
 
-## 4. Chronicle Log
+## 4. Exhibit Log
 
 Updated as each wave locks. One line per entry: numeral, title, rule ID, one-sentence summary,
 batch number.
 
-- **Chronicle I, "The Frequency That Never Failed"** (`MCD-1876`, Batch 318) — the Callas Modrin
+- **Exhibit I, "The Frequency That Never Failed"** (`MCD-1876`, Batch 318) — the Callas Modrin
   exposure: Ezio cross-references three extorted settlements against real Directorate equipment
   logs, using the Archive-Key on the page for the first time; Modrin is prosecuted for defrauding
   the Trust's own maintenance budget, not for the extortion itself. No combat, no Kanja.

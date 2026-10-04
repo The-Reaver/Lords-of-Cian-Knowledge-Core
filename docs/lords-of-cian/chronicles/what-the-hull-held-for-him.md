@@ -1,6 +1,6 @@
 # What the Hull Held For Him
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1306`). Iron Bastard Alias Chronicle LXXXVII, wave 29, closing the wave. Safe arrival, and Dol Maren's reflection on trusting craft and doctrine together. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1306`). Iron Bastard Alias Chronicle LXXXVII, wave 29, closing the wave. Safe arrival, and Dol Maren's reflection on trusting craft and doctrine together. Not a territory Annals entry.*
 
 ---
 

@@ -4,7 +4,7 @@
 for Danne Sok fixed to "he," a wrong `MCD-497` citation fixed to `MCD-790`, and a writers'-room "this
 run" phrase reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle
 LVIII, wave 20. A detailed naval Trinity combat showcase against a panicked Trust quarantine order
-rather than an enemy raid. Not a territory Chronicle. Narrated in neutral third-person prose.*
+rather than an enemy raid. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

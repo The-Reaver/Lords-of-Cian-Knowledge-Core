@@ -1,7 +1,7 @@
 # The Bridge He Refused to Blow
 
 *Locked canon, Batch 230, 2026-09-11 (`MCD-1026`). Bane Alias Chronicle LVIII, wave 20. Detailed
-full-Trinity combat showcase under a precision constraint. Not a territory Chronicle.*
+full-Trinity combat showcase under a precision constraint. Not a territory Annals entry.*
 
 ---
 

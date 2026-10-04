@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1278`). Crow King Alias Chronicle LXXXVI, wave 29. The
 craft plays a background logistics/morale role during a large siege rather than being the featured
-trick. Not a territory Chronicle.*
+trick. Not a territory Annals entry.*
 
 ---
 

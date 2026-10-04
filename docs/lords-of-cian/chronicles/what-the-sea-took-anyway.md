@@ -1,7 +1,7 @@
 # What the Sea Took Anyway
 
 *Locked canon, Batch 186, 2026-09-11 (`MCD-544`). The Scourge Alias Chronicle XIV. Long Mask era,
-age ~160, the Golden Terror period. Not a territory Chronicle. New standalone material — the first
+age ~160, the Golden Terror period. Not a territory Annals entry. New standalone material — the first
 genuine failure of a rescue operation in this alias's run. Narrated in neutral third-person prose.
 No new named characters.*
 

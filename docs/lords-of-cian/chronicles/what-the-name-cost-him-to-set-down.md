@@ -1,6 +1,6 @@
 # What the Name Cost Him to Set Down
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-710`). Bane Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-710`). Bane Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

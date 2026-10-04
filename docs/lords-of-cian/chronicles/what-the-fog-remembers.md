@@ -4,7 +4,7 @@
 Bane's second three-Chronicle wave. Rebellion era, within the "Bane" window, a new engagement in
 terrain deliberately echoing the Black Trench's own chemical fog and confined ground (`MCD-232`).
 A detailed showcase of the full Trinity -- Mafesto, Obsidian Malice, Onyx -- in the same kind of
-environment that first proved them as a combined system. Not a territory Chronicle. New standalone
+environment that first proved them as a combined system. Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

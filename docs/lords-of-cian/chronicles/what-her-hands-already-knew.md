@@ -1,6 +1,6 @@
 # What Her Hands Already Knew
 
-*Locked canon, Batch 244, 2026-09-11 (`MCD-1069`). Blue-Collar Titan Alias Chronicle LXII, wave 21. A cross-class, cross-barrier mentorship entry -- Kanja sponsoring another tradesperson's guild recognition rather than being tested himself. Not a territory Chronicle.*
+*Locked canon, Batch 244, 2026-09-11 (`MCD-1069`). Blue-Collar Titan Alias Chronicle LXII, wave 21. A cross-class, cross-barrier mentorship entry -- Kanja sponsoring another tradesperson's guild recognition rather than being tested himself. Not a territory Annals entry.*
 
 ---
 

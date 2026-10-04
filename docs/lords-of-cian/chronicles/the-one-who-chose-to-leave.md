@@ -1,7 +1,7 @@
 # The One Who Chose to Leave
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1475`). The Scourge Alias Chronicle C, wave 34, first
-entry. Age 198, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 198, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

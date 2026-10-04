@@ -1,7 +1,7 @@
 # What Pell Ostra Set Down
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1472`). The Scourge Alias Chronicle XCVII, wave 33, first
-entry. Age 275, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 275, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

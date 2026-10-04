@@ -3,7 +3,7 @@
 *Locked canon, Batch 271, 2026-09-11 (`MCD-1409`). Crow King Alias Chronicle XCI, wave 31, opening
 it. A trader's secondhand story reveals that the doctrine page lost during a raid years ago has
 survived, passed hand to hand into a distant river town, and seeded a practice built on its
-philosophy alone. Not a territory Chronicle.*
+philosophy alone. Not a territory Annals entry.*
 
 ---
 

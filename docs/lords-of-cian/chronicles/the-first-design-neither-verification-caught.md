@@ -1,6 +1,6 @@
 # The First Design Neither Verification Caught
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1308`). Iron Bastard Alias Chronicle LXXXIX, wave 30. A new Crawler countermeasure partially defeats doubled verification and the standing-alone check, left deliberately unresolved. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1308`). Iron Bastard Alias Chronicle LXXXIX, wave 30. A new Crawler countermeasure partially defeats doubled verification and the standing-alone check, left deliberately unresolved. Not a territory Annals entry.*
 
 ---
 

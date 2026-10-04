@@ -1,7 +1,7 @@
 # The Wreck They Named for Him
 
 *Locked canon, Batch 121, 2026-09-11 (`MCD-410`). Sovereign Ghost Alias Chronicle IV, first entry
-in the second wave. Rebellion era. Not a territory Chronicle. New standalone material. Narrated in
+in the second wave. Rebellion era. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

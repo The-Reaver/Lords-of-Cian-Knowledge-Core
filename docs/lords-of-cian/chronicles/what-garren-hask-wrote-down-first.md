@@ -1,6 +1,6 @@
 # What Garren Hask Wrote Down First
 
-*Locked canon, Batch 194, 2026-09-11 (`MCD-623`). The Trench Monarch Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Rebellion era, before the Dredge-Line Ambush. Not Hask's recruitment -- that happened earlier, at the Scrip-Forge Raid's Forge-7 evidence (`CC-115`) -- but the moment he formally took over the crew's ledger-keeping. Narrated in neutral third-person prose.*
+*Locked canon, Batch 194, 2026-09-11 (`MCD-623`). The Trench Monarch Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Rebellion era, before the Dredge-Line Ambush. Not Hask's recruitment -- that happened earlier, at the Scrip-Forge Raid's Forge-7 evidence (`CC-115`) -- but the moment he formally took over the crew's ledger-keeping. Narrated in neutral third-person prose.*
 
 ---
 

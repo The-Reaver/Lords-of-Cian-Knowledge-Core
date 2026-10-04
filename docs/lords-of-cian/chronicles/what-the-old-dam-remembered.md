@@ -4,7 +4,7 @@
 24. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), a river settlement the campaign
 had aided months earlier during the ore/coal embargo (MCD-456). A detailed, battle-intense Trinity
 combat showcase against a long-tail structural failure rather than an attack. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

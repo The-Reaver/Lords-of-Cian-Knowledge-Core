@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1280`). Crow King Alias Chronicle LXXXVIII, wave 30,
 opening it. The fourth generation is approached again by the same runner's son, and brings the
-question to Kanja and the third generation together. Not a territory Chronicle.*
+question to Kanja and the third generation together. Not a territory Annals entry.*
 
 ---
 

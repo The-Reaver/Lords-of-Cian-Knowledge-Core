@@ -1,6 +1,6 @@
 # The Table Where the Crew Spoke for Themselves
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-602`). Captain Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-602`). Captain Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

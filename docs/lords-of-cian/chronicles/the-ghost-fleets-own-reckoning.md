@@ -4,7 +4,7 @@
 count updated to fold in the transport *The Second Chance*, renumbering the previously "fourth,
 still-unnamed hull" to fifth). Sovereign Ghost of the Great Sea Alias Chronicle
 XC, wave 30, closing the wave. A reflective ensemble closer synthesizing waves 22-30 against Garren
-Hask's true-record ledger. Not a territory Chronicle. Narrated in neutral third-person prose.*
+Hask's true-record ledger. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

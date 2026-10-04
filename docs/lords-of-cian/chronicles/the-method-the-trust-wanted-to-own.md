@@ -1,7 +1,7 @@
 # The Method the Trust Wanted to Own
 
 *Locked canon, Batch 242, 2026-09-11 (`MCD-1064`). The Trench Monarch Alias Chronicle LXIII, wave
-21, closing the wave. Rebellion era, pre-Black-Trench. Not a territory Chronicle. Narrated in
+21, closing the wave. Rebellion era, pre-Black-Trench. Not a territory Annals entry. Narrated in
 neutral third-person prose.*
 
 ---

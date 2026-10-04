@@ -3,7 +3,7 @@
 *Locked canon, Batch 197, 2026-09-11 (`MCD-711`); corrected Batch 321, 2026-10-02 ("cut" corrected
 to "broke," since Obsidian Malice is a war club per `ARS-030`, not a cutting weapon). The Iron
 Bastard Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

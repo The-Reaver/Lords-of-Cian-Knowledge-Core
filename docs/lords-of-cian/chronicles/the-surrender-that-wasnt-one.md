@@ -1,6 +1,6 @@
 # The Surrender That Wasn't One
 
-*Locked canon, Batch 209, 2026-09-11 (`MCD-910`). Bane Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 209, 2026-09-11 (`MCD-910`). Bane Alias Chronicle XLVII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 133, 2026-09-11 (`MCD-446`). The Scourge Alias Chronicle VII, first entry in
 the third wave. Long Mask era, age ~140, roughly a decade into the Golden Terror period (ages
-80-180). Not a territory Chronicle. New standalone material — a detailed armor-and-weapon combat
+80-180). Not a territory Annals entry. New standalone material — a detailed armor-and-weapon combat
 showcase per Abad's craft instruction. Onyx of Oblivion remains sealed at L9 throughout the Long
 Mask per VB-060-adjacent precedent (`MCD-246`); this showcase uses the Long Mask's built gear
 system only (`ARS-344` through `356`) -- the Trinity (Mafesto, Onyx, Obsidian Malice) surrendered

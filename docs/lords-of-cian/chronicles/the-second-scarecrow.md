@@ -1,7 +1,7 @@
 # The Second Scarecrow
 
 *Locked canon, Batch 112, 2026-09-10 (`MCD-383`). Crow King Alias Chronicle I. Rebellion era,
-months after the Night of the Crow King (`MCD-236`, age 23). Not a territory Chronicle. New
+months after the Night of the Crow King (`MCD-236`, age 23). Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

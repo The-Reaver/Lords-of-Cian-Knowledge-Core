@@ -1,7 +1,7 @@
 # The Child Who Wasn't Afraid
 
 *Locked canon, Batch 151, 2026-09-11 (`MCD-478`). Bane Alias Chronicle XII, closing the fourth
-wave. Rebellion era, age 19, shortly after the Black Trench. Not a territory Chronicle. New
+wave. Rebellion era, age 19, shortly after the Black Trench. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

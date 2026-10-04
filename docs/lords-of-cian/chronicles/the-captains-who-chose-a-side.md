@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 185, 2026-09-11 (`MCD-540`). The Sovereign Ghost of the Great Sea Alias
 Chronicle XIII, first entry in the fifth wave. Rebellion era, age 21, Ghost Harbor. Not a territory
-Chronicle. New standalone material — a detailed, large-scale coalition naval battle per Abad's craft
+Annals entry. New standalone material — a detailed, large-scale coalition naval battle per Abad's craft
 instruction. Narrated in neutral third-person prose. No new named characters.*
 
 ---

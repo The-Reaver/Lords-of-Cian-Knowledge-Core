@@ -4,7 +4,7 @@
 entry in the twenty-first wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241),
 one of the marginal reopened ore drifts brought back into use during the embargo (MCD-456). A
 detailed, battle-intense Trinity combat showcase fought on two fronts at once. Not a territory
-Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed "the
+Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed "the
 mechanic he'd built the coat's whole vocabulary around" to "Mafesto's whole vocabulary around" --
 no Forge-Coat exists at age 27.*
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 284, 2026-09-11 (`MCD-1504`). Lord of Embers Alias Chronicle CII, wave 34,
 closing the wave and this batch's three-wave run. Rebellion era, age 27, the Rolling Foundry
-Campaign (MCD-241). Not a territory Chronicle. Narrated in neutral third-person prose.*
+Campaign (MCD-241). Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

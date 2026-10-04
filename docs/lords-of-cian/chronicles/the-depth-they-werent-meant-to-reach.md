@@ -4,7 +4,7 @@
 to the Forge-Coat, Boots, and Breath Collar -- Long-Mask-era gear that doesn't exist yet in this
 Rebellion-era window -- were reworded to a plain "no armor at all" framing). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXII, wave 28, first entry in the wave. A fully submerged dive rescue inside a sunk wreck, with no
-gear advantage. Not a territory Chronicle. Narrated in neutral third-person prose.*
+gear advantage. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Reading the Third Student Made Alone
 
-*Locked canon, Batch 239, 2026-09-11 (`MCD-1054`). Storm That Walks Alias Chronicle LIX, wave 20. The third-generation student (established `MCD-983`) makes her first fully independent storm call, with the successor deliberately absent rather than unavailable. Not a territory Chronicle. Corrected Batch 349, 2026-10-02: "Sephtis's death" corrected to "Sephtis's staged withdrawal" -- `MCD-982` locks his exit as a staged withdrawal, not a death.*
+*Locked canon, Batch 239, 2026-09-11 (`MCD-1054`). Storm That Walks Alias Chronicle LIX, wave 20. The third-generation student (established `MCD-983`) makes her first fully independent storm call, with the successor deliberately absent rather than unavailable. Not a territory Annals entry. Corrected Batch 349, 2026-10-02: "Sephtis's death" corrected to "Sephtis's staged withdrawal" -- `MCD-982` locks his exit as a staged withdrawal, not a death.*
 
 ---
 

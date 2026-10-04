@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 284, 2026-09-11 (`MCD-1501`). Lord of Embers Alias Chronicle XCIX, wave 33,
 closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A detailed,
-battle-intense Trinity combat showcase closing the wave. Not a territory Chronicle. Narrated in
+battle-intense Trinity combat showcase closing the wave. Not a territory Annals entry. Narrated in
 neutral third-person prose. Corrected Batch 321, 2026-10-02: Mafesto is a full bio-bonded
 exoskeleton, not forearm-scale; the Directorate's crude copy reworded from "a bulky iron harness
 worn over a soldier's forearm" to a partial chest-and-shoulder harness.*

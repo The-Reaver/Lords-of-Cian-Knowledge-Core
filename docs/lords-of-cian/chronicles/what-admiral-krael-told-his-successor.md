@@ -4,7 +4,7 @@
 the wave. Rebellion era, shortly after the Battle of the Gale Straits (`MCD-242`, age 29), Admiral
 Dessius Krael's final briefing to his successor before resigning -- Krael is already a locked named
 character ("the Gale Straits admiral," referenced in the Long_Mask_Chronicles cross-check, Batch
-42). Not a territory Chronicle. No new named characters beyond the already-locked Admiral Krael.*
+42). Not a territory Annals entry. No new named characters beyond the already-locked Admiral Krael.*
 
 ---
 

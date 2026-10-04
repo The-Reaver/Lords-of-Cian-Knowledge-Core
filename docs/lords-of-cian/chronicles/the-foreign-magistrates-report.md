@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1261`). Crow King Alias Chronicle LXIX, wave 23, closing
 it. A magistrate from Aethel-Gard, a genuinely neutral polity, formally documents the phenomenon for
-an official archival record. Not a territory Chronicle. Corrected Batch 321, 2026-10-02: the
+an official archival record. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: the
 original draft named her a "neutral Sovereign Trust magistrate" -- a contradiction, since the
 Sovereign Trust is Kanja's enemy polity, not a neutral one. Corrected below to a magistrate from
 Aethel-Gard (`POL-101`), already-locked as neutral with potential to ally (`POL-108`); the surrounding

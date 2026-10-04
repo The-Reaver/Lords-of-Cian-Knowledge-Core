@@ -4,7 +4,7 @@
 mechanism reworded to the Forge-Coat/Ironfall Boots' grounding function, since wave 16 falls years
 past the Trinity's age-30 surrender, `MCD-246`; "ask the Rebellion for help" reworded to "ask the
 resistance network for help," since the Rebellion itself formally ends at `MCD-245`/`246`). The Iron
-Bastard Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person
+Bastard Alias Chronicle XLVII, wave 16. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

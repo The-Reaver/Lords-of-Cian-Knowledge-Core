@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 282, 2026-09-11 (`MCD-1485`). Crow King Alias Chronicle CI, wave 34. Two
 simultaneous operations run entirely by the lineage, with Kanja aware of neither until both were
-already finished. Not a territory Chronicle.*
+already finished. Not a territory Annals entry.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 118, 2026-09-11 (`MCD-403`). Trench Monarch Alias Chronicle VI, closing the
 second wave. Years after the Dredge-Line Ambush (`CC-118`), from Compliance Officer Tavin Greer's
-own perspective -- already a locked named character. Not a territory Chronicle. New standalone
+own perspective -- already a locked named character. Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters beyond the already-locked
 Tavin Greer.*
 

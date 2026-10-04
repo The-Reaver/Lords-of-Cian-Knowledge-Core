@@ -1,7 +1,7 @@
 # The Battle Fought Inside the Storm
 
 *Locked canon, Batch 137, 2026-09-11 (`MCD-458`). The Storm That Walks Alias Chronicle VII, first
-entry in the third wave. Rebellion era, age 29, the Gale Straits. Not a territory Chronicle. New
+entry in the third wave. Rebellion era, age 29, the Gale Straits. Not a territory Annals entry. New
 standalone material — a detailed armor-and-weapon combat showcase per Abad's craft instruction.
 Narrated in neutral third-person prose. No new named characters.*
 

@@ -3,7 +3,7 @@
 *Locked canon, Batch 242, 2026-09-11 (`MCD-1063`). The Trench Monarch Alias Chronicle LXII, wave 21.
 Rebellion era, pre-Black-Trench -- Mafesto remains dormant and Obsidian Malice undeployed until the
 Black Trench (`MCD-232`), a solo-blade Onyx of Oblivion showcase set deliberately without its named
-powers invoked. Not a territory Chronicle. Narrated in neutral third-person prose.*
+powers invoked. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

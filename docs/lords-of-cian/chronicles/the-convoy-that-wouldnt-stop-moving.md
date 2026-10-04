@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 136, 2026-09-11 (`MCD-455`). The Lord of Embers Alias Chronicle VII, first
 entry in the third wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory
-Chronicle. New standalone material — a detailed armor-and-weapon combat showcase per Abad's craft
+Annals entry. New standalone material — a detailed armor-and-weapon combat showcase per Abad's craft
 instruction. Narrated in neutral third-person prose. No new named characters.*
 
 ---

@@ -4,7 +4,7 @@
 reference was pointed at "the Kessarine crossing," a survival showcase already locked as having
 lost no one, `MCD-687` -- redirected to the real four-life loss at Karrow's Bend, `MCD-706`). Bane
 Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

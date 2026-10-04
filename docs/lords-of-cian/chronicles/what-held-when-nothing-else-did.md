@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1279`). Crow King Alias Chronicle LXXXVII, wave 29,
 closing it. Kanja reflects across the decades since the Night of the Crow King on what the craft has
-become. Not a territory Chronicle.*
+become. Not a territory Annals entry.*
 
 ---
 

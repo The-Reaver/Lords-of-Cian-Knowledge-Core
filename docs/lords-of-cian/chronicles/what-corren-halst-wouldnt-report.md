@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1222`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXIV, wave 28, closing the wave. A character-depth entry testing Corren Halst's own restraint
-against leverage he could have used. Not a territory Chronicle. Narrated in neutral third-person
+against leverage he could have used. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

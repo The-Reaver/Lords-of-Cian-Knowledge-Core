@@ -5,7 +5,7 @@ Malice's discharge reworded to the Ironhand Gauntlets' leverage, since wave 28 f
 Trinity's age-30 surrender, `MCD-246`; "rebel observers"/"rebel side"/"rebel bank" reworded for
 consistency with `MCD-1301`'s own correction in the same wave, since the Rebellion formally ends at
 `MCD-245`/`246`). Iron Bastard Alias Chronicle LXXXIII, wave 28. A detailed technical-and-political
-showcase of the joint aqueduct assessment. Not a territory Chronicle.*
+showcase of the joint aqueduct assessment. Not a territory Annals entry.*
 
 ---
 

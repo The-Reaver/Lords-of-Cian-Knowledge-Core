@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 240, 2026-09-11 (`MCD-1056`); corrected Batch 320, 2026-10-01 (Corren Halst
 reconciled to he/him, matching `CC-158`). Captain Alias Chronicle LVIII, wave 20. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

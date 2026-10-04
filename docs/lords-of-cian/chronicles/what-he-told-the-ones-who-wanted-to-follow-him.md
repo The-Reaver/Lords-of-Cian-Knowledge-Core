@@ -1,6 +1,6 @@
 # What He Told the Ones Who Wanted to Follow Him
 
-*Locked canon, Batch 198, 2026-09-11 (`MCD-767`). The Industrial Myth Alias Chronicle XLII, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-767`). The Industrial Myth Alias Chronicle XLII, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

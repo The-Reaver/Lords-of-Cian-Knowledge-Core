@@ -1,6 +1,6 @@
 # The Day They Named for Remembering
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-606`). Captain Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "years after his own recovered voice" softened to "not long after his own recovered voice," consistent with his voice returning within months of the Black Trench and this scene's own "first year after the Black Trench" setting.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-606`). Captain Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "years after his own recovered voice" softened to "not long after his own recovered voice," consistent with his voice returning within months of the Black Trench and this scene's own "first year after the Black Trench" setting.*
 
 ---
 

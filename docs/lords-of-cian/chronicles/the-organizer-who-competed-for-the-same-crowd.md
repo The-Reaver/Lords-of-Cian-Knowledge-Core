@@ -1,7 +1,7 @@
 # The Organizer Who Competed for the Same Crowd
 
 *Locked canon, Batch 152, 2026-09-11 (`MCD-481`). Trench Monarch Alias Chronicle XII, closing the
-fourth wave. Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. New
+fourth wave. Rebellion era, age 18, before the Black Trench. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

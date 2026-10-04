@@ -1,6 +1,6 @@
 # What the Third Generation Refused
 
-*Locked canon, Batch 211, 2026-09-11 (`MCD-916`). The Crow King Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 211, 2026-09-11 (`MCD-916`). The Crow King Alias Chronicle XLVII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 245, 2026-09-11 (`MCD-1072`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXII, wave 21. The restraint-over-fear doctrine turned inward, on the fleet's own crew, for the first
-time. Not a territory Chronicle. Narrated in neutral third-person prose.*
+time. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 133, 2026-09-11 (`MCD-448`). The Scourge Alias Chronicle IX, closing the third
 wave. Long Mask era, age ~210, generations into the persona's 284-year span. Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named characters.*
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---
 

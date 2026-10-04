@@ -1,7 +1,7 @@
 # The Frequency He Read Wrong
 
 *Locked canon, Batch 158, 2026-09-11 (`MCD-497`). The Iron Bastard Alias Chronicle X, first entry
-in the fourth wave. Rebellion era, age 25. Not a territory Chronicle. New standalone material — the
+in the fourth wave. Rebellion era, age 25. Not a territory Annals entry. New standalone material — the
 first genuine misdiagnosis entry in this alias's run. Narrated in neutral third-person prose. No new
 named characters.*
 

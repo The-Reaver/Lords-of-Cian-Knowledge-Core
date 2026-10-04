@@ -1,6 +1,6 @@
 # The Mission He Watched From Too Far to Help
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1289`). Iron Bastard Alias Chronicle LXX, wave 24, first entry. The third-generation apprentice's first solo mission, with Kanja too distant to intervene. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1289`). Iron Bastard Alias Chronicle LXX, wave 24, first entry. The third-generation apprentice's first solo mission, with Kanja too distant to intervene. Not a territory Annals entry.*
 
 ---
 

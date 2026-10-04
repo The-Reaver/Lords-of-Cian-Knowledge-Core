@@ -1,7 +1,7 @@
 # The Man Who Wanted to Fight
 
 *Locked canon, Batch 130, 2026-09-11 (`MCD-438`). The Industrial Myth Alias Chronicle VIII.
-Rebellion era, age 21, the Furnace District Strike. Not a territory Chronicle. New standalone
+Rebellion era, age 21, the Furnace District Strike. Not a territory Annals entry. New standalone
 material. Kept deliberately unarmed, per this alias's established ethos. Narrated in neutral
 third-person prose. No new named characters.*
 

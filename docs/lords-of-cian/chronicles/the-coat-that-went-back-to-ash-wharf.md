@@ -1,7 +1,7 @@
 # The Coat That Went Back to Ash-Wharf
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1477`). The Scourge Alias Chronicle CII, wave 34, closing
-the wave. Age 258, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+the wave. Age 258, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

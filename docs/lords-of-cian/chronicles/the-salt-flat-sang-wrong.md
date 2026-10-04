@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1271`). Crow King Alias Chronicle LXXIX, wave 27,
 opening it. A desert salt flat's heat-shimmer and long sound-carry force a new, wide-open
-zero-cover adaptation of the craft. Not a territory Chronicle.*
+zero-cover adaptation of the craft. Not a territory Annals entry.*
 
 ---
 

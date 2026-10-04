@@ -12,15 +12,15 @@ docs' claims about them.
 The archive is a working, deployed, populated product today, not a backlog. In order of surprise:
 
 1. **Content population already ran at full scale.** `bulk_import_knowledge_core.py` imported
-   **1,198 live Chronicle entries across 24 characters** — all 11 of Kanja's Alias arcs (1,122
-   entries) plus all 22 territory-leader characters (76 entries, 20 homage territories + Arturo +
-   the Xaragua/Kazi character splits) — straight from the Knowledge Core repo's
+   **1,198 live Chronicle and Annals entries across 24 characters** — all 11 of Kanja's Alias
+   arcs (1,122 entries) plus all 22 territory-leader characters (76 entries, 20 homage territories
+   + Arturo + the Xaragua/Kazi character splits) — straight from the Knowledge Core repo's
    `docs/lords-of-cian/chronicles/` directory. A sibling script then populated **12 World
    Briefings** from the remaining ~515 non-Chronicle canon-ledger rules (GEO/ARS/MAW/ASH/CULT/POL/
    WC/HLD/WGD/SBD/CHAR/COS), one briefing per rule-prefix. Phase 3's old "content-readiness gate" —
    "enough material live that a Level 1 reader can plausibly read three to 90%" — isn't a future
    milestone, it's already true by a wide margin.
-   Not yet imported: the Character Chronicle tracks (Lauris, Ozmund, Daba, Ezio — roughly 290
+   Not yet imported: the character Series tracks (Lauris, Ozmund, Daba, Ezio — roughly 290
    entries as of Batch 350) and the Kanja-version track. A second bulk-import pass is needed before
    "fully loaded" is literally true.
 2. **It's deployed and running.** Railway project `lords-of-cian-archive` has both services

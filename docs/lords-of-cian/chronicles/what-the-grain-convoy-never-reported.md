@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1272`). Crow King Alias Chronicle LXXX, wave 27. Hoarded
 grain is quietly redirected to a starving population, a purely economic-justice register with no
-combat. Not a territory Chronicle.*
+combat. Not a territory Annals entry.*
 
 ---
 

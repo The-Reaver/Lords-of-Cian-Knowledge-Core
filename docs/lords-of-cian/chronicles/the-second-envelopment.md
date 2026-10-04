@@ -1,7 +1,7 @@
 # The Second Envelopment
 
 *Locked canon, Batch 115, 2026-09-10 (`MCD-392`). Storm That Walks Alias Chronicle I. Rebellion
-era, weeks after the Battle of the Gale Straits (`MCD-242`, age 29). Not a territory Chronicle. New
+era, weeks after the Battle of the Gale Straits (`MCD-242`, age 29). Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Sephtis (referenced, not appearing on-page).*
 

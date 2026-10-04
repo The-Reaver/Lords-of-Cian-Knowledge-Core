@@ -4,7 +4,7 @@
 the Aegis-Talisman's off-hand-shield/frequency-inversion-lens detail corrected from `MCD-238` to
 `ARS-050`, the rule that actually locks that detail). Iron Bastard Alias Chronicle II. Rebellion
 era, a new engagement combining the Aegis-Talisman's resonance mechanic (`ARS-050`) with the
-Trinity in detailed, technical use. Not a territory Chronicle. New standalone material. Narrated in
+Trinity in detailed, technical use. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

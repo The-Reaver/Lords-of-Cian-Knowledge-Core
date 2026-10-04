@@ -1,10 +1,10 @@
 # The Record They Tried to Rewrite
 
-*Locked canon, Batch 141, 2026-09-11 (`MCD-466`). Ide Chronicle II. Homage-era Muungano, Ide/Ase.
-Territory Chronicle -- Ase as protagonist, Kanja an unnamed background guest with no command,
+*Locked canon, Batch 141, 2026-09-11 (`MCD-466`). Ide Annals II. Homage-era Muungano, Ide/Ase.
+Territory Annals entry -- Ase as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 
-*Corrected Batch 340, 2026-10-02: fixed a Kanja-placement inconsistency with Ide Chronicle I (he
+*Corrected Batch 340, 2026-10-02: fixed a Kanja-placement inconsistency with Ide Annals I (he
 was present at the execution's edge, not standing beside her).*
 
 ---
@@ -50,6 +50,6 @@ counter-account's collapse from a distance and said nothing to anyone about havi
 ---
 
 *Continuity notes (not narrative): dramatizes a delayed-payoff test of "Named and Numbered"
-(`PH2-036`)'s methodology — not the act of documentation itself (already shown in Chronicle I) but
+(`PH2-036`)'s methodology — not the act of documentation itself (already shown in Annals I) but
 its durability against a later fabrication attempt, proving the multi-route/independent-witness
-design was built for exactly this. No new named characters. Second Ide territory Chronicle.*
+design was built for exactly this. No new named characters. Second Ide territory Annals entry.*

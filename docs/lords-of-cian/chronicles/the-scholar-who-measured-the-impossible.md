@@ -4,7 +4,7 @@
 scholar's pronoun corrected to he/him throughout, matching the majority usage across `MCD-551`,
 `MCD-740`, `MCD-1307`, `MCD-1309`, `MCD-1412`, and `MCD-1414`). Iron Bastard Alias Chronicle VI,
 closing the second wave. Rebellion era, from the perspective of a Trust-employed materials scholar
-studying the resonance phenomenon academically. Not a territory Chronicle. New standalone material.
+studying the resonance phenomenon academically. Not a territory Annals entry. New standalone material.
 Narrated in neutral third-person prose. No new named characters.*
 
 ---

@@ -1,7 +1,7 @@
 # What Efa Gol Saw From the Start
 
 *Locked canon, Batch 191, 2026-09-11 (`MCD-560`). Captain Alias Chronicle XII, closing the fifth
-wave — and closing the fifth wave for all eleven aliases. Rebellion era. Not a territory Chronicle.
+wave — and closing the fifth wave for all eleven aliases. Rebellion era. Not a territory Annals entry.
 New standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Efa Gol. Renumbered Batch 321, 2026-10-02 (from Chronicle XVIII, which duplicated
 wave 6's own MCD-593).*

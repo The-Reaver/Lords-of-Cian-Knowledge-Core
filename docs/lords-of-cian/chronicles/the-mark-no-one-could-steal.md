@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1316`). The Lord of Embers Alias Chronicle LXX, first
 entry in the twenty-fourth wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241),
 some months after "The Standard They Learned to Fake" (MCD-1084). A direct payoff to the
-counterfeit-mark hook. Not a territory Chronicle. Narrated in neutral third-person prose.*
+counterfeit-mark hook. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

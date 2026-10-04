@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 109, 2026-09-10 (`MCD-376`). Blue-Collar Titan Alias Chronicle III, closing
 the wave. Rebellion era, during the Sewer War of Killane (`MCD-234`, age 20). Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

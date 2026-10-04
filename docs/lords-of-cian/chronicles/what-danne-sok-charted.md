@@ -1,7 +1,7 @@
 # What Danne Sok Charted
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-779`); corrected Batch 321, 2026-10-02 (a `CC-119` citation
-for Danne Sok fixed to `CC-159`). Sovereign Ghost of the Great Sea Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+for Danne Sok fixed to `CC-159`). Sovereign Ghost of the Great Sea Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,7 +1,7 @@
 # The Oath He Didn't Mean
 
-*Locked canon, Batch 147, 2026-09-11 (`MCD-472`). Taifa Chronicle II. Homage-era Mji,
-Taifa/Osei. Territory Chronicle -- Osei as protagonist, Kanja an unnamed background guest with no
+*Locked canon, Batch 147, 2026-09-11 (`MCD-472`). Taifa Annals II. Homage-era Mji,
+Taifa/Osei. Territory Annals entry -- Osei as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 
 *Corrected Batch 342, 2026-10-02: the threatening patrol was mistakenly described as a Sealbound
@@ -56,4 +56,4 @@ before the matter concluded.
 *Continuity notes (not narrative): dramatizes the sincerity requirement of "Kin at a Distance"
 (`PH2-053`) as a literal, functioning mechanic -- the ability's silence itself becomes the warning
 sign that a sworn member's commitment was never genuine, extending rather than contradicting the
-already-locked cost clause. No new named characters. Second Taifa territory Chronicle.*
+already-locked cost clause. No new named characters. Second Taifa territory Annals entry.*

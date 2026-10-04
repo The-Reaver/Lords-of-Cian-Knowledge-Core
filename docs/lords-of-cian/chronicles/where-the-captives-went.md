@@ -1,7 +1,7 @@
 # Where the Captives Went
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-785`); corrected Batch 321, 2026-10-02 (a `CC-119` citation
-for Maret Vos fixed to `MCD-234`, since no dedicated `CC-` dossier exists for him). Sovereign Ghost of the Great Sea Alias Chronicle XXX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+for Maret Vos fixed to `MCD-234`, since no dedicated `CC-` dossier exists for him). Sovereign Ghost of the Great Sea Alias Chronicle XXX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

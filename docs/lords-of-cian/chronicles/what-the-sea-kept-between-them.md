@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 217, 2026-09-11 (`MCD-959`); corrected Batch 321, 2026-10-02 (a line referencing
 Undertow, a Book-2-onward Moonvault gift that doesn't exist in this Rebellion-era window, reworded).
-Sovereign Ghost of the Great Sea Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+Sovereign Ghost of the Great Sea Alias Chronicle LVII, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

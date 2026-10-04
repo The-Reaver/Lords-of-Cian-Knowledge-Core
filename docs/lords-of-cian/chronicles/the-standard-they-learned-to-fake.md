@@ -3,7 +3,7 @@
 *Locked canon, Batch 249, 2026-09-11 (`MCD-1084`). The Lord of Embers Alias Chronicle LXII, wave
 21. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), some months after the
 Open-Forge Standard's institutionalization (MCD-1052). A genuinely new register of limit for
-"metabolizes punishment." Not a territory Chronicle. Narrated in neutral third-person prose.
+"metabolizes punishment." Not a territory Annals entry. Narrated in neutral third-person prose.
 Corrected Batch 321, 2026-10-02: softened chronology compression ("spent eighteen months learning
 to read the true one" to "spent months learning to read the true one").*
 

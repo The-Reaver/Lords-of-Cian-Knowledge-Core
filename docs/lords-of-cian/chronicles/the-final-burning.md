@@ -1,6 +1,6 @@
 # The Final Burning
 
-*Locked canon, Batch 202, 2026-09-11 (`MCD-888`). The Lord of Embers Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-888`). The Lord of Embers Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

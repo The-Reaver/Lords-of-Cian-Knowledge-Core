@@ -1,7 +1,7 @@
 # The Administrator Who Opened His Own Books
 
 *Locked canon, Batch 119, 2026-09-11 (`MCD-406`). Industrial Myth Alias Chronicle VI, closing the
-second wave. Rebellion era, unarmed throughout. Not a territory Chronicle. New standalone material.
+second wave. Rebellion era, unarmed throughout. Not a territory Annals entry. New standalone material.
 Narrated in neutral third-person prose. No new named characters.*
 
 ---

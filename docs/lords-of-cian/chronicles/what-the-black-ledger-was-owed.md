@@ -3,7 +3,7 @@
 *Locked canon, Batch 231, 2026-09-11 (`MCD-1030`). The Trench Monarch Alias Chronicle LIX, wave 20.
 Rebellion era, pre-Black-Trench -- Mafesto remains dormant and Obsidian Malice undeployed until the
 Black Trench (`MCD-232`), so this is a solo-blade Onyx of Oblivion showcase exploring an unused
-register of the Black Ledger. Not a territory Chronicle. Narrated in neutral third-person prose.*
+register of the Black Ledger. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

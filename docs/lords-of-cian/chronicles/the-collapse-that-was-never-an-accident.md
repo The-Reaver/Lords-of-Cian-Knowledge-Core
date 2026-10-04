@@ -1,6 +1,6 @@
 # The Collapse That Was Never an Accident
 
-*Locked canon, Batch 283, 2026-09-11 (`MCD-1490`). Iron Bastard Alias Chronicle XCVII, wave 33, first entry. The doctrine's first application to a merchant's own deliberate insurance-fraud sabotage of his own property. Not a territory Chronicle.*
+*Locked canon, Batch 283, 2026-09-11 (`MCD-1490`). Iron Bastard Alias Chronicle XCVII, wave 33, first entry. The doctrine's first application to a merchant's own deliberate insurance-fraud sabotage of his own property. Not a territory Annals entry.*
 
 ---
 

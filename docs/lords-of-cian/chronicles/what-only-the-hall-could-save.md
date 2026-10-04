@@ -1,7 +1,7 @@
 # What Only the Hall Could Save
 
 *Locked canon, Batch 251, 2026-09-11 (`MCD-1089`). Captain Alias Chronicle LXI, wave 21. Garren
-Hask's own mortality becomes real for the first time. Not a territory Chronicle.*
+Hask's own mortality becomes real for the first time. Not a territory Annals entry.*
 
 ---
 

@@ -1,6 +1,6 @@
 # What They Carved Into the New Threshold
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1297`). Iron Bastard Alias Chronicle LXXVIII, wave 26, closing the wave. A legacy/memory closer years after the earthquake's rebuilding. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1297`). Iron Bastard Alias Chronicle LXXVIII, wave 26, closing the wave. A legacy/memory closer years after the earthquake's rebuilding. Not a territory Annals entry.*
 
 ---
 

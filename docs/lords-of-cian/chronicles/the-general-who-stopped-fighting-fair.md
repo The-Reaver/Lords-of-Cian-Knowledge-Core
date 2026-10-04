@@ -1,7 +1,7 @@
 # The General Who Stopped Fighting Fair
 
 *Locked canon, Batch 135, 2026-09-11 (`MCD-454`). The Iron Bastard Alias Chronicle IX, closing the
-third wave. Rebellion era, age 25. Not a territory Chronicle. New standalone material. Narrated in
+third wave. Rebellion era, age 25. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

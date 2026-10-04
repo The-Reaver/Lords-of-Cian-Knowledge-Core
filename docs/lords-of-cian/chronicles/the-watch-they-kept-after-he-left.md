@@ -4,7 +4,7 @@
 fighter" reworded, since that term is reserved elsewhere in the ledger for enforcers/vessels). Iron
 Bastard Alias Chronicle XCVI, wave 32, closing the wave. An informal, lay hazard-watch tradition
 begins at the settlement from `MCD-1487`/`1488`, distinct from every formal cohort or academy
-teaching lineage. Not a territory Chronicle.*
+teaching lineage. Not a territory Annals entry.*
 
 ---
 

@@ -1,7 +1,7 @@
 # The Wall That Wasn't Built to Ring
 
 *Locked canon, Batch 135, 2026-09-11 (`MCD-453`). The Iron Bastard Alias Chronicle VIII.
-Rebellion era, age 25. Not a territory Chronicle. New standalone material. Narrated in neutral
+Rebellion era, age 25. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

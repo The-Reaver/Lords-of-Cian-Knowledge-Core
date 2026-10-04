@@ -1,7 +1,7 @@
 # What the Line Cost His Own Hands
 
 *Locked canon, Batch 152, 2026-09-11 (`MCD-479`). Trench Monarch Alias Chronicle X, first entry in
-the fourth wave. Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. New
+the fourth wave. Rebellion era, age 18, before the Black Trench. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

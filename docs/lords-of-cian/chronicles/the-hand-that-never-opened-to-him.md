@@ -1,6 +1,6 @@
 # The Hand That Never Opened to Him
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-595`). Captain Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-595`). Captain Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

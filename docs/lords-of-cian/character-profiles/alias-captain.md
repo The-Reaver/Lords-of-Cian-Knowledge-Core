@@ -4,7 +4,7 @@
 **Track:** Alias Chronicle
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
-This file is the standing gate artifact for this character, per the Character Chronicle Launch
+This file is the standing gate artifact for this character, per the Series Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
 any Chronicle is written or rewritten — not a summary produced after the fact.
 
@@ -276,7 +276,7 @@ grounded in Kanja's own single underlying psychology, not a separate invented on
   natural next thread given how much institutional groundwork this track has already laid.
 - **Narrator not yet explicitly confirmed for this alias.** `VB-020`/`021` establish Onyx of
   Oblivion as narrator for "Kanja chapters" generally, and `VB-026`'s progressive-handoff rule
-  explicitly does not apply to the Phase 2 territory Chronicles — but it doesn't explicitly say
+  explicitly does not apply to the Phase 2 territory Annals — but it doesn't explicitly say
   whether it applies to the *Alias* Chronicle track either, and Captain's own material spans both
   the Rebellion (ages 21-22, where `VB-026`'s progressive handoff would technically apply if this
   counts as "Kanja-POV treatment of the Rebellion") and material explicitly decades into

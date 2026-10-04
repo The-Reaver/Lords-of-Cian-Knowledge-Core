@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 215, 2026-09-11 (`MCD-939`); corrected Batch 320, 2026-10-01 ("Aldren's
 Reach" was a misattribution of the already-locked broken-promise settlement, Karrow's Bend,
-`MCD-706`). Bane Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral
+`MCD-706`). Bane Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral
 third-person prose.*
 
 ---

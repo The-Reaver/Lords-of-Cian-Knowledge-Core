@@ -1,7 +1,7 @@
 # Air Enough for Six
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-775`); corrected Batch 321, 2026-10-02 (the cutting work
-reassigned from Obsidian Malice, a war club per `ARS-030`, to Onyx of Oblivion's own blade). Sovereign Ghost of the Great Sea Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+reassigned from Obsidian Malice, a war club per `ARS-030`, to Onyx of Oblivion's own blade). Sovereign Ghost of the Great Sea Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

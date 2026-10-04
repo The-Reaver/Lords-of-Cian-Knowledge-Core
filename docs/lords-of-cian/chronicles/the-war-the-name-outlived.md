@@ -1,6 +1,6 @@
 # The War the Name Outlived
 
-*Locked canon, Batch 222, 2026-09-11 (`MCD-1004`). Captain Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Kanja's dialogue reworded -- he recovered and bonded the Trinity rather than built it (`ARS-020`), and the stated uncertainty is about this crew's own future, not the Trinity's.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-1004`). Captain Alias Chronicle LVII, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Kanja's dialogue reworded -- he recovered and bonded the Trinity rather than built it (`ARS-020`), and the stated uncertainty is about this crew's own future, not the Trinity's.*
 
 ---
 

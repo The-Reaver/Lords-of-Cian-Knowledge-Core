@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 282, 2026-09-11 (`MCD-1482`). Crow King Alias Chronicle XCVIII, wave 33. The
 Directorate officer who once tried to deceive Kanja himself returns years later asking to be taught.
-Not a territory Chronicle.*
+Not a territory Annals entry.*
 
 ---
 

@@ -4,7 +4,7 @@
 dialogue's "ninety-some engagements" reworded to remove the writers'-room Chronicle-count tally).
 Iron Bastard Alias Chronicle XCIII, wave 31, closing the wave. A foreign sovereign's envoy offers
 Kanja a throne-level reward for exclusive, weaponized teaching of the doctrine; he refuses, closing
-the wave on the openness principle wreckage forced him to question. Not a territory Chronicle.*
+the wave on the openness principle wreckage forced him to question. Not a territory Annals entry.*
 
 ---
 

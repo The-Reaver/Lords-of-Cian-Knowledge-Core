@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 284, 2026-09-11 (`MCD-1497`). Lord of Embers Alias Chronicle XCV, wave 32.
 Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A detailed, battle-intense Trinity
-combat showcase in the alias's first waterlogged marshland register. Not a territory Chronicle.
+combat showcase in the alias's first waterlogged marshland register. Not a territory Annals entry.
 Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: reworded writers'-room
 phrasing ("than it had in any prior showcase") to plain in-world prose.*
 

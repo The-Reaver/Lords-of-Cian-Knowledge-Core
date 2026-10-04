@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 242, 2026-09-11 (`MCD-1062`). The Trench Monarch Alias Chronicle LXI, wave 21,
 first entry. Rebellion era, pre-Black-Trench. A cost of the alias's own founding battle that no
-tally can repay. Not a territory Chronicle. Narrated in neutral third-person prose.*
+tally can repay. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

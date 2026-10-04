@@ -1,7 +1,7 @@
 # The Last Thing the Old Hand Said
 
 *Locked canon, Batch 127, 2026-09-11 (`MCD-430`). Captain Alias Chronicle VI, closing the second
-wave. Rebellion era, a retirement. Not a territory Chronicle. New standalone material. Narrated in
+wave. Rebellion era, a retirement. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

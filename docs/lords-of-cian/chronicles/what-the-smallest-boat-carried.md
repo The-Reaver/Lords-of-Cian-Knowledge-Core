@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1210`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXII, wave 24, closing the wave. An orphaned stowaway becomes the seed of an informal, fleet-wide
-fostering practice. Not a territory Chronicle. Narrated in neutral third-person prose.*
+fostering practice. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

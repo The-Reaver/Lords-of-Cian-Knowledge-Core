@@ -4,7 +4,7 @@
 make clear the discharge itself is achievable by ordinary mechanical means once the diagnostic read
 is correct — the Trinity's own equipment only makes it faster and cleaner — resolving an apparent
 conflict with several other entries where non-Trinity discharges occur). The Iron Bastard Alias
-Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle.
+Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry.
 Narrated in neutral third-person prose.*
 
 ---

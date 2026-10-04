@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 106, 2026-09-10 (`MCD-366`). Bane Alias Chronicle II. Rebellion era,
 several months after the Battle of the Black Trench (`MCD-232`), still within the "Bane" window —
-not a territory Chronicle. New standalone material: not part of the already-locked Twenty-Two
+not a territory Annals entry. New standalone material: not part of the already-locked Twenty-Two
 Victories list. Narrated in neutral third-person prose, no Onyx coda, consistent with the
 pre-`VB-026` early-Rebellion state. No new named characters — the Directorate officer is unnamed,
 matching the precedent set by the Undersecretary in "The Pivotal Piece."*

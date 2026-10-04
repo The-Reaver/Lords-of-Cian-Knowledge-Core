@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 271, 2026-09-11 (`MCD-1411`). Crow King Alias Chronicle XCIII, wave 31, closing
 it. Kanja, the apprentice, the third generation, and the fourth generation weigh what they found at
-the river town, and decide to leave it exactly as it is. Not a territory Chronicle.*
+the river town, and decide to leave it exactly as it is. Not a territory Annals entry.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Debt That Was Never About Money
 
-*Locked canon, Batch 198, 2026-09-11 (`MCD-769`). The Industrial Myth Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-769`). The Industrial Myth Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

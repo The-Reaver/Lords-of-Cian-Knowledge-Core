@@ -4,7 +4,7 @@
 gear reworded to the Long-Mask-era kit, since wave 23 falls years past the Trinity's age-30
 surrender, `MCD-246`). Iron Bastard Alias Chronicle LXVIII, wave 23. A detailed diagnostic duel
 between Kanja and the Trust diagnostician, decided by restraint rather than raw skill. Not a
-territory Chronicle.*
+territory Annals entry.*
 
 ---
 

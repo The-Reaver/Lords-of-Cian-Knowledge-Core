@@ -1,6 +1,6 @@
 # The Line He Drew Inside His Own Column
 
-*Locked canon, Batch 209, 2026-09-11 (`MCD-909`). Bane Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 209, 2026-09-11 (`MCD-909`). Bane Alias Chronicle XLVI, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

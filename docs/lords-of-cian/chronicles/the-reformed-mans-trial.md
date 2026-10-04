@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1209`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXI, wave 24. Testing the long-term credibility of a parole granted years earlier. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

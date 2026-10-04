@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1259`). Crow King Alias Chronicle LXVII, wave 23,
 opening it. A high-altitude pass strips vocal projection of its power, the first purely
-environmental (not injury-based) limit on the Hymn-Engine's spoken half. Not a territory Chronicle.*
+environmental (not injury-based) limit on the Hymn-Engine's spoken half. Not a territory Annals entry.*
 
 ---
 

@@ -1,7 +1,7 @@
 # The Mine That Wouldn't Give Them Up
 
 *Locked canon, Batch 184, 2026-09-11 (`MCD-537`). The Blue-Collar Titan Alias Chronicle XIII, first
-entry in the fifth wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle.
+entry in the fifth wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Annals entry.
 New standalone material — a detailed combined rescue-and-combat showcase per Abad's craft
 instruction. Narrated in neutral third-person prose. No new named characters.*
 

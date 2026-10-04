@@ -3,7 +3,7 @@
 *Locked canon, Batch 218, 2026-09-11 (`MCD-962`); corrected Batch 321, 2026-10-02 (Mafesto's
 listening awareness and Obsidian Malice's discharge reworded to the Long-Mask-era kit, since wave
 17 falls years past the Trinity's age-30 surrender, `MCD-246`). The Iron Bastard Alias Chronicle LI,
-wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

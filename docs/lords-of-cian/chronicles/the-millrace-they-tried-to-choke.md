@@ -3,7 +3,7 @@
 *Locked canon, Batch 273, 2026-09-11 (`MCD-1416`). Lord of Embers Alias Chronicle XCII, wave 31. A
 detailed, battle-intense Trinity combat showcase in the alias's first flowing-water infrastructure
 register: a Directorate sabotage team targets the millrace powering a valley's trip-hammer forges.
-Not a territory Chronicle. Narrated in neutral third-person prose.*
+Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

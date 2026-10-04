@@ -1,7 +1,7 @@
 # What the Collar Filtered Out
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1236`). The Scourge Alias Chronicle LXXI, wave 24. Age
-145, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+145, V3 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

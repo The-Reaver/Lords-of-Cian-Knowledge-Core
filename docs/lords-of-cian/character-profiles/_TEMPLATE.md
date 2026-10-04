@@ -1,12 +1,12 @@
 # [Character Name] — Profile & Game Plan
 
 **Status:** not started / walkthrough drafted / profile in discussion / profile approved / game plan approved / wave N locked
-**Track:** Character Chronicle (Tier N) / Alias Chronicle / Territory Chronicle
-**Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
+**Track:** character Series (Tier N) / Alias Chronicle / territory Annals
+**Gate cleared:** NO — no prose for this series may be drafted or presented until this file reaches "game plan approved."
 
-This file is the standing gate artifact for this character, per the Character Chronicle Launch
+This file is the standing gate artifact for this character, per the Series Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
-any Chronicle is written or rewritten — not a summary produced after the fact.
+any entry is written or rewritten — not a summary produced after the fact.
 
 ---
 
@@ -25,23 +25,23 @@ statement (the ledger is the source of truth for exact wording).
 ### Abilities / gear
 -
 
-### Already-locked plot beats (book-level or Chronicle-level)
+### Already-locked plot beats (book-level or entry-level)
 -
 
 ### Reserved / unresolved threads
 Things already flagged in the ledger as deliberately open, not yet paid off, or explicitly held
-back for a future book/Chronicle. These constrain what the profile and game plan may touch.
+back for a future book/entry. These constrain what the profile and game plan may touch.
 -
 
 ### Connective-tissue findings
 Every contradiction or gap found while building this walkthrough, among this character's rules or
-between rules and Chronicles. Covers ages and dates, who knows what and since when, gear era,
+between rules and entries. Covers ages and dates, who knows what and since when, gear era,
 places, and names. Quote both sides with IDs. Each one is resolved, or explicitly queued for
 Abad's ruling, before the gate clears.
 -
 
-### Existing Chronicle corpus (if any)
-For a character with Chronicles already locked (backfill case): a list of what's already been
+### Existing entry corpus (if any)
+For a character with entries already locked (backfill case): a list of what's already been
 written and what it already establishes, so the profile is a synthesis of demonstrated
 characterization, not a competing invention.
 -
@@ -69,6 +69,9 @@ this file always reflects current understanding, not a batch-log history of how 
 
 ## 3. Game Plan
 
+- **Series name (`VB-066`):** a non-Kanja protagonist's series name is proposed at this step and
+  confirmed by Abad. From `VB-067`'s lock onward, every new entry's header carries its account type
+  and its teller.
 - **Narrator / voice:** (confirm against Voice Bible rules if one is already locked; propose one
   if not, and get it confirmed before drafting)
 - **Voice spec, gated (Abad, 2026-10-03):** name the governing voice document(s) and quote the
@@ -93,7 +96,7 @@ this file always reflects current understanding, not a batch-log history of how 
   character's life/role actually calls for a split)
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the
   walkthrough plus anything new identified during profile discussion)
-- **Chronicle I candidates** (2-3 pitches, not one pre-committed draft):
+- **First-entry candidates** (2-3 pitches, not one pre-committed draft):
   1.
   2.
   3.
@@ -101,7 +104,7 @@ this file always reflects current understanding, not a batch-log history of how 
 
 ---
 
-## 4. Chronicle Log
+## 4. Entry Log
 
 Updated as each wave locks. One line per entry: numeral, title, rule ID, one-sentence summary,
 batch number.

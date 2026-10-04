@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 126, 2026-09-11 (`MCD-427`). Storm That Walks Alias Chronicle VI, closing the
 second wave. Rebellion era, from Sephtis's own perspective -- already a locked named character. Not
-a territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new
+a territory Annals entry. New standalone material. Narrated in neutral third-person prose. No new
 named characters beyond the already-locked Sephtis.*
 
 ---

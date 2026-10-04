@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 112, 2026-09-10 (`MCD-385`). Crow King Alias Chronicle III, closing the wave.
 Rebellion era, years after the Night of the Crow King (`MCD-236`, age 23), from Commandant Voris's
-own perspective -- already a locked named figure from that battle. Not a territory Chronicle. New
+own perspective -- already a locked named figure from that battle. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Commandant Voris.*
 

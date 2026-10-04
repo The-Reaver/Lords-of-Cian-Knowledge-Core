@@ -6,7 +6,7 @@ that would contradict the Trinity-era Onyx powers the duel is built around, rewo
 Obsidian Malice left aboard, Onyx carried alone). Sovereign Ghost of the Great Sea Alias Chronicle
 XCIV, wave 32, first entry in the wave. A detailed, battle-intense personal duel showcase against a
 Directorate-trained champion sent to kill Kanja specifically, distinct from every prior fleet-scale or
-institutional antagonist. Not a territory Chronicle. Narrated in neutral third-person prose.*
+institutional antagonist. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

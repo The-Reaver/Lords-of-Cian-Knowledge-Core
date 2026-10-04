@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 247, 2026-09-11 (`MCD-1077`). Crow King Alias Chronicle LXI, wave 21, opening
 it. The fourth generation's first solo field use, built around exact recall rather than rhythm,
-song, or percussion. Not a territory Chronicle.*
+song, or percussion. Not a territory Annals entry.*
 
 ---
 

@@ -4,7 +4,7 @@
 second three-Chronicle wave. Rebellion era, within the "Bane" window, told through the Directorate's
 own internal classification process for the alias itself -- the origin of the formal threat file
 `MCD-232` already references ("'Bane' is the Directorate's own classification for a threat that
-destroys the force built to destroy it"). Not a territory Chronicle. New standalone material.
+destroys the force built to destroy it"). Not a territory Annals entry. New standalone material.
 Narrated in a documentary/report register distinct from the other Chronicles. No new named
 characters.*
 

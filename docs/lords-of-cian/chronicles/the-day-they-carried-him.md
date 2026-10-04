@@ -1,6 +1,6 @@
 # The Day They Carried Him
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-596`). Captain Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "the Trinity's resting density" reattributed to Kanja's own resting density (`MCD-293`), since resting density is a trait of Kanja's own biology, not "the Trinity" as a set of gear.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-596`). Captain Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "the Trinity's resting density" reattributed to Kanja's own resting density (`MCD-293`), since resting density is a trait of Kanja's own biology, not "the Trinity" as a set of gear.*
 
 ---
 

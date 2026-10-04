@@ -3,7 +3,7 @@
 *Locked canon, Batch 271, 2026-09-11 (`MCD-1410`). Crow King Alias Chronicle XCII, wave 31. The
 apprentice and the fourth generation travel to the river town and watch the page's practice in
 action -- and quietly correct the one place it was about to fail dangerously. Not a territory
-Chronicle.*
+Annals entry.*
 
 ---
 

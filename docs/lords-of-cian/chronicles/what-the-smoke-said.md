@@ -1,7 +1,7 @@
 # What the Smoke Said
 
 *Locked canon, Batch 284, 2026-09-11 (`MCD-1500`). Lord of Embers Alias Chronicle XCVIII, wave 33.
-Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). Not a territory Chronicle. Narrated in
+Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). Not a territory Annals entry. Narrated in
 neutral third-person prose. Corrected Batch 321, 2026-10-02: removed a mistaken "repurposing the
 Forge-Coat's Smoke System" framing from the continuity notes -- that gear doesn't exist until the
 Long Mask, ages 33-284 -- and recast the chimney code as a plain, un-gear-cited signaling system,

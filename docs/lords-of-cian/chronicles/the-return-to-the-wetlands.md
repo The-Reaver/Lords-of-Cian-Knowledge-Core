@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1277`). Crow King Alias Chronicle LXXXV, wave 29, opening
 it. Decades later, the lineage passes near the original Voskharen Wetlands compound where the
-Hymn-Engine was first invented. Not a territory Chronicle.*
+Hymn-Engine was first invented. Not a territory Annals entry.*
 
 ---
 

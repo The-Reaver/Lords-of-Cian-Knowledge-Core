@@ -3,7 +3,7 @@
 *Locked canon, Batch 261, 2026-09-11 (`MCD-1293`); corrected Batch 321, 2026-10-02 (the Trinity
 gear reworded to the Long-Mask-era kit, since wave 25 falls years past the Trinity's age-30
 surrender, `MCD-246`). Iron Bastard Alias Chronicle LXXIV, wave 25. A detailed confrontation
-showcase as Kanja stops his own former student without killing him. Not a territory Chronicle.*
+showcase as Kanja stops his own former student without killing him. Not a territory Annals entry.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 119, 2026-09-11 (`MCD-404`). Industrial Myth Alias Chronicle IV, first entry
 in the second wave. Rebellion era, unarmed throughout, matching `MCD-244`'s ethos. Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

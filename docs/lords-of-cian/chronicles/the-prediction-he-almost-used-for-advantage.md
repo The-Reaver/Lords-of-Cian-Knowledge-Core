@@ -1,7 +1,7 @@
 # The Prediction He Almost Used for Advantage
 
 *Locked canon, Batch 190, 2026-09-11 (`MCD-556`). The Storm That Walks Alias Chronicle XIV.
-Rebellion era, age 29, the Gale Straits. Not a territory Chronicle. New standalone material.
+Rebellion era, age 29, the Gale Straits. Not a territory Annals entry. New standalone material.
 Narrated in neutral third-person prose. No new named characters beyond the already-locked Sephtis.
 Corrected Batch 321, 2026-10-02: renumbered from the duplicate "Chronicle XVII" (which collided
 with `MCD-562`'s own correctly-numbered wave 6 entry) to the correct "Chronicle XIV."*

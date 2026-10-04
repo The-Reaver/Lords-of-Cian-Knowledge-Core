@@ -1,6 +1,6 @@
 # The Archivist Who Couldn't Make Him Match
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-683`). Bane Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 331, 2026-10-02: "Kessic salt flats" renamed "Brinemoor salt flats" throughout, matching the companion fix to `MCD-681`.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-683`). Bane Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 331, 2026-10-02: "Kessic salt flats" renamed "Brinemoor salt flats" throughout, matching the companion fix to `MCD-681`.*
 
 ---
 

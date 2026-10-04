@@ -1,6 +1,6 @@
 # What the Enemy Learned to Rebuild
 
-*Locked canon, Batch 213, 2026-09-11 (`MCD-922`). The Lord of Embers Alias Chronicle XLVII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: clarified an ambiguous opening line ("A garrison Directorate scouts hit last season") to make clear the garrison is a Directorate installation that Kanja's own scouts burned, which the Directorate then rebuilt using the stolen method -- matching the rest of the scene.*
+*Locked canon, Batch 213, 2026-09-11 (`MCD-922`). The Lord of Embers Alias Chronicle XLVII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: clarified an ambiguous opening line ("A garrison Directorate scouts hit last season") to make clear the garrison is a Directorate installation that Kanja's own scouts burned, which the Directorate then rebuilt using the stolen method -- matching the rest of the scene.*
 
 ---
 

@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1332`). The Lord of Embers Alias Chronicle LXXXVI, wave
 29. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), a settlement's annual pilgrimage
 festival. A detailed, battle-intense Trinity combat showcase protecting a dense civilian crowd. Not
-a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
+a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
 reworded writers'-room phrasing ("than any prior showcase") to plain in-world prose.*
 
 ---

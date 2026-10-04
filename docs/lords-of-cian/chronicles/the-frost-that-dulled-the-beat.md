@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 282, 2026-09-11 (`MCD-1478`). Crow King Alias Chronicle XCIV, wave 32, opening
 it. A blizzard's cold numbs the fourth generation's hands mid-operation, degrading the tap-signal
-channel for the first time. Not a territory Chronicle.*
+channel for the first time. Not a territory Annals entry.*
 
 ---
 

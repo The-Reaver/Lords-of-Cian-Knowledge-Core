@@ -3,7 +3,7 @@
 *Locked canon, Batch 116, 2026-09-10 (`MCD-396`). Captain Alias Chronicle II. Rebellion era, a new
 engagement distinct from any already-locked battle, centered on protecting the crew rather than
 confronting an institutional opponent. A detailed Trinity showcase in a purely defensive, crew-
-protective register. Not a territory Chronicle. New standalone material. Narrated in neutral
+protective register. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

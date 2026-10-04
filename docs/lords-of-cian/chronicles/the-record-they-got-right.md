@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1327`). The Lord of Embers Alias Chronicle LXXXI, wave
 27, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A counterpart
 entry to "The Ballad That Outgrew the Truth" (MCD-881), the alias's first accurate oral record. Not
-a territory Chronicle. Narrated in neutral third-person prose.*
+a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

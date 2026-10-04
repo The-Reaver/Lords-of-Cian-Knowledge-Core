@@ -1,7 +1,7 @@
 # The Last Depot on the Old Charts
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1253`). The Scourge Alias Chronicle LXXXVIII, wave 30,
-first entry. Age 310, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+first entry. Age 310, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

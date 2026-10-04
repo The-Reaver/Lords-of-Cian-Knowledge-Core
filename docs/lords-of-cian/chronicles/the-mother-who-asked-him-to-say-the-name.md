@@ -1,6 +1,6 @@
 # The Mother Who Asked Him to Say the Name
 
-*Locked canon, Batch 222, 2026-09-11 (`MCD-999`). Captain Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-999`). Captain Alias Chronicle LII, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

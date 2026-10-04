@@ -1,7 +1,7 @@
 # The Cost of Pushing Too Far
 
 *Locked canon, Batch 160, 2026-09-11 (`MCD-503`). The Storm That Walks Alias Chronicle X, first
-entry in the fourth wave. Rebellion era, age 29, the Gale Straits. Not a territory Chronicle. New
+entry in the fourth wave. Rebellion era, age 29, the Gale Straits. Not a territory Annals entry. New
 standalone material — the first genuine loss on Kanja's own side in this alias's run. Narrated in
 neutral third-person prose. No new named characters.*
 

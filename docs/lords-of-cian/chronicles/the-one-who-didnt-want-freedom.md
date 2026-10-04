@@ -1,7 +1,7 @@
 # The One Who Didn't Want Freedom
 
 *Locked canon, Batch 156, 2026-09-11 (`MCD-491`). The Scourge Alias Chronicle X, first entry in the
-fourth wave. Long Mask era, age ~110, the Golden Terror period. Not a territory Chronicle. New
+fourth wave. Long Mask era, age ~110, the Golden Terror period. Not a territory Annals entry. New
 standalone material — a moral-complexity entry testing the limits of the alias's rescue pattern.
 Narrated in neutral third-person prose. No new named characters. Corrected Batch 321, 2026-10-02:
 the "Salt Keep" callback (which happens at age 140, thirty years after this entry's age ~110) was

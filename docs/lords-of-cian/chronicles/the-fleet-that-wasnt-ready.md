@@ -3,7 +3,7 @@
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1223`); corrected Batch 321, 2026-10-02 (a writers'-room
 "no clean Trinity showcase available" phrase reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXV, wave 29, first entry in the wave. A genuine vulnerability register — the fleet caught mid-refit
-and under-strength. Not a territory Chronicle. Narrated in neutral third-person prose.*
+and under-strength. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

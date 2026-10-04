@@ -1,7 +1,7 @@
 # The Girl Who Waited for Black Sails
 
 *Locked canon, Batch 121, 2026-09-11 (`MCD-412`). Sovereign Ghost Alias Chronicle VI, closing the
-second wave. Rebellion era. Not a territory Chronicle. New standalone material. Narrated in neutral
+second wave. Rebellion era. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

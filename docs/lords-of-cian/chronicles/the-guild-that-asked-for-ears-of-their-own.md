@@ -4,7 +4,7 @@
 student's pronoun corrected to she/her throughout, the majority usage; two inline rule-ID citations
 removed from narrative prose). Iron Bastard Alias Chronicle XCIX, wave 33, closing the wave. The
 miners' guild from `MCD-1491` formally requests a standing doctrine-trained inspectorate, and the
-second student takes the post. Not a territory Chronicle.*
+second student takes the post. Not a territory Annals entry.*
 
 ---
 

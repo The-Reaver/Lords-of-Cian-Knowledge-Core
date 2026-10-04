@@ -1,7 +1,7 @@
 # The Merchant Fleet He Chose to Save
 
 *Locked canon, Batch 137, 2026-09-11 (`MCD-459`). The Storm That Walks Alias Chronicle VIII.
-Rebellion era, age 29, the Gale Straits. Not a territory Chronicle. New standalone material.
+Rebellion era, age 29, the Gale Straits. Not a territory Annals entry. New standalone material.
 Narrated in neutral third-person prose. No new named characters.*
 
 ---

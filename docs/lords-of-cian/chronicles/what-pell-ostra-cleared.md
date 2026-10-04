@@ -1,7 +1,7 @@
 # What Pell Ostra Cleared
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-776`); corrected Batch 321, 2026-10-02 (citations for
-Pell Ostra fixed from `MCD-234`/`CC-131` to `MCD-233`/`CC-132`/`CC-133`). Sovereign Ghost of the Great Sea Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+Pell Ostra fixed from `MCD-234`/`CC-131` to `MCD-233`/`CC-132`/`CC-133`). Sovereign Ghost of the Great Sea Alias Chronicle XXI, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

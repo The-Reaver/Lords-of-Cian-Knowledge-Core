@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 241, 2026-09-11 (`MCD-1059`). Bane Alias Chronicle LXI, wave 21. The first
 entry to test Bane's own biological/mental limits under sustained exhaustion rather than a tactical,
-intelligence, or gear failure. Not a territory Chronicle.*
+intelligence, or gear failure. Not a territory Annals entry.*
 
 ---
 

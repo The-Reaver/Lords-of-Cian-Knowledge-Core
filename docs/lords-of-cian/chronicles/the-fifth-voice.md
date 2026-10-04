@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 282, 2026-09-11 (`MCD-1479`). Crow King Alias Chronicle XCV, wave 32. The
 long-deferred fifth-generation question is finally answered -- teaching begins. Not a territory
-Chronicle.*
+Annals entry.*
 
 ---
 

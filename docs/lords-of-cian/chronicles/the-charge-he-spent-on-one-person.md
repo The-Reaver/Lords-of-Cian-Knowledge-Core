@@ -1,7 +1,7 @@
 # The Charge He Spent on One Person
 
 *Locked canon, Batch 127, 2026-09-11 (`MCD-429`). Captain Alias Chronicle V. Rebellion era, a
-detailed Trinity showcase built around a single crew member's rescue. Not a territory Chronicle.
+detailed Trinity showcase built around a single crew member's rescue. Not a territory Annals entry.
 New standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Pell Ostra. Corrected Batch 321, 2026-10-02: removed a specific "40 seconds" recharge
 framing for Obsidian Malice that conflicted with its locked 3-5 second recharge cycle (`ARS-030`).*

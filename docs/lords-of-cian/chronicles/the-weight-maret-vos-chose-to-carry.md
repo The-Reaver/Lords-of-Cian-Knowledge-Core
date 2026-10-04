@@ -5,7 +5,7 @@ calculation simile belonging to Dol Maren, `CC-120`/`121`, had bled onto Maret V
 Cestari, `MCD-234` -- and was swapped for a Maw-appropriate one). Bane Alias Chronicle LXIII,
 wave 21. Closes wave 21. A quieter, reflective closer giving Maret Vos his own dedicated
 perspective within Bane's own run for the first time, payoff to wave 18's "What He Couldn't Be in
-Two Places For." Not a territory Chronicle.*
+Two Places For." Not a territory Annals entry.*
 
 ---
 

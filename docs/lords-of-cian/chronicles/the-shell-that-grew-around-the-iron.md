@@ -4,7 +4,7 @@
 gear reworded throughout to the Long-Mask-era kit, since wave 22 falls years past the Trinity's
 age-30 surrender, `MCD-246`). Iron Bastard Alias Chronicle LXV, wave 22. A detailed combat showcase
 against a bio-armored Crawler variant built to exploit the doctrine's new living-structure
-distinction. Not a territory Chronicle.*
+distinction. Not a territory Annals entry.*
 
 ---
 

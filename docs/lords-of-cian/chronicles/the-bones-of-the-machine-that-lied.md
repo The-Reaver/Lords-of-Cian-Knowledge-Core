@@ -5,7 +5,7 @@ the four-alloy variant was "taken off a dead man" removed, since `MCD-387` estab
 Trust engineering corps' own deliberate design response rather than salvaged work). Iron Bastard
 Alias Chronicle XCI, wave 31, first entry. Wreckage from a Crawler of the depot's unresolved design
 is recovered and studied, narrowing the mystery's mechanism without naming its author. Not a
-territory Chronicle.*
+territory Annals entry.*
 
 ---
 

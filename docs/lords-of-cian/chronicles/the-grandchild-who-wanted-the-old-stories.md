@@ -1,6 +1,6 @@
 # The Grandchild Who Wanted the Old Stories
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-597`). Captain Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Garren Hask's stated age and the elapsed span since Kanja first named him reduced ("well past his hundredth year" to "well past eighty"; "eighty years" to "thirty years") to fit inside the window established by his locked death at wave 31 (`MCD-1422`, roughly Kanja age 50-55).*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-597`). Captain Alias Chronicle XXII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Garren Hask's stated age and the elapsed span since Kanja first named him reduced ("well past his hundredth year" to "well past eighty"; "eighty years" to "thirty years") to fit inside the window established by his locked death at wave 31 (`MCD-1422`, roughly Kanja age 50-55).*
 
 ---
 

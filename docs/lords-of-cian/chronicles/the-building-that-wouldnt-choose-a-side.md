@@ -1,7 +1,7 @@
 # The Building That Wouldn't Choose a Side
 
-*Locked canon, Batch 143, 2026-09-11 (`MCD-468`). Jibaro Chronicle II. Homage-era Muungano,
-Jibaro/Omoba. Territory Chronicle -- Omoba as protagonist, Kanja an unnamed background guest with no
+*Locked canon, Batch 143, 2026-09-11 (`MCD-468`). Jibaro Annals II. Homage-era Muungano,
+Jibaro/Omoba. Territory Annals entry -- Omoba as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 
 *Corrected Batch 340, 2026-10-02: reconciled the ability's stated condition with PH2-042's actual
@@ -56,4 +56,4 @@ the ability's protection specifically requires an unambiguous public shame on th
 institution's side, and withholds itself from institutions with a genuinely mixed legacy that lets
 them claim they're reclaiming the space to remedy their own failures, forcing conventional
 negotiation rather than granting a shortcut. No new named characters. Second Jibaro territory
-Chronicle.*
+Annals entry.*

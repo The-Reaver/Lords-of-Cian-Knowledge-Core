@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 155, 2026-09-11 (`MCD-490`). The Sovereign Ghost of the Great Sea Alias
 Chronicle XII, closing the fourth wave. Rebellion era, age 21, Ghost Harbor. Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

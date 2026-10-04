@@ -1,7 +1,7 @@
 # The Man Who Raised the Slaver's Son
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1470`). The Scourge Alias Chronicle XCV, wave 32. Age 120,
-V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+V3 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

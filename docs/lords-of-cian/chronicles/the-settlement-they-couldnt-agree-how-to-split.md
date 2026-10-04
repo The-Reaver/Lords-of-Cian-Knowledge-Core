@@ -1,6 +1,6 @@
 # The Settlement They Couldn't Agree How to Split
 
-*Locked canon, Batch 243, 2026-09-11 (`MCD-1067`). Industrial Myth Alias Chronicle LXIII, wave 21, closing the wave. The method's first internal solidarity dispute, with no administrator or villain on the other side of it: a won settlement's own recipients can't agree how to divide it, and the ledger's data becomes a shared reference for self-governance rather than a verdict the crew hands down. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 243, 2026-09-11 (`MCD-1067`). Industrial Myth Alias Chronicle LXIII, wave 21, closing the wave. The method's first internal solidarity dispute, with no administrator or villain on the other side of it: a won settlement's own recipients can't agree how to divide it, and the ledger's data becomes a shared reference for self-governance rather than a verdict the crew hands down. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

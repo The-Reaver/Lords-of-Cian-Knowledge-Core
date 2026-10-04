@@ -3,7 +3,7 @@
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1202`); corrected Batch 321, 2026-10-02 ("a decade" trimmed
 to "years" to fit this alias's nine-year Rebellion-era window). Sovereign Ghost of the Great Sea Alias Chronicle
 LXIV, wave 22, first entry in the wave. An internal medical crisis aboard the fleet's own ship, no
-enemy or rescue involved. Not a territory Chronicle. Narrated in neutral third-person prose.*
+enemy or rescue involved. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

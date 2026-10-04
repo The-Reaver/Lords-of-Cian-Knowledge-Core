@@ -1,7 +1,7 @@
 # What the Smoke Was Hiding
 
 *Locked canon, Batch 233, 2026-09-11 (`MCD-1035`). The Blue-Collar Titan Alias Chronicle LVIII, wave
-20. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321,
+20. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321,
 2026-10-02: "two years earlier" corrected to "weeks earlier" -- the Sewer War of Killane campaign
 (extending `MCD-234`, reconciled at `MCD-1877`) runs within ages 20-21, not years prior.*
 

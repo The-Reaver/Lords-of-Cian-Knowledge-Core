@@ -1,6 +1,6 @@
 # The Boy Who Wouldn't Stay Down
 
-*Locked canon, Batch 216, 2026-09-11 (`MCD-948`). The Trench Monarch Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 216, 2026-09-11 (`MCD-948`). The Trench Monarch Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

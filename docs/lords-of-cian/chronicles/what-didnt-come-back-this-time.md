@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 159, 2026-09-11 (`MCD-500`). The Lord of Embers Alias Chronicle X, first
 entry in the fourth wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory
-Chronicle. New standalone material — the first genuine limit of "metabolizes punishment" in this
+Annals entry. New standalone material — the first genuine limit of "metabolizes punishment" in this
 alias's run. Narrated in neutral third-person prose. No new named characters. Renumbered Batch
 321, 2026-10-02: was mislabeled Chronicle XIII, duplicating no other entry but leaving a gap at
 X-XII; corrected to X.*

@@ -1,7 +1,7 @@
 # The Officer Who Learned to Trust the Sky
 
 *Locked canon, Batch 137, 2026-09-11 (`MCD-460`). The Storm That Walks Alias Chronicle IX, closing
-the third wave. Rebellion era, age 29, the Gale Straits. Not a territory Chronicle. New standalone
+the third wave. Rebellion era, age 29, the Gale Straits. Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters beyond the already-locked
 Sephtis.*
 

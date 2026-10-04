@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 247, 2026-09-11 (`MCD-1079`). Crow King Alias Chronicle LXIII, wave 21, closing
 it. A quiet reflective closer from Efa Gol's perspective on the craft's fourth-generation turn away
-from performance. Not a territory Chronicle.*
+from performance. Not a territory Annals entry.*
 
 ---
 

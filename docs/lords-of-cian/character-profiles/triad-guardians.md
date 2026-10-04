@@ -1,12 +1,12 @@
 # The Triad Guardians (Miremaw/Drown-Warden Varkul, Sorya, Varruk) — Profile & Game Plan
 
 **Status:** walkthrough drafted
-**Track:** Character Chronicle (priority launch per Abad, 2026-10-03; shared thread vs three separate series undecided)
-**Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
+**Track:** character Series (priority launch per Abad, 2026-10-03; shared thread vs three separate series undecided)
+**Gate cleared:** NO — no prose for this series may be drafted or presented until this file reaches "game plan approved."
 
-This file is the standing gate artifact for these characters, per the Character Chronicle Launch
+This file is the standing gate artifact for these characters, per the Series Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who they are before any
-Chronicle is written or rewritten — not a summary produced after the fact.
+entry is written or rewritten — not a summary produced after the fact.
 
 Abad's standing direction for this launch (2026-10-03): "Pyro and his Triad need to be well written.
 every connective tissue must be well thought out and well placed so it's only logical." The
@@ -21,7 +21,7 @@ Every locked rule touching the Triad, pulled from `canon-ledger.json` and organi
 rather than by ID order. Each entry: `RULE-ID` — one-line paraphrase, not the full statement (the
 ledger is the source of truth for exact wording). Excluded on purpose: Lauris's unrelated
 "Triad-Lock"/"Forged Triad" discipline (`MCD-033`/`170`/`171`/`176`/`212`/`267`, `ARS-360`/`374`,
-and the Lauris Chronicle rules citing it), and Onyx of Oblivion's own "Cadence Ruin" blade power
+and the Lauris Record rules citing it), and Onyx of Oblivion's own "Cadence Ruin" blade power
 (`ARS-020`, `CULT-197`, and the Alias/Kanja Chronicle rules citing it), which has nothing to do with
 Varruk.
 
@@ -211,7 +211,7 @@ Varruk.
   harvested from the three remaining bonded animals"), Damu's Mercy Draught (`CC-100`), and the
   Verity Vein (`ARS-431`).
 
-### Already-locked plot beats (book-level or Chronicle-level)
+### Already-locked plot beats (book-level or entry-level)
 
 **Varkul**
 - `CC-123` — Present in the Unchained Kingdom era (Book 2 onward) at Nelle Adessi's clinic. His only
@@ -272,7 +272,7 @@ Varruk.
 - `MCD-223` — Pyro's Book 5 peak, sealed behind a reality-scar.
 - `MCD-040` — The clade's extinction when the three die; when or whether any of them dies is unlocked.
 
-### Existing Chronicle corpus (if any)
+### Existing entry corpus (if any)
 
 **Varkul:** 0 appearances. **Sorya:** 0 appearances. **Varruk:** 0 appearances. **The Triad as a
 unit:** 0 appearances.
@@ -282,8 +282,8 @@ Varruk, "Triad Guardian," "Dhar-Kael," Pyro, and Ignis returns zero hits; "Triad
 Lauris's unrelated Triad-Lock discipline. The only near-miss on record: `MCD-1127` (Trench Monarch
 Alias Chronicle LXX, `what-the-blade-remembered-before-him.md`) once carried an in-scene comparison to
 Varruk's Angle-Whisper, removed in the Trench Monarch fix pass as something age-18 Kanja had no basis
-to reference. Neither the Triad nor Pyro has ever been written on the page. Outside the Chronicles,
-the only planning-doc mention is `docs/lords-of-cian/character-chronicle-gameplan.md` (Tier 2:
+to reference. Neither the Triad nor Pyro has ever been written on the page. Outside the entries,
+the only planning-doc mention is `docs/lords-of-cian/series-gameplan.md` (Tier 2:
 "the Triad (Varkul, Sorya, Varruk — could run as one shared thread or three separate ones,
 undecided)").
 
@@ -346,7 +346,7 @@ Listed for decision, not resolved. Each quotes both sides with rule IDs.
 
 7. **Ability names after the renames.** Clean in every rule statement: "Cadence Break" (`CC-098`,
    `SBD-021`, `ARS-413`, `ARS-395`) and "Cadence Saturation" (`CC-099`). Zero "Riptide Break"/
-   "Riptide Saturation" in any rule statement or Chronicle; the name survives only in the ledger's
+   "Riptide Saturation" in any rule statement or entry; the name survives only in the ledger's
    batch notes (batches 341 and 344), `CLAUDE.md` (line ~3882), and `merge_batch343_cc_wgd_char_fixes.py`
    (lines 260-308). "Cadence Ruin" for Varruk survives only inside "renamed from" notes; every other
    "Cadence Ruin" in the ledger and in 85 Chronicle files is Onyx's own power. Two small residues:
@@ -450,7 +450,7 @@ Listed for decision, not resolved. Each quotes both sides with rule IDs.
 - **Voice spec, gated (Abad, 2026-10-03):**
 - **Pacing convention:**
 - **Reserved threads for this series:**
-- **Chronicle I candidates:**
+- **First-entry candidates:**
   1.
   2.
   3.
@@ -458,6 +458,6 @@ Listed for decision, not resolved. Each quotes both sides with rule IDs.
 
 ---
 
-## 4. Chronicle Log
+## 4. Entry Log
 
 -

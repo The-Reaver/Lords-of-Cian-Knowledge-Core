@@ -1,6 +1,6 @@
 # What One of the Twenty Carried Away
 
-*Locked canon, Batch 221, 2026-09-11 (`MCD-990`). The Crow King Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-990`). The Crow King Alias Chronicle LII, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -5,7 +5,7 @@ Malice's "two years of dormant charge" reworded to a plain full discharge, match
 to every other Bane entry that carried the same anachronistic framing). Bane Alias Chronicle LXII,
 wave 21. A detailed full-Trinity combat showcase built around continuous motion rather than a held
 position -- a running defense of a refugee convoy across twelve miles of changing terrain, never
-once stopping to fight from fixed ground. Not a territory Chronicle.*
+once stopping to fight from fixed ground. Not a territory Annals entry.*
 
 ---
 

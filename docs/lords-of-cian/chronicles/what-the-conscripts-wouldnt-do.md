@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 106, 2026-09-10 (`MCD-367`). Bane Alias Chronicle III. Rebellion era,
 within the "Bane" window, a skirmish distinct from the Black Trench and from "The Trap Built From
-His Own Shape" — not a territory Chronicle. New standalone material: not part of the already-locked
+His Own Shape" — not a territory Annals entry. New standalone material: not part of the already-locked
 Twenty-Two Victories list. Narrated in neutral third-person prose, no Onyx coda, consistent with the
 pre-`VB-026` early-Rebellion state. No new named characters — the conscript, the sergeant, and the
 line are all unnamed.*

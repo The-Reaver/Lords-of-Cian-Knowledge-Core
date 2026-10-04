@@ -8,12 +8,12 @@ This milestone does not mean canon work stops — see §6 and the note under Ste
 
 ## What "completion" means here
 
-The canon project is open-ended by design — more homage-era cities, more territory Chronicles,
+The canon project is open-ended by design — more homage-era cities, more territory Annals,
 Arturo's prequels, more Kanja Chronicles, all still to come, and none of that is meant to ever
 fully stop. "Completion" doesn't mean finishing the story. It means a specific, bounded milestone:
 **Pre-Book-1 Foundation Complete** — the handful of already-identified, already-scoped loose threads
 below, closed out. Once those five items land, the ongoing creative work (new cities, new
-Chronicles, prequels) continues exactly as before, in parallel, but no longer gates anything else —
+Annals and Chronicles, prequels) continues exactly as before, in parallel, but no longer gates anything else —
 including starting work on the archive app, which per Abad's own standing instruction was never
 blocked on canon work to begin with.
 
@@ -26,8 +26,8 @@ blocked on canon work to begin with.
 | **Canon ledger** | `canon-ledger.json` — 929 rules, 75 batches, 0 duplicate IDs, 0 rules stuck in draft |
 | **Foundational lore extraction** | Done (Batches 1–49) |
 | **Phase 1b (7 triaged Lore Vault documents)** | Done (Batches 50–57) |
-| **Phase 2 (homage era: NYC, LA, Chicago, Detroit)** | Done — 4 cities built (Batches 58–65); ongoing expansion (5th+ cities, more Chronicles) is open-ended by design, not part of this checklist |
-| **Territory Chronicles** (Xaragua, Umoja, Yara) | 4 written and locked, open-ended; see §5 |
+| **Phase 2 (homage era: NYC, LA, Chicago, Detroit)** | Done — 4 cities built (Batches 58–65); ongoing expansion (5th+ cities, more Annals) is open-ended by design, not part of this checklist |
+| **Territory Annals** (Xaragua, Umoja, Yara) | 4 written and locked, open-ended; see §5 |
 | **`VB-026`** (progressive Onyx-narrator handoff for Book 1 / Chronicles I–VIII) | Locked (Batch 67), not yet applied to any text |
 | **Foundation item 1 — 3 genuinely-open decisions** | **Done (Batch 69)** |
 | **Foundation item 2 — World Atlas scope/redo** | **Done (Batch 68)** — `GEO-003`/`GEO-005` corrected against the live Atlas source |
@@ -60,7 +60,7 @@ mainline integration (`PH2-048`), world tech level (`PH2-049`), and the naming c
 A fifth character layer — Arturo "de la Muerte" Salvatierra Duho and NYC's Five Families
 (`PH2-060`–`062`) — was added in Batch 66 as Kanja's standing point of contact, distinct from the
 territory leaders. None of this is "finished" in the sense of never growing again — a 5th+ city,
-Naya, Arturo's prequels, and more territory Chronicles are all open threads — but the structure and
+Naya, Arturo's prequels, and more territory Annals are all open threads — but the structure and
 rigor are established and don't need re-litigating.
 
 None of the above needs any action. It's listed here only so the checklist in §3 reads as genuinely
@@ -197,7 +197,7 @@ foundation done:
 ### Step 5: Formally declare Pre-Book-1 Foundation Complete — DONE (Batch 75)
 
 Logged as a milestone marker in `batches_completed` (not an in-fiction fact, no new rules), with an
-explicit statement that ongoing Phase 2 expansion — further homage cities, more territory Chronicles,
+explicit statement that ongoing Phase 2 expansion — further homage cities, more territory Annals,
 Arturo's prequels, the Kanja-becomes-family arc, more Kanja Chronicles generally — continues
 indefinitely as parallel creative work, not something this milestone closes off. Abad's approval:
 "lock it."
@@ -224,13 +224,13 @@ level (`PH2-049`), the naming convention (`PH2-034`).
 
 ---
 
-## 5. The territory Chronicles — reference (open-ended, not part of the checklist)
+## 5. The territory Annals — reference (open-ended, not part of the checklist)
 
 Four written and locked so far. Each is close-third on its own territory protagonist, with Kanja
 appearing only as an unnamed guest — the structure corrected in Batch 64 after the first three
 attempts (withdrawn `MCD-331`–`333`) had it backwards:
 
-| Chronicle | Batch | Rule | Protagonist | What happens |
+| Annals entry | Batch | Rule | Protagonist | What happens |
 |---|---|---|---|---|
 | Xaragua I, "The Line That Did Not Break" | 64 | `MCD-334` | Ogoun Xarey | Holds a coastal redoubt; unnamed Kanja fights in the thinned line, buying the minutes that save the evacuation |
 | Umoja I, "The Man Who Mapped the Door" | 64 | `MCD-335` | Kofi | Survives an assassination raid mapped by his own informant; unnamed Kanja is the factor that tips it to a clean survival |
@@ -244,10 +244,10 @@ design** — not gated by, or gating, the Foundation-Complete checklist above.
 
 ## 6. Flagged future directions — not yet drafted, no action needed now
 
-- **Naya**, Arturo's protegee — deliberately left for a future Xaragua Chronicle.
+- **Naya**, Arturo's protegee — deliberately left for a future Xaragua Annals entry.
 - **Kanja eventually becomes one of Arturo's loved ones** capable of unguarded banter — a long-arc
-  promise across future Chronicles, not dramatized yet.
-- **Arturo's prequel Chronicles** — set before Xaragua Chronicle II, intended to show his
+  promise across future Annals entries, not dramatized yet.
+- **Arturo's prequel Annals entries** — set before Xaragua Annals II, intended to show his
   vulnerabilities, breakdowns, and the genuinely tragic journey behind how he became unflappable.
 - **A 5th+ Phase 2 homage city** — no candidate chosen yet beyond Detroit.
 
@@ -296,5 +296,5 @@ Everything below is Abad's call — this is a suggested order, not a decision:
 6. **The archive-app device-bridge session** can happen any time, independent of the above — it just
    needs a Cowork/local session with the bridge live, which this session doesn't have.
 
-Keep writing territory Chronicles and expanding Phase 2 (§5, §6) whenever the mood strikes throughout
+Keep writing territory Annals and expanding Phase 2 (§5, §6) whenever the mood strikes throughout
 all of the above — that thread was never blocked by any of this and isn't part of the checklist.

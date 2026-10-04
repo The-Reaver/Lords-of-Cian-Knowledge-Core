@@ -1,7 +1,7 @@
 # The Manifest Written in Chains
 
 *Locked canon, Batch 155, 2026-09-11 (`MCD-489`). The Sovereign Ghost of the Great Sea Alias
-Chronicle XI. Rebellion era, age 21, Ghost Harbor. Not a territory Chronicle. New standalone
+Chronicle XI. Rebellion era, age 21, Ghost Harbor. Not a territory Annals entry. New standalone
 material — a detailed night-boarding combat showcase per Abad's craft instruction. Narrated in
 neutral third-person prose. No new named characters.*
 

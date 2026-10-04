@@ -1,6 +1,6 @@
 # Pell Ostra's Last Watch of the Campaign
 
-*Locked canon, Batch 198, 2026-09-11 (`MCD-770`). The Industrial Myth Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-770`). The Industrial Myth Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,7 +1,7 @@
 # The Sibling She Waited Thirty Years For
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1234`). The Scourge Alias Chronicle LXIX, wave 23,
-closing the wave. Age 150, V3 gear. Not a territory Chronicle. Narrated in neutral third-person
+closing the wave. Age 150, V3 gear. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

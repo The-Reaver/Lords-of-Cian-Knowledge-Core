@@ -1,6 +1,6 @@
 # The Officers Who Didn't Need Him There
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-608`). Captain Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-608`). Captain Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

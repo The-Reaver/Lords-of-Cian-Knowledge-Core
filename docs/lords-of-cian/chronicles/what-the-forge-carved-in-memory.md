@@ -1,6 +1,6 @@
 # What the Forge Carved in Memory
 
-*Locked canon, Batch 219, 2026-09-11 (`MCD-969`). The Lord of Embers Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
+*Locked canon, Batch 219, 2026-09-11 (`MCD-969`). The Lord of Embers Alias Chronicle XLIX, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
 the deceased apprentice's name, originally "Toma," collided with the already-locked Tomas Grieve
 (MCD-093/CC-124); renamed to Ilo (collision-checked clean against the live ledger).*
 

@@ -1,6 +1,6 @@
 # The Compact of Silence
 
-*Locked canon, Batch 214, 2026-09-11 (`MCD-929`). The Industrial Myth Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 214, 2026-09-11 (`MCD-929`). The Industrial Myth Alias Chronicle LIV, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

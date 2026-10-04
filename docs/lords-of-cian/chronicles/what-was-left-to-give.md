@@ -1,7 +1,7 @@
 # What Was Left to Give
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1242`). The Scourge Alias Chronicle LXXVII, wave 26. Age
-130, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+130, V3 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

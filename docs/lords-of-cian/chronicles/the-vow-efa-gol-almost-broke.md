@@ -3,7 +3,7 @@
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1207`); corrected Batch 321, 2026-10-02 ("a decade" trimmed
 to "years" to fit this alias's nine-year Rebellion-era window). Sovereign Ghost of the Great Sea Alias Chronicle
 LXIX, wave 23, closing the wave. A character-depth entry testing Efa Gol's own restraint against her
-Black Trench trauma. Not a territory Chronicle. Narrated in neutral third-person prose.*
+Black Trench trauma. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

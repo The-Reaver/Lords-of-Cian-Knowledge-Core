@@ -1,6 +1,6 @@
 # The Rumor He Never Corrected
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-681`). Bane Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 331, 2026-10-02: "Kessic salt flats" renamed "Brinemoor salt flats" throughout -- the rumor's distant, never-visited location collided with the Kessic region Bane/Kanja is independently, directly established elsewhere to have flooded, besieged, and raided (`MCD-1062`, `MCD-1142`, `MCD-432`, `MCD-700`/`1426`, `MCD-940`).*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-681`). Bane Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 331, 2026-10-02: "Kessic salt flats" renamed "Brinemoor salt flats" throughout -- the rumor's distant, never-visited location collided with the Kessic region Bane/Kanja is independently, directly established elsewhere to have flooded, besieged, and raided (`MCD-1062`, `MCD-1142`, `MCD-432`, `MCD-700`/`1426`, `MCD-940`).*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Copy That Broke What It Borrowed
 
-*Locked canon, Batch 216, 2026-09-11 (`MCD-947`). The Trench Monarch Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 216, 2026-09-11 (`MCD-947`). The Trench Monarch Alias Chronicle LIV, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

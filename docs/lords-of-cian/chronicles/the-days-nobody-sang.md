@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1275`). Crow King Alias Chronicle LXXXIII, wave 28. An
 extended operational lull during relative peace raises the question of whether restraint itself was
-always the craft's purest form. Not a territory Chronicle. Corrected Batch 321, 2026-10-02: removed
+always the craft's purest form. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: removed
 language treating the Rebellion as a still-live front this far into the alias's run.*
 
 ---

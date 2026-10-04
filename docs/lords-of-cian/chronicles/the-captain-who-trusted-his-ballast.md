@@ -1,6 +1,6 @@
 # The Captain Who Trusted His Ballast
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-569`). The Storm That Walks Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-569`). The Storm That Walks Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

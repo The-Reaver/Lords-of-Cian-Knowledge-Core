@@ -4,7 +4,7 @@
 Bible's `VB-060` characterization label had leaked into the narrative as a quoted in-world phrase;
 reworded to plain prose, matching how every other entry voices the trait). Bane Alias Chronicle
 LIX, wave 20. Extends `VB-060`'s "Already-Finished Negotiation" presence trait in reverse -- an
-opponent whose sincerity, not deception, is what unsettles Bane. Not a territory Chronicle.*
+opponent whose sincerity, not deception, is what unsettles Bane. Not a territory Annals entry.*
 
 ---
 

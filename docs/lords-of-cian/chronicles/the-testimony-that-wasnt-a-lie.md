@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1268`). Crow King Alias Chronicle LXXVI, wave 26, opening
 it. A captured soldier is brought before a liberated town's council, and craft principles extract
-truthful testimony rather than deception. Not a territory Chronicle.*
+truthful testimony rather than deception. Not a territory Annals entry.*
 
 ---
 

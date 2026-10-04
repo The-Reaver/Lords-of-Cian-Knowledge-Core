@@ -1,7 +1,7 @@
 # The Second Set of Eyes on the Sky
 
 *Locked canon, Batch 160, 2026-09-11 (`MCD-505`). The Storm That Walks Alias Chronicle XII, closing
-the fourth wave. Rebellion era, age 29, the Gale Straits. Not a territory Chronicle. New standalone
+the fourth wave. Rebellion era, age 29, the Gale Straits. Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters beyond the already-locked
 Sephtis. Corrected Batch 321, 2026-10-02: removes a writers'-room "the fourth wave" reference from
 the narrative prose.*

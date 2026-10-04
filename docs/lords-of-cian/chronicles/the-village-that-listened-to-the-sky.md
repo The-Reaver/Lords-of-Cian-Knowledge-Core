@@ -1,6 +1,6 @@
 # The Village That Listened to the Sky
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-570`). The Storm That Walks Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-570`). The Storm That Walks Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

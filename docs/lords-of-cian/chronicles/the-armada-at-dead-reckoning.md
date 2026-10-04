@@ -1,7 +1,7 @@
 # The Armada at Dead Reckoning
 
 *Locked canon, Batch 186, 2026-09-11 (`MCD-543`). The Scourge Alias Chronicle XIII, first entry in
-the fifth wave. Long Mask era, age ~150, the Golden Terror period. Not a territory Chronicle. New
+the fifth wave. Long Mask era, age ~150, the Golden Terror period. Not a territory Annals entry. New
 standalone material — a detailed, large-scale fleet battle per Abad's craft instruction. Onyx of
 Oblivion remains sealed at L9 throughout the Long Mask, and Mafesto and Obsidian Malice remain
 surrendered per `MCD-246`; this showcase uses the Long Mask's built gear system only (`ARS-344`

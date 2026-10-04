@@ -5,7 +5,7 @@ Tether and Undertow are Book-2-onward Moonvault gifts that don't exist in this R
 swapped for ordinary hawser-and-boat work). Sovereign Ghost of the Great Sea Alias Chronicle
 XCIX, wave 33, closing the wave. Redirecting a migrating Titan-scale sea creature by hand rather than
 fighting one. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

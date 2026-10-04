@@ -1,6 +1,6 @@
 # The Choice Between the Roof and the Man
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-659`). The Blue-Collar Titan Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-659`). The Blue-Collar Titan Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

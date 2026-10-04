@@ -1,6 +1,6 @@
 # The Two Readings That Disagreed
 
-*Locked canon, Batch 220, 2026-09-11 (`MCD-979`). The Storm That Walks Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-979`). The Storm That Walks Alias Chronicle L, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

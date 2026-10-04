@@ -1,6 +1,6 @@
 # The Guild That Grew From a Siege
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-662`). The Blue-Collar Titan Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "joined six weeks earlier" and "in six weeks earlier" both reworded to remove a numeric conflict with the entry's own "fifth week of the siege" framing.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-662`). The Blue-Collar Titan Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "joined six weeks earlier" and "in six weeks earlier" both reworded to remove a numeric conflict with the entry's own "fifth week of the siege" framing.*
 
 ---
 

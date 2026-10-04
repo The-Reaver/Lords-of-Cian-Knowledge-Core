@@ -4,7 +4,7 @@
 between the Dredge-Line Ambush and the Battle of the Black Trench (ages 18-19) -- Mafesto is bonded
 but still dormant and Obsidian Malice is not yet deployed at this point in the timeline (`MCD-232`),
 so this Chronicle is deliberately a solo-blade showcase of Onyx of Oblivion alone, not the full
-Trinity. Not a territory Chronicle. New standalone material. Narrated in neutral third-person
+Trinity. Not a territory Annals entry. New standalone material. Narrated in neutral third-person
 prose. No new named characters -- the opposing officer is unnamed.*
 
 ---

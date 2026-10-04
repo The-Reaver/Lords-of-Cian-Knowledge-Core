@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1282`). Crow King Alias Chronicle XC, wave 30, closing
 it. A valedictory closer drawing together the scholar's record, the commandant's report, and the
-still-unresolved fifth generation. Not a territory Chronicle.*
+still-unresolved fifth generation. Not a territory Annals entry.*
 
 ---
 

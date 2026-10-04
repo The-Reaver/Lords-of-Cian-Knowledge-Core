@@ -1,7 +1,7 @@
 # The Hand That Stayed Open
 
 *Locked canon, Batch 108, 2026-09-10 (`MCD-372`). Industrial Myth Alias Chronicle II. Rebellion
-era, unarmed throughout -- matching `MCD-244`'s stated ethos. Not a territory Chronicle. New
+era, unarmed throughout -- matching `MCD-244`'s stated ethos. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

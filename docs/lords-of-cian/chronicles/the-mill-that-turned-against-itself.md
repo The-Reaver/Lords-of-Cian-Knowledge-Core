@@ -4,7 +4,7 @@
 gear reworded throughout to the Long-Mask-era kit, since wave 31 falls years past the Trinity's
 age-30 surrender, `MCD-246`). Iron Bastard Alias Chronicle XCII, wave 31. A detailed combat showcase
 isolating a rigged war-engine hidden inside a running tide-mill's own drivetrain, camouflaged by the
-mill's legitimate mechanical noise. Not a territory Chronicle.*
+mill's legitimate mechanical noise. Not a territory Annals entry.*
 
 ---
 

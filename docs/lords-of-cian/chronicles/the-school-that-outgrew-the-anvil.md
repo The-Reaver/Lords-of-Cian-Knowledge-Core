@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1321`). The Lord of Embers Alias Chronicle LXXV, wave
 25, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). An
 institutional-legacy entry founding a formal smithing academy, distinct from every prior individual
-apprenticeship entry. Not a territory Chronicle. Narrated in neutral third-person prose.*
+apprenticeship entry. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

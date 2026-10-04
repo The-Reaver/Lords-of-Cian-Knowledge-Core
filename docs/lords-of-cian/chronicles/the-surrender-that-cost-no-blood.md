@@ -1,7 +1,7 @@
 # The Surrender That Cost No Blood
 
 *Locked canon, Batch 133, 2026-09-11 (`MCD-447`). The Scourge Alias Chronicle VIII. Long Mask era,
-age ~165, the Golden Terror period. Not a territory Chronicle. New standalone material. Narrated in
+age ~165, the Golden Terror period. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

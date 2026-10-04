@@ -1,7 +1,7 @@
 # The Crown He Dug With His Own Hands
 
 *Locked canon, Batch 129, 2026-09-11 (`MCD-434`). Trench Monarch Alias Chronicle VII, first entry
-in the third wave. Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. New
+in the third wave. Rebellion era, age 18, before the Black Trench. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

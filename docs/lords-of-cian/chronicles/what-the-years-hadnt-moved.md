@@ -1,7 +1,7 @@
 # What the Years Hadn't Moved
 
 *Locked canon, Batch 233, 2026-09-11 (`MCD-1037`). The Blue-Collar Titan Alias Chronicle LX, wave 20,
-closing the wave. Not a territory Chronicle. Narrated in neutral third-person prose.*
+closing the wave. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

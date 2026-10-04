@@ -1,7 +1,7 @@
 # The Smith Who Built Their Weapons
 
 *Locked canon, Batch 189, 2026-09-11 (`MCD-553`). The Lord of Embers Alias Chronicle XIV.
-Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. New standalone
+Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters. Renumbered Batch 321,
 2026-10-02: was mislabeled Chronicle XVII, duplicating "What the Floodwater Couldn't Take";
 corrected to XIV.*

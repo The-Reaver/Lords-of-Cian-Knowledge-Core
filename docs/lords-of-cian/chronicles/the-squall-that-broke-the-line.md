@@ -4,7 +4,7 @@
 Eyes is Long-Mask-era gear that doesn't exist yet in this Rebellion-era, still-live-Trinity window;
 swapped for Mafesto's own built-in overlay). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXIII, wave 25, first entry in the wave. A detailed full-Trinity combat showcase fought through an
-active storm rather than around it. Not a territory Chronicle. Narrated in neutral third-person
+active storm rather than around it. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

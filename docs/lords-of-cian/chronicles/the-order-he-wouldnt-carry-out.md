@@ -1,6 +1,6 @@
 # The Order He Wouldn't Carry Out
 
-*Locked canon, Batch 223, 2026-09-11 (`MCD-1009`). The Blue-Collar Titan Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 223, 2026-09-11 (`MCD-1009`). The Blue-Collar Titan Alias Chronicle LIII, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

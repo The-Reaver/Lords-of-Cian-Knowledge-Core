@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 235, 2026-09-11 (`MCD-1043`). The Scourge Alias Chronicle LX, wave 20, closing
 the wave. A quieter internal-doctrine entry: Kanja enforces the persona's non-lethal restraint from
-within his own crew rather than against an outside threat. Not a territory Chronicle. Narrated in
+within his own crew rather than against an outside threat. Not a territory Annals entry. Narrated in
 neutral third-person prose.*
 
 ---

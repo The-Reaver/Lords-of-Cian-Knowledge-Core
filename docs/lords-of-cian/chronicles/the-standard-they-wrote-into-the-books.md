@@ -1,7 +1,7 @@
 # The Standard They Wrote Into the Books
 
 *Locked canon, Batch 238, 2026-09-11 (`MCD-1052`). The Lord of Embers Alias Chronicle LX, wave 20,
-closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle.
+closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Annals entry.
 Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: softened chronology
 compression (the delegation's arrival placed roughly a year into the campaign's 18-month tour
 rather than at its end, and the senior smith's closing line changed from "eighteen months" to "a

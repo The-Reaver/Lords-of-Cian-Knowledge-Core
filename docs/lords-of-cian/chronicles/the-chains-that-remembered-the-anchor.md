@@ -3,7 +3,7 @@
 *Locked canon, Batch 110, 2026-09-10 (`MCD-378`). Sovereign Ghost of the Great Sea Alias
 Chronicle II. Rebellion era, a new naval engagement distinct from the Siege of the Ghost Harbor
 (`MCD-235`, age 21) -- a detailed showcase of the magnetic-interference weapon improvised from
-melted anchor chains, plus the Trinity in a boarding-action context. Not a territory Chronicle. New
+melted anchor chains, plus the Trinity in a boarding-action context. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

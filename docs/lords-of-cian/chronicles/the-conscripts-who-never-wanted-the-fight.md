@@ -1,7 +1,7 @@
 # The Conscripts Who Never Wanted the Fight
 
 *Locked canon, Batch 185, 2026-09-11 (`MCD-541`). The Sovereign Ghost of the Great Sea Alias
-Chronicle XIV. Rebellion era, age 21, Ghost Harbor. Not a territory Chronicle. New standalone
+Chronicle XIV. Rebellion era, age 21, Ghost Harbor. Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

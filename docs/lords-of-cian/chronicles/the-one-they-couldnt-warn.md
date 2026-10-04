@@ -1,6 +1,6 @@
 # The One They Couldn't Warn
 
-*Locked canon, Batch 201, 2026-09-11 (`MCD-840`). The Crow King Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-840`). The Crow King Alias Chronicle XXV, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1227`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXIX, wave 30. A genuine, permanent loss with no body recovered and no closure. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

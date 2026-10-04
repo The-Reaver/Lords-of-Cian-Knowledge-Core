@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 118, 2026-09-11 (`MCD-402`). Trench Monarch Alias Chronicle V. Rebellion
 era, within the alias's early window (age 18), a solo-blade engagement showing a genuine limit of
-Onyx of Oblivion for the first time. Not a territory Chronicle. New standalone material. Narrated
+Onyx of Oblivion for the first time. Not a territory Annals entry. New standalone material. Narrated
 in neutral third-person prose. No new named characters.*
 
 ---

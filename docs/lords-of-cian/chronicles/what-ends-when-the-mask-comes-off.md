@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 156, 2026-09-11 (`MCD-493`). The Scourge Alias Chronicle XII, closing the
 fourth wave. Long Mask era, age ~300, deep into the persona's later decades. Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters beyond the already-locked Garren Hask.*
 
 ---

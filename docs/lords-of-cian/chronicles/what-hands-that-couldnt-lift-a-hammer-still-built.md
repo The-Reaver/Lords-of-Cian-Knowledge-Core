@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1315`). The Lord of Embers Alias Chronicle LXIX, wave
 23, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A meritocracy
 entry extended to a settlement's disabled and elderly population, distinct from every prior
-merit-based-inclusion entry. Not a territory Chronicle. Narrated in neutral third-person prose.*
+merit-based-inclusion entry. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -3,7 +3,7 @@
 *Locked canon, Batch 218, 2026-09-11 (`MCD-964`); corrected Batch 321, 2026-10-02 ("banned by
 council vote" corrected to "put to a council vote," since `MCD-730` establishes the ban proposal
 failed to advance rather than passing). The Iron Bastard Alias Chronicle LIII, wave 18. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

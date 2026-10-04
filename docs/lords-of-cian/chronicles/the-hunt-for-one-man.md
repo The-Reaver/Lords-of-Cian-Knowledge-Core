@@ -1,7 +1,7 @@
 # The Hunt for One Man
 
 *Locked canon, Batch 182, 2026-09-11 (`MCD-532`). Trench Monarch Alias Chronicle XIV. Rebellion
-era, age 18, before the Black Trench. Not a territory Chronicle. New standalone material — a
+era, age 18, before the Black Trench. Not a territory Annals entry. New standalone material — a
 detailed, sustained pursuit combat showcase per Abad's craft instruction. Narrated in neutral
 third-person prose. No new named characters.*
 

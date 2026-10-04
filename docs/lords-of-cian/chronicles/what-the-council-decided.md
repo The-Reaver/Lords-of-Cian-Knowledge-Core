@@ -1,7 +1,7 @@
 # What the Council Decided
 
 *Locked canon, Batch 230, 2026-09-11 (`MCD-1028`). Bane Alias Chronicle LX, wave 20. Payoff to "The
-Council That Asked Him to Speak Plainly" (wave 19, `MCD-939`). Not a territory Chronicle. Closes
+Council That Asked Him to Speak Plainly" (wave 19, `MCD-939`). Not a territory Annals entry. Closes
 wave 20.*
 
 ---

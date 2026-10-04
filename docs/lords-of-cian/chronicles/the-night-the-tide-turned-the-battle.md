@@ -1,6 +1,6 @@
 # The Night the Tide Turned the Battle
 
-*Locked canon, Batch 202, 2026-09-11 (`MCD-880`). The Lord of Embers Alias Chronicle XXXV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-880`). The Lord of Embers Alias Chronicle XXXV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

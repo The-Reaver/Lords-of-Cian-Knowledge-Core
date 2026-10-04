@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1310`). The Lord of Embers Alias Chronicle LXIV, first
 entry in the twenty-second wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A
-direct payoff to "The Ballad That Outgrew the Truth" (MCD-881, wave 12). Not a territory Chronicle.
+direct payoff to "The Ballad That Outgrew the Truth" (MCD-881, wave 12). Not a territory Annals entry.
 Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: fixed a stale continuity-
 note reference to "The Record They Got Right," then still a planned future entry, now written and
 locked at MCD-1327.*

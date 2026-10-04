@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 120, 2026-09-11 (`MCD-407`). Blue-Collar Titan Alias Chronicle IV, first
 entry in the second wave. Rebellion era, a new infrastructure operation in a different city from
-the Sewer War of Killane. Not a territory Chronicle. New standalone material. Narrated in neutral
+the Sewer War of Killane. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

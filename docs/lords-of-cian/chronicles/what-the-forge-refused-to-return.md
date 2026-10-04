@@ -3,7 +3,7 @@
 *Locked canon, Batch 114, 2026-09-10 (`MCD-390`). Lord of Embers Alias Chronicle II. Rebellion
 era, during the Rolling Foundry Campaign (`MCD-241`, age 27), aboard The Anvil. A detailed showcase
 of the Trinity defending an active rebuild against a raiding force, using captured incendiary
-equipment turned to new purpose. Not a territory Chronicle. New standalone material. Narrated in
+equipment turned to new purpose. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

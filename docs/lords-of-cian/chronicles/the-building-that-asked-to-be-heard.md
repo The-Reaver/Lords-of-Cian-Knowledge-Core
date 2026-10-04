@@ -1,6 +1,6 @@
 # The Building That Asked to Be Heard
 
-*Locked canon, Batch 218, 2026-09-11 (`MCD-968`). The Iron Bastard Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 218, 2026-09-11 (`MCD-968`). The Iron Bastard Alias Chronicle LVII, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

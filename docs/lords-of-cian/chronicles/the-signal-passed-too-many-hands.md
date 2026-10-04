@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 282, 2026-09-11 (`MCD-1480`). Crow King Alias Chronicle XCVI, wave 32, closing
 it. Five active generations run one operation together for the first time, and the message breaks
-somewhere in the middle of the chain. Not a territory Chronicle.*
+somewhere in the middle of the chain. Not a territory Annals entry.*
 
 ---
 

@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1322`). The Lord of Embers Alias Chronicle LXXVI, first
 entry in the twenty-sixth wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A
 gear-vulnerability entry showing real Mafesto plating damage and improvised field repair. Not a
-territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the
+territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the
 damaged item was originally written as the Forge-Coat's Dark-Drakma leather, gear that doesn't
 exist until the Long Mask (ages 33-284); the damage is now Mafesto's own Void-Lattice plating,
 which is live and wearable at age 27.*

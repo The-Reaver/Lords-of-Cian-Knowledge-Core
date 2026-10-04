@@ -1,7 +1,7 @@
 # The Pivotal Piece
 
 *Locked canon, Batch 104, 2026-09-10 (`MCD-365`). Rebellion era, age 19, the night after
-the Battle of the Black Trench (`MCD-232`). Not a territory Chronicle — a new standalone
+the Battle of the Black Trench (`MCD-232`). Not a territory Annals entry — a new standalone
 Kanja-era scene under the "Bane" alias, the Directorate's own classification for a threat that
 destroys the force built to destroy it. Embeds the corrected quote, "I am the pivotal piece to
 the scheme of all things," delivered in person to an unnamed senior Sovereign Trust official as

@@ -4,7 +4,7 @@
 paragraph rewritten to introduce a genuinely new, distinct second trainee rather than wrongly
 re-identifying the first student, `MCD-499`, as the subject of this test; the backstory reference
 corrected from "an unarmed overseer" to the actual granary incident). The Iron Bastard Alias
-Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle.
+Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry.
 Narrated in neutral third-person prose.*
 
 ---

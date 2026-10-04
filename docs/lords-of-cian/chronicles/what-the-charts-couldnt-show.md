@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1204`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXVI, wave 22, closing the wave. First contact beyond the edge of every known chart. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

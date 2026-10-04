@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 111, 2026-09-10 (`MCD-380`). The Scourge Alias Chronicle I. Rebellion era,
 the morning after the Ash-Wharf Massacre (`MCD-235`, age 22) -- the unplanned, emergent birth of
-the Scourge persona. Not a territory Chronicle. New standalone material. Narrated in neutral
+the Scourge persona. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

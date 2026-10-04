@@ -1,6 +1,6 @@
 # The First Student's Last Field Read
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1291`). Iron Bastard Alias Chronicle LXXII, wave 24, closing the wave. The first student steps back from active field use into a full-time teaching role. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1291`). Iron Bastard Alias Chronicle LXXII, wave 24, closing the wave. The first student steps back from active field use into a full-time teaching role. Not a territory Annals entry.*
 
 ---
 

@@ -3,7 +3,7 @@
 *Locked canon, Batch 114, 2026-09-10 (`MCD-391`). Lord of Embers Alias Chronicle III, closing the
 wave. Rebellion era, during the Rolling Foundry Campaign (`MCD-241`, age 27), from the perspective
 of one of the 120,000 settlement residents reached across the eighteen-month tour. Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

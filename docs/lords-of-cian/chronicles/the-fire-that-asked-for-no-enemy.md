@@ -1,6 +1,6 @@
 # The Fire That Asked for No Enemy
 
-*Locked canon, Batch 213, 2026-09-11 (`MCD-923`). The Lord of Embers Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 213, 2026-09-11 (`MCD-923`). The Lord of Embers Alias Chronicle XLVIII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

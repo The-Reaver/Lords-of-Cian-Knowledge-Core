@@ -1,7 +1,7 @@
 # What the Rigging Remembered
 
 *Locked canon, Batch 158, 2026-09-11 (`MCD-498`). The Iron Bastard Alias Chronicle XI. Rebellion
-era, age 25. Not a territory Chronicle. New standalone material — a detailed naval application of
+era, age 25. Not a territory Annals entry. New standalone material — a detailed naval application of
 the resonance doctrine per Abad's craft instruction, its first use at sea. Narrated in neutral
 third-person prose. No new named characters.*
 

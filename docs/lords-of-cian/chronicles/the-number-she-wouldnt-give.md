@@ -1,6 +1,6 @@
 # The Number She Wouldn't Give
 
-*Locked canon, Batch 198, 2026-09-11 (`MCD-741`). The Industrial Myth Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-741`). The Industrial Myth Alias Chronicle XVI, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

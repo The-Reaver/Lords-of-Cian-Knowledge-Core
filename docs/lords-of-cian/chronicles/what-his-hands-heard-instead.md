@@ -1,6 +1,6 @@
 # What His Hands Heard Instead
 
-*Locked canon, Batch 283, 2026-09-11 (`MCD-1493`). Iron Bastard Alias Chronicle C, wave 34, first entry. The doctrine's first fully tactile curriculum, built for a stonemason deaf since birth. Not a territory Chronicle.*
+*Locked canon, Batch 283, 2026-09-11 (`MCD-1493`). Iron Bastard Alias Chronicle C, wave 34, first entry. The doctrine's first fully tactile curriculum, built for a stonemason deaf since birth. Not a territory Annals entry.*
 
 ---
 

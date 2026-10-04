@@ -3,7 +3,7 @@
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1224`); corrected Batch 321, 2026-10-02 (a writers'-room
 "an early wave" phrase reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXVI, wave 29. An anonymous benefactor, once helped by the fleet, repays them without
-acknowledgment. Not a territory Chronicle. Narrated in neutral third-person prose.*
+acknowledgment. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

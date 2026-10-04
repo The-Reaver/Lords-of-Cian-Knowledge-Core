@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1281`). Crow King Alias Chronicle LXXXIX, wave 30. Voris,
 fully retired, writes a final institutional record for the Directorate's own archives. Not a
-territory Chronicle.*
+territory Annals entry.*
 
 ---
 

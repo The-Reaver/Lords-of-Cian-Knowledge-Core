@@ -1,7 +1,7 @@
 # Chronicle X: What the Ledger Owes
 
 *WITHDRAWN, 2026-09-05, superseded by
-[`umoja-chronicle-i-the-man-who-mapped-the-door.md`](umoja-chronicle-i-the-man-who-mapped-the-door.md).
+[`umoja-annals-i-the-man-who-mapped-the-door.md`](umoja-annals-i-the-man-who-mapped-the-door.md).
 Abad corrected the series' structure: these are Chronicles belonging to each homage-era territory, with
 Kanja as guest, not "Kanja Chronicles" with the homage-era figure as guest. This piece had it backwards
 -- Kofi guesting in a Kanja battle rather than the reverse. Kept here for the project's own record;

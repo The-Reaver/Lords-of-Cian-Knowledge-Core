@@ -1,7 +1,7 @@
 # The Day Nothing Happened and Everything Did
 
 *Locked canon, Batch 153, 2026-09-11 (`MCD-483`). The Industrial Myth Alias Chronicle XI.
-Rebellion era, age 21, the Furnace District Strike. Not a territory Chronicle. New standalone
+Rebellion era, age 21, the Furnace District Strike. Not a territory Annals entry. New standalone
 material — a detailed showcase of sustained tension and moral craft in place of combat, per the
 spirit of Abad's craft instruction adapted to this alias's unarmed register. Narrated in neutral
 third-person prose. No new named characters.*

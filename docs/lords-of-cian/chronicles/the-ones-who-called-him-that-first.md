@@ -1,7 +1,7 @@
 # The Ones Who Called Him That First
 
 *Locked canon, Batch 107, 2026-09-10 (`MCD-370`). Trench Monarch Alias Chronicle III. Rebellion
-era, closing the alias's three-Chronicle wave. Not a territory Chronicle. New standalone material.
+era, closing the alias's three-Chronicle wave. Not a territory Annals entry. New standalone material.
 Narrated in neutral third-person prose. No new named characters -- the old dredge worker and the
 apprentice are both unnamed.*
 

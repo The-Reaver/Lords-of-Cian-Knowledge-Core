@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 282, 2026-09-11 (`MCD-1481`). Crow King Alias Chronicle XCVII, wave 33, opening
 it. The Hymn-Engine is carried across open water for the first time, using sound reflected off cliff
-and tide rather than terrain. Not a territory Chronicle.*
+and tide rather than terrain. Not a territory Annals entry.*
 
 ---
 

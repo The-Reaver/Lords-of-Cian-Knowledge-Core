@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 246, 2026-09-11 (`MCD-1074`). The Scourge Alias Chronicle LXI, wave 21, first
 entry. A detailed V4-gear combat showcase in the sub-series' first cold/ice environment. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

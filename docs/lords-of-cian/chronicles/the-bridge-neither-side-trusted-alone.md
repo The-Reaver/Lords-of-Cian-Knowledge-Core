@@ -5,7 +5,7 @@ sabotage" reworded to describe the resistance network rather than framing the Re
 still-live war, since the Rebellion formally ends at `MCD-245`/`246`; "the shelved report" corrected
 to mean the Directorate general's own career-ending report, `MCD-734`, not the Trust scholar's
 report, `MCD-421`). Iron Bastard Alias Chronicle LXXXII, wave 28, first entry. The Directorate
-general's successor requests a formal joint engineering operation. Not a territory Chronicle.*
+general's successor requests a formal joint engineering operation. Not a territory Annals entry.*
 
 ---
 

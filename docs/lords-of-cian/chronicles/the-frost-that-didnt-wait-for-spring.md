@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1311`). The Lord of Embers Alias Chronicle LXV, wave
 22. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), a highland forge terrace during
 an early, unseasonable freeze. A detailed, battle-intense Trinity combat showcase in the alias's
-first deep-cold environmental register. Not a territory Chronicle. Narrated in neutral third-person
+first deep-cold environmental register. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

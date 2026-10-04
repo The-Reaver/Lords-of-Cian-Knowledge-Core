@@ -4,7 +4,7 @@
 old hand was already in his mid-forties when he signed on after Ghost Harbor, rather than "nearly the
 same age" as a 21-year-old Kanja, so the loss reads as a lifespan gap -- mortal man against Kanja's own
 longevity -- rather than decades of elapsed fleet service, which this alias's nine-year Rebellion-era
-window can't support). Sovereign Ghost of the Great Sea Alias Chronicle LVI, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+window can't support). Sovereign Ghost of the Great Sea Alias Chronicle LVI, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

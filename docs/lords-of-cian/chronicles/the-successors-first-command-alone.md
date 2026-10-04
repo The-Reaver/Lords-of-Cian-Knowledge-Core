@@ -1,7 +1,7 @@
 # The Successor's First Command Alone
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1240`). The Scourge Alias Chronicle LXXV, wave 25,
-closing the wave. Age 270, V4 gear. Not a territory Chronicle. Narrated in neutral third-person
+closing the wave. Age 270, V4 gear. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

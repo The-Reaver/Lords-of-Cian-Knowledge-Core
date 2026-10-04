@@ -5,7 +5,7 @@ thread's Trinity gear reworded to the Long-Mask-era kit, since wave 24 falls yea
 Trinity's age-30 surrender, `MCD-246`; "a Directorate advance" reworded to avoid framing the
 Rebellion as a still-live war, since the Rebellion formally ends at `MCD-245`/`246`). Iron Bastard
 Alias Chronicle LXXI, wave 24. A detailed showcase scaling the doctrine's teaching lineage into a
-coordinated multi-site campaign across four listeners. Not a territory Chronicle.*
+coordinated multi-site campaign across four listeners. Not a territory Annals entry.*
 
 ---
 

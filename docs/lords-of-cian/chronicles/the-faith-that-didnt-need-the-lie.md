@@ -1,6 +1,6 @@
 # The Faith That Didn't Need the Lie
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1300`). Iron Bastard Alias Chronicle LXXXI, wave 27, closing the wave. The priest reconciles faith and the doctrine's mundane finding without losing his congregation. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1300`). Iron Bastard Alias Chronicle LXXXI, wave 27, closing the wave. The priest reconciles faith and the doctrine's mundane finding without losing his congregation. Not a territory Annals entry.*
 
 ---
 

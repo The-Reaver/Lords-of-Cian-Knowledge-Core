@@ -1,7 +1,7 @@
 # The Day the Whole Crew Fought as One
 
 *Locked canon, Batch 138, 2026-09-11 (`MCD-461`). Captain Alias Chronicle VII, first entry in the
-third wave. Rebellion era. Not a territory Chronicle. New standalone material — a detailed
+third wave. Rebellion era. Not a territory Annals entry. New standalone material — a detailed
 armor-and-weapon combat showcase per Abad's craft instruction, built around coordinated command
 rather than solo heroics. Narrated in neutral third-person prose. No new named characters.*
 

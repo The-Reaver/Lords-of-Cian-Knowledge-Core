@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 284, 2026-09-11 (`MCD-1502`). Lord of Embers Alias Chronicle C, first entry in
 the thirty-fourth wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

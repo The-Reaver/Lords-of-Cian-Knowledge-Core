@@ -3,7 +3,7 @@
 *Locked canon, Batch 261, 2026-09-11 (`MCD-1296`); corrected Batch 321, 2026-10-02 (the Trinity
 gear reworded throughout to the Long-Mask-era kit, since wave 26 falls years past the Trinity's
 age-30 surrender, `MCD-246`). Iron Bastard Alias Chronicle LXXVII, wave 26. A detailed rescue
-showcase racing aftershocks across six failing structures. Not a territory Chronicle.*
+showcase racing aftershocks across six failing structures. Not a territory Annals entry.*
 
 ---
 

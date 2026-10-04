@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 125, 2026-09-11 (`MCD-423`). Lord of Embers Alias Chronicle V. Rebellion
 era, during the Rolling Foundry Campaign (`MCD-241`). A detailed Trinity showcase defending The
-Anvil itself. Not a territory Chronicle. New standalone material. Narrated in neutral third-person
+Anvil itself. Not a territory Annals entry. New standalone material. Narrated in neutral third-person
 prose. No new named characters. Corrected Batch 321, 2026-10-02: softened chronology compression
 ("full eighteen-month accumulation" and "thirty-one settlements," impossible this early in the
 tour -- this is Chronicle V, wave 2 -- to "months" and "two dozen settlements").*

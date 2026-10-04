@@ -1,6 +1,6 @@
 # The Isle That Stopped Needing Him
 
-*Locked canon, Batch 200, 2026-09-11 (`MCD-814`). The Scourge Alias Chronicle XXIX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 200, 2026-09-11 (`MCD-814`). The Scourge Alias Chronicle XXIX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

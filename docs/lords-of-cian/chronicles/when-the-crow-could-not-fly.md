@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 123, 2026-09-11 (`MCD-417`). Crow King Alias Chronicle V. Rebellion era, a
 detailed Trinity combat showcase for an occasion when evasion genuinely fails and Kanja must fight
-his way clear instead. Not a territory Chronicle. New standalone material. Narrated in neutral
+his way clear instead. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

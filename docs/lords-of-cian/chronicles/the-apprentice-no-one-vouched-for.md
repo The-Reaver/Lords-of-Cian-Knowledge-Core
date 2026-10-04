@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1313`). The Lord of Embers Alias Chronicle LXVII, first
 entry in the twenty-third wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A
 genuinely new register of suspicion/trust, distinct from the prior structural-sabotage entry.
-Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
+Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
 stripped a leaked inline rule-ID citation ("remembering MCD-501") in favor of an in-world reference,
 and fixed a stale wave citation (MCD-501 is wave 4, not wave 5) in the continuity notes.*
 

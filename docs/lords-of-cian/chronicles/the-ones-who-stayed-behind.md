@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1217`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXIX, wave 27, first entry in the wave. A legacy visit to the town the fleet once defended, now
-self-sufficient. Not a territory Chronicle. Narrated in neutral third-person prose.*
+self-sufficient. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

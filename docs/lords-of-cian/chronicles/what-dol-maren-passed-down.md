@@ -4,7 +4,7 @@
 parenthetical naming "this alias's own history" directly in narrative prose reworded to in-world
 language). Sovereign Ghost of the Great Sea Alias Chronicle
 LIX, wave 20. Dol Maren's first succession/mentorship entry for this alias. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

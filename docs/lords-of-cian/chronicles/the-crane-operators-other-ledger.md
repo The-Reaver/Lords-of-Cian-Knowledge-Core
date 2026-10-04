@@ -1,6 +1,6 @@
 # The Crane Operator's Other Ledger
 
-*Locked canon, Batch 198, 2026-09-11 (`MCD-751`). The Industrial Myth Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-751`). The Industrial Myth Alias Chronicle XXVI, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

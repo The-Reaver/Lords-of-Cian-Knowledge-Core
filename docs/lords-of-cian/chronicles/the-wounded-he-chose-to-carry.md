@@ -1,7 +1,7 @@
 # The Wounded He Chose to Carry
 
 *Locked canon, Batch 128, 2026-09-11 (`MCD-431`). Bane Alias Chronicle VII, first entry in the third
-wave. Rebellion era, age 19, shortly after the Black Trench. Not a territory Chronicle. New
+wave. Rebellion era, age 19, shortly after the Black Trench. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

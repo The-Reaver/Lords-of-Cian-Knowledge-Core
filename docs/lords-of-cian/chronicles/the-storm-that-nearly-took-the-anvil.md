@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1314`). The Lord of Embers Alias Chronicle LXVIII, wave
 23. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), open water between coastal
 settlements. A detailed, battle-intense Trinity combat showcase combining a genuine sea storm with
-an opportunistic Directorate naval strike. Not a territory Chronicle. Narrated in neutral
+an opportunistic Directorate naval strike. Not a territory Annals entry. Narrated in neutral
 third-person prose. Corrected Batch 321, 2026-10-02: stripped a leaked inline rule-ID citation
 ("the Directorate raid on the ship itself (MCD-423)") in favor of an in-world reference.*
 

@@ -1,7 +1,7 @@
 # The Crossing With No Water
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1473`). The Scourge Alias Chronicle XCVIII, wave 33. Age
-155, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+155, V3 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

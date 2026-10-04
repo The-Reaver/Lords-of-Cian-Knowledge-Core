@@ -1,6 +1,6 @@
 # The Testimony That Contradicted Itself
 
-*Locked canon, Batch 256, 2026-09-11 (`MCD-1148`). Industrial Myth Alias Chronicle LXIV, wave 22. The first entry where two sincere witnesses give honestly incompatible testimony and the ledger's own discipline finds neither one lying. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 256, 2026-09-11 (`MCD-1148`). Industrial Myth Alias Chronicle LXIV, wave 22. The first entry where two sincere witnesses give honestly incompatible testimony and the ledger's own discipline finds neither one lying. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

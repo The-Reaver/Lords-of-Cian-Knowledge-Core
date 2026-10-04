@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1258`). Crow King Alias Chronicle LXVI, wave 22, closing
 it. The fourth generation is approached by an outsider wanting to learn, and brings the question
-back rather than deciding it himself. Not a territory Chronicle.*
+back rather than deciding it himself. Not a territory Annals entry.*
 
 ---
 

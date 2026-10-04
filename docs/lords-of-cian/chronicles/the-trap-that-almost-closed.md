@@ -1,7 +1,7 @@
 # The Trap That Almost Closed
 
 *Locked canon, Batch 123, 2026-09-11 (`MCD-416`). Crow King Alias Chronicle IV, first entry in
-the second wave. Rebellion era. Not a territory Chronicle. New standalone material. Narrated in
+the second wave. Rebellion era. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

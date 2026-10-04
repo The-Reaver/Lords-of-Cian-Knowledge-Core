@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1225`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXVII, wave 29, closing the wave. An unorganized, large-scale reunion of people the fleet has
-rescued across its history. Not a territory Chronicle. Narrated in neutral third-person prose.*
+rescued across its history. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

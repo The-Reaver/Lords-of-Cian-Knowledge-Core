@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1335`). The Lord of Embers Alias Chronicle LXXXIX, wave
 30. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), near the tour's later stretch. A
 detailed, battle-intense Trinity combat showcase against a Directorate assault combining multiple
-previously-countered tactics at once. Not a territory Chronicle. Narrated in neutral third-person
+previously-countered tactics at once. Not a territory Annals entry. Narrated in neutral third-person
 prose. Corrected Batch 321, 2026-10-02: stripped three leaked inline rule-ID citations (MCD-1083,
 MCD-970, MCD-1332) from the narrative prose in favor of the in-world references already present in
 the same sentences.*

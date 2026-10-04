@@ -3,7 +3,7 @@
 *Locked canon, Batch 196, 2026-09-11 (`MCD-706`); corrected Batch 320, 2026-10-01 (the Voice
 Bible's `VB-060` characterization label had leaked into the narrative as a quoted in-world phrase;
 reworded to plain prose, matching how every other entry voices the trait). Bane Alias Chronicle
-XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in
+XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in
 neutral third-person prose.*
 
 ---

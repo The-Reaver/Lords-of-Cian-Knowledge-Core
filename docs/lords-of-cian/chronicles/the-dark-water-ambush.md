@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 126, 2026-09-11 (`MCD-426`). Storm That Walks Alias Chronicle V. Rebellion
 era, a new night engagement in the Gale Straits corridor. A detailed Trinity showcase in close,
-zero-visibility shipboard combat. Not a territory Chronicle. New standalone material. Narrated in
+zero-visibility shipboard combat. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

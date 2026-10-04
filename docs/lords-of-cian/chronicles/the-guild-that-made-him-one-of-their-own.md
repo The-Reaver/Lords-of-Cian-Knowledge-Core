@@ -1,7 +1,7 @@
 # The Guild That Made Him One of Their Own
 
 *Locked canon, Batch 184, 2026-09-11 (`MCD-539`). The Blue-Collar Titan Alias Chronicle XV, closing
-the fifth wave. Rebellion era, post-Killane. Not a territory Chronicle. New
+the fifth wave. Rebellion era, post-Killane. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters. Corrected
 Batch 321, 2026-10-02: header changed from "age 20, the Sewer War of Killane" to "post-Killane" --
 this entry is set "years of honest work and honest failures since" the guild test.*

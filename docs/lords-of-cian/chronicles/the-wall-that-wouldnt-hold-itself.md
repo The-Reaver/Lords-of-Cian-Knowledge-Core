@@ -1,6 +1,6 @@
 # The Wall That Wouldn't Hold Itself
 
-*Locked canon, Batch 206, 2026-09-11 (`MCD-900`). The Trench Monarch Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 206, 2026-09-11 (`MCD-900`). The Trench Monarch Alias Chronicle XLVI, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

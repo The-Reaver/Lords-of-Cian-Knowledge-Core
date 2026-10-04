@@ -1,7 +1,7 @@
 # The Voice Two Generations Removed
 
 *Locked canon, Batch 187, 2026-09-11 (`MCD-548`). The Crow King Alias Chronicle XV, closing the
-fifth wave. Rebellion era, ages 23-28. Not a territory Chronicle. New standalone material. Narrated in
+fifth wave. Rebellion era, ages 23-28. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters beyond the already-locked apprentice singer.*
 
 ---

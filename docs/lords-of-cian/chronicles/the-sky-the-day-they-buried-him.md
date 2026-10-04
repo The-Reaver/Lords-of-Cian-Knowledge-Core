@@ -1,6 +1,6 @@
 # The Sky the Day They Buried Him
 
-*Locked canon, Batch 220, 2026-09-11 (`MCD-982`). The Storm That Walks Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Sephtis (Vrail, `CC-037`, 1,997 years old) is confirmed alive elsewhere in canon and cannot have genuinely died of old age in this track; this entry is reframed explicitly as a staged withdrawal -- a natural-seeming death and sea-burial he arranged and let the lineage genuinely believe, while continuing on elsewhere in disguise during the Long Mask -- rather than a real death, matching the kind of choice available to a near-2,000-year-old operative letting a mortal identity "die" rather than explain his own longevity.*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-982`). The Storm That Walks Alias Chronicle LIII, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: Sephtis (Vrail, `CC-037`, 1,997 years old) is confirmed alive elsewhere in canon and cannot have genuinely died of old age in this track; this entry is reframed explicitly as a staged withdrawal -- a natural-seeming death and sea-burial he arranged and let the lineage genuinely believe, while continuing on elsewhere in disguise during the Long Mask -- rather than a real death, matching the kind of choice available to a near-2,000-year-old operative letting a mortal identity "die" rather than explain his own longevity.*
 
 ---
 

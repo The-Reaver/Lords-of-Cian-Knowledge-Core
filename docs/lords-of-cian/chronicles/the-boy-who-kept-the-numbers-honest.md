@@ -4,7 +4,7 @@
 wave. Rebellion era, during the Furnace District Strike itself (`MCD-244`, age 21), told from Ezio
 Valcari's perspective -- already a locked named character, roughly sixteen at this point, less than
 a year past his first on-page appearance at the Sewer War of Killane (`MCD-234`, age 20). Not a
-territory Chronicle. No new named characters beyond the already-locked Ezio Valcari.*
+territory Annals entry. No new named characters beyond the already-locked Ezio Valcari.*
 
 ---
 

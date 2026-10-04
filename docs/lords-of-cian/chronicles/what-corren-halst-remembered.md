@@ -1,7 +1,7 @@
 # What Corren Halst Remembered
 
 *Locked canon, Batch 129, 2026-09-11 (`MCD-436`). Trench Monarch Alias Chronicle IX, closing the
-third wave. Rebellion era, age 18, before the Black Trench. Not a territory Chronicle. New
+third wave. Rebellion era, age 18, before the Black Trench. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Corren Halst.*
 

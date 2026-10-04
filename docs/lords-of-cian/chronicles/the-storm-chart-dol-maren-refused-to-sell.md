@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1218`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXX, wave 27. Dol Maren declines a fortune to keep weather-reading knowledge free. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

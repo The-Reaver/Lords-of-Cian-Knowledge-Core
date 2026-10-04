@@ -1,6 +1,6 @@
 # The Name They Gave What He Never Named
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1307`). Iron Bastard Alias Chronicle LXXXVIII, wave 30, first entry. The academic institute formally names the doctrine as a discipline; Kanja declines an honorary role. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1307`). Iron Bastard Alias Chronicle LXXXVIII, wave 30, first entry. The academic institute formally names the doctrine as a discipline; Kanja declines an honorary role. Not a territory Annals entry.*
 
 ---
 

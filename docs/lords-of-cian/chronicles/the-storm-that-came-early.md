@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 126, 2026-09-11 (`MCD-425`). Storm That Walks Alias Chronicle IV, first entry
 in the second wave. Rebellion era, a new Gale Straits engagement testing Sephtis's storm-prediction
-reliability. Not a territory Chronicle. New standalone material. Narrated in neutral third-person
+reliability. Not a territory Annals entry. New standalone material. Narrated in neutral third-person
 prose. No new named characters beyond the already-locked Sephtis (referenced, not appearing
 on-page).*
 

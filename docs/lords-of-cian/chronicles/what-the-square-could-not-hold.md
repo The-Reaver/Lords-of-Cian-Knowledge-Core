@@ -1,6 +1,6 @@
 # What the Square Could Not Hold
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-666`). The Blue-Collar Titan Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "a lever and a cutting tool" corrected to "a lever and a breaking bar" (Obsidian Malice is a war club, `ARS-030`, not a cutting implement).*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-666`). The Blue-Collar Titan Alias Chronicle XXXI, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "a lever and a cutting tool" corrected to "a lever and a breaking bar" (Obsidian Malice is a war club, `ARS-030`, not a cutting implement).*
 
 ---
 

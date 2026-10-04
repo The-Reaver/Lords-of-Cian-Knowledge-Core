@@ -1,7 +1,7 @@
 # The Saboteur Among the Apprentices
 
 *Locked canon, Batch 159, 2026-09-11 (`MCD-501`). The Lord of Embers Alias Chronicle XI. Rebellion
-era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. New standalone material — a
+era, age 27, the Rolling Foundry Campaign. Not a territory Annals entry. New standalone material — a
 detailed detection-and-combat showcase per Abad's craft instruction. Narrated in neutral third-person
 prose. No new named characters. Renumbered Batch 321, 2026-10-02: was mislabeled Chronicle XIV;
 corrected to XI.*

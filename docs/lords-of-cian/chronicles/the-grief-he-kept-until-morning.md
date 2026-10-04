@@ -1,6 +1,6 @@
 # The Grief He Kept Until Morning
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-609`). Captain Alias Chronicle XXXIV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-609`). Captain Alias Chronicle XXXIV, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

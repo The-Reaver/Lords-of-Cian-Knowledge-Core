@@ -4,7 +4,7 @@
 parenthetical naming "this alias's fourth wave" directly in narrative prose reworded to in-world
 language). Sovereign Ghost of the Great Sea Alias Chronicle
 LX, wave 20, closing the wave. A sustained diplomatic alliance entry, deepening the foreign-nation
-thread first opened in wave 4. Not a territory Chronicle. Narrated in neutral third-person prose.*
+thread first opened in wave 4. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

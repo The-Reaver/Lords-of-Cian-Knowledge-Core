@@ -1,6 +1,6 @@
 # The Man Carrying Two Masters
 
-*Locked canon, Batch 223, 2026-09-11 (`MCD-1005`). The Blue-Collar Titan Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the unnamed recurring crew chief's pronoun corrected from she/her to he/him, matching the earlier-established usage at `MCD-652`.*
+*Locked canon, Batch 223, 2026-09-11 (`MCD-1005`). The Blue-Collar Titan Alias Chronicle XLIX, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the unnamed recurring crew chief's pronoun corrected from she/her to he/him, matching the earlier-established usage at `MCD-652`.*
 
 ---
 

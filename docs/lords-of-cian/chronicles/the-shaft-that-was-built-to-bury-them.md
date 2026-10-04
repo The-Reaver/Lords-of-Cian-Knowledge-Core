@@ -4,7 +4,7 @@
 gear reworded throughout to the Long-Mask-era kit, since wave 33 falls years past the Trinity's
 age-30 surrender, `MCD-246`). Iron Bastard Alias Chronicle XCVIII, wave 33. A detailed,
 battle-intense combat showcase in a confined underground mine shaft, the doctrine's first
-application in that environment. Not a territory Chronicle.*
+application in that environment. Not a territory Annals entry.*
 
 ---
 

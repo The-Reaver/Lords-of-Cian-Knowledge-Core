@@ -1,7 +1,7 @@
 # The Notebook Garren Hask Finally Opened
 
 *Locked canon, Batch 251, 2026-09-11 (`MCD-1090`). Captain Alias Chronicle LXII, wave 21. The
-mortality-succession thread advances, deliberately without resolving. Not a territory Chronicle.
+mortality-succession thread advances, deliberately without resolving. Not a territory Annals entry.
 Corrected Batch 321, 2026-10-02: Corren Halst's pronoun fixed to he/him throughout per `CC-158`.*
 
 ---
@@ -56,7 +56,7 @@ this same wave) -- Garren Hask's health scare is the catalyst that finally moves
 already established at "The Promise for After He's Gone" (`MCD-920`, wave 16) from a personal
 practice into the institutional record for the first time, and takes a genuine, concrete step on the
 charter's deliberately blank fourth clause (`MCD-1056`) without resolving it, matching the sub-series'
-established precedent for long-running threads (the Sankofa territory Chronicle's "crack" entry,
+established precedent for long-running threads (the Sankofa Annals' "crack" entry,
 `MCD-1025`) of advancing rather than closing a major open question in one sitting. Corren Halst
 (already established as an independent commander, `MCD-608`) is proposed, not confirmed, as a future
 council-chair successor, deliberately distinct from and not a replacement for the still-unaddressed,

@@ -1,6 +1,6 @@
 # The Read That Never Stopped
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1305`). Iron Bastard Alias Chronicle LXXXVI, wave 29. A storm forces the doctrine's first sustained, continuous live-monitoring application. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1305`). Iron Bastard Alias Chronicle LXXXVI, wave 29. A storm forces the doctrine's first sustained, continuous live-monitoring application. Not a territory Annals entry.*
 
 ---
 

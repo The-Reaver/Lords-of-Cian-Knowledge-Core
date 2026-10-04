@@ -1,7 +1,7 @@
 # The Ledger She Built From Nothing
 
-*Locked canon, Batch 145, 2026-09-11 (`MCD-470`). Ijoko Chronicle II. Homage-era Ílú-Márùn,
-Ijoko/Adwoa. Territory Chronicle -- Adwoa as protagonist, Kanja an unnamed background guest with no
+*Locked canon, Batch 145, 2026-09-11 (`MCD-470`). Ijoko Annals II. Homage-era Ílú-Márùn,
+Ijoko/Adwoa. Territory Annals entry -- Adwoa as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 
 ---
@@ -46,6 +46,6 @@ offering nothing but attention, was gone by the time the second-year figures wer
 ---
 
 *Continuity notes (not narrative): directly follows up on the economic-decline thread explicitly left
-untouched by "The Iron Hand in the Velvet Glove" (`PH2-027`) in Chronicle I, showing Adwoa's ordinary,
+untouched by "The Iron Hand in the Velvet Glove" (`PH2-027`) in Annals I, showing Adwoa's ordinary,
 non-ability competence building a partial answer where the gift itself has no purchase. No new named
-characters. Second Ijoko territory Chronicle.*
+characters. Second Ijoko territory Annals entry.*

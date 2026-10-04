@@ -1,6 +1,6 @@
 # The Storm That Wrote Its Own Signature
 
-*Locked canon, Batch 218, 2026-09-11 (`MCD-961`). The Iron Bastard Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 218, 2026-09-11 (`MCD-961`). The Iron Bastard Alias Chronicle L, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

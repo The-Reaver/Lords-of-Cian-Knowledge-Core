@@ -1,6 +1,6 @@
 # The Man Who Could Not Hear
 
-*Locked canon, Batch 201, 2026-09-11 (`MCD-843`). The Crow King Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-843`). The Crow King Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 282, 2026-09-11 (`MCD-1484`). Crow King Alias Chronicle C, wave 34, opening it.
 A detailed Long-Mask-era gear showcase inside a burning warehouse, where fire's own chaos, not
-silence, is the obstacle. Not a territory Chronicle. Corrected Batch 321, 2026-10-02: an earlier
+silence, is the obstacle. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: an earlier
 draft of this entry used Trinity-era gear and Onyx of Oblivion's named powers (Cadence Ruin, Veil
 Piercer, Soulbound Edge) despite this Chronicle's explicit anchor to "the fourth generation," whose
 own teaching lineage sits decades into the 284-year Long Mask, well after the Trinity's already-locked

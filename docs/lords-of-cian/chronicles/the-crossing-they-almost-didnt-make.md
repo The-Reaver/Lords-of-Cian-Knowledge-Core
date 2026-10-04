@@ -1,6 +1,6 @@
 # The Crossing They Almost Didn't Make
 
-*Locked canon, Batch 215, 2026-09-11 (`MCD-936`). Bane Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 215, 2026-09-11 (`MCD-936`). Bane Alias Chronicle LII, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1262`). Crow King Alias Chronicle LXX, wave 24, opening
 it. Commandant Voris's former second, now promoted in his place, faces the craft for the first time
-without Voris's own study to lean on. Not a territory Chronicle.*
+without Voris's own study to lean on. Not a territory Annals entry.*
 
 ---
 

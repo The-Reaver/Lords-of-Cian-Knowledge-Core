@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 236, 2026-09-11 (`MCD-1044`). Crow King Alias Chronicle LVIII, wave 20. Direct
 follow-through on wave 19's unrecovered regional breach ("What They Couldn't Take Back," `MCD-995`).
-Not a territory Chronicle. Opens wave 20.*
+Not a territory Annals entry. Opens wave 20.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1273`). Crow King Alias Chronicle LXXXI, wave 27, closing
 it. One of the twenty trained scouts is offered money to sell craft knowledge to a rival power, and
-the established consent safeguards are tested from within. Not a territory Chronicle.*
+the established consent safeguards are tested from within. Not a territory Annals entry.*
 
 ---
 

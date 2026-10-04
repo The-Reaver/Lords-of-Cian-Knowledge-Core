@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1264`). Crow King Alias Chronicle LXXII, wave 24, closing
 it. The first operation run by Kanja and all three generations of the direct teaching lineage
-together in a single coordinated action. Not a territory Chronicle.*
+together in a single coordinated action. Not a territory Annals entry.*
 
 ---
 

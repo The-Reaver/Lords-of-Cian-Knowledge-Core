@@ -3,7 +3,7 @@
 *Locked canon, Batch 261, 2026-09-11 (`MCD-1295`); corrected Batch 321, 2026-10-02 (the inline
 citation "the tower at MCD-497" reworded to remove the leaked rule-ID). Iron Bastard Alias
 Chronicle LXXVI, wave 26, first entry. The doctrine's first citywide earthquake-triage application.
-Not a territory Chronicle.*
+Not a territory Annals entry.*
 
 ---
 

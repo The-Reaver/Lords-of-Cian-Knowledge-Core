@@ -1,6 +1,6 @@
 # The Flood That Needed No Enemy
 
-*Locked canon, Batch 221, 2026-09-11 (`MCD-993`). The Crow King Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-993`). The Crow King Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,7 +1,7 @@
 # What the Ledger Said About the Boy He Cut Free
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1231`). The Scourge Alias Chronicle LXVI, wave 22,
-closing the wave. Age 160, V3 gear. Not a territory Chronicle. Narrated in neutral third-person
+closing the wave. Age 160, V3 gear. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

@@ -1,7 +1,7 @@
 # What the Old Digger Taught Him
 
 *Locked canon, Batch 131, 2026-09-11 (`MCD-442`). The Blue-Collar Titan Alias Chronicle IX, closing
-the third wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle. New
+the third wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

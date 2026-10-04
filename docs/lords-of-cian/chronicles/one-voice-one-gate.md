@@ -1,6 +1,6 @@
 # One Voice, One Gate
 
-*Locked canon, Batch 201, 2026-09-11 (`MCD-835`). The Crow King Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-835`). The Crow King Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

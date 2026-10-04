@@ -1,8 +1,8 @@
 # Ozmund Verehimu — Profile & Game Plan
 
 **Status:** game plan approved
-**Track:** Character Chronicle (Tier 1)
-**Gate cleared:** YES — game plan approved 2026-09-21. Chronicle prose may now be drafted, starting with Chronicle I.
+**Track:** Testaments (Tier 1)
+**Gate cleared:** YES — game plan approved 2026-09-21. Testament prose may now be drafted, starting with Testament I.
 
 ---
 
@@ -61,8 +61,8 @@
 - Cassius Verehimu, Draconis, Blackthorne, and Grulak are all rich, already-defined antagonist/foil material with almost no dramatized page time.
 - Why "Venim," specifically, as a chosen name — `MAW-030` only loosely ties it to House Vennrik's vacancy; the personal meaning behind the choice has never been stated on the page.
 
-### Existing Chronicle corpus
-None. This is a fresh launch, not a backfill — no existing Chronicles to synthesize against.
+### Existing Testament corpus
+None. This is a fresh launch, not a backfill — no existing Testaments to synthesize against.
 
 ---
 
@@ -174,13 +174,13 @@ explicitly where I'm inferring rather than quoting a locked fact.
 
 **Abad's ruling, verbatim, once given:** "approved" (2026-09-21, closing the Psychological Profile
 and the full Game Plan — narrator, pacing, reserved threads, the pre-Book-1 launch-window constraint,
-and Chronicle I's pitch selection — in a single sign-off).
+and Testament I's pitch selection — in a single sign-off).
 
 ---
 
 ## 3. Game Plan
 
-**Standing constraint, set by Abad 2026-09-20: the launch wave (Chronicle I onward, until he says
+**Standing constraint, set by Abad 2026-09-20: the launch wave (Testament I onward, until he says
 otherwise) stays strictly pre-Book-1 — before the Fulfillment Ceremony murder of Aethelgard Verehimu
 and Maro Rexmar (`MCD-025`). Nothing set during or after the Accession Games / Maw circuit / Legion-
 building era gets drafted until he explicitly reopens that window.**
@@ -199,8 +199,8 @@ his POV chapters in the main books — including scenes set before he and Ozmund
 him later reconstructing/retelling from what Ozmund or others told him, matching how the books
 already handle material Red Beard wasn't personally present for.
 
-**Pacing convention:** Chronicle I runs freestanding, no strand structure yet — matching Lauris's own
-precedent (her Chronicle I predates her four-strand convention, which was only adopted starting her
+**Pacing convention:** Testament I runs freestanding, no strand structure yet — matching Lauris's own
+precedent (her Record I predates her four-strand convention, which was only adopted starting her
 wave 2). Whether Ozmund's series eventually braids strands (a natural split would be House-era /
 Maw-circuit / Legion-era / Reserved, once Book-1 territory reopens) gets revisited once there's more
 than one entry to look at.
@@ -210,7 +210,7 @@ fallout, Cassius Verehimu, Lucius Blackthorne, Grulak, the personal meaning behi
 (within the current pre-Book-1 window) the still-undramatized Draconis purity-test payoff and the
 Blackthorne doubt-seed, both of which require Book-1-era events to have already happened.
 
-**Chronicle I, confirmed by Abad 2026-09-20 ("love all of them. we will start with B"):
+**Testament I, confirmed by Abad 2026-09-20 ("love all of them. we will start with B"):
 "The Man Who Didn't Know What He Was Protecting"** — young Draconis, newly assigned to the House
 Guard, handles a real threat through skill and loyalty alone, entirely unaware Ozmund is a Gravity
 Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its actual origin point.
@@ -223,13 +223,13 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
 
 ---
 
-## 4. Chronicle Log
+## 4. Testament Log
 
-- **Chronicle I, "The Man Who Didn't Know What He Was Protecting"** — locked, Batch 303, 2026-09-22
+- **Testament I, "The Man Who Didn't Know What He Was Protecting"** — locked, Batch 303, 2026-09-22
   (`MCD-1730`). Full text at
-  `docs/lords-of-cian/chronicles/ozmund-chronicle-i-the-man-who-didnt-know-what-he-was-protecting.md`.
+  `docs/lords-of-cian/chronicles/ozmund-testament-i-the-man-who-didnt-know-what-he-was-protecting.md`.
   Abad's approval: "locked."
-- **Chronicles II–XX, a 19-entry wave** — locked, Batch 304, 2026-09-23 (`MCD-1731`–`MCD-1749`), per
+- **Testaments II–XX, a 19-entry wave** — locked, Batch 304, 2026-09-23 (`MCD-1731`–`MCD-1749`), per
   Abad's direction "add 19 more." Four strands, all strictly pre-Fulfillment-Ceremony: the **Draconis
   strand** (II–VI) deepens the purity-test relationship across political, near-discovery,
   institutional-cost, personal, and voluntary-devotion registers; the **Aethelgard strand** (VII–XI)
@@ -243,9 +243,9 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
   act of household defiance well below the eventual crown rejection, and a closing atmospheric entry
   on what the Crown-Scar was called before anyone understood it. A real cross-strand naming collision
   (two different minor characters independently named "Corwen") was caught and fixed before locking —
-  see `MCD-1747`. Files at `docs/lords-of-cian/chronicles/ozmund-chronicle-ii-*.md` through
-  `ozmund-chronicle-xx-*.md`. Ozmund's series now stands at 20 Chronicles total.
-- **Chronicles XXI–L, a 30-entry wave** — locked, Batch 305, 2026-09-23 (`MCD-1750`–`MCD-1779`), per
+  see `MCD-1747`. Files at `docs/lords-of-cian/chronicles/ozmund-testament-ii-*.md` through
+  `ozmund-testament-xx-*.md`. Ozmund's series now stands at 20 Testaments total.
+- **Testaments XXI–L, a 30-entry wave** — locked, Batch 305, 2026-09-23 (`MCD-1750`–`MCD-1779`), per
   Abad's direction "30 more." Six strands, all strictly pre-Fulfillment-Ceremony: second waves for the
   **Draconis** (XXI–XXV), **Aethelgard** (XXVI–XXX), **Val Mirel** (XXXI–XXXV, introducing the Seventh
   Cord heirloom and the Hollow Stand's sibling discipline's own near-failure), and **House politics**
@@ -254,13 +254,13 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
   Kade) and a closing **coming-of-age** strand (XLVI–L, Ozmund's own interiority — leadership, cost,
   maturation, private discipline, closing on "The Man He Was Becoming"). A full cross-strand collision
   sweep across all 17 new proper nouns confirmed zero collisions. Files at
-  `docs/lords-of-cian/chronicles/ozmund-chronicle-xxi-*.md` through `ozmund-chronicle-l-*.md`. Ozmund's
-  series now stands at 50 Chronicles total.
-- **Chronicles LI–CXX, a 70-entry wave**, bringing every strand to 20 entries — locked, Batch 306,
+  `docs/lords-of-cian/chronicles/ozmund-testament-xxi-*.md` through `ozmund-testament-l-*.md`. Ozmund's
+  series now stands at 50 Testaments total.
+- **Testaments LI–CXX, a 70-entry wave**, bringing every strand to 20 entries — locked, Batch 306,
   2026-09-23 (`MCD-1780`–`MCD-1849`), per Abad's direction "let's make sure each of these entries have
   20 total entries. logically woven into our rules and batches." Eight parallel background agents, one
   per strand block: **Draconis** (LI–LIX, +9) deepens the purity-test relationship through Ozmund's own
-  doubt, an outside provocation, warm domestic/near-banter registers, and a near-fatal cost (Chronicle
+  doubt, an outside provocation, warm domestic/near-banter registers, and a near-fatal cost (Testament
   LVII) that still leaves the dynamic unbroken; **Aethelgard** (LX–LXIX, +10) adds a genuine
   unrecoverable governance failure (Sennick), a second father-son disagreement, a private confession of
   self-doubt, a marriage-dynamic entry with Val Mirel, pure levity, a political defeat handled with
@@ -282,8 +282,8 @@ Titan, with Aethelgard alive and present. Plants the purity-test dynamic at its 
   and Iona Adderwell; Lord Ansel Varnhelt/House Varnhelt; Quartermaster Aldous Prynn; House Renlow;
   House Ashmere; Ser Dravot Skarne/House Skarne; Wendell Rowe; Factor Yewen Ashworth/House Ashworth)
   confirmed zero collisions against the live ledger and each other. Files at
-  `docs/lords-of-cian/chronicles/ozmund-chronicle-li-*.md` through `ozmund-chronicle-cxx-*.md`.
-  **Ozmund's series now stands at 120 Chronicles total — 20 entries per strand across all six strands.**
+  `docs/lords-of-cian/chronicles/ozmund-testament-li-*.md` through `ozmund-testament-cxx-*.md`.
+  **Ozmund's series now stands at 120 Testaments total — 20 entries per strand across all six strands.**
 - **CXXI — "The Night the Dike Held"** (`MCD-1886`). Ozmund's single pre-Ceremony marquee kill under
   `MCD-1881`: Marek Draye at the Lowmere dike, unwitnessed by Draconis, the first entry written to the
-  Voice Bible's Narrator 2 sheet (Red Beard). Batch 360. **Series now stands at 121 Chronicles.**
+  Voice Bible's Narrator 2 sheet (Red Beard). Batch 360. **Series now stands at 121 Testaments.**

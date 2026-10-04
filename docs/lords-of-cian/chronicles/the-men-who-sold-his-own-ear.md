@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 205, 2026-09-11 (`MCD-899`); corrected Batch 321, 2026-10-02 (a garbled
 continuity-note citation corrected to cite `MCD-499` alone). The Iron Bastard Alias Chronicle
-XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+XLVIII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Name She Had to Earn Twice
 
-*Locked canon, Batch 250, 2026-09-11 (`MCD-1086`). Storm That Walks Alias Chronicle LXI, wave 21, first entry in the wave. A newly posted Trust naval liaison refuses to act on the third-generation student's storm call over her lack of standing, and the retired successor deliberately declines to vouch for her -- the doctrine's first legitimacy-of-succession test, distinct from every prior test of the doctrine itself. Not a territory Chronicle.*
+*Locked canon, Batch 250, 2026-09-11 (`MCD-1086`). Storm That Walks Alias Chronicle LXI, wave 21, first entry in the wave. A newly posted Trust naval liaison refuses to act on the third-generation student's storm call over her lack of standing, and the retired successor deliberately declines to vouch for her -- the doctrine's first legitimacy-of-succession test, distinct from every prior test of the doctrine itself. Not a territory Annals entry.*
 
 ---
 

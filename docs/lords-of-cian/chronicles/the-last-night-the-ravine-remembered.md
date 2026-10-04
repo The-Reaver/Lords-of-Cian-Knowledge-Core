@@ -5,7 +5,7 @@ Bastard" doctrine references removed -- that alias doesn't exist until age 25, r
 after this age-~20 engagement -- and Obsidian Malice's charge reworded to drop a "two-year
 dormant-accumulation cycle" claim that can't complete inside this entry's own eighteen-month
 window). Bane Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

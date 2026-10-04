@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 247, 2026-09-11 (`MCD-1078`). Crow King Alias Chronicle LXII, wave 21. A
 detailed full-Trinity combat showcase fought entirely at a dead run, deception and battle woven
-together while nothing on either side stands still. Not a territory Chronicle. Clarified Batch 321,
+together while nothing on either side stands still. Not a territory Annals entry. Clarified Batch 321,
 2026-10-02: a pre-age-30 Rebellion-era entry; the Trinity (Mafesto, Obsidian Malice, Onyx of
 Oblivion) is fully available throughout, consistent with `MCD-246`.*
 

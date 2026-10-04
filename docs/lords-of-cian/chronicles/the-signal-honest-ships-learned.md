@@ -1,7 +1,7 @@
 # The Signal Honest Ships Learned
 
 *Locked canon, Batch 111, 2026-09-10 (`MCD-382`). The Scourge Alias Chronicle III, closing the
-wave. Long Mask era, Pirate Dawn (ages 48-52, `MCD-250`). Not a territory Chronicle. New standalone
+wave. Long Mask era, Pirate Dawn (ages 48-52, `MCD-250`). Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

@@ -1,6 +1,6 @@
 # The Secret He Should Have Told Them
 
-*Locked canon, Batch 212, 2026-09-11 (`MCD-918`). Captain Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 212, 2026-09-11 (`MCD-918`). Captain Alias Chronicle XLVI, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 110, 2026-09-10 (`MCD-379`). Sovereign Ghost of the Great Sea Alias
 Chronicle III, closing the wave. Rebellion era, aboard a Trust supply vessel somewhere off the
-Great Sea's contested waters. Not a territory Chronicle. New standalone material. Narrated in
+Great Sea's contested waters. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 121, 2026-09-11 (`MCD-411`). Sovereign Ghost Alias Chronicle V. Rebellion
 era, a detailed naval technical showcase during a genuine storm engagement, from Dol Maren's
-perspective -- already a locked named character (`CC-120`/`CC-121`). Not a territory Chronicle. New
+perspective -- already a locked named character (`CC-120`/`CC-121`). Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Dol Maren.*
 

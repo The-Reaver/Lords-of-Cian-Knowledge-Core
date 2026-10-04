@@ -1,7 +1,7 @@
 # The Meal That Bound Nothing
 
-*Locked canon, Batch 148, 2026-09-11 (`MCD-473`). Hekalu Chronicle II. Homage-era Mji,
-Hekalu/Adom. Territory Chronicle -- Adom as protagonist, Kanja an unnamed background guest with no
+*Locked canon, Batch 148, 2026-09-11 (`MCD-473`). Hekalu Annals II. Homage-era Mji,
+Hekalu/Adom. Territory Annals entry -- Adom as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 
 ---
@@ -48,6 +48,6 @@ without being noticed.
 ---
 
 *Continuity notes (not narrative): dramatizes and confirms the free-choice requirement of "The Common
-Table" (`PH2-055`) that Chronicle I's referenced past case only gestured toward -- a coerced guest,
+Table" (`PH2-055`) that Annals I's referenced past case only gestured toward -- a coerced guest,
 present under orders rather than genuine will, produces no binding at all, establishing the mechanic
-precisely. No new named characters. Second Hekalu territory Chronicle.*
+precisely. No new named characters. Second Hekalu territory Annals entry.*

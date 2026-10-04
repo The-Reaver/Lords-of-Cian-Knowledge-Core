@@ -1,7 +1,7 @@
 # The Crew That Challenged the Crescent
 
 *Locked canon, Batch 156, 2026-09-11 (`MCD-492`). The Scourge Alias Chronicle XI. Long Mask era,
-age ~130, the Golden Terror period. Not a territory Chronicle. New standalone material — a detailed
+age ~130, the Golden Terror period. Not a territory Annals entry. New standalone material — a detailed
 armor-and-weapon combat showcase per Abad's craft instruction. Onyx of Oblivion remains sealed at L9
 throughout the Long Mask, and Mafesto and Obsidian Malice remain surrendered per `MCD-246`; this
 showcase uses the Long Mask's built gear system only (`ARS-344` through `356`). Narrated in neutral

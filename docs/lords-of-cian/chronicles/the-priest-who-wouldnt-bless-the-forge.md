@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1331`). The Lord of Embers Alias Chronicle LXXXV, first
 entry in the twenty-ninth wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). A
 spiritual/religious-friction entry, the alias's first, resolved through respect rather than
-persuasion. Not a territory Chronicle. Narrated in neutral third-person prose.*
+persuasion. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

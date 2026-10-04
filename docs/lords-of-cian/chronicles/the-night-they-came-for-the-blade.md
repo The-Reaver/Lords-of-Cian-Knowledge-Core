@@ -1,6 +1,6 @@
 # The Night They Came for the Blade
 
-*Locked canon, Batch 215, 2026-09-11 (`MCD-935`). Bane Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 215, 2026-09-11 (`MCD-935`). Bane Alias Chronicle LI, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

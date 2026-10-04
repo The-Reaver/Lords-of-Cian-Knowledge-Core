@@ -1,7 +1,7 @@
 # The Student Who Chose Restraint
 
 *Locked canon, Batch 158, 2026-09-11 (`MCD-499`). The Iron Bastard Alias Chronicle XII, closing the
-fourth wave. Rebellion era, age 25. Not a territory Chronicle. New standalone material. Narrated in
+fourth wave. Rebellion era, age 25. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

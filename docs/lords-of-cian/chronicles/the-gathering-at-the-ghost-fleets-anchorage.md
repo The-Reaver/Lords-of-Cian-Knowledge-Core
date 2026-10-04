@@ -1,7 +1,7 @@
 # The Gathering at the Ghost Fleet's Anchorage
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-800`); corrected Batch 321, 2026-10-02 (a literal
-unresolved placeholder citation fixed to `MCD-797`). Sovereign Ghost of the Great Sea Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+unresolved placeholder citation fixed to `MCD-797`). Sovereign Ghost of the Great Sea Alias Chronicle XLV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

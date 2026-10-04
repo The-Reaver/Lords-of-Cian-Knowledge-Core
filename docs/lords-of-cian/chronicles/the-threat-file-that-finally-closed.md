@@ -1,6 +1,6 @@
 # The Threat File That Finally Closed
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-708`). Bane Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-708`). Bane Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

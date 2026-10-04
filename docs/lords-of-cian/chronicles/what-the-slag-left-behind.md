@@ -1,7 +1,7 @@
 # What the Slag Left Behind
 
 *Locked canon, Batch 238, 2026-09-11 (`MCD-1050`). The Lord of Embers Alias Chronicle LVIII, wave 20.
-Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. Narrated in neutral
+Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Annals entry. Narrated in neutral
 third-person prose. Corrected Batch 321, 2026-10-02: softened chronology compression ("eighteen
 months and thirty-one settlements deep," treating the tour as already complete mid-tour, to "months
 and two dozen settlements deep").*

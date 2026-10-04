@@ -3,7 +3,7 @@
 *Locked canon, Batch 122, 2026-09-11 (`MCD-414`). The Scourge Alias Chronicle V. Long Mask era,
 decades into the persona, from a reunion with Garren Hask -- already a locked named character
 (`CC-115`/`CC-116`), whose own long lifespan (consistent with this world's baseline, per CLAUDE.md's
-standing convention) keeps him alive and active well into this later era. Not a territory Chronicle.
+standing convention) keeps him alive and active well into this later era. Not a territory Annals entry.
 New standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Garren Hask.*
 

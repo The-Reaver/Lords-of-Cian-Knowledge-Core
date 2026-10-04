@@ -1,7 +1,7 @@
 # The Lie That Cost Someone Else
 
 *Locked canon, Batch 157, 2026-09-11 (`MCD-494`). The Crow King Alias Chronicle X, first entry in
-the fourth wave. Rebellion era, ages 23-28. Not a territory Chronicle. New standalone material — the
+the fourth wave. Rebellion era, ages 23-28. Not a territory Annals entry. New standalone material — the
 first genuine failure entry in this alias's run. Narrated in neutral third-person prose. No new
 named characters.*
 

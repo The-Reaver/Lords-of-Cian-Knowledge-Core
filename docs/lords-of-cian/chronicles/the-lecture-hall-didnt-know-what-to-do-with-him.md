@@ -1,7 +1,7 @@
 # The Lecture Hall Didn't Know What to Do With Him
 
 *Locked canon, Batch 154, 2026-09-11 (`MCD-487`). The Blue-Collar Titan Alias Chronicle XII, closing
-the fourth wave. Rebellion era, post-Killane. Not a territory Chronicle. New
+the fourth wave. Rebellion era, post-Killane. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters. Corrected
 Batch 321, 2026-10-02: header changed from "age 20, the Sewer War of Killane" to "post-Killane" --
 this is a lecture-hall entry set well after the war, per MCD-442's "remainder of the war" framing.*

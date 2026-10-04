@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 235, 2026-09-11 (`MCD-1041`). The Scourge Alias Chronicle LVIII, wave 20. A
 detailed V2-gear combat showcase against two hostile parties who refuse to cooperate with each
-other. Not a territory Chronicle. Narrated in neutral third-person prose.*
+other. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

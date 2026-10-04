@@ -6,7 +6,7 @@ doesn't exist yet in this Rebellion-era, still-live-Trinity window; swapped for 
 overlay and its own grounding footing). Sovereign Ghost of the Great Sea Alias Chronicle
 XCI, wave 31, first entry in the wave. A detailed full-Trinity combat showcase fought on foot across
 refrozen pack ice rather than ship-to-ship, when raiders exploit an early freeze to trap The Receipt
-and a supply tender in a sealed channel. Not a territory Chronicle. Narrated in neutral third-person
+and a supply tender in a sealed channel. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

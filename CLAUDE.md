@@ -17,11 +17,11 @@ Nothing gets merged into `canon-ledger.json` as `"status": "locked"` until Abad 
 3. Wait for Abad's explicit approval in his own words. Quote that approval verbatim into the batch's `note` field when it locks; do not paraphrase it.
 4. Only then write a merge script, run it, and lock the rules.
 
-## The second non-negotiable rule: Character Chronicle Launch Protocol (Abad, 2026-09-20)
+## The second non-negotiable rule: Series Launch Protocol (Abad, 2026-09-20; named the Character Chronicle Launch Protocol until VB-066, 2026-10-04)
 
-No Chronicle prose gets drafted or presented for ANY protagonist -- across all three Chronicle
-tracks (Character Chronicles, Alias Chronicles, territory Chronicles), whether a brand-new launch or
-the next wave of an already-running series -- until that character has a profile+game-plan file at
+No prose gets drafted or presented for ANY protagonist -- across all three tracks (character
+Series, Alias Chronicles, territory Annals), whether a brand-new launch or the next wave of an
+already-running series -- until that character has a profile+game-plan file at
 `docs/lords-of-cian/character-profiles/<slug>.md` that has reached "game plan approved." This sits
 in front of, not instead of, the draft-then-approval-then-lock rule above; it governs what happens
 before the first draft exists.
@@ -30,23 +30,25 @@ The gate, in order, per character:
 1. **Rules Walkthrough** -- every locked rule touching that character, pulled from the ledger and
    organized thematically (biography/stats, relationships, abilities/gear, already-locked plot
    beats, reserved/unresolved threads, and -- for an already-running series -- a summary of what the
-   existing Chronicle corpus has already established). Presented as a document, not grep output.
+   existing entry corpus has already established). Presented as a document, not grep output.
 2. **Psychological Profile** -- built collaboratively with Abad, not handed to him finished: core
    wound, defenses, values, how they hold contradiction, relationship patterns, what breaks them,
    their defining emotional throughline. For the 11 Alias Chronicle personas, this is a shared
    underlying psychology (Kanja's own) expressed through that alias's distinct register/era/themes,
    not 11 separate invented childhoods.
 3. **Game Plan** -- narrator/voice confirmation, pacing convention (single sequence vs. multi-strand,
-   and why), a reserved-threads inventory, and 2-3 candidate Chronicle-I/next-wave pitches for Abad
-   to pick from or redirect, never one pre-committed draft presented as a fait accompli.
+   and why), a reserved-threads inventory, and 2-3 candidate first-entry/next-wave pitches for Abad
+   to pick from or redirect, never one pre-committed draft presented as a fait accompli. For a
+   non-Kanja protagonist this step also proposes the series name (`VB-066`); every new entry's
+   header carries its account type and teller (`VB-067`).
 
 Template at `docs/lords-of-cian/character-profiles/_TEMPLATE.md`. Live status for every character
 across all three tracks tracked at `docs/lords-of-cian/chronicle-tracks-status.md`.
 
 Per Abad's explicit ruling ("Backfill everything," 2026-09-20), this gate applies retroactively to
 every already-launched protagonist, not just new ones: all 11 Alias Chronicle personas, all 20
-territory Chronicle leaders plus Arturo Salvatierra Duho, and both already-launched Character
-Chronicle track members (Lauris, Daba) -- 34 backfills plus Ozmund as the first character launched
+territory Annals leaders plus Arturo Salvatierra Duho, and both already-launched character
+Series track members (Lauris, Daba) -- 34 backfills plus Ozmund as the first character launched
 under the gate, 35 total. Mechanical extraction (the Rules Walkthrough, existing-corpus summaries)
 is safe to run via parallel background agents per character. The Psychological Profile and Game Plan
 steps require Abad's actual review -- for the backfill, presented in digestible batches rather than
@@ -61,12 +63,12 @@ connective tissue must be well thought out and well placed so it's only logical 
 from here on out please make sure this is gated."
 
 Logical connection across the whole canon outranks every other consideration. Nothing gets
-presented to Abad until it has passed this gate. That covers every Chronicle, every rule draft,
+presented to Abad until it has passed this gate. That covers every entry, every rule draft,
 every correction, every profile section, and every merge. The gate, in order:
 
 1. **Mechanical check.** Run `python3 scripts/connective_tissue_check.py <draft>`. It must exit 0:
    every cited rule ID exists and is locked. The script's output is the checklist: every proper
-   noun with the rules and Chronicles that already use it, every new name with its near-collisions,
+   noun with the rules and entries that already use it, every new name with its near-collisions,
    and every number (age, year, count, density, distance) in the narrative.
 2. **Independent review.** A fresh-context reviewer, one who did not write the draft, reads it beside
    every rule the script listed and tries to break it. They check ages and dates against each
@@ -76,7 +78,7 @@ every correction, every profile section, and every merge. The gate, in order:
    against `CC-161`/`CC-162`/`MCD-1882`, and reserved threads against the profile. Every finding gets
    fixed and the draft is re-checked before it is presented.
 3. **Propagation.** Any change to a locked fact is carried in the same batch to every rule
-   statement, Chronicle, profile, and tracker row that states it, found by a repo-wide grep. A fact
+   statement, entry, profile, and tracker row that states it, found by a repo-wide grep. A fact
    corrected in one place and left stale in another is a gate failure.
 4. **Presentation.** Every draft is presented with a short connective-tissue note: what it agrees
    with, what it extends, what it touches, and which new names were collision-checked. Approval
@@ -143,25 +145,25 @@ Abad also flagged, 2026-09-05, a larger pending item: the original manuscript Ch
 
 **Batch 67, 2026-09-06 (`VB-026`, plus `PH2-061` amended twice).** Two things, both craft/character-deepening rather than new plot. First, a new standing Voice Bible rule: Book 1 (and any future Kanja-POV rewrite of Chronicles I-VIII) uses a progressive narrator handoff -- normal, neutral prose at the Rebellion's start, with Onyx of Oblivion appearing only as a short end-of-chapter coda; Onyx's presence grows chapter by chapter until, by the Rebellion's end (age 30, the Trinity's surrender), Onyx has fully become the narrator, matching the steady-state credit already locked at `VB-020`/`021`. Explicitly does not apply to the Phase 2 territory Chronicles, which are close-third on their own protagonists, not Kanja-POV. Second, Arturo's backstory deepens: his given name and Spanish surname aren't his family's -- they're what Spanish colonization imposed on his lineage generations back, kept deliberately as a reminder of what's owed; Duho, by contrast, is the clan name he recovered himself, tracing what colonization tried to erase through falsified records and destroyed archives until he found it. He is purposefully, deliberately adversarial toward anyone descended from that specific colonial lineage -- not loss of control, not complaint, a chosen position he's fully at peace with, and one he pursues in full awareness that race as a category was invented by the same colonial system rather than existing before it. Flagged for later: prequel Chronicles predating Xaragua Chronicle II are the intended place to show the vulnerable, breaking version of him before this stillness was earned -- not yet drafted, held as a future direction.
 
-**Areíto's first Chronicle, Batch 76, 2026-09-07 (`MCD-339`).** Areíto Chronicle I, "What Doesn't Land" (full narrative text at `docs/lords-of-cian/chronicles/areito-chronicle-i-what-doesnt-land.md`), the fifth territory Chronicle overall and Areíto's first -- Kwame Ade had no Chronicle yet despite being explicitly "equally formidable" to Ogoun Xarey (`PH2-004`). Eleven days after the public break marking his second reinvention, three former allies come to kill him in a barbershop back room; an unnamed Kanja arrives an hour ahead of them and stands aside, present but uninvolved throughout, matching the Xaragua/Umoja/Yara precedent. The scene puts Kwame Ade's signature ability, "conviction as armor," directly on the page for the first time: two honest blows from a man still torn between love and betrayal simply don't land, a drawn blade goes back in its sheath unused, and the third man leaves without swinging at all -- Kwame Ade never raises a hand. Kanja's parting line is a deliberate, unresolved forward reference to `PH2-004`'s own stated vulnerability (the one man who will eventually land a blow on him is someone who shares his certainty, not his doubt) -- a hook for a future Chronicle, not paid off here. No new named characters introduced. Abad's approval: "lock it." This is the project's first Chronicle-writing pass to run inside the current cloud/remote session rather than a Cowork/local one -- the device-bridge merge for the real Brain Trust review (see the standing blocker below) remains separately blocked and unaffected by this.
+**Areíto's first Chronicle, Batch 76, 2026-09-07 (`MCD-339`).** Areíto Chronicle I, "What Doesn't Land" (full narrative text at `docs/lords-of-cian/chronicles/areito-annals-i-what-doesnt-land.md`), the fifth territory Chronicle overall and Areíto's first -- Kwame Ade had no Chronicle yet despite being explicitly "equally formidable" to Ogoun Xarey (`PH2-004`). Eleven days after the public break marking his second reinvention, three former allies come to kill him in a barbershop back room; an unnamed Kanja arrives an hour ahead of them and stands aside, present but uninvolved throughout, matching the Xaragua/Umoja/Yara precedent. The scene puts Kwame Ade's signature ability, "conviction as armor," directly on the page for the first time: two honest blows from a man still torn between love and betrayal simply don't land, a drawn blade goes back in its sheath unused, and the third man leaves without swinging at all -- Kwame Ade never raises a hand. Kanja's parting line is a deliberate, unresolved forward reference to `PH2-004`'s own stated vulnerability (the one man who will eventually land a blow on him is someone who shares his certainty, not his doubt) -- a hook for a future Chronicle, not paid off here. No new named characters introduced. Abad's approval: "lock it." This is the project's first Chronicle-writing pass to run inside the current cloud/remote session rather than a Cowork/local one -- the device-bridge merge for the real Brain Trust review (see the standing blocker below) remains separately blocked and unaffected by this.
 
-**Guanín's first Chronicle, Batch 77, 2026-09-08 (`MCD-340`).** Guanín Chronicle I, "The Debt Comes Due" (full narrative text at `docs/lords-of-cian/chronicles/guanin-chronicle-i-the-debt-comes-due.md`), the sixth territory Chronicle overall and Guanín's first. On the evening his six-year forced-restraint bargain ends, Eri Kotoko is watched through the night by an unnamed Kanja, present but uninvolved, matching the established convention. The scene puts "The Unanswered Blow" (`PH2-008`) directly on the page for the first time: six years of consciously banked provocation released in one precise strike against the actual man who caused it (an unnamed counting-house figure), not a proxy, with the ability's own cost respected explicitly -- the release is deliberate, not angry. `PH2-008`'s already-locked friction with Kwame Ade is left undramatized, open for a future entry. No new named characters introduced. Process note: this batch's draft was committed to the repo *before* Abad's approval, marked plainly as unlocked/pending in its own file header (per a Stop-hook requirement to keep the working tree clean) -- the header was corrected to "Locked canon" only after his approval landed and the merge script ran. Abad's approval: "locked."
+**Guanín's first Chronicle, Batch 77, 2026-09-08 (`MCD-340`).** Guanín Chronicle I, "The Debt Comes Due" (full narrative text at `docs/lords-of-cian/chronicles/guanin-annals-i-the-debt-comes-due.md`), the sixth territory Chronicle overall and Guanín's first. On the evening his six-year forced-restraint bargain ends, Eri Kotoko is watched through the night by an unnamed Kanja, present but uninvolved, matching the established convention. The scene puts "The Unanswered Blow" (`PH2-008`) directly on the page for the first time: six years of consciously banked provocation released in one precise strike against the actual man who caused it (an unnamed counting-house figure), not a proxy, with the ability's own cost respected explicitly -- the release is deliberate, not angry. `PH2-008`'s already-locked friction with Kwame Ade is left undramatized, open for a future entry. No new named characters introduced. Process note: this batch's draft was committed to the repo *before* Abad's approval, marked plainly as unlocked/pending in its own file header (per a Stop-hook requirement to keep the working tree clean) -- the header was corrected to "Locked canon" only after his approval landed and the merge script ran. Abad's approval: "locked."
 
-**Borikén's first Chronicle, Batch 78, 2026-09-09 (`MCD-341`).** Borikén Chronicle I, "The Fire That Found No Center" (full narrative text at `docs/lords-of-cian/chronicles/boriken-chronicle-i-the-fire-that-found-no-center.md`), the seventh territory Chronicle overall and Borikén's first -- this completes a first Chronicle entry for every one of NYC's five territories (Xaragua, Areíto, Yara, Guanín, Borikén). An unnamed career administrator, after five failed raids each capture only a stand-in wearing Guaní's face, shifts strategy from hunting the man to burning five of his institutions in one coordinated night (the hospital wing, the garbage depot, two rooftop halls, a church hall). The scene puts "No Single Point" (`PH2-010`) directly on the page for the first time: no location holds the real him, so none of the five raids ends him -- and the ability's own stated cost is dramatized as the story's actual engine rather than a caveat, since the church hall's six-year debt ledger burns and can't be fully rebuilt from the memory of the forty people who held pieces of it, a real, uncompensated loss rather than a disguised win. An unnamed Kanja is present at the church-hall raid and physically helps carry people to safety without taking command, credit, or resolution authorship -- closer to Xaragua Chronicle I's "one more body" than Guanín Chronicle I's pure witness. No new named characters introduced. Same process as Batch 77: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
+**Borikén's first Chronicle, Batch 78, 2026-09-09 (`MCD-341`).** Borikén Chronicle I, "The Fire That Found No Center" (full narrative text at `docs/lords-of-cian/chronicles/boriken-annals-i-the-fire-that-found-no-center.md`), the seventh territory Chronicle overall and Borikén's first -- this completes a first Chronicle entry for every one of NYC's five territories (Xaragua, Areíto, Yara, Guanín, Borikén). An unnamed career administrator, after five failed raids each capture only a stand-in wearing Guaní's face, shifts strategy from hunting the man to burning five of his institutions in one coordinated night (the hospital wing, the garbage depot, two rooftop halls, a church hall). The scene puts "No Single Point" (`PH2-010`) directly on the page for the first time: no location holds the real him, so none of the five raids ends him -- and the ability's own stated cost is dramatized as the story's actual engine rather than a caveat, since the church hall's six-year debt ledger burns and can't be fully rebuilt from the memory of the forty people who held pieces of it, a real, uncompensated loss rather than a disguised win. An unnamed Kanja is present at the church-hall raid and physically helps carry people to safety without taking command, credit, or resolution authorship -- closer to Xaragua Chronicle I's "one more body" than Guanín Chronicle I's pure witness. No new named characters introduced. Same process as Batch 77: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 
-**Ide's first Chronicle, Batch 79, 2026-09-09 (`MCD-342`).** Ide Chronicle I, "What Could Not Be Buried" (full narrative text at `docs/lords-of-cian/chronicles/ide-chronicle-i-what-could-not-be-buried.md`), the eighth territory Chronicle overall and Ide's first -- opens Chicago's own run of territory Chronicles (Umoja already had one; Ide, Kwan, Jibaro, and Uhuru did not). An unnamed local authority (the Magistrate of Ide) publicly executes an innocent man over a granary theft he didn't commit, deciding guilt within the hour. Ase, arriving too late to intervene, spends the following days documenting the dead man's name, every witness, and the Magistrate's own words. The scene puts "Named and Numbered" (`PH2-036`) directly on the page for the first time, honoring both its mechanic and its stated cost: no power to have stopped the execution, but an account that becomes permanently impossible to erase once copied and carried out of Ide by multiple independent routes before the Magistrate's men can seize the original plates. An unnamed Kanja is present at the execution itself, equally unable to intervene, and later helps smuggle one copy out of the city without taking credit. No new named characters introduced. Same process as Batches 77-78: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
+**Ide's first Chronicle, Batch 79, 2026-09-09 (`MCD-342`).** Ide Chronicle I, "What Could Not Be Buried" (full narrative text at `docs/lords-of-cian/chronicles/ide-annals-i-what-could-not-be-buried.md`), the eighth territory Chronicle overall and Ide's first -- opens Chicago's own run of territory Chronicles (Umoja already had one; Ide, Kwan, Jibaro, and Uhuru did not). An unnamed local authority (the Magistrate of Ide) publicly executes an innocent man over a granary theft he didn't commit, deciding guilt within the hour. Ase, arriving too late to intervene, spends the following days documenting the dead man's name, every witness, and the Magistrate's own words. The scene puts "Named and Numbered" (`PH2-036`) directly on the page for the first time, honoring both its mechanic and its stated cost: no power to have stopped the execution, but an account that becomes permanently impossible to erase once copied and carried out of Ide by multiple independent routes before the Magistrate's men can seize the original plates. An unnamed Kanja is present at the execution itself, equally unable to intervene, and later helps smuggle one copy out of the city without taking credit. No new named characters introduced. Same process as Batches 77-78: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 
-**Kwan's first Chronicle, Batch 80, 2026-09-09 (`MCD-343`).** Kwan Chronicle I, "The Weight of Being Asked" (full narrative text at `docs/lords-of-cian/chronicles/kwan-chronicle-i-the-weight-of-being-asked.md`), the ninth territory Chronicle overall and Kwan's first. After eleven weeks of stalled open-housing organizing, Kasa personally asks an unnamed, long-entrenched ward broker not to march but to speak one public sentence endorsing the cause in his own voice. The scene puts "The Invitation" (`PH2-038`) directly on the page for the first time via this fresh recipient, deliberately distinct from the ability's own already-locked backstory event (the coalition's invitation of a real-world-shaped outside leader, who per `PH2-038` stays backstory-only, matching the Toussaint-Louverture/Ogoun-Xarey precedent for figures never separately named or dramatized on-page): the broker's single sentence converts eleven previously unreachable homeowners into marchers overnight. The ability's cost is honored explicitly -- the broker's words don't stop a single rock when the resulting march is attacked three blocks in, and the eventual agreement is left as a victory of uncertain real weight, matching `PH2-038`'s own framing rather than resolving it. An unnamed Kanja is present at the march and shields a struck marcher without taking credit. No new named characters introduced. Same process as Batches 77-79: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
+**Kwan's first Chronicle, Batch 80, 2026-09-09 (`MCD-343`).** Kwan Chronicle I, "The Weight of Being Asked" (full narrative text at `docs/lords-of-cian/chronicles/kwan-annals-i-the-weight-of-being-asked.md`), the ninth territory Chronicle overall and Kwan's first. After eleven weeks of stalled open-housing organizing, Kasa personally asks an unnamed, long-entrenched ward broker not to march but to speak one public sentence endorsing the cause in his own voice. The scene puts "The Invitation" (`PH2-038`) directly on the page for the first time via this fresh recipient, deliberately distinct from the ability's own already-locked backstory event (the coalition's invitation of a real-world-shaped outside leader, who per `PH2-038` stays backstory-only, matching the Toussaint-Louverture/Ogoun-Xarey precedent for figures never separately named or dramatized on-page): the broker's single sentence converts eleven previously unreachable homeowners into marchers overnight. The ability's cost is honored explicitly -- the broker's words don't stop a single rock when the resulting march is attacked three blocks in, and the eventual agreement is left as a victory of uncertain real weight, matching `PH2-038`'s own framing rather than resolving it. An unnamed Kanja is present at the march and shields a struck marcher without taking credit. No new named characters introduced. Same process as Batches 77-79: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 
-**Jibaro's first Chronicle, Batch 81, 2026-09-09 (`MCD-344`).** Jibaro Chronicle I, "What the Walls Refused" (full narrative text at `docs/lords-of-cian/chronicles/jibaro-chronicle-i-what-the-walls-refused.md`), the tenth territory Chronicle overall and Jibaro's first. Omoba and his people occupy a seminary building past the one-day threshold; when the diocese sends men to force them out by violence, the door itself refuses to yield. The scene puts "The Occupation" (`PH2-042`) directly on the page for the first time, dramatizing both its mechanic and its stated cost in the same episode: the seminary becomes permanently unreclaimable by force, while an adjoining half-acre lot -- never actually held a full day, belonging to no institution with anything to be ashamed of -- is retaken within the hour with no resistance at all, matching `PH2-042`'s stated limitation precisely rather than leaving it abstract. An unnamed Kanja is embedded in the occupation from early in the week, doing ordinary logistics, without taking credit. No new named characters introduced. Same process as Batches 77-80: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
+**Jibaro's first Chronicle, Batch 81, 2026-09-09 (`MCD-344`).** Jibaro Chronicle I, "What the Walls Refused" (full narrative text at `docs/lords-of-cian/chronicles/jibaro-annals-i-what-the-walls-refused.md`), the tenth territory Chronicle overall and Jibaro's first. Omoba and his people occupy a seminary building past the one-day threshold; when the diocese sends men to force them out by violence, the door itself refuses to yield. The scene puts "The Occupation" (`PH2-042`) directly on the page for the first time, dramatizing both its mechanic and its stated cost in the same episode: the seminary becomes permanently unreclaimable by force, while an adjoining half-acre lot -- never actually held a full day, belonging to no institution with anything to be ashamed of -- is retaken within the hour with no resistance at all, matching `PH2-042`'s stated limitation precisely rather than leaving it abstract. An unnamed Kanja is embedded in the occupation from early in the week, doing ordinary logistics, without taking credit. No new named characters introduced. Same process as Batches 77-80: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 
-**Uhuru's first Chronicle, Batch 82, 2026-09-09 (`MCD-345`).** Uhuru Chronicle I, "The Patience That Cost Him" (full narrative text at `docs/lords-of-cian/chronicles/uhuru-chronicle-i-the-patience-that-cost-him.md`), the eleventh territory Chronicle overall and Uhuru's first -- completes a first Chronicle entry for every one of Chicago's five territories (Ide, Kwan, Umoja, Jibaro, Uhuru), matching NYC's own completed set. Ofin, blocked by a hostile council bloc's repeated defeat of the fair-housing review board's funding (the same board Kwan Chronicle I's ward broker once staked one public sentence on, `MCD-343`), refuses to stop resubmitting it across dozens of votes. The scene puts "The Override" (`PH2-044`) directly on the page for the first time: the obstruction breaks completely and permanently once a court-ordered redistricting shifts the council's composition. The ability's cost is honored explicitly without resolving into the character's already-locked capstone death -- the same engine wearing the obstruction down visibly wears Ofin down in turn (reduced sleep, a physician his wife wants him to see), left as foreshadowing per `PH2-044`'s own framing rather than paid off here; his 1987 death at his own desk remains the deliberate, as-built capstone cost for a future entry. This Chronicle also closes the continuity thread opened in Kwan Chronicle I: the fair-housing agreement left there as "a victory of uncertain real weight" is confirmed here, years later, as genuinely made real, through Ofin's endurance rather than Kasa's original legitimacy-granting act. An unnamed Kanja is present in City Hall's late-hour orbit without taking credit. No new named characters introduced. Same process as Batches 77-81: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
+**Uhuru's first Chronicle, Batch 82, 2026-09-09 (`MCD-345`).** Uhuru Chronicle I, "The Patience That Cost Him" (full narrative text at `docs/lords-of-cian/chronicles/uhuru-annals-i-the-patience-that-cost-him.md`), the eleventh territory Chronicle overall and Uhuru's first -- completes a first Chronicle entry for every one of Chicago's five territories (Ide, Kwan, Umoja, Jibaro, Uhuru), matching NYC's own completed set. Ofin, blocked by a hostile council bloc's repeated defeat of the fair-housing review board's funding (the same board Kwan Chronicle I's ward broker once staked one public sentence on, `MCD-343`), refuses to stop resubmitting it across dozens of votes. The scene puts "The Override" (`PH2-044`) directly on the page for the first time: the obstruction breaks completely and permanently once a court-ordered redistricting shifts the council's composition. The ability's cost is honored explicitly without resolving into the character's already-locked capstone death -- the same engine wearing the obstruction down visibly wears Ofin down in turn (reduced sleep, a physician his wife wants him to see), left as foreshadowing per `PH2-044`'s own framing rather than paid off here; his 1987 death at his own desk remains the deliberate, as-built capstone cost for a future entry. This Chronicle also closes the continuity thread opened in Kwan Chronicle I: the fair-housing agreement left there as "a victory of uncertain real weight" is confirmed here, years later, as genuinely made real, through Ofin's endurance rather than Kasa's original legitimacy-granting act. An unnamed Kanja is present in City Hall's late-hour orbit without taking credit. No new named characters introduced. Same process as Batches 77-81: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 
-**Sankofa's first Chronicle, Batch 83, 2026-09-09 (`MCD-346`).** Sankofa Chronicle I, "The Man Who Turned Against Himself" (full narrative text at `docs/lords-of-cian/chronicles/sankofa-chronicle-i-the-man-who-turned-against-himself.md`), the twelfth territory Chronicle overall and Sankofa's first -- opens Los Angeles's own run of territory Chronicles (Aztlán, Atunbi, Ijoko, and Orin still have none). A rival lieutenant, Kojo (a new named character, Akan Monday-born day-name), attacks Baálé face to face in broad daylight over disputed western-block territory. The scene puts "The Turn" (`PH2-021`) directly on the page for the first time via this fresh one-on-one attacker, deliberately distinct from the ability's already-locked backstory event (the COINTELPRO-orchestrated ambush that nearly killed Baálé and Kra, kept backstory-only, not restaged): surviving the exchange, Kojo becomes bound to serve Baálé within the week. The ability's cost is honored explicitly and left as live, unresolved tension -- Baálé states plainly that a faceless, coordinated threat, the same shape as the COINTELPRO conspiracy in his backstory, is exactly what his gift cannot reach. An unnamed Kanja watches from the crowd's edge, entirely uninvolved. Process note: this batch's draft caught and fixed a real error before commit -- the antagonist was first drafted as "Diaz," a real-world Spanish surname, which violates both the standing no-real-world-proper-nouns naming convention and the world's own established reading of Spanish colonial surnames as imposed identity (per Arturo Salvatierra Duho's backstory, Batch 67); renamed to Kojo before the draft was ever shown to Abad. Same process as Batches 77-82: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
+**Sankofa's first Chronicle, Batch 83, 2026-09-09 (`MCD-346`).** Sankofa Chronicle I, "The Man Who Turned Against Himself" (full narrative text at `docs/lords-of-cian/chronicles/sankofa-annals-i-the-man-who-turned-against-himself.md`), the twelfth territory Chronicle overall and Sankofa's first -- opens Los Angeles's own run of territory Chronicles (Aztlán, Atunbi, Ijoko, and Orin still have none). A rival lieutenant, Kojo (a new named character, Akan Monday-born day-name), attacks Baálé face to face in broad daylight over disputed western-block territory. The scene puts "The Turn" (`PH2-021`) directly on the page for the first time via this fresh one-on-one attacker, deliberately distinct from the ability's already-locked backstory event (the COINTELPRO-orchestrated ambush that nearly killed Baálé and Kra, kept backstory-only, not restaged): surviving the exchange, Kojo becomes bound to serve Baálé within the week. The ability's cost is honored explicitly and left as live, unresolved tension -- Baálé states plainly that a faceless, coordinated threat, the same shape as the COINTELPRO conspiracy in his backstory, is exactly what his gift cannot reach. An unnamed Kanja watches from the crowd's edge, entirely uninvolved. Process note: this batch's draft caught and fixed a real error before commit -- the antagonist was first drafted as "Diaz," a real-world Spanish surname, which violates both the standing no-real-world-proper-nouns naming convention and the world's own established reading of Spanish colonial surnames as imposed identity (per Arturo Salvatierra Duho's backstory, Batch 67); renamed to Kojo before the draft was ever shown to Abad. Same process as Batches 77-82: committed as an unlocked/pending draft first, header corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 
-**LA's remaining four territory Chronicles, Batches 84-87, 2026-09-09 (`MCD-347` through `MCD-350`), under Abad's blanket authorization: "continue uninterrupted until completion this includes test, commit, push to main origin and google drive."** All four written, locked, and committed in one continuous pass, no per-item pause, completing a first Chronicle entry for every one of Los Angeles's five territories (Sankofa already had one from Batch 83). **Aztlán Chronicle I, "One Body, Many Hands"** (`MCD-347`, `docs/lords-of-cian/chronicles/aztlan-chronicle-i-one-body-many-hands.md`) -- during an East LA walkout, Ollin's forty personally drilled people hold a defensive line as one dramatically amplified force against a counter-crowd, putting "The Formation" (`PH2-023`) on the page for the first time; the ability's cost (the group's later, already-locked fracture over Iya's 1970 walkout) is deliberately not restaged, left as an unresolved forward reference in Ollin's own closing line. **Atunbi Chronicle I, "What Takes Root"** (`MCD-348`, `docs/lords-of-cian/chronicles/atunbi-chronicle-i-what-takes-root.md`) -- a fast dawn demolition strike takes a third of a garden Oluwole has held before "Don't Move, Improve" (`PH2-025`) can do anything about it, dramatizing the ability's speed-blind-spot cost explicitly; ordinary human numbers, not the gift, are what actually stop the attack. **Ijoko Chronicle I, "What Laughter Couldn't Move"** (`MCD-349`, `docs/lords-of-cian/chronicles/ijoko-chronicle-i-what-laughter-couldnt-move.md`) -- repeated deniable mockery in council sessions fails to shake Adwoa, putting "The Iron Hand in the Velvet Glove" (`PH2-027`) on the page, while the same episode shows the ability doing nothing against the real economic decline (tax-base flight) working against her. **Orin Chronicle I, "What Can't Be Sold"** (`MCD-350`, `docs/lords-of-cian/chronicles/orin-chronicle-i-what-cant-be-sold.md`) -- Onilu deliberately lets a promoter record a performance to prove, on the page, that "The Ark" (`PH2-029`)'s binding vanishes the instant it's commercialized. All four: an unnamed Kanja present with no command/credit/resolution authorship; no new named characters; zero collisions. Written directly with "Locked canon" headers rather than the draft-then-correct two-commit pattern of Batches 77-83, since the blanket authorization removed the pause between draft and approval.
+**LA's remaining four territory Chronicles, Batches 84-87, 2026-09-09 (`MCD-347` through `MCD-350`), under Abad's blanket authorization: "continue uninterrupted until completion this includes test, commit, push to main origin and google drive."** All four written, locked, and committed in one continuous pass, no per-item pause, completing a first Chronicle entry for every one of Los Angeles's five territories (Sankofa already had one from Batch 83). **Aztlán Chronicle I, "One Body, Many Hands"** (`MCD-347`, `docs/lords-of-cian/chronicles/aztlan-annals-i-one-body-many-hands.md`) -- during an East LA walkout, Ollin's forty personally drilled people hold a defensive line as one dramatically amplified force against a counter-crowd, putting "The Formation" (`PH2-023`) on the page for the first time; the ability's cost (the group's later, already-locked fracture over Iya's 1970 walkout) is deliberately not restaged, left as an unresolved forward reference in Ollin's own closing line. **Atunbi Chronicle I, "What Takes Root"** (`MCD-348`, `docs/lords-of-cian/chronicles/atunbi-annals-i-what-takes-root.md`) -- a fast dawn demolition strike takes a third of a garden Oluwole has held before "Don't Move, Improve" (`PH2-025`) can do anything about it, dramatizing the ability's speed-blind-spot cost explicitly; ordinary human numbers, not the gift, are what actually stop the attack. **Ijoko Chronicle I, "What Laughter Couldn't Move"** (`MCD-349`, `docs/lords-of-cian/chronicles/ijoko-annals-i-what-laughter-couldnt-move.md`) -- repeated deniable mockery in council sessions fails to shake Adwoa, putting "The Iron Hand in the Velvet Glove" (`PH2-027`) on the page, while the same episode shows the ability doing nothing against the real economic decline (tax-base flight) working against her. **Orin Chronicle I, "What Can't Be Sold"** (`MCD-350`, `docs/lords-of-cian/chronicles/orin-annals-i-what-cant-be-sold.md`) -- Onilu deliberately lets a promoter record a performance to prove, on the page, that "The Ark" (`PH2-029`)'s binding vanishes the instant it's commercialized. All four: an unnamed Kanja present with no command/credit/resolution authorship; no new named characters; zero collisions. Written directly with "Locked canon" headers rather than the draft-then-correct two-commit pattern of Batches 77-83, since the blanket authorization removed the pause between draft and approval.
 
-**Detroit's five territory Chronicles, Batches 88-92, 2026-09-09 (`MCD-351` through `MCD-355`), same blanket authorization, continuing uninterrupted from the LA batch.** All five written, locked, and committed in the same pass, completing a first Chronicle entry for every one of Detroit's five territories -- the fourth and final homage-era city to reach full territory-Chronicle coverage, matching NYC, Chicago, and LA (21 territory Chronicles total across all four cities). **Kazi Chronicle I, "The Line That Heard Him"** (`MCD-351`, `docs/lords-of-cian/chronicles/kazi-chronicle-i-the-line-that-heard-him.md`) -- when a foreman keeps the assembly line running around a jammed press rather than relieving the two men absorbing its backlog, Irin calls a halt from his own station; every man bound into the chain feels it instantly, without a word passed hand to hand, putting "The Line Stops" (`PH2-051`) on the page for the first time. The same episode dramatizes the ability's cost precisely: three outside hires brought in to break the standstill feel nothing at all, since they were never structurally bound into the chain. Opens Detroit's own run of territory Chronicles. **Taifa Chronicle I, "Bound Without a Word"** (`MCD-352`, `docs/lords-of-cian/chronicles/taifa-chronicle-i-bound-without-a-word.md`) -- a dawn raid on the claimed land's outer post arrives faster than any rider could warn the other sworn cells; Osei feels the need arrive whole, and sworn hands converge from three unconnected cities within minutes of each other, putting "Kin at a Distance" (`PH2-053`) on the page. Osei states the ability's cost explicitly: mere agreement or admiration for the cause reaches no one -- only those who actually swore the oath and meant it. Yaw is referenced consistently with his already-locked co-founder role; the RNA's real exiled first president stays backstory-only. **Hekalu Chronicle I, "Whoever Sits Down"** (`MCD-353`, `docs/lords-of-cian/chronicles/hekalu-chronicle-i-whoever-sits-down.md`) -- a suspicious rival cooperative owner freely chooses to sit and eat at Adom's table, then returns days later with an unprompted joint wage-floor proposal he can't fully explain offering, putting "The Common Table" (`PH2-055`) on the page. The ability's cost is dramatized through both the rival's required free choice and a referenced past case of a man who sat down without meaning to be there and left entirely unchanged. **Nyansa Chronicle I, "The Word That Stuck"** (`MCD-354`, `docs/lords-of-cian/chronicles/nyansa-chronicle-i-the-word-that-stuck.md`) -- Adisa names his own organizing committee's unexamined exclusion of night-shift workers from its votes aloud, and the argument never returns to its old unresolved shape, putting "The Long Correction" (`PH2-057`) on the page via a successful case; a deliberate contrast case (the same technique tried on a rival faction leader with no latent doubt underneath) fails completely, dramatizing the ability's cost precisely. Adisa's real co-theorist and life partner (homage to Grace Lee Boggs) stays backstory-only. **Kiti Chronicle I, "What Wore Down Instead"** (`MCD-355`, `docs/lords-of-cian/chronicles/kiti-chronicle-i-what-wore-down-instead.md`) -- a three-week manufactured scandal meant to wear Owusu down instead sees his next election come in stronger, putting "The Long Tenure" (`PH2-059`) on the page. The ability's cost is stated explicitly as foreshadowing rather than dramatized in the moment, matching the same restraint used for Ofin's capstone cost in Uhuru Chronicle I (`MCD-345`): Owusu states plainly, unprompted, that the strength is purely institutional and lapses the instant he leaves the seat. This completes a first Chronicle entry for all five Detroit territories. All nine LA/Detroit Chronicles: an unnamed Kanja present with no command/credit/resolution authorship; no new named characters; zero collisions; all synced to the Google Drive "FINAL FOLDER" mirror ("Phase 2 Homage Era - Territory Chronicles") alongside the six earlier-session Chronicles (Borikén, Ide, Kwan, Jibaro, Uhuru, Sankofa) that had not yet been mirrored -- 15 documents uploaded in total, closing that sync gap.
+**Detroit's five territory Chronicles, Batches 88-92, 2026-09-09 (`MCD-351` through `MCD-355`), same blanket authorization, continuing uninterrupted from the LA batch.** All five written, locked, and committed in the same pass, completing a first Chronicle entry for every one of Detroit's five territories -- the fourth and final homage-era city to reach full territory-Chronicle coverage, matching NYC, Chicago, and LA (21 territory Chronicles total across all four cities). **Kazi Chronicle I, "The Line That Heard Him"** (`MCD-351`, `docs/lords-of-cian/chronicles/kazi-annals-i-the-line-that-heard-him.md`) -- when a foreman keeps the assembly line running around a jammed press rather than relieving the two men absorbing its backlog, Irin calls a halt from his own station; every man bound into the chain feels it instantly, without a word passed hand to hand, putting "The Line Stops" (`PH2-051`) on the page for the first time. The same episode dramatizes the ability's cost precisely: three outside hires brought in to break the standstill feel nothing at all, since they were never structurally bound into the chain. Opens Detroit's own run of territory Chronicles. **Taifa Chronicle I, "Bound Without a Word"** (`MCD-352`, `docs/lords-of-cian/chronicles/taifa-annals-i-bound-without-a-word.md`) -- a dawn raid on the claimed land's outer post arrives faster than any rider could warn the other sworn cells; Osei feels the need arrive whole, and sworn hands converge from three unconnected cities within minutes of each other, putting "Kin at a Distance" (`PH2-053`) on the page. Osei states the ability's cost explicitly: mere agreement or admiration for the cause reaches no one -- only those who actually swore the oath and meant it. Yaw is referenced consistently with his already-locked co-founder role; the RNA's real exiled first president stays backstory-only. **Hekalu Chronicle I, "Whoever Sits Down"** (`MCD-353`, `docs/lords-of-cian/chronicles/hekalu-annals-i-whoever-sits-down.md`) -- a suspicious rival cooperative owner freely chooses to sit and eat at Adom's table, then returns days later with an unprompted joint wage-floor proposal he can't fully explain offering, putting "The Common Table" (`PH2-055`) on the page. The ability's cost is dramatized through both the rival's required free choice and a referenced past case of a man who sat down without meaning to be there and left entirely unchanged. **Nyansa Chronicle I, "The Word That Stuck"** (`MCD-354`, `docs/lords-of-cian/chronicles/nyansa-annals-i-the-word-that-stuck.md`) -- Adisa names his own organizing committee's unexamined exclusion of night-shift workers from its votes aloud, and the argument never returns to its old unresolved shape, putting "The Long Correction" (`PH2-057`) on the page via a successful case; a deliberate contrast case (the same technique tried on a rival faction leader with no latent doubt underneath) fails completely, dramatizing the ability's cost precisely. Adisa's real co-theorist and life partner (homage to Grace Lee Boggs) stays backstory-only. **Kiti Chronicle I, "What Wore Down Instead"** (`MCD-355`, `docs/lords-of-cian/chronicles/kiti-annals-i-what-wore-down-instead.md`) -- a three-week manufactured scandal meant to wear Owusu down instead sees his next election come in stronger, putting "The Long Tenure" (`PH2-059`) on the page. The ability's cost is stated explicitly as foreshadowing rather than dramatized in the moment, matching the same restraint used for Ofin's capstone cost in Uhuru Chronicle I (`MCD-345`): Owusu states plainly, unprompted, that the strength is purely institutional and lapses the instant he leaves the seat. This completes a first Chronicle entry for all five Detroit territories. All nine LA/Detroit Chronicles: an unnamed Kanja present with no command/credit/resolution authorship; no new named characters; zero collisions; all synced to the Google Drive "FINAL FOLDER" mirror ("Phase 2 Homage Era - Territory Chronicles") alongside the six earlier-session Chronicles (Borikén, Ide, Kwan, Jibaro, Uhuru, Sankofa) that had not yet been mirrored -- 15 documents uploaded in total, closing that sync gap.
 
 **Areíto's second Chronicle, Batch 93, 2026-09-09 (`MCD-356`).** With every territory across all
 four homage-era cities now holding a first Chronicle (21 territory Chronicles total, plus Xaragua
@@ -169,7 +171,7 @@ Chronicle II), work shifted to the strongest unpaid hook still on the board: Are
 (`MCD-339`) closed on Kanja's own deliberate, unresolved forward reference to `PH2-004`'s stated
 vulnerability -- "the one who'll actually land a blow on you someday...is someone who's just as
 certain as you are." **Areíto Chronicle II, "The One Who Stood Where He Stood"** (full narrative
-text at `docs/lords-of-cian/chronicles/areito-chronicle-ii-the-one-who-stood-where-he-stood.md`)
+text at `docs/lords-of-cian/chronicles/areito-annals-ii-the-one-who-stood-where-he-stood.md`)
 pays that hook off directly. Seven years after the barbershop, Adeyemi -- a new named character
 (Yoruba, "the crown befits me") and former cellmate from Kwame Ade's *first* prison reinvention
 (distinct from the second-reinvention era that produced Chronicle I's three unnamed attackers) --
@@ -192,7 +194,7 @@ corrected to "Locked canon" only after approval. Abad's approval: "lock it."
 after Areíto's: `PH2-008` itself locks "real, documented public friction with Kwame Ade... kept as
 genuine unresolved alliance tension," and Guanín Chronicle I's own continuity notes flagged it as
 "left undramatized, open for a future entry." **Guanín Chronicle II, "What He Chose to Print"**
-(full narrative text at `docs/lords-of-cian/chronicles/guanin-chronicle-ii-what-he-chose-to-print.md`)
+(full narrative text at `docs/lords-of-cian/chronicles/guanin-annals-ii-what-he-chose-to-print.md`)
 dramatizes it directly, and is the first Chronicle to put two already-locked homage-era leaders in
 direct dialogue (at a distance, through print) with each other. Kwame Ade's Areíto press circulates
 a pamphlet calling Eri Kotoko's patient institution-building a form of collaboration; provoked in
@@ -216,7 +218,7 @@ a friction thread like Areíto's and Guanín's, but `PH2-044`'s own stated capst
 flagged as unresolved in Uhuru Chronicle I's continuity notes -- "his 1987 death at his own desk
 remains the deliberate, as-built capstone cost for a future entry." **Uhuru Chronicle II, "What He
 Finished First"** (full narrative text at
-`docs/lords-of-cian/chronicles/uhuru-chronicle-ii-what-he-finished-first.md`) pays it off directly.
+`docs/lords-of-cian/chronicles/uhuru-annals-ii-what-he-finished-first.md`) pays it off directly.
 The last standing obstruction against Ofin -- a years-long appointment blockade -- breaks
 completely and permanently one final time on the page, "The Override" shown in full effect; that
 same night, having sent everyone home to sit alone with the win and finish some paperwork in his
@@ -238,7 +240,7 @@ to the people who built it beside him," naming Iya's 1970 walkout over unaddress
 schism that "outlasted the group's external enemies" -- left as a deliberate, unresolved forward
 reference at the close of Aztlán Chronicle I (`MCD-347`). **Aztlán Chronicle II, "The Half He Never
 Carried"** (full narrative text at
-`docs/lords-of-cian/chronicles/aztlan-chronicle-ii-the-half-he-never-carried.md`) pays it off
+`docs/lords-of-cian/chronicles/aztlan-annals-ii-the-half-he-never-carried.md`) pays it off
 directly and does not redeem or soften Ollin's failure, matching `PH2-023`'s own unsparing framing.
 Three weeks before a major march, Iya — having raised the same concern in six prior meetings —
 calls out Ollin's repeated exclusion of women from leadership credit and decision-making despite
@@ -258,7 +260,7 @@ after approval. Abad's approval: "lock it."
 `PH2-021` itself states Baálé's gift stops short of "a conspiracy that never shows its face," and
 Sankofa Chronicle I's continuity notes left this as live, unresolved tension rather than a settled
 fact. **Sankofa Chronicle II, "What His Gift Could Not Reach"** (full narrative text at
-`docs/lords-of-cian/chronicles/sankofa-chronicle-ii-what-his-gift-could-not-reach.md`) dramatizes it
+`docs/lords-of-cian/chronicles/sankofa-annals-ii-what-his-gift-could-not-reach.md`) dramatizes it
 directly, deliberately without resolving it. A forged letter, shaped in the same manner as the real
 COINTELPRO-style letters behind Baálé's already-locked backstory near-death event (kept
 backstory-only, not restaged), reaches Kojo — brought back from Chronicle I, where he was left open
@@ -279,7 +281,7 @@ territory-Chronicle-II hook payoffs above -- the flagged material Batch 67 held 
 Chronicles predating Xaragua Chronicle II are the intended place to show the vulnerable, breaking
 version of him before this stillness was earned." **Xaragua Chronicle III, "Where the Table
 Began"** (full narrative text at
-`docs/lords-of-cian/chronicles/xaragua-chronicle-iii-where-the-table-began.md`) is the third
+`docs/lords-of-cian/chronicles/xaragua-annals-iii-where-the-table-began.md`) is the third
 Xaragua Chronicle written but chronologically the earliest of all three by decades, preceding both
 Xaragua Chronicle II (`MCD-337`) and Xaragua Chronicle I (`MCD-334`) -- matching the same
 write-order-versus-in-universe-order pattern `MCD-337` already established. Protagonist Arturo,
@@ -307,7 +309,7 @@ approval: "lock it."
 Batch 66: "Naya (his protegee) and the flagged long-arc promise that Kanja himself 'becomes one' of
 Arturo's loved ones eventually are both deliberately left undramatized for future Chronicles." **Xaragua
 Chronicle IV, "The One He Chose to Teach"** (full narrative text at
-`docs/lords-of-cian/chronicles/xaragua-chronicle-iv-the-one-he-chose-to-teach.md`) dramatizes Naya
+`docs/lords-of-cian/chronicles/xaragua-annals-iv-the-one-he-chose-to-teach.md`) dramatizes Naya
 directly for the first time -- the fourth Xaragua Chronicle, chronologically the most recent of the
 four, set after Xaragua Chronicle II in the "modern" Arturo era. A new named character
 (collision-checked against the full live ledger, zero prior hits): Arturo found her as a six-year-old
@@ -329,7 +331,7 @@ itself flagged a real gap: "Two lieutenants drawn from the real DRUM/League lead
 (homage to John Watson, Mike Hamlin, and Ken Cockrel Sr.) stand as his founding co-organizers, not
 yet individually named or detailed" -- three real homages compressed into two undetailed slots.
 **Kazi Chronicle II, "The Names Beside His"** (full narrative text at
-`docs/lords-of-cian/chronicles/kazi-chronicle-ii-the-names-beside-his.md`) names and dramatizes
+`docs/lords-of-cian/chronicles/kazi-annals-ii-the-names-beside-his.md`) names and dramatizes
 both directly: Kunle (`PH2-063`, homage to Ken Cockrel Sr., a radical defense lawyer who treats the
 courtroom itself as a site of struggle) and Kalamu (`PH2-064`, a composite homage to John Watson and
 Mike Hamlin, a journalist/organizer whose printed sheets turn individual cases into citywide,
@@ -354,7 +356,7 @@ batch shifts to extending rather than paying off: Borikén Chronicle I's own tex
 church-hall ledger "cannot be *fully* rebuilt from the memory of the forty people who held pieces
 of it" -- implying partial recovery was always possible, just never shown. **Borikén Chronicle II,
 "What Memory Could Carry Back"** (full narrative text at
-`docs/lords-of-cian/chronicles/boriken-chronicle-ii-what-memory-could-carry-back.md`) dramatizes it:
+`docs/lords-of-cian/chronicles/boriken-annals-ii-what-memory-could-carry-back.md`) dramatizes it:
 over four years of monthly sessions, the original forty contributors dwindle to twenty-six while
 reconstructing roughly four-fifths of the six-year account from memory alone. Doña Alma, a new
 minor named character, dies shortly after recovering a key eleven-month gap, honoring the
@@ -1284,7 +1286,7 @@ rules, 228 batches.
 **Sankofa's "crack" entry, Batch 229, 2026-09-11 (`MCD-1025`).** Per the pacing agreed in Batch 225:
 "not rushed, not this session unless you want it" -- Abad pointed at it directly this time.
 **Sankofa Chronicle V, "What Tradecraft Gave Away"** (full narrative text at
-`docs/lords-of-cian/chronicles/sankofa-chronicle-v-what-tradecraft-gave-away.md`) is the deliberate
+`docs/lords-of-cian/chronicles/sankofa-annals-v-what-tradecraft-gave-away.md`) is the deliberate
 deepening entry agreed to then: one more entry before any reveal, making the forged-letter/pamphlet
 conspiracy (`PH2-021`, Chronicles II and IV, `MCD-360`/`MCD-1023`) personal to Baale again at higher
 stakes than Chronicle I's face-to-face attack, forcing it to risk real exposure. Combines two of the
@@ -1383,7 +1385,7 @@ at it.
 the reveal lands as its own dedicated entry, tying the conspiracy's author to someone from the
 COINTELPRO-era backstory who was never caught the first time. **Sankofa Chronicle VI, "The Hand That
 Wrote the First Letter"** (full narrative text at
-`docs/lords-of-cian/chronicles/sankofa-chronicle-vi-the-hand-that-wrote-the-first-letter.md`) closes
+`docs/lords-of-cian/chronicles/sankofa-annals-vi-the-hand-that-wrote-the-first-letter.md`) closes
 the six-entry conspiracy arc opened in Chronicle II (`MCD-360`) and deepened in Chronicles IV and V
 (`MCD-1023`/`MCD-1025`). Over roughly a year, Yao (bound via "The Turn" in Chronicle V) traces the
 dead-drop payment chain backward to a lease record naming the author: Babatunde (a new named
@@ -1402,7 +1404,7 @@ approval: "lock it." Ledger reached `ledger_version` 25.5, 1,755 rules, 252 batc
 **The Kanja/Arturo long-arc's full payoff, Batch 253, 2026-09-11 (`MCD-1093`).** The last deliberately
 reserved thread, flagged since Batch 66 (`PH2-061`): Kanja "becomes one" of Arturo Salvatierra Duho's
 loved ones. **Xaragua Chronicle VI, "What He Came Without Being Asked"** (full narrative text at
-`docs/lords-of-cian/chronicles/xaragua-chronicle-vi-what-he-came-without-being-asked.md`) closes it.
+`docs/lords-of-cian/chronicles/xaragua-annals-vi-what-he-came-without-being-asked.md`) closes it.
 Set after Chronicle V (`MCD-1024`): Kanja arrives unsummoned after hearing, secondhand, that Arturo has
 been unwell for eleven days following a use of Blood Debt's reverse face on a child-trafficker; he
 comes with no territory business and nothing to gain. Arturo, testing him one final time, concludes
@@ -1836,7 +1838,7 @@ fix approach and the four names, selected from candidate sets presented per-city
 
 A third open-ended Chronicle track, opened alongside the existing Alias Chronicle and
 territory-Chronicle tracks, not replacing either. Full census, structure decision, and starting order
-tracked in full at `docs/lords-of-cian/character-chronicle-gameplan.md` -- summary here: every
+tracked in full at `docs/lords-of-cian/series-gameplan.md` -- summary here: every
 canon-detailed character across the ledger was surveyed (Character Codex, Maw Codex, Ashkeel, the
 cult ecosystem, and scattered named figures elsewhere), sorted into tiers by how developed and
 narratively central they already are. Structure decided: each character gets their **own protagonist
@@ -1907,7 +1909,7 @@ narrates all Ezio and Lauris POV chapters in a Baroque/Zafón-Noir voice") and `
 Ezio") -- distinct from both Onyx's Kanja narration and the close-third register used for the
 homage-era territory Chronicles, since Lauris is core Lords of Cian crew rather than a stranger
 Kanja meets. Full narrative text at
-`docs/lords-of-cian/chronicles/lauris-chronicle-i-the-shape-taught-twice.md`. A frontier holding near
+`docs/lords-of-cian/chronicles/lauris-record-i-the-shape-taught-twice.md`. A frontier holding near
 the Korren Highlands is found with an unfinished chalk perimeter matching Operation 12's Settlement
 K-447 geometry (`MCD-1536`, locked Batch 291); Lauris arrives before the pattern completes and stops
 it. Puts two of her least-dramatized traits on the page for the first time: the Density Saturation
@@ -1935,7 +1937,7 @@ no mystery attached). Every entry also opens with a short archive fragment in La
 voice before Fermand Aurelias's narration proper picks up -- a two-voice structure unique to this
 series since she's the only Tier 1 character established as keeping a literal written archive a
 narrator transcribes from (`MCD-211`). Full convention recorded at
-`docs/lords-of-cian/character-chronicle-gameplan.md`. First wave, all four presented together and
+`docs/lords-of-cian/series-gameplan.md`. First wave, all four presented together and
 approved with "lock": **"The Vein Between Two Vasks"** (`MCD-1562`, Strand K) -- roughly six hundred
 years post-karth-ven, Lauris resolves a Threnarr/Aldreth ore-vein dispute (one of the "Long
 Operational Period" inter-Vask security operations, `MCD-1555`) by standing unarmed in the exact
@@ -2145,7 +2147,7 @@ direction: "lock it, continue uninterrupted, test and push to main," given direc
 a proposed 8-agent strand/block structure.** Matches the scale and pattern of Daba's own 50-Chronicle
 launch wave (Batch 296): eight parallel background agents, each assigned a fixed, non-overlapping
 Chronicle-numeral and rule-ID range, drafting across her established four-strand convention
-(`docs/lords-of-cian/character-chronicle-gameplan.md`). Lauris now has **59 Chronicles total**
+(`docs/lords-of-cian/series-gameplan.md`). Lauris now has **59 Chronicles total**
 (I-LIX).
 
 **Strand K (Kares Prime / deep past) -- 12 entries, Chronicles X-XXI.** Wave 1 (X-XV, pre-karth-ven,
@@ -2472,7 +2474,7 @@ final explicit sign-off ("approved") closing the whole Game Plan before any pros
 the gate's own non-negotiable order.
 
 Chronicle I itself, **"The Man Who Didn't Know What He Was Protecting"** (full text at
-`docs/lords-of-cian/chronicles/ozmund-chronicle-i-the-man-who-didnt-know-what-he-was-protecting.md`),
+`docs/lords-of-cian/chronicles/ozmund-testament-i-the-man-who-didnt-know-what-he-was-protecting.md`),
 dramatizes the Draconis dynamic (`CC-085`) at its literal origin point: years before the Ceremony, a
 young Draconis throws himself between three attackers and the boy Ozmund during a road ambush,
 genuinely believing his own skill saved them both, while Ozmund actively suppresses his always-active
@@ -3629,7 +3631,7 @@ Verehimu, Lauris Letitia, Daba, Ezio Valcari), matching the Phase 1 per-track pa
 
 **Batch 332, Ezio Valcari (the smallest-scope review, completed first).** Reviewed his profile doc,
 his one locked Chronicle (`MCD-1876`), and three still-UNLOCKED/PENDING-APPROVAL draft Chronicles
-II-IV (drafted earlier this session, never presented to or approved by Abad -- `ezio-chronicle-ii`
+II-IV (drafted earlier this session, never presented to or approved by Abad -- `ezio-exhibit-ii`
 through `-iv.md`). Amends `ARS-404`'s rule statement to remove a real-world-term leak ("the way a
 doctor reads an X-ray"). Prose-only fixes, no ledger-statement change: `MCD-1876`'s locked Chronicle
 I had a settlement-count contradiction (prose set up three settlements/nine levies but later
@@ -3808,7 +3810,7 @@ naming palette) needs renaming.
 **Batch 339, NYC.** Amends 3 rule statements: `PH2-061`/`062` update stale "flagged for future
 payoff" language superseded by Xaragua Chronicle VI's own closure of the Kanja/Arturo long-arc
 (`MCD-1093`); `MCD-464` updates a file-path reference after a rename (`the-price-she-wouldnt-let-
-them-pay.md` -> `yara-chronicle-ii-the-price-she-wouldnt-let-them-pay.md`, matching the project's
+them-pay.md` -> `yara-annals-ii-the-price-she-wouldnt-let-them-pay.md`, matching the project's
 standard naming convention). Chronicle prose fixes: a direct contradiction in Borikén Chronicle I
 (the church-hall ledger was both saved and burned in the same file); a testing-period duration
 error; an attrition-arithmetic error; a "Caucus" ability mechanic that had drifted from its locked
@@ -4354,6 +4356,48 @@ entries, close-third per `VB-065`, in her chronological order:
 Review history: I took five independent review rounds, II six, III four, each fixed and re-reviewed
 until clean. After the clean pass, I/II/III each took only small wording edits from that pass's own
 optional list, which add no facts. Ledger at `ledger_version` 37.5, 2,693 rules, 373 batches.
+
+**Batch 374, mechanical conflict fixes.** Abad: "keep going, fix those conflicts too." No new
+plot facts.
+- Banned Maw/venue words replaced in CC-021, CC-085, CC-090, CC-155, WGD-001/006/008, ASH-046 and
+  MCD-234, and in their propagated copies.
+- House Galthorn's epithet is now "the Black Dot", after its own mark (MAW-031, MAW-136). The old
+  epithet collided with Onyx's Black Ledger.
+- MAW-146's "acoustic recordings" and ASH-007/ASH-048's electrical turbines are removed as
+  tech-level breaks. Ashkeel is now heated and ventilated by convection.
+- MCD-825's prose antithesis is removed.
+
+**Batch 375: series names and account types locked, rename carried (`VB-066`, `VB-067`; `VB-062`
+amended).** Abad asked that "Chronicle" be Kanja's alone, with reliable and unreliable account types
+for every character.
+- **Series names.** Lauris = the Records, Daba = the Rolls, Ozmund = the Testaments, Ezio = the
+  Exhibits, Anirak = the Collections, the territories = the Annals.
+  - Kanja keeps "Chronicle": Alias entries, manuscript I-VIII, the Kanja-version track.
+  - The launch gate is now the Series Launch Protocol.
+- **Account types (`VB-067`).** The Series, plus Comrade Account, Adversary Account, Dossier and
+  Hearsay.
+  - Every teller is bounded by what they could know.
+  - Unreliable tellers may state falsehoods, locked only as said and traced to the truth.
+  - Pre-lock entries stay reliable and are not relabeled.
+  - Teller-bound conflicts always go to Abad: approval-list items 7 and 39 (new: Fermand and K-Theta
+    in Lauris Record VIII against MCD-193).
+- **The rename.** Carried in the same batch by scripts/rename_series.py, the batch's hand fixes, and
+  scripts/batch375_followup.py.
+  - Changed: 362 entry files renamed, about 400 rule statements, every category tag, profiles, the
+    tracker, the gameplan (now docs/lords-of-cian/series-gameplan.md), the template and CLAUDE.md's
+    standing rules.
+  - Untouched: entry prose, approval quotes, quoted correction records ("the old" wording), Kanja's
+    material.
+  - Batch notes, source fields and this file's history changed only in file paths.
+- **Revision history.** First approved as presented ("lock it. once you're done we will move on to
+  pyro and the Triad"). Revised through seventeen independent reviews. Anirak's name changed from
+  "Tallies" to "Collections" after a collision with Kanja's tally method and Daba's own "Tally"
+  (MCD-1610). Re-presented in full and approved: "lock it."
+- **Drive and archive app.** The Drive mirror and archive-app copy still carry the old names, so a
+  sync is owed.
+
+Ledger at `ledger_version` 37.7, 2,695 rules, 375 batches. Next: the account craft standard and
+`VB-068` (in review), then Pyro and the Triad.
 
 ## Separate, unrelated thread: the interactive archive app
 

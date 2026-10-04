@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1205`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXVII, wave 23, first entry in the wave. A declined bounty and a resolved root cause rather than a
-resolved fight. Not a territory Chronicle. Narrated in neutral third-person prose.*
+resolved fight. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

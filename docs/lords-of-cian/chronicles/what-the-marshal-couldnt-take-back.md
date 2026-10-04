@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 217, 2026-09-11 (`MCD-957`); cross-checked Batch 321, 2026-10-02 against `MCD-952`,
 which was reworked to match this file's own account of the Marshal as the commanding officer who
-personally lost his ship at Ghost Harbor (no change needed here). Sovereign Ghost of the Great Sea Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+personally lost his ship at Ghost Harbor (no change needed here). Sovereign Ghost of the Great Sea Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

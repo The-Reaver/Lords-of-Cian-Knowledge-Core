@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1269`). Crow King Alias Chronicle LXXVII, wave 26. The
 lineage self-imposes a limit against using the craft on neutral, sacred ground. Not a territory
-Chronicle.*
+Annals entry.*
 
 ---
 

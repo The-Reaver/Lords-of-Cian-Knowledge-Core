@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1257`). Crow King Alias Chronicle LXV, wave 22. The
 single written page of doctrine is lost during a raid, testing whether the craft's real
-vulnerability was ever a document at all. Not a territory Chronicle.*
+vulnerability was ever a document at all. Not a territory Annals entry.*
 
 ---
 

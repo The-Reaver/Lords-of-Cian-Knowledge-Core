@@ -1,6 +1,6 @@
 # The Old Hand Who Refused to Stop
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-614`). Captain Alias Chronicle XXXIX, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-614`). Captain Alias Chronicle XXXIX, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

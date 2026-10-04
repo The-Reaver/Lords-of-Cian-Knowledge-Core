@@ -1,6 +1,6 @@
 # The Family He Helped Her Find
 
-*Locked canon, Batch 224, 2026-09-11 (`MCD-1020`). The Scourge Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 224, 2026-09-11 (`MCD-1020`). The Scourge Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

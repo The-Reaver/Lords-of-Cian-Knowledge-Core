@@ -1,6 +1,6 @@
 # The Rebuild That Broke Someone
 
-*Locked canon, Batch 202, 2026-09-11 (`MCD-864`). The Lord of Embers Alias Chronicle XIX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 202, 2026-09-11 (`MCD-864`). The Lord of Embers Alias Chronicle XIX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

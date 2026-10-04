@@ -1,6 +1,6 @@
 # The Engineer Who Built Against Him
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-668`). The Blue-Collar Titan Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-668`). The Blue-Collar Titan Alias Chronicle XXXIII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

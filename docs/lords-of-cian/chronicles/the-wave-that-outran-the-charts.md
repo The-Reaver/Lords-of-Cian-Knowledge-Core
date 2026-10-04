@@ -3,7 +3,7 @@
 *Locked canon, Batch 280, 2026-09-11 (`MCD-1463`). Sovereign Ghost of the Great Sea Alias Chronicle
 XCVII, wave 33, first entry in the wave. A new environmental register: a tsunami strikes a coastal
 settlement with almost no warning, distinct from every prior storm-based disaster entry. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

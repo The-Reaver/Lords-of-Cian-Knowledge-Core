@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 132, 2026-09-11 (`MCD-445`). The Sovereign Ghost of the Great Sea Alias
 Chronicle IX, closing the third wave. Rebellion era, age 21, Ghost Harbor. Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named characters
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named characters
 beyond the already-locked Garren Hask.*
 
 ---

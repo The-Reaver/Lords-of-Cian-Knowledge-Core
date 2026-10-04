@@ -1,7 +1,7 @@
 # The Nine Days Nobody Slept
 
 *Locked canon, Batch 191, 2026-09-11 (`MCD-558`). Captain Alias Chronicle X, first entry in the
-fifth wave. Rebellion era. Not a territory Chronicle. New standalone material — a detailed,
+fifth wave. Rebellion era. Not a territory Annals entry. New standalone material — a detailed,
 sustained multi-day endurance showcase per Abad's craft instruction. Narrated in neutral
 third-person prose. No new named characters. Renumbered Batch 321, 2026-10-02 (from Chronicle XVI,
 which duplicated wave 6's own MCD-591) -- no other file cross-references this entry by numeral, only

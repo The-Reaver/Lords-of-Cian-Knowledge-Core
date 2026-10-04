@@ -1,6 +1,6 @@
 # The Burn He Didn't Let Them See
 
-*Locked canon, Batch 219, 2026-09-11 (`MCD-974`). The Lord of Embers Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
+*Locked canon, Batch 219, 2026-09-11 (`MCD-974`). The Lord of Embers Alias Chronicle LIV, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02:
 fixed a stale wave citation for the senior smith's establishment in the continuity notes (waves
 3-5, not wave 14).*
 

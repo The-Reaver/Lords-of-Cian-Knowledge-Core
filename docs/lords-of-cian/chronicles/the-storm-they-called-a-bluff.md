@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 280, 2026-09-11 (`MCD-1467`). Sovereign Ghost of the Great Sea Alias Chronicle CI,
 wave 34. A new deception register: a rival power fabricates a storm warning to lure the fleet away from
-the convoy it actually intends to raid. Not a territory Chronicle. Narrated in neutral third-person
+the convoy it actually intends to raid. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

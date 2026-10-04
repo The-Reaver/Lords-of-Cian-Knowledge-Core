@@ -1,6 +1,6 @@
 # The Argument Halst Won
 
-*Locked canon, Batch 215, 2026-09-11 (`MCD-941`). Bane Alias Chronicle LVII, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 215, 2026-09-11 (`MCD-941`). Bane Alias Chronicle LVII, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

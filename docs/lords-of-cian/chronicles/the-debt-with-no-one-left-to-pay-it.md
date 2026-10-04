@@ -1,6 +1,6 @@
 # The Debt With No One Left to Pay It
 
-*Locked canon, Batch 214, 2026-09-11 (`MCD-926`). The Industrial Myth Alias Chronicle LI, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 214, 2026-09-11 (`MCD-926`). The Industrial Myth Alias Chronicle LI, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

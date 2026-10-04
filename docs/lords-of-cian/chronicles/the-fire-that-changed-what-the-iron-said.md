@@ -5,7 +5,7 @@ gear reworded to the Long-Mask-era kit, since wave 21 falls years past the Trini
 surrender, `MCD-246`; the inline citation "the tower at MCD-497" reworded to remove the leaked
 rule-ID). Iron Bastard Alias Chronicle LXI, wave 21, first entry. A detailed combat showcase where a
 deliberately set fire warps the resonance doctrine's readings in real time as it burns. Not a
-territory Chronicle.*
+territory Annals entry.*
 
 ---
 

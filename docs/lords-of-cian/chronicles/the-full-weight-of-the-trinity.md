@@ -4,7 +4,7 @@
 Malice's "two years of dormant charge" reworded to a plain full discharge, since that specific
 figure is already spent by the Black Trench deployment weeks earlier and can't recur this soon).
 Bane Alias Chronicle VIII. Rebellion era, age 19, shortly after the Black Trench. Not a territory
-Chronicle. New standalone material — a detailed armor-and-weapon combat showcase per Abad's craft
+Annals entry. New standalone material — a detailed armor-and-weapon combat showcase per Abad's craft
 instruction. Narrated in neutral third-person prose. No new named characters.*
 
 ---

@@ -1,7 +1,7 @@
 # The Guild Master's Test
 
 *Locked canon, Batch 120, 2026-09-11 (`MCD-409`). Blue-Collar Titan Alias Chronicle VI, closing
-the second wave. Rebellion era. Not a territory Chronicle. New standalone material. Narrated in
+the second wave. Rebellion era. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters. Corrected Batch 321, 2026-10-02: two stray
 references to the Rolling Foundry Campaign (a different alias's later era, age 27) removed and
 reworded self-contained to this alias's own Killane-era window.*

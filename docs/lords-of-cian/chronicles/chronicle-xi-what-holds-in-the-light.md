@@ -1,7 +1,7 @@
 # Chronicle XI: What Holds in the Light
 
 *WITHDRAWN, 2026-09-05, superseded by
-[`yara-chronicle-i-the-seat-she-did-not-wait-for.md`](yara-chronicle-i-the-seat-she-did-not-wait-for.md).
+[`yara-annals-i-the-seat-she-did-not-wait-for.md`](yara-annals-i-the-seat-she-did-not-wait-for.md).
 Abad corrected the series' structure: these are Chronicles belonging to each homage-era territory, with
 Kanja as guest, not "Kanja Chronicles" with the homage-era figure as guest. This piece had it backwards
 -- Yalokona guesting in a Kanja battle rather than the reverse. Kept here for the project's own record;

@@ -1,6 +1,6 @@
 # The Defector Who Chose the Name
 
-*Locked canon, Batch 193, 2026-09-11 (`MCD-598`). Captain Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the sailor's account of Iron Shallows reframed from an invented six-man rescue to the actual locked event -- holding position to pull Efa Gol's thirty-fighter decoy force back out safely under pressure (`MCD-233`), which asserts zero casualties on either side.*
+*Locked canon, Batch 193, 2026-09-11 (`MCD-598`). Captain Alias Chronicle XXIII, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the sailor's account of Iron Shallows reframed from an invented six-man rescue to the actual locked event -- holding position to pull Efa Gol's thirty-fighter decoy force back out safely under pressure (`MCD-233`), which asserts zero casualties on either side.*
 
 ---
 

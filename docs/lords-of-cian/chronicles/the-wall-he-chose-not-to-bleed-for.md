@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 246, 2026-09-11 (`MCD-1075`). The Scourge Alias Chronicle LXII, wave 21. A
 genuine-failure entry: the sub-series' first full tactical retreat, zero captives freed that night.
-Not a territory Chronicle. Narrated in neutral third-person prose.*
+Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

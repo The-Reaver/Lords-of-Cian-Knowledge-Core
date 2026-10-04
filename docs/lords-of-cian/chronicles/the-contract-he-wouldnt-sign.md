@@ -1,6 +1,6 @@
 # The Contract He Wouldn't Sign
 
-*Locked canon, Batch 224, 2026-09-11 (`MCD-1017`). The Scourge Alias Chronicle LII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 224, 2026-09-11 (`MCD-1017`). The Scourge Alias Chronicle LII, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

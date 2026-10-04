@@ -1,7 +1,7 @@
 # The Fight He Couldn't Walk Away From
 
 *Locked canon, Batch 151, 2026-09-11 (`MCD-476`). Bane Alias Chronicle X, first entry in the fourth
-wave. Rebellion era, age 19, shortly after the Black Trench. Not a territory Chronicle. New
+wave. Rebellion era, age 19, shortly after the Black Trench. Not a territory Annals entry. New
 standalone material — a detailed armor-and-weapon combat showcase per Abad's craft instruction, this
 time against a single peer-level opponent rather than an overwhelmed garrison. Narrated in neutral
 third-person prose. No new named characters.*

@@ -1,6 +1,6 @@
 # The Engineer Who Learned to Read Weather Like Ground
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-584`). The Storm That Walks Alias Chronicle XXXIX, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-584`). The Storm That Walks Alias Chronicle XXXIX, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

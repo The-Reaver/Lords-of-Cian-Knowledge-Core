@@ -1,7 +1,7 @@
 # The Six-Week Silence
 
 *Locked canon, Batch 109, 2026-09-10 (`MCD-374`). Blue-Collar Titan Alias Chronicle I. Rebellion
-era, during the Sewer War of Killane (`MCD-234`, age 20). Not a territory Chronicle. New standalone
+era, during the Sewer War of Killane (`MCD-234`, age 20). Not a territory Annals entry. New standalone
 material distinct from the already-locked summary. Narrated in neutral third-person prose. No new
 named characters.*
 

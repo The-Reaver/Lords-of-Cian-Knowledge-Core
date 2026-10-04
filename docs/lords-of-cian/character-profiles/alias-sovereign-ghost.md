@@ -4,7 +4,7 @@
 **Track:** Alias Chronicle
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
-This file is the standing gate artifact for this alias, per the Character Chronicle Launch
+This file is the standing gate artifact for this alias, per the Series Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
 any Chronicle is written or rewritten — not a summary produced after the fact.
 

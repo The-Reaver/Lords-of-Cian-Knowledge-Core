@@ -4,7 +4,7 @@
 dropped from the header, since `MCD-421` is itself age 25 and this entry is explicitly "several
 years after" it). The Iron Bastard Alias Chronicle XV, closing the fifth wave. Rebellion era,
 several years after the events of "The Scholar Who Measured the Impossible" (`MCD-421`). Not a
-territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+territory Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters beyond the already-locked Trust scholar.*
 
 ---

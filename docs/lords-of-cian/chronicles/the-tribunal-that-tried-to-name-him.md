@@ -1,7 +1,7 @@
 # The Tribunal That Tried to Name Him
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1229`). The Scourge Alias Chronicle LXIV, wave 22, first
-entry. Age 98, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 98, V3 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

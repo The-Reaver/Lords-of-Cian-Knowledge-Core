@@ -1,6 +1,6 @@
 # The Fleet She Called Alone
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-588`). The Storm That Walks Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-588`). The Storm That Walks Alias Chronicle XLIII, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

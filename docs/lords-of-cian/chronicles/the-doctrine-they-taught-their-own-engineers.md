@@ -5,7 +5,7 @@ reference corrected from "no ground worth taking" -- which belongs to the separa
 general of `MCD-386` -- to this general's own career-ending report, `MCD-454`, so the legacy arc
 spanning `MCD-723`/`730`/`734`/`1082`/`1301`/`1303` consistently follows a single recurring
 figure). The Iron Bastard Alias Chronicle XXVIII, wave 10 of the ten-wave sixth-through-fifteenth
-run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

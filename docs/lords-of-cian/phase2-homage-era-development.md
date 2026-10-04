@@ -924,25 +924,25 @@ translated into what this world actually has.
   Abad's direction (Salvatierra kept, Duho -- the real Taino word for a cacique's ceremonial seat of
   judgment -- added). His tormented-past backstory (a dock-boy cohort nearly wiped out by war and
   Xaragua's own street war, leaving only him and Yaisa) is the actual source of his authority, not
-  color. Introduced in Xaragua Chronicle II, "The Man at the Head of the Table" (`MCD-337`) --
-  chronologically the *first* Xaragua Chronicle, explaining how Kanja was already trusted enough to
-  appear unchallenged in Chronicle I and Yara Chronicle I. Kanja stays unnamed to Arturo too (an
+  color. Introduced in Xaragua Annals II, "The Man at the Head of the Table" (`MCD-337`) --
+  chronologically the *first* Xaragua Annals entry, explaining how Kanja was already trusted enough to
+  appear unchallenged in Xaragua Annals I and Yara Annals I. Kanja stays unnamed to Arturo too (an
   intentional walk-back of an earlier draft that named him) -- passage granted on tested behavior
   alone. Yaisa (`PH2-062`), the sole other survivor of Arturo's generation and his second-in-command,
-  is seeded silently in the same Chronicle. Naya (his protegee) and the flagged promise that Kanja
-  himself eventually becomes one of Arturo's loved ones are both left for future Chronicles. Ledger
+  is seeded silently in the same Annals entry. Naya (his protegee) and the flagged promise that Kanja
+  himself eventually becomes one of Arturo's loved ones are both left for future Annals entries. Ledger
   now at version 6.9, 917 rules, 66 batches.
 - **Batch 67, 2026-09-06 (`VB-026`, `PH2-061` amended twice).** A new craft-level standing rule
   (`VB-026`): Book 1 and any future Kanja-POV rewrite of Chronicles I-VIII use a progressive
   narrator handoff -- normal prose at the Rebellion's start, Onyx of Oblivion growing from a short
   end-of-chapter coda into the full narrator by the Rebellion's end (age 30). Does not apply to the
-  Phase 2 territory Chronicles, which stay close-third on their own protagonists. Arturo's backstory
+  Phase 2 territory Annals, which stay close-third on their own protagonists. Arturo's backstory
   deepens: "Arturo Salvatierra" is the name Spanish colonization imposed on his lineage, kept
   deliberately as a reminder; "Duho" is his real clan name, recovered through his own investigation
   of what colonization tried to erase. He's purposefully and deliberately adversarial toward anyone
   descended from that colonial lineage -- a chosen, peaceful-with-it position, not loss of control,
   pursued with full awareness that race is a category the same colonial system invented rather than
-  a pre-existing fact. Flagged for later: prequel Chronicles are the intended place to show the
+  a pre-existing fact. Flagged for later: prequel Annals entries are the intended place to show the
   breaking, vulnerable version of him before this stillness was earned. Ledger now at version 7.0,
   918 rules, 67 batches.
 - ~~Third Kanja Chronicle with a homage-era comrade guest appearance~~ **done, Batch 63,
@@ -974,9 +974,9 @@ translated into what this world actually has.
   queued) -- built this session as `project-roadmap-and-status.md`.
 - ~~Structural correction: the Chronicles concept was backwards~~ **done, Batch 64, 2026-09-05
   (`MCD-334`-`336`, `OPEN-011`; supersedes `MCD-331`/`332`/`333`).** Abad corrected the concept: each
-  homage-era territory has its own Chronicle series with its own leader as protagonist, Kanja as an
+  homage-era territory has its own Annals with its own leader as protagonist, Kanja as an
   unnamed guest -- not "Kanja Chronicles" with the homage figure guesting. Withdrew and rewrote all
-  three (Xaragua Chronicle I, Umoja Chronicle I, Yara Chronicle I; full text in
+  three (Xaragua Annals I, Umoja Annals I, Yara Annals I; full text in
   `docs/lords-of-cian/chronicles/`, old versions marked WITHDRAWN in place, kept for the record).
   Same batch locked `OPEN-011`: Detroit is the fourth Phase 2 homage-era city (city choice only --
   its five territories/leaders are the next concrete step, whenever Abad wants it). See

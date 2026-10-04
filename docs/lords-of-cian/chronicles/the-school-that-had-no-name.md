@@ -1,6 +1,6 @@
 # The School That Had No Name
 
-*Locked canon, Batch 211, 2026-09-11 (`MCD-917`). The Crow King Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 211, 2026-09-11 (`MCD-917`). The Crow King Alias Chronicle XLVIII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

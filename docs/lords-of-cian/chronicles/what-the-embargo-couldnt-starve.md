@@ -1,7 +1,7 @@
 # What the Embargo Couldn't Starve
 
 *Locked canon, Batch 136, 2026-09-11 (`MCD-456`). The Lord of Embers Alias Chronicle VIII.
-Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. New standalone
+Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

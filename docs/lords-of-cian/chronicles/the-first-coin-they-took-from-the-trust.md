@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 251, 2026-09-11 (`MCD-1091`). Captain Alias Chronicle LXIII, wave 21, closing
 the wave. Detailed Long Mask-era gear showcase -- the Forge-Coat, Ironfall Boots, Ironhand
-Gauntlets, and the Rexmar Machete, not the surrendered Trinity. Not a territory Chronicle.
+Gauntlets, and the Rexmar Machete, not the surrendered Trinity. Not a territory Annals entry.
 Corrected, Batch 314, 2026-09-28: an earlier draft of this file mistakenly used Trinity-era gear
 (Mafesto, Obsidian Malice, Onyx of Oblivion) despite this entry being set well after Kanja's
 already-locked age-30 surrender of the Trinity for the entire 284-year Long Mask era (`MCD-246`);

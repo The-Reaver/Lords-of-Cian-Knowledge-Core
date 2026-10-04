@@ -1,7 +1,7 @@
 # The Officer the Ghost Cost His Commission
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-795`); corrected Batch 321, 2026-10-02 (a writers'-room
-"the alias's very first Chronicle" phrase reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle XL, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+"the alias's very first Chronicle" phrase reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle XL, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

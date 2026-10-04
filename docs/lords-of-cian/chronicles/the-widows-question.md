@@ -4,7 +4,7 @@
 misplaced "off the Sovereign Coast" location reference, which belongs to the unrelated flagship duel
 at `MCD-799`, not the Captain Who Didn't Believe in Ghosts, `MCD-774`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXVIII, wave 26, closing the wave. A war widow confronts Kanja directly over a death from the
-alias's own first reputation failure. Not a territory Chronicle. Narrated in neutral third-person
+alias's own first reputation failure. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

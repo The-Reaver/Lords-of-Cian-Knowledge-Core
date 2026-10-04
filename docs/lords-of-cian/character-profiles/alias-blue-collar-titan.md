@@ -4,7 +4,7 @@
 **Track:** Alias Chronicle
 **Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
 
-This file is the standing gate artifact for this alias, per the Character Chronicle Launch
+This file is the standing gate artifact for this alias, per the Series Launch
 Protocol locked in `CLAUDE.md`. Per the standing note in `chronicle-tracks-status.md`: **the
 Blue-Collar Titan is not a distinct character or a distinct psychology.** It is one of Kanja's
 eleven Directorate-classified aliases/masks, grounded in his own single underlying psychology.
@@ -280,7 +280,7 @@ Profile discussion, not a competing invention):
 
 ## 2. Psychological Profile
 
-Not yet started. Per the Character Chronicle Launch Protocol, this section is built collaboratively
+Not yet started. Per the Series Launch Protocol, this section is built collaboratively
 with Abad and requires his actual review — it is not populated by this walkthrough pass. The
 "Existing Chronicle corpus" synthesis above (points 1-10) is offered as grounding material for that
 future discussion, consistent with the standing note that this alias is a register/mask expressing

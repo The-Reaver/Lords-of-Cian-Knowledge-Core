@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 231, 2026-09-11 (`MCD-1029`). The Trench Monarch Alias Chronicle LVIII, wave 20.
 Rebellion era, pre-Black-Trench. A false confession offered out of love rather than malice tests
-whether the reputation can survive being borrowed honestly. Not a territory Chronicle. Narrated in
+whether the reputation can survive being borrowed honestly. Not a territory Annals entry. Narrated in
 neutral third-person prose.*
 
 ---

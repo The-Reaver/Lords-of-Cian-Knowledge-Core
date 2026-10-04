@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-782`); corrected Batch 321, 2026-10-02 (a literal
 unresolved placeholder citation fixed to `MCD-779`, and a `CC-119` citation for Corren Halst fixed to
-`CC-158`). Sovereign Ghost of the Great Sea Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+`CC-158`). Sovereign Ghost of the Great Sea Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

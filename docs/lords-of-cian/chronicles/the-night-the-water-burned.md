@@ -5,7 +5,7 @@ post-Mafesto gear -- the Sovereign Eyes, Breath Collar, and Ironfall Boots -- do
 this Rebellion-era, still-live-Trinity window; swapped for Mafesto's own built-in HUD/armor/boots).
 Sovereign Ghost of the Great Sea Alias Chronicle
 LXI, wave 21, first entry in the wave. A detailed naval Trinity combat showcase against a fireship
-ambush. Not a territory Chronicle. Narrated in neutral third-person prose.*
+ambush. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

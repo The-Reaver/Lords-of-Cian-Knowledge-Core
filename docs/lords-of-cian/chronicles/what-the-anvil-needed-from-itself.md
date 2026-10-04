@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1334`). The Lord of Embers Alias Chronicle LXXXVIII,
 first entry in the thirtieth wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241).
 The Anvil's own major structural refit after a year and more of converted service, the alias's
-first base-maintenance entry. Not a territory Chronicle. Narrated in neutral third-person prose.
+first base-maintenance entry. Not a territory Annals entry. Narrated in neutral third-person prose.
 Corrected Batch 321, 2026-10-02: "sustained years of service," impossible for an 18-month tour, now
 attributes older wear to the barge's pre-conversion years as an ore-hauler; and stripped a leaked
 inline rule-ID citation ("a battle at sea (MCD-1314)") in favor of an in-world reference.*

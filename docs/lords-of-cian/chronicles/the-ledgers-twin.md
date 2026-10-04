@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1212`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXIV, wave 25. Garren Hask meets a Trust auditor keeping his own private, honest account. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

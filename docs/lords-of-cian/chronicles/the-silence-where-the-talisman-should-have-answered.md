@@ -5,7 +5,7 @@ Malice's discharge reworded to the Ironhand Gauntlets' leverage, since wave 18 f
 Trinity's age-30 surrender, `MCD-246`; the Aegis-Talisman's framing as "a piece of the Trinity's
 gear" corrected, since it is retained post-surrender and distinct from the Trinity per `MCD-246`;
 Danne Sok's pronoun corrected to he/him per `CC-159`). The Iron Bastard Alias Chronicle LII, wave
-18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 # No Smell, No Smoke, No Sound
 
-*Locked canon, Batch 244, 2026-09-11 (`MCD-1068`). Blue-Collar Titan Alias Chronicle LXI, wave 21. The alias's first asphyxiant-vapor hazard entry, a detailed full-Trinity rescue showcase distinct from every prior water-, fire-, and collapse-based crisis. Not a territory Chronicle. Corrected Batch 321, 2026-10-02: "four Chronicles back" reworded to "weeks back"; "stayed sheathed" corrected to "stayed at his back" (Obsidian Malice is a war club with no sheath, `ARS-030`).*
+*Locked canon, Batch 244, 2026-09-11 (`MCD-1068`). Blue-Collar Titan Alias Chronicle LXI, wave 21. The alias's first asphyxiant-vapor hazard entry, a detailed full-Trinity rescue showcase distinct from every prior water-, fire-, and collapse-based crisis. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: "four Chronicles back" reworded to "weeks back"; "stayed sheathed" corrected to "stayed at his back" (Obsidian Malice is a war club with no sheath, `ARS-030`).*
 
 ---
 

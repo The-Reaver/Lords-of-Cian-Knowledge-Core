@@ -3,7 +3,7 @@
 *Locked canon, Batch 231, 2026-09-11 (`MCD-1031`). The Trench Monarch Alias Chronicle LX, wave 20,
 closing the wave. Rebellion era, pre-Black-Trench. The tally-verification method is formalized into a
 repeatable, multi-district curriculum for the first time, rather than passed one person at a time.
-Not a territory Chronicle. Narrated in neutral third-person prose.*
+Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

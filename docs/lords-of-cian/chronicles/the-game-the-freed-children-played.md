@@ -1,6 +1,6 @@
 # The Game the Freed Children Played
 
-*Locked canon, Batch 200, 2026-09-11 (`MCD-809`). The Scourge Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 200, 2026-09-11 (`MCD-809`). The Scourge Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

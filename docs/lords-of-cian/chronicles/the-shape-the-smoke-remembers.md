@@ -4,7 +4,7 @@
 Pirate Dawn (ages 48-52, `MCD-250`), a new naval engagement distinct from the already-locked Boiling
 Strait. A detailed showcase of the early Scourge loadout -- the Forge-Coat, the Sovereign Eyes'
 predator-eyed glow, the Ironhand Gauntlets, the Ironfall Boots, and the Smoke System's early
-sustained-discharge use -- and the Rexmar Machete. Not a territory Chronicle. New standalone
+sustained-discharge use -- and the Rexmar Machete. Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters. Corrected Batch 321,
 2026-10-02: the Forge-Coat relabeled V1 -> V2 (`ARS-347` places V2 at ages 40-80, which Pirate
 Dawn's ages 48-52 fall within; V1 ends at age 33) and the "Terror mode" reference removed, since

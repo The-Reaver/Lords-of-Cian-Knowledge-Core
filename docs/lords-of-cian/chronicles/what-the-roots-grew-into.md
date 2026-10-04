@@ -4,7 +4,7 @@
 student's pronoun corrected to she/her, the majority usage; in-world dialogue's "ninety-some
 engagements" reworded to remove the writers'-room Chronicle-count tally). Iron Bastard Alias
 Chronicle CII, wave 34, closing the wave. A years-later return to the living fig-root bridge from
-`MCD-1283`, confirming the long-term outcome of the choice made there. Not a territory Chronicle.*
+`MCD-1283`, confirming the long-term outcome of the choice made there. Not a territory Annals entry.*
 
 ---
 

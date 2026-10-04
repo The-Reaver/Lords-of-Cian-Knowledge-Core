@@ -1,12 +1,12 @@
 # Pyro (Ignis Rexmar) — Profile & Game Plan
 
 **Status:** walkthrough drafted
-**Track:** Character Chronicle (priority launch per Abad, 2026-10-03)
-**Gate cleared:** NO — no Chronicle prose may be drafted or presented until this file reaches "game plan approved."
+**Track:** character Series (priority launch per Abad, 2026-10-03)
+**Gate cleared:** NO — no prose for this series may be drafted or presented until this file reaches "game plan approved."
 
-This file is the standing gate artifact for this character, per the Character Chronicle Launch
+This file is the standing gate artifact for this character, per the Series Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
-any Chronicle is written or rewritten — not a summary produced after the fact.
+any entry is written or rewritten — not a summary produced after the fact.
 
 Standing direction for this series (Abad, 2026-10-03): "Pyro and his Triad need to be well written.
 every connective tissue must be well thought out and well placed so it's only logical." Because the
@@ -244,7 +244,7 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
   Vessel Termination Necessity Logic, Triad Bond Mechanics, and Harrow Ring Clause Conditions — every
   one touching Pyro's birth or bond.
 
-### Already-locked plot beats (book-level or Chronicle-level)
+### Already-locked plot beats (book-level or entry-level)
 
 **Pre-Book-1 (Long Mask, Kanja ages 282-314)**
 - `MCD-269` / `MCD-275` — The Living Gate cavern survey (282).
@@ -266,12 +266,12 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
 - `MCD-221` — He fights on the Engine front with Kanja and Ozmund.
 - `MCD-223` — The peak is significant but carries no committed figures or new abilities.
 
-**Chronicle level**
+**Entry level**
 - None. See the corpus section below.
 
 ### Reserved / unresolved threads
 Things already flagged in the ledger as deliberately open, not yet paid off, or explicitly held
-back for a future book/Chronicle. These constrain what the profile and game plan may touch.
+back for a future book/entry. These constrain what the profile and game plan may touch.
 - `MCD-223` — His Book 5 peak capability: no density numbers, no added abilities, sealed behind a
   reality-scar.
 - `CC-047` / `CC-079` / `ARS-414` — The parentage reveal: he does not know; when and how he learns is
@@ -293,8 +293,8 @@ back for a future book/Chronicle. These constrain what the profile and game plan
 - `MCD-099` — Archon Meridian stays an unresolved third force after Book 5.
 - "Causal Convergence" (`MCD-223`) is named but never defined anywhere in the ledger.
 
-### Existing Chronicle corpus (if any)
-For a character with Chronicles already locked (backfill case): a list of what's already been
+### Existing entry corpus (if any)
+For a character with entries already locked (backfill case): a list of what's already been
 written and what it already establishes, so the profile is a synthesis of demonstrated
 characterization, not a competing invention.
 - **None.** A grep of all 1,505 files in `docs/lords-of-cian/chronicles/` for "Pyro" and "Ignis"
@@ -304,12 +304,12 @@ characterization, not a competing invention.
   never mention him — among them `MCD-493` (age 300), `MCD-1477` (305-314), `MCD-1472` (308),
   `MCD-1252` and `MCD-1255` (314), and `MCD-1022` ("The Last Coat He Ever Wore," 314, the night the
   Scourge coat comes off — the same year as the Last Breakfast, `MCD-277`).
-- Outside the Chronicles: `ozmund-verehimu.md` mentions him once (the `MCD-221` Engine-front line).
-  `kanja-haku-rexmar.md` does not mention him at all. `character-chronicle-gameplan.md` lists him and
+- Outside the entries: `ozmund-verehimu.md` mentions him once (the `MCD-221` Engine-front line).
+  `kanja-haku-rexmar.md` does not mention him at all. `series-gameplan.md` lists him and
   the Triad in Tier 2 ("could run as one shared thread or three separate ones, undecided").
 
 ### Connective-tissue findings
-Contradictions and gaps among his rules, and between rules and the Chronicles. Quoted with IDs. Not
+Contradictions and gaps among his rules, and between rules and the entries. Quoted with IDs. Not
 resolved here.
 
 1. **His age at Book 1.** `MCD-091`: Ceremony and Pier "roughly 296 years apart" (Pyro ~36). Against
@@ -384,7 +384,7 @@ resolved here.
     puts him at ~6; `MCD-272` at ~18. No rule locks his maturation rate (his biology is part Karesian
     via `MCD-101`, Thermal Variant, and Dhar-Kael-bonded). `CC-101` calls Abyss "the crew's youngest
     adult recruit" and says Pyro "is younger," leaving open whether Pyro counts as an adult even at
-    Book 1. Any pre-Book-1 Chronicle set at Kanja 290-308 depicts a child or adolescent, and must be
+    Book 1. Any pre-Book-1 entry set at Kanja 290-308 depicts a child or adolescent, and must be
     treated under the child-safety hard stop: no sexualized content of any kind, and his involuntary
     heat surges under fear (`ARS-421`) written as a child's distress, not a weapon showcase.
 18. **The Onyx account.** `VB-062` gives every significant event in Kanja's life an Onyx account;
@@ -394,7 +394,7 @@ resolved here.
 19. **Book 1-4 placement.** Apart from the Last Breakfast (`MCD-277`), Book 3's Nelle beats
     (`CC-123`/`126`), and Book 5 (`MCD-097`/`221`/`223`), no Book 1, 2, or 4 role for Pyro is locked.
     The Triad have no locked book-level beat at all.
-20. **Corpus silence.** Zero Chronicles mention Pyro or the Triad, though locked Alias Chronicles cover
+20. **Corpus silence.** Zero entries mention Pyro or the Triad, though locked Alias Chronicles cover
     Kanja 300-314 (`MCD-493`, `MCD-1472`, `MCD-1477`, `MCD-1252`, `MCD-1255`, `MCD-1022`). Whether
     their silence means he was off the page or absent from the fleet is unstated; a two-ton courser
     and a raptor with a 27-foot wingspan living aboard would be hard to leave out of a scene.
@@ -446,7 +446,7 @@ this file always reflects current understanding, not a batch-log history of how 
   character's life/role actually calls for a split)
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the
   walkthrough plus anything new identified during profile discussion)
-- **Chronicle I candidates** (2-3 pitches, not one pre-committed draft):
+- **First-entry candidates** (2-3 pitches, not one pre-committed draft):
   1.
   2.
   3.
@@ -454,7 +454,7 @@ this file always reflects current understanding, not a batch-log history of how 
 
 ---
 
-## 4. Chronicle Log
+## 4. Entry Log
 
 Updated as each wave locks. One line per entry: numeral, title, rule ID, one-sentence summary,
 batch number.

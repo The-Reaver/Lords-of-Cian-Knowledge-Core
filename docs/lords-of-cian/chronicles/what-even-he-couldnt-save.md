@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 154, 2026-09-11 (`MCD-485`). The Blue-Collar Titan Alias Chronicle X, first
 entry in the fourth wave. Rebellion era, age 20, the Sewer War of Killane. Not a territory
-Chronicle. New standalone material — the first genuine structural-failure entry in this alias's run.
+Annals entry. New standalone material — the first genuine structural-failure entry in this alias's run.
 Narrated in neutral third-person prose. No new named characters.*
 
 ---

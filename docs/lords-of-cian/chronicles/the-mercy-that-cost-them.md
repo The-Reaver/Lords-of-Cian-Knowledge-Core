@@ -1,6 +1,6 @@
 # The Mercy That Cost Them
 
-*Locked canon, Batch 210, 2026-09-11 (`MCD-912`). Sovereign Ghost of the Great Sea Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 210, 2026-09-11 (`MCD-912`). Sovereign Ghost of the Great Sea Alias Chronicle XLVI, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

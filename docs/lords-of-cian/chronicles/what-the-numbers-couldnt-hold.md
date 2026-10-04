@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 282, 2026-09-11 (`MCD-1486`). Crow King Alias Chronicle CII, wave 34, closing
 it. Word of Garren Hask's death reaches the fourth generation, who once kept his supply accounting
-honest and finds his own gift has nothing to offer against this. Not a territory Chronicle.*
+honest and finds his own gift has nothing to offer against this. Not a territory Annals entry.*
 
 ---
 

@@ -1,6 +1,6 @@
 # What Held the Pillar Up Was Never a Miracle
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1299`). Iron Bastard Alias Chronicle LXXX, wave 27. The doctrine reveals the pillar's genuinely mundane structural truth, delivered with deliberate care. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1299`). Iron Bastard Alias Chronicle LXXX, wave 27. The doctrine reveals the pillar's genuinely mundane structural truth, delivered with deliberate care. Not a territory Annals entry.*
 
 ---
 

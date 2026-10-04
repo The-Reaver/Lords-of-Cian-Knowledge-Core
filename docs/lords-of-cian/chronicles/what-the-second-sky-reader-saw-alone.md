@@ -1,7 +1,7 @@
 # What the Second Sky-Reader Saw Alone
 
 *Locked canon, Batch 190, 2026-09-11 (`MCD-557`). The Storm That Walks Alias Chronicle XV,
-closing the fifth wave. Rebellion era, age 29, the Gale Straits. Not a territory Chronicle. New
+closing the fifth wave. Rebellion era, age 29, the Gale Straits. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Sephtis and his successor. Corrected Batch 321, 2026-10-02: renumbered from the
 duplicate "Chronicle XVIII" (which collided with `MCD-563`'s own correctly-numbered wave 6 entry)

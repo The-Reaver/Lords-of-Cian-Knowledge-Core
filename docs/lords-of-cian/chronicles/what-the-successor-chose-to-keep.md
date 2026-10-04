@@ -1,7 +1,7 @@
 # What the Successor Chose to Keep
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1254`). The Scourge Alias Chronicle LXXXIX, wave 30. Age
-312, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+312, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

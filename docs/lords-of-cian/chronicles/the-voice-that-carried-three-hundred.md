@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 123, 2026-09-11 (`MCD-418`). Crow King Alias Chronicle VI, closing the
 second wave. Rebellion era, from the perspective of one of the crew's Hymn-Engine singers. Not a
-territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+territory Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

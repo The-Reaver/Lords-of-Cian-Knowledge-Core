@@ -1,6 +1,6 @@
 # The Flagship's Numbers Didn't Match
 
-*Locked canon, Batch 198, 2026-09-11 (`MCD-752`). The Industrial Myth Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 198, 2026-09-11 (`MCD-752`). The Industrial Myth Alias Chronicle XXVII, wave 9 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,7 +1,7 @@
 # What the Ark Actually Carries
 
-*Locked canon, Batch 146, 2026-09-11 (`MCD-471`). Orin Chronicle II. Homage-era Ílú-Márùn,
-Orin/Onilu. Territory Chronicle -- Onilu as protagonist, Kanja an unnamed background guest with no
+*Locked canon, Batch 146, 2026-09-11 (`MCD-471`). Orin Annals II. Homage-era Ílú-Márùn,
+Orin/Onilu. Territory Annals entry -- Onilu as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 
 ---
@@ -42,7 +42,7 @@ ordinary conversation.
 
 ---
 
-*Continuity notes (not narrative): a direct complement to Chronicle I (`MCD-350`), showing "The Ark"
+*Continuity notes (not narrative): a direct complement to Annals I (`MCD-350`), showing "The Ark"
 (`PH2-029`) functioning at full communal strength under the exact non-commercial conditions the prior
 entry proved by their absence, deepening rather than repeating the ability's established mechanic. No
-new named characters. Second Orin territory Chronicle.*
+new named characters. Second Orin territory Annals entry.*

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1263`). Crow King Alias Chronicle LXXI, wave 24. A
 lineage member, not Kanja himself, is tempted toward personal vengeance-by-information against an
-officer responsible for real harm. Not a territory Chronicle.*
+officer responsible for real harm. Not a territory Annals entry.*
 
 ---
 

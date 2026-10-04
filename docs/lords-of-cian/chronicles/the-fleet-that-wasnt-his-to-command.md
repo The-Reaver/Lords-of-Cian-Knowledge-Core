@@ -1,7 +1,7 @@
 # The Fleet That Wasn't His to Command
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1471`). The Scourge Alias Chronicle XCVI, wave 32, closing
-the wave. Age 195, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+the wave. Age 195, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

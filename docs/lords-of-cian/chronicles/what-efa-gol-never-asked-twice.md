@@ -1,7 +1,7 @@
 # What Efa Gol Never Asked Twice
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1246`). The Scourge Alias Chronicle LXXXI, wave 27,
-closing the wave. Age 290, V4 gear. Not a territory Chronicle. Narrated in neutral third-person
+closing the wave. Age 290, V4 gear. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

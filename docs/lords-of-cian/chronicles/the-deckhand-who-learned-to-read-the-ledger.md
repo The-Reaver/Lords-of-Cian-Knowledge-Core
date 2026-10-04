@@ -1,6 +1,6 @@
 # The Deckhand Who Learned to Read the Ledger
 
-*Locked canon, Batch 222, 2026-09-11 (`MCD-1001`). Captain Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 222, 2026-09-11 (`MCD-1001`). Captain Alias Chronicle LIV, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

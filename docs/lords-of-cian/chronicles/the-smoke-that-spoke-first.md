@@ -1,7 +1,7 @@
 # The Smoke That Spoke First
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1237`). The Scourge Alias Chronicle LXXII, wave 24,
-closing the wave. Age 225, V4 gear. Not a territory Chronicle. Narrated in neutral third-person
+closing the wave. Age 225, V4 gear. Not a territory Annals entry. Narrated in neutral third-person
 prose.*
 
 ---

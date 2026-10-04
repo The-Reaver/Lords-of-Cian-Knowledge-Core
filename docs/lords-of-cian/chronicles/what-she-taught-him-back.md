@@ -1,6 +1,6 @@
 # What She Taught Him Back
 
-*Locked canon, Batch 201, 2026-09-11 (`MCD-851`). The Crow King Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 201, 2026-09-11 (`MCD-851`). The Crow King Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

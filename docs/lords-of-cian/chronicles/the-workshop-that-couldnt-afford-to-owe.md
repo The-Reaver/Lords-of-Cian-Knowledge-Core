@@ -1,6 +1,6 @@
 # The Workshop That Couldn't Afford to Owe
 
-*Locked canon, Batch 232, 2026-09-11 (`MCD-1034`). The Industrial Myth Alias Chronicle LX, wave 20, closing the wave. A small workshop owner genuinely owes his three workers back wages, but full payment would close the workshop and end all three jobs at once, forcing the method to weigh justice for the workers against the survival of the smallest, least culpable employer it has ever documented. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 232, 2026-09-11 (`MCD-1034`). The Industrial Myth Alias Chronicle LX, wave 20, closing the wave. A small workshop owner genuinely owes his three workers back wages, but full payment would close the workshop and end all three jobs at once, forcing the method to weigh justice for the workers against the survival of the smallest, least culpable employer it has ever documented. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

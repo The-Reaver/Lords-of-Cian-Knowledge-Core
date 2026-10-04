@@ -4,7 +4,7 @@
 to "years" to fit this alias's nine-year Rebellion-era window; Kanja's dialogue quoting the
 writers'-room term "a Trinity showcase" reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle
 LXX, wave 24, first entry in the wave. Sustained drought/famine relief through trade logistics, zero
-combat. Not a territory Chronicle. Narrated in neutral third-person prose.*
+combat. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

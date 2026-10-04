@@ -3,7 +3,7 @@
 *Locked canon, Batch 218, 2026-09-11 (`MCD-965`); corrected Batch 321, 2026-10-02 (Kanja's closing
 line corrected to remove the false claim that he personally defended the doctrine to councils
 before, since `MCD-730` establishes that was the Directorate general's own testimony, not Kanja's).
-The Iron Bastard Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral
+The Iron Bastard Alias Chronicle LIV, wave 18. Not a territory Annals entry. Narrated in neutral
 third-person prose.*
 
 ---

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1267`). Crow King Alias Chronicle LXXV, wave 25, closing
 it. Callum Breck reflects on witnessing Kanja's own vulnerability across the hunter's trap and the
-blast, and the trust it built rather than eroded. Not a territory Chronicle.*
+blast, and the trust it built rather than eroded. Not a territory Annals entry.*
 
 ---
 

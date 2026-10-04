@@ -4,7 +4,7 @@
 Long Mask-era gear combat showcase -- the Forge-Coat and Ironfall Boots grounding a ramming run's
 shock, the Ironhand Gauntlets scattering a boarding line through leverage and trained technique, and
 the Rexmar Machete wielded through Kanja's own swordsmanship and instinctive Rexmar-Mar tactical
-sense. Not a territory Chronicle. Corrected batch 314, 2026-09-28: an earlier draft mistakenly used
+sense. Not a territory Annals entry. Corrected batch 314, 2026-09-28: an earlier draft mistakenly used
 Trinity-era gear (Mafesto, Obsidian Malice, Onyx of Oblivion), which Kanja surrendered to the vault
 at age 30 for the entire 284-year Long Mask (`MCD-246`) -- this scene, dated roughly five years after
 that surrender, could not have used it. Timestamp loosened Batch 321, 2026-10-02 (from "roughly 8.5

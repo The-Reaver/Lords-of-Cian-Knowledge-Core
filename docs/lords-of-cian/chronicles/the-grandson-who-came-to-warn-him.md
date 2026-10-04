@@ -1,7 +1,7 @@
 # The Grandson Who Came to Warn Him
 
 *Locked canon, Batch 281, 2026-09-11 (`MCD-1474`). The Scourge Alias Chronicle XCIX, wave 33, closing
-the wave. Age 230, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+the wave. Age 230, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

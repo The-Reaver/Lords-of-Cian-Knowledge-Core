@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1255`). The Scourge Alias Chronicle XC, wave 30, closing
 the wave. Age 313, V4 gear, one year before the Long Mask's established close. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

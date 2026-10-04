@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1214`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXVI, wave 26, first entry in the wave. A growth/adaptation callback to the Fleet-Marshal's staged
-distress-call ambush. Not a territory Chronicle. Narrated in neutral third-person prose.*
+distress-call ambush. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

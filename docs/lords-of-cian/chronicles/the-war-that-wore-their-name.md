@@ -3,7 +3,7 @@
 *Locked canon, Batch 269, 2026-09-11 (`MCD-1405`). Sovereign Ghost of the Great Sea Alias Chronicle
 XCIII, wave 31, closing the wave. The fleet's reputation is invoked as propaganda by both sides of a
 distant conflict the fleet has no part in; Kanja travels to publicly refuse both endorsements. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

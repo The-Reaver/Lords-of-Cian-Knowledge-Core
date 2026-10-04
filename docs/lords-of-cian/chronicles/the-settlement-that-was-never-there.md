@@ -1,6 +1,6 @@
 # The Settlement That Was Never There
 
-*Locked canon, Batch 219, 2026-09-11 (`MCD-970`). The Lord of Embers Alias Chronicle L, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 219, 2026-09-11 (`MCD-970`). The Lord of Embers Alias Chronicle L, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

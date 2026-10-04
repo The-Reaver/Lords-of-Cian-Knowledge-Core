@@ -4,7 +4,7 @@
 Rebellion era, following Callum Breck's already-locked silence arc (`CC-119`) -- his four months of
 near-total silence after Nev Torr's death at the Black Trench, broken first only to confirm Iron
 Shallows' zero-casualty headcount ("Two hundred"). This Chronicle picks up after that first
-confirmed utterance, not restaging it. Not a territory Chronicle. No new named characters beyond
+confirmed utterance, not restaging it. Not a territory Annals entry. No new named characters beyond
 the already-locked Callum Breck.*
 
 ---

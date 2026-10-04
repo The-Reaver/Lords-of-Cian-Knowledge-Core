@@ -13,7 +13,7 @@ from collections import Counter
 
 LEDGER = "canon-ledger.json"
 DRAFT = sys.argv[1]
-APPROVAL = "Abad's approval: 'lock it. once you're done we will move on to pyro and the Triad'."
+APPROVAL = "Abad's approval of the final text (revision 11): 'lock it'."
 SOURCE = "Original invention, chat-drafted 2026-10-04, no source document"
 
 import subprocess
@@ -80,10 +80,13 @@ d["batches_completed"].append({
             "(the Series, Comrade Account, Adversary Account, Dossier, Hearsay) and the reliability rule. "
             "VB-062 amended to match. The rename was carried in the same batch by scripts/rename_series.py "
             "(362 entry files, ~390 rule statements, category tags, profiles, living docs, CLAUDE.md's standing "
-            "rules) plus hand fixes to VB-020, PH2-048, PH2-061, MCD-1859, MCD-1860, MCD-1862, MCD-1864 (stale: "
-            "Ezio Exhibit I already dramatizes it), MCD-1867, MCD-1881. Anirak's series name changed from the presented 'Tallies' to "
+            "rules), hand fixes to " + ", ".join(sorted(HAND)) + " (MCD-1864 was stale: Ezio Exhibit I already "
+            "dramatizes it), and scripts/batch375_followup.py's residue fixes (quoted correction records kept "
+            "as 'the old' wording, count nouns, plurals, paths). First presented and approved 2026-10-04 ('lock "
+            "it. once you're done we will move on to pyro and the Triad'); revised through seventeen independent "
+            "reviews and re-presented in full before lock. Anirak's series name changed from the presented 'Tallies' to "
             "'Collections' after independent review found it collided with Kanja's tally method and Daba's "
-            "own 'Tally' list (MCD-1610). Clean on the eleventh independent review. " + APPROVAL,
+            "own 'Tally' list (MCD-1610). Clean on the seventeenth independent review. " + APPROVAL,
 })
 d["ledger_version"] = str(round(float(d["ledger_version"]) + 0.1, 1))
 d["last_updated"] = "2026-10-04"

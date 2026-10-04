@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 113, 2026-09-10 (`MCD-388`). Iron Bastard Alias Chronicle III, closing the
 wave. Rebellion era, during the original Iron Bastard's Stand (`MCD-238`, age 25), told from inside
-one of the twelve Trust Crawlers. Not a territory Chronicle. New standalone material. Narrated in
+one of the twelve Trust Crawlers. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

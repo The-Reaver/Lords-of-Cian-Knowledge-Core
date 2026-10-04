@@ -1,6 +1,6 @@
 # What the Successor Called Progress
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1303`). Iron Bastard Alias Chronicle LXXXIV, wave 28, closing the wave. The completed aqueduct becomes a small symbol of détente between the two sides. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1303`). Iron Bastard Alias Chronicle LXXXIV, wave 28, closing the wave. The completed aqueduct becomes a small symbol of détente between the two sides. Not a territory Annals entry.*
 
 ---
 

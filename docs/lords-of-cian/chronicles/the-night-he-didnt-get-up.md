@@ -1,6 +1,6 @@
 # The Night He Didn't Get Up
 
-*Locked canon, Batch 214, 2026-09-11 (`MCD-928`). The Industrial Myth Alias Chronicle LIII, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 214, 2026-09-11 (`MCD-928`). The Industrial Myth Alias Chronicle LIII, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

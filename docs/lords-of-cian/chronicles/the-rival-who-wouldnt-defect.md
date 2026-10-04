@@ -1,6 +1,6 @@
 # The Rival Who Wouldn't Defect
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1288`). Iron Bastard Alias Chronicle LXIX, wave 23, closing the wave. The Trust diagnostician declines to defect, establishing an ongoing respectful rivalry rather than a resolution. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1288`). Iron Bastard Alias Chronicle LXIX, wave 23, closing the wave. The Trust diagnostician declines to defect, establishing an ongoing respectful rivalry rather than a resolution. Not a territory Annals entry.*
 
 ---
 

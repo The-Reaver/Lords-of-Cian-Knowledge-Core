@@ -4,7 +4,7 @@
 is a Book-2-onward Moonvault gift that doesn't exist in this Rebellion-era window -- swapped for
 Kanja's own unaided Rex/Mar senses). Sovereign Ghost of the Great Sea Alias Chronicle
 XCVI, wave 32, closing the wave. A detailed-senses register: Kanja reads a shifting seafloor at
-extreme range to save a convoy from a hazard no lookout could see coming. Not a territory Chronicle.
+extreme range to save a convoy from a hazard no lookout could see coming. Not a territory Annals entry.
 Narrated in neutral third-person prose.*
 
 ---

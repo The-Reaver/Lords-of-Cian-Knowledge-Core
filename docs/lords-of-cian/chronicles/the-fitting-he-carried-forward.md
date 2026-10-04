@@ -1,7 +1,7 @@
 # The Fitting He Carried Forward
 
 *Locked canon, Batch 233, 2026-09-11 (`MCD-1036`). The Blue-Collar Titan Alias Chronicle LIX, wave
-20. Not a territory Chronicle. Narrated in neutral third-person prose.*
+20. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

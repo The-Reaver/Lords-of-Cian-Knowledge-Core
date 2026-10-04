@@ -1,7 +1,7 @@
 # The Passenger Nobody Could Know They Carried
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-796`); corrected Batch 321, 2026-10-02 (a writers'-room
-"combat showcases" phrase in narrative prose reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+"combat showcases" phrase in narrative prose reworded to in-world language). Sovereign Ghost of the Great Sea Alias Chronicle XLI, wave 14 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

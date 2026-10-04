@@ -1,6 +1,6 @@
 # What They Chose Between Two Fleets
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-581`). The Storm That Walks Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-581`). The Storm That Walks Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

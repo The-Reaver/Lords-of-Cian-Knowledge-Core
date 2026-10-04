@@ -1,7 +1,7 @@
 # The Choice Between Two
 
 *Locked canon, Batch 161, 2026-09-11 (`MCD-506`). Captain Alias Chronicle XIII, first entry in the
-fourth wave. Rebellion era. Not a territory Chronicle. New standalone material — the first genuine
+fourth wave. Rebellion era. Not a territory Annals entry. New standalone material — the first genuine
 no-clean-answer dilemma in this alias's run. Narrated in neutral third-person prose. No new named
 characters.*
 

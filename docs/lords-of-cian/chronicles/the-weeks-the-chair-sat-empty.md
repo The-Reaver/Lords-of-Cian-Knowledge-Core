@@ -1,7 +1,7 @@
 # The Weeks the Chair Sat Empty
 
-*Locked canon, Batch 150, 2026-09-11 (`MCD-475`). Kiti Chronicle II. Homage-era Mji, Kiti/Owusu.
-Territory Chronicle -- Owusu as protagonist, Kanja an unnamed background guest with no command,
+*Locked canon, Batch 150, 2026-09-11 (`MCD-475`). Kiti Annals II. Homage-era Mji, Kiti/Owusu.
+Territory Annals entry -- Owusu as protagonist, Kanja an unnamed background guest with no command,
 credit, or resolution authorship. New standalone material. No new named characters.*
 
 *Corrected Batch 342, 2026-10-02: "six years" was a stale figure -- by this point in Owusu's tenure
@@ -50,6 +50,6 @@ without comment, returned once more the week Owusu resumed his seat and said not
 
 *Continuity notes (not narrative): confirms the institutional-not-personal nature of "The Long
 Tenure" (`PH2-059`) directly on the page for the first time -- a six-week medical absence causes the
-strength to genuinely lapse and then fully recover upon his return, proving concretely what Chronicle
+strength to genuinely lapse and then fully recover upon his return, proving concretely what Annals
 I only stated as foreshadowing, without paying off the capstone death itself. No new named
-characters. Second Kiti territory Chronicle.*
+characters. Second Kiti territory Annals entry.*

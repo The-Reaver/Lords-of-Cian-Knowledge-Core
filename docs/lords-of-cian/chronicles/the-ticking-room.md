@@ -1,7 +1,7 @@
 # The Ticking Room
 
 *Locked canon, Batch 154, 2026-09-11 (`MCD-486`). The Blue-Collar Titan Alias Chronicle XI.
-Rebellion era, age 20, the Sewer War of Killane. Not a territory Chronicle. New standalone material
+Rebellion era, age 20, the Sewer War of Killane. Not a territory Annals entry. New standalone material
 — a detailed, time-pressured armor-and-weapon combat/rescue showcase per Abad's craft instruction.
 Narrated in neutral third-person prose. No new named characters. Corrected Batch 321, 2026-10-02:
 "not yet fully spent from an earlier encounter" corrected to "not yet fully recharged" (inverted

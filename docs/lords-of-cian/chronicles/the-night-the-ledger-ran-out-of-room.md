@@ -4,7 +4,7 @@
 count updated from "three flagships, a fourth unnamed hull" to "three flagships, the transport *The
 Second Chance*, and a fifth unnamed hull," folding in the Captain-track transport, `MCD-607`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXI, wave 27, closing the wave. Garren Hask's original ledger is completed and a second volume
-begun. Not a territory Chronicle. Narrated in neutral third-person prose.*
+begun. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

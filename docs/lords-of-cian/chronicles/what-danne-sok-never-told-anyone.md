@@ -5,7 +5,7 @@ implied Kanja personally freed Danne Sok from captivity, contradicting the later
 ruling, Batch 321, that all three earliest crew members -- Corren Halst, Danne Sok, Maret Vos -- freed
 themselves and found Kanja together on the docks; reworded so Danne Sok freed himself, matching
 `what-maret-vos-carried-from-before.md`'s own already-correct account). Bane Alias Chronicle XV, closing
-the fifth wave. Rebellion era, age 19, shortly after the Black Trench. Not a territory Chronicle. New
+the fifth wave. Rebellion era, age 19, shortly after the Black Trench. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters beyond the
 already-locked Danne Sok.*
 

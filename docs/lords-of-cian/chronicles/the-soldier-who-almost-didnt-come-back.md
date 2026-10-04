@@ -1,6 +1,6 @@
 # The Soldier Who Almost Didn't Come Back
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-689`). Bane Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-689`). Bane Alias Chronicle XXIV, wave 8 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

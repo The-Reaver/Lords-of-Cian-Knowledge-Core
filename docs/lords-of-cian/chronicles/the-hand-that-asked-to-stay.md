@@ -6,7 +6,7 @@ matching `MCD-1039`'s own establishment of Wren as Dol Maren's first apprentice 
 is the first hull-reader, Wren the second). Sovereign Ghost of the Great Sea Alias Chronicle C,
 wave 34, first entry in the wave. A payoff to Dol Maren's apprentice thread (`MCD-1039`): the grown
 stowaway boy, now a young man, asks to join the crew permanently as a named hull-reader. Not a
-territory Chronicle. Narrated in neutral third-person prose.*
+territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

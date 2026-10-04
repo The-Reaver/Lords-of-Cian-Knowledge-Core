@@ -1,7 +1,7 @@
 # The Line That Wouldn't Break
 
 *Locked canon, Batch 152, 2026-09-11 (`MCD-480`). Trench Monarch Alias Chronicle XI. Rebellion era,
-age 18, before the Black Trench. Not a territory Chronicle. New standalone material — a detailed
+age 18, before the Black Trench. Not a territory Annals entry. New standalone material — a detailed
 solo-blade combat showcase per Abad's craft instruction, distinct from "What the Sword Remembers"
 (`MCD-369`) in focusing on defending others under fire rather than a powers demonstration. Narrated
 in neutral third-person prose. No new named characters.*

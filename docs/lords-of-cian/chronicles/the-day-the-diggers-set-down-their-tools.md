@@ -1,6 +1,6 @@
 # The Day the Diggers Set Down Their Tools
 
-*Locked canon, Batch 244, 2026-09-11 (`MCD-1070`). Blue-Collar Titan Alias Chronicle LXIII, wave 21, closing the wave. A wage-justice entry testing Kanja's own class identity against his command authority for the first time. Not a territory Chronicle.*
+*Locked canon, Batch 244, 2026-09-11 (`MCD-1070`). Blue-Collar Titan Alias Chronicle LXIII, wave 21, closing the wave. A wage-justice entry testing Kanja's own class identity against his command authority for the first time. Not a territory Annals entry.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 117, 2026-09-11 (`MCD-399`). Bane Alias Chronicle V. Rebellion era,
 within the "Bane" window, a new undercover-surveillance angle distinct from any prior Bane
-Chronicle. Not a territory Chronicle. New standalone material. Narrated in neutral third-person
+Chronicle. Not a territory Annals entry. New standalone material. Narrated in neutral third-person
 prose. No new named characters.*
 
 ---

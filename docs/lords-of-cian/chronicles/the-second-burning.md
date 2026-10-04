@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 114, 2026-09-10 (`MCD-389`). Lord of Embers Alias Chronicle I. Rebellion era,
 weeks after the Free Quarter's fourteen-day rebuilding (`MCD-241`, age 27). Not a territory
-Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

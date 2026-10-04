@@ -4,7 +4,7 @@
 era, the final night of the Sewer War of Killane (`MCD-234`, age 20) -- the Trinity's first
 extended showcase in full combined use since its debut at the Black Trench (`MCD-232`), detailing
 Mafesto's Kinetic Transfer System, Obsidian Malice's discharge cycle, and Onyx of Oblivion working
-as one coordinated system. Not a territory Chronicle. New standalone material. Narrated in neutral
+as one coordinated system. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

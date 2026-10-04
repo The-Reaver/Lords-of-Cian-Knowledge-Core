@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 258, 2026-09-11 (`MCD-1226`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXXVIII, wave 30, first entry in the wave. The fleet releases a captured vessel entirely, choosing
-trust over enforcement of the letter of the law. Not a territory Chronicle. Narrated in neutral
+trust over enforcement of the letter of the law. Not a territory Annals entry. Narrated in neutral
 third-person prose.*
 
 ---

@@ -1,7 +1,7 @@
 # The Sails That Weren't His
 
 *Locked canon, Batch 132, 2026-09-11 (`MCD-444`). The Sovereign Ghost of the Great Sea Alias
-Chronicle VIII. Rebellion era, age 21, Ghost Harbor. Not a territory Chronicle. New standalone
+Chronicle VIII. Rebellion era, age 21, Ghost Harbor. Not a territory Annals entry. New standalone
 material. Narrated in neutral third-person prose. No new named characters.*
 
 ---

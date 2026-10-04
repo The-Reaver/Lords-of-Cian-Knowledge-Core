@@ -1,6 +1,6 @@
 # The Two Who Both Went First
 
-*Locked canon, Batch 232, 2026-09-11 (`MCD-1032`). The Industrial Myth Alias Chronicle LVIII, wave 20. The worst-off-first discipline forces a real, on-the-spot triage between two equally desperate claimants, and the one documented second never fully forgives being ranked behind the other. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 232, 2026-09-11 (`MCD-1032`). The Industrial Myth Alias Chronicle LVIII, wave 20. The worst-off-first discipline forces a real, on-the-spot triage between two equally desperate claimants, and the one documented second never fully forgives being ranked behind the other. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

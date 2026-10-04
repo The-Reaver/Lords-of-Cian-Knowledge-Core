@@ -1,6 +1,6 @@
 # What Pell Ostra Said About the Quiet Ones
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-671`). The Blue-Collar Titan Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-671`). The Blue-Collar Titan Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Boy Who Wanted the Blade Instead
 
-*Locked canon, Batch 195, 2026-09-11 (`MCD-653`). The Blue-Collar Titan Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "the way he'd watched Kanja turn one... in front of" corrected to "the way he'd heard the crew describe Kanja turning one... in front of" -- MCD-374 establishes Kanja surfaced alone with nobody watching.*
+*Locked canon, Batch 195, 2026-09-11 (`MCD-653`). The Blue-Collar Titan Alias Chronicle XVIII, wave 6 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "the way he'd watched Kanja turn one... in front of" corrected to "the way he'd heard the crew describe Kanja turning one... in front of" -- MCD-374 establishes Kanja surfaced alone with nobody watching.*
 
 ---
 

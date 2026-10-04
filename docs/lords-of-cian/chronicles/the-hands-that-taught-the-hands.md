@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1330`). The Lord of Embers Alias Chronicle LXXXIV, wave
 28, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), later in the
 tour. A generational-transmission entry distinct from every prior apprentice-legacy beat. Not a
-territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the
+territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the
 old man was originally written as present "three decades and one full generation removed" from the
 campaign's own opening -- impossible inside an 18-month tour. Kept in-tour: he's now a first-stop
 apprentice the campaign is revisiting roughly sixteen months later, in the same tour.*

@@ -1,6 +1,6 @@
 # The Debt He Paid Before Being Asked
 
-*Locked canon, Batch 232, 2026-09-11 (`MCD-1033`). The Industrial Myth Alias Chronicle LIX, wave 20. An administrator raises every wage in the district to fair rates three days before Kanja arrives, and the crew has to build a way to tell a genuine reform from a performance staged to make the ledger unnecessary. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 232, 2026-09-11 (`MCD-1033`). The Industrial Myth Alias Chronicle LIX, wave 20. An administrator raises every wage in the district to fair rates three days before Kanja arrives, and the crew has to build a way to tell a genuine reform from a performance staged to make the ledger unnecessary. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

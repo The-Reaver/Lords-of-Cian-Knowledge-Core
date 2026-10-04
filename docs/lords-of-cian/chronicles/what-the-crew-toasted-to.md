@@ -1,7 +1,7 @@
 # What the Crew Toasted To
 
 *Locked canon, Batch 138, 2026-09-11 (`MCD-463`). Captain Alias Chronicle IX, closing the third
-wave — and closing the third wave for all eleven aliases. Not a territory Chronicle.
+wave — and closing the third wave for all eleven aliases. Not a territory Annals entry.
 New standalone material. Narrated in neutral third-person prose. No new named characters. Corrected
 Batch 321, 2026-10-02: struck a mistaken "Rebellion era" header tag and fixed "decades after
 Warehouse Twelve" to "years after Warehouse Twelve" -- Corren Halst was not freed until the Black

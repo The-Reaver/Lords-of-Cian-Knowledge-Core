@@ -1,6 +1,6 @@
 # What Stood Between Him and the Metal
 
-*Locked canon, Batch 197, 2026-09-11 (`MCD-715`). The Iron Bastard Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Onyx's lines corrected Batch 359, 2026-10-03, to the Voice Bible's utilitarian register (VB-063); no facts changed. Abad's approval: "go."*
+*Locked canon, Batch 197, 2026-09-11 (`MCD-715`). The Iron Bastard Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Onyx's lines corrected Batch 359, 2026-10-03, to the Voice Bible's utilitarian register (VB-063); no facts changed. Abad's approval: "go."*
 
 ---
 

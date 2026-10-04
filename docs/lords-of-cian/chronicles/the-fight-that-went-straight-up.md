@@ -1,6 +1,6 @@
 # The Fight That Went Straight Up
 
-*Locked canon, Batch 196, 2026-09-11 (`MCD-703`). Bane Alias Chronicle XXXVIII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 196, 2026-09-11 (`MCD-703`). Bane Alias Chronicle XXXVIII, wave 13 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

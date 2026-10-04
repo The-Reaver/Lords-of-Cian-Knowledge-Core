@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1256`). Crow King Alias Chronicle LXIV, wave 22, opening
 it. The lineage writes the discipline's underlying principles down as text for the first time. Not a
-territory Chronicle.*
+territory Annals entry.*
 
 ---
 

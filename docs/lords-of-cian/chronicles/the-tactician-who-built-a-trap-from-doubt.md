@@ -1,7 +1,7 @@
 # The Tactician Who Built a Trap From Doubt
 
 *Locked canon, Batch 134, 2026-09-11 (`MCD-450`). The Crow King Alias Chronicle VIII. Rebellion
-era, ages 23-28. Not a territory Chronicle. New standalone material. Narrated in neutral third-person
+era, ages 23-28. Not a territory Annals entry. New standalone material. Narrated in neutral third-person
 prose. No new named characters.*
 
 ---

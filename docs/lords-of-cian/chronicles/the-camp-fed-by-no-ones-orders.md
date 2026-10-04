@@ -1,7 +1,7 @@
 # The Camp Fed by No One's Orders
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1230`). The Scourge Alias Chronicle LXV, wave 22. Age
-176, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+176, V3 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

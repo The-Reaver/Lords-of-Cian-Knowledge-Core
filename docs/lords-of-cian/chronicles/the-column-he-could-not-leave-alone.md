@@ -1,7 +1,7 @@
 # The Column He Could Not Leave Alone
 
 *Locked canon, Batch 124, 2026-09-11 (`MCD-419`). Iron Bastard Alias Chronicle IV, first entry in
-the second wave. Rebellion era. Not a territory Chronicle. New standalone material. Narrated in
+the second wave. Rebellion era. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

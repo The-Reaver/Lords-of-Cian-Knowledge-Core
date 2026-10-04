@@ -1,7 +1,7 @@
 # The Division That Marched Itself Away
 
 *Locked canon, Batch 187, 2026-09-11 (`MCD-546`). The Crow King Alias Chronicle XIII, first entry
-in the fifth wave. Rebellion era, ages 23-28. Not a territory Chronicle. New standalone material — a
+in the fifth wave. Rebellion era, ages 23-28. Not a territory Annals entry. New standalone material — a
 detailed, large-scale, multi-day deception showcase per Abad's craft instruction. Narrated in
 neutral third-person prose. No new named characters.*
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 270, 2026-09-11 (`MCD-1408`). The Scourge Alias Chronicle XCIII, wave 31,
 closing the wave. Age 314, the eve of the persona's already-locked final mission. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

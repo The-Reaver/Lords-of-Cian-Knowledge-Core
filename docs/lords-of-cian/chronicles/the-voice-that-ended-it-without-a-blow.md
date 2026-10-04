@@ -3,7 +3,7 @@
 *Locked canon, Batch 269, 2026-09-11 (`MCD-1404`); corrected Batch 321, 2026-10-02 (a `CC-116`
 citation for Callum Breck fixed to `CC-117`/`CC-119`). Sovereign Ghost of the Great Sea Alias Chronicle
 XCII, wave 31. Callum Breck boards a cornered slaver's ship alone and unarmed, ending a standoff
-through his own rebuilt voice rather than through Kanja or the Trinity. Not a territory Chronicle.
+through his own rebuilt voice rather than through Kanja or the Trinity. Not a territory Annals entry.
 Narrated in neutral third-person prose.*
 
 ---

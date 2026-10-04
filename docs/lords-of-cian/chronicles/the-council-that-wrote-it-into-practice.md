@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1270`). Crow King Alias Chronicle LXXVIII, wave 26,
 closing it. A liberated town's new governing council formally adopts a version of the craft's own
-restraint principles into its own local practice. Not a territory Chronicle.*
+restraint principles into its own local practice. Not a territory Annals entry.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 246, 2026-09-11 (`MCD-1076`). The Scourge Alias Chronicle LXIII, wave 21,
 closing the wave. A quieter spotlight entry centering Pell Ostra, the crew's demolitions and
-chemistry specialist, for the first time in the Scourge sub-series. Not a territory Chronicle.
+chemistry specialist, for the first time in the Scourge sub-series. Not a territory Annals entry.
 Narrated in neutral third-person prose.*
 
 ---

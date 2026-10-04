@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 155, 2026-09-11 (`MCD-488`). The Sovereign Ghost of the Great Sea Alias
 Chronicle X, first entry in the fourth wave. Rebellion era, age 21, Ghost Harbor. Not a territory
-Chronicle. New standalone material — the first genuine loss-at-sea entry in this alias's run.
+Annals entry. New standalone material — the first genuine loss-at-sea entry in this alias's run.
 Narrated in neutral third-person prose. No new named characters.*
 
 ---

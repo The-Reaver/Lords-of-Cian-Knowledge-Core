@@ -1,7 +1,7 @@
 # The Strait That Ate the Light
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-784`); corrected Batch 321, 2026-10-02 ("Kothrane Strait"
-fixed to "Kothrane Narrows," the locked name per `MCD-242`). Sovereign Ghost of the Great Sea Alias Chronicle XXIX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+fixed to "Kothrane Narrows," the locked name per `MCD-242`). Sovereign Ghost of the Great Sea Alias Chronicle XXIX, wave 10 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

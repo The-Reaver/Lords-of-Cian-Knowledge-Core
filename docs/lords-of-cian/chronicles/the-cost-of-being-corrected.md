@@ -1,7 +1,7 @@
 # The Cost of Being Corrected
 
-*Locked canon, Batch 149, 2026-09-11 (`MCD-474`). Nyansa Chronicle II. Homage-era Mji,
-Nyansa/Adisa. Territory Chronicle -- Adisa as protagonist, Kanja an unnamed background guest with no
+*Locked canon, Batch 149, 2026-09-11 (`MCD-474`). Nyansa Annals II. Homage-era Mji,
+Nyansa/Adisa. Territory Annals entry -- Adisa as protagonist, Kanja an unnamed background guest with no
 command, credit, or resolution authorship. New standalone material. No new named characters.*
 
 ---
@@ -44,7 +44,7 @@ saying little, was gone by the time the conversation with Adisa concluded.
 ---
 
 *Continuity notes (not narrative): follows up directly on the successful correction case from "The
-Word That Stuck" (Chronicle I, `MCD-354`), dramatizing the real social cost genuine change can carry
+Word That Stuck" (Annals I, `MCD-354`), dramatizing the real social cost genuine change can carry
 for the person corrected -- extending "The Long Correction" (`PH2-057`) with a consequence the
 ability itself never addressed or promised to soften. No new named characters. Second Nyansa
-territory Chronicle.*
+territory Annals entry.*

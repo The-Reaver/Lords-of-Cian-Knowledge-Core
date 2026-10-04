@@ -1,7 +1,7 @@
 # The Fourth Voice
 
 *Locked canon, Batch 236, 2026-09-11 (`MCD-1046`). Crow King Alias Chronicle LX, wave 20. Not a
-territory Chronicle. Closes wave 20.*
+territory Annals entry. Closes wave 20.*
 
 ---
 

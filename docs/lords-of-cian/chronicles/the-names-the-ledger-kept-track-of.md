@@ -1,7 +1,7 @@
 # The Names the Ledger Kept Track Of
 
 *Locked canon, Batch 270, 2026-09-11 (`MCD-1407`). The Scourge Alias Chronicle XCII, wave 31. Age
-313, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+313, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

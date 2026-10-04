@@ -3,7 +3,7 @@
 *Locked canon, Batch 115, 2026-09-10 (`MCD-393`). Storm That Walks Alias Chronicle II. Rebellion
 era, a new naval engagement in the Gale Straits corridor (`MCD-242`, age 29), a detailed showcase of
 the Trinity in a shipboard boarding action against Krael's replacement's own flagship. Not a
-territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+territory Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

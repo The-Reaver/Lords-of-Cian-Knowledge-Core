@@ -1,7 +1,7 @@
 # What the Old Smith Saw in the Ashes
 
 *Locked canon, Batch 189, 2026-09-11 (`MCD-554`). The Lord of Embers Alias Chronicle XV, closing
-the fifth wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Chronicle. New
+the fifth wave. Rebellion era, age 27, the Rolling Foundry Campaign. Not a territory Annals entry. New
 standalone material. Narrated in neutral third-person prose. No new named characters. Renumbered
 Batch 321, 2026-10-02: was mislabeled Chronicle XVIII, duplicating "The Engineer Who Came to
 Disprove Him"; corrected to XV. Also corrected: "decades of quiet trust" (impossible at age 27

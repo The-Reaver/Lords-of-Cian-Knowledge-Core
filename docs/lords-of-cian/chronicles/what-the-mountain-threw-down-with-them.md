@@ -4,7 +4,7 @@
 gear reworded throughout to the Long-Mask-era kit, since wave 32 falls years past the Trinity's
 age-30 surrender, `MCD-246`). Iron Bastard Alias Chronicle XCV, wave 32. A detailed, battle-intense
 combat showcase against raiders who weaponize the exact geological fracture identified in
-`MCD-1487`. Not a territory Chronicle.*
+`MCD-1487`. Not a territory Annals entry.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Wall He Saved That Broke Another
 
-*Locked canon, Batch 248, 2026-09-11 (`MCD-1081`). Iron Bastard Alias Chronicle LXII, wave 21. A genuine new limit: a correct, verified read still causes unintended harm to a structure Kanja didn't know was load-sharing with the one he targeted. Not a territory Chronicle.*
+*Locked canon, Batch 248, 2026-09-11 (`MCD-1081`). Iron Bastard Alias Chronicle LXII, wave 21. A genuine new limit: a correct, verified read still causes unintended harm to a structure Kanja didn't know was load-sharing with the one he targeted. Not a territory Annals entry.*
 
 ---
 

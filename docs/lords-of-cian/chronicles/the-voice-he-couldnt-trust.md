@@ -1,6 +1,6 @@
 # The Voice He Couldn't Trust
 
-*Locked canon, Batch 211, 2026-09-11 (`MCD-915`). The Crow King Alias Chronicle XLVI, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 211, 2026-09-11 (`MCD-915`). The Crow King Alias Chronicle XLVI, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

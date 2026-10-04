@@ -1,7 +1,7 @@
 # Chronicle IX: The Ledger and the Chain
 
 *WITHDRAWN, 2026-09-05, superseded by
-[`xaragua-chronicle-i-the-line-that-did-not-break.md`](xaragua-chronicle-i-the-line-that-did-not-break.md).
+[`xaragua-annals-i-the-line-that-did-not-break.md`](xaragua-annals-i-the-line-that-did-not-break.md).
 Abad corrected the series' structure: these are Chronicles belonging to each homage-era territory, with
 Kanja as guest, not "Kanja Chronicles" with the homage-era figure as guest. This piece had it backwards
 -- Ogoun Xarey guesting in a Kanja battle rather than the reverse. Kept here for the project's own

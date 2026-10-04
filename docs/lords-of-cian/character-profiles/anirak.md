@@ -1,12 +1,12 @@
 # Anirak (Blades Fury) — Profile & Game Plan
 
 **Status:** wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) -- Section 2 locked 2026-10-03 (Batch 371, `CC-163`/`CC-164`); Section 3 locked 2026-10-04 (Batch 372, `VB-065`)
-**Track:** Character Chronicle (Tier 1, Book-1 anchor hero per MCD-1881 as amended 2026-10-03)
-**Gate cleared:** YES, 2026-10-04 (Batch 372). Chronicle prose may be drafted, under Section 3's voice spec and gates.
+**Track:** Collections (Tier 1, Book-1 anchor hero per MCD-1881 as amended 2026-10-03)
+**Gate cleared:** YES, 2026-10-04 (Batch 372). Collection prose may be drafted, under Section 3's voice spec and gates.
 
-This file is the standing gate artifact for this character, per the Character Chronicle Launch
+This file is the standing gate artifact for this character, per the Series Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
-any Chronicle is written or rewritten — not a summary produced after the fact.
+any Collection is written or rewritten — not a summary produced after the fact.
 
 Abad's direction, 2026-10-03: "Anirak is an incredible tier 1 character and an anchor as well," and
 "every connective tissue must be well thought out and well placed so it's only logical." This
@@ -211,7 +211,7 @@ statement (the ledger is the source of truth for exact wording).
   - Tide Line crew (`ARS-447`, each run below Flood State): Double Draw (Stormbreaker), Mark and
     Collect (Voidbreaker), Two Storms (Zora), The Eastern Passage (Edda, Hamund, and Odile).
 
-### Already-locked plot beats (book-level or Chronicle-level)
+### Already-locked plot beats (book-level or Collection-level)
 - **Long Mask, Kanja age 55** — `MCD-251` / `MCD-1883`: the Chain Harbor Massacre and her
   recruitment. Mid-mutiny in the eastern passage, eleven days landed, shipped out of the Maw circuit
   in a damping harness she broke by landing enough blows in a row; three freed prisoners at her back;
@@ -251,7 +251,7 @@ statement (the ledger is the source of truth for exact wording).
 
 ### Reserved / unresolved threads
 Things already flagged in the ledger as deliberately open, not yet paid off, or explicitly held
-back for a future book/Chronicle. These constrain what the profile and game plan may touch.
+back for a future book/Collection. These constrain what the profile and game plan may touch.
 - **Flood State** is reserved for the Book 5 Tide Line (`MCD-1889`); no pre-Book-5 engagement may reach it, and
   any that approaches its duration must be interrupted (`ARS-369`, `ARS-373`, `ARS-444`).
 - **The first involuntary Voice/gaze synchronization** is reserved for Book 3 (`ARS-370`); no
@@ -276,12 +276,12 @@ back for a future book/Chronicle. These constrain what the profile and game plan
   as a constraint, never shown.
 - Standing kit constraints from `ARS-373` bind every entry: no stillness, no sniping, no clean kills.
 
-### Existing Chronicle corpus (if any)
-For a character with Chronicles already locked (backfill case): a list of what's already been
+### Existing entry corpus (if any)
+For a character with Collections already locked (backfill case): a list of what's already been
 written and what it already establishes, so the profile is a synthesis of demonstrated
 characterization, not a competing invention.
-- Anirak has no Chronicle series of her own. A grep of all files in `docs/lords-of-cian/chronicles/`
-  for "Anirak" and "Blades Fury" returns exactly **one** Chronicle:
+- Anirak has no Collections of her own. A grep of all files in `docs/lords-of-cian/chronicles/`
+  for "Anirak" and "Blades Fury" returns exactly **one** entry:
   - `kanja-chronicle-v-the-names-in-the-correction-book.md` (`MCD-1883`, Kanja Chronicle V, Batch
     358, Onyx-narrated, age 55) — establishes on the page: the eastern-pen origin of the mutiny ("one
     prisoner, eleven days landed. Maw-raised since twelve. Sold out of the circuit and shipped in a
@@ -293,9 +293,9 @@ characterization, not a competing invention.
     her testing the chains until "the air screams with them"; the one heart-lift Onyx records being
     the Captain watching her swing chains that held; her three joining her rather than the crew. She
     kills no one on the page.
-- Adjacent, not naming her: `lauris-chronicle-xcviii-the-weight-nobody-else-would-stand-under.md`
+- Adjacent, not naming her: `lauris-record-xcviii-the-weight-nobody-else-would-stand-under.md`
   (`MCD-1715`) is a Lauris/Ren practice scene that states Ren is "by a wide margin, the youngest adult recruit" (consistent with `CC-101`).
-- No Alias Chronicle, Territory Chronicle, or other Character Chronicle names her.
+- No Alias Chronicle, Annals entry, or any other character's Series names her.
 
 ### Connective-tissue findings
 
@@ -318,7 +318,7 @@ characterization, not a competing invention.
   `MCD-1896` at `CC-163`. `MCD-251`, `ARS-440` and `ARS-441` (Foreclosure) amended to match.
 - **Still open:** findings 2, 3, 9, 10, 11, 16, 17, and 18.
 
-Every contradiction or gap found among her rules, or between rules and Chronicles. Listed, not
+Every contradiction or gap found among her rules, or between rules and entries. Listed, not
 resolved.
 
 1. **Anchor status: resolved, Batch 362.** `MCD-1881` was amended on 2026-10-03 to make Anirak a
@@ -427,7 +427,7 @@ resolved.
     one Kanja Chronicle naming her and no Alias Chronicles.
 20. **No conflict found** on pronouns (she/her throughout) or the epithet ("later Blades Fury,"
     `MCD-251`; "Blades Fury (Anirak)," `MCD-140`; and "The crew will call her Blades Fury" in the
-    Chronicle V text of `MCD-1883`).
+    Kanja Chronicle V text of `MCD-1883`).
 
 ---
 
@@ -452,7 +452,7 @@ she speaks twice and every word counts.
     (`ARS-439`). Psychologically, stillness is the harness. A fighter who stops can be held, so she
     never stops: "no stillness" is doctrine (`ARS-373`) and temperament at once.
   - **Doing, before saying.** She breaks her own harness, then the fetters of the prisoners in the
-    eastern passage, before anyone arrives to help. In Chronicle V's yard she speaks two lines to the Captain: a
+    eastern passage, before anyone arrives to help. In Kanja Chronicle V's yard she speaks two lines to the Captain: a
     fact and a cost question, and nothing she does not mean. She answers with action and is suspicious
     of speeches.
   - **Watching.** At Chain Harbor she "watches all of it" and "does not look away." She takes the
@@ -468,7 +468,7 @@ she speaks twice and every word counts.
     ordered it" (`MCD-1883`). Theirs is the loyalty she trusts most among those her eyes have touched.
 - **How she holds contradiction (APPROVED 2026-10-03):** *the most watched woman in any room, and the one who
   can never be sure she is seen.* Her violet eyes capture everyone's attention, friend and enemy,
-  always (`CC-112`). In Chronicle V the pull "lands in her too, from the far side. She cannot tell
+  always (`CC-112`). In Kanja Chronicle V the pull "lands in her too, from the far side. She cannot tell
   what anyone gives her from what her eyes take." She inspires loyalty she can never prove is real.
   - **The connective point (the profile's key insight).** Her three were in the eastern passage
     and faced her while she broke their fetters, so the Siren touched them as it touches everyone
@@ -585,7 +585,7 @@ match after three rounds of independent review.
     Tell Protocol.
   - **Section VI, the full exclusion list.** Banned words, terms, structures, narration, and
     dialogue.
-  - **Her dialogue, from Chronicle V's two lines.** Facts and costs: "They harnessed me. So the blows
+  - **Her dialogue, from Kanja Chronicle V's two lines.** Facts and costs: "They harnessed me. So the blows
     wouldn't stack." / "Cost?" She never explains her biology, and never declares intent before she
     acts.
   - **The Siren.** It is shown as faces turning and staying turned. It is never named as a power in
@@ -593,7 +593,7 @@ match after three rounds of independent review.
   - **The Voice.** It is felt in the body: "It sits in the chest. Floors tilt. Distances lie"
     (`MCD-1883`).
   - **Section IV, Kanja's dialogue.** Through the Long Mask his speech is the Scourge persona,
-    "rougher, deliberately coarsened." Chronicle V's terse lines ("Felt it. Struck it from the
+    "rougher, deliberately coarsened." Kanja Chronicle V's terse lines ("Felt it. Struck it from the
     count") are the model for how he speaks to her.
   - **Section V, the POV cadence.** Every POV sequence runs environmental read, threat assessment,
     a binary judgment delivered in one sentence, then action described as physics. Step (2) of the
@@ -601,7 +601,7 @@ match after three rounds of independent review.
     threat assessment keeps the binary but in her own plain terms, without the words Iron and Rust,
     following the Red Beard template, which makes binary verdicts without them.
   - **Tense and naming.** Past tense, matching the close-third corpus. Kanja is "the Captain"
-    throughout, as in Chronicle V.
+    throughout, as in Kanja Chronicle V.
   - **No Onyx passages.** Onyx is sealed for the whole Long Mask, so `VB-063`'s Onyx rules and the
     progression sheet do not apply. Its ruling (3) still binds: the word "spike" appears in no prose.
   - **The check.** Every draft is checked against this spec before it is presented. A draft that
@@ -619,7 +619,7 @@ match after three rounds of independent review.
   - **Her kit.** Fangs on forearm chains, the Siren Gorget, and the Triform Morning Star across her
     back, all from Chain Harbor on (`MCD-1883`, `ARS-411`, `ARS-438`, `ARS-439`).
   - **Kanja's kit.** Post-Mafesto gear only (`ARS-310`, `ARS-345` through `ARS-356`), at the gear
-    generation correct for his age, as Chronicle V does at 55. Onyx sealed (`MCD-246`).
+    generation correct for his age, as Kanja Chronicle V does at 55. Onyx sealed (`MCD-246`).
   - **Kills.** Every kill falls under `CC-164`.
   - **Standing constraints.** `ARS-373` binds: no stillness, no sniping.
 - **Marquee-kill constraints (PROPOSED; `MCD-1881` leaves these to this Game Plan):**
@@ -634,7 +634,7 @@ match after three rounds of independent review.
     unattributed register. The epithet is undated in canon ("later Blades Fury," `MCD-251`), so this
     also sets it in public use by Kanja 140. (Both are new facts, flagged here for Abad's ruling,
     not assumed.)
-- **Pacing convention (PROPOSED):** a single continuous sequence, numbered I onward. Chronicle I is
+- **Pacing convention (PROPOSED):** a single continuous sequence, numbered I onward. Collection I is
   freestanding, and any strand structure is deferred until a later wave, following the Ozmund and
   Ezio precedent rather than Lauris's four-strand launch. Her life inside the pre-Book-1 window is
   one linear stretch: Chain Harbor, the Long Mask fleet, Maw-11, Ren. It does not need parallel
@@ -655,7 +655,7 @@ match after three rounds of independent review.
   - **The undead.** The Siren's Voice fails against the undead (`ARS-373`, `ARS-438`). Whether her
     gaze does is open (finding 16). As a constraint of this Game Plan, the launch wave shows neither.
   - **Her age.** It is never stated (`MCD-1883`).
-- **Chronicle I candidates** (PROPOSED, for Abad to pick from or redirect):
+- **Collection I candidates** (PROPOSED, for Abad to pick from or redirect):
   1. **The body the world was not built for.** Ren surfaced at sixteen with a field his settlement
      could not hold (`CC-101`). He comes aboard an adult, already recruited by Sephtis (`CC-101`),
      and the recruitment stays off-page. Nobody can stand near him. Deck planks groan inside his radius, and the crew gives him room. She walks into his
@@ -709,7 +709,7 @@ match after three rounds of independent review.
 
 ---
 
-## 4. Chronicle Log
+## 4. Collection Log
 
 Updated as each wave locks. One line per entry: numeral, title, rule ID, one-sentence summary,
 batch number.

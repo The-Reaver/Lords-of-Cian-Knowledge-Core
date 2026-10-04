@@ -1,6 +1,6 @@
 # The Siege That Never Came
 
-*Locked canon, Batch 223, 2026-09-11 (`MCD-1011`). The Blue-Collar Titan Alias Chronicle LV, wave 19. Not a territory Chronicle. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "charged and ready" reworded to reflect that Obsidian Malice draws its reserve from Mafesto's gathered kinetic energy rather than functioning as a standalone pre-chargeable battery.*
+*Locked canon, Batch 223, 2026-09-11 (`MCD-1011`). The Blue-Collar Titan Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: "charged and ready" reworded to reflect that Obsidian Malice draws its reserve from Mafesto's gathered kinetic energy rather than functioning as a standalone pre-chargeable battery.*
 
 ---
 

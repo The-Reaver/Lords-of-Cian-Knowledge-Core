@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 245, 2026-09-11 (`MCD-1073`). Sovereign Ghost of the Great Sea Alias Chronicle
 LXIII, wave 21, closing the wave. A quiet mourning register never used in this alias's prior entries.
-Not a territory Chronicle. Narrated in neutral third-person prose.*
+Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

@@ -1,6 +1,6 @@
 # What the Numbers Owed Him
 
-*Locked canon, Batch 243, 2026-09-11 (`MCD-1065`). Industrial Myth Alias Chronicle LXI, wave 21. The first entry where the fully cross-referenced ledger finds a claimant owes money back rather than being owed it, testing whether the method's impartiality holds when the finding cuts against a worker instead of an administrator. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 243, 2026-09-11 (`MCD-1065`). Industrial Myth Alias Chronicle LXI, wave 21. The first entry where the fully cross-referenced ledger finds a claimant owes money back rather than being owed it, testing whether the method's impartiality holds when the finding cuts against a worker instead of an administrator. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

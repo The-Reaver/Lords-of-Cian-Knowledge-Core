@@ -1,7 +1,7 @@
 # The Wall That Lied to Him
 
 *Locked canon, Batch 188, 2026-09-11 (`MCD-550`). The Iron Bastard Alias Chronicle XIV. Rebellion
-era, age 25. Not a territory Chronicle. New standalone material. Narrated in neutral third-person
+era, age 25. Not a territory Annals entry. New standalone material. Narrated in neutral third-person
 prose. No new named characters.*
 
 ---

@@ -1,6 +1,6 @@
 # The Settlement That Almost Said No
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1294`). Iron Bastard Alias Chronicle LXXV, wave 25, closing the wave. A settlement council debates banning the doctrine after the rogue former student's scandal. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1294`). Iron Bastard Alias Chronicle LXXV, wave 25, closing the wave. A settlement council debates banning the doctrine after the rogue former student's scandal. Not a territory Annals entry.*
 
 ---
 

@@ -1,7 +1,7 @@
 # The Duel He Didn't Need Onyx For
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1244`). The Scourge Alias Chronicle LXXIX, wave 27, first
-entry. Age 215, V3 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 215, V3 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

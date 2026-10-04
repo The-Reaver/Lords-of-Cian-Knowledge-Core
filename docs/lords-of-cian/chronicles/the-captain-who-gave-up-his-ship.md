@@ -5,7 +5,7 @@ engagements" shrunk to "years of engagements," which this alias's nine-year Rebe
 support; the new vessel renumbered from the fleet's "fourth" working ship to its "fifth," folding in
 the Captain-track transport *The Second Chance* as the genuine fourth hull). Sovereign Ghost of the Great Sea Alias Chronicle
 LXXVII, wave 26. The fleet gains its first vessel through an enemy captain's voluntary surrender. Not
-a territory Chronicle. Narrated in neutral third-person prose.*
+a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

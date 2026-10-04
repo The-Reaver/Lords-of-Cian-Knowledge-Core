@@ -1,6 +1,6 @@
 # The Lie Their Own Side Believed
 
-*Locked canon, Batch 221, 2026-09-11 (`MCD-992`). The Crow King Alias Chronicle LIV, wave 18. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-992`). The Crow King Alias Chronicle LIV, wave 18. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

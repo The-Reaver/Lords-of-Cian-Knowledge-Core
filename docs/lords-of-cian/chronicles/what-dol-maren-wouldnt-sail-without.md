@@ -1,6 +1,6 @@
 # What Dol Maren Wouldn't Sail Without
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1304`). Iron Bastard Alias Chronicle LXXXV, wave 29, first entry. Dol Maren asks Kanja to verify a repaired hull before a dangerous voyage. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1304`). Iron Bastard Alias Chronicle LXXXV, wave 29, first entry. Dol Maren asks Kanja to verify a repaired hull before a dangerous voyage. Not a territory Annals entry.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 282, 2026-09-11 (`MCD-1483`). Crow King Alias Chronicle XCIX, wave 33, closing
 it. The fifth generation's first independent field test reveals a specialty built on neither sound nor
-numbers. Not a territory Chronicle.*
+numbers. Not a territory Annals entry.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 119, 2026-09-11 (`MCD-405`). Industrial Myth Alias Chronicle V. Rebellion
 era, unarmed throughout. A harder entry, dramatizing the genuine cost of the alias's patient method
-rather than only its successes. Not a territory Chronicle. New standalone material. Narrated in
+rather than only its successes. Not a territory Annals entry. New standalone material. Narrated in
 neutral third-person prose. No new named characters.*
 
 ---

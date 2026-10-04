@@ -1,6 +1,6 @@
 # What the Second Sky-Reader Doubted After
 
-*Locked canon, Batch 208, 2026-09-11 (`MCD-908`). The Storm That Walks Alias Chronicle XLVIII, wave 16. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 208, 2026-09-11 (`MCD-908`). The Storm That Walks Alias Chronicle XLVIII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

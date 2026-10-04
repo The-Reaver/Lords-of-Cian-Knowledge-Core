@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 199, 2026-09-11 (`MCD-791`); corrected Batch 321, 2026-10-02 (Kanja's dialogue
 quoted another Chronicle's own title, "Ten Ships That Were One," as if it were in-world phrasing --
-reworded to describe the operation plainly instead). Sovereign Ghost of the Great Sea Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+reworded to describe the operation plainly instead). Sovereign Ghost of the Great Sea Alias Chronicle XXXVI, wave 12 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

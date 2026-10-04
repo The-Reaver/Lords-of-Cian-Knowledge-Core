@@ -1,7 +1,7 @@
 # The Pass Where the Air Ran Thin
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1239`). The Scourge Alias Chronicle LXXIV, wave 25. Age
-262, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+262, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

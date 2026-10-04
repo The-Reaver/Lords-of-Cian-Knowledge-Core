@@ -1,7 +1,7 @@
 # The Enemy Who Asked to Stay
 
 *Locked canon, Batch 191, 2026-09-11 (`MCD-559`). Captain Alias Chronicle XI. Rebellion era. Not
-a territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+a territory Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters. Renumbered Batch 321, 2026-10-02 (from Chronicle XVII, which duplicated wave 6's own
 MCD-592).*
 

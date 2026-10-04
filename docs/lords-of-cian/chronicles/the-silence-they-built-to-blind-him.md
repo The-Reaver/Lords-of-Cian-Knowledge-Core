@@ -1,6 +1,6 @@
 # The Silence They Built to Blind Him
 
-*Locked canon, Batch 215, 2026-09-11 (`MCD-933`). Bane Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 215, 2026-09-11 (`MCD-933`). Bane Alias Chronicle XLIX, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

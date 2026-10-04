@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 124, 2026-09-11 (`MCD-420`). Iron Bastard Alias Chronicle V. Rebellion era,
 a detailed Aegis-Talisman/Trinity showcase against a countermeasure engineered around a new
-material principle. Not a territory Chronicle. New standalone material. Narrated in neutral
+material principle. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

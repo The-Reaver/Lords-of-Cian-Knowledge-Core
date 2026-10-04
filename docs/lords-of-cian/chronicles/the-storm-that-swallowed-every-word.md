@@ -1,6 +1,6 @@
 # The Storm That Swallowed Every Word
 
-*Locked canon, Batch 221, 2026-09-11 (`MCD-987`). The Crow King Alias Chronicle XLIX, wave 17. Not a territory Chronicle. Narrated in neutral third-person prose.*
+*Locked canon, Batch 221, 2026-09-11 (`MCD-987`). The Crow King Alias Chronicle XLIX, wave 17. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

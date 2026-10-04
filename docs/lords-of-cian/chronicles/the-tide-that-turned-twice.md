@@ -1,6 +1,6 @@
 # The Tide That Turned Twice
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-565`). The Storm That Walks Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose. Age pinned Batch 359, 2026-10-03: age 29, Rebellion era, pre-sealing (`MCD-246`) -- placed after the Storm That Walks track's explicitly age-29 Gale Straits entries (`MCD-503`-`505`, `MCD-555`-`557`) and before "What He Chose to Share" (`MCD-575`), whose arrangement holds "for the remainder of the Rebellion"; the first post-Rebellion entry is "The Fleet She Called Alone" (`MCD-588`, "decades later"). The Trinity gear stands as written; no facts changed. Abad's approval: "go."*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-565`). The Storm That Walks Alias Chronicle XX, wave 7 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Age pinned Batch 359, 2026-10-03: age 29, Rebellion era, pre-sealing (`MCD-246`) -- placed after the Storm That Walks track's explicitly age-29 Gale Straits entries (`MCD-503`-`505`, `MCD-555`-`557`) and before "What He Chose to Share" (`MCD-575`), whose arrangement holds "for the remainder of the Rebellion"; the first post-Rebellion entry is "The Fleet She Called Alone" (`MCD-588`, "decades later"). The Trinity gear stands as written; no facts changed. Abad's approval: "go."*
 
 ---
 

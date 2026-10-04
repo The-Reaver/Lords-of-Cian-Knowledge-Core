@@ -7,7 +7,7 @@ the third flagship by the time of this vote; this scene names the fourth vessel 
 non-flagship transport); corrected again Batch 347, 2026-10-02 ("the fleet's fourth vessel" reworded
 throughout to "the fourth vessel to be formally named," clarifying this counts formally-named ships
 rather than the fleet's literal fourth vessel overall -- the fleet holds many more than four ships by
-this point). Captain Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Chronicle. Narrated in neutral third-person prose.*
+this point). Captain Alias Chronicle XXXII, wave 11 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

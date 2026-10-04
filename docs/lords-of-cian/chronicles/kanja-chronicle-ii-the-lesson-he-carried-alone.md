@@ -3,8 +3,8 @@
 *Locked canon, Batch 313 (`MCD-1867`). Second entry of the "Kanja version" Chronicle track,
 written second but set chronologically *first* — before Chronicle I, before the Rebellion begins,
 before Kanja's seventeenth year, matching the project's established write-order-vs-in-universe-order
-precedent (Xaragua Chronicle II, Batch 66). Dramatizes the mutual mentorship between Kanja and
-Daba (`MCD-1568`/`1570`) from Kanja's own side for the first time — Daba's own 50-Chronicle launch
+precedent (Xaragua Annals II, Batch 66). Dramatizes the mutual mentorship between Kanja and
+Daba (`MCD-1568`/`1570`) from Kanja's own side for the first time — Daba's own 50-entry launch
 wave (Batch 296) covers the same relationship from his POV; this entry is deliberately a quiet,
 unspecified night rather than any single dated lesson, to avoid restaging a scene already told.
 Set explicitly before Kanja bonds with Onyx of Oblivion at seventeen (`ARS-020`) — no blade, no
@@ -109,7 +109,7 @@ clean structural contrast against Chronicle I's closing coda, which already spea
 Phase 1 Codex voice (`VB-063`). Plants, without naming
 it, the direct root of the Dredge-Line Ambush's own terrain-as-weapon logic (`MCD-231`/`1568`:
 "density is not power if the terrain neutralizes it") without restating that later payoff outright.
-Does not restage any specific dated scene from Daba's own 50-Chronicle launch wave (Batch 296,
+Does not restage any specific dated scene from Daba's own 50-entry launch wave (Batch 296,
 Blocks C–E) — this is a distinct, unspecified training night, chosen to avoid contradiction with
 that corpus's own established beats. No new named characters. No child-safety issues — a training
 exercise between an adult mentor and an adolescent apprentice, entirely non-combat in outcome (three

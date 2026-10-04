@@ -4,7 +4,7 @@
 24, closing the wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241), a settlement
 the campaign had helped establish an open forge in over a year earlier. An institutional-decay
 entry, the alias's first, distinct from every prior positive-legacy return. Not a territory
-Chronicle. Narrated in neutral third-person prose.*
+Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

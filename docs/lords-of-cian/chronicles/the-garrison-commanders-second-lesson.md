@@ -3,7 +3,7 @@
 *Locked canon, Batch 262, 2026-09-11 (`MCD-1325`). The Lord of Embers Alias Chronicle LXXIX, first
 entry in the twenty-seventh wave. Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241),
 months after "What the Enemy Learned to Rebuild" (MCD-922). A rematch entry with a recurring
-Directorate antagonist. Not a territory Chronicle. Narrated in neutral third-person prose.*
+Directorate antagonist. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

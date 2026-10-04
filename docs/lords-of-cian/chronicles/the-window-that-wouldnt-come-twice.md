@@ -1,7 +1,7 @@
 # The Window That Wouldn't Come Twice
 
 *Locked canon, Batch 270, 2026-09-11 (`MCD-1406`). The Scourge Alias Chronicle XCI, wave 31, first
-entry. Age 313, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+entry. Age 313, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

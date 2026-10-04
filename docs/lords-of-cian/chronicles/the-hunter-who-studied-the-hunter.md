@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 260, 2026-09-11 (`MCD-1265`). Crow King Alias Chronicle LXXIII, wave 25,
 opening it. A Directorate officer builds a false signal specifically to deceive Kanja himself, the
-first entry where the craft's own logic is turned on its creator. Not a territory Chronicle.*
+first entry where the craft's own logic is turned on its creator. Not a territory Annals entry.*
 
 ---
 

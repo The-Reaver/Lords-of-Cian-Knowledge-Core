@@ -1,7 +1,7 @@
 # The New Hand's First Night
 
 *Locked canon, Batch 138, 2026-09-11 (`MCD-462`). Captain Alias Chronicle VIII. Rebellion era. Not
-a territory Chronicle. New standalone material. Narrated in neutral third-person prose. No new named
+a territory Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 
 ---

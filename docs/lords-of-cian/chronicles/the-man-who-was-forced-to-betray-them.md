@@ -1,7 +1,7 @@
 # The Man Who Was Forced to Betray Them
 
 *Locked canon, Batch 161, 2026-09-11 (`MCD-507`). Captain Alias Chronicle XIV. Rebellion era. Not a
-territory Chronicle. New standalone material — a detailed combat-plus-moral-complexity showcase per
+territory Annals entry. New standalone material — a detailed combat-plus-moral-complexity showcase per
 Abad's craft instruction. Narrated in neutral third-person prose. No new named characters.*
 
 ---

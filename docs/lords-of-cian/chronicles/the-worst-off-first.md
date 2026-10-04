@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 108, 2026-09-10 (`MCD-371`). Industrial Myth Alias Chronicle I. Rebellion
 era, in the alias's own register -- unarmed, non-violent, method over force, matching `MCD-244`'s
-stated ethos exactly. Not a territory Chronicle. New standalone material. Narrated in neutral
+stated ethos exactly. Not a territory Annals entry. New standalone material. Narrated in neutral
 third-person prose. No new named characters.*
 
 ---

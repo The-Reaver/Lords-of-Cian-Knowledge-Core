@@ -1,7 +1,7 @@
 # The Boy Who Grew Old Waiting
 
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1251`). The Scourge Alias Chronicle LXXXVI, wave 29. Age
-292, V4 gear. Not a territory Chronicle. Narrated in neutral third-person prose.*
+292, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.*
 
 ---
 

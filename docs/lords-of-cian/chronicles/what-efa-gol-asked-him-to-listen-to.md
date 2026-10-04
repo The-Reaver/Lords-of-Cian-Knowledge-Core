@@ -1,6 +1,6 @@
 # What Efa Gol Asked Him to Listen To
 
-*Locked canon, Batch 237, 2026-09-11 (`MCD-1049`). Iron Bastard Alias Chronicle LX, wave 20. A warm, wholly domestic closer: Efa Gol asks Kanja to read a rigger's pulley that belonged to her dead pair-partner, no enemy or operation involved. Not a territory Chronicle.*
+*Locked canon, Batch 237, 2026-09-11 (`MCD-1049`). Iron Bastard Alias Chronicle LX, wave 20. A warm, wholly domestic closer: Efa Gol asks Kanja to read a rigger's pulley that belonged to her dead pair-partner, no enemy or operation involved. Not a territory Annals entry.*
 
 ---
 

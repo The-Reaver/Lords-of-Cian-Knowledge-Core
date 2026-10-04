@@ -1,6 +1,6 @@
 # The Priest Who Didn't Want to Know
 
-*Locked canon, Batch 261, 2026-09-11 (`MCD-1298`). Iron Bastard Alias Chronicle LXXIX, wave 27, first entry. A temple priest resists the doctrine's involvement with a sacred pillar. Not a territory Chronicle.*
+*Locked canon, Batch 261, 2026-09-11 (`MCD-1298`). Iron Bastard Alias Chronicle LXXIX, wave 27, first entry. A temple priest resists the doctrine's involvement with a sacred pillar. Not a territory Annals entry.*
 
 ---
 

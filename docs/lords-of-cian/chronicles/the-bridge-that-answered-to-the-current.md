@@ -5,7 +5,7 @@ gear reworded throughout to the Long-Mask-era kit, since wave 34 falls years pas
 age-30 surrender, `MCD-246`; the second student's pronoun corrected to she/her, the majority usage).
 Iron Bastard Alias Chronicle CI, wave 34. A detailed, battle-intense combat showcase on a floating
 pontoon crossing, the doctrine's first application to a structure whose baseline never stops moving.
-Not a territory Chronicle.*
+Not a territory Annals entry.*
 
 ---
 
