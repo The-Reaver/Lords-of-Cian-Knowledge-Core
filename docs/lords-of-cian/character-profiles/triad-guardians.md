@@ -579,13 +579,14 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
     about three seconds, and Varkul and Varruk use it to pull him out (`ARS-414`).
   - **Varkul: mass and refusal of pain.** He fights by blunt-force mass displacement (`CC-094`),
     shrugs off pain and fatigue (`CC-095`), and carries armor only Drakma-forged weapons or
-    Titan-class impacts get fully through (`ARS-412`). He puts his body between Pyro and the threat.
+    Titan-class impacts get fully through (`ARS-412`). Proposed: he puts his body between Pyro and
+    the threat.
   - **Sorya: silence and record.** She moves silently at over 1,000 lb (`CC-096`), vanishes from
     a target's sight under shifting light (`CC-136`), and tastes a broken vow before the betrayer
     moves (`CC-096`). She records everything.
   - **Varruk: height and refusal.** He keeps overwatch from open sky (`CC-099`), masks his scent in
     rust-colored dust (`ARS-413`), and guides only by refusing to land on or fly a dangerous path
-    (`CC-098`); his everyday growl marks danger near at hand (`ARS-413`, see TB14).
+    (`CC-098`); his everyday growl marks danger near at hand (`ARS-413`; TB14's proposed reading).
 - **Values -- what they will not compromise (PROPOSED -- for Abad's confirmation):**
   - **Shared: Pyro first.** Each hierarchy puts him at the top (`CC-095`, `CC-097`, `CC-099`).
   - **Varkul: Pyro, then the ship, then the crew** (`CC-095`). The Harrow Ring is confined to
@@ -646,7 +647,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
 
 ### (B) Remaining Section 1 findings
 
-None of these blocks the profile. Each carries a recommendation, or is queued.
+None of these blocks the profile. Each carries a recommendation, is queued, or is marked for Abad's
+ruling with no recommendation.
 
 - **TB1. Where the three lived before 290, and where the bond happened (findings 3, 4).** Shared
   with `pyro.md` B3, word for word from here:
@@ -671,15 +673,16 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   file's "one accurate element," yet the same file's "Kanja's wife" is also true (`CC-046`,
   `WC-017`), so the phrase is not an exhaustive list. Its claim "the Triad raised from birth by
   Pyro's mother in her own Shattered Kingdoms homeland" is locked false as a whole, and it can fail
-  on any one of four parts: "raised," "from birth," "homeland," or "in the Shattered Kingdoms." Two
-  options, for Abad's ruling.
-  - **Option (i), a proposed new fact:** the keeper did not raise them.
+  on any one of four parts: "raised," "from birth," "homeland," or "in the Shattered Kingdoms." No
+  recommendation; two options, for Abad's ruling.
+  - **Option (i), a proposed new fact:** the keeper did not raise them. Support: the plainest
+    reading of `SBD-041`'s falsehood, which removes custody from the claim entirely.
   - **Option (ii), a proposed new fact:** she kept them, and the claim fails on "from birth," on
-    "homeland," or on "in the Shattered Kingdoms." This sits more easily with `MCD-040`'s "last
-    keeper" and with this profile's throughline.
+    "homeland," or on "in the Shattered Kingdoms." Support: it sits with `MCD-040`'s "last keeper"
+    and with this profile's throughline.
   - TA1 and TA3 stand under either option; neither depends on custody before 290. Her homeland
     stays open. Any entry quoting the file locks it only as said (`VB-067`).
-- **TB3. Varkul's two names (finding 6).** Recommended: "Drown-Warden" is the crew's and the
+- **TB3. Varkul's two names (finding 6).** Recommended, a new fact: "Drown-Warden" is the crew's and the
   Codex's epithet (`CC-049`); "Miremaw" is the SBD's own field name for him (`SBD-020`, `SBD-044`),
   the kind of name the Continuity Lock now strips from new titles (`CULT-199`). A clarifying clause
   on `SBD-020`.
@@ -692,9 +695,10 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
 - **TB6. The Harrow Ring and the Harrow Presence (finding 9).** Recommended: two abilities. The
   Harrow Presence is the Land Form's discipline-collapse effect on groups (`CC-094`); the Harrow
   Ring is a hydrodynamic effect formed in water (`MCD-020`, `CC-095`). What the Ring does is defined
-  when first drafted. The SBD's "living preservation clause" (`SBD-020`) is its own legal term,
-  distinct from the Guardian Clause (`ARS-412`).
-- **TB7. SBD policy against the future-opponents hook (finding 10).** Recommended: opponents reach
+  when first drafted. A new fact: the SBD's "living preservation clause" (`SBD-020`) is its own
+  legal term, distinct from the Guardian Clause (`ARS-412`).
+- **TB7. SBD policy against the future-opponents hook (finding 10).** Recommended, a new fact:
+  opponents reach
   the Triad when the SBD loses control of its own stock, through escape, release, or Archon's
   dismantling (`SBD-044`), with no SBD capture attempt on a Guardian (`SBD-020`).
 - **TB8. The thermal-management mechanism (finding 12).** Open. Defined at the Pyro Incident
@@ -706,19 +710,25 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
 - **TB10. T.D.K.'s "Coursers" (finding 14).** Two options.
   - **Recommended: rename T.D.K.'s asset in `MCD-320`.** The shared word collides with the
     Tide-Back Coursers, Varkul's species (`MCD-040`), and project practice renames such collisions
-    (Cadence Ruin to Cadence Break, `CC-098`; the Old Dragon to the Elder Wyrm, `MCD-302`, renamed Batch 308). Cost: a
-    change to a quoted line ("Deploy the Coursers"), and a new name for Abad to pick, a new fact.
+    (Cadence Ruin to Cadence Break, `CC-098`; the Old Dragon to the Elder Wyrm, `MCD-302`,
+    renamed Batch 308). Cost: a change to a quoted line ("Deploy the Coursers"), and a new name for Abad to pick, a new fact.
   - **Alternative: a clarifying clause on `MCD-320`** that T.D.K.'s Coursers are his own asset,
     unrelated to the Tide-Back Coursers. Cost: a standing name collision between a T.D.K. asset
     and Varkul's species, which project practice normally renames. Because of that cost, the rename
     is the clearly better option.
-  - The Dhar-Kael cartilage in `CC-100` and `ARS-431` is read like `ARS-355`, as old stockpiled material.
-- **TB11. Avatar status against the Talisman's effect on the bond (finding 15).** Recommended: the
-  Talisman's output endangers only the imprint itself (`MCD-270`). Once the bond was sealed, the
-  three came under the Umbrella like any Avatar (`MCD-140`).
+  - A new fact: the Dhar-Kael cartilage in `CC-100` and `ARS-431` is read like `ARS-355`, as old
+    stockpiled material. Only `ARS-355` says so; `CC-100` and `ARS-431` state no source.
+- **TB11. Avatar status against the Talisman's effect on the bond (finding 15).** Recommended, a new
+  fact: the Talisman's output endangers only the imprint itself, and the sealed bond is unaffected
+  after it (`MCD-270` covers only the bonding). Once the bond was sealed, the three came under the
+  Umbrella like any Avatar (`MCD-140`).
 - **TB12. Real-world names and metadata (finding 16).** Recommended: `CC-096`'s and `CC-098`'s
   real-world species comparisons are replaced with in-world size statements; the status casing and
   category tags are normalized.
+- **Coordinated amendment of `CC-046` and `WC-017`.** Four separate items amend these two rules:
+  `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), and this file's TA1 ("produced") and
+  TA2 (the bond "completed" beforehand). At lock they are merged into one coordinated amendment
+  text per rule, so that neither rule is amended four times in pieces.
 - **TB13. The Oath-Raptor's name.** New. Varruk's species is the Oath-Raptor (`MCD-040`), and Sorya,
   an Apex-Feline, is the Guardian bound to the Oath (`CC-097`). Recommended: no change now, and a
   one-line explanation of the species names when the clade's history is first drafted.
@@ -732,6 +742,11 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
 
 ### For the Game Plan
 
+- **Series window, proposed:** from Kanja 290 (Pyro's birth and the bond) to the Fulfillment
+  Ceremony (`MCD-025`/`091`), matching `pyro.md` B13 on the Ozmund precedent, until Abad opens a
+  later one. The alternative opens at Kanja 248, Varruk's Dog Watch (`MCD-277`), which adds a
+  pre-bond stretch for Varruk alone; recommended: open at 290, since every other locked Triad
+  event sits at or after the bond.
 - **Series name (`VB-066`), proposed: the Tendings.** One entry is a Tending. Tending is the daily
   care of animals and of a fire: what the keeper did for the three, what the three do for Pyro, and
   a fit beside a cook named for fire. Collision check, case-insensitive: zero hits for "tending" or

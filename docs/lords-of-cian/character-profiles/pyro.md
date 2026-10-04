@@ -14,7 +14,8 @@ Triad Guardians (Varkul, Sorya, Varruk) are bonded to Pyro specifically (`CC-048
 existence in canon apart from that bond, their rules are pulled into this walkthrough in full rather
 than left for a separate file.
 
-Ledger snapshot used: `ledger_version` 36.3, 2,667 rules. 61 rules name Pyro, Ignis, the Living
+Ledger snapshot used: Section 1 was compiled at `ledger_version` 36.3, 2,667 rules; Section 2 is
+drafted against `ledger_version` 37.8, 2,696 rules. 61 rules name Pyro, Ignis, the Living
 Gate, the Triad, or the Heart's Tools directly; roughly a dozen more touch him through his mother,
 his lineage, or the Dhar-Kael clade without naming him. Every one is listed below.
 
@@ -309,23 +310,23 @@ characterization, not a competing invention.
   "veil-reader" also return zero matches. This is a fresh launch, not a backfill.
 - Silent overlap: several locked entries are set inside Pyro's lifetime (Kanja 290-314) and never
   mention him — among them `MCD-1246` and `MCD-814` (age 290), `MCD-1251` (292), `MCD-493`, `MCD-1243` and `MCD-815` (300),
-  `MCD-1900` (an Anirak Collection, roughly 300), `MCD-813` (305 per its rule; its own text
-  implies about 313, see below), `MCD-1252` (308), `MCD-1253`
+  `MCD-1900` (an Anirak Collection, roughly 300), `MCD-813` (305), `MCD-1252` (308), `MCD-1253`
   (310), `MCD-1254` (312), `MCD-1255`, `MCD-1406` and `MCD-1407` (313), `MCD-1408` (314), and
   `MCD-1022` ("The Last Coat He Ever Wore," 314, the night
   the Scourge coat comes off — the same year as the Last Breakfast, `MCD-277`). `MCD-1472` (age 275)
   and `MCD-1477` (age 258) fall before his birth.
-- One line in that corpus touches his parentage. In `MCD-813` (age 305 per its rule statement;
-  its own text, line 15, counts "Two hundred and eighty-three years" under the persona, which puts
-  it near Kanja 313, an internal conflict noted here and left unresolved), Kanja, alone, counts his
-  years under the persona and thinks he spent every one of them "being someone else's fear before
-  he was ever anyone's father, husband, or simply himself"
-  (`the-weight-the-mask-kept-count-of.md`, lines 15-16). Read as precedence (the fear came first
+- One line in that corpus touches his parentage. In `MCD-813` (age 305), Kanja, alone, counts his
+  years under the persona. The entry's count, "Two hundred and eighty-three years after a coat had
+  finished burning on a harbor's edge," runs from Ash-Wharf at age 22 (`MCD-235`, `MCD-380`), so
+  22 + 283 = 305 and the entry is consistent with its rule. He thinks he spent every one of those
+  years "being someone else's fear before he was ever anyone's father, husband, or simply himself"
+  (`the-weight-the-mask-kept-count-of.md`, lines 7 and 14 for the count, lines 15-16 for this
+  line). Read as precedence (the fear came first
   and outranked the rest), it fits a private marriage and a hidden son, so it sits with A3 option 1.
   Read literally (he has never yet been a father or a husband), it contradicts `CC-046` and
   `CC-047` under every A3 option. Because the line is his own private thought, in-world concealment
   from others does not explain it. Under either B6 option it carries no visible grief for a wife
-  lost, or kept from him, fifteen to twenty-three years earlier. Only the precedence reading is compatible.
+  lost, or kept from him, fifteen years earlier. Only the precedence reading is compatible.
 - The two entries set in the year of the birth, `MCD-1246` and `MCD-814` (both age 290), show Kanja
   weighing the persona's cost with Efa Gol and leaving a freed island "satisfied." Neither shows a
   wife newly lost or a son newly born.
@@ -333,7 +334,7 @@ characterization, not a competing invention.
   `kanja-haku-rexmar.md` does not mention him at all. `series-gameplan.md` lists him and
   the Triad in Tier 2 ("could run as one shared thread or three separate ones, undecided").
 - Present-day Lauris Records (Strand W and Strand L, `lauris-letitia.md`) also put the crew on the
-  page; A4's check covers them once they are dated under approval-list item 2.
+  page; A4's check covers them, each on its own dating track (A4 lists which).
 
 ### Connective-tissue findings
 Contradictions and gaps among his rules, and between rules and the entries. Quoted with IDs. Not
@@ -524,13 +525,16 @@ center of the profile.
   `MCD-1900`, `MCD-813`, `MCD-1252`, `MCD-1253`, `MCD-1254`, `MCD-1255`, `MCD-1406`, `MCD-1407`,
   `MCD-1408`, `MCD-1022`) are read as scenes he is off the page for. Before his first wave is
   drafted, each gets a line-by-line check for any roster that would exclude him, and for Kanja's
-  stated state of mind against A3 and B6, `MCD-1246` and `MCD-814` (both age 290) and `MCD-813`
-  (Section 1) first. The same check covers the present-day Lauris Records (Strand W and Strand L,
-  `lauris-letitia.md`), by name `MCD-1565` (Sephtis aboard), `MCD-1724` (Kanja), and `MCD-1726`
-  (Hask, Breck, Gol, Maren, Ostra), pending their dating under approval-list item 2.
+  stated state of mind against A3 and B6: `MCD-1246` and `MCD-814` (both age 290) first, then
+  `MCD-813`'s parentage line (age 305, Section 1). The same check covers the present-day Lauris
+  Records (Strand W and Strand L, `lauris-letitia.md`): `MCD-1726` (Hask, Breck, Gol, Maren, Ostra)
+  pending its dating under approval-list item 2; `MCD-1565` (Sephtis aboard) pending item 38;
+  `MCD-1724` (Kanja) and the Strand L entries have no dating ruling queued; Records XLVIII, CIV,
+  and LII sit under item 31.
   - Proposed: raised aboard among the founding crew (founding crew alive at Kanja 290-314 depends
-    on approval-list item 2; `MCD-1422` against `MCD-1243`, `MCD-1252`, `MCD-1408`), Pyro knows the quartermaster is the Captain,
-    as Anirak's Collections do (`VB-065`). Cost: it sits against the Scourge's deliberate anonymity
+    on approval-list item 2; `MCD-1422` against `MCD-1243`, `MCD-1252`, `MCD-1408`), Pyro knows
+    the quartermaster is the Captain, resting on the `VB-065` naming precedent (which locks only
+    the "Captain" naming in the Scourge register). Cost: it sits against the Scourge's deliberate anonymity
     as the flagship's quartermaster (`MCD-448`, `MCD-1251`), so the circle that knows widens to
     include a child; the A3 relationship ("the Captain Pyro cooks for") rests on it.
 - **Option 2:** raised ashore at a hidden hold, joining the fleet in his teens. The corpus silence
@@ -543,7 +547,8 @@ center of the profile.
 Written under the recommended answer to A1-A4. Each facet is marked for confirmation.
 
 - **Core wound / formative event (PROPOSED -- for Abad's confirmation):** *the night he was born.*
-  Every account he has heard says his mother died the night he arrived (`MCD-133`, `SBD-010`). The
+  Every account he has heard says his mother died the night he arrived (A3 option 1; `MCD-133`,
+  `SBD-010`). The
   birth and her transformation were one event (`MCD-132`), so the story he carries puts his first
   breath and her last on the same night. He remembers none of it, and he cannot check it. His own
   body adds to the weight. Under stress, heat leaves him without his consent (`ARS-421`); under
@@ -652,7 +657,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
 
 ### (B) Remaining Section 1 findings
 
-None of these blocks the profile. Each carries a recommendation, or is queued.
+None of these blocks the profile. Each carries a recommendation, is queued, or is marked for Abad's
+ruling with no recommendation.
 
 - **B1. When and how Sephtis learned (finding 2).** A1 option 1 settles the when: since the birth.
   How he learned stays open. Approval-list item 38 (Sephtis's staged death against his open place
@@ -664,8 +670,8 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   (`CC-045`, `WC-017`); she inverts the Gate; the Triad are pushed out before her fusion completes,
   and the imprint between them and the newborn completes (`MCD-131`, `MCD-270`).
   - **What "defeated" means.** `MCD-131` has the entity still in her when she inverts: the Gate
-    would have sealed her "along with the entity." Recommended: "defeated" (`CC-045`) means
-    subdued and held inside her through the inversion; what became of it at the fusion stays
+    would have sealed her "along with the entity." Recommended, a new fact that amends `CC-045`:
+    "defeated" means subdued and held inside her through the inversion; what became of it at the fusion stays
     reserved. This keeps `WC-017`'s own order (Stormbreaker "fought and won," then her "final act")
     and `MCD-131`'s entity still present at the inversion. The other choice, the inversion falling
     during the fight, breaks `WC-017`'s order. Scope: a clarifying clause on `CC-045` that
@@ -706,6 +712,10 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   clarifying clause on `CC-046`, `MCD-136`, and `WC-017` ("T.D.K. had installed the Living Gate").
   The clause changes `CC-046`'s and `WC-017`'s "installed" from an act of his into the effect of his
   architecture.
+- **Coordinated amendment of `CC-046` and `WC-017`.** Four separate items amend these two rules:
+  `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), and `triad-guardians.md` TA1
+  ("produced") and TA2 (the bond "completed" beforehand). At lock they are merged into one
+  coordinated amendment text per rule, so that neither rule is amended four times in pieces.
 - **B5. His mother's name, homeland, SBD recruitment, and marriage date (finding 10).** Open, for
   whenever her own material is drafted. Under A3 option 1 the marriage is private.
 - **B6. Who aboard knows she survived.** New, raised by A3. No recommendation. For Abad's ruling:
@@ -832,13 +842,15 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   - Through the Long Mask, Kanja appears as "the Captain" in the Scourge register (`VB-065`
     precedent), resting on A4's proposal that Pyro knows the quartermaster is the Captain.
 - **Kill register:** Pyro sits outside the marquee tier, which is reserved to the five anchor heroes
-  (`MCD-1881`). Any victory of his is Notable at most. Proposed: none falls in his childhood
-  years.
+  (`MCD-1881`). Any victory of his is Notable at most. Proposed: no kill of his falls before a set
+  age, and its span is for Abad's ruling. Reading 1, "childhood": to about twelve (about Kanja
+  302). Reading 2, "while a minor": to about eighteen (about Kanja 308). Recommended: reading 2, no
+  kill under eighteen; no locked rule places a kill of his in either span.
   Proposed, on the `CC-162`/`CC-164` pattern: every kill by his own hand is a necessity kill, the
   person an active, immediate threat to life in that moment. A fear-driven blast (`ARS-421`: his
   heat surges are involuntary under stress, and under fear or anger he looses a directed blast;
-  whether the blast can fire involuntarily is open; proposed above) never kills on the page except within
-  this register, and is never written as a chosen kill or a showcase.
+  whether the blast can fire involuntarily is open; proposed above) never kills on the page
+  except within this register, and is never written as a chosen kill or a showcase.
 
 **Abad's ruling, verbatim, once given:**
 
