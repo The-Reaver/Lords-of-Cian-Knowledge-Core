@@ -243,6 +243,13 @@ def main():
 
     # 3. docs: profiles of renamed tracks get the full treatment; CLAUDE.md gets paths only (its
     # standing-rule sections are edited by hand); other project docs get named/generic/paths.
+    HISTORICAL = {"2026-09-13-archive-app-four-decisions-meta-build.md",
+                  "2026-09-13-archive-app-six-open-items-brain-trust-review.md",
+                  "2026-09-13-archive-app-six-open-items-final-verdicts.md",
+                  "2026-09-13-seo-geo-five-tier-charter-brain-trust-review.md",
+                  "anansi-closeout-2026-08-03.md", "handoff-2026-09-28.md",
+                  "session-handoff-note-2026-08-23.md", "geographic-consistency-audit.md",
+                  "archive-studio-tech-stack-decision.md"}
     PROFILE = {"lauris-letitia.md": "lauris", "daba.md": "daba", "ozmund-verehimu.md": "ozmund",
                "ezio-valcari.md": "ezio", "anirak.md": "anirak"}
     docs = [os.path.join("docs/lords-of-cian/character-profiles", f)
@@ -250,7 +257,7 @@ def main():
     docs += [os.path.join("docs/lords-of-cian", f) for f in os.listdir("docs/lords-of-cian") if f.endswith(".md")]
     for p in docs + ["CLAUDE.md"]:
         src = open(p, encoding="utf-8").read()
-        if p == "CLAUDE.md":
+        if p == "CLAUDE.md" or os.path.basename(p) in HISTORICAL:
             t = path_subs(src, renames)
         else:
             t = named_subs(generic_subs(src), keys)
