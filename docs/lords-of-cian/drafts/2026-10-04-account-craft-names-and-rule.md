@@ -53,7 +53,7 @@ proposed venue and vocabulary names are usable only after each is locked by its 
 section 7 checklist is part of the Connective-Tissue Gate's independent review for every entry and
 scene it covers. This rule's approval covers the standard's handling of the part (c) items on
 greetings carried by action (R0.2) and on spoken Spanish (M1) only once Abad rules on those items;
-until then those clauses are pending his ruling, and no spoken Spanish is drafted beyond `MCD-337`'s
+until then those clauses are pending his ruling, `VB-004` and `VB-050` govern openings, and no spoken Spanish is drafted beyond `MCD-337`'s
 locked phrase. The standard's comic registers, including R0.4, R15, R18, M1, M2's funny boast, M3's
 parting jab, M4, M7, M9, and the comic stories of M6 and M11, are written through irony and
 understatement only (`VB-004`) until Abad rules on the part (c) item on comic registers; a yes there

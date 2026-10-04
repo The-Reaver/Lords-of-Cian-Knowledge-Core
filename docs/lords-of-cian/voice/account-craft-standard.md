@@ -626,7 +626,7 @@ breathe, half-believed by everyone, reads true.
   - clearance tiers SEALBLACK through Level 4 (`SBD-040`)
   - detachment classes (`SBD-050`)
   - two-signature authorization (`SBD-051`)
-  - Grave-Analyst sign-off (`SBD-040`, `SBD-050`, `SBD-052`)
+  - Grave-Analyst sign-off (`SBD-050`, `SBD-052`)
   - the after-action file, Continuity Lock, code-designations, destroyed originals, and
     Grave-Analyst shadow copies (`SBD-052`)
   - the Kesmara Continuity Vault (`SBD-063`)
@@ -1233,7 +1233,7 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 - Crowd slang for a fighter: **[NAME NEEDED: N8]**. For a bout: **[NAME NEEDED: N9]**.
 - The bell is held in locked narration: "a floor before the bell," "No second bell" (`MCD-1886`).
 - Pits by tier (`MAW-142`, `MAW-143`).
-- Harvest-day contests near Greyfen (`MCD-1838`).
+- Harvest-day contests at Greyfen (`MCD-1838`).
 - Banned: "arena," "gladiator," "bookmaker" (`VB-013`, `VB-050`).
 
 **Venues, homage World**
@@ -1543,8 +1543,9 @@ locked house rules; CRAFT]
 - Every `ASH-` rule is adult material; `ASH-024` to `ASH-030` are the explicit core.
 - Any Ashkeel account is adult-only and non-explicit.
 - Any sexual detail stays off the page.
-- Ashkeel has never appeared in any entry, so a first entry clears the Connective-Tissue Gate, and a Series Launch Protocol gate
-  where it centres on a protagonist.
+- Ashkeel has never appeared in any entry. A first Ashkeel entry must clear the Connective-Tissue
+  Gate and the Series Launch Protocol gate `VB-067` sets for its type (always for types (2) to (5);
+  for account type none, where it centres on a protagonist).
 
 **Who and order**
 - Council houses and tiers (`ASH-031`) and collar ranks (`ASH-034`).
@@ -1726,8 +1727,8 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
    "account type: none" for an entry outside any Series with no teller. For a Dossier, the teller
    names the institution and, where known, the role of the hand. Teller state and listener never
    appear as labels. They are none for an entry of account type none and do not apply to a Dossier.
-   The narrative never labels its own reliability. A Hearsay entry with more than one teller names
-   every teller in the header. Entries locked before `VB-067` are not relabeled (`VB-068`).
+   The narrative never labels its own reliability. A Hearsay entry with more than one teller lists
+   every teller in the header, by name or description. Entries locked before `VB-067` are not relabeled (`VB-068`).
 2. **Listener** (told accounts only). The page gives an identified listener: named, or identified
    by description (a locked rule or the standard's unnamed-office default may require description;
    `PH2-048`, `MCD-1093`). The account
