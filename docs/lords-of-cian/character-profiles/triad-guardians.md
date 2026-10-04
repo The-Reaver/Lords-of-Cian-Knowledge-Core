@@ -229,8 +229,8 @@ Varruk.
   (Long Mask, ~age 290).
 - `MCD-270` — The Birth of Fire (age 290): the imprinting bond completes.
 - `MCD-277` — The Pyro Incident (age 296): thermal-management function first observed.
-- `MCD-221` — Book 5 Engine front: Kanja, Ozmund, Pyro. The Triad are not listed on any of the three
-  fronts.
+- `MCD-221` — Book 5 Engine front: Kanja, Ozmund, Pyro, and Lauris. The Triad are not listed on any
+  of the four fronts (the fourth, the Tide Line, added Batch 368, `MCD-1889`).
 - `MCD-097` / `MCD-223` — Book 5: "Pyro peaks"; his peak capability deliberately left unlocked.
 - No Book 1, Book 3, or Book 4 role is locked for any of the three.
 
@@ -456,8 +456,7 @@ no inner monologue, no human reasoning, and no motive their rules do not already
 - a coordinated extraction in which Varkul and Varruk act inside Sorya's Witness Shriek
   (`ARS-414`);
 - three bond hierarchies built to the same shape, each with Pyro first (`CC-095`, `CC-097`,
-  `CC-099`);
-- an homage pair, Thought and Memory (`CC-051`, `CC-050`), that exists only as a pair.
+  `CC-099`).
 
 No Guardian has any locked history of its own apart from the other two, except Varruk's Dog Watch
 sighting (`MCD-277`). Three separate profiles would invent three separate inner lives that canon
@@ -475,18 +474,19 @@ written under the recommended answer and says where it depends on one.
 **TA1. Were the Triad made at the Gate, or are they an ancient clade bonded there? (finding 1)**
 - **Option 1 (recommended): an ancient clade, bonded and released at the Gate.** The three are
   the last survivors of a clade the Vael Kem hunted to near-extinction (`MCD-040`, `MCD-041`,
-  `ARS-200`), kept by Pyro's mother as the clade's last keeper (`MCD-040`, `MCD-136`). On the night
-  of the Gate she inverted it into a forge (`MCD-131`). What the forge made was the bond: it sealed
-  the imprint between the three juveniles and the child in the severed instant (`MCD-270`,
-  `MCD-132`), and she pushed them outward through the inversion before her fusion completed
-  (`MCD-131`, already worded this way). Varruk's sighting 42 years earlier (`MCD-277`) stands.
-  Scope: `WC-017`'s "producing the Triad Guardians" and `CC-046`'s "produced" become "sending out
-  the Triad Guardians, bonded to him." `CC-046` is a Codex rule, already flagged as in-world
-  misdirection on the mother's death (`MCD-133`).
+  `ARS-200`). Pyro's mother was the last keeper of their tradition (`MCD-040`, `MCD-136`); this
+  option asserts nothing about where, or by whom, the three were kept before 290 (TB1). After
+  Pyro's natural birth, within the same event (`MCD-022`, `MCD-132`), she inverted the Gate into a
+  forge (`MCD-131`). What the forge made was the bond: it sealed the imprint between the three
+  juveniles and the newborn (`MCD-270`), and she pushed them outward through the inversion before
+  her fusion completed (`MCD-131`, already worded this way). Varruk's sighting 42 years earlier
+  (`MCD-277`) stands. Scope: `WC-017`'s "producing the Triad Guardians" and `CC-046`'s "produced"
+  become "sending out the Triad Guardians, bonded to him." `CC-046` is a Codex rule, already
+  flagged as in-world misdirection on the mother's death (`MCD-133`).
 - **Option 2: quickened at the Gate.** The keeper carried the clade's last line, and the forge
-  brought three new juveniles to life from it. This keeps "produced" literally, and breaks
-  `MCD-277` (Varruk seen 42 years before), `MCD-041`'s long history of the hunted clade, and the
-  sense of `MCD-022`'s bond completed beforehand.
+  brought three new juveniles to life from it. This keeps "produced" literally. Cost: it breaks
+  `MCD-277` (Varruk seen at Kanja 248, 42 years before), `MCD-022` and `MCD-136` (a bond completed
+  beforehand, with animals not yet living), and arguably `MCD-040`'s "three survivors remain."
 - **Option 3: a mixed origin.** Varruk is ancient, and Varkul and Sorya were quickened at the Gate.
   It keeps `MCD-277` and splits a unit canon treats as one.
 
@@ -499,7 +499,8 @@ written under the recommended answer and says where it depends on one.
   until it imprints, however long that takes, and matures only after. All three could therefore be
   "juvenile" at 290 whatever their age, Varruk included. New fact: imprint ends the juvenile window.
   Consequence: the Triad grew up alongside Pyro, small and young at the Pyro Incident (Kanja 296,
-  `MCD-277`) and grown by the Last Breakfast.
+  `MCD-277`) and grown by the Last Breakfast. Scope: clarifying clauses on `MCD-040`, `MCD-022`,
+  `MCD-136`, and `CC-046`.
 - **Option 2: a long-lived clade with a long juvenile stage.** Juvenility lasts a century or more,
   with no link to imprinting. No new mechanism is needed, and how the three came to maturity by
   Book 1 stays unexplained.
@@ -508,20 +509,25 @@ written under the recommended answer and says where it depends on one.
   (`MCD-040`) and `ARS-200`.
 
 **TA3. What Sorya's Oath is, and what the Triad know of Pyro's history (findings 11, 12).**
-- **Option 1 (recommended): the Oath is the keeper's vow.** It is the vow Pyro's mother made when
-  she keyed the bond (`MCD-022`, `MCD-136`): to keep the child. "Pyro first, the Oath second" then
-  means the Oath overrides Pyro only when keeping him safe cuts against what he wants (`CC-097`).
-  This is also Sorya's bond expression, the one missing from the three (finding 12): Varkul holds
-  through will (`CC-095`), Varruk through the path (`CC-099`), Sorya through the vow. With eidetic
-  recall across every sense (`CC-096`), she carries the keeper and the night of the Gate whole,
-  which is why she is the one who can show Pyro his history from outside his own view (`ARS-414`).
-  She knows Kanja is the father. Kanja swore Pyro no vow, so his silence breaks nothing she can
-  taste (`CC-050`, `CC-097`); it would become her Oath Paradox only if he ever swore one that
-  collided with the keeper's. `CC-079`'s list of knowers is open-ended ("multiple guardians"), so
-  no amendment is needed. She was pushed out before the fusion completed (`MCD-131`), so what her
-  memory holds of the fusion itself stays reserved.
+- **Option 1 (recommended): the Oath is the keeper's vow.** New fact: the Oath is the vow Pyro's
+  mother made when she keyed the bond (`MCD-022`, `MCD-136`), her intent for the child: to keep
+  him. `CC-097` puts Sorya's deepest loyalty in "the Oath itself, not to Pyro," and this reading
+  keeps that distinction, because the keeper's intent for the child can part from what the child
+  himself wants. "Pyro first, the Oath second" then means the Oath overrides Pyro only when keeping
+  him safe cuts against what he wants (`CC-097`). Possible scope: a clarifying clause on `CC-097`
+  defining the Oath as the keeper's vow. This is also Sorya's bond expression, the one missing from
+  the three (finding 12): Varkul holds through will (`CC-095`), Varruk through the path (`CC-099`),
+  Sorya through the vow. With eidetic recall across every sense (`CC-096`), she carries the keeper
+  and the night of the Gate up to the moment she was pushed out, which is why she is the one who
+  can show Pyro his history from outside his own view (`ARS-414`). New fact: she knows Kanja is the
+  father. New fact: Kanja swore Pyro no vow, so his silence breaks nothing she can taste (`CC-050`,
+  `CC-097`); it would become her Oath Paradox only if he ever swore one that collided with the
+  keeper's. `CC-079`'s list of knowers is open-ended ("multiple guardians"), so no amendment is
+  needed. She was pushed out before the fusion completed (`MCD-131`), so what her memory holds of
+  the fusion itself stays reserved.
 - **Option 2: the Oath is any sworn vow made in her presence.** A general enforcer's instinct, with
-  no tie to the keeper or to Pyro's history. `ARS-414`'s reveal role then needs a separate source.
+  no tie to the keeper or to Pyro's history. Cost: the Oath is cut loose from the keeper, and
+  Sorya's Pyro-bond expression stays undefined.
 - **Option 3: a vow sworn at the Gate by Kanja.** Kanja was held 12 km away (`MCD-270`), so the vow
   would have to be sworn before the birth, and it invents a promise for him.
 

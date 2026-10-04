@@ -57,7 +57,7 @@ NAMES = {
     "N2b": "the Tallow Lamp (`LEX-003`)", "N2c": "the Last Bell (`LEX-004`)",
     "N4": "the Trough (`LEX-006`)", "N5": "the Sweat (`LEX-007`)",
     "N8": "a hewer (`LEX-008`)", "N9": "a bell (`LEX-009`)", "N10a": "dice-house (`LEX-010`)",
-    "N11": "the lykewake (`LEX-011`)", "N14": "the pump, its regulars the pump-lads (`LEX-013`)",
+    "N11": "the lykewake (`LEX-011`)", "N14": "the pump and the pump-lads (`LEX-013`)",
     "N15": "a whistler (`LEX-014`)", "H1": "the Shekere (`LEX-015`)", "H2": "kibanda (`LEX-016`)",
     "H3": "kinyozi (`LEX-017`)", "H4": "egbe (`LEX-018`)", "H8": "oju (`LEX-019`)",
     "H9": "pembe (`LEX-020`)", "H10": "kete (`LEX-021`)", "H11": "ulli (`LEX-022`)",
@@ -69,9 +69,13 @@ REPL = [
     ("- The Trust's public-notice form: **[NAME NEEDED: N12]**.",
      "- Common speech for a posted Trust notice: the posted bill (`LEX-012`); no rule sets its form."),
     ("- **`VB-068`** (proposed) binds", "- **`VB-068`** binds"),
-    ("humor limited to irony and understatement (`VB-004`), no",
-     "dialogue humor limited to irony and understatement outside a told account (`VB-004`), and in a\n"
-     "  told account as broad as `VB-004` as amended (Batch 377) allows, no"),
+    ("""phatic talk, the 50% dialogue cut, humor limited to irony and understatement (`VB-004`), no
+  balanced antithesis, none of the banned words or borrowed terms, and the Density Spike never
+  named.""",
+     """phatic talk; the 50% dialogue cut; dialogue humor limited to irony and understatement outside a
+  told account (`VB-004`), and in one as broad as `VB-004` as amended (Batch 377) allows; no
+  balanced antithesis; none of the banned words or borrowed terms; and the Density Spike never
+  named."""),
     ("""  Each is written through deadpan irony and understatement only (`VB-004`): the insult arrives flat
   and short, and the toast leaves its biggest claim unsaid.""",
      """  In characters' talk in a told account, each may run as broad as `VB-004` as amended (Batch 377)
@@ -83,8 +87,10 @@ drift on any matter of fact locks as fact unless traced (`VB-067`, §4.1), so a 
 brags in judgment, feeling, and dry understatement.""",
      """Its exaggeration or edge
 drift on any matter of fact locks as fact unless traced (`VB-067`, §4.1), so a Comrade teller there
-inflates only in judgment and feeling, or where the departure is traced, whatever the register
-(`VB-004` as amended, Batch 377)."""),
+inflates a matter of fact only within `VB-067`'s Comrade bound (on a matter where a locked rule or
+reliable narration records the teller as mistaken or misled, or in secondhand relay, and traced),
+whatever the register (`VB-004` as amended, Batch 377)."""),
+    ("The everyday hall is\n  **[NAME NEEDED: A1]**.", "The everyday hall is a\n  brazier-house (`LEX-025`)."),
     ("""  larger claim told in a flatter voice, through irony and understatement only (`VB-004`).""",
      """  larger claim, as broad as `VB-004` as amended (Batch 377) allows."""),
     ("""  disclaimer before a polished telling, and a dry, understated line left a beat to land
@@ -151,6 +157,23 @@ a = "rather than folding into `MCD`/`CC`/etc.)."
 assert c.count(a) == 1
 c = c.replace(a, a[:-2] + "; `LEX-` was claimed 2026-10-04, Batch 377, for in-world common vocabulary and "
               "venue names, each locked as its own rule per `VB-068`).")
+a = "Ledger at `ledger_version` 37.8, 2,696 rules, 376 batches.\n"
+assert c.count(a) == 1
+c = c.replace(a, a + f"""
+**Batch 377: comic registers in told accounts (`VB-004` amended) and the account-craft vocabulary
+(`LEX-001` to `LEX-025`).** Abad: "{APPROVAL}"
+- **The amendment.** In a told account (a Comrade Account, Adversary Account, or Hearsay entry, or a
+  storytelling scene), characters' talk may use the comic registers Abad ruled on at `VB-068`'s lock.
+  Narration and Dossier text are unchanged. Each designated narrator keeps their own sheet, and every
+  track voice ruling still governs its characters' diction. Onyx stays under `VB-063` alone. A Comrade
+  teller inflates fact only within `VB-067`'s bound. Child-safety and Ashkeel lines are written in.
+- **The names.** `LEX-` is a new prefix for in-world common vocabulary and venue names, one rule per
+  name as `VB-068` requires: 14 mainline, 10 homage-World, 1 Ashkeel. LEX-025 fixes one hall feature,
+  a stone basin over a sealed heat-gallery with no open flame. N10b and the [RULE NEEDED] keys are
+  held.
+- **Propagation.** The standard's name markers and deadpan-only lines were updated in the same batch.
+Ledger at `ledger_version` 37.9, 2,721 rules, 377 batches.
+""")
 open("CLAUDE.md", "w", encoding="utf-8").write(c)
 
 d = json.load(open(LEDGER, encoding="utf-8"))

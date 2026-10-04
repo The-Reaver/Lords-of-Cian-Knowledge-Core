@@ -166,7 +166,8 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
 - `CC-123` — Nelle Adessi widens her clinic doorway for Varkul unasked, giving Pyro a room "where
   people are healed rather than broken."
 - `CC-126` — When Nelle dies, "Pyro loses the one space in his life that wasn't about war."
-- `MCD-221` — Book 5 Engine front: Kanja, Ozmund, Pyro (father, father's cousin, son).
+- `MCD-221` — Book 5 Engine front: Kanja, Ozmund, Pyro (father, father's cousin, son), and Lauris
+  (added Batch 368).
 - `ARS-403` / `ARS-414` — Sephtis calls Sorya "the True Log," his highest compliment.
 - `CC-101` — Abyss is older than Pyro and the youngest "adult recruit."
 
@@ -263,7 +264,7 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
 
 **Book 5, "The Miner's Son"**
 - `MCD-097` / `WC-022` — "Pyro peaks."
-- `MCD-221` — He fights on the Engine front with Kanja and Ozmund.
+- `MCD-221` — He fights on the Engine front with Kanja, Ozmund, and Lauris.
 - `MCD-223` — The peak is significant but carries no committed figures or new abilities.
 
 **Entry level**
@@ -300,10 +301,12 @@ characterization, not a competing invention.
 - **None.** A grep of all 1,505 files in `docs/lords-of-cian/chronicles/` for "Pyro" and "Ignis"
   returns zero matches. The Triad (Varkul, Sorya, Varruk), "Dhar-Kael," "Living Gate," "Demaron," and
   "veil-reader" also return zero matches. This is a fresh launch, not a backfill.
-- Silent overlap: several locked Alias Chronicles are set inside Pyro's lifetime (Kanja 290-314) and
-  never mention him — among them `MCD-493` (age 300), `MCD-1477` (305-314), `MCD-1472` (308),
-  `MCD-1252` and `MCD-1255` (314), and `MCD-1022` ("The Last Coat He Ever Wore," 314, the night the
-  Scourge coat comes off — the same year as the Last Breakfast, `MCD-277`).
+- Silent overlap: several locked entries are set inside Pyro's lifetime (Kanja 290-314) and never
+  mention him — among them `MCD-1246` (age 290), `MCD-493` and `MCD-1243` (300), `MCD-1900`
+  (an Anirak Collection, roughly 300), `MCD-1252` (308), `MCD-1253` (310), `MCD-1255` and
+  `MCD-1406` (313), `MCD-1408` (314), and `MCD-1022` ("The Last Coat He Ever Wore," 314, the night
+  the Scourge coat comes off — the same year as the Last Breakfast, `MCD-277`). `MCD-1472` (age 275)
+  and `MCD-1477` (age 258) fall before his birth.
 - Outside the entries: `ozmund-verehimu.md` mentions him once (the `MCD-221` Engine-front line).
   `kanja-haku-rexmar.md` does not mention him at all. `series-gameplan.md` lists him and
   the Triad in Tier 2 ("could run as one shared thread or three separate ones, undecided").
@@ -394,8 +397,9 @@ resolved here.
 19. **Book 1-4 placement.** Apart from the Last Breakfast (`MCD-277`), Book 3's Nelle beats
     (`CC-123`/`126`), and Book 5 (`MCD-097`/`221`/`223`), no Book 1, 2, or 4 role for Pyro is locked.
     The Triad have no locked book-level beat at all.
-20. **Corpus silence.** Zero entries mention Pyro or the Triad, though locked Alias Chronicles cover
-    Kanja 300-314 (`MCD-493`, `MCD-1472`, `MCD-1477`, `MCD-1252`, `MCD-1255`, `MCD-1022`). Whether
+20. **Corpus silence.** Zero entries mention Pyro or the Triad, though locked entries cover Kanja
+    290-314 (`MCD-1246`, `MCD-493`, `MCD-1243`, `MCD-1900`, `MCD-1252`, `MCD-1253`, `MCD-1255`,
+    `MCD-1406`, `MCD-1408`, `MCD-1022`). Whether
     their silence means he was off the page or absent from the fleet is unstated; a two-ton courser
     and a raptor with a 27-foot wingspan living aboard would be hard to leave out of a scene.
 
@@ -432,7 +436,7 @@ written under the recommended answer and says where it depends on one.
   until about eighteen, and a young man after that. Ozmund, Karesian on his mother's side
   (`MCD-101`), is written as a young man at about twenty-five (`MCD-1745`, `MCD-1806`).
   Approval-list item 2 recommends the same normal schedule to adulthood for ordinary humans. Under
-  A1 option 1 this makes Pyro about six at the Pyro Incident (Kanja 296, `MCD-277`), about
+  every A1 option (his pre-Book-1 ages run off Kanja's clock) this makes Pyro about six at the Pyro Incident (Kanja 296, `MCD-277`), about
   eighteen at the Scourge's Heir (Kanja 308, `MCD-272`), and about 24 at the Last Breakfast
   (`MCD-277`).
 - **Option 2:** a slowed schedule from his Karesian line. He would still be a child at Book 1,
@@ -446,18 +450,22 @@ written under the recommended answer and says where it depends on one.
 center of the profile.
 - **Option 1 (recommended):** he knows who his mother was. She was the fleet's provisions manager
   (`MCD-277`), and the crew tells him she died the night he was born, which is the account every
-  in-world record gives (`MCD-133`, `SBD-010`). He knows nothing of his father. He has never heard
-  the name Ignis (`CC-047`) and answers only to the ship-name (`MCD-022`). New fact needed: the
+  in-world record gives (`MCD-133`, `SBD-010`). He knows nothing of his father. New fact: he has
+  never heard the name Ignis (`CC-047`) and answers only to the ship-name (`MCD-022`). New fact: the
   marriage was private, known to Kanja, Stormbreaker and Azar (`CC-079`) and to Sephtis (`CC-110`).
-  To the wider crew she was Pyro's mother, and the marriage stayed with those few. The Codex and SBD files
-  that call her "Kanja's wife" (`CC-046`, `WC-017`, `SBD-041`) are documents the crew never reads.
-  Scope: a clarifying clause on `CC-047` (his missing "parentage" is his father) and on `CC-079`.
+  To the wider crew she was Pyro's mother, and the marriage stayed with those few. New fact: the
+  Codex and SBD files that call her "Kanja's wife" (`CC-046`, `WC-017`, `SBD-041`) are documents
+  the crew never reads. Cost: she sailed openly with the fleet from Kanja 96 (`MCD-277`), and the
+  Captain stood 12 km off at the birth (`MCD-270`), so for 24 years the wider crew either does not
+  know who fathered her child or knows and does not say. Proposed: the crew reads the pregnancy as
+  her own business and does not ask, and the few who could guess keep the Captain's silence. Scope:
+  a clarifying clause on `CC-047` (his missing "parentage" is his father) and on `CC-079`.
 - **Option 2:** he knows neither parent. The fleet was told she died with her unborn child, and he
   was raised as the ship's foundling of that night. The whole fleet would keep a second secret for
   24 years, through Triad behavior the crew observes from Kanja 296 (`MCD-277`).
-- **Option 3:** he knows she was the Captain's wife and has been given a different father. That
-  needs Kanja to tell a deliberate lie, which Sorya, who corrects broken vows (`CC-097`), would sit
-  beside for 24 years.
+- **Option 3:** he knows she was the Captain's wife and has been given a different father. Cost: it
+  turns `CC-079`'s "hides" into an active lie, it needs a named false father, and it adds an
+  invented deception no rule supports.
 - Under every option he believes she is dead. That she lives, fused into the Gate (`MCD-131`),
   stays reserved. Who aboard might know is item B6 below.
 
@@ -466,9 +474,10 @@ center of the profile.
   as his guardian (`CC-045`) and the Triad with him. All three Guardians rank the ship in their bond
   hierarchy (`CC-095`, `CC-097`, `CC-099`), so they live aboard. The Pyro Incident (`MCD-277`), the
   Scourge's Heir (`MCD-272`), and the Last Breakfast (`MCD-277`) all happen around the crew. The
-  locked Alias Chronicles set in these years that never mention him (`MCD-493`, `MCD-1472`,
-  `MCD-1477`, `MCD-1252`, `MCD-1255`, `MCD-1022`) are read as scenes he is off the page for. Before
-  his first wave is drafted, each gets a line-by-line check for any roster that would exclude him.
+  locked entries set in these years that never mention him (`MCD-1246`, `MCD-493`, `MCD-1243`,
+  `MCD-1900`, `MCD-1252`, `MCD-1253`, `MCD-1255`, `MCD-1406`, `MCD-1408`, `MCD-1022`) are read as
+  scenes he is off the page for. Before his first wave is drafted, each gets a line-by-line check
+  for any roster that would exclude him.
 - **Option 2:** raised ashore at a hidden hold, joining the fleet in his teens. The corpus silence
   then needs no reading, at the cost of the Triad's ship hierarchy and an early Pyro Incident aboard.
 - **Option 3:** ashore as a small child, aboard from the Pyro Incident onward.
@@ -480,19 +489,19 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
 - **Core wound / formative event (PROPOSED -- for Abad's confirmation):** *the night he was born.*
   Every account he has heard says his mother died the night he arrived (`MCD-133`, `SBD-010`). The
   birth and her transformation were one event (`MCD-132`), so the story he carries puts his first
-  breath and her last in the same moment. He remembers none of it, and he cannot check it. His own
+  breath and her last on the same night. He remembers none of it, and he cannot check it. His own
   body adds to the weight. Under fear or anger, heat leaves him without his consent, and under
   enough fear it becomes a blast that sets things alight (`ARS-421`). The Pyro Incident, when he was
   about six, is the first time the Triad are seen managing his heat (`MCD-277`); this profile reads
   it as the first time his fear became heat in front of other people. A boy who believes his coming
   cost a life also learns early that his fear can burn the people near him. Depends on A2 and A3.
-  The true account (`MCD-131`) is this wound's eventual answer and stays reserved.
+  The true account (`MCD-131`) stays reserved; whether he ever learns it is unlocked.
 - **Defense mechanisms (PROPOSED -- for Abad's confirmation):**
   - **Turning heat into food.** His Heart's Tools are kitchen tools, and his grip makes any of them
     hot enough to sear (`ARS-421`). The galley is where heat he cannot stop does useful work. This
-    is the crew's own doctrine landing on a child: Kanja "does not suppress, he directs"
-    (`MCD-253`), and every Variant the crew took in was offered control in place of a cage
-    (`MCD-252`). Who first set him at a stove is open.
+    is the crew's own doctrine landing on a child: Kanja "does not suppress, he directs," and the
+    crew's recruitment template offered control in place of a cage (`MCD-252`, `MCD-253`). Who
+    first set him at a stove is open.
   - **Keeping the room fed.** His kitchen-honed awareness of space doubles as combat instinct
     (`ARS-421`). He reads a room the way a cook reads a busy galley: who has eaten, who is hurt,
     where the heat is. Care is how he keeps watch.
@@ -520,8 +529,7 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
   forged protecting the Dhar-Kael (`MCD-041`); the last three Dhar-Kael now guard a Rexmar who does
   not know the name is his. Three beings the SBD rates OMEGA-PRIME (`SBD-021`, `SBD-022`,
   `SBD-044`) watch over a young man at a stove. Proposed: he feels none of this as a
-  contradiction, because he sees only one half of each pair. The reader sees both halves, and that
-  gap is what his series is built on.
+  contradiction; the gap is the reader's, and the series is built on it.
 - **Relationship patterns (PROPOSED -- for Abad's confirmation):**
   - **Kanja, the Captain.** Under A3 he is the Captain Pyro cooks for. Kanja knows Pyro is his son
     and hides it (`CC-079`), and was kept 12 km from the birth so the Talisman would not disturb the
@@ -539,7 +547,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     Ironbane is the first person his food is proven to heal (`MCD-272`). Proposed: his place aboard
     was earned at the table, one meal at a time.
   - **The ones who keep the secret.** Kanja, Stormbreaker and Azar (`CC-079`), and Sephtis for 24
-    years (`CC-110`). He is surrounded by people who hold a truth about him, and he trusts all of
+    years (`CC-110`; his place aboard across Kanja 290-314 depends on approval-list item 38,
+    `MCD-982`). He is surrounded by people who hold a truth about him, and he trusts all of
     them.
   - **Nelle Adessi, from Book 2.** She widens her clinic door for Varkul without being asked
     (`CC-123`). Her death in Book 3 costs him the one space in his life outside war (`CC-126`).
@@ -551,15 +560,17 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     `CC-126`). This lands in Book 3, outside the pre-Book-1 window, and shapes nothing drafted before
     it.
   - **The truth, arriving the wrong way.** He does not know his father, or that his mother lives
-    (`CC-047`, `MCD-131`). Who tells him is open; the one locked piece is that Sorya can show him his
-    history from outside his own view (`ARS-414`). Proposed: learning it from a record, an enemy, or
-    a stranger would break the trust described above.
+    (`CC-047`, `MCD-131`). Who tells him is open. The one locked piece covers his father only: when
+    he learns his father's identity, Sorya is the one who can show him his history from outside his
+    own view (`ARS-414`). No rule governs whether or how he learns his mother lives. Proposed:
+    learning either truth from a record, an enemy, or a stranger would break the trust described
+    above.
   - **Distance from the Triad.** Separation strains Varkul (`CC-095`). Proposed: it strains Pyro as
     well, because part of his calm is theirs.
 - **Defining emotional throughline (PROPOSED -- for Abad's confirmation):** *the meal before the
   fight.* Lauris carries joy, Kanja grief, Ozmund doubt, and Ezio deception (`CC-134`); Pyro carries
-  warmth. It is heat that came out of him unasked on the night he was born, and he spends his life
-  learning to set it under a pot. His arc runs from a child whose fear burns, to the cook whose
+  warmth. Proposed (no rule records it): it is heat that came out of him unasked on the night he
+  was born, and he spends his life learning to set it under a pot. His arc runs from a child whose fear burns, to the cook whose
   food the crew calls eating well before a fight (`ARS-421`), to the man who serves his father stew
   on the last morning of the Long Mask without knowing whom he is feeding (`MCD-277`). His Book 5
   peak stays sealed (`MCD-223`).
@@ -572,21 +583,34 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   How he learned stays open. Approval-list item 38 (Sephtis's staged death against his open place
   in the crew) has to be ruled before Sephtis appears in any entry of this series.
 - **B2. Order of events at the birth, and Kanja's consent from 12 km (findings 6, 9).**
-  Recommended sequence: the curse was set before the birth (`CC-046`, `MCD-136`); the Demaron takes
-  her in labor; Stormbreaker fights it (`CC-045`); the Gate deploys to seal it (`MCD-131`); she
-  inverts it, and Pyro's birth and the Triad's release happen in the severed instant (`MCD-132`).
-  Kanja gave his consent beforehand. Queued for whichever entry first touches the birth.
+  Recommended sequence: the curse was set before the birth (`CC-046`, `MCD-136`). Pyro is born
+  first, a natural birth (`MCD-022`). Then, within the same event (`MCD-132`), the Demaron takes
+  her; Stormbreaker fights it (`CC-045`); the Gate deploys to seal it (`MCD-131`); she inverts it;
+  the Triad are pushed out before her fusion completes, and the imprint between them and the
+  newborn completes (`MCD-131`, `MCD-270`). Kanja gave his consent beforehand, from outside the
+  12 km line. Scope: clarifying clauses on `WC-017` (its "before Pyro was born" reads against
+  `MCD-022`'s natural birth first) and on `CC-046`'s order of events. Queued for whichever entry
+  first touches the birth.
 - **B3. What the Living Gate is (finding 7).** Recommended: the cavern site of `MCD-269` is the
   Gate; the curse is her voice-keyed binding to it (`MCD-131`); the birth happens at the cavern,
   which is why Kanja's 12 km line has a fixed point (`MCD-270`).
 - **B4. T.D.K. acting during his dormancy (finding 8).** Recommended: the curse was automatic legacy
   architecture inside the SBD's oldest protocols (`CULT-008`), tripped by her discovery (`MCD-136`),
-  with no waking act by T.D.K. (`MCD-070`). Needs a clarifying clause on `CC-046` and `MCD-136`.
+  with no waking act by T.D.K. (`MCD-070`). Needs a clarifying clause on `CC-046`, `MCD-136`, and
+  `WC-017` ("T.D.K. had installed the Living Gate").
 - **B5. His mother's name, homeland, SBD recruitment, and marriage date (finding 10).** Open, for
   whenever her own material is drafted. Under A3 option 1 the marriage is private.
-- **B6. Who aboard knows she survived.** New, raised by A3. Recommended: no human aboard knows.
-  Stormbreaker believes he ended her. Whether Sorya's memory holds the inversion is the Triad file's
-  question TA3.
+- **B6. Who aboard knows she survived.** New, raised by A3. Recommended: no human aboard knows,
+  and that includes Kanja. He too believes his wife died the night Pyro was born, 24 years before
+  Book 1 (under A1 option 1). New fact about Kanja, for Abad's ruling; it touches
+  `kanja-haku-rexmar.md`, whose profile is scoped to ages 18-30 and would need a recorded line for
+  this later grief, as it already carries for his father's death. The alternative, Kanja knows
+  she lives and keeps that too, adds a second concealment to `CC-079`. Proposed, if the
+  Stormbreaker facet is confirmed: Stormbreaker believes he ended her. Whether Sorya's memory holds
+  the inversion is the Triad file's question TA3.
+- **B6a. Where the Triad came from, and whose bond it is (findings 4, 5).** Handed to
+  `triad-guardians.md`, questions TA1 (made at the Gate, or an ancient clade bonded there) and TA2
+  (how the bond was completed). This file follows their rulings and asserts neither.
 - **B7. The two false SBD accounts and the Archon hook (findings 11, 12).** Stay reserved
   (`SBD-041`, `SBD-044`). Nothing in this series asserts either false account as fact.
 - **B8. Varkul's two names (finding 13).** Handled in `triad-guardians.md`, item TB3.
@@ -617,7 +641,14 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   fire (`CC-047`, `MCD-022`) who is a child for most of the window. Collision check, case-insensitive:
   zero hits for "kindling" or "kindlings" in `canon-ledger.json`; the plain word appears in two
   entries in `docs/lords-of-cian/chronicles/` (dyed kindling in a beacon stack, a servant laying a
-  fire), never as a name. Near-collisions within edit distance 2: "killing" only, a common word.
+  fire), never as a name. Near-collisions within edit distance 2, across the ledger and the
+  entries: "Binding," "bindings," "findings," "finding," "minding," "winding," "handling,"
+  "dwindling," "singling," and "killing." All are common words except "Binding," which names one
+  thing in canon: "Sorya's Binding," the heading of `CC-097` (her loyalty structure), its only
+  capitalized use in the ledger. Judgment: no real collision. "Binding" is a single rule heading,
+  never a series or entry name, and the two words differ in their first letter and in sense. One
+  caution: Sorya belongs to this series' own close cast, so an entry that names her Binding should
+  avoid putting it beside the series name in a title.
   - Alternative, the Suppers: zero ledger hits; near-collisions "sappers" and "Shapers" (the Maw's
     licensed Shapers, `MAW-050`).
   - Alternative, the Breakfasts: zero plural hits; the singular names the Last Breakfast
@@ -630,14 +661,18 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
     Daba's Rolls and Anirak's Collections, and Pyro has no narrator of his own in the Voice Bible.
   - **Onyx is unavailable.** It is sealed at L9 for all of Kanja 290-314 (`CC-012`, `MCD-246`), the
     same reason `VB-065` keeps Onyx out of Anirak's Long Mask entries.
-  - **Stormbreaker could tell a Comrade Account later** (`VB-067`), outside the Series. His teller
-    bound (he believes he ended her) makes him a strong one.
+  - **Stormbreaker could tell a Comrade Account later** (`VB-067`), outside the Series. If the
+    proposed Stormbreaker facet is confirmed, his teller bound (he believes he ended her) makes him
+    a strong one.
   - **Sephtis is not a `VB-020` narrator.** The Voice Bible gives him a dialogue voice only
     (`voice-bible-definitive.md`, "Sephtis (Vrail)"), and item 38 must be ruled first.
   - Through the Long Mask, Kanja appears as "the Captain" in the Scourge register (`VB-065`
     precedent).
 - **Kill register:** Pyro sits outside the marquee tier, which is reserved to the five anchor heroes
   (`MCD-1881`). Any victory of his is Notable at most, and none falls in his childhood years.
+  Proposed, on the `CC-162`/`CC-164` pattern: every kill by his own hand is a necessity kill, the
+  person an active, immediate threat to life in that moment. An involuntary fear-blast from his
+  Thermal Vents (`ARS-421`) is never written as a chosen kill or as a showcase.
 
 **Abad's ruling, verbatim, once given:**
 
