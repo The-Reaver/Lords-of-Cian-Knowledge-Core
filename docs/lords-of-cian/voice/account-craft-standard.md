@@ -36,7 +36,8 @@ It sits under three rules and never loosens any of them.
     reserved rule forbids.
 - **`VB-068`** (proposed) binds this standard to those rules and adds one bar of its own: "No new entry
   or new scene, Series narration included, states a fact about an institution that no locked rule
-  holds; the reliable narration of a locked entry, cited by its rule ID, counts as held. Such a fact
+  holds; the reliable narration of a locked entry, cited by its rule ID (or of manuscript Chronicles
+  I-VIII, cited by number), counts as held. Such a fact
   is drafted as its own rule." The bar binds every new entry and new scene. Its
   object is a standing structure, office, form, procedure, vocabulary, or practice of a named
   institution, as distinct from an event involving one, and it is checked in every entry's
@@ -433,8 +434,9 @@ breathe, half-believed by everyone, reads true.
   - The teller is never deliberately lying (`VB-067`).
   - Outside those matters, the teller's account of their own sector is reliable and locks as fact,
     and so is what they witnessed outside it (`VB-067`, "what the teller saw and knew").
-  - That the words were said, in substance, locks as fact; what they claim locks only as said
-    (`VB-067`). The teller rebuilds dialogue (R16), so the exact words are the teller's
+  - Of dialogue the teller heard firsthand: that the words were said, in substance, locks as fact;
+    what the speaker claims locks only as said (`VB-067`). Dialogue relayed secondhand locks only as
+    said. The teller rebuilds dialogue (R16), so the exact words are the teller's
     reconstruction.
 - **Who tells to whom.** Always give an identified listener: named, or identified by description
   where a locked rule keeps them unnamed (`PH2-048`, `MCD-1093`). A comrade tells different things
@@ -733,7 +735,7 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
 - **Sovereign Trust variant.**
   - The public record is cried aloud: the false Rookery record (`MCD-1566`), read by a Trust crier
     (`MCD-1573`). The form of that notice is **[NAME NEEDED: N12]**.
-  - Internal Trust records draw on the Central Ledger (`WC-007`). They also
+  - Scrip debt is held in the Central Ledger (`WC-007`, `MAW-096`). Trust records
     carry phantom orders the Trust processes as its own (`MCD-271`), a Dossier that records a
     command it never truly issued.
   - On the page: an agentless "fire of undetermined origin"; a precise figure with its source lost
@@ -752,8 +754,8 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
     exists in that World (as Kalamu's sheets are, `PH2-064`; the Areíto press, `MCD-357`); those
     rules are cited for the medium only, and neither is a Dossier. It never names what canon keeps
     unnamed.
-- **Witness statements.** The SBD's form for taking a civilian's statement is
-  **[NAME NEEDED: N13]**.
+- **Witness statements.** Whether the SBD has a set form for civilians' statements is
+  **[RULE NEEDED]**; name candidates at N13.
   - The spoken account inside keeps its hedges and corrections; the clerk's frame flattens them,
     and the contrast is characterization [CRAFT on 01 §4].
   - The witness repeats the questioner's own words (misinformation absorbed) [STRONG core; 05 F3;
@@ -933,7 +935,8 @@ closed.
 - Story rounds and topping (R14, R15).
 
 **Brag / fact**
-- *Brag:* fights, the sea, the Maw, women and men, local foolishness.
+- *Brag:* fights, the sea, the Maw, women and men, local foolishness. Sexual talk stays between
+  adults and non-explicit, with no minor present or referenced.
 - *Fact:* money owed between regulars, local fact the room can check, a regular's real trouble
   (talked about only behind his back).
 
@@ -961,7 +964,8 @@ closed.
 **Venues, mainline Cian**
 - Category word: **[NAME NEEDED: N1]**. Canon uses "tavern" and "inn" as generic words.
 - The Anchor and Anvil: the early Rebellion's room, with a back room, a long table, and tea. It
-  appears in manuscript Chronicles III, VI and VIII and has no ledger rule.
+  appears in manuscript Chronicles III, VI and VIII and has no ledger rule. Its trade is unstated in
+  canon; a lock would fix it (companion draft part (c), item 3).
 - An unnamed harbor tavern (`MCD-825`).
 - A neutral dockside tavern (`MCD-824`).
 - A tavern four days' ride from Lowmere and Greyfen, where the story of the night the dike held
@@ -1251,7 +1255,8 @@ a generalization, 01 F8; †Norrick 1997]
 - Mika's table and window (`MCD-1872`).
 
 **Venues, homage World**
-- "No Blood at My Table" (`PH2-061`).
+- "No Blood at My Table" (`PH2-061`), the Five Families' peace rule at Arturo's table, not a
+  family meal.
 - Arturo's remembrance with its empty chairs (`MCD-1024`).
 - **Caution:** the Common Table (`PH2-055`) is Adom's signature ability, not an ordinary dinner. A
   meal there carries its binding, and tellers there are bound by it.
@@ -1454,7 +1459,7 @@ belief, ⚠ 09.]
   Canon records it as using no rites borrowed from any Trust or Kingdom (`MCD-998`).
 - Rites at sea (`MCD-1073`).
 - The Pier Nine memorial wall (`MCD-1372`).
-- Daba's annual reading of names (`MCD-1610`).
+- Daba's private annual reading of names (`MCD-1610`).
 - A general Cian funeral custom: **[NAME NEEDED: N11]**. It must not overwrite the crew's own
   practice.
 
@@ -1497,7 +1502,7 @@ belief, ⚠ 09.]
 - Market stalls as notice boards (manuscript Chronicle VI).
 - Trust criers reading the official record (`MCD-1573`).
 - Independent pamphlets with corrections (`MCD-638`).
-- The Trust's posted notice form: **[NAME NEEDED: N12]**.
+- The Trust's public-notice form: **[NAME NEEDED: N12]**.
 
 **Venues, homage World**
 - Criers and hand-copied broadsheets (`PH2-049`).
@@ -1642,8 +1647,8 @@ interrogation holds only the questioner, the teller, and any clerk.
   through silence (`MCD-838`); Fermand's Black Iron Citadel interrogation period (`CC-074`).
 - On the crew's side of the table: Ezio's Socratic Trap (`ARS-405`).
 - Ashkeel: the Bladeless Court (`ASH-040`), under M13's restrictions.
-- The SBD's witness-statement form is **[NAME NEEDED: N13]** (§4.3). Its procedure needs a rule
-  first (`VB-068`).
+- Whether the SBD has a set witness-statement form is **[RULE NEEDED]** (§4.3); name candidates at
+  N13. Its procedure needs a rule first (`VB-068`).
 
 **Venues, homage World**
 - Bakari's trial, with Kunle working the courtroom (`PH2-063`, `MCD-363`) and Kalamu's sheets
@@ -1740,7 +1745,7 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
    profile's reserved-threads list. Open questions are repeated as rumor only in permitted form.
 9. **No new institution facts.** No new entry or new scene, Series narration included, states a
    fact about an institution that no locked rule holds (the reliable narration of a locked entry,
-   cited by its rule ID, counts as held); such a fact is drafted as its own rule (`VB-068`), a
+   cited by its rule ID, or of manuscript Chronicles I-VIII, cited by number, counts as held); such a fact is drafted as its own rule (`VB-068`), a
    **[RULE NEEDED]** draft for Abad. An unreliable teller's false claim about an institution is
    locked only as said (`VB-067`) and traces to a locked rule that holds the truth. A fact about an
    institution here means a fact about a standing structure, office, form, procedure, vocabulary,
