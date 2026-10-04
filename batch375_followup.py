@@ -22,6 +22,9 @@ EDITS = {
     CH + "kanja-chronicle-ii-the-lesson-he-carried-alone.md": [
         ("Daba's own 50-Chronicle launch", "Daba's own 50-entry launch", 2),
     ],
+    CH + "xaragua-annals-vi-what-he-came-without-being-asked.md": [
+        ("set after Annals V", "set after Xaragua Annals V", 1),
+    ],
     CH + "kazi-annals-vi-the-names-he-was-teaching-to-read-the-floor.md": [
         ("at the chronicle's close", "at the entry's close", 1),
     ],
@@ -66,7 +69,7 @@ FIXES = [
     (re.compile(r"full(\s+)ledger(\s+)and(\s+)Collection(\s+)corpus"), r"full\1ledger\2and\3entry\4corpus"),
     (re.compile(r"across(\s+)other(\s+)Annals(\s+)of\b"), r"across\1other\2Annals entries\3of"),
     (re.compile(r"a Annals entry-numbering(\s+)writers'-room leak \(\"three Annals before\""),
-     r"an entry-numbering\1writers'-room leak (the old \"three Chronicles before\""),
+     lambda m: "an entry-numbering" + m.group(1) + "writers'-room leak (the old \"three Chronicles before\""),
 ]
 
 
@@ -105,6 +108,12 @@ for r in d["rules"]:
 json.dump(d, open("canon-ledger.json", "w", encoding="utf-8"), indent=2, ensure_ascii=False)
 open("canon-ledger.json", "a", encoding="utf-8").write("\n")
 print("residue fixed: files", nf, "| rules", nr)
+for p in [CH + f for f in os.listdir(CH) if f.startswith("daba-roll-")] + [
+        "docs/lords-of-cian/character-profiles/daba.md", "docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md"]:
+    t = open(p, encoding="utf-8").read()
+    t2 = re.sub(r"50-Roll(\s+)launch", r"50-entry\1launch", t)
+    if t2 != t:
+        open(p, "w", encoding="utf-8").write(t2)
 
 # CLAUDE.md batch history: file paths only (VB-066).
 out = subprocess.run(["git", "diff", "--cached", "--name-status", "-M"], capture_output=True, text=True, check=True).stdout

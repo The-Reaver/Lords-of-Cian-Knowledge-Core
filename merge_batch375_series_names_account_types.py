@@ -37,6 +37,8 @@ HAND = {
                   "no Alias Chronicle, Kanja-version Chronicle, character Series entry, or Annals entry may show him")],
     "VB-065": [("her two lines in Chronicle V (MCD-1883)", "her two lines in Kanja Chronicle V (MCD-1883)")],
     "VB-063": [("the 'least articulate' Chronicle I coda convention (MCD-1866)", "the 'least articulate' Kanja Chronicle I coda convention (MCD-1866)")],
+    "MCD-509": [("and Adeyemi Annals.", "and Adeyemi Annals entries.")],
+    "MCD-1093": [("set after Annals V (MCD-1024)", "set after Xaragua Annals V (MCD-1024)")],
     "MCD-1657": [("for the first time in the chronicle's run", "for the first time in the Records' run")],
 }
 d0 = json.load(open(LEDGER, encoding="utf-8"))
