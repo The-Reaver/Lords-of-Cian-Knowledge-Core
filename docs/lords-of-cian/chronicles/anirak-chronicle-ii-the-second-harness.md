@@ -1,6 +1,6 @@
 # Anirak Chronicle II: The Second Harness
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (fifth draft, after four independent review rounds). Second
+*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (sixth draft, after five independent review rounds). Second
 entry of Anirak's Character Chronicle series (Game Plan pitch 3, locked at Batch 372). Close-third on
 Anirak per `VB-065`. The Long Mask, roughly Kanja 175, after Maw-11 (`MCD-264`) and before Ren comes
 aboard. A thirteen-strong Sealbound Directorate Retrieval Detachment (`SBD-050`) comes for a subject of
@@ -12,16 +12,15 @@ reused. No child-safety issues. Not canon until approved.*
 ---
 
 Tideglass at night. A free port. The Scourge's mark painted small on the harbor-master's door. The
-Trust's tax-house three streets back, shuttered longer than most of the dockhands had been alive.
+Trust's tax-house three streets back, shuttered since the Sweep.
 
 Rain on slate. Tar off the boat sheds. Kelp rotting on the slip. Lamps in the tavern windows along the
 front, and the water black between the piers.
 
 She lay awake in the loft over the net-maker's shop, and the sea told her why.
 
-Hulls. Three moving, or out of place. A small one inside the second pier, low in the water, dark, oars muffled and dipping
-slow. A second small one, still, nosed in under the seawall. A long keel just outside the harbor
-mouth, holding its place against the swell.
+Hulls. Small ones, close, inside the harbor. One working oars, slow, muffled. One lying still. Out past
+the mouth, something long and heavy, holding against the swell.
 
 She was down the ladder with the chains in her hands and the Star across her back before the oars went quiet.
 
@@ -95,7 +94,7 @@ She could move a hand's breadth any way. No more.
 
 Her heart slowed. She let it, to keep her head. The links cooled with it under the bands. The
 weight she had gathered began to leak out of her arms. Down. Out through her shoulders. Out of her
-chest. Rain from a cracked jar. Every breath of stillness took more of it.
+chest. Water from a cracked jar. Every breath of stillness took more of it.
 
 They harnessed me. So the blows wouldn't stack.
 
@@ -134,7 +133,7 @@ Boots on the steps, coming down fast. Hamund. Odile. Past her, one on either sid
 flanks.
 
 Two cords in front of her, heavy, one either side of the stair foot. Nothing on the steps. Edda's
-breath, behind her and to the left, out past the door, against the wall.
+boot scraping the flags, behind her, out past the door.
 
 She let it go.
 
@@ -194,9 +193,8 @@ She went past him.
 
 The lane. The slip. The end of the second pier, at a dead run, the chains warm and singing.
 
-The long keel lay a few cables past the mouth. The small hull's oar-beat had stopped against its bulk.
-As her feet hit the last planks, the keel's wake lengthened. It heeled hard and gathered way before a stiff land
-breeze.
+Out past the mouth, the oar-beat had stopped against something heavy. As her feet hit the last planks,
+the wake under it deepened. It gathered way before a stiff land breeze.
 
 She set a foot on the last pile and looked at the swell.
 
@@ -205,20 +203,18 @@ Too far. Too fast.
 At the end of the pier she paced. Three strides each way. Rain on the planks. The weight in her arms and
 nowhere to spend it.
 
-The keel went out and out across the swell, a long mile and more. Farther every breath.
-
-It went over the edge of what she could feel. Then there was only the swell.
+The keel went out past the point. Then the swell took it, and there was only the swell.
 
 • • •
 
 Hamund met her at the head of the slip.
 
-"Four went with her. Rest over the seawall, the boat under it." He wiped rain off his face. "Thirteen
+"Four went with her. Rest over the seawall, carrying their own. The boat under it." He wiped rain off his face. "Thirteen
 in all. Nobody dead."
 
-She had felt that boat under the seawall from the loft. She had let it go for the keel.
+She had felt that second hull from the loft. She had let it go for the keel.
 
-The net lay in the lane where it fell. Edda sat on the chandler's step with a rag to her head. Odile held
+The net lay across the chandler's threshold where it fell. Edda sat on the chandler's step with a rag to her head. Odile held
 the rag.
 
 Hamund kicked the net. It clinked.
@@ -250,7 +246,7 @@ hung open on the rain.
 
 She stood in the doorway and looked at the cup.
 
-Then she went down to the harbor council, and asked for paper, and wrote the name down herself. Ardith.
+Then she went down to the harbor council, and said the name while the clerk wrote it down. Ardith.
 Twenty, or near it. A number behind the ear. Taken.
 
 ---
@@ -261,8 +257,7 @@ Captain does not appear. Tideglass is a Southern Sweep settlement (`MCD-255`); i
 port under the Merchant Accord (`MCD-266`, which does not name it) is a new detail. The detachment is a
 thirteen-strong Sealbound Directorate Level 3 Retrieval Detachment (`SBD-050`: subject recovery, 8 to 14
 personnel) -- six on the stair team, six on the cords, and the rig's maker -- and is not the
-twelve-strong Foundling Detachment (`SBD-061`). `SBD-050` assigns Military-Standard engagement to Level 2 Containment, so a Level 3 unit bringing a
-rig built against her is an edge-of-tier operation: a retrieval commander's contingency hold, authorized under the Level 3 retrieval's own sign-off (a new fact, flagged, and one more
+twelve-strong Foundling Detachment (`SBD-061`). `SBD-050` assigns Military-Standard engagement to Level 2 Containment, so a Level 3 unit bringing a rig built against her, as the Directorate rates her, is an edge-of-tier operation: a contingency hold given by the maker, authorized under the Level 3 retrieval's own sign-off (a new fact, flagged, and one more
 instance of the Directorate's fallibility pattern, `MCD-1727`); "No one here is authorized to injure
 you" is the unit's own reading of its orders. The detachment uses only subduing force -- straps,
 clubs, staves, the net (Edda's scalp wound from a club at the door is the only injury of note to her
@@ -289,16 +284,20 @@ again as her heart comes up, and the
 engagement ends within minutes. The design survives in the maker's record, and the detachment's
 after-action file runs under real names at the field office (`SBD-052`). Anirak sinks the physical net.
 No future use of the rig is reserved or implied. The maker knows her name from her file (`CC-163`: SBD
-field files name her); his rank is not stated. Her sea-sense is ambient only (`ARS-367`, `ARS-371`): she
-feels three hulls and chooses the keel carrying Ardith over the boat under the seawall. Her undersea speed
-(`CC-113`) is weighed and rejected in one beat ("Too far. Too fast."): the keel lies a few cables past the mouth and
-gathers way as she reaches the pier, running out a long mile and more; her sea-sense reads only coarse
-cues at that range (an oar-beat stopping, a wake lengthening). Four of the detachment go out with Ardith in the small hull;
+field files name her); his rank is not stated. Her sea-sense is ambient only (`ARS-367`, `ARS-371`,
+`ARS-373`): coarse cues only -- small hulls close inside the harbor, one under oars and one still, and
+something long and heavy past the mouth -- with no fixed positions, well short of the Book 5 active sonar
+(`ARS-442`). She chooses the keel carrying Ardith over the still hull, later placed by Hamund under the
+seawall. Her undersea speed (`CC-113`) is weighed and rejected in one beat ("Too far. Too fast."): the
+oar-beat stops against the keel past the mouth, its wake deepens and it gathers way before a stiff land
+breeze as she reaches the pier, and she loses it past the point. Four of the detachment go out with Ardith in the small hull;
 the rest leave by the boat under the seawall. The keel and the small hull's oarsmen are transport, not
 detachment personnel. The maker writes during the hold and is not shown recording her escape. The net closes on her in the chandler's flagged entry, facing the
 stair; the two forward cord-men flank the stair foot, and Hamund and Odile come down between them and
 pass her. Edda is outside, against the wall beside the door, behind Anirak and off the Voice's forward
-line, and Anirak hears her there before the release. The Morning Star rides across her back under the
+line, and Anirak hears her boot scrape there before the release. The net falls across the chandler's
+threshold as she comes out through it. Ardith's name is written down by the harbor council's clerk as
+Anirak says it. The Morning Star rides across her back under the
 net and is not drawn. Reserved threads untouched:
 Hot/White and sync, Flood State, sonar, Sereth Vaul, Vestige, Ren and his field, her origin's open
 questions, the undead, her age, the loss of any of her three. Tech level: oars, sail, lead shot, leather,
