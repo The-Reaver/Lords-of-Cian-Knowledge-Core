@@ -145,8 +145,9 @@ assert s.count(a) == 1
 s = s.replace(a, "")
 for k, v in NAMES.items():
     pat = f"**[NAME NEEDED: {k}]**"
-    assert pat in s, k
     s = s.replace(pat, v)
+for k in list(NAMES) + ["N12"]:
+    assert f"[NAME NEEDED: {k}]" not in s, k
 assert "NAME NEEDED: N12" not in s and "until the `VB-004` amendment" not in s
 open(STD, "w", encoding="utf-8").write(s)
 
