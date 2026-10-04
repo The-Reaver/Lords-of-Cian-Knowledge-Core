@@ -1,6 +1,6 @@
 # VB-004 amendment and the account-craft vocabulary (LEX-001 to LEX-025)
 
-*Draft for Abad's approval, 2026-10-04. Nothing here is locked. It carries out his rulings at
+*Draft for Abad's approval, 2026-10-04 (revision 2, after the first independent review). Nothing here is locked. It carries out his rulings at
 `VB-068`'s lock ("lock it, approve the picks, confirm all three"): the comic registers may run
 broader than `VB-004` in told accounts, set out as a `VB-004` amendment; and the approved picks from
 the naming table (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`, part (b))
@@ -15,17 +15,25 @@ rule first.*
 
 Appended to `VB-004`:
 
-"Amended Batch 377. In a told account and in a storytelling scene, both governed by `VB-068`,
-characters' talk may use comic registers broader than irony and understatement. These are ritual
-insult and signifying, the toast, call and response, escalating story rounds, the performed telling,
-the tall tale, the funny boast, the parting jab, the insult that means welcome, the work-break joke,
-and the comic story told at a table or at a wake, as the account craft standard sets them out (R0.4,
-R15, R18, and modules M1 to M4, M6, M7, M9, and M11). The teller's voice in a Comrade Account, an
-Adversary Account, or a Hearsay entry counts as characters' talk. The narration of a Series entry or
-of an entry of account type none, and the text of a Dossier, stay at irony and understatement only.
-Every narrator's own voice stays there too, Onyx's included (`VB-063`). The 50% rule, the bar on
-phatic talk, fact over emotion, the banned words, and every hard constraint still apply. Ritual
-insult and boasts stay non-explicit and never involve a minor."
+"Amended Batch 377. In a told account, characters' talk may use comic registers broader than irony
+and understatement. A told account here means a Comrade Account, an Adversary Account, or a Hearsay
+entry (`VB-067`), or a scene in any entry in which a character tells a story aloud (`VB-068`). The
+registers are those Abad ruled on at `VB-068`'s lock, as the account craft standard sets them out:
+ritual insult, signifying, call and response, and the toast (R0.4); escalating story rounds (R15);
+the performed telling (R18); the tavern's growing comic story (M1); the corner's funny boast (M2);
+the barbershop's parting jab (M3); the insult that means welcome (M4); the work break's ritual joke
+(M7); the sailor's tall telling (M9); and the comic stories told at the family table (M6) and at
+wakes and remembrances (M11). The teller's voice in a Comrade Account, an Adversary Account, or a
+Hearsay entry counts as characters' talk. These stay at irony and understatement only: the narration
+of a Series entry or of an entry of account type none; the whole text of a Dossier, speech quoted in
+it included; and every designated narrator (`VB-020`) in every role, including as the teller of an
+entry outside a Series. Every track voice ruling governs its characters' talk as before (`VB-022`,
+`VB-024`, `VB-063`, `VB-064`, `VB-065`), and Onyx's voice, narrating or through the grip, is
+governed by `VB-063` alone. The 50% rule, the bar on phatic talk, fact over emotion, the banned
+words, and every hard constraint still apply. Every register this amendment permits stays
+non-explicit. Sexual talk in any of them is between adults only, with no minor present, addressed,
+or referenced, and no minor is the subject of a sexual insult, boast, or story (account craft
+standard, section 7, item 17)."
 
 ---
 
@@ -55,23 +63,26 @@ the night's final bout. Which Maw it stands near is fixed by the first entry tha
 unconnected to the Belly (Maw-3, `MAW-061`) and to the Last Ward (`ARS-390`).
 
 **LEX-005**. the Call Yard: dockers' word on Cian for an open yard where a foreman calls the day's
-hands by name at dawn. It labels a dock practice, not an institution. "Yard" sits one letter from
-Yara, an Annals territory in the homage World (`PH2-005`), so the Call Yard is never set in that
-World.
+hands by name at dawn. It labels a dock practice and names no hiring office. "Yard" sits one letter
+from Yara, an Annals territory in the homage World (`PH2-005`), so the Call Yard is never set in
+that World. It is unconnected to House Brekka, the Breaker's Yard (`MAW-033`).
 
 **LEX-006**. the Trough: Kanja's crew's mocking name for its own mess, an insult that means
 welcome (account craft standard, M4). "Mess" and "galley" stay usable, and entries locked before
-this rule stand as written. It is unconnected to the water trough in the Maw-11 yard (`MCD-1898`).
+this rule stand as written. It is unconnected to the water trough in the Maw-11 yard (`MCD-1898`) and to the forge quench troughs of the
+Lord of Embers entries (`MCD-1051`, `MCD-1311`).
 
-**LEX-007**. the Sweat: Branded fighters' slang for the staging areas and holding cells where they
-wait before a bout (`MAW-064`). It is slang only; `MAW-064`'s terms stand.
+**LEX-007**. the Sweat: Branded fighters' slang for the backstage staging areas where they wait
+before a bout (`MAW-064`). It is slang only; `MAW-064`'s terms stand.
 
-**LEX-008**. a hewer: Maw crowd slang for a Branded fighter, heard in the Common Tiers (`MAW-087`),
+**LEX-008**. a hewer: Maw crowd slang for a Branded fighter, heard in the Common Tiers (`MAW-064`, `MAW-087`),
 after the hardest labor a crowd knows. "Branded" stays the term in narration (`VB-013`).
 
 **LEX-009**. a bell: Maw crowd slang for a bout ("three bells tonight"), from the bell that opens
-it, held in locked narration (`MCD-1886`). Context keeps it apart from a time-bell, the Chrono-Anchor
-Bells (`ARS-402`), and the Belly (`MAW-061`).
+a bout. Ozmund Testament CXXI's "No second bell" (`MCD-1886`) reads in this sense: one bout, and no
+second called. This rule sets no round structure for a Maw bout. Context keeps the word apart from a
+time-bell, the Chrono-Anchor Bells (`ARS-402`), the Belly (`MAW-061`), and the bell among the marks
+in Kanja Chronicle VII (`MCD-1885`).
 
 **LEX-010**. dice-house: mainline Cian common speech for a gambling house, such as the canal-district
 houses of Trench Monarch Alias Chronicle V (`MCD-402`). It names a kind of house and sets nothing
@@ -81,14 +92,15 @@ about Reckoners or the Maw's wager system (`MAW-086`, `MAW-087`).
 burial. Not every community keeps it. It never overwrites the crew's own deck service, which
 borrows no rite from any Trust or Kingdom (`MCD-998`), or Kanja's words at sea (`MCD-1073`).
 
-**LEX-012**. the Posted Bill: common speech on Cian for a public notice the Sovereign Trust puts up;
+**LEX-012**. the posted bill: common speech on Cian for a public notice the Sovereign Trust puts up;
 "crying the bill" is a crier reading one aloud, as a Trust crier reads the official record in Daba
 Roll III (`MCD-1573`; "the posted record," `MCD-1574`). It is the common name only and sets no
 Trust posting procedure.
 
 **LEX-013**. the pump, pump-lads: mainline Cian's "corner." The pump is a public pump where men and
 boys stand idle and watch the street; pump-lads are its regulars. It is a street word and sets
-nothing about any crew or trade.
+nothing about any crew or trade. Where a settlement's pump carries a Frequency Vaccine generator
+(`MCD-265`, `MCD-274`), the street word names the gathering place only.
 
 **LEX-014**. a whistler: a street lookout on Cian who warns with a whistle. Context keeps it apart
 from Onyx's Whisper of Shadows (`ARS-020`).
@@ -116,9 +128,8 @@ back room (`MCD-339`) is one. "Barbershop" stays usable in narration.
 game). It is a different game from Sankofa's dice games (`MCD-1023`). "Kete" is one letter from
 Keme (Soledad Keme, `MCD-095`), who belongs to Cian.
 
-**LEX-022**. ulli: a homage-World yard ball game played before a crowd (from Nahuatl ōlli, the ball).
-It shares a root and a sound with Ollin (`PH2-023`); "ogba" is the fallback if that echo is
-unwanted.
+**LEX-022**. ulli: a homage-World yard ball game played before a crowd (from Nahuatl ōlli, "rubber,"
+the ball's material). It shares a root and a sound with Ollin (`PH2-023`).
 
 **LEX-023**. baraza: homage-World word for a meeting in a union hall or church basement (Swahili,
 "council, open meeting").
@@ -129,9 +140,10 @@ It can run several days. Arturo's annual remembrance (`MCD-1024`) is a different
 ### Ashkeel
 
 **LEX-025**. brazier-house: Ashkeel's word for an everyday drinking hall, where mortal enemies drink
-under the Council peace (`ASH-011`). Adult, non-explicit contexts only (account craft standard,
-M13). "Brazier" is two letters from the Ionic Ground Bracer (`ARS-407`); "ventstead" is the fallback
-if that echo is unwanted.
+under the Council peace (`ASH-011`). The "brazier" is the hall's grate over a heat-gallery, carrying
+warmth by convection with no open flame (`ASH-007`, `ASH-009`, `ASH-048`). Adult, non-explicit
+contexts only, and no character under thirty (`ASH-016`, `ASH-036`; account craft standard, M13).
+"Brazier" is two letters from the Ionic Ground Bracer (`ARS-407`).
 
 ---
 
@@ -141,3 +153,22 @@ if that echo is unwanted.
   table: the Copper Wheel (one letter from Cooper, `CC-068`) or the Seventh Throw.
 - **[RULE NEEDED]** keys N6 (the Wicket), N7 (a stub), N13 (the Witness Return), N16 (a stubman),
   H5 (kimbia), H6 (jani), H7 (hazina): each stays a candidate until a rule sets the thing it names.
+
+---
+
+## (c) Propagation carried in the same batch (Gate step 3)
+
+These edits change the locked standard (`docs/lords-of-cian/voice/account-craft-standard.md`), so
+they are part of what Abad approves.
+- Every **[NAME NEEDED: key]** marker for a locked key (N1, N2a-c, N3, N4, N5, N8, N9, N10a, N11,
+  N12, N14, N15, H1-H4, H8-H13, A1) is replaced by the name and its LEX ID. N10b keeps its marker.
+- N12's two framings (section 4, Sovereign Trust variant; M12) become "common speech calls a posted
+  Trust notice the posted bill (`LEX-012`)", setting no form.
+- The deadpan-only lines are brought in line with the amended `VB-004`: section 1's Voice Bible
+  summary, R0.4, R15, R18, M1's drift, M4's opening, M7's ritual joke and opening, M9's tall
+  telling, and section 7, item 14. Each now says characters' talk in a told account may run as broad
+  as `VB-004` as amended allows, while narration stays at irony and understatement.
+- Section 1's stale "`VB-068` (proposed)" becomes "`VB-068`".
+- The naming table's header records which picks locked and which are held.
+- CLAUDE.md adds `LEX` to the rule-ID prefixes in use, as a new prefix for in-world common
+  vocabulary and venue names.
