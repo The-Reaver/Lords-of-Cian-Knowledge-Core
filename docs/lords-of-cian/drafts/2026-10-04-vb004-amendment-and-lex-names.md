@@ -1,6 +1,6 @@
 # VB-004 amendment and the account-craft vocabulary (LEX-001 to LEX-025)
 
-*Draft for Abad's approval, 2026-10-04 (revision 10, after the ninth independent review). Nothing here is locked. It carries out his rulings at
+*Draft for Abad's approval, 2026-10-04 (revision 11, after the tenth independent review). Nothing here is locked. It carries out his rulings at
 `VB-068`'s lock ("lock it, approve the picks, confirm all three"): the comic registers may run
 broader than `VB-004` in told accounts, set out as a `VB-004` amendment; and the approved picks from
 the naming table (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`, part (b))
@@ -20,33 +20,26 @@ than irony and understatement. A told account here means a Comrade Account, an A
 a Hearsay entry (`VB-067`), or a scene in any entry in which a character tells a story aloud
 (`VB-068`). For this amendment only, the teller's voice in a Comrade Account, an Adversary Account,
 or a Hearsay entry counts as characters' talk; its reliability stays as `VB-067` sets it. The
-registers are those of Abad's ruling at `VB-068`'s lock, each taken as every comic register the
-account craft standard sets out under it: R0.4 (in the homage World, ritual insult, signifying, call
-and response, and the toast, a long rhymed narrative of a badman's or trickster's exploits; on Cian,
-dock, forge, and Maw idiom, which carries a register listed here and licenses none by itself);
-escalating story rounds (R15); the performed telling (R18); M1, M4, M7, and M9, among them the
-tavern's growing comic story and its ridicule, the insult that means welcome, ridicule, the counter-
-boast, hazing into the register, the work break's ritual joke, ritual teasing, the teasing-in of new
-hands, yarns, and the sailor's tall telling; the corner's funny boast (M2); the barbershop's parting
-jab (M3); and the comic stories told at the family table (M6) and at wakes and remembrances (M11).
-Any other register stays at irony and understatement, whatever its idiom or World. A named exclusion
-controls over R15 and R18: M8's comic arc and its closing drink toast and M10's tall tales stay at
-irony and understatement even when performed or told in rounds. Outside a told account, every scene
-keeps irony and understatement, whatever room it is set in. This amendment changes no narration and
-no Dossier text, speech quoted in a Dossier included. Each designated narrator (`VB-020`), as
-narrator, as teller, and as a speaking character, keeps their own sheet (`VB-021` to `VB-025`).
-Every track voice ruling (`VB-020`, `VB-022`, `VB-024`, `VB-063`, `VB-064`, `VB-065`, `CC-034`) and
-every character's own voice (`VB-030`) still governs that character's diction, and the registers
-this amendment permits run inside it. Onyx's voice, narrating or through the grip, stays under
-`VB-063` alone. What any of these registers may claim stays with `VB-067` and `VB-068`: in a Comrade
-Account, a register that inflates a matter of fact is used only within `VB-067`'s Comrade bound, on
-a matter where a locked rule or reliable narration records the teller as mistaken or misled, or in
-secondhand relay, and traced. The 50% rule, the bar on phatic talk, fact over emotion, the banned
-words, and every hard constraint still apply. Every register this amendment permits stays non-
-explicit. Sexual talk in any of them is between adults only, with no minor present, addressed, or
-referenced, and no minor is the subject of a sexual insult, boast, or story (account craft standard,
-M1, M4, and section 7, item 17). No character under thirty appears in or near any Ashkeel setting,
-and no sexual detail reaches the page there (`ASH-016`, `ASH-036`; account craft standard, M13)."
+registers are every comic register the account craft standard sets out, as Abad ruled at `VB-068`'s
+lock; `VB-068` names among them R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9,
+and the comic stories of M6 and M11. R0.4's toast is a long rhymed narrative of a badman's or
+trickster's exploits, a register apart from M8's closing drink toast. Outside a told account,
+characters' talk in every scene keeps irony and understatement, whatever room it is set in. This
+amendment changes no narration and no Dossier text, speech quoted in a Dossier included. Each
+designated narrator (`VB-020`), as narrator, as teller, and as a speaking character, keeps their own
+sheet (`VB-021` to `VB-025`). Every track voice ruling (`VB-020`, `VB-022`, `VB-024`, `VB-063`,
+`VB-064`, `VB-065`, `CC-034`) and every character's own voice (`VB-030`) still governs that
+character's diction, and the registers this amendment permits run inside it. Onyx's voice, narrating
+or through the grip, stays under `VB-063` alone. What any of these registers may claim stays with
+`VB-067` and `VB-068`: in a Comrade Account, a register that inflates a matter of fact is used only
+within `VB-067`'s Comrade bound, on a matter where a locked rule or reliable narration records the
+teller as mistaken or misled, or in secondhand relay, and traced. The 50% rule, the bar on phatic
+talk, fact over emotion, the banned words, and every hard constraint still apply. Every register
+this amendment permits stays nonexplicit. Sexual talk in any of them is between adults only, with no
+minor present, addressed, or referenced, and no minor is the subject of a sexual insult, boast, or
+story (account craft standard, M1, M4, and section 7, item 17). No character under thirty appears in
+or near any Ashkeel setting, and no sexual detail reaches the page there (`ASH-016`, `ASH-036`;
+account craft standard, M13)."
 
 ---
 
@@ -64,15 +57,15 @@ everyday halls have their own word (**LEX-025**). Collision-checked clean.
 
 **LEX-002**. the Slack Hawser: a dockside tapstead (**LEX-001**) on Cian, named for a rope gone
 slack when a crew is off duty. Its harbor and keeper are fixed by the first entry that places it. "Slack" is one letter from Anirak's Stack (`ARS-439`), so the house is kept out of any
-scene where her Stack is named.
+scene where her Stack is named. Its trade, custom, or offices are drafted as their own rule (`VB-068`).
 
 **LEX-003**. the Tallow Lamp: a foundry-district tapstead (**LEX-001**) on Cian, named for cheap
 light. Its district and keeper are fixed by the first entry that places it. It is unconnected to
-the Tallow Road near Kesmara (`MCD-1689`).
+the Tallow Road near Kesmara (`MCD-1689`). Its trade, custom, or offices are drafted as their own rule (`VB-068`).
 
 **LEX-004**. the Last Bell: a Maw-side tapstead (**LEX-001**) on Cian where the crowd drinks after
 the night's final bout. Which Maw it stands near is fixed by the first entry that places it. It is
-unconnected to the Belly (Maw-3, `MAW-061`) and to the Last Ward (`ARS-390`).
+unconnected to the Belly (Maw-3, `MAW-061`) and to the Last Ward (`ARS-390`). Its trade, custom, or offices are drafted as their own rule (`VB-068`).
 
 **LEX-005**. the Call Yard: dockers' word on Cian for an open yard where a foreman calls the day's
 hands by name at dawn. It labels a dock practice and names no hiring office. "Yard" sits one letter
@@ -122,32 +115,32 @@ from Onyx's Whisper of Shadows (`ARS-020`).
 Each of these is used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
 **LEX-015**. the Shekere: a bar in the homage World, named for the beaded gourd rattle; a room that
-keeps time. Its territory and keeper are fixed by the first entry that places it.
+keeps time. Its territory and keeper are fixed by the first entry that places it. Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention. Its trade, custom, or offices are drafted as their own rule (`VB-068`).
 
-**LEX-016**. kibanda: homage-World street word for an after-hours spot (Swahili, "shack, kiosk").
+**LEX-016**. kibanda: homage-World street word for an after-hours spot (Swahili, "shack, kiosk"). Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
 **LEX-017**. kinyozi: homage-World word for a barbershop (Swahili, "barber"). Areíto's barbershop
-back room (`MCD-339`) is one. "Barbershop" stays usable in narration.
+back room (`MCD-339`) is one. "Barbershop" stays usable in narration. Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
-**LEX-018**. egbe: homage-World word for a social club (Yoruba, "society, club").
+**LEX-018**. egbe: homage-World word for a social club (Yoruba, "society, club"). Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
-**LEX-019**. oju: homage-World street word for a lookout (Yoruba, "eye").
+**LEX-019**. oju: homage-World street word for a lookout (Yoruba, "eye"). Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
 **LEX-020**. pembe: homage-World street word for a corner, and for the crew that holds it (Swahili,
-"corner"). "Corner" stays usable in narration.
+"corner"). "Corner" stays usable in narration. Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
 **LEX-021**. kete: a homage-World street game of slapped tiles (Swahili, the counters in a board
 game). It is a different game from Sankofa's dice games (`MCD-1023`). "Kete" is one letter from
-Keme (Soledad Keme, `MCD-095`), who belongs to Cian.
+Keme (Soledad Keme, `MCD-095`), who belongs to Cian. Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
 **LEX-022**. ulli: a homage-World yard ball game played before a crowd (from Nahuatl ōlli, "rubber,"
-the ball's material). It shares a root and a sound with Ollin (`PH2-023`).
+the ball's material). It shares a root and a sound with Ollin (`PH2-023`). Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
 **LEX-023**. baraza: homage-World word for a meeting in a union hall or church basement (Swahili,
-"council, open meeting").
+"council, open meeting"). Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
 **LEX-024**. ayie: the homage-World homegoing gathering after a death (Akan, "funeral gathering").
-It can run several days. Arturo's annual remembrance (`MCD-1024`) is a different, private custom.
+It can run several days. Arturo's annual remembrance (`MCD-1024`) is a different, private custom. Used in the homage World only (`MCD-313`), under `PH2-034`'s naming convention.
 
 ### Ashkeel
 
@@ -206,7 +199,8 @@ they are part of what Abad approves.
   World); `ASH-007`, `ASH-011`, `ASH-048` (convective heating, the halls' peace).
 - **Extends:** `VB-004`, with characters' talk in told accounts only; `MAW-064` and `MAW-087` with
   crowd and fighter slang that renames nothing.
-- **Touches:** the locked account craft standard (section (c) above); CLAUDE.md's prefix list and
+- **Touches:** `VB-068` (its spent "until the amendment locks" clause gets a short in-statement
+  amendment); the locked account craft standard (section (c) above); CLAUDE.md's prefix list and
   history; `ASH-051` (candles in use in Ashkeel, untouched by LEX-025); the mirrored Voice Bible's
   Pillar 3 "Permitted Humor" line (`docs/lords-of-cian/voice/voice-bible-definitive.md`, not edited
   here), which now differs from `VB-004` as amended in told accounts. The ledger rule controls, and
@@ -222,19 +216,14 @@ they are part of what Abad approves.
   posted bill"), because no posting procedure is held (`VB-068`). LEX-002 to LEX-004 and LEX-015
   read a named house's location and the identity of its keeper as plain place and person facts,
   outside `VB-068`'s "standing structure, office" clause; a house's trade, custom, or offices are
-  drafted as their own rule. `VB-068` records the ruling as covering the standard's comic registers
-  "including" R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic
-  stories of M6 and M11. The amendment takes that list as written, each listed rule or module
-  whole, and keeps every unlisted register at irony and understatement. **For Abad to confirm,
-  three points:** (1) Taking R0.4, M1, M4, M7, and M9 whole goes beyond the question he answered
-  (naming table, part (c), item 8, which named single registers): it adds call and response, the
-  Cian idiom, ridicule, the counter-boast, hazing, ritual teasing, the teasing-in of new hands,
-  yarns, and M9 entire. These rest on `VB-068`'s locked wording. (2) The unlisted moves stay deadpan:
-  M8's comic arc and its closing drink toast, M10's tall tales told to children, ritual insult at a
-  Cian corner (M2), and crowd jeering at a bout (M5); Cian idiom licenses no register by itself, so
-  it does not reach them. (3) Where a named exclusion meets R15 or R18, the exclusion controls. Any
-  he wants otherwise is changed in the amendment and in the standard's section 7, item 14. R0.4's
-  toast (a long rhymed narrative of a badman's or trickster's exploits) and M8's closing drink toast
-  are named apart so they never collide.
+  drafted as their own rule. `VB-068` records the ruling as covering "the standard's comic registers,
+  including" a named set. The amendment reads "including" as it stands: every comic register the
+  standard sets out may run broad in a told account, the named ones among them. **For Abad to
+  confirm:** this goes beyond the single registers he was asked about (naming table, part (c), item
+  8). It also reaches, for example, M8's comic arc and closing drink toast, M10's tall tales told to
+  children, ritual insult at a Cian corner (M2), M3's heckling, and crowd jeering at a bout (M5),
+  always inside the told-account, child-safety, and track-voice limits. If he wants any of these kept
+  at irony and understatement, the amendment and the standard's section 7, item 14 name them as
+  exclusions. R0.4's toast and M8's closing drink toast are named apart so they never collide.
 - **Names collision-checked:** all 25, against `canon-ledger.json` and every entry file, with
   near-collisions to edit distance 2 (naming table, part (b)).

@@ -15,6 +15,7 @@ STD = "docs/lords-of-cian/voice/account-craft-standard.md"
 TABLE = "docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md"
 
 def clean(t):
+    t = re.sub(r"-\n\s*", "-", t)
     return re.sub(r"\s+", " ", t.replace("`", "").replace("**", "")).strip()
 
 text = open(DRAFT, encoding="utf-8").read()
@@ -32,14 +33,19 @@ assert not set(lex) & set(byid)
 assert "Amended Batch 377" not in byid["VB-004"]["statement"]
 byid["VB-004"]["statement"] += (" " + amend + f" Abad's ruling at VB-068's lock: 'lock it, approve the picks, "
                                  f"confirm all three'; approval of this text: '{APPROVAL}'.")
+v68 = byid["VB-068"]
+assert "Amended Batch 377" not in v68["statement"]
+v68["statement"] += (" Amended Batch 377, 2026-10-04: the VB-004 amendment this rule anticipated is locked; "
+                     "it reads the ruling's 'including' as it stands, so every comic register the standard sets out "
+                     "may run broad in a told account, within VB-004 as amended.")
 for k in sorted(lex):
     d["rules"].append({"id": k, "category": CAT[k], "statement": lex[k], "status": "locked",
                        "source": SOURCE})
 d["batches_completed"].append({
-    "batch": 377, "source": SOURCE, "rules_affected": 26,
+    "batch": 377, "source": SOURCE, "rules_affected": 27,
     "note": ("VB-004 amended: in a told account (a Comrade Account, Adversary Account, or Hearsay entry, or "
-             "a storytelling scene), characters' talk may use the comic registers Abad ruled on at VB-068's "
-             "lock; narration, Dossier text, designated narrators, and track voice rulings stay as before; "
+             "a storytelling scene), characters' talk may use every comic register the account craft standard "
+             "sets out, per Abad's ruling at VB-068's lock (VB-068 amended to record it); narration, Dossier text, designated narrators, and track voice rulings stay as before; "
              "child-safety line added. LEX-001 to LEX-025 lock the approved vocabulary picks (a new LEX "
              "prefix for in-world common vocabulary and venue names); N10b and the RULE NEEDED keys held. "
              "LEX-025 fixes one hall feature (a stone basin over a sealed heat-gallery, no open flame). "
@@ -82,9 +88,6 @@ REPL = [
      """  The toast is a long rhymed narrative of a badman's or trickster's exploits. In characters' talk in
   a told account, each may run as broad as `VB-004` as amended (Batch 377) allows; otherwise each is
   written through irony and understatement only (`VB-004`)."""),
-    ("""Mainline tellers carry dock, forge, and
-  Maw idiom under the same limit.""", """Mainline tellers carry dock, forge, and
-  Maw idiom; it runs broad only inside a register `VB-004` as amended lists."""),
     ("- A dock hiring place, if one is drafted: **[NAME NEEDED: N3]**.",
      "- The dock hiring yard: the Call Yard (`LEX-005`)."),
     ("""Its exaggeration or edge
@@ -124,7 +127,7 @@ whatever the register (`VB-004` as amended, Batch 377)."""),
   - street game: kete (`LEX-021`)"""),
     ("""    and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).""",
      """    and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).
-    In a told account, every comic register stays non-explicit; sexual talk is between adults only,
+    In a told account, every comic register stays nonexplicit; sexual talk is between adults only,
     with no minor present, addressed, or referenced, and no minor is the subject of a sexual insult,
     boast, or story (`VB-004` as amended, Batch 377)."""),
     ("- *Open:* ritual teasing, deadpan (`VB-004`).",
@@ -143,7 +146,7 @@ for a, b in REPL:
 # section 7 item 14 humor bullet
 i = s.index("    - Humor is irony and understatement only (`VB-004`). Every comic register")
 j = s.index("    - No balanced antithesis", i)
-s = s[:i] + "    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`), whatever\n      room a scene is set in. In a told account, characters' talk may use only the comic registers\n      `VB-004` as amended (Batch 377) lists, each listed rule or module taken whole: R0.4 (in the\n      homage World, ritual insult, signifying, call and response, and the toast, a long rhymed\n      narrative of a badman's or trickster's exploits; on Cian, dock, forge, and Maw idiom, which\n      carries a listed register and licenses none by itself); R15; R18; M1, M4, M7, and M9; M2's\n      funny boast; M3's parting jab; and the comic stories of M6 and M11. Any other register stays\n      at irony and understatement, whatever its idiom or World. A named exclusion controls over R15\n      and R18: M8's comic arc and its closing drink toast and M10's tall tales stay at irony and\n      understatement even when performed or told in rounds. For this purpose the teller's voice in a\n      Comrade Account, an Adversary Account, or a Hearsay entry counts as characters' talk, its\n      reliability as `VB-067` sets it. In a Comrade Account, a register that inflates a matter of\n      fact is used only within `VB-067`'s Comrade bound, traced (§4.1, item 7). The 50% rule, the\n      phatic bar, fact over emotion, and every hard constraint still apply. The amendment changes no\n      narration and no Dossier text, speech quoted in a Dossier included. Each designated narrator,\n      as narrator, as teller, and as a speaking character, keeps their own sheet (`VB-021` to\n      `VB-025`). Every track voice ruling and every character's own voice (`VB-030`) still governs\n      that character's diction, and these registers run inside it. Onyx stays under `VB-063` alone.\n      Every such register stays non-explicit (item 17).\n" + s[j:]
+s = s[:i] + "    - Outside a told account, characters' talk keeps irony and understatement (`VB-004`), whatever\n      room a scene is set in. In a told account, characters' talk may use every comic register this\n      standard sets out, as broad as `VB-004` as amended (Batch 377) allows; `VB-068` names R0.4,\n      R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and\n      M11 among them. R0.4's toast is a long rhymed narrative of a badman's or trickster's exploits,\n      a register apart from M8's closing drink toast. For this purpose the teller's voice in a\n      Comrade Account, an Adversary Account, or a Hearsay entry counts as characters' talk, its\n      reliability as `VB-067` sets it. In a Comrade Account, a register that inflates a matter of\n      fact is used only within `VB-067`'s Comrade bound, traced (§4.1, item 7). The 50% rule, the\n      phatic bar, fact over emotion, and every hard constraint still apply. The amendment changes no\n      narration and no Dossier text, speech quoted in a Dossier included. Each designated narrator,\n      as narrator, as teller, and as a speaking character, keeps their own sheet (`VB-021` to\n      `VB-025`). Every track voice ruling and every character's own voice (`VB-030`) still governs\n      that character's diction, and these registers run inside it. Onyx stays under `VB-063` alone.\n      Every such register stays nonexplicit (item 17).\n" + s[j:]
 # R0.4 ruling note
 a = """  - Abad ruled at `VB-068`'s lock that these registers may run broader in told accounts. The
     broader registers apply once the `VB-004` amendment that sets them out locks. Until then,
@@ -174,7 +177,8 @@ a = "Part (b)'s approved picks lock as their own rules; nothing in part (b) is u
 assert t.count(a) == 1
 t = t.replace(a, "Part (b)'s approved picks locked as `LEX-001` to `LEX-025`, Batch 377; N10b and the "
                  "[RULE NEEDED] keys (N6, N7, N13, N16, H5, H6, H7) are held. Part (c), item 8 is resolved by "
-                 "`VB-004` as amended, Batch 377.")
+                 "`VB-004` as amended, Batch 377. Two picks locked with a change: N12 recast as common speech, "
+                 "'the posted bill' (`LEX-012`); A1's brazier locked as a flameless stone basin (`LEX-025`).")
 open(TABLE, "w", encoding="utf-8").write(t)
 
 # --- propagation: CLAUDE.md prefix list ---
