@@ -60,9 +60,9 @@ SING = re.compile(r"\b((?:[Aa]|any|every|(?:the\s+)?\*?(?:[Ff]irst|[Ss]econd|[Tt
 PLUR = re.compile(r"\b(the\s+four\s+" + TERR + r"\s+Annals)\b(?!\s+entr)")
 FIXES = [
     (re.compile(r"\b(\d+)-wave\b"), r"\1-entry wave"),
-    (re.compile(r"\bfirst-Annals entry level\b"), "first-entry level"),
-    (re.compile(r"\bfive-Annals entry (run|arc)\b"), r"five-entry \1"),
-    (re.compile(r"\bterritory-Annals entry (coverage|convention|file-naming)\b"), r"territory-Annals \1"),
+    (re.compile(r"\bfirst-Annals entry(\s+)level\b"), r"first-entry\1level"),
+    (re.compile(r"\bfive-Annals entry(\s+)(run|arc)\b"), r"five-entry\1\2"),
+    (re.compile(r"\bterritory-Annals entry(\s+)(coverage|convention|file-naming)\b"), r"territory-Annals\1\2"),
     (re.compile(r"full(\s+)ledger(\s+)and(\s+)Collection(\s+)corpus"), r"full\1ledger\2and\3entry\4corpus"),
     (re.compile(r"across(\s+)other(\s+)Annals(\s+)of\b"), r"across\1other\2Annals entries\3of"),
     (re.compile(r"a Annals entry-numbering(\s+)writers'-room leak \(\"three Annals before\""),

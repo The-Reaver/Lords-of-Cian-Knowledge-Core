@@ -38,14 +38,15 @@ It sits under three rules and never loosens any of them.
   account, Series narration included, states a fact about an institution that no locked rule holds;
   such a fact is drafted as its own rule." The bar binds every account and every narration. An
   unreliable teller's false claim about an institution is locked only as said (`VB-067`), and its
-  trace is a locked rule that holds the truth. This standard governs *how* accounts sound. What they may say stays with `VB-067` and
-  `VB-068`. Where this standard and either rule seem to differ, the rule controls.
+  trace is a locked rule that holds the truth. This standard governs *how* accounts sound. What they
+  may say stays with `VB-067` and `VB-068`. Where this standard and either rule seem to differ, the
+  rule controls.
 - **The Voice Bible** (`VB-001` to `VB-005`, `VB-010` to `VB-013`, `VB-040`, `VB-050`) binds every
   sentence of every account, and so do the track rulings `VB-063` (Onyx), `VB-022` (Red Beard's
   Testaments), `VB-064` (Lauris's Records) and `VB-065`, with `CC-034` and `VB-024` for Ezio's
   Exhibits. That means no phatic talk, the 50% dialogue cut, no balanced antithesis, none of the
-  banned words or borrowed terms, and the Density Spike never named. Section 2.0 shows how real talk survives those
-  constraints.
+  banned words or borrowed terms, and the Density Spike never named. Section 2.0 shows how real talk
+  survives those constraints.
 - **The Connective-Tissue Gate** (CLAUDE.md, third rule) checks every account before Abad sees it.
   Section 7 is this standard's half of that gate.
 
@@ -107,11 +108,10 @@ in its filler words.
   Only the complicating action is required. A teller who gives action with no evaluation is
   *reporting* (a scout, a clerk, a frightened witness). A teller who gives evaluation with almost
   no action is gossiping or boasting.
-- **R2. Evaluation thickens just before the climax and holds the action.** [STRONG; 01 F1; †Labov 1972]
-  Give
-  the teller a stall at the high point: a comparator (what did not happen), a negative ("Nobody
-  drew"), or quoted inner speech ("Thought: that's me done"). The longer the stall, the more the
-  moment meant.
+- **R2. Evaluation thickens just before the climax and holds the action.** [STRONG; 01 F1; †Labov
+  1972] Give the teller a stall at the high point: a comparator (what did not happen), a negative
+  ("Nobody drew"), or quoted inner speech ("Thought: that's me done"). The longer the stall, the
+  more the moment meant.
 - **R3. Codas close back to now.** [STRONG; 01 F1; †Labov 1972] The coda shows what the teller
   thinks the story was for.
   - *"No bridge at the ford since."*
@@ -129,15 +129,15 @@ in its filler words.
   4. An exit tied back to the trigger.
 
   A teller who skips the go-ahead reads as urgent or rude: a messenger bursting in.
-- **R6. Status decides who judges, not only who tells.** [MODERATE; 01 F8; †Norrick 1997; 06 §2.6] The senior
-  person at the table says little and evaluates ("And you let him?"). A story told upward gets
-  judged, not joined.
+- **R6. Status decides who judges, not only who tells.** [MODERATE; 01 F8; †Norrick 1997; 06 §2.6]
+  The senior person at the table says little and evaluates ("And you let him?"). A story told upward
+  gets judged, not joined.
 
 ### 2.3 Entitlement and sources
 
 - **R7. Being there is a right to tell.** [STRONG for epistemic marking, MODERATE for entitlement;
-  01 F5; †Heritage 2012] A witness may tell it and feel it. A secondhand teller must defer or show the source, and
-  those rights weaken with each relay.
+  01 F5; †Heritage 2012] A witness may tell it and feel it. A secondhand teller must defer or show
+  the source, and those rights weaken with each relay.
   - A widow corrects a bystander in one line: *"You didn't see his face."*
 - **R8. Evidential stacking marks distance from the event.** [STRONG; 01 F5; †Heritage 2012] It
   needs no grammar and no technology.
@@ -323,8 +323,9 @@ written as a tell, and the error itself surfaces only through contradiction (R25
 | **Across tellings** | Core holds; edges drift [MODERATE; 04 F10; †Vredeveldt et al. 2014, pages]. | Each relay shorter and sharper. | Drifts toward its past purpose; grows surer [STRONG; 05 F7; †Marsh 2007]. | A stable script; adds defensive specifics ("…and old Gudrun saw me go") [MODERATE; 04 F11]. |
 | **Exposed by** | Not applicable. | A direct witness or a record. | A physical fact or a co-witness; genuine surprise. | Rarely in the scene. Later: a third party, an object, two accounts compared [STRONG; 04 F8; †Hartwig et al. 2007]. |
 
-**The performer** (informed or uninformed, performing). Escalates in story rounds, uses theatrical intensifiers, takes no offense at
-"Aye, sure." The room shares the frame [MODERATE; 06 §2.7; STRONG for the genre frame; 06 §2.9].
+**The performer** (informed or uninformed, performing). Escalates in story rounds, uses theatrical
+intensifiers, takes no offense at "Aye, sure." The room shares the frame [MODERATE; 06 §2.7; STRONG
+for the genre frame; 06 §2.9].
 
 **The sincere self-justifier** (mistaken about his own act).
 - Fluent and relaxed; makes ordinary memory corrections on trivia and none on the harm.
@@ -359,7 +360,8 @@ person present is swapped. Keep the true stretches dense and let the texture thi
 lied point. Never flag the drop.
 
 **Liars are rare. Prolific liars are rarer and lie constantly.** [STRONG; 04 F2; †Serota & Levine
-2015, DePaulo et al. 1996] A world of fluent liars reads false. One man who lies the way others breathe, half-believed by everyone, reads true.
+2015, DePaulo et al. 1996] A world of fluent liars reads false. One man who lies the way others
+breathe, half-believed by everyone, reads true.
 
 ---
 
@@ -457,15 +459,16 @@ lied point. Never flag the drop.
   - A kill claim that departs from the locked record, unless a locked rule, or Series or type-none
     narration, records this teller as mistaken or misled about that kill, or the teller relays it
     secondhand. Only then may the account *inflate* or *soften* the kill, and the gate note traces
-    the departure to that record and to `CC-161`, `CC-162`, `CC-164` and `MCD-1882`. Any other kill the
-    teller tells locks as fact and agrees with those rules.
+    the departure to that record and to `CC-161`, `CC-162`, `CC-164` and `MCD-1882`. Any other kill
+    the teller tells locks as fact and agrees with those rules.
 - **Gate checklist.**
   - [ ] Teller named in the header (`VB-067`); listener identified on the page, never as a label.
   - [ ] Every event the teller claims to have witnessed sits inside their locked presence and dates.
   - [ ] Relayed material carries source tags (R8).
   - [ ] Every departure from the truth sits on a matter where a locked rule, or Series or type-none
     narration, records this teller as mistaken or misled, or in secondhand relay. It is
-    honest-memory drift (§3.2), traced to that rule or narration. Another Comrade Account never serves as the trace.
+    honest-memory drift (§3.2), traced to that rule or narration. Another Comrade Account never
+    serves as the trace.
   - [ ] Everything else the teller tells of their own sector, or witnessed outside it, agrees with
     canon, since it locks as fact.
   - [ ] Crew vocabulary is era-correct: "Captain" is the crew's own word (`MCD-395`), and the
@@ -1559,7 +1562,8 @@ interrogation holds only the questioner, the teller, and any clerk.
 - Statement against evidence: the ledger, the log, an earlier statement, a second witness.
 - The honest teller adjusts the edges and keeps the core. The liar fits the story to each fact as
   it lands, too neatly and too late (§3.2).
-- The questioner's own words come back in the witness's answer (misinformation absorbed, 05 F3; †Loftus & Palmer 1974).
+- The questioner's own words come back in the witness's answer (misinformation absorbed, 05 F3;
+  †Loftus & Palmer 1974).
 
 **Outsider**
 - Everyone but the officials stands outside. A teller with standing (a known name, a guild, a
@@ -1638,10 +1642,10 @@ item failed is fixed, and the draft goes back through the gate before it is pres
 2. **Listener** (told accounts only). The page gives an identified listener: named, or identified
    by description where a locked rule keeps them unnamed (`PH2-048`, `MCD-1093`). The account
    visibly bends to them (R19; 08 F9).
-3. **Setting.** One module applies to a told account, and to any scene set in a module's room,
-   or, where no module fits, the setting is stated and the nearest module's laws S1-S3 are
-   applied. The module's floor, brag/fact line, memory-holder and outsider handling are honored. A venue named in canon
-   is cited; a gap is not filled with an invented name until the name is locked.
+3. **Setting.** One module applies to a told account, and to any scene set in a module's room, or,
+   where no module fits, the setting is stated and the nearest module's laws S1-S3 are applied. The
+   module's floor, brag/fact line, memory-holder and outsider handling are honored. A venue named in
+   canon is cited; a gap is not filled with an invented name until the name is locked.
 4. **Teller state** (told accounts only; §3) is chosen. The page shows it through verbal pattern and
    outside fact, never through body language (R24), and no label names it. An honest error surfaces
    only through contradiction (R25).
@@ -1667,9 +1671,9 @@ item failed is fixed, and the draft goes back through the gate before it is pres
 8. **No new institution facts.** No account, Series narration included, states a fact about an
    institution that no locked rule holds; such a fact is drafted as its own rule (`VB-068`), a
    **[RULE NEEDED]** draft for Abad. An unreliable teller's false claim about an institution is
-   locked only as said (`VB-067`) and traces to a locked rule that holds the truth.
-   Header fields and procedure use locked vocabulary or plain words, and the templates' optional
-   fields assert no institutional practice (§4.3).
+   locked only as said (`VB-067`) and traces to a locked rule that holds the truth. Header fields
+   and procedure use locked vocabulary or plain words, and the templates' optional fields assert no
+   institutional practice (§4.3).
 
 ### C. Era and world
 9. **Era.**
