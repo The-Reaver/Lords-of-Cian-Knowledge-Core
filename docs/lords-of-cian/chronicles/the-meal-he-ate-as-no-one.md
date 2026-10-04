@@ -17,8 +17,7 @@ low and thrilled, the way people told stories they wanted to be true more than t
 speak at all. Just points, and whatever he points at burns."
 
 He ate his meal slowly, listening without comment, cataloguing the drift with the same flat attention
-he gave any operational report — none of it true, exactly, and none of it entirely a lie either,
-each version some fragment of an actual night reshaped by three tellings and a listener's own need
+he gave any operational report: each version a fragment of an actual night, reshaped by three tellings and a listener's own need
 for the story to be larger than a man doing a difficult, specific job.
 
 An old sailor two tables over, quieter than the rest, offered the only account that made him pause

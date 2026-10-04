@@ -32,9 +32,9 @@
 - `CC-022` / `CC-023` / `MAW-121` / `MAW-084` — Red Beard's public density is 4,800x; his true, secretly-Ozmund-trained density is 16,000x. He defected bringing ~150,000 Cestari. He is *the sole named exception* to the Cestari tradition of crediting liberation to impersonal "Weather" rather than an individual — because he alone knows who built the door, and chose Ozmund's door over Kanja's not because Ozmund's cause was more just, but because **Ozmund saw the Cestari as soldiers, not victims.**
 - `CC-071` — Valeria Korth perceives the Crown-Scar as a "thread" in her web. She has told Kanja, not Ozmund — judged "not hers to cut." **Ozmund does not know Kanja was told this by Valeria specifically**, or possibly does not know Kanja knows at all. Live asymmetry, never dramatized.
 - `CC-082`–`CC-084` — Cassius Verehimu, "the False Lion": corrupt younger-branch cousin, one of four principals behind Aethelgard's assassination, financially insolvent, wants the crown to liquidate the House's assets rather than to rule. Also carries the Crown-Scar — in him it manifests as "will-to-dominate without the discipline to contain it," explicitly **the Crown-Scar's worst expression**, set against Ozmund's own disciplined one.
-- `CC-085` — Colonel Viktor Draconis, High Commander of the Verehimu House Guard: genuinely loyal, doesn't know Ozmund is a Gravity Titan, thinks his entry into the Accession Games as a gladiator is madness or cowardice. "The most dangerously wrong man of the Interregnum" — loyalty Ozmund can't fully use because it's built on a fundamental misunderstanding of him.
+- `CC-085` — Colonel Viktor Draconis, High Commander of the Verehimu House Guard: genuinely loyal, doesn't know Ozmund is a Gravity Titan, thinks his entry into the Accession Games as a fighter is madness or cowardice. "The most dangerously wrong man of the Interregnum" — loyalty Ozmund can't fully use because it's built on a fundamental misunderstanding of him.
 - `CC-087` — Lucius Blackthorne, SBD double agent embedded in Verehimu nobility: engineered the Scrip-Insolvency Trap so Ozmund's ascension would trigger automatic estate liquidation — the throne itself was a financial snare.
-- `CC-090` — Grulak, "the Foundry-Beast": narrative mirror. Both massive, both dense, both fighting in the Accession Games arena — but Grulak's power is "purchased and synthetic" where Ozmund's is "sacred... earned through 201 years of disciplined living." Grulak walked through a labor strike at 900x (the Outer-Rim Massacre), covered up as a Mining Accident.
+- `CC-090` — Grulak, "the Foundry-Beast": narrative mirror. Both massive, both dense, both fighting in the Accession Games — but Grulak's power is "purchased and synthetic" where Ozmund's is "sacred... earned through 201 years of disciplined living." Grulak walked through a labor strike at 900x (the Outer-Rim Massacre), covered up as a Mining Accident.
 
 ### Abilities / gear
 - `ARS-060` — Personal kit: Dragondal (warhammer), Shadow's Whisper (short sword), Crown-Gauntlets.
@@ -134,7 +134,7 @@ explicitly where I'm inferring rather than quoting a locked fact.
   cousins) are either well-meaning and wrong about him, or family and lethal.
   - **Draconis, specifically — a purity test he doesn't know he's taking.** Draconis's loyalty is
     built on a fundamental misunderstanding (he doesn't know Ozmund is a Gravity Titan, thinks his
-    Accession Games gladiator run is madness or cowardice) — and Ozmund privately lets it stay that
+    Accession Games run is madness or cowardice) — and Ozmund privately lets it stay that
     way. It functions, whether or not he'd put it in these terms, as proof that at least one person
     would still be loyal to him as "just a man," not because of what his power can do for them — a
     control case none of his other relationships can offer, precisely because everyone else close to
@@ -186,13 +186,13 @@ and Maro Rexmar (`MCD-025`). Nothing set during or after the Accession Games / M
 building era gets drafted until he explicitly reopens that window.**
 
 **Deferred pitches — fire once Abad reopens Book-1-era territory:**
-- **"What the Arena Doesn't Know He's Hiding"** — set during the Accession Games gladiator run, a
+- **"What the Crowd Doesn't Know He's Hiding"** — set during the Accession Games run, a
   match before Grulak; Ozmund deliberately underperforms/disguises his true density to protect his
   "just a man" cover. Can't be pre-ceremony — the Games only exist because the throne is vacant after
   Aethelgard's murder. Fully deferred, not reworkable into the pre-Book-1 window.
 - **"What the Ceremony Didn't Let Him Feel"** — the Fulfillment Ceremony itself, from Ozmund's side.
   Sits exactly on the boundary (it *is* the murder) — better suited as a capstone closing a pre-Book-1
-  run than as an opener. Deferred alongside the Arena pitch, for the same later conversation.
+  run than as an opener. Deferred alongside the Crowd pitch, for the same later conversation.
 
 **Narrator/voice:** Red Beard (Tarn Cestari) narrates, per `VB-020`/`022`/`CC-020`, same register as
 his POV chapters in the main books — including scenes set before he and Ozmund had met, framed as
