@@ -459,8 +459,9 @@ no inner monologue, no human reasoning, and no motive their rules do not already
 - three bond hierarchies built to the same shape, each with Pyro first (`CC-095`, `CC-097`,
   `CC-099`).
 
-No Guardian has any locked history of its own apart from the other two, except Varruk's Dog Watch
-sighting (`MCD-277`). Three separate profiles would invent three separate inner lives that canon
+No Guardian has any locked pre-Book-1 history of its own apart from the other two, except Varruk's
+Dog Watch sighting (`MCD-277`); Varkul's own material (`CC-123`, Book 2; `SBD-020`, `SBD-044`) lies
+later or in SBD files. Three separate profiles would invent three separate inner lives that canon
 does not give them. Each facet below states what the three share, then the register each Guardian
 carries it in: Varkul holds, Sorya remembers, Varruk finds the way.
 
@@ -478,8 +479,8 @@ written under the recommended answer and says where it depends on one.
   `ARS-200`). Pyro's mother was the last keeper of their tradition (`MCD-040`, `MCD-136`); this
   option asserts nothing about where, or by whom, the three were kept before 290 (TB1). After
   Pyro's natural birth, within the same event (`MCD-022`, `MCD-132`), she inverted the Gate into a
-  forge (`MCD-131`). What the forge made was the bond: it sealed the imprint between the three
-  juveniles and the newborn (`MCD-270`), and she pushed them outward through the inversion before
+  forge (`MCD-131`). New fact: what the forge made was the bond; it sealed the imprint between the
+  three juveniles and the newborn (`MCD-270`). She pushed them outward through the inversion before
   her fusion completed (`MCD-131`, already worded this way). Varruk's sighting 42 years earlier
   (`MCD-277`) stands. Scope: `WC-017`'s "producing the Triad Guardians" and `CC-046`'s "produced"
   become "sending out the Triad Guardians, bonded to him," and `WC-017`'s "before Pyro was born"
@@ -494,22 +495,24 @@ written under the recommended answer and says where it depends on one.
 
 **TA2. How the bond was completed, and how a Guardian seen at Kanja 248 is still "juvenile" at 290
 (findings 2, 3).**
-- **Option 1 (recommended): the keyed bond and the open window.** As last keeper, the mother keyed
-  the three to the child she was carrying before the curse took hold (`MCD-022`, `MCD-136`). The
-  imprint itself completed within the birth event, after the natural birth, as she pushed them out
-  through the inverted Gate, and the forge sealed it permanently (`MCD-270`, `MCD-132`,
-  `MCD-131`). The juvenile window of `MCD-040` is the unbonded state: a Dhar-Kael stays juvenile
+- **Option 1 (recommended): the keyed bond and the open window.** New fact, recasting `MCD-022`
+  and `MCD-136`'s "was completed" as a keying: as last keeper, the mother keyed the three to the
+  child she was carrying before the curse took hold (`MCD-022`, `MCD-136`). The imprint itself
+  completed within the birth event, after the natural birth, as she pushed them out through the
+  inverted Gate (`MCD-270`, `MCD-132`, `MCD-131`). New fact: the forge sealed it permanently. The juvenile window of `MCD-040` is the unbonded state: a Dhar-Kael stays juvenile
   until it imprints, however long that takes, and matures only after. All three could therefore be
   "juvenile" at 290 whatever their age, Varruk included. New fact: imprint ends the juvenile window.
   Consequence: the Triad grew up alongside Pyro, small and young at the Pyro Incident (Kanja 296,
-  `MCD-277`) and grown by Book 1. Scope: clarifying clauses on `MCD-040`, `MCD-022`,
-  `MCD-136`, and `CC-046`.
+  `MCD-277`) and grown by Book 1. Scope: clarifying clauses on `MCD-040`, on `MCD-022`'s and
+  `MCD-136`'s "completed" (the bond keyed beforehand, the imprint completed at the birth event),
+  and on `CC-046`.
 - **Option 2: a long-lived clade with a long juvenile stage.** Juvenility lasts a century or more,
   with no link to imprinting. No new mechanism is needed, and how the three came to maturity by
   Book 1 stays unexplained.
 - **Option 3: a different Oath-Raptor at the Dog Watch.** Amend `MCD-277` so the bird seen at 248
-  is not Varruk. That bird would be a fourth Dhar-Kael, against "three survivors remain"
-  (`MCD-040`) and `ARS-200`.
+  is not Varruk. `MCD-040` and `ARS-200` count present survivors, so a fourth bird that died before
+  290 breaks neither. Cost: amending `MCD-277`, and a death for the fourth bird that a new fact must
+  supply.
 
 **TA3. What Sorya's Oath is, and what the Triad know of Pyro's history (findings 11, 12).**
 - **Option 1 (recommended): the Oath is the keeper's vow.** New fact: the Oath is the vow Pyro's
@@ -522,8 +525,9 @@ written under the recommended answer and says where it depends on one.
   the three (finding 12): Varkul holds through will (`CC-095`), Varruk through the path (`CC-099`),
   Sorya through the vow. With eidetic recall across every sense (`CC-096`), she carries the keeper
   and the night of the Gate up to the moment she was pushed out, which is why she is the one who
-  can show Pyro his history from outside his own view (`ARS-414`). That memory needs no claim that
-  the keeper raised the three (TB2): the keeper's contact in completing the bond (`MCD-022`,
+  can show Pyro his history from outside his own view (`ARS-414`). What she shows under `ARS-414`
+  covers his father's identity only; his mother's survival stays reserved unless Abad rules
+  otherwise. That memory needs no ruling on whether the keeper raised the three (TB2): the keeper's contact in completing the bond (`MCD-022`,
   `MCD-136`) and the Gate night itself (`MCD-131`) are enough. Open question for Abad: whether she
   knows Kanja is the father. This option leaves it open, because that adds no new fact; a ruling
   that she knows would need one more new fact for how she learned it (for instance, Kanja present
@@ -549,15 +553,16 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
     the curse took hold (`MCD-022`). On the night of the Gate, after the birth, she pushed them out
     through the inverted Gate just before her fusion completed (`MCD-131`). The imprint and the
     loss of the keeper fall within one event (`MCD-132`, `MCD-270`). For animals, the formative
-    event shows in what they do afterward: they never let distance open around Pyro.
+    event shows in what they do afterward: none of them is out of reach of Pyro for long, and
+    Varruk ranges on a line back to him (`CC-099`).
   - **Varkul** carries it in the body. Separation from Pyro strains him physically (`CC-095`).
   - **Sorya** carries it in memory. She holds the keeper and that night up to the moment she was
     pushed out (`CC-096`, `MCD-131`).
   - **Varruk** is the only one with a life the fleet saw before the Gate (`MCD-277`). He ranged
     before the bond and ranges still, always on the safe path back to Pyro (`CC-099`).
 - **Defense mechanisms (PROPOSED -- for Abad's confirmation):**
-  - **Shared: closeness and overwatch.** All three stay within reach of Pyro, and in danger they
-    work as one: Sorya's Witness Shriek confuses every sense in range for about three seconds, and
+  - **Shared: closeness and overwatch.** None of the three is out of reach of Pyro for long, and
+    Varruk ranges on a line back to him (`CC-099`, `CC-098`). In danger they work as one: Sorya's Witness Shriek confuses every sense in range for about three seconds, and
     Varkul and Varruk use it to pull him out (`ARS-414`).
   - **Varkul: mass and refusal of pain.** He fights by blunt-force mass displacement (`CC-094`),
     shrugs off pain and fatigue (`CC-095`), and carries armor only Drakma-forged weapons or
@@ -571,7 +576,7 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
 - **Values -- what they will not compromise (PROPOSED -- for Abad's confirmation):**
   - **Shared: Pyro first.** Each hierarchy puts him at the top (`CC-095`, `CC-097`, `CC-099`).
   - **Varkul: Pyro, then the ship, then the crew** (`CC-095`). The Guardian Clause confines the
-    Harrow Ring to Pyro-vowed defense and to nothing else (`ARS-412`).
+    Harrow Ring to Pyro-vowed defense (`ARS-412`).
   - **Sorya: Pyro, then the Oath, then the ship.** When Pyro and the Oath conflict, the Oath wins,
     and she corrects anyone who breaks a sworn vow, Kanja and Pyro included (`CC-097`).
   - **Varruk: Pyro, then the pattern, then the ship.** He takes the safest path to Pyro over the
@@ -588,8 +593,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
   - **Sorya.** She ranks Pyro first and still holds a vow above him when the two collide
     (`CC-097`).
   - **Varruk.** He is the most visibly bonded of the three in daily life (`CC-099`), and on a
-    path he still guides only by refusal, never by warning (`CC-098`). The Guardian the crew sees
-    most often beside Pyro shows the way only by where he will not go.
+    path he still guides only by refusal, never by warning (`CC-098`). The most visibly bonded of
+    the three, keeping overwatch above him (`CC-099`), shows the way only by where he will not go.
 - **Relationship patterns (PROPOSED -- for Abad's confirmation):**
   - **Pyro.** The bond itself, permanent and his alone (`CC-048`). Each Guardian shows it in its
     own register (`CC-095`, `CC-097`, `CC-099`), and together they keep him steady (`ARS-421`).
@@ -613,8 +618,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
   - **Shared.** Blight Frequencies and Abyssal Bile-Salts degrade each of them (`CC-095`,
     `CC-097`, `CC-099`). When the last of the three dies, the clade is extinct (`MCD-040`).
   - **Varkul.** Extended separation from Pyro (`CC-095`). Discovering the SBD's watch over him turns
-    him aggressive (`SBD-044`), and the Guardian Clause holds the Harrow Ring back from that anger
-    unless Pyro is the one in danger (`ARS-412`).
+    him aggressive (`SBD-044`). Proposed reading of `ARS-412`'s "Pyro-vowed defense": the Guardian
+    Clause holds the Harrow Ring back from that anger unless Pyro is the one in danger.
   - **Sorya.** The Oath Paradox, two valid oaths in conflict, is the only thing that breaks her calm
     (`CC-097`).
   - **Varruk.** Enclosed spaces ground him, and overusing his own frequency projection disorients
@@ -632,13 +637,19 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
 - **TB1. Where the three lived before 290, and where the bond happened (findings 3, 4).**
   Recommended: the birth and the bonding at the Living Gate cavern, the real site of `MCD-269`,
   which gives Kanja's 12 km line a fixed point (`MCD-270`). Varruk is the one the fleet saw at the
-  Dog Watch (`MCD-277`). Where the three lived before 290, and in whose care, stays open, within
-  `SBD-041`'s constraint that the keeper did not raise them (TB2).
-- **TB2. Which part of Dexton's claim is false (finding 5).** `SBD-041` locks the natural birth as
-  the file's "one accurate element." Everything else in its Triad claim is therefore false, "the
-  Triad raised from birth by Pyro's mother in her own Shattered Kingdoms homeland" included: the
-  keeper did not raise them. No `SBD-041` clause is needed, and this file asserts no custody of the
-  three before 290. Her homeland stays open. Any entry quoting the file locks it only as said (`VB-067`).
+  Dog Watch (`MCD-277`). Where the three lived before 290, and in whose care, stays open; TB2
+  sets out what `SBD-041` does and does not decide about the keeper's custody.
+- **TB2. Which part of Dexton's claim is false (finding 5).** `SBD-041` calls the natural birth the
+  file's "one accurate element," yet the same file's "Kanja's wife" is also true (`CC-046`,
+  `WC-017`), so the phrase is not an exhaustive list. Its claim "the Triad raised from birth by
+  Pyro's mother in her own Shattered Kingdoms homeland" is locked false as a whole, and it can fail
+  on any one part: "raised," "from birth," or "homeland." Two options, for Abad's ruling.
+  - **Option (i), a proposed new fact:** the keeper did not raise them.
+  - **Option (ii), a proposed new fact:** she kept them, but not from their birth, or not in a
+    homeland. This sits more easily with `MCD-040`'s "last keeper" and with this profile's
+    throughline.
+  - TA1 and TA3 stand under either option; neither depends on custody before 290. Her homeland
+    stays open. Any entry quoting the file locks it only as said (`VB-067`).
 - **TB3. Varkul's two names (finding 6).** Recommended: "Drown-Warden" is the crew's and the
   Codex's epithet (`CC-049`); "Miremaw" is the SBD's own field name for him (`SBD-020`, `SBD-044`),
   the kind of name the Continuity Lock now strips from new titles (`CULT-199`). A clarifying clause
@@ -692,7 +703,12 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   for "keepings" in `canon-ledger.json` or `docs/lords-of-cian/chronicles/`. The singular "keeping"
   appears only as an ordinary word. Near words within edit distance 2 of "keepings," across the
   ledger and the entries, are all common words: "keeping," "feelings," "meetings," "seeping," and
-  "weeping." Keeper titles such as the Scale-Keepers (`CULT-011`) sit at edit distance 3 or more.
+  "weeping." Keeper titles sit at edit distance 3 or more: the Scale-Keepers (`CULT-011`), the
+  Domus Inviolate's Keepers (`CULT-183`), the Keeper-General (`CULT-100`), the Keeper-Archivist
+  (`CULT-165`), and Ashkeel's Blind Record-Keepers (`ASH-047`). One flag: "the Keepers" of
+  `CULT-183` and "the Keepings" are near-homographs on the page. Judgment: no real collision, since
+  the Keepers are a rank inside one cult and the Keepings would name a series; flagged so titles do
+  not set the two side by side.
   - Alternative, the Witnesses: an ordinary word in 15 ledger statements (15 occurrences). It
     overlaps Sorya's named Witness-Scouting and Witness Shriek (`CC-096`, `ARS-414`), and Lauris's
     Records already name a strand "Witness" (Strand W, `lauris-letitia.md`).
@@ -719,9 +735,10 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
     (`CC-012`, `MCD-246`).
 - **Kill register:** the Triad sit outside the marquee tier (`MCD-1881`). Varkul's true ceiling is
   never shown maxed on the page (`SBD-044`). Proposed, a new fact for Abad's ruling: a Guardian
-  uses lethal force only against an active, immediate threat to the life of Pyro, the ship, or the
-  crew (the hierarchies of `CC-095`, `CC-097`, `CC-099`, of which only Varkul's ranks the crew; the
-  `CC-162`/`CC-164` pattern). Two edges stay open: whether Sorya's role as "the instrument
+  uses lethal force only against an active, immediate threat to Pyro or the ship, or, for Varkul,
+  to the crew's lives (the hierarchies of `CC-095`, `CC-097`, `CC-099`; the `CC-162`/`CC-164`
+  pattern). This is narrower than Pyro's own proposed register (`pyro.md`, Kill register), which
+  covers any person's life under the necessity rule. Two edges stay open: whether Sorya's role as "the instrument
   of correction" for a broken vow (`CC-097`) ever reaches lethal force, and how Varkul's turn to
   aggression against the SBD (`SBD-044`) sits inside this register.
 

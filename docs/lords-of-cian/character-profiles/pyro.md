@@ -258,8 +258,10 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
 - His grandfather Maro dies at the opening (`MCD-025`/`091`).
 - `MCD-277` — The Last Breakfast (Kanja 314). It closes the Long Mask "as the Shimmer and the Gilded
   Lighthouse's pendant activate"; the pendant's severing triggers the Pi-Awakening (`CC-005`), which
-  `WC-022` places after the murder and the 10-Day Interregnum. The meal is therefore a Book 1 beat after Maro's death, outside this series' window; no pre-Book-1 entry stages it or references Kanja's grief at it (`CC-161`, `ARS-437`).
-  It is his only locked Book 1 beat.
+  `WC-022` places after the murder and the 10-Day Interregnum. The meal is therefore
+  on the present reading a Book 1 beat after Maro's death (a placement that waits on finding
+  21's reconciliation), outside this series' window; no pre-Book-1 entry stages it or references
+  Kanja's grief at it (`CC-161`, `ARS-437`). It is his only locked Book 1 beat.
 
 **Book 3, "The Dark Monarch"**
 - `MCD-093` / `CC-123` / `CC-125` / `CC-126` — Nelle Adessi's clinic is his one room outside war; the
@@ -305,11 +307,24 @@ characterization, not a competing invention.
   returns zero matches. The Triad (Varkul, Sorya, Varruk), "Dhar-Kael," "Living Gate," "Demaron," and
   "veil-reader" also return zero matches. This is a fresh launch, not a backfill.
 - Silent overlap: several locked entries are set inside Pyro's lifetime (Kanja 290-314) and never
-  mention him — among them `MCD-1246` (age 290), `MCD-493` and `MCD-1243` (300), `MCD-1900`
-  (an Anirak Collection, roughly 300), `MCD-1252` (308), `MCD-1253` (310), `MCD-1255` and
-  `MCD-1406` (313), `MCD-1408` (314), and `MCD-1022` ("The Last Coat He Ever Wore," 314, the night
+  mention him — among them `MCD-1246` and `MCD-814` (age 290), `MCD-1251` (292), `MCD-493`, `MCD-1243` and `MCD-815` (300),
+  `MCD-1900` (an Anirak Collection, roughly 300), `MCD-813` (305), `MCD-1252` (308), `MCD-1253`
+  (310), `MCD-1254` (312), `MCD-1255`, `MCD-1406` and `MCD-1407` (313), `MCD-1408` (314), and
+  `MCD-1022` ("The Last Coat He Ever Wore," 314, the night
   the Scourge coat comes off — the same year as the Last Breakfast, `MCD-277`). `MCD-1472` (age 275)
   and `MCD-1477` (age 258) fall before his birth.
+- One line in that corpus touches his parentage. In `MCD-813` (age 305), Kanja, alone, counts his
+  years under the persona and thinks he spent every one of them "being someone else's fear before
+  he was ever anyone's father, husband, or simply himself"
+  (`the-weight-the-mask-kept-count-of.md`, lines 15-16). Read as precedence (the fear came first
+  and outranked the rest), it fits a private marriage and a hidden son, so it sits with A3 option 1.
+  Read literally (he has never yet been a father or a husband), it contradicts `CC-046` and
+  `CC-047` under every A3 option. Because the line is his own private thought, in-world concealment
+  from others does not explain it. Under either B6 option it carries no visible grief for a wife
+  lost, or kept from him, fifteen years earlier. Only the precedence reading is compatible.
+- The two entries set in the year of the birth, `MCD-1246` and `MCD-814` (both age 290), show Kanja
+  weighing the persona's cost with Efa Gol and leaving a freed island "satisfied." Neither shows a
+  wife newly lost or a son newly born.
 - Outside the entries: `ozmund-verehimu.md` mentions him once (the `MCD-221` Engine-front line).
   `kanja-haku-rexmar.md` does not mention him at all. `series-gameplan.md` lists him and
   the Triad in Tier 2 ("could run as one shared thread or three separate ones, undecided").
@@ -401,10 +416,18 @@ resolved here.
     (`CC-123`/`126`), and Book 5 (`MCD-097`/`221`/`223`), no Book 1, 2, or 4 role for Pyro is locked.
     The Triad have no locked book-level beat at all.
 20. **Corpus silence.** Zero entries mention Pyro or the Triad, though locked entries cover Kanja
-    290-314 (`MCD-1246`, `MCD-493`, `MCD-1243`, `MCD-1900`, `MCD-1252`, `MCD-1253`, `MCD-1255`,
-    `MCD-1406`, `MCD-1408`, `MCD-1022`). Whether
+    290-314 (`MCD-1246`, `MCD-814`, `MCD-1251`, `MCD-493`, `MCD-1243`, `MCD-815`, `MCD-1900`, `MCD-813`,
+    `MCD-1252`, `MCD-1253`, `MCD-1254`, `MCD-1255`, `MCD-1406`, `MCD-1407`, `MCD-1408`, `MCD-1022`). Whether
     their silence means he was off the page or absent from the fleet is unstated; a two-ton courser
     and a raptor with a 27-foot wingspan living aboard would be hard to leave out of a scene.
+21. **How the Long Mask ends.** `MCD-1022`: at Kanja 314 the coat comes off for good, "ending the
+    span by conscious choice." Against it: `CC-005`, the Long Mask lasted 284 years, "ending when the
+    Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening";
+    `MCD-277`, "The Last Breakfast (314) closes the Long Mask on Pyro serving Kanja stew as the
+    Shimmer and the Gilded Lighthouse's pendant activate." A chosen ending on the night of the last
+    coat and an ending at the pendant's severing are not reconciled, and the Last Breakfast's place
+    after the Fulfillment Ceremony (read from `CC-005` and `WC-022`) waits on that reconciliation.
+    The series window's end at the Ceremony stands either way.
 
 ---
 
@@ -452,19 +475,22 @@ written under the recommended answer and says where it depends on one.
 
 **A3. What Pyro knows about his parents and his own name (findings 3, 15, 16).** This is the
 center of the profile.
-- **Option 1 (recommended):** he knows who his mother was. She was the fleet's provisions manager
-  (`MCD-277`), and the crew tells him she died the night he was born, which is the account every
-  in-world record gives (`MCD-133`, `SBD-010`). He knows nothing of his father. New fact: he has
+- **Option 1 (recommended):** new fact: he knows who his mother was. She was the fleet's
+  provisions manager (`MCD-277`). New fact: the crew tells him she died the night he was born, the
+  account the Codex and the SBD's official file give (`MCD-133`, `SBD-010`); Dexton's file
+  (`SBD-041`) gives a different false account. He knows nothing of his father. New fact: he has
   never heard the name Ignis (`CC-047`) and answers only to the ship-name (`MCD-022`). New fact: the
-  marriage was private, known to Kanja, Stormbreaker and Azar (`CC-079`) and to Sephtis (`CC-110`).
+  marriage was private, known to those who know or suspect the paternity (`CC-079`, `CC-110`).
   To the wider crew she was Pyro's mother, and the marriage stayed with those few. New fact: the
   Codex and SBD files that call her "Kanja's wife" (`CC-046`, `WC-017`, `SBD-041`) are documents
   the crew never reads. Cost: she sailed openly with the fleet from Kanja 96 (`MCD-277`), and the
   Captain stood 12 km off at the birth (`MCD-270`). The concealment from the wider crew therefore
   covers the whole marriage, whose length depends on its unlocked date (B5), and then 24 more
-  years in which the crew either does not know who fathered her child or knows and does not say. Proposed: the crew reads the pregnancy as
-  her own business and does not ask, and the few who could guess keep the Captain's silence. Scope:
-  a clarifying clause on `CC-047` (his missing "parentage" is his father) and on `CC-079`.
+  years in which the crew either does not know who fathered her child or knows and does not say.
+  `MCD-813`'s line (Section 1, corpus) fits this option on its precedence reading. Proposed: the
+  crew reads the pregnancy as her own business and does not ask, and the few who could guess keep
+  the Captain's silence. Scope: a clarifying clause on `CC-047` (his missing "parentage" is his
+  father) and on `CC-079`.
 - **Option 2:** he knows neither parent. The fleet was told she died with her unborn child, and he
   was raised as the ship's foundling of that night. The whole fleet would keep a second secret for
   24 years, through Triad behavior the crew observes from Kanja 296 (`MCD-277`).
@@ -477,14 +503,17 @@ center of the profile.
 **A4. Where, and by whom, he was raised (findings 19, 20).**
 - **Option 1 (recommended):** aboard the Scourge fleet from Kanja 290 up to Book 1, with
   Stormbreaker as his guardian (`CC-045`) and the Triad with him. All three Guardians rank the ship
-  in their bond hierarchy (`CC-095`, `CC-097`, `CC-099`), so they live aboard. The Pyro Incident
-  (`MCD-277`) and the Scourge's Heir (`MCD-272`) both happen around the crew. The
-  locked entries set in these years that never mention him (`MCD-1246`, `MCD-493`, `MCD-1243`,
-  `MCD-1900`, `MCD-1252`, `MCD-1253`, `MCD-1255`, `MCD-1406`, `MCD-1408`, `MCD-1022`) are read as
-  scenes he is off the page for. Before his first wave is drafted, each gets a line-by-line check
-  for any roster that would exclude him.
+  in their bond hierarchy (`CC-095`, `CC-097`, `CC-099`), so they live aboard. The Scourge's Heir
+  happens among the crew (`MCD-272`, proven on Ironbane). `MCD-277` gives the Pyro Incident no place
+  or observer; this option's proposed reading puts it aboard. The locked entries set in these years
+  that never mention him (`MCD-1246`, `MCD-814`, `MCD-1251`, `MCD-493`, `MCD-1243`, `MCD-815`, `MCD-1900`, `MCD-813`,
+  `MCD-1252`, `MCD-1253`, `MCD-1254`, `MCD-1255`, `MCD-1406`, `MCD-1407`, `MCD-1408`, `MCD-1022`) are read as scenes he is off the
+  page for. Before his first wave is drafted, each gets a line-by-line check for any roster that
+  would exclude him, and for Kanja's stated state of mind against A3 and B6, `MCD-1246` and
+  `MCD-814` (both age 290) and `MCD-813` (Section 1) first.
 - **Option 2:** raised ashore at a hidden hold, joining the fleet in his teens. The corpus silence
-  then needs no reading, at the cost of the Triad's ship hierarchy and an early Pyro Incident aboard.
+  then needs no reading, at the cost of the Triad's ship hierarchy and of the proposed reading that
+  the Pyro Incident happened aboard.
 - **Option 3:** ashore as a small child, aboard from the Pyro Incident onward.
 
 ### The profile
@@ -512,7 +541,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     where the heat is. Care is how he keeps watch.
   - **Staying even.** Calm keeps the vents quiet, and part of that work is done for him, since
     keeping him steady is part of the Triad's role (`ARS-421`). Proposed: some of his steadiness is
-    borrowed from three animals who stay within reach of him.
+    borrowed from three animals who are never out of reach of him for long; Varruk ranges on a line
+    back to him (`CC-099`).
   - **Not asking.** Proposed, and open for discussion: he does not press the crew about his
     mother's death or about who his father was. No rule says he asks or does not. A boy who asks and
     is refused would make the concealment (`CC-079`) an active cost in every scene; this profile
@@ -529,7 +559,9 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     ranks him first (`CC-095`, `CC-097`, `CC-099`).
 - **How he holds contradiction (PROPOSED -- for Abad's confirmation):** *the Captain's son, cooking
   for the Captain.* He cooks for the father who hides that he is his father (`CC-079`). The meal
-  the Long Mask closes on, the Last Breakfast (`MCD-277`), is a Book 1 beat after Maro's death, outside this series' window; no pre-Book-1 entry stages it or references Kanja's grief at it (`CC-161`, `ARS-437`). He ties on an apron called the Rexmar Apron,
+  the Long Mask closes on, the Last Breakfast (`MCD-277`), is on the present reading a Book 1 beat after Maro's death (a placement that waits on finding
+  21's reconciliation), outside this series' window; no pre-Book-1 entry stages it or references
+  Kanja's grief at it (`CC-161`, `ARS-437`). He ties on an apron called the Rexmar Apron,
   the name of a line he does not know is his (`ARS-421`, `CC-047`). The Rexmar war tradition was
   forged protecting the Dhar-Kael (`MCD-041`); the last three Dhar-Kael now guard a Rexmar who does
   not know the name is his. Three beings the SBD rates OMEGA-PRIME (`SBD-021`, `SBD-022`,
@@ -540,7 +572,9 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     and hides it (`CC-079`), and was kept 12 km from the birth so the Talisman would not disturb the
     bonding (`MCD-270`). Proposed: that distance at the birth continues as a careful distance
     across Pyro's whole life. Their closest locked moment, the Last Breakfast (`MCD-277`), is
-    a Book 1 beat after Maro's death, outside this series' window; no pre-Book-1 entry stages it or references Kanja's grief at it (`CC-161`, `ARS-437`).
+    on the present reading a Book 1 beat after Maro's death (a placement that waits on finding
+    21's reconciliation), outside this series' window; no pre-Book-1 entry stages it or references
+    Kanja's grief at it (`CC-161`, `ARS-437`).
   - **Stormbreaker, his guardian.** Stormbreaker defeated the Demaron in Pyro's mother with Kanja's
     consent and guards Pyro without Pyro knowing that history (`CC-045`); his trauma from that night
     is kept (`MCD-022`). Proposed: Stormbreaker believes the in-world account and thinks he ended
@@ -581,7 +615,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
   child whose fear burns to the cook whose food the crew calls eating well before a fight
   (`ARS-421`), its healing proven by Kanja 308 (`MCD-272`), and it ends before the Fulfillment
   Ceremony. Where it later leads, a son serving his father stew on the last morning of the Long Mask
-  without knowing whom he is feeding (`MCD-277`), is a Book 1 beat after Maro's death and stays
+  without knowing whom he is feeding (`MCD-277`), is on the present reading a Book 1 beat after
+  Maro's death (pending finding 21) and stays
   reserved. His Book 5 peak stays sealed (`MCD-223`).
 
 ### (B) Remaining Section 1 findings
@@ -611,15 +646,33 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   `WC-017` ("T.D.K. had installed the Living Gate").
 - **B5. His mother's name, homeland, SBD recruitment, and marriage date (finding 10).** Open, for
   whenever her own material is drafted. Under A3 option 1 the marriage is private.
-- **B6. Who aboard knows she survived.** New, raised by A3. Recommended: no human aboard knows,
-  and that includes Kanja. He too believes his wife died the night Pyro was born, 24 years before
-  Book 1 (under A1 option 1). New fact about Kanja, for Abad's ruling; it touches
-  `kanja-haku-rexmar.md`, whose profile is scoped to ages 18-30 and would need a recorded line for
-  this later grief, as it already carries for his father's death. The alternative, Kanja knows
-  she lives and keeps that too, adds a second concealment to `CC-079`. Proposed, if the
-  Stormbreaker facet is confirmed: Stormbreaker believes he ended her. Whether Sorya's memory holds
-  the inversion is the Triad file's question TA3, which also leaves open whether she knows the
-  father.
+- **B6. Who aboard knows she survived.** New, raised by A3. No recommendation. For Abad's ruling:
+  where this sits under the "most devastating blow" ranking and `CC-161`. Both options are a new
+  fact about Kanja and touch `kanja-haku-rexmar.md`, whose profile is scoped to ages 18-30.
+  - **Option (a): no human aboard knows, Kanja included.** He believes his wife died the night Pyro
+    was born, 24 years before Book 1 (under A1 option 1). Costs:
+    - Abad's verbatim ranking makes Maro's death "the most devastating blow" of Kanja's life
+      (`kanja-haku-rexmar.md`, lines 217 and 264). A believed death of his "first and only wife"
+      (`CC-046`) competes with that ranking.
+    - Her killer, as he would believe it, is T.D.K.'s curse (`CC-046`, `MCD-136`). `CC-161` bars
+      anything before Book 1 from reading as the urge to destroy his enemies arriving early, and a
+      wife lost to T.D.K. invites exactly that urge 24 years before Maro dies.
+    - The Heartline would carry the night to the sealed blade as a body signal, logged in the Dark
+      Ledger (`ARS-437`, B12).
+    - Locked entries set after the birth (`MCD-1246`, `MCD-814`, `MCD-813`) would carry that grief
+      in silence; none shows it.
+    - `kanja-haku-rexmar.md` would need a recorded line for the loss, beside the reserved wound of
+      his father's death.
+  - **Option (b): Kanja knows she lives, fused into the Gate, and keeps that too.** Costs: a second
+    concealment beside `CC-079`, held from Pyro and from Stormbreaker; knowledge of the Gate that no
+    rule gives him; and the same three entries then carry a living wife he cannot reach, again in
+    silence. It removes the competition with the "most devastating blow" ranking and the early
+    turn `CC-161` bars, because no death is grieved.
+  - Under either option, proposed if the Stormbreaker facet is confirmed: Stormbreaker believes he
+    ended her. Whether Sorya's memory holds the fusion (her survival) is the Triad file's question
+    TA3, which also leaves open whether she knows the father. What Sorya shows Pyro under
+    `ARS-414` covers his father's identity only; his mother's survival stays reserved unless Abad
+    rules otherwise.
 - **B6a. Where the Triad came from, and whose bond it is (findings 4, 5).** Handed to
   `triad-guardians.md`, questions TA1 (made at the Gate, or an ancient clade bonded there) and TA2
   (how the bond was completed). This file follows their rulings and asserts neither.
@@ -634,16 +687,26 @@ None of these blocks the profile. Each carries a recommendation, or is queued.
   Alternative: an epithet the crew gives the Captain's cook for the healing proven that year. That
   is a new fact, and its cost falls on `CC-079`'s concealment: a crew that calls the Captain's cook
   his heir puts the hidden lineage into open speech, even as a joke.
-- **B11. The Rexmar Apron (finding 16).** Recommended: Kanja's own old forge apron, handed down,
-  called by the Captain's name aboard. The Final Forge (Kanja 304, Pyro about fourteen, `MCD-277`)
-  is a natural handover point.
+- **B11. The Rexmar Apron (finding 16).** Three options.
+  - **Recommended, adding no new fact:** "the Rexmar Apron" is a reader-facing label only, the
+    name `ARS-190`/`ARS-421` give it, never spoken aboard.
+  - **Alternative:** the apron reaches him with no stated provenance. No new fact beyond its
+    presence.
+  - **Alternative, a new fact:** Kanja's own old forge apron, handed down and called by the
+    Captain's name aboard, with the Final Forge (Kanja 304, Pyro about fourteen, `MCD-277`) as the
+    handover. Costs: handing Kanja's named apron to a boy who does not know he is a Rexmar puts the
+    hidden lineage into open speech, the same cost B10 names; and calling it by the Captain's name
+    runs against the Scourge's deliberate anonymity within his own crew, where he passes as the
+    flagship's quartermaster (`MCD-448`, `MCD-1251`; continuity notes of
+    `the-boy-who-didnt-know-his-name.md`, lines 42-44).
 - **B12. The Onyx account (finding 18).** Onyx is sealed at L9 for Pyro's whole pre-Book-1 life
   (`CC-012`, `MCD-246`). The Dark Ledger may log Kanja's body at Kanja 290, his strain at the 12 km
   line, since `ARS-437` reserves only Maro's death. Any such account is retrospective and files in
   the Kanja-version track (`VB-062`, `VB-067`), outside Pyro's series.
 - **B13. Book 1-4 placement (finding 19).** Queued for the Game Plan. Recommended: the window
   stays between Kanja 290 and the Fulfillment Ceremony (`MCD-025`/`091`), on the Ozmund precedent,
-  until Abad opens a later one. The Last Breakfast (`MCD-277`) falls outside it.
+  until Abad opens a later one. On the present reading the Last Breakfast (`MCD-277`) falls outside
+  it; that placement waits on finding 21, and the window's end at the Ceremony stands either way.
 - **B14. Corpus silence (finding 20).** Settled by A4 option 1, with the line-by-line check noted
   there.
 - **B15. A superseded citation in Section 1.** The 16-Avatar line now names the superseded A-6

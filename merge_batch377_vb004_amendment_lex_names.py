@@ -18,7 +18,7 @@ def clean(t):
     return re.sub(r"\s+", " ", t.replace("`", "").replace("**", "")).strip()
 
 text = open(DRAFT, encoding="utf-8").read()
-amend = clean(re.search(r'\n"(Amended Batch 377\..+?)"\n', text, re.S).group(1))
+amend = clean(re.search(r'\n"(Amended Batch 377, 2026-10-04:.+?)"\n', text, re.S).group(1))
 lex = {m.group(1): clean(m.group(2)) for m in
        re.finditer(r"\*\*(LEX-\d{3})\*\*\. (.+?)(?=\n\n)", text, re.S)}
 assert sorted(lex) == [f"LEX-{i:03d}" for i in range(1, 26)], sorted(lex)
@@ -30,7 +30,8 @@ d = json.load(open(LEDGER, encoding="utf-8"))
 byid = {r["id"]: r for r in d["rules"]}
 assert not set(lex) & set(byid)
 assert "Amended Batch 377" not in byid["VB-004"]["statement"]
-byid["VB-004"]["statement"] += " " + amend
+byid["VB-004"]["statement"] += (" " + amend + f" Abad's ruling at VB-068's lock: 'lock it, approve the picks, "
+                                 f"confirm all three'; approval of this text: '{APPROVAL}'.")
 for k in sorted(lex):
     d["rules"].append({"id": k, "category": CAT[k], "statement": lex[k], "status": "locked",
                        "source": SOURCE})
@@ -92,20 +93,23 @@ reliable narration records the teller as mistaken or misled, or in secondhand re
 whatever the register (`VB-004` as amended, Batch 377)."""),
     ("The everyday hall is\n  **[NAME NEEDED: A1]**.", "The everyday hall is a\n  brazier-house (`LEX-025`)."),
     ("""  larger claim told in a flatter voice, through irony and understatement only (`VB-004`).""",
-     """  larger claim, as broad as `VB-004` as amended (Batch 377) allows."""),
+     """  larger claim (in a told account, as broad as `VB-004` as amended, Batch 377, allows; otherwise
+  irony and understatement, `VB-004`)."""),
     ("""  disclaimer before a polished telling, and a dry, understated line left a beat to land
   (`VB-004`).""",
-     """  disclaimer before a polished telling, and a line left a beat to land (`VB-004` as amended,
-  Batch 377)."""),
+     """  disclaimer before a polished telling, and a line left a beat to land (in a told account, as
+  broad as `VB-004` as amended, Batch 377, allows; otherwise irony and understatement, `VB-004`)."""),
     ("""- Comic stories grow, each telling a larger claim in a drier voice: irony and understatement only
   (`VB-004`).""",
-     """- Comic stories grow, each telling a larger claim (`VB-004` as amended, Batch 377)."""),
+     """- Comic stories grow, each telling a larger claim (in a told account, as broad as `VB-004` as
+  amended, Batch 377, allows; otherwise irony and understatement, `VB-004`)."""),
     ("- *Open:* an insult that means welcome, said flat and understated (`VB-004`).",
-     "- *Open:* an insult that means welcome (`VB-004` as amended, Batch 377)."),
+     "- *Open:* an insult that means welcome (in a told account, as broad as `VB-004` as amended,\n"
+     "  Batch 377, allows; otherwise irony and understatement, `VB-004`)."),
     ("""- Seniority and skill. The senior hand anchors the ritual joke, a dry line of irony or
   understatement (`VB-004`).""",
-     """- Seniority and skill. The senior hand anchors the ritual joke (`VB-004` as amended, Batch
-  377)."""),
+     """- Seniority and skill. The senior hand anchors the ritual joke (in a told account, as broad as
+  `VB-004` as amended, Batch 377, allows; otherwise irony and understatement, `VB-004`)."""),
     ("""- Gaps:
   - corner and crew **[NAME NEEDED: H9]**
   - lookout **[NAME NEEDED: H8]**
@@ -120,12 +124,13 @@ whatever the register (`VB-004` as amended, Batch 377)."""),
     with no minor present, addressed, or referenced, and no minor is the subject of a sexual insult,
     boast, or story (`VB-004` as amended, Batch 377)."""),
     ("- *Open:* ritual teasing, deadpan (`VB-004`).",
-     "- *Open:* ritual teasing (`VB-004` as amended, Batch 377)."),
+     "- *Open:* ritual teasing (in a told account, as broad as `VB-004` as amended, Batch 377, allows;\n"
+     "  otherwise irony and understatement, `VB-004`)."),
     ("""It is a recognized genre of tall telling, told deadpan: the
   teller states the impossible in the flattest voice on the watch (`VB-004`).""",
      """It is a recognized genre of tall telling, often told deadpan:
-  the teller states the impossible in the flattest voice on the watch (`VB-004` as amended, Batch
-  377)."""),
+  the teller states the impossible in the flattest voice on the watch (in a told account, as broad
+  as `VB-004` as amended, Batch 377, allows; otherwise irony and understatement, `VB-004`)."""),
 ]
 for a, b in REPL:
     assert s.count(a) == 1, a[:70]
@@ -133,7 +138,7 @@ for a, b in REPL:
 # section 7 item 14 humor bullet
 i = s.index("    - Humor is irony and understatement only (`VB-004`). Every comic register")
 j = s.index("    - No balanced antithesis", i)
-s = s[:i] + "    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`). In a told\n      account, characters' talk may use only the comic registers `VB-004` as amended (Batch 377)\n      lists: in the homage World, ritual insult, signifying, call and response, and the toast, and\n      on Cian, dock, forge, and Maw idiom (R0.4); R15; R18; M1's growing comic story and its\n      ridicule; M2's funny boast; M3's parting jab; M4's insult that means welcome, ridicule, and\n      counter-boast; M7's ritual joke; M9's tall telling; and the comic stories of M6 and M11. For\n      this purpose the teller's voice in a Comrade Account, an Adversary Account, or a Hearsay entry\n      counts as characters' talk, its reliability as `VB-067` sets it. The amendment changes no\n      narration and no Dossier text, speech quoted in a Dossier included. Each designated narrator\n      keeps their own sheet (`VB-021` to `VB-025`). Every track voice ruling and every character's\n      own voice (`VB-030`) still governs that character's diction, and these registers run inside\n      it. Onyx stays under `VB-063` alone. Every such register stays non-explicit (item 17).\n" + s[j:]
+s = s[:i] + "    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`), whatever\n      room a scene is set in. In a told account, characters' talk may use only the comic registers\n      `VB-004` as amended (Batch 377) lists: in the homage World, ritual insult, signifying, call\n      and response, and the toast, and on Cian, dock, forge, and Maw idiom (R0.4); R15; R18; M1's\n      growing comic story and its ridicule; M2's funny boast; M3's parting jab; M4's insult that\n      means welcome, ridicule, and counter-boast; M7's ritual joke and ritual teasing; M9's tall\n      telling; and the comic stories of M6 and M11. Any other register, M8's comic arc and toast and\n      M10's tall tales among them, stays at irony and understatement, whatever its idiom or World.\n      For this purpose the teller's voice in a Comrade Account, an Adversary Account, or a Hearsay\n      entry counts as characters' talk, its reliability as `VB-067` sets it. In a Comrade Account, a\n      register that inflates a matter of fact is used only within `VB-067`'s Comrade bound, traced\n      (§4.1, item 7). The 50% rule, the phatic bar, fact over emotion, and every hard constraint\n      still apply. The amendment changes no narration and no Dossier text, speech quoted in a\n      Dossier included. Each designated narrator, as narrator, as teller, and as a speaking\n      character, keeps their own sheet (`VB-021` to `VB-025`). Every track voice ruling and every\n      character's own voice (`VB-030`) still governs that character's diction, and these registers\n      run inside it. Onyx stays under `VB-063` alone. Every such register stays non-explicit (item\n      17).\n" + s[j:]
 # R0.4 ruling note
 a = """  - Abad ruled at `VB-068`'s lock that these registers may run broader in told accounts. The
     broader registers apply once the `VB-004` amendment that sets them out locks. Until then,

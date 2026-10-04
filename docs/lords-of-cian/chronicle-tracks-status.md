@@ -23,8 +23,8 @@ tracked here as it proceeds — see CLAUDE.md's gate section for the protocol it
 | Daba | `character-profiles/daba.md` | wave 3 locked + marquee kill | 59 (incl. Rolls LVII-LVIII, the Harek Vondel/Vex Thurlow villain defeats, and LIX, the Fenwold stair, `MCD-1887`) |
 | Ezio Valcari | `character-profiles/ezio-valcari.md` | wave 1 locked | 1 (own series, `MCD-1876`) — plus extensively established as supporting cast across 84 Industrial Myth Alias Chronicles + 4 Lauris Records |
 | Anirak | `character-profiles/anirak.md` | walkthrough drafted (Tier 1, Book-1 anchor hero, 2026-10-03); Tide Line (Batch 368) and Combination Codex (Batch 370) locked; Psychological Profile approved and locked (Batch 371, `CC-163`/`CC-164`, 2026-10-03); Game Plan approved and locked (Batch 372, `VB-065`, 2026-10-04); gate cleared; wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) | 3 Collections (I-III); appears in Kanja Chronicle V (`MCD-1883`, her recruitment) |
-| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | walkthrough drafted (priority launch, 2026-10-03); 20 connective-tissue findings queued, age at Book 1 depends on the 284/296 ruling | 0 (no entry mentions him) |
-| Triad Guardians (Varkul, Sorya, Varruk) | `character-profiles/triad-guardians.md` | walkthrough drafted (priority launch, 2026-10-03); 16 connective-tissue findings queued, origin (created at the Gate vs. ancient clade) the central one | 0 (no entry mentions them) |
+| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 21 connective-tissue findings queued, age at Book 1 depends on the 284/296 ruling | 0 (no entry mentions him) |
+| Triad Guardians (Varkul, Sorya, Varruk) | `character-profiles/triad-guardians.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 16 connective-tissue findings queued, origin (created at the Gate vs. ancient clade) the central one | 0 (no entry mentions them) |
 
 ## Kanja-version track (new, 2026-09-28 — distinct from the Alias Chronicle track below)
 
