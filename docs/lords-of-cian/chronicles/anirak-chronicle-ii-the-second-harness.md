@@ -1,6 +1,6 @@
 # Anirak Chronicle II: The Second Harness
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (sixth draft, after five independent review rounds). Second
+*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (clean on the sixth independent review). Second
 entry of Anirak's Character Chronicle series (Game Plan pitch 3, locked at Batch 372). Close-third on
 Anirak per `VB-065`. The Long Mask, roughly Kanja 175, after Maw-11 (`MCD-264`) and before Ren comes
 aboard. A thirteen-strong Sealbound Directorate Retrieval Detachment (`SBD-050`) comes for a subject of
@@ -19,7 +19,7 @@ front, and the water black between the piers.
 
 She lay awake in the loft over the net-maker's shop, and the sea told her why.
 
-Hulls. Small ones, close, inside the harbor. One working oars, slow, muffled. One lying still. Out past
+Hulls. Small ones, close, inside the harbor. One working oars, slow, quiet. One lying still. Out past
 the mouth, something long and heavy, holding against the swell.
 
 She was down the ladder with the chains in her hands and the Star across her back before the oars went quiet.
@@ -214,6 +214,8 @@ in all. Nobody dead."
 
 She had felt that second hull from the loft. She had let it go for the keel.
 
+They walked back up the lane together.
+
 The net lay across the chandler's threshold where it fell. Edda sat on the chandler's step with a rag to her head. Odile held
 the rag.
 
@@ -246,7 +248,7 @@ hung open on the rain.
 
 She stood in the doorway and looked at the cup.
 
-Then she went down to the harbor council, and said the name while the clerk wrote it down. Ardith.
+Then she went down to the harbor council's night clerk, and said the name while he wrote it down. Ardith.
 Twenty, or near it. A number behind the ear. Taken.
 
 ---
@@ -257,7 +259,7 @@ Captain does not appear. Tideglass is a Southern Sweep settlement (`MCD-255`); i
 port under the Merchant Accord (`MCD-266`, which does not name it) is a new detail. The detachment is a
 thirteen-strong Sealbound Directorate Level 3 Retrieval Detachment (`SBD-050`: subject recovery, 8 to 14
 personnel) -- six on the stair team, six on the cords, and the rig's maker -- and is not the
-twelve-strong Foundling Detachment (`SBD-061`). `SBD-050` assigns Military-Standard engagement to Level 2 Containment, so a Level 3 unit bringing a rig built against her, as the Directorate rates her, is an edge-of-tier operation: a contingency hold given by the maker, authorized under the Level 3 retrieval's own sign-off (a new fact, flagged, and one more
+twelve-strong Foundling Detachment (`SBD-061`). `SBD-050` assigns Military-Standard engagement to Level 2 Containment, so a Level 3 unit bringing a rig built against her, as the Directorate rates her, is an edge-of-tier operation: the rig and the hold are the maker's contingency, carried under the Level 3 retrieval's own sign-off (a new fact, flagged, and one more
 instance of the Directorate's fallibility pattern, `MCD-1727`); "No one here is authorized to injure
 you" is the unit's own reading of its orders. The detachment uses only subduing force -- straps,
 clubs, staves, the net (Edda's scalp wound from a club at the door is the only injury of note to her
