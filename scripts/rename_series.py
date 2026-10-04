@@ -168,8 +168,11 @@ def _bare_subs(text, key, log, where):
     return text
 
 
+EXTRA_PATHS = {"character-chronicle-gameplan.md": "series-gameplan.md"}
+
+
 def path_subs(text, renames):
-    for old, new in renames.items():
+    for old, new in list(renames.items()) + list(EXTRA_PATHS.items()):
         text = text.replace(old, new)
     return text
 
