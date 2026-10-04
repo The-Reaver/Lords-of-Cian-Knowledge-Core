@@ -499,8 +499,8 @@ written under the recommended answer and says where it depends on one.
   and `MCD-136`'s "was completed" as a keying: as last keeper, the mother keyed the three to the
   child she was carrying before the curse took hold (`MCD-022`, `MCD-136`). The imprint itself
   completed within the birth event, after the natural birth, as she pushed them out through the
-  inverted Gate (`MCD-270`, `MCD-132`, `MCD-131`). New fact: the forge sealed it permanently. The juvenile window of `MCD-040` is the unbonded state: a Dhar-Kael stays juvenile
-  until it imprints, however long that takes, and matures only after. All three could therefore be
+  inverted Gate (`MCD-270`, `MCD-132`, `MCD-131`). New fact: the forge sealed it permanently. The
+  juvenile window of `MCD-040` is the unbonded state: a Dhar-Kael stays juvenile until it imprints, however long that takes, and matures only after. All three could therefore be
   "juvenile" at 290 whatever their age, Varruk included. New fact: imprint ends the juvenile window.
   Consequence: the Triad grew up alongside Pyro, small and young at the Pyro Incident (Kanja 296,
   `MCD-277`) and grown by Book 1. Scope: clarifying clauses on `MCD-040`, on `MCD-022`'s and

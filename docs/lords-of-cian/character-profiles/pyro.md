@@ -506,9 +506,9 @@ center of the profile.
   in their bond hierarchy (`CC-095`, `CC-097`, `CC-099`), so they live aboard. The Scourge's Heir
   happens among the crew (`MCD-272`, proven on Ironbane). `MCD-277` gives the Pyro Incident no place
   or observer; this option's proposed reading puts it aboard. The locked entries set in these years
-  that never mention him (`MCD-1246`, `MCD-814`, `MCD-1251`, `MCD-493`, `MCD-1243`, `MCD-815`, `MCD-1900`, `MCD-813`,
-  `MCD-1252`, `MCD-1253`, `MCD-1254`, `MCD-1255`, `MCD-1406`, `MCD-1407`, `MCD-1408`, `MCD-1022`) are read as scenes he is off the
-  page for. Before his first wave is drafted, each gets a line-by-line check for any roster that
+  that never mention him (`MCD-1246`, `MCD-814`, `MCD-1251`, `MCD-493`, `MCD-1243`, `MCD-815`,
+  `MCD-1900`, `MCD-813`, `MCD-1252`, `MCD-1253`, `MCD-1254`, `MCD-1255`, `MCD-1406`, `MCD-1407`,
+  `MCD-1408`, `MCD-1022`) are read as scenes he is off the page for. Before his first wave is drafted, each gets a line-by-line check for any roster that
   would exclude him, and for Kanja's stated state of mind against A3 and B6, `MCD-1246` and
   `MCD-814` (both age 290) and `MCD-813` (Section 1) first.
 - **Option 2:** raised ashore at a hidden hold, joining the fleet in his teens. The corpus silence
