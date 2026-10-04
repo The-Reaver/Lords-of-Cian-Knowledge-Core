@@ -46,6 +46,9 @@ EDITS = {
     CH + "ozmund-testament-xcvi-what-the-drought-asked-of-the-house.md": [
         ('a stray in-line "(Testament XLV)" citation removed', 'a stray in-line "(Chronicle XLV)" citation removed', 1),
     ],
+    CH + "ozmund-testament-lxxxiii-what-they-said-when-he-wasnt-listening.md": [
+        ('"smaller pieces...too slight to carry a whole Testament on', '"smaller pieces...too slight to carry a whole account on', 1),
+    ],
     CH + "the-notebook-garren-hask-finally-opened.md": [
         ("the Sankofa territory Annals entry's \"crack\" entry", "the Sankofa Annals' \"crack\" entry", 1),
     ],
@@ -64,6 +67,7 @@ for f in os.listdir(CH):
         p = CH + f
         t = open(p, encoding="utf-8").read()
         t2 = re.sub(r"Testament(\s+)track,(\s+)Ozmund", r"The\1Testaments,\2Ozmund", t)
+        t2 = re.sub(r"Ozmund(\s+)Verehimu(\s+)Testaments,", r"The\1Testaments,\2Ozmund Verehimu's series,", t2)
         if t2 != t:
             n += 1
             open(p, "w", encoding="utf-8").write(t2)
