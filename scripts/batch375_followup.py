@@ -31,6 +31,21 @@ EDITS = {
     CH + "lauris-record-lxvii-what-a-civilization-takes-its-time-deciding.md": [
         ("a deliberation the\nchronicle does not compress", "a deliberation the\nentry does not compress", 1),
     ],
+    CH + "daba-roll-xl-the-tally-he-keeps-alone.md": [
+        ('a writers\'-room leak ("any Roll anyone would write")', 'a writers\'-room leak (the old "any Chronicle anyone would write")', 1),
+    ],
+    CH + "daba-roll-li-the-day-with-no-name-in-it.md": [
+        ('a writers\'-room leak ("Roll XL\'s own list")', 'a writers\'-room leak (the old "Chronicle XL\'s own list")', 1),
+    ],
+    CH + "daba-roll-lvi-what-vetting-cannot-see.md": [
+        ('a writers\'-room leak ("Roll L\'s own honest confession")', 'a writers\'-room leak (the old "Chronicle L\'s own honest confession")', 1),
+    ],
+    CH + "aztlan-annals-i-one-body-many-hands.md": [
+        ('("on a night this Annals entry does not cover"', '(the old "on a night this Chronicle does not cover"', 1),
+    ],
+    CH + "ozmund-testament-xcvi-what-the-drought-asked-of-the-house.md": [
+        ('a stray in-line "(Testament XLV)" citation removed', 'a stray in-line "(Chronicle XLV)" citation removed', 1),
+    ],
     CH + "the-notebook-garren-hask-finally-opened.md": [
         ("the Sankofa territory Annals entry's \"crack\" entry", "the Sankofa Annals' \"crack\" entry", 1),
     ],
@@ -114,6 +129,33 @@ for p in [CH + f for f in os.listdir(CH) if f.startswith("daba-roll-")] + [
     t2 = re.sub(r"50-Roll(\s+)launch", r"50-entry\1launch", t)
     if t2 != t:
         open(p, "w", encoding="utf-8").write(t2)
+
+# A series noun followed by more than one numeral takes the plural ("Rolls XIII, XVI-XX").
+PLURAL = re.compile(r"\b(Record|Roll|Testament|Exhibit|Collection)(\s+)(?=[IVXLC]+\b\s*(?:[\u2013\u2014/-]|,|and\b|through\b)\s*[IVXLC]+\b)")
+targets = [CH + f for f in os.listdir(CH)
+           if re.match(r"(lauris-record|daba-roll|ozmund-testament|ezio-exhibit|anirak-collection)-", f)]
+targets += ["docs/lords-of-cian/character-profiles/" + f for f in
+            ("daba.md", "lauris-letitia.md", "ozmund-verehimu.md", "ezio-valcari.md", "anirak.md", "kanja-haku-rexmar.md")]
+targets += ["docs/lords-of-cian/series-gameplan.md", "docs/lords-of-cian/chronicle-tracks-status.md"]
+npl = 0
+for p in targets:
+    t = open(p, encoding="utf-8").read()
+    t2 = PLURAL.sub(r"\1s\2", t)
+    if t2 != t:
+        npl += 1
+        open(p, "w", encoding="utf-8").write(t2)
+d = json.load(open("canon-ledger.json", encoding="utf-8"))
+for r in d["rules"]:
+    if r.get("category") in TRACK_CATS:
+        cut = r["statement"].find("Abad's approval")
+        head, tail = (r["statement"], "") if cut < 0 else (r["statement"][:cut], r["statement"][cut:])
+        new = PLURAL.sub(r"\1s\2", head) + tail
+        if new != r["statement"]:
+            npl += 1
+            r["statement"] = new
+json.dump(d, open("canon-ledger.json", "w", encoding="utf-8"), indent=2, ensure_ascii=False)
+open("canon-ledger.json", "a", encoding="utf-8").write("\n")
+print("plural fixes:", npl)
 
 # CLAUDE.md batch history: file paths only (VB-066).
 out = subprocess.run(["git", "diff", "--cached", "--name-status", "-M"], capture_output=True, text=True, check=True).stdout

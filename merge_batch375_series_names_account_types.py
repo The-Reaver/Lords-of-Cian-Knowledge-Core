@@ -22,7 +22,7 @@ SNAP = {r["id"]: (r["statement"], r.get("category"), r.get("source"))
 subprocess.run([sys.executable, "scripts/rename_series.py", "--apply"], check=True)
 
 HAND = {
-    "VB-020": [("Lauris and Ezio Exhibits = Fermand (CC-034); Alias, Territory, Daba, and Anirak Collections = neutral close-third",
+    "VB-020": [("Ozmund Testaments = Red Beard (CC-020)", "Ozmund's Testaments = Red Beard (CC-020)"), ("Lauris and Ezio Exhibits = Fermand (CC-034); Alias, Territory, Daba, and Anirak Collections = neutral close-third",
                 "Lauris's Records and Ezio's Exhibits = Fermand (CC-034); the Alias Chronicles, the territory Annals, Daba's Rolls, and Anirak's Collections = neutral close-third")],
     "PH2-048": [("Chronicles are written as each homage-era territory's own numbered series", "Annals are written as each homage-era territory's own numbered series")],
     "PH2-061": [("Ogoun Xarey's and Yalokona's own Chronicles.", "Ogoun Xarey's and Yalokona's own Annals.")],
