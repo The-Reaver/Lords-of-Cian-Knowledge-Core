@@ -1,6 +1,6 @@
 # VB-004 amendment and the account-craft vocabulary (LEX-001 to LEX-025)
 
-*Draft for Abad's approval, 2026-10-04 (revision 8, after the seventh independent review). Nothing here is locked. It carries out his rulings at
+*Draft for Abad's approval, 2026-10-04 (revision 9, after the eighth independent review). Nothing here is locked. It carries out his rulings at
 `VB-068`'s lock ("lock it, approve the picks, confirm all three"): the comic registers may run
 broader than `VB-004` in told accounts, set out as a `VB-004` amendment; and the approved picks from
 the naming table (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`, part (b))
@@ -21,29 +21,31 @@ a Hearsay entry (`VB-067`), or a scene in any entry in which a character tells a
 (`VB-068`). For this amendment only, the teller's voice in a Comrade Account, an Adversary Account,
 or a Hearsay entry counts as characters' talk; its reliability stays as `VB-067` sets it. The
 registers are those of Abad's ruling at `VB-068`'s lock, as the account craft standard sets them
-out: in the homage World, ritual insult, signifying, call and response, and the toast, and on Cian,
-dock, forge, and Maw idiom (R0.4); escalating story rounds (R15); the performed telling (R18); the
-tavern's growing comic story and its ridicule (M1); the corner's funny boast (M2); the barbershop's
-parting jab (M3); the insult that means welcome, ridicule, and the counter-boast (M4); the work
-break's ritual joke and ritual teasing (M7); the sailor's tall telling (M9); and the comic stories
-told at the family table (M6) and at wakes and remembrances (M11). A register this amendment does
-not list, among them M8's comic arc and toast and M10's tall tales, stays at irony and
-understatement, whatever its idiom or World. Outside a told account, every scene keeps irony and
-understatement, whatever room it is set in. This amendment changes no narration and no Dossier text,
-speech quoted in a Dossier included. Each designated narrator (`VB-020`), as narrator, as teller,
-and as a speaking character, keeps their own sheet (`VB-021` to `VB-025`). Every track voice ruling
-(`VB-020`, `VB-022`, `VB-024`, `VB-063`, `VB-064`, `VB-065`, `CC-034`) and every character's own
-voice (`VB-030`) still governs that character's diction, and the registers this amendment permits
-run inside it. Onyx's voice, narrating or through the grip, stays under `VB-063` alone. What any of
-these registers may claim stays with `VB-067` and `VB-068`: in a Comrade Account, a register that
-inflates a matter of fact is used only within `VB-067`'s Comrade bound, on a matter where a locked
-rule or reliable narration records the teller as mistaken or misled, or in secondhand relay, and
-traced. The 50% rule, the bar on phatic talk, fact over emotion, the banned words, and every hard
-constraint still apply. Every register this amendment permits stays non-explicit. Sexual talk in any
-of them is between adults only, with no minor present, addressed, or referenced, and no minor is the
-subject of a sexual insult, boast, or story (account craft standard, M1, M4, and section 7, item
-17). No character under thirty appears in or near any Ashkeel setting, and no sexual detail reaches
-the page there (`ASH-016`, `ASH-036`; account craft standard, M13)."
+out: in the homage World, ritual insult, signifying, call and response, and the toast, a long rhymed
+boasting narrative, and on Cian, dock, forge, and Maw idiom (R0.4); escalating story rounds (R15);
+the performed telling (R18); every comic register of M1, M4, and M7, among them the tavern's growing
+comic story and its ridicule (M1), the insult that means welcome, ridicule, the counter-boast, and
+hazing into the register (M4), and the work break's ritual joke, ritual teasing, the teasing-in of
+new hands, and yarns (M7); the corner's funny boast (M2); the barbershop's parting jab (M3); the
+sailor's tall telling (M9); and the comic stories told at the family table (M6) and at wakes and
+remembrances (M11). A register this amendment does not list, among them M8's comic arc and its
+closing drink toast and M10's tall tales, stays at irony and understatement, whatever its idiom or
+World. Outside a told account, every scene keeps irony and understatement, whatever room it is set
+in. This amendment changes no narration and no Dossier text, speech quoted in a Dossier included.
+Each designated narrator (`VB-020`), as narrator, as teller, and as a speaking character, keeps
+their own sheet (`VB-021` to `VB-025`). Every track voice ruling (`VB-020`, `VB-022`, `VB-024`,
+`VB-063`, `VB-064`, `VB-065`, `CC-034`) and every character's own voice (`VB-030`) still governs
+that character's diction, and the registers this amendment permits run inside it. Onyx's voice,
+narrating or through the grip, stays under `VB-063` alone. What any of these registers may claim
+stays with `VB-067` and `VB-068`: in a Comrade Account, a register that inflates a matter of fact is
+used only within `VB-067`'s Comrade bound, on a matter where a locked rule or reliable narration
+records the teller as mistaken or misled, or in secondhand relay, and traced. The 50% rule, the bar
+on phatic talk, fact over emotion, the banned words, and every hard constraint still apply. Every
+register this amendment permits stays non-explicit. Sexual talk in any of them is between adults
+only, with no minor present, addressed, or referenced, and no minor is the subject of a sexual
+insult, boast, or story (account craft standard, M1, M4, and section 7, item 17). No character under
+thirty appears in or near any Ashkeel setting, and no sexual detail reaches the page there
+(`ASH-016`, `ASH-036`; account craft standard, M13)."
 
 ---
 
@@ -220,12 +222,13 @@ they are part of what Abad approves.
   read a named house's location and the identity of its keeper as plain place and person facts,
   outside `VB-068`'s "standing structure, office" clause; a house's trade, custom, or offices are
   drafted as their own rule. `VB-068` records the ruling as covering the standard's comic registers
-  "including" a listed set. The amendment takes that listed set as written in `VB-068` (R0.4, R15,
-  R18, M1, M4, and M7 whole, with M2's funny boast, M3's parting jab, and the comic stories of M6 and
-  M11) and keeps every unlisted register at irony and understatement. **For Abad to confirm:** the
-  unlisted moves "including" could reach stay deadpan: M8's comic arc and crew toast, M10's tall
-  tales told to children, ritual insult at a Cian corner (M2), hazing into the register (M4), and
-  crowd jeering at a bout (M5). Any he wants broad is added to the amendment's list and to the
-  standard's section 7, item 14.
+  "including" R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic
+  stories of M6 and M11. The amendment takes that list as written, M1, M4, and M7 whole, and keeps
+  every unlisted register at irony and understatement. **For Abad to confirm:** the unlisted moves
+  "including" could reach stay deadpan: M8's comic arc and its closing drink toast, M10's tall tales
+  told to children, ritual insult at a Cian corner (M2), and crowd jeering at a bout (M5). Any he
+  wants broad is added to the amendment's list and to the standard's section 7, item 14. R0.4's
+  toast (a long rhymed boasting narrative) and M8's closing drink toast are named apart so they
+  never collide.
 - **Names collision-checked:** all 25, against `canon-ledger.json` and every entry file, with
   near-collisions to edit distance 2 (naming table, part (b)).
