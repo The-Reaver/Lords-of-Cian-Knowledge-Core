@@ -38,10 +38,12 @@ Anirak came round the corner of the chandler's at a run and took it in at one lo
 
 Grey oilcloth over dull plate. No marks.
 
-Edda down on one knee on the step, a hand to her head, blood in her hair.
+Edda down on one knee on the step, a hand to her head, blood in her hair. A club lay on the flags
+beside her.
 
 The chandler's door open. Two of them at the foot of the stair. Four more up it, near the top, and
-Hamund and Odile on the stair below those four, pressing up, steel ringing in the narrow well.
+Hamund and Odile on the stair below those four, pressing up. Staves cracking on steel in the narrow
+well.
 
 Six more in the lane mouth, close-packed, in no hurry. Two of them held a long canvas bundle between
 them that clinked when they shifted it.
@@ -54,8 +56,8 @@ The six in the lane parted and let her through.
 
 Too easy. She saw it as she passed them. Stopping would cost her more.
 
-The first man at the stair-foot swung a weighted strap at her head. She took it on the cuff of her left
-forearm. The strap wrapped the chain. She turned her wrist and reeled, and the strap brought him with
+The first man at the stair-foot swung a weighted strap low, for her arm. She took it on the cuff of her
+left forearm. The strap wrapped the chain. She turned her wrist and reeled, and the strap brought him with
 it, into her shoulder, and her shoulder put him into the doorpost. He slid down it.
 
 The weight of him came back up her arm.
@@ -84,13 +86,13 @@ the lead and came back up her arm as nothing at all.
 She ground a Fang's edge against the band across her hip. Leather parted. Mail under it. The edge
 skidded.
 
-A seventh cord ran from the net's crown. Someone hauled it. A hood came down over her face, sewn into
-the crown, coarse, sodden. Cold water ran down her neck. It closed over her mouth and her throat, the
+The net's crown cinched as the six leaned back. A hood sewn into it came down over her face, coarse,
+sodden. Cold water ran down her neck. It closed over her mouth and her throat, the
 gorget and all. The lamps went out.
 
 She could move a hand's breadth any way. No more.
 
-The weight she had gathered began to leak out of her arms. Down. Out through her shoulders. Out of her
+The links cooled under the bands. The weight she had gathered began to leak out of her arms. Down. Out through her shoulders. Out of her
 chest. Rain from a cracked jar. Every breath of stillness took more of it.
 
 They harnessed me. So the blows wouldn't stack.
@@ -107,18 +109,16 @@ Outside the hood, close, a calm voice. From behind the cords.
 
 "Hold tension. Four minutes."
 
-Another, rougher. "She's quiet."
-
-"She is draining. Watch the chain."
-
 A man reading a gauge. No heat in it. Every word chosen.
+
+Another, rougher. "She's stopped pulling."
 
 Then, nearer. To her.
 
 "Anirak." The way a clerk reads a name off a docket. "Do not exert yourself. No one here is authorized
 to injure you."
 
-She could not move. Every breath of it bled her more.
+She could not move enough. Every breath of it bled her more.
 
 Her voice was under the wet cloth, ready. She held it.
 
@@ -129,12 +129,11 @@ She held it.
 Boots on the steps, coming down fast. Hamund. Odile. Past her, one on either side. To the cords at her
 flanks.
 
-Before her now: two cord-men at the stair-foot. Nobody else.
+Two cords in front of her, heavy. Nothing else on the steps.
 
 She let it go.
 
-Low. Under hearing. Into the gorget, through the sodden hood, and the wet cloth carried it the way water
-carries anything, and the crystal nodes laid it out ahead of her.
+Low. Under hearing. It went out through the wet cloth, forward.
 
 It reached the two before her. She felt it reach them, down the cords. The forward lines shuddered.
 One went slack in a jerk. Then tight. Then slack. A man retching on the flags.
@@ -166,7 +165,7 @@ The links warmed again under the bands.
 
 "Right!" Odile. The right one too.
 
-Her two, on the cord-men. They did not reach for the net. They held the ground around her and took the
+Her two, on the cord-men. They held the ground around her and took the
 cords off her one at a time.
 
 She worked one arm up through the slack lattice. Got a hand to the crown cord. Tore the hood back.
@@ -182,7 +181,7 @@ She went out through the last of the lattice. The bands fell round her feet on t
 
 The cord-men were down, or backing off with their hands open. Not one of them came at her.
 
-The thin man stayed where he was, three paces back, and wrote.
+The thin man stayed where he was, three paces back.
 
 She went past him.
 
@@ -190,14 +189,16 @@ She went past him.
 
 The lane. The slip. The end of the second pier, at a dead run, the chains warm and singing.
 
-The small hull was already alongside the long keel out past the mouth. She felt the two touch, felt the
-small one go light as something was handed up out of it, felt it cut loose. The long keel heeled. Every
-sail drawing before the land breeze.
+The long keel stood off a long mile past the mouth. She felt the small hull already alongside it. Felt
+the two touch. Felt the small one go light as something was handed up out of it, and cut loose. As her
+feet hit the last planks, the long keel heeled and gathered way before the land breeze.
+
+Too far. Too fast.
 
 At the end of the pier she paced. Three strides each way. Rain on the planks. The weight in her arms and
 nowhere to spend it.
 
-The keel went out and out across the swell. Faster than she could swim it. Farther every breath.
+The keel went out and out across the swell. Farther every breath.
 
 It went over the edge of what she could feel. Then there was only the swell.
 
@@ -205,8 +206,8 @@ It went over the edge of what she could feel. Then there was only the swell.
 
 Hamund met her at the head of the slip.
 
-"Rest went over the seawall. The boat under it." He wiped rain off his face. "Thirteen. All on their
-feet or carried. Nobody dead."
+"Four went with her. Rest over the seawall, the boat under it." He wiped rain off his face. "Thirteen
+in all. Nobody dead."
 
 She had felt that boat under the seawall from the loft. She had let it go for the keel.
 
@@ -253,16 +254,18 @@ Captain does not appear. Tideglass is a Southern Sweep settlement (`MCD-255`); i
 port under the Merchant Accord (`MCD-266`, which does not name it) is a new detail. The detachment is a
 thirteen-strong Sealbound Directorate Level 3 Retrieval Detachment (`SBD-050`: subject recovery, 8 to 14
 personnel) -- six on the stair team, six on the cords, and the rig's maker -- and is not the
-twelve-strong Foundling Detachment (`SBD-061`). A Level 3 unit carries no authorization to engage a
-Military-Standard combatant (`SBD-050` reserves that for Level 2 Containment), so the rig is a
-non-injurious hold, a doctrine-compliant workaround: "No one here is authorized to injure you." The
-detachment uses only subduing force (Edda's scalp wound from a club at the door is the only injury of
-note to her three); it never threatens a life, so under `CC-164` Anirak has no necessity kill to make,
+twelve-strong Foundling Detachment (`SBD-061`). `SBD-050` assigns Military-Standard engagement to Level 2 Containment, so a Level 3 unit bringing a
+rig built against her is an edge-of-tier operation: a retrieval commander's contingency hold, logged in
+the Scrip-Ledger notation `SBD-050` already requires for Level 3 work (a new fact, flagged, and one more
+instance of the Directorate's fallibility pattern, `MCD-1727`); "No one here is authorized to injure
+you" is the unit's own reading of its orders. The detachment uses only subduing force -- straps,
+clubs, staves, the net (Edda's scalp wound from a club at the door is the only injury of note to her
+three); it never threatens a life, so under `CC-164` Anirak has no necessity kill to make,
 and she kills no one. The subject is Ardith, an adult, an escaped Directorate subject marked by a number
 behind the ear (a minor new texture detail); why the Directorate wanted her is left unstated, and she is
 not recovered. Her three choose Anirak over the subject when they see her netted, which is how Ardith is
 lost. The rig (a new fact, flagged for the lock rule): a net of leather bands packed with lead shot over
-mail, six cords, and a hood sewn into its crown, soaked. It is built against her as the Directorate reads
+mail, six rim cords, and a hood sewn into a crown that cinches as the cords are hauled, soaked. It is built against her as the Directorate reads
 her. The shot swallows every strike and returns no impact, so nothing is banked (`ARS-367`, `ARS-439`:
 Stack counts landed strikes and absorbed impacts). The cords hold her still, so what she has banked
 drains (`ARS-439`, the root of `ARS-373`'s no-stillness doctrine). The mail turns the Fang edges, and the
@@ -273,7 +276,7 @@ So the blows wouldn't stack.") is the first, and the line recurs in her head. It
 own throat's hum is felt in the body, carried and shaped by the gorget into a forward cone, and water
 carries it at full strength (`ARS-438`). She holds it until Hamund and Odile are out of its line, then
 it slackens the forward cords. She banks Stack again from the cord-men's weight hitting the ends of their
-cords (impact absorbed through the pull, Debt Collection's logic, `ARS-440`). Her two unhurt core
+cords (absorbed impact, `ARS-367`, `ARS-439`). Her two unhurt core
 members take the cords off one by one so she never has to stop, the Eastern Passage formation
 (`ARS-447`). Fury held at its first state: the links warm, cool as she drains, and warm again, and the
 engagement ends within minutes. The design survives in the maker's record, and the detachment's
@@ -281,7 +284,10 @@ after-action file runs under real names at the field office (`SBD-052`). Anirak 
 No future use of the rig is reserved or implied. The maker reads her name off her file (`CC-163`: SBD
 field files name her); his rank is not stated. Her sea-sense is ambient only (`ARS-367`, `ARS-371`): she
 feels three hulls and chooses the keel carrying Ardith over the boat under the seawall. Her undersea speed
-(`CC-113`) is weighed against a cutter running before the wind and rejected. Reserved threads untouched:
+(`CC-113`) is weighed and rejected in one beat ("Too far. Too fast."): the keel stands off a long mile
+and gathers way as she reaches the pier. Four of the detachment go out with Ardith in the small hull;
+the rest leave by the boat under the seawall. The keel and the small hull's oarsmen are transport, not
+detachment personnel. The maker records once, on his slate, and is not shown recording her escape. Reserved threads untouched:
 Hot/White and sync, Flood State, sonar, Sereth Vaul, Vestige, Ren and his field, her origin's open
 questions, the undead, her age, the loss of any of her three. Tech level: oars, sail, lead shot, leather,
 mail; nothing beyond the pre-industrial world.*

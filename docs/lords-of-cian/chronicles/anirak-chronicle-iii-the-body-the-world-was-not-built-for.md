@@ -22,8 +22,8 @@ Hamund, at the rail beside her, said it under his breath. "The one from the isla
 
 Word had come the week before. Someone had been found on the shelf islands and was being sent out.
 
-The young man came up the side ladder. The rungs creaked under him, every one, as if a second man
-climbed with him.
+The young man came up the side ladder. The rungs creaked under him, every one, as if he weighed a third
+again what he looked.
 
 He stepped onto the deck.
 
@@ -79,12 +79,11 @@ He looked at her. Then at the sea. Then back at her.
 She waited for his face to set and hold, the way every face set and held. It stayed loose. His eyes
 went to her chains. To her hands. Back to her face. Off to the sea again. Back.
 
-Every time, he brought them back himself.
+Every time, they came back. Loose.
 
-She had seen ten thousand faces turn to her. She had never once seen one leave her and come back by its
-own choosing.
+Faces had left her before. The Captain's once, at Chain Harbor, to her hands. Every one came back set.
 
-A man alone in a ring nobody would cross. A man who looked at her and was not caught.
+A man alone in a ring nobody would cross. A man who looked at her, and looked away, and looked back.
 
 Go and stand in it.
 
@@ -116,7 +115,7 @@ planks. Back to her face.
 
 "I saw."
 
-She did not sit. The weight on a body that sits is a harness. She stood an arm's length from him with
+She did not sit. Sitting under a weight was the harness again. She stood an arm's length from him with
 her bowl in her hand and ate on her feet, shifting her weight from one foot to the other, the load riding
 down through her into the planks. The planks groaned under the two of them together, one long low note.
 
@@ -135,7 +134,7 @@ He almost smiled. He looked down at the bowl in his hands.
 "At home they built the walls thicker for me," he said. "Then thicker again. Then there was no wall thick
 enough."
 
-She did not ask where home was. He asked her nothing at all.
+She did not ask where home was.
 
 Out on the benches the crew had gone back to their bowls. Her three sat at the end of the nearest bench,
 outside the ring, where everyone sat. Hamund was watching. He caught her eye, and his face set and held
@@ -166,7 +165,7 @@ His face turned to her and held.
 
 He went round. He went wide.
 
-She stepped back into the weight. Ren had not moved. He was looking at her, and his eyes were his own.
+She stepped back into the weight. Ren had not moved. He was looking at her.
 
 "I did not ask you to do that," he said.
 
@@ -220,18 +219,18 @@ neither shows nor implies what the crew knows of Sephtis in these years, pending
 (`MCD-982`'s staged withdrawal). "The shelf islands" stays within `CC-101`'s Jicome continental-shelf
 origin and `CC-138`'s remote-island finding without naming either. His "At home they built the walls
 thicker for me" restates `CC-101`'s exile (his field exceeding his settlement's structural tolerance) and
-`MCD-1715`'s "a danger his own people loved him despite." Neither asks the other's origin, so `CC-163`'s
+Lauris XCVIII's "a danger his own people loved him despite" (`MCD-1715`, Chronicle prose). Neither asks the other's origin, so `CC-163`'s
 open questions (whether her community was Vael Kem, `MCD-041`, `MCD-1896`) stay closed. The Siren
 (`CC-112`): Ren is always inside his own radius, so his face is never caught. Across the deck his is the
 one face that turns to her, leaves her, and comes back by its own choosing, and that is what draws her
-across. Shown only through his eyes moving, never named as a mechanism. The deckhand is caught only once
+across. Shown through his eyes moving and returning, and her account of faces that came back set, including the Captain's at Chain Harbor (`MCD-1883`), never named as a mechanism. The deckhand is caught only once
 he has scrambled out past the ring's edge and she has stepped out to face him; no one inside the field
 is shown caught. Her three stay outside the ring the whole time (Hamund's face caught as always), so the
 reserved payoff -- her three inside Ren's field, stripped of the Siren and still hers -- is untouched,
 and she learns nothing here about what the field does to anyone other than Ren. The load falls on her
 too: the passive +30% of `CC-066`/`CC-101`, chains heavier, knees and spine taking it. She stands and
 moves inside the passive field only, consistent with `ARS-446`'s clearing of the active radius and with
-`MCD-1715` (Lauris later his practice partner for the active range, which Anirak does not stand in). She
+`MCD-1715` (Lauris, at an undated time, his practice partner for the active range, which Anirak does not stand in). She
 keeps moving: she eats on her feet and shifts her weight, because a weight on a body that sits reads to
 her as a harness (her approved profile: stillness is the harness, doctrine and temperament at once,
 `ARS-373`, `ARS-439`). Her chains hang cool at rest and heavier under the load; her heart lifts only a
