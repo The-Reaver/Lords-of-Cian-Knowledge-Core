@@ -1,6 +1,6 @@
 # Pyro (Ignis Rexmar) — Profile & Game Plan
 
-**Status:** walkthrough drafted
+**Status:** profile in discussion (Section 2 proposed)
 **Track:** character Series (priority launch per Abad, 2026-10-03)
 **Gate cleared:** NO — no prose for this series may be drafted or presented until this file reaches "game plan approved."
 
