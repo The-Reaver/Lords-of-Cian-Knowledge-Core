@@ -49,6 +49,9 @@ EDITS = {
     CH + "ozmund-testament-lxxxiii-what-they-said-when-he-wasnt-listening.md": [
         ('"smaller pieces...too slight to carry a whole Testament on', '"smaller pieces...too slight to carry a whole account on', 1),
     ],
+    CH + "lauris-record-cx-the-instruments-read-an-empty-room.md": [
+        ("holding Ch. XXIX's line", "holding Record XXIX's line", 1),
+    ],
     CH + "the-notebook-garren-hask-finally-opened.md": [
         ("the Sankofa territory Annals entry's \"crack\" entry", "the Sankofa Annals' \"crack\" entry", 1),
     ],
