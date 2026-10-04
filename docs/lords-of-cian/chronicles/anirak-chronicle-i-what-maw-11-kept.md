@@ -1,6 +1,6 @@
 # Anirak Chronicle I: What Maw-11 Kept
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (second draft, after independent review). First
+*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (fourth draft, after three independent review rounds). First
 entry of Anirak's Character Chronicle series (Game Plan pitch 2, locked at Batch 372). Close-third on
 Anirak per `VB-065`. Kanja age 140, the Long Mask, the Maw Cascade's inside job at Maw-11 (`MCD-264`).
 Her first marquee kill under `MCD-1881`, a `CC-164` necessity kill. New named character: Gethin
@@ -37,7 +37,7 @@ Ghostwind studied the lines a long while. Then her face.
 
 He set a roll of oilcloth on the table and opened it. Bronze reeds, thirty, each as long as a forearm,
 weighted at the foot. Ghostwind lifted one and hummed down it. The table
-shook under her palms, low and slow.
+shook under her fingers as she passed, a buzz under hearing.
 
 Ghostwind set it down.
 
@@ -52,7 +52,7 @@ The Captain turned from the window. Collar open. The voice rough and low.
 • • •
 
 Maw-11 sat in a fold of the southern coast hills. Grey stone. Low walls. A regional Maw, small beside
-the Grand Maws. Three thousand eight hundred Branded in its pens.
+the Grand Maws. Three thousand eight hundred held behind its walls.
 
 She came up the road at dusk, her three behind her. Edda. Hamund. Odile. No hoods. The Captain's
 wagons waited on the hill road below the gate.
@@ -84,8 +84,8 @@ The yard. Packed sand over stone, raked smooth in rows. Lamps on poles at the co
 middle, a raised floor of fitted blocks, the seams stained dark. Blood in the sand. Blood on the Slab's edge,
 the afternoon's, not yet swept.
 
-Forty men. Slab crews at the reset carts with brooms and iron bars. Guards at the armory doors. Handlers
-at the water trough, cups in hand.
+Forty men. Slab crews at the reset carts with brooms and iron bars. Guards at the armory doors. Wardens
+at the water trough, cups in hand, free men hired to the clubs.
 
 Every face found her.
 
@@ -98,7 +98,7 @@ Someone said it. Then several.
 
 She kept walking. Along the Slab's edge. Around it.
 
-The guards came off the armory doors. Eight. Spears and hook-poles. The handlers came behind them with
+The guards came off the armory doors. Eight. Spears and hook-poles. The wardens came behind them with
 clubs off the rack, twelve of them, bunched, clubs held too tight. The Slab crews stayed at the
 carts, bars in their fists, watching.
 
@@ -106,7 +106,7 @@ She read them as she walked.
 
 Guards: drilled. Spreading to flank. They would come together.
 
-Handlers: they would come behind the guards.
+Wardens: they would come behind the guards.
 
 Crews: they would come only if the rest went first.
 
@@ -139,7 +139,7 @@ A hook-pole came at her back. She felt the air move and stepped into the swing, 
 took the shaft across her shoulder. It went into her and stayed in her. She turned with it and gave it
 back through the Star into the man's thigh. He went down sideways.
 
-The handlers bunched. Twelve, the last guards at the ends. They meant to rush her together.
+The wardens bunched. Twelve, the last guards at the ends. They meant to rush her together.
 
 She let her voice go.
 
@@ -151,8 +151,8 @@ leaned on it. The man at the center stepped back to where his eye said he was cl
 the reach. The figure-eight came round and found him.
 
 She opened the Star's head wide and swept it through them. Clubs spun out of hands. Men went to their
-knees, heads down, retching into the sand, and stayed there. A guard tried to rise. His face found her
-and held. He sat back down.
+knees, heads down, retching into the sand, and stayed there. A guard tried to rise. He swayed, and sat
+back down.
 
 No one came again.
 
@@ -163,7 +163,7 @@ The chains glowed along their links. Dull amber. Her heart sat raised and steady
 
 • • •
 
-She felt it in the stone. A grinding, slower than a heartbeat. Up through the sand into her boots, into her knees, into her
+She felt it in the stone. A buzz in the teeth, under hearing. Up through the sand into her boots, into her knees, into her
 ribs. A few voices. Then more. Then many.
 
 The pens were singing.
@@ -178,7 +178,7 @@ their arms.
 
 She kept walking. Round the Slab.
 
-Then a hole tore in the low note, near the first grate. Voices stopping. Starting. Stopping again.
+Then a hole tore in the low note. Voices stopping. Starting. Stopping again.
 
 Someone was at the grate.
 
@@ -218,8 +218,8 @@ The first grate. Iron bars floor to ceiling, crossbars at waist and head height,
 Tamber stood at the bars with his back to her.
 
 Beyond the grate, the first pen. Faces at the bars. Thin faces. Brands on the inner left forearms of the
-hands that gripped iron. A bronze reed in a fist here and there. Some still singing. Some backed from the
-bars, mouths shut.
+hands that gripped iron. A bronze reed in a fist here and there. Mouths open on the low note. Two men
+backed from the bars, mouths shut.
 
 One woman at the front. Grey-haired, arms scarred to the elbow. She held a reed to her lips and sang
 into it and kept her place.
@@ -232,7 +232,7 @@ She sang.
 
 Anirak came down the last ten paces still moving, the Fangs swinging at her knees.
 
-One man. One pole, hooked, set at a throat. His weight already leaning into it.
+One man. One pole, hooked, set at a throat. His weight set behind it.
 
 He is killing her now.
 
@@ -302,15 +302,14 @@ He was gone, the air sucking after him.
 They walked.
 
 Up through the staging tunnels and out the door into the yard. Grey faces, scarred arms, bare feet on
-packed sand. Past the men still sitting in the sand by the Slab. None of those men rose. Past the carts
-and the trough and the dark armory doors. Out through the gate. Edda and Hamund stood aside. Odile kept
+packed sand. Past the guards and wardens still sitting in the sand by the Slab. None of them rose. At the reset
+carts the Slab crews set their iron bars down on the sand and fell in with the rest. Past the trough and the dark armory doors. Out through the gate. Edda and Hamund stood aside. Odile kept
 her back to the hinge post. The gate stood open.
 
 Three thousand eight hundred.
 
 Some of them looked at her as they passed. Faces turned and held until the gate took them. A few she
-knew. A scar. A way of walking. A face she had seen across the sand. They knew her too. None of them
-said a name. Out on the road someone was already shouting "Blades Fury."
+knew. A scar. A way of walking. A face she had seen across the sand. None of them said a name. Out on the road someone was already shouting "Blades Fury."
 
 The grey woman came last of her pen. She stopped before Anirak, the reed still in her fist.
 
@@ -359,21 +358,21 @@ demonstrated by Ghostwind humming down one, felt as vibration rather than heard,
 synchronized-voice cancellation of Blight Frequency suppression (`ARS-398`, `MCD-236`) under its
 precision-beam doctrine (`MCD-248`), after the Calibration Theft's redesign (`MCD-265`, age 108), an
 inside job in the literal sense. The mast's box overloads and splits, as the Blackout's relay towers
-were overloaded (`MCD-237`). The Maw's Branded are held under Blight suppression (`ARS-398`), alongside the Tether suppression of
-`ARS-377` and `MAW-131`; the box faces the pen
+were overloaded (`MCD-237`). The Maw's held are kept under Blight-frequency suppression (`ARS-398`); counter-frequency neutralizing
+Maw suppression is the mechanism `MAW-088` gives the later Frequency Vaccine; the box faces the pen
 block, so the yard and its bouts sit in spill only; the bent and sheared grates show the freed at their
 true density. Anirak is one of the nineteen Avatars under the Sovereign Umbrella (`MCD-140`), whose
-Blight Immunity (`MCD-060`, Stage 1 Sub 2) covers the Avatars within the Umbrella's reach of the
-Captain, whose wagons wait on the hill road below the gate, so the mast does not touch her tonight; she
-knows its weight from her years there. The Umbrella does not cover the Branded in the pens, which is why
-the pens need the singing. Anansi's portable generator, the Frequency Vaccine (`MCD-265`, age 180), comes later and is
+Blight Immunity (`MCD-060`, Stage 1 Sub 2) has the crew as its recipient, so the mast does not touch
+her tonight; she knows its weight from her years there. Only engineering extends that protection to a
+population (`MCD-265`), which is why the pens need the singing. No radius is asserted. Anansi's portable generator, the Frequency Vaccine (`MCD-265`, age 180), comes later and is
 not used. Ghostwind at 29 (recruited at 19, age 130, `MCD-258`), with the Slipstream Harness and the
 Vane-Compass (`ARS-409`); the Wind-Razors are not drawn. Her kill: Gethin Tamber, a free tunnel master
-(a Tier 2 Backstage post per `MAW-077`, which runs tunnels, staging, and armories; handlers are
-"overwhelmingly" Cestari, and Tamber is a free exception), a `CC-164` necessity kill. He has a hook set
-at a singer's throat and is leaning into it, is given terms once ("Leave it. Walk."), is driving the
+(the free master over `MAW-077`'s Tier 2 backstage handlers, who run tunnels, staging, and armories), a
+`CC-164` necessity kill. He has a hook set at a singer's throat with his weight behind it, is given terms once ("Leave it. Walk."), is driving the
 hook when the Fang strips the pole, then draws a knife and goes back through the bars at her, and the
-Morning Star kills him. He never turns on Anirak. Every yard fighter is disarmed or dropped and none is
+Morning Star kills him. He never turns on Anirak. The yard's fighters are free guards and hired wardens; the Slab crews, Tier 1 handlers and
+overwhelmingly Cestari (`MAW-077`), never fight and walk out with the pens, so the locked 3,800
+(`MCD-264`) counts everyone held behind the walls. Every yard fighter is disarmed or dropped and none is
 killed: a First Payment variant on the opening guard, Compound Interest, Siren's Draw, and Foreclosure
 (`ARS-441`); Foreclosure is lethal only to those who keep coming (`CC-164`), and no one keeps coming. The
 Siren's Draw misjudgment stays inside the locked 15-20% (a man braced one pace short, `ARS-411`,
@@ -386,7 +385,7 @@ Voice is felt in the body and shown from outside, shaped by the gorget into a fo
 is shown only as faces turning and holding, her doubt left unresolved (`CC-112`, `VB-065`). The epithet
 "Blades Fury" is in public use by Kanja 140. Her name is spoken only by Tamber, one of those who once
 held her (`CC-163`); the freed say no name. Guards: no debtor, brand, birth community, or age of hers is
-named or implied; Tamber's knowing "what every Branded was worth" does not price her, and her years at
+named or implied; her years at
 Maw-11 are left uncounted. Her three (Edda, Hamund, Odile, `MCD-1890`) hold the front gate; they do not
 enter the pens, and none of them is said to have been held at Maw-11. The Captain at 140, in the Scourge
 register (Voice Bible Section IV), "the Captain" throughout; Forge-Coat V3 era (`ARS-348`), the Breath
