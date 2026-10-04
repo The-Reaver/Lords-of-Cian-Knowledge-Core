@@ -114,6 +114,11 @@ whatever the register (`VB-004` as amended, Batch 377)."""),
   - corner and crew: pembe (`LEX-020`)
   - lookout: oju (`LEX-019`)
   - street game: kete (`LEX-021`)"""),
+    ("""    and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).""",
+     """    and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).
+    In a told account, every comic register stays non-explicit; sexual talk is between adults only,
+    with no minor present, addressed, or referenced, and no minor is the subject of a sexual insult,
+    boast, or story (`VB-004` as amended, Batch 377)."""),
     ("- *Open:* ritual teasing, deadpan (`VB-004`).",
      "- *Open:* ritual teasing (`VB-004` as amended, Batch 377)."),
     ("""It is a recognized genre of tall telling, told deadpan: the
@@ -128,14 +133,7 @@ for a, b in REPL:
 # section 7 item 14 humor bullet
 i = s.index("    - Humor is irony and understatement only (`VB-004`). Every comic register")
 j = s.index("    - No balanced antithesis", i)
-s = s[:i] + ("    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`). In a\n"
-             "      told account, characters' talk may use the comic registers `VB-004` as amended (Batch\n"
-             "      377) lists, R0.4, R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the\n"
-             "      comic stories of M6 and M11, and none broader. For this purpose the teller's voice in a\n"
-             "      Comrade Account, an Adversary Account, or a Hearsay entry counts as characters' talk,\n"
-             "      its reliability as `VB-067` sets it. The amendment changes no narration and\n"
-             "      no Dossier text, and each designated narrator keeps their own sheet (`VB-021` to\n"
-             "      `VB-025`).\n") + s[j:]
+s = s[:i] + "    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`). In a told\n      account, characters' talk may use only the comic registers `VB-004` as amended (Batch 377)\n      lists: in the homage World, ritual insult, signifying, call and response, and the toast, and\n      on Cian, dock, forge, and Maw idiom (R0.4); R15; R18; M1's growing comic story and its\n      ridicule; M2's funny boast; M3's parting jab; M4's insult that means welcome, ridicule, and\n      counter-boast; M7's ritual joke; M9's tall telling; and the comic stories of M6 and M11. For\n      this purpose the teller's voice in a Comrade Account, an Adversary Account, or a Hearsay entry\n      counts as characters' talk, its reliability as `VB-067` sets it. The amendment changes no\n      narration and no Dossier text, speech quoted in a Dossier included. Each designated narrator\n      keeps their own sheet (`VB-021` to `VB-025`). Every track voice ruling and every character's\n      own voice (`VB-030`) still governs that character's diction, and these registers run inside\n      it. Onyx stays under `VB-063` alone. Every such register stays non-explicit (item 17).\n" + s[j:]
 # R0.4 ruling note
 a = """  - Abad ruled at `VB-068`'s lock that these registers may run broader in told accounts. The
     broader registers apply once the `VB-004` amendment that sets them out locks. Until then,
@@ -165,7 +163,8 @@ t = open(TABLE, encoding="utf-8").read()
 a = "Part (b)'s approved picks lock as their own rules; nothing in part (b) is usable before then."
 assert t.count(a) == 1
 t = t.replace(a, "Part (b)'s approved picks locked as `LEX-001` to `LEX-025`, Batch 377; N10b and the "
-                 "[RULE NEEDED] keys (N6, N7, N13, N16, H5, H6, H7) are held.")
+                 "[RULE NEEDED] keys (N6, N7, N13, N16, H5, H6, H7) are held. Part (c), item 8 is resolved by "
+                 "`VB-004` as amended, Batch 377.")
 open(TABLE, "w", encoding="utf-8").write(t)
 
 # --- propagation: CLAUDE.md prefix list ---
@@ -192,6 +191,9 @@ c = c.replace(a, a + f"""
   a stone basin over a sealed heat-gallery with no open flame. N10b and the [RULE NEEDED] keys are
   held.
 - **Propagation.** The standard's name markers and deadpan-only lines were updated in the same batch.
+  Sync owed: the mirrored Voice Bible's Pillar 3 humor line (`docs/lords-of-cian/voice/voice-bible-definitive.md`)
+  is a read-only copy and now differs from `VB-004` as amended; the ledger rule controls, and the
+  Drive source document is Abad's to update.
 Ledger at `ledger_version` 37.9, 2,721 rules, 377 batches.
 """)
 open("CLAUDE.md", "w", encoding="utf-8").write(c)

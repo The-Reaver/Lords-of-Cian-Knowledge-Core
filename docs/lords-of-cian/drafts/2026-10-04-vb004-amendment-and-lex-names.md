@@ -1,6 +1,6 @@
 # VB-004 amendment and the account-craft vocabulary (LEX-001 to LEX-025)
 
-*Draft for Abad's approval, 2026-10-04 (revision 6, after the fifth independent review). Nothing here is locked. It carries out his rulings at
+*Draft for Abad's approval, 2026-10-04 (revision 7, after the sixth independent review). Nothing here is locked. It carries out his rulings at
 `VB-068`'s lock ("lock it, approve the picks, confirm all three"): the comic registers may run
 broader than `VB-004` in told accounts, set out as a `VB-004` amendment; and the approved picks from
 the naming table (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`, part (b))
@@ -30,15 +30,14 @@ Dossier text, speech quoted in a Dossier included. Each designated narrator (`VB
 as teller, and as a speaking character, keeps their own sheet (`VB-021` to `VB-025`). Every track
 voice ruling (`VB-020`, `VB-022`, `VB-024`, `VB-063`, `VB-064`, `VB-065`, `CC-034`) and every
 character's own voice (`VB-030`) still governs that character's diction, and the registers this
-amendment permits run inside it. Onyx's voice, narrating or through the grip, is governed by
-`VB-063` and never by this amendment. What any of these registers may claim stays with `VB-067` and `VB-068`:
+amendment permits run inside it. Onyx's voice, narrating or through the grip, stays under `VB-063`
+alone. What any of these registers may claim stays with `VB-067` and `VB-068`:
 in a Comrade Account, a register that inflates a matter of fact is used only within `VB-067`'s
 Comrade bound: on a matter where a locked rule or reliable narration records the teller as mistaken
 or misled, or in secondhand relay, and traced. The 50% rule, the bar on phatic talk, fact over emotion, the banned words, and
 every hard constraint still apply. Every register this amendment permits stays non-explicit. Sexual
-talk in any of them is between adults only, with no minor present, addressed, or referenced, and no
-minor is the subject of a sexual insult, boast, or story (account craft standard, section 7, item
-17). In any Ashkeel setting, no character under thirty appears in or near the scene, and no sexual
+talk in any of them is between adults only, with no minor present, addressed, or referenced, and no minor is the subject of a sexual insult, boast, or story (account craft standard, M1, M4,
+and section 7, item 17). In any Ashkeel setting, no character under thirty appears in or near the scene, and no sexual
 detail reaches the page (`ASH-016`, `ASH-036`; account craft standard, M13)."
 
 ---
@@ -83,8 +82,8 @@ before a bout (`MAW-064`). It is slang only; `MAW-064`'s terms stand.
 **LEX-008**. a hewer: Maw crowd slang for a Branded fighter, heard in the Common Tiers (`MAW-064`, `MAW-087`),
 after the hardest labor a crowd knows. "Branded" stays the term in narration (`VB-013`).
 
-**LEX-009**. a bell: Maw crowd slang for a bout ("three bells on the card," `MAW-087`), from the bell that opens
-a bout ("a floor before the bell," `MCD-1886`). Ozmund Testament CXXI's "No second bell" (`MCD-1886`) reads in this sense: one bout, and no
+**LEX-009**. a bell: Maw crowd slang for a bout, as in "three bells on the card" (the card of
+`MAW-087`'s Accumulator Bets), from the bell that opens a bout ("a floor before the bell," `MCD-1886`). Ozmund Testament CXXI's "No second bell" (`MCD-1886`) reads in this sense: one bout, and no
 second called. This rule sets no round structure for a Maw bout. Context keeps the word apart from a
 time-bell, the Chrono-Anchor Bells (`ARS-402`), the Belly (`MAW-061`), and the bell among the marks
 in Kanja Chronicle VII (`MCD-1885`).
@@ -174,7 +173,9 @@ they are part of what Abad approves.
   Trust notice the posted bill (`LEX-012`)", setting no form.
 - The deadpan-only lines are brought in line with the amended `VB-004`: section 1's Voice Bible
   summary, R0.4, R15, R18, M1's drift, M4's opening, M7's ritual joke and opening, M9's tall
-  telling, section 6's closing paragraph on Comrade brag rooms, and section 7, item 14. Each now
+  telling, section 6's closing paragraph on Comrade brag rooms, and section 7, item 14, which now
+  restates the amendment's full list and limits. Section 7, item 17 adds the amendment's
+  child-safety line for told accounts. Each now
   says characters' talk in a told account may run as broad as `VB-004` as amended allows. Section 6
   now reads that a Comrade teller in a brag room inflates a matter of fact only within `VB-067`'s
   Comrade bound, whatever the register.
@@ -198,7 +199,10 @@ they are part of what Abad approves.
 - **Extends:** `VB-004`, with characters' talk in told accounts only; `MAW-064` and `MAW-087` with
   crowd and fighter slang that renames nothing.
 - **Touches:** the locked account craft standard (section (c) above); CLAUDE.md's prefix list and
-  history; `ASH-051` (candles in use in Ashkeel, untouched by LEX-025).
+  history; `ASH-051` (candles in use in Ashkeel, untouched by LEX-025); the mirrored Voice Bible's
+  Pillar 3 "Permitted Humor" line (`docs/lords-of-cian/voice/voice-bible-definitive.md`, not edited
+  here), which now differs from `VB-004` as amended in told accounts. The ledger rule controls, and
+  an update to the Drive source document is Abad's to make.
 - **New fact fixed:** LEX-025 sets one feature of Ashkeel's everyday halls, a stone basin over a
   sealed heat-gallery. The pick's own rationale (drinkers around a brazier) implied open flame. No
   rule bars flame from the halls (`ASH-009` compartmentalizes workshop fire, and candles are in use,
