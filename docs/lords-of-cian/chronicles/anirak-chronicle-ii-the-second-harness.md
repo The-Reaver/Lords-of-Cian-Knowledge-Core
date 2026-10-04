@@ -1,6 +1,6 @@
 # Anirak Chronicle II: The Second Harness
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (fourth draft, after three independent review rounds). Second
+*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (fifth draft, after four independent review rounds). Second
 entry of Anirak's Character Chronicle series (Game Plan pitch 3, locked at Batch 372). Close-third on
 Anirak per `VB-065`. The Long Mask, roughly Kanja 175, after Maw-11 (`MCD-264`) and before Ren comes
 aboard. A thirteen-strong Sealbound Directorate Retrieval Detachment (`SBD-050`) comes for a subject of
@@ -19,11 +19,11 @@ front, and the water black between the piers.
 
 She lay awake in the loft over the net-maker's shop, and the sea told her why.
 
-Hulls. Three moving, or out of place. A small one inside the second pier, low in the water, no lamp, oars muffled and dipping
+Hulls. Three moving, or out of place. A small one inside the second pier, low in the water, dark, oars muffled and dipping
 slow. A second small one, still, nosed in under the seawall. A long keel just outside the harbor
 mouth, holding its place against the swell.
 
-She was down the ladder with the chains in her hands before the oars went quiet.
+She was down the ladder with the chains in her hands and the Star across her back before the oars went quiet.
 
 • • •
 
@@ -41,7 +41,8 @@ Grey oilcloth over dull plate. No marks.
 Edda down on one knee against the wall beside the door, a hand to her head, blood in her hair. A club lay on the flags
 beside her.
 
-The chandler's door open. Two of them at the foot of the stair. Four more up it, near the top, and
+The chandler's door open on a flagged entry, a stair going up from the back of it. Two of them at the
+foot of the stair. Four more up it, near the top, and
 Hamund and Odile on the stair below those four, pressing up. Staves cracking on the crew's
 blades in the narrow well.
 
@@ -58,7 +59,7 @@ Too easy. She saw it as she passed them. Stopping would cost the stair.
 
 The first man at the stair-foot swung a weighted strap low, for her arm. She took it on the cuff of her
 left forearm. The strap wrapped the chain. She turned her wrist and reeled, and the strap brought him with
-it, into her shoulder, and her shoulder put him into the doorpost. He slid down it.
+it, into her shoulder, and her shoulder put him into the wall. He slid down it.
 
 The weight of him came back up her arm.
 
@@ -92,7 +93,7 @@ gorget and all. The lamps went out.
 
 She could move a hand's breadth any way. No more.
 
-The links cooled under the bands. Her heart slowed with them. She let it, to keep her head. The
+Her heart slowed. She let it, to keep her head. The links cooled with it under the bands. The
 weight she had gathered began to leak out of her arms. Down. Out through her shoulders. Out of her
 chest. Rain from a cracked jar. Every breath of stillness took more of it.
 
@@ -112,7 +113,7 @@ Outside the hood, close, a calm voice. From behind the cords.
 
 A stylus scratching on slate, close behind the cords.
 
-A man reading a gauge. No heat in it. Every word chosen.
+A man reading a tide-mark. No heat in it. Every word chosen.
 
 Another, rougher. "She's stopped pulling."
 
@@ -132,8 +133,8 @@ She held it.
 Boots on the steps, coming down fast. Hamund. Odile. Past her, one on either side. To the cords at her
 flanks.
 
-Two cords in front of her, heavy. Nothing else on the steps. Edda's breath, off to her left, against
-the wall.
+Two cords in front of her, heavy, one either side of the stair foot. Nothing on the steps. Edda's
+breath, behind her and to the left, out past the door, against the wall.
 
 She let it go.
 
@@ -174,7 +175,7 @@ cords off her one at a time.
 
 She worked one arm up through the slack lattice. Got a hand to the crown cord. Tore the hood back.
 
-Lamps. Rain. The lane.
+Lamps through the open door. Rain. The lane.
 
 Every face in the lane on her.
 
@@ -194,7 +195,7 @@ She went past him.
 The lane. The slip. The end of the second pier, at a dead run, the chains warm and singing.
 
 The long keel lay a few cables past the mouth. The small hull's oar-beat had stopped against its bulk.
-As her feet hit the last planks, the keel's wake lengthened. It heeled and gathered way before the land
+As her feet hit the last planks, the keel's wake lengthened. It heeled hard and gathered way before a stiff land
 breeze.
 
 She set a foot on the last pile and looked at the swell.
@@ -261,8 +262,7 @@ port under the Merchant Accord (`MCD-266`, which does not name it) is a new deta
 thirteen-strong Sealbound Directorate Level 3 Retrieval Detachment (`SBD-050`: subject recovery, 8 to 14
 personnel) -- six on the stair team, six on the cords, and the rig's maker -- and is not the
 twelve-strong Foundling Detachment (`SBD-061`). `SBD-050` assigns Military-Standard engagement to Level 2 Containment, so a Level 3 unit bringing a
-rig built against her is an edge-of-tier operation: a retrieval commander's contingency hold, logged in
-the Scrip-Ledger notation `SBD-050` already requires for Level 3 work (a new fact, flagged, and one more
+rig built against her is an edge-of-tier operation: a retrieval commander's contingency hold, authorized under the Level 3 retrieval's own sign-off (a new fact, flagged, and one more
 instance of the Directorate's fallibility pattern, `MCD-1727`); "No one here is authorized to injure
 you" is the unit's own reading of its orders. The detachment uses only subduing force -- straps,
 clubs, staves, the net (Edda's scalp wound from a club at the door is the only injury of note to her
@@ -295,8 +295,11 @@ feels three hulls and chooses the keel carrying Ardith over the boat under the s
 gathers way as she reaches the pier, running out a long mile and more; her sea-sense reads only coarse
 cues at that range (an oar-beat stopping, a wake lengthening). Four of the detachment go out with Ardith in the small hull;
 the rest leave by the boat under the seawall. The keel and the small hull's oarsmen are transport, not
-detachment personnel. The maker writes during the hold and is not shown recording her escape. Edda is placed against the wall
-beside the door, off the Voice's forward line, and Anirak hears her there before the release. Reserved threads untouched:
+detachment personnel. The maker writes during the hold and is not shown recording her escape. The net closes on her in the chandler's flagged entry, facing the
+stair; the two forward cord-men flank the stair foot, and Hamund and Odile come down between them and
+pass her. Edda is outside, against the wall beside the door, behind Anirak and off the Voice's forward
+line, and Anirak hears her there before the release. The Morning Star rides across her back under the
+net and is not drawn. Reserved threads untouched:
 Hot/White and sync, Flood State, sonar, Sereth Vaul, Vestige, Ren and his field, her origin's open
 questions, the undead, her age, the loss of any of her three. Tech level: oars, sail, lead shot, leather,
 mail; nothing beyond the pre-industrial world.*
