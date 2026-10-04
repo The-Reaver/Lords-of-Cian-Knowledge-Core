@@ -1,6 +1,6 @@
 # Anirak Chronicle III: The Body the World Was Not Built For
 
-*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (second draft, after independent review). Third
+*UNLOCKED DRAFT, PENDING ABAD'S APPROVAL, 2026-10-04 (third draft, after two independent review rounds). Third
 entry of Anirak's Character Chronicle series (Game Plan pitch 1, locked at Batch 372), closing the
 launch wave. Close-third on Anirak per `VB-065`. The late Long Mask, roughly Kanja 300. Ren (Abyss,
 Ren Oshaal) comes aboard an adult, already recruited off the page, and she takes him as her charge
@@ -12,8 +12,8 @@ page. No child-safety issues. Not canon until approved.*
 
 He came aboard on the morning launch, in fog.
 
-She felt the launch before she saw it. A small hull riding low. Lower than six oarsmen and a cargo of
-water casks should ride it. As if one more cask sat in the bottom of it, a cask of lead.
+She felt the launch before she saw it. A small hull answering the swell slow, like a laden boat. Six
+oarsmen labouring at it as if one more cask sat in the bottom of it, a cask of lead.
 
 The launch came alongside. The oarsmen shipped their oars fast and crowded to the far gunwale, all six,
 so the boat listed. In the stern a young man sat alone with a sea-bag on his knees.
@@ -81,7 +81,7 @@ went to her chains. To her hands. Back to her face. Off to the sea again. Back.
 
 Every time, they came back. Loose.
 
-Faces had left her before. The Captain's once, at Chain Harbor, to her hands. Every one came back set.
+Faces had left her before. The Captain's, at Chain Harbor and since, to her hands. They came back set.
 
 A man alone in a ring nobody would cross. A man who looked at her, and looked away, and looked back.
 
@@ -127,7 +127,7 @@ He looked at her for a while. She let him. She had nothing to measure it against
 
 "That is not an answer."
 
-"It's the answer."
+"It's all of it."
 
 He almost smiled. He looked down at the bowl in his hands.
 
@@ -223,7 +223,7 @@ Lauris XCVIII's "a danger his own people loved him despite" (`MCD-1715`, Chronic
 open questions (whether her community was Vael Kem, `MCD-041`, `MCD-1896`) stay closed. The Siren
 (`CC-112`): Ren is always inside his own radius, so his face is never caught. Across the deck his is the
 one face that turns to her, leaves her, and comes back by its own choosing, and that is what draws her
-across. Shown through his eyes moving and returning, and her account of faces that came back set, including the Captain's at Chain Harbor (`MCD-1883`), never named as a mechanism. The deckhand is caught only once
+across. Shown through his eyes moving and returning, and her account of faces that came back set, including the Captain's, from Chain Harbor on (`MCD-1883`; Chronicle I), never named as a mechanism. The deckhand is caught only once
 he has scrambled out past the ring's edge and she has stepped out to face him; no one inside the field
 is shown caught. Her three stay outside the ring the whole time (Hamund's face caught as always), so the
 reserved payoff -- her three inside Ren's field, stripped of the Siren and still hers -- is untouched,
@@ -237,8 +237,8 @@ her as a harness (her approved profile: stillness is the harness, doctrine and t
 little with the work of walking, short of any Fury state. She takes him as her charge unasked
 (`CC-114`: "Anirak positioned herself as his protector without formal assignment, recognizing a body
 the world wasn't built for"); the title echoes that rule. No fight, no kill; `CC-164` not engaged. The
-Captain is referred to only through a measuring request carried by the bosun, consistent with the late
-Long Mask's "the Avatars fought, the Captain directed" (`MCD-260`, `MCD-271`). Ren's speech is
+Captain does not appear on the page. He is referred to through a measuring request carried by the
+bosun, her memory of Chain Harbor, and the vest exchange, consistent with the late Long Mask's "the Avatars fought, the Captain directed" (`MCD-260`, `MCD-271`). Ren's speech is
 uncontracted and measured, as in `MCD-1715`. Her age is never stated. Reserved threads untouched:
 Hot/White and sync, Flood State, sonar, Sereth Vaul, Vestige, her origin's open questions, the undead,
 the loss of any of her three.*
