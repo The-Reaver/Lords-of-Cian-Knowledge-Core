@@ -538,12 +538,14 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
 - **Core wound / formative event (PROPOSED -- for Abad's confirmation):** *sent out as their keeper
   was sealed in.*
   - **Shared.** They are the last of a clade the Vael Kem ate down to three (`MCD-041`, `MCD-040`).
-    Their keeper, the last of the people who kept them (`MCD-040`), keyed them to her child
-    (`MCD-022`), then pushed them out through the inverted Gate as she fused into it (`MCD-131`).
-    The bond and the loss of the keeper happened in one instant (`MCD-132`). For animals, the
-    formative event shows in what they do afterward: they never let distance open around Pyro.
+    Pyro's mother, the last keeper of their tradition (`MCD-040`), keyed them to her child before
+    the curse took hold (`MCD-022`). On the night of the Gate, after the birth, she pushed them out
+    through the inverted Gate just before her fusion completed (`MCD-131`). The imprint and the
+    loss of the keeper fall within one event (`MCD-132`, `MCD-270`). For animals, the formative
+    event shows in what they do afterward: they never let distance open around Pyro.
   - **Varkul** carries it in the body. Separation from Pyro strains him physically (`CC-095`).
-  - **Sorya** carries it in memory. She holds the keeper and that night whole (`CC-096`).
+  - **Sorya** carries it in memory. She holds the keeper and that night up to the moment she was
+    pushed out (`CC-096`, `MCD-131`).
   - **Varruk** is the only one with a life the fleet saw before the Gate (`MCD-277`). He ranged
     before the bond and ranges still, always on the safe path back to Pyro (`CC-099`).
 - **Defense mechanisms (PROPOSED -- for Abad's confirmation):**
@@ -557,8 +559,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
     a target's sight under shifting light (`CC-136`), and tastes a broken vow before the betrayer
     moves (`CC-096`). She records everything.
   - **Varruk: height and refusal.** He keeps overwatch from open sky (`CC-099`), masks his scent in
-    rust-colored dust (`ARS-413`), and warns only by refusing to land on or fly a dangerous path
-    (`CC-098`).
+    rust-colored dust (`ARS-413`), and guides only by refusing to land on or fly a dangerous path
+    (`CC-098`); his everyday growl marks danger near at hand (`ARS-413`, see TB14).
 - **Values -- what they will not compromise (PROPOSED -- for Abad's confirmation):**
   - **Shared: Pyro first.** Each hierarchy puts him at the top (`CC-095`, `CC-097`, `CC-099`).
   - **Varkul: Pyro, then the ship, then the crew** (`CC-095`). The Guardian Clause confines the
@@ -572,15 +574,15 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
     world regards Varkul as the strongest non-human presence in the setting (`SBD-044`). Their work
     aboard includes keeping a cook calm enough that his heat stays in (`ARS-421`). The Rexmar war
     tradition was forged protecting the Dhar-Kael (`MCD-041`); the last three Dhar-Kael now guard
-    a Rexmar child. Proposed: the three feel no contradiction in any of this. The tension lives in
-    the people who watch them, the SBD most of all, which cannot describe them in its own
-    technical language (`CULT-199`).
+    a Rexmar child. Proposed: what tension there is belongs to those who watch them, the SBD most
+    of all, which cannot describe them in its own technical language (`CULT-199`).
   - **Varkul.** His greatest defensive weapon is confined by his own nature to one purpose
     (`ARS-412`).
   - **Sorya.** She ranks Pyro first and still holds a vow above him when the two collide
     (`CC-097`).
-  - **Varruk.** The most visibly bonded of the three in daily life (`CC-099`), he communicates
-    danger only by refusing (`CC-098`).
+  - **Varruk.** The most visibly bonded of the three in daily life (`CC-099`), he guides only by
+    refusing to land on or fly a dangerous path (`CC-098`); his everyday growl marks danger near at
+    hand (`ARS-413`).
 - **Relationship patterns (PROPOSED -- for Abad's confirmation):**
   - **Pyro.** The bond itself, permanent and his alone (`CC-048`). Each Guardian shows it in its
     own register (`CC-095`, `CC-097`, `CC-099`), and together they keep him steady (`ARS-421`).
@@ -591,7 +593,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
   - **Stormbreaker.** A fellow guardian of Pyro (`CC-045`). Under TA1 and TA3, Sorya remembers his
     fight with the Demaron that night.
   - **Sephtis.** Calls Sorya "the True Log," his highest compliment, matching her recall to his own
-    archive (`ARS-403`, `ARS-414`). He is the one human who treats her as a peer.
+    archive (`ARS-403`, `ARS-414`). Proposed: he is the one human who treats her as a peer. His
+    place aboard depends on approval-list item 38 (`MCD-982`).
   - **The crew.** Varkul ranks the ship and crew after Pyro (`CC-095`). Varruk's growl, purr, and
     whine are the register the crew reads (`ARS-413`), the one everyday bridge between them.
   - **Nelle Adessi, from Book 2.** She widens her clinic door for Varkul without being asked
@@ -612,7 +615,7 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
 - **Defining emotional throughline (PROPOSED -- for Abad's confirmation):** *the keeping returned.*
   The Rexmar line learned war protecting the Dhar-Kael (`MCD-041`). The clade's last keeper gave her
   body to the Gate to send the last three out bonded to her son (`MCD-131`). The three carry her
-  keeping forward, for the child of the woman who kept them and the line that once fought for them.
+  keeping forward, for the child of their last keeper and the line that once fought for them.
   Varkul holds, Sorya remembers, Varruk finds the way.
 
 ### (B) Remaining Section 1 findings
