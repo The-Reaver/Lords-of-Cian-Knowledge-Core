@@ -1,0 +1,846 @@
+--- before: CLAUDE.md
++++ after: CLAUDE.md
+@@ -4438,2 +4438,22 @@
+ 
++**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1903`).** Abad: "<approval quote, verbatim>"
++- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
++  the last day of his age 313. The Pi-Awakening stays on his 314th birthday, the day after. The Long
++  Mask runs from the Sovereign Pier to the pendant's severing that day, "just over 283 years." The
++  Accords end with the murder. This resolves approval-list item 1 and supersedes the Batch 56 ruling
++  that `MCD-091`'s 296 controls.
++- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday. The Accords held 283
++  years and 29 days, the Long Mask 283 years and 30 days. The late-Scourge entries are placed on it:
++  "one more year" at 312, the coat night at 313 before the Ceremony. The Scourge persona ends at the
++  coat night; the Long Mask ends at the pendant.
++- **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. After the
++  Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. Reserved to Book 1.
++- **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. The
++  Pi-Awakening shows him otherwise.
++- **Propagation.** 49 rule statements amended; 60 entries and 12 docs carried,
++  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The voice
++  mirrors and the pitch line keep their source wording, with a bracketed note. Owed to the Pyro/Triad
++  review: the A1 block in `pyro.md` and the matching lines in `triad-guardians.md`.
++Ledger at `ledger_version` 38.0, 2,724 rules, 378 batches.
++
+ ## Separate, unrelated thread: the interactive archive app
+--- before: docs/lords-of-cian/approval-list-2026-10-03.md
++++ after: docs/lords-of-cian/approval-list-2026-10-03.md
+@@ -16,12 +16,9 @@
+ 
+-**1. Book 1's offset from the Sovereign Pier: 284 or 296 years?**
+-- **Recommend 284, so Kanja is 314 at Book 1.** 296 is arithmetically impossible: it would put the
+-  Fulfillment Ceremony after the Pi-Awakening, which `CC-006` sets at age 314 and `WC-022` places
+-  inside Book 1.
+-- Ten or more rules already assume 284: `CC-005`, `ARS-437` ("Onyx reads 284 years"), `MCD-269`,
+-  `CC-110`, `MCD-214`, `MCD-226`, `MCD-305`, `MCD-260`, and Maw Era IV.
+-- The Batch 56 ruling that `MCD-091` controls rested on a mistaken belief that the 284 years were a
+-  different interval from the Long Mask. This item reverses that ruling.
+-- Scope: `MCD-091`, `ARS-010`, and `CC-101` ("24-36" becomes "24"), plus seven docs.
+-- Alternative: none that holds together.
++**1. Book 1's offset from the Sovereign Pier. RESOLVED, Batch 378 (`MCD-1901`).**
++- Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on the last day
++  of his age 313. The Pi-Awakening stays on his 314th birthday (`CC-006`), the day after. The Long
++  Mask runs from the Sovereign Pier to the pendant's severing that day: "The Long Mask lasts just
++  over 283 years." The Accords are broken by the murder, one day earlier.
++- This supersedes the Batch 56 ruling that `MCD-091`'s 296 controls. Every rule, entry and doc
++  that stated 284 or 296 is listed in Batch 378's note.
+ 
+@@ -32,3 +29,4 @@
+   Grieve at 190 (`CC-124`).
+-- **Hask's death moves to late in Kanja's 313th year.** The rules that move are `MCD-1422` (death),
++- **Hask's death moves to the last month of Kanja's age 313: after `MCD-1408`, where he is alive, and
++  before the Fulfillment Ceremony on the last day of that age (`MCD-1901`).** The rules that move are `MCD-1422` (death),
+   `MCD-1423` (memorial), and `MCD-1486` (the Crow King echo). They become the Captain track's last
+@@ -43,4 +41,5 @@
+ - Scope: 2 new rules, about 16 rule statements, about 12 entries, 3 docs.
+-- Alternative: he dies the morning after the last coat. That needs no Scourge edits, but it lands in
+-  Book 1's own year.
++- Alternative: he dies the morning after the last coat (`MCD-1022`). That needs no Scourge edits. Under
++  Batch 378 the coat night falls in the same last month, before the Ceremony, so this too lands before
++  Book 1.
+ 
+@@ -70,3 +69,4 @@
+ `MCD-1661` all imply more.
+-- **Recommend about 309, five years younger than Kanja.** This follows from item 1.
++- **Recommend about 308, five years younger than Kanja.** This follows from item 1: Kanja is 313 at
++  Book 1 (`MCD-1901`).
+ - Scope: `CC-028` and the Ezio profile.
+@@ -267,3 +267,3 @@
+ alliance aboard (`MCD-206`), the joint archive (`MCD-212`), present-day scenes (`MCD-1565`), and
+-24 years of knowing Pyro's father (`CC-110`).
++23 years of knowing Pyro's father (`CC-110`).
+ - The locked Chronicle says it plainly: "What none of them — not she, not Kanja, not the fleet that
+--- before: docs/lords-of-cian/character-profiles/alias-blue-collar-titan.md
++++ after: docs/lords-of-cian/character-profiles/alias-blue-collar-titan.md
+@@ -44,3 +44,3 @@
+ - `MCD-246` — At age 30, Kanja surrenders the full Trinity to the Karkosa L9 vault under his
+-  father's peace deal; the 284-year Long Mask that follows runs on the Talisman of Mao/Aegis-
++  father's peace deal; the Long Mask that follows, just over 283 years, runs on the Talisman of Mao/Aegis-
+   Talisman/Rexmar Machete instead (the Scourge's own gear-era). **This bounds the Blue-Collar
+--- before: docs/lords-of-cian/character-profiles/alias-captain.md
++++ after: docs/lords-of-cian/character-profiles/alias-captain.md
+@@ -33,3 +33,3 @@
+   has no single triggering battle and no Directorate classification.
+-- `CC-005` / `CC-006` — At age 30, Kanja's Long Mask persona begins and runs 284 years, ending
++- `CC-005` / `CC-006` — At age 30, Kanja's Long Mask persona begins and runs just over 283 years (`MCD-1901`), ending
+   with the Pi-Awakening between his 314th and 315th birthdays ("Day 0" = age 314).
+@@ -38,3 +38,3 @@
+   Sovereign Trust, retaining only the Talisman of Mao, the Aegis-Talisman, and the Rexmar
+-  Machete for the 284-year Long Mask that followed. **This is directly relevant to a real
++  Machete for the Long Mask that followed, just over 283 years. **This is directly relevant to a real
+   contradiction flagged below.**
+@@ -66,3 +66,3 @@
+   Hask's own death of old age, `MCD-1422`). **A real contradiction with `MCD-246` (the Trinity
+-  sealed at L9 for the entire 284-year Long Mask, ages 30-314) was found and fixed across Batches
++  sealed at L9 for the entire Long Mask of just over 283 years, ages 30-314) was found and fixed across Batches
+   314 and 321: a number of post-surrender entries originally described "full Trinity combat
+@@ -237,3 +237,3 @@
+   Trinity in combat despite `MCD-246`/`CC-005` locking that gear as sealed at L9 for the entire
+-  284-year Long Mask (ages 30-314) that begins at exactly the point these entries are dated from.
++  Long Mask of just over 283 years (ages 30-314) that begins at exactly the point these entries are dated from.
+   Every affected entry has since been rewritten to use Kanja's correct Long-Mask-era kit instead
+--- before: docs/lords-of-cian/character-profiles/alias-crow-king.md
++++ after: docs/lords-of-cian/character-profiles/alias-crow-king.md
+@@ -38,3 +38,3 @@
+   Theatrics System** (Forge-Coat, Hymn-Engine, Dead Drakma Decoys, Smoke-Pots), which he used to
+-  sustain **the Scourge** persona across the entire 284-year Long Mask (ages 30–314). The
++  sustain **the Scourge** persona across the entire Long Mask of just over 283 years (ages 30–314). The
+   Hymn-Engine's own technology therefore outlives the Crow King alias itself as a discrete
+@@ -79,3 +79,3 @@
+ `MCD-1078` (wave 21), `MCD-1484` (wave 34). Since the Trinity is surrendered at age 30 (`MCD-246`)
+-and stays sealed throughout the entire 284-year Long Mask (per the Scourge's own locked precedent
++and stays sealed throughout the entire Long Mask of just over 283 years (per the Scourge's own locked precedent
+ in the alias-track batch log), every full-Trinity showcase almost certainly sits within the pre-30
+@@ -208,3 +208,3 @@
+ - The alias's core technology becomes a permanent component of Kanja's broader Pre-Awakening
+-  Theatrics System (`ARS-310`), carried forward into **the Scourge's** 284-year Long Mask persona
++  Theatrics System (`ARS-310`), carried forward into **the Scourge's** Long Mask persona of just over 283 years
+   rather than retired with the discrete "Crow King" Directorate classification.
+--- before: docs/lords-of-cian/character-profiles/alias-sovereign-ghost.md
++++ after: docs/lords-of-cian/character-profiles/alias-sovereign-ghost.md
+@@ -53,3 +53,3 @@
+   (`MCD-232`), and was surrendered to the L9 vault at age 30 under Aethelgard/Maro's peace deal —
+-  during the subsequent 284-year Long Mask, Kanja retains only the Talisman of Mao, the
++  during the subsequent Long Mask of just over 283 years, Kanja retains only the Talisman of Mao, the
+   Aegis-Talisman, and the Rexmar Machete (`MCD-246`).
+--- before: docs/lords-of-cian/character-profiles/anirak.md
++++ after: docs/lords-of-cian/character-profiles/anirak.md
+@@ -610,5 +610,6 @@
+   - **When.** No entry before the fleet's arrival at Chain Harbor (Kanja age 55, `MCD-251`,
+-    `MCD-1883`). The launch wave ends with the Long Mask at Kanja 314 (`MCD-1022`), so the Scourge
+-    persona governs every entry. Whether any gap lies between the Long Mask's end and the
+-    Fulfillment Ceremony is the open 284-versus-296 question on the approval list. The launch wave stays strictly
++    `MCD-1883`). The launch wave ends before the Fulfillment Ceremony (the last day of Kanja's age
++    313, `MCD-1901`), so the Scourge persona governs every entry until the coat comes off (`MCD-1022`,
++    Kanja 313). The Long Mask itself ends the day after the Ceremony, at the pendant's severing on his
++    314th birthday (`CC-005`). The launch wave stays strictly
+     pre-Book-1, the same standing constraint Ozmund's and Ezio's launches carry.
+@@ -665,3 +666,3 @@
+      - Register: notable, no kill.
+-     - Era: late Long Mask, by Kanja 314, within the last ~29 years before Book 1. `CC-101` dates
++     - Era: late Long Mask, by Kanja 313, within the last ~29 years before Book 1. `CC-101` dates
+        only his surfacing. His age when recruited is not locked and the pitch does not state it.
+--- before: docs/lords-of-cian/character-profiles/daba.md
++++ after: docs/lords-of-cian/character-profiles/daba.md
+@@ -41,4 +41,4 @@
+   `1615`) show him personally training founding-era members and still reviewing dispatches
+-  "centuries into" what the Directorate terms Kanja's Long Mask era (which itself spans 284 years
+-  per `MCD-246`), consistent with the setting's own standing long-baseline-lifespan convention
++  "centuries into" what the Directorate terms Kanja's Long Mask era (which itself spans just over 283
++  years per `MCD-246`, `MCD-1901`), consistent with the setting's own standing long-baseline-lifespan convention
+   (CLAUDE.md's standing note: "this world's baseline lifespans are long — hundreds to tens of
+--- before: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
++++ after: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
+@@ -70,3 +70,3 @@
+   the "Pre-Awakening Theatrics System" for exactly this reason: everything Kanja does from age 18
+-  through age 314 is Trinity gear, inherited tactical instinct, and craft/reputation, not raw
++  through age 313 is Trinity gear, inherited tactical instinct, and craft/reputation, not raw
+   density-scaled physical power.
+@@ -74,4 +74,4 @@
+   the vault at L9 in the Karkosa Complex under his father's peace deal with the Sovereign Trust,
+-  retaining only the Talisman of Mao, the Aegis-Talisman, and the Rexmar Machete. The 284-year Long
+-  Mask that follows comprises 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger
++  retaining only the Talisman of Mao, the Aegis-Talisman, and the Rexmar Machete. The Long Mask that
++  follows, lasting just over 283 years (`MCD-1901`), comprises 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger
+   entries (120+ operations total), tracked by Onyx as a running seconds-count from the Sovereign
+@@ -80,5 +80,5 @@
+   this whole era.
+-- `CC-005` / `CC-006` — The Long Mask persona runs 284 years, ending when the Gravity-Fetter pendant
++- `CC-005` / `CC-006` — The Long Mask runs just over 283 years (`MCD-1901`), ending when the Gravity-Fetter pendant
+   is severed at the Gilded Lighthouse, triggering the Pi-Awakening between his 314th and 315th
+-  birthdays ("Day 0" = age 314).
++  birthdays ("Day 0" = age 314), the day after his father's murder at age 313 (`MCD-1901`).
+ - `WC-005` (amended) — The Pi-Awakening is a bloodline-wide biological threshold at exactly 314
+@@ -149,4 +149,4 @@
+   defensive "Last Ward" mode, `ARS-390`). First deployed together at the Black Trench (age 19);
+-  surrendered as a complete system to the L9 vault at age 30 (`MCD-246`) for the entire 284-year Long
+-  Mask that follows.
++  surrendered as a complete system to the L9 vault at age 30 (`MCD-246`) for the entire Long Mask
++  of just over 283 years that follows.
+ - **Long-Mask-era kit**: the Talisman of Mao (Blueprint Eye — maps financial/legal structures),
+@@ -213,3 +213,3 @@
+   dormancy ending. This is the hard chronological wall at the far end of anything this new track
+-  could draft — everything in this walkthrough (ages 18–314) sits *before* it.
++  could draft — everything in this walkthrough (ages 18–313) sits *before* it.
+ - **Maro Rexmar's death as Kanja's true center, per Abad (2026-09-28) — reserved, not this track's
+@@ -219,3 +219,4 @@
+   documents for ages 18–30. Nothing in this track may foreshadow, soften, or otherwise anticipate this
+-  turn; it is the seed of a future Book-1-era or post-Fulfillment-Ceremony psychological profile.
++  turn; it is the seed of a future Book-1-era or post-Fulfillment-Ceremony psychological profile. Its Book 1
++  consequence is locked at `MCD-1902`: the Accords broken, and the Trinity reclaimed at the Karkosa Heist.
+ - **The eleven queued villain defeats** (see Already-locked plot beats above) — explicitly unwritten,
+@@ -410,3 +411,4 @@
+ - **Body:** Kanja's locked decline governs late entries — visibly slowed by ~205, "immobility as a
+-  weapon" by 240, unable to stand unaided on bad days by 300 (`MCD-260`/`262`/`271`).
++  weapon" by 240, unable to stand unaided on bad days by 300 (`MCD-260`/`262`/`271`). The cause is the Governor's
++  Shackle, which Kanja and the crew read as age (`MCD-1903`); no entry confirms that he is aging out.
+ - **Killing:** `CC-161` (costed default, cold, never rage) and `MCD-1881` (marquee kills named,
+@@ -418,4 +420,4 @@
+   until the open cross-track mortality ruling lands. Respect recruitment dates (`MCD-247`–`261`).
+-- **Reserved:** everything already reserved above, plus the Eve of Awakening/Pi-Awakening at 314
+-  (`MCD-272`, `MCD-1022`), Maro's death through the Heartline (`ARS-437`), and the reunion scene.
++- **Reserved:** everything already reserved above, plus the coat night and the Eve of
++  Awakening (both age 313, `MCD-1022`, `MCD-272`), the Pi-Awakening on his 314th birthday (`MCD-1901`), Maro's death through the Heartline (`ARS-437`), and the reunion scene.
+ - **Fable oversight:** every drafted entry gets a Fable-model consistency review before it is
+--- before: docs/lords-of-cian/chronicle-tracks-status.md
++++ after: docs/lords-of-cian/chronicle-tracks-status.md
+@@ -25,3 +25,3 @@
+ | Anirak | `character-profiles/anirak.md` | walkthrough drafted (Tier 1, Book-1 anchor hero, 2026-10-03); Tide Line (Batch 368) and Combination Codex (Batch 370) locked; Psychological Profile approved and locked (Batch 371, `CC-163`/`CC-164`, 2026-10-03); Game Plan approved and locked (Batch 372, `VB-065`, 2026-10-04); gate cleared; wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) | 3 Collections (I-III); appears in Kanja Chronicle V (`MCD-1883`, her recruitment) |
+-| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 21 connective-tissue findings queued, age at Book 1 depends on the 284/296 ruling | 0 (no entry mentions him) |
++| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 21 connective-tissue findings queued, 23 at Book 1 (born in Kanja's age 290; Book 1 at Kanja 313, Batch 378, `MCD-1901`) | 0 (no entry mentions him) |
+ | Triad Guardians (Varkul, Sorya, Varruk) | `character-profiles/triad-guardians.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 16 connective-tissue findings queued, origin (created at the Gate vs. ancient clade) the central one | 0 (no entry mentions them) |
+--- before: docs/lords-of-cian/chronicles/kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md
++++ after: docs/lords-of-cian/chronicles/kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md
+@@ -269,3 +269,3 @@
+ "One.") is the single sanctioned first-person exception (`VB-063`). Nothing in this entry foreshadows the Fulfillment Ceremony or Maro
+-Rexmar's death; the 284-vs-296-year interval question (open) is not touched. Under the amended
++Rexmar's death; the Pier-to-Ceremony interval (just over 283 years, `MCD-1901`) is not touched. Under the amended
+ killing doctrine (`CC-161`), the nine deaths are an explicit, costed choice, the three
+--- before: docs/lords-of-cian/chronicles/kanja-chronicle-v-the-names-in-the-correction-book.md
++++ after: docs/lords-of-cian/chronicles/kanja-chronicle-v-the-names-in-the-correction-book.md
+@@ -19,3 +19,3 @@
+ 
+-Dark Ledger. 791,942,400 seconds.
++Dark Ledger. 762,998,400 seconds.
+ 
+@@ -337,3 +337,3 @@
+ 
+-Dark Ledger. 791,942,400 seconds. Reconciled.
++Dark Ledger. 762,998,400 seconds. Reconciled.
+ 
+@@ -386,3 +386,3 @@
+ "the blade," never "I"; Kanja only "the Captain" in narration; present-tense account inside a past-tense
+-Dark Ledger frame; exact seconds-count 791,942,400 (twenty-five years and forty-one days past the
++Dark Ledger frame; exact seconds-count 762,998,400 (twenty-four years and seventy-one days past the
+ Sovereign Pier treaty on a 365-day year); "jolt" for the Heartline's kill signal (`ARS-437`, word
+@@ -413,2 +413,4 @@
+ near-collide with the already-locked crew names Pell Ostra and Callum Breck (the Yao/Yaw precedent,
+-Batch 337); "Skarrow" is kept from the pool but sits near Ser Dravot Skarne and is flagged.*
++Batch 337); "Skarrow" is kept from the pool but sits near Ser Dravot Skarne and is flagged.
++Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date, 30 days
++before Kanja's 31st birthday (`MCD-1901`); the age and the moment within it are unchanged.*
+--- before: docs/lords-of-cian/chronicles/kanja-chronicle-vi-vellacourts-rule.md
++++ after: docs/lords-of-cian/chronicles/kanja-chronicle-vi-vellacourts-rule.md
+@@ -19,5 +19,5 @@
+ 
+-Dark Ledger. 584,928,000 seconds.
+-
+-Eighteen years of count stand behind it. The blade logged no kill jolt in all that count. It logged sleep, fevers, the strain of hauling and rowing, wounds that opened and closed. Nothing more.
++Dark Ledger. 555,984,000 seconds.
++
++Seventeen years of count stand behind it. The blade logged no kill jolt in all that count. It logged sleep, fevers, the strain of hauling and rowing, wounds that opened and closed. Nothing more.
+ 
+@@ -281,3 +281,3 @@
+ 
+-Five hundred eighty-four million, nine hundred twenty-eight thousand seconds. One kill jolt. Cause entered.
++Five hundred fifty-five million, nine hundred eighty-four thousand seconds. One kill jolt. Cause entered.
+ 
+@@ -290,3 +290,3 @@
+ (age 30, `MCD-1880`); ages 31-47 are kill-free by his own hand per `MCD-1882` as amended Batch 356,
+-and the Dark Ledger opening states eighteen years of count with no kill jolt. The black
++and the Dark Ledger opening states seventeen years of count with no kill jolt. The black
+ Dead-Drakma-thread sailcloth and the Gale Straits crescent formation are deliberately NOT shown --
+@@ -301,3 +301,3 @@
+ Heartline signal is a "kill jolt" per `ARS-437` as amended Batch 357). Dark Ledger count exact:
+-584,928,000 seconds from the Sovereign Pier treaty on a 365-day year (`VB-063`). Onyx states it was
++555,984,000 seconds from the Sovereign Pier treaty on a 365-day year (`VB-063`). Onyx states it was
+ sealed and not present; its knowledge comes from the restored Heartline once "his hand found the
+@@ -335,2 +335,4 @@
+ 612 drowned, 40 crew, nine copied levers, eleven/thirty years) are new to this entry and contradict
+-no locked figure.*
++no locked figure. Corrected Batch 378, 2026-10-05: the Dark Ledger count and the years of count
++recomputed from the Pier's date, 30 days before Kanja's 31st birthday (`MCD-1901`); the age and the
++moment within it are unchanged.*
+--- before: docs/lords-of-cian/chronicles/kanja-chronicle-vii-the-man-who-did-not-get-up.md
++++ after: docs/lords-of-cian/chronicles/kanja-chronicle-vii-the-man-who-did-not-get-up.md
+@@ -4,3 +4,3 @@
+ Chronicle track, part of its Long Mask extension (Dark Ledger openings, retrospective Onyx account per
+-`VB-062`/`ARS-437`). Age 240, two hundred and ten years past the Sovereign Pier. Dramatizes the
++`VB-062`/`ARS-437`). Age 240, two hundred and nine years past the Sovereign Pier. Dramatizes the
+ Sleeping Giant (`MCD-262`) for the first time anywhere in the corpus: alone in a corridor against
+@@ -19,3 +19,3 @@
+ 
+-Dark Ledger. 6,632,323,200 seconds.
++Dark Ledger. 6,603,379,200 seconds.
+ 
+@@ -37,3 +37,3 @@
+ 
+-The blade was not there. Sealed at L9, the Silent Infinite, in a case lined with Dead Drakma. Two hundred and ten years of dark by then.
++The blade was not there. Sealed at L9, the Silent Infinite, in a case lined with Dead Drakma. Two hundred and nine years of dark by then.
+ 
+@@ -404,3 +404,3 @@
+ outside `MCD-1882`'s no-kill window (ages 31-47). Dark Ledger opening per `ARS-437`/`VB-062`/`VB-063`:
+-exact count 6,632,323,200 seconds from the Sovereign Pier on a 365-day year, body signals only (strain,
++exact count 6,603,379,200 seconds from the Sovereign Pier on a 365-day year, body signals only (strain,
+ twelve kill jolts, one wound, ache, unchanged heart), no causes, no hedges; the word "spike" is not used;
+@@ -412,3 +412,3 @@
+ (`MCD-247`) explains why the Trust risks Branded fighters at all; the commissioning officer stays
+-unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-284; torso/flank seam read from its
++unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-313; torso/flank seam read from its
+ graduated protection), Sovereign Eyes V4 (`ARS-350`, age 240+, Voidstone lenses new that year, amber),
+@@ -424,2 +424,4 @@
+ closing claim ("if anyone ever bought twelve Branded fighters again, his ledger does not record it") is
+-deliberately hedged so no later entry is contradicted.*
++deliberately hedged so no later entry is contradicted. Corrected Batch 378, 2026-10-05: the Dark
++Ledger count and the years past the Pier recomputed from the Pier's date, 30 days before Kanja's
++31st birthday (`MCD-1901`); the age and the moment within it are unchanged.*
+--- before: docs/lords-of-cian/chronicles/senas-own-student.md
++++ after: docs/lords-of-cian/chronicles/senas-own-student.md
+@@ -5,3 +5,3 @@
+ Batch 349, 2026-10-02: "V3" corrected to "V4" -- age 235 falls within the Forge-Coat's V4 era (ages
+-180-284) per `ARS-348`, not V3 (ages 80-180).*
++180-313) per `ARS-348`, not V3 (ages 80-180).*
+ 
+--- before: docs/lords-of-cian/chronicles/the-apprentices-first-fleet.md
++++ after: docs/lords-of-cian/chronicles/the-apprentices-first-fleet.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 274, 2026-09-11 (`MCD-1419`). Storm That Walks Alias Chronicle XCII, wave 31. The student formally cedes full forecasting authority to the fourth-generation apprentice for a major fleet engagement -- not a supervised test, a real handoff -- and a detailed Long Mask-era gear combat showcase is committed entirely on the apprentice's own unconfirmed call for the first time. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete). Also corrects the fourth-generation apprentice's pronouns to he/him, matching the clear majority usage across this track (`MCD-1343`, `1344`, `1345`, `1349`, `1354`, `1357`, `1358`, `1359`, `1360`, `1362`), and reworks a "three generations of Trinity use" line that no longer fits his correct gear.*
++*Locked canon, Batch 274, 2026-09-11 (`MCD-1419`). Storm That Walks Alias Chronicle XCII, wave 31. The student formally cedes full forecasting authority to the fourth-generation apprentice for a major fleet engagement -- not a supervised test, a real handoff -- and a detailed Long Mask-era gear combat showcase is committed entirely on the apprentice's own unconfirmed call for the first time. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete). Also corrects the fourth-generation apprentice's pronouns to he/him, matching the clear majority usage across this track (`MCD-1343`, `1344`, `1345`, `1349`, `1354`, `1357`, `1358`, `1359`, `1360`, `1362`), and reworks a "three generations of Trinity use" line that no longer fits his correct gear.*
+ 
+--- before: docs/lords-of-cian/chronicles/the-blade-she-almost-didnt-sheathe.md
++++ after: docs/lords-of-cian/chronicles/the-blade-she-almost-didnt-sheathe.md
+@@ -55,3 +55,3 @@
+ full live ledger for collisions and confirmed clean. V4 gear era (`ARS-348` locks V4 at ages
+-180-284, which age 190 falls within), Onyx of Oblivion
++180-313, which age 190 falls within), Onyx of Oblivion
+ correctly absent per its L9 seal. Closes the Scourge's twentieth wave (with "The Three-Cornered
+--- before: docs/lords-of-cian/chronicles/the-boarding-in-the-blind-dark.md
++++ after: docs/lords-of-cian/chronicles/the-boarding-in-the-blind-dark.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 264, 2026-09-11 (`MCD-1374`). Captain Alias Chronicle LXXIV, wave 25. A detailed Long-Mask-era boarding action fought in a moonless storm at sea, fought with the Forge-Coat, Ironfall Boots, Ironhand Gauntlets, Sovereign Eyes, and the Rexmar Machete rather than the Trinity -- the sub-series' first true blind-dark combat showcase. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly staged this as a full-Trinity showcase (Mafesto, Obsidian Malice, Onyx of Oblivion's Whisper of Shadows), despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); the text below now uses only the gear and biological traits he actually retains during this era.*
++*Locked canon, Batch 264, 2026-09-11 (`MCD-1374`). Captain Alias Chronicle LXXIV, wave 25. A detailed Long-Mask-era boarding action fought in a moonless storm at sea, fought with the Forge-Coat, Ironfall Boots, Ironhand Gauntlets, Sovereign Eyes, and the Rexmar Machete rather than the Trinity -- the sub-series' first true blind-dark combat showcase. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly staged this as a full-Trinity showcase (Mafesto, Obsidian Malice, Onyx of Oblivion's Whisper of Shadows), despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); the text below now uses only the gear and biological traits he actually retains during this era.*
+ 
+--- before: docs/lords-of-cian/chronicles/the-boy-who-didnt-know-his-name.md
++++ after: docs/lords-of-cian/chronicles/the-boy-who-didnt-know-his-name.md
+@@ -3,3 +3,3 @@
+ *Locked canon, Batch 133, 2026-09-11 (`MCD-448`). The Scourge Alias Chronicle IX, closing the third
+-wave. Long Mask era, age ~210, generations into the persona's 284-year span. Not a territory
++wave. Long Mask era, age ~210, generations into the persona's span of just over 283 years. Not a territory
+ Annals entry. New standalone material. Narrated in neutral third-person prose. No new named characters.*
+@@ -43,3 +43,3 @@
+ device consistent with the Scourge's deliberate anonymity within his own crew across the Long Mask's
+-284-year span, deliberately not naming Kanja on the page, matching the territory-Chronicle unnamed-
++span of just over 283 years, deliberately not naming Kanja on the page, matching the territory-Chronicle unnamed-
+ guest convention adapted to this alias's own identity-concealment logic. No new named characters.
+--- before: docs/lords-of-cian/chronicles/the-break-in-the-floe.md
++++ after: docs/lords-of-cian/chronicles/the-break-in-the-floe.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 263, 2026-09-11 (`MCD-1341`). Storm That Walks Alias Chronicle LXVIII, wave 23. A detailed Long Mask-era gear rescue-and-combat showcase freeing a fleet trapped as pack ice closes in, using the northern pilot's method rather than storm-timing doctrine to time the intervention. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete). Also corrects a mischaracterization that attributed Obsidian Malice to Onyx of Oblivion -- it is a war club (`ARS-030`) and Kanja's own weapon, not one of Onyx's named powers.*
++*Locked canon, Batch 263, 2026-09-11 (`MCD-1341`). Storm That Walks Alias Chronicle LXVIII, wave 23. A detailed Long Mask-era gear rescue-and-combat showcase freeing a fleet trapped as pack ice closes in, using the northern pilot's method rather than storm-timing doctrine to time the intervention. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete). Also corrects a mischaracterization that attributed Obsidian Malice to Onyx of Oblivion -- it is a war club (`ARS-030`) and Kanja's own weapon, not one of Onyx's named powers.*
+ 
+--- before: docs/lords-of-cian/chronicles/the-calm-bought-for-a-handshake.md
++++ after: docs/lords-of-cian/chronicles/the-calm-bought-for-a-handshake.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 220, 2026-09-11 (`MCD-984`). The Storm That Walks Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft had the Trinity present as the visible deterrent, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete).*
++*Locked canon, Batch 220, 2026-09-11 (`MCD-984`). The Storm That Walks Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft had the Trinity present as the visible deterrent, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete).*
+ 
+--- before: docs/lords-of-cian/chronicles/the-charge-she-measured-twice.md
++++ after: docs/lords-of-cian/chronicles/the-charge-she-measured-twice.md
+@@ -60,3 +60,3 @@
+ generational-transmission beat, deliberately left unnamed to avoid adding a new named character. Age
+-235, Forge-Coat/gear generation V4 (`ARS-348` locks V4 at ages 180-284, which age 235 falls within)
++235, Forge-Coat/gear generation V4 (`ARS-348` locks V4 at ages 180-313, which age 235 falls within)
+ -- placed before Efa Gol's later-established V4-era reduced role and consistent
+--- before: docs/lords-of-cian/chronicles/the-coat-he-almost-didnt-put-back-on.md
++++ after: docs/lords-of-cian/chronicles/the-coat-he-almost-didnt-put-back-on.md
+@@ -3,3 +3,3 @@
+ *Locked canon, Batch 259, 2026-09-11 (`MCD-1255`). The Scourge Alias Chronicle XC, wave 30, closing
+-the wave. Age 313, V4 gear, one year before the Long Mask's established close. Not a territory
++the wave. Age 312, V4 gear, one year before the persona's established close. Not a territory
+ Annals entry. Narrated in neutral third-person prose.*
+@@ -11,3 +11,3 @@
+ any piece of the loadout in decades, turning over a thought that had been arriving more often lately
+-without ever quite finishing itself: that two hundred and eighty-three years under this name might
++without ever quite finishing itself: that two hundred and eighty-two years under this name might
+ already be enough.
+@@ -20,3 +20,3 @@
+ them there — and set it down beside him without comment, the way he'd set down every count for two
+-hundred and eighty-three years running.
++hundred and eighty-two years running.
+ 
+@@ -32,3 +32,3 @@
+ one more year of work still worth finishing before the question of whether two hundred and
+-eighty-three years was enough needed an answer at all.
++eighty-two years was enough needed an answer at all.
+ 
+@@ -37,3 +37,3 @@
+ *Continuity notes (not narrative): deliberately placed one year before the persona's established
+-final mission ("The Last Coat He Ever Wore," `MCD-1022`, age 314), setting up rather than restaging
++final mission ("The Last Coat He Ever Wore," `MCD-1022`, age 313), setting up rather than restaging
+ or contradicting that entry -- the doubt raised here is left genuinely open at the close of this
+@@ -43,4 +43,4 @@
+ `MCD-1254`) together for the first time in a single entry, drawing on the sub-series' full
+-established supporting cast at the Long Mask's approaching close. No new named characters. Age 313,
+-V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent per its L9 seal throughout the
++established supporting cast at the Long Mask's approaching close. No new named characters. Age 312,
++V4 gear (`ARS-348` locks V4 at ages 180-313). Onyx of Oblivion correctly absent per its L9 seal throughout the
+ Long Mask. Closes the Scourge's thirtieth wave (with "The Last Depot on the Old Charts," `MCD-1253`,
+@@ -52,2 +52,5 @@
+ reconcile this figure across all five entries that stated it inconsistently; corrected the
+-`ARS-348` citation to its own locked ranges.*
++`ARS-348` citation to its own locked ranges. Corrected Batch 378, 2026-10-05: re-dated to age 312,
++in the last three weeks of that age after the Pier's 282nd anniversary (`MCD-1901`), so the chosen
++year ends at the coat night before the Fulfillment Ceremony; the three in-prose counts move from two
++hundred and eighty-three to two hundred and eighty-two years, matching the Pier date exactly.*
+--- before: docs/lords-of-cian/chronicles/the-coat-that-went-back-to-ash-wharf.md
++++ after: docs/lords-of-cian/chronicles/the-coat-that-went-back-to-ash-wharf.md
+@@ -44,3 +44,3 @@
+ `MCD-235`'s account of the massacre itself. Age 258 places this within Forge-Coat/Sovereign Eyes V4
+-(`ARS-347`/`348` locks V4 at ages 180-284) while Ironhand Gauntlets remain V3 (`ARS-352`, ages 180-260, just
++(`ARS-347`/`348` locks V4 at ages 180-313) while Ironhand Gauntlets remain V3 (`ARS-352`, ages 180-260, just
+ short of the age-260 V4 threshold) and Mend-Line V3 (`ARS-355`, ages 200-270) -- a deliberate mixed-
+@@ -50,3 +50,3 @@
+ new named characters. Does not touch, restage, or contradict the already-locked final night of the
+-persona (`MCD-1022`, age 314) or its immediate approach (`MCD-1406`-`1408`). Closes the Scourge's
++persona (`MCD-1022`, age 313) or its immediate approach (`MCD-1406`-`1408`). Closes the Scourge's
+ thirty-fourth wave (with "The One Who Chose to Leave," `MCD-1475`, and "The Reef That Grew Back
+--- before: docs/lords-of-cian/chronicles/the-duel-he-didnt-need-onyx-for.md
++++ after: docs/lords-of-cian/chronicles/the-duel-he-didnt-need-onyx-for.md
+@@ -41,3 +41,3 @@
+ across the Long Mask. No new named characters -- the bodyguard and captain are unnamed. Age 215, V4
+-gear (`ARS-348` locks V4 at ages 180-284, which age 215 falls within). Onyx of Oblivion correctly
++gear (`ARS-348` locks V4 at ages 180-313, which age 215 falls within). Onyx of Oblivion correctly
+ remains sealed throughout, as it must for
+--- before: docs/lords-of-cian/chronicles/the-fever-that-outran-the-rescue.md
++++ after: docs/lords-of-cian/chronicles/the-fever-that-outran-the-rescue.md
+@@ -40,3 +40,3 @@
+ this entry extends to exclude illness as well, a logical reading rather than a contradiction). No new
+-named characters. Age 205, V4 gear (`ARS-348` locks V4 at ages 180-284, which age 205 falls within).
++named characters. Age 205, V4 gear (`ARS-348` locks V4 at ages 180-313, which age 205 falls within).
+ Onyx of Oblivion correctly absent per
+--- before: docs/lords-of-cian/chronicles/the-first-coin-they-took-from-the-trust.md
++++ after: docs/lords-of-cian/chronicles/the-first-coin-they-took-from-the-trust.md
+@@ -7,3 +7,3 @@
+ (Mafesto, Obsidian Malice, Onyx of Oblivion) despite this entry being set well after Kanja's
+-already-locked age-30 surrender of the Trinity for the entire 284-year Long Mask era (`MCD-246`);
++already-locked age-30 surrender of the Trinity for the entire Long Mask era of just over 283 years (`MCD-246`);
+ corrected to the actual Long Mask-era kit (`ARS-344` through `ARS-356`). Also corrected, Batch 320,
+--- before: docs/lords-of-cian/chronicles/the-first-job-that-wasnt-the-war.md
++++ after: docs/lords-of-cian/chronicles/the-first-job-that-wasnt-the-war.md
+@@ -8,3 +8,3 @@
+ Trinity-era gear (Mafesto, Obsidian Malice, Onyx of Oblivion), which Kanja surrendered to the vault
+-at age 30 for the entire 284-year Long Mask (`MCD-246`) -- this scene, dated roughly five years after
++at age 30 for the entire Long Mask of just over 283 years (`MCD-246`) -- this scene, dated roughly five years after
+ that surrender, could not have used it. Timestamp loosened Batch 321, 2026-10-02 (from "roughly 8.5
+--- before: docs/lords-of-cian/chronicles/the-first-night-in-the-new-coat.md
++++ after: docs/lords-of-cian/chronicles/the-first-night-in-the-new-coat.md
+@@ -48,3 +48,3 @@
+ reframed from a new Forge-Coat version (which would contradict `ARS-348`'s lock that Forge-Coat V4
+-runs ages 180-284, already well underway by age 241) to the Sovereign Eyes V4 refit, which `ARS-350`
++runs ages 180-313, already well underway by age 241) to the Sovereign Eyes V4 refit, which `ARS-350`
+ correctly locks as starting at age 240+; dropped a shoulder-panel/grounding-weave teething beat that
+--- before: docs/lords-of-cian/chronicles/the-first-quiet-performance.md
++++ after: docs/lords-of-cian/chronicles/the-first-quiet-performance.md
+@@ -51,3 +51,3 @@
+ single disguised identity through the opening of the Long Mask era (extending the already-locked
+-284-year sustained-persona framework, `ARS-310`/`MCD-246`) — a tonal and scale shift distinct from
++sustained-persona framework of just over 283 years, `ARS-310`/`MCD-246`) — a tonal and scale shift distinct from
+ every prior entry in this alias's run, all of which operated during the Rebellion itself. No
+--- before: docs/lords-of-cian/chronicles/the-first-watch-under-the-new-chair.md
++++ after: docs/lords-of-cian/chronicles/the-first-watch-under-the-new-chair.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 264, 2026-09-11 (`MCD-1381`). Captain Alias Chronicle LXXXI, wave 27, closing the wave. A detailed Long-Mask-era combat showcase -- the Forge-Coat and Ironfall Boots working in tandem, the Ironhand Gauntlets, and the Rexmar Machete, the trained kit and swordsmanship Kanja carries during the Trinity's 284-year sealing (`MCD-246`) -- tests the new rotating-chair structure under real stress for the first time. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly equipped Kanja with Mafesto, Obsidian Malice, and Onyx of Oblivion, all of which are sealed in the vault throughout this era per the already-locked age-30 surrender (`MCD-246`); this version replaces that gear with his actual Long-Mask-era kit (`ARS-344` through `ARS-356`) with no change to the scene, its outcome, or Corren Halst's command of it. Also corrected Batch 321, 2026-10-02: Corren Halst's pronoun fixed to he/him throughout per `CC-158`.*
++*Locked canon, Batch 264, 2026-09-11 (`MCD-1381`). Captain Alias Chronicle LXXXI, wave 27, closing the wave. A detailed Long-Mask-era combat showcase -- the Forge-Coat and Ironfall Boots working in tandem, the Ironhand Gauntlets, and the Rexmar Machete, the trained kit and swordsmanship Kanja carries during the Trinity's sealing of just over 283 years (`MCD-246`) -- tests the new rotating-chair structure under real stress for the first time. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly equipped Kanja with Mafesto, Obsidian Malice, and Onyx of Oblivion, all of which are sealed in the vault throughout this era per the already-locked age-30 surrender (`MCD-246`); this version replaces that gear with his actual Long-Mask-era kit (`ARS-344` through `ARS-356`) with no change to the scene, its outcome, or Corren Halst's command of it. Also corrected Batch 321, 2026-10-02: Corren Halst's pronoun fixed to he/him throughout per `CC-158`.*
+ 
+--- before: docs/lords-of-cian/chronicles/the-fleet-that-wasnt-his-to-command.md
++++ after: docs/lords-of-cian/chronicles/the-fleet-that-wasnt-his-to-command.md
+@@ -45,3 +45,3 @@
+ Machete `ARS-260`) per this run's craft note. Age 195 places this within
+-Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-284) and Ironhand Gauntlets V3
++Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-313) and Ironhand Gauntlets V3
+ (`ARS-352`, ages
+--- before: docs/lords-of-cian/chronicles/the-fleet-that-went-blind-together.md
++++ after: docs/lords-of-cian/chronicles/the-fleet-that-went-blind-together.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 263, 2026-09-11 (`MCD-1350`). Storm That Walks Alias Chronicle LXXVII, wave 26. A detailed Long Mask-era gear combat showcase: with the rival forecaster incapacitated by illness during a genuine weather emergency, a third-party raider exploits the moment both fleets are effectively weather-blind at once. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete). Also removes a writers'-room "two waves earlier" reference from the narrative prose.*
++*Locked canon, Batch 263, 2026-09-11 (`MCD-1350`). Storm That Walks Alias Chronicle LXXVII, wave 26. A detailed Long Mask-era gear combat showcase: with the rival forecaster incapacitated by illness during a genuine weather emergency, a third-party raider exploits the moment both fleets are effectively weather-blind at once. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete). Also removes a writers'-room "two waves earlier" reference from the narrative prose.*
+ 
+--- before: docs/lords-of-cian/chronicles/the-forge-that-bought-its-own-freedom.md
++++ after: docs/lords-of-cian/chronicles/the-forge-that-bought-its-own-freedom.md
+@@ -5,3 +5,3 @@
+ Corrected Batch 349, 2026-10-02: "V3" corrected to "V4" -- age 180 is the Forge-Coat's V3/V4
+-boundary per `ARS-348`, read as V4 (ages 180-284); the footer's "ages 80-241" citation corrected to
++boundary per `ARS-348`, read as V4 (ages 180-313); the footer's "ages 80-241" citation corrected to
+ "ages 80-180."*
+--- before: docs/lords-of-cian/chronicles/the-glass-reef.md
++++ after: docs/lords-of-cian/chronicles/the-glass-reef.md
+@@ -42,3 +42,3 @@
+ competence alongside the Long Mask's own gear capability. No new named characters. Age 250, V4 gear
+-(`ARS-348` locks V4 at ages 180-284, which age 250 falls within). Onyx of Oblivion, Mafesto, and
++(`ARS-348` locks V4 at ages 180-313, which age 250 falls within). Onyx of Oblivion, Mafesto, and
+ Obsidian Malice correctly absent per the Trinity's age-30 surrender (`MCD-246`). First entry in the
+--- before: docs/lords-of-cian/chronicles/the-grandchildren-of-the-freed.md
++++ after: docs/lords-of-cian/chronicles/the-grandchildren-of-the-freed.md
+@@ -3,3 +3,3 @@
+ *Locked canon, Batch 186, 2026-09-11 (`MCD-545`). The Scourge Alias Chronicle XV, closing the fifth
+-wave. Long Mask era, age ~200, generations into the persona's 284-year span. Not a territory
++wave. Long Mask era, age ~200, generations into the persona's span of just over 283 years. Not a territory
+ Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
+--- before: docs/lords-of-cian/chronicles/the-grandson-who-came-to-warn-him.md
++++ after: docs/lords-of-cian/chronicles/the-grandson-who-came-to-warn-him.md
+@@ -42,3 +42,3 @@
+ Garren Hask (`CC-115`/`116`) in an established role. Age 230 places this within Forge-Coat/Sovereign
+-Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-284) and Ironhand Gauntlets V3 (`ARS-352`, ages
++Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-313) and Ironhand Gauntlets V3 (`ARS-352`, ages
+ 180-260); no combat
+--- before: docs/lords-of-cian/chronicles/the-half-second-the-blade-bought.md
++++ after: docs/lords-of-cian/chronicles/the-half-second-the-blade-bought.md
+@@ -39,3 +39,3 @@
+ sub-series of the Ironfall Boots' retractable heel blade (`ARS-353`, "deployed eleven times across
+-284 years, saving Kanja's life or freedom in nine of them"), framed here as the established eleventh
++the Long Mask of just over 283 years, saving Kanja's life or freedom in nine of them"), framed here as the established eleventh
+ and final deployment and one of the nine life/freedom-saving uses, consistent with the existing count
+@@ -43,3 +43,3 @@
+ showcase. No new named characters — the guards are unnamed. Age 238, V4 gear (`ARS-348` locks V4 at
+-ages 180-284, which age 238 falls within). Onyx of Oblivion, Mafesto, and Obsidian Malice correctly
++ages 180-313, which age 238 falls within). Onyx of Oblivion, Mafesto, and Obsidian Malice correctly
+ absent per the Trinity's age-30 surrender (`MCD-246`). First entry in the Scourge's twenty-fourth
+--- before: docs/lords-of-cian/chronicles/the-last-coat-he-ever-wore.md
++++ after: docs/lords-of-cian/chronicles/the-last-coat-he-ever-wore.md
+@@ -24,3 +24,3 @@
+ 
+-"Two hundred and eighty-four years," he said. "That's how long the Long Mask has run, since a morning
++"Two hundred and eighty-three years," he said. "That's how long the Long Mask has run, since a morning
+ on a burned wharf set its shape — not planned, not chosen, just the thing it became."
+@@ -43,3 +43,3 @@
+ Mask Comes Off" (MCD-493) and "The Weight the Mask Kept Count Of" (MCD-813) both already did.
+-Deliberately states only that the 284-year span (MCD-246, ARS-310) has run its course and that Kanja
++Deliberately states only that the persona's span of just over 283 years (MCD-246, ARS-310, MCD-1901) has run its course and that Kanja
+ chooses to end it consciously rather than let it drift into unexamined habit; deliberately does not
+@@ -54,2 +54,6 @@
+ hands-on work to the successor while Kanja directs and assists, without changing the outcome (94
+-freed, within the hour).*
++freed, within the hour). Corrected Batch 378, 2026-10-05: set at age 313, in the last month before
++the Fulfillment Ceremony (`MCD-1901`), so Kanja's spoken count moves from two hundred and
++eighty-four to two hundred and eighty-three years. The coat night ends the Scourge persona by his
++choice; the Long Mask itself ends days later, at the pendant's severing on his 314th birthday
++(`CC-005`).*
+--- before: docs/lords-of-cian/chronicles/the-last-depot-on-the-old-charts.md
++++ after: docs/lords-of-cian/chronicles/the-last-depot-on-the-old-charts.md
+@@ -37,4 +37,4 @@
+ slaving routes, its final entry crossed out here, marking a symbolic close of an era as the persona's
+-own end (`MCD-1022`, age 314) draws near without depicting it. No new named characters -- the
+-garrison is unnamed. Age 310, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent
++own end (`MCD-1022`, age 313) draws near without depicting it. No new named characters -- the
++garrison is unnamed. Age 310, V4 gear (`ARS-348` locks V4 at ages 180-313). Onyx of Oblivion correctly absent
+ per its L9 seal throughout the Long Mask. First entry in the Scourge's thirtieth and, for this run,
+--- before: docs/lords-of-cian/chronicles/the-last-names-before-the-silence.md
++++ after: docs/lords-of-cian/chronicles/the-last-names-before-the-silence.md
+@@ -37,3 +37,3 @@
+ *Continuity notes (not narrative): an elegiac, deliberately quiet register building toward the
+-Long Mask's established close (`MCD-1022`, age 314) without depicting or contradicting it -- centers
++Scourge persona's established close (`MCD-1022`, age 313) without depicting or contradicting it -- centers
+ Garren Hask's advanced age and diminished but still-devoted role (`CC-115`/`116`), reusing Pell
+--- before: docs/lords-of-cian/chronicles/the-names-the-ledger-kept-track-of.md
++++ after: docs/lords-of-cian/chronicles/the-names-the-ledger-kept-track-of.md
+@@ -44,3 +44,3 @@
+ Sena (established `MCD-1043`/`1241`) alongside Kanja. Age 313, V4 gear (`ARS-348` locks V4 at ages
+-180-284),
++180-313),
+ though no combat occurs in this entry. Onyx of Oblivion correctly absent per its L9 seal throughout
+@@ -51,2 +51,4 @@
+ corrected the setting of Sena's near-kill from "a market square" to "a ship's deck," matching
+-`MCD-1043`'s own boarding-deck setting.*
++`MCD-1043`'s own boarding-deck setting. Placed Batch 378, 2026-10-05: in the last month of age 313,
++after the Pier's 283rd anniversary, where Hask's two hundred and eighty-three years are exact
++(`MCD-1901`).*
+--- before: docs/lords-of-cian/chronicles/the-night-before-the-last-coat.md
++++ after: docs/lords-of-cian/chronicles/the-night-before-the-last-coat.md
+@@ -3,3 +3,3 @@
+ *Locked canon, Batch 270, 2026-09-11 (`MCD-1408`). The Scourge Alias Chronicle XCIII, wave 31,
+-closing the wave. Age 314, the eve of the persona's already-locked final mission. Not a territory
++closing the wave. Age 313, the eve of the persona's already-locked final mission. Not a territory
+ Annals entry. Narrated in neutral third-person prose.*
+@@ -34,3 +34,3 @@
+ *Continuity notes (not narrative): the deliberate eve of "The Last Coat He Ever Wore" (`MCD-1022`,
+-age 314, the persona's literal final mission and the Long Mask's already-locked close) -- this entry
++age 313, the persona's literal final mission, days before the Long Mask's close at the pendant, `CC-005`) -- this entry
+ sits within the same final year, on the ordinary night immediately before it, and stops there: it
+@@ -38,3 +38,3 @@
+ what the following night will turn out to be. Closes the throughline opened by "The Coat He Almost
+-Didn't Put Back On" (`MCD-1255`, age 313) and carried through this wave's first two entries -- the
++Didn't Put Back On" (`MCD-1255`, age 312) and carried through this wave's first two entries -- the
+ extra year chosen then is shown, here, fully spent. Reuses Efa Gol (`CC-130`/`131`), Garren Hask
+@@ -42,4 +42,4 @@
+ together for the second time in a single entry, matching the full-supporting-cast gathering `MCD-1255`
+-established as this approach to the persona's own close. Age 314, V4 gear (`ARS-348` locks V4 at
+-ages 180-284),
++established as this approach to the persona's own close. Age 313, V4 gear (`ARS-348` locks V4 at
++ages 180-313),
+ though no combat occurs in this entry. Onyx of Oblivion correctly absent per its L9 seal throughout
+@@ -49,2 +49,3 @@
+ corrected "more than eighty individually followed lives" to "forty-one," matching `MCD-1407`'s own
+-stated count; corrected the `ARS-348` citation to its own locked ranges.*
++stated count; corrected the `ARS-348` citation to its own locked ranges. Corrected Batch 378,
++2026-10-05: set at age 313, in the last month before the Fulfillment Ceremony (`MCD-1901`).*
+--- before: docs/lords-of-cian/chronicles/the-night-they-came-for-the-school.md
++++ after: docs/lords-of-cian/chronicles/the-night-they-came-for-the-school.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 239, 2026-09-11 (`MCD-1053`). Storm That Walks Alias Chronicle LVIII, wave 20. A detailed Long Mask-era gear combat showcase defending the storm-reading school's coastal compound from a raid timed to exploit storm cover -- set after Sephtis stepped back and let the lineage believe he had died, with his successor now the school's sole senior authority. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense).*
++*Locked canon, Batch 239, 2026-09-11 (`MCD-1053`). Storm That Walks Alias Chronicle LVIII, wave 20. A detailed Long Mask-era gear combat showcase defending the storm-reading school's coastal compound from a raid timed to exploit storm cover -- set after Sephtis stepped back and let the lineage believe he had died, with his successor now the school's sole senior authority. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense).*
+ 
+--- before: docs/lords-of-cian/chronicles/the-one-who-chose-to-leave.md
++++ after: docs/lords-of-cian/chronicles/the-one-who-chose-to-leave.md
+@@ -46,3 +46,3 @@
+ (`CC-130`/`131`) and Garren Hask (`CC-115`/`116`) in established roles. Age
+-198 places this within Forge-Coat V4 (`ARS-347`/`348` locks V4 at ages 180-284), Ironhand Gauntlets
++198 places this within Forge-Coat V4 (`ARS-347`/`348` locks V4 at ages 180-313), Ironhand Gauntlets
+ V3 (`ARS-352`,
+--- before: docs/lords-of-cian/chronicles/the-ones-who-sold-him-out.md
++++ after: docs/lords-of-cian/chronicles/the-ones-who-sold-him-out.md
+@@ -50,3 +50,3 @@
+ (`MCD-904`/`1240`/`1254`) and Garren Hask (`CC-115`/`116`) in established roles. Age 205 places this
+-within Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-284) and Ironhand Gauntlets
++within Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-313) and Ironhand Gauntlets
+ V3
+@@ -55,3 +55,3 @@
+ Does not touch, restage, or contradict the already-locked final night of the persona (`MCD-1022`,
+-age 314, and its immediate approach at `MCD-1406`-`1408`). Corrected Batch 321, 2026-10-02: removed
++age 313, and its immediate approach at `MCD-1406`-`1408`). Corrected Batch 321, 2026-10-02: removed
+ an anachronistic Mafesto reference, swapped for the Forge-Coat's grounding weave; relabeled
+--- before: docs/lords-of-cian/chronicles/the-order-he-didnt-question.md
++++ after: docs/lords-of-cian/chronicles/the-order-he-didnt-question.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 192, 2026-09-11 (`MCD-589`). The Storm That Walks Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (the seven-piece post-Mafesto gear system, `ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense).*
++*Locked canon, Batch 192, 2026-09-11 (`MCD-589`). The Storm That Walks Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (the seven-piece post-Mafesto gear system, `ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense).*
+ 
+--- before: docs/lords-of-cian/chronicles/the-pass-above-the-orphan-road.md
++++ after: docs/lords-of-cian/chronicles/the-pass-above-the-orphan-road.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 264, 2026-09-11 (`MCD-1367`). Captain Alias Chronicle LXVII, wave 23. A detailed Long-Mask-era gear showcase defending a war-orphan resettlement caravan on a mountain pass. Corrected Batch 314, 2026-09-28: an earlier draft of this entry mistakenly used Trinity-era gear (Mafesto, Obsidian Malice, and Onyx of Oblivion's Whisper of Shadows) despite this Chronicle's placement deep in the 284-year Long Mask, well after the Trinity's already-locked age-30 vault surrender (`MCD-246`) -- corrected below to the Forge-Coat/Ironfall Boots, Ironhand Gauntlets, Sovereign Eyes, Smoke System, and the Rexmar Machete, per `ARS-344` through `ARS-356`. Also corrected, Batch 320, 2026-10-01: Corren Halst reconciled to
++*Locked canon, Batch 264, 2026-09-11 (`MCD-1367`). Captain Alias Chronicle LXVII, wave 23. A detailed Long-Mask-era gear showcase defending a war-orphan resettlement caravan on a mountain pass. Corrected Batch 314, 2026-09-28: an earlier draft of this entry mistakenly used Trinity-era gear (Mafesto, Obsidian Malice, and Onyx of Oblivion's Whisper of Shadows) despite this Chronicle's placement deep in the Long Mask of just over 283 years, well after the Trinity's already-locked age-30 vault surrender (`MCD-246`) -- corrected below to the Forge-Coat/Ironfall Boots, Ironhand Gauntlets, Sovereign Eyes, Smoke System, and the Rexmar Machete, per `ARS-344` through `ARS-356`. Also corrected, Batch 320, 2026-10-01: Corren Halst reconciled to
+ he/him, matching `CC-158`.*
+--- before: docs/lords-of-cian/chronicles/the-pocket-he-almost-opened.md
++++ after: docs/lords-of-cian/chronicles/the-pocket-he-almost-opened.md
+@@ -40,3 +40,3 @@
+ Hask's advanced age and reduced but still-present field role (`CC-115`/`116`) are extended rather
+-than contradicted. No new named characters. Age 300, V4 gear (`ARS-348` locks V4 at ages 180-284).
++than contradicted. No new named characters. Age 300, V4 gear (`ARS-348` locks V4 at ages 180-313).
+ Onyx of
+--- before: docs/lords-of-cian/chronicles/the-rival-who-called-him-a-setback.md
++++ after: docs/lords-of-cian/chronicles/the-rival-who-called-him-a-setback.md
+@@ -43,3 +43,3 @@
+ authority. The three advocates are unnamed and one-scene. No new named characters. Age 190, V4 gear
+-(`ARS-348` locks V4 at ages 180-284, which age 190 falls within). Onyx of Oblivion correctly absent
++(`ARS-348` locks V4 at ages 180-313, which age 190 falls within). Onyx of Oblivion correctly absent
+ per its L9 seal throughout the Long
+--- before: docs/lords-of-cian/chronicles/the-ruling-that-changed-nothing.md
++++ after: docs/lords-of-cian/chronicles/the-ruling-that-changed-nothing.md
+@@ -41,3 +41,3 @@
+ about ambiguity as protection. Extends Garren Hask's ledger-keeper role with a legal-tracking
+-dimension. No new named characters. Age 200, V4 gear (`ARS-348` locks V4 at ages 180-284, which age
++dimension. No new named characters. Age 200, V4 gear (`ARS-348` locks V4 at ages 180-313, which age
+ 200 falls within). Onyx of Oblivion
+--- before: docs/lords-of-cian/chronicles/the-silence-with-no-wind-in-it.md
++++ after: docs/lords-of-cian/chronicles/the-silence-with-no-wind-in-it.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 263, 2026-09-11 (`MCD-1338`). Storm That Walks Alias Chronicle LXV, wave 22. A detailed Long Mask-era gear combat showcase in total windless fog -- the smuggling faction from Chronicle LVIII (`MCD-1053`) returns, this time exploiting the one condition the storm-timing doctrine was never built to read. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete).*
++*Locked canon, Batch 263, 2026-09-11 (`MCD-1338`). Storm That Walks Alias Chronicle LXV, wave 22. A detailed Long Mask-era gear combat showcase in total windless fog -- the smuggling faction from Chronicle LVIII (`MCD-1053`) returns, this time exploiting the one condition the storm-timing doctrine was never built to read. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete).*
+ 
+--- before: docs/lords-of-cian/chronicles/the-smoke-that-spoke-first.md
++++ after: docs/lords-of-cian/chronicles/the-smoke-that-spoke-first.md
+@@ -40,3 +40,3 @@
+ every prior combat or diplomatic entry. The watch-captain is unnamed and one-scene. No new named
+-characters. Age 225, V4 gear (`ARS-348` locks V4 at ages 180-284, which age 225 falls within). Onyx
++characters. Age 225, V4 gear (`ARS-348` locks V4 at ages 180-313, which age 225 falls within). Onyx
+ of Oblivion correctly absent per its L9
+--- before: docs/lords-of-cian/chronicles/the-storm-they-read-backward.md
++++ after: docs/lords-of-cian/chronicles/the-storm-they-read-backward.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 285, 2026-09-11 (`MCD-1511`). Storm That Walks Alias Chronicle C, wave 34, first entry in the wave -- the alias's hundredth Chronicle. The doctrine is used forensically for the first time: reconstructing a storm that already happened, rather than predicting one that hasn't, to locate survivors of a vessel that never consulted the school before it sailed. Corrected Batch 321, 2026-10-02: an earlier draft staged the rescue using Trinity-era gear and powers, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit.*
++*Locked canon, Batch 285, 2026-09-11 (`MCD-1511`). Storm That Walks Alias Chronicle C, wave 34, first entry in the wave -- the alias's hundredth Chronicle. The doctrine is used forensically for the first time: reconstructing a storm that already happened, rather than predicting one that hasn't, to locate survivors of a vessel that never consulted the school before it sailed. Corrected Batch 321, 2026-10-02: an earlier draft staged the rescue using Trinity-era gear and powers, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit.*
+ 
+--- before: docs/lords-of-cian/chronicles/the-storm-they-read-too-late.md
++++ after: docs/lords-of-cian/chronicles/the-storm-they-read-too-late.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 208, 2026-09-11 (`MCD-907`). The Storm That Walks Alias Chronicle XLVII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (the seven-piece post-Mafesto gear system, `ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense), and Obsidian Malice's mischaracterization as "the blade's raw kinetic output" (it is a war club, `ARS-030`, not a blade, and not one of Onyx of Oblivion's own named powers) is removed along with it.*
++*Locked canon, Batch 208, 2026-09-11 (`MCD-907`). The Storm That Walks Alias Chronicle XLVII, wave 16. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (the seven-piece post-Mafesto gear system, `ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense), and Obsidian Malice's mischaracterization as "the blade's raw kinetic output" (it is a war club, `ARS-030`, not a blade, and not one of Onyx of Oblivion's own named powers) is removed along with it.*
+ 
+--- before: docs/lords-of-cian/chronicles/the-successors-first-command-alone.md
++++ after: docs/lords-of-cian/chronicles/the-successors-first-command-alone.md
+@@ -38,3 +38,3 @@
+ unnamed, matching established convention. No new named characters. Age 270, V4 gear (`ARS-348`
+-locks V4 at ages 180-284). Onyx of Oblivion correctly absent per its L9 seal throughout the Long
++locks V4 at ages 180-313). Onyx of Oblivion correctly absent per its L9 seal throughout the Long
+ Mask. Closes
+--- before: docs/lords-of-cian/chronicles/the-truce-they-wouldnt-honor.md
++++ after: docs/lords-of-cian/chronicles/the-truce-they-wouldnt-honor.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 250, 2026-09-11 (`MCD-1087`). Storm That Walks Alias Chronicle LXII, wave 21. A detailed Long Mask-era gear combat showcase defending the fragile mutual-berth truce between two rival weather traditions from a holdout faction that rejects it -- the first Storm That Walks entry where Kanja protects an agreement between two fleets rather than one fleet, vessel, rescue, or institution. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense). Also corrected a tech anachronism -- this world has no engines beyond the Hymn-Engine/Meridian Engine -- "engine-heat signature" reworded to "galley-fire signature."*
++*Locked canon, Batch 250, 2026-09-11 (`MCD-1087`). Storm That Walks Alias Chronicle LXII, wave 21. A detailed Long Mask-era gear combat showcase defending the fragile mutual-berth truce between two rival weather traditions from a holdout faction that rejects it -- the first Storm That Walks entry where Kanja protects an agreement between two fleets rather than one fleet, vessel, rescue, or institution. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense). Also corrected a tech anachronism -- this world has no engines beyond the Hymn-Engine/Meridian Engine -- "engine-heat signature" reworded to "galley-fire signature."*
+ 
+--- before: docs/lords-of-cian/chronicles/the-watch-callum-breck-called.md
++++ after: docs/lords-of-cian/chronicles/the-watch-callum-breck-called.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 286, 2026-09-11 (`MCD-1515`). Captain Alias Chronicle XCV, wave 32. A detailed Long Mask-era combat showcase (the Forge-Coat, Ironfall Boots, Ironhand Gauntlets, and the Rexmar Machete) led under Callum Breck's chairmanship for the first time, testing his silent-signal command style at real stakes. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly used Trinity-era gear (Mafesto's Kinetic Transfer System, Obsidian Malice, Onyx of Oblivion's Cadence Ruin) that Kanja does not carry during the Long Mask, having surrendered the Trinity to its sealed vault at age 30 for the era's full 284 years (`MCD-246`); every beat, outcome, and line of dialogue below is unchanged, only the gear performing each action is corrected.*
++*Locked canon, Batch 286, 2026-09-11 (`MCD-1515`). Captain Alias Chronicle XCV, wave 32. A detailed Long Mask-era combat showcase (the Forge-Coat, Ironfall Boots, Ironhand Gauntlets, and the Rexmar Machete) led under Callum Breck's chairmanship for the first time, testing his silent-signal command style at real stakes. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly used Trinity-era gear (Mafesto's Kinetic Transfer System, Obsidian Malice, Onyx of Oblivion's Cadence Ruin) that Kanja does not carry during the Long Mask, having surrendered the Trinity to its sealed vault at age 30 for the era's full span of just over 283 years (`MCD-246`); every beat, outcome, and line of dialogue below is unchanged, only the gear performing each action is corrected.*
+ 
+@@ -22,2 +22,2 @@
+ 
+-*Continuity notes (not narrative): a detailed Long Mask-era combat showcase (the Forge-Coat and Ironfall Boots working in concert for impact-redirection, the Ironhand Gauntlets for leveraged strikes, the Rexmar Machete for close work, and Kanja's own instinctive Rexmar-Mar tactical sense for reading ground and footing) built around a genuine first for the sub-series -- Kanja fighting under another crew member's tactical command as the newly-seated chair rather than leading by default. Extends Callum Breck's silent-signal shore-watch craft (`MCD-1378`) from a naval into a land-defense application for the first time, and directly tests the private fear his own silence arc (`CC-119`) still carries. All eleven raiders taken alive, consistent with the sub-series' established restraint-over-lethal-force ethos. No new named characters -- the raiders are deliberately unnamed. Second entry, wave 32. Corrected, Batch 314, 2026-09-28, from an earlier draft that mistakenly gave Kanja the Trinity (Mafesto, Obsidian Malice, Onyx of Oblivion) during the Long Mask era, when it is sealed away for the entire 284 years per `MCD-246`; the scene's structure, beats, and dialogue are unchanged. Corrected Batch 321, 2026-10-02: fixed an impossible "two hundred years of trained swordsmanship" claim (reworded to "a lifetime of trained swordsmanship") and a wrong cross-reference (`MCD-1099` corrected to `MCD-1378`).*
++*Continuity notes (not narrative): a detailed Long Mask-era combat showcase (the Forge-Coat and Ironfall Boots working in concert for impact-redirection, the Ironhand Gauntlets for leveraged strikes, the Rexmar Machete for close work, and Kanja's own instinctive Rexmar-Mar tactical sense for reading ground and footing) built around a genuine first for the sub-series -- Kanja fighting under another crew member's tactical command as the newly-seated chair rather than leading by default. Extends Callum Breck's silent-signal shore-watch craft (`MCD-1378`) from a naval into a land-defense application for the first time, and directly tests the private fear his own silence arc (`CC-119`) still carries. All eleven raiders taken alive, consistent with the sub-series' established restraint-over-lethal-force ethos. No new named characters -- the raiders are deliberately unnamed. Second entry, wave 32. Corrected, Batch 314, 2026-09-28, from an earlier draft that mistakenly gave Kanja the Trinity (Mafesto, Obsidian Malice, Onyx of Oblivion) during the Long Mask era, when it is sealed away for the entire span of just over 283 years per `MCD-246`; the scene's structure, beats, and dialogue are unchanged. Corrected Batch 321, 2026-10-02: fixed an impossible "two hundred years of trained swordsmanship" claim (reworded to "a lifetime of trained swordsmanship") and a wrong cross-reference (`MCD-1099` corrected to `MCD-1378`).*
+--- before: docs/lords-of-cian/chronicles/the-window-that-ended-the-smuggling.md
++++ after: docs/lords-of-cian/chronicles/the-window-that-ended-the-smuggling.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 285, 2026-09-11 (`MCD-1510`). Storm That Walks Alias Chronicle XCIX, wave 33, closing the wave. The smuggling faction that raided the school (`MCD-1053`) and exploited its one blind spot in total windless fog (`MCD-1338`) is finally cornered, using the overlap-window method codified at `MCD-1418` -- the sub-series' first entry to close a long-dangling recurring antagonist thread, and a detailed Long Mask-era gear combat showcase. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete), and an inline rule-ID citation is removed from the narrative prose.*
++*Locked canon, Batch 285, 2026-09-11 (`MCD-1510`). Storm That Walks Alias Chronicle XCIX, wave 33, closing the wave. The smuggling faction that raided the school (`MCD-1053`) and exploited its one blind spot in total windless fog (`MCD-1338`) is finally cornered, using the overlap-window method codified at `MCD-1418` -- the sub-series' first entry to close a long-dangling recurring antagonist thread, and a detailed Long Mask-era gear combat showcase. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete), and an inline rule-ID citation is removed from the narrative prose.*
+ 
+--- before: docs/lords-of-cian/chronicles/the-window-that-wouldnt-come-twice.md
++++ after: docs/lords-of-cian/chronicles/the-window-that-wouldnt-come-twice.md
+@@ -32,3 +32,3 @@
+ about the folded coat or the three weeks of silence that had come before it. Garren Hask logged
+-eighty-one names into a ledger that, by his own count, now ran past two hundred and eighty-three years
++eighty-one names into a ledger that, by his own count, now ran past two hundred and eighty-two years
+ without missing a single one. Neither of them asked whether it had been worth choosing to stay for.
+@@ -40,3 +40,3 @@
+ Efa Gol's successor brought Kanja on the night he nearly ended the persona a year early ("The Coat He
+-Almost Didn't Put Back On," `MCD-1255`, age 313) -- the specific reason given then for putting the
++Almost Didn't Put Back On," `MCD-1255`, age 312) -- the specific reason given then for putting the
+ coat back on rather than setting it aside. Kanja personally leads the field operation for the first
+@@ -47,3 +47,3 @@
+ established unnamed successor, Pell Ostra (`CC-132`/`133`), and Garren Hask (`CC-115`/`116`). Age
+-313, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent per its L9 seal throughout
++313, V4 gear (`ARS-348` locks V4 at ages 180-313). Onyx of Oblivion correctly absent per its L9 seal throughout
+ the Long Mask. First entry of the Scourge's thirty-first wave. No new named characters. Corrected
+@@ -55,2 +55,5 @@
+ reconciles this figure across all five entries that stated it inconsistently; corrected the
+-`ARS-348` citation to its own locked ranges.*
++`ARS-348` citation to its own locked ranges. Corrected Batch 378, 2026-10-05: set in the first three
++weeks of age 313, three weeks after `MCD-1255` (`MCD-1901`); Garren Hask's ledger span moves from
++past two hundred and eighty-three to past two hundred and eighty-two years, matching the Pier date
++exactly.*
+--- before: docs/lords-of-cian/chronicles/what-burned-loud-enough-to-hear.md
++++ after: docs/lords-of-cian/chronicles/what-burned-loud-enough-to-hear.md
+@@ -7,3 +7,3 @@
+ Piercer, Soulbound Edge) despite this Chronicle's explicit anchor to "the fourth generation," whose
+-own teaching lineage sits decades into the 284-year Long Mask, well after the Trinity's already-locked
++own teaching lineage sits decades into the Long Mask of just over 283 years, well after the Trinity's already-locked
+ age-30 vault surrender (`MCD-246`) -- corrected below to Kanja's own Rexmar-Mar instinct, the
+@@ -61,3 +61,3 @@
+ both defeated by the same acoustic/pressure-based reading rather than sight, though by different
+-means given this entry's own placement deep in the 284-year Long Mask. Establishes structural
++means given this entry's own placement deep in the Long Mask of just over 283 years. Establishes structural
+ fire/collapsing-building conditions as a new environmental register distinct from every prior terrain
+--- before: docs/lords-of-cian/chronicles/what-efa-gol-never-asked-twice.md
++++ after: docs/lords-of-cian/chronicles/what-efa-gol-never-asked-twice.md
+@@ -43,3 +43,3 @@
+ reflective register, paralleling Garren Hask's similar role in `MCD-414`/`493`/`1243`. No new named
+-characters. Age 290, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent
++characters. Age 290, V4 gear (`ARS-348` locks V4 at ages 180-313). Onyx of Oblivion correctly absent
+ per its
+--- before: docs/lords-of-cian/chronicles/what-held-the-causeway.md
++++ after: docs/lords-of-cian/chronicles/what-held-the-causeway.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 263, 2026-09-11 (`MCD-1353`). Storm That Walks Alias Chronicle LXXX, wave 27. A detailed Long Mask-era gear showcase defending Ghost Harbor's main evacuation causeway from storm-surge collapse while it is still crowded with fleeing civilians. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete). Also corrects a mischaracterization that attributed Obsidian Malice to Onyx of Oblivion -- it is a war club (`ARS-030`) and Kanja's own weapon, not one of Onyx's named powers.*
++*Locked canon, Batch 263, 2026-09-11 (`MCD-1353`). Storm That Walks Alias Chronicle LXXX, wave 27. A detailed Long Mask-era gear showcase defending Ghost Harbor's main evacuation causeway from storm-surge collapse while it is still crowded with fleeing civilians. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete). Also corrects a mischaracterization that attributed Obsidian Malice to Onyx of Oblivion -- it is a war club (`ARS-030`) and Kanja's own weapon, not one of Onyx's named powers.*
+ 
+--- before: docs/lords-of-cian/chronicles/what-the-ash-choked-off.md
++++ after: docs/lords-of-cian/chronicles/what-the-ash-choked-off.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 285, 2026-09-11 (`MCD-1506`). Storm That Walks Alias Chronicle XCV, wave 32. A coastal volcanic ash-fall -- a hazard this alias's ninety-plus prior entries have never used -- fouls the Ironhand Gauntlets' plating mid-engagement, the sub-series' first genuine equipment failure for this alias, forcing the Forge-Coat and Ironfall Boots to carry a fight without them. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase (Mafesto, Obsidian Malice, Onyx of Oblivion), despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete), and the equipment-failure beat transferred from Obsidian Malice's discharge housing to the Ironhand Gauntlets' plates.*
++*Locked canon, Batch 285, 2026-09-11 (`MCD-1506`). Storm That Walks Alias Chronicle XCV, wave 32. A coastal volcanic ash-fall -- a hazard this alias's ninety-plus prior entries have never used -- fouls the Ironhand Gauntlets' plating mid-engagement, the sub-series' first genuine equipment failure for this alias, forcing the Forge-Coat and Ironfall Boots to carry a fight without them. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase (Mafesto, Obsidian Malice, Onyx of Oblivion), despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete), and the equipment-failure beat transferred from Obsidian Malice's discharge housing to the Ironhand Gauntlets' plates.*
+ 
+--- before: docs/lords-of-cian/chronicles/what-the-coat-couldnt-shed.md
++++ after: docs/lords-of-cian/chronicles/what-the-coat-couldnt-shed.md
+@@ -7,3 +7,3 @@
+ damaged item was originally written as the Forge-Coat's Dark-Drakma leather, gear that doesn't
+-exist until the Long Mask (ages 33-284); the damage is now Mafesto's own Void-Lattice plating,
++exist until the Long Mask (ages 33-314); the damage is now Mafesto's own Void-Lattice plating,
+ which is live and wearable at age 27.*
+--- before: docs/lords-of-cian/chronicles/what-the-golden-terror-left-behind.md
++++ after: docs/lords-of-cian/chronicles/what-the-golden-terror-left-behind.md
+@@ -4,3 +4,3 @@
+ the second wave. Long Mask era, the Golden Terror period (ages 80-180, `ARS-348`). A detailed
+-showcase of the mature V3 loadout. Onyx remains sealed at L9 for the full 284-year Long Mask period
++showcase of the mature V3 loadout. Onyx remains sealed at L9 for the full Long Mask period of just over 283 years
+ (`MCD-246`) and does not appear. Not a territory Annals entry. New standalone material.
+--- before: docs/lords-of-cian/chronicles/what-the-smoke-said.md
++++ after: docs/lords-of-cian/chronicles/what-the-smoke-said.md
+@@ -6,3 +6,3 @@
+ Forge-Coat's Smoke System" framing from the continuity notes -- that gear doesn't exist until the
+-Long Mask, ages 33-284 -- and recast the chimney code as a plain, un-gear-cited signaling system,
++Long Mask, ages 33-314 -- and recast the chimney code as a plain, un-gear-cited signaling system,
+ matching the narrative, which never claimed otherwise.*
+--- before: docs/lords-of-cian/chronicles/what-the-successor-chose-to-keep.md
++++ after: docs/lords-of-cian/chronicles/what-the-successor-chose-to-keep.md
+@@ -40,3 +40,3 @@
+ remains deliberately unnamed, consistent with established convention. No new named characters. Age
+-312, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent per its L9 seal throughout
++312, V4 gear (`ARS-348` locks V4 at ages 180-313). Onyx of Oblivion correctly absent per its L9 seal throughout
+ the Long Mask. Corrected Batch 321, 2026-10-02: corrected "seven years earlier" to "forty-two years
+--- before: docs/lords-of-cian/chronicles/what-they-tried-to-erase-from-the-wall.md
++++ after: docs/lords-of-cian/chronicles/what-they-tried-to-erase-from-the-wall.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 286, 2026-09-11 (`MCD-1521`). Captain Alias Chronicle CI, wave 34. A detailed combat showcase defending the Pier Nine memorial wall (`MCD-1372`) itself from a targeted attack aimed at erasing the crew's history rather than harming its people, fought with Kanja's post-Trinity Long Mask-era kit -- the Forge-Coat, Ironfall Boots, Ironhand Gauntlets, Sovereign Eyes, and the Rexmar Machete -- rather than the sealed Trinity. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly had Kanja fighting with Mafesto, Onyx of Oblivion, and Obsidian Malice, all of which are sealed in the vault for the entire 284-year Long Mask era per `MCD-246`, and this entry is set well within that era; the prose below has been rewritten to use his actual Long Mask-era gear (`ARS-344` through `ARS-356`), his own trained swordsmanship, and his instinctive Rexmar-Mar tactical sense instead. Also corrected Batch 321, 2026-10-02: reworded the Sovereign Eyes' perception function from its amber "glow" (a fear-response signal others see, per `ARS-350`) to its overlay.*
++*Locked canon, Batch 286, 2026-09-11 (`MCD-1521`). Captain Alias Chronicle CI, wave 34. A detailed combat showcase defending the Pier Nine memorial wall (`MCD-1372`) itself from a targeted attack aimed at erasing the crew's history rather than harming its people, fought with Kanja's post-Trinity Long Mask-era kit -- the Forge-Coat, Ironfall Boots, Ironhand Gauntlets, Sovereign Eyes, and the Rexmar Machete -- rather than the sealed Trinity. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly had Kanja fighting with Mafesto, Onyx of Oblivion, and Obsidian Malice, all of which are sealed in the vault for the entire Long Mask era of just over 283 years per `MCD-246`, and this entry is set well within that era; the prose below has been rewritten to use his actual Long Mask-era gear (`ARS-344` through `ARS-356`), his own trained swordsmanship, and his instinctive Rexmar-Mar tactical sense instead. Also corrected Batch 321, 2026-10-02: reworded the Sovereign Eyes' perception function from its amber "glow" (a fear-response signal others see, per `ARS-350`) to its overlay.*
+ 
+--- before: docs/lords-of-cian/chronicles/what-they-wouldnt-let-him-take.md
++++ after: docs/lords-of-cian/chronicles/what-they-wouldnt-let-him-take.md
+@@ -2,3 +2,3 @@
+ 
+-*Locked canon, Batch 264, 2026-09-11 (`MCD-1386`). Captain Alias Chronicle LXXXVI, wave 29. Set during the 284-year Long Mask era, using the Forge-Coat, Ironhand Gauntlets, and Rexmar Machete defends the charter's free-membership clause against a rival faction trying to coerce crew members away. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly described a full-Trinity combat showcase, gear Kanja surrendered to a sealed vault at age 30 (`MCD-246`) and does not carry during the Long Mask era; the text now uses his correct Long-Mask-era kit throughout. Also corrected Batch 321, 2026-10-02: Corren Halst's pronoun fixed to he/him throughout per `CC-158`.*
++*Locked canon, Batch 264, 2026-09-11 (`MCD-1386`). Captain Alias Chronicle LXXXVI, wave 29. Set during the Long Mask era of just over 283 years, using the Forge-Coat, Ironhand Gauntlets, and Rexmar Machete defends the charter's free-membership clause against a rival faction trying to coerce crew members away. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly described a full-Trinity combat showcase, gear Kanja surrendered to a sealed vault at age 30 (`MCD-246`) and does not carry during the Long Mask era; the text now uses his correct Long-Mask-era kit throughout. Also corrected Batch 321, 2026-10-02: Corren Halst's pronoun fixed to he/him throughout per `CC-158`.*
+ 
+--- before: docs/lords-of-cian/kanja-chronicles-production-roadmap.md
++++ after: docs/lords-of-cian/kanja-chronicles-production-roadmap.md
+@@ -36,5 +36,6 @@
+ - Kanja is a prince. His father, Maro Rexmar, is a king. Kanja's Rebellion (ages 18-30, against the Sovereign Trust, not the SBD) was winning: 22 victories in 12 years, 6 of them battles the Directorate itself classified as unwinnable.
+-- **The Sovereign Pier Accords**, negotiated in secret roughly 296 years before Book 1 opens: Maro Rexmar and Aethelgard Verehimu (Ozmund's father) traded the end of Kanja's rebellion for Aethelgard's future recognition of Maro as sovereign King of Jicome, plus an alliance against the Shattered Kingdoms. This, not a birthday lecture, is why Kanja's father was able to convince him to stand down from a war he was winning. Kanja surrendered the Trinity (Mafesto, Onyx, Obsidian Malice) into L9 and put on the Long Mask to wait out the deal.
+-- **The Fulfillment Ceremony is Book 1's opening event** (per Master Canon's own "BOOK 1 STRUCTURE: THE DEPOSED KING" section: "Opening: Murder scene. Two kings dead."). Aethelgard, king for one month, was about to crown Maro sovereign King of Jicome, fulfilling the Accords 284 years after Kanja put on the mask. At the ceremony, three contracted assassins, the Three Ronin, killed both kings: Decimus Korr ("the Silence") cleared the guards, an unnamed infiltrator ("the Ghost") had already been inside for weeks, and Serai Noth ("the Blade") killed both kings in 1.6 seconds. An SBD wet-work team sanitized the scene within four minutes. Ozmund rejects the crown the murder leaves him, hires Ezio to investigate, this is Book 1.
++- **The Sovereign Pier Accords**, negotiated in secret and concluded at the Sovereign Pier just over 283 years before Book 1 opens: Maro Rexmar and Aethelgard Verehimu (Ozmund's father) traded the end of Kanja's rebellion for Aethelgard's future recognition of Maro as sovereign King of Jicome, plus an alliance against the Shattered Kingdoms. This, not a birthday lecture, is why Kanja's father was able to convince him to stand down from a war he was winning. Kanja surrendered the Trinity (Mafesto, Onyx, Obsidian Malice) into L9 and put on the Long Mask to wait out the deal.
++- **The Fulfillment Ceremony is Book 1's opening event** (per Master Canon's own "BOOK 1 STRUCTURE: THE DEPOSED KING" section: "Opening: Murder scene. Two kings dead."). Aethelgard, king for one month, was about to crown Maro sovereign King of Jicome, fulfilling the Accords just over 283 years after Kanja put on the mask. At the ceremony, three contracted assassins, the Three Ronin, killed both kings: Decimus Korr ("the Silence") cleared the guards, an unnamed infiltrator ("the Ghost") had already been inside for weeks, and Serai Noth ("the Blade") killed both kings in 1.6 seconds. An SBD wet-work team sanitized the scene within four minutes. Ozmund rejects the crown the murder leaves him, hires Ezio to investigate, this is Book 1.
+ - The pitch material's own line for Kanja: "The 284-year performance was the longest undercover operation in history, and it ended one day too late."
++  [Corrected Batch 378: the quoted pitch line is kept as source wording. The Long Mask runs just over 283 years, from the Sovereign Pier to the pendant's severing on Kanja's 314th birthday, the day after his father's murder (`MCD-1901`).]
+ - Kanja and Ozmund are cousins through their mothers, Val Saeryn Kareth and Val Mirel Kareth (Karesian war-sisters), not through their fathers. Their fathers' shared murder is the origin wound both sons carry into Book 3's confrontation ("You are becoming the thing our fathers died to prevent" / "Our fathers' way got them both killed," Master Canon's own locked line, both right, both wrong).
+--- before: docs/lords-of-cian/voice/voice-bible-definitive.md
++++ after: docs/lords-of-cian/voice/voice-bible-definitive.md
+@@ -206,2 +206,4 @@
+ 
++[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on Kanja's 314th birthday (`MCD-1901`).]
++
+ Masked: “Burn the convoy. Leave the crew alive. They’ll carry the message.”
+--- before: docs/lords-of-cian/voice/voice-progression-sheet.md
++++ after: docs/lords-of-cian/voice/voice-progression-sheet.md
+@@ -146,2 +146,4 @@
+ 
++[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on Kanja's 314th birthday (`MCD-1901`).]
++
+ What changes from Phase 3:
