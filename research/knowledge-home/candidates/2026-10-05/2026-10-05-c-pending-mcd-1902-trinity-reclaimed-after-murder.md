@@ -13,3 +13,4 @@ This item is a draft and is pending the author's approval; nothing in it is lock
 ## Links
 - related, 2026-10-05-c-pending-mcd-1903-aging-misconception.md, the sibling proposed rule
 - related, 2026-10-05-c-pending-father-dies-313-pi-awakening-stays-314.md, the ruling this beat follows from
+- related, 2026-10-05-b-heartline-maro-death-reserved-for-book-1.md, the same reserved Book 1 beat from the Heartline side

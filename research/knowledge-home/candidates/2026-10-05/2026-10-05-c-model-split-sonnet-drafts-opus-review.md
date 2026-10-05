@@ -13,3 +13,4 @@ Session-operations convention: the author asked that drafting work run on Sonnet
 - related, 2026-10-05-c-reviewer-recurring-finding-classes.md, drafting habits that cut the number of review rounds
 - related, 2026-10-05-c-review-rounds-before-a-clean-gate.md, why review is the costly step
 - related, 2026-10-05-c-raw-transcript-archive-and-subagent-index.md, where the session's subagent runs are indexed
+- related, 2026-10-05-b-fable-review-pipeline-division-of-labor.md, the earlier review-then-fix division of labor

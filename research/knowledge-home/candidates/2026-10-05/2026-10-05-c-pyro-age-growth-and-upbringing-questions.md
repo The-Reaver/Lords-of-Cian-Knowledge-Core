@@ -12,3 +12,4 @@ Source: docs/lords-of-cian/character-profiles/pyro.md, Section 2 (proposals in r
 ## Links
 - related, 2026-10-05-c-pyro-parents-knowledge-question.md, the central question, A3
 - related, 2026-10-05-c-pending-batch-378-flagged-readings.md, flag 15, the changes the Batch 378 draft owes this profile
+- related, 2026-10-05-b-pyro-triad-walkthroughs-and-central-question.md, the Rules Walkthroughs the profile builds on

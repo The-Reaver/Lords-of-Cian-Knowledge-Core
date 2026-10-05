@@ -12,3 +12,5 @@ CC-164 (Batch 371), on the CC-162 pattern. The register runs from the fleet's ar
 ## Links
 - related, 2026-10-05-c-review-rounds-before-a-clean-gate.md, how many reviews the batch needed
 - related, 2026-10-05-c-anirak-origin-cc163.md, the origin rule locked with it
+- related, 2026-10-05-b-lauris-kill-register-cc-162.md, the pattern CC-164 follows
+- related, 2026-10-05-b-killing-doctrine-cc-161-necessity-kills.md, Kanja's necessity-kill doctrine

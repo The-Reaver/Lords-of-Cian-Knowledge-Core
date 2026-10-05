@@ -11,5 +11,5 @@
 ## Body
 Standing convention from VB-067 (Batch 375): teller-bound conflicts always go to the author. They are not mechanical corrections even when a locked fact seems to settle them, because settling one decides what a character knew. Live examples held on the approval list: item 7 (is Fermand a sixth knower of Ezio's classified capability, with locked Lauris Record IX, MCD-1626, held open) and item 39, new in this batch (Fermand narrating K-Theta material in Lauris Record VIII against MCD-193, found by the eighth review of VB-066 and VB-067).
 ## Links
-- related, 2026-10-05-c-approval-knowers-fermand-ezio-and-ktheta.md, the two items held under this rule
+- related, 2026-10-05-c-approval-item-39-fermand-ktheta.md, the two items held under this rule
 - related, 2026-10-05-c-account-types-vb067.md, the rule this convention belongs to

@@ -13,3 +13,4 @@ This item is a draft and is pending the author's approval; nothing in it is lock
 ## Links
 - related, 2026-10-05-c-pending-father-dies-313-pi-awakening-stays-314.md, the author's rulings the draft rests on
 - related, 2026-10-05-c-pending-batch-378-owes-independent-review.md, the gate step still owed
+- related, 2026-10-05-b-fulfillment-ceremony-284-vs-296-years.md, the finding that first raised the question

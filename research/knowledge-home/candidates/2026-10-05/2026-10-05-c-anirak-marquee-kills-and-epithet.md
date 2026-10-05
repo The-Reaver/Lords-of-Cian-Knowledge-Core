@@ -12,3 +12,5 @@ Batch 372. Marquee kills (MCD-1881): at most three before Book 1, each a CC-164 
 ## Links
 - related, 2026-10-05-c-anirak-wave-one-three-entries.md, the wave that follows this plan
 - related, 2026-10-05-c-anirak-era-gate-fury-states.md, the Warm-only gate
+- related, 2026-10-05-b-anirak-tier1-fifth-anchor-hero.md, Anirak's Tier 1 and anchor-hero status, Batch 362
+- related, 2026-10-05-b-marquee-kill-tiering-mcd-1881.md, the marquee-kill tiering this plan applies

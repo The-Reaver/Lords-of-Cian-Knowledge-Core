@@ -13,3 +13,4 @@ VB-067 (Batch 375). The author asked for reliable and unreliable account types f
 ## Links
 - related, 2026-10-05-c-teller-bound-conflicts-go-to-the-author.md, what happens when a teller's bound conflicts with a locked fact
 - related, 2026-10-05-c-account-craft-standard-vb068.md, the craft standard that governs how accounts are told
+- related, 2026-10-05-b-two-account-rule-vb-062.md, the two-account rule VB-062 that VB-067 amends

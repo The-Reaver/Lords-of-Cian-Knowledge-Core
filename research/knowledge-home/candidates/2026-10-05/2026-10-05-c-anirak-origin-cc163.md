@@ -12,3 +12,4 @@ Batch 371 (CC-163, CC-164). CC-163: Anirak is pressure-born (MCD-1896), born fre
 ## Links
 - related, 2026-10-05-c-anirak-kill-register-cc164.md, the second rule locked in the same batch
 - related, 2026-10-05-c-tide-line-unit-roster-and-opponent.md, the unit CC-163 fixes
+- related, 2026-10-05-b-anirak-tier1-fifth-anchor-hero.md, why Anirak's gate was opened

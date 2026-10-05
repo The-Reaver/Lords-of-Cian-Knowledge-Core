@@ -12,3 +12,4 @@ Source: docs/lords-of-cian/character-profiles/triad-guardians.md, Section 2 (pro
 ## Links
 - related, 2026-10-05-c-pyro-profile-series-name-and-narrator-proposals.md, the Game Plan proposals for both series
 - related, 2026-10-05-c-pyro-parents-knowledge-question.md, Pyro's own side of the same night
+- related, 2026-10-05-b-pyro-triad-walkthroughs-and-central-question.md, the Rules Walkthroughs the profile builds on
