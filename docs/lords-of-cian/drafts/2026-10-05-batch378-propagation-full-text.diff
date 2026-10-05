@@ -1,29 +1,36 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,27 @@
+@@ -4439,2 +4439,34 @@
  
 +**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1903`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
 +  the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
-+  his 314th birthday": it falls on the sixth day after that birthday, the seventh day of the 10-Day
-+  Interregnum, which opens on the birthday (confirmed by Abad). The Long Mask runs from the
-+  Sovereign Pier to the pendant's severing at the Awakening, "just over 283 years." The Accords end
-+  with the murder. This resolves approval-list item 1 and supersedes the Batch 56 ruling that
-+  `MCD-091`'s 296 controls.
-+- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday. The Accords held 283
++  his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
++  Obsidian Malice, six days works"). The 10-Day Interregnum is proposed to open on that birthday, which
++  makes the Awakening its seventh day. The Long Mask runs from the Sovereign Pier to the pendant's
++  severing at the Awakening, "just over 283 years." The Accords end with the murder. This resolves
++  approval-list item 1 and supersedes the Batch 56 ruling that `MCD-091`'s 296 controls.
++- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday (a new fact, approved
++  with this batch). The Accords held 283
 +  years and 29 days, the Long Mask 283 years and 36 days. The late-Scourge entries are placed on it:
 +  "one more year" at 312, the coat night at 313 before the Ceremony, the Eve of Awakening at 314 on
 +  the day before the Awakening. The Scourge persona ends at the coat night; the Long Mask ends at the
 +  pendant.
 +- **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. After the
-+  Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. Reserved to Book 1.
++  Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. No entry set before
++  Book 1 may dramatize or foreshadow the murder, that reading, or the reclaiming. Retrospective tellers'
++  after-the-fact mentions already locked stay permitted. `MCD-070` is amended: the Investigation opens at
++  the murder and runs on through the Interregnum, which opens the next day.
 +- **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. After his
 +  314th birthday the decline culminates in a deathbed state in which he believes he is dying; the
-+  Pi-Awakening releases the Shackle and shows him that the feeling was the Shackle. How enemies reach
-+  him on the deathbed stays open.
-+- **Propagation.** 49 rule statements amended; 60 entries and 12 docs carried,
-+  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The voice
-+  mirrors and the pitch line keep their source wording, with a bracketed note. Owed to the Pyro/Triad
++  Pi-Awakening releases the Shackle and shows him the decline was not age. That the Talisman caused
++  it he learns only in Book 4. Whether Lauris and Sephtis connect it to his decline, and how enemies
++  reach him on the deathbed, stay open.
++- **Propagation.** 52 rule statements amended; 60 entries and 12 docs carried,
++  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
++  line keeps its source wording, with a bracketed note. The mirrored Voice Bible and Voice Progression
++  Sheet under `docs/lords-of-cian/voice/` still read 284 years and are not edited; that sync is owed
++  (Batch 377 practice), and the Drive source documents are Abad's to update. Owed to the Pyro/Triad
 +  review: the A1 block in `pyro.md` and the matching lines in `triad-guardians.md`.
 +Ledger at `ledger_version` 38.0, 2,724 rules, 378 batches.
 +
@@ -69,7 +76,7 @@
  `MCD-1661` all imply more.
 -- **Recommend about 309, five years younger than Kanja.** This follows from item 1.
 +- **Recommend about 308, five years younger than Kanja.** This follows from item 1: Kanja is 313 at
-+  Book 1 (`MCD-1901`).
++  the Fulfillment Ceremony (`MCD-1901`).
  - Scope: `CC-028` and the Ezio profile.
 @@ -267,3 +268,3 @@
  alliance aboard (`MCD-206`), the joint archive (`MCD-212`), present-day scenes (`MCD-1565`), and
@@ -155,6 +162,12 @@
 +  "centuries into" what the Directorate terms Kanja's Long Mask era (which itself spans just over 283
 +  years per `MCD-246`, `MCD-1901`), consistent with the setting's own standing long-baseline-lifespan convention
    (CLAUDE.md's standing note: "this world's baseline lifespans are long — hundreds to tens of
+--- before: docs/lords-of-cian/character-profiles/ezio-valcari.md
++++ after: docs/lords-of-cian/character-profiles/ezio-valcari.md
+@@ -115,2 +115,3 @@
+   double regicide, hired by Ozmund. Three acts: Investigation → 10-Day Interregnum → Karkosa Heist.
++  [Added Batch 378 (`MCD-070` amended): the Investigation opens at the murder and runs on through the Interregnum, which opens the next day (`MCD-1901`); the acts are narrative movements, not consecutive spans.]
+ - `CULT-044` / `CULT-053` / `CULT-071` / `CULT-075` / `CULT-080` / `CULT-081` / `MCD-1853` — the
 --- before: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
 +++ after: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
 @@ -74,4 +74,4 @@
@@ -164,39 +177,42 @@
 +  retaining only the Talisman of Mao, the Aegis-Talisman, and the Rexmar Machete. The Long Mask that
 +  follows, lasting just over 283 years (`MCD-1901`), comprises 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger
    entries (120+ operations total), tracked by Onyx as a running seconds-count from the Sovereign
-@@ -80,5 +80,5 @@
+@@ -80,5 +80,6 @@
    this whole era.
 -- `CC-005` / `CC-006` — The Long Mask persona runs 284 years, ending when the Gravity-Fetter pendant
 +- `CC-005` / `CC-006` — The Long Mask runs just over 283 years (`MCD-1901`), ending when the Gravity-Fetter pendant
    is severed at the Gilded Lighthouse, triggering the Pi-Awakening between his 314th and 315th
 -  birthdays ("Day 0" = age 314).
-+  birthdays ("Day 0" = age 314), on the sixth day after his 314th birthday (`MCD-1901`).
++  birthdays ("Day 0" = age 314, the Pi-Awakening itself; it falls on the sixth day after his 314th
++  birthday, `MCD-1901`).
  - `WC-005` (amended) — The Pi-Awakening is a bloodline-wide biological threshold at exactly 314
-@@ -149,4 +149,4 @@
+@@ -149,4 +150,4 @@
    defensive "Last Ward" mode, `ARS-390`). First deployed together at the Black Trench (age 19);
 -  surrendered as a complete system to the L9 vault at age 30 (`MCD-246`) for the entire 284-year Long
 -  Mask that follows.
 +  surrendered as a complete system to the L9 vault at age 30 (`MCD-246`) for the entire Long Mask
 +  of just over 283 years that follows.
  - **Long-Mask-era kit**: the Talisman of Mao (Blueprint Eye — maps financial/legal structures),
-@@ -213,3 +213,3 @@
-   dormancy ending. This is the hard chronological wall at the far end of anything this new track
+@@ -212,4 +213,4 @@
+   Interregnum → Karkosa Heist); epilogue is the Great Breach, the SBD uncovered, T.D.K.'s 5,000-year
+-  dormancy ending. This is the hard chronological wall at the far end of anything this new track
 -  could draft — everything in this walkthrough (ages 18–314) sits *before* it.
++  dormancy ending. [Added Batch 378 (`MCD-070` amended): the Investigation opens at the murder and runs on through the Interregnum, which opens the next day (`MCD-1901`); the acts are narrative movements, not consecutive spans.] This is the hard chronological wall at the far end of anything this new track
 +  could draft — everything in this walkthrough (ages 18–313) sits *before* it.
  - **Maro Rexmar's death as Kanja's true center, per Abad (2026-09-28) — reserved, not this track's
-@@ -219,3 +219,4 @@
+@@ -219,3 +220,4 @@
    documents for ages 18–30. Nothing in this track may foreshadow, soften, or otherwise anticipate this
 -  turn; it is the seed of a future Book-1-era or post-Fulfillment-Ceremony psychological profile.
 +  turn; it is the seed of a future Book-1-era or post-Fulfillment-Ceremony psychological profile. Its Book 1
 +  consequence is locked at `MCD-1902`: the Accords broken, and the Trinity reclaimed at the Karkosa Heist.
  - **The eleven queued villain defeats** (see Already-locked plot beats above) — explicitly unwritten,
-@@ -410,3 +411,4 @@
+@@ -410,3 +412,4 @@
  - **Body:** Kanja's locked decline governs late entries — visibly slowed by ~205, "immobility as a
 -  weapon" by 240, unable to stand unaided on bad days by 300 (`MCD-260`/`262`/`271`).
 +  weapon" by 240, unable to stand unaided on bad days by 300 (`MCD-260`/`262`/`271`). The cause is the Governor's
 +  Shackle, which Kanja and the crew read as age (`MCD-1903`); no entry confirms that he is aging out.
  - **Killing:** `CC-161` (costed default, cold, never rage) and `MCD-1881` (marquee kills named,
-@@ -418,4 +420,5 @@
+@@ -418,4 +421,5 @@
    until the open cross-track mortality ruling lands. Respect recruitment dates (`MCD-247`–`261`).
 -- **Reserved:** everything already reserved above, plus the Eve of Awakening/Pi-Awakening at 314
 -  (`MCD-272`, `MCD-1022`), Maro's death through the Heartline (`ARS-437`), and the reunion scene.
@@ -209,7 +225,7 @@
 @@ -25,3 +25,3 @@
  | Anirak | `character-profiles/anirak.md` | walkthrough drafted (Tier 1, Book-1 anchor hero, 2026-10-03); Tide Line (Batch 368) and Combination Codex (Batch 370) locked; Psychological Profile approved and locked (Batch 371, `CC-163`/`CC-164`, 2026-10-03); Game Plan approved and locked (Batch 372, `VB-065`, 2026-10-04); gate cleared; wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) | 3 Collections (I-III); appears in Kanja Chronicle V (`MCD-1883`, her recruitment) |
 -| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 21 connective-tissue findings queued, age at Book 1 depends on the 284/296 ruling | 0 (no entry mentions him) |
-+| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 21 connective-tissue findings queued, 23 at Book 1 (born in Kanja's age 290; Book 1 at Kanja 313, Batch 378, `MCD-1901`) | 0 (no entry mentions him) |
++| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 21 connective-tissue findings queued, 23 at the Fulfillment Ceremony (born in Kanja's age 290; Kanja is 313 then, Batch 378, `MCD-1901`) | 0 (no entry mentions him) |
  | Triad Guardians (Varkul, Sorya, Varruk) | `character-profiles/triad-guardians.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 16 connective-tissue findings queued, origin (created at the Gate vs. ancient clade) the central one | 0 (no entry mentions them) |
 --- before: docs/lords-of-cian/chronicles/kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md
 +++ after: docs/lords-of-cian/chronicles/kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md
@@ -339,7 +355,7 @@
 @@ -3,3 +3,3 @@
  *Locked canon, Batch 133, 2026-09-11 (`MCD-448`). The Scourge Alias Chronicle IX, closing the third
 -wave. Long Mask era, age ~210, generations into the persona's 284-year span. Not a territory
-+wave. Long Mask era, age ~210, generations into the persona's span of just over 283 years. Not a territory
++wave. Long Mask era, age ~210, generations into the Long Mask's span of just over 283 years. Not a territory
  Annals entry. New standalone material. Narrated in neutral third-person prose. No new named characters.*
 @@ -43,3 +43,3 @@
  device consistent with the Scourge's deliberate anonymity within his own crew across the Long Mask's
@@ -377,7 +393,7 @@
 @@ -11,3 +11,3 @@
  any piece of the loadout in decades, turning over a thought that had been arriving more often lately
 -without ever quite finishing itself: that two hundred and eighty-three years under this name might
-+without ever quite finishing itself: that two hundred and eighty-two years under this name might
++without ever quite finishing itself: that two hundred and eighty-two years behind this mask might
  already be enough.
 @@ -20,3 +20,3 @@
  them there — and set it down beside him without comment, the way he'd set down every count for two
@@ -502,7 +518,7 @@
 @@ -3,3 +3,3 @@
  *Locked canon, Batch 186, 2026-09-11 (`MCD-545`). The Scourge Alias Chronicle XV, closing the fifth
 -wave. Long Mask era, age ~200, generations into the persona's 284-year span. Not a territory
-+wave. Long Mask era, age ~200, generations into the persona's span of just over 283 years. Not a territory
++wave. Long Mask era, age ~200, generations into the Long Mask's span of just over 283 years. Not a territory
  Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 --- before: docs/lords-of-cian/chronicles/the-grandson-who-came-to-warn-him.md
 +++ after: docs/lords-of-cian/chronicles/the-grandson-who-came-to-warn-him.md
@@ -533,7 +549,7 @@
 @@ -43,3 +43,3 @@
  Mask Comes Off" (MCD-493) and "The Weight the Mask Kept Count Of" (MCD-813) both already did.
 -Deliberately states only that the 284-year span (MCD-246, ARS-310) has run its course and that Kanja
-+Deliberately states only that the persona's span of just over 283 years (MCD-246, ARS-310, MCD-1901) has run its course and that Kanja
++Deliberately states only that the Long Mask's span of just over 283 years (MCD-246, ARS-310, MCD-1901) has run its course and that Kanja
  chooses to end it consciously rather than let it drift into unexamined habit; deliberately does not
 @@ -54,2 +54,6 @@
  hands-on work to the successor while Kanja directs and assists, without changing the outcome (94
@@ -552,6 +568,12 @@
 +own end (`MCD-1022`, age 313) draws near without depicting it. No new named characters -- the
 +garrison is unnamed. Age 310, V4 gear (`ARS-348` locks V4 at ages 180-313). Onyx of Oblivion correctly absent
  per its L9 seal throughout the Long Mask. First entry in the Scourge's thirtieth and, for this run,
+@@ -45,2 +45,4 @@
+ anchor used to reconcile this figure across all five entries that stated it inconsistently;
+-corrected the `ARS-348` citation to its own locked ranges.*
++corrected the `ARS-348` citation to its own locked ranges. Placed Batch 378, 2026-10-05 (MCD-1901):
++in the last 30 days of age 310, after the Pier's 280th anniversary, so Garren Hask's two hundred and
++eighty years hold exactly.*
 --- before: docs/lords-of-cian/chronicles/the-last-names-before-the-silence.md
 +++ after: docs/lords-of-cian/chronicles/the-last-names-before-the-silence.md
 @@ -37,3 +37,3 @@
@@ -559,6 +581,12 @@
 -Long Mask's established close (`MCD-1022`, age 314) without depicting or contradicting it -- centers
 +Scourge persona's established close (`MCD-1022`, age 313) without depicting or contradicting it -- centers
  Garren Hask's advanced age and diminished but still-devoted role (`CC-115`/`116`), reusing Pell
+@@ -42,2 +42,4 @@
+ the Long Mask. Closes the Scourge's twenty-ninth wave (with "The Ruling That Changed Nothing,"
+-`MCD-1250`, and "The Boy Who Grew Old Waiting," `MCD-1251`).*
++`MCD-1250`, and "The Boy Who Grew Old Waiting," `MCD-1251`). Placed Batch 378, 2026-10-05
++(MCD-1901): in the last 30 days of age 308, after the Pier's 278th anniversary, so the entry's two
++hundred and seventy-eight years of keeping the ledger hold exactly.*
 --- before: docs/lords-of-cian/chronicles/the-names-the-ledger-kept-track-of.md
 +++ after: docs/lords-of-cian/chronicles/the-names-the-ledger-kept-track-of.md
 @@ -44,3 +44,3 @@
@@ -765,6 +793,12 @@
 -characters. Age 290, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent
 +characters. Age 290, V4 gear (`ARS-348` locks V4 at ages 180-313). Onyx of Oblivion correctly absent
  per its
+@@ -49,2 +49,4 @@
+ Efa Gol's own locked age-150 step-back (`MCD-807`) against this entry's age 290; corrected the
+-`ARS-348` citation to its own locked ranges.*
++`ARS-348` citation to its own locked ranges. Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30
++days of age 290, after the Pier's 260th anniversary, so the entry's two-hundred-and-sixty-year span
++holds exactly.*
 --- before: docs/lords-of-cian/chronicles/what-held-the-causeway.md
 +++ after: docs/lords-of-cian/chronicles/what-held-the-causeway.md
 @@ -2,3 +2,3 @@
@@ -832,17 +866,15 @@
  - The pitch material's own line for Kanja: "The 284-year performance was the longest undercover operation in history, and it ended one day too late."
 +  [Corrected Batch 378: the quoted pitch line is kept as source wording. The Long Mask runs just over 283 years, from the Sovereign Pier to the pendant's severing on the sixth day after Kanja's 314th birthday, seven days after his father's murder (`MCD-1901`). The line is read as the murder falling one day short of his 314th birthday.]
  - Kanja and Ozmund are cousins through their mothers, Val Saeryn Kareth and Val Mirel Kareth (Karesian war-sisters), not through their fathers. Their fathers' shared murder is the origin wound both sons carry into Book 3's confrontation ("You are becoming the thing our fathers died to prevent" / "Our fathers' way got them both killed," Master Canon's own locked line, both right, both wrong).
---- before: docs/lords-of-cian/voice/voice-bible-definitive.md
-+++ after: docs/lords-of-cian/voice/voice-bible-definitive.md
-@@ -206,2 +206,4 @@
+@@ -65,3 +66,3 @@
+ 4. **Atlas duplicate listings — DECIDED, approved for fix, not yet executed.** Karkosa row 48, Maw-7 Slab row 49 (both Sovereign Trust Domain side), located but not edited. Phase 1 items 2-3.
+-5. **Canon-lock documents and Book 1 structural outline — PARTIALLY RESOLVED, and now further clarified.** Master Canon Decisions and the Session Locks are not missing, a full-Drive search located them. Master Canon Decisions itself contains a "BOOK 1 STRUCTURE: THE DEPOSED KING" section: opening murder scene (the Fulfillment Ceremony), three acts (Investigation → 10-Day Interregnum → Karkosa Heist), epilogue (The Great Breach, SBD uncovered). This may mean the Book 1 structural outline is less "missing" than "not yet assembled into a single standalone outline document" — the beats already exist across Master Canon Decisions and the Session Locks. Worth re-checking before treating this as a from-scratch draft.
++5. **Canon-lock documents and Book 1 structural outline — PARTIALLY RESOLVED, and now further clarified.** Master Canon Decisions and the Session Locks are not missing, a full-Drive search located them. Master Canon Decisions itself contains a "BOOK 1 STRUCTURE: THE DEPOSED KING" section: opening murder scene (the Fulfillment Ceremony), three acts (Investigation → 10-Day Interregnum → Karkosa Heist), epilogue (The Great Breach, SBD uncovered). [Added Batch 378 (`MCD-070` amended): the Investigation opens at the murder and runs on through the Interregnum, which opens the next day (`MCD-1901`); the acts are narrative movements, not consecutive spans.] This may mean the Book 1 structural outline is less "missing" than "not yet assembled into a single standalone outline document" — the beats already exist across Master Canon Decisions and the Session Locks. Worth re-checking before treating this as a from-scratch draft.
  
-+[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on the sixth day after Kanja's 314th birthday (`MCD-1901`).]
-+
- Masked: “Burn the convoy. Leave the crew alive. They’ll carry the message.”
---- before: docs/lords-of-cian/voice/voice-progression-sheet.md
-+++ after: docs/lords-of-cian/voice/voice-progression-sheet.md
-@@ -146,2 +146,4 @@
+--- before: docs/lords-of-cian/master-to-do-list.md
++++ after: docs/lords-of-cian/master-to-do-list.md
+@@ -88,3 +88,3 @@
  
-+[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on the sixth day after Kanja's 314th birthday (`MCD-1901`).]
-+
- What changes from Phase 3:
+-**Lighthouse/Pi-Awakening question — resolved, confirmed by Abad.** A contradiction was flagged earlier this session: material describing someone growing heavier and heavier, believing he is dying, then falling several stories from a lighthouse during an assassination attempt and cracking a foundation "made of the best material," with the buildup described as reinforcing ground he had passed through without anyone noticing until they return. This matched existing hard canon exactly, but as Kanja's own arc, not Guacanagarix's: the Talisman of Mao document's Governor's Shackle stage (Kanja growing "heavy" and "sluggish" as pressure builds toward the Pi-Awakening at 314, built to "detonate inward" at the exact moment his body is ready), the same document's Grounded Bastion stage (the reinforced-ground mechanic, tied to Kanja's presence), and the Complete Structural Outline, which places the Pi-Awakening at a location named the Gilded Lighthouse, early in the 10-Day Interregnum. Abad confirmed directly: he meant Kanja throughout that passage, not Guacanagarix. New on top of what's already locked: the assassination-attempt trigger and the specific fall/crack-the-foundation staging, which are new scene-level detail, not yet written into the outline. **Note added this session:** the specific substage this staging depends on (Grounded Bastion Substage 3) was flagged as `CONFLICT-001` in the new canon-rules ledger — resolved 2026-08-14, see the Update above.
++**Lighthouse/Pi-Awakening question — resolved, confirmed by Abad.** A contradiction was flagged earlier this session: material describing someone growing heavier and heavier, believing he is dying, then falling several stories from a lighthouse during an assassination attempt and cracking a foundation "made of the best material," with the buildup described as reinforcing ground he had passed through without anyone noticing until they return. This matched existing hard canon exactly, but as Kanja's own arc, not Guacanagarix's: the Talisman of Mao document's Governor's Shackle stage (Kanja growing "heavy" and "sluggish" as pressure builds toward the Pi-Awakening at 314, built to "detonate inward" at the exact moment his body is ready), the same document's Grounded Bastion stage (the reinforced-ground mechanic, tied to Kanja's presence), and the Complete Structural Outline, which places the Pi-Awakening at a location named the Gilded Lighthouse, early in the 10-Day Interregnum. [Batch 378 note: the Pi-Awakening falls on the sixth day after his 314th birthday (confirmed by Abad); on the proposed counting of `MCD-1901` that is the seventh day of the Interregnum.] Abad confirmed directly: he meant Kanja throughout that passage, not Guacanagarix. New on top of what's already locked: the assassination-attempt trigger and the specific fall/crack-the-foundation staging, which are new scene-level detail, not yet written into the outline. **Note added this session:** the specific substage this staging depends on (Grounded Bastion Substage 3) was flagged as `CONFLICT-001` in the new canon-rules ledger — resolved 2026-08-14, see the Update above.
+ 

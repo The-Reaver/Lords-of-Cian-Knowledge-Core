@@ -29,9 +29,10 @@ AMEND = [
      "The Fulfillment Ceremony is separate from the Sovereign Pier Accords: the Accords were concluded at "
      "the Sovereign Pier just over 283 years before the Ceremony, and the murders there broke them (MCD-1901)."),
     ("ARS-010", "for roughly 296 years -- the full 284-year Long Mask and beyond (MCD-091) --",
-     "for just over 283 years -- the whole Long Mask and on into Book 1 (MCD-1901) --"),
-    ("ARS-310", "maintained the Scourge persona for 284 years using",
-     "maintained the Scourge persona for just over 283 years (MCD-1901) using"),
+     "for just over 283 years -- the whole Long Mask and on to the Karkosa Heist (MCD-1901) --"),
+    ("ARS-310", "Kanja maintained the Scourge persona for 284 years using",
+     "Through the Long Mask of just over 283 years (MCD-1901) Kanja maintained the Scourge persona, born at "
+     "Ash-Wharf at age 22 (MCD-235), using"),
     ("CC-005", "Kanja's Long Mask persona lasted 284 years, ending when the Gravity-Fetter pendant was severed at "
                "the Gilded Lighthouse, triggering the Pi-Awakening.",
      "Kanja's Long Mask lasted just over 283 years, ending when the Gravity-Fetter pendant was severed at the "
@@ -84,12 +85,12 @@ AMEND = [
      "locks V4 at ages 180-313, which age 235 falls within"),
     ("MCD-1322", "(ages 33-284)", "(ages 33-314)"),
     ("CC-101", "Pyro, roughly 24-36 at Book 1, is younger",
-     "Pyro, 23 at Book 1 (MCD-270, MCD-1901), is younger"),
+     "Pyro, 23 at the Fulfillment Ceremony (MCD-270, MCD-1901), is younger"),
     ("CC-110", "for 24 years", "for 23 years"),
     ("WC-022", "Book 1 The Deposed King (murder investigation -> 10-Day Interregnum -> Pi-Awakening -> Great Breach "
                "epilogue)",
      "Book 1 The Deposed King (murder investigation -> 10-Day Interregnum, which opens on the day after the "
-     "murder, his 314th birthday, and within which fall his decline and the Pi-Awakening on the sixth day after "
+     "murder, his 314th birthday, and within which fall his deathbed days and the Pi-Awakening on the sixth day after "
      "that birthday, the seventh day of the Interregnum (MCD-1901) -> Great Breach epilogue)"),
 ]
 for rid in ["MCD-589", "MCD-984", "MCD-1053", "MCD-1058", "MCD-1091", "MCD-1338", "MCD-1367", "MCD-1374",
@@ -98,6 +99,9 @@ for rid in ["MCD-589", "MCD-984", "MCD-1053", "MCD-1058", "MCD-1091", "MCD-1338"
     AMEND.append((rid,) + BOILER)
 # Correction notes appended to rules whose entries' counts or placements change in this batch.
 APPEND = {
+    # Proposed change to Book 1's structure (the clause is Abad-approval-dependent, like the rest of the batch).
+    "MCD-070": " The Investigation opens at the murder and runs on through the Interregnum, which opens the next "
+               "day (MCD-1901); the acts are narrative movements, not consecutive spans.",
     "MCD-1883": " Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date "
                 "(MCD-1901), 791,942,400 to 762,998,400 seconds (24 years and 71 days); the age and the moment "
                 "within it are unchanged.",
@@ -112,6 +116,12 @@ APPEND = {
                 "hundred and eighty-two'.",
     "MCD-1407": " Placed Batch 378, 2026-10-05: in the last month of age 313, after the Pier's 283rd "
                 "anniversary and before 'The Night Before the Last Coat' (MCD-1901).",
+    "MCD-1246": " Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30 days of age 290, after the Pier's 260th "
+                "anniversary, so the entry's stated span of two hundred and sixty years holds exactly.",
+    "MCD-1252": " Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30 days of age 308, after the Pier's 278th "
+                "anniversary, so the entry's stated span of two hundred and seventy-eight years holds exactly.",
+    "MCD-1253": " Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30 days of age 310, after the Pier's 280th "
+                "anniversary, so the entry's stated span of two hundred and eighty years holds exactly.",
 }
 
 # ---------------------------------------------------------------------------------------------
@@ -163,7 +173,7 @@ EDITS += [
     (K7, "P", "Dark Ledger. 6,632,323,200 seconds.", "Dark Ledger. 6,603,379,200 seconds.", 1),
     (K7, "P", "Two hundred and ten years of dark by then.", "Two hundred and nine years of dark by then.", 1),
     (C1255, "P", "that two hundred and eighty-three years under this name might",
-     "that two hundred and eighty-two years under this name might", 1),
+     "that two hundred and eighty-two years behind this mask might", 1),
     (C1255, "P", "for two\nhundred and eighty-three years running.", "for two\nhundred and eighty-two years running.", 1),
     (C1255, "P", "whether two hundred and\neighty-three years was enough", "whether two hundred and\neighty-two years was enough", 1),
     (C1406, "P", "now ran past two hundred and eighty-three years", "now ran past two hundred and eighty-two years", 1),
@@ -189,9 +199,9 @@ EDITS += [
     (CH + "what-the-golden-terror-left-behind.md", "H", "for the full 284-year Long Mask period",
      "for the full Long Mask period of just over 283 years", 1),
     (CH + "the-grandchildren-of-the-freed.md", "H", "generations into the persona's 284-year span",
-     "generations into the persona's span of just over 283 years", 1),
+     "generations into the Long Mask's span of just over 283 years", 1),
     (CH + "the-boy-who-didnt-know-his-name.md", "H", "generations into the persona's 284-year span",
-     "generations into the persona's span of just over 283 years", 1),
+     "generations into the Long Mask's span of just over 283 years", 1),
     (CH + "the-watch-callum-breck-called.md", "H", "for the era's full 284 years",
      "for the era's full span of just over 283 years", 1),
     (CH + "what-burned-loud-enough-to-hear.md", "H", "decades into the 284-year Long Mask", "decades into " + LM, 1),
@@ -230,7 +240,7 @@ EDITS += [
     (C1408, "N", "(`MCD-1255`, age 313)", "(`MCD-1255`, age 312)", 1),
     (C1408, "N", "Age 314, V4 gear", "Age 313, V4 gear", 1),
     (C1022, "N", "Deliberately states only that the 284-year span (MCD-246, ARS-310) has run its course",
-     "Deliberately states only that the persona's span of just over 283 years (MCD-246, ARS-310, MCD-1901) has run its course", 1),
+     "Deliberately states only that the Long Mask's span of just over 283 years (MCD-246, ARS-310, MCD-1901) has run its course", 1),
 ]
 NOTE_APPEND = {
     K5: " Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date, 30 days "
@@ -248,6 +258,15 @@ NOTE_APPEND = {
     C1406: " Corrected Batch 378, 2026-10-05: set in the first three weeks of age 313, three weeks after "
            "`MCD-1255` (`MCD-1901`); Garren Hask's ledger span moves from past two hundred and eighty-three to "
            "past two hundred and eighty-two years, matching the Pier date exactly.",
+    CH + "what-efa-gol-never-asked-twice.md":
+        " Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30 days of age 290, after the Pier's 260th "
+        "anniversary, so the entry's two-hundred-and-sixty-year span holds exactly.",
+    CH + "the-last-names-before-the-silence.md":
+        " Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30 days of age 308, after the Pier's 278th "
+        "anniversary, so the entry's two hundred and seventy-eight years of keeping the ledger hold exactly.",
+    CH + "the-last-depot-on-the-old-charts.md":
+        " Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30 days of age 310, after the Pier's 280th "
+        "anniversary, so Garren Hask's two hundred and eighty years hold exactly.",
     CH + "the-names-the-ledger-kept-track-of.md":
         " Placed Batch 378, 2026-10-05: in the last month of age 313, after the Pier's 283rd anniversary, "
         "where Hask's two hundred and eighty-three years are exact (`MCD-1901`).",
@@ -260,6 +279,9 @@ NOTE_APPEND = {
            "(`CC-005`, `MCD-1901`).",
 }
 
+BRACKET = ("[Added Batch 378 (`MCD-070` amended): the Investigation opens at the murder and runs on through the "
+           "Interregnum, which opens the next day (`MCD-1901`); the acts are narrative movements, not consecutive "
+           "spans.]")
 AL = "docs/lords-of-cian/approval-list-2026-10-03.md"
 ITEM1_OLD = """**1. Book 1's offset from the Sovereign Pier: 284 or 296 years?**
 - **Recommend 284, so Kanja is 314 at Book 1.** 296 is arithmetically impossible: it would put the
@@ -293,11 +315,11 @@ EDITS += [
   Book 1.""", 1),
     (AL, "D", "- **Recommend about 309, five years younger than Kanja.** This follows from item 1.",
      "- **Recommend about 308, five years younger than Kanja.** This follows from item 1: Kanja is 313 at\n"
-     "  Book 1 (`MCD-1901`).", 1),
+     "  the Fulfillment Ceremony (`MCD-1901`).", 1),
     (AL, "D", "24 years of knowing Pyro's father (`CC-110`).", "23 years of knowing Pyro's father (`CC-110`).", 1),
     ("docs/lords-of-cian/chronicle-tracks-status.md", "D",
      "age at Book 1 depends on the 284/296 ruling",
-     "23 at Book 1 (born in Kanja's age 290; Book 1 at Kanja 313, Batch 378, `MCD-1901`)", 1),
+     "23 at the Fulfillment Ceremony (born in Kanja's age 290; Kanja is 313 then, Batch 378, `MCD-1901`)", 1),
     ("docs/lords-of-cian/kanja-chronicles-production-roadmap.md", "D",
      "negotiated in secret roughly 296 years before Book 1 opens",
      "negotiated in secret and concluded at the Sovereign Pier just over 283 years before Book 1 opens", 1),
@@ -310,20 +332,13 @@ EDITS += [
      "just over 283 years, from the Sovereign Pier to the pendant's severing on the sixth day after Kanja's 314th "
      "birthday, seven days after his father's murder (`MCD-1901`). The line is read as the murder falling one day "
      "short of his 314th birthday.]\n", 1),
-    ("docs/lords-of-cian/voice/voice-progression-sheet.md", "D",
-     "284 years of observation have made the sword the most precise, compressed, morally absolute narrator in the series. The prose is telegraphic. Present tense dominant. Past tense used only for deep history. The narrator is ancient, patient, certain.\n",
-     "284 years of observation have made the sword the most precise, compressed, morally absolute narrator in the series. The prose is telegraphic. Present tense dominant. Past tense used only for deep history. The narrator is ancient, patient, certain.\n\n"
-     "[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on the sixth day after Kanja's 314th birthday (`MCD-1901`).]\n", 1),
-    ("docs/lords-of-cian/voice/voice-bible-definitive.md", "D",
-     "who has been pretending to be a pirate for 284 years.\n",
-     "who has been pretending to be a pirate for 284 years.\n\n"
-     "[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on the sixth day after Kanja's 314th birthday (`MCD-1901`).]\n", 1),
     (PR + "kanja-haku-rexmar.md", "D", "The 284-year Long\n  Mask that follows comprises",
      "The Long Mask that\n  follows, lasting just over 283 years (`MCD-1901`), comprises", 1),
     (PR + "kanja-haku-rexmar.md", "D", "The Long Mask persona runs 284 years, ending when the Gravity-Fetter pendant",
      "The Long Mask runs just over 283 years (`MCD-1901`), ending when the Gravity-Fetter pendant", 1),
     (PR + "kanja-haku-rexmar.md", "D", "  birthdays (\"Day 0\" = age 314).\n",
-     "  birthdays (\"Day 0\" = age 314), on the sixth day after his 314th birthday (`MCD-1901`).\n", 1),
+     "  birthdays (\"Day 0\" = age 314, the Pi-Awakening itself; it falls on the sixth day after his 314th\n"
+     "  birthday, `MCD-1901`).\n", 1),
     (PR + "kanja-haku-rexmar.md", "D", "for the entire 284-year Long\n  Mask that follows.",
      "for the entire Long Mask\n  of just over 283 years that follows.", 1),
     (PR + "kanja-haku-rexmar.md", "D", "everything in this walkthrough (ages 18–314) sits *before* it.",
@@ -356,6 +371,18 @@ EDITS += [
      "during the subsequent Long Mask of just over 283 years,", 1),
     (PR + "daba.md", "D", "(which itself spans 284 years\n  per `MCD-246`)",
      "(which itself spans just over 283\n  years per `MCD-246`, `MCD-1901`)", 1),
+    (PR + "ezio-valcari.md", "D",
+     "double regicide, hired by Ozmund. Three acts: Investigation → 10-Day Interregnum → Karkosa Heist.\n",
+     "double regicide, hired by Ozmund. Three acts: Investigation → 10-Day Interregnum → Karkosa Heist.\n"
+     "  " + BRACKET + "\n", 1),
+    (PR + "kanja-haku-rexmar.md", "D", "dormancy ending. This is the hard chronological wall",
+     "dormancy ending. " + BRACKET + " This is the hard chronological wall", 1),
+    ("docs/lords-of-cian/kanja-chronicles-production-roadmap.md", "D", "epilogue (The Great Breach, SBD uncovered).",
+     "epilogue (The Great Breach, SBD uncovered). " + BRACKET, 1),
+    ("docs/lords-of-cian/master-to-do-list.md", "D", "early in the 10-Day Interregnum.",
+     "early in the 10-Day Interregnum. [Batch 378 note: the Pi-Awakening falls on the sixth day after his 314th "
+     "birthday (confirmed by Abad); on the proposed counting of `MCD-1901` that is the seventh day of the "
+     "Interregnum.]", 1),
     (PR + "anirak.md", "D",
      "The launch wave ends with the Long Mask at Kanja 314 (`MCD-1022`), so the Scourge\n"
      "    persona governs every entry. Whether any gap lies between the Long Mask's end and the\n"
@@ -440,12 +467,13 @@ def main():
                  "old when his father dies'; 'The Pact was broken that day... so it really lasted 283 years'; 'Yes the "
                  "long mask ends there'; 'The Long Mask lasts just over 283 years'; 'the Long mask has to be after his "
                  "314th birthday'; 'shortly after his birthday he starts feeling worse and worse it seems he's on his "
-                 "death bed and then that's when it happens.' MCD-1901 locks the clock: the murder on the last day of "
+                 "death bed and then that's when it happens'; 'yes Macana is Obsidian Malice, six days works'. MCD-1901 locks the clock: the murder on the last day of "
                  "Kanja's age 313, the Pi-Awakening at age 314 (unchanged) on the sixth day after his 314th birthday, "
-                 "the Pier 30 days before his 31st birthday, the Accords 283 years and 29 days, the Long Mask 283 "
+                 "the Pier 30 days before his 31st birthday (a new fact), the Accords 283 years and 29 days, the Long Mask 283 "
                  "years and 36 days, and the late-Scourge placements. MCD-1902 locks the Book 1 beat (the Accords "
                  "broken; the Trinity reclaimed at the Karkosa Heist). MCD-1903 locks the aging misconception, "
-                 "culminating in the deathbed state after his 314th birthday. Amended: "
+                 "culminating in the deathbed state after his 314th birthday. MCD-070 is amended so the "
+                 "Investigation opens at the murder and runs on through the Interregnum. Amended: "
                  + ", ".join(sorted(amended)) + ". Files carried: " + ", ".join(files)
                  + f". Abad's approval, verbatim: \"{approval}\"."),
     })
@@ -463,25 +491,32 @@ def main():
 **Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1903`).** Abad: "{approval}"
 - **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
   the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
-  his 314th birthday": it falls on the sixth day after that birthday, the seventh day of the 10-Day
-  Interregnum, which opens on the birthday (confirmed by Abad). The Long Mask runs from the
-  Sovereign Pier to the pendant's severing at the Awakening, "just over 283 years." The Accords end
-  with the murder. This resolves approval-list item 1 and supersedes the Batch 56 ruling that
-  `MCD-091`'s 296 controls.
-- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday. The Accords held 283
+  his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
+  Obsidian Malice, six days works"). The 10-Day Interregnum is proposed to open on that birthday, which
+  makes the Awakening its seventh day. The Long Mask runs from the Sovereign Pier to the pendant's
+  severing at the Awakening, "just over 283 years." The Accords end with the murder. This resolves
+  approval-list item 1 and supersedes the Batch 56 ruling that `MCD-091`'s 296 controls.
+- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday (a new fact, approved
+  with this batch). The Accords held 283
   years and 29 days, the Long Mask 283 years and 36 days. The late-Scourge entries are placed on it:
   "one more year" at 312, the coat night at 313 before the Ceremony, the Eve of Awakening at 314 on
   the day before the Awakening. The Scourge persona ends at the coat night; the Long Mask ends at the
   pendant.
 - **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. After the
-  Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. Reserved to Book 1.
+  Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. No entry set before
+  Book 1 may dramatize or foreshadow the murder, that reading, or the reclaiming. Retrospective tellers'
+  after-the-fact mentions already locked stay permitted. `MCD-070` is amended: the Investigation opens at
+  the murder and runs on through the Interregnum, which opens the next day.
 - **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. After his
   314th birthday the decline culminates in a deathbed state in which he believes he is dying; the
-  Pi-Awakening releases the Shackle and shows him that the feeling was the Shackle. How enemies reach
-  him on the deathbed stays open.
+  Pi-Awakening releases the Shackle and shows him the decline was not age. That the Talisman caused
+  it he learns only in Book 4. Whether Lauris and Sephtis connect it to his decline, and how enemies
+  reach him on the deathbed, stay open.
 - **Propagation.** {len(amended)} rule statements amended; {n_entries} entries and {n_docs} docs carried,
-  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The voice
-  mirrors and the pitch line keep their source wording, with a bracketed note. Owed to the Pyro/Triad
+  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
+  line keeps its source wording, with a bracketed note. The mirrored Voice Bible and Voice Progression
+  Sheet under `docs/lords-of-cian/voice/` still read 284 years and are not edited; that sync is owed
+  (Batch 377 practice), and the Drive source documents are Abad's to update. Owed to the Pyro/Triad
   review: the A1 block in `pyro.md` and the matching lines in `triad-guardians.md`.
 Ledger at `ledger_version` 38.0, {len(d['rules']):,} rules, 378 batches.
 """)
