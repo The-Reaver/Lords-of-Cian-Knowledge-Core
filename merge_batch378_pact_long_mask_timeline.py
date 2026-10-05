@@ -88,9 +88,9 @@ AMEND = [
     ("CC-110", "for 24 years", "for 23 years"),
     ("WC-022", "Book 1 The Deposed King (murder investigation -> 10-Day Interregnum -> Pi-Awakening -> Great Breach "
                "epilogue)",
-     "Book 1 The Deposed King (murder investigation -> 10-Day Interregnum, counted from the murder, within "
-     "which fall his 314th birthday, his decline, and the Pi-Awakening on the sixth day after that birthday "
-     "(MCD-1901) -> Great Breach epilogue)"),
+     "Book 1 The Deposed King (murder investigation -> 10-Day Interregnum, which opens on the day after the "
+     "murder, his 314th birthday, and within which fall his decline and the Pi-Awakening on the sixth day after "
+     "that birthday, the seventh day of the Interregnum (MCD-1901) -> Great Breach epilogue)"),
 ]
 for rid in ["MCD-589", "MCD-984", "MCD-1053", "MCD-1058", "MCD-1091", "MCD-1338", "MCD-1367", "MCD-1374",
             "MCD-1381", "MCD-1386", "MCD-1419", "MCD-1506", "MCD-1510", "MCD-1511", "MCD-1515", "MCD-1518",
@@ -463,8 +463,8 @@ def main():
 **Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1903`).** Abad: "{approval}"
 - **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
   the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
-  his 314th birthday": it falls on the sixth day after that birthday, the eighth day of the 10-Day
-  Interregnum counting the murder day as day 1 (a proposed fact). The Long Mask runs from the
+  his 314th birthday": it falls on the sixth day after that birthday, the seventh day of the 10-Day
+  Interregnum, which opens on the birthday (confirmed by Abad). The Long Mask runs from the
   Sovereign Pier to the pendant's severing at the Awakening, "just over 283 years." The Accords end
   with the murder. This resolves approval-list item 1 and supersedes the Batch 56 ruling that
   `MCD-091`'s 296 controls.

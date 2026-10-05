@@ -1,21 +1,26 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4438,2 +4438,22 @@
+@@ -4439,2 +4439,27 @@
  
 +**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1903`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
-+  the last day of his age 313. The Pi-Awakening stays on his 314th birthday, the day after. The Long
-+  Mask runs from the Sovereign Pier to the pendant's severing that day, "just over 283 years." The
-+  Accords end with the murder. This resolves approval-list item 1 and supersedes the Batch 56 ruling
-+  that `MCD-091`'s 296 controls.
++  the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
++  his 314th birthday": it falls on the sixth day after that birthday, the seventh day of the 10-Day
++  Interregnum, which opens on the birthday (confirmed by Abad). The Long Mask runs from the
++  Sovereign Pier to the pendant's severing at the Awakening, "just over 283 years." The Accords end
++  with the murder. This resolves approval-list item 1 and supersedes the Batch 56 ruling that
++  `MCD-091`'s 296 controls.
 +- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday. The Accords held 283
-+  years and 29 days, the Long Mask 283 years and 30 days. The late-Scourge entries are placed on it:
-+  "one more year" at 312, the coat night at 313 before the Ceremony. The Scourge persona ends at the
-+  coat night; the Long Mask ends at the pendant.
++  years and 29 days, the Long Mask 283 years and 36 days. The late-Scourge entries are placed on it:
++  "one more year" at 312, the coat night at 313 before the Ceremony, the Eve of Awakening at 314 on
++  the day before the Awakening. The Scourge persona ends at the coat night; the Long Mask ends at the
++  pendant.
 +- **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. After the
 +  Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. Reserved to Book 1.
-+- **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. The
-+  Pi-Awakening shows him otherwise.
++- **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. After his
++  314th birthday the decline culminates in a deathbed state in which he believes he is dying; the
++  Pi-Awakening releases the Shackle and shows him that the feeling was the Shackle. How enemies reach
++  him on the deathbed stays open.
 +- **Propagation.** 49 rule statements amended; 60 entries and 12 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The voice
 +  mirrors and the pitch line keep their source wording, with a bracketed note. Owed to the Pyro/Triad
@@ -25,7 +30,7 @@
  ## Separate, unrelated thread: the interactive archive app
 --- before: docs/lords-of-cian/approval-list-2026-10-03.md
 +++ after: docs/lords-of-cian/approval-list-2026-10-03.md
-@@ -16,12 +16,9 @@
+@@ -16,12 +16,10 @@
  
 -**1. Book 1's offset from the Sovereign Pier: 284 or 296 years?**
 -- **Recommend 284, so Kanja is 314 at Book 1.** 296 is arithmetically impossible: it would put the
@@ -39,19 +44,20 @@
 -- Alternative: none that holds together.
 +**1. Book 1's offset from the Sovereign Pier. RESOLVED, Batch 378 (`MCD-1901`).**
 +- Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on the last day
-+  of his age 313. The Pi-Awakening stays on his 314th birthday (`CC-006`), the day after. The Long
-+  Mask runs from the Sovereign Pier to the pendant's severing that day: "The Long Mask lasts just
-+  over 283 years." The Accords are broken by the murder, one day earlier.
++  of his age 313. The Pi-Awakening stays at age 314 (`CC-006`) and comes after his 314th birthday: "the
++  Long mask has to be after his 314th birthday." The Long Mask runs from the Sovereign Pier to the
++  pendant's severing at the Awakening: "The Long Mask lasts just over 283 years." The Accords are
++  broken by the murder, a week earlier.
 +- This supersedes the Batch 56 ruling that `MCD-091`'s 296 controls. Every rule, entry and doc
 +  that stated 284 or 296 is listed in Batch 378's note.
  
-@@ -32,3 +29,4 @@
+@@ -32,3 +30,4 @@
    Grieve at 190 (`CC-124`).
 -- **Hask's death moves to late in Kanja's 313th year.** The rules that move are `MCD-1422` (death),
 +- **Hask's death moves to the last month of Kanja's age 313: after `MCD-1408`, where he is alive, and
 +  before the Fulfillment Ceremony on the last day of that age (`MCD-1901`).** The rules that move are `MCD-1422` (death),
    `MCD-1423` (memorial), and `MCD-1486` (the Crow King echo). They become the Captain track's last
-@@ -43,4 +41,5 @@
+@@ -43,4 +42,5 @@
  - Scope: 2 new rules, about 16 rule statements, about 12 entries, 3 docs.
 -- Alternative: he dies the morning after the last coat. That needs no Scourge edits, but it lands in
 -  Book 1's own year.
@@ -59,13 +65,13 @@
 +  Batch 378 the coat night falls in the same last month, before the Ceremony, so this too lands before
 +  Book 1.
  
-@@ -70,3 +69,4 @@
+@@ -70,3 +70,4 @@
  `MCD-1661` all imply more.
 -- **Recommend about 309, five years younger than Kanja.** This follows from item 1.
 +- **Recommend about 308, five years younger than Kanja.** This follows from item 1: Kanja is 313 at
 +  Book 1 (`MCD-1901`).
  - Scope: `CC-028` and the Ezio profile.
-@@ -267,3 +267,3 @@
+@@ -267,3 +268,3 @@
  alliance aboard (`MCD-206`), the joint archive (`MCD-212`), present-day scenes (`MCD-1565`), and
 -24 years of knowing Pyro's father (`CC-110`).
 +23 years of knowing Pyro's father (`CC-110`).
@@ -132,8 +138,8 @@
 -    Fulfillment Ceremony is the open 284-versus-296 question on the approval list. The launch wave stays strictly
 +    `MCD-1883`). The launch wave ends before the Fulfillment Ceremony (the last day of Kanja's age
 +    313, `MCD-1901`), so the Scourge persona governs every entry until the coat comes off (`MCD-1022`,
-+    Kanja 313). The Long Mask itself ends the day after the Ceremony, at the pendant's severing on his
-+    314th birthday (`CC-005`). The launch wave stays strictly
++    Kanja 313). The Long Mask itself ends seven days after the Ceremony, at the pendant's severing on the
++    sixth day after his 314th birthday (`CC-005`, `MCD-1901`). The launch wave stays strictly
      pre-Book-1, the same standing constraint Ozmund's and Ezio's launches carry.
 @@ -665,3 +666,3 @@
       - Register: notable, no kill.
@@ -151,11 +157,6 @@
    (CLAUDE.md's standing note: "this world's baseline lifespans are long — hundreds to tens of
 --- before: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
 +++ after: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
-@@ -70,3 +70,3 @@
-   the "Pre-Awakening Theatrics System" for exactly this reason: everything Kanja does from age 18
--  through age 314 is Trinity gear, inherited tactical instinct, and craft/reputation, not raw
-+  through age 313 is Trinity gear, inherited tactical instinct, and craft/reputation, not raw
-   density-scaled physical power.
 @@ -74,4 +74,4 @@
    the vault at L9 in the Karkosa Complex under his father's peace deal with the Sovereign Trust,
 -  retaining only the Talisman of Mao, the Aegis-Talisman, and the Rexmar Machete. The 284-year Long
@@ -169,7 +170,7 @@
 +- `CC-005` / `CC-006` — The Long Mask runs just over 283 years (`MCD-1901`), ending when the Gravity-Fetter pendant
    is severed at the Gilded Lighthouse, triggering the Pi-Awakening between his 314th and 315th
 -  birthdays ("Day 0" = age 314).
-+  birthdays ("Day 0" = age 314), the day after his father's murder at age 313 (`MCD-1901`).
++  birthdays ("Day 0" = age 314), on the sixth day after his 314th birthday (`MCD-1901`).
  - `WC-005` (amended) — The Pi-Awakening is a bloodline-wide biological threshold at exactly 314
 @@ -149,4 +149,4 @@
    defensive "Last Ward" mode, `ARS-390`). First deployed together at the Black Trench (age 19);
@@ -195,12 +196,13 @@
 +  weapon" by 240, unable to stand unaided on bad days by 300 (`MCD-260`/`262`/`271`). The cause is the Governor's
 +  Shackle, which Kanja and the crew read as age (`MCD-1903`); no entry confirms that he is aging out.
  - **Killing:** `CC-161` (costed default, cold, never rage) and `MCD-1881` (marquee kills named,
-@@ -418,4 +420,4 @@
+@@ -418,4 +420,5 @@
    until the open cross-track mortality ruling lands. Respect recruitment dates (`MCD-247`–`261`).
 -- **Reserved:** everything already reserved above, plus the Eve of Awakening/Pi-Awakening at 314
 -  (`MCD-272`, `MCD-1022`), Maro's death through the Heartline (`ARS-437`), and the reunion scene.
-+- **Reserved:** everything already reserved above, plus the coat night and the Eve of
-+  Awakening (both age 313, `MCD-1022`, `MCD-272`), the Pi-Awakening on his 314th birthday (`MCD-1901`), Maro's death through the Heartline (`ARS-437`), and the reunion scene.
++- **Reserved:** everything already reserved above, plus the coat night (age 313, `MCD-1022`), the Eve of
++  Awakening (age 314, after the murder, `MCD-272`) and the Pi-Awakening (age 314, the sixth day after his
++  birthday, `MCD-1901`), Maro's death through the Heartline (`ARS-437`), and the reunion scene.
  - **Fable oversight:** every drafted entry gets a Fable-model consistency review before it is
 --- before: docs/lords-of-cian/chronicle-tracks-status.md
 +++ after: docs/lords-of-cian/chronicle-tracks-status.md
@@ -539,8 +541,8 @@
 +freed, within the hour). Corrected Batch 378, 2026-10-05: set at age 313, in the last month before
 +the Fulfillment Ceremony (`MCD-1901`), so Kanja's spoken count moves from two hundred and
 +eighty-four to two hundred and eighty-three years. The coat night ends the Scourge persona by his
-+choice; the Long Mask itself ends days later, at the pendant's severing on his 314th birthday
-+(`CC-005`).*
++choice; the Long Mask itself ends later, at the pendant's severing on the sixth day after his 314th
++birthday (`CC-005`, `MCD-1901`).*
 --- before: docs/lords-of-cian/chronicles/the-last-depot-on-the-old-charts.md
 +++ after: docs/lords-of-cian/chronicles/the-last-depot-on-the-old-charts.md
 @@ -37,4 +37,4 @@
@@ -828,19 +830,19 @@
 +- **The Sovereign Pier Accords**, negotiated in secret and concluded at the Sovereign Pier just over 283 years before Book 1 opens: Maro Rexmar and Aethelgard Verehimu (Ozmund's father) traded the end of Kanja's rebellion for Aethelgard's future recognition of Maro as sovereign King of Jicome, plus an alliance against the Shattered Kingdoms. This, not a birthday lecture, is why Kanja's father was able to convince him to stand down from a war he was winning. Kanja surrendered the Trinity (Mafesto, Onyx, Obsidian Malice) into L9 and put on the Long Mask to wait out the deal.
 +- **The Fulfillment Ceremony is Book 1's opening event** (per Master Canon's own "BOOK 1 STRUCTURE: THE DEPOSED KING" section: "Opening: Murder scene. Two kings dead."). Aethelgard, king for one month, was about to crown Maro sovereign King of Jicome, fulfilling the Accords just over 283 years after Kanja put on the mask. At the ceremony, three contracted assassins, the Three Ronin, killed both kings: Decimus Korr ("the Silence") cleared the guards, an unnamed infiltrator ("the Ghost") had already been inside for weeks, and Serai Noth ("the Blade") killed both kings in 1.6 seconds. An SBD wet-work team sanitized the scene within four minutes. Ozmund rejects the crown the murder leaves him, hires Ezio to investigate, this is Book 1.
  - The pitch material's own line for Kanja: "The 284-year performance was the longest undercover operation in history, and it ended one day too late."
-+  [Corrected Batch 378: the quoted pitch line is kept as source wording. The Long Mask runs just over 283 years, from the Sovereign Pier to the pendant's severing on Kanja's 314th birthday, the day after his father's murder (`MCD-1901`).]
++  [Corrected Batch 378: the quoted pitch line is kept as source wording. The Long Mask runs just over 283 years, from the Sovereign Pier to the pendant's severing on the sixth day after Kanja's 314th birthday, seven days after his father's murder (`MCD-1901`). The line is read as the murder falling one day short of his 314th birthday.]
  - Kanja and Ozmund are cousins through their mothers, Val Saeryn Kareth and Val Mirel Kareth (Karesian war-sisters), not through their fathers. Their fathers' shared murder is the origin wound both sons carry into Book 3's confrontation ("You are becoming the thing our fathers died to prevent" / "Our fathers' way got them both killed," Master Canon's own locked line, both right, both wrong).
 --- before: docs/lords-of-cian/voice/voice-bible-definitive.md
 +++ after: docs/lords-of-cian/voice/voice-bible-definitive.md
 @@ -206,2 +206,4 @@
  
-+[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on Kanja's 314th birthday (`MCD-1901`).]
++[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on the sixth day after Kanja's 314th birthday (`MCD-1901`).]
 +
  Masked: “Burn the convoy. Leave the crew alive. They’ll carry the message.”
 --- before: docs/lords-of-cian/voice/voice-progression-sheet.md
 +++ after: docs/lords-of-cian/voice/voice-progression-sheet.md
 @@ -146,2 +146,4 @@
  
-+[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on Kanja's 314th birthday (`MCD-1901`).]
++[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on the sixth day after Kanja's 314th birthday (`MCD-1901`).]
 +
  What changes from Phase 3:
