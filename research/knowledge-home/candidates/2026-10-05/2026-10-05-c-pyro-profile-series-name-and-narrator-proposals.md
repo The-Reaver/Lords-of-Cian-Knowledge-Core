@@ -2,6 +2,7 @@
 - id: 2026-10-05-c-pyro-profile-series-name-and-narrator-proposals
 - type: finding
 - status: candidate
+- ratification: 2026-10-05, held: pending the author: Pyro/Triad profile proposals, gate not cleared
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 378
 - confidence: medium, proposals only, each collision-checked in the profiles but none approved

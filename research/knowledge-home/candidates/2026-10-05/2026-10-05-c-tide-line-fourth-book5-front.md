@@ -1,7 +1,8 @@
 # Book 5 now has a fourth front, the Tide Line, held by Anirak and the pirate crew in two phases during the Talisman's 48-hour deficit.
 - id: 2026-10-05-c-tide-line-fourth-book5-front
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 368
 - confidence: high, locked at MCD-1889 to MCD-1892 with the author's direction quoted

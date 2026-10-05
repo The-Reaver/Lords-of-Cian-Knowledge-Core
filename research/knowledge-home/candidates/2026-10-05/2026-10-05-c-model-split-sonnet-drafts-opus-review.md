@@ -1,10 +1,11 @@
 # Because of usage limits, the author asked that drafting work run on the Sonnet model tier and that Opus be used for review and correction.
 - id: 2026-10-05-c-model-split-sonnet-drafts-opus-review
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, ratified after the hold: the author's request is now recorded verbatim in CLAUDE.md's standing conventions ("I need you to start writing everything in sonnet. opus is draining my usage. opus can review and correct.")
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 377
-- confidence: medium, reported as the author's request in the session brief, with no exact wording in the committed files
+- confidence: high, the author's exact words are recorded in CLAUDE.md
 - verified: 2026-10-05
 - tags: lords-of-cian, session-ops, process, budget, model-selection
 ## Body

@@ -1,7 +1,8 @@
 # The author ruled there is no space travel, and the world is locked as One World, Many Shores: four continent-worlds sharing one planet.
 - id: 2026-10-05-c-no-space-travel-one-world-many-shores
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 369
 - confidence: high, locked at MCD-1893 to MCD-1897 after a clean review

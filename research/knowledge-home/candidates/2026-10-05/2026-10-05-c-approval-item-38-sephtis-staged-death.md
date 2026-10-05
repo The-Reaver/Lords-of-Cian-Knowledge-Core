@@ -2,6 +2,7 @@
 - id: 2026-10-05-c-approval-item-38-sephtis-staged-death
 - type: finding
 - status: candidate
+- ratification: 2026-10-05, held: pending the author: open approval-list item recommendations, none approved
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 372
 - confidence: medium, the clash is verified in locked rules and the fix is a new fact awaiting approval

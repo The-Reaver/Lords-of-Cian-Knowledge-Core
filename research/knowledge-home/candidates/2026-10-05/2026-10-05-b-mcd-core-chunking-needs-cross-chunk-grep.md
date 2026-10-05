@@ -2,9 +2,10 @@
 
 - id: 2026-10-05-b-mcd-core-chunking-needs-cross-chunk-grep
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified; corrected: source batch range realigned to the ledger's batches_completed numbering (CLAUDE.md's Phase 2-5 review headings run one to two numbers ahead)
 - class: confirmed
-- source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batches 345-349 (and pilot note)
+- source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batches 346-349 (and pilot note)
 - confidence: high -- stated in the batch record and the pilot metrics it cites
 - verified: 2026-10-05
 - tags: lords-of-cian, process, lesson, review, chunking

@@ -1,7 +1,8 @@
 # Locked batches in this span needed between four and seventeen independent review rounds before the gate came back clean, so a single review should never be assumed enough.
 - id: 2026-10-05-c-review-rounds-before-a-clean-gate
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 375
 - confidence: high, the round counts are recorded in the batch notes

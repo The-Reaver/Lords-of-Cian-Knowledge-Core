@@ -1,7 +1,8 @@
 # The Batch 375 series rename was carried in one batch across 362 entry files and about 400 rule statements, leaving the Drive mirror and archive-app copy on the old names.
 - id: 2026-10-05-c-series-rename-scope-and-sync-owed
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 375
 - confidence: high, the scope and the owed sync are stated in the batch record

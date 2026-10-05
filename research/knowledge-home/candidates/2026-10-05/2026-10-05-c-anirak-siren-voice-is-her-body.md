@@ -1,7 +1,8 @@
 # Anirak's Siren's Voice is her own sub-audible felt hum, carried and shaped by the Siren Gorget into a 10 m cone.
 - id: 2026-10-05-c-anirak-siren-voice-is-her-body
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 370
 - confidence: high, resolved at ARS-438

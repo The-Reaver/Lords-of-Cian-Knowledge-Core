@@ -1,7 +1,8 @@
 # The LEX- prefix was claimed in Batch 377 for in-world common vocabulary and venue names, one rule per name, 25 rules in total.
 - id: 2026-10-05-c-lex-prefix-in-world-vocabulary
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 377
 - confidence: high, locked as LEX-001 to LEX-025

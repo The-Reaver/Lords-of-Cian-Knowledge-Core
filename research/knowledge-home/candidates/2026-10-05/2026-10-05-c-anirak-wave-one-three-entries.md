@@ -1,7 +1,8 @@
 # Anirak's first wave locked three entries: Maw-11, the second harness at Tideglass, and Ren's arrival, with Sephtis deliberately unnamed.
 - id: 2026-10-05-c-anirak-wave-one-three-entries
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 373
 - confidence: high, locked as MCD-1898 to MCD-1900 on the author's 'approved'

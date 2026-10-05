@@ -1,7 +1,8 @@
 # Travel between the continent-worlds runs only through the Long Currents, the Deep Road and the Low Water land bridge.
 - id: 2026-10-05-c-long-currents-deep-road-low-water-and-crossings
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 369
 - confidence: high, locked in the Batch 369 rules

@@ -1,7 +1,8 @@
 # CC-163 locks Anirak as pressure-born, sold into the Maw at twelve against a debt, Branded in the Maw's sense but never Cestari.
 - id: 2026-10-05-c-anirak-origin-cc163
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 371
 - confidence: high, locked with the author's approval ('approved', then 'lock it')

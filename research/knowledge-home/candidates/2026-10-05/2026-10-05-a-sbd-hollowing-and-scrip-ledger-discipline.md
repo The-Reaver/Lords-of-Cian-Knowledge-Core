@@ -2,7 +2,8 @@
 
 - id: 2026-10-05-a-sbd-hollowing-and-scrip-ledger-discipline
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 311
 - confidence: high -- locked at SBD-047 to SBD-049 and MCD-1854 with the unconfirmed status written in

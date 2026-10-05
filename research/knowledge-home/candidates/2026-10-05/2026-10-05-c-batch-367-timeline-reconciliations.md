@@ -1,7 +1,8 @@
 # Batch 367 applied the timeline reconciliations that needed no new fact, after four read-only reviews of the ledger.
 - id: 2026-10-05-c-batch-367-timeline-reconciliations
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 367
 - confidence: high, the batch is recorded in the project history with its script discipline

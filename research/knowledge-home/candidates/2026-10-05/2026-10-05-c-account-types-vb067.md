@@ -1,7 +1,8 @@
 # VB-067 locks account types for every character: the Series itself plus Comrade Account, Adversary Account, Dossier and Hearsay, each bounded by what the teller could know.
 - id: 2026-10-05-c-account-types-vb067
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 375
 - confidence: high, locked as VB-067

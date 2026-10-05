@@ -1,7 +1,8 @@
 # VB-068 locks an account craft standard that fixes the teller state, the listener and a setting module before any new told entry or storytelling scene is drafted.
 - id: 2026-10-05-c-account-craft-standard-vb068
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 376
 - confidence: high, locked as VB-068 on the author's 'lock it, approve the picks, confirm all three'

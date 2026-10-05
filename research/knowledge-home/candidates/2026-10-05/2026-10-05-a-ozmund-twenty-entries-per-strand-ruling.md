@@ -2,7 +2,8 @@
 
 - id: 2026-10-05-a-ozmund-twenty-entries-per-strand-ruling
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 306
 - confidence: medium -- the author's message was brief and the count arithmetic is an interpretation, though it was executed and not corrected

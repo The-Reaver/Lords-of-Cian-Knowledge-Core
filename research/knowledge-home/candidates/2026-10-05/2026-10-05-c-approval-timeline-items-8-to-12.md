@@ -2,6 +2,7 @@
 - id: 2026-10-05-c-approval-timeline-items-8-to-12
 - type: finding
 - status: candidate
+- ratification: 2026-10-05, held: pending the author: open approval-list item recommendations, none approved
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 367
 - confidence: medium, each recommendation is checked against the ledger but none is approved

@@ -1,7 +1,8 @@
 # One tension was noted and left unchanged after the cosmology lock: Lauris Record LXXI's Iron-Speaker line 'We have sent nothing beyond this world'.
 - id: 2026-10-05-c-cosmology-iron-speaker-line-tension
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 369
 - confidence: medium, the batch notes the tension explicitly and does not resolve it

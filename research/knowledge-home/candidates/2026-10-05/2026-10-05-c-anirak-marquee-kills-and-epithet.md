@@ -1,7 +1,8 @@
 # Anirak may have at most three marquee kills before Book 1, each a Warm-state necessity kill under the public epithet Blades Fury.
 - id: 2026-10-05-c-anirak-marquee-kills-and-epithet
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 372
 - confidence: high, locked in the Batch 372 amendments to MCD-1881 and CC-163

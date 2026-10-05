@@ -1,7 +1,8 @@
 # The author set the standard that Anirak's Combination Codex locks only when its review is clean and connecting logically, and otherwise never passes.
 - id: 2026-10-05-c-anirak-codex-clean-gate-rule
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 370
 - confidence: high, quoted from the batch record, and the Codex needed four reviews to pass

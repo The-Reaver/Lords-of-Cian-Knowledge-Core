@@ -2,7 +2,8 @@
 
 - id: 2026-10-05-a-red-beard-manumission-two-fact-untangling
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 308
 - confidence: high -- resolved by checking primary rule text MAW-079 and recorded as ARS-424

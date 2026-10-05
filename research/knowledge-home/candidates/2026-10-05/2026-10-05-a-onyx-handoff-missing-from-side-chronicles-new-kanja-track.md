@@ -2,7 +2,8 @@
 
 - id: 2026-10-05-a-onyx-handoff-missing-from-side-chronicles-new-kanja-track
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 313
 - confidence: high -- investigation method, finding and the author's resolution are all recorded

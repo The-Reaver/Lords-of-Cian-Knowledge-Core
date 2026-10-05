@@ -1,7 +1,8 @@
 # Reviewers kept returning four classes of finding: unlabeled new facts, costs listed under only one option, items leaning with no recommendation, and findings assigned twice.
 - id: 2026-10-05-c-reviewer-recurring-finding-classes
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 378
 - confidence: medium, the classes were reported from the review rounds and are visible in the profiles' later wording

@@ -2,7 +2,8 @@
 
 - id: 2026-10-05-a-kessic-overwatch-renamed-hallmere-collision-precedent
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 320
 - confidence: high -- the case and the general resolution pattern are recorded

@@ -2,6 +2,7 @@
 - id: 2026-10-05-c-bastion-mechanic-and-start-date-findings
 - type: finding
 - status: candidate
+- ratification: 2026-10-05, held: pending the author: Grounded Bastion audit findings and open questions, read-only research with no ruling yet
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 378
 - confidence: medium, the audit is read-only research checked against the ledger at v37.9, not a lock

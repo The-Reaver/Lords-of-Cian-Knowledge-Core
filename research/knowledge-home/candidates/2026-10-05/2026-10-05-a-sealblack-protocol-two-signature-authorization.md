@@ -2,7 +2,8 @@
 
 - id: 2026-10-05-a-sealblack-protocol-two-signature-authorization
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 312
 - confidence: high -- locked at SBD-050 and SBD-051 under the author's blanket instruction

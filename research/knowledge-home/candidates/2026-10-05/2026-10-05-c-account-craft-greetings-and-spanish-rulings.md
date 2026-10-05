@@ -1,7 +1,8 @@
 # At the VB-068 lock the author confirmed that greetings are carried by action (R0.2) and that spoken Spanish appears as a phrase only (M1).
 - id: 2026-10-05-c-account-craft-greetings-and-spanish-rulings
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 376
 - confidence: high, recorded as confirmed rulings in the Batch 376 record

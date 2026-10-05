@@ -2,6 +2,7 @@
 - id: 2026-10-05-c-pending-pier-date-30-days-before-31st-birthday
 - type: decision
 - status: candidate
+- ratification: 2026-10-05, held: pending the author's approval: the Pier date is a proposed new fact in the unlocked Batch 378 draft
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 378
 - confidence: low, it is explicitly a proposed new fact with no author ruling yet

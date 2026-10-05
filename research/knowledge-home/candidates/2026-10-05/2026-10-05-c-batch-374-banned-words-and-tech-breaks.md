@@ -1,7 +1,8 @@
 # Batch 374 fixed banned Maw words, a Galthorn epithet collision and two tech-level breaks without adding any plot fact.
 - id: 2026-10-05-c-batch-374-banned-words-and-tech-breaks
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 374
 - confidence: high, recorded with the author's instruction 'keep going, fix those conflicts too'

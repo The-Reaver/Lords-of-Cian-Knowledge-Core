@@ -1,7 +1,8 @@
 # Series names are locked so that 'Chronicle' belongs to Kanja alone: Records, Rolls, Testaments, Exhibits, Collections and Annals for the others.
 - id: 2026-10-05-c-series-names-chronicle-is-kanjas-alone
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 375
 - confidence: high, locked as VB-066 after seventeen reviews and a re-presentation

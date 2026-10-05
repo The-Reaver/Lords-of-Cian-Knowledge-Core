@@ -2,6 +2,7 @@
 - id: 2026-10-05-c-pending-mcd-1903-aging-misconception
 - type: decision
 - status: candidate
+- ratification: 2026-10-05, held: pending the author's approval: content of the unlocked Batch 378 draft (gate step 2 review still owed)
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 378
 - confidence: medium, drafted from the author's rulings but unlocked

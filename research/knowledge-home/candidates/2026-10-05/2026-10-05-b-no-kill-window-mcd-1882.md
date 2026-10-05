@@ -2,7 +2,8 @@
 
 - id: 2026-10-05-b-no-kill-window-mcd-1882
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batches 354, 356
 - confidence: high -- locked rule text and the author's verbatim approvals

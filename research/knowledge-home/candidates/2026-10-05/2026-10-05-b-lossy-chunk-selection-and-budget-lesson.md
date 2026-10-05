@@ -2,9 +2,10 @@
 
 - id: 2026-10-05-b-lossy-chunk-selection-and-budget-lesson
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified; corrected: source batch range realigned to the ledger's batches_completed numbering (CLAUDE.md's Phase 2-5 review headings run one to two numbers ahead)
 - class: confirmed
-- source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 320 (pilot), applied in Batches 345-349
+- source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 320 (pilot), applied in Batches 346-349
 - confidence: medium -- carried from the pilot record rather than re-measured in this span
 - verified: 2026-10-05
 - tags: lords-of-cian, process, lesson, review, budget

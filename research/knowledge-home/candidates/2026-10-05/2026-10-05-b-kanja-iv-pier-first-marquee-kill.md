@@ -2,7 +2,8 @@
 
 - id: 2026-10-05-b-kanja-iv-pier-first-marquee-kill
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified; corrected: Caddel is an operative who goes over the rail to come at the king (Maro) from the water side, per MCD-1880; the note had him as the king coming at Kanja
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batches 352, 356
 - confidence: high -- batch records and MCD-1880 rule
@@ -10,7 +11,7 @@
 - tags: lords-of-cian, kanja-version, marquee-kills, onyx
 
 ## Body
-Kanja Chronicle IV, "Ninety Seconds on the Sovereign Pier" (MCD-1880), is the first dramatization anywhere of MCD-245/MCD-246 (the Black Trench Titans were considered first but manuscript Chronicle III already kills all three on the page). Onyx narrates and shifts from "the blade" to "I" as the case closes, the single sanctioned exception under VB-063. Maro's Accords negotiation is locked at "the better part of two years." At Batch 356 the chronicle and MCD-1880 were corrected so the king Caddel goes over the rail to come at Kanja, making the kill a necessity kill under CC-161 rather than a deliberate execution. Lesson: a draft presented before the killing doctrine was pinned needed correction afterward; the doctrine now sits at the gate.
+Kanja Chronicle IV, "Ninety Seconds on the Sovereign Pier" (MCD-1880), is the first dramatization anywhere of MCD-245/MCD-246 (the Black Trench Titans were considered first but manuscript Chronicle III already kills all three on the page). Onyx narrates and shifts from "the blade" to "I" as the case closes, the single sanctioned exception under VB-063. Maro's Accords negotiation is locked at "the better part of two years." At Batch 356 the chronicle and MCD-1880 were corrected so the operative Caddel goes over the rail to come at the king from the water side rather than to escape, making the kill a necessity kill under CC-161 rather than a deliberate execution. Lesson: a draft presented before the killing doctrine was pinned needed correction afterward; the doctrine now sits at the gate.
 
 ## Links
 - depends_on, 2026-10-05-b-killing-doctrine-cc-161-necessity-kills.md, the doctrine that forced the fix

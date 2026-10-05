@@ -1,7 +1,8 @@
 # Open items at the end of Batch 377: the Batch 378 draft, the 39-item approval list, the Pyro and Triad gates, the Bastion questions and three owed syncs or verifications.
 - id: 2026-10-05-c-open-items-at-end-of-span
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 377
 - confidence: medium, a compiled list drawn from several documents, each item verified in its source

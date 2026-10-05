@@ -1,7 +1,8 @@
 # The institution bar forbids any new entry or scene from stating a fact about an institution that no locked rule holds, with reliable narration of a locked entry counting as held.
 - id: 2026-10-05-c-institution-bar-in-told-accounts
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 376
 - confidence: high, part of VB-068

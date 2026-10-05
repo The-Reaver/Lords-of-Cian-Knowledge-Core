@@ -2,9 +2,10 @@
 
 - id: 2026-10-05-b-tdk-contained-at-breach-framing-conflict
 - type: finding
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified; corrected: source batch number realigned to the ledger's batches_completed numbering (CLAUDE.md's Phase 2-5 review headings run one to two numbers ahead); ratified as a finding that records item 13 as open
 - class: confirmed
-- source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batches 342, 349 tally
+- source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batches 343, 349 tally
 - confidence: medium -- count quoted as 16 in the tally and 18 in the approval list
 - verified: 2026-10-05
 - tags: lords-of-cian, open-question, tdk, cult, structure

@@ -2,6 +2,7 @@
 - id: 2026-10-05-c-bastion-fortified-versus-undetectable-and-blueprint-eye
 - type: finding
 - status: candidate
+- ratification: 2026-10-05, held: pending the author: Grounded Bastion audit findings and open questions, read-only research with no ruling yet
 - class: believed-unconfirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 378
 - confidence: medium, drawn from locked rule text but the resolution is open

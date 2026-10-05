@@ -1,7 +1,8 @@
 # Under VB-067 a conflict between a teller's bound and a locked fact is always held for the author's ruling and never corrected directly.
 - id: 2026-10-05-c-teller-bound-conflicts-go-to-the-author
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 375
 - confidence: high, stated in the VB-067 record with two live examples

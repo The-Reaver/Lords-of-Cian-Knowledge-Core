@@ -1,7 +1,8 @@
 # A real era gate follows from ARS-370: Anirak fights at Warm before Book 3, Hot and White begin in Book 3, and active sonar first fires undersea in Book 5.
 - id: 2026-10-05-c-anirak-era-gate-fury-states
 - type: decision
-- status: candidate
+- status: ratified
+- ratification: 2026-10-05, same-session independent review, ratified
 - class: confirmed
 - source: Canon session 2026-09-20 to 2026-10-05 (raw archive research/knowledge-home/raw/2026-10-05-canon-session-batches-303-377.jsonl), Batch 370
 - confidence: high, stated in the Batch 370 record as following from ARS-370
