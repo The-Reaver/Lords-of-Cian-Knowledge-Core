@@ -1,10 +1,10 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,47 @@
+@@ -4439,2 +4439,67 @@
  
 +**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1904`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
-+  the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
++  the last day of his age 313 (confirmed by Abad: "yes"). The Pi-Awakening stays at age 314, and "the Long mask has to be after
 +  his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
 +  Obsidian Malice, six days works"). The 10-Day Interregnum opens on that birthday, which
 +  makes the Awakening its seventh day (confirmed by Abad: "the interregnum day 1 counting works").
@@ -17,25 +17,45 @@
 +  "one more year" at 312, the coat night at 313 before the Ceremony, the Eve of Awakening at 314 on
 +  the day before the Awakening. The Scourge persona ends at the coat night; the Long Mask ends at the
 +  pendant.
-+- **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. After the
++- **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. At thirty he
++  had brought the enemy's whole operation to its knees, as Haku had, and had not finished it (Abad: "he
++  did bring it to his needs but didn't finish it", "needs" being dictation for "knees"). After the
 +  Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. No entry set before
 +  Book 1 may dramatize or foreshadow the murder, that reading, or the reclaiming. Retrospective tellers'
 +  after-the-fact mentions already locked stay permitted. `MCD-070` is amended: the Investigation opens at
 +  the murder and runs on through the Interregnum, which opens the next day.
 +- **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. After his
 +  314th birthday the decline culminates in a deathbed state in which he believes he is dying; the
-+  Pi-Awakening releases the Shackle and shows him the decline was not age. That the Talisman caused
-+  it he learns only in Book 4. Whether Lauris and Sephtis connect it to his decline, and how enemies
-+  reach him on the deathbed, stay open.
++  Pi-Awakening releases the Shackle and shows him the decline was not age. Sephtis puts together that
++  it is the Shackle and that its release is near; he does not know the timing or the trigger, he wrote
++  the Countdown Annotation (`MCD-277`, age 310), and he stays silent, keeping it from Kanja under
++  `MCD-208`'s mandate and from Lauris (Abad: "yes"). Kanja learns it from him in the Book 4
++  conversation (`MCD-216`). Lauris senses the density in Kanja and senses that he is kin; through
++  Sephtis she knows his mother is Val Saeryn Kareth, so she knows he carries Kareth density, and she
++  cannot put the rest together (Abad: "yes"). Kanja knows the Haku legend and does not know it applies
++  to him. The sentences naming the Talisman as the cause are cut from Kanja VII (Abad: "yes").
 +- **The trigger (`MCD-1904`).** Abad: the Awakening falls on the sixth day after his birthday, and the trigger
 +  is the danger. By his deathbed days the Shackle is at its limit and would have broken on its own about a
 +  week later. What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly
 +  force. Confirmed by Abad ("yes the surge snapping the pendant works"): his body's surge in answer to the
-+  threat snaps the pendant. The strike never lands, and a landed strike would have caused a
-+  world-scale event. "One day too late" is the enemy's belief and recurs through the books; the truth is revealed to the reader only later. Who or what
-+  makes the attack, and where the reveal falls, stay open. No entry set before Book 1 may state or hint at
-+  the trigger or the belief.
-+- **Propagation.** 52 rule statements amended; 60 entries and 12 docs carried,
++  threat snaps the pendant. The attack comes during the Last Breakfast, while Pyro serves Kanja. Abad:
++  "Yes. this is also a ceremonial breakfast that he had with Kanja & Maro at the same time every time
++  they did have breakfast together." It is the first since Maro's murder, seven days before. The strike
++  never lands, and a landed strike would have caused a world-scale event. The enemy that orders the
++  murder and the strike does not know of the 314 threshold or the Pi-Awakening (Abad: "the enemy does
++  not know they just want to eliminate him from the picture because they know he is next of kin and
++  would seek revenge"; "similar to Haku except he literally had the means to do it and the Weaponry to
++  do it"). They strike to remove Maro's next of kin, who brought their operation to its knees and has
++  the means to finish it. T.D.K. is distinct: his containment was built to prevent the Awakening and he
++  stays dormant until Book 1's epilogue. "One day too late" is the enemy's belief: seeing him awaken,
++  they conclude it was coming anyway and that they missed by one day. It recurs through the books; the
++  truth is revealed to the reader only later. Who or what makes the attack, how they reach him, and
++  where the reveal falls, stay open. No entry set before Book 1 may state or hint at the trigger or the
++  belief. Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
++  family somehow she is an extraordinary character so that is something that I think should be evident
++  to her but she can't put everything else together. if she knows who his mother is through Sephtis,
++  then she would obviously know that he could potentially be dense".
++- **Propagation.** 53 rule statements amended; 60 entries and 12 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
 +  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
 +  Voice Progression Sheet under `docs/lords-of-cian/voice/` still reads 284 years (about line 145); the
@@ -319,6 +339,11 @@
 -The blade was not there. Sealed at L9, the Silent Infinite, in a case lined with Dead Drakma. Two hundred and ten years of dark by then.
 +The blade was not there. Sealed at L9, the Silent Infinite, in a case lined with Dead Drakma. Two hundred and nine years of dark by then.
  
+@@ -49,3 +49,3 @@
+ 
+-The weight grows in him a little more each year. The long Rexmar span spends slowly. The Talisman spends him another way and presses him down into his own bones. Year by year.
++The weight grows in him a little more each year. Year by year.
+ 
 @@ -404,3 +404,3 @@
  outside `MCD-1882`'s no-kill window (ages 31-47). Dark Ledger opening per `ARS-437`/`VB-062`/`VB-063`:
 -exact count 6,632,323,200 seconds from the Sovereign Pier on a 365-day year, body signals only (strain,
@@ -329,12 +354,14 @@
 -unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-284; torso/flank seam read from its
 +unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-313; torso/flank seam read from its
  graduated protection), Sovereign Eyes V4 (`ARS-350`, age 240+, Voidstone lenses new that year, amber),
-@@ -424,2 +424,4 @@
+@@ -424,2 +424,6 @@
  closing claim ("if anyone ever bought twelve Branded fighters again, his ledger does not record it") is
 -deliberately hedged so no later entry is contradicted.*
 +deliberately hedged so no later entry is contradicted. Corrected Batch 378, 2026-10-05: the Dark
 +Ledger count and the years past the Pier recomputed from the Pier's date, 30 days before Kanja's
-+31st birthday (`MCD-1901`); the age and the moment within it are unchanged.*
++31st birthday (`MCD-1901`); the age and the moment within it are unchanged. The two sentences that
++named the Talisman as the cause of the weight are cut from the narration (Abad, 2026-10-05, 'yes');
++the decline's cause stays out of pre-Book-1 material (`MCD-1903`).*
 --- before: docs/lords-of-cian/chronicles/senas-own-student.md
 +++ after: docs/lords-of-cian/chronicles/senas-own-student.md
 @@ -5,3 +5,3 @@

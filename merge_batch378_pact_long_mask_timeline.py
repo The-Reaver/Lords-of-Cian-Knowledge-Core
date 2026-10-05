@@ -111,7 +111,12 @@ APPEND = {
                 "count' to 'seventeen'; the age and the moment within it are unchanged.",
     "MCD-1885": " Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date "
                 "(MCD-1901), 6,632,323,200 to 6,603,379,200 seconds (209 years and 143 days), and 'two hundred "
-                "and ten years' to 'two hundred and nine'; the age and the moment within it are unchanged.",
+                "and ten years' to 'two hundred and nine'; the age and the moment within it are unchanged. Also cut from the "
+                "narration (Abad, 2026-10-05, 'yes'): the sentences that named the Talisman as the cause of the "
+                "decline; the cut keeps the decline's cause out of pre-Book-1 material (MCD-1903).",
+    "MCD-277": " Batch 378 note: the Last Breakfast is the meal during which the Pi-Awakening's trigger strikes, "
+               "with Pyro serving Kanja (MCD-1904). The Countdown Annotation (age 310) was written by Sephtis, who "
+               "stays silent about what it means (MCD-1903).",
     "MCD-1406": " Corrected Batch 378, 2026-10-05: set in the first three weeks of age 313 (MCD-1901); Garren "
                 "Hask's ledger span corrected from 'past two hundred and eighty-three years' to 'past two "
                 "hundred and eighty-two'.",
@@ -173,6 +178,9 @@ EDITS += [
      "Five hundred fifty-five million, nine hundred eighty-four thousand seconds. One kill jolt.", 1),
     (K7, "P", "Dark Ledger. 6,632,323,200 seconds.", "Dark Ledger. 6,603,379,200 seconds.", 1),
     (K7, "P", "Two hundred and ten years of dark by then.", "Two hundred and nine years of dark by then.", 1),
+    (K7, "P", "The weight grows in him a little more each year. The long Rexmar span spends slowly. The Talisman spends "
+     "him another way and presses him down into his own bones. Year by year.",
+     "The weight grows in him a little more each year. Year by year.", 1),
     (C1255, "P", "that two hundred and eighty-three years under this name might",
      "that two hundred and eighty-two years behind this mask might", 1),
     (C1255, "P", "for two\nhundred and eighty-three years running.", "for two\nhundred and eighty-two years running.", 1),
@@ -256,7 +264,8 @@ NOTE_APPEND = {
         "unchanged.",
     K7: " Corrected Batch 378, 2026-10-05: the Dark Ledger count and the years past the Pier recomputed from "
         "the Pier's date, 30 days before Kanja's 31st birthday (`MCD-1901`); the age and the moment within it "
-        "are unchanged.",
+        "are unchanged. The two sentences that named the Talisman as the cause of the weight are cut from the "
+        "narration (Abad, 2026-10-05, 'yes'); the decline's cause stays out of pre-Book-1 material (`MCD-1903`).",
     C1255: " Corrected Batch 378, 2026-10-05: re-dated to age 312, in the last three weeks of that age after "
            "the Pier's 282nd anniversary (`MCD-1901`), so the chosen year ends at the coat night before the "
            "Fulfillment Ceremony; the three in-prose counts move from two hundred and eighty-three to two "
@@ -481,12 +490,23 @@ def main():
                  "death bed and then that's when it happens'; 'yes Macana is Obsidian Malice, six days works'; 'yes the Pier is 30 days "
                  "before his 31st birthday'; 'the interregnum day 1 counting works'; 'The pie Awakening gave him confidence and he knew "
                  "something changed he knew that his feeling that he was getting old was a misconception', and on the Awakening's trigger: "
-                 "'the trigger is the danger', 'it was something that was bound to happen' (full quotation in the draft). MCD-1901 locks the clock: the murder on the last day of "
+                 "'the trigger is the danger', 'it was something that was bound to happen' (full quotation in the draft). "
+                 "Abad's answers of 2026-10-05: on the murder falling on the last day of age 313, 'yes'; on cutting from Kanja VII the "
+                 "sentences that name the Talisman as the cause of his decline, 'yes'; on the attack, 'Yes. this is also a ceremonial "
+                 "breakfast that he had with Kanja & Maro at the same time every time they did have breakfast together.'; on "
+                 "Sephtis putting the decline together and staying silent, and having written the Countdown Annotation, 'yes'; on "
+                 "Lauris knowing Kanja's mother through Sephtis, 'yes'; on the enemy and the 314 threshold, 'the enemy does not know "
+                 "they just want to eliminate him from the picture because they know he is next of kin and would seek revenge' and "
+                 "'similar to Haku except he literally had the means to do it and the Weaponry to do it'; his correction, "
+                 "'he did bring it to his needs but didn't finish it' ('needs' is dictation for 'knees'); and on Lauris, 'Lauris should "
+                 "obviously be able to send his density or sense that he's family somehow she is an extraordinary character so that "
+                 "is something that I think should be evident to her but she can't put everything else together. if she knows who his "
+                 "mother is through Sephtis, then she would obviously know that he could potentially be dense'. MCD-1901 locks the clock: the murder on the last day of "
                  "Kanja's age 313, the Pi-Awakening at age 314 (unchanged) on the sixth day after his 314th birthday, "
                  "the Pier 30 days before his 31st birthday (confirmed by Abad), the Accords 283 years and 29 days, the Long Mask 283 "
                  "years and 36 days, and the late-Scourge placements. MCD-1902 locks the Book 1 beat (the Accords "
-                 "broken; the Trinity reclaimed at the Karkosa Heist). MCD-1903 locks the aging misconception, "
-                 "culminating in the deathbed state after his 314th birthday. MCD-1904 locks the Awakening's trigger (the danger, a threat of deadly force at the Lighthouse) and the enemy's 'one day too late' belief, with the surge mechanism confirmed by Abad ('yes the surge snapping the pendant works') and the attacker and the reveal's placement open. MCD-070 is amended so the "
+                 "broken, the Rebellion's operation brought to its knees and not finished; the Trinity reclaimed at the Karkosa Heist). MCD-1903 locks the aging misconception, "
+                 "culminating in the deathbed state after his 314th birthday, with Sephtis's silence, Lauris's sense of kin, and Kanja's knowing the Haku legend without knowing it applies to him. MCD-1904 locks the Awakening's trigger (the danger, a threat of deadly force at the Lighthouse, during the Last Breakfast with Pyro serving Kanja) and the enemy's 'one day too late' belief (the enemy does not know of the 314 threshold), with the surge mechanism confirmed by Abad ('yes the surge snapping the pendant works') and the attacker and the reveal's placement open. MCD-070 is amended so the "
                  "Investigation opens at the murder and runs on through the Interregnum. Amended: "
                  + ", ".join(sorted(amended)) + ". Files carried: " + ", ".join(files)
                  + f". Abad's approval, verbatim: \"{approval}\"."),
@@ -504,7 +524,7 @@ def main():
     c = c.replace(anchor, anchor + f"""
 **Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1904`).** Abad: "{approval}"
 - **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
-  the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
+  the last day of his age 313 (confirmed by Abad: "yes"). The Pi-Awakening stays at age 314, and "the Long mask has to be after
   his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
   Obsidian Malice, six days works"). The 10-Day Interregnum opens on that birthday, which
   makes the Awakening its seventh day (confirmed by Abad: "the interregnum day 1 counting works").
@@ -517,24 +537,44 @@ def main():
   "one more year" at 312, the coat night at 313 before the Ceremony, the Eve of Awakening at 314 on
   the day before the Awakening. The Scourge persona ends at the coat night; the Long Mask ends at the
   pendant.
-- **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. After the
+- **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. At thirty he
+  had brought the enemy's whole operation to its knees, as Haku had, and had not finished it (Abad: "he
+  did bring it to his needs but didn't finish it", "needs" being dictation for "knees"). After the
   Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. No entry set before
   Book 1 may dramatize or foreshadow the murder, that reading, or the reclaiming. Retrospective tellers'
   after-the-fact mentions already locked stay permitted. `MCD-070` is amended: the Investigation opens at
   the murder and runs on through the Interregnum, which opens the next day.
 - **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. After his
   314th birthday the decline culminates in a deathbed state in which he believes he is dying; the
-  Pi-Awakening releases the Shackle and shows him the decline was not age. That the Talisman caused
-  it he learns only in Book 4. Whether Lauris and Sephtis connect it to his decline, and how enemies
-  reach him on the deathbed, stay open.
+  Pi-Awakening releases the Shackle and shows him the decline was not age. Sephtis puts together that
+  it is the Shackle and that its release is near; he does not know the timing or the trigger, he wrote
+  the Countdown Annotation (`MCD-277`, age 310), and he stays silent, keeping it from Kanja under
+  `MCD-208`'s mandate and from Lauris (Abad: "yes"). Kanja learns it from him in the Book 4
+  conversation (`MCD-216`). Lauris senses the density in Kanja and senses that he is kin; through
+  Sephtis she knows his mother is Val Saeryn Kareth, so she knows he carries Kareth density, and she
+  cannot put the rest together (Abad: "yes"). Kanja knows the Haku legend and does not know it applies
+  to him. The sentences naming the Talisman as the cause are cut from Kanja VII (Abad: "yes").
 - **The trigger (`MCD-1904`).** Abad: the Awakening falls on the sixth day after his birthday, and the trigger
   is the danger. By his deathbed days the Shackle is at its limit and would have broken on its own about a
   week later. What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly
   force. Confirmed by Abad ("yes the surge snapping the pendant works"): his body's surge in answer to the
-  threat snaps the pendant. The strike never lands, and a landed strike would have caused a
-  world-scale event. "One day too late" is the enemy's belief and recurs through the books; the truth is revealed to the reader only later. Who or what
-  makes the attack, and where the reveal falls, stay open. No entry set before Book 1 may state or hint at
-  the trigger or the belief.
+  threat snaps the pendant. The attack comes during the Last Breakfast, while Pyro serves Kanja. Abad:
+  "Yes. this is also a ceremonial breakfast that he had with Kanja & Maro at the same time every time
+  they did have breakfast together." It is the first since Maro's murder, seven days before. The strike
+  never lands, and a landed strike would have caused a world-scale event. The enemy that orders the
+  murder and the strike does not know of the 314 threshold or the Pi-Awakening (Abad: "the enemy does
+  not know they just want to eliminate him from the picture because they know he is next of kin and
+  would seek revenge"; "similar to Haku except he literally had the means to do it and the Weaponry to
+  do it"). They strike to remove Maro's next of kin, who brought their operation to its knees and has
+  the means to finish it. T.D.K. is distinct: his containment was built to prevent the Awakening and he
+  stays dormant until Book 1's epilogue. "One day too late" is the enemy's belief: seeing him awaken,
+  they conclude it was coming anyway and that they missed by one day. It recurs through the books; the
+  truth is revealed to the reader only later. Who or what makes the attack, how they reach him, and
+  where the reveal falls, stay open. No entry set before Book 1 may state or hint at the trigger or the
+  belief. Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
+  family somehow she is an extraordinary character so that is something that I think should be evident
+  to her but she can't put everything else together. if she knows who his mother is through Sephtis,
+  then she would obviously know that he could potentially be dense".
 - **Propagation.** {len(amended)} rule statements amended; {n_entries} entries and {n_docs} docs carried,
   including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
   line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
