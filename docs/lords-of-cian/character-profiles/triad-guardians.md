@@ -496,12 +496,14 @@ written under the recommended answer and says where it depends on one.
   flagged as in-world misdirection on the mother's death (`MCD-133`).
 - **Option 2: quickened at the Gate.** The keeper carried the clade's last line, and the forge
   brought three new juveniles to life from it. This keeps "produced" literally. Cost: it breaks
-  `MCD-277` (Varruk seen at Kanja 248, 42 years before), `MCD-022` and `MCD-136` (a bond completed
-  beforehand, with animals not yet living), and arguably `MCD-040`'s "three survivors remain."
+  `MCD-277` (Varruk seen at Kanja 248, 42 years before) and arguably `MCD-040`'s "three survivors
+  remain." Not viable without amending `MCD-277` and `MCD-040`.
 - **Option 3: a mixed origin.** Varruk is ancient, and Varkul and Sorya were quickened at the Gate.
-  It keeps `MCD-277` and splits a unit canon treats as one. Cost: it breaks `MCD-022` and
-  `MCD-136` for Varkul and Sorya, as option 2 does for all three, and strains `ARS-200`'s "last
+  It keeps `MCD-277` and splits a unit canon treats as one. Cost: it strains `ARS-200`'s "last
   three" and `MCD-041`'s hunted clade for two of the three.
+- Under options 2 and 3, cost: they break `MCD-022` and `MCD-136` (a bond completed beforehand,
+  with animals not yet living), for all three under option 2 and for Varkul and Sorya under
+  option 3. Neither option is viable without amending both.
 - Under options 2 and 3, the quickening is a new fact; its home is the same TA1 clause on `CC-046`
   (and on `WC-017`), which then keeps "produced" literally.
 
@@ -519,7 +521,10 @@ written under the recommended answer and says where it depends on one.
   clarifying clauses on `MCD-040`, on `MCD-022`'s and `MCD-136`'s "completed" (the bond keyed beforehand, the imprint completed at the birth event),
   and on `CC-046`. Cost: under this option no unimprinted Dhar-Kael ever matures, which bears on
   how the clade lived through the Vael Kem war (`MCD-041`) and how any Dhar-Kael without a keeper
-  lived at all.
+  lived at all. With `pyro.md` B4, the order is: conception; the keying; the curse taking hold, as
+  T.D.K.'s architecture answers her discovery (`MCD-136`), which may itself fall before or after
+  the keying; then the birth. The curse's open date (finding 2) therefore falls between the keying
+  and the birth.
 - **Option 2: a long-lived clade with a long juvenile stage.** New fact: juvenility lasts a century
   or more, with no link to imprinting. No new imprint mechanism is needed, and their life stage
   at Book 1 (juvenile or grown) stays unfixed. Scope: a clarifying clause on `MCD-040`.
@@ -555,11 +560,14 @@ written under the recommended answer and says where it depends on one.
   nothing she can taste (`CC-050`, `CC-097`); it would become her Oath Paradox only if he ever swore
   one that collided with the keeper's. She was pushed out before the fusion completed (`MCD-131`), so what her memory holds of
   the fusion itself stays reserved.
-- **Option 2: the Oath is any sworn vow made in her presence.** A general enforcer's instinct, with
-  no tie to the keeper or to Pyro's history. Cost: the Oath is cut loose from the keeper, and
+- **Option 2, a new fact: the Oath is any sworn vow made in her presence.** A general enforcer's
+  instinct, with no tie to the keeper or to Pyro's history. Home: a clarifying clause on `CC-097`.
+  Cost: the Oath is cut loose from the keeper, and
   Sorya's Pyro-bond expression stays undefined.
-- **Option 3: a vow sworn at the Gate by Kanja.** Kanja was held 12 km away (`MCD-270`), so the vow
-  would have to be sworn before the birth, and it invents a promise for him.
+- **Option 3, a new fact: a vow sworn at the Gate by Kanja.** Home: a clarifying clause on
+  `CC-097`. Kanja was held 12 km away (`MCD-270`), so the vow would have to be sworn before the
+  birth, and it invents a promise for him. Cost: Sorya would hold a vow linking Kanja to the child,
+  which bears on whether she knows the father (left open under option 1) and on `ARS-414`.
 
 ### The profile
 
@@ -611,8 +619,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
     tradition was forged protecting the Dhar-Kael (`MCD-041`); the last three Dhar-Kael now guard
     a Rexmar child. Proposed: what tension there is belongs to those who watch them, the SBD most
     of all, which cannot describe them in its own technical language (`CULT-199`).
-  - **Varkul.** His greatest defensive weapon is confined by his own nature to one purpose
-    (`ARS-412`).
+  - **Varkul.** The Harrow Ring is confined by the Guardian Clause to one purpose, Pyro-vowed
+    defense (`ARS-412`).
   - **Sorya.** She ranks Pyro first and still holds a vow above him when the two collide
     (`CC-097`).
   - **Varruk.** He is the most visibly bonded of the three in daily life (`CC-099`), and he
@@ -653,7 +661,7 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
   keeping forward, for the child of their last keeper and the line that once fought for them.
   Varkul holds, Sorya remembers, Varruk finds the way.
 
-### (B) Remaining Section 1 findings and new items
+### (B) The other Section 1 findings, cross-references, the coordinated amendments, and new items
 
 None of these blocks the profile. Each carries a recommendation, is queued, or is marked for Abad's
 ruling with no recommendation.
@@ -663,7 +671,8 @@ ruling with no recommendation.
   with `pyro.md` B3, word for word through option (iii):
   `MCD-269` locks the cavern site as the same Living Gate activated at the birth, and she fused into
   the Gate's architecture (`MCD-131`), so the birth and the bonding at the cavern follow from
-  `MCD-269` and `MCD-131` on the proposed reading that they happened where she fused; this gives
+  `MCD-269` and `MCD-131` on the proposed reading that they happened where she fused (an inference;
+  its home, if Abad confirms it, is a clarifying clause on `MCD-269`); this gives
   Kanja's 12 km line a fixed point (`MCD-270`). Why she was there is unlocked.
   - Option (i), a new fact: the Karesian heritage site was the Dhar-Kael bonding ground, and she
     went there as last keeper to complete the imprint. Cost: a tradition site the ledger does not
@@ -715,8 +724,8 @@ ruling with no recommendation.
   the Triad when the SBD loses control of its own stock, through escape, release, or Archon's
   dismantling (`SBD-044`), with no SBD capture attempt on a Guardian (`SBD-020`). Scope: a
   clarifying clause on `SBD-044`.
-- **TB8. The thermal-management mechanism.** The mechanism half of finding 12, which TA3 owns; TA3
-  covers Sorya's bond expression. Open. Defined at the Pyro Incident
+- **TB8. The thermal-management mechanism.** The mechanism half of finding 12 (split; TA3 takes Sorya's
+  bond expression). Open. Defined at the Pyro Incident
   (Kanja 296, `MCD-277`) when that event is first drafted.
 - **TB9. Book roles, and the Triad's absence from Book 5's fronts (finding 13).** Queued.
   Separation strains Varkul (`CC-095`), and `MCD-221` puts Pyro on the Engine front without them.
@@ -743,13 +752,21 @@ ruling with no recommendation.
   real-world species comparisons are replaced with in-world size statements; the category tags are
   normalized.
 - **Coordinated amendments: rules amended by more than one item.** Listed per rule; each rule gets
-  one merged amendment text at lock.
+  one merged amendment text at lock. The options of one item count as that one item, and an
+  amendment carried only by an option that is not recommended applies only if Abad picks it.
   - `CC-046`: `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), `triad-guardians.md` TA1
     ("produced"), and TA2 (the bond "completed" beforehand).
   - `WC-017`: `pyro.md` B2 ("before Pyro was born"), `pyro.md` B4 ("installed"), and
     `triad-guardians.md` TA1 ("producing").
-  - `MCD-136`: `pyro.md` B4 (the curse as legacy architecture) and `triad-guardians.md` TA2 (the
-    bond "completed" beforehand).
+  - `MCD-136`: `pyro.md` B4 (the curse as legacy architecture), `triad-guardians.md` TA1 options 2
+    and 3 (not recommended; the bond completed beforehand, with animals not yet living), and TA2
+    (the bond "completed" beforehand).
+  - `MCD-022`: `triad-guardians.md` TA1 options 2 and 3 (not recommended; as for `MCD-136`) and
+    TA2 (the bond "completed" beforehand).
+  - `MCD-040`: `triad-guardians.md` TA1 option 2 (not recommended; "three survivors remain") and
+    TA2 (the juvenile window under option 1, the long juvenile stage under option 2).
+  - `MCD-277`: `triad-guardians.md` TA1 option 2 (not recommended; Varruk seen at 248) and TA2
+    option 3 (not recommended; a different Oath-Raptor at the Dog Watch).
   - `CC-045`: `pyro.md` B2 ("defeated" means subdued and held inside her; and the consent option,
     once ruled) and the `pyro.md` Stormbreaker facet (he did not see or understand the inversion).
   - `ARS-421`: `pyro.md` core wound (whether the blast can fire before he chooses it) and B11's
@@ -774,15 +791,16 @@ ruling with no recommendation.
   - No voice-standard `VB-` rule is proposed for either series. One on the `VB-065` precedent can be
     drafted for each if Abad wants it.
   - Every other rule an item in either file amends is amended by one item only, so it needs no
-    merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `CC-047`, `CC-079` (A3); `ARS-437` (B6, the
-    Heartline's signal of the birth night); `MCD-272` (B10's alternative, not recommended);
-    `CC-005`, `MCD-1022` (B16 option (a), no recommendation); `MCD-269` (`pyro.md` B3 and
-    `triad-guardians.md` TB1, one shared item; options (i) and (ii), not recommended);
-    `MCD-022`, `MCD-040` (TA2); `MCD-277` (TA2 option 3, not recommended); `CC-097` (TA3);
-    `CC-048` (`triad-guardians.md`, "What 'psychology' means here"); `SBD-041` (TB2, no
-    recommendation); `CC-099` (TB4); `CC-094` (TB6); `SBD-044` (TB7); `MCD-221` (TB9);
-    `MCD-320`, `CC-100`, `ARS-431` (TB10); `MCD-270` (TB11); `CC-096` (TB12). TB12's category
-    normalization is metadata and is not counted here.
+    merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `WC-022`, `CC-006` (A1 option 2, not
+    recommended); `CC-047`, `CC-079` (A3); `ARS-437` (B6, the Heartline's signal of the birth
+    night); `MCD-272` (B10's alternative, not recommended); `MCD-1022` (B16 options (a) and (b),
+    no recommendation); `CC-005`, `MCD-1252`, `MCD-1255` (B16 option (a), no recommendation);
+    `MCD-1408` (B16 option (b), no recommendation); `MCD-269` (`pyro.md` B3 and
+    `triad-guardians.md` TB1, one shared item: the lead-in's inference, and options (i) and (ii),
+    not recommended); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
+    'psychology' means here"); `SBD-041` (TB2, no recommendation); `CC-099` (TB4); `CC-094`
+    (TB6); `SBD-044` (TB7); `MCD-221` (TB9); `MCD-320`, `CC-100`, `ARS-431` (TB10); `MCD-270`
+    (TB11); `CC-096` (TB12). TB12's category normalization is metadata and is not counted here.
 - **TB13. The Oath-Raptor's name.** Not tied to a Section 1 finding. Varruk's species is the Oath-Raptor (`MCD-040`), and Sorya,
   an Apex-Feline, is the Guardian bound to the Oath (`CC-097`). Recommended: no change now, and a
   one-line explanation of the species names when the clade's history is first drafted.
@@ -839,12 +857,13 @@ ruling with no recommendation.
   23 ledger statements carry a capitalized Keeper form. Judgment: this is a real overlap. "Keeper"
   is a crowded title across the cults, Ashkeel, and the fleet's own history, and the Memory Keeper
   sits on the same idea, so the Tendings is proposed in its place.
-  - Alternative, the Witnesses: an ordinary word in 15 ledger statements (15 occurrences). It
-    overlaps Sorya's named Witness-Scouting and Witness Shriek (`CC-096`, `ARS-414`), and Lauris's
-    Records already name a strand "Witness" (Strand W, `lauris-letitia.md`).
-  - Rejected: the Bonds, which collides with the SBD's "Triad Bond Mechanics" domain (`CULT-200`)
-    and the "Pyro Bond" of `CC-095` and `CC-099`.
-  - If Abad prefers three separate series, each Guardian needs its own name at that step.
+- **Alternative, the Witnesses:** an ordinary word in 15 ledger statements (15 occurrences). It
+  overlaps Sorya's named Witness-Scouting and Witness Shriek (`CC-096`, `ARS-414`), and Lauris's
+  Records already name a strand "Witness" (Strand W, `lauris-letitia.md`).
+- **Rejected: the Bonds,** which collides with the SBD's "Triad Bond Mechanics" domain (`CULT-200`)
+  and the "Pyro Bond" of `CC-095` and `CC-099`.
+- **Three series:** if Abad prefers three separate series, each Guardian needs its own name at that
+  step.
 - **Narrator:** no `VB-020` narrator is assigned, and none of the three can narrate in words.
   - **Recommended: objective third person (no interiority), no designated narrator.** It departs
     from `VB-020`'s close-third precedent for Daba's Rolls and Anirak's Collections. The narration
@@ -920,6 +939,11 @@ ruling with no recommendation.
   confirmation.
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the
   walkthrough plus anything new identified during profile discussion)
+  Carried over: Section 1, "Reserved / unresolved threads." Added in Section 2, pending Abad's
+  confirmation: what Sorya's memory holds of the fusion (TA3), and whether she knows the father
+  (TA3); Varkul's discovery of the SBD's watch and his turn to aggression (`SBD-044`; TB7); the
+  Harrow Ring's own effect, defined when first drafted (TB6); and the thermal-management
+  mechanism, defined at the Pyro Incident (TB8).
 - **First-entry candidates** (2-3 pitches, not one pre-committed draft):
   1.
   2.

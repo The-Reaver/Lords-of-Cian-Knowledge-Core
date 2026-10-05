@@ -464,6 +464,8 @@ written under the recommended answer; where a facet rests on one, it says so.
   becomes "about 24").
 - **Option 2:** Book 1 opens at Kanja 326, on `MCD-091`'s "roughly 296 years apart," and Pyro is
   about 36. The Pi-Awakening then falls twelve years before Book 1 opens, which `WC-022` forbids.
+  Not viable without amending `WC-022` (the Pi-Awakening inside Book 1) or `CC-006` (the
+  Pi-Awakening at 314).
 - **Option 3:** keep `CC-101`'s 24-36 hedge. Every entry set near Book 1 would then have to avoid
   stating his age.
 
@@ -500,7 +502,11 @@ center of the profile.
   Cost: anyone who knew of the marriage would know the paternity outright, so either the marriage
   was known only to those who know (Kanja, Sephtis per `CC-110`, and whichever of Stormbreaker and
   Azar is ruled to know), or `CC-079`'s "suspect" takes a clarifying clause in this option's scope.
-  To the wider crew she was Pyro's mother, and the marriage stayed with those few. Cost: she sailed openly with the fleet from Kanja 96 (`MCD-277`), and the
+  To the wider crew she was Pyro's mother, and the marriage stayed with those few. Cost: two
+  outside records still name her Kanja's wife (`CC-046`, `SBD-041`). How a marriage private within
+  the fleet reached them is a new fact (for instance, through her SBD handlers, `MCD-136`). Home:
+  the same clauses on `CC-047` and `CC-079`, or B5's material on her SBD recruitment and marriage
+  date. Cost: she sailed openly with the fleet from Kanja 96 (`MCD-277`), and the
   Captain stood 12 km off at the birth (`MCD-270`). The concealment from the wider crew therefore
   covers the whole marriage, whose length depends on its unlocked date (B5), and then 24 more
   years in which the crew either does not know who fathered her child or knows and does not say.
@@ -673,15 +679,15 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
   - **Distance from the Triad.** Separation strains Varkul (`CC-095`). Proposed: it strains Pyro as
     well, because part of his calm is theirs.
 - **Defining emotional throughline (PROPOSED -- for Abad's confirmation):** *the meal before the
-  fight.* Lauris carries joy, Kanja grief, Ozmund doubt, and Ezio deception (`CC-134`). Proposed
-  (no rule records it): Pyro carries warmth; it is heat that came out of him unasked on the night he
+  fight.* Lauris carries joy, Kanja grief, Ozmund doubt, and Ezio deception (`CC-134`). Proposed,
+  a profile-only reading (no rule records it): Pyro carries warmth; it is heat that came out of him unasked on the night he
   was born, and he spends his life learning to set it under a pot. His pre-Book-1 arc runs from a
   child whose fear burns to the cook whose food the crew calls eating well before a fight
   (`ARS-421`), its healing proven by Kanja 308 (`MCD-272`), and it ends before the Fulfillment
   Ceremony. Where it later leads, a son serving his father stew on the last morning of the Long Mask
   (`MCD-277`), is a Book 1 beat after Maro's death under either B16 option and stays reserved. His Book 5 peak stays sealed (`MCD-223`).
 
-### (B) The other Section 1 findings, cross-references, and new items
+### (B) The other Section 1 findings, cross-references, the coordinated amendments, and new items
 
 None of these blocks the profile. Each carries a recommendation, is queued, or is marked for Abad's
 ruling with no recommendation.
@@ -704,16 +710,16 @@ ruling with no recommendation.
     "defeated" means subdued and held inside her through the inversion, its fate at the fusion
     reserved.
   - **Kanja's consent (`CC-045`) is open.**
-    - Option (a), a new fact for Abad: he gave it beforehand, which implies he foresaw a
-      possession and a fight that night.
-    - Option (b): it was relayed to him during the event by a messenger. Cost: a 12 km relay and
-      return takes the better part of an hour or more, with the Demaron fight waiting on it, which
-      `MCD-132`'s "not separated by meaningful time" does not allow.
-    - Option (c): a pre-agreed flare across the 12 km line, an in-period signal with a precedent
-      (the fleet's agreed distress colors, spoofed by the enemy,
-      `kanja-chronicle-vii-the-man-who-did-not-get-up.md`, line 62). Cost:
-      a flare carries only a meaning agreed in advance, so Kanja still agreed beforehand to what it
-      would ask; it implies partial foreknowledge, a smaller version of option (a).
+    - Option (a), a new fact: he gave it beforehand.
+    - Option (b), a new fact: it was relayed to him during the event by a messenger. Cost: a 12 km
+      relay and return takes the better part of an hour or more, with the Demaron fight waiting on
+      it, which `MCD-132`'s "not separated by meaningful time" does not allow.
+    - Option (c), a new fact: a pre-agreed flare across the 12 km line, an in-period signal with a
+      precedent (the fleet's agreed distress colors, spoofed by the enemy,
+      `kanja-chronicle-vii-the-man-who-did-not-get-up.md`, line 62). A flare carries only a meaning
+      agreed in advance, so Kanja still agreed beforehand to what it would ask.
+    - Under options (a) and (c), cost: Kanja foresaw a possession and a fight that night, in full
+      under (a) and in part under (c).
     - Scope for whichever option is ruled: the same `CC-045` clause.
   - Scope: clarifying clauses on `WC-017` (its "before Pyro was born" reads against `MCD-022`'s
     natural birth first) and on `CC-046`'s order of events. Queued for whichever entry first
@@ -721,7 +727,8 @@ ruling with no recommendation.
 - **B3. What the Living Gate is, and why the birth happened there (finding 7).**
   `MCD-269` locks the cavern site as the same Living Gate activated at the birth, and she fused into
   the Gate's architecture (`MCD-131`), so the birth and the bonding at the cavern follow from
-  `MCD-269` and `MCD-131` on the proposed reading that they happened where she fused; this gives
+  `MCD-269` and `MCD-131` on the proposed reading that they happened where she fused (an inference;
+  its home, if Abad confirms it, is a clarifying clause on `MCD-269`); this gives
   Kanja's 12 km line a fixed point (`MCD-270`). Why she was there is unlocked. Shared with
   `triad-guardians.md` TB1.
   - Option (i), a new fact: the Karesian heritage site was the Dhar-Kael bonding ground, and she
@@ -742,13 +749,21 @@ ruling with no recommendation.
   The clause changes `CC-046`'s and `WC-017`'s "installed" from an act of his into the effect of his
   architecture.
 - **Coordinated amendments: rules amended by more than one item.** Listed per rule; each rule gets
-  one merged amendment text at lock.
+  one merged amendment text at lock. The options of one item count as that one item, and an
+  amendment carried only by an option that is not recommended applies only if Abad picks it.
   - `CC-046`: `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), `triad-guardians.md` TA1
     ("produced"), and TA2 (the bond "completed" beforehand).
   - `WC-017`: `pyro.md` B2 ("before Pyro was born"), `pyro.md` B4 ("installed"), and
     `triad-guardians.md` TA1 ("producing").
-  - `MCD-136`: `pyro.md` B4 (the curse as legacy architecture) and `triad-guardians.md` TA2 (the
-    bond "completed" beforehand).
+  - `MCD-136`: `pyro.md` B4 (the curse as legacy architecture), `triad-guardians.md` TA1 options 2
+    and 3 (not recommended; the bond completed beforehand, with animals not yet living), and TA2
+    (the bond "completed" beforehand).
+  - `MCD-022`: `triad-guardians.md` TA1 options 2 and 3 (not recommended; as for `MCD-136`) and
+    TA2 (the bond "completed" beforehand).
+  - `MCD-040`: `triad-guardians.md` TA1 option 2 (not recommended; "three survivors remain") and
+    TA2 (the juvenile window under option 1, the long juvenile stage under option 2).
+  - `MCD-277`: `triad-guardians.md` TA1 option 2 (not recommended; Varruk seen at 248) and TA2
+    option 3 (not recommended; a different Oath-Raptor at the Dog Watch).
   - `CC-045`: `pyro.md` B2 ("defeated" means subdued and held inside her; and the consent option,
     once ruled) and the `pyro.md` Stormbreaker facet (he did not see or understand the inversion).
   - `ARS-421`: `pyro.md` core wound (whether the blast can fire before he chooses it) and B11's
@@ -773,15 +788,16 @@ ruling with no recommendation.
   - No voice-standard `VB-` rule is proposed for either series. One on the `VB-065` precedent can be
     drafted for each if Abad wants it.
   - Every other rule an item in either file amends is amended by one item only, so it needs no
-    merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `CC-047`, `CC-079` (A3); `ARS-437` (B6, the
-    Heartline's signal of the birth night); `MCD-272` (B10's alternative, not recommended);
-    `CC-005`, `MCD-1022` (B16 option (a), no recommendation); `MCD-269` (`pyro.md` B3 and
-    `triad-guardians.md` TB1, one shared item; options (i) and (ii), not recommended);
-    `MCD-022`, `MCD-040` (TA2); `MCD-277` (TA2 option 3, not recommended); `CC-097` (TA3);
-    `CC-048` (`triad-guardians.md`, "What 'psychology' means here"); `SBD-041` (TB2, no
-    recommendation); `CC-099` (TB4); `CC-094` (TB6); `SBD-044` (TB7); `MCD-221` (TB9);
-    `MCD-320`, `CC-100`, `ARS-431` (TB10); `MCD-270` (TB11); `CC-096` (TB12). TB12's category
-    normalization is metadata and is not counted here.
+    merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `WC-022`, `CC-006` (A1 option 2, not
+    recommended); `CC-047`, `CC-079` (A3); `ARS-437` (B6, the Heartline's signal of the birth
+    night); `MCD-272` (B10's alternative, not recommended); `MCD-1022` (B16 options (a) and (b),
+    no recommendation); `CC-005`, `MCD-1252`, `MCD-1255` (B16 option (a), no recommendation);
+    `MCD-1408` (B16 option (b), no recommendation); `MCD-269` (`pyro.md` B3 and
+    `triad-guardians.md` TB1, one shared item: the lead-in's inference, and options (i) and (ii),
+    not recommended); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
+    'psychology' means here"); `SBD-041` (TB2, no recommendation); `CC-099` (TB4); `CC-094`
+    (TB6); `SBD-044` (TB7); `MCD-221` (TB9); `MCD-320`, `CC-100`, `ARS-431` (TB10); `MCD-270`
+    (TB11); `CC-096` (TB12). TB12's category normalization is metadata and is not counted here.
 - **B5. His mother's name, homeland, SBD recruitment, and marriage date (finding 10).** Open, for
   whenever her own material is drafted. Under A3 option 1 the marriage is private.
 - **B6. Who aboard knows she survived.** Raised by A3. No recommendation. For Abad's ruling:
@@ -827,10 +843,9 @@ ruling with no recommendation.
 - **B8. Varkul's two names (finding 13).** Handled in `triad-guardians.md`, item TB3.
 - **B9. Undefined abilities (finding 14).** "Causal Convergence" stays undefined and out of every
   pre-Book-1 entry; his peak is sealed (`MCD-223`). "Aethelgard-adjacent" healing (`MCD-272`)
-  follows approval-list item 17 (the rename to "Kinetic Radiance"). Flag: item 17 gives its scope
-  as "5 rules plus `pyro.md`," but the ledger shows three rules carrying "Aethelgard Kinetic
-  Radiance" (`MCD-142`, `ARS-391`, `ARS-392`) and one carrying "Aethelgard-adjacent" (`MCD-272`);
-  the count and whether `MCD-272` falls in its scope need checking.
+  follows approval-list item 17 (the rename to "Kinetic Radiance"). Item 17's five rules are
+  `MCD-142`, `MCD-278`, `ARS-391`, `ARS-392`, and `ARS-398`. `MCD-272`'s "Aethelgard-adjacent"
+  would be a sixth; whether it falls in item 17's scope needs ruling.
 - **B10. "The Scourge's Heir" (finding 15).** Recommended, adding no new fact: "the Scourge's
   Heir" is the reader-facing label of `MCD-272`'s ledger line and is never spoken in-world.
   Alternative: an epithet the crew gives the Captain's cook for the healing proven that year. That
@@ -869,12 +884,20 @@ ruling with no recommendation.
   ends the span "by conscious choice" the night the coat comes off at Kanja 314; `CC-005` ends it
   at the pendant's severing, which triggers the Pi-Awakening, and `MCD-277` closes it on the Last
   Breakfast as the pendant activates.
-  - Option (a): two stages. The persona ends by choice on the night of `MCD-1022`; the 284-year span
-    closes later at the pendant's severing (`CC-005`, `MCD-277`). Cost: clarifying clauses on `MCD-1022` ("ending the span")
-    and on `CC-005` (the persona ends by choice; the span closes at the pendant's severing).
-  - Option (b): one night. The coat comes off and the pendant severs together. Cost: `WC-022` puts
-    the Pi-Awakening after the murder, so `MCD-1022` and its eve (`MCD-1408`) would fall inside
-    Book 1, against their pre-Book-1 Alias placement.
+  - Option (a), a new fact: two stages. The persona ends by choice on the night of `MCD-1022`; the
+    284-year span closes later at the pendant's severing (`CC-005`, `MCD-277`). Cost: clarifying
+    clauses on `MCD-1022` ("ending the span"), on `CC-005` (the persona ends by choice; the span
+    closes at the pendant's severing), and on `MCD-1252` and `MCD-1255`, which both name
+    `MCD-1022` as the Long Mask's close at 314; and corrections to the continuity notes of three
+    entries that say the same (`the-last-names-before-the-silence.md`, line 38;
+    `the-coat-he-almost-didnt-put-back-on.md`, line 4; `the-night-before-the-last-coat.md`, line
+    35).
+  - Option (b), a new fact: one night. The coat comes off and the pendant severs together. Cost:
+    `WC-022` puts the Pi-Awakening after the murder, so `MCD-1022` and its eve (`MCD-1408`) would
+    fall inside Book 1, against their pre-Book-1 Alias placement. Scope: clarifying clauses on
+    `MCD-1022` and `MCD-1408` placing them inside Book 1, and a check of their content against
+    `CC-161`: `MCD-1408` is "an ordinary, unremarked night," which would then fall after Maro's
+    murder.
   - Under either option, the Last Breakfast falls after the Ceremony (`WC-022`), and this series'
     window ends at the Fulfillment Ceremony (B13).
 - **B17. Where the Triad came from, and whose bond it is (findings 4, 5).** Handed to
@@ -978,6 +1001,12 @@ ruling with no recommendation.
   Abad's confirmation.
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the
   walkthrough plus anything new identified during profile discussion)
+  Carried over: Section 1, "Reserved / unresolved threads." Added in Section 2, pending Abad's
+  confirmation: his mother's survival and fusion into the Gate (`MCD-131`) and who aboard knows it
+  (B6); what Sorya's showing holds (`ARS-414`; B6); Causal Convergence and his sealed Book 5 peak
+  (`MCD-223`; B9); the Last Breakfast, a Book 1 beat (`MCD-277`; B13, B16); the two false SBD
+  accounts and the Archon hook (`SBD-041`, `SBD-044`; B7); and the fate of the entity held inside
+  her at the fusion (B2).
 - **First-entry candidates** (2-3 pitches, not one pre-committed draft):
   1.
   2.
