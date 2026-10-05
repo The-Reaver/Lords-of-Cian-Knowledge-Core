@@ -10,8 +10,8 @@
 
 | Verdict | Count |
 |---|---|
-| Ratified | 120 (of which 37 corrected in place first) |
-| Held | 22 |
+| Ratified | 121 (of which 37 corrected in place first; c-model-split ratified after hold) |
+| Held | 21 |
 | Rejected | 0 |
 | Total | 142 |
 
