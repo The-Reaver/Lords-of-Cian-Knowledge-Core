@@ -474,7 +474,7 @@ def main():
                  "the Pier 30 days before his 31st birthday (confirmed by Abad), the Accords 283 years and 29 days, the Long Mask 283 "
                  "years and 36 days, and the late-Scourge placements. MCD-1902 locks the Book 1 beat (the Accords "
                  "broken; the Trinity reclaimed at the Karkosa Heist). MCD-1903 locks the aging misconception, "
-                 "culminating in the deathbed state after his 314th birthday. MCD-1904 locks the Awakening's trigger (the danger, a threat of deadly force at the Lighthouse) and the enemy's 'one day too late' belief, with the surge mechanism proposed and the attacker and the reveal's placement open. MCD-070 is amended so the "
+                 "culminating in the deathbed state after his 314th birthday. MCD-1904 locks the Awakening's trigger (the danger, a threat of deadly force at the Lighthouse) and the enemy's 'one day too late' belief, with the surge mechanism confirmed by Abad ('yes the surge snapping the pendant works') and the attacker and the reveal's placement open. MCD-070 is amended so the "
                  "Investigation opens at the murder and runs on through the Interregnum. Amended: "
                  + ", ".join(sorted(amended)) + ". Files carried: " + ", ".join(files)
                  + f". Abad's approval, verbatim: \"{approval}\"."),
@@ -517,7 +517,8 @@ def main():
 - **The trigger (`MCD-1904`).** Abad: the Awakening is not on his birthday, and the trigger is the danger.
   By his deathbed days the Shackle is at its limit and would have broken on its own about a week later.
   What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly force; the
-  mechanism (his body's surge against the Shackle severs the pendant) is proposed with this batch. The
+  mechanism (his body's surge in answer to the threat snaps the pendant, confirmed by Abad: "yes the surge
+  snapping the pendant works"). The
   strike never lands, and a landed strike would have caused a world-scale event. "One day too late" is the
   enemy's belief and recurs through the books; the truth is revealed to the reader only later. Who or what
   makes the attack, and where the reveal falls, stay open. No entry set before Book 1 may state or hint at
