@@ -1,15 +1,16 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,43 @@
+@@ -4439,2 +4439,47 @@
  
 +**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1904`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
 +  the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
 +  his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
 +  Obsidian Malice, six days works"). The 10-Day Interregnum opens on that birthday, which
-+  makes the Awakening its seventh day. The Long Mask runs from the Sovereign Pier to the pendant's
-+  severing at the Awakening, "just over 283 years." The Accords end with the murder. This resolves
-+  approval-list item 1 and supersedes the Batch 56 ruling that `MCD-091`'s 296 controls.
++  makes the Awakening its seventh day (confirmed by Abad: "the interregnum day 1 counting works").
++  The Long Mask runs from the Sovereign Pier to the pendant's severing at the Awakening, "just over
++  283 years." The Accords end with the murder. This resolves approval-list item 1 and supersedes the
++  Batch 56 ruling that `MCD-091`'s 296 controls.
 +- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday (confirmed by Abad: "yes
 +  the Pier is 30 days before his 31st birthday"). The Accords held 283
 +  years and 29 days, the Long Mask 283 years and 36 days. The late-Scourge entries are placed on it:
@@ -26,21 +27,24 @@
 +  Pi-Awakening releases the Shackle and shows him the decline was not age. That the Talisman caused
 +  it he learns only in Book 4. Whether Lauris and Sephtis connect it to his decline, and how enemies
 +  reach him on the deathbed, stay open.
-+- **The trigger (`MCD-1904`).** Abad: the Awakening is not on his birthday, and the trigger is the danger.
-+  By his deathbed days the Shackle is at its limit and would have broken on its own about a week later.
-+  What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly force; the
-+  mechanism (his body's surge in answer to the threat snaps the pendant, confirmed by Abad: "yes the surge
-+  snapping the pendant works"). The
-+  strike never lands, and a landed strike would have caused a world-scale event. "One day too late" is the
-+  enemy's belief and recurs through the books; the truth is revealed to the reader only later. Who or what
++- **The trigger (`MCD-1904`).** Abad: the Awakening falls on the sixth day after his birthday, and the trigger
++  is the danger. By his deathbed days the Shackle is at its limit and would have broken on its own about a
++  week later. What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly
++  force. Confirmed by Abad ("yes the surge snapping the pendant works"): his body's surge in answer to the
++  threat snaps the pendant. The strike never lands, and a landed strike would have caused a
++  world-scale event. "One day too late" is the enemy's belief and recurs through the books; the truth is revealed to the reader only later. Who or what
 +  makes the attack, and where the reveal falls, stay open. No entry set before Book 1 may state or hint at
 +  the trigger or the belief.
 +- **Propagation.** 52 rule statements amended; 60 entries and 12 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
-+  line keeps its source wording, with a bracketed note. The mirrored Voice Bible and Voice Progression
-+  Sheet under `docs/lords-of-cian/voice/` still read 284 years and are not edited; that sync is owed
-+  (Batch 377 practice), and the Drive source documents are Abad's to update. Owed to the Pyro/Triad
-+  review: the A1 block in `pyro.md` and the matching lines in `triad-guardians.md`.
++  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
++  Voice Progression Sheet under `docs/lords-of-cian/voice/` still reads 284 years (about line 145); the
++  mirrored Voice Bible reads "314 years of performing a role" (about line 205) and carries "8,517,120,000
++  seconds" at Pyro's birth (lines 107 and 109), which matches neither `MCD-270` nor the Pier's date. Neither
++  mirror is edited; the Drive source documents are Abad's to update. `research/atlas-rebuild/mainline-gazetteer.json`
++  carries 9 stale 284/296 strings, and its regeneration from the ledger is owed. The Pyro and Triad
++  profiles carry the Batch 378 figures in their rule quotes, the age-table and A1 notes, and the Varruk
++  age line; the rest of their review stays owed.
 +Ledger at `ledger_version` 38.0, 2,725 rules, 378 batches.
 +
  ## Separate, unrelated thread: the interactive archive app
@@ -104,7 +108,7 @@
 @@ -33,3 +33,3 @@
    has no single triggering battle and no Directorate classification.
 -- `CC-005` / `CC-006` — At age 30, Kanja's Long Mask persona begins and runs 284 years, ending
-+- `CC-005` / `CC-006` — At age 30, Kanja's Long Mask persona begins and runs just over 283 years (`MCD-1901`), ending
++- `CC-005` / `CC-006` — At age 30, Kanja's Long Mask begins and runs just over 283 years (`MCD-1901`), ending
    with the Pi-Awakening between his 314th and 315th birthdays ("Day 0" = age 314).
 @@ -38,3 +38,3 @@
    Sovereign Trust, retaining only the Talisman of Mao, the Aegis-Talisman, and the Rexmar
@@ -207,7 +211,7 @@
 -  dormancy ending. This is the hard chronological wall at the far end of anything this new track
 -  could draft — everything in this walkthrough (ages 18–314) sits *before* it.
 +  dormancy ending. [Added Batch 378 (`MCD-070` amended): the Investigation opens at the murder and runs on through the Interregnum, which opens the next day (`MCD-1901`); the acts are narrative movements and overlap in time.] This is the hard chronological wall at the far end of anything this new track
-+  could draft — everything in this walkthrough (ages 18–313) sits *before* it.
++  could draft — everything in this walkthrough (ages 18–313) sits *before* it, except the Eve of Awakening, the Last Breakfast and the Pi-Awakening (age 314), which fall inside Book 1's window (`MCD-1901`).
  - **Maro Rexmar's death as Kanja's true center, per Abad (2026-09-28) — reserved, not this track's
 @@ -219,3 +220,4 @@
    documents for ages 18–30. Nothing in this track may foreshadow, soften, or otherwise anticipate this
@@ -550,16 +554,20 @@
  absent per the Trinity's age-30 surrender (`MCD-246`). First entry in the Scourge's twenty-fourth
 --- before: docs/lords-of-cian/chronicles/the-last-coat-he-ever-wore.md
 +++ after: docs/lords-of-cian/chronicles/the-last-coat-he-ever-wore.md
-@@ -24,3 +24,3 @@
+@@ -24,4 +24,4 @@
  
 -"Two hundred and eighty-four years," he said. "That's how long the Long Mask has run, since a morning
-+"Two hundred and eighty-three years," he said. "That's how long the Long Mask has run, since a morning
- on a burned wharf set its shape — not planned, not chosen, just the thing it became."
-@@ -43,3 +43,3 @@
+-on a burned wharf set its shape — not planned, not chosen, just the thing it became."
++"Two hundred and eighty-three years," he said. "That's how long the mask has run since the pier. A
++morning on a burned wharf set its shape."
+ 
+@@ -43,4 +43,4 @@
  Mask Comes Off" (MCD-493) and "The Weight the Mask Kept Count Of" (MCD-813) both already did.
 -Deliberately states only that the 284-year span (MCD-246, ARS-310) has run its course and that Kanja
+-chooses to end it consciously rather than let it drift into unexamined habit; deliberately does not
 +Deliberately states only that the Long Mask's span of just over 283 years (MCD-246, ARS-310, MCD-1901) has run its course and that Kanja
- chooses to end it consciously rather than let it drift into unexamined habit; deliberately does not
++chooses to end the Scourge persona consciously rather than let it drift into unexamined habit; deliberately does not
+ name what alias or era follows, leaving that open for whichever future material addresses it. Efa
 @@ -54,2 +54,6 @@
  hands-on work to the successor while Kanja directs and assists, without changing the outcome (94
 -freed, within the hour).*
@@ -619,7 +627,7 @@
 @@ -34,3 +34,3 @@
  *Continuity notes (not narrative): the deliberate eve of "The Last Coat He Ever Wore" (`MCD-1022`,
 -age 314, the persona's literal final mission and the Long Mask's already-locked close) -- this entry
-+age 313, the persona's literal final mission, days before the Long Mask's close at the pendant, `CC-005`) -- this entry
++age 313, the persona's literal final mission, weeks before the Long Mask's close at the pendant, `CC-005`) -- this entry
  sits within the same final year, on the ordinary night immediately before it, and stops there: it
 @@ -38,3 +38,3 @@
  what the following night will turn out to be. Closes the throughline opened by "The Coat He Almost
@@ -866,7 +874,7 @@
  
 --- before: docs/lords-of-cian/kanja-chronicles-production-roadmap.md
 +++ after: docs/lords-of-cian/kanja-chronicles-production-roadmap.md
-@@ -36,5 +36,6 @@
+@@ -36,8 +36,9 @@
  - Kanja is a prince. His father, Maro Rexmar, is a king. Kanja's Rebellion (ages 18-30, against the Sovereign Trust, not the SBD) was winning: 22 victories in 12 years, 6 of them battles the Directorate itself classified as unwinnable.
 -- **The Sovereign Pier Accords**, negotiated in secret roughly 296 years before Book 1 opens: Maro Rexmar and Aethelgard Verehimu (Ozmund's father) traded the end of Kanja's rebellion for Aethelgard's future recognition of Maro as sovereign King of Jicome, plus an alliance against the Shattered Kingdoms. This, not a birthday lecture, is why Kanja's father was able to convince him to stand down from a war he was winning. Kanja surrendered the Trinity (Mafesto, Onyx, Obsidian Malice) into L9 and put on the Long Mask to wait out the deal.
 -- **The Fulfillment Ceremony is Book 1's opening event** (per Master Canon's own "BOOK 1 STRUCTURE: THE DEPOSED KING" section: "Opening: Murder scene. Two kings dead."). Aethelgard, king for one month, was about to crown Maro sovereign King of Jicome, fulfilling the Accords 284 years after Kanja put on the mask. At the ceremony, three contracted assassins, the Three Ronin, killed both kings: Decimus Korr ("the Silence") cleared the guards, an unnamed infiltrator ("the Ghost") had already been inside for weeks, and Serai Noth ("the Blade") killed both kings in 1.6 seconds. An SBD wet-work team sanitized the scene within four minutes. Ozmund rejects the crown the murder leaves him, hires Ezio to investigate, this is Book 1.
@@ -875,6 +883,10 @@
  - The pitch material's own line for Kanja: "The 284-year performance was the longest undercover operation in history, and it ended one day too late."
 +  [Corrected Batch 378: the quoted pitch line is kept as source wording. The Long Mask runs just over 283 years, from the Sovereign Pier to the pendant's severing on the sixth day after Kanja's 314th birthday, seven days after his father's murder (`MCD-1901`). What the line means is set at `MCD-1904`.]
  - Kanja and Ozmund are cousins through their mothers, Val Saeryn Kareth and Val Mirel Kareth (Karesian war-sisters), not through their fathers. Their fathers' shared murder is the origin wound both sons carry into Book 3's confrontation ("You are becoming the thing our fathers died to prevent" / "Our fathers' way got them both killed," Master Canon's own locked line, both right, both wrong).
+ 
+-Corrected sections III and IV of `00_Kanja_Psychological_Profile.docx` to run on this material, retitled Section IV from "The Interrupted Boy" to "One Day Too Late," enriched the Ozmund passage in Section IX with the shared-murder/Book-3-rift material, and updated Rule 6 and the "What Kanja Wants" closing to match. Rendered to PDF and checked page by page before redelivering. This is now the second time this session that not searching the Lore Vault folder thoroughly enough produced work that had to be redone — the geography audit undercounted the manuscript's actual "Eastern Seaboard" instances earlier the same day, and this profile invented an origin that Drive already had an answer for. Both times the fix was to go back to source documents already sitting in the folder rather than infer or invent. Treat the Lore Vault folder as the source of truth before drafting anything else for this project, including future chronicle drafts.
++Corrected sections III and IV of `00_Kanja_Psychological_Profile.docx` to run on this material, retitled Section IV from "The Interrupted Boy" to "One Day Too Late," enriched the Ozmund passage in Section IX with the shared-murder/Book-3-rift material, and updated Rule 6 and the "What Kanja Wants" closing to match. Rendered to PDF and checked page by page before redelivering. This is now the second time this session that not searching the Lore Vault folder thoroughly enough produced work that had to be redone — the geography audit undercounted the manuscript's actual "Eastern Seaboard" instances earlier the same day, and this profile invented an origin that Drive already had an answer for. Both times the fix was to go back to source documents already sitting in the folder rather than infer or invent. Treat the Lore Vault folder as the source of truth before drafting anything else for this project, including future chronicle drafts. [Batch 378: 'one day too late' is the enemy's belief about the Pi-Awakening (MCD-1904); it does not describe the timing of the murder.]
+ 
 @@ -65,3 +66,3 @@
  4. **Atlas duplicate listings — DECIDED, approved for fix, not yet executed.** Karkosa row 48, Maw-7 Slab row 49 (both Sovereign Trust Domain side), located but not edited. Phase 1 items 2-3.
 -5. **Canon-lock documents and Book 1 structural outline — PARTIALLY RESOLVED, and now further clarified.** Master Canon Decisions and the Session Locks are not missing, a full-Drive search located them. Master Canon Decisions itself contains a "BOOK 1 STRUCTURE: THE DEPOSED KING" section: opening murder scene (the Fulfillment Ceremony), three acts (Investigation → 10-Day Interregnum → Karkosa Heist), epilogue (The Great Breach, SBD uncovered). This may mean the Book 1 structural outline is less "missing" than "not yet assembled into a single standalone outline document" — the beats already exist across Master Canon Decisions and the Session Locks. Worth re-checking before treating this as a from-scratch draft.
@@ -885,5 +897,10 @@
 @@ -88,3 +88,3 @@
  
 -**Lighthouse/Pi-Awakening question — resolved, confirmed by Abad.** A contradiction was flagged earlier this session: material describing someone growing heavier and heavier, believing he is dying, then falling several stories from a lighthouse during an assassination attempt and cracking a foundation "made of the best material," with the buildup described as reinforcing ground he had passed through without anyone noticing until they return. This matched existing hard canon exactly, but as Kanja's own arc, not Guacanagarix's: the Talisman of Mao document's Governor's Shackle stage (Kanja growing "heavy" and "sluggish" as pressure builds toward the Pi-Awakening at 314, built to "detonate inward" at the exact moment his body is ready), the same document's Grounded Bastion stage (the reinforced-ground mechanic, tied to Kanja's presence), and the Complete Structural Outline, which places the Pi-Awakening at a location named the Gilded Lighthouse, early in the 10-Day Interregnum. Abad confirmed directly: he meant Kanja throughout that passage, not Guacanagarix. New on top of what's already locked: the assassination-attempt trigger and the specific fall/crack-the-foundation staging, which are new scene-level detail, not yet written into the outline. **Note added this session:** the specific substage this staging depends on (Grounded Bastion Substage 3) was flagged as `CONFLICT-001` in the new canon-rules ledger — resolved 2026-08-14, see the Update above.
-+**Lighthouse/Pi-Awakening question — resolved, confirmed by Abad.** A contradiction was flagged earlier this session: material describing someone growing heavier and heavier, believing he is dying, then falling several stories from a lighthouse during an assassination attempt and cracking a foundation "made of the best material," with the buildup described as reinforcing ground he had passed through without anyone noticing until they return. This matched existing hard canon exactly, but as Kanja's own arc, not Guacanagarix's: the Talisman of Mao document's Governor's Shackle stage (Kanja growing "heavy" and "sluggish" as pressure builds toward the Pi-Awakening at 314, built to "detonate inward" at the exact moment his body is ready), the same document's Grounded Bastion stage (the reinforced-ground mechanic, tied to Kanja's presence), and the Complete Structural Outline, which places the Pi-Awakening at a location named the Gilded Lighthouse, early in the 10-Day Interregnum. [Batch 378 note: the Pi-Awakening falls on the sixth day after his 314th birthday (confirmed by Abad); with the Interregnum opening on that birthday (`MCD-1901`), that is the seventh day of the Interregnum.] Abad confirmed directly: he meant Kanja throughout that passage, not Guacanagarix. New on top of what's already locked: the assassination-attempt trigger and the specific fall/crack-the-foundation staging, which are new scene-level detail, not yet written into the outline. **Note added this session:** the specific substage this staging depends on (Grounded Bastion Substage 3) was flagged as `CONFLICT-001` in the new canon-rules ledger — resolved 2026-08-14, see the Update above.
++**Lighthouse/Pi-Awakening question — resolved, confirmed by Abad.** A contradiction was flagged earlier this session: material describing someone growing heavier and heavier, believing he is dying, then falling several stories from a lighthouse during an assassination attempt and cracking a foundation "made of the best material," with the buildup described as reinforcing ground he had passed through without anyone noticing until they return. This matched existing hard canon exactly, but as Kanja's own arc, not Guacanagarix's: the Talisman of Mao document's Governor's Shackle stage (Kanja growing "heavy" and "sluggish" as pressure builds toward the Pi-Awakening at 314, built to "detonate inward" at the exact moment his body is ready), the same document's Grounded Bastion stage (the reinforced-ground mechanic, tied to Kanja's presence), and the Complete Structural Outline, which places the Pi-Awakening at a location named the Gilded Lighthouse, early in the 10-Day Interregnum. [Batch 378 note: the Pi-Awakening falls on the sixth day after his 314th birthday (confirmed by Abad); with the Interregnum opening on that birthday (confirmed by Abad, `MCD-1901`), that is the seventh day of the Interregnum.] Abad confirmed directly: he meant Kanja throughout that passage, not Guacanagarix. New on top of what's already locked: the assassination-attempt trigger and the specific fall/crack-the-foundation staging, which are new scene-level detail, not yet written into the outline. **Note added this session:** the specific substage this staging depends on (Grounded Bastion Substage 3) was flagged as `CONFLICT-001` in the new canon-rules ledger — resolved 2026-08-14, see the Update above.
  
+@@ -105,3 +105,3 @@
+ - **Phase 1 items 2-3 DONE (confirmed via Anansi Knowledge Core, 2026-08-09):** Karkosa and Maw-7 Slab de-duplicated on the Regional Atlas Gazetteer tab. Both had a stub duplicate row under "Lawless Reaches" (row 55 Karkosa, row 58 Maw-7 Slab) reusing the same grid cell codes (G16/G17) as the canonical Sovereign Trust Domain entries, missing Class/Tier data — the fingerprint of a copy-paste error. Rows 55 and 58 deleted via the live Google Sheet. Canonical entries left standing: Karkosa = Sovereign Trust Domain, G16, Capital/Maw, Wallcrown City, Tier L. Maw-7 Slab = Sovereign Trust Domain, G17, Capital/Maw, Tier -. Verified in this session (2026-08-10): searching "Karkosa" on the Gazetteer tab alone now returns exactly 1 match.
+-- **Kanja Personality Bible DONE, delivered, then corrected.** First draft invented Kanja's origin instead of using real canon. Abad caught it and pointed back to the Lore Vault Drive folder. Corrected against real canon: Kanja is a prince, son of King Maro Rexmar; the Sovereign Pier Accords (secret pact between Maro and Aethelgard Verehimu, Ozmund's father); the Fulfillment Ceremony as Book 1's opening event, where the Three Ronin assassinate both kings "one day too late." File `00_Kanja_Psychological_Profile.docx` was delivered directly to Abad on 2026-08-09 (13 sections + closing "Writing Kanja: The Rules" directive, matching the format of the other eight profiles). **Not yet placed in the Drive Lore Vault folder** — this session doesn't have a working copy; Abad may still have the delivered file from that session to re-upload, rather than rebuilding it from scratch.
++- **Kanja Personality Bible DONE, delivered, then corrected.** First draft invented Kanja's origin instead of using real canon. Abad caught it and pointed back to the Lore Vault Drive folder. Corrected against real canon: Kanja is a prince, son of King Maro Rexmar; the Sovereign Pier Accords (secret pact between Maro and Aethelgard Verehimu, Ozmund's father); the Fulfillment Ceremony as Book 1's opening event, where the Three Ronin assassinate both kings "one day too late." File `00_Kanja_Psychological_Profile.docx` was delivered directly to Abad on 2026-08-09 (13 sections + closing "Writing Kanja: The Rules" directive, matching the format of the other eight profiles). **Not yet placed in the Drive Lore Vault folder** — this session doesn't have a working copy; Abad may still have the delivered file from that session to re-upload, rather than rebuilding it from scratch. [Batch 378: 'one day too late' is the enemy's belief about the Pi-Awakening (MCD-1904); it does not describe the timing of the murder.]
+ - Read the fleet's own decision document (`Lords_of_Cian_Writing_Agent_Fleet_Recommendation.docx`, Aug 1). Confirms architecture: writer agent **Corvin**, continuity agent **Isolde**, two-agent design locked, Sonnet 5 primary inside Claude Code sessions, Opus 4.8 fallback, Fable 5 in reserve.

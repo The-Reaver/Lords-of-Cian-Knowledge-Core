@@ -83,9 +83,9 @@ statement (the ledger is the source of truth for exact wording).
   Pyro serving Kanja stew as the Shimmer and the Gilded Lighthouse's pendant activate.
 - `MCD-272` — "The Scourge's Heir" (Kanja 308): his food-based healing is proven biologically real on
   Ironbane's nerve damage.
-- `CC-101` — Pyro is "roughly 24-36 at Book 1," younger than Abyss (~45, "the crew's youngest adult
+- `CC-101` — Pyro, "23 at the Fulfillment Ceremony (MCD-270, MCD-1901)," is younger than Abyss (~45, "the crew's youngest adult
   recruit").
-- `CC-110` — Sephtis has known Kanja is Pyro's father for 24 years.
+- `CC-110` — Sephtis has known Kanja is Pyro's father for 23 years.
 
 **Age math (Kanja's age is the only clock canon gives; Pyro's age = Kanja's age minus ~290)**
 
@@ -100,6 +100,8 @@ statement (the ledger is the source of truth for exact wording).
 | 308 | The Scourge's Heir (food healing proven) | `MCD-272` | ~18 |
 | 314 | The Last Breakfast; Long Mask ends; Pi-Awakening | `MCD-277`, `CC-005` | ~24 |
 | Book 1 opening | Fulfillment Ceremony | `MCD-091` | ~24 or ~36 (see below) |
+
+[Batch 378, MCD-1901: Kanja 313 at the Ceremony, Pyro 23; the options below are kept as the record of the choice.]
 
 Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open question:
 - **284-year reading** (the Long Mask's own length, `CC-005`/`MCD-246`; Red Beard's defection 29 years
@@ -137,7 +139,7 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
 
 **Those who know his parentage**
 - `CC-079` — Kanja; Stormbreaker and Azar know or suspect.
-- `CC-110` — Sephtis, for 24 years, never disclosed.
+- `CC-110` — Sephtis, for 23 years, never disclosed.
 - `CC-045` — Stormbreaker (Kaelen) fought and defeated the Demaron in Pyro's mother with Kanja's
   consent, and serves as Pyro's guardian without Pyro knowing this history.
 - `MCD-252` — Stormbreaker recruited at Kanja 70 (Seismic Variant); `MCD-253` — Azar recruited at
@@ -456,6 +458,7 @@ on. Each facet further down is
 written under the recommended answer; where a facet rests on one, it says so.
 
 **A1. Pyro's age at Book 1 (finding 1).** This is item 1 on `approval-list-2026-10-03.md`.
+[Batch 378, MCD-1901: Kanja 313 at the Ceremony, Pyro 23; the options below are kept as the record of the choice.]
 - **Option 1 (recommended):** Book 1 opens at Kanja 314, 284 years after the Sovereign Pier, and
   Pyro is about 24. Support: `CC-005` (a 284-year Long Mask), `CC-006` (the Pi-Awakening at 314),
   `WC-022` (the Pi-Awakening sits inside Book 1), `MCD-277` (the Last Breakfast at 314 closes the

@@ -33,7 +33,7 @@ AMEND = [
      "for just over 283 years -- the whole Long Mask and on to the Karkosa Heist (MCD-1901) --"),
     ("ARS-310", "Kanja maintained the Scourge persona for 284 years using",
      "Through the Long Mask of just over 283 years (MCD-1901) Kanja maintained the Scourge persona, born at "
-     "Ash-Wharf at age 22 (MCD-235), using"),
+     "Ash-Wharf at age 22 (MCD-235) and set down on the coat night (MCD-1022), using"),
     ("CC-005", "Kanja's Long Mask persona lasted 284 years, ending when the Gravity-Fetter pendant was severed at "
                "the Gilded Lighthouse, triggering the Pi-Awakening.",
      "Kanja's Long Mask lasted just over 283 years, ending when the Gravity-Fetter pendant was severed at the "
@@ -47,7 +47,7 @@ AMEND = [
     ("MCD-245", "beginning the already-locked 284-year Long Mask.",
      "beginning the already-locked Long Mask of just over 283 years (MCD-1901)."),
     ("MCD-246", "The 284-year Long Mask persona that followed comprised",
-     "The Long Mask persona that followed, lasting just over 283 years (MCD-1901), comprised"),
+     "The Long Mask that followed, lasting just over 283 years (MCD-1901), comprised"),
     ("ARS-346", "developed over the Long Mask's 284 years",
      "developed over " + LM),
     ("ARS-353", "deployed eleven times across 284 years,",
@@ -178,7 +178,10 @@ EDITS += [
     (C1255, "P", "for two\nhundred and eighty-three years running.", "for two\nhundred and eighty-two years running.", 1),
     (C1255, "P", "whether two hundred and\neighty-three years was enough", "whether two hundred and\neighty-two years was enough", 1),
     (C1406, "P", "now ran past two hundred and eighty-three years", "now ran past two hundred and eighty-two years", 1),
-    (C1022, "P", "\"Two hundred and eighty-four years,\" he said.", "\"Two hundred and eighty-three years,\" he said.", 1),
+    (C1022, "P", "\"Two hundred and eighty-four years,\" he said. \"That's how long the Long Mask has run, since a morning\n"
+     "on a burned wharf set its shape \u2014 not planned, not chosen, just the thing it became.\"",
+     "\"Two hundred and eighty-three years,\" he said. \"That's how long the mask has run since the pier. A\n"
+     "morning on a burned wharf set its shape.\"", 1),
     # --- header notes ---
     (K7, "H", "Age 240, two hundred and ten years past the Sovereign Pier.",
      "Age 240, two hundred and nine years past the Sovereign Pier.", 1),
@@ -237,11 +240,13 @@ EDITS += [
     (C1406, "N", "(\"The Coat He\nAlmost Didn't Put Back On,\" `MCD-1255`, age 313)",
      "(\"The Coat He\nAlmost Didn't Put Back On,\" `MCD-1255`, age 312)", 1),
     (C1408, "N", "(`MCD-1022`,\nage 314, the persona's literal final mission and the Long Mask's already-locked close)",
-     "(`MCD-1022`,\nage 313, the persona's literal final mission, days before the Long Mask's close at the pendant, `CC-005`)", 1),
+     "(`MCD-1022`,\nage 313, the persona's literal final mission, weeks before the Long Mask's close at the pendant, `CC-005`)", 1),
     (C1408, "N", "(`MCD-1255`, age 313)", "(`MCD-1255`, age 312)", 1),
     (C1408, "N", "Age 314, V4 gear", "Age 313, V4 gear", 1),
     (C1022, "N", "Deliberately states only that the 284-year span (MCD-246, ARS-310) has run its course",
      "Deliberately states only that the Long Mask's span of just over 283 years (MCD-246, ARS-310, MCD-1901) has run its course", 1),
+    (C1022, "N", "chooses to end it consciously rather than let it drift",
+     "chooses to end the Scourge persona consciously rather than let it drift", 1),
 ]
 NOTE_APPEND = {
     K5: " Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date, 30 days "
@@ -341,7 +346,8 @@ EDITS += [
     (PR + "kanja-haku-rexmar.md", "D", "for the entire 284-year Long\n  Mask that follows.",
      "for the entire Long Mask\n  of just over 283 years that follows.", 1),
     (PR + "kanja-haku-rexmar.md", "D", "everything in this walkthrough (ages 18–314) sits *before* it.",
-     "everything in this walkthrough (ages 18–313) sits *before* it.", 1),
+     "everything in this walkthrough (ages 18–313) sits *before* it, except the Eve of Awakening, the Last "
+     "Breakfast and the Pi-Awakening (age 314), which fall inside Book 1's window (`MCD-1901`).", 1),
     (PR + "kanja-haku-rexmar.md", "D", "it is the seed of a future Book-1-era or post-Fulfillment-Ceremony psychological profile.\n",
      "it is the seed of a future Book-1-era or post-Fulfillment-Ceremony psychological profile. Its Book 1\n"
      "  consequence is locked at `MCD-1902`: the Accords broken, and the Trinity reclaimed at the Karkosa Heist.\n", 1),
@@ -351,7 +357,7 @@ EDITS += [
     (PR + "kanja-haku-rexmar.md", "D", "plus the Eve of Awakening/Pi-Awakening at 314\n  (`MCD-272`, `MCD-1022`),",
      "plus the coat night (age 313, `MCD-1022`), the Eve of\n  Awakening (age 314, after the murder, `MCD-272`) and the Pi-Awakening (age 314, the sixth day after his\n  birthday, `MCD-1901`),", 1),
     (PR + "alias-captain.md", "D", "Kanja's Long Mask persona begins and runs 284 years, ending",
-     "Kanja's Long Mask persona begins and runs just over 283 years (`MCD-1901`), ending", 1),
+     "Kanja's Long Mask begins and runs just over 283 years (`MCD-1901`), ending", 1),
     (PR + "alias-captain.md", "D", "Machete for the 284-year Long Mask that followed.",
      "Machete for the Long Mask that followed, just over 283 years.", 1),
     (PR + "alias-captain.md", "D", "sealed at L9 for the entire 284-year Long Mask, ages 30-314)",
@@ -380,8 +386,14 @@ EDITS += [
      "epilogue (The Great Breach, SBD uncovered). " + BRACKET, 1),
     ("docs/lords-of-cian/master-to-do-list.md", "D", "early in the 10-Day Interregnum.",
      "early in the 10-Day Interregnum. [Batch 378 note: the Pi-Awakening falls on the sixth day after his 314th "
-     "birthday (confirmed by Abad); with the Interregnum opening on that birthday (`MCD-1901`), that is the "
-     "seventh day of the Interregnum.]", 1),
+     "birthday (confirmed by Abad); with the Interregnum opening on that birthday (confirmed by Abad, "
+     "`MCD-1901`), that is the seventh day of the Interregnum.]", 1),
+    ("docs/lords-of-cian/master-to-do-list.md", "D", "rather than rebuilding it from scratch.\n",
+     "rather than rebuilding it from scratch. [Batch 378: 'one day too late' is the enemy's belief about the "
+     "Pi-Awakening (MCD-1904); it does not describe the timing of the murder.]\n", 1),
+    ("docs/lords-of-cian/kanja-chronicles-production-roadmap.md", "D", "including future chronicle drafts.\n",
+     "including future chronicle drafts. [Batch 378: 'one day too late' is the enemy's belief about the "
+     "Pi-Awakening (MCD-1904); it does not describe the timing of the murder.]\n", 1),
     (PR + "anirak.md", "D",
      "The launch wave ends with the Long Mask at Kanja 314 (`MCD-1022`), so the Scourge\n"
      "    persona governs every entry. Whether any gap lies between the Long Mask's end and the\n"
@@ -467,8 +479,9 @@ def main():
                  "long mask ends there'; 'The Long Mask lasts just over 283 years'; 'the Long mask has to be after his "
                  "314th birthday'; 'shortly after his birthday he starts feeling worse and worse it seems he's on his "
                  "death bed and then that's when it happens'; 'yes Macana is Obsidian Malice, six days works'; 'yes the Pier is 30 days "
-                 "before his 31st birthday', and on the Awakening's trigger: 'the trigger is the danger', 'it was something that "
-                 "was bound to happen' (full quotation in the draft). MCD-1901 locks the clock: the murder on the last day of "
+                 "before his 31st birthday'; 'the interregnum day 1 counting works'; 'The pie Awakening gave him confidence and he knew "
+                 "something changed he knew that his feeling that he was getting old was a misconception', and on the Awakening's trigger: "
+                 "'the trigger is the danger', 'it was something that was bound to happen' (full quotation in the draft). MCD-1901 locks the clock: the murder on the last day of "
                  "Kanja's age 313, the Pi-Awakening at age 314 (unchanged) on the sixth day after his 314th birthday, "
                  "the Pier 30 days before his 31st birthday (confirmed by Abad), the Accords 283 years and 29 days, the Long Mask 283 "
                  "years and 36 days, and the late-Scourge placements. MCD-1902 locks the Book 1 beat (the Accords "
@@ -494,9 +507,10 @@ def main():
   the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
   his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
   Obsidian Malice, six days works"). The 10-Day Interregnum opens on that birthday, which
-  makes the Awakening its seventh day. The Long Mask runs from the Sovereign Pier to the pendant's
-  severing at the Awakening, "just over 283 years." The Accords end with the murder. This resolves
-  approval-list item 1 and supersedes the Batch 56 ruling that `MCD-091`'s 296 controls.
+  makes the Awakening its seventh day (confirmed by Abad: "the interregnum day 1 counting works").
+  The Long Mask runs from the Sovereign Pier to the pendant's severing at the Awakening, "just over
+  283 years." The Accords end with the murder. This resolves approval-list item 1 and supersedes the
+  Batch 56 ruling that `MCD-091`'s 296 controls.
 - **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday (confirmed by Abad: "yes
   the Pier is 30 days before his 31st birthday"). The Accords held 283
   years and 29 days, the Long Mask 283 years and 36 days. The late-Scourge entries are placed on it:
@@ -513,21 +527,24 @@ def main():
   Pi-Awakening releases the Shackle and shows him the decline was not age. That the Talisman caused
   it he learns only in Book 4. Whether Lauris and Sephtis connect it to his decline, and how enemies
   reach him on the deathbed, stay open.
-- **The trigger (`MCD-1904`).** Abad: the Awakening is not on his birthday, and the trigger is the danger.
-  By his deathbed days the Shackle is at its limit and would have broken on its own about a week later.
-  What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly force; the
-  mechanism (his body's surge in answer to the threat snaps the pendant, confirmed by Abad: "yes the surge
-  snapping the pendant works"). The
-  strike never lands, and a landed strike would have caused a world-scale event. "One day too late" is the
-  enemy's belief and recurs through the books; the truth is revealed to the reader only later. Who or what
+- **The trigger (`MCD-1904`).** Abad: the Awakening falls on the sixth day after his birthday, and the trigger
+  is the danger. By his deathbed days the Shackle is at its limit and would have broken on its own about a
+  week later. What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly
+  force. Confirmed by Abad ("yes the surge snapping the pendant works"): his body's surge in answer to the
+  threat snaps the pendant. The strike never lands, and a landed strike would have caused a
+  world-scale event. "One day too late" is the enemy's belief and recurs through the books; the truth is revealed to the reader only later. Who or what
   makes the attack, and where the reveal falls, stay open. No entry set before Book 1 may state or hint at
   the trigger or the belief.
 - **Propagation.** {len(amended)} rule statements amended; {n_entries} entries and {n_docs} docs carried,
   including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
-  line keeps its source wording, with a bracketed note. The mirrored Voice Bible and Voice Progression
-  Sheet under `docs/lords-of-cian/voice/` still read 284 years and are not edited; that sync is owed
-  (Batch 377 practice), and the Drive source documents are Abad's to update. Owed to the Pyro/Triad
-  review: the A1 block in `pyro.md` and the matching lines in `triad-guardians.md`.
+  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
+  Voice Progression Sheet under `docs/lords-of-cian/voice/` still reads 284 years (about line 145); the
+  mirrored Voice Bible reads "314 years of performing a role" (about line 205) and carries "8,517,120,000
+  seconds" at Pyro's birth (lines 107 and 109), which matches neither `MCD-270` nor the Pier's date. Neither
+  mirror is edited; the Drive source documents are Abad's to update. `research/atlas-rebuild/mainline-gazetteer.json`
+  carries 9 stale 284/296 strings, and its regeneration from the ledger is owed. The Pyro and Triad
+  profiles carry the Batch 378 figures in their rule quotes, the age-table and A1 notes, and the Varruk
+  age line; the rest of their review stays owed.
 Ledger at `ledger_version` 38.0, {len(d['rules']):,} rules, 378 batches.
 """)
     open("CLAUDE.md", "w", encoding="utf-8").write(c)

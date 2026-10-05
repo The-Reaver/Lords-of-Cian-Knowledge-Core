@@ -94,8 +94,8 @@ Varruk.
 - `CULT-199` — The SBD's own protocol holds that the Guardians "operate on principles incompatible
   with SBD technology."
 - No rule locks an age, lifespan, or maturation rate for any of the three. Their bond dates from
-  Pyro's birth (`MCD-270`). Varruk was alive at Kanja 248 (`MCD-277`), so he is at least 66 at
-  Book 1 on the 284 reading. Varkul's and Sorya's ages are unlocked.
+  Pyro's birth (`MCD-270`). Varruk was alive at Kanja 248 (`MCD-277`), so he is at least 65 at the
+  Fulfillment Ceremony (Kanja 313, `MCD-1901`). Varkul's and Sorya's ages are unlocked.
 
 ### Relationships
 
@@ -406,7 +406,7 @@ Listed for decision, not resolved. Each quotes both sides with rule IDs.
     separation from Pyro strains Varkul and `CC-099` says Varruk always knows the path to him.
     `CC-123` (Varkul at the clinic) is the only in-series appearance. No rule locks an age for any
     of the three. Their bond dates from Pyro's birth (`MCD-270`). Varruk was alive at Kanja 248
-    (`MCD-277`), so he is at least 66 at Book 1 on the 284 reading. Varkul's and Sorya's ages are
+    (`MCD-277`), so he is at least 65 at the Fulfillment Ceremony (Kanja 313, `MCD-1901`). Varkul's and Sorya's ages are
     unlocked.
 
 14. **"Coursers" as a T.D.K. asset.** `MCD-320`: T.D.K. reacts to the Pi-Awakening with "Deploy the

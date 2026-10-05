@@ -1,5 +1,7 @@
 # Session handoff — 2026-10-05
 
+Superseded 2026-10-05 by Batch 378 draft revision 5: the Pier date is now confirmed (30 days before Kanja's 31st birthday), and Day 0 is the Pi-Awakening, six days after the 314th birthday.
+
 ## Goal
 Lock the canon of "My Rival's Distance: The Lords of Cian" batch by batch under the three non-negotiable
 rules in `CLAUDE.md` (draft, explicit approval, lock; the Series Launch Protocol; the Connective-Tissue
