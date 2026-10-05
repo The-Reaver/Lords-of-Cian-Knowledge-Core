@@ -1,4 +1,7 @@
 # Pending approval: the author ruled that the Pact held 283 years and that the Long Mask ends at the pendant's severing, lasting just over 283 years.
+
+Superseded 2026-10-05 by Batch 378 draft revision 3: the Long Mask ends at the pendant's severing on the sixth day after his 314th birthday, seven days after the murder, and runs 283 years and 36 days; what the pitch line 'it ended one day too late' means is set at MCD-1904.
+
 - id: 2026-10-05-c-pending-pact-283-years-long-mask-ends-at-pendant
 - type: decision
 - status: candidate

@@ -1,8 +1,8 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,34 @@
+@@ -4439,2 +4439,42 @@
  
-+**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1903`).** Abad: "<approval quote, verbatim>"
++**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1904`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
 +  the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
 +  his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
@@ -10,8 +10,8 @@
 +  makes the Awakening its seventh day. The Long Mask runs from the Sovereign Pier to the pendant's
 +  severing at the Awakening, "just over 283 years." The Accords end with the murder. This resolves
 +  approval-list item 1 and supersedes the Batch 56 ruling that `MCD-091`'s 296 controls.
-+- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday (a new fact, approved
-+  with this batch). The Accords held 283
++- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday (confirmed by Abad: "yes
++  the Pier is 30 days before his 31st birthday"). The Accords held 283
 +  years and 29 days, the Long Mask 283 years and 36 days. The late-Scourge entries are placed on it:
 +  "one more year" at 312, the coat night at 313 before the Ceremony, the Eve of Awakening at 314 on
 +  the day before the Awakening. The Scourge persona ends at the coat night; the Long Mask ends at the
@@ -26,13 +26,21 @@
 +  Pi-Awakening releases the Shackle and shows him the decline was not age. That the Talisman caused
 +  it he learns only in Book 4. Whether Lauris and Sephtis connect it to his decline, and how enemies
 +  reach him on the deathbed, stay open.
++- **The trigger (`MCD-1904`).** Abad: the Awakening is not on his birthday, and the trigger is the danger.
++  By his deathbed days the Shackle is at its limit and would have broken on its own about a week later.
++  What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly force; the
++  mechanism (his body's surge against the Shackle severs the pendant) is proposed with this batch. The
++  strike never lands, and a landed strike would have caused a world-scale event. "One day too late" is the
++  enemy's belief and recurs through the books; the truth is revealed to the reader only later. Who or what
++  makes the attack, and where the reveal falls, stay open. No entry set before Book 1 may state or hint at
++  the trigger or the belief.
 +- **Propagation.** 52 rule statements amended; 60 entries and 12 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
 +  line keeps its source wording, with a bracketed note. The mirrored Voice Bible and Voice Progression
 +  Sheet under `docs/lords-of-cian/voice/` still read 284 years and are not edited; that sync is owed
 +  (Batch 377 practice), and the Drive source documents are Abad's to update. Owed to the Pyro/Triad
 +  review: the A1 block in `pyro.md` and the matching lines in `triad-guardians.md`.
-+Ledger at `ledger_version` 38.0, 2,724 rules, 378 batches.
++Ledger at `ledger_version` 38.0, 2,725 rules, 378 batches.
 +
  ## Separate, unrelated thread: the interactive archive app
 --- before: docs/lords-of-cian/approval-list-2026-10-03.md
@@ -864,7 +872,7 @@
 +- **The Sovereign Pier Accords**, negotiated in secret and concluded at the Sovereign Pier just over 283 years before Book 1 opens: Maro Rexmar and Aethelgard Verehimu (Ozmund's father) traded the end of Kanja's rebellion for Aethelgard's future recognition of Maro as sovereign King of Jicome, plus an alliance against the Shattered Kingdoms. This, not a birthday lecture, is why Kanja's father was able to convince him to stand down from a war he was winning. Kanja surrendered the Trinity (Mafesto, Onyx, Obsidian Malice) into L9 and put on the Long Mask to wait out the deal.
 +- **The Fulfillment Ceremony is Book 1's opening event** (per Master Canon's own "BOOK 1 STRUCTURE: THE DEPOSED KING" section: "Opening: Murder scene. Two kings dead."). Aethelgard, king for one month, was about to crown Maro sovereign King of Jicome, fulfilling the Accords just over 283 years after Kanja put on the mask. At the ceremony, three contracted assassins, the Three Ronin, killed both kings: Decimus Korr ("the Silence") cleared the guards, an unnamed infiltrator ("the Ghost") had already been inside for weeks, and Serai Noth ("the Blade") killed both kings in 1.6 seconds. An SBD wet-work team sanitized the scene within four minutes. Ozmund rejects the crown the murder leaves him, hires Ezio to investigate, this is Book 1.
  - The pitch material's own line for Kanja: "The 284-year performance was the longest undercover operation in history, and it ended one day too late."
-+  [Corrected Batch 378: the quoted pitch line is kept as source wording. The Long Mask runs just over 283 years, from the Sovereign Pier to the pendant's severing on the sixth day after Kanja's 314th birthday, seven days after his father's murder (`MCD-1901`). The line is read as the murder falling one day short of his 314th birthday.]
++  [Corrected Batch 378: the quoted pitch line is kept as source wording. The Long Mask runs just over 283 years, from the Sovereign Pier to the pendant's severing on the sixth day after Kanja's 314th birthday, seven days after his father's murder (`MCD-1901`). What the line means is set at `MCD-1904`.]
  - Kanja and Ozmund are cousins through their mothers, Val Saeryn Kareth and Val Mirel Kareth (Karesian war-sisters), not through their fathers. Their fathers' shared murder is the origin wound both sons carry into Book 3's confrontation ("You are becoming the thing our fathers died to prevent" / "Our fathers' way got them both killed," Master Canon's own locked line, both right, both wrong).
 @@ -65,3 +66,3 @@
  4. **Atlas duplicate listings — DECIDED, approved for fix, not yet executed.** Karkosa row 48, Maw-7 Slab row 49 (both Sovereign Trust Domain side), located but not edited. Phase 1 items 2-3.

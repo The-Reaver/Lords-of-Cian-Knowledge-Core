@@ -1,4 +1,7 @@
 # Pending approval: proposed rule MCD-1903 says Kanja reads the Governor's Shackle's buildup as aging, a misconception that only the Pi-Awakening corrects.
+
+Superseded 2026-10-05 by Batch 378 draft revision 3: the Pi-Awakening shows him the decline was not age, and that the Talisman caused it he learns only in Book 4; the crew at large shares his reading, and whether Lauris and Sephtis connect it is left open; the MCD-309 citation is dropped; the Awakening is on the sixth day after his birthday, not 'Day 0'.
+
 - id: 2026-10-05-c-pending-mcd-1903-aging-misconception
 - type: decision
 - status: candidate

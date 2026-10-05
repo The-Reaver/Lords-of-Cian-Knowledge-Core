@@ -1,5 +1,7 @@
 # ARS-437 (the Heartline) makes Onyx's bond to Kanja a one-way biological channel that survives the L9 sealing
 
+Superseded 2026-10-05 by Batch 378 draft revision 3: the Long Mask is just over 283 years (283 years and 36 days, MCD-1901), so the two '284' figures below read 'just over 283 years' once the batch locks.
+
 - id: 2026-10-05-b-heartline-ars-437-biological-bond
 - type: decision
 - status: ratified

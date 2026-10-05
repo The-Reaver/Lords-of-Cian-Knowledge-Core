@@ -1,4 +1,7 @@
 # Pending approval: proposed rule MCD-1902 makes the Accords' breaking and Kanja's reclaiming of the Trinity a Book 1 beat and bars any pre-Book-1 foreshadowing.
+
+Superseded 2026-10-05 by Batch 378 draft revision 3: the reserved bar is narrowed to entries set before Book 1 that dramatize or foreshadow the murder, the reading of it as the breaking of the Accords, or the reclaiming of the Trinity; retrospective tellers' mentions already locked stay permitted; the Awakening is seven days after the murder, not 'Day 0'; Macana is confirmed by Abad as Obsidian Malice.
+
 - id: 2026-10-05-c-pending-mcd-1902-trinity-reclaimed-after-murder
 - type: decision
 - status: candidate

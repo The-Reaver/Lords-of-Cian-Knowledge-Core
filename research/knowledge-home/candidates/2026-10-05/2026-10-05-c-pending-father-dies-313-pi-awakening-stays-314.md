@@ -1,4 +1,7 @@
 # Pending approval: the author ruled that Kanja is 313 when his father dies, and that the Pi-Awakening stays at 314, on the day after the murder.
+
+Superseded 2026-10-05 by Batch 378 draft revision 3: the murder is the last day of Kanja's age 313, and the Pi-Awakening falls on the sixth day after his 314th birthday (confirmed by Abad), not on his birthday; the Eve of Awakening stays at age 314 and only the coat night is at 313.
+
 - id: 2026-10-05-c-pending-father-dies-313-pi-awakening-stays-314
 - type: decision
 - status: candidate

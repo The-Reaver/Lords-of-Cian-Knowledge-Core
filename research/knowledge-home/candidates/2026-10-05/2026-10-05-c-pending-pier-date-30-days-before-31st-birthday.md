@@ -1,4 +1,7 @@
 # Pending approval: the draft proposes, as a new fact, that the Battle of the Sovereign Pier fell 30 days before Kanja's 31st birthday.
+
+Superseded 2026-10-05 by Batch 378 draft revision 3: Abad confirmed the Pier 30 days before his 31st birthday; the Long Mask is 283 years and 36 days (103,331 days) and the Accords 283 years and 29 days (103,324 days); an anniversary of N whole years falls at age 30 + N, 30 days before his (31 + N)th birthday.
+
 - id: 2026-10-05-c-pending-pier-date-30-days-before-31st-birthday
 - type: decision
 - status: candidate

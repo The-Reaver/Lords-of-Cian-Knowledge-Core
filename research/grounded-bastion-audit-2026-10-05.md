@@ -1,5 +1,7 @@
 # Grounded Bastion audit: places Kanja reinforced, and what canon already says
 
+Superseded 2026-10-05 by Batch 378 draft revision 3: Kanja is 313 at the Fulfillment Ceremony, on the last day of that age, and the Pi-Awakening falls on the sixth day after his 314th birthday, not on the birthday.
+
 Read-only research, 2026-10-05, prompted by Abad: "all of these things will tie in together when they
 revisit places that they were before and it's now so much more fortified... we should be highlighting
 how those places are really messed up and we don't know what those places are yet." Nothing here is

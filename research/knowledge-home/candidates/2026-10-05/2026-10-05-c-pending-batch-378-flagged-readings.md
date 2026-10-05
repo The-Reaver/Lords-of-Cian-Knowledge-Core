@@ -1,4 +1,7 @@
 # Pending approval: the Batch 378 draft lists seventeen flagged readings, including Pyro's age, Sereth Vaul's 314 years and the Last Breakfast, for the author to confirm.
+
+Superseded 2026-10-05 by Batch 378 draft revision 3: the draft now carries 23 flagged readings; the Pier date, the sixth day after his birthday and Macana as Obsidian Malice are confirmed by Abad; the Eve of Awakening stays at 314; the Last Breakfast is seven days after the murder; MCD-1904 (the Awakening's trigger) and an open Lauris and Sephtis question are added.
+
 - id: 2026-10-05-c-pending-batch-378-flagged-readings
 - type: finding
 - status: candidate

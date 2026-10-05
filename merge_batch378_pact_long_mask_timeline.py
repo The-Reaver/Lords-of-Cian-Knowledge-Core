@@ -1,6 +1,7 @@
 """Batch 378: the Long Mask, the Sovereign Pier Accords and Book 1 on one clock (Abad's ruling,
 2026-10-05; resolves approval-list item 1). Locks MCD-1901 (the timeline), MCD-1902 (the Accords broken
-and the Trinity reclaimed, a Book 1 beat) and MCD-1903 (the aging misconception); amends every rule that
+and the Trinity reclaimed, a Book 1 beat), MCD-1903 (the aging misconception) and MCD-1904 (the Pi-Awakening's
+trigger and "one day too late"); amends every rule that
 states the old 284-year Long Mask or the 296-year Pier-to-Ceremony offset; carries the change to every
 entry, profile, tracker row and doc that states it, and appends the Batch 378 history paragraph to
 CLAUDE.md.
@@ -13,7 +14,7 @@ from collections import Counter
 
 LEDGER = "canon-ledger.json"
 SOURCE = "Abad's ruling in conversation, 2026-10-05; drafted to resolve approval-list item 1"
-NEW_IDS = ["MCD-1901", "MCD-1902", "MCD-1903"]
+NEW_IDS = ["MCD-1901", "MCD-1902", "MCD-1903", "MCD-1904"]
 CH = "docs/lords-of-cian/chronicles/"
 PR = "docs/lords-of-cian/character-profiles/"
 LM = "the Long Mask of just over 283 years"
@@ -330,8 +331,7 @@ EDITS += [
      "it ended one day too late.\"\n",
      "it ended one day too late.\"\n  [Corrected Batch 378: the quoted pitch line is kept as source wording. The Long Mask runs "
      "just over 283 years, from the Sovereign Pier to the pendant's severing on the sixth day after Kanja's 314th "
-     "birthday, seven days after his father's murder (`MCD-1901`). The line is read as the murder falling one day "
-     "short of his 314th birthday.]\n", 1),
+     "birthday, seven days after his father's murder (`MCD-1901`). What the line means is set at `MCD-1904`.]\n", 1),
     (PR + "kanja-haku-rexmar.md", "D", "The 284-year Long\n  Mask that follows comprises",
      "The Long Mask that\n  follows, lasting just over 283 years (`MCD-1901`), comprises", 1),
     (PR + "kanja-haku-rexmar.md", "D", "The Long Mask persona runs 284 years, ending when the Gravity-Fetter pendant",
@@ -403,7 +403,7 @@ def clean(t):
 
 def parse_new(text):
     out = {}
-    for m in re.finditer(r"\*\*(MCD-190[123])\*\*\s*\(category: ([^)]+)\)\.\s*(.+?)(?=\n\n)", text, re.S):
+    for m in re.finditer(r"\*\*(MCD-190[1-4])\*\*\s*\(category: ([^)]+)\)\.\s*(.+?)(?=\n\n)", text, re.S):
         out[m.group(1)] = (m.group(2).strip(), clean(m.group(3)))
     assert sorted(out) == NEW_IDS, sorted(out)
     return out
@@ -467,12 +467,14 @@ def main():
                  "old when his father dies'; 'The Pact was broken that day... so it really lasted 283 years'; 'Yes the "
                  "long mask ends there'; 'The Long Mask lasts just over 283 years'; 'the Long mask has to be after his "
                  "314th birthday'; 'shortly after his birthday he starts feeling worse and worse it seems he's on his "
-                 "death bed and then that's when it happens'; 'yes Macana is Obsidian Malice, six days works'. MCD-1901 locks the clock: the murder on the last day of "
+                 "death bed and then that's when it happens'; 'yes Macana is Obsidian Malice, six days works'; 'yes the Pier is 30 days "
+                 "before his 31st birthday', and on the Awakening's trigger: 'the trigger is the danger', 'it was something that "
+                 "was bound to happen' (full quotation in the draft). MCD-1901 locks the clock: the murder on the last day of "
                  "Kanja's age 313, the Pi-Awakening at age 314 (unchanged) on the sixth day after his 314th birthday, "
-                 "the Pier 30 days before his 31st birthday (a new fact), the Accords 283 years and 29 days, the Long Mask 283 "
+                 "the Pier 30 days before his 31st birthday (confirmed by Abad), the Accords 283 years and 29 days, the Long Mask 283 "
                  "years and 36 days, and the late-Scourge placements. MCD-1902 locks the Book 1 beat (the Accords "
                  "broken; the Trinity reclaimed at the Karkosa Heist). MCD-1903 locks the aging misconception, "
-                 "culminating in the deathbed state after his 314th birthday. MCD-070 is amended so the "
+                 "culminating in the deathbed state after his 314th birthday. MCD-1904 locks the Awakening's trigger (the danger, a threat of deadly force at the Lighthouse) and the enemy's 'one day too late' belief, with the surge mechanism proposed and the attacker and the reveal's placement open. MCD-070 is amended so the "
                  "Investigation opens at the murder and runs on through the Interregnum. Amended: "
                  + ", ".join(sorted(amended)) + ". Files carried: " + ", ".join(files)
                  + f". Abad's approval, verbatim: \"{approval}\"."),
@@ -488,7 +490,7 @@ def main():
     anchor = "Ledger at `ledger_version` 37.9, 2,721 rules, 377 batches.\n"
     assert c.count(anchor) == 1
     c = c.replace(anchor, anchor + f"""
-**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1903`).** Abad: "{approval}"
+**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1904`).** Abad: "{approval}"
 - **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
   the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
   his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
@@ -496,8 +498,8 @@ def main():
   makes the Awakening its seventh day. The Long Mask runs from the Sovereign Pier to the pendant's
   severing at the Awakening, "just over 283 years." The Accords end with the murder. This resolves
   approval-list item 1 and supersedes the Batch 56 ruling that `MCD-091`'s 296 controls.
-- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday (a new fact, approved
-  with this batch). The Accords held 283
+- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday (confirmed by Abad: "yes
+  the Pier is 30 days before his 31st birthday"). The Accords held 283
   years and 29 days, the Long Mask 283 years and 36 days. The late-Scourge entries are placed on it:
   "one more year" at 312, the coat night at 313 before the Ceremony, the Eve of Awakening at 314 on
   the day before the Awakening. The Scourge persona ends at the coat night; the Long Mask ends at the
@@ -512,6 +514,14 @@ def main():
   Pi-Awakening releases the Shackle and shows him the decline was not age. That the Talisman caused
   it he learns only in Book 4. Whether Lauris and Sephtis connect it to his decline, and how enemies
   reach him on the deathbed, stay open.
+- **The trigger (`MCD-1904`).** Abad: the Awakening is not on his birthday, and the trigger is the danger.
+  By his deathbed days the Shackle is at its limit and would have broken on its own about a week later.
+  What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly force; the
+  mechanism (his body's surge against the Shackle severs the pendant) is proposed with this batch. The
+  strike never lands, and a landed strike would have caused a world-scale event. "One day too late" is the
+  enemy's belief and recurs through the books; the truth is revealed to the reader only later. Who or what
+  makes the attack, and where the reveal falls, stay open. No entry set before Book 1 may state or hint at
+  the trigger or the belief.
 - **Propagation.** {len(amended)} rule statements amended; {n_entries} entries and {n_docs} docs carried,
   including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
   line keeps its source wording, with a bracketed note. The mirrored Voice Bible and Voice Progression
