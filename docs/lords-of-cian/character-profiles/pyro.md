@@ -15,8 +15,7 @@ existence in canon apart from that bond, their rules are pulled into this walkth
 than left for a separate file.
 
 Ledger snapshot used: Section 1 was compiled at `ledger_version` 36.3, 2,667 rules; Section 2 is
-drafted against `ledger_version` 37.9, 2,721 rules (Batch 377: `VB-004` and `VB-068` amended,
-`LEX-001` to `LEX-025` added; every collision result below still holds). 61 rules name Pyro,
+current against `ledger_version` 37.9, 2,721 rules. 61 rules name Pyro,
 Ignis, the Living Gate, the Triad, or the Heart's Tools directly; roughly a dozen more touch him through his mother,
 his lineage, or the Dhar-Kael clade without naming him. Every one is listed below.
 
@@ -445,9 +444,10 @@ Built collaboratively with Abad, not handed to him finished. Draft proposals go 
 **PROPOSED**, and are corrected in place (not appended-and-superseded) once discussed —
 this file always reflects current understanding, not a batch-log history of how we got there.
 
-Drafted 2026-10-04 against `ledger_version` 37.8 and refreshed against 37.9 (2,721 rules, Batch
-377). Every rule ID below was checked against the
+Current against `ledger_version` 37.9, 2,721 rules. Every rule ID below was checked against the
 ledger. Pyro has no entry corpus (Section 1), so every facet is built from locked rules alone.
+Characterization lines marked PROPOSED with no home rule are profile-only readings; none of them is
+a ledger fact.
 
 ### (A) Questions to rule before this profile can be confirmed
 
@@ -500,9 +500,7 @@ center of the profile.
   Cost: anyone who knew of the marriage would know the paternity outright, so either the marriage
   was known only to those who know (Kanja, Sephtis per `CC-110`, and whichever of Stormbreaker and
   Azar is ruled to know), or `CC-079`'s "suspect" takes a clarifying clause in this option's scope.
-  To the wider crew she was Pyro's mother, and the marriage stayed with those few. New fact: the
-  Codex and SBD files that call her "Kanja's wife" (`CC-046`, `SBD-041`) are documents the crew
-  never reads. Cost: she sailed openly with the fleet from Kanja 96 (`MCD-277`), and the
+  To the wider crew she was Pyro's mother, and the marriage stayed with those few. Cost: she sailed openly with the fleet from Kanja 96 (`MCD-277`), and the
   Captain stood 12 km off at the birth (`MCD-270`). The concealment from the wider crew therefore
   covers the whole marriage, whose length depends on its unlocked date (B5), and then 24 more
   years in which the crew either does not know who fathered her child or knows and does not say.
@@ -518,6 +516,9 @@ center of the profile.
   turns `CC-079`'s "hides" into an active lie, it needs a named false father, and it adds an
   invented deception no rule supports.
 - Options 2 and 3 take their clauses on the same two rules, `CC-047` and `CC-079`.
+- Under every option, a new fact: the Codex and SBD files that name her Kanja's wife (`CC-046`,
+  `SBD-041`) or name Pyro as her child (`CC-046`, `SBD-010`, `SBD-041`) are documents the crew never
+  reads. Home: the same clauses on `CC-047` and `CC-079`.
 - Under options 1 and 3 he believes his mother is dead. Under option 2 he is told he is the ship's
   foundling of that night and knows nothing of her. That she lives, fused into the Gate (`MCD-131`),
   stays reserved. Who aboard might know is item B6 below.
@@ -532,10 +533,17 @@ center of the profile.
 - **Option 2, a new fact:** raised ashore at a hidden hold, joining the fleet in his teens. The
   corpus silence then needs no reading for entries set before he joins; entries from his joining
   on still need the check below. `MCD-272` has his food heal Ironbane, a crew member, by Kanja 308,
-  so he joins by then at the latest. Cost: the Triad's ship hierarchy, and the proposed reading
-  that the Pyro Incident happened aboard.
+  so he joins by then at the latest. Cost: the proposed reading that the Pyro Incident happened
+  aboard; under this option it falls ashore, years before he joins.
 - **Option 3, a new fact:** ashore as a small child, aboard from the Pyro Incident (Kanja 296)
-  onward.
+  onward. Proposed reading under this option: he comes aboard in the Incident's year and the
+  Incident is the first event after he does, so it happens aboard, as under option 1 (`MCD-277`
+  gives it no place).
+- **Under options 2 and 3, the Triad's years ashore.** All three Guardians rank the ship in their
+  bond hierarchy (`CC-095`, `CC-097`, `CC-099`), and separation strains Varkul (`CC-095`), so the three stay
+  with him ashore. Cost: those
+  hierarchies hold for years with no ship to rank, from Kanja 290 to his joining in his teens (by
+  308 at the latest) under option 2, and from 290 to 296 under option 3.
 - **Scope, under every option:** the new `CC-` rule on Pyro's upbringing that A2 also uses.
 - **Under every option, the corpus check.** The locked entries set in Kanja 290-314 never mention
   him: `MCD-1246`, `MCD-814` (290), `MCD-1251` (292), `MCD-493`, `MCD-1243`, `MCD-815` (300),
@@ -574,7 +582,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
   home: a clarifying clause on `ARS-421`): in childhood the blast can fire before he chooses it.
   The Pyro Incident, when he was about six, is the first time the Triad are
   seen managing his heat (`MCD-277`); this profile reads it as the first time his fear became heat
-  in front of other people. A boy who believes his coming cost a life also learns early, on that
+  in front of other people. How the Triad manage it is defined when the Incident is first drafted
+  (`triad-guardians.md`, TB8). A boy who believes his coming cost a life also learns early, on that
   proposed reading, that a blast he did not choose can burn the people near him. Depends on A2 and A3.
   The true account (`MCD-131`) stays reserved; whether he ever learns it is unlocked.
 - **Defense mechanisms (PROPOSED -- for Abad's confirmation):**
@@ -748,6 +757,12 @@ ruling with no recommendation.
     ("never by warning" limited to path guidance).
   - `SBD-020`: `triad-guardians.md` TB3 ("Miremaw" as the SBD's field name) and TB6 (the "living
     preservation clause" as its own legal term).
+  - `VB-020`: `pyro.md`, For the Game Plan, Narrator (close-third, no designated narrator), and
+    `triad-guardians.md`, For the Game Plan, Narrator (objective third, no designated narrator).
+    Each adds its series to the rule's roster of track assignments.
+  - `VB-066`: `pyro.md`, For the Game Plan, Series name (the Kindlings), and
+    `triad-guardians.md`, For the Game Plan, Series name (the Tendings). Each adds its series to
+    the rule's list of series names.
   - New rules proposed by the items in either file, each a new `CC-` rule:
     - Pyro's upbringing: `pyro.md` A2 (his maturation schedule) and A4 (where he is raised, among
       whom, and that he knows the quartermaster is the Captain); one merged text at lock.
@@ -755,6 +770,8 @@ ruling with no recommendation.
       line in `kanja-haku-rexmar.md`.
     - Pyro's kill register: `pyro.md`, For the Game Plan.
     - The Triad's kill register: `triad-guardians.md`, For the Game Plan.
+  - No voice-standard `VB-` rule is proposed for either series. One on the `VB-065` precedent can be
+    drafted for each if Abad wants it.
   - Every other rule an item in either file amends is amended by one item only, so it needs no
     merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `CC-047`, `CC-079` (A3); `ARS-437` (B6, the
     Heartline's signal of the birth night); `MCD-272` (B10's alternative, not recommended);
@@ -866,9 +883,10 @@ ruling with no recommendation.
 
 ### For the Game Plan
 
-- **Series name (`VB-066`), proposed: the Kindlings.** One entry is a Kindling. Kindling is the small
+- **Series name (`VB-066`), proposed: the Kindlings.** Home: `VB-066`'s list of series names. One
+  entry is a Kindling. Kindling is the small
   fuel a fire is started from, the heat set under a pot, and the word fits a protagonist named for
-  fire (`CC-047`, `MCD-022`) who is a minor for most of the window. Collision check, case-insensitive:
+  fire (`CC-047`, `MCD-022`) who is a minor for most of the window (under A2 option 1, and for all of it under option 2). Collision check, case-insensitive:
   zero hits for "kindling" or "kindlings" in `canon-ledger.json`; the plain word appears in two
   entries in `docs/lords-of-cian/chronicles/` (dyed kindling in a beacon stack; Ozmund splitting
   kindling at the kitchen ovens, Ozmund Testament XVIII, `MCD-1747`), never as a name. Near-collisions within edit distance 2, across the ledger and the
@@ -906,8 +924,9 @@ ruling with no recommendation.
 - **Kill register:** Pyro sits outside the marquee tier, which is reserved to the five anchor heroes
   (`MCD-1881`). Any victory of his is Notable at most. Proposed (a new fact, for Abad's ruling): no kill
   of his falls before a set age, and its span is for Abad's ruling. Reading 1, "childhood": to about twelve (about Kanja
-  302). Reading 2, "while a minor": to about eighteen (about Kanja 308). Recommended: reading 2, no
-  kill under eighteen; no locked rule places a kill of his in either span.
+  302 under A2 option 1). Reading 2, "while a minor": to about eighteen (about Kanja 308 under A2
+  option 1). Recommended: reading 2, no kill under eighteen; no locked rule places a kill of his in
+  either span. Both ages follow whichever schedule A2 rules.
   Proposed, on the `CC-162`/`CC-164` pattern: every kill by his own hand is a necessity kill, the
   person an active, immediate threat to life in that moment. A fear-driven blast (`ARS-421`: his
   heat surges are involuntary under stress, and under fear or anger he looses a directed blast;
@@ -927,7 +946,8 @@ ruling with no recommendation.
   Proposed in Section 2 (For the Game Plan): the Kindlings, pending Abad's confirmation.
 - **Narrator / voice:** (confirm against Voice Bible rules if one is already locked; propose one
   if not, and get it confirmed before drafting)
-  Proposed in Section 2: close-third on Pyro, no designated narrator, pending Abad's confirmation.
+  Proposed in Section 2: close-third on Pyro, no designated narrator, pending Abad's confirmation
+  and its own Voice Bible ruling (a `VB-020` line).
 - **Voice spec, gated (Abad, 2026-10-03):** name the governing voice document(s) and quote the
   rules that bind this series -- `docs/lords-of-cian/voice/voice-bible-definitive.md` (the
   narrator's own sheet, hard constraints, exclusion list) and, for any Onyx-narrated or
@@ -948,10 +968,14 @@ ruling with no recommendation.
   or queued before this gate clears.
 - **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
   character's life/role actually calls for a split)
-  Proposed in Section 2 (B13): the series window runs from Kanja 290 to the Fulfillment Ceremony,
-  pending Abad's confirmation.
-  Proposed in Section 2 (For the Game Plan, Kill register): no kill under eighteen, and necessity
-  kills only, pending Abad's confirmation.
+  Proposed: a single continuous sequence. His pre-Book-1 life (about 24 years under A1 option 1) is
+  one run aboard one fleet under A4 option 1, with no separate eras or postings that would call for strands. Pending Abad's
+  confirmation.
+- **Series window:** proposed in Section 2 (B13): Kanja 290 to the Fulfillment Ceremony, pending
+  Abad's confirmation.
+- **Kill register:** proposed in Section 2 (For the Game Plan, Kill register): no kill under
+  eighteen (an age that follows whichever schedule A2 rules), and necessity kills only, pending
+  Abad's confirmation.
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the
   walkthrough plus anything new identified during profile discussion)
 - **First-entry candidates** (2-3 pitches, not one pre-committed draft):

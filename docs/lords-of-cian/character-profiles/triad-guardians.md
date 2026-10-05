@@ -438,9 +438,8 @@ Built collaboratively with Abad, not handed to him finished. Draft proposals go 
 **PROPOSED**, and are corrected in place (not appended-and-superseded) once discussed —
 this file always reflects current understanding, not a batch-log history of how we got there.
 
-Drafted 2026-10-04 against `ledger_version` 37.8 and refreshed against 37.9 (2,721 rules, Batch
-377: `VB-004` and `VB-068` amended, `LEX-001` to `LEX-025` added; every collision result below still
-holds). Every rule ID below was checked against the
+Current against `ledger_version` 37.9, 2,721 rules. Characterization lines marked PROPOSED with
+no home rule are profile-only readings; none of them is a ledger fact. Every rule ID below was checked against the
 ledger. No entry has ever put a Guardian on the page (Section 1), so every facet is built from
 locked rules alone.
 
@@ -476,6 +475,8 @@ entries have given each of them demonstrated behavior of their own.
 ### (A) Questions to rule before this profile can be confirmed
 
 Three questions, drawn from five findings (1, 2, 3, 11, 12), decide facts the profile stands on.
+Finding 12 is split: TA3 takes Sorya's bond expression, and TB8 takes the thermal-management
+mechanism.
 Each facet further down is
 written under the recommended answer and says where it depends on one.
 
@@ -572,8 +573,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
     the curse took hold (TA2's new fact; depends on TA1 and TA2). On the night of the Gate, after the birth, she pushed them out
     through the inverted Gate just before her fusion completed (`MCD-131`). The imprint and the
     loss of the keeper fall within one event (`MCD-132`, `MCD-270`). For animals, the formative
-    event shows in what they do afterward. Proposed: none of them is out of reach of Pyro for long,
-    and Varruk ranges on a line back to him (`CC-099`); separation strains Varkul (`CC-095`).
+    event shows in what they do afterward (see Defense mechanisms, "Shared: closeness and
+    overwatch").
   - **Varkul** carries it in the body. Separation from Pyro strains him physically (`CC-095`).
   - **Sorya** carries it in memory. She holds the keeper and that night up to the moment she was
     pushed out (`CC-096`, `MCD-131`). Depends on TA3.
@@ -757,6 +758,12 @@ ruling with no recommendation.
     ("never by warning" limited to path guidance).
   - `SBD-020`: `triad-guardians.md` TB3 ("Miremaw" as the SBD's field name) and TB6 (the "living
     preservation clause" as its own legal term).
+  - `VB-020`: `pyro.md`, For the Game Plan, Narrator (close-third, no designated narrator), and
+    `triad-guardians.md`, For the Game Plan, Narrator (objective third, no designated narrator).
+    Each adds its series to the rule's roster of track assignments.
+  - `VB-066`: `pyro.md`, For the Game Plan, Series name (the Kindlings), and
+    `triad-guardians.md`, For the Game Plan, Series name (the Tendings). Each adds its series to
+    the rule's list of series names.
   - New rules proposed by the items in either file, each a new `CC-` rule:
     - Pyro's upbringing: `pyro.md` A2 (his maturation schedule) and A4 (where he is raised, among
       whom, and that he knows the quartermaster is the Captain); one merged text at lock.
@@ -764,6 +771,8 @@ ruling with no recommendation.
       line in `kanja-haku-rexmar.md`.
     - Pyro's kill register: `pyro.md`, For the Game Plan.
     - The Triad's kill register: `triad-guardians.md`, For the Game Plan.
+  - No voice-standard `VB-` rule is proposed for either series. One on the `VB-065` precedent can be
+    drafted for each if Abad wants it.
   - Every other rule an item in either file amends is amended by one item only, so it needs no
     merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `CC-047`, `CC-079` (A3); `ARS-437` (B6, the
     Heartline's signal of the birth night); `MCD-272` (B10's alternative, not recommended);
@@ -792,7 +801,8 @@ ruling with no recommendation.
   later one. The alternative opens at Kanja 248, Varruk's Dog Watch (`MCD-277`), which adds a
   pre-bond stretch for Varruk alone; recommended: open at 290, since every other locked Triad
   event sits at or after the bond.
-- **Series name (`VB-066`), proposed: the Tendings.** One entry is a Tending. Tending is the daily
+- **Series name (`VB-066`), proposed: the Tendings.** Home: `VB-066`'s list of series names. One
+  entry is a Tending. Tending is the daily
   care of animals and of a fire: what the keeper did for the three, what the three do for Pyro, and
   a fit beside a cook named for fire. Collision check, case-insensitive: zero hits for "tending" or
   "tendings" in `canon-ledger.json`; the plain verb appears in seven entries in
@@ -900,10 +910,14 @@ ruling with no recommendation.
   or queued before this gate clears.
 - **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
   character's life/role actually calls for a split)
-  Proposed in Section 2 (For the Game Plan, Series window): Kanja 290 to the Fulfillment Ceremony,
-  pending Abad's confirmation.
-  Proposed in Section 2 (For the Game Plan, Kill register): lethal force only against an active,
-  immediate threat to the lives each hierarchy ranks, pending Abad's confirmation.
+  Proposed: follows Section 2's "One shared profile or three" question. Under the recommended one
+  shared profile, a single continuous sequence; if Abad picks three profiles, three strands, one
+  per Guardian. Pending Abad's confirmation.
+- **Series window:** proposed in Section 2 (For the Game Plan, Series window): Kanja 290 to the
+  Fulfillment Ceremony, pending Abad's confirmation.
+- **Kill register:** proposed in Section 2 (For the Game Plan, Kill register): lethal force only
+  against an active, immediate threat to the lives each hierarchy ranks, pending Abad's
+  confirmation.
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the
   walkthrough plus anything new identified during profile discussion)
 - **First-entry candidates** (2-3 pitches, not one pre-committed draft):
