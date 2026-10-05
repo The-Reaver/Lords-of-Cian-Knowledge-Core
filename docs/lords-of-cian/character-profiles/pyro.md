@@ -412,7 +412,7 @@ resolved here.
     puts him at ~6; `MCD-272` at ~18. No rule locks his maturation rate (his biology is part Karesian
     via `MCD-101`, Thermal Variant, and Dhar-Kael-bonded). `CC-101` calls Abyss "the crew's youngest
     adult recruit" and says Pyro "is younger," leaving open whether Pyro counts as an adult even at
-    Book 1. Any pre-Book-1 entry set at Kanja 290-308 depicts a child or adolescent, and must be
+    Book 1. Any pre-Book-1 entry set before Kanja 308 depicts a child or adolescent, and must be
     treated under the child-safety hard stop: no sexualized content of any kind, and his involuntary
     heat surges under fear (`ARS-421`) written as a child's distress, not a weapon showcase.
 18. **The Onyx account.** `VB-062` gives every significant event in Kanja's life an Onyx account;
@@ -510,8 +510,8 @@ center of the profile.
 - **Option 3:** he knows she was the Captain's wife and has been given a different father. Cost: it
   turns `CC-079`'s "hides" into an active lie, it needs a named false father, and it adds an
   invented deception no rule supports.
-- Under every option he believes his mother is dead (under option 2, without knowing who she
-  was). That she lives, fused into the Gate (`MCD-131`),
+- Under options 1 and 3 he believes his mother is dead. Under option 2 he is told he is the ship's
+  foundling of that night and knows nothing of her. That she lives, fused into the Gate (`MCD-131`),
   stays reserved. Who aboard might know is item B6 below.
 
 **A4. Where, and by whom, he was raised (finding 20).**
@@ -530,10 +530,11 @@ center of the profile.
   pending its dating under approval-list item 2; `MCD-1565` (Sephtis aboard) pending item 38;
   `MCD-1724` (Kanja) and the Strand L entries have no dating ruling queued; Records XLVIII, CIV,
   and LII sit under item 31.
-  - Proposed: raised aboard among the founding crew (founding crew alive at Kanja 290-314 depends
-    on approval-list item 2; `MCD-1422` against `MCD-1243`, `MCD-1252`, `MCD-1408`), Pyro knows
-    the quartermaster is the Captain, resting on the `VB-065` naming precedent (which locks only
-    the "Captain" naming in the Scourge register). Cost: it sits against the Scourge's deliberate anonymity
+  - Proposed: he is raised aboard among the founding crew (founding crew alive at Kanja 290-314
+    depends on approval-list item 2; `MCD-1422` against `MCD-1243`, `MCD-1252`, `MCD-1408`).
+    Proposed: Pyro knows the quartermaster is the Captain, resting on the `VB-065` naming precedent
+    (which locks only the "Captain" naming in the Scourge register). Cost: it sits against the
+    Scourge's deliberate anonymity
     as the flagship's quartermaster (`MCD-448`, `MCD-1251`), so the circle that knows widens to
     include a child; the A3 relationship ("the Captain Pyro cooks for") rests on it.
 - **Option 2:** raised ashore at a hidden hold, joining the fleet in his teens. The corpus silence
@@ -608,7 +609,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     is kept (`MCD-022`). Proposed: Stormbreaker believes the in-world account and thinks he ended
     her. The man who raised Pyro believes he killed Pyro's mother, and Pyro trusts him completely.
     Cost: under B2's order he is present when she inverts the Gate, so the belief holds only if he
-    did not see or understand the inversion, which a new fact must supply. Support: `CC-045`'s own
+    did not see or understand the inversion, which a new fact must supply (home: a clarifying
+    clause on `CC-045`, merged with B2's; see the coordinated amendments after B4). Support: `CC-045`'s own
     framing that he "ended her body's vessel," in-world misdirection per `MCD-133`. Sorya as a
     witness to his fight rests on the Triad file's TA3 new fact (proposed).
   - **The Triad.** Bonded to him on the night he was born (`MCD-270`). Varkul holds him first by
@@ -710,19 +712,28 @@ ruling with no recommendation.
   clarifying clause on `CC-046`, `MCD-136`, and `WC-017` ("T.D.K. had installed the Living Gate").
   The clause changes `CC-046`'s and `WC-017`'s "installed" from an act of his into the effect of his
   architecture.
-- **Coordinated amendment of `CC-046`, `WC-017`, and `MCD-136`.** Several items amend the same
-  rules, listed per rule:
+- **Coordinated amendments: rules amended by more than one item.** Listed per rule; each rule gets
+  one merged amendment text at lock.
   - `CC-046`: `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), `triad-guardians.md` TA1
     ("produced"), and TA2 (the bond "completed" beforehand).
   - `WC-017`: `pyro.md` B2 ("before Pyro was born"), `pyro.md` B4 ("installed"), and
     `triad-guardians.md` TA1 ("producing").
   - `MCD-136`: `pyro.md` B4 (the curse as legacy architecture) and `triad-guardians.md` TA2 (the
     bond "completed" beforehand).
-  - `MCD-022` is amended by one item only (TA2), so it needs no merge.
-  Each of the three rules gets one merged amendment text at lock.
+  - `CC-045`: `pyro.md` B2 ("defeated" means subdued and held inside her) and the `pyro.md`
+    Stormbreaker facet (he did not see or understand the inversion).
+  - `CC-098`: `triad-guardians.md` TB12 (the real-world species comparison replaced) and TB14
+    ("never by warning" limited to path guidance).
+  - `SBD-020`: `triad-guardians.md` TB3 ("Miremaw" as the SBD's field name) and TB6 (the "living
+    preservation clause" as its own legal term).
+  - Every other rule an item in either file amends is amended by one item only, so it needs no
+    merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `CC-047`, `CC-079` (A3); `CC-005`, `MCD-1022`
+    (B16); `MCD-022`, `MCD-040` (TA2); `CC-097` (TA3); `CC-099` (TB4); `MCD-221` (TB9);
+    `MCD-320`, `CC-100`, `ARS-431` (TB10); `CC-096` (TB12); `MCD-277` (TA2 option 3, not
+    recommended). TB12's category normalization is metadata and is not counted here.
 - **B5. His mother's name, homeland, SBD recruitment, and marriage date (finding 10).** Open, for
   whenever her own material is drafted. Under A3 option 1 the marriage is private.
-- **B6. Who aboard knows she survived.** New, raised by A3. No recommendation. For Abad's ruling:
+- **B6. Who aboard knows she survived.** Raised by A3. No recommendation. For Abad's ruling:
   where this sits under the "most devastating blow" ranking and `CC-161`. Both options are a new
   fact about Kanja and touch `kanja-haku-rexmar.md`. Its Psychological Profile is confirmed for ages
   18-30, but its Long Mask track (ages 30-314, amendment of 2026-10-02) covers the birth year.
@@ -737,19 +748,21 @@ ruling with no recommendation.
       unlocked, B4). If he knows, `CC-161` is exposed: it bars anything before Book 1 from reading
       as the urge to destroy his enemies arriving early, and a wife lost to T.D.K. invites exactly
       that urge 24 years before Maro dies.
-    - The Heartline would carry the night to the sealed blade as a body signal, logged in the Dark
-      Ledger (`ARS-437`, B12).
     - Locked entries set in the birth year or after (`MCD-1246`, `MCD-814`, `MCD-813`) would carry
       that grief in silence; none shows it.
     - `kanja-haku-rexmar.md` would need a recorded line for the loss, beside the reserved wound of
       his father's death.
   - **Option (b): Kanja knows she lives, fused into the Gate, and keeps that too.** Costs: a second
     concealment beside `CC-079`, held from Pyro and from Stormbreaker; knowledge of the Gate that no
-    rule gives him; and the same three entries then carry a living wife he cannot reach, again in
-    silence. It removes the competition of a grieved death. A wife alive and out of reach for 24
-    years may still compete with the ranking, and Abad must rule whether it does. If he knows the curse is T.D.K.'s (B4), it carries the same `CC-161` exposure as
-    option (a): a wife made unreachable by T.D.K.'s curse (`CC-046`, `MCD-136`) supplies the same
-    motive for the urge to destroy his enemies, 24 years before Maro dies.
+    rule gives him; and the same three entries then carry a living wife fused into the Gate, again
+    in silence. Whether she can be reached stays reserved (Section 1, reserved threads). It removes
+    the competition of a grieved death. A living wife fused into the Gate for 24 years may still
+    compete with the ranking, and Abad must rule whether it does. If he knows the curse is T.D.K.'s
+    (B4), it carries the same `CC-161` exposure as option (a): a wife fused into the Gate by
+    T.D.K.'s curse (`CC-046`, `MCD-136`) supplies the same motive for the urge to destroy his
+    enemies, 24 years before Maro dies.
+  - Under either option, the Heartline carries the night to the sealed blade as a body signal,
+    logged in the Dark Ledger (`ARS-437`, B12).
   - Under either option, proposed if the Stormbreaker facet is confirmed: Stormbreaker believes he
     ended her, with that facet's cost (he is present at the inversion and must not have seen or
     understood it). Whether Sorya's memory holds the fusion (her survival) stays reserved under the
@@ -757,9 +770,6 @@ ruling with no recommendation.
     Sorya's showing to when he learns his father's identity, and gives its content as his own
     history. Proposed: what she shows stops short of his mother's survival, which stays reserved
     unless Abad rules otherwise.
-- **B6a. Where the Triad came from, and whose bond it is (findings 4, 5).** Handed to
-  `triad-guardians.md`, questions TA1 (made at the Gate, or an ancient clade bonded there) and TA2
-  (how the bond was completed). This file follows their rulings and asserts neither.
 - **B7. The two false SBD accounts and the Archon hook (findings 11, 12).** Stay reserved
   (`SBD-041`, `SBD-044`). Nothing in this series asserts either false account as fact.
 - **B8. Varkul's two names (finding 13).** Handled in `triad-guardians.md`, item TB3.
@@ -797,8 +807,8 @@ ruling with no recommendation.
   it, and the window's end at the Ceremony stands either way.
 - **B14. Corpus silence (finding 20).** Settled by A4 option 1, with the line-by-line check noted
   there.
-- **B15. A superseded citation in Section 1.** The 16-Avatar line now names the superseded A-6
-  ruling without its ID, so `scripts/connective_tissue_check.py` passes. No fact changed.
+- **B15. A superseded citation in Section 1.** The 16-Avatar line names the superseded A-6 ruling
+  without its ID. No fact changes.
 - **B16. How the Long Mask ends (finding 21).** For Abad's ruling, no recommendation. `MCD-1022`
   ends the span "by conscious choice" the night the coat comes off at Kanja 314; `CC-005` ends it
   at the pendant's severing, which triggers the Pi-Awakening, and `MCD-277` closes it on the Last
@@ -811,6 +821,9 @@ ruling with no recommendation.
     the Pi-Awakening after the murder, so `MCD-1022` and its eve (`MCD-1408`) would fall inside
     Book 1, against their pre-Book-1 Alias placement.
   - Under either option, this series' window ends at the Fulfillment Ceremony (B13).
+- **B17. Where the Triad came from, and whose bond it is (findings 4, 5).** Handed to
+  `triad-guardians.md`, questions TA1 (made at the Gate, or an ancient clade bonded there) and TA2
+  (how the bond was completed). This file follows their rulings and asserts neither.
 
 ### For the Game Plan
 
@@ -828,7 +841,7 @@ ruling with no recommendation.
   never a series or entry name, and the two words differ in their first letter and in sense. One
   caution: Sorya belongs to this series' own close cast, so an entry that names her Binding should
   avoid putting it beside the series name in a title.
-  - Alternative, the Suppers: zero ledger hits; near-collisions "sappers" and "Shapers" (the Maw's
+  - Alternative, the Suppers: zero ledger hits; notable near-collisions "sappers" and "Shapers" (the Maw's
     licensed Shapers, `MAW-050`).
   - Alternative, the Breakfasts: zero plural hits; the singular names the Last Breakfast
     (`MCD-277`), which would tie the series to the Long Mask's last morning, a Book 1 beat outside
@@ -865,8 +878,13 @@ ruling with no recommendation.
 
 ## 3. Game Plan
 
+- **Series name (`VB-066`):** a non-Kanja protagonist's series name is proposed at this step and
+  confirmed by Abad. From `VB-067`'s lock onward, every new entry's header carries its account type
+  and its teller.
+  Proposed in Section 2 (For the Game Plan): the Kindlings, pending Abad's confirmation.
 - **Narrator / voice:** (confirm against Voice Bible rules if one is already locked; propose one
   if not, and get it confirmed before drafting)
+  Proposed in Section 2: close-third on Pyro, no designated narrator, pending Abad's confirmation.
 - **Voice spec, gated (Abad, 2026-10-03):** name the governing voice document(s) and quote the
   rules that bind this series -- `docs/lords-of-cian/voice/voice-bible-definitive.md` (the
   narrator's own sheet, hard constraints, exclusion list) and, for any Onyx-narrated or

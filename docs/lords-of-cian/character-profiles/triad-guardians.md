@@ -425,10 +425,10 @@ Listed for decision, not resolved. Each quotes both sides with rule IDs.
       magnificens"), alongside the Norse homage labels at `CC-049` (Svadilfari), `CC-050` (Muninn),
       and `CC-051` (Huginn). The Norse labels match the project's established homage pattern; the
       taxonomic names are the only real-world scientific names in any Triad rule.
-    - Metadata: `SBD-020`/`021`/`022` still read status `"LOCKED"` (uppercase) where later fix
-      batches normalized other blocks to lowercase; Triad categories are split across
-      `character-varkul`, `character-codex`, `character-triad`, `dhar-kael-system`,
-      `sbd-triad-guardian-*`, and `sbd-classification`.
+    - Metadata: Triad categories are split across `character-varkul`, `character-codex`,
+      `character-triad`, `dhar-kael-system`, `world-dhar-kael` (`MCD-040`),
+      `sbd-triad-guardian-*`, `sbd-classification`, `sbd-institutional-error` (`SBD-045`), and
+      `sbd-protocol` (`CULT-199`, `CULT-200`).
 
 ---
 
@@ -526,7 +526,7 @@ written under the recommended answer and says where it depends on one.
 
 **TA3. What Sorya's Oath is, and what the Triad know of Pyro's history (findings 11, 12).**
 - **Option 1 (recommended): the Oath is the keeper's vow.** New fact: the Oath is the vow Pyro's
-  mother made when she keyed the bond (`MCD-022`, `MCD-136`), her intent for the child: to keep
+  mother made when she keyed the bond (`MCD-022`, `MCD-136`; TA2 option 1's keying clause), her intent for the child: to keep
   him. `CC-097` puts Sorya's deepest loyalty in "the Oath itself, not to Pyro," and this reading
   keeps that distinction, because the keeper's intent for the child can part from what the child
   himself wants. "Pyro first, the Oath second" then means the Oath overrides Pyro only when keeping
@@ -677,11 +677,10 @@ ruling with no recommendation.
   Pyro's mother in her own Shattered Kingdoms homeland" is locked false as a whole, and it can fail
   on any one of four parts: "raised," "from birth," "homeland," or "in the Shattered Kingdoms." No
   recommendation; two options, for Abad's ruling.
-  - **Option (i), a proposed new fact:** the keeper did not raise them. Support: the plainest
-    reading of `SBD-041`'s falsehood, which removes custody from the claim entirely.
+  - **Option (i), a proposed new fact:** the keeper did not raise them. Support: the claim fails on
+    "raised," which removes custody from it entirely.
   - **Option (ii), a proposed new fact:** she kept them, and the claim fails on "from birth," on
-    "homeland," or on "in the Shattered Kingdoms." Support: it sits with `MCD-040`'s "last keeper";
-    the throughline does not require custody before 290.
+    "homeland," or on "in the Shattered Kingdoms." Support: it sits with `MCD-040`'s "last keeper."
   - TA1 and TA3 stand under either option; neither depends on custody before 290. Her homeland
     stays open. Any entry quoting the file locks it only as said (`VB-067`).
 - **TB3. Varkul's two names (finding 6).** Recommended, a new fact: "Drown-Warden" is the crew's and the
@@ -698,7 +697,8 @@ ruling with no recommendation.
   Harrow Presence is the Land Form's discipline-collapse effect on groups (`CC-094`); the Harrow
   Ring is a hydrodynamic effect formed in water (`MCD-020`, `CC-095`). What the Ring does is defined
   when first drafted. A new fact: the SBD's "living preservation clause" (`SBD-020`) is its own
-  legal term, distinct from the Guardian Clause (`ARS-412`).
+  legal term, distinct from the Guardian Clause (`ARS-412`). Scope: a clarifying clause on
+  `SBD-020`, merged with TB3's (see the coordinated amendments).
 - **TB7. SBD policy against the future-opponents hook (finding 10).** Recommended, a new fact:
   opponents reach
   the Triad when the SBD loses control of its own stock, through escape, release, or Archon's
@@ -718,29 +718,39 @@ ruling with no recommendation.
     unrelated to the Tide-Back Coursers. Cost: a standing name collision between a T.D.K. asset
     and Varkul's species, which project practice normally renames. Because of that cost, the rename
     is the clearly better option.
-  - A new fact: the Dhar-Kael cartilage in `CC-100` and `ARS-431` is read like `ARS-355`, as old
-    stockpiled material. Only `ARS-355` says so; `CC-100` and `ARS-431` state no source.
+  - Recommended, a new fact: the Dhar-Kael cartilage in `CC-100` and `ARS-431` is read like `ARS-355`, as old
+    stockpiled material. Only `ARS-355` says so; `CC-100` and `ARS-431` state no source. Scope:
+    clarifying clauses on `CC-100` and `ARS-431`.
 - **TB11. Avatar status against the Talisman's effect on the bond (finding 15).** Recommended, a new
   fact: the Talisman's output endangers only the imprint itself, and the sealed bond is unaffected
   after it (`MCD-270` covers only the bonding). Once the bond was sealed, the three came under the
   Umbrella like any Avatar (`MCD-140`).
 - **TB12. Real-world names and metadata (finding 16).** Recommended: `CC-096`'s and `CC-098`'s
-  real-world species comparisons are replaced with in-world size statements; the status casing and
-  category tags are normalized.
-- **Coordinated amendment of `CC-046`, `WC-017`, and `MCD-136`.** Several items amend the same
-  rules, listed per rule:
+  real-world species comparisons are replaced with in-world size statements; the category tags are
+  normalized.
+- **Coordinated amendments: rules amended by more than one item.** Listed per rule; each rule gets
+  one merged amendment text at lock.
   - `CC-046`: `pyro.md` B2 (order of events), `pyro.md` B4 ("installed"), `triad-guardians.md` TA1
     ("produced"), and TA2 (the bond "completed" beforehand).
   - `WC-017`: `pyro.md` B2 ("before Pyro was born"), `pyro.md` B4 ("installed"), and
     `triad-guardians.md` TA1 ("producing").
   - `MCD-136`: `pyro.md` B4 (the curse as legacy architecture) and `triad-guardians.md` TA2 (the
     bond "completed" beforehand).
-  - `MCD-022` is amended by one item only (TA2), so it needs no merge.
-  Each of the three rules gets one merged amendment text at lock.
-- **TB13. The Oath-Raptor's name.** New. Varruk's species is the Oath-Raptor (`MCD-040`), and Sorya,
+  - `CC-045`: `pyro.md` B2 ("defeated" means subdued and held inside her) and the `pyro.md`
+    Stormbreaker facet (he did not see or understand the inversion).
+  - `CC-098`: `triad-guardians.md` TB12 (the real-world species comparison replaced) and TB14
+    ("never by warning" limited to path guidance).
+  - `SBD-020`: `triad-guardians.md` TB3 ("Miremaw" as the SBD's field name) and TB6 (the "living
+    preservation clause" as its own legal term).
+  - Every other rule an item in either file amends is amended by one item only, so it needs no
+    merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `CC-047`, `CC-079` (A3); `CC-005`, `MCD-1022`
+    (B16); `MCD-022`, `MCD-040` (TA2); `CC-097` (TA3); `CC-099` (TB4); `MCD-221` (TB9);
+    `MCD-320`, `CC-100`, `ARS-431` (TB10); `CC-096` (TB12); `MCD-277` (TA2 option 3, not
+    recommended). TB12's category normalization is metadata and is not counted here.
+- **TB13. The Oath-Raptor's name.** Not tied to a Section 1 finding. Varruk's species is the Oath-Raptor (`MCD-040`), and Sorya,
   an Apex-Feline, is the Guardian bound to the Oath (`CC-097`). Recommended: no change now, and a
   one-line explanation of the species names when the clade's history is first drafted.
-- **TB14. Varruk's two ways of signalling danger.** New, raised in review. `CC-098` says Guidance by
+- **TB14. Varruk's two ways of signalling danger.** Not tied to a Section 1 finding. `CC-098` says Guidance by
   Refusal "communicates danger by refusing to land on or fly a given path, never by warning";
   `ARS-413` says his everyday register includes "growls signal danger." Recommended reading: the
   two rules cover different scopes. Guidance by Refusal governs path guidance (where to go and where
@@ -769,7 +779,7 @@ ruling with no recommendation.
     the Weeding Trials (`ASH-036`), Death-Impression Reading (`MCD-142`), Standing Order 44-B
     (`MCD-247`), and Re-Tuning (`MCD-146`, through its component "Tuning"; the whole hyphenated
     token sits at distance 5). "Binding" names Sorya's Binding (`CC-097`).
-  - Judgment, re-run honestly: no real collision. Every near match is a common "-ing" word, used
+  - Judgment: no real collision. Every near match is a common "-ing" word, used
     alone or as one word inside a longer name, and none reads as "Tending" on the page. Sorya's
     Binding is the one to keep apart in titles, the same caution as for Pyro's Kindlings. One flag: if both series names are adopted, the Kindlings and the Tendings
   rhyme, which pairs them on purpose or reads as a near-repeat; Abad's call.
@@ -789,9 +799,9 @@ ruling with no recommendation.
   the Talisman Remembered" (`MCD-713`) and "The Ledger Keeper's Slowing Hand" (`MCD-1502`); the
   Meridian Register's clearinghouse and chapter Keepers (`CULT-081`, `CULT-084`, `CULT-094`); and
   the Domus Inviolate's Keeper cabinets (`CULT-036`, `CULT-187`, `CULT-188`, `CULT-189`). In all,
-  23 ledger statements carry a capitalized Keeper form. Re-judged: this is a real overlap. "Keeper"
+  23 ledger statements carry a capitalized Keeper form. Judgment: this is a real overlap. "Keeper"
   is a crowded title across the cults, Ashkeel, and the fleet's own history, and the Memory Keeper
-  sits on the same idea. Hence the Tendings above.
+  sits on the same idea, so the Tendings is proposed in its place.
   - Alternative, the Witnesses: an ordinary word in 15 ledger statements (15 occurrences). It
     overlaps Sorya's named Witness-Scouting and Witness Shriek (`CC-096`, `ARS-414`), and Lauris's
     Records already name a strand "Witness" (Strand W, `lauris-letitia.md`).
@@ -833,11 +843,37 @@ ruling with no recommendation.
 
 ## 3. Game Plan
 
-- **Narrator / voice:**
-- **Voice spec, gated (Abad, 2026-10-03):**
-- **Pacing convention:**
-- **Reserved threads for this series:**
-- **First-entry candidates:**
+- **Series name (`VB-066`):** a non-Kanja protagonist's series name is proposed at this step and
+  confirmed by Abad. From `VB-067`'s lock onward, every new entry's header carries its account type
+  and its teller.
+  Proposed in Section 2 (For the Game Plan): the Tendings, pending Abad's confirmation.
+- **Narrator / voice:** (confirm against Voice Bible rules if one is already locked; propose one
+  if not, and get it confirmed before drafting)
+  Proposed in Section 2: objective third person with no interiority, no designated narrator,
+  pending Abad's confirmation and its own Voice Bible ruling.
+- **Voice spec, gated (Abad, 2026-10-03):** name the governing voice document(s) and quote the
+  rules that bind this series -- `docs/lords-of-cian/voice/voice-bible-definitive.md` (the
+  narrator's own sheet, hard constraints, exclusion list) and, for any Onyx-narrated or
+  Onyx-voiced passage, `docs/lords-of-cian/voice/voice-progression-sheet.md`, with the Phase
+  that governs each entry's in-world age stated explicitly. Every draft gets a voice check
+  against this spec (sentence length, articles, tense, naming, verdict register, banned words
+  and structures, dialogue 50% rule) before it is presented to Abad; a draft that fails is
+  redrafted, not presented with the failures listed. For Onyx, the standing rulings are locked at
+  `VB-063`, and `scripts/onyx_voice_check.py` must report PASS on every line for a Phase 4 entry;
+  the final test is reading the draft beside the "ONYX:" coda in
+  `docs/lords-of-cian/chronicles/chronicle-viii-the-ash-wharf-massacre.md` -- if it is not
+  recognizably the same instrument, it is redrafted.
+- **Connective-tissue gate, mandatory (Abad, 2026-10-03):** every draft for this series passes
+  the third non-negotiable rule in `CLAUDE.md` before it is presented. That means
+  `scripts/connective_tissue_check.py` exits 0, an independent reviewer reads the draft against
+  every rule the script lists, any changed fact is propagated everywhere it is stated, and the
+  draft is presented with a connective-tissue note. The Section 1 findings above must be resolved
+  or queued before this gate clears.
+- **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
+  character's life/role actually calls for a split)
+- **Reserved threads for this series** (deliberately not touched yet, carried over from the
+  walkthrough plus anything new identified during profile discussion)
+- **First-entry candidates** (2-3 pitches, not one pre-committed draft):
   1.
   2.
   3.
