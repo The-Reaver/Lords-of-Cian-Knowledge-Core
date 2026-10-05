@@ -529,7 +529,8 @@ Record CX and pending its own lock.
   - Exclusion List: *"BANNED STRUCTURES: Balanced antithesis clauses. 'Not only X but also Y.'
     'While X is true, Y is also true.' Rhetorical balance of any kind."* *"BANNED NARRATION:
     Characters explaining their powers to the reader... Info-dumps."* Dialogue follows Pillar 3
-    (the 50% rule, no phatic lines, understatement for humor).
+    (the 50% rule, no phatic lines; humor through irony and understatement outside a told account,
+    and in one as broad as `VB-004` as amended, Batch 377, allows; Fermand keeps his own sheet).
   - **Compliance spot-check of the existing 109 entries (findings only; no files changed):**
     1. *Contractions* — effectively clean. Two in narration across 109 files: Record LIII
        ("doesn't often") is a genuine slip; Record CVIII ("I'll show you") is a remembered line set off

@@ -34,7 +34,7 @@ It sits under three rules and never loosens any of them.
     Account never serves as the trace against another Comrade Account.
   - **The reserved-rule bar.** No teller asserts, implies, foreshadows, or references what a
     reserved rule forbids.
-- **`VB-068`** (proposed) binds this standard to those rules and adds, among its clauses, one bar of its own: "No new entry
+- **`VB-068`** binds this standard to those rules and adds, among its clauses, one bar of its own: "No new entry
   or new scene, Series narration included, states a fact about an institution that no locked rule
   holds; the reliable narration of a locked entry, cited by its rule ID (or of manuscript Chronicles
   I-VIII, cited by number), counts as held. Such a fact
@@ -51,8 +51,9 @@ It sits under three rules and never loosens any of them.
   sentence of every account, and so do the track rulings `VB-063` (Onyx), `VB-022` (Red Beard's
   Testaments), `VB-064` (Lauris's Records), `VB-065` (Anirak's Collections) and `VB-020` (the
   close-third Alias entries, Rolls and Annals), with `CC-034` and `VB-024` for Ezio's Exhibits. That means no
-  phatic talk, the 50% dialogue cut, humor limited to irony and understatement (`VB-004`), no
-  balanced antithesis, none of the banned words or borrowed terms, and the Density Spike never
+  phatic talk; the 50% dialogue cut; dialogue humor limited to irony and understatement outside a
+  told account (`VB-004`), and in one as broad as `VB-004` as amended (Batch 377) allows; no
+  balanced antithesis; none of the banned words or borrowed terms; and the Density Spike never
   named. Section 2.0 shows how real talk survives those constraints.
 - **The Connective-Tissue Gate** (CLAUDE.md, third rule) checks every account before Abad sees it.
   Section 7 is this standard's half of that gate.
@@ -95,13 +96,11 @@ in its filler words.
   more.
 - **R0.4 Vernacular lives in rhythm and in genre moves, never in phonetic spelling.** [CRAFT]
   Signifying, ritual insult, call and response, and the toast carry the homage World's registers.
-  Each is written through deadpan irony and understatement only (`VB-004`): the insult arrives flat
-  and short, and the toast leaves its biggest claim unsaid. Mainline tellers carry dock, forge, and
+  The toast is a long rhymed narrative of a badman's or trickster's exploits. In characters' talk in
+  a told account, each may run as broad as `VB-004` as amended (Batch 377) allows; otherwise each is
+  written through irony and understatement only (`VB-004`). Mainline tellers carry dock, forge, and
   Maw idiom under the same limit.
   - *"Heard you rowed against the tide. Tide's still here."*
-  - Abad ruled at `VB-068`'s lock that these registers may run broader in told accounts. The
-    broader registers apply once the `VB-004` amendment that sets them out locks. Until then,
-    `VB-004` holds.
 - **R0.5 Banned words stay banned inside a told story.** Oaths and church talk use other words: a
   teller swears on kin, on bread, on a name.
 - **R0.6 Iron and Rust belong to Onyx (`VB-021`).** A civilian teller passes judgment in their own
@@ -193,7 +192,8 @@ in its filler words.
   - A second story that matches the topic but misses the point shows that the listener
     misunderstood or is absorbed in himself.
 - **R15. Rounds escalate in brag zones.** [STRONG; 06 §2.4, §3] Each round tops the last with a
-  larger claim told in a flatter voice, through irony and understatement only (`VB-004`).
+  larger claim (in a told account, as broad as `VB-004` as amended, Batch 377, allows; otherwise
+  irony and understatement, `VB-004`).
 
 ### 2.6 Voices and tense
 
@@ -208,8 +208,8 @@ in its filler words.
 ### 2.7 Performance and tuning
 
 - **R18. Performance is a frame.** [MODERATE; 01 F9] It is keyed by a formula opener, a modesty
-  disclaimer before a polished telling, and a dry, understated line left a beat to land
-  (`VB-004`). Polish is evidence of repetition, so a performed story is livelier and less reliable
+  disclaimer before a polished telling, and a line left a beat to land (in a told account, as
+  broad as `VB-004` as amended, Batch 377, allows; otherwise irony and understatement, `VB-004`). Polish is evidence of repetition, so a performed story is livelier and less reliable
   at once.
 - **R19. The audience shapes the telling, and the telling reshapes memory.** [STRONG; 05 F7; †Marsh
   2007, Higgins & Rholes 1978, Echterhoff et al. 2005, Dudukovic et al. 2004 pages, Tversky & Marsh
@@ -744,7 +744,7 @@ Index (optional): [subject card] [cross-reference -- may point to nothing in the
 
 - **Sovereign Trust variant.**
   - The public record is cried aloud: the false Rookery record (`MCD-1566`), read by a Trust crier
-    (`MCD-1573`). The form of that notice is **[NAME NEEDED: N12]**.
+    (`MCD-1573`). Common speech calls a posted Trust notice the posted bill (`LEX-012`); no rule sets its form.
   - Scrip debt is a Metabolic Tether to the Central Ledger (`WC-007`), which Scrip transaction value
     also enters (`MAW-096`). Trust records carry phantom orders the Trust processes as its own
     (`MCD-271`), a Dossier that records a command it never truly issued.
@@ -969,13 +969,13 @@ closed.
   1967]
 
 **Drift**
-- Comic stories grow, each telling a larger claim in a drier voice: irony and understatement only
-  (`VB-004`). The bloodiest version wins (R22).
+- Comic stories grow, each telling a larger claim (in a told account, as broad as `VB-004` as
+  amended, Batch 377, allows; otherwise irony and understatement, `VB-004`). The bloodiest version wins (R22).
 - The room's shared grudge polishes the story; in a room that hates the Trust, it becomes "the
   Trust's men ran" [STRONG; 02 F3; †Bartlett 1932].
 
 **Venues, mainline Cian**
-- Category word: **[NAME NEEDED: N1]**. Canon uses "tavern" and "inn" as generic words.
+- Category word: tapstead (`LEX-001`). Canon uses "tavern" and "inn" as generic words.
 - The Anchor and Anvil: the early Rebellion's room, with a back room, a long table, and tea. It
   appears in manuscript Chronicles III, VI and VIII and has no ledger rule. Its trade is unstated in
   canon; a lock would fix it (companion draft part (c), item 3).
@@ -986,22 +986,22 @@ closed.
 - The inn at Greyfen, where Draconis hears that story (`MCD-1886`).
 - Tavern doors as notice boards (manuscript Chronicle VI).
 - Tavern basements as the lowest Pits (`MAW-142`).
-- Named taverns: **[NAME NEEDED: N2a]** (dockside), **[NAME NEEDED: N2b]** (foundry district),
-  **[NAME NEEDED: N2c]** (Maw-side).
+- Named taverns: the Slack Hawser (`LEX-002`) (dockside), the Tallow Lamp (`LEX-003`) (foundry district),
+  the Last Bell (`LEX-004`) (Maw-side).
 
 **Venues, homage World**
 - The room above the dockside cantina (`MCD-337`).
 - The bar where Ohun's stray projectile finds the wall (`PH2-030`).
-- A named bar: **[NAME NEEDED: H1]**.
-- An after-hours spot: **[NAME NEEDED: H2]**.
-- A social club: **[NAME NEEDED: H4]**.
+- A named bar: the Shekere (`LEX-015`).
+- An after-hours spot: kibanda (`LEX-016`).
+- A social club: egbe (`LEX-018`).
 - No broadcast media or firearms in the room (`PH2-049`).
 - Spanish may appear as spoken phrase (`MCD-337`); invented names never draw on it (`PH2-034`,
   `PH2-061`). Confirmed by Abad at `VB-068`'s lock.
 
 **Ashkeel**
-- Mortal enemies drink in the same halls under the Council peace (`ASH-011`). The everyday hall is
-  **[NAME NEEDED: A1]**.
+- Mortal enemies drink in the same halls under the Council peace (`ASH-011`). The everyday hall is a
+  brazier-house (`LEX-025`).
 - See M13 for its restrictions.
 
 ### M2. The corner, its crew, runners and lookouts
@@ -1046,8 +1046,8 @@ closed.
 - Payout sizes, the luck of named people, money made, fights won.
 
 **Venues, mainline Cian**
-- The gathering spot and its regulars: **[NAME NEEDED: N14]**.
-- Lookout: **[NAME NEEDED: N15]**.
+- The gathering spot and its regulars: the pump and the pump-lads (`LEX-013`).
+- Lookout: a whistler (`LEX-014`).
 - Whether unlicensed bets run through runners to an unlicensed Reckoner is **[RULE NEEDED]**:
   `MAW-086` charters Reckoners under a Trust Revenue Council state charter, so an unlicensed one is
   itself a fact no locked rule holds. Name candidates for the runner, for when it is locked, at N16.
@@ -1055,7 +1055,7 @@ closed.
   - laundry runners and laundry-guild children (`MCD-1574`, `MCD-1887`)
   - Daba's couriers and safehouses
   - the Weregildd's blind couriers (`WGD-003`)
-  - canal-district gambling houses (`MCD-402`), the category word being **[NAME NEEDED: N10a]**,
+  - canal-district gambling houses (`MCD-402`), the category word being dice-house (`LEX-010`),
     and a named house **[NAME NEEDED: N10b]**
   - waystations (`MCD-1622`)
 
@@ -1065,10 +1065,10 @@ closed.
 - The Downtown Combine (`PH2-013`).
 - The stoop.
 - Sankofa's dice games (`MCD-1023`, `MCD-1092`).
-- Gaps:
-  - corner and crew **[NAME NEEDED: H9]**
-  - lookout **[NAME NEEDED: H8]**
-  - street game **[NAME NEEDED: H10]**
+- Street words:
+  - corner and crew: pembe (`LEX-020`)
+  - lookout: oju (`LEX-019`)
+  - street game: kete (`LEX-021`)
 - Whether Policy has runners, slips, and banks is **[RULE NEEDED]**: `PH2-003` and `PH2-011` to
   `PH2-013` hold none of the three. Name candidates for when it is locked: runner at H5, slip at H6,
   Policy bank at H7.
@@ -1113,7 +1113,7 @@ closed.
 
 **Venues, homage World**
 - Areíto's barbershop back room (`MCD-339`).
-- The general word: **[NAME NEEDED: H3]**.
+- The general word: kinyozi (`LEX-017`).
 - Its argument-as-deliberation register suits Kwame Ade's and Eri Kotoko's public friction
   (`PH2-008`, `MCD-357`).
 
@@ -1145,7 +1145,8 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 - Taboo: fear, tenderness, doubt in the group's values.
 
 **Open / close**
-- *Open:* an insult that means welcome, said flat and understated (`VB-004`).
+- *Open:* an insult that means welcome (in a told account, as broad as `VB-004` as amended,
+  Batch 377, allows; otherwise irony and understatement, `VB-004`).
 - *Close:* a call to the Slab, the watch, or the line.
 
 **Challenge**
@@ -1160,7 +1161,7 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 **Venues, mainline Cian: Maw backstage**
 - Service tunnels, staging areas, holding cells, armories, and the Triage Station (`MAW-064`,
   `MAW-065`).
-- The fighters' waiting room: **[NAME NEEDED: N5]**.
+- The fighters' waiting room: the Sweat (`LEX-007`).
 - Handler crews (`MAW-077`).
 - Low-supervision hours, when Ritual Encoding is taught orally, are the truest locker-room talk in
   canon (`MAW-078`). That talk is a hidden fact zone: coded Brand-Line content inside what Shapers
@@ -1172,11 +1173,11 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 - Barracks: dredge-line and company barracks (Kanja-era entries); the guardhouse and practice yard
   (Ozmund's track).
 - Crew: the crew training hall (`MCD-1459`); the forecastle and galley.
-- The crew's own word for its mess: **[NAME NEEDED: N4]**.
+- The crew's own word for its mess: the Trough (`LEX-006`).
 
 **Venues, homage World**
 - The plant floor's changing room and the ball-yard bench.
-- The sport itself is **[NAME NEEDED: H11]**.
+- The sport itself is ulli (`LEX-022`).
 
 ### M5. The crowd at a Maw bout or a homage-World game
 
@@ -1229,14 +1230,14 @@ same man says different things to the room and alone [STRONG; 06 §2.4].
 - Whether Reckoners take wagers at a booth is **[RULE NEEDED]**; name candidates at N6.
 - Whether a wager is recorded on a slip given to the bettor is **[RULE NEEDED]**; name candidates
   at N7.
-- Crowd slang for a fighter: **[NAME NEEDED: N8]**. For a bout: **[NAME NEEDED: N9]**.
+- Crowd slang for a fighter: a hewer (`LEX-008`). For a bout: a bell (`LEX-009`).
 - The bell is held in locked narration: "a floor before the bell," "No second bell" (`MCD-1886`).
 - Pits by tier (`MAW-142`, `MAW-143`).
 - Harvest-day contests at Greyfen (`MCD-1838`).
 - Banned: "arena," "gladiator," "bookmaker" (`VB-013`, `VB-050`).
 
 **Venues, homage World**
-- The street sport and its crowd: **[NAME NEEDED: H11]**.
+- The street sport and its crowd: ulli (`LEX-022`).
 
 ### M6. Family dinner
 
@@ -1287,8 +1288,8 @@ a generalization, 01 F8; †Norrick 1997]
 **Evidence:** [MODERATE; 06 §2.7]
 
 **Who and order**
-- Seniority and skill. The senior hand anchors the ritual joke, a dry line of irony or
-  understatement (`VB-004`).
+- Seniority and skill. The senior hand anchors the ritual joke (in a told account, as broad as
+  `VB-004` as amended, Batch 377, allows; otherwise irony and understatement, `VB-004`).
 
 **Group:** small knots fitted around the work. Longer sessions at meals and on watch below.
 
@@ -1301,7 +1302,8 @@ a generalization, 01 F8; †Norrick 1997]
 - Taboo: informing to management.
 
 **Open / close**
-- *Open:* ritual teasing, deadpan (`VB-004`).
+- *Open:* ritual teasing (in a told account, as broad as `VB-004` as amended, Batch 377, allows;
+  otherwise irony and understatement, `VB-004`).
 - *Close:* the return to work, a whistle.
 
 **Challenge**
@@ -1318,7 +1320,7 @@ a generalization, 01 F8; †Norrick 1997]
   Chronicle III).
 - Warehouse Twelve; the Silt Row dredge site (`MCD-621`).
 - The Portside Dockmaster's Office (`MCD-249`).
-- A dock hiring place, if one is drafted: **[NAME NEEDED: N3]**.
+- The dock hiring yard: the Call Yard (`LEX-005`).
 
 **Venues, homage World**
 - The Kazi plant line (`PH2-051`) and the count table (`MCD-1528`).
@@ -1378,8 +1380,10 @@ belief, ⚠ 09.]
 **Group:** on watch, in the forecastle, at the galley.
 
 **Turns**
-- Long turns for the yarn-teller. It is a recognized genre of tall telling, told deadpan: the
-  teller states the impossible in the flattest voice on the watch (`VB-004`).
+- Long turns for the yarn-teller. It is a recognized genre of tall telling, often told deadpan,
+  the teller stating the impossible in the flattest voice on the watch. In a told account it may
+  run as broad as `VB-004` as amended (Batch 377) allows; otherwise irony and understatement
+  (`VB-004`).
 
 **Brag / fact**
 - *Brag:* distances, storm heights, sea creatures.
@@ -1481,12 +1485,12 @@ belief, ⚠ 09.]
 - Rites at sea (`MCD-1073`).
 - The Pier Nine memorial wall (`MCD-1372`).
 - Daba's private annual reading of names (`MCD-1610`).
-- A general Cian funeral custom: **[NAME NEEDED: N11]**. It must not overwrite the crew's own
+- A general Cian funeral custom: the lykewake (`LEX-011`). It must not overwrite the crew's own
   practice.
 
 **Venues, homage World**
 - Arturo's annual remembrance (`MCD-1024`).
-- The homegoing custom: **[NAME NEEDED: H13]**.
+- The homegoing custom: ayie (`LEX-024`).
 
 ### M12. Market talk, and criers
 
@@ -1523,7 +1527,7 @@ belief, ⚠ 09.]
 - Market stalls as notice boards (manuscript Chronicle VI).
 - Trust criers reading the official record (`MCD-1573`).
 - Independent pamphlets with corrections (`MCD-638`).
-- The Trust's public-notice form: **[NAME NEEDED: N12]**.
+- Common speech for a posted Trust notice: the posted bill (`LEX-012`); no rule sets its form.
 
 **Venues, homage World**
 - Criers and hand-copied broadsheets (`PH2-049`).
@@ -1566,7 +1570,7 @@ locked house rules; CRAFT]
 
 **Venues**
 - The Promenade and its clubs (`ASH-032`, `ASH-043`, `ASH-045`).
-- Everyday halls: **[NAME NEEDED: A1]**.
+- Everyday halls: brazier-house (`LEX-025`).
 
 ### M14. The meeting: union hall, church basement, crew council
 
@@ -1604,7 +1608,7 @@ for the fit]
 - Borikén's church hall and its debt ledger (`MCD-341`).
 - Kazi's union local (`PH2-066`).
 - Hekalu's cooperative (`PH2-055`), under the caution in M6.
-- The gathering itself: **[NAME NEEDED: H12]**.
+- The gathering itself: baraza (`LEX-023`).
 - No banned words in sermon talk (R0.5).
 
 ### M15. Tribunal, interrogation, and the written telling
@@ -1706,7 +1710,9 @@ Built on 06 §3 and extended. "Memory-holder" is the S2 checker.
 
 A Comrade Account told in a brag room stays inside the Comrade bound. Its exaggeration or edge
 drift on any matter of fact locks as fact unless traced (`VB-067`, §4.1), so a Comrade teller there
-brags in judgment, feeling, and dry understatement.
+inflates a matter of fact only within `VB-067`'s Comrade bound (on a matter where a locked rule or
+reliable narration records the teller as mistaken or misled, or in secondhand relay, and traced),
+whatever the register (`VB-004` as amended, Batch 377).
 
 ---
 
@@ -1804,10 +1810,26 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
       carries more than one teller or community, they disagree (§4.4).
 14. **Voice Bible.**
     - No phatic talk; dialogue cut by half.
-    - Humor is irony and understatement only (`VB-004`). Every comic register, including R0.4,
-      R15, R18, M1, M2's funny boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and
-      M11, is written deadpan until the `VB-004` amendment Abad approved in principle at
-      `VB-068`'s lock is itself locked; after that, each runs as that amendment allows.
+    - Outside a told account, dialogue humor is irony and understatement only (`VB-004`), whatever
+      room a scene is set in. In a told account, characters' talk may use the comic registers
+      `VB-004` as amended (Batch 377) sets out, as broad as it allows. Each register `VB-068` names
+      is a comic register as ruled, in full: R0.4 (in the homage World, signifying, ritual insult,
+      call and response, and the toast, a long rhymed narrative of a badman's or trickster's
+      exploits; on Cian, dock, forge, and Maw idiom carrying any of these), R15, R18, M1, M2's funny
+      boast, M3's parting jab, M4, M7, M9, and the comic stories of M6 and M11. Any other talk this
+      standard sets out, M8's closing drink toast included, is a comic register only where its
+      purpose in the telling is laughter. For this purpose the teller's voice in a Comrade Account,
+      an Adversary Account, or a Hearsay entry counts as characters' talk, its reliability as
+      `VB-067` sets it. In a Comrade Account, the teller's own telling inflates a matter of fact
+      only within `VB-067`'s Comrade bound, traced (§4.1, item 7); talk the teller quotes from
+      others is locked only as said (`VB-067`). The 50% rule, the phatic bar, fact
+      over emotion, and every hard constraint still apply. The amendment changes no narration and no
+      Dossier text, speech quoted in a Dossier included. Each designated narrator, as narrator, as
+      teller, and as a speaking character, keeps their own sheet (`VB-021` to `VB-025`, as `VB-063`
+      and `VB-064` modify it). Every track
+      voice ruling and every character's own voice (`VB-030`) still governs that character's
+      diction, and these registers run inside it. Onyx stays under `VB-063` alone. Every such
+      register stays nonexplicit (item 17).
     - No balanced antithesis, including "not only… but also" and "while X, Y."
     - No banned words or terms (`VB-010`, `VB-013`, `VB-050`); the Density Spike unnamed; "spike"
       absent (`VB-063`).
@@ -1822,6 +1844,9 @@ the institution bar, is also checked for every Series entry in its Connective-Ti
     entry corpus, near-collisions included, and the result goes in the connective-tissue note.
 17. **Child safety.** No sexual content involving any minor, in any setting. Ashkeel is adult-only
     and non-explicit, and no character under thirty appears in or near any Ashkeel setting (M13).
+    In a told account, every comic register stays nonexplicit; sexual talk is between adults only,
+    with no minor present, addressed, or referenced, and no minor is the subject of a sexual insult,
+    boast, or story (`VB-004` as amended, Batch 377).
 
 **Presentation note.** The connective-tissue note for a non-Series account adds these lines to the
 usual four (agrees, extends, touches, names checked):

@@ -1,6 +1,6 @@
 # VB-004 amendment and the account-craft vocabulary (LEX-001 to LEX-025)
 
-*Draft for Abad's approval, 2026-10-04 (revision 16: the fifteenth independent review was clean, with optional wording polish applied). Nothing here is locked. It carries out his rulings at
+*Locked, Batch 377, 2026-10-05. Abad: "I approve batch 377" (revision 16, after a clean fifteenth independent review). It carries out his rulings at
 `VB-068`'s lock ("lock it, approve the picks, confirm all three"): the comic registers may run
 broader than `VB-004` in told accounts, set out as a `VB-004` amendment; and the approved picks from
 the naming table (`docs/lords-of-cian/drafts/2026-10-04-account-craft-names-and-rule.md`, part (b))

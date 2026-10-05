@@ -91,7 +91,7 @@ that needs a new fact is drafted and presented for approval. The gate step also 
 
 ## Rule-ID prefixes in use
 
-`MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.). Check the ledger for the next unused ID in a prefix before drafting; never guess.
+`MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`, `LEX`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.; `LEX-` was claimed 2026-10-04, Batch 377, for in-world common vocabulary and venue names, each locked as its own rule per `VB-068`). Check the ledger for the next unused ID in a prefix before drafting; never guess.
 
 ## Merge script pattern
 
@@ -4416,6 +4416,25 @@ marked unverified, so a verification pass is owed).
 - **Names.** The approved vocabulary picks lock as their own rules (drafted separately). The
   [RULE NEEDED] gaps stay open.
 Ledger at `ledger_version` 37.8, 2,696 rules, 376 batches.
+
+**Batch 377: comic registers in told accounts (`VB-004` and `VB-068` amended) and the account-craft vocabulary
+(`LEX-001` to `LEX-025`).** Abad: "I approve batch 377"
+- **The amendment.** In a told account (a Comrade Account, Adversary Account, or Hearsay entry, or a
+  storytelling scene), characters' talk may use every comic register the account craft standard sets out: each register
+  `VB-068` names in full, and any other talk where its purpose is laughter (Abad's ruling at `VB-068`'s
+  lock, its 'including' read as it stands; `VB-068` amended to record it).
+  Narration and Dossier text are unchanged. Each designated narrator keeps their own sheet, and every
+  track voice ruling still governs its characters' diction. Onyx stays under `VB-063` alone. A Comrade
+  teller inflates fact only within `VB-067`'s bound. Child-safety and Ashkeel lines are written in.
+- **The names.** `LEX-` is a new prefix for in-world common vocabulary and venue names, one rule per
+  name as `VB-068` requires: 14 mainline, 10 homage-World, 1 Ashkeel. LEX-025 fixes one hall feature,
+  a stone basin over a sealed heat-gallery with no open flame. N10b and the [RULE NEEDED] keys are
+  held.
+- **Propagation.** The standard's name markers and deadpan-only lines were updated in the same batch.
+  Sync owed: the mirrored Voice Bible's Pillar 3 humor line (`docs/lords-of-cian/voice/voice-bible-definitive.md`)
+  is a read-only copy and now differs from `VB-004` as amended; the ledger rule controls, and the
+  Drive source document is Abad's to update.
+Ledger at `ledger_version` 37.9, 2,721 rules, 377 batches.
 
 ## Separate, unrelated thread: the interactive archive app
 

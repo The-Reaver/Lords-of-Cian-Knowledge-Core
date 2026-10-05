@@ -1,6 +1,6 @@
 # VB-068 draft and account-craft naming table
 
-*Part (a) locked as `VB-068`, Batch 376 (2026-10-04). Part (b)'s approved picks lock as their own rules; nothing in part (b) is usable before then. It is the companion to
+*Part (a) locked as `VB-068`, Batch 376 (2026-10-04). Part (b)'s approved picks locked as `LEX-001` to `LEX-025`, Batch 377; N10b and the [RULE NEEDED] keys (N6, N7, N13, N16, H5, H6, H7) are held. Part (c), item 8 is resolved by `VB-004` as amended, Batch 377. Two picks locked with a change: N12 recast as common speech, 'the posted bill' (`LEX-012`); A1's brazier locked as a flameless stone basin (`LEX-025`). It is the companion to
 `docs/lords-of-cian/voice/account-craft-standard.md`, which marks every vocabulary gap as
 **[NAME NEEDED: key]**. Part (b) answers each key. Part (c) lists conflicts with locked canon,
 flagged only and not resolved.*
