@@ -35,7 +35,7 @@ AMEND = [
     ("CC-005", "Kanja's Long Mask persona lasted 284 years, ending when the Gravity-Fetter pendant was severed at "
                "the Gilded Lighthouse, triggering the Pi-Awakening.",
      "Kanja's Long Mask lasted just over 283 years, ending when the Gravity-Fetter pendant was severed at the "
-     "Gilded Lighthouse on his 314th birthday, triggering the Pi-Awakening (MCD-1901). The Scourge persona "
+     "Gilded Lighthouse on the sixth day after his 314th birthday, triggering the Pi-Awakening (MCD-1901). The Scourge persona "
      "itself is set down by his own choice on the coat night (MCD-1022), in the last month before the "
      "Fulfillment Ceremony."),
     ("CC-012", "for the entire 284-year Long Mask period.",
@@ -59,13 +59,14 @@ AMEND = [
     ("ARS-437", "Onyx reads 284 years out of his body",
      "Onyx reads just over 283 years out of his body"),
     ("MCD-272", "The Eve of Awakening (age 314) --",
-     "The Eve of Awakening (age 313, in the last days before the Fulfillment Ceremony, MCD-1901) --"),
+     "The Eve of Awakening (age 314, the day before the Pi-Awakening, MCD-1901) --"),
     ("MCD-1022", "Age 314, V4 gear, the final year of the 284-year Long Mask.",
-     "Age 313, in the last month before the Fulfillment Ceremony (MCD-1901), V4 gear, the final year of "
+     "Age 313, in the last month before the Fulfillment Ceremony (MCD-1901), V4 gear, in the last year of "
      + LM + "."),
     ("MCD-1022", "ending the span by conscious choice, deliberately left open for future material.",
      "ending the Scourge persona by conscious choice, deliberately left open for future material; the Long "
-     "Mask itself ends days later, at the pendant's severing on his 314th birthday (CC-005, MCD-1901)."),
+     "Mask itself ends later, at the pendant's severing on the sixth day after his 314th birthday (CC-005, "
+     "MCD-1901)."),
     ("MCD-1252", "building toward the Long Mask's established close (MCD-1022, age 314)",
      "building toward the Scourge persona's established close (MCD-1022, age 313)"),
     ("MCD-1255", "Age 313, V4 gear, one year before the Long Mask's already-locked close (MCD-1022, age 314).",
@@ -87,8 +88,9 @@ AMEND = [
     ("CC-110", "for 24 years", "for 23 years"),
     ("WC-022", "Book 1 The Deposed King (murder investigation -> 10-Day Interregnum -> Pi-Awakening -> Great Breach "
                "epilogue)",
-     "Book 1 The Deposed King (murder investigation -> 10-Day Interregnum, with the Pi-Awakening early in it, "
-     "on the day after the murder (MCD-1901) -> Great Breach epilogue)"),
+     "Book 1 The Deposed King (murder investigation -> 10-Day Interregnum, counted from the murder, within "
+     "which fall his 314th birthday, his decline, and the Pi-Awakening on the sixth day after that birthday "
+     "(MCD-1901) -> Great Breach epilogue)"),
 ]
 for rid in ["MCD-589", "MCD-984", "MCD-1053", "MCD-1058", "MCD-1091", "MCD-1338", "MCD-1367", "MCD-1374",
             "MCD-1381", "MCD-1386", "MCD-1419", "MCD-1506", "MCD-1510", "MCD-1511", "MCD-1515", "MCD-1518",
@@ -254,7 +256,8 @@ NOTE_APPEND = {
     C1022: " Corrected Batch 378, 2026-10-05: set at age 313, in the last month before the Fulfillment "
            "Ceremony (`MCD-1901`), so Kanja's spoken count moves from two hundred and eighty-four to two "
            "hundred and eighty-three years. The coat night ends the Scourge persona by his choice; the Long "
-           "Mask itself ends days later, at the pendant's severing on his 314th birthday (`CC-005`).",
+           "Mask itself ends later, at the pendant's severing on the sixth day after his 314th birthday "
+           "(`CC-005`, `MCD-1901`).",
 }
 
 AL = "docs/lords-of-cian/approval-list-2026-10-03.md"
@@ -271,9 +274,10 @@ ITEM1_OLD = """**1. Book 1's offset from the Sovereign Pier: 284 or 296 years?**
 """
 ITEM1_NEW = """**1. Book 1's offset from the Sovereign Pier. RESOLVED, Batch 378 (`MCD-1901`).**
 - Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on the last day
-  of his age 313. The Pi-Awakening stays on his 314th birthday (`CC-006`), the day after. The Long
-  Mask runs from the Sovereign Pier to the pendant's severing that day: "The Long Mask lasts just
-  over 283 years." The Accords are broken by the murder, one day earlier.
+  of his age 313. The Pi-Awakening stays at age 314 (`CC-006`) and comes after his 314th birthday: "the
+  Long mask has to be after his 314th birthday." The Long Mask runs from the Sovereign Pier to the
+  pendant's severing at the Awakening: "The Long Mask lasts just over 283 years." The Accords are
+  broken by the murder, a week earlier.
 - This supersedes the Batch 56 ruling that `MCD-091`'s 296 controls. Every rule, entry and doc
   that stated 284 or 296 is listed in Batch 378's note.
 """
@@ -303,23 +307,23 @@ EDITS += [
     ("docs/lords-of-cian/kanja-chronicles-production-roadmap.md", "D",
      "it ended one day too late.\"\n",
      "it ended one day too late.\"\n  [Corrected Batch 378: the quoted pitch line is kept as source wording. The Long Mask runs "
-     "just over 283 years, from the Sovereign Pier to the pendant's severing on Kanja's 314th birthday, the day after "
-     "his father's murder (`MCD-1901`).]\n", 1),
+     "just over 283 years, from the Sovereign Pier to the pendant's severing on the sixth day after Kanja's 314th "
+     "birthday, seven days after his father's murder (`MCD-1901`). The line is read as the murder falling one day "
+     "short of his 314th birthday.]\n", 1),
     ("docs/lords-of-cian/voice/voice-progression-sheet.md", "D",
      "284 years of observation have made the sword the most precise, compressed, morally absolute narrator in the series. The prose is telegraphic. Present tense dominant. Past tense used only for deep history. The narrator is ancient, patient, certain.\n",
      "284 years of observation have made the sword the most precise, compressed, morally absolute narrator in the series. The prose is telegraphic. Present tense dominant. Past tense used only for deep history. The narrator is ancient, patient, certain.\n\n"
-     "[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on Kanja's 314th birthday (`MCD-1901`).]\n", 1),
+     "[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on the sixth day after Kanja's 314th birthday (`MCD-1901`).]\n", 1),
     ("docs/lords-of-cian/voice/voice-bible-definitive.md", "D",
      "who has been pretending to be a pirate for 284 years.\n",
      "who has been pretending to be a pirate for 284 years.\n\n"
-     "[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on Kanja's 314th birthday (`MCD-1901`).]\n", 1),
-    (PR + "kanja-haku-rexmar.md", "D", "through age 314 is Trinity gear,", "through age 313 is Trinity gear,", 1),
+     "[Corrected Batch 378: the source wording above is kept. The Long Mask runs just over 283 years, from the Sovereign Pier to the Pi-Awakening on the sixth day after Kanja's 314th birthday (`MCD-1901`).]\n", 1),
     (PR + "kanja-haku-rexmar.md", "D", "The 284-year Long\n  Mask that follows comprises",
      "The Long Mask that\n  follows, lasting just over 283 years (`MCD-1901`), comprises", 1),
     (PR + "kanja-haku-rexmar.md", "D", "The Long Mask persona runs 284 years, ending when the Gravity-Fetter pendant",
      "The Long Mask runs just over 283 years (`MCD-1901`), ending when the Gravity-Fetter pendant", 1),
     (PR + "kanja-haku-rexmar.md", "D", "  birthdays (\"Day 0\" = age 314).\n",
-     "  birthdays (\"Day 0\" = age 314), the day after his father's murder at age 313 (`MCD-1901`).\n", 1),
+     "  birthdays (\"Day 0\" = age 314), on the sixth day after his 314th birthday (`MCD-1901`).\n", 1),
     (PR + "kanja-haku-rexmar.md", "D", "for the entire 284-year Long\n  Mask that follows.",
      "for the entire Long Mask\n  of just over 283 years that follows.", 1),
     (PR + "kanja-haku-rexmar.md", "D", "everything in this walkthrough (ages 18–314) sits *before* it.",
@@ -331,7 +335,7 @@ EDITS += [
      "unable to stand unaided on bad days by 300 (`MCD-260`/`262`/`271`). The cause is the Governor's\n"
      "  Shackle, which Kanja and the crew read as age (`MCD-1903`); no entry confirms that he is aging out.\n", 1),
     (PR + "kanja-haku-rexmar.md", "D", "plus the Eve of Awakening/Pi-Awakening at 314\n  (`MCD-272`, `MCD-1022`),",
-     "plus the coat night and the Eve of\n  Awakening (both age 313, `MCD-1022`, `MCD-272`), the Pi-Awakening on his 314th birthday (`MCD-1901`),", 1),
+     "plus the coat night (age 313, `MCD-1022`), the Eve of\n  Awakening (age 314, after the murder, `MCD-272`) and the Pi-Awakening (age 314, the sixth day after his\n  birthday, `MCD-1901`),", 1),
     (PR + "alias-captain.md", "D", "Kanja's Long Mask persona begins and runs 284 years, ending",
      "Kanja's Long Mask persona begins and runs just over 283 years (`MCD-1901`), ending", 1),
     (PR + "alias-captain.md", "D", "Machete for the 284-year Long Mask that followed.",
@@ -358,8 +362,8 @@ EDITS += [
      "    Fulfillment Ceremony is the open 284-versus-296 question on the approval list. The launch wave stays strictly",
      "The launch wave ends before the Fulfillment Ceremony (the last day of Kanja's age\n"
      "    313, `MCD-1901`), so the Scourge persona governs every entry until the coat comes off (`MCD-1022`,\n"
-     "    Kanja 313). The Long Mask itself ends the day after the Ceremony, at the pendant's severing on his\n"
-     "    314th birthday (`CC-005`). The launch wave stays strictly", 1),
+     "    Kanja 313). The Long Mask itself ends seven days after the Ceremony, at the pendant's severing on the\n"
+     "    sixth day after his 314th birthday (`CC-005`, `MCD-1901`). The launch wave stays strictly", 1),
     (PR + "anirak.md", "D", "- Era: late Long Mask, by Kanja 314, within the last ~29 years before Book 1.",
      "- Era: late Long Mask, by Kanja 313, within the last ~29 years before Book 1.", 1),
 ]
@@ -434,11 +438,14 @@ def main():
         "note": ("The Long Mask, the Sovereign Pier Accords and Book 1 on one clock (resolves approval-list item 1; "
                  "supersedes the Batch 56 ruling that MCD-091's 296 controls). Abad, 2026-10-05: 'Kanja is 313 years "
                  "old when his father dies'; 'The Pact was broken that day... so it really lasted 283 years'; 'Yes the "
-                 "long mask ends there'; 'The Long Mask lasts just over 283 years.' MCD-1901 locks the clock: the "
-                 "murder on the last day of Kanja's age 313, the Pi-Awakening on his 314th birthday (unchanged), the "
-                 "Pier 30 days before his 31st birthday, the Accords 283 years and 29 days, the Long Mask 283 years "
-                 "and 30 days, and the late-Scourge placements. MCD-1902 locks the Book 1 beat (the Accords broken; "
-                 "the Trinity reclaimed at the Karkosa Heist). MCD-1903 locks the aging misconception. Amended: "
+                 "long mask ends there'; 'The Long Mask lasts just over 283 years'; 'the Long mask has to be after his "
+                 "314th birthday'; 'shortly after his birthday he starts feeling worse and worse it seems he's on his "
+                 "death bed and then that's when it happens.' MCD-1901 locks the clock: the murder on the last day of "
+                 "Kanja's age 313, the Pi-Awakening at age 314 (unchanged) on the sixth day after his 314th birthday, "
+                 "the Pier 30 days before his 31st birthday, the Accords 283 years and 29 days, the Long Mask 283 "
+                 "years and 36 days, and the late-Scourge placements. MCD-1902 locks the Book 1 beat (the Accords "
+                 "broken; the Trinity reclaimed at the Karkosa Heist). MCD-1903 locks the aging misconception, "
+                 "culminating in the deathbed state after his 314th birthday. Amended: "
                  + ", ".join(sorted(amended)) + ". Files carried: " + ", ".join(files)
                  + f". Abad's approval, verbatim: \"{approval}\"."),
     })
@@ -455,18 +462,23 @@ def main():
     c = c.replace(anchor, anchor + f"""
 **Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1903`).** Abad: "{approval}"
 - **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
-  the last day of his age 313. The Pi-Awakening stays on his 314th birthday, the day after. The Long
-  Mask runs from the Sovereign Pier to the pendant's severing that day, "just over 283 years." The
-  Accords end with the murder. This resolves approval-list item 1 and supersedes the Batch 56 ruling
-  that `MCD-091`'s 296 controls.
+  the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
+  his 314th birthday": it falls on the sixth day after that birthday, the eighth day of the 10-Day
+  Interregnum counting the murder day as day 1 (a proposed fact). The Long Mask runs from the
+  Sovereign Pier to the pendant's severing at the Awakening, "just over 283 years." The Accords end
+  with the murder. This resolves approval-list item 1 and supersedes the Batch 56 ruling that
+  `MCD-091`'s 296 controls.
 - **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday. The Accords held 283
-  years and 29 days, the Long Mask 283 years and 30 days. The late-Scourge entries are placed on it:
-  "one more year" at 312, the coat night at 313 before the Ceremony. The Scourge persona ends at the
-  coat night; the Long Mask ends at the pendant.
+  years and 29 days, the Long Mask 283 years and 36 days. The late-Scourge entries are placed on it:
+  "one more year" at 312, the coat night at 313 before the Ceremony, the Eve of Awakening at 314 on
+  the day before the Awakening. The Scourge persona ends at the coat night; the Long Mask ends at the
+  pendant.
 - **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. After the
   Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. Reserved to Book 1.
-- **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. The
-  Pi-Awakening shows him otherwise.
+- **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. After his
+  314th birthday the decline culminates in a deathbed state in which he believes he is dying; the
+  Pi-Awakening releases the Shackle and shows him that the feeling was the Shackle. How enemies reach
+  him on the deathbed stays open.
 - **Propagation.** {len(amended)} rule statements amended; {n_entries} entries and {n_docs} docs carried,
   including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The voice
   mirrors and the pitch line keep their source wording, with a bracketed note. Owed to the Pyro/Triad
