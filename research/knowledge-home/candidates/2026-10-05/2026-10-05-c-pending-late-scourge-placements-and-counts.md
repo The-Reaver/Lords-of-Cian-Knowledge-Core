@@ -1,4 +1,7 @@
 # Pending approval: the draft places the late Scourge entries inside age 313's last weeks and recomputes three Onyx seconds-counts from the new Pier date.
+
+Superseded 2026-10-05 by Batch 378 draft revision 3: the Pier is confirmed by Abad at 30 days before his 31st birthday; an anniversary of N whole years falls at age 30 + N, 30 days before his (31 + N)th birthday; the Long Mask ends on the sixth day after his 314th birthday (283 years and 36 days); the Eve of Awakening stays at age 314; MCD-1246, MCD-1252 and MCD-1253 also gain placement notes in the last 30 days of ages 290, 308 and 310.
+
 - id: 2026-10-05-c-pending-late-scourge-placements-and-counts
 - type: finding
 - status: candidate

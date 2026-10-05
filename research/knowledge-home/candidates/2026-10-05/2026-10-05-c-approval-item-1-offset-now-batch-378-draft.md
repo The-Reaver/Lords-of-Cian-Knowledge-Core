@@ -1,4 +1,7 @@
 # The 284-versus-296 question on Book 1's offset from the Sovereign Pier is the foundation item, and the Batch 378 draft is the unlocked proposal to resolve it.
+
+Superseded 2026-10-05 by Batch 378 draft revision 3: the murder is the last day of Kanja's age 313, the Pi-Awakening falls on the sixth day after his 314th birthday (confirmed by Abad), the Long Mask runs just over 283 years (283 years and 36 days) and ends at the pendant's severing, and the Pier is 30 days before his 31st birthday (confirmed by Abad).
+
 - id: 2026-10-05-c-approval-item-1-offset-now-batch-378-draft
 - type: finding
 - status: candidate

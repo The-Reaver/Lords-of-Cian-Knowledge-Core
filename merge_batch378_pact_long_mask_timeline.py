@@ -100,9 +100,9 @@ for rid in ["MCD-589", "MCD-984", "MCD-1053", "MCD-1058", "MCD-1091", "MCD-1338"
     AMEND.append((rid,) + BOILER)
 # Correction notes appended to rules whose entries' counts or placements change in this batch.
 APPEND = {
-    # Proposed change to Book 1's structure (the clause is Abad-approval-dependent, like the rest of the batch).
+    # Change to Book 1's structure; awaiting Abad's confirmation (see the draft head).
     "MCD-070": " The Investigation opens at the murder and runs on through the Interregnum, which opens the next "
-               "day (MCD-1901); the acts are narrative movements, not consecutive spans.",
+               "day (MCD-1901); the acts are narrative movements and overlap in time.",
     "MCD-1883": " Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date "
                 "(MCD-1901), 791,942,400 to 762,998,400 seconds (24 years and 71 days); the age and the moment "
                 "within it are unchanged.",
@@ -281,8 +281,7 @@ NOTE_APPEND = {
 }
 
 BRACKET = ("[Added Batch 378 (`MCD-070` amended): the Investigation opens at the murder and runs on through the "
-           "Interregnum, which opens the next day (`MCD-1901`); the acts are narrative movements, not consecutive "
-           "spans.]")
+           "Interregnum, which opens the next day (`MCD-1901`); the acts are narrative movements and overlap in time.]")
 AL = "docs/lords-of-cian/approval-list-2026-10-03.md"
 ITEM1_OLD = """**1. Book 1's offset from the Sovereign Pier: 284 or 296 years?**
 - **Recommend 284, so Kanja is 314 at Book 1.** 296 is arithmetically impossible: it would put the
@@ -381,8 +380,8 @@ EDITS += [
      "epilogue (The Great Breach, SBD uncovered). " + BRACKET, 1),
     ("docs/lords-of-cian/master-to-do-list.md", "D", "early in the 10-Day Interregnum.",
      "early in the 10-Day Interregnum. [Batch 378 note: the Pi-Awakening falls on the sixth day after his 314th "
-     "birthday (confirmed by Abad); on the proposed counting of `MCD-1901` that is the seventh day of the "
-     "Interregnum.]", 1),
+     "birthday (confirmed by Abad); with the Interregnum opening on that birthday (`MCD-1901`), that is the "
+     "seventh day of the Interregnum.]", 1),
     (PR + "anirak.md", "D",
      "The launch wave ends with the Long Mask at Kanja 314 (`MCD-1022`), so the Scourge\n"
      "    persona governs every entry. Whether any gap lies between the Long Mask's end and the\n"
@@ -494,7 +493,7 @@ def main():
 - **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
   the last day of his age 313. The Pi-Awakening stays at age 314, and "the Long mask has to be after
   his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
-  Obsidian Malice, six days works"). The 10-Day Interregnum is proposed to open on that birthday, which
+  Obsidian Malice, six days works"). The 10-Day Interregnum opens on that birthday, which
   makes the Awakening its seventh day. The Long Mask runs from the Sovereign Pier to the pendant's
   severing at the Awakening, "just over 283 years." The Accords end with the murder. This resolves
   approval-list item 1 and supersedes the Batch 56 ruling that `MCD-091`'s 296 controls.
