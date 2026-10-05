@@ -129,7 +129,7 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
   (Dreadlord) also know or suspect; Pyro does not.
 - `MCD-270` — Kanja is kept 12km away at the birth.
 - `MCD-277` — The Last Breakfast: Pyro serves Kanja stew on the last morning of the Long Mask (a
-  Book 1 beat, after Maro's death; see the Book 1 beats below).
+  Book 1 beat, after Maro's death, under A1 option 1 or 3; see the Book 1 beats below).
 - `ARS-421` — The Rexmar Apron is carried "as dramatic-irony/identity texture against Mafesto, his
   unclaimed inheritance he doesn't know exists."
 - `ARS-414` — When Pyro eventually learns his father's identity, Sorya is the one who can show him his
@@ -260,8 +260,8 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
 - His grandfather Maro dies at the opening (`MCD-025`/`091`).
 - `MCD-277` — The Last Breakfast (Kanja 314). It closes the Long Mask "as the Shimmer and the Gilded
   Lighthouse's pendant activate"; the pendant's severing triggers the Pi-Awakening (`CC-005`), which
-  `WC-022` places after the murder and the 10-Day Interregnum. The meal is therefore a Book 1 beat
-  after Maro's death under either B16 option, outside this series' window; no pre-Book-1 entry stages it or references
+  `WC-022` places after the murder and the 10-Day Interregnum. Under A1 option 1 or 3, the meal is therefore a
+  Book 1 beat after Maro's death under either B16 option, outside this series' window; no pre-Book-1 entry stages it or references
   Kanja's grief at it (`CC-161`, `ARS-437`). It is his only locked Book 1 beat.
 
 **Book 3, "The Dark Monarch"**
@@ -304,8 +304,8 @@ back for a future book/entry. These constrain what the profile and game plan may
 For a character with entries already locked (backfill case): a list of what's already been
 written and what it already establishes, so the profile is a synthesis of demonstrated
 characterization, not a competing invention.
-- **None.** A grep of all 1,505 files in `docs/lords-of-cian/chronicles/` for "Pyro" and "Ignis"
-  returns zero matches. The Triad (Varkul, Sorya, Varruk), "Dhar-Kael," "Living Gate," "Demaron," and
+- **None.** A grep of all 1,508 files in `docs/lords-of-cian/chronicles/` (count as of
+  2026-10-05) for "Pyro" and "Ignis" returns zero matches. The Triad (Varkul, Sorya, Varruk), "Dhar-Kael," "Living Gate," "Demaron," and
   "veil-reader" also return zero matches. This is a fresh launch, not a backfill.
 - Silent overlap: several locked entries are set inside Pyro's lifetime (Kanja 290-314) and never
   mention him — among them `MCD-1246` and `MCD-814` (age 290), `MCD-1251` (292), `MCD-493`, `MCD-1243` and `MCD-815` (300),
@@ -463,11 +463,21 @@ written under the recommended answer; where a facet rests on one, it says so.
   Sephtis has known since the birth. Scope: `MCD-091`, `ARS-010`, and `CC-101` ("roughly 24-36"
   becomes "about 24").
 - **Option 2:** Book 1 opens at Kanja 326, on `MCD-091`'s "roughly 296 years apart," and Pyro is
-  about 36. The Pi-Awakening then falls twelve years before Book 1 opens, which `WC-022` forbids.
-  Not viable without amending `WC-022` (the Pi-Awakening inside Book 1) or `CC-006` (the
-  Pi-Awakening at 314).
-- **Option 3:** keep `CC-101`'s 24-36 hedge. Every entry set near Book 1 would then have to avoid
-  stating his age.
+  about 36. Approval-list item 1 finds no alternative that holds together. As locked, the
+  Pi-Awakening then falls twelve years before Book 1 opens, which `WC-022` forbids, so the option
+  needs one of two routes. Cost, by route:
+  - Through `CC-006`, the Pi-Awakening moves to 326. Stale: `CC-005` (a 284-year Long Mask),
+    `MCD-260` (the 114-year countdown to 314), `MCD-277` (the Last Breakfast at 314 as the pendant
+    activates), `ARS-437` (Onyx reads 284 years at the reunion), and `MCD-269` (the Cestari
+    Overture at 285, 29 years before the Book 1 defection).
+  - Through `WC-022`, the Pi-Awakening stays at 314, before Book 1. Stale: `ARS-437` (Onyx would
+    read 296 years) and `MCD-269`. The Pi-Awakening and the Last Breakfast then fall inside this
+    series' window (B13).
+  - Under either route, `CC-101` becomes "about 36," and `CC-110`'s "24 years" dates Sephtis's
+    learning to about Kanja 302 (B1).
+- **Option 3:** keep `CC-101`'s 24-36 hedge. Cost: it leaves `MCD-091` and `ARS-010`'s "roughly
+  296 years" in contradiction with `CC-006` and `WC-022`, and every entry set near Book 1 would
+  then have to avoid stating his age.
 
 **A2. How fast he grows up (finding 17).** This decides which entries depict a child.
 - **Option 1 (recommended), a new fact:** an ordinary schedule. He is a child until about twelve,
@@ -476,13 +486,14 @@ written under the recommended answer; where a facet rests on one, it says so.
   Approval-list item 2 recommends the same normal schedule to adulthood for ordinary humans. Under
   every A1 option (his pre-Book-1 ages run off Kanja's clock) this makes Pyro about six at the Pyro
   Incident (Kanja 296, `MCD-277`), about eighteen at the Scourge's Heir (Kanja 308, `MCD-272`), and
-  about 24 at the Last Breakfast (`MCD-277`).
+  about 24 at the Last Breakfast (`MCD-277`; at 314 on every A1 option except option 2's
+  `CC-006` route). Cost: no locked rule goes stale.
 - **Option 2, a new fact:** a slowed schedule from his Karesian line. Under A1 option 1 he would be
   a minor through Book 1, which puts the child-safety hard stop over every Book-1-era scene. Cost:
   how many books past Book 1 he stays a minor then depends on a slowing rate the new fact itself
   has to set.
 - **Option 3, a new fact:** an accelerated schedule from his Thermal Variant biology. No rule
-  supports it.
+  supports it. Cost: no locked rule goes stale; the schedule itself is unsupported.
 - **Scope, under every option:** a new `CC-` rule on Pyro's upbringing, locking his maturation
   schedule (shared with A4; see the coordinated amendments after B4). Until it locks, his Book 5
   Engine-front role (`MCD-221`) rests on a maturation rate no rule sets.
@@ -505,8 +516,7 @@ center of the profile.
   To the wider crew she was Pyro's mother, and the marriage stayed with those few. Cost: two
   outside records still name her Kanja's wife (`CC-046`, `SBD-041`). How a marriage private within
   the fleet reached them is a new fact (for instance, through her SBD handlers, `MCD-136`). Home:
-  the same clauses on `CC-047` and `CC-079`, or B5's material on her SBD recruitment and marriage
-  date. Cost: she sailed openly with the fleet from Kanja 96 (`MCD-277`), and the
+  the same clauses on `CC-047` and `CC-079`. Cost: she sailed openly with the fleet from Kanja 96 (`MCD-277`), and the
   Captain stood 12 km off at the birth (`MCD-270`). The concealment from the wider crew therefore
   covers the whole marriage, whose length depends on its unlocked date (B5), and then 24 more
   years in which the crew either does not know who fathered her child or knows and does not say.
@@ -515,7 +525,7 @@ center of the profile.
   the Captain's silence. Scope: a clarifying clause on `CC-047` (his missing "parentage" is his
   father) and on `CC-079` (including "suspect," per the cost above).
 - **Option 2, a new fact:** he knows neither parent. The fleet was told she died with her unborn child, and he
-  was raised as the ship's foundling of that night. The few present at the birth would keep a
+  was raised as the ship's foundling of that night. Cost: the few present at the birth would keep a
   second secret from the rest of the fleet, through a newborn appearing the night a pregnant
   crewmate died and through Triad behavior the crew observes from Kanja 296 (`MCD-277`).
 - **Option 3, a new fact:** he knows she was the Captain's wife and has been given a different father. Cost: it
@@ -622,8 +632,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
 - **How he holds contradiction (PROPOSED -- for Abad's confirmation):** *the Captain's son, cooking
   for the Captain.* He cooks for the father who hides that he is his father (`CC-079`), and knows
   him as the Captain under A4's proposal. The meal
-  the Long Mask closes on, the Last Breakfast (`MCD-277`), is a Book 1 beat after Maro's death
-  under either B16 option, outside this series' window; no pre-Book-1 entry stages it or references
+  the Long Mask closes on, the Last Breakfast (`MCD-277`), is, under A1 option 1 or 3, a Book 1
+  beat after Maro's death under either B16 option, outside this series' window; no pre-Book-1 entry stages it or references
   Kanja's grief at it (`CC-161`, `ARS-437`). He ties on an apron the ledger names the Rexmar Apron,
   the name of a line he does not know is his (`ARS-421`, `CC-047`). The Rexmar war tradition was
   forged protecting the Dhar-Kael (`MCD-041`); the last three Dhar-Kael now guard a Rexmar who does
@@ -636,7 +646,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     and hides it (`CC-079`), and was kept 12 km from the birth so the Talisman would not disturb the
     bonding (`MCD-270`). Proposed: that distance at the birth continues as a careful distance
     across Pyro's whole life. Their closest locked moment, the Last Breakfast (`MCD-277`), is
-    a Book 1 beat after Maro's death under either B16 option, outside this series' window; no pre-Book-1 entry stages it or references
+    under A1 option 1 or 3 a Book 1 beat after Maro's death under either B16 option, outside this
+    series' window; no pre-Book-1 entry stages it or references
     Kanja's grief at it (`CC-161`, `ARS-437`).
   - **Stormbreaker, his guardian.** Stormbreaker defeated the Demaron in Pyro's mother with Kanja's
     consent and guards Pyro without Pyro knowing that history (`CC-045`); his trauma from that night
@@ -685,7 +696,8 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
   child whose fear burns to the cook whose food the crew calls eating well before a fight
   (`ARS-421`), its healing proven by Kanja 308 (`MCD-272`), and it ends before the Fulfillment
   Ceremony. Where it later leads, a son serving his father stew on the last morning of the Long Mask
-  (`MCD-277`), is a Book 1 beat after Maro's death under either B16 option and stays reserved. His Book 5 peak stays sealed (`MCD-223`).
+  (`MCD-277`), is, under A1 option 1 or 3, a Book 1 beat after Maro's
+  death under either B16 option and stays reserved. His Book 5 peak stays sealed (`MCD-223`).
 
 ### (B) The other Section 1 findings, cross-references, the coordinated amendments, and new items
 
@@ -762,8 +774,20 @@ ruling with no recommendation.
     TA2 (the bond "completed" beforehand).
   - `MCD-040`: `triad-guardians.md` TA1 option 2 (not recommended; "three survivors remain") and
     TA2 (the juvenile window under option 1, the long juvenile stage under option 2).
-  - `MCD-277`: `triad-guardians.md` TA1 option 2 (not recommended; Varruk seen at 248) and TA2
-    option 3 (not recommended; a different Oath-Raptor at the Dog Watch).
+  - `MCD-277`: `pyro.md` A1 option 2 (not recommended; the Last Breakfast at 314, on its
+    `CC-006` route), `triad-guardians.md` TA1 option 2 (not recommended; Varruk seen at 248), and
+    TA2 option 3 (not recommended; a different Oath-Raptor at the Dog Watch).
+  - `CC-005`: `pyro.md` A1 option 2 (not recommended; the 284-year Long Mask, on its `CC-006`
+    route) and B16 option (a) (no recommendation; the persona ends by choice, the span at the
+    pendant's severing).
+  - `ARS-437`: `pyro.md` A1 option 2 (not recommended; "reads 284 years," on either route) and B6
+    (the Heartline's signal of the birth night).
+  - `MCD-269`: `pyro.md` A1 option 2 (not recommended; the Cestari Overture 29 years before the
+    Book 1 defection, on either route) and the item shared by `pyro.md` B3 and
+    `triad-guardians.md` TB1 (the lead-in's inference, and options (i) and (ii), not
+    recommended).
+  - `MCD-272`: `pyro.md` B9 (approval-list item 17's rename, if ruled in scope) and B10's
+    alternative (not recommended).
   - `CC-045`: `pyro.md` B2 ("defeated" means subdued and held inside her; and the consent option,
     once ruled) and the `pyro.md` Stormbreaker facet (he did not see or understand the inversion).
   - `ARS-421`: `pyro.md` core wound (whether the blast can fire before he chooses it) and B11's
@@ -788,16 +812,15 @@ ruling with no recommendation.
   - No voice-standard `VB-` rule is proposed for either series. One on the `VB-065` precedent can be
     drafted for each if Abad wants it.
   - Every other rule an item in either file amends is amended by one item only, so it needs no
-    merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `WC-022`, `CC-006` (A1 option 2, not
-    recommended); `CC-047`, `CC-079` (A3); `ARS-437` (B6, the Heartline's signal of the birth
-    night); `MCD-272` (B10's alternative, not recommended); `MCD-1022` (B16 options (a) and (b),
-    no recommendation); `CC-005`, `MCD-1252`, `MCD-1255` (B16 option (a), no recommendation);
-    `MCD-1408` (B16 option (b), no recommendation); `MCD-269` (`pyro.md` B3 and
-    `triad-guardians.md` TB1, one shared item: the lead-in's inference, and options (i) and (ii),
-    not recommended); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
-    'psychology' means here"); `SBD-041` (TB2, no recommendation); `CC-099` (TB4); `CC-094`
-    (TB6); `SBD-044` (TB7); `MCD-221` (TB9); `MCD-320`, `CC-100`, `ARS-431` (TB10); `MCD-270`
-    (TB11); `CC-096` (TB12). TB12's category normalization is metadata and is not counted here.
+    merge: `MCD-091`, `ARS-010` (A1 option 1); `CC-101` (A1 options 1 and 2); `WC-022`, `CC-006`,
+    `MCD-260` (A1 option 2, not recommended; `WC-022` on one route, `CC-006` and `MCD-260` on the
+    other); `CC-047`, `CC-079` (A3); `MCD-1022` (B16 options (a) and (b), no recommendation);
+    `MCD-1252`, `MCD-1255` (B16 option (a), no recommendation); `MCD-1408` (B16 option (b), no
+    recommendation); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
+    'psychology' means here"); `SBD-041` (TB2, no recommendation); `CC-099` (TB4); `SBD-022`
+    (TB5); `CC-094` (TB6); `SBD-044` (TB7); `MCD-221` (TB9); `MCD-320`, `CC-100`, `ARS-431`
+    (TB10); `MCD-270` (TB11); `CC-096` (TB12). TB12's category normalization is metadata and is
+    not counted here.
 - **B5. His mother's name, homeland, SBD recruitment, and marriage date (finding 10).** Open, for
   whenever her own material is drafted. Under A3 option 1 the marriage is private.
 - **B6. Who aboard knows she survived.** Raised by A3. No recommendation. For Abad's ruling:
@@ -872,8 +895,9 @@ ruling with no recommendation.
   account reconstructs the cause from the full channel restored at the Book 1 reunion. That reconstruction waits on the B6 ruling.
 - **B13. Book 1-4 placement (finding 19).** Queued for the Game Plan. Recommended: the window
   stays between Kanja 290 and the Fulfillment Ceremony (`MCD-025`/`091`), on the Ozmund precedent,
-  until Abad opens a later one. Under either B16 option the Last Breakfast (`MCD-277`) falls outside
-  it, and the window's end at the Ceremony stands either way.
+  until Abad opens a later one. Under A1 option 1 or 3 and either B16 option, the Last Breakfast
+  (`MCD-277`) falls outside it; under A1 option 2's `WC-022` route it falls inside. The window's
+  end at the Ceremony stands in every case.
 - **B14. Corpus silence.** See A4, which owns finding 20 and carries the corpus check under every
   option.
 - **B15. A superseded citation in Section 1.** The 16-Avatar line names the superseded A-6 ruling
@@ -891,15 +915,17 @@ ruling with no recommendation.
     `MCD-1022` as the Long Mask's close at 314; and corrections to the continuity notes of three
     entries that say the same (`the-last-names-before-the-silence.md`, line 38;
     `the-coat-he-almost-didnt-put-back-on.md`, line 4; `the-night-before-the-last-coat.md`, line
-    35).
+    35; and `MCD-1022`'s own entry, `the-last-coat-he-ever-wore.md`, continuity notes, lines 43-45;
+    its narrative line 25 can stand).
   - Option (b), a new fact: one night. The coat comes off and the pendant severs together. Cost:
     `WC-022` puts the Pi-Awakening after the murder, so `MCD-1022` and its eve (`MCD-1408`) would
     fall inside Book 1, against their pre-Book-1 Alias placement. Scope: clarifying clauses on
     `MCD-1022` and `MCD-1408` placing them inside Book 1, and a check of their content against
     `CC-161`: `MCD-1408` is "an ordinary, unremarked night," which would then fall after Maro's
     murder.
-  - Under either option, the Last Breakfast falls after the Ceremony (`WC-022`), and this series'
-    window ends at the Fulfillment Ceremony (B13).
+  - Under either option, and under A1 option 1 or 3, the Last Breakfast falls after the Ceremony
+    (`WC-022`); under A1 option 2's `WC-022` route it falls before it. This series' window ends at
+    the Fulfillment Ceremony (B13).
 - **B17. Where the Triad came from, and whose bond it is (findings 4, 5).** Handed to
   `triad-guardians.md`, questions TA1 (made at the Gate, or an ancient clade bonded there) and TA2
   (how the bond was completed). This file follows their rulings and asserts neither.
@@ -920,13 +946,15 @@ ruling with no recommendation.
   real collision with either. "Binding" is a single rule heading,
   never a series or entry name, and the two words differ in their first letter and in sense. One
   caution: Sorya belongs to this series' own close cast, so an entry that names her Binding should
-  avoid putting it beside the series name in a title.
+  avoid putting it beside the series name in a title. One flag: if both series names are adopted,
+  the Kindlings and the Tendings (`triad-guardians.md`) rhyme, which pairs them on purpose or reads
+  as a near-repeat; Abad's call.
   - Alternative, the Suppers: zero ledger hits; notable near-collisions "sappers," "Shapers" (the Maw's
     licensed Shapers, `MAW-050`), and "Rippers," a component of Voidbreaker's Phase-Rippers
     (`ARS-419`).
   - Alternative, the Breakfasts: zero plural hits; the singular names the Last Breakfast
     (`MCD-277`), which would tie the series to the Long Mask's last morning, a Book 1 beat outside
-    its window; no near-collisions.
+    its window under A1 option 1 or 3; no near-collisions.
   - Rejected: the Hearths (the Weregildd's "Hearth Cut" is a slaver breeding term, `WGD-006`); the
     Embers (the Lord of Embers alias); the Courses (one letter from the Tide-Back Coursers,
     `MCD-040`).
@@ -983,6 +1011,8 @@ ruling with no recommendation.
   the final test is reading the draft beside the "ONYX:" coda in
   `docs/lords-of-cian/chronicles/chronicle-viii-the-ash-wharf-massacre.md` -- if it is not
   recognizably the same instrument, it is redrafted.
+  This bullet must be filled with this series' own voice documents and rules before its row moves
+  to "game plan approved."
 - **Connective-tissue gate, mandatory (Abad, 2026-10-03):** every draft for this series passes
   the third non-negotiable rule in `CLAUDE.md` before it is presented. That means
   `scripts/connective_tissue_check.py` exits 0, an independent reviewer reads the draft against
@@ -1004,7 +1034,8 @@ ruling with no recommendation.
   Carried over: Section 1, "Reserved / unresolved threads." Added in Section 2, pending Abad's
   confirmation: his mother's survival and fusion into the Gate (`MCD-131`) and who aboard knows it
   (B6); what Sorya's showing holds (`ARS-414`; B6); Causal Convergence and his sealed Book 5 peak
-  (`MCD-223`; B9); the Last Breakfast, a Book 1 beat (`MCD-277`; B13, B16); the two false SBD
+  (`MCD-223`; B9); the Last Breakfast, a Book 1 beat under A1 option 1 or 3
+  (`MCD-277`; B13, B16); the two false SBD
   accounts and the Archon hook (`SBD-041`, `SBD-044`; B7); and the fate of the entity held inside
   her at the fusion (B2).
 - **First-entry candidates** (2-3 pitches, not one pre-committed draft):

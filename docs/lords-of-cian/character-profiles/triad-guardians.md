@@ -278,7 +278,8 @@ Varruk.
 **Varkul:** 0 appearances. **Sorya:** 0 appearances. **Varruk:** 0 appearances. **The Triad as a
 unit:** 0 appearances.
 
-A full search of all 1,505 files in `docs/lords-of-cian/chronicles/` for Varkul, Miremaw, Sorya,
+A full search of all 1,508 files in `docs/lords-of-cian/chronicles/` (count as of 2026-10-05; the
+zero-hit result still holds) for Varkul, Miremaw, Sorya,
 Varruk, "Triad Guardian," "Dhar-Kael," Pyro, and Ignis returns zero hits; "Triad" appears only in
 Lauris's unrelated Triad-Lock discipline. The only near-miss on record: `MCD-1127` (Trench Monarch
 Alias Chronicle LXX, `what-the-blade-remembered-before-him.md`) once carried an in-scene comparison to
@@ -526,8 +527,8 @@ written under the recommended answer and says where it depends on one.
   the keying; then the birth. The curse's open date (finding 2) therefore falls between the keying
   and the birth.
 - **Option 2: a long-lived clade with a long juvenile stage.** New fact: juvenility lasts a century
-  or more, with no link to imprinting. No new imprint mechanism is needed, and their life stage
-  at Book 1 (juvenile or grown) stays unfixed. Scope: a clarifying clause on `MCD-040`.
+  or more, with no link to imprinting. No new imprint mechanism is needed. Cost: their life
+  stage at Book 1 (juvenile or grown) stays unfixed. Scope: a clarifying clause on `MCD-040`.
 - **Option 3: a different Oath-Raptor at the Dog Watch.** Amend `MCD-277` so the bird seen at 248
   is not Varruk. `MCD-040` and `ARS-200` count present survivors, so a fourth bird that died before
   290 breaks neither. Cost: amending `MCD-277`, and a death for the fourth bird that a new fact must
@@ -586,8 +587,8 @@ Written under the recommended answer to TA1-TA3. Each facet is marked for confir
   - **Varkul** carries it in the body. Separation from Pyro strains him physically (`CC-095`).
   - **Sorya** carries it in memory. She holds the keeper and that night up to the moment she was
     pushed out (`CC-096`, `MCD-131`). Depends on TA3.
-  - **Varruk** was seen at the Dog Watch, 42 years before the bond (`MCD-277`). Proposed: he ranged
-    before the bond and ranges still, always on the safe path back to Pyro (`CC-099`).
+  - **Varruk** was seen at the Dog Watch, 42 years before the bond (`MCD-277`). Proposed (depends on
+    TB1 and TB2): he ranged before the bond and ranges still, always on the safe path back to Pyro (`CC-099`).
 - **Defense mechanisms (PROPOSED -- for Abad's confirmation):**
   - **Shared: closeness and overwatch.** Proposed: none of the three is out of reach of Pyro for
     long, and Varruk ranges on a line back to him (`CC-099`, `CC-098`); separation strains Varkul
@@ -685,7 +686,7 @@ ruling with no recommendation.
     part of the curse's story. Home: a clarifying clause on `MCD-269`.
   - Option (iii), adding no new fact: the reason stays open. Recommended for now, since it adds no
     fact; whichever entry first stages the birth needs (i) or (ii) ruled first.
-  - Varruk is the one the fleet saw at the Dog Watch (`MCD-277`). Where the three lived before
+  - Varruk's first appearance is the Dog Watch (`MCD-277`). Where the three lived before
     290, and in whose care, stays open; TB2 sets out what `SBD-041` does and does not decide about
     the keeper's custody.
 - **TB2. Which part of Dexton's claim is false (finding 5).** `SBD-041` calls the natural birth the
@@ -695,9 +696,14 @@ ruling with no recommendation.
   on any one of four parts: "raised," "from birth," "homeland," or "in the Shattered Kingdoms." No
   recommendation; two options, for Abad's ruling.
   - **Option (i), a proposed new fact:** the keeper did not raise them. Support: the claim fails on
-    "raised," which removes custody from it entirely.
+    "raised," which removes custody from it entirely. Cost: who kept the juveniles before 290, and
+    where, rests wholly on TB1's open question.
   - **Option (ii), a proposed new fact:** she kept them, and the claim fails on "from birth," on
     "homeland," or on "in the Shattered Kingdoms." Support: it sits with `MCD-040`'s "last keeper."
+    Cost: she sailed openly with Kanja's fleet from Kanja 96 (`MCD-277`), so custody means either
+    the three lived aboard for up to about 194 years, against `MCD-277` dating Varruk's first
+    appearance to 248 and against the silence of every pre-290 fleet entry, or she kept them
+    elsewhere as an absent keeper.
   - Under either option, the home is a clarifying clause on `SBD-041` naming the part that fails.
   - TA1 and TA3 stand under either option; neither depends on custody before 290. Her homeland
     stays open. Any entry quoting the file locks it only as said (`VB-067`).
@@ -709,9 +715,9 @@ ruling with no recommendation.
   Cadence Saturation kept its name, and the batch-label mismatch is a records fix. Both fall under
   the correction mandate.
 - **TB5. SBD overclaim flags (finding 8).** Recommended: the OMEGA-PRIME ratings stand as the SBD's
-  own ratings, fallible like every SBD file (`MCD-1727`; `VB-067`'s Dossier type, "unreliable by
-  design"). `SBD-022`'s three-of-six list is read as
-  the SBD's partial knowledge of Sorya.
+  own ratings, the SBD's institutional judgment and fallible on the principle `MCD-1727` sets for
+  its files. Proposed (a new fact, for Abad's ruling): `SBD-022`'s three-of-six list is the SBD's
+  partial knowledge of Sorya. Home: a clarifying clause on `SBD-022`.
 - **TB6. The Harrow Ring and the Harrow Presence (finding 9).** Recommended, a new fact: two
   abilities. The Harrow Presence is the Land Form's discipline-collapse effect on groups
   (`CC-094`); the Harrow Ring is a hydrodynamic effect formed in water (`MCD-020`, `CC-095`). What
@@ -730,7 +736,10 @@ ruling with no recommendation.
 - **TB9. Book roles, and the Triad's absence from Book 5's fronts (finding 13).** Queued.
   Separation strains Varkul (`CC-095`), and `MCD-221` puts Pyro on the Engine front without them.
   Recommended, a new fact: they are with Pyro on the Engine front. Scope: a clause on `MCD-221`'s
-  Engine-front roster.
+  Engine-front roster. Cost: `CC-099` grounds Varruk in enclosed spaces, so if the Engine-front
+  fight is enclosed (no rule says) he is grounded there. Alternative: they fight elsewhere in Book
+  5. Cost: the separation strains Varkul (`CC-095`), and Pyro fights without the three who keep
+  him steady (`ARS-421`).
 - **TB10. T.D.K.'s "Coursers" (finding 14).** Two options.
   - **Recommended: rename T.D.K.'s asset in `MCD-320`.** The shared word collides with the
     Tide-Back Coursers, Varkul's species (`MCD-040`), and project practice renames such collisions
@@ -765,8 +774,20 @@ ruling with no recommendation.
     TA2 (the bond "completed" beforehand).
   - `MCD-040`: `triad-guardians.md` TA1 option 2 (not recommended; "three survivors remain") and
     TA2 (the juvenile window under option 1, the long juvenile stage under option 2).
-  - `MCD-277`: `triad-guardians.md` TA1 option 2 (not recommended; Varruk seen at 248) and TA2
-    option 3 (not recommended; a different Oath-Raptor at the Dog Watch).
+  - `MCD-277`: `pyro.md` A1 option 2 (not recommended; the Last Breakfast at 314, on its
+    `CC-006` route), `triad-guardians.md` TA1 option 2 (not recommended; Varruk seen at 248), and
+    TA2 option 3 (not recommended; a different Oath-Raptor at the Dog Watch).
+  - `CC-005`: `pyro.md` A1 option 2 (not recommended; the 284-year Long Mask, on its `CC-006`
+    route) and B16 option (a) (no recommendation; the persona ends by choice, the span at the
+    pendant's severing).
+  - `ARS-437`: `pyro.md` A1 option 2 (not recommended; "reads 284 years," on either route) and B6
+    (the Heartline's signal of the birth night).
+  - `MCD-269`: `pyro.md` A1 option 2 (not recommended; the Cestari Overture 29 years before the
+    Book 1 defection, on either route) and the item shared by `pyro.md` B3 and
+    `triad-guardians.md` TB1 (the lead-in's inference, and options (i) and (ii), not
+    recommended).
+  - `MCD-272`: `pyro.md` B9 (approval-list item 17's rename, if ruled in scope) and B10's
+    alternative (not recommended).
   - `CC-045`: `pyro.md` B2 ("defeated" means subdued and held inside her; and the consent option,
     once ruled) and the `pyro.md` Stormbreaker facet (he did not see or understand the inversion).
   - `ARS-421`: `pyro.md` core wound (whether the blast can fire before he chooses it) and B11's
@@ -791,16 +812,15 @@ ruling with no recommendation.
   - No voice-standard `VB-` rule is proposed for either series. One on the `VB-065` precedent can be
     drafted for each if Abad wants it.
   - Every other rule an item in either file amends is amended by one item only, so it needs no
-    merge: `MCD-091`, `ARS-010`, `CC-101` (A1); `WC-022`, `CC-006` (A1 option 2, not
-    recommended); `CC-047`, `CC-079` (A3); `ARS-437` (B6, the Heartline's signal of the birth
-    night); `MCD-272` (B10's alternative, not recommended); `MCD-1022` (B16 options (a) and (b),
-    no recommendation); `CC-005`, `MCD-1252`, `MCD-1255` (B16 option (a), no recommendation);
-    `MCD-1408` (B16 option (b), no recommendation); `MCD-269` (`pyro.md` B3 and
-    `triad-guardians.md` TB1, one shared item: the lead-in's inference, and options (i) and (ii),
-    not recommended); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
-    'psychology' means here"); `SBD-041` (TB2, no recommendation); `CC-099` (TB4); `CC-094`
-    (TB6); `SBD-044` (TB7); `MCD-221` (TB9); `MCD-320`, `CC-100`, `ARS-431` (TB10); `MCD-270`
-    (TB11); `CC-096` (TB12). TB12's category normalization is metadata and is not counted here.
+    merge: `MCD-091`, `ARS-010` (A1 option 1); `CC-101` (A1 options 1 and 2); `WC-022`, `CC-006`,
+    `MCD-260` (A1 option 2, not recommended; `WC-022` on one route, `CC-006` and `MCD-260` on the
+    other); `CC-047`, `CC-079` (A3); `MCD-1022` (B16 options (a) and (b), no recommendation);
+    `MCD-1252`, `MCD-1255` (B16 option (a), no recommendation); `MCD-1408` (B16 option (b), no
+    recommendation); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
+    'psychology' means here"); `SBD-041` (TB2, no recommendation); `CC-099` (TB4); `SBD-022`
+    (TB5); `CC-094` (TB6); `SBD-044` (TB7); `MCD-221` (TB9); `MCD-320`, `CC-100`, `ARS-431`
+    (TB10); `MCD-270` (TB11); `CC-096` (TB12). TB12's category normalization is metadata and is
+    not counted here.
 - **TB13. The Oath-Raptor's name.** Not tied to a Section 1 finding. Varruk's species is the Oath-Raptor (`MCD-040`), and Sorya,
   an Apex-Feline, is the Guardian bound to the Oath (`CC-097`). Recommended: no change now, and a
   one-line explanation of the species names when the clade's history is first drafted.
@@ -844,8 +864,10 @@ ruling with no recommendation.
   for "keepings" in `canon-ledger.json` or `docs/lords-of-cian/chronicles/`. The singular "keeping"
   appears only as an ordinary word. Near words within edit distance 2, across the ledger and the
   entries: for "keepings," the common words "keeping," "feelings," "meetings," "seeping," and
-  "weeping"; for "keeping," a run of common words, two of them components of named things, the
-  Sleeping Giant (`MCD-262`, `MCD-1885`) and the Recruitment Meeting (`MCD-196`). Keeper titles sit at edit distance 3 or more: the Scale-Keepers (`CULT-011`), the
+  "weeping"; for "keeping," a run of common words, four of them components of named things: the
+  Sleeping Giant (`MCD-262`, `MCD-1885`), the Recruitment Meeting (`MCD-196`), the Weeding Trials
+  (`ASH-036`), and the entry title "The Isle That Stopped Needing Him" (`MCD-814`, quoted in
+  `MCD-1476`). Keeper titles sit at edit distance 3 or more: the Scale-Keepers (`CULT-011`), the
   Domus Inviolate's Keepers (`CULT-183`), the Keeper-General (`CULT-100`), the Keeper-Archivist
   (`CULT-165`), and Ashkeel's Blind Record-Keepers (`ASH-047`). One flag: "the Keepers" of
   `CULT-183` and "the Keepings" are near-homographs on the page. Further Keeper uses: the Memory
@@ -856,7 +878,7 @@ ruling with no recommendation.
   the Domus Inviolate's Keeper cabinets (`CULT-036`, `CULT-187`, `CULT-188`, `CULT-189`). In all,
   23 ledger statements carry a capitalized Keeper form. Judgment: this is a real overlap. "Keeper"
   is a crowded title across the cults, Ashkeel, and the fleet's own history, and the Memory Keeper
-  sits on the same idea, so the Tendings is proposed in its place.
+  sits on the same idea, so the Tendings is proposed.
 - **Alternative, the Witnesses:** an ordinary word in 15 ledger statements (15 occurrences). It
   overlaps Sorya's named Witness-Scouting and Witness Shriek (`CC-096`, `ARS-414`), and Lauris's
   Records already name a strand "Witness" (Strand W, `lauris-letitia.md`).
@@ -921,6 +943,8 @@ ruling with no recommendation.
   the final test is reading the draft beside the "ONYX:" coda in
   `docs/lords-of-cian/chronicles/chronicle-viii-the-ash-wharf-massacre.md` -- if it is not
   recognizably the same instrument, it is redrafted.
+  This bullet must be filled with this series' own voice documents and rules before its row moves
+  to "game plan approved."
 - **Connective-tissue gate, mandatory (Abad, 2026-10-03):** every draft for this series passes
   the third non-negotiable rule in `CLAUDE.md` before it is presented. That means
   `scripts/connective_tissue_check.py` exits 0, an independent reviewer reads the draft against
