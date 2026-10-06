@@ -100,7 +100,7 @@
 +  principals are reserved from pre-Book-1 entries (`MCD-1906`). `MCD-092` is amended: the wet-work team sanitizes after
 +  the regicide and the Ronin's later operations and not after the Last Breakfast strike. `SBD-059` is amended to match: the Ceremony team works fixed,
 +  pre-planned targets operation by operation (`MCD-092`, `MCD-1853`). After the Ronin fail, the Quiet Hand with a savage team of animals under
-+  one Beast Master (unnamed) comes as a second attempt, deployed through the authorization chain of `MCD-1906`; whether the four principals order it stays open. Abad, on when it comes: "the second attacks have come
++  one Beast Master (unnamed) comes as a second attempt, authorized under `SBD-051`'s two-signature rule; who signs it and whether the four principals order it stay open. Abad, on when it comes: "the second attacks have come
 +  at some point after the first not to long after the first as they think they regrouped and figured out how
 +  to attack them which turns out disastrous for the attackers." Kanja, Pyro and the Triad meet it unleashed
 +  and defeat it. Abad, on the placement: "after the Karkosa Heist, with the Trinity." The attempt comes
@@ -139,13 +139,13 @@
 +  (`MCD-1903`), and he allows entries set before Book 1 to show Maro, Kanja and Pyro at their ceremonial breakfasts (`MCD-1905`), with the
 +  Last Breakfast and what happens there reserved (`MCD-1902`, `MCD-1904`). Question 6 needs no rule change: Batch 379 (the Trinity rule, the
 +  lock list and the two era fixes) follows once this batch is locked.
-+- **Covered only by Abad's final approval of this batch, which presented them explicitly.** The placements of `MCD-1246`, `MCD-1252` and
++- **Covered only by Abad's final approval of this batch, which presented its seven items explicitly.** The placements of `MCD-1246`, `MCD-1252` and
 +  `MCD-1253` in the last 30 days of ages 290, 308 and 310 (a mechanical placement that keeps the locked prose spans exact; the alternative was
 +  prose spans of 259, 277 and 279). The fixed-hour access logic of `MCD-1904`: on that day the breakfast moves to the Lighthouse at its usual
 +  hour, and the unchanged hour is how the enemy knows when to find him; it was put to Abad as a separate question that he had not answered
 +  directly. The note appended to `MCD-260`: the naming and the countdown are the record's, and Kanja does not hold them (`MCD-1903`). `MCD-1406` in the first three
 +  weeks of age 313, three weeks after `MCD-1255`: question 3 described the entries pinned to the last weeks of ages 312 and 313, which does not reach it. Sephtis does not
-+  know the day or the trigger (`MCD-1903`), a drafted reading that was not put to Abad.
++  know the day or the trigger (`MCD-1903`), a drafted reading that was not put to Abad. The Eve of Awakening falls on the fifth day after his birthday, the day before the Awakening (`MCD-1901`), the plain reading of "Eve" inside `MCD-272`'s age 314; it puts the crew's action without him on Interregnum day 6. `MCD-1907`'s rationale for pairing the Quiet Hand with the Beast Master (to supply what the cell lacks) is drawn from `SBD-059`'s description of the cell.
 +- **Propagation.** 56 rule statements amended; 60 entries and 14 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date, and a pointer note on `MCD-260`. The pitch
 +  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
@@ -262,6 +262,13 @@
    Aegis-Talisman, and the Rexmar Machete (`MCD-246`).
 --- before: docs/lords-of-cian/character-profiles/anirak.md
 +++ after: docs/lords-of-cian/character-profiles/anirak.md
+@@ -380,4 +380,4 @@
+     as "Drakma-alloy," Living or Dead unspecified.
+-11. **The Ren timeline.** `CC-101`: Ren is "Age ~45 (the crew's youngest adult recruit; Pyro, roughly
+-    24-36 at Book 1, is younger)," sent to the surface at 16, recruited by Sephtis. So Ren cannot have
++11. **The Ren timeline.** `CC-101`: Ren is "Age ~45 (the crew's youngest adult recruit; Pyro, 23 at the Fulfillment Ceremony
++    (`MCD-270`, `MCD-1901`), is younger)," sent to the surface at 16, recruited by Sephtis. So Ren cannot have
+     joined earlier than roughly the Long Mask's last three decades, and `CC-114`'s pairing and her
 @@ -610,5 +610,6 @@
    - **When.** No entry before the fleet's arrival at Chain Harbor (Kanja age 55, `MCD-251`,
 -    `MCD-1883`). The launch wave ends with the Long Mask at Kanja 314 (`MCD-1022`), so the Scourge
@@ -529,7 +536,7 @@
 @@ -25,3 +25,3 @@
  | Anirak | `character-profiles/anirak.md` | walkthrough drafted (Tier 1, Book-1 anchor hero, 2026-10-03); Tide Line (Batch 368) and Combination Codex (Batch 370) locked; Psychological Profile approved and locked (Batch 371, `CC-163`/`CC-164`, 2026-10-03); Game Plan approved and locked (Batch 372, `VB-065`, 2026-10-04); gate cleared; wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) | 3 Collections (I-III); appears in Kanja Chronicle V (`MCD-1883`, her recruitment) |
 -| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 21 connective-tissue findings queued, age at Book 1 depends on the 284/296 ruling | 0 (no entry mentions him) |
-+| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 21 connective-tissue findings queued, 23 at the Fulfillment Ceremony (born in Kanja's age 290; Kanja is 313 then, Batch 378, `MCD-1901`) | 0 (no entry mentions him) |
++| Pyro (Ignis Rexmar) | `character-profiles/pyro.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 21 connective-tissue findings queued; age 23 at the Fulfillment Ceremony (born in Kanja's age 290; Kanja is 313 then, Batch 378, `MCD-1901`) | 0 (no entry mentions him) |
  | Triad Guardians (Varkul, Sorya, Varruk) | `character-profiles/triad-guardians.md` | profile in discussion (Section 2 proposed) (priority launch, 2026-10-03); 16 connective-tissue findings queued, origin (created at the Gate vs. ancient clade) the central one | 0 (no entry mentions them) |
 --- before: docs/lords-of-cian/chronicles/kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md
 +++ after: docs/lords-of-cian/chronicles/kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md
@@ -630,7 +637,7 @@
 -deliberately hedged so no later entry is contradicted.*
 +deliberately hedged so no later entry is contradicted. Corrected Batch 378, 2026-10-05: the Dark
 +Ledger count and the years past the Pier recomputed from the Pier's date, 30 days before Kanja's
-+31st birthday (`MCD-1901`); the age and the moment within it are unchanged. The two sentences that
++31st birthday (`MCD-1901`); the age and the moment within it are unchanged. The three sentences that
 +named the Talisman as the cause of the weight are cut from the narration (Abad, 2026-10-05, 'yes');
 +the decline's cause stays out of pre-Book-1 material (`MCD-1903`).*
 --- before: docs/lords-of-cian/chronicles/senas-own-student.md
@@ -856,7 +863,7 @@
  
 -"Two hundred and eighty-four years," he said. "That's how long the Long Mask has run, since a morning
 -on a burned wharf set its shape — not planned, not chosen, just the thing it became."
-+"Two hundred and eighty-three years," he said. "That's how long the mask has run since the pier. A
++"Two hundred and eighty-three years," he said. "That's how long the mask has run since the Pier. A
 +morning on a burned wharf set its shape."
  
 @@ -43,4 +43,4 @@

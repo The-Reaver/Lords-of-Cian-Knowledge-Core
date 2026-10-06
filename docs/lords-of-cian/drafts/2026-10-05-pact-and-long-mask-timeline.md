@@ -1,6 +1,6 @@
 # Batch 378 draft: the Long Mask, the Accords and Book 1 on one clock
 
-*UNLOCKED DRAFT, revision 14, for Abad's approval, 2026-10-06. Revision 2 was revised for Abad's ruling that
+*UNLOCKED DRAFT, revision 15, for Abad's approval, 2026-10-06. Revision 2 was revised for Abad's ruling that
 the Long Mask ends after his 314th birthday. Revision 3 followed an independent review that came back not
 clean. Revision 4 carries Abad's later confirmations and keeps the rule statements free of status labels. Revision 5 follows a second independent review and carries
 Abad's confirmation of the Interregnum counting. Revision 6 carries Abad's answers on the murder's day, the Kanja VII cut, the
@@ -14,7 +14,7 @@ clean. It restructures `MCD-1906` to agree with `CC-082`, puts the Rebellion's e
 that revision 10 had recorded as confirmed without any recommendation having been put to him. Revision 12 carries Abad's answer of
 2026-10-06, "all yes on yiu 6 questions" ("yiu" reads "you"), to six questions put with recommendations. It confirms the order chain reconciled with `CC-082`, the `MCD-070` act
 overlap, the late-Scourge placements and Kanja's Haku-legend knowledge, allows entries set before Book 1 to show the ceremonial breakfasts (`MCD-1905`), and agrees that
-Batch 379 follows this batch. Revision 13 follows a fourth independent review. It relabels the placements of `MCD-1246`, `MCD-1252` and `MCD-1253` as drafted and not put to Abad, withdraws the claim that he confirmed the fixed-hour logic, adds the section "Covered only by the final approval (presented explicitly)", makes the `SBD-059` correction in this batch, adds a pointer note to `MCD-260`, leaves open who orders the second attempt, and carries more Pyro and Triad profile figures through the script. The awaiting list now holds only the non-blocking leftover tensions of flags 30 and 31. Revision 14 follows a fifth independent review. It takes `MCD-1406` out of the placements Abad confirmed (question 3 described the entries pinned to the last weeks of ages 312 and 313, and `MCD-1406` sits in the first three weeks of age 313), adds it and Sephtis's not knowing the day or the trigger (`MCD-1903`) to the section "Covered only by the final approval", states the fixed-hour access logic as the way the Ronin reach him, corrects an off-by-one in Pyro's age at the Last Breakfast, repairs the `pyro.md` quote of `CC-005` in finding 21 and the age range in finding 20, and moves two clauses of the "Confirmed by Abad" paragraph to the revision where each ruling landed. Nothing here is locked until Abad approves it in his own
+Batch 379 follows this batch. Revision 13 follows a fourth independent review. It relabels the placements of `MCD-1246`, `MCD-1252` and `MCD-1253` as drafted and not put to Abad, withdraws the claim that he confirmed the fixed-hour logic, adds the section "Covered only by the final approval (presented explicitly)", makes the `SBD-059` correction in this batch, adds a pointer note to `MCD-260`, leaves open who orders the second attempt, and carries more Pyro and Triad profile figures through the script. The awaiting list now holds only the non-blocking leftover tensions of flags 30 and 31. Revision 14 follows a fifth independent review. It takes `MCD-1406` out of the placements Abad confirmed (question 3 described the entries pinned to the last weeks of ages 312 and 313, and `MCD-1406` sits in the first three weeks of age 313), adds it and Sephtis's not knowing the day or the trigger (`MCD-1903`) to the section "Covered only by the final approval", states the fixed-hour access logic as the way the Ronin reach him, corrects an off-by-one in Pyro's age at the Last Breakfast, repairs the `pyro.md` quote of `CC-005` in finding 21 and the age range in finding 20, and moves two clauses of the "Confirmed by Abad" paragraph to the revision where each ruling landed. Revision 15 follows a sixth independent review. It words `MCD-1907`'s authorization under `SBD-051`'s two-signature rule directly (who signs it, and whether the four principals order it, stays open) and drops `MCD-1906` from that rule's Extends list, repairs the `anirak.md` finding 11 quote of `CC-101`, corrects the (c4) count to 67, rewords the revision 8 clause on the Three Ronin, adds the Eve of Awakening's day and the Quiet Hand pairing's rationale as items (f) and (g) of "Covered only by the final approval" (seven items now), corrects the Kanja VII cut to three sentences, repairs the `chronicle-tracks-status.md` line 26 wording, and capitalizes "Pier" in the `MCD-1022` prose line. Nothing here is locked until Abad approves it in his own
 words. Resolves approval-list item 1 under Abad's rulings of 2026-10-05 and 2026-10-06. Merge script:
 `merge_batch378_pact_long_mask_timeline.py` (dry run clean; propagation diff at
 `docs/lords-of-cian/drafts/2026-10-05-batch378-propagation-full-text.diff`).*
@@ -131,26 +131,27 @@ Abad's rulings (a) and (b): the Last Breakfast is held where the story makes mos
 in the upper room where Kanja lies, because he cannot be moved and Pyro cannot face the old table; the ceremonial breakfast is
 Maro's and Kanja's, father and son; Pyro always joins as the cook, the cook's honor is the reason given, and he is never told why
 he always joins. Revision 8 adds, from Abad's answers of 2026-10-05/06: the orders for the regicide and the strike are signed by an unnamed SBD leadership member as the Director's
-named proxy, with Abbott Gage's technical clearance, and Corrance's own knowledge stays open (`MCD-1906`); the Three Ronin make the attack at the Last Breakfast and all three
-survive it (`MCD-1904`); Sephtis tells Kanja early in Book 4 (`MCD-1903`); the Rexmar lineage honors the cook, and Maro knows Pyro is his grandson
+named proxy, with Abbott Gage's technical clearance, and Corrance's own knowledge stays open (`MCD-1906`); the Three Ronin make the attack at the Last Breakfast (`MCD-1904`), and, since `MCD-092`'s reckonings fall in Books 4 and 5, all three survive it; Sephtis tells Kanja early in Book 4 (`MCD-1903`); the Rexmar lineage honors the cook, and Maro knows Pyro is his grandson
 (`MCD-1905`); a second attempt by the Quiet Hand with a savage team of animals under one Beast Master comes not long after the first, and Kanja, Pyro and the Triad defeat it to the attackers' disaster (`MCD-1907`). Revision 9 adds, from his ruling "after the Karkosa Heist, with the Trinity": the second attempt comes after the Karkosa Heist, and Kanja fights it with the Trinity reclaimed (`MCD-1907`). Revision 10 adds, from his answer "all recommendations, run the census": every recommendation put to him on
 the second attempt and on the strike, each written into the rule named in the rulings list above. Revision 12 adds, from his answer of 2026-10-06, "all yes on yiu 6 questions": the order chain reconciled with `CC-082` (the four Sovereign Trust principals order it, the SBD proxy and Gage sign it
 off, the Ronin carry it out, `MCD-1906`); the `MCD-070` act overlap (the Investigation opens at the murder and runs on through the Interregnum, `MCD-070`, `WC-022`); the
 late-Scourge placements of the entries pinned to the last weeks of ages 312 and 313 (`MCD-1255`, `MCD-1407`, `MCD-1408`, `MCD-1022`; `MCD-1901`; `MCD-1406`, in the first three weeks of age 313, is not among them, see item (d) of "Covered only by the final approval"); Kanja's knowing the Haku legend without knowing it applies to him (`MCD-1903`); and that entries set before Book 1 may show Maro, Kanja and
 Pyro at their ceremonial breakfasts, with the Last Breakfast and what happens there reserved (`MCD-1905`).
 
-**Covered only by the final approval (presented explicitly).** Abad has not confirmed these five items one by one. They lock only if his final approval of this draft explicitly covers them, and the presentation lists them by name.
+**Covered only by the final approval (presented explicitly).** Abad has not confirmed these seven items one by one. They lock only if his final approval of this draft explicitly covers them, and the presentation lists them by name.
 - (a) The placements of `MCD-1246`, `MCD-1252` and `MCD-1253` in the last 30 days of ages 290, 308 and 310 (the appended notes of section (b), flag 5). Drafted, not put to Abad: a mechanical placement that keeps the locked prose spans exact (alternative: prose 259/277/279).
 - (b) The fixed-hour access logic of `MCD-1904`: on that day the breakfast moves to the Lighthouse at its usual hour, and the unchanged hour is how the enemy knows when to find him; with it, the clause of `MCD-1905` that an earlier breakfast does not single out the fixed hour as a vulnerability. It was asked as a separate question ("Do you confirm the fixed-hour logic above?") and Abad never answered it directly, so it is not covered by "all recommendations". The rule text keeps the logic as written; it locks only if the final approval covers it.
 - (c) The note appended to `MCD-260` (section (b)): "Batch 378 note: the naming and the countdown are the record's; Kanja does not hold them (`MCD-1903`)." It states in the rule the reading that flag 14 gives.
 - (d) `MCD-1406` in the first three weeks of age 313, three weeks after `MCD-1255` (the appended note of section (b), flag 4). Question 3 described the entries pinned to the last weeks of ages 312 and 313, which does not reach it.
 - (e) Sephtis does not know the day or the trigger (`MCD-1903`); flag 32's "Sephtis never knew the trigger" is the same reading. It was drafted and not put to Abad.
+- (f) The Eve of Awakening falls on the fifth day after his birthday, the day before the Awakening (`MCD-1901`), the plain reading of "Eve" inside `MCD-272`'s age 314; it puts the crew's action without him on Interregnum day 6.
+- (g) `MCD-1907`'s rationale for pairing the Quiet Hand with the Beast Master (to supply what the cell lacks), drawn from `SBD-059`'s description of the cell.
 
 **Open in the rule text.** The rule text leaves these three open. Abad's answer "all recommendations, run the census" accepted the recommendation to leave the Ronin's escape open (question 6 of the list in the
 rulings). No recommendation was put to him on the reveal's placement or on who orders the second attempt. None needs an answer to lock.
 1. Where the reveal to the reader lands (`MCD-1904`, left open in the rule).
 2. How the Three Ronin escape the surge (`MCD-1904`, left to the Book 1 scene).
-3. Whether the four Sovereign Trust principals order the second attempt (`MCD-1907`, left open in the rule).
+3. Who signs, and whether the four principals order, the second attempt (`MCD-1907`, left open in the rule).
 
 **Awaiting Abad.** Only the item below. It needs no answer to lock, and the rule text states the readings given. The `SBD-059` correction that revision 12 listed as owed is made in this batch (section (b)).
 1. The non-blocking leftover tensions of flags 30 and 31, which the independent review judged non-blocking: the order chain's reading of `SBD-051`'s "explicitly named proxy", the
@@ -158,7 +159,7 @@ rulings). No recommendation was put to him on the reveal's placement or on who o
    strike and the second attempt, where the Ronin are after the Ceremony, the Trinity's state after the 283-year seal, the Triad's era limits, and Pyro's baseline. None is resolved in
    the rule text; each stays open for Abad's ruling or his confirmation of the reading given.
 
-**The rule statements below state the facts plainly so the locked text does not read stale; the approval must cover each one explicitly, and the five items under "Covered only by the final approval" in particular.**
+**The rule statements below state the facts plainly so the locked text does not read stale; the approval must cover each one explicitly, and the seven items under "Covered only by the final approval" in particular.**
 Confirmed by Abad on 2026-10-06 ("all recommendations, run the census"), and so no longer awaiting: the six recommendations on the second attempt and the strike: (a) `MCD-1907`, Kanja, Pyro and the Triad kill attackers in the fight, which comes after Maro's murder, when the turn `CC-161` reserves for Book 1 may run;
 (b) `MCD-1907`, the Triad do not learn that the SBD sent it, so `SBD-044`'s arc of Varkul discovering the surveillance apparatus stays intact; (c) `MCD-1907`, the fight is away from
 witnesses, Kanja stays within his Book 1 ceiling (`MCD-227`), Varkul stays below his maximum (`SBD-044`), and `MCD-144`'s openly seen register holds; (d) `MCD-1904`, the SBD wet-work team
@@ -202,7 +203,7 @@ approval-list item 1". Next free IDs verified: the highest MCD ID in the ledger 
 
 **MCD-1906** (category: World Mechanics). The order chain behind the regicide and the strike on Kanja; Abad's ruling, 2026-10-06: 'option 1 proxy, the Three Ronin, Book 4 works.' CC-082 locks that four principals, Sovereign Trust members, ordered the assassination of Aethelgard Verehimu and Maro Rexmar at the Fulfillment Ceremony (MCD-091, MCD-092), and names one of them, Duke Cassius Verehimu. The same four principals order the regicide and the strike on Kanja at the Last Breakfast (MCD-1904). The other three stay unnamed. SBD leadership authorizes both operations at the SEALBLACK tier under SBD-051's two-signature rule (SBD-050): a member of SBD leadership signs the operational authorization as the Executive Director's named proxy, and Grave-Analyst Abbott Gage gives the technical clearance. The Three Ronin are the contracted hands in both (MCD-092). The proxy is named in the SBD's own authorization record, and canon does not name them. At least one member of SBD leadership had advance knowledge of the regicide (CULT-053). Whether Executive Director Ilona Corrance knew of either operation in advance, and what the stripped after-action files (SBD-052) told her office, stays open. The regicide also served leadership's own institutional interests, removing a peace agreement and killing both kings before a coalition could scrutinize the SBD (CULT-053, CULT-054). Motive for the strike: Kanja is Maro's next of kin, who would seek revenge, and he brought the Sovereign Trust's whole operation (MCD-004, MCD-1902) to its knees. How the four principals connect to the proxy is a thread of the Book 1 investigation (MCD-070, CULT-053). The regicide's funding trail runs through the Zenith Scrip-bank clearinghouse of CULT-080. Reserved: no entry set before Book 1 may name the proxy or the other three principals, or point at who they are. Extends CC-082, SBD-050, SBD-051, SBD-052, SBD-059, CULT-053, CULT-054, CULT-080, MCD-091, MCD-092, MCD-1853 and MCD-1904.
 
-**MCD-1907** (category: book1-structure). The second attempt on Kanja, a Book 1 beat; Abad's rulings, 2026-10-06: 'we need a second attempt'; 'The Quiet Hand (SBD-059). A standing SEALBLACK cell kept for politically sensitive individual targets.'; 'paired with I savage team of animals and 1 Brute Beast Master.' ('I' reads 'a'); 'Kanja, Pyro & The Triad UNLEASHED.'; on when it comes, 'the second attacks have come at some point after the first not to long after the first as they think they regrouped and figured out how to attack them which turns out disastrous for the attackers.'; and on the placement, 'after the Karkosa Heist, with the Trinity.' After the Three Ronin fail at the Last Breakfast (MCD-1904), SBD leadership sends a second attempt. It comes after the Karkosa Heist and before the Great Breach of Book 1's epilogue (MCD-070), not long after the first, once leadership believes it has regrouped and worked out how to attack Kanja, Pyro and the Triad together. The SBD is still clandestine then (MCD-004), and the attackers stay unidentified to the world. The attack is made by the Quiet Hand (SBD-059), paired with a savage team of animals under one brute Beast Master. The Quiet Hand normally works untraceable removals of individuals who need no anomaly-handling expertise (SBD-059); against Kanja, Pyro and the Triad, leadership pairs it with the Beast Master and his animals to supply what the cell lacks. Kanja, Pyro and the Triad (Varkul, Varruk and Sorya, CC-094 to CC-099) meet it unleashed, Kanja with the Trinity reclaimed at the Heist (MCD-1902): Mafesto, Onyx of Oblivion and Obsidian Malice. They kill attackers in this fight. It comes after Maro's murder, when the turn CC-161 reserves for Book 1 may run. They defeat it, and it ends in disaster for the attackers. The Triad do not learn that the SBD sent it, so SBD-044's arc of Varkul discovering the SBD's surveillance apparatus stays intact. The fight happens away from witnesses. Kanja stays within his Book 1 ceiling (MCD-227), Varkul stays below his maximum (SBD-044), and MCD-144's openly seen register holds. Abad, 2026-10-06, accepting the recommendations put to him on these points: 'all recommendations, run the census.' The deployment runs through the authorization chain of MCD-1906: the same leadership proxy signs the operational authorization and Grave-Analyst Abbott Gage gives the technical clearance (SBD-051). Whether the four principals order it stays open. The Beast Master is not named here; his name is owed to a later rule with a collision check. Every limit already locked for each of them holds in this fight (MCD-144, MCD-223, SBD-044). Reserved: no entry set before Book 1 may dramatize or foreshadow the second attempt. Extends SBD-059, SBD-044, CC-161, MCD-004, MCD-1904 and MCD-1906.
+**MCD-1907** (category: book1-structure). The second attempt on Kanja, a Book 1 beat; Abad's rulings, 2026-10-06: 'we need a second attempt'; 'The Quiet Hand (SBD-059). A standing SEALBLACK cell kept for politically sensitive individual targets.'; 'paired with I savage team of animals and 1 Brute Beast Master.' ('I' reads 'a'); 'Kanja, Pyro & The Triad UNLEASHED.'; on when it comes, 'the second attacks have come at some point after the first not to long after the first as they think they regrouped and figured out how to attack them which turns out disastrous for the attackers.'; and on the placement, 'after the Karkosa Heist, with the Trinity.' After the Three Ronin fail at the Last Breakfast (MCD-1904), SBD leadership sends a second attempt. It comes after the Karkosa Heist and before the Great Breach of Book 1's epilogue (MCD-070), not long after the first, once leadership believes it has regrouped and worked out how to attack Kanja, Pyro and the Triad together. The SBD is still clandestine then (MCD-004), and the attackers stay unidentified to the world. The attack is made by the Quiet Hand (SBD-059), paired with a savage team of animals under one brute Beast Master. The Quiet Hand normally works untraceable removals of individuals who need no anomaly-handling expertise (SBD-059); against Kanja, Pyro and the Triad, leadership pairs it with the Beast Master and his animals to supply what the cell lacks. Kanja, Pyro and the Triad (Varkul, Varruk and Sorya, CC-094 to CC-099) meet it unleashed, Kanja with the Trinity reclaimed at the Heist (MCD-1902): Mafesto, Onyx of Oblivion and Obsidian Malice. They kill attackers in this fight. It comes after Maro's murder, when the turn CC-161 reserves for Book 1 may run. They defeat it, and it ends in disaster for the attackers. The Triad do not learn that the SBD sent it, so SBD-044's arc of Varkul discovering the SBD's surveillance apparatus stays intact. The fight happens away from witnesses. Kanja stays within his Book 1 ceiling (MCD-227), Varkul stays below his maximum (SBD-044), and MCD-144's openly seen register holds. Abad, 2026-10-06, accepting the recommendations put to him on these points: 'all recommendations, run the census.' The deployment runs under SBD-051's two-signature rule: the Executive Director or a named proxy signs the operational authorization and Grave-Analyst Abbott Gage gives the technical clearance. Who signs it, and whether the four principals order it, stays open. The Beast Master is not named here; his name is owed to a later rule with a collision check. Every limit already locked for each of them holds in this fight (MCD-144, MCD-223, SBD-044). Reserved: no entry set before Book 1 may dramatize or foreshadow the second attempt. Extends SBD-059, SBD-044, CC-161, MCD-004 and MCD-1904.
 
 ---
 
@@ -415,7 +416,7 @@ Line numbers are where the "before" text starts in the current file. ⏎ marks a
   - after: "now ran past two hundred and eighty-two years"
 - `docs/lords-of-cian/chronicles/the-last-coat-he-ever-wore.md:25` (P)
   - before: ""Two hundred and eighty-four years," he said. "That's how long the Long Mask has run, since a morning⏎on a burned wharf set its shape — not planned, not chosen, just the thing it became.""
-  - after: ""Two hundred and eighty-three years," he said. "That's how long the mask has run since the pier. A⏎morning on a burned wharf set its shape.""
+  - after: ""Two hundred and eighty-three years," he said. "That's how long the mask has run since the Pier. A⏎morning on a burned wharf set its shape.""
 
 ### (c2) Header-note changes (30)
 
@@ -660,7 +661,7 @@ Line numbers are where the "before" text starts in the current file. ⏎ marks a
   - before: "chooses to end it consciously rather than let it drift"
   - after: "chooses to end the Scourge persona consciously rather than let it drift"
 
-### (c4) Profiles, tracker, roadmap, approval list, to-do list (65)
+### (c4) Profiles, tracker, roadmap, approval list, to-do list (67)
 
 - `docs/lords-of-cian/approval-list-2026-10-03.md:17` (D)
   - before: "**1. Book 1's offset from the Sovereign Pier: 284 or 296 years?**⏎- **Recommend 284, so Kanja is 314 at Book 1.** 296 is arithmetically impossible: it would put the⏎  Fulfillment Ceremony after the Pi-Awakening, which `CC-006` sets at age 314 and `WC-022` places⏎  inside Book 1.⏎- Ten or more rules already assume 284: `CC-005`, `ARS-437` ("Onyx reads 284 years"), `MCD-269`,⏎  `CC-110`, `MCD-214`, `MCD-226`, `MCD-305`, `MCD-260`, and Maw Era IV.⏎- The Batch 56 ruling that `MCD-091` controls rested on a mistaken belief that the 284 years were a⏎  different interval from the Long Mask. This item reverses that ruling.⏎- Scope: `MCD-091`, `ARS-010`, and `CC-101` ("24-36" becomes "24"), plus seven docs.⏎- Alternative: none that holds together.⏎"
@@ -678,8 +679,8 @@ Line numbers are where the "before" text starts in the current file. ⏎ marks a
   - before: "24 years of knowing Pyro's father (`CC-110`)."
   - after: "23 years of knowing Pyro's father (`CC-110`)."
 - `docs/lords-of-cian/chronicle-tracks-status.md:26` (D)
-  - before: "age at Book 1 depends on the 284/296 ruling"
-  - after: "23 at the Fulfillment Ceremony (born in Kanja's age 290; Kanja is 313 then, Batch 378, `MCD-1901`)"
+  - before: "queued, age at Book 1 depends on the 284/296 ruling"
+  - after: "queued; age 23 at the Fulfillment Ceremony (born in Kanja's age 290; Kanja is 313 then, Batch 378, `MCD-1901`)"
 - `docs/lords-of-cian/kanja-chronicles-production-roadmap.md:37` (D)
   - before: "negotiated in secret roughly 296 years before Book 1 opens"
   - after: "negotiated in secret and concluded at the Sovereign Pier just over 283 years before Book 1 opens"
@@ -767,6 +768,9 @@ Line numbers are where the "before" text starts in the current file. ⏎ marks a
 - `docs/lords-of-cian/character-profiles/anirak.md:666` (D)
   - before: "- Era: late Long Mask, by Kanja 314, within the last ~29 years before Book 1."
   - after: "- Era: late Long Mask, by Kanja 313, within the last ~29 years before Book 1."
+- `docs/lords-of-cian/character-profiles/anirak.md:381` (D)
+  - before: "Pyro, roughly⏎    24-36 at Book 1, is younger"
+  - after: "Pyro, 23 at the Fulfillment Ceremony⏎    (`MCD-270`, `MCD-1901`), is younger"
 
 - `docs/lords-of-cian/character-profiles/pyro.md:101` (D)
   - before: "| 314 | The Last Breakfast; Long Mask ends; Pi-Awakening | `MCD-277`, `CC-005` | ~24 |⏎| Book 1 opening | Fulfillment Ceremony | `MCD-091` | ~24 or ~36 (see below) |"
@@ -866,7 +870,7 @@ Line numbers are where the "before" text starts in the current file. ⏎ marks a
 
 - `docs/lords-of-cian/chronicles/kanja-chronicle-v-the-names-in-the-correction-book.md:414` (N), before the closing asterisk: "Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date, 30 days before Kanja's 31st birthday (`MCD-1901`); the age and the moment within it are unchanged."
 - `docs/lords-of-cian/chronicles/kanja-chronicle-vi-vellacourts-rule.md:336` (N), before the closing asterisk: "Corrected Batch 378, 2026-10-05: the Dark Ledger count and the years of count recomputed from the Pier's date, 30 days before Kanja's 31st birthday (`MCD-1901`); the age and the moment within it are unchanged."
-- `docs/lords-of-cian/chronicles/kanja-chronicle-vii-the-man-who-did-not-get-up.md:425` (N), before the closing asterisk: "Corrected Batch 378, 2026-10-05: the Dark Ledger count and the years past the Pier recomputed from the Pier's date, 30 days before Kanja's 31st birthday (`MCD-1901`); the age and the moment within it are unchanged. The two sentences that named the Talisman as the cause of the weight are cut from the narration (Abad, 2026-10-05, 'yes'); the decline's cause stays out of pre-Book-1 material (`MCD-1903`)."
+- `docs/lords-of-cian/chronicles/kanja-chronicle-vii-the-man-who-did-not-get-up.md:425` (N), before the closing asterisk: "Corrected Batch 378, 2026-10-05: the Dark Ledger count and the years past the Pier recomputed from the Pier's date, 30 days before Kanja's 31st birthday (`MCD-1901`); the age and the moment within it are unchanged. The three sentences that named the Talisman as the cause of the weight are cut from the narration (Abad, 2026-10-05, 'yes'); the decline's cause stays out of pre-Book-1 material (`MCD-1903`)."
 - `docs/lords-of-cian/chronicles/the-coat-he-almost-didnt-put-back-on.md:53` (N), before the closing asterisk: "Corrected Batch 378, 2026-10-05: re-dated to age 312, in the last three weeks of that age after the Pier's 282nd anniversary (`MCD-1901`), so the chosen year ends at the coat night before the Fulfillment Ceremony; the three in-prose counts move from two hundred and eighty-three to two hundred and eighty-two years, matching the Pier date exactly."
 - `docs/lords-of-cian/chronicles/the-window-that-wouldnt-come-twice.md:56` (N), before the closing asterisk: "Corrected Batch 378, 2026-10-05: set in the first three weeks of age 313, three weeks after `MCD-1255` (`MCD-1901`); Garren Hask's ledger span moves from past two hundred and eighty-three to past two hundred and eighty-two years, matching the Pier date exactly."
 - `docs/lords-of-cian/chronicles/what-efa-gol-never-asked-twice.md:50` (N), before the closing asterisk: "Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30 days of age 290, after the Pier's 260th anniversary, so the entry's two-hundred-and-sixty-year span holds exactly."
@@ -919,7 +923,7 @@ changes in six entries: the three locked Onyx accounts (Kanja V, VI and VII) and
 entries (`MCD-1255`, `MCD-1406`, `MCD-1022`); the `MCD-1022` line is a locked-prose realignment (flag 24). Kanja
 VI's prose line "Eighteen years of count" becomes "Seventeen years of count", and Kanja VII's "Two hundred
 and ten years of dark" becomes "Two hundred and nine"; both follow from the same recomputation. Kanja VII also
-loses the two sentences that name the Talisman as the cause of the weight (Abad: "yes"); `MCD-1885` carries the note.
+loses the three sentences that name the Talisman as the cause of the weight (Abad: "yes"); `MCD-1885` carries the note.
 
 **Seconds-count arithmetic.** The three old counts assumed the Pier on Kanja's 30th birthday: each equals
 (stated age − 30) years plus some days. Each entry keeps its stated age and its moment within that age,
@@ -1089,7 +1093,7 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
       his words on the extra week are cited in `MCD-1904`.
     - `MCD-1903` adds "(good days excepted, `MCD-271`)" after the 15%-of-peak figure.
     - `MCD-1022`'s coat-night line is a locked-prose realignment: the spoken line now reads "Two hundred
-      and eighty-three years," he said. "That's how long the mask has run since the pier. A morning on a
+      and eighty-three years," he said. "That's how long the mask has run since the Pier. A morning on a
       burned wharf set its shape." It anchors the count to the Pier, which makes it exact on the coat
       night, and replaces the Batch 321 anchoring to the Long Mask. The entry's continuity note says "end
       the Scourge persona consciously".
@@ -1169,7 +1173,7 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
       removed.
     - `MCD-1904`: the attack during the Last Breakfast, the enemy's ignorance, the revenge motive, T.D.K. set
       apart, the "one day too late" belief restated.
-    - Kanja VII line 50 loses the two Talisman sentences (merge script EDITS, prose); `MCD-1885` and the entry's
+    - Kanja VII line 50 loses the three Talisman sentences (merge script EDITS, prose); `MCD-1885` and the entry's
       continuity note carry the cut. `MCD-277` gets an appended note pointing to `MCD-1904` and `MCD-1903`.
     - Awaiting list reduced to the seven items in the draft head.
 
@@ -1352,6 +1356,15 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
     - Flag 16 records that `the-night-before-the-last-coat.md` lines 17 and 28 keep the round literary "two hundred and eighty years" at age 313, not anchored to the Pier and deliberately left as is.
     - Sections (b) and (c) change only in the `pyro.md` finding 20 and 21 pairs and the age-table and A2 wording. The script's batch note and the `CLAUDE.md` paragraph carry the corrected confirmed and covered lists.
 
+39. **Revision 15 changes.** Applied after a sixth independent review of revision 14.
+    - `MCD-1907`'s authorization sentence now reads "The deployment runs under SBD-051's two-signature rule: the Executive Director or a named proxy signs the operational authorization and Grave-Analyst Abbott Gage gives the technical clearance. Who signs it, and whether the four principals order it, stays open." It replaces the reference to `MCD-1906`'s chain, which would have carried `MCD-1906`'s "same leadership proxy" into an attempt whose signer nobody has ruled on. `MCD-1906` is removed from `MCD-1907`'s Extends list, since the rule cited it only for the chain. "Open in the rule text" item 3, the batch note and the `CLAUDE.md` paragraph carry the change.
+    - `anirak.md` finding 11 quoted `CC-101` as "Pyro, roughly 24-36 at Book 1, is younger"; a new pair in section (c4) changes it to "Pyro, 23 at the Fulfillment Ceremony (`MCD-270`, `MCD-1901`), is younger", the text `CC-101` now reads. The (c4) heading count is corrected to 67, the number of D edits in the script.
+    - "Confirmed by Abad", revision 8 clause: "the Three Ronin make the attack at the Last Breakfast (`MCD-1904`), and, since `MCD-092`'s reckonings fall in Books 4 and 5, all three survive it". The survival follows from the locked reckonings; it was not an answer of his.
+    - "Covered only by the final approval" gains (f) the Eve of Awakening on the fifth day after his birthday (Interregnum day 6, `MCD-1901`) and (g) the rationale for pairing the Quiet Hand with the Beast Master (`MCD-1907`, from `SBD-059`). The section lists seven items; the draft head, the batch note and the `CLAUDE.md` paragraph carry the count.
+    - Kanja VII: the cut removes three sentences ("The long Rexmar span spends slowly." "The Talisman spends him another way and presses him down into his own bones." "Year by year."), not two; the appended note, the Touches paragraph and the flag that records the cut now say three.
+    - `chronicle-tracks-status.md` line 26: the existing pair is replaced, not stacked, and the line reads "...findings queued; age 23 at the Fulfillment Ceremony (born in Kanja's age 290; Kanja is 313 then, Batch 378, `MCD-1901`)".
+    - `the-last-coat-he-ever-wore.md`: the `MCD-1022` prose line reads "since the Pier", with the capital, matching the rest of the batch.
+
 ### (c7) Edited directly, outside the merge script
 
 - `docs/lords-of-cian/character-profiles/pyro.md`: Section 1 quotes of `CC-101` and `CC-110` (two places),
@@ -1361,7 +1374,7 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
 - The `research/knowledge-home/candidates/2026-10-05/` notes and `research/grounded-bastion-audit-2026-10-05.md`
   listed in flag 18.
 
-**Mechanical gate.** `python3 scripts/connective_tissue_check.py` on this draft exits 0. Gate step 2 has run five times
-(the independent reviews behind revisions 3, 5, 11, 13 and 14; the third, fourth and fifth came back not clean and revisions 11, 13 and 14 carry their findings). A fresh independent review of revision 14 is still owed before
+**Mechanical gate.** `python3 scripts/connective_tissue_check.py` on this draft exits 0. Gate step 2 has run six times
+(the independent reviews behind revisions 3, 5, 11, 13, 14 and 15; the third, fourth, fifth and sixth came back not clean and revisions 11, 13, 14 and 15 carry their findings). A fresh independent review of revision 15 is still owed before
 this draft is presented.
 
