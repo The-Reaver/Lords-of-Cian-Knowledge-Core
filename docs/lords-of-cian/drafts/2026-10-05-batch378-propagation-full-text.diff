@@ -1,6 +1,6 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,128 @@
+@@ -4439,2 +4439,150 @@
  
 +**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1907`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
@@ -71,7 +71,8 @@
 +  the fall belongs to the surge. The Last Breakfast is the first since Maro's murder. Abad, 2026-10-06:
 +  "The Rexmar Lineage honors the cook." and "Maro knows". Maro knows Pyro is his grandson and Kanja knows
 +  Pyro is his son (`CC-079`); both know why Pyro always joins, and neither tells him (`CC-047`,
-+  `ARS-414`).
++  `ARS-414`). Entries set before Book 1 may show Maro, Kanja and Pyro at their ceremonial breakfasts; the Last Breakfast and what happens
++  there stay reserved (`MCD-1902`, `MCD-1904`).
 +- **The order chain and the second attempt (`MCD-1906`, `MCD-1907`).** Abad, 2026-10-06, verbatim (the
 +  "I" in "I savage team" reads "a"):
 +  > "option 1 proxy, the Three Ronin, Book 4 works.
@@ -115,7 +116,28 @@
 +  and what the world sees is the surge's aftermath; how the Ronin
 +  escape the surge is left to the Book 1 scene and stays open; on that day the breakfast moves to the
 +  Lighthouse at its usual hour, and the unchanged hour is how the enemy knows when to find him. The
-+  reveal's placement stays open. "Run the census" changes no rule in this batch.
++  reveal's placement stays open. "Run the census" changes no rule in this batch. The stated reason put to him for the
++  sanitizing recommendation, that canon says the wet-work team operated once, was later found to conflict with `MCD-1853`; the recommendation
++  stands, `MCD-092` is amended to match, and the `SBD-059` correction is owed.
++- **Abad's answer of 2026-10-06 to six questions (`MCD-1906`, `MCD-070`, `MCD-1901`, `MCD-1903`, `MCD-1905`).** Abad, verbatim:
++  "all yes on yiu 6 questions" ("yiu" reads "you"). The six questions, each with its recommendation, as asked:
++  > 1. "**The chain of command.** Confirm it: Trust principals order it, the SBD proxy and Gage sign it off, the Ronin carry it out. *Recommend yes.*"
++  >
++  > 2. "**Book 1's acts overlap.** The investigation runs on through the Interregnum. *Recommend yes.*"
++  >
++  > 3. "**The late Scourge placements.** These are the entries pinned to the last weeks of ages 312 and 313. *Recommend yes.*"
++  >
++  > 4. "**The Haku legend.** Kanja knows the legend but not that it applies to him. *Recommend yes.*"
++  >
++  > 5. "**The ceremonial breakfast before Book 1.** Can entries set before Book 1 show Maro, Kanja and Pyro at their breakfasts? *Recommend yes.* Only the Last Breakfast and what happens there stay reserved."
++  >
++  > 6. "**Batch 379.** Should I draft the Trinity rule, the lock list and the two era fixes once 378 is locked?"
++
++  He confirms the order chain reconciled with `CC-082` (`MCD-1906`), the `MCD-070` act overlap (the Investigation opens at the murder and runs
++  on through the Interregnum), the late-Scourge placements (`MCD-1901`) and Kanja's knowing the Haku legend without knowing it applies to him
++  (`MCD-1903`), and he allows entries set before Book 1 to show Maro, Kanja and Pyro at their ceremonial breakfasts (`MCD-1905`), with the
++  Last Breakfast and what happens there reserved (`MCD-1902`, `MCD-1904`). Question 6 needs no rule change: Batch 379 (the Trinity rule, the
++  lock list and the two era fixes) follows once this batch is locked.
 +- **Propagation.** 54 rule statements amended; 60 entries and 14 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
 +  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
@@ -323,7 +345,7 @@
 +| 313 (last day) | Fulfillment Ceremony; Maro and Aethelgard murdered | `MCD-091`, `MCD-1901` | 23 (`CC-101`) |
 +| 314 (sixth day after the birthday) | The Last Breakfast; Long Mask ends; Pi-Awakening | `MCD-277`, `CC-005`, `MCD-1901` | 23 |
  
-@@ -264,5 +264,13 @@
+@@ -264,5 +264,14 @@
    Lighthouse's pendant activate"; the pendant's severing triggers the Pi-Awakening (`CC-005`), which
 -  `WC-022` places after the murder and the 10-Day Interregnum. Under A1 option 1 or 3, the meal is therefore a
 +  falls inside the 10-Day Interregnum, on its seventh day, after the murder (`WC-022` as amended, `MCD-1901`). The meal is therefore a
@@ -334,12 +356,13 @@
 +  upper room of the Gilded Lighthouse, with Pyro serving as the cook. The Three Ronin strike during the meal, and the surge that answers
 +  the threat snaps the pendant.
 +- `MCD-1905` — The Rexmar lineage honors the cook. Maro knows Pyro is his grandson, and Maro and Kanja both know why Pyro always joins the
-+  breakfast and never tell him.
++  breakfast and never tell him. Entries set before Book 1 may show Maro, Kanja and Pyro at their ceremonial breakfasts; the Last
++  Breakfast and what happens there stay reserved (`MCD-1902`, `MCD-1904`).
 +- `MCD-1907` — The second attempt, after the Karkosa Heist and before the Great Breach: the Quiet Hand with a savage team of animals under
 +  one Beast Master. Kanja, Pyro and the Triad meet it unleashed, within every limit already locked for each of them (`MCD-223`).
 +  These three are his locked Book 1 beats.
  
-@@ -314,5 +322,5 @@
+@@ -314,5 +323,5 @@
    `MCD-1900` (an Anirak Collection, roughly 300), `MCD-813` (305), `MCD-1252` (308), `MCD-1253`
 -  (310), `MCD-1254` (312), `MCD-1255`, `MCD-1406` and `MCD-1407` (313), `MCD-1408` (314), and
 -  `MCD-1022` ("The Last Coat He Ever Wore," 314, the night
@@ -348,12 +371,12 @@
 +  `MCD-1022` ("The Last Coat He Ever Wore," 313, the night
 +  the Scourge coat comes off, in the last month before the Fulfillment Ceremony, `MCD-1901`; the Last Breakfast, `MCD-277`, follows the Ceremony by seven days). `MCD-1472` (age 275)
    and `MCD-1477` (age 258) fall before his birth.
-@@ -412,3 +420,3 @@
+@@ -412,3 +421,3 @@
      called "the Rexmar Apron." Whether that name is in-world, who gave it, and why are unstated.
 -17. **Maturation and child-safety.** He is roughly 0-24 across Kanja 290-314. `MCD-277`'s Pyro Incident
 +17. **Maturation and child-safety.** He is roughly 0-23 across Kanja 290-313. `MCD-277`'s Pyro Incident
      puts him at ~6; `MCD-272` at ~18. No rule locks his maturation rate (his biology is part Karesian
-@@ -423,5 +431,5 @@
+@@ -423,5 +432,5 @@
      was 12km away from his son's birth.
 -19. **Book 1-4 placement.** Apart from the Last Breakfast (`MCD-277`), Book 3's Nelle beats
 -    (`CC-123`/`126`), and Book 5 (`MCD-097`/`221`/`223`), no Book 1, 2, or 4 role for Pyro is locked.
@@ -362,19 +385,19 @@
 +    (`CC-123`/`126`), and Book 5 (`MCD-097`/`221`/`223`), no other Book 1, 2, or 4 role for Pyro is locked.
 +    The Triad's only locked book-level beat is the second attempt (`MCD-1907`).
  20. **Corpus silence.** Zero entries mention Pyro or the Triad, though locked entries cover Kanja
-@@ -431,4 +439,4 @@
+@@ -431,4 +440,4 @@
      and a raptor with a 27-foot wingspan living aboard would be hard to leave out of a scene.
 -21. **How the Long Mask ends.** `MCD-1022`: at Kanja 314 the coat comes off for good, "ending the
 -    span by conscious choice." Against it: `CC-005`, the Long Mask lasted 284 years, "ending when the
 +21. **How the Long Mask ends.** `MCD-1022`: at Kanja 313 the coat comes off for good, "ending the
 +    span by conscious choice." Against it: `CC-005`, the Long Mask lasted just over 283 years (`MCD-1901`), "ending when the
      Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening";
-@@ -569,3 +577,3 @@
+@@ -569,3 +578,3 @@
    `MCD-1900` (about 300), `MCD-813` (305), `MCD-1252` (308), `MCD-1253` (310), `MCD-1254` (312), `MCD-1255`,
 -  `MCD-1406`, `MCD-1407` (313), and `MCD-1408`, `MCD-1022` (314). Those set after he comes aboard
 +  `MCD-1406`, `MCD-1407`, and `MCD-1408`, `MCD-1022` (313). Those set after he comes aboard
    are read as scenes he is off the page for: every one under option 1, those from 296 under
-@@ -671,3 +679,3 @@
+@@ -671,3 +680,3 @@
    - **The ones who keep the secret.** Kanja (`CC-079`); Stormbreaker and Azar, who know or suspect
 -    (`CC-079`; which of them knows is left open, an A3 option 1 cost); Sephtis for 24
 +    (`CC-079`; which of them knows is left open, an A3 option 1 cost); Sephtis for 23
