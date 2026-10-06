@@ -1,13 +1,14 @@
 # Batch 378 draft: the Long Mask, the Accords and Book 1 on one clock
 
-*UNLOCKED DRAFT, revision 8, for Abad's approval, 2026-10-06. Revision 2 was revised for Abad's ruling that
+*UNLOCKED DRAFT, revision 9, for Abad's approval, 2026-10-06. Revision 2 was revised for Abad's ruling that
 the Long Mask ends after his 314th birthday. Revision 3 followed an independent review that came back not
 clean. Revision 4 carries Abad's later confirmations and keeps the rule statements free of status labels. Revision 5 follows a second independent review and carries
 Abad's confirmation of the Interregnum counting. Revision 6 carries Abad's answers on the murder's day, the Kanja VII cut, the
 Last Breakfast attack, Sephtis, Lauris and the enemy, and his correction on the Rebellion's outcome. Revision 7 carries his two rulings on where the Last
 Breakfast is held and who shares it, and adds `MCD-1905`. Revision 8 carries his answers of 2026-10-05/06 on who gave the
 orders, who strikes at the breakfast, Sephtis, whose culture honors the cook and whether Maro knows, and his rulings on the second
-attempt and its timing, and adds `MCD-1906` and `MCD-1907`. Nothing here is locked until Abad approves it in his own
+attempt and its timing, and adds `MCD-1906` and `MCD-1907`. Revision 9 carries his ruling that the second attempt comes after the Karkosa Heist, with the Trinity, explains the
+Quiet Hand's pairing, and turns the reported tensions into questions for Abad with recommendations. Nothing here is locked until Abad approves it in his own
 words. Resolves approval-list item 1 under Abad's rulings of 2026-10-05. Merge script:
 `merge_batch378_pact_long_mask_timeline.py` (dry run clean; propagation diff at
 `docs/lords-of-cian/drafts/2026-10-05-batch378-propagation-full-text.diff`).*
@@ -78,6 +79,7 @@ Abad's rulings, 2026-10-05, in his own words:
   >
   > Maro knows"
 - Revision 8, Abad's ruling of 2026-10-06 on when the second attempt comes, verbatim: "the second attacks have come at some point after the first not to long after the first as they think they regrouped and figured out how to attack them which turns out disastrous for the attackers."
+- Revision 9, Abad's ruling of 2026-10-06 on the second attempt's placement, verbatim: "after the Karkosa Heist, with the Trinity."
 
 **Confirmed by Abad:** the Pier is 30 days before his 31st birthday (so several appended notes and the
 three Onyx seconds-counts state it as fact); the Awakening falls on the sixth day after his 314th birthday,
@@ -95,8 +97,8 @@ Maro's and Kanja's, father and son; Pyro always joins as the cook, the cook's ho
 he always joins. Revision 8 adds, from Abad's answers of 2026-10-05/06: the orders for the regicide and the strike are signed by an unnamed SBD leadership member as the Director's
 named proxy, with Abbott Gage's technical clearance, and Corrance's own knowledge stays open (`MCD-1906`); the Three Ronin make the attack at the Last Breakfast and all three
 survive it (`MCD-1904`); Sephtis tells Kanja early in Book 4 (`MCD-1903`); the Rexmar lineage honors the cook, and Maro knows Pyro is his grandson
-(`MCD-1905`); a second attempt by the Quiet Hand with a savage team of animals under one Beast Master comes not long after the first, and Kanja,
-Pyro and the Triad defeat it to the attackers' disaster (`MCD-1907`).
+(`MCD-1905`); a second attempt by the Quiet Hand with a savage team of animals under one Beast Master comes after the Karkosa Heist, not long after the first, and Kanja
+fights it with the Trinity reclaimed, he, Pyro and the Triad defeating it to the attackers' disaster (`MCD-1907`).
 
 **Awaiting Abad's confirmation.** The rule statements below state these facts plainly so the locked text
 does not read stale; the approval must cover each one explicitly.
@@ -111,14 +113,18 @@ does not read stale; the approval must cover each one explicitly.
 5. Kanja's Haku-legend knowledge (`MCD-1903`: he knows the legend and does not know that it applies to him). Kept
    from the question, not separately confirmed: Abad's answer addressed the enemy's side and did not dispute
    this half.
-6. The second attempt's placement against the Karkosa Heist, a narrower question than its timing: "Does the second attempt fall before the Karkosa Heist (Kanja without the Trinity, `MCD-1902`) or after it (Kanja with the Trinity reclaimed)?" `MCD-1907` holds either way and states nothing about the Trinity; flag 31 reports what each answer does.
-7. May entries set before Book 1 show the ceremonial breakfast (Maro, Kanja, Pyro the cook)? `MCD-1902` bars
+6. May entries set before Book 1 show the ceremonial breakfast (Maro, Kanja, Pyro the cook)? `MCD-1902` bars
    only the murder, Kanja's reading of it and the reclaiming of the Trinity, and the Reserved clause of `MCD-1904`
    bars the trigger and the enemy's belief. Nothing yet reserves the breakfast custom itself.
-8. The tensions reported in flags 30 and 31 (the order chain, and the second attempt against the locked limits). None is resolved in the rule text; each needs Abad's ruling or his
+7. (a) Does "unleashed" (`MCD-1907`) include kills? Recommend yes: the attempt comes after Maro's murder, when `CC-161` lets the reserved rage turn run, and "disastrous for the attackers" reads as lethal.
+8. (b) What does the Triad learn of who sent the second attempt? Recommend they do not learn it was the SBD, so `SBD-044`'s arc of Varkul discovering the surveillance apparatus stays intact.
+9. (c) `MCD-144`'s Book 1 register (2,000-4,000x openly seen) against a full Trinity fight. Recommend the fight happens away from witnesses, with Kanja inside his Book 1 ceiling (about 18,000x, `MCD-227`) and Varkul below his maximum (`SBD-044`).
+10. (d) Did the SBD wet-work team sanitize after the breakfast strike (`MCD-092`)? Recommend no: `SBD-059` says that team operated once, and the surge's aftermath is what the world sees.
+11. (e) How do the Ronin escape the surge? Recommend leaving it open for the Book 1 scene.
+12. The remaining tensions in flags 30 and 31 (the order chain and SBD sizing, Director review of files, `CULT-044`, `CULT-054` and `CULT-080`, the Trinity's state after the seal, the Triad's era limits, Pyro's baseline). None is resolved in the rule text; each needs Abad's ruling or his
    confirmation of the reading given.
 Settled, no longer awaiting (revision 8): who makes the attack (the Three Ronin, `MCD-1904`); who gave the orders (`MCD-1906`); the
-second attempt's timing (not long after the first, `MCD-1907`); whose culture honors the cook (the Rexmar lineage, `MCD-1905`); whether Maro knows
+second attempt's timing and placement (after the Karkosa Heist, not long after the first, with the Trinity, `MCD-1907`); whose culture honors the cook (the Rexmar lineage, `MCD-1905`); whether Maro knows
 (he does, `MCD-1905`); and whether Pyro is told (he is never told why he always joins, and `CC-047` and `ARS-414` already settle that he does not
 know his parentage; `pyro.md`'s A3 and A4 questions stay open).
 Resolved under ruling (a), no longer awaiting: where the Last Breakfast is held, and the 2026-08-13 staging's fall
@@ -155,7 +161,7 @@ approval-list item 1". Next free IDs verified: the highest MCD ID in the ledger 
 
 **MCD-1906** (category: World Mechanics). The order chain behind the regicide and the strike on Kanja; Abad's ruling, 2026-10-06: 'option 1 proxy, the Three Ronin, Book 4 works.' The double regicide at the Fulfillment Ceremony (MCD-091, MCD-092) and the strike on Kanja at the Last Breakfast (MCD-1904) are SEALBLACK deployments ordered by SBD leadership (SBD-050). Under SBD-051's two-signature rule, a member of SBD leadership signs the operational authorization as the Executive Director's named proxy, and Grave-Analyst Abbott Gage gives the technical clearance. The proxy is named in the SBD's own authorization record, and canon does not name them. At least one member of SBD leadership had advance knowledge of the regicide (CULT-053). Whether Executive Director Ilona Corrance (SBD-046) knew of either deployment stays open. Motive for the regicide: it served leadership's own institutional interests, removing a peace agreement and killing both kings before a coalition could scrutinize the SBD (CULT-053, CULT-054). Motive for the strike: Kanja is Maro's next of kin, who would seek revenge, and he brought the enemy's whole operation to its knees (MCD-1902, MCD-1904). The regicide's funding trail runs through the Zenith Scrip-bank clearinghouse of CULT-080. The Three Ronin are the hands in both deployments (MCD-092). The proxy's identity is a thread of the Book 1 investigation (MCD-070, CULT-053). Reserved: no entry set before Book 1 may name the proxy or point at who they are. Extends SBD-050, SBD-051, SBD-059, CULT-053, CULT-054, CULT-080, MCD-091, MCD-092, MCD-1853 and MCD-1904.
 
-**MCD-1907** (category: book1-structure). The second attempt on Kanja, a Book 1 beat; Abad's rulings, 2026-10-06: 'we need a second attempt'; 'The Quiet Hand (SBD-059). A standing SEALBLACK cell kept for politically sensitive individual targets.'; 'paired with I savage team of animals and 1 Brute Beast Master.' ('I' reads 'a'); 'Kanja, Pyro & The Triad UNLEASHED.'; and on when it comes, 'the second attacks have come at some point after the first not to long after the first as they think they regrouped and figured out how to attack them which turns out disastrous for the attackers.' After the Three Ronin fail at the Last Breakfast (MCD-1904), SBD leadership sends a second attempt. It comes not long after the first, once leadership believes it has regrouped and worked out how to attack Kanja, Pyro and the Triad together. The attack is made by the Quiet Hand (SBD-059), paired with a savage team of animals under one brute Beast Master. Kanja, Pyro and the Triad (Varkul, Varruk and Sorya, CC-094 to CC-099) meet it unleashed and defeat it, and it ends in disaster for the attackers. The deployment runs through the order chain of MCD-1906: the same leadership proxy signs the operational authorization and Grave-Analyst Abbott Gage gives the technical clearance (SBD-051). The Beast Master is not named here; his name is owed to a later rule with a collision check. Every limit already locked for each of them holds in this fight (MCD-144, MCD-223, SBD-044). Reserved: no entry set before Book 1 may dramatize or foreshadow the second attempt. Extends SBD-059, SBD-044, MCD-1904 and MCD-1906.
+**MCD-1907** (category: book1-structure). The second attempt on Kanja, a Book 1 beat; Abad's rulings, 2026-10-06: 'we need a second attempt'; 'The Quiet Hand (SBD-059). A standing SEALBLACK cell kept for politically sensitive individual targets.'; 'paired with I savage team of animals and 1 Brute Beast Master.' ('I' reads 'a'); 'Kanja, Pyro & The Triad UNLEASHED.'; on when it comes, 'the second attacks have come at some point after the first not to long after the first as they think they regrouped and figured out how to attack them which turns out disastrous for the attackers.'; and on the placement, 'after the Karkosa Heist, with the Trinity.' After the Three Ronin fail at the Last Breakfast (MCD-1904), SBD leadership sends a second attempt. It comes after the Karkosa Heist (MCD-070), not long after the first, once leadership believes it has regrouped and worked out how to attack Kanja, Pyro and the Triad together. The attack is made by the Quiet Hand (SBD-059), paired with a savage team of animals under one brute Beast Master. The Quiet Hand normally works untraceable removals of individuals who need no anomaly-handling expertise (SBD-059); against Kanja, Pyro and the Triad, leadership pairs it with the Beast Master and his animals to supply what the cell lacks. Kanja, Pyro and the Triad (Varkul, Varruk and Sorya, CC-094 to CC-099) meet it unleashed, Kanja with the Trinity reclaimed at the Heist (MCD-1902): Mafesto, Onyx of Oblivion and Obsidian Malice. They defeat it, and it ends in disaster for the attackers. The deployment runs through the order chain of MCD-1906: the same leadership proxy signs the operational authorization and Grave-Analyst Abbott Gage gives the technical clearance (SBD-051). The Beast Master is not named here; his name is owed to a later rule with a collision check. Every limit already locked for each of them holds in this fight (MCD-144, MCD-223, SBD-044). Reserved: no entry set before Book 1 may dramatize or foreshadow the second attempt. Extends SBD-059, SBD-044, MCD-1904 and MCD-1906.
 
 ---
 
@@ -1060,25 +1066,30 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
     - `CULT-080` documents the regicide's funding trail alone, through the Zenith clearinghouse over three years of reports.
       `MCD-1906` extends nothing to the strike, so the funding of the strike and of the second attempt is unstated. The strike comes seven
       days after the murder, so the Ronin are still in place; no rule says where they are after the Ceremony.
-31. **Revision 8: the second attempt (`MCD-1907`) against the locked limits.** Abad's timing ruling (not long after the first, once
-    leadership believes it has worked out how to attack them, ending in disaster for the attackers) puts it after the Last Breakfast and so after day 7 of the
-    Interregnum. `MCD-070` puts the Karkosa Heist after the Interregnum, which ends on day 10; no rule fixes the Heist's date. The
-    rule states nothing about the Trinity, so it holds on either answer to awaiting item 6. The effect of each answer:
-    - Before the Heist: Kanja fights without Mafesto, Onyx of Oblivion and Obsidian Malice (`MCD-1902`, `MCD-246`, `ARS-437`, `MCD-070`). The
-      Scourge's Forge-Coat came off on the coat night (`MCD-1022`, `ARS-348` V4 to age 313), so no locked rule says what kit he carries
-      after it, and no rule sets how soon after the surge and the fall of the Last Breakfast he can fight.
-    - After the Heist: Kanja has the Trinity back and the Heartline's full channel (`ARS-437`). The turn that `CC-161` and `MCD-1902`
-      reserve for after Maro's death (the urge to destroy his enemies, with the verdict-then-execution register) is already running.
-      Whether "unleashed" then includes kills is unset.
-    Tensions found on either answer, none resolved in the rule text:
-    - `MCD-144`: Book 1's openly seen combat register is 2,000-4,000x, with the world's response imperceptible. Kanja's Book 1 ceiling of
-      about 18,000x (`MCD-227`; 6,000x resting) appears only in brief, suppressed or unwitnessed moments, and `MCD-227` does not say whether those
-      figures hold before or after the Awakening. His 32,000x belongs to Book 3 (`MCD-218`). A reading that keeps the limits: the fight is
-      unwitnessed or far from witnesses, and Kanja shows no more than his ceiling.
-    - `SBD-044`: Varkul's ceiling is never shown maxed. "Unleashed" for Varkul must stay below it. `SBD-044` also leaves worthy opponents for the Triad to be drawn from SBD captive or
+31. **Revisions 8 and 9: the second attempt (`MCD-1907`) against the locked limits.** Abad's rulings put it after the Last Breakfast (day 7 of the
+    Interregnum), "after the Karkosa Heist, with the Trinity", and not long after the first attempt.
+    - Placement against `MCD-070`. The order is Investigation, then the 10-Day Interregnum (which ends on day 10), then the Karkosa Heist, then the
+      epilogue (the Great Breach, the SBD uncovered, T.D.K.'s dormancy ends; `MCD-004`, `CULT-009`). After the Heist the attempt can fall in three
+      places: between the Heist and the Great Breach; inside the epilogue, as part of the Breach and the SBD's uncovering; or after the Breach.
+      The first two stay inside Book 1. The third is Book 2's opening ground (`MCD-279`) and would sit against `MCD-1907`'s category and "Book 1
+      beat". The rule asserts none of the three. Before the Breach, the SBD is still clandestine (`MCD-004`), which fits the attackers staying
+      unidentified. Inside the epilogue it could be part of the uncovering, which would sit against the recommended answer to question 8.
+      "Not long after the first" and "after the Heist" read together only if the Heist follows the Interregnum closely; no rule fixes the Heist's date or length.
+    - The Trinity is back in Kanja's hands from the Heist (`MCD-1902`, `ARS-010`, `ARS-437`), so Mafesto, Onyx of Oblivion and Obsidian Malice are in play.
+      No locked rule says what the 283-year seal did to them. `ARS-342` says Obsidian Malice banks charge slowly while dormant and gives the
+      two-year Black Trench figure, so the banked charge after 283 years is unstated. Mafesto's bio-bond after the same span is unstated. The Heartline's full
+      channel is restored at grip contact (`ARS-437`).
+    - `MCD-144`: Book 1's openly seen combat register is 2,000-4,000x, with the world's response imperceptible without diagnostic tools. Kanja's
+      Book 1 ceiling of about 18,000x (`MCD-227`; 6,000x resting) is a concealed apex that appears only in brief, suppressed or unwitnessed moments;
+      `MCD-227` does not say whether those figures hold before or after the Awakening or with or without the Trinity. A full Trinity fight shows
+      Mafesto's Kinetic Transfer System, Obsidian Malice's discharge (3-5 second recharge, `ARS-030`) and Onyx's powers at close range, which
+      no locked rule places inside the 2,000-4,000x register. The Quiet Hand and a beast team carry no density rating, so the fight needs less than the
+      ceiling. Reading that keeps the limits: the fight is away from witnesses and Kanja stays inside the ceiling (question 9).
+    - `CC-161`: it governs pre-Book-1 material only. The second attempt falls after the murder, when the urge to destroy his enemies and the
+      verdict-then-execution register are reserved to run (`CC-161`, `MCD-1902`). Whether "unleashed" includes kills is question 7.
+    - `SBD-044`: Varkul's ceiling is never shown maxed, so his "unleashed" stays below it. `SBD-044` also leaves worthy opponents for the Triad to be drawn from SBD captive or
       experimental stock; an animal team that ends in disaster for its handlers is read as that stock but is no worthy opponent. Varkul's own arc has him begin unaware
-      of the SBD's apparatus and discover it later. A direct strike by an SBD cell on the Triad sits against that, unless the Triad
-      and Kanja do not learn who sent it; the rule is silent on what they learn.
+      of the SBD's apparatus and discover it later. A direct SBD strike on the Triad sits against that unless they do not learn who sent it (question 8).
     - Triad era gates and abilities: the Triad is bonded to Pyro first (`CC-048`, `CC-095`, `CC-097`, `CC-099`), and `ARS-412`'s Guardian Clause
       confines the Harrow Ring to Pyro-vowed defense, so Pyro must be present and the strike must involve him for them to act. Varruk is
       grounded in enclosed spaces (`CC-099`), so the setting matters. Varkul's Harrow Presence (`CC-094`) already collapses discipline in
@@ -1090,15 +1101,12 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
       Harrow Ring Clause Conditions are two of the six Domains. A direct strike on the Triad implies those flags were not active, or that the
       Domain was read as clear, which would itself be one of the false assumptions the Map exists to catch. `SBD-059` calls the Quiet Hand the cell leadership reaches
       for first under the Tighten posture, a deception role, and describes its targets as needing no anomaly-handling expertise and its
-      work as untraceable. A direct assault with an animal team under a Beast Master is outside that description. The Quiet Hand's 7 plus the Beast
+      work as untraceable. `MCD-1907` states the pairing with the Beast Master as leadership supplying what the cell lacks, and does not call it wise. The Quiet Hand's 7 plus the Beast
       Master makes 8, inside `SBD-050`'s 6 to 8; the animals are not personnel.
-    - Pyro: `MCD-223` leaves his Book 5 peak unlocked and sealed behind a reality-scar, with only the Thermal Variant baseline, Metabolic
-      Overdrive and Causal Convergence locked. "Unleashed" for Pyro must stay within those three, with no density figure. `CC-047` has him not
-      knowing his parentage.
-    - `CC-161` governs pre-Book-1 material only, so its necessity-kill rule does not bind this fight. It reserves Kanja's urge to destroy
-      his enemies for the turn after Maro's death, and the second attempt falls after the murder.
-    - Reading of "unleashed" that breaks none of the limits above: unwitnessed or far from witnesses; Kanja within his ceiling; Varkul below
-      his; Pyro within his three baseline abilities. It is not locked and awaits Abad.
+    - Pyro: `MCD-223` locks only the Thermal Variant baseline, Metabolic Overdrive and Causal Convergence. "Unleashed" for Pyro stays within those
+      three, with no density figure. `CC-047` has him not knowing his parentage.
+    - Reading of "unleashed" that breaks none of the limits above: away from witnesses; Kanja within his ceiling; Varkul below
+      his; Pyro within his three baseline abilities. It is not locked and awaits Abad (question 9).
 32. **Revision 8 changes.**
     - Rulings list: Abad's five answers, his full reply, and the timing ruling, each verbatim, also carried into the batch note and the
       `CLAUDE.md` paragraph.
@@ -1111,6 +1119,15 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
       Heist open. The IDs are unused (the highest MCD ID is `MCD-1900`). The script's `NEW_IDS`, parser, batch note and `CLAUDE.md` paragraph carry both.
     - Awaiting list: rewritten to the eight items in the draft head; the Pyro question and the culture question are settled.
     - Sections (b) and (c) are unchanged in this revision.
+
+33. **Revision 9 changes.**
+    - Rulings list: Abad's "after the Karkosa Heist, with the Trinity.", also carried into the batch note and the `CLAUDE.md` paragraph.
+    - `MCD-1907`: the attempt comes after the Karkosa Heist, not long after the first, and Kanja fights it with the Trinity reclaimed (Mafesto, Onyx of Oblivion,
+      Obsidian Malice); a sentence explains the Quiet Hand's pairing in terms of `SBD-059`.
+    - Awaiting list: the before-or-after question is removed; the tensions on kills, what the Triad learns, `MCD-144`, the wet-work team's sanitizing and the Ronin's escape
+      are now questions 7 to 11, each with a recommendation. The full tension detail stays in flags 30 and 31.
+    - Where the attempt can fall against the epilogue is reported in flag 31; the rule asserts nothing about it.
+    - Sections (b) and (c) are unchanged.
 
 ### (c7) Edited directly, outside the merge script
 

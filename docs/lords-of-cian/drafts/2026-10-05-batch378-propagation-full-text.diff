@@ -1,6 +1,6 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,110 @@
+@@ -4439,2 +4439,115 @@
  
 +**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1907`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
@@ -97,7 +97,12 @@
 +  one Beast Master (unnamed) comes as a second attempt. Abad, on when it comes: "the second attacks have come
 +  at some point after the first not to long after the first as they think they regrouped and figured out how
 +  to attack them which turns out disastrous for the attackers." Kanja, Pyro and the Triad meet it unleashed
-+  and defeat it. Whether it falls before or after the Karkosa Heist stays open (`MCD-1907`).
++  and defeat it. Abad, on the placement: "after the Karkosa Heist, with the Trinity." The attempt comes
++  after the Heist (`MCD-070`), not long after the first, and Kanja fights it with the Trinity reclaimed
++  (`MCD-1902`): Mafesto, Onyx of Oblivion and Obsidian Malice. The Quiet Hand normally works untraceable
++  removals of individuals who need no anomaly-handling expertise (`SBD-059`); leadership pairs it with the
++  Beast Master and his animals to supply what the cell lacks. Whether it falls before or inside the
++  epilogue's Great Breach is not asserted (`MCD-1907`).
 +- **Propagation.** 53 rule statements amended; 60 entries and 12 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
 +  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
