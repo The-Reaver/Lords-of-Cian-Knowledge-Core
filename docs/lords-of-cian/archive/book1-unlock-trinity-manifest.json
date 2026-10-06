@@ -10,10 +10,10 @@
     "AMBIGUOUS-GATED"
   ],
   "counts": {
-    "total": 190,
+    "total": 188,
     "TRACK": 15,
     "IN-USE": 172,
-    "AMBIGUOUS-GATED": 3
+    "AMBIGUOUS-GATED": 1
   },
   "entries": [
     {
@@ -293,7 +293,7 @@
       "rule": "MCD-1391",
       "track": "Alias: Bane",
       "reason": "IN-USE",
-      "era": "age 33",
+      "era": "Rebellion (alias window)",
       "note": ""
     },
     {
@@ -303,14 +303,6 @@
       "reason": "IN-USE",
       "era": "unstated (track default: Rebellion (alias window))",
       "note": ""
-    },
-    {
-      "file": "the-duel-that-would-cost-nothing-but-him.md",
-      "rule": "MCD-1425",
-      "track": "Alias: Bane",
-      "reason": "AMBIGUOUS-GATED",
-      "era": "pre-Rebellion; age 26",
-      "note": "Duel fought with \"the blade at his hip\" under a no-gear condition; Onyx or a plain blade is not stated."
     },
     {
       "file": "the-impersonators-price.md",
@@ -558,7 +550,7 @@
       "track": "Alias: Blue-Collar Titan",
       "reason": "IN-USE",
       "era": "unstated (track default: Rebellion)",
-      "note": ""
+      "note": "Obsidian Malice quarries a deeper shaft after the siege while its shoring is still being finished; read as Rebellion era, ages 21 to 30 (Batch 379 check, no post-Pier marker)."
     },
     {
       "file": "the-thirty-feet-he-refused-to-lose.md",
@@ -597,7 +589,7 @@
       "rule": "MCD-594",
       "track": "Alias: Captain",
       "reason": "IN-USE",
-      "era": "unstated (track default: Rebellion/Long Mask)",
+      "era": "Rebellion (read from wave position and prose; covered only by the final approval)",
       "note": ""
     },
     {
@@ -973,7 +965,7 @@
       "rule": "MCD-1322",
       "track": "Alias: Lord of Embers",
       "reason": "IN-USE",
-      "era": "Rebellion era; age 27; Long Mask",
+      "era": "Rebellion era; age 27",
       "note": ""
     },
     {
@@ -1077,7 +1069,7 @@
       "rule": "MCD-1014",
       "track": "Alias: Scourge",
       "reason": "IN-USE",
-      "era": "Age 24; Long Mask",
+      "era": "Age 24 (before the Pier)",
       "note": ""
     },
     {
@@ -1503,14 +1495,6 @@
       "reason": "IN-USE",
       "era": "Rebellion era",
       "note": ""
-    },
-    {
-      "file": "the-well-that-closed-over-the-boy.md",
-      "rule": "MCD-1144",
-      "track": "Alias: Trench Monarch",
-      "reason": "AMBIGUOUS-GATED",
-      "era": "Rebellion era",
-      "note": "Onyx at his hip \"scrapes uselessly\" against stone; its gifts are called useless, not exercised."
     },
     {
       "file": "the-debt-they-held-with-chains.md",
