@@ -1,14 +1,14 @@
 # Batch 379 draft: the Trinity on-page bar, the Book 1 unlock manifest and two era fixes
 
-*Revision 3, for Abad's approval, 2026-10-06. Follows Batch 378 (locked, ledger 38.0, 2,728 rules). Resolves the
+*Revision 4, for Abad's approval, 2026-10-06. Follows Batch 378 (locked, ledger 38.0, 2,728 rules). Resolves the
 "Batch 379" question that Abad's "all yes" of 2026-10-06 asked to have drafted. Merge script:
 `merge_batch379_trinity_on_page.py` (dry run clean; propagation diff at
 `docs/lords-of-cian/drafts/2026-10-06-batch379-propagation-full-text.diff`). New data file:
 `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`, with a `.json` copy beside it. Source for the
 manifest: `research/trinity-on-page-census-2026-10-06.md`, sections 2 to 6. Revision 2 follows the first
 independent review, which came back NOT CLEAN; flag 14 records those changes. Revision 3 follows the second
-independent review; flag 15 records its changes. A fresh independent review of revision 3 is still owed before
-it is presented.*
+independent review; flag 15 records its changes. Revision 4 follows a verifier's review of revision 3; flag 16
+records its changes. A fresh independent review of revision 4 is still owed before it is presented.*
 
 Abad's rulings, 2026-10-06, in his own words:
 - After asking for the second attempt after the Heist: "after the Karkosa Heist, with the Trinity. which is
@@ -81,9 +81,8 @@ before it. The same list is in the CLAUDE.md batch paragraph and the ledger's ba
    a third candidate as Rebellion era and leaves it, and checks a fourth (`MCD-1454`) for the same risk.
 4. Corrects `kanja-haku-rexmar.md` line 71 ("from age 18 through age 314 is Trinity gear").
 5. Carries the change to every doc and entry that states it, and appends pointer notes to five related rules.
-6. Makes two mechanical wording fixes: the Batch 328 citation in `alias-captain.md` (it read "Batches 314 and
-   321"), and one sentence of `MCD-1182` that gave the old digger's decades of tactile reading to Kanja
-   (section c).
+6. Makes one mechanical wording fix: one sentence of `MCD-1182` that gave the old digger's decades of tactile
+   reading to Kanja (section c).
 
 No entry is rewritten to remove a Trinity scene. No existing fact changes.
 
@@ -247,7 +246,7 @@ Each "before" string occurs exactly once in its file; the merge script asserts i
 
   - after:
 
-    the old digger's decades of tactile reading, which Kanja had learned as a supplement
+    decades of the old man's tactile reading, which Kanja had learned as a supplement
 
 
 ### (c2) Header-note changes (5)
@@ -314,10 +313,10 @@ the pointer.
 
 - `docs/lords-of-cian/chronicles/what-he-read-with-his-eyes-shut.md`, appended to the end of the continuity note:
 
-    Corrected Batch 379, 2026-10-06 (mechanical): 'decades of tactile reading he'd learned' now reads as the old digger's decades of tactile reading, which Kanja had learned, realigning the sentence with `MCD-442`, where the old digger holds the decades of knowledge and Kanja learns it.
+    Corrected Batch 379, 2026-10-06 (mechanical): 'decades of tactile reading he'd learned' now reads as decades of the old man's tactile reading, which Kanja had learned, realigning the sentence with `MCD-442`, where the old digger holds the decades of knowledge and Kanja learns it.
 
 
-### (c4) Docs (11 edits in 6 files, plus the two manifest status lines)
+### (c4) Docs (7 edits in 5 files, plus the two manifest status lines)
 
 - `docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md` (D)
   - before:
@@ -443,40 +442,6 @@ the pointer.
       sit in the Book 1 unlock tier, listed in `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`; a new
       such entry joins the list in the batch that locks it. Gated entries keep their standing and are not rewritten.
     
-
-- `docs/lords-of-cian/character-profiles/alias-captain.md` (D), four edits, all mechanical: the Captain
-  fix was Batches 314 and 328, and the file's own text says 321 (Batch 321 was the Blue-Collar Titan)
-  - before:
-
-        314 and 321: a number of post-surrender
-
-  - after:
-
-        314 and 328: a number of post-surrender
-
-  - before:
-
-    corrected across Batches 314 and 321 from an earlier draft
-
-  - after:
-
-    corrected across Batches 314 and 328 from an earlier draft
-
-  - before:
-
-    resolved (Batches 314 and 321).**
-
-  - after:
-
-    resolved (Batches 314 and 328).**
-
-  - before:
-
-    resolved, Batches 314 and 321, and no longer blocks
-
-  - after:
-
-    resolved, Batches 314 and 328, and no longer blocks
 
 - `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md` (D)
   - before:
@@ -652,8 +617,8 @@ bound (no staging of the use inside a told account).
 **Touches.** One new rule (`VB-069`). Seven existing rules given appended notes (`VB-062`, `VB-026`, `MCD-1881`,
 `MCD-1902`, `MCD-1907`, `MCD-589`, `MCD-1238`). Two entries corrected in prose (three phrases) and given continuity
 notes, and a third entry (`MCD-1182`, one phrase, mechanical) with its own correction clause. Five manuscript
-headers. Six docs: the Kanja profile (two edits), the series template, the tracker, the census (a resolution
-section), `alias-captain.md` (four citation fixes), CLAUDE.md (two edits plus the batch paragraph). Two new files: the manifest (`.md`
+headers. Five docs: the Kanja profile (two edits), the series template, the tracker, the census (a resolution
+section), CLAUDE.md (two edits plus the batch paragraph). Two new files: the manifest (`.md`
 and `.json`). The census's and the manifest's Trinity count and era readings are the only external data; the draft
 states every one it uses.
 
@@ -686,12 +651,19 @@ use elsewhere. "Tier" itself is in use for the archive's clearance levels and th
 - The counts (190 entries, 175 Alias entries, Bane 23, Trench Monarch 21, "3 AMBIGUOUS") appear in the tracker and
   census section 7 (section c4), the manifest header and tables, the script's asserts and batch note, the CLAUDE.md
   paragraph and this draft; all now read 188, 173, 22, 20 and 1.
-- "Batch 314 and Batches 325 to 330" was the first draft's citation of the batches that swapped Trinity gear for
-  the Long-Mask-era kit. Batch 324 (the Crow King) belongs in the range, so the rule, the CLAUDE.md era-errors
-  bullet and section e now read "Batch 314 and Batches 324 to 330".
-- "Batches 314 and 321" appears in `alias-captain.md` at lines 67 to 68, 200, 235 and 386 for the Captain fix.
-  Batch 321 was the Blue-Collar Titan; the Captain fix was Batches 314 and 328. The four places are corrected in
-  section c4.
+- "Batch 314 and Batches 325 to 330" was the first draft's citation of the batches that corrected gear to the age
+  (Batch 314 and Batches 324 to 330, as now cited). It left out Batch 324 (the Crow King), so the rule, the
+  CLAUDE.md era-errors bullet and section e now read "Batch 314 and Batches 324 to 330".
+- **Left as they are: "Batch 321" misattributions.** Revision 3 corrected four "Batches 314 and 321" citations in
+  `alias-captain.md` to "314 and 328" (Batch 321 was the Blue-Collar Titan; the Captain fix was Batches 314 and
+  328). Revision 4 withdraws those four edits. "Batch 321" was a shared placeholder that Batch 347 renumbered for
+  five tracks only, and it still stands as a misattribution in the Captain, Storm That Walks, Scourge and
+  Industrial Myth material: `alias-captain.md` (lines 253 and 264), about 13 Captain rule statements (`MCD-558`,
+  `559`, `560`, `607`, `788`, `1372`, `1374`, `1377`, `1379`, `1421`, `1514`, `1515`, `1521`), about 20 Captain
+  entry headers, `the-order-he-didnt-question`'s header (which the `MCD-589` note quotes as "321 in this file's
+  header"), `MCD-230` and `VB-061`. Correcting four profile lines alone would contradict those rules and headers.
+  The renumbering is queued as its own mechanical batch on the Batch 347 pattern, outside Batch 379. `VB-069`
+  does not cite Batch 321.
 - The 85 unstated-era entries are carried as the census read them.
 
 **Mechanical gate.** `python3 scripts/connective_tissue_check.py` on this draft exits 0 (result recorded in the
@@ -705,7 +677,7 @@ every rule listed there, is still owed before it is presented.
 Numbered, each with a recommendation. Flags 1, 2 and 4 to 11 put the items of the "Covered only by Abad's final
 approval" list in the draft head to him: flag 1 is item (i); flag 2 is (b) and (n); flag 4 is (c), (e), (f), (j)
 and (k); flag 5 is (g); flag 6 is (h); flag 7 is (d) and (p); flag 8 is (a); flag 9 is (l); flag 10 is (m); flag 11
-is (o). Flag 3 asks for no change now, flags 12 and 13 are noted and need no ruling, and flags 14 and 15 record revisions 2 and 3.
+is (o). Flag 3 asks for no change now, flags 12 and 13 are noted and need no ruling, and flags 14 to 16 record revisions 2 to 4.
 
 1. **The name "Book 1 unlock tier".** The term was in the recommendation he accepted. The archive already has
    clearance levels 0 to 3 and a T0 to T4 content classification, and the 2026-09-13 review recorded one
@@ -794,8 +766,16 @@ is (o). Flag 3 asks for no change now, flags 12 and 13 are noted and need no rul
     (a) takes in any new entry that needs the Trinity in use; the `VB-062` note and the CLAUDE.md standing bullet
     carry "cannot be decided either way" and the eight manuscript Chronicles. (7) Section f's propagation check is
     corrected and counted by grep. (8) `MCD-1182` takes one mechanical wording fix that realigns it with
-    `MCD-442`: the decades of tactile reading are the old digger's, which Kanja had learned. (9)
-    `alias-captain.md` cited "Batches 314 and 321" for the Captain fix in four places; the Captain fix was
-    Batches 314 and 328. (10) The manifest gains the Industrial Myth row in its track table and the full path in
-    the note that cites flag 4. (11) Flag 9 records that `MCD-1011`'s reserve line implies Mafesto was engaged.
-    (12) The CLAUDE.md propagation count separates the entries from the docs.
+    `MCD-442`: the decades of tactile reading are the old digger's, which Kanja had learned. (9) The manifest
+    gains the Industrial Myth row in its track table and the full path in the note that cites flag 4. (10) Flag 9
+    records that `MCD-1011`'s reserve line implies Mafesto was engaged. (11) The CLAUDE.md propagation count
+    separates the entries from the docs.
+16. **Noted, no ruling: revision 4.** A verifier reviewed revision 3. Changes: (1) the four `alias-captain.md`
+    "Batches 314 and 321" to "314 and 328" edits are removed from the batch, from the script and from the
+    CLAUDE.md propagation text, because "Batch 321" still stands in the Captain rules and entry headers and the
+    profile fix alone would contradict them; section f records the misattribution as queued for its own
+    renumbering batch (the Batch 347 pattern). (2) Section f now says "the batches that corrected gear to the
+    age (Batch 314 and Batches 324 to 330)". (3) The `MCD-1182` phrase reads "decades of the old man's tactile
+    reading, which Kanja had learned as a supplement", which removes the doubled "the old digger's" from that
+    sentence. (4) Item 6, the c4 count (7 edits in 5 files, plus the two manifest status lines), Touches and
+    flag 15 no longer count the Captain edits.

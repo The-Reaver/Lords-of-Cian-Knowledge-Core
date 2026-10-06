@@ -4,7 +4,7 @@ set, the Book 1 unlock tier, new entries, the Karkosa Heist as first use on the 
 errors); appends pointer notes to VB-062, VB-026, MCD-1881, MCD-1902 and MCD-1907; corrects two era errors
 (the Trinity shown in use during the sealed Long Mask) in the-recapture-at-dusk (MCD-1238) and
 the-order-he-didnt-question (MCD-589); fixes kanja-haku-rexmar.md ("from age 18 through age 314 is Trinity
-gear"); makes two mechanical wording fixes (alias-captain.md's Batch 328 citation; one sentence of MCD-1182
+gear"); makes one mechanical wording fix (one sentence of MCD-1182
 realigned with MCD-442); activates the gate manifest at
 docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md (+ .json; 188 entries); carries the change to every doc that states it; appends the Batch 379 paragraph to CLAUDE.md.
 Usage: python3 merge_batch379_trinity_on_page.py <draft.md> "<approval quote>"
@@ -63,8 +63,7 @@ KJ = PR + "kanja-haku-rexmar.md"
 TPL = PR + "_TEMPLATE.md"
 TRK = DOCS + "chronicle-tracks-status.md"
 EYES = CH + "what-he-read-with-his-eyes-shut.md"
-CAPT = PR + "alias-captain.md"
-MS =["chronicle-i-the-scrip-forge-raid.md", "chronicle-ii-the-dredge-line-ambush.md",
+MS = ["chronicle-i-the-scrip-forge-raid.md", "chronicle-ii-the-dredge-line-ambush.md",
       "chronicle-iv-iron-shallows.md", "chronicle-v-the-siege-of-maw-9.md",
       "chronicle-vii-the-siege-of-the-ghost-harbor.md"]
 
@@ -75,7 +74,7 @@ EDITS = [
     (ORDER, "P", "had verified before the Trinity moved.", "had verified before Kanja moved.", 1),
     # --- a mechanical clarification: the decades of tactile reading are the old digger's (MCD-442) ---
     (EYES, "P", "decades of tactile reading he'd learned as a supplement",
-     "the old digger's decades of tactile reading, which Kanja had learned as a supplement", 1),
+     "decades of the old man's tactile reading, which Kanja had learned as a supplement", 1),
 ]
 # --- manuscript Chronicles I, II, IV, V, VII: the header's gate pointer now cites the rule and the manifest ---
 for _f in MS:
@@ -163,13 +162,6 @@ EDITS += [
      "  use, every entry Onyx narrates, every entry of the Kanja-version track and the eight manuscript Chronicles\n"
      "  sit in the Book 1 unlock tier, listed in `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`; a new\n"
      "  such entry joins the list in the batch that locks it. Gated entries keep their standing and are not rewritten.\n", 1),
-    # --- alias-captain.md: the Captain fix was Batches 314 and 328 (the file said 321) ---
-    (CAPT, "D", "  314 and 321: a number of post-surrender", "  314 and 328: a number of post-surrender", 1),
-    (CAPT, "D", "corrected across Batches 314 and 321 from an earlier draft",
-     "corrected across Batches 314 and 328 from an earlier draft", 1),
-    (CAPT, "D", "resolved (Batches 314 and 321).**", "resolved (Batches 314 and 328).**", 1),
-    (CAPT, "D", "resolved, Batches 314 and 321, and no longer blocks",
-     "resolved, Batches 314 and 328, and no longer blocks", 1),
     # --- the manifest goes live ---
     (MANI + ".md", "D",
      "*Status: draft for Batch 379, 2026-10-06. It takes effect when `VB-069` locks; the merge script then changes this line. Source:",
@@ -182,8 +174,8 @@ NOTE_APPEND = {
     RECAP: " Corrected Batch 379, 2026-10-06: the guards' collapse is credited to the loadout alone. An earlier "
            "line credited it to 'the Trinity and the loadout together', which cannot stand in the Long Mask, "
            "when the Trinity is sealed at L9 (`MCD-246`, `VB-069`).",
-    EYES: " Corrected Batch 379, 2026-10-06 (mechanical): 'decades of tactile reading he'd learned' now reads as the "
-          "old digger's decades of tactile reading, which Kanja had learned, realigning the sentence with `MCD-442`, "
+    EYES: " Corrected Batch 379, 2026-10-06 (mechanical): 'decades of tactile reading he'd learned' now reads as "
+          "decades of the old man's tactile reading, which Kanja had learned, realigning the sentence with `MCD-442`, "
           "where the old digger holds the decades of knowledge and Kanja learns it.",
     ORDER: " Corrected Batch 379, 2026-10-06: two lines that still had the Trinity committed to the forecast "
            "('committing the Trinity to a timing window', 'before the Trinity moved') now name Kanja and his kit, "
@@ -406,9 +398,8 @@ def main():
 - **Propagation.** {len(amended)} rule statements carry pointer or correction notes; {n_entries} entries and
   {n_docs} docs carried. The {n_entries} entries are the five manuscript headers' gate pointer, the two era
   corrections and the `MCD-1182` wording. The {n_docs} docs are the Kanja profile, the series template, the tracker,
-  the census, `alias-captain.md`, this file's standing sections and the manifest's two status lines. Two
-  mechanical wording fixes ride along, which add no fact: `alias-captain.md` cited "Batches 314 and 321" for the
-  Captain fix and now reads "Batches 314 and 328", and one sentence of `MCD-1182` gave the old digger's decades of
+  the census, this file's standing sections and the manifest's two status lines. One
+  mechanical wording fix rides along, which adds no fact: one sentence of `MCD-1182` gave the old digger's decades of
   tactile reading to Kanja and now realigns with `MCD-442`. The mirrored Voice Bible and Voice Progression Sheet
   stay unedited; the archive repo's Phase 5 plan is owed an update to name the manifest.
 Ledger at `ledger_version` 38.1, {len(d['rules']):,} rules, 379 batches.

@@ -15,7 +15,7 @@
 +  sit in the Book 1 unlock tier, listed in `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`; a new
 +  such entry joins the list in the batch that locks it. Gated entries keep their standing and are not rewritten.
  - **"Cian" reuse outside Kanja's crew gets renamed, full stop.** Superseded 2026-08-25 from an earlier "decide per-instance" policy. Several source documents (e.g. "Guild of the Extraordinary") reuse "Cian," the world's own name, as an in-world proper-noun component (a scent name, a jurisdiction, a guild, a barracks tier). Abad's standing rule now: rename any such instance unless it's actually part of Kanja's crew/story material. Don't ask per-instance anymore; just apply it and note what you renamed.
-@@ -4596,2 +4603,88 @@
+@@ -4596,2 +4603,87 @@
  
 +**Batch 379: the Trinity on-page bar and the Book 1 unlock tier (`VB-069`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-06: "after the Karkosa Heist, with the Trinity. which is important we build up
@@ -94,11 +94,10 @@
 +    being older than Kanja's body ("read these waters longer than I've been alive in this body"), on the wartime
 +    raid itself, and on the absence of any post-Mafesto kit.
 +- **Propagation.** 7 rule statements carry pointer or correction notes; 8 entries and
-+  8 docs carried. The 8 entries are the five manuscript headers' gate pointer, the two era
-+  corrections and the `MCD-1182` wording. The 8 docs are the Kanja profile, the series template, the tracker,
-+  the census, `alias-captain.md`, this file's standing sections and the manifest's two status lines. Two
-+  mechanical wording fixes ride along, which add no fact: `alias-captain.md` cited "Batches 314 and 321" for the
-+  Captain fix and now reads "Batches 314 and 328", and one sentence of `MCD-1182` gave the old digger's decades of
++  7 docs carried. The 8 entries are the five manuscript headers' gate pointer, the two era
++  corrections and the `MCD-1182` wording. The 7 docs are the Kanja profile, the series template, the tracker,
++  the census, this file's standing sections and the manifest's two status lines. One
++  mechanical wording fix rides along, which adds no fact: one sentence of `MCD-1182` gave the old digger's decades of
 +  tactile reading to Kanja and now realigns with `MCD-442`. The mirrored Voice Bible and Voice Progression Sheet
 +  stay unedited; the archive repo's Phase 5 plan is owed an update to name the manifest.
 +Ledger at `ledger_version` 38.1, 2,729 rules, 379 batches.
@@ -130,28 +129,6 @@
 +  in the batch that locks it. The Trinity may be named, and told through legend, rumor, aftermath,
 +  survivors' accounts and SBD Dossiers, in any entry.
  - **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
---- before: docs/lords-of-cian/character-profiles/alias-captain.md
-+++ after: docs/lords-of-cian/character-profiles/alias-captain.md
-@@ -67,3 +67,3 @@
-   sealed at L9 for the entire Long Mask of just over 283 years, ages 30-314) was found and fixed across Batches
--  314 and 321: a number of post-surrender entries originally described "full Trinity combat
-+  314 and 328: a number of post-surrender entries originally described "full Trinity combat
-   showcases" naming Mafesto, Obsidian Malice, and Onyx of Oblivion by name. Every one of them
-@@ -199,3 +199,3 @@
-   `MCD-1421`, `MCD-1515`, `MCD-1518`, `MCD-1521`), consistent with the Trinity's own locked
--  age-30-314 sealing (`MCD-246`) -- corrected across Batches 314 and 321 from an earlier draft
-+  age-30-314 sealing (`MCD-246`) -- corrected across Batches 314 and 328 from an earlier draft
-   that mistakenly used full-Trinity gear in these same entries. The deliberate-restraint beat in
-@@ -234,3 +234,3 @@
- 
--- **The Trinity/Long-Mask era-span contradiction, resolved (Batches 314 and 321).** A fraction of
-+- **The Trinity/Long-Mask era-span contradiction, resolved (Batches 314 and 328).** A fraction of
-   this alias's post-"Trinity's surrender" material (waves 20 onward) originally used the full
-@@ -385,3 +385,3 @@
- Chronicle-pitch work can proceed. The Trinity/Long-Mask era-span contradiction flagged in the
--walkthrough has since been resolved, Batches 314 and 321, and no longer blocks this stage.)*
-+walkthrough has since been resolved, Batches 314 and 328, and no longer blocks this stage.)*
- 
 --- before: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
 +++ after: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
 @@ -5,2 +5,7 @@
@@ -258,14 +235,14 @@
 @@ -12,3 +12,3 @@
  
 -It was the old digger's lesson come due at last -- decades of tactile reading he'd learned as a supplement, a deeper layer beneath what his eyes could already tell him, and had never once needed as a total replacement until this exact moment. He put both palms flat against the rubble and stopped trying to see it. The shape of a collapse told itself through vibration and grain if you let it, the way a stone face told a mason which way it wanted to be cut, and he'd spent enough hours learning that language secondhand that it didn't abandon him now that his eyes had.
-+It was the old digger's lesson come due at last -- the old digger's decades of tactile reading, which Kanja had learned as a supplement, a deeper layer beneath what his eyes could already tell him, and had never once needed as a total replacement until this exact moment. He put both palms flat against the rubble and stopped trying to see it. The shape of a collapse told itself through vibration and grain if you let it, the way a stone face told a mason which way it wanted to be cut, and he'd spent enough hours learning that language secondhand that it didn't abandon him now that his eyes had.
++It was the old digger's lesson come due at last -- decades of the old man's tactile reading, which Kanja had learned as a supplement, a deeper layer beneath what his eyes could already tell him, and had never once needed as a total replacement until this exact moment. He put both palms flat against the rubble and stopped trying to see it. The shape of a collapse told itself through vibration and grain if you let it, the way a stone face told a mason which way it wanted to be cut, and he'd spent enough hours learning that language secondhand that it didn't abandon him now that his eyes had.
  
 @@ -24,2 +24,5 @@
  
 -*Continuity notes (not narrative): the alias's first entry centered on Kanja's own temporary incapacitation rather than a worker's or crew member's vulnerability -- distinct from every prior crisis register, all of which task him with rescuing others at full capacity. Directly pays off "What the Old Digger Taught Him" (`MCD-442`, wave 3) and "The Lecture Hall Didn't Know What to Do With Him" (`MCD-487`, teaching the method to others) by showing the tactile method save Kanja himself under total sensory loss, rather than him using it to teach or rescue. Reuses already-locked crew member Corren Halst. No new named characters.*
 +*Continuity notes (not narrative): the alias's first entry centered on Kanja's own temporary incapacitation rather than a worker's or crew member's vulnerability -- distinct from every prior crisis register, all of which task him with rescuing others at full capacity. Directly pays off "What the Old Digger Taught Him" (`MCD-442`, wave 3) and "The Lecture Hall Didn't Know What to Do With Him" (`MCD-487`, teaching the method to others) by showing the tactile method save Kanja himself under total sensory loss, rather than him using it to teach or rescue. Reuses already-locked crew member Corren Halst. No new named characters.
 +Corrected Batch 379, 2026-10-06 (mechanical): 'decades of tactile reading he'd learned' now reads as
-+the old digger's decades of tactile reading, which Kanja had learned, realigning the sentence with
++decades of the old man's tactile reading, which Kanja had learned, realigning the sentence with
 +`MCD-442`, where the old digger holds the decades of knowledge and Kanja learns it.*
 --- before: research/trinity-on-page-census-2026-10-06.md
 +++ after: research/trinity-on-page-census-2026-10-06.md
