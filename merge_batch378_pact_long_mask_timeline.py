@@ -495,7 +495,7 @@ def main():
                  "'the trigger is the danger', 'it was something that was bound to happen' (full quotation in the draft). "
                  "Abad's answers of 2026-10-05: on the murder falling on the last day of age 313, 'yes'; on cutting from Kanja VII the "
                  "sentences that name the Talisman as the cause of his decline, 'yes'; on the attack, 'Yes. this is also a ceremonial "
-                 "breakfast that he had with Kanja & Maro at the same time every time they did have breakfast together.'; on "
+                 "breakfast that he had with Kanja & Maro at the same time every time they did have breakfast together.'; on where the Last Breakfast is held, 'the last breakfast can take place in the most logical place that makes sense for the story cuz it doesn't have to take place where it always takes place could be a reason any reason could be pyrule doesn't want to have breakfast there because of the memories it could be anything it could be because of the lack of movement that Kanja has'; on who shares it, 'the breakfast is Father and Son and they do not tell pyro why he always joins we can make up some sort of excuse like the cook is very coveted in their culture so it's easy to make them to cook and it's easy for them to be so warm towards the cook and loving towards the cook and have to cook close at heart because they feed a nourish everyone so that's a good way for them to have an excuse to always eat with him it's too honor to cook and that's the excuse that you have to spend time with him.'; on "
                  "Sephtis putting the decline together and staying silent, and having written the Countdown Annotation, 'yes'; on "
                  "Lauris knowing Kanja's mother through Sephtis, 'yes'; on the enemy and the 314 threshold, 'the enemy does not know "
                  "they just want to eliminate him from the picture because they know he is next of kin and would seek revenge' and "
@@ -508,7 +508,7 @@ def main():
                  "the Pier 30 days before his 31st birthday (confirmed by Abad), the Accords 283 years and 29 days, the Long Mask 283 "
                  "years and 36 days, and the late-Scourge placements. MCD-1902 locks the Book 1 beat (the Accords "
                  "broken, the Rebellion's operation brought to its knees and not finished; the Trinity reclaimed at the Karkosa Heist). MCD-1903 locks the aging misconception, "
-                 "culminating in the deathbed state after his 314th birthday, with Sephtis's silence, Lauris's sense of kin, and Kanja's knowing the Haku legend without knowing it applies to him. MCD-1904 locks the Awakening's trigger (the danger, a threat of deadly force at the Lighthouse, during the Last Breakfast with Pyro serving Kanja) and the enemy's 'one day too late' belief (the enemy does not know of the 314 threshold), with the surge mechanism confirmed by Abad ('yes the surge snapping the pendant works') and the attacker and the reveal's placement open. MCD-070 is amended so the "
+                 "culminating in the deathbed state after his 314th birthday, with Sephtis's silence, Lauris's sense of kin, and Kanja's knowing the Haku legend without knowing it applies to him. MCD-1904 locks the Awakening's trigger (the danger, a threat of deadly force at the Lighthouse, during the Last Breakfast), the Last Breakfast itself (a father-and-son ceremonial breakfast, Maro and Kanja, with Pyro always joining as the cook and never told why; held on the day at the Gilded Lighthouse, in the upper room where Kanja lies; the surge carries him down several stories and cracks the foundation) and the enemy's 'one day too late' belief (the enemy does not know of the 314 threshold), with the surge mechanism confirmed by Abad ('yes the surge snapping the pendant works') and the attacker and the reveal's placement open. MCD-1905 locks the honor of the cook, the reason Maro and Kanja give for always having Pyro at the table. MCD-070 is amended so the "
                  "Investigation opens at the murder and runs on through the Interregnum. Amended: "
                  + ", ".join(sorted(amended)) + ". Files carried: " + ", ".join(files)
                  + f". Abad's approval, verbatim: \"{approval}\"."),
@@ -524,7 +524,7 @@ def main():
     anchor = "Ledger at `ledger_version` 37.9, 2,721 rules, 377 batches.\n"
     assert c.count(anchor) == 1
     c = c.replace(anchor, anchor + f"""
-**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1904`).** Abad: "{approval}"
+**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1905`).** Abad: "{approval}"
 - **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
   the last day of his age 313 (confirmed by Abad: "yes"). The Pi-Awakening stays at age 314, and "the Long mask has to be after
   his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
@@ -562,8 +562,9 @@ def main():
   force. Confirmed by Abad ("yes the surge snapping the pendant works"): his body's surge in answer to the
   threat snaps the pendant. The attack comes during the Last Breakfast, while Pyro serves Kanja. Abad:
   "Yes. this is also a ceremonial breakfast that he had with Kanja & Maro at the same time every time
-  they did have breakfast together." It is the first since Maro's murder, seven days before. The strike
-  never lands, and a landed strike would have caused a world-scale event. The enemy that orders the
+  they did have breakfast together." It is the first since Maro's murder, seven days before. The surge
+  that snaps the pendant carries him down several stories (see the next bullet). The strike never lands,
+  and a landed strike would have caused a world-scale event. The enemy that orders the
   murder and the strike does not know of the 314 threshold or the Pi-Awakening (Abad: "the enemy does
   not know they just want to eliminate him from the picture because they know he is next of kin and
   would seek revenge"; "similar to Haku except he literally had the means to do it and the Weaponry to
@@ -577,6 +578,20 @@ def main():
   family somehow she is an extraordinary character so that is something that I think should be evident
   to her but she can't put everything else together. if she knows who his mother is through Sephtis,
   then she would obviously know that he could potentially be dense".
+- **The Last Breakfast and the cook's honor (`MCD-1904`, `MCD-1905`).** Abad, on where it is held:
+  "the last breakfast can take place in the most logical place that makes sense for the story cuz it doesn't have to take place where it always takes place could be a reason any reason could be pyrule doesn't want to have breakfast there because of the memories it could be anything it could be because of the lack of movement that Kanja has"
+  Abad, on who shares it: "the breakfast is Father and Son and they do not tell pyro why he always joins we can make up some sort of excuse like the cook is very coveted in their culture so it's easy to make them to cook and it's easy for them to be so warm towards the cook and loving towards the cook and have to cook close at heart because they feed a nourish everyone so that's a good way for them to have an excuse to always eat with him it's too honor to cook and that's the excuse that you have to spend time with him."
+  The ceremonial breakfast is a father-and-son breakfast, Maro and Kanja, held at the same hour every
+  time they breakfast together. Pyro always joins as the cook, who is held in honor and kept close at
+  heart (`MCD-1905`); that honor is the reason Maro and Kanja give, and they never tell him why he always
+  joins (`CC-047` already locks that he does not know his parentage). On the day, Kanja on his deathbed
+  cannot be moved and Pyro cannot face the old table, so the breakfast is held at the Gilded Lighthouse,
+  in the upper room where Kanja lies, at the usual hour. The strike comes during the meal. The surge
+  carries him out of the upper room and down several stories, and he lands hard enough to crack the
+  Lighthouse's foundation (the 2026-08-13 staging, `master-to-do-list.md`). The strike never lands, so
+  the fall belongs to the surge. The Last Breakfast is the first since Maro's murder. Open for Abad: does
+  this settle that Pyro does not know Kanja is his father, and Maro his grandfather, before Book 1
+  (`pyro.md` A3/A4)?
 - **Propagation.** {len(amended)} rule statements amended; {n_entries} entries and {n_docs} docs carried,
   including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
   line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored

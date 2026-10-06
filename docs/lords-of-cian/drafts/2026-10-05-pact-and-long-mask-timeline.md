@@ -1,10 +1,11 @@
 # Batch 378 draft: the Long Mask, the Accords and Book 1 on one clock
 
-*UNLOCKED DRAFT, revision 6, for Abad's approval, 2026-10-05. Revision 2 was revised for Abad's ruling that
+*UNLOCKED DRAFT, revision 7, for Abad's approval, 2026-10-05. Revision 2 was revised for Abad's ruling that
 the Long Mask ends after his 314th birthday. Revision 3 followed an independent review that came back not
 clean. Revision 4 carries Abad's later confirmations and keeps the rule statements free of status labels. Revision 5 follows a second independent review and carries
 Abad's confirmation of the Interregnum counting. Revision 6 carries Abad's answers on the murder's day, the Kanja VII cut, the
-Last Breakfast attack, Sephtis, Lauris and the enemy, and his correction on the Rebellion's outcome. Nothing here is locked until Abad approves it in his own
+Last Breakfast attack, Sephtis, Lauris and the enemy, and his correction on the Rebellion's outcome. Revision 7 carries his two rulings on where the Last
+Breakfast is held and who shares it, and adds `MCD-1905`. Nothing here is locked until Abad approves it in his own
 words. Resolves approval-list item 1 under Abad's rulings of 2026-10-05. Merge script:
 `merge_batch378_pact_long_mask_timeline.py` (dry run clean; propagation diff at
 `docs/lords-of-cian/drafts/2026-10-05-batch378-propagation-full-text.diff`).*
@@ -50,6 +51,9 @@ Abad's rulings, 2026-10-05, in his own words:
     family somehow she is an extraordinary character so that is something that I think should be evident to
     her but she can't put everything else together. if she knows who his mother is through Sephtis, then she
     would obviously know that he could potentially be dense"
+- Revision 7, Abad's rulings of 2026-10-05 on the Last Breakfast, verbatim:
+  - Ruling (a), on where it happens: "the last breakfast can take place in the most logical place that makes sense for the story cuz it doesn't have to take place where it always takes place could be a reason any reason could be pyrule doesn't want to have breakfast there because of the memories it could be anything it could be because of the lack of movement that Kanja has"
+  - Ruling (b), on who shares it: "the breakfast is Father and Son and they do not tell pyro why he always joins we can make up some sort of excuse like the cook is very coveted in their culture so it's easy to make them to cook and it's easy for them to be so warm towards the cook and loving towards the cook and have to cook close at heart because they feed a nourish everyone so that's a good way for them to have an excuse to always eat with him it's too honor to cook and that's the excuse that you have to spend time with him."
 
 **Confirmed by Abad:** the Pier is 30 days before his 31st birthday (so several appended notes and the
 three Onyx seconds-counts state it as fact); the Awakening falls on the sixth day after his 314th birthday,
@@ -58,26 +62,41 @@ pendant works"); the Interregnum counting (it opens on his 314th birthday as its
 its seventh day: "the interregnum day 1 counting works"). Revision 6 adds, each confirmed by Abad: the
 murder falls on the last day of his age 313 ("yes"); the sentences naming the Talisman as the cause are cut
 from Kanja VII ("yes"); the attack comes during the Last Breakfast while Pyro serves Kanja, a ceremonial
-breakfast Kanja, Pyro and Maro shared at the same hour; Sephtis puts the decline together, stays silent and
+breakfast of Maro and Kanja at the same hour, with Pyro always joining as the cook; Sephtis puts the decline together, stays silent and
 wrote the Countdown Annotation ("yes"); Lauris knows Kanja's mother through Sephtis ("yes"); the enemy does
-not know of the 314 threshold, and Kanja did bring the operation to its knees without finishing it.
+not know of the 314 threshold, and Kanja did bring the operation to its knees without finishing it. Revision 7 adds, from
+Abad's rulings (a) and (b): the Last Breakfast is held where the story makes most sense, which the draft sets at the Gilded Lighthouse,
+in the upper room where Kanja lies, because he cannot be moved and Pyro cannot face the old table; the ceremonial breakfast is
+Maro's and Kanja's, father and son; Pyro always joins as the cook, the cook's honor is the reason given, and he is never told why
+he always joins.
 
 **Awaiting Abad's confirmation.** The rule statements below state these facts plainly so the locked text
 does not read stale; the approval must cover each one explicitly.
 1. The attacker's identity (`MCD-1904`, left open in the rule).
 2. Where the reveal to the reader lands (`MCD-1904`, left open in the rule).
-3. Proposal, how the strike reaches him (`MCD-1904` leaves it open): the Last Breakfast's fixed hour is what
-   tells the enemy when and where to find him. Marked as a proposal here only; it is not in any rule text.
+3. Proposal, how the strike reaches him (`MCD-1904` leaves it open): the place changes that day; the hour does
+   not, and the unchanged hour is how the enemy knows when to find him. Marked as a proposal here only; it is
+   not in any rule text.
 4. The `MCD-070` act overlap, a change to Book 1's structure: the Investigation opens at the murder and
-   runs on through the Interregnum, which opens the next day; the acts are narrative movements and overlap
-   in time.
+   runs on through the Interregnum, which opens the next day; the acts are narrative movements and overlap in
+   time.
 5. The late-Scourge placements (`MCD-1901`; flag 4 below).
-6. Kanja's Haku-legend knowledge (`MCD-1903`: he knows the legend and does not know it applies to him). Kept
+6. Kanja's Haku-legend knowledge (`MCD-1903`: he knows the legend and does not know that it applies to him). Kept
    from the question, not separately confirmed: Abad's answer addressed the enemy's side and did not dispute
    this half.
-7. The reconciliation reported from the Last Breakfast check (flag 25): where the breakfast sits in relation
-   to the Gilded Lighthouse, where the attack lands, and the 2026-08-13 staging's fall from the lighthouse. No
-   locked rule or entry fixes any of it, so the draft reports it and does not invent it.
+7. Does this ruling settle that Pyro does not know Kanja is his father (and Maro his grandfather) before Book 1?
+   Ruling (b) reads as Pyro not knowing why he always joins. `CC-047` already locks that he "does not know his
+   own parentage", and `MCD-1904` states only that Maro and Kanja never tell him why he always joins. The ruling
+   bears on `pyro.md`'s open A3 and A4 questions (what he knows about his parents, and who raised him), which stay
+   open; no separate "he does not know" fact is locked here.
+8. The cook's honor (`MCD-1905`) is written as the culture of Maro and Kanja, reading "their culture" that way. Is it
+   the Rexmar's, the fleet's or Jicome's? The ruling also reads as Maro knowing Pyro is his grandson, since both father and
+   son keep the reason from him; no locked rule says whether Maro knows.
+9. May entries set before Book 1 show the ceremonial breakfast (Maro, Kanja, Pyro the cook)? `MCD-1902` bars
+   only the murder, Kanja's reading of it and the reclaiming of the Trinity, and the Reserved clause of `MCD-1904`
+   bars the trigger and the enemy's belief. Nothing yet reserves the breakfast custom itself.
+Resolved under ruling (a), no longer awaiting: where the Last Breakfast is held, and the 2026-08-13 staging's fall
+(flag 25).
 Everything else in sections (a) and (b) that is not a direct quotation of Abad's rulings is drafted from
 them and is open to his correction.
 
@@ -102,9 +121,11 @@ approval-list item 1". Next free IDs verified: the highest MCD ID in the ledger 
 
 **MCD-1902** (category: book1-structure). The Accords broken and the Trinity reclaimed, a Book 1 beat; Abad's ruling, 2026-10-05. The murders at the Fulfillment Ceremony end the Sovereign Pier Accords (CC-009, MCD-085, MCD-1901). Whoever the Book 1 investigation names for the killing (MCD-070, MCD-091, MCD-1853), Kanja holds it as the Sovereign Trust's breaking of the Accords. At thirty he had brought the enemy's whole operation to its knees, as Haku had (CC-008, MCD-230, CC-056), and he had not finished it; the Accords his father brokered, at which his father asked him to stand down, ended the Rebellion (MCD-245, MCD-1880), and that man is now dead. After the Pi-Awakening, seven days after the murder (CC-006, MCD-1901), Kanja chooses to reclaim the Trinity he surrendered to the L9 vault in the Karkosa Complex (MCD-246): Mafesto, the armor (ARS-010); Onyx of Oblivion, the sword (ARS-020); and Obsidian Malice, the war club (ARS-030). He takes them back to crush his enemies and finish the decrepit system. The reclamation is Book 1's Karkosa Heist (MCD-070, ARS-010), where grip contact restores the Heartline's full channel (ARS-437). This is the turn CC-161 and the Kanja profile reserve for Maro's death: the urge to destroy his enemies, with the verdict-then-execution register CC-161 keeps for after that death, belongs to Book 1 onward. Reserved: no entry set before Book 1 may dramatize or foreshadow the murder, Kanja's reading of it as the breaking of the Accords, or his choice to reclaim the Trinity (ARS-437, CC-161, VB-062). A retrospective teller's after-the-fact mention of the kings' deaths at the Ceremony stays permitted where already locked (Red Beard in the Testaments, MCD-1738, MCD-1740, MCD-1798).
 
-**MCD-1903** (category: talisman-of-mao). The aging misconception; Abad's rulings, 2026-10-05. Through the late Long Mask, Kanja reads the Governor's Shackle's buildup (MCD-060 Stage 3, CC-007, WC-014) as age. He feels himself growing heavy, slow and old: visibly slowed by 205 (MCD-260), no longer dodging, turning fast or running by 240 (MCD-262), unable to stand unaided on bad days by 300 (MCD-271), voluntary movement at about 15% of peak (good days excepted, MCD-271) at the Countdown Annotation (310, MCD-277). He has Valen fitted for the Forge-Coat as the era's next legend-bearer at 312 (MCD-277). The decline culminates after his 314th birthday: 'shortly after his birthday he starts feeling worse and worse it seems he's on his death bed and then that's when it happens.' In the days between his birthday and the Pi-Awakening he is in a deathbed state and believes he is dying (the Gilded Lighthouse staging Abad confirmed on 2026-08-13). The Eve of Awakening (MCD-272), where the crew acts without him, and the Last Breakfast (MCD-277), where Pyro serves him stew, fall in this window. He knows the Talisman only as a synchronization server with a density suppressor and does not know what it is doing to his body (MCD-142, MCD-208), and the crew at large shares his reading ('the old man doesn't get up,' MCD-1885). Lauris and Sephtis hold the Stage 2 intelligence (MCD-208) and see more of it. Sephtis puts together that the decline is the Governor's Shackle and not age, and that its release is near. He does not know the timing or the trigger. He wrote the Countdown Annotation (MCD-277, age 310), the note logging the Shackle at 99.7%, and he stays silent about what it means: he keeps it from Kanja under the standing mandate that Kanja not know what his Talisman has been doing (MCD-208), and from Lauris. Kanja learns it from him in the Book 4 conversation (MCD-216). No pre-Book-1 entry shows or hints at Sephtis's knowing. Lauris senses the density in Kanja and senses that he is kin. Through Sephtis she knows that his mother is Val Saeryn Kareth (CC-038, MCD-101, MCD-200), so she knows he carries Kareth density. She does not connect his decline to the Talisman and cannot put the rest together. Kanja knows the Haku legend and does not know that it applies to him. The belief is a misconception. The decline, the deathbed included, is the Shackle's hold on his body as it builds toward the Pi-Awakening. His span is far from spent, and 314 is a threshold (WC-005). What ends the deathbed is set at MCD-1904: on the sixth day after his birthday the pendant is severed and the Shackle released (CC-007, MCD-1901); the Pi-Awakening shows him the decline was not age, and that knowledge gives him confidence ('The pie Awakening gave him confidence and he knew something changed he knew that his feeling that he was getting old was a misconception'); that the Talisman caused it he learns only in Book 4 (MCD-216, MCD-208). Pre-Book-1 entries show the decline up to the Fulfillment Ceremony and his and the crew's reading of it. None confirms that he is aging out, and none states that it was not age, which arrives at the Pi-Awakening in Book 1; the physical preview already locked at MCD-262 and MCD-1885 stands, and MCD-1885's narration keeps the decline's cause out of pre-Book-1 material. The deathbed begins after the murder and belongs to Book 1 (MCD-1902). The attacker's identity stays open (MCD-1904).
+**MCD-1903** (category: talisman-of-mao). The aging misconception; Abad's rulings, 2026-10-05. Through the late Long Mask, Kanja reads the Governor's Shackle's buildup (MCD-060 Stage 3, CC-007, WC-014) as age. He feels himself growing heavy, slow and old: visibly slowed by 205 (MCD-260), no longer dodging, turning fast or running by 240 (MCD-262), unable to stand unaided on bad days by 300 (MCD-271), voluntary movement at about 15% of peak (good days excepted, MCD-271) at the Countdown Annotation (310, MCD-277). He has Valen fitted for the Forge-Coat as the era's next legend-bearer at 312 (MCD-277). The decline culminates after his 314th birthday: 'shortly after his birthday he starts feeling worse and worse it seems he's on his death bed and then that's when it happens.' In the days between his birthday and the Pi-Awakening he is in a deathbed state and believes he is dying (the Gilded Lighthouse staging Abad confirmed on 2026-08-13). The Eve of Awakening (MCD-272), where the crew acts without him, and the Last Breakfast (MCD-277), where Pyro serves him stew in the Gilded Lighthouse's upper room where he lies (MCD-1904), fall in this window. He knows the Talisman only as a synchronization server with a density suppressor and does not know what it is doing to his body (MCD-142, MCD-208), and the crew at large shares his reading ('the old man doesn't get up,' MCD-1885). Lauris and Sephtis hold the Stage 2 intelligence (MCD-208) and see more of it. Sephtis puts together that the decline is the Governor's Shackle and not age, and that its release is near. He does not know the timing or the trigger. He wrote the Countdown Annotation (MCD-277, age 310), the note logging the Shackle at 99.7%, and he stays silent about what it means: he keeps it from Kanja under the standing mandate that Kanja not know what his Talisman has been doing (MCD-208), and from Lauris. Kanja learns it from him in the Book 4 conversation (MCD-216). No pre-Book-1 entry shows or hints at Sephtis's knowing. Lauris senses the density in Kanja and senses that he is kin. Through Sephtis she knows that his mother is Val Saeryn Kareth (CC-038, MCD-101, MCD-200), so she knows he carries Kareth density. She does not connect his decline to the Talisman and cannot put the rest together. Kanja knows the Haku legend and does not know that it applies to him. The belief is a misconception. The decline, the deathbed included, is the Shackle's hold on his body as it builds toward the Pi-Awakening. His span is far from spent, and 314 is a threshold (WC-005). What ends the deathbed is set at MCD-1904: on the sixth day after his birthday the pendant is severed and the Shackle released (CC-007, MCD-1901); the Pi-Awakening shows him the decline was not age, and that knowledge gives him confidence ('The pie Awakening gave him confidence and he knew something changed he knew that his feeling that he was getting old was a misconception'); that the Talisman caused it he learns only in Book 4 (MCD-216, MCD-208). Pre-Book-1 entries show the decline up to the Fulfillment Ceremony and his and the crew's reading of it. None confirms that he is aging out, and none states that it was not age, which arrives at the Pi-Awakening in Book 1; the physical preview already locked at MCD-262 and MCD-1885 stands, and MCD-1885's narration keeps the decline's cause out of pre-Book-1 material. The deathbed begins after the murder and belongs to Book 1 (MCD-1902). The attacker's identity stays open (MCD-1904).
 
-**MCD-1904** (category: World Mechanics). The Pi-Awakening's trigger and 'one day too late'; Abad's ruling, 2026-10-05: 'I don't want it to happen on his birthday so it won't. and the trigger is the danger'; 'if he wouldn't have gotten attack he would have lasted another week without it triggering on its own. it was something that was bound to happen.' By his deathbed days (MCD-1903) the Shackle is at its limit and the Awakening is bound to happen: left alone it would have broken on its own about a week after the sixth day, still in his age 314 (CC-006, MCD-003, MCD-1901). What triggers it on the sixth day after his birthday, at the Gilded Lighthouse (CC-005, MCD-061), is a physical threat of deadly force against him: the danger itself. Confirmed by Abad, 2026-10-05 ('yes the surge snapping the pendant works'): his body's surge in answer to that threat snaps the pendant, and the Shackle's release completes the Awakening (CC-007, WC-014). The attack comes during the Last Breakfast (MCD-277), while Pyro serves Kanja. Abad, 2026-10-05: 'Yes. this is also a ceremonial breakfast that he had with Kanja & Maro at the same time every time they did have breakfast together.' The Last Breakfast is a ceremonial meal that Kanja, Pyro and Maro shared at the same hour whenever they breakfasted together, and this one is the first since Maro's murder, seven days before. Open: who or what makes the attack, and how they reach him. The 2026-08-13 staging names an assassination attempt (master-to-do-list.md), and Abad's words of 2026-10-05 add 'a monster or what they call in this world a formidable creature anomaly' as an example of the kind of deadly force. The strike never lands. Had it landed, his reaction would have been sheer force and a catastrophe on a world scale, 'a cosmic event'; the way it happened is the fortunate outcome. The enemy that orders the murder and the strike does not know of the 314 threshold or the Pi-Awakening (WC-005). Abad, 2026-10-05: 'the enemy does not know they just want to eliminate him from the picture because they know he is next of kin and would seek revenge', 'similar to Haku except he literally had the means to do it and the Weaponry to do it', and, of the Rebellion, 'he did bring it to his needs but didn't finish it' ('needs' is dictation for 'knees'). They strike to remove Maro's next of kin. Kanja would seek revenge. He brought the enemy's whole operation to its knees, as Haku did, and did not finish it, and he has the means and the weaponry to finish it (MCD-1902). This ignorance belongs to the enemy that gives those orders. It does not extend to T.D.K., whose containment was built to prevent the Awakening (WC-005) and who stays dormant until Book 1's epilogue (MCD-070). 'One day too late' is the enemy's belief: seeing him awaken, they conclude that it was coming anyway and that they missed by one day, and the phrase recurs through the books as their reading. The truth, that their own attack triggered the Awakening, is revealed to the reader only later, and nothing earlier states it or makes it obvious. Open: where the reveal is placed. Reserved: no entry set before Book 1 may state or hint at the trigger or at the enemy's 'one day too late' belief (MCD-1902). Extends CC-007, WC-014, MCD-061, MCD-1901 and MCD-1903.
+**MCD-1904** (category: World Mechanics). The Pi-Awakening's trigger and 'one day too late'; Abad's ruling, 2026-10-05: 'I don't want it to happen on his birthday so it won't. and the trigger is the danger'; 'if he wouldn't have gotten attack he would have lasted another week without it triggering on its own. it was something that was bound to happen.' By his deathbed days (MCD-1903) the Shackle is at its limit and the Awakening is bound to happen: left alone it would have broken on its own about a week after the sixth day, still in his age 314 (CC-006, MCD-003, MCD-1901). What triggers it on the sixth day after his birthday, at the Gilded Lighthouse (CC-005, MCD-061), is a physical threat of deadly force against him: the danger itself. Confirmed by Abad, 2026-10-05 ('yes the surge snapping the pendant works'): his body's surge in answer to that threat snaps the pendant, and the Shackle's release completes the Awakening (CC-007, WC-014). The attack comes during the Last Breakfast (MCD-277), while Pyro serves Kanja. Abad, 2026-10-05: 'Yes. this is also a ceremonial breakfast that he had with Kanja & Maro at the same time every time they did have breakfast together.' On who shares it, Abad, 2026-10-05: 'the breakfast is Father and Son and they do not tell pyro why he always joins'. The ceremonial breakfast is a father-and-son breakfast, Maro and Kanja, held at the same hour every time they breakfast together. Pyro always joins as the cook, who is held in honor and kept close at heart (MCD-1905). That honor is the reason Maro and Kanja give for having him at the table, and they never tell him why he always joins (CC-047). The Last Breakfast is the first since Maro's murder, seven days before. On where it is held, Abad, 2026-10-05: 'the last breakfast can take place in the most logical place that makes sense for the story cuz it doesn't have to take place where it always takes place'; 'pyrule doesn't want to have breakfast there because of the memories' ('pyrule' is dictation for Pyro); 'it could be because of the lack of movement that Kanja has'. On this day the breakfast is not held where it usually is. Kanja, on his deathbed, cannot be moved, and Pyro cannot face the old table because of its memories, seven days after Maro's murder. It is held at the Gilded Lighthouse, in the upper room where Kanja lies, at the usual hour. The strike comes during the meal. The surge that snaps the pendant carries him out of the upper room and down several stories, and he lands hard enough to crack the Lighthouse's foundation (the 2026-08-13 staging, master-to-do-list.md). The strike never lands, so the fall belongs to the surge. Had it landed, his reaction would have been sheer force and a catastrophe on a world scale, 'a cosmic event'; the way it happened is the fortunate outcome. Open: who or what makes the attack, and how they reach him. The 2026-08-13 staging names an assassination attempt (master-to-do-list.md), and Abad's words of 2026-10-05 add 'a monster or what they call in this world a formidable creature anomaly' as an example of the kind of deadly force. The enemy that orders the murder and the strike does not know of the 314 threshold or the Pi-Awakening (WC-005). Abad, 2026-10-05: 'the enemy does not know they just want to eliminate him from the picture because they know he is next of kin and would seek revenge', 'similar to Haku except he literally had the means to do it and the Weaponry to do it', and, of the Rebellion, 'he did bring it to his needs but didn't finish it' ('needs' is dictation for 'knees'). They strike to remove Maro's next of kin. Kanja would seek revenge. He brought the enemy's whole operation to its knees, as Haku did, and did not finish it, and he has the means and the weaponry to finish it (MCD-1902). This ignorance belongs to the enemy that gives those orders. It does not extend to T.D.K., whose containment was built to prevent the Awakening (WC-005) and who stays dormant until Book 1's epilogue (MCD-070). 'One day too late' is the enemy's belief: seeing him awaken, they conclude that it was coming anyway and that they missed by one day, and the phrase recurs through the books as their reading. The truth, that their own attack triggered the Awakening, is revealed to the reader only later, and nothing earlier states it or makes it obvious. Open: where the reveal is placed. Reserved: no entry set before Book 1 may state or hint at the trigger or at the enemy's 'one day too late' belief (MCD-1902). Extends CC-007, WC-014, MCD-061, MCD-277, MCD-1901, MCD-1903 and MCD-1905.
+
+**MCD-1905** (category: World Mechanics). The honor of the cook; Abad's ruling, 2026-10-05, on why Pyro always joins the ceremonial breakfast (MCD-1904). In the culture of Maro and Kanja the cook is held in honor, prized and kept close at heart, because the cook feeds and nourishes everyone. People show the cook warmth and love, and it is right to eat with the one who cooked. Abad, 2026-10-05: 'the cook is very coveted in their culture'; 'because they feed a nourish everyone'; 'it's too honor to cook and that's the excuse that you have to spend time with him' ('too honor to cook' reads 'to honor the cook'). The custom gives Maro and Kanja the reason they offer for always having Pyro, the cook, at their ceremonial breakfast; they never tell him why he always joins (MCD-1904, CC-047). Agrees with MCD-272 (Pyro's food-based healing in the meals he cooks), MCD-277 (Pyro serves Kanja stew at the Last Breakfast; his mother joined the fleet as provisions manager at age 96) and ARS-421 (the Cian-Feast Kit, his kitchen implements).
 
 ---
 
@@ -257,7 +278,7 @@ Appended to the end of the statement (correction, placement and pointer notes fo
 - `MCD-1883`: "Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date (MCD-1901), 791,942,400 to 762,998,400 seconds (24 years and 71 days); the age and the moment within it are unchanged."
 - `MCD-1884`: "Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date (MCD-1901), 584,928,000 to 555,984,000 seconds (17 years and 230 days), and 'eighteen years of count' to 'seventeen'; the age and the moment within it are unchanged."
 - `MCD-1885`: "Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date (MCD-1901), 6,632,323,200 to 6,603,379,200 seconds (209 years and 143 days), and 'two hundred and ten years' to 'two hundred and nine'; the age and the moment within it are unchanged. Also cut from the narration (Abad, 2026-10-05, 'yes'): the sentences that named the Talisman as the cause of the decline; the cut keeps the decline's cause out of pre-Book-1 material (MCD-1903)."
-- `MCD-277`: "Batch 378 note: the Last Breakfast is the meal during which the Pi-Awakening's trigger strikes, with Pyro serving Kanja (MCD-1904). The Countdown Annotation (age 310) was written by Sephtis, who stays silent about what it means (MCD-1903)."
+- `MCD-277`: "Batch 378 note: the Last Breakfast is the meal during which the Pi-Awakening's trigger strikes (MCD-1904). It is held at the Gilded Lighthouse, in the upper room where Kanja lies, and is the first ceremonial breakfast since Maro's murder, with Pyro serving Kanja as the cook (MCD-1905). The Countdown Annotation (age 310) was written by Sephtis, who stays silent about what it means (MCD-1903)."
 - `MCD-1406`: "Corrected Batch 378, 2026-10-05: set in the first three weeks of age 313 (MCD-1901); Garren Hask's ledger span corrected from 'past two hundred and eighty-three years' to 'past two hundred and eighty-two'."
 - `MCD-1407`: "Placed Batch 378, 2026-10-05: in the last month of age 313, after the Pier's 283rd anniversary and before 'The Night Before the Last Coat' (MCD-1901)."
 - `MCD-1246`: "Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30 days of age 290, after the Pier's 260th anniversary, so the entry's stated span of two hundred and sixty years holds exactly."
@@ -689,7 +710,10 @@ birthday", which is where the Awakening now falls. The pendant ending the Long M
 with `MCD-1022` reworded so the coat night ends the Scourge persona and the pendant ends the Long Mask. The
 Last Breakfast at 314 closing the Long Mask as the pendant activates (`MCD-277`): it is the morning of the
 Awakening, the sixth day after his birthday, inside the deathbed decline, and the attack comes during it with
-Pyro serving Kanja (`MCD-1904`). The Eve of Awakening at 314
+Pyro serving Kanja, at the Gilded Lighthouse in the upper room where he lies (`MCD-1904`). Pyro's cooking and his
+mother's post as provisions manager (`MCD-272`, `MCD-277`, `ARS-421`) agree with the cook's honor (`MCD-1905`), as does the
+fleet's sea-burial for its long-serving cook Mirella (`MCD-1213`). `CC-047` already locks that Pyro does not know his own
+parentage, which agrees with Maro and Kanja never telling him why he always joins. The Eve of Awakening at 314
 (`MCD-272`), now the day before the Awakening. The Pi-Awakening inside the 10-Day Interregnum, the Lighthouse
 staging Abad confirmed on 2026-08-13 (`master-to-do-list.md`). The pitch line "it ended one day too late"
 (`kanja-chronicles-production-roadmap.md`): this draft's earlier reading of it is withdrawn, and `MCD-1904`
@@ -710,7 +734,7 @@ sets what ends it and what the enemy does and does not know. The attacker's iden
 `VB-063` (the seconds-count gets its exact anchor), `MCD-060`/`MCD-142`/`MCD-208` (the Shackle's felt
 weight, Kanja's ignorance of it), `MCD-1880` (the Pier's date within age 30), `MCD-272`/`MCD-277` (their place in the deathbed window; `MCD-277` gets a pointer to `MCD-1904` and a note on Sephtis's Countdown Annotation), `CC-007`/`WC-014`/`MCD-061` (severing the pendant triggers the Awakening; `MCD-1904` says what makes the severing happen).
 
-**Touches.** Four new rules (`MCD-1901` to `MCD-1904`). 53 existing rules in section (b): 44 amended by 46
+**Touches.** Five new rules (`MCD-1901` to `MCD-1905`). 53 existing rules in section (b): 44 amended by 46
 exact replacements, and 10 given an appended note (`MCD-1252` has both; 9 have the note only, one of them the
 `MCD-070` clause awaiting Abad's confirmation, and one the `MCD-277` pointer). 60 entries and 12 docs in section (c), plus CLAUDE.md's history paragraph. Narrative prose
 changes in six entries: the three locked Onyx accounts (Kanja V, VI and VII) and three late-Scourge
@@ -768,9 +792,10 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
    dramatizing or foreshadowing the murder, so no new entry set before Book 1 may depict it.
 8. **The Last Breakfast** (`MCD-277`, 314) is the morning of the Awakening, the sixth day after his
    birthday and seven days after the murder, in the deathbed decline. The attack comes during it, with Pyro
-   serving Kanja (confirmed by Abad). It is a ceremonial breakfast that Kanja, Pyro and Maro shared at the same
-   hour whenever they breakfasted together; this one is the first since the murder. The draft does not state
-   what Kanja knows or feels about the murder at the meal.
+   serving Kanja (confirmed by Abad). Under ruling (b) it is the ceremonial breakfast of Maro and Kanja, father
+   and son, at the same hour whenever they breakfast together, with Pyro always joining as the cook; this one is
+   the first since the murder. Under ruling (a) it is held at the Gilded Lighthouse, in the upper room where Kanja
+   lies. The draft does not state what Kanja knows or feels about the murder at the meal.
 9. **`MCD-269`'s "29 years"** from the Cestari Overture (285) to Red Beard's Book 1 defection is kept.
    It holds if the Overture fell no later in Kanja's age 285 than the defection falls in his age 314;
    otherwise it is 28.
@@ -857,13 +882,14 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
     birthday; the danger is the trigger; the enemy will always think they were a day too late; the reader learns
     later, without obvious signposting, that the danger triggered it; without the attack he would have lasted
     another week; a landed strike would have caused a world-scale event; the attack during the Last Breakfast with
-    Pyro serving Kanja (confirmed, revision 6); and, confirmed ("yes the surge snapping the pendant
+    Pyro serving Kanja (confirmed, revision 6); under rulings (a) and (b), the Lighthouse's upper room as the place, the
+    father-and-son breakfast with Pyro joining as the cook, and the fall carried by the surge (revision 7); and, confirmed ("yes the surge snapping the pendant
     works"), the mechanism: his body's surge in answer to the threat snaps the pendant, and the release completes
     the Awakening (`CC-007`). Abad's "another week" is counted from the sixth day, and the rule's wording "about a week after the sixth
     day" reads it so. Open, for Abad: who or
     what makes the attack, and where the reveal to the reader is placed. Proposal, in this presentation only and
-    not in any rule text: the Last Breakfast's fixed hour is what tells the enemy when and where to find him,
-    the logic of how the strike reaches him.
+    not in any rule text: the place changes that day; the hour does not, and the unchanged hour is how the enemy
+    knows when to find him. This is the logic of how the strike reaches him.
 23. **Grep for another trigger, `MCD-1904` check.** No locked rule or entry states a trigger for the Awakening
     that conflicts. Rules that name severing the pendant as the trigger (`CC-005`, `CC-007`, `WC-014`,
     `MCD-061`) agree with it. `MCD-147` says only "when it triggers". `MCD-277` says the pendant "activates" at
@@ -896,27 +922,40 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
       window. `master-to-do-list.md` and `kanja-chronicles-production-roadmap.md` carry the
       "one day too late" bracket note. `SESSION_HANDOFF_2026-10-05.md` carries a "Superseded" line.
 
-25. **Last Breakfast, Gilded Lighthouse, deathbed staging and `MCD-061`: location check, reported and not
-    invented.** Locked rules and entries that mention them: `MCD-277` (age 314, Pyro serves Kanja stew "as
-    the Shimmer and the Gilded Lighthouse's pendant activate"), `CC-005`, `CC-007` and `WC-014` (the pendant
-    is severed at the Gilded Lighthouse), `MCD-061` (resolves the Substage 3 conflict and names no place),
-    `MCD-270` (age 295: Kanja captures the Gilded Lighthouse, whose cladding resonates with the Shackle and
-    eases his weight), `MCD-275` (Trust pre-positioning toward the Lighthouse's coordinates at 308) and
-    `MCD-272` (the Eve of Awakening, no place). No Chronicle entry stages the Last Breakfast. The 2026-08-13
-    deathbed staging is in `master-to-do-list.md` (line 89). Findings:
-    - No locked rule says where the breakfast is held. `MCD-277` ties it to the pendant by simultaneity, and
-      `MCD-1904` puts the trigger at the Lighthouse during the breakfast, so the draft's reading is that the
-      meal is eaten at the Lighthouse. Whether that is inside the building, on its grounds, or elsewhere in
-      sight of it is fixed nowhere.
-    - The 2026-08-13 staging has Kanja falling several stories from the lighthouse and cracking its
-      foundation during the assassination attempt. No record reconciles a seated breakfast with a fall, and the
-      staging is unlocked scene-level detail. `MCD-1904` states neither.
-    - Maro, Pyro and Kanja at one standing meal: no locked rule places Pyro with Maro, and whether Pyro knows
-      Kanja is his father is open (`CC-110`: Sephtis has known for years and never disclosed it; `pyro.md`
-      A3 and A4, unlocked). Abad's description of the ceremonial meal presupposes the three together over the
-      years.
+25. **Last Breakfast, Gilded Lighthouse, deathbed staging and `MCD-061`: location check. RESOLVED under ruling (a).**
+    Locked rules and entries that mention them, all checked for any conflict with an upper room, a fall or a
+    cracked foundation: `MCD-277` (age 314, Pyro serves Kanja stew "as the Shimmer and the Gilded Lighthouse's
+    pendant activate"), `CC-005`, `CC-007` and `WC-014` (the pendant is severed at the Gilded Lighthouse), `MCD-061`
+    (resolves the Substage 3 conflict and names no place), `MCD-270` (age 295: Kanja captures the Gilded Lighthouse,
+    whose cladding resonates with the Shackle and eases his weight briefly), `MCD-275` (Trust pre-positioning toward
+    the Lighthouse's coordinates at 308), `MCD-272` (the Eve of Awakening, no place) and `MCD-1883` to `MCD-1885` (no
+    Lighthouse content; Kanja VII's continuity note says only that it has no Lighthouse endgame). No Chronicle entry
+    names the Gilded Lighthouse, so none stages an upper room, a fall or a crack. The 2026-08-13 staging
+    (`master-to-do-list.md`, line 89) has Kanja falling several stories from the lighthouse and cracking its
+    foundation during the assassination attempt, and `MCD-1904` now writes that staging in: the surge carries him
+    out of the upper room and down several stories, and he lands hard enough to crack the foundation. The strike
+    never lands, so the fall belongs to the surge. Findings:
+    - No conflict with an upper room, a fall or the crack. `MCD-270`'s cladding that eases his weight is the same
+      Living Drakma the foundation sits under; `MCD-061` and `MCD-142` have the reinforcement unseen, which does not
+      bar a crack when the surge exceeds it. The staging's "cracked rather than shattered" is not stated in the rule.
+    - No locked rule says when Kanja came to the Lighthouse or where he was at the Ceremony. `MCD-1904` says only that
+      on the day he cannot be moved and lies in the upper room. How he came to lie there between the murder and the
+      sixth day after his birthday is fixed nowhere.
+    - No locked rule or entry names the old table or says where the breakfast is usually held, so it stays unplaced.
+      Maro's standing breakfasts with Kanja across the Long Mask imply a regular meeting between Maro, the Accords'
+      King of Jicome (`CC-009`), and the Scourge persona's Kanja; no locked rule bars it, and `ARS-425` has Maro seeing his
+      son's weapon before the surrender, which stands.
+    - `MCD-277` (Pyro serves stew; his mother joined the fleet as provisions manager at age 96) and the cook's honor
+      agree (`MCD-1905`). A grep of "cook", "galley", "provisions", "stew", "meal" and "breakfast" across the ledger
+      found no locked rule that says anything different about cooks or shared meals; the nearest are `MCD-272`
+      (Pyro's cooking heals), `ARS-190`/`ARS-421` (his kitchen implements), `LEX-006` (the crew's mess) and
+      `MCD-1213` (Mirella's sea-burial). `MCD-1905` is the first rule to set a cultural fact about cooks.
+    - Pyro and Maro: `CC-047` locks that Pyro does not know his own parentage and `ARS-414` has him learn his
+      father's identity later, so "they never tell him why he always joins" agrees. No separate "Pyro does not know"
+      fact is locked. It bears on `pyro.md`'s open A3 and A4 questions: awaiting item 7.
     - `MCD-277`'s "closes the Long Mask on Pyro serving Kanja stew" agrees with an attack during the meal.
-    These are item 7 of the awaiting list.
+    The ruling on where the breakfast is held and the fall are resolved; items 7 to 9 of the awaiting list carry what
+    stays open.
 26. **The enemy's ignorance of the 314 threshold, checked against `WC-005`, `CULT-008` and the locked record.**
     `MCD-1904` keeps the ignorance with the enemy that orders the murder and the strike, and sets T.D.K. apart:
     his containment was built to prevent the Awakening (`WC-005`) and he is dormant until Book 1's epilogue
@@ -954,6 +993,20 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
       continuity note carry the cut. `MCD-277` gets an appended note pointing to `MCD-1904` and `MCD-1903`.
     - Awaiting list reduced to the seven items in the draft head.
 
+29. **Revision 7 changes.** Abad's rulings (a) and (b) on the Last Breakfast.
+    - Rulings list: both rulings, verbatim, also carried into the batch note and the `CLAUDE.md` paragraph.
+    - `MCD-1904`: the breakfast passage rewritten (father-and-son breakfast, Pyro joining as the cook and never told
+      why, the first since the murder, held at the Gilded Lighthouse's upper room because Kanja cannot be moved and
+      Pyro cannot face the old table, the surge carrying him down several stories and cracking the foundation).
+    - `MCD-1905` added: the honor of the cook, as a cultural fact in category World Mechanics, which also holds the
+      Rexmar culture and tradition rules (for example `MCD-294`, `MCD-298` and `MCD-311`). The ID is unused (the highest MCD ID is
+      `MCD-1900`).
+    - `MCD-1903`: the Last Breakfast placed in the Lighthouse's upper room. `MCD-277`: the appended note now gives the
+      place and the cook. The script's `NEW_IDS`, parser, batch note and `CLAUDE.md` paragraph carry `MCD-1905`.
+    - Awaiting list: item 3 reworded (place changes, hour does not); the Last Breakfast/Lighthouse reconciliation is
+      resolved under ruling (a) and removed; items 7 to 9 added (the Pyro question, the culture and Maro's knowledge,
+      pre-Book-1 depiction).
+
 ### (c7) Edited directly, outside the merge script
 
 - `docs/lords-of-cian/character-profiles/pyro.md`: Section 1 quotes of `CC-101` and `CC-110` (two places),
@@ -964,6 +1017,6 @@ Obsidian Malice and is not introduced as a separate name (see flag 3).
   listed in flag 18.
 
 **Mechanical gate.** `python3 scripts/connective_tissue_check.py` on this draft exits 0. Gate step 2 has run twice
-(the independent reviews behind revisions 3 and 5). A fresh independent review of revision 6 is still owed before
+(the independent reviews behind revisions 3 and 5). A fresh independent review of revision 7 is still owed before
 this draft is presented.
 
