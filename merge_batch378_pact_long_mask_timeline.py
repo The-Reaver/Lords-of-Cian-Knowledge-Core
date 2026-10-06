@@ -1,7 +1,7 @@
 """Batch 378: the Long Mask, the Sovereign Pier Accords and Book 1 on one clock (Abad's ruling,
 2026-10-05; resolves approval-list item 1). Locks MCD-1901 (the timeline), MCD-1902 (the Accords broken
-and the Trinity reclaimed, a Book 1 beat), MCD-1903 (the aging misconception) and MCD-1904 (the Pi-Awakening's
-trigger and "one day too late"); amends every rule that
+and the Trinity reclaimed, a Book 1 beat), MCD-1903 (the aging misconception), MCD-1904 (the Pi-Awakening's
+trigger, the Last Breakfast and "one day too late") and MCD-1905 (the honor of the cook); amends every rule that
 states the old 284-year Long Mask or the 296-year Pier-to-Ceremony offset; carries the change to every
 entry, profile, tracker row and doc that states it, and appends the Batch 378 history paragraph to
 CLAUDE.md.
@@ -14,7 +14,7 @@ from collections import Counter
 
 LEDGER = "canon-ledger.json"
 SOURCE = "Abad's ruling in conversation, 2026-10-05; drafted to resolve approval-list item 1"
-NEW_IDS = ["MCD-1901", "MCD-1902", "MCD-1903", "MCD-1904"]
+NEW_IDS = ["MCD-1901", "MCD-1902", "MCD-1903", "MCD-1904", "MCD-1905"]
 CH = "docs/lords-of-cian/chronicles/"
 PR = "docs/lords-of-cian/character-profiles/"
 LM = "the Long Mask of just over 283 years"
@@ -114,9 +114,11 @@ APPEND = {
                 "and ten years' to 'two hundred and nine'; the age and the moment within it are unchanged. Also cut from the "
                 "narration (Abad, 2026-10-05, 'yes'): the sentences that named the Talisman as the cause of the "
                 "decline; the cut keeps the decline's cause out of pre-Book-1 material (MCD-1903).",
-    "MCD-277": " Batch 378 note: the Last Breakfast is the meal during which the Pi-Awakening's trigger strikes, "
-               "with Pyro serving Kanja (MCD-1904). The Countdown Annotation (age 310) was written by Sephtis, who "
-               "stays silent about what it means (MCD-1903).",
+    "MCD-277": " Batch 378 note: the Last Breakfast is the meal during which the Pi-Awakening's trigger strikes "
+               "(MCD-1904). It is held at the Gilded Lighthouse, in the upper room where Kanja lies, and is the first "
+               "ceremonial breakfast since Maro's murder, with Pyro serving Kanja as the cook (MCD-1905). The "
+               "Countdown Annotation (age 310) was written by Sephtis, who stays silent about what it means "
+               "(MCD-1903).",
     "MCD-1406": " Corrected Batch 378, 2026-10-05: set in the first three weeks of age 313 (MCD-1901); Garren "
                 "Hask's ledger span corrected from 'past two hundred and eighty-three years' to 'past two "
                 "hundred and eighty-two'.",
@@ -423,7 +425,7 @@ def clean(t):
 
 def parse_new(text):
     out = {}
-    for m in re.finditer(r"\*\*(MCD-190[1-4])\*\*\s*\(category: ([^)]+)\)\.\s*(.+?)(?=\n\n)", text, re.S):
+    for m in re.finditer(r"\*\*(MCD-190[1-5])\*\*\s*\(category: ([^)]+)\)\.\s*(.+?)(?=\n\n)", text, re.S):
         out[m.group(1)] = (m.group(2).strip(), clean(m.group(3)))
     assert sorted(out) == NEW_IDS, sorted(out)
     return out
