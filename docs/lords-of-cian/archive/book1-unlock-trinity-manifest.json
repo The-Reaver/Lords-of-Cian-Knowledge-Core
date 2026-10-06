@@ -1,0 +1,1540 @@
+{
+  "manifest": "book1-unlock-trinity-manifest",
+  "status": "draft for Batch 379; takes effect when VB-069 locks",
+  "rule": "VB-069",
+  "tier": "book1-unlock",
+  "entry_dir": "docs/lords-of-cian/chronicles/",
+  "classes": [
+    "IN-USE",
+    "TRACK",
+    "AMBIGUOUS-GATED"
+  ],
+  "counts": {
+    "total": 190,
+    "TRACK": 15,
+    "IN-USE": 172,
+    "AMBIGUOUS-GATED": 3
+  },
+  "entries": [
+    {
+      "file": "kanja-chronicle-i-the-fourteen-percent-that-was-hers.md",
+      "rule": "MCD-1866",
+      "track": "Kanja-version track",
+      "reason": "TRACK",
+      "era": "Age 18",
+      "note": "Onyx coda; the blade rides at his hip."
+    },
+    {
+      "file": "kanja-chronicle-ii-the-lesson-he-carried-alone.md",
+      "rule": "MCD-1867",
+      "track": "Kanja-version track",
+      "reason": "TRACK",
+      "era": "age 17 or earlier (pre-bonding, per header)",
+      "note": "No Trinity term in the body and no Onyx (before the age-17 bonding); gated by track membership only (flag 4 in the draft)."
+    },
+    {
+      "file": "kanja-chronicle-iii-what-the-dark-could-not-keep.md",
+      "rule": "MCD-1868",
+      "track": "Kanja-version track",
+      "reason": "TRACK",
+      "era": "Age 27; age 29; age 27",
+      "note": "Onyx narrates; the blade fielded against the Ever-Haunt entities (MCD-1865)."
+    },
+    {
+      "file": "kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md",
+      "rule": "MCD-1880",
+      "track": "Kanja-version track",
+      "reason": "TRACK",
+      "era": "Age 30",
+      "note": "Onyx narrates; the Pier (MCD-245); the Trinity surrendered that night."
+    },
+    {
+      "file": "kanja-chronicle-v-the-names-in-the-correction-book.md",
+      "rule": "MCD-1883",
+      "track": "Kanja-version track",
+      "reason": "TRACK",
+      "era": "Long Mask; Age 55",
+      "note": "Onyx narrates retrospectively; the blade sealed at L9 (VB-062, ARS-437)."
+    },
+    {
+      "file": "kanja-chronicle-vi-vellacourts-rule.md",
+      "rule": "MCD-1884",
+      "track": "Kanja-version track",
+      "reason": "TRACK",
+      "era": "Long Mask; Age 48; Pirate Dawn",
+      "note": "Onyx narrates retrospectively; the blade sealed at L9 (VB-062, ARS-437)."
+    },
+    {
+      "file": "kanja-chronicle-vii-the-man-who-did-not-get-up.md",
+      "rule": "MCD-1885",
+      "track": "Kanja-version track",
+      "reason": "TRACK",
+      "era": "Long Mask; Age 240",
+      "note": "Onyx narrates retrospectively; the blade sealed at L9 (VB-062, ARS-437)."
+    },
+    {
+      "file": "chronicle-i-the-scrip-forge-raid.md",
+      "rule": null,
+      "track": "Manuscript Chronicles I-VIII",
+      "reason": "TRACK",
+      "era": "Age 18, Phase 1",
+      "note": "Mafesto, Obsidian Malice and the Talisman named as already made, none used; first-person Onyx coda."
+    },
+    {
+      "file": "chronicle-ii-the-dredge-line-ambush.md",
+      "rule": null,
+      "track": "Manuscript Chronicles I-VIII",
+      "reason": "TRACK",
+      "era": "Age 18, Phase 1",
+      "note": "Blade carried and never drawn; first-person Onyx coda."
+    },
+    {
+      "file": "chronicle-iii-the-battle-of-the-black-trench.md",
+      "rule": null,
+      "track": "Manuscript Chronicles I-VIII",
+      "reason": "TRACK",
+      "era": "Age 19",
+      "note": "Shows the Trinity in use: the Black Trench, its first deployment as a complete system (MCD-232)."
+    },
+    {
+      "file": "chronicle-iv-iron-shallows.md",
+      "rule": null,
+      "track": "Manuscript Chronicles I-VIII",
+      "reason": "TRACK",
+      "era": "Age 19, Phase 1",
+      "note": "Mafesto worn dormant and Onyx carried, both stated unused; first-person Onyx coda."
+    },
+    {
+      "file": "chronicle-v-the-siege-of-maw-9.md",
+      "rule": null,
+      "track": "Manuscript Chronicles I-VIII",
+      "reason": "TRACK",
+      "era": "Age 20, Phase 1",
+      "note": "Onyx coda only."
+    },
+    {
+      "file": "chronicle-vi-the-sewer-war-of-killane.md",
+      "rule": null,
+      "track": "Manuscript Chronicles I-VIII",
+      "reason": "TRACK",
+      "era": "Age 20; age 21; age 18",
+      "note": "Mafesto functional underground; \"the blade\" coda."
+    },
+    {
+      "file": "chronicle-vii-the-siege-of-the-ghost-harbor.md",
+      "rule": null,
+      "track": "Manuscript Chronicles I-VIII",
+      "reason": "TRACK",
+      "era": "Age 21, Phase 2",
+      "note": "Labeled \"ONYX:\" coda only."
+    },
+    {
+      "file": "chronicle-viii-the-ash-wharf-massacre.md",
+      "rule": null,
+      "track": "Manuscript Chronicles I-VIII",
+      "reason": "TRACK",
+      "era": "Age 22",
+      "note": "Labeled \"ONYX:\" coda."
+    },
+    {
+      "file": "what-the-fog-remembers.md",
+      "rule": "MCD-398",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-full-weight-of-the-trinity.md",
+      "rule": "MCD-432",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 19",
+      "note": ""
+    },
+    {
+      "file": "the-fight-he-couldnt-walk-away-from.md",
+      "rule": "MCD-476",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 19",
+      "note": ""
+    },
+    {
+      "file": "the-siege-that-took-nine-days.md",
+      "rule": "MCD-529",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 19",
+      "note": ""
+    },
+    {
+      "file": "what-the-black-ledger-remembers.md",
+      "rule": "MCD-690",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "what-the-soulbound-edge-bound.md",
+      "rule": "MCD-696",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-water-that-wouldnt-carry-the-current.md",
+      "rule": "MCD-697",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-fight-that-went-straight-up.md",
+      "rule": "MCD-703",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-last-night-the-ravine-remembered.md",
+      "rule": "MCD-709",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "age 25",
+      "note": ""
+    },
+    {
+      "file": "the-surrender-that-wasnt-one.md",
+      "rule": "MCD-910",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-silence-they-built-to-blind-him.md",
+      "rule": "MCD-933",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-crossing-they-almost-didnt-make.md",
+      "rule": "MCD-936",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-bridge-he-refused-to-blow.md",
+      "rule": "MCD-1026",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-twelve-miles-that-never-stopped-moving.md",
+      "rule": "MCD-1060",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "what-the-shadows-wouldnt-hide.md",
+      "rule": "MCD-1094",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-charge-that-fired-too-soon.md",
+      "rule": "MCD-1097",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "what-the-river-carried-between-them.md",
+      "rule": "MCD-1100",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "what-the-silence-after-meant.md",
+      "rule": "MCD-1111",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-weight-of-the-ones-who-didnt-run.md",
+      "rule": "MCD-1113",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-white-that-took-the-map-away.md",
+      "rule": "MCD-1391",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "age 33",
+      "note": ""
+    },
+    {
+      "file": "the-tide-that-wrote-the-deadline.md",
+      "rule": "MCD-1424",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "the-duel-that-would-cost-nothing-but-him.md",
+      "rule": "MCD-1425",
+      "track": "Alias: Bane",
+      "reason": "AMBIGUOUS-GATED",
+      "era": "pre-Rebellion; age 26",
+      "note": "Duel fought with \"the blade at his hip\" under a no-gear condition; Onyx or a plain blade is not stated."
+    },
+    {
+      "file": "the-impersonators-price.md",
+      "rule": "MCD-1428",
+      "track": "Alias: Bane",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion (alias window))",
+      "note": ""
+    },
+    {
+      "file": "what-the-titan-carries.md",
+      "rule": "MCD-375",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 20",
+      "note": ""
+    },
+    {
+      "file": "the-flood-that-came-from-below.md",
+      "rule": "MCD-440",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 20",
+      "note": ""
+    },
+    {
+      "file": "what-even-he-couldnt-save.md",
+      "rule": "MCD-485",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 20",
+      "note": ""
+    },
+    {
+      "file": "the-ticking-room.md",
+      "rule": "MCD-486",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 20",
+      "note": ""
+    },
+    {
+      "file": "the-mine-that-wouldnt-give-them-up.md",
+      "rule": "MCD-537",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 20",
+      "note": ""
+    },
+    {
+      "file": "what-the-dark-couldnt-hide.md",
+      "rule": "MCD-652",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-tunnel-he-cut-through-stone.md",
+      "rule": "MCD-655",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-one-he-couldnt-dig-out-in-time.md",
+      "rule": "MCD-656",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-walk-no-one-heard.md",
+      "rule": "MCD-658",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-choice-between-the-roof-and-the-man.md",
+      "rule": "MCD-659",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-stood-while-it-was-falling.md",
+      "rule": "MCD-661",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-cut-that-freed-them.md",
+      "rule": "MCD-664",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-square-could-not-hold.md",
+      "rule": "MCD-666",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-bridge-that-bought-them-time.md",
+      "rule": "MCD-667",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-engineer-who-fought-like-one.md",
+      "rule": "MCD-670",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-junction-that-wouldnt-fall.md",
+      "rule": "MCD-673",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "air-enough-for-four.md",
+      "rule": "MCD-676",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-district-held-on-every-front.md",
+      "rule": "MCD-679",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-wall-he-built-to-come-down.md",
+      "rule": "MCD-891",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-smoke-was-hiding.md",
+      "rule": "MCD-1035",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "ages 20-21",
+      "note": ""
+    },
+    {
+      "file": "no-smell-no-smoke-no-sound.md",
+      "rule": "MCD-1068",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-ground-that-moved-on-its-own.md",
+      "rule": "MCD-1175",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-fumes-that-ate-the-iron.md",
+      "rule": "MCD-1178",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-heat-that-came-up-from-below.md",
+      "rule": "MCD-1181",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-he-read-with-his-eyes-shut.md",
+      "rule": "MCD-1182",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-signal-that-meant-run.md",
+      "rule": "MCD-1184",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-storm-that-found-the-seams.md",
+      "rule": "MCD-1193",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-machine-that-dug-toward-them.md",
+      "rule": "MCD-1400",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-frost-that-cracked-what-fire-never-could.md",
+      "rule": "MCD-1451",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-well-that-went-dry.md",
+      "rule": "MCD-1454",
+      "track": "Alias: Blue-Collar Titan",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-thirty-feet-he-refused-to-lose.md",
+      "rule": "MCD-396",
+      "track": "Alias: Captain",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-charge-he-spent-on-one-person.md",
+      "rule": "MCD-429",
+      "track": "Alias: Captain",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-day-the-whole-crew-fought-as-one.md",
+      "rule": "MCD-461",
+      "track": "Alias: Captain",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-man-who-was-forced-to-betray-them.md",
+      "rule": "MCD-507",
+      "track": "Alias: Captain",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-call-he-got-wrong.md",
+      "rule": "MCD-594",
+      "track": "Alias: Captain",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion/Long Mask)",
+      "note": ""
+    },
+    {
+      "file": "when-the-crow-could-not-fly.md",
+      "rule": "MCD-417",
+      "track": "Alias: Crow King",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-braid-and-the-blade.md",
+      "rule": "MCD-495",
+      "track": "Alias: Crow King",
+      "reason": "IN-USE",
+      "era": "Rebellion era; ages 23-28",
+      "note": ""
+    },
+    {
+      "file": "the-signal-before-the-storm-of-steel.md",
+      "rule": "MCD-850",
+      "track": "Alias: Crow King",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-vault-that-held-no-light.md",
+      "rule": "MCD-1045",
+      "track": "Alias: Crow King",
+      "reason": "IN-USE",
+      "era": "Rebellion-era",
+      "note": ""
+    },
+    {
+      "file": "what-the-chase-could-not-outrun.md",
+      "rule": "MCD-1078",
+      "track": "Alias: Crow King",
+      "reason": "IN-USE",
+      "era": "Rebellion-era",
+      "note": ""
+    },
+    {
+      "file": "what-held-together-stopped-holding.md",
+      "rule": "MCD-387",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-column-he-could-not-leave-alone.md",
+      "rule": "MCD-419",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-column-built-without-metal.md",
+      "rule": "MCD-420",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-bridge-that-chose-its-moment.md",
+      "rule": "MCD-452",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 25",
+      "note": ""
+    },
+    {
+      "file": "the-wall-that-wasnt-built-to-ring.md",
+      "rule": "MCD-453",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 25",
+      "note": ""
+    },
+    {
+      "file": "the-frequency-he-read-wrong.md",
+      "rule": "MCD-497",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 25",
+      "note": ""
+    },
+    {
+      "file": "what-the-rigging-remembered.md",
+      "rule": "MCD-498",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 25",
+      "note": ""
+    },
+    {
+      "file": "the-ear-under-the-ice.md",
+      "rule": "MCD-711",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-vault-that-answered-nothing.md",
+      "rule": "MCD-712",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-stood-between-him-and-the-metal.md",
+      "rule": "MCD-715",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-weight-of-three-towers.md",
+      "rule": "MCD-717",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-crawler-graveyard-taught-him.md",
+      "rule": "MCD-720",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-three-voices-in-one-hand.md",
+      "rule": "MCD-721",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-chain-that-held-two-ships-together.md",
+      "rule": "MCD-726",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-twelve-locks-of-the-vault-door.md",
+      "rule": "MCD-729",
+      "track": "Alias: Iron Bastard",
+      "reason": "AMBIGUOUS-GATED",
+      "era": "unstated (track default: Rebellion)",
+      "note": "A \"discharge\" tuned lock by lock; Mafesto named only as having nothing to absorb."
+    },
+    {
+      "file": "the-crawler-that-listened-back.md",
+      "rule": "MCD-733",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-last-wall-of-the-old-foundry.md",
+      "rule": "MCD-738",
+      "track": "Alias: Iron Bastard",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-forge-refused-to-return.md",
+      "rule": "MCD-390",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-night-they-came-for-the-anvil.md",
+      "rule": "MCD-423",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-convoy-that-wouldnt-stop-moving.md",
+      "rule": "MCD-455",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-saboteur-among-the-apprentices.md",
+      "rule": "MCD-501",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-night-all-five-forges-burned-at-once.md",
+      "rule": "MCD-552",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "what-the-floodwater-couldnt-take.md",
+      "rule": "MCD-862",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-they-chose-to-save-first.md",
+      "rule": "MCD-865",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-pass-that-wouldnt-close.md",
+      "rule": "MCD-868",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-foundry-they-turned-around.md",
+      "rule": "MCD-871",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-night-he-almost-didnt-make-the-sixth.md",
+      "rule": "MCD-873",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-held-the-bridge-together.md",
+      "rule": "MCD-874",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-quarry-wall-held-back.md",
+      "rule": "MCD-877",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-night-the-tide-turned-the-battle.md",
+      "rule": "MCD-880",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-forge-at-the-edge-of-the-map.md",
+      "rule": "MCD-886",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-eighteen-months-built.md",
+      "rule": "MCD-889",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-settlement-that-was-never-there.md",
+      "rule": "MCD-970",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-river-barge-couldnt-outrun.md",
+      "rule": "MCD-973",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "those-who-came-with-nothing-but-the-road.md",
+      "rule": "MCD-976",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-trinity-couldnt-absorb.md",
+      "rule": "MCD-1051",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-collapse-they-meant-to-cause.md",
+      "rule": "MCD-1083",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-frost-that-didnt-wait-for-spring.md",
+      "rule": "MCD-1311",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-storm-that-nearly-took-the-anvil.md",
+      "rule": "MCD-1314",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "what-the-old-dam-remembered.md",
+      "rule": "MCD-1317",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "what-the-bonded-forge-gave-up.md",
+      "rule": "MCD-1320",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "what-the-coat-couldnt-shed.md",
+      "rule": "MCD-1322",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27; Long Mask",
+      "note": ""
+    },
+    {
+      "file": "what-came-down-from-the-ridge.md",
+      "rule": "MCD-1323",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-price-they-asked-for-the-boy.md",
+      "rule": "MCD-1324",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "what-the-canyon-carried-sound-of.md",
+      "rule": "MCD-1326",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-weeks-the-method-stood-alone.md",
+      "rule": "MCD-1328",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "what-he-came-back-to-finish.md",
+      "rule": "MCD-1329",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "what-the-pilgrims-never-saw-coming.md",
+      "rule": "MCD-1332",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "everything-theyd-learned-at-once.md",
+      "rule": "MCD-1335",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-millrace-they-tried-to-choke.md",
+      "rule": "MCD-1416",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-marsh-wouldnt-ground.md",
+      "rule": "MCD-1497",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-cell-they-thought-would-hold-him.md",
+      "rule": "MCD-1499",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "what-they-built-from-what-they-saw.md",
+      "rule": "MCD-1501",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-wave-that-gave-no-warning.md",
+      "rule": "MCD-1503",
+      "track": "Alias: Lord of Embers",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 27",
+      "note": ""
+    },
+    {
+      "file": "the-last-fight-before-the-silence.md",
+      "rule": "MCD-1014",
+      "track": "Alias: Scourge",
+      "reason": "IN-USE",
+      "era": "Age 24; Long Mask",
+      "note": ""
+    },
+    {
+      "file": "the-chains-that-remembered-the-anchor.md",
+      "rule": "MCD-378",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 21",
+      "note": ""
+    },
+    {
+      "file": "the-task-force-built-to-hunt-a-ghost.md",
+      "rule": "MCD-443",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 21",
+      "note": ""
+    },
+    {
+      "file": "the-ship-he-couldnt-reach-in-time.md",
+      "rule": "MCD-488",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 21",
+      "note": ""
+    },
+    {
+      "file": "the-manifest-written-in-chains.md",
+      "rule": "MCD-489",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 21",
+      "note": ""
+    },
+    {
+      "file": "the-captains-who-chose-a-side.md",
+      "rule": "MCD-540",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 21",
+      "note": ""
+    },
+    {
+      "file": "the-captain-who-didnt-believe-in-ghosts.md",
+      "rule": "MCD-774",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "air-enough-for-six.md",
+      "rule": "MCD-775",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-night-the-coast-held.md",
+      "rule": "MCD-781",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-strait-that-ate-the-light.md",
+      "rule": "MCD-784",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-convoy-caught-between-two-flags.md",
+      "rule": "MCD-787",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-fell-when-the-tower-did.md",
+      "rule": "MCD-790",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-thing-the-directorate-built-to-hunt-them.md",
+      "rule": "MCD-793",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-debt-the-sea-called-in.md",
+      "rule": "MCD-951",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion-era",
+      "note": ""
+    },
+    {
+      "file": "the-trap-built-from-mercy-itself.md",
+      "rule": "MCD-954",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-line-they-ran-through-fire.md",
+      "rule": "MCD-956",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-ship-they-meant-to-sink.md",
+      "rule": "MCD-1038",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-night-the-water-burned.md",
+      "rule": "MCD-1071",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion-era",
+      "note": ""
+    },
+    {
+      "file": "the-squall-that-broke-the-line.md",
+      "rule": "MCD-1211",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion-era",
+      "note": ""
+    },
+    {
+      "file": "the-fleet-that-wasnt-ready.md",
+      "rule": "MCD-1223",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-sea-never-gave-back.md",
+      "rule": "MCD-1227",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-channel-the-ice-sealed-shut.md",
+      "rule": "MCD-1403",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion-era",
+      "note": ""
+    },
+    {
+      "file": "the-champion-sent-to-kill-a-ghost.md",
+      "rule": "MCD-1460",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "Rebellion-era",
+      "note": ""
+    },
+    {
+      "file": "the-wave-that-outran-the-charts.md",
+      "rule": "MCD-1463",
+      "track": "Alias: Sovereign Ghost of the Great Sea",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-flagship-that-would-not-flood.md",
+      "rule": "MCD-393",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 29",
+      "note": ""
+    },
+    {
+      "file": "the-dark-water-ambush.md",
+      "rule": "MCD-426",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-battle-fought-inside-the-storm.md",
+      "rule": "MCD-458",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 29",
+      "note": ""
+    },
+    {
+      "file": "the-storm-that-coordinated-three-fleets.md",
+      "rule": "MCD-504",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 29",
+      "note": ""
+    },
+    {
+      "file": "the-storm-that-made-enemies-allies.md",
+      "rule": "MCD-555",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 29",
+      "note": ""
+    },
+    {
+      "file": "the-fight-with-nowhere-to-hide.md",
+      "rule": "MCD-562",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "age 29; Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-tide-that-turned-twice.md",
+      "rule": "MCD-565",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "age 29; Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "what-the-hardened-crews-stopped-fearing.md",
+      "rule": "MCD-568",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "age 30; Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-boats-that-didnt-come-in.md",
+      "rule": "MCD-571",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 29-30",
+      "note": ""
+    },
+    {
+      "file": "what-the-storm-exposed.md",
+      "rule": "MCD-574",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "age 30; Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "what-three-months-bought-in-one-night.md",
+      "rule": "MCD-577",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "age 30; Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-ground-that-moved-with-the-water.md",
+      "rule": "MCD-583",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "age 30; Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "what-the-chart-didnt-show.md",
+      "rule": "MCD-586",
+      "track": "Alias: Storm That Walks",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 29-30",
+      "note": ""
+    },
+    {
+      "file": "what-the-sword-remembers.md",
+      "rule": "MCD-369",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era; ages 18-19",
+      "note": ""
+    },
+    {
+      "file": "the-fight-the-sword-couldnt-read.md",
+      "rule": "MCD-402",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 18",
+      "note": ""
+    },
+    {
+      "file": "the-line-that-wouldnt-break.md",
+      "rule": "MCD-480",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 18",
+      "note": ""
+    },
+    {
+      "file": "the-hunt-for-one-man.md",
+      "rule": "MCD-532",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era; age 18",
+      "note": ""
+    },
+    {
+      "file": "the-flooded-dark.md",
+      "rule": "MCD-625",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-duel-he-was-too-young-to-win.md",
+      "rule": "MCD-628",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "two-sites-one-night.md",
+      "rule": "MCD-634",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-blade-cut-free.md",
+      "rule": "MCD-636",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-duel-fought-with-borrowed-steel.md",
+      "rule": "MCD-643",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-ambush-meant-for-the-hearing.md",
+      "rule": "MCD-646",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-onyx-chose-not-to-do.md",
+      "rule": "MCD-649",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "the-anger-he-almost-let-win.md",
+      "rule": "MCD-901",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "unstated (track default: Rebellion)",
+      "note": ""
+    },
+    {
+      "file": "what-the-black-ledger-was-owed.md",
+      "rule": "MCD-1030",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "what-whisper-of-shadows-was-for.md",
+      "rule": "MCD-1122",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "what-the-blade-remembered-before-him.md",
+      "rule": "MCD-1127",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-duel-fought-to-its-own-rhythm.md",
+      "rule": "MCD-1133",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-fighter-who-studied-the-sword.md",
+      "rule": "MCD-1140",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-well-that-closed-over-the-boy.md",
+      "rule": "MCD-1144",
+      "track": "Alias: Trench Monarch",
+      "reason": "AMBIGUOUS-GATED",
+      "era": "Rebellion era",
+      "note": "Onyx at his hip \"scrapes uselessly\" against stone; its gifts are called useless, not exercised."
+    },
+    {
+      "file": "the-debt-they-held-with-chains.md",
+      "rule": "MCD-1433",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-night-the-warehouse-burned-twice.md",
+      "rule": "MCD-1437",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    },
+    {
+      "file": "the-night-they-took-him-instead.md",
+      "rule": "MCD-1439",
+      "track": "Alias: Trench Monarch",
+      "reason": "IN-USE",
+      "era": "Rebellion era",
+      "note": ""
+    }
+  ]
+}
