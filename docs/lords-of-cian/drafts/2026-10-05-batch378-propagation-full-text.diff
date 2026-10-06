@@ -1,6 +1,6 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,156 @@
+@@ -4439,2 +4439,158 @@
  
 +**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1907`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
@@ -135,7 +135,7 @@
 +  > 6. "**Batch 379.** Should I draft the Trinity rule, the lock list and the two era fixes once 378 is locked?"
 +
 +  He confirms the order chain reconciled with `CC-082` (`MCD-1906`), the `MCD-070` act overlap (the Investigation opens at the murder and runs
-+  on through the Interregnum), the late-Scourge placements of the 312 and 313 entries (`MCD-1901`) and Kanja's knowing the Haku legend without knowing it applies to him
++  on through the Interregnum), the placements of the entries pinned to the last weeks of ages 312 and 313 (`MCD-1255`, `MCD-1407`, `MCD-1408`, `MCD-1022`; `MCD-1901`) and Kanja's knowing the Haku legend without knowing it applies to him
 +  (`MCD-1903`), and he allows entries set before Book 1 to show Maro, Kanja and Pyro at their ceremonial breakfasts (`MCD-1905`), with the
 +  Last Breakfast and what happens there reserved (`MCD-1902`, `MCD-1904`). Question 6 needs no rule change: Batch 379 (the Trinity rule, the
 +  lock list and the two era fixes) follows once this batch is locked.
@@ -143,7 +143,9 @@
 +  `MCD-1253` in the last 30 days of ages 290, 308 and 310 (a mechanical placement that keeps the locked prose spans exact; the alternative was
 +  prose spans of 259, 277 and 279). The fixed-hour access logic of `MCD-1904`: on that day the breakfast moves to the Lighthouse at its usual
 +  hour, and the unchanged hour is how the enemy knows when to find him; it was put to Abad as a separate question that he had not answered
-+  directly. The note appended to `MCD-260`: the naming and the countdown are the record's, and Kanja does not hold them (`MCD-1903`).
++  directly. The note appended to `MCD-260`: the naming and the countdown are the record's, and Kanja does not hold them (`MCD-1903`). `MCD-1406` in the first three
++  weeks of age 313, three weeks after `MCD-1255`: question 3 described the entries pinned to the last weeks of ages 312 and 313, which does not reach it. Sephtis does not
++  know the day or the trigger (`MCD-1903`), a drafted reading that was not put to Abad.
 +- **Propagation.** 56 rule statements amended; 60 entries and 14 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date, and a pointer note on `MCD-260`. The pitch
 +  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
@@ -349,7 +351,7 @@
 -| 314 | The Last Breakfast; Long Mask ends; Pi-Awakening | `MCD-277`, `CC-005` | ~24 |
 -| Book 1 opening | Fulfillment Ceremony | `MCD-091` | ~24 or ~36 (see below) |
 +| 313 (last day) | Fulfillment Ceremony; Maro and Aethelgard murdered | `MCD-091`, `MCD-1901` | 23 (`CC-101`) |
-+| 314 (sixth day after the birthday) | The Last Breakfast; Long Mask ends; Pi-Awakening | `MCD-277`, `CC-005`, `MCD-1901` | 23 (24 only if born in the first six days of Kanja's age 290) |
++| 314 (sixth day after the birthday) | The Last Breakfast; Long Mask ends; Pi-Awakening | `MCD-277`, `CC-005`, `MCD-1901` | 23 (24 only if born on or within six days after Kanja's 290th birthday) |
  
 @@ -264,5 +264,14 @@
    Lighthouse's pendant activate"; the pendant's severing triggers the Pi-Awakening (`CC-005`), which
@@ -397,7 +399,7 @@
 -17. **Maturation and child-safety.** He is roughly 0-24 across Kanja 290-314. `MCD-277`'s Pyro Incident
 +17. **Maturation and child-safety.** He is roughly 0-23 across Kanja 290-313. `MCD-277`'s Pyro Incident
      puts him at ~6; `MCD-272` at ~18. No rule locks his maturation rate (his biology is part Karesian
-@@ -423,5 +436,5 @@
+@@ -423,7 +436,7 @@
      was 12km away from his son's birth.
 -19. **Book 1-4 placement.** Apart from the Last Breakfast (`MCD-277`), Book 3's Nelle beats
 -    (`CC-123`/`126`), and Book 5 (`MCD-097`/`221`/`223`), no Book 1, 2, or 4 role for Pyro is locked.
@@ -406,13 +408,18 @@
 +    (`CC-123`/`126`), and Book 5 (`MCD-097`/`221`/`223`), no other Book 1, 2, or 4 role for Pyro is locked.
 +    The Triad's only locked book-level beat is the second attempt (`MCD-1907`).
  20. **Corpus silence.** Zero entries mention Pyro or the Triad, though locked entries cover Kanja
-@@ -431,4 +444,4 @@
+-    290-314 (`MCD-1246`, `MCD-814`, `MCD-1251`, `MCD-493`, `MCD-1243`, `MCD-815`, `MCD-1900`, `MCD-813`,
++    290-313 (`MCD-1246`, `MCD-814`, `MCD-1251`, `MCD-493`, `MCD-1243`, `MCD-815`, `MCD-1900`, `MCD-813`,
+     `MCD-1252`, `MCD-1253`, `MCD-1254`, `MCD-1255`, `MCD-1406`, `MCD-1407`, `MCD-1408`, `MCD-1022`). Whether
+@@ -431,5 +444,5 @@
      and a raptor with a 27-foot wingspan living aboard would be hard to leave out of a scene.
 -21. **How the Long Mask ends.** `MCD-1022`: at Kanja 314 the coat comes off for good, "ending the
 -    span by conscious choice." Against it: `CC-005`, the Long Mask lasted 284 years, "ending when the
+-    Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening";
 +21. **How the Long Mask ends.** `MCD-1022`: at Kanja 313 the coat comes off for good, "ending the
-+    span by conscious choice" (pre-Batch 378 text; `MCD-1022` now reads "ending the Scourge persona by conscious choice"). Against it: `CC-005`, the Long Mask lasted just over 283 years (`MCD-1901`), "ending when the
-     Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening";
++    span by conscious choice" (pre-Batch 378 text; `MCD-1022` now reads "ending the Scourge persona by conscious choice"). Against it: `CC-005`, the Long Mask lasted 284 years, "ending when the
++    Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening" (pre-Batch 378 text; `CC-005` now reads "lasted just over 283 years, ending when the Gravity-Fetter pendant was severed at the Gilded Lighthouse on the sixth day after his 314th birthday, triggering the Pi-Awakening");
+     `MCD-277`, "The Last Breakfast (314) closes the Long Mask on Pyro serving Kanja stew as the
 @@ -439,2 +452,4 @@
      reconciling them, and the series window's end at the Ceremony stands either way.
 +    [Resolved Batch 378: `MCD-1022` ends the Scourge persona on the coat night at Kanja 313; `CC-005`/`MCD-1901` end the Long Mask
@@ -422,7 +429,7 @@
    Incident (Kanja 296, `MCD-277`), about eighteen at the Scourge's Heir (Kanja 308, `MCD-272`), and
 -  about 24 at the Last Breakfast (`MCD-277`; at 314 on every A1 option except option 2's
 -  `CC-006` route). Cost: no locked rule goes stale.
-+  23 (24 only if born in the first six days of Kanja's age 290) at the Last Breakfast (`MCD-277`; at 314 on every
++  23 (24 only if born on or within six days after Kanja's 290th birthday) at the Last Breakfast (`MCD-277`; at 314 on every
 +  A1 option except option 2's `CC-006` route). Cost: no locked rule goes stale.
  - **Option 2, a new fact:** a slowed schedule from his Karesian line. Under A1 option 1 he would be
 @@ -523,3 +538,3 @@
