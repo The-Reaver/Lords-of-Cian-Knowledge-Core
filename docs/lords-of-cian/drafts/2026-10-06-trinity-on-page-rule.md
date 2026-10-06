@@ -656,13 +656,16 @@ use elsewhere. "Tier" itself is in use for the archive's clearance levels and th
   CLAUDE.md era-errors bullet and section e now read "Batch 314 and Batches 324 to 330".
 - **Left as they are: "Batch 321" misattributions.** Revision 3 corrected four "Batches 314 and 321" citations in
   `alias-captain.md` to "314 and 328" (Batch 321 was the Blue-Collar Titan; the Captain fix was Batches 314 and
-  328). Revision 4 withdraws those four edits. "Batch 321" was a shared placeholder that Batch 347 renumbered for
-  five tracks only, and it still stands as a misattribution in the Captain, Storm That Walks, Scourge and
-  Industrial Myth material: `alias-captain.md` (lines 253 and 264), about 13 Captain rule statements (`MCD-558`,
-  `559`, `560`, `607`, `788`, `1372`, `1374`, `1377`, `1379`, `1421`, `1514`, `1515`, `1521`), about 20 Captain
-  entry headers, `the-order-he-didnt-question`'s header (which the `MCD-589` note quotes as "321 in this file's
-  header"), `MCD-230` and `VB-061`. Correcting four profile lines alone would contradict those rules and headers.
-  The renumbering is queued as its own mechanical batch on the Batch 347 pattern, outside Batch 379. `VB-069`
+  328). Revision 4 withdraws those four edits. "Batch 321" was a shared placeholder that the per-track fix agents
+  used. The Batch 347 renumbering pass (recorded in the ledger as batch 348) corrected only 21 rules in `MCD-901` to
+  `MCD-1350`, so the placeholder still stands across the Phase 1 tracks. A grep of the ledger finds 66 rule
+  statements citing Batch 321. In three of them (`MCD-680`, `MCD-1198`, `MCD-1459`, the Blue-Collar Titan) it is
+  correct. The other 63 need checking against their own track's reconciliation batch (Batches 323 to 330); among
+  them are 12 Captain rules (`MCD-558`, `559`, `560`, `607`, `1372`, `1374`, `1377`, `1379`, `1421`, `1514`, `1515`,
+  `1521`), plus `MCD-230`, `VB-061`, `ARS-425` and `CC-158` to `CC-160`. About 270 entry headers carry it, about 45
+  of them Captain, among them `the-order-he-didnt-question`'s (which the `MCD-589` note quotes as "321 in this
+  file's header"). `alias-captain.md` carries it at lines 68, 200, 235, 253, 264 and 386. Correcting four profile
+  lines alone would contradict those rules and headers. The renumbering is queued as its own mechanical batch on the Batch 347 pattern, outside Batch 379. `VB-069`
   does not cite Batch 321.
 - The 85 unstated-era entries are carried as the census read them.
 
