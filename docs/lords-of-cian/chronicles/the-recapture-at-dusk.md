@@ -22,7 +22,7 @@ start and knew the terrain properly, having worked it for longer than the crew e
 their new holding site took two days of exactly the patient tracking work the alias's reputation
 had never needed before, since reputation alone stops nobody who's never heard of it. When the
 site was finally found, it fell in under an hour — the guards there had prepared for pursuit, not
-for the specific and total collapse of resistance the Trinity and the loadout together produced —
+for the specific and total collapse of resistance the loadout produced —
 but the captives had spent two extra days chained, cold, and frightened in a second holding pen
 that the first rescue should have made unnecessary.
 
@@ -39,4 +39,7 @@ itself succeeds cleanly and the failure is structural, a previously reliable ren
 compromised by an entirely unrelated third party, forcing a second, harder rescue rather than a clean
 win. No new named characters — the second operation's guards are unnamed. Age 172, V3 gear
 (`ARS-348`, ages 80-241). Onyx of Oblivion correctly absent per its L9 seal throughout the Long Mask.
-First entry in the Scourge's twenty-fifth wave.*
+First entry in the Scourge's twenty-fifth wave. Corrected Batch 379, 2026-10-06: the guards'
+collapse is credited to the loadout alone. An earlier line credited it to 'the Trinity and the
+loadout together', which cannot stand in the Long Mask, when the Trinity is sealed at L9 (`MCD-246`,
+`VB-069`).*

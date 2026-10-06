@@ -73,7 +73,8 @@ every correction, every profile section, and every merge. The gate, in order:
 2. **Independent review.** A fresh-context reviewer, one who did not write the draft, reads it beside
    every rule the script listed and tries to break it. They check ages and dates against each
    character's timeline. They check gear against era (Trinity before the age-30 surrender,
-   post-Mafesto kit after, Book-2 Moonvault gifts never before Book 2). They check who knows what
+   post-Mafesto kit after, Book-2 Moonvault gifts never before Book 2), and that no entry for release before
+   Book 1 shows the Trinity in use (`VB-069`). They check who knows what
    and since when. They check places against the Atlas, voice against the narrator's sheet, kills
    against `CC-161`/`CC-162`/`MCD-1882`, and reserved threads against the profile. Every finding gets
    fixed and the draft is re-checked before it is presented.
@@ -103,6 +104,12 @@ Every batch gets its own script (`merge_batchN_description.py`, N is the next se
 - **Child-safety hard stop.** If a source document combines underage characters with sexualized content, stop, quote the exact problem text to Abad, and do not process, catalog, or integrate it as written, regardless of fictional framing, until he corrects it.
 - **This world's baseline lifespans are long** (hundreds to tens of thousands of years), which is why age floors in this world read very differently than they would in a realistic-length-lifespan setting; don't default to real-world age assumptions when a rule involves recruitment ages, apprenticeships, or generational spans.
 - **Model split for drafting and review (Abad, 2026-10-05).** Verbatim: "I need you to start writing everything in sonnet. opus is draining my usage. opus can review and correct." Drafting and writing work runs on Sonnet subagents; Opus is used for review and correction. A Sonnet run a safety filter stops is retried with a narrower scope or as a plain script, never by repeating the stopped request.
+- **The Trinity on-page bar (Abad, 2026-10-06, `VB-069`).** Before Book 1 is published, no entry open to
+  readers shows the Trinity (Mafesto, Onyx of Oblivion, Obsidian Malice) in use on the page. It may be named
+  and told through legend, rumor, aftermath, survivors' accounts and SBD Dossiers. Entries that show it in
+  use, every entry Onyx narrates, every entry of the Kanja-version track and the eight manuscript Chronicles
+  sit in the Book 1 unlock tier, listed in `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`; a new
+  such entry joins the list in the batch that locks it. Gated entries keep their standing and are not rewritten.
 - **"Cian" reuse outside Kanja's crew gets renamed, full stop.** Superseded 2026-08-25 from an earlier "decide per-instance" policy. Several source documents (e.g. "Guild of the Extraordinary") reuse "Cian," the world's own name, as an in-world proper-noun component (a scent name, a jurisdiction, a guild, a barracks tier). Abad's standing rule now: rename any such instance unless it's actually part of Kanja's crew/story material. Don't ask per-instance anymore; just apply it and note what you renamed.
 
 ## Currently queued, not yet started
@@ -4593,6 +4600,91 @@ Ledger at `ledger_version` 37.9, 2,721 rules, 377 batches.
   profiles carry the Batch 378 figures in their rule quotes, the age-table and A1 notes, the Varruk
   age line, their Book 1 walkthrough entries and the 313 and 23 figures; the rest of their review stays owed.
 Ledger at `ledger_version` 38.0, 2,728 rules, 378 batches.
+
+**Batch 379: the Trinity on-page bar and the Book 1 unlock tier (`VB-069`).** Abad: "lock it"
+- **The ruling.** Abad, 2026-10-06: "after the Karkosa Heist, with the Trinity. which is important we build up
+  the fact that the trinity doesn't get used until after book one is published which means we may have to keep
+  some of the Chronicles locked in the archive. cuz the way I'm thinking, wouldn't it be clever or better for the
+  Trinity not to make an appearance at all pre-book one but be spoken about in all and not giving away the stories
+  where he's actually using it like the 90 seconds his father Witnesses or the battles in which he uses the
+  trinity? what is your feedback". He then said "all recommendations, run the census" (answering a list that
+  included a recommendation that pre-Book-1 entries may describe what the weapons do as legend, and the census),
+  before the census ran. It accepted the recommendation that preceded the census: gate the entries and leave them as written; the bar;
+  naming the Trinity and telling it through legend, rumor, aftermath, survivors' accounts and SBD files; legend
+  may describe what the weapons do; the Book 1 unlock tier; the Kanja-version track gates because Onyx narrates it;
+  new writing follows the rule. His "all yes on yiu 6 questions" ("yiu" reads "you"; answering six questions whose
+  sixth asked whether to draft Batch 379) confirmed only that Batch 379 is drafted.
+- **The rule (`VB-069`).** Before Book 1 is published, no entry open to readers shows the Trinity (Mafesto, Onyx
+  of Oblivion, Obsidian Malice) in use on the page. A piece is in use when a scene shows it worn and engaged,
+  wielded, discharged or exercising a named power, including when it fails or acts in part; carried, racked,
+  worn dormant or stated-unused is outside the bar, and so are the Talisman, the Aegis-Talisman, the Rexmar
+  Machete and the post-Mafesto kit. An open entry may name the Trinity and tell it through legend, rumor,
+  aftermath, survivors' accounts and SBD Dossiers (which may be wrong, `VB-067`); legend may describe what the
+  weapons do, at the level of effect, within the teller's knowledge. A told account gives results and does not
+  stage the use. An entry Onyx narrates counts as the Trinity appearing: the whole Kanja-version track gates, and
+  so do the eight manuscript Chronicles. Entries that gate sit in the Book 1 unlock tier: they keep their standing,
+  stay in the archive's vault and become eligible when Book 1 is published, subject to the archive's own review;
+  none is rewritten. New entries for release before Book 1 follow the bar. In Book 1's present-day narrative the
+  Trinity's first use is the Karkosa Heist (`MCD-1902`, `MCD-070`) and the first full showing in combat is the
+  second attempt (`MCD-1907`). An entry set between the Pier and the Heist that shows the Trinity in use is an era
+  error, corrected to the gear Kanja held at that age and not gated (`MCD-246`); the Heartline, the Dark Ledger
+  and Onyx's retrospective narration are not use. The prefix is `VB-` because the rule governs how entries are
+  written and filed, as `VB-062`, `VB-063`, `VB-067` and `VB-068` do; the world facts it leans on stay in `MCD-`.
+- **The manifest.** `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`, with a `.json` copy, lists
+  188 entries: 172 IN-USE, 15 TRACK (7 Kanja-version, 8 manuscript), 1 AMBIGUOUS-GATED (the twelve locks
+  `MCD-729`). The three withdrawn Chronicles IX to XI are not listed, since a withdrawn entry never publishes. The
+  76 OPEN-MENTION entries stay open, the eight borderline ones among them (covered only by the final approval),
+  and so do the duel (`MCD-1425`) and the well (`MCD-1144`), which state the Trinity unused. The census is
+  `research/trinity-on-page-census-2026-10-06.md`.
+- **Era errors.** `the-recapture-at-dusk` (`MCD-1238`, Scourge, age 172) credited the guards' collapse to "the
+  Trinity and the loadout together"; `the-order-he-didnt-question` (`MCD-589`, Storm That Walks, Long Mask) still
+  had the Trinity committed to the forecast in two lines. Both are corrected to the Long-Mask-era kit as Batch 314
+  and Batches 324 to 330 did, with a correction clause in each entry and each rule. `the-call-he-got-wrong`
+  (`MCD-594`, Captain) is read as Rebellion era (covered only by the final approval), from the Captain entries
+  beside it (`MCD-591`, `MCD-596`, which show Mafesto live), Corren Halst's being older than Kanja's body, the
+  wartime raid and the absence of any post-Mafesto kit; its header states no era, so it is not treated as an
+  error and stays in the manifest. `the-well-that-went-dry` (`MCD-1454`, Blue-Collar Titan) was checked for the
+  same risk: it is set after the siege while the siege's shoring is still unfinished, and it stays.
+  `kanja-haku-rexmar.md` no longer says the gear from 18 to 314 is the Trinity.
+- **Covered only by Abad's final approval, which presented each item explicitly.**
+  - (a) New entries of the Kanja-version track, and any new entry that needs the Trinity in use, are written for
+    the tier, and the unlock is eligibility when Book 1 is published, subject to the archive's review, matching
+    Phase 5 of the archive game plan (`VB-069`, items 4 and 5).
+  - (b) The first full showing of the Trinity in combat, in Book 1's present-day narrative, is `MCD-1907`, with
+    the Heist's own fighting left open.
+  - (c) The gating itself: an entry that, read in full, cannot be decided either way (`MCD-729`) gates.
+  - (d) The 85 IN-USE entries whose header and rule state no era are carried at their track's default era.
+  - (e) Kanja Chronicle II gates with its track although it holds no Trinity and no Onyx.
+  - (f) The three withdrawn Chronicles IX to XI are not listed.
+  - (g) Legend describes what the weapons do at the level of effect and in the teller's own terms.
+  - (h) A told or recorded account may not stage the use as a scene, whatever the frame.
+  - (i) The definition that sets the tier apart from the archive's clearance levels and from its T0 to T4
+    classification, since the archive already carries both and a third "tier" could drift. The term "Book 1
+    unlock tier" was in the recommendation he accepted.
+  - (j) All eight manuscript Chronicles gate as a set.
+  - (k) `MCD-729` gates as an entry that, read in full, cannot be decided either way, while `MCD-1425` and
+    `MCD-1144` stay open because they state the Trinity unused.
+  - (l) The eight borderline OPEN-MENTION entries stay open, with `the-siege-that-never-came` (`MCD-1011`) the
+    closest call: Obsidian Malice is "ready to discharge by midafternoon, its reserve built from the morning's
+    work", and no discharge is shown. Under item (1)'s one-clause test, the reserve implies Mafesto was engaged,
+    which argues for gating.
+  - (m) Item (8) of the rule: an era error is corrected to the gear Kanja held at that age and is not filed in
+    the tier, as a standing rule.
+  - (n) Item (6) of the rule: the Karkosa Heist is the Trinity's first use in Book 1's present-day narrative.
+  - (o) Item (1) of the rule: the in-use definition, under which a one-clause use, a failure and speech through
+    the grip all count as use.
+  - (p) `the-call-he-got-wrong` (`MCD-594`) is read as Rebellion era. Its header states no era; the reading
+    rests on `MCD-591` and `MCD-596`, the Captain entries beside it, which show Mafesto live, on Corren Halst's
+    being older than Kanja's body ("read these waters longer than I've been alive in this body"), on the wartime
+    raid itself, and on the absence of any post-Mafesto kit.
+- **Propagation.** 7 rule statements carry pointer or correction notes; 8 entries and
+  7 docs carried. The 8 entries are the five manuscript headers' gate pointer, the two era
+  corrections and the `MCD-1182` wording. The 7 docs are the Kanja profile, the series template, the tracker,
+  the census, this file's standing sections and the manifest's two status lines. One
+  mechanical wording fix rides along, which adds no fact: one sentence of `MCD-1182` gave the old digger's decades of
+  tactile reading to Kanja and now realigns with `MCD-442`. The mirrored Voice Bible and Voice Progression Sheet
+  stay unedited; the archive repo's Phase 5 plan is owed an update to name the manifest.
+Ledger at `ledger_version` 38.1, 2,729 rules, 379 batches.
 
 ## Separate, unrelated thread: the interactive archive app
 

@@ -411,3 +411,22 @@ Trinity evidence in the new files (line numbers are the new repo files):
 | VII | 21, Phase 2 | No Trinity term in the prose body; L245-L263 the labeled "ONYX:" coda, "the blade" throughout | GATE-TRACK; coda only |
 
 Searched for in the five new files: Mafesto, Obsidian Malice, Onyx, Trinity, Talisman, Cadence Ruin, Veil Piercer, Soulbound Edge, Whisper of Shadows, Black Ledger, Void-Lattice, Kinetic, Heartline, Dark Ledger, the blade, sword. No file has a named Onyx power, Obsidian Malice, the Heartline or the Dark Ledger in its body. The only Trinity-in-use evidence of any strength is IV L75, and that line states the Trinity was not used.
+
+## 7. Resolution, Batch 379, 2026-10-06
+
+Abad's recommendation was accepted before the census ran; its gating is locked as `VB-069`, and the gated
+entries are listed in `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md` (188 entries: 172
+IN-USE, 15 TRACK, 1 AMBIGUOUS-GATED; the three withdrawn Chronicles IX to XI are not listed). The five
+AMBIGUOUS entries of section 4 and the three ERA-ERROR candidates of section 3 resolved as follows.
+`the-recapture-at-dusk` (`MCD-1238`) and `the-order-he-didnt-question` (`MCD-589`) were era errors and are
+corrected to the gear Kanja held at that age; neither shows the Trinity now. The twelve locks (`MCD-729`)
+could not be read either way and gates. The duel (`MCD-1425`) and the well (`MCD-1144`) state the Trinity
+unused and stay open. `the-call-he-got-wrong` (`MCD-594`) is read as Rebellion era: the Captain entries
+beside it (`MCD-591`, `MCD-596`) show Mafesto live, Corren Halst has read the waters longer than Kanja's
+body has lived, the scene is a wartime raid, and the file shows no post-Mafesto kit. Its header states no
+era, so it is not treated as an error and stays in the manifest as IN-USE; Abad is asked to confirm the era.
+`the-well-that-went-dry` (`MCD-1454`) was checked for the same risk and is read as Rebellion era. A second
+scan of all 172 IN-USE files for post-Mafesto kit, ages above 30 and Long Mask mentions found no further era
+error. The one hit with "age 33", `the-white-that-took-the-map-away` (`MCD-1391`), carries it in a header
+correction note about when Sovereign Eyes is built; the entry itself is a Bane entry inside the Rebellion
+window.

@@ -1,6 +1,6 @@
 # Batch 379 draft: the Trinity on-page bar, the Book 1 unlock manifest and two era fixes
 
-*Revision 4, for Abad's approval, 2026-10-06. Follows Batch 378 (locked, ledger 38.0, 2,728 rules). Resolves the
+*Locked, Batch 379, 2026-10-06. Abad: "lock it", in reply to the presentation of revision 4 that listed items (a) to (p) of "Covered only by the final approval" by name. Revision 4, for Abad's approval, 2026-10-06. Follows Batch 378 (locked, ledger 38.0, 2,728 rules). Resolves the
 "Batch 379" question that Abad's "all yes" of 2026-10-06 asked to have drafted. Merge script:
 `merge_batch379_trinity_on_page.py` (dry run clean; propagation diff at
 `docs/lords-of-cian/drafts/2026-10-06-batch379-propagation-full-text.diff`). New data file:

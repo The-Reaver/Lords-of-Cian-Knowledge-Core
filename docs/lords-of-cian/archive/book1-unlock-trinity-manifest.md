@@ -1,6 +1,6 @@
 # Book 1 unlock tier: the Trinity on-page manifest
 
-*Status: draft for Batch 379, 2026-10-06. It takes effect when `VB-069` locks; the merge script then changes this line. Source: `research/trinity-on-page-census-2026-10-06.md`, sections 2 to 6, read for Abad's rulings of 2026-10-06. Data copy: `book1-unlock-trinity-manifest.json` beside this file.*
+*Status: locked, Batch 379, 2026-10-06 (`VB-069`). Source: `research/trinity-on-page-census-2026-10-06.md`, sections 2 to 6, read for Abad's rulings of 2026-10-06. Data copy: `book1-unlock-trinity-manifest.json` beside this file.*
 
 Every entry listed here is filed in the Book 1 unlock tier (`VB-069`): it stays in the archive's vault and becomes eligible to go live when Book 1 is published, subject to the archive's own review. The list gates archive publication only. Each entry stays locked canon where the ledger locks it, its events stay in force, and its rule ID stays citable. No entry on this list is rewritten.
 

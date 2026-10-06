@@ -6,7 +6,7 @@
 
 Kanja had, in every prior engagement built on Sephtis's own forecasts, retained the option of asking
 follow-up questions the old man's decades of experience could answer on the spot — a margin of doubt
-he could resolve before committing the Trinity to a timing window. With Sephtis retired and the second
+he could resolve before committing his kit to a timing window. With Sephtis retired and the second
 sky-reader's forecast the only one available, that option didn't exist. He would commit fully or not
 at all, on trust alone.
 
@@ -22,7 +22,7 @@ tactical sense both worked exactly as the engagement had been planned around, wi
 deviation from the timing she alone had built.
 
 The fleet action closed in the doctrine's favor, decisively, on a forecast that no one but its author
-had verified before the Trinity moved.
+had verified before Kanja moved.
 
 "You trusted it completely," the fleet's senior captain said afterward, still faintly astonished.
 "No second opinion. No fallback plan if she'd been wrong."
@@ -37,4 +37,8 @@ committing without the safety net, or it isn't really trust at all."
 *Continuity notes (not narrative): the detailed gear showcase for this wave — Kanja's full Long
 Mask-era kit committed entirely to the second sky-reader's unverified forecast, a genuine trust-test
 entry distinct from every prior showcase, which always retained at least Sephtis's own direct
-availability. No new named characters; names the second sky-reader by reference only.*
+availability. No new named characters; names the second sky-reader by reference only. Corrected
+Batch 379, 2026-10-06: two lines that still had the Trinity committed to the forecast ('committing
+the Trinity to a timing window', 'before the Trinity moved') now name Kanja and his kit, matching
+the Batch 325 swap (321 in this file's header) to the Long-Mask-era kit; the Trinity stays sealed at
+L9 through the Long Mask (`MCD-246`, `VB-069`).*

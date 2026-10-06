@@ -1,6 +1,6 @@
 {
   "manifest": "book1-unlock-trinity-manifest",
-  "status": "draft for Batch 379; takes effect when VB-069 locks",
+  "status": "locked, Batch 379, 2026-10-06 (VB-069)",
   "rule": "VB-069",
   "tier": "book1-unlock",
   "entry_dir": "docs/lords-of-cian/chronicles/",

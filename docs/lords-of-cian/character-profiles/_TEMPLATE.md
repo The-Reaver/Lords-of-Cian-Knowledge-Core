@@ -92,6 +92,13 @@ this file always reflects current understanding, not a batch-log history of how 
   every rule the script lists, any changed fact is propagated everywhere it is stated, and the
   draft is presented with a connective-tissue note. The Section 1 findings above must be resolved
   or queued before this gate clears.
+- **Trinity on-page bar (`VB-069`, Batch 379):** before Book 1 is published, no entry for release shows
+  the Trinity (Mafesto, Onyx of Oblivion, Obsidian Malice) in use on the page. The draft's
+  connective-tissue note says whether it does. An entry that does, that Onyx narrates, or that belongs
+  to the Kanja-version track is written for the Book 1 unlock tier and added to
+  `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`
+  in the batch that locks it. The Trinity may be named, and told through legend, rumor, aftermath,
+  survivors' accounts and SBD Dossiers, in any entry.
 - **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
   character's life/role actually calls for a split)
 - **Reserved threads for this series** (deliberately not touched yet, carried over from the

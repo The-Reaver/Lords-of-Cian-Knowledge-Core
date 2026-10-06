@@ -41,6 +41,14 @@ direction, not decided.
 |---|---|---|---|
 | Kanja Haku Rexmar | `character-profiles/kanja-haku-rexmar.md` | wave 1 locked; Long Mask wave locked (Batch 358) | 7 (Chronicles I–VII, `MCD-1866`–`1868`, `MCD-1880`, `MCD-1883`–`1885`) |
 
+**Book 1 unlock tier (`VB-069`, Batch 379).** The seven entries above and the eight manuscript Chronicles are
+filed in the Book 1 unlock tier (the Kanja-version track and the manuscript set), and so are 173 Alias entries
+that show the Trinity in use or could not be read either way (Bane 22, Blue-Collar Titan 30, Captain 5, Crow
+King 5, Iron Bastard 17, Lord of Embers 37, Scourge 1, Sovereign Ghost 23, Storm That Walks 13, Trench Monarch
+20, Industrial Myth 0).
+The archive holds them until Book 1 is published; each keeps its standing. The full list is
+`docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`.
+
 ## Alias Chronicle track (Kanja's 11 aliases)
 
 Note: these are registers/masks Kanja wears, not 11 distinct psychologies — each profile should

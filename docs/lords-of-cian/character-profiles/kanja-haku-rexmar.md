@@ -3,6 +3,11 @@
 **Status:** wave 1 locked (Chronicles I–IV); Long Mask wave locked (Chronicles V–VII, Batch 358)
 **Track:** Kanja version (new track, Onyx-narrated)
 **Gate cleared:** YES, 2026-09-28 — Chronicle prose may now be drafted for this track.
+**Book 1 unlock tier (`VB-069`, Batch 379):** every entry of this track, and the eight manuscript
+Chronicles, is filed in the Book 1 unlock tier (the Kanja-version track and the manuscript set). Each
+keeps its standing and none is rewritten; the archive holds them until Book 1 is published. New entries
+of this track are written for the tier and added to
+`docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md` in the batch that locks them.
 
 This file is the standing gate artifact for this character, per the Series Launch
 Protocol locked in `CLAUDE.md`. It is the single source of truth for who this character is before
@@ -68,8 +73,10 @@ forward, starting from Chronicle I of this track.
   post-Awakening only, exclusive to the Rexmar and Verehimu bloodlines — meaning it is **not active**
   at any point covered by this walkthrough. `ARS-310` names the entire alias-era gear/tactics system
   the "Pre-Awakening Theatrics System" for exactly this reason: everything Kanja does from age 18
-  through age 314 is Trinity gear, inherited tactical instinct, and craft/reputation, not raw
-  density-scaled physical power.
+  through age 314 is gear, inherited tactical instinct, and craft/reputation, not raw
+  density-scaled physical power. The gear is the Trinity to the Pier at age 30; the Talisman, the
+  Aegis-Talisman and the Rexmar Machete from then on (`MCD-246`), with the post-Mafesto kit from age 33
+  (`ARS-344` through `ARS-356`); the Trinity again from the Karkosa Heist (`MCD-1902`).
 - `MCD-246` — At age 30, Kanja surrenders the entire Trinity (Mafesto, Onyx, Obsidian Malice) to
   the vault at L9 in the Karkosa Complex under his father's peace deal with the Sovereign Trust,
   retaining only the Talisman of Mao, the Aegis-Talisman, and the Rexmar Machete. The Long Mask that
