@@ -1,6 +1,6 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,158 @@
+@@ -4439,2 +4439,159 @@
  
 +**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1907`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
@@ -28,14 +28,15 @@
 +- **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. After his
 +  314th birthday the decline culminates in a deathbed state in which he believes he is dying; the
 +  Pi-Awakening releases the Shackle and shows him the decline was not age. Sephtis puts together that
-+  it is the Shackle and that its release is near; he does not know the day or the trigger, he wrote
-+  the Countdown Annotation (`MCD-277`, age 310), and he stays silent, keeping it from Kanja under
-+  `MCD-208`'s mandate and from Lauris (Abad: "yes"). Kanja learns it from Sephtis early in Book 4,
-+  set off by the first visible Bastion revisit, with Book 3's near-death (`MCD-218`) as the reason Sephtis can no longer stay silent; he never
-+  knew the trigger, so the truth behind "one day too late" reaches the reader by another route (`MCD-216`). Lauris senses the density in Kanja and senses that he is kin; through
++  it is the Shackle and that its release is near; he wrote the Countdown Annotation (`MCD-277`, age
++  310) and stays silent (Abad: "yes"), keeping it from Kanja under `MCD-208`'s mandate and from Lauris.
++  He does not know the day or the trigger (covered only by the final approval). Kanja learns it from
++  Sephtis early in Book 4 (`MCD-216`), set off by the first visible Bastion revisit, with Book 3's near-death
++  (`MCD-218`) as the reason Sephtis can no longer stay silent; he never knew the trigger, so the truth
++  behind "one day too late" reaches the reader by another route. Lauris senses the density in Kanja and senses that he is kin; through
 +  Sephtis she knows his mother is Val Saeryn Kareth, so she knows he carries Kareth density, and she
 +  cannot put the rest together (Abad: "yes"). Kanja knows the Haku legend and does not know it applies
-+  to him. The sentences naming the Talisman as the cause are cut from Kanja VII (Abad: "yes"). Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
++  to him. The Talisman sentence is cut from Kanja VII (Abad: "yes"), and the two sentences that do not name it go with it as a mechanical consequence, so that Onyx does not confirm age as the cause (`MCD-1903`). Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
 +  family somehow she is an extraordinary character so that is something that I think should be evident
 +  to her but she can't put everything else together. if she knows who his mother is through Sephtis,
 +  then she would obviously know that he could potentially be dense".
@@ -632,14 +633,16 @@
 -unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-284; torso/flank seam read from its
 +unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-313; torso/flank seam read from its
  graduated protection), Sovereign Eyes V4 (`ARS-350`, age 240+, Voidstone lenses new that year, amber),
-@@ -424,2 +424,6 @@
+@@ -424,2 +424,8 @@
  closing claim ("if anyone ever bought twelve Branded fighters again, his ledger does not record it") is
 -deliberately hedged so no later entry is contradicted.*
 +deliberately hedged so no later entry is contradicted. Corrected Batch 378, 2026-10-05: the Dark
 +Ledger count and the years past the Pier recomputed from the Pier's date, 30 days before Kanja's
-+31st birthday (`MCD-1901`); the age and the moment within it are unchanged. The three sentences that
-+named the Talisman as the cause of the weight are cut from the narration (Abad, 2026-10-05, 'yes');
-+the decline's cause stays out of pre-Book-1 material (`MCD-1903`).*
++31st birthday (`MCD-1901`); the age and the moment within it are unchanged. Three sentences giving
++the cause of the weight are cut from the narration: the sentence that named the Talisman (Abad,
++2026-10-05, 'yes') and, as a mechanical consequence, the two that did not name it (the Rexmar span
++and 'Year by year'), so that Onyx does not confirm age as the cause; the decline's cause stays out
++of pre-Book-1 material (`MCD-1903`).*
 --- before: docs/lords-of-cian/chronicles/senas-own-student.md
 +++ after: docs/lords-of-cian/chronicles/senas-own-student.md
 @@ -5,3 +5,3 @@

@@ -120,8 +120,10 @@ APPEND = {
     "MCD-1885": " Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date "
                 "(MCD-1901), 6,632,323,200 to 6,603,379,200 seconds (209 years and 143 days), and 'two hundred "
                 "and ten years' to 'two hundred and nine'; the age and the moment within it are unchanged. Also cut from the "
-                "narration (Abad, 2026-10-05, 'yes'): the sentences that named the Talisman as the cause of the "
-                "decline; the cut keeps the decline's cause out of pre-Book-1 material (MCD-1903).",
+                "narration: three sentences giving the cause of the weight, the sentence that named the Talisman "
+                "(Abad, 2026-10-05, 'yes') and, as a mechanical consequence, the two that did not name it (the "
+                "Rexmar span and 'Year by year'), so that Onyx does not confirm age as the cause; the cut keeps the "
+                "decline's cause out of pre-Book-1 material (MCD-1903).",
     "MCD-277": " Batch 378 note: the Last Breakfast is the meal during which the Pi-Awakening's trigger strikes "
                "(MCD-1904). It is held at the Gilded Lighthouse, in the upper room where Kanja lies, and is the first "
                "ceremonial breakfast since Maro's murder, with Pyro serving Kanja as the cook (MCD-1905). The "
@@ -274,8 +276,10 @@ NOTE_APPEND = {
         "unchanged.",
     K7: " Corrected Batch 378, 2026-10-05: the Dark Ledger count and the years past the Pier recomputed from "
         "the Pier's date, 30 days before Kanja's 31st birthday (`MCD-1901`); the age and the moment within it "
-        "are unchanged. The three sentences that named the Talisman as the cause of the weight are cut from the "
-        "narration (Abad, 2026-10-05, 'yes'); the decline's cause stays out of pre-Book-1 material (`MCD-1903`).",
+        "are unchanged. Three sentences giving the cause of the weight are cut from the narration: the sentence that "
+        "named the Talisman (Abad, 2026-10-05, 'yes') and, as a mechanical consequence, the two that did not name it "
+        "(the Rexmar span and 'Year by year'), so that Onyx does not confirm age as the cause; the decline's cause "
+        "stays out of pre-Book-1 material (`MCD-1903`).",
     C1255: " Corrected Batch 378, 2026-10-05: re-dated to age 312, in the last three weeks of that age after "
            "the Pier's 282nd anniversary (`MCD-1901`), so the chosen year ends at the coat night before the "
            "Fulfillment Ceremony; the three in-prose counts move from two hundred and eighty-three to two "
@@ -597,7 +601,7 @@ def main():
                  "something changed he knew that his feeling that he was getting old was a misconception', and on the Awakening's trigger: "
                  "'the trigger is the danger', 'it was something that was bound to happen' (full quotation in the draft). "
                  "Abad's answers of 2026-10-05: on the murder falling on the last day of age 313, 'yes'; on cutting from Kanja VII the "
-                 "sentences that name the Talisman as the cause of his decline, 'yes'; on the attack, 'Yes. this is also a ceremonial "
+                 "the line that names the Talisman as the cause of his decline, 'yes' (the two sentences that do not name it go with it as a mechanical consequence, so that Onyx does not confirm age as the cause); on the attack, 'Yes. this is also a ceremonial "
                  "breakfast that he had with Kanja & Maro at the same time every time they did have breakfast together.'; on where the Last Breakfast is held, 'the last breakfast can take place in the most logical place that makes sense for the story cuz it doesn't have to take place where it always takes place could be a reason any reason could be pyrule doesn't want to have breakfast there because of the memories it could be anything it could be because of the lack of movement that Kanja has'; on who shares it, 'the breakfast is Father and Son and they do not tell pyro why he always joins we can make up some sort of excuse like the cook is very coveted in their culture so it's easy to make them to cook and it's easy for them to be so warm towards the cook and loving towards the cook and have to cook close at heart because they feed a nourish everyone so that's a good way for them to have an excuse to always eat with him it's too honor to cook and that's the excuse that you have to spend time with him.'; on "
                  "Sephtis putting the decline together and staying silent, and having written the Countdown Annotation, 'yes'; on "
                  "Lauris knowing Kanja's mother through Sephtis, 'yes'; on the enemy and the 314 threshold, 'the enemy does not know "
@@ -653,14 +657,15 @@ def main():
 - **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. After his
   314th birthday the decline culminates in a deathbed state in which he believes he is dying; the
   Pi-Awakening releases the Shackle and shows him the decline was not age. Sephtis puts together that
-  it is the Shackle and that its release is near; he does not know the day or the trigger, he wrote
-  the Countdown Annotation (`MCD-277`, age 310), and he stays silent, keeping it from Kanja under
-  `MCD-208`'s mandate and from Lauris (Abad: "yes"). Kanja learns it from Sephtis early in Book 4,
-  set off by the first visible Bastion revisit, with Book 3's near-death (`MCD-218`) as the reason Sephtis can no longer stay silent; he never
-  knew the trigger, so the truth behind "one day too late" reaches the reader by another route (`MCD-216`). Lauris senses the density in Kanja and senses that he is kin; through
+  it is the Shackle and that its release is near; he wrote the Countdown Annotation (`MCD-277`, age
+  310) and stays silent (Abad: "yes"), keeping it from Kanja under `MCD-208`'s mandate and from Lauris.
+  He does not know the day or the trigger (covered only by the final approval). Kanja learns it from
+  Sephtis early in Book 4 (`MCD-216`), set off by the first visible Bastion revisit, with Book 3's near-death
+  (`MCD-218`) as the reason Sephtis can no longer stay silent; he never knew the trigger, so the truth
+  behind "one day too late" reaches the reader by another route. Lauris senses the density in Kanja and senses that he is kin; through
   Sephtis she knows his mother is Val Saeryn Kareth, so she knows he carries Kareth density, and she
   cannot put the rest together (Abad: "yes"). Kanja knows the Haku legend and does not know it applies
-  to him. The sentences naming the Talisman as the cause are cut from Kanja VII (Abad: "yes"). Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
+  to him. The Talisman sentence is cut from Kanja VII (Abad: "yes"), and the two sentences that do not name it go with it as a mechanical consequence, so that Onyx does not confirm age as the cause (`MCD-1903`). Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
   family somehow she is an extraordinary character so that is something that I think should be evident
   to her but she can't put everything else together. if she knows who his mother is through Sephtis,
   then she would obviously know that he could potentially be dense".
