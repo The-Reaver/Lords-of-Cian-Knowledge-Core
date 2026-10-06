@@ -7,7 +7,7 @@ Every entry listed here is filed in the Book 1 unlock tier (`VB-069`): it stays 
 **Reason classes.**
 - `IN-USE`: a Trinity piece (Mafesto, Onyx of Oblivion, Obsidian Malice) is worn and engaged, wielded, discharged, or exercises a named power in a scene on the page. A piece that fails or acts only in part counts.
 - `TRACK`: the entry belongs to a set that gates as a whole. The Kanja-version track gates because Onyx narrates it (`VB-020`, `VB-021`, `VB-026`, `VB-062`, `VB-063`). The eight manuscript Chronicles gate together.
-- `AMBIGUOUS-GATED`: the census could not tell whether a piece is in use; it gates (Batch 379).
+- `AMBIGUOUS-GATED`: an entry that, read in full, cannot be decided either way (`MCD-729`); it gates (Batch 379).
 
 **Counts.** 188 entries: 172 `IN-USE`, 15 `TRACK` (7 Kanja-version, 8 manuscript), 1 `AMBIGUOUS-GATED`.
 
@@ -19,6 +19,7 @@ Every entry listed here is filed in the Book 1 unlock tier (`VB-069`): it stays 
 | Alias: Blue-Collar Titan | 30 | 0 | 0 | 30 |
 | Alias: Captain | 5 | 0 | 0 | 5 |
 | Alias: Crow King | 5 | 0 | 0 | 5 |
+| Alias: Industrial Myth | 0 | 0 | 0 | 0 |
 | Alias: Iron Bastard | 16 | 0 | 1 | 17 |
 | Alias: Lord of Embers | 37 | 0 | 0 | 37 |
 | Alias: Scourge | 1 | 0 | 0 | 1 |
@@ -41,7 +42,7 @@ Every entry listed here is filed in the Book 1 unlock tier (`VB-069`): it stays 
 | # | File (`docs/lords-of-cian/chronicles/`) | Rule | Track | Class | Era or age | Note |
 |---:|---|---|---|---|---|---|
 | 1 | `kanja-chronicle-i-the-fourteen-percent-that-was-hers.md` | `MCD-1866` | Kanja-version track | TRACK | Age 18 | Onyx coda; the blade rides at his hip. |
-| 2 | `kanja-chronicle-ii-the-lesson-he-carried-alone.md` | `MCD-1867` | Kanja-version track | TRACK | age 17 or earlier (pre-bonding, per header) | No Trinity term in the body and no Onyx (before the age-17 bonding); gated by track membership only (flag 4 in the draft). |
+| 2 | `kanja-chronicle-ii-the-lesson-he-carried-alone.md` | `MCD-1867` | Kanja-version track | TRACK | age 17 or earlier (pre-bonding, per header) | No Trinity term in the body and no Onyx (before the age-17 bonding); gated by track membership only (flag 4 in docs/lords-of-cian/drafts/2026-10-06-trinity-on-page-rule.md). |
 | 3 | `kanja-chronicle-iii-what-the-dark-could-not-keep.md` | `MCD-1868` | Kanja-version track | TRACK | Age 27; age 29; age 27 | Onyx narrates; the blade fielded against the Ever-Haunt entities (MCD-1865). |
 | 4 | `kanja-chronicle-iv-ninety-seconds-on-the-sovereign-pier.md` | `MCD-1880` | Kanja-version track | TRACK | Age 30 | Onyx narrates; the Pier (MCD-245); the Trinity surrendered that night. |
 | 5 | `kanja-chronicle-v-the-names-in-the-correction-book.md` | `MCD-1883` | Kanja-version track | TRACK | Long Mask; Age 55 | Onyx narrates retrospectively; the blade sealed at L9 (VB-062, ARS-437). |
@@ -111,7 +112,7 @@ Every entry listed here is filed in the Book 1 unlock tier (`VB-069`): it stays 
 | 69 | `the-charge-he-spent-on-one-person.md` | `MCD-429` | Alias: Captain | IN-USE | Rebellion era |  |
 | 70 | `the-day-the-whole-crew-fought-as-one.md` | `MCD-461` | Alias: Captain | IN-USE | Rebellion era |  |
 | 71 | `the-man-who-was-forced-to-betray-them.md` | `MCD-507` | Alias: Captain | IN-USE | Rebellion era |  |
-| 72 | `the-call-he-got-wrong.md` | `MCD-594` | Alias: Captain | IN-USE | Rebellion (read from wave position and prose; covered only by the final approval) |  |
+| 72 | `the-call-he-got-wrong.md` | `MCD-594` | Alias: Captain | IN-USE | Rebellion (read from the file and the Captain entries beside it, MCD-591 and MCD-596; covered only by the final approval) |  |
 | 73 | `when-the-crow-could-not-fly.md` | `MCD-417` | Alias: Crow King | IN-USE | Rebellion era |  |
 | 74 | `the-braid-and-the-blade.md` | `MCD-495` | Alias: Crow King | IN-USE | Rebellion era; ages 23-28 |  |
 | 75 | `the-signal-before-the-storm-of-steel.md` | `MCD-850` | Alias: Crow King | IN-USE | unstated (track default: Rebellion) |  |

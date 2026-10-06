@@ -4,8 +4,9 @@ set, the Book 1 unlock tier, new entries, the Karkosa Heist as first use on the 
 errors); appends pointer notes to VB-062, VB-026, MCD-1881, MCD-1902 and MCD-1907; corrects two era errors
 (the Trinity shown in use during the sealed Long Mask) in the-recapture-at-dusk (MCD-1238) and
 the-order-he-didnt-question (MCD-589); fixes kanja-haku-rexmar.md ("from age 18 through age 314 is Trinity
-gear"); activates the gate manifest at docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md (+ .json; 188 entries);
-carries the change to every doc that states it; appends the Batch 379 paragraph to CLAUDE.md.
+gear"); makes two mechanical wording fixes (alias-captain.md's Batch 328 citation; one sentence of MCD-1182
+realigned with MCD-442); activates the gate manifest at
+docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md (+ .json; 188 entries); carries the change to every doc that states it; appends the Batch 379 paragraph to CLAUDE.md.
 Usage: python3 merge_batch379_trinity_on_page.py <draft.md> "<approval quote>"
 """
 import json
@@ -32,8 +33,9 @@ CENSUS = "research/trinity-on-page-census-2026-10-06.md"
 AMEND = []
 APPEND = {
     "VB-062": " Batch 379 note: the Kanja-version track, the home of the Onyx accounts, sits in the Book 1 unlock "
-              "tier, and so do the Alias entries that show the Trinity in use (VB-069); open entries tell the "
-              "Trinity's deeds as legend, rumor, aftermath, survivors' accounts and SBD Dossiers under that rule.",
+              "tier, and so do the Alias entries that show the Trinity in use or cannot be decided either way "
+              "(VB-069); open entries tell the Trinity's deeds as legend, rumor, aftermath, survivors' accounts and "
+              "SBD Dossiers under that rule.",
     "VB-026": " Batch 379 note: the Kanja-version track and the eight manuscript Chronicles, which carry this "
               "handoff, sit in the Book 1 unlock tier (VB-069); the handoff itself is unchanged.",
     "MCD-1881": " Batch 379 note: a marquee kill dramatized in an entry in the Book 1 unlock tier (VB-069) stays "
@@ -60,7 +62,9 @@ ORDER = CH + "the-order-he-didnt-question.md"
 KJ = PR + "kanja-haku-rexmar.md"
 TPL = PR + "_TEMPLATE.md"
 TRK = DOCS + "chronicle-tracks-status.md"
-MS = ["chronicle-i-the-scrip-forge-raid.md", "chronicle-ii-the-dredge-line-ambush.md",
+EYES = CH + "what-he-read-with-his-eyes-shut.md"
+CAPT = PR + "alias-captain.md"
+MS =["chronicle-i-the-scrip-forge-raid.md", "chronicle-ii-the-dredge-line-ambush.md",
       "chronicle-iv-iron-shallows.md", "chronicle-v-the-siege-of-maw-9.md",
       "chronicle-vii-the-siege-of-the-ghost-harbor.md"]
 
@@ -69,6 +73,9 @@ EDITS = [
     (RECAP, "P", "the Trinity and the loadout together produced", "the loadout produced", 1),
     (ORDER, "P", "before committing the Trinity to a timing window", "before committing his kit to a timing window", 1),
     (ORDER, "P", "had verified before the Trinity moved.", "had verified before Kanja moved.", 1),
+    # --- a mechanical clarification: the decades of tactile reading are the old digger's (MCD-442) ---
+    (EYES, "P", "decades of tactile reading he'd learned as a supplement",
+     "the old digger's decades of tactile reading, which Kanja had learned as a supplement", 1),
 ]
 # --- manuscript Chronicles I, II, IV, V, VII: the header's gate pointer now cites the rule and the manifest ---
 for _f in MS:
@@ -153,9 +160,16 @@ EDITS += [
      "- **The Trinity on-page bar (Abad, 2026-10-06, `VB-069`).** Before Book 1 is published, no entry open to\n"
      "  readers shows the Trinity (Mafesto, Onyx of Oblivion, Obsidian Malice) in use on the page. It may be named\n"
      "  and told through legend, rumor, aftermath, survivors' accounts and SBD Dossiers. Entries that show it in\n"
-     "  use, every entry Onyx narrates and every entry of the Kanja-version track sit in the Book 1 unlock tier,\n"
-     "  listed in `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`; a new such entry joins the list in\n"
-     "  the batch that locks it. Gated entries keep their standing and are not rewritten.\n", 1),
+     "  use, every entry Onyx narrates, every entry of the Kanja-version track and the eight manuscript Chronicles\n"
+     "  sit in the Book 1 unlock tier, listed in `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`; a new\n"
+     "  such entry joins the list in the batch that locks it. Gated entries keep their standing and are not rewritten.\n", 1),
+    # --- alias-captain.md: the Captain fix was Batches 314 and 328 (the file said 321) ---
+    (CAPT, "D", "  314 and 321: a number of post-surrender", "  314 and 328: a number of post-surrender", 1),
+    (CAPT, "D", "corrected across Batches 314 and 321 from an earlier draft",
+     "corrected across Batches 314 and 328 from an earlier draft", 1),
+    (CAPT, "D", "resolved (Batches 314 and 321).**", "resolved (Batches 314 and 328).**", 1),
+    (CAPT, "D", "resolved, Batches 314 and 321, and no longer blocks",
+     "resolved, Batches 314 and 328, and no longer blocks", 1),
     # --- the manifest goes live ---
     (MANI + ".md", "D",
      "*Status: draft for Batch 379, 2026-10-06. It takes effect when `VB-069` locks; the merge script then changes this line. Source:",
@@ -168,6 +182,9 @@ NOTE_APPEND = {
     RECAP: " Corrected Batch 379, 2026-10-06: the guards' collapse is credited to the loadout alone. An earlier "
            "line credited it to 'the Trinity and the loadout together', which cannot stand in the Long Mask, "
            "when the Trinity is sealed at L9 (`MCD-246`, `VB-069`).",
+    EYES: " Corrected Batch 379, 2026-10-06 (mechanical): 'decades of tactile reading he'd learned' now reads as the "
+          "old digger's decades of tactile reading, which Kanja had learned, realigning the sentence with `MCD-442`, "
+          "where the old digger holds the decades of knowledge and Kanja learns it.",
     ORDER: " Corrected Batch 379, 2026-10-06: two lines that still had the Trinity committed to the forecast "
            "('committing the Trinity to a timing window', 'before the Trinity moved') now name Kanja and his kit, "
            "matching the Batch 325 swap (321 in this file's header) to the Long-Mask-era kit; the Trinity stays "
@@ -176,12 +193,12 @@ NOTE_APPEND = {
 
 
 COVERED = [
-    "(a) New entries of the Kanja-version track are written for the tier, and the unlock is eligibility when Book 1 "
-    "is published, subject to the archive's review, matching Phase 5 of the archive game plan (`VB-069`, items 4 "
-    "and 5).",
+    "(a) New entries of the Kanja-version track, and any new entry that needs the Trinity in use, are written for "
+    "the tier, and the unlock is eligibility when Book 1 is published, subject to the archive's review, matching "
+    "Phase 5 of the archive game plan (`VB-069`, items 4 and 5).",
     "(b) The first full showing of the Trinity in combat, in Book 1's present-day narrative, is `MCD-1907`, with the "
     "Heist's own fighting left open.",
-    "(c) The gating itself: an entry the census could not read either way gates.",
+    "(c) The gating itself: an entry that, read in full, cannot be decided either way (`MCD-729`) gates.",
     "(d) The 85 IN-USE entries whose header and rule state no era are carried at their track's default era.",
     "(e) Kanja Chronicle II gates with its track although it holds no Trinity and no Onyx.",
     "(f) The three withdrawn Chronicles IX to XI are not listed.",
@@ -191,11 +208,12 @@ COVERED = [
     "classification, since the archive already carries both and a third \"tier\" could drift. The term \"Book 1 "
     "unlock tier\" was in the recommendation he accepted.",
     "(j) All eight manuscript Chronicles gate as a set.",
-    "(k) `MCD-729` gates as an entry the census could not read either way, while `MCD-1425` and `MCD-1144` stay open "
-    "because they state the Trinity unused.",
+    "(k) `MCD-729` gates as an entry that, read in full, cannot be decided either way, while `MCD-1425` and "
+    "`MCD-1144` stay open because they state the Trinity unused.",
     "(l) The eight borderline OPEN-MENTION entries stay open, with `the-siege-that-never-came` (`MCD-1011`) the "
     "closest call: Obsidian Malice is \"ready to discharge by midafternoon, its reserve built from the morning's "
-    "work\", and no discharge is shown.",
+    "work\", and no discharge is shown. Under item (1)'s one-clause test, the reserve implies Mafesto was engaged, "
+    "which argues for gating.",
     "(m) Item (8) of the rule: an era error is corrected to the gear Kanja held at that age and is not filed in the "
     "tier, as a standing rule.",
     "(n) Item (6) of the rule: the Karkosa Heist is the Trinity's first use in Book 1's present-day narrative.",
@@ -301,16 +319,14 @@ def main():
                  "cuz the way I'm thinking, wouldn't it be clever or better for the Trinity not to make an appearance "
                  "at all pre-book one but be spoken about in all and not giving away the stories where he's actually "
                  "using it like the 90 seconds his father Witnesses or the battles in which he uses the trinity? what "
-                 "is your feedback'; then 'all recommendations, run the census' (answering a list whose item 7 was "
-                 "'What pre-Book-1 entries may say. Should they be able to describe what the weapons do as legend? I "
-                 "recommend yes. The alternative is that they only mention the weapons exist.' and whose item 8 was "
-                 "'The census.'), said before the census ran, which confirmed the recommendation that preceded it "
-                 "(gate and leave the entries as written; the bar; naming the Trinity and telling it through legend, "
+                 "is your feedback'; then 'all recommendations, run the census' (answering a list whose item 7 "
+                 "recommended that pre-Book-1 entries may describe what the weapons do as legend, and whose item 8 was "
+                 "the census), an answer given before the census ran, accepting the recommendation that preceded the "
+                 "census (gate and leave the entries as written; the bar; naming the Trinity and telling it through legend, "
                  "rumor, aftermath, survivors' accounts and SBD files; legend may describe what the weapons do; the "
                  "Book 1 unlock tier; the Kanja-version track gates because Onyx narrates it; new writing follows the "
-                 "rule); then 'all yes on yiu 6 questions' ('yiu' reads 'you'; question 6 was 'Batch 379. Should I "
-                 "draft the Trinity rule, the lock list and the two era fixes once 378 is locked?'), which confirmed "
-                 "only that Batch 379 be drafted. "
+                 "rule); then 'all yes on yiu 6 questions' ('yiu' reads 'you'; answering six questions whose sixth "
+                 "asked whether to draft Batch 379), which confirmed only that Batch 379 be drafted. "
                  "VB-069 locks the bar (no entry open to readers shows the Trinity in use before Book 1 is "
                  "published), what an open entry may do (name the Trinity; legend, rumor, aftermath, survivors' "
                  "accounts and SBD Dossiers, which may be wrong; legend may describe what the weapons do), Onyx "
@@ -346,15 +362,13 @@ def main():
   some of the Chronicles locked in the archive. cuz the way I'm thinking, wouldn't it be clever or better for the
   Trinity not to make an appearance at all pre-book one but be spoken about in all and not giving away the stories
   where he's actually using it like the 90 seconds his father Witnesses or the battles in which he uses the
-  trinity? what is your feedback". He then said "all recommendations, run the census" (his list included "**What
-  pre-Book-1 entries may say.** Should they be able to describe what the weapons do as legend? I recommend yes.
-  The alternative is that they only mention the weapons exist." and "**The census.**"), before the census ran. It
-  confirmed the recommendation that preceded the census: gate the entries and leave them as written; the bar;
+  trinity? what is your feedback". He then said "all recommendations, run the census" (answering a list that
+  included a recommendation that pre-Book-1 entries may describe what the weapons do as legend, and the census),
+  before the census ran. It accepted the recommendation that preceded the census: gate the entries and leave them as written; the bar;
   naming the Trinity and telling it through legend, rumor, aftermath, survivors' accounts and SBD files; legend
   may describe what the weapons do; the Book 1 unlock tier; the Kanja-version track gates because Onyx narrates it;
-  new writing follows the rule. His "all yes on yiu 6 questions" ("yiu" reads "you"; question 6: "**Batch 379.**
-  Should I draft the Trinity rule, the lock list and the two era fixes once 378 is locked?") confirmed only that
-  Batch 379 is drafted.
+  new writing follows the rule. His "all yes on yiu 6 questions" ("yiu" reads "you"; answering six questions whose
+  sixth asked whether to draft Batch 379) confirmed only that Batch 379 is drafted.
 - **The rule (`VB-069`).** Before Book 1 is published, no entry open to readers shows the Trinity (Mafesto, Onyx
   of Oblivion, Obsidian Malice) in use on the page. A piece is in use when a scene shows it worn and engaged,
   wielded, discharged or exercising a named power, including when it fails or acts in part; carried, racked,
@@ -380,7 +394,7 @@ def main():
 - **Era errors.** `the-recapture-at-dusk` (`MCD-1238`, Scourge, age 172) credited the guards' collapse to "the
   Trinity and the loadout together"; `the-order-he-didnt-question` (`MCD-589`, Storm That Walks, Long Mask) still
   had the Trinity committed to the forecast in two lines. Both are corrected to the Long-Mask-era kit as Batch 314
-  and Batches 325 to 330 did, with a correction clause in each entry and each rule. `the-call-he-got-wrong`
+  and Batches 324 to 330 did, with a correction clause in each entry and each rule. `the-call-he-got-wrong`
   (`MCD-594`, Captain) is read as Rebellion era (covered only by the final approval), from the Captain entries
   beside it (`MCD-591`, `MCD-596`, which show Mafesto live), Corren Halst's being older than Kanja's body, the
   wartime raid and the absence of any post-Mafesto kit; its header states no era, so it is not treated as an
@@ -390,9 +404,13 @@ def main():
 - **Covered only by Abad's final approval, which presented each item explicitly.**
 {covered_md}
 - **Propagation.** {len(amended)} rule statements carry pointer or correction notes; {n_entries} entries and
-  {n_docs} docs carried (the five manuscript headers' gate pointer, the Kanja profile, the series template, the
-  tracker, the census, this file's standing sections, the manifest's status lines). The mirrored Voice Bible and Voice Progression Sheet stay
-  unedited; the archive repo's Phase 5 plan is owed an update to name the manifest.
+  {n_docs} docs carried. The {n_entries} entries are the five manuscript headers' gate pointer, the two era
+  corrections and the `MCD-1182` wording. The {n_docs} docs are the Kanja profile, the series template, the tracker,
+  the census, `alias-captain.md`, this file's standing sections and the manifest's two status lines. Two
+  mechanical wording fixes ride along, which add no fact: `alias-captain.md` cited "Batches 314 and 321" for the
+  Captain fix and now reads "Batches 314 and 328", and one sentence of `MCD-1182` gave the old digger's decades of
+  tactile reading to Kanja and now realigns with `MCD-442`. The mirrored Voice Bible and Voice Progression Sheet
+  stay unedited; the archive repo's Phase 5 plan is owed an update to name the manifest.
 Ledger at `ledger_version` 38.1, {len(d['rules']):,} rules, 379 batches.
 """)
     open("CLAUDE.md", "w", encoding="utf-8").write(c)

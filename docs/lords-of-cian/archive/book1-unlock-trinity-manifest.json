@@ -30,7 +30,7 @@
       "track": "Kanja-version track",
       "reason": "TRACK",
       "era": "age 17 or earlier (pre-bonding, per header)",
-      "note": "No Trinity term in the body and no Onyx (before the age-17 bonding); gated by track membership only (flag 4 in the draft)."
+      "note": "No Trinity term in the body and no Onyx (before the age-17 bonding); gated by track membership only (flag 4 in docs/lords-of-cian/drafts/2026-10-06-trinity-on-page-rule.md)."
     },
     {
       "file": "kanja-chronicle-iii-what-the-dark-could-not-keep.md",
@@ -589,7 +589,7 @@
       "rule": "MCD-594",
       "track": "Alias: Captain",
       "reason": "IN-USE",
-      "era": "Rebellion (read from wave position and prose; covered only by the final approval)",
+      "era": "Rebellion (read from the file and the Captain entries beside it, MCD-591 and MCD-596; covered only by the final approval)",
       "note": ""
     },
     {

@@ -11,11 +11,11 @@
 +- **The Trinity on-page bar (Abad, 2026-10-06, `VB-069`).** Before Book 1 is published, no entry open to
 +  readers shows the Trinity (Mafesto, Onyx of Oblivion, Obsidian Malice) in use on the page. It may be named
 +  and told through legend, rumor, aftermath, survivors' accounts and SBD Dossiers. Entries that show it in
-+  use, every entry Onyx narrates and every entry of the Kanja-version track sit in the Book 1 unlock tier,
-+  listed in `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`; a new such entry joins the list in
-+  the batch that locks it. Gated entries keep their standing and are not rewritten.
++  use, every entry Onyx narrates, every entry of the Kanja-version track and the eight manuscript Chronicles
++  sit in the Book 1 unlock tier, listed in `docs/lords-of-cian/archive/book1-unlock-trinity-manifest.md`; a new
++  such entry joins the list in the batch that locks it. Gated entries keep their standing and are not rewritten.
  - **"Cian" reuse outside Kanja's crew gets renamed, full stop.** Superseded 2026-08-25 from an earlier "decide per-instance" policy. Several source documents (e.g. "Guild of the Extraordinary") reuse "Cian," the world's own name, as an in-world proper-noun component (a scent name, a jurisdiction, a guild, a barracks tier). Abad's standing rule now: rename any such instance unless it's actually part of Kanja's crew/story material. Don't ask per-instance anymore; just apply it and note what you renamed.
-@@ -4596,2 +4603,85 @@
+@@ -4596,2 +4603,88 @@
  
 +**Batch 379: the Trinity on-page bar and the Book 1 unlock tier (`VB-069`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-06: "after the Karkosa Heist, with the Trinity. which is important we build up
@@ -23,15 +23,13 @@
 +  some of the Chronicles locked in the archive. cuz the way I'm thinking, wouldn't it be clever or better for the
 +  Trinity not to make an appearance at all pre-book one but be spoken about in all and not giving away the stories
 +  where he's actually using it like the 90 seconds his father Witnesses or the battles in which he uses the
-+  trinity? what is your feedback". He then said "all recommendations, run the census" (his list included "**What
-+  pre-Book-1 entries may say.** Should they be able to describe what the weapons do as legend? I recommend yes.
-+  The alternative is that they only mention the weapons exist." and "**The census.**"), before the census ran. It
-+  confirmed the recommendation that preceded the census: gate the entries and leave them as written; the bar;
++  trinity? what is your feedback". He then said "all recommendations, run the census" (answering a list that
++  included a recommendation that pre-Book-1 entries may describe what the weapons do as legend, and the census),
++  before the census ran. It accepted the recommendation that preceded the census: gate the entries and leave them as written; the bar;
 +  naming the Trinity and telling it through legend, rumor, aftermath, survivors' accounts and SBD files; legend
 +  may describe what the weapons do; the Book 1 unlock tier; the Kanja-version track gates because Onyx narrates it;
-+  new writing follows the rule. His "all yes on yiu 6 questions" ("yiu" reads "you"; question 6: "**Batch 379.**
-+  Should I draft the Trinity rule, the lock list and the two era fixes once 378 is locked?") confirmed only that
-+  Batch 379 is drafted.
++  new writing follows the rule. His "all yes on yiu 6 questions" ("yiu" reads "you"; answering six questions whose
++  sixth asked whether to draft Batch 379) confirmed only that Batch 379 is drafted.
 +- **The rule (`VB-069`).** Before Book 1 is published, no entry open to readers shows the Trinity (Mafesto, Onyx
 +  of Oblivion, Obsidian Malice) in use on the page. A piece is in use when a scene shows it worn and engaged,
 +  wielded, discharged or exercising a named power, including when it fails or acts in part; carried, racked,
@@ -57,7 +55,7 @@
 +- **Era errors.** `the-recapture-at-dusk` (`MCD-1238`, Scourge, age 172) credited the guards' collapse to "the
 +  Trinity and the loadout together"; `the-order-he-didnt-question` (`MCD-589`, Storm That Walks, Long Mask) still
 +  had the Trinity committed to the forecast in two lines. Both are corrected to the Long-Mask-era kit as Batch 314
-+  and Batches 325 to 330 did, with a correction clause in each entry and each rule. `the-call-he-got-wrong`
++  and Batches 324 to 330 did, with a correction clause in each entry and each rule. `the-call-he-got-wrong`
 +  (`MCD-594`, Captain) is read as Rebellion era (covered only by the final approval), from the Captain entries
 +  beside it (`MCD-591`, `MCD-596`, which show Mafesto live), Corren Halst's being older than Kanja's body, the
 +  wartime raid and the absence of any post-Mafesto kit; its header states no era, so it is not treated as an
@@ -65,12 +63,12 @@
 +  same risk: it is set after the siege while the siege's shoring is still unfinished, and it stays.
 +  `kanja-haku-rexmar.md` no longer says the gear from 18 to 314 is the Trinity.
 +- **Covered only by Abad's final approval, which presented each item explicitly.**
-+  - (a) New entries of the Kanja-version track are written for the tier, and the unlock is eligibility when Book
-+    1 is published, subject to the archive's review, matching Phase 5 of the archive game plan (`VB-069`, items
-+    4 and 5).
++  - (a) New entries of the Kanja-version track, and any new entry that needs the Trinity in use, are written for
++    the tier, and the unlock is eligibility when Book 1 is published, subject to the archive's review, matching
++    Phase 5 of the archive game plan (`VB-069`, items 4 and 5).
 +  - (b) The first full showing of the Trinity in combat, in Book 1's present-day narrative, is `MCD-1907`, with
 +    the Heist's own fighting left open.
-+  - (c) The gating itself: an entry the census could not read either way gates.
++  - (c) The gating itself: an entry that, read in full, cannot be decided either way (`MCD-729`) gates.
 +  - (d) The 85 IN-USE entries whose header and rule state no era are carried at their track's default era.
 +  - (e) Kanja Chronicle II gates with its track although it holds no Trinity and no Onyx.
 +  - (f) The three withdrawn Chronicles IX to XI are not listed.
@@ -80,11 +78,12 @@
 +    classification, since the archive already carries both and a third "tier" could drift. The term "Book 1
 +    unlock tier" was in the recommendation he accepted.
 +  - (j) All eight manuscript Chronicles gate as a set.
-+  - (k) `MCD-729` gates as an entry the census could not read either way, while `MCD-1425` and `MCD-1144` stay
-+    open because they state the Trinity unused.
++  - (k) `MCD-729` gates as an entry that, read in full, cannot be decided either way, while `MCD-1425` and
++    `MCD-1144` stay open because they state the Trinity unused.
 +  - (l) The eight borderline OPEN-MENTION entries stay open, with `the-siege-that-never-came` (`MCD-1011`) the
 +    closest call: Obsidian Malice is "ready to discharge by midafternoon, its reserve built from the morning's
-+    work", and no discharge is shown.
++    work", and no discharge is shown. Under item (1)'s one-clause test, the reserve implies Mafesto was engaged,
++    which argues for gating.
 +  - (m) Item (8) of the rule: an era error is corrected to the gear Kanja held at that age and is not filed in
 +    the tier, as a standing rule.
 +  - (n) Item (6) of the rule: the Karkosa Heist is the Trinity's first use in Book 1's present-day narrative.
@@ -94,10 +93,14 @@
 +    rests on `MCD-591` and `MCD-596`, the Captain entries beside it, which show Mafesto live, on Corren Halst's
 +    being older than Kanja's body ("read these waters longer than I've been alive in this body"), on the wartime
 +    raid itself, and on the absence of any post-Mafesto kit.
-+- **Propagation.** 7 rule statements carry pointer or correction notes; 7 entries and
-+  7 docs carried (the five manuscript headers' gate pointer, the Kanja profile, the series template, the
-+  tracker, the census, this file's standing sections, the manifest's status lines). The mirrored Voice Bible and Voice Progression Sheet stay
-+  unedited; the archive repo's Phase 5 plan is owed an update to name the manifest.
++- **Propagation.** 7 rule statements carry pointer or correction notes; 8 entries and
++  8 docs carried. The 8 entries are the five manuscript headers' gate pointer, the two era
++  corrections and the `MCD-1182` wording. The 8 docs are the Kanja profile, the series template, the tracker,
++  the census, `alias-captain.md`, this file's standing sections and the manifest's two status lines. Two
++  mechanical wording fixes ride along, which add no fact: `alias-captain.md` cited "Batches 314 and 321" for the
++  Captain fix and now reads "Batches 314 and 328", and one sentence of `MCD-1182` gave the old digger's decades of
++  tactile reading to Kanja and now realigns with `MCD-442`. The mirrored Voice Bible and Voice Progression Sheet
++  stay unedited; the archive repo's Phase 5 plan is owed an update to name the manifest.
 +Ledger at `ledger_version` 38.1, 2,729 rules, 379 batches.
 +
  ## Separate, unrelated thread: the interactive archive app
@@ -127,6 +130,28 @@
 +  in the batch that locks it. The Trinity may be named, and told through legend, rumor, aftermath,
 +  survivors' accounts and SBD Dossiers, in any entry.
  - **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
+--- before: docs/lords-of-cian/character-profiles/alias-captain.md
++++ after: docs/lords-of-cian/character-profiles/alias-captain.md
+@@ -67,3 +67,3 @@
+   sealed at L9 for the entire Long Mask of just over 283 years, ages 30-314) was found and fixed across Batches
+-  314 and 321: a number of post-surrender entries originally described "full Trinity combat
++  314 and 328: a number of post-surrender entries originally described "full Trinity combat
+   showcases" naming Mafesto, Obsidian Malice, and Onyx of Oblivion by name. Every one of them
+@@ -199,3 +199,3 @@
+   `MCD-1421`, `MCD-1515`, `MCD-1518`, `MCD-1521`), consistent with the Trinity's own locked
+-  age-30-314 sealing (`MCD-246`) -- corrected across Batches 314 and 321 from an earlier draft
++  age-30-314 sealing (`MCD-246`) -- corrected across Batches 314 and 328 from an earlier draft
+   that mistakenly used full-Trinity gear in these same entries. The deliberate-restraint beat in
+@@ -234,3 +234,3 @@
+ 
+-- **The Trinity/Long-Mask era-span contradiction, resolved (Batches 314 and 321).** A fraction of
++- **The Trinity/Long-Mask era-span contradiction, resolved (Batches 314 and 328).** A fraction of
+   this alias's post-"Trinity's surrender" material (waves 20 onward) originally used the full
+@@ -385,3 +385,3 @@
+ Chronicle-pitch work can proceed. The Trinity/Long-Mask era-span contradiction flagged in the
+-walkthrough has since been resolved, Batches 314 and 321, and no longer blocks this stage.)*
++walkthrough has since been resolved, Batches 314 and 328, and no longer blocks this stage.)*
+ 
 --- before: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
 +++ after: docs/lords-of-cian/character-profiles/kanja-haku-rexmar.md
 @@ -5,2 +5,7 @@
@@ -228,6 +253,20 @@
 +collapse is credited to the loadout alone. An earlier line credited it to 'the Trinity and the
 +loadout together', which cannot stand in the Long Mask, when the Trinity is sealed at L9 (`MCD-246`,
 +`VB-069`).*
+--- before: docs/lords-of-cian/chronicles/what-he-read-with-his-eyes-shut.md
++++ after: docs/lords-of-cian/chronicles/what-he-read-with-his-eyes-shut.md
+@@ -12,3 +12,3 @@
+ 
+-It was the old digger's lesson come due at last -- decades of tactile reading he'd learned as a supplement, a deeper layer beneath what his eyes could already tell him, and had never once needed as a total replacement until this exact moment. He put both palms flat against the rubble and stopped trying to see it. The shape of a collapse told itself through vibration and grain if you let it, the way a stone face told a mason which way it wanted to be cut, and he'd spent enough hours learning that language secondhand that it didn't abandon him now that his eyes had.
++It was the old digger's lesson come due at last -- the old digger's decades of tactile reading, which Kanja had learned as a supplement, a deeper layer beneath what his eyes could already tell him, and had never once needed as a total replacement until this exact moment. He put both palms flat against the rubble and stopped trying to see it. The shape of a collapse told itself through vibration and grain if you let it, the way a stone face told a mason which way it wanted to be cut, and he'd spent enough hours learning that language secondhand that it didn't abandon him now that his eyes had.
+ 
+@@ -24,2 +24,5 @@
+ 
+-*Continuity notes (not narrative): the alias's first entry centered on Kanja's own temporary incapacitation rather than a worker's or crew member's vulnerability -- distinct from every prior crisis register, all of which task him with rescuing others at full capacity. Directly pays off "What the Old Digger Taught Him" (`MCD-442`, wave 3) and "The Lecture Hall Didn't Know What to Do With Him" (`MCD-487`, teaching the method to others) by showing the tactile method save Kanja himself under total sensory loss, rather than him using it to teach or rescue. Reuses already-locked crew member Corren Halst. No new named characters.*
++*Continuity notes (not narrative): the alias's first entry centered on Kanja's own temporary incapacitation rather than a worker's or crew member's vulnerability -- distinct from every prior crisis register, all of which task him with rescuing others at full capacity. Directly pays off "What the Old Digger Taught Him" (`MCD-442`, wave 3) and "The Lecture Hall Didn't Know What to Do With Him" (`MCD-487`, teaching the method to others) by showing the tactile method save Kanja himself under total sensory loss, rather than him using it to teach or rescue. Reuses already-locked crew member Corren Halst. No new named characters.
++Corrected Batch 379, 2026-10-06 (mechanical): 'decades of tactile reading he'd learned' now reads as
++the old digger's decades of tactile reading, which Kanja had learned, realigning the sentence with
++`MCD-442`, where the old digger holds the decades of knowledge and Kanja learns it.*
 --- before: research/trinity-on-page-census-2026-10-06.md
 +++ after: research/trinity-on-page-census-2026-10-06.md
 @@ -413 +413,20 @@
