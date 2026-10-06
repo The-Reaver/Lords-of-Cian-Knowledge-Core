@@ -393,3 +393,21 @@ Checked and not counted as errors:
 - **Era.** Taken from the header and the ledger statement only (ages, "Rebellion era", "Long Mask"). 85 of the 175 GATE-IN-USE files state no era at all; for them the alias default (Rebellion for every alias except the Scourge, Long Mask; Captain mixed) is shown and no era claim should be drawn from it. Of those, none shows Trinity gear beside post-Mafesto gear, so no further era error was detected by script; `the-call-he-got-wrong` is the one flagged for a human check.
 - **Not covered.** Manuscript Chronicles I, II, IV, V, VII are not in this repo folder. Entries in other folders (`docs/lords-of-cian/interstitials/`, `drafts/`, character-profile files) were not scanned.
 - **Counts check.** 175 + 10 + 76 + 5 + 20 = 286 rows: the 285 body hits plus Kanja-version Chronicle II.
+
+## 6. Addendum, 2026-10-06: manuscript Chronicles I, II, IV, V and VII now in the repo
+
+Section 5's "Not covered" note is superseded for these five. Abad's upload of 2026-10-06 added them as `chronicle-i-the-scrip-forge-raid.md`, `chronicle-ii-the-dredge-line-ambush.md`, `chronicle-iv-iron-shallows.md`, `chronicle-v-the-siege-of-maw-9.md` and `chronicle-vii-the-siege-of-the-ghost-harbor.md`. They gate with the manuscript set (III, VI, VIII) as **GATE-TRACK**, Kanja's manuscript Chronicles gated to Book 1. All five are pre-surrender (ages 18-21), so none is an ERA-ERROR candidate. No ledger rule references any of the eight manuscript files. The full review is in `research/manuscript-chronicles-i-viii-review-2026-10-06.md`.
+
+The manuscript set is now 8 files, so the GATE-TRACK total in section 1 becomes 15 (7 Kanja-version entries plus all 8 manuscript Chronicles), and the "Manuscript Chronicles (III, VI, VIII present)" row reads 8. The five new files add no GATE-IN-USE entries, because no Trinity piece is used on the page in any of them.
+
+Trinity evidence in the new files (line numbers are the new repo files):
+
+| File | Age / phase | Evidence | Class |
+|---|---|---|---|
+| I | 18, Phase 1 | L29 "the sword he had recovered from a pawn shop on Anchor Street eleven months ago sat in its usual silence"; L65 "the dark blade rested. It had been listening."; L203 "The blade was listening. It had not yet learned to speak."; L281 "He had forged an armor system and a sentient-bonded war club and a talisman that regulated the metabolic output of a Living Drakma network" (Mafesto, Obsidian Malice and the Talisman named as already made, none used; see review R-10); L357-L375 the Onyx coda, first person ("I record this.") | GATE-TRACK; carried and never drawn |
+| II | 18, Phase 1 | L389 "the dark blade rested. It had heard the old smith's question and the boy's answer. It recorded both."; L395-L411 the Onyx coda, first person ("the way I calculate mass") | GATE-TRACK; carried and never drawn |
+| IV | 19, Phase 1 | L75 "Mafesto's dormant plates sat on his shoulders and torso, compact and inert, the Living Drakma quiet against his skin. The operation did not require the Trinity."; L77 "Onyx hung at his left hip in the boiled-leather scabbard, silent and present."; L195-L201 the blade warm and recording; L205-L217 the Onyx coda, first person ("I hold no new names") | GATE-TRACK; Mafesto worn dormant, Onyx carried, both explicitly not used |
+| V | 20, Phase 1 | No Trinity term in the prose body (the chisel at L127 is Living Drakma but is the King's gift, not the Trinity); L259-L269 the Onyx coda, "the blade" throughout ("It has recorded the old man. Sephtis. The blade tasted his proximity at Iron Shallows") | GATE-TRACK; coda only |
+| VII | 21, Phase 2 | No Trinity term in the prose body; L245-L263 the labeled "ONYX:" coda, "the blade" throughout | GATE-TRACK; coda only |
+
+Searched for in the five new files: Mafesto, Obsidian Malice, Onyx, Trinity, Talisman, Cadence Ruin, Veil Piercer, Soulbound Edge, Whisper of Shadows, Black Ledger, Void-Lattice, Kinetic, Heartline, Dark Ledger, the blade, sword. No file has a named Onyx power, Obsidian Malice, the Heartline or the Dark Ledger in its body. The only Trinity-in-use evidence of any strength is IV L75, and that line states the Trinity was not used.
