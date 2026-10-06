@@ -1,8 +1,8 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,82 @@
+@@ -4439,2 +4439,110 @@
  
-+**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1905`).** Abad: "<approval quote, verbatim>"
++**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1907`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
 +  the last day of his age 313 (confirmed by Abad: "yes"). The Pi-Awakening stays at age 314, and "the Long mask has to be after
 +  his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
@@ -29,8 +29,9 @@
 +  Pi-Awakening releases the Shackle and shows him the decline was not age. Sephtis puts together that
 +  it is the Shackle and that its release is near; he does not know the timing or the trigger, he wrote
 +  the Countdown Annotation (`MCD-277`, age 310), and he stays silent, keeping it from Kanja under
-+  `MCD-208`'s mandate and from Lauris (Abad: "yes"). Kanja learns it from him in the Book 4
-+  conversation (`MCD-216`). Lauris senses the density in Kanja and senses that he is kin; through
++  `MCD-208`'s mandate and from Lauris (Abad: "yes"). Kanja learns it from Sephtis early in Book 4,
++  set off by the first visible Bastion revisit, with Book 3's near-death (`MCD-218`) as the reason Sephtis can no longer stay silent; he never
++  knew the trigger, so the truth behind "one day too late" reaches the reader by another route (`MCD-216`). Lauris senses the density in Kanja and senses that he is kin; through
 +  Sephtis she knows his mother is Val Saeryn Kareth, so she knows he carries Kareth density, and she
 +  cannot put the rest together (Abad: "yes"). Kanja knows the Haku legend and does not know it applies
 +  to him. The sentences naming the Talisman as the cause are cut from Kanja VII (Abad: "yes").
@@ -50,9 +51,9 @@
 +  the means to finish it. T.D.K. is distinct: his containment was built to prevent the Awakening and he
 +  stays dormant until Book 1's epilogue. "One day too late" is the enemy's belief: seeing him awaken,
 +  they conclude it was coming anyway and that they missed by one day. It recurs through the books; the
-+  truth is revealed to the reader only later. Who or what makes the attack, how they reach him, and
-+  where the reveal falls, stay open. No entry set before Book 1 may state or hint at the trigger or the
-+  belief. Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
++  truth is revealed to the reader only later. The Three Ronin make the attack and all three survive it;
++  how they reach him and where the reveal falls stay open. No entry set before Book 1 may state or hint at
++  the trigger or the belief. Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
 +  family somehow she is an extraordinary character so that is something that I think should be evident
 +  to her but she can't put everything else together. if she knows who his mother is through Sephtis,
 +  then she would obviously know that he could potentially be dense".
@@ -67,9 +68,36 @@
 +  in the upper room where Kanja lies, at the usual hour. The strike comes during the meal. The surge
 +  carries him out of the upper room and down several stories, and he lands hard enough to crack the
 +  Lighthouse's foundation (the 2026-08-13 staging, `master-to-do-list.md`). The strike never lands, so
-+  the fall belongs to the surge. The Last Breakfast is the first since Maro's murder. Open for Abad: does
-+  this settle that Pyro does not know Kanja is his father, and Maro his grandfather, before Book 1
-+  (`pyro.md` A3/A4)?
++  the fall belongs to the surge. The Last Breakfast is the first since Maro's murder. Abad, 2026-10-06:
++  "The Rexmar Lineage honors the cook." and "Maro knows". Maro knows Pyro is his grandson and Kanja knows
++  Pyro is his son (`CC-079`); both know why Pyro always joins, and neither tells him (`CC-047`,
++  `ARS-414`).
++- **The order chain and the second attempt (`MCD-1906`, `MCD-1907`).** Abad, 2026-10-06, verbatim (the
++  "I" in "I savage team" reads "a"):
++  > "option 1 proxy, the Three Ronin, Book 4 works.
++  >
++  > we need a second attempt
++  >
++  > The Quiet Hand (SBD-059). A standing SEALBLACK cell kept for politically sensitive individual targets.
++  >
++  > paired with
++  >
++  > I savage team of animals and 1 Brute Beast Master.
++  >
++  > Kanja, Pyro & The Triad UNLEASHED.
++  >
++  > The Rexmar Lineage honors the cook.
++  >
++  > Maro knows"
++
++  The regicide and the strike are SEALBLACK deployments ordered by SBD leadership. Under `SBD-051`, an unnamed
++  leadership member signs as the Executive Director's named proxy and Grave-Analyst Abbott Gage gives the
++  technical clearance; whether Director Ilona Corrance knew stays open, and the proxy's identity is reserved
++  from pre-Book-1 entries (`MCD-1906`). After the Ronin fail, the Quiet Hand with a savage team of animals under
++  one Beast Master (unnamed) comes as a second attempt. Abad, on when it comes: "the second attacks have come
++  at some point after the first not to long after the first as they think they regrouped and figured out how
++  to attack them which turns out disastrous for the attackers." Kanja, Pyro and the Triad meet it unleashed
++  and defeat it. Whether it falls before or after the Karkosa Heist stays open (`MCD-1907`).
 +- **Propagation.** 53 rule statements amended; 60 entries and 12 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
 +  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
@@ -80,7 +108,7 @@
 +  carries 9 stale 284/296 strings, and its regeneration from the ledger is owed. The Pyro and Triad
 +  profiles carry the Batch 378 figures in their rule quotes, the age-table and A1 notes, and the Varruk
 +  age line; the rest of their review stays owed.
-+Ledger at `ledger_version` 38.0, 2,726 rules, 378 batches.
++Ledger at `ledger_version` 38.0, 2,728 rules, 378 batches.
 +
  ## Separate, unrelated thread: the interactive archive app
 --- before: docs/lords-of-cian/approval-list-2026-10-03.md
