@@ -1,6 +1,6 @@
 --- before: CLAUDE.md
 +++ after: CLAUDE.md
-@@ -4439,2 +4439,115 @@
+@@ -4439,2 +4439,125 @@
  
 +**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1907`).** Abad: "<approval quote, verbatim>"
 +- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
@@ -52,7 +52,7 @@
 +  stays dormant until Book 1's epilogue. "One day too late" is the enemy's belief: seeing him awaken,
 +  they conclude it was coming anyway and that they missed by one day. It recurs through the books; the
 +  truth is revealed to the reader only later. The Three Ronin make the attack and all three survive it;
-+  how they reach him and where the reveal falls stay open. No entry set before Book 1 may state or hint at
++  how they escape the surge and where the reveal falls stay open. No entry set before Book 1 may state or hint at
 +  the trigger or the belief. Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
 +  family somehow she is an extraordinary character so that is something that I think should be evident
 +  to her but she can't put everything else together. if she knows who his mother is through Sephtis,
@@ -98,11 +98,21 @@
 +  at some point after the first not to long after the first as they think they regrouped and figured out how
 +  to attack them which turns out disastrous for the attackers." Kanja, Pyro and the Triad meet it unleashed
 +  and defeat it. Abad, on the placement: "after the Karkosa Heist, with the Trinity." The attempt comes
-+  after the Heist (`MCD-070`), not long after the first, and Kanja fights it with the Trinity reclaimed
++  after the Heist and before the Great Breach of the epilogue (`MCD-070`), while the SBD is still
++  clandestine, and the attackers stay unidentified to the world. It comes not long after the first, and Kanja fights it with the Trinity reclaimed
 +  (`MCD-1902`): Mafesto, Onyx of Oblivion and Obsidian Malice. The Quiet Hand normally works untraceable
 +  removals of individuals who need no anomaly-handling expertise (`SBD-059`); leadership pairs it with the
-+  Beast Master and his animals to supply what the cell lacks. Whether it falls before or inside the
-+  epilogue's Great Breach is not asserted (`MCD-1907`).
++  Beast Master and his animals to supply what the cell lacks. Abad, 2026-10-06, accepting every
++  recommendation put to him on the second attempt and the strike: "all recommendations, run the census". Written into the rules:
++  `MCD-1907`, Kanja, Pyro and the Triad kill attackers (the fight comes after Maro's murder, when the turn
++  `CC-161` reserves for Book 1 may run); the Triad do not learn that the SBD sent it, so `SBD-044`'s arc of
++  Varkul discovering the SBD's surveillance apparatus stays intact; the fight is away from witnesses, with
++  Kanja inside his Book 1 ceiling (`MCD-227`), Varkul below his maximum (`SBD-044`) and `MCD-144`'s openly
++  seen register holding. `MCD-1904`, the SBD wet-work team does not sanitize after the breakfast strike
++  (`SBD-059`: that team operated once) and what the world sees is the surge's aftermath; how the Ronin
++  escape the surge is left to the Book 1 scene and stays open; on that day the breakfast moves to the
++  Lighthouse at its usual hour, and the unchanged hour is how the enemy knows when to find him. The
++  reveal's placement stays open. "Run the census" changes no rule in this batch.
 +- **Propagation.** 53 rule statements amended; 60 entries and 12 docs carried,
 +  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date. The pitch
 +  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
