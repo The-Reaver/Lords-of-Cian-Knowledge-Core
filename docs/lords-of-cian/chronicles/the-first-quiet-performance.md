@@ -49,7 +49,7 @@ to hold.
 Rebellion's end, marking the Hymn-Engine's transition from a wartime tool operating at the scale of
 armies, garrisons, and provinces to the much smaller, much longer-sustained scale of protecting a
 single disguised identity through the opening of the Long Mask era (extending the already-locked
-284-year sustained-persona framework, `ARS-310`/`MCD-246`) — a tonal and scale shift distinct from
+sustained-persona framework of just over 283 years, `ARS-310`/`MCD-246`) — a tonal and scale shift distinct from
 every prior entry in this alias's run, all of which operated during the Rebellion itself. No
 tactical/combat content; establishes that the craft's core discipline persists into the Long Mask in
 a deliberately smaller, quieter register rather than being retired at the war's end. No new named

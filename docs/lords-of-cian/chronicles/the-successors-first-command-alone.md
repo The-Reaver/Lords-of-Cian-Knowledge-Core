@@ -36,7 +36,7 @@ without him within reach of it.
 is not merely uninvolved but physically absent and unreachable during the operation, the fullest
 institutional-trust payoff of the successor thread to date. Efa Gol's successor remains deliberately
 unnamed, matching established convention. No new named characters. Age 270, V4 gear (`ARS-348`
-locks V4 at ages 180-284). Onyx of Oblivion correctly absent per its L9 seal throughout the Long
+locks V4 at ages 180-313). Onyx of Oblivion correctly absent per its L9 seal throughout the Long
 Mask. Closes
 the Scourge's twenty-fifth wave (with "The Recapture at Dusk," `MCD-1238`, and "The Pass Where the
 Air Ran Thin," `MCD-1239`). Corrected Batch 321, 2026-10-02: corrected the V4-debut citation from

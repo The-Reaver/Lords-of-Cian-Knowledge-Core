@@ -42,11 +42,13 @@ first near-lethal impulse against a surrendered captive; `MCD-1241`, age 235, te
 restraint to a newer crew member) -- her own independently kept record of people she personally freed
 is new material extending, not contradicting, both entries. Reuses Garren Hask (`CC-115`/`116`) and
 Sena (established `MCD-1043`/`1241`) alongside Kanja. Age 313, V4 gear (`ARS-348` locks V4 at ages
-180-284),
+180-313),
 though no combat occurs in this entry. Onyx of Oblivion correctly absent per its L9 seal throughout
 the Long Mask. Second entry of the Scourge's thirty-first wave. No new named characters. Corrected
 Batch 321, 2026-10-02: corrected Garren Hask's ledger span from "two hundred and seventy years" to
 "two hundred and eighty-three," using the age-30 anchor that reconciles this figure across all five
 entries that stated it inconsistently; corrected the `ARS-348` citation to its own locked ranges;
 corrected the setting of Sena's near-kill from "a market square" to "a ship's deck," matching
-`MCD-1043`'s own boarding-deck setting.*
+`MCD-1043`'s own boarding-deck setting. Placed Batch 378, 2026-10-05: in the last month of age 313,
+after the Pier's 283rd anniversary, where Hask's two hundred and eighty-three years are exact
+(`MCD-1901`).*

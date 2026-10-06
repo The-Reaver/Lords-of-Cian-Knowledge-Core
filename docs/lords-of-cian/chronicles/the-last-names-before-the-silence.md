@@ -35,9 +35,11 @@ the door closed behind him.
 ---
 
 *Continuity notes (not narrative): an elegiac, deliberately quiet register building toward the
-Long Mask's established close (`MCD-1022`, age 314) without depicting or contradicting it -- centers
+Scourge persona's established close (`MCD-1022`, age 313) without depicting or contradicting it -- centers
 Garren Hask's advanced age and diminished but still-devoted role (`CC-115`/`116`), reusing Pell
 Ostra (`CC-132`/`133`) in a small continuity beat (the ground lens). No new named characters. Age
 308, V4 gear (`ARS-348`, debut age 241). Onyx of Oblivion correctly absent per its L9 seal throughout
 the Long Mask. Closes the Scourge's twenty-ninth wave (with "The Ruling That Changed Nothing,"
-`MCD-1250`, and "The Boy Who Grew Old Waiting," `MCD-1251`).*
+`MCD-1250`, and "The Boy Who Grew Old Waiting," `MCD-1251`). Placed Batch 378, 2026-10-05
+(MCD-1901): in the last 30 days of age 308, after the Pier's 278th anniversary, so the entry's two
+hundred and seventy-eight years of keeping the ledger hold exactly.*

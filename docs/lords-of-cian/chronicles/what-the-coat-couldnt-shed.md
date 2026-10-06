@@ -5,7 +5,7 @@ entry in the twenty-sixth wave. Rebellion era, age 27, the Rolling Foundry Campa
 gear-vulnerability entry showing real Mafesto plating damage and improvised field repair. Not a
 territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: the
 damaged item was originally written as the Forge-Coat's Dark-Drakma leather, gear that doesn't
-exist until the Long Mask (ages 33-284); the damage is now Mafesto's own Void-Lattice plating,
+exist until the Long Mask (ages 33-314); the damage is now Mafesto's own Void-Lattice plating,
 which is live and wearable at age 27.*
 
 ---

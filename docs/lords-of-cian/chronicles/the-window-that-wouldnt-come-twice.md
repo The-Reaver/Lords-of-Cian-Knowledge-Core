@@ -30,7 +30,7 @@ investigating a diversion that, by the time they understood it as one, no longer
 
 Efa Gol met him at the rail when it was done, the way she had a hundred times before, and said nothing
 about the folded coat or the three weeks of silence that had come before it. Garren Hask logged
-eighty-one names into a ledger that, by his own count, now ran past two hundred and eighty-three years
+eighty-one names into a ledger that, by his own count, now ran past two hundred and eighty-two years
 without missing a single one. Neither of them asked whether it had been worth choosing to stay for.
 The number, this time, was its own answer.
 
@@ -38,14 +38,14 @@ The number, this time, was its own answer.
 
 *Continuity notes (not narrative): direct fulfillment of the scouted, time-limited rescue window
 Efa Gol's successor brought Kanja on the night he nearly ended the persona a year early ("The Coat He
-Almost Didn't Put Back On," `MCD-1255`, age 313) -- the specific reason given then for putting the
+Almost Didn't Put Back On," `MCD-1255`, age 312) -- the specific reason given then for putting the
 coat back on rather than setting it aside. Kanja personally leads the field operation for the first
 time since handing full institutional trust to the successor (`MCD-904`, age 265; `MCD-1240`, age
 270), a deliberate one-time return to hands-on leadership tied to the personal stakes of this
 particular choice rather than a reversal of that established trust; the successor's own three-
 diversion doctrine (`MCD-1254`) is reused, not replaced. Reuses Efa Gol (`CC-130`/`131`), her
 established unnamed successor, Pell Ostra (`CC-132`/`133`), and Garren Hask (`CC-115`/`116`). Age
-313, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent per its L9 seal throughout
+313, V4 gear (`ARS-348` locks V4 at ages 180-313). Onyx of Oblivion correctly absent per its L9 seal throughout
 the Long Mask. First entry of the Scourge's thirty-first wave. No new named characters. Corrected
 Batch 321, 2026-10-02: softened the beach-liberation physical beat per Abad's ruling on Kanja's
 locked late-Long-Mask physical decline (`MCD-271`'s "good days vs. bad days"), shifting most of the
@@ -53,4 +53,7 @@ hands-on carrying to the successor's own people while Kanja opens the breach and
 changing the outcome (81 freed, under 40 minutes); corrected Garren Hask's ledger span from "two
 hundred and seventy-nine years" to "two hundred and eighty-three," using the age-30 anchor that
 reconciles this figure across all five entries that stated it inconsistently; corrected the
-`ARS-348` citation to its own locked ranges.*
+`ARS-348` citation to its own locked ranges. Corrected Batch 378, 2026-10-05: set in the first three
+weeks of age 313, three weeks after `MCD-1255` (`MCD-1901`); Garren Hask's ledger span moves from
+past two hundred and eighty-three to past two hundred and eighty-two years, matching the Pier date
+exactly.*

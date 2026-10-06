@@ -36,7 +36,7 @@ established recurring cast.
   origin of both the Hymn-Engine and the alias's own name/iconography.
 - `ARS-310` / `MCD-246` — The Hymn-Engine is one of four components of Kanja's **Pre-Awakening
   Theatrics System** (Forge-Coat, Hymn-Engine, Dead Drakma Decoys, Smoke-Pots), which he used to
-  sustain **the Scourge** persona across the entire 284-year Long Mask (ages 30–314). The
+  sustain **the Scourge** persona across the entire Long Mask of just over 283 years (ages 30–314). The
   Hymn-Engine's own technology therefore outlives the Crow King alias itself as a discrete
   Directorate classification and continues in active use for centuries under a different alias.
 - `MCD-299` — The crew's acoustic Hymn-synchronization is the direct descendant of Rexmar/Jicome
@@ -77,7 +77,7 @@ statement gives an explicit in-story age except `MCD-236` (age 23) and `MCD-989`
 age 30"). Several later-wave entries are explicit "full-Trinity combat showcases" (Mafesto, Onyx of
 Oblivion, Obsidian Malice) — e.g. `MCD-417` (wave 2), `MCD-495` (wave 4), `MCD-1045` (wave 20),
 `MCD-1078` (wave 21), `MCD-1484` (wave 34). Since the Trinity is surrendered at age 30 (`MCD-246`)
-and stays sealed throughout the entire 284-year Long Mask (per the Scourge's own locked precedent
+and stays sealed throughout the entire Long Mask of just over 283 years (per the Scourge's own locked precedent
 in the alias-track batch log), every full-Trinity showcase almost certainly sits within the pre-30
 Rebellion window regardless of its wave number — **wave number is drafting-batch order, not
 in-universe chronology.** Pure-deception/coordination entries with no Trinity combat could sit
@@ -206,7 +206,7 @@ era/register) and should be addressed explicitly in the pacing convention, not l
   escape Commandant Voris's encirclement; the coat-and-feather-crown scarecrow gives the alias both
   its name and its recurring iconography (further scarecrows recur at `MCD-383`, `MCD-860`).
 - The alias's core technology becomes a permanent component of Kanja's broader Pre-Awakening
-  Theatrics System (`ARS-310`), carried forward into **the Scourge's** 284-year Long Mask persona
+  Theatrics System (`ARS-310`), carried forward into **the Scourge's** Long Mask persona of just over 283 years
   rather than retired with the discrete "Crow King" Directorate classification.
 - Age 30: the Trinity is surrendered to the L9 vault (`MCD-246`) — the hard boundary separating this
   alias's Rebellion-era full-combat showcases from its post-30, Trinity-free deception/coordination

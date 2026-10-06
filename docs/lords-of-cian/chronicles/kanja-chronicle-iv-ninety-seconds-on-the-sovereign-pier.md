@@ -267,7 +267,7 @@ from the treaty (`MCD-246`). Onyx's narration completes `VB-026`'s handoff here 
 Voice Progression Sheet's Phase 3 (its close) voice throughout -- Onyx refers to itself as "the
 blade" from the first line to the last, and the closing line at the sealing ("So I began it." /
 "One.") is the single sanctioned first-person exception (`VB-063`). Nothing in this entry foreshadows the Fulfillment Ceremony or Maro
-Rexmar's death; the 284-vs-296-year interval question (open) is not touched. Under the amended
+Rexmar's death; the Pier-to-Ceremony interval (just over 283 years, `MCD-1901`) is not touched. Under the amended
 killing doctrine (`CC-161`), the nine deaths are an explicit, costed choice, the three
 spared an equally explicit one -- arithmetic, not rage, keeping the reserved post-Fulfillment
 "urge to destroy his enemies" untouched.*

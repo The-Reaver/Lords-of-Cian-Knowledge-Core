@@ -1,7 +1,7 @@
 # The Boy Who Didn't Know His Name
 
 *Locked canon, Batch 133, 2026-09-11 (`MCD-448`). The Scourge Alias Chronicle IX, closing the third
-wave. Long Mask era, age ~210, generations into the persona's 284-year span. Not a territory
+wave. Long Mask era, age ~210, generations into the Long Mask's span of just over 283 years. Not a territory
 Annals entry. New standalone material. Narrated in neutral third-person prose. No new named characters.*
 
 ---
@@ -41,7 +41,7 @@ had always needed to stay.
 
 *Continuity notes (not narrative): a quiet closer using the already-established quartermaster-persona
 device consistent with the Scourge's deliberate anonymity within his own crew across the Long Mask's
-284-year span, deliberately not naming Kanja on the page, matching the territory-Chronicle unnamed-
+span of just over 283 years, deliberately not naming Kanja on the page, matching the territory-Chronicle unnamed-
 guest convention adapted to this alias's own identity-concealment logic. No new named characters.
 Closes the Scourge's third three-Chronicle wave (with "The Siege of the Salt Keep," MCD-446, and
 "The Surrender That Cost No Blood," MCD-447).*

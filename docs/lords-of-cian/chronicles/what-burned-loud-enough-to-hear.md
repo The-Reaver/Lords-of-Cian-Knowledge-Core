@@ -5,7 +5,7 @@ A detailed Long-Mask-era gear showcase inside a burning warehouse, where fire's 
 silence, is the obstacle. Not a territory Annals entry. Corrected Batch 321, 2026-10-02: an earlier
 draft of this entry used Trinity-era gear and Onyx of Oblivion's named powers (Cadence Ruin, Veil
 Piercer, Soulbound Edge) despite this Chronicle's explicit anchor to "the fourth generation," whose
-own teaching lineage sits decades into the 284-year Long Mask, well after the Trinity's already-locked
+own teaching lineage sits decades into the Long Mask of just over 283 years, well after the Trinity's already-locked
 age-30 vault surrender (`MCD-246`) -- corrected below to Kanja's own Rexmar-Mar instinct, the
 Forge-Coat, Ironfall Boots, the Ironhand Gauntlets, and the Rexmar Machete, per `ARS-344` through
 `ARS-356`.*
@@ -59,7 +59,7 @@ disruption as the tactical hinge, and the first to invert "The Vault That Held N
 LIX, `MCD-1045`, wave 20) directly -- that entry's total silence (read by Onyx of Oblivion, correctly
 Trinity-era per that entry's own pre-age-30 placement) versus this entry's total, overwhelming noise,
 both defeated by the same acoustic/pressure-based reading rather than sight, though by different
-means given this entry's own placement deep in the 284-year Long Mask. Establishes structural
+means given this entry's own placement deep in the Long Mask of just over 283 years. Establishes structural
 fire/collapsing-building conditions as a new environmental register distinct from every prior terrain
 type. Corrected Batch 321, 2026-10-02: a detailed Long-Mask-era gear showcase, putting Kanja's own
 Rexmar-Mar instinct, the Forge-Coat, Ironfall Boots, the Ironhand Gauntlets, and the Rexmar Machete

@@ -41,10 +41,12 @@ still genuinely ambiguous answer rather than a clean close, consistent with the 
 established practice of deepening rather than resolving its most personal open threads. Extends Efa
 Gol's established post-retirement continuity (`MCD-807`, stepped back at age 150) into a late-life
 reflective register, paralleling Garren Hask's similar role in `MCD-414`/`493`/`1243`. No new named
-characters. Age 290, V4 gear (`ARS-348` locks V4 at ages 180-284). Onyx of Oblivion correctly absent
+characters. Age 290, V4 gear (`ARS-348` locks V4 at ages 180-313). Onyx of Oblivion correctly absent
 per its
 L9 seal throughout the Long Mask. Closes the Scourge's twenty-seventh wave (with "The Duel He Didn't
 Need Onyx For," `MCD-1244`, and "The River That Remembered the Rain," `MCD-1245`). Corrected Batch
 321, 2026-10-02: "forty years earlier" corrected to "a hundred and forty years earlier," matching
 Efa Gol's own locked age-150 step-back (`MCD-807`) against this entry's age 290; corrected the
-`ARS-348` citation to its own locked ranges.*
+`ARS-348` citation to its own locked ranges. Placed Batch 378, 2026-10-05 (MCD-1901): in the last 30
+days of age 290, after the Pier's 260th anniversary, so the entry's two-hundred-and-sixty-year span
+holds exactly.*

@@ -42,7 +42,7 @@ second psychology competing with Kanja's own core profile.
   Black Trench (age 19, Bane); Iron Shallows (age 19, no alias earned) established the terrain-
   physics doctrine the Blue-Collar Titan's own infrastructure-reading repeatedly extends.
 - `MCD-246` — At age 30, Kanja surrenders the full Trinity to the Karkosa L9 vault under his
-  father's peace deal; the 284-year Long Mask that follows runs on the Talisman of Mao/Aegis-
+  father's peace deal; the Long Mask that follows, just over 283 years, runs on the Talisman of Mao/Aegis-
   Talisman/Rexmar Machete instead (the Scourge's own gear-era). **This bounds the Blue-Collar
   Titan strictly to the Rebellion era (ages 18-30) with full Trinity access** — it has no Long
   Mask or Captain-era counterpart appearances.

@@ -5,7 +5,7 @@ the wave. Detailed Long Mask-era gear showcase -- the Forge-Coat, Ironfall Boots
 Gauntlets, and the Rexmar Machete, not the surrendered Trinity. Not a territory Annals entry.
 Corrected, Batch 314, 2026-09-28: an earlier draft of this file mistakenly used Trinity-era gear
 (Mafesto, Obsidian Malice, Onyx of Oblivion) despite this entry being set well after Kanja's
-already-locked age-30 surrender of the Trinity for the entire 284-year Long Mask era (`MCD-246`);
+already-locked age-30 surrender of the Trinity for the entire Long Mask era of just over 283 years (`MCD-246`);
 corrected to the actual Long Mask-era kit (`ARS-344` through `ARS-356`). Also corrected, Batch 320,
 2026-10-01: Corren Halst reconciled to he/him, matching `CC-158`.*
 

@@ -1,7 +1,7 @@
 # The Grandchildren of the Freed
 
 *Locked canon, Batch 186, 2026-09-11 (`MCD-545`). The Scourge Alias Chronicle XV, closing the fifth
-wave. Long Mask era, age ~200, generations into the persona's 284-year span. Not a territory
+wave. Long Mask era, age ~200, generations into the Long Mask's span of just over 283 years. Not a territory
 Annals entry. New standalone material. Narrated in neutral third-person prose. No new named
 characters.*
 

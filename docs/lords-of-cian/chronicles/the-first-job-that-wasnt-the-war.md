@@ -6,7 +6,7 @@ shock, the Ironhand Gauntlets scattering a boarding line through leverage and tr
 the Rexmar Machete wielded through Kanja's own swordsmanship and instinctive Rexmar-Mar tactical
 sense. Not a territory Annals entry. Corrected batch 314, 2026-09-28: an earlier draft mistakenly used
 Trinity-era gear (Mafesto, Obsidian Malice, Onyx of Oblivion), which Kanja surrendered to the vault
-at age 30 for the entire 284-year Long Mask (`MCD-246`) -- this scene, dated roughly five years after
+at age 30 for the entire Long Mask of just over 283 years (`MCD-246`) -- this scene, dated roughly five years after
 that surrender, could not have used it. Timestamp loosened Batch 321, 2026-10-02 (from "roughly 8.5
 months") so the seven-piece Long Mask-era gear system it already correctly uses (built ages 33-50,
 `ARS-344` through `356`) falls inside its own existence window; also corrects Corren Halst's pronoun

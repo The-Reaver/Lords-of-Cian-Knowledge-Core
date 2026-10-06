@@ -4,7 +4,7 @@
 Rebellion era, age 27, the Rolling Foundry Campaign (MCD-241). Not a territory Annals entry. Narrated in
 neutral third-person prose. Corrected Batch 321, 2026-10-02: removed a mistaken "repurposing the
 Forge-Coat's Smoke System" framing from the continuity notes -- that gear doesn't exist until the
-Long Mask, ages 33-284 -- and recast the chimney code as a plain, un-gear-cited signaling system,
+Long Mask, ages 33-314 -- and recast the chimney code as a plain, un-gear-cited signaling system,
 matching the narrative, which never claimed otherwise.*
 
 ---

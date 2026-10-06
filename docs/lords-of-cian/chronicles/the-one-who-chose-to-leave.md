@@ -44,7 +44,7 @@ named character (Rowan Vail, collision-checked clean against the full ledger bef
 reassigned rather than removed from continuity, following this sub-series' established practice of
 occasional justified new names within a single alias's own cast (`MCD-1043`'s Sena). Reuses Efa Gol
 (`CC-130`/`131`) and Garren Hask (`CC-115`/`116`) in established roles. Age
-198 places this within Forge-Coat V4 (`ARS-347`/`348` locks V4 at ages 180-284), Ironhand Gauntlets
+198 places this within Forge-Coat V4 (`ARS-347`/`348` locks V4 at ages 180-313), Ironhand Gauntlets
 V3 (`ARS-352`,
 ages 180-260), and Mend-Line still V2 (`ARS-355`, ages 100-200, just short of the V3 threshold at 200).
 No combat in this entry. Onyx of Oblivion correctly absent per its L9 seal throughout the Long Mask.

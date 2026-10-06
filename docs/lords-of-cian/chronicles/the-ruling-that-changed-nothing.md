@@ -39,7 +39,7 @@ build a box that fit a man they'd never once managed to actually catch.
 Tried to Name Him" (`MCD-1229`, age 98), over a century later -- the eventual ruling changes
 nothing operationally, a wry institutional-friction closer consistent with that entry's own point
 about ambiguity as protection. Extends Garren Hask's ledger-keeper role with a legal-tracking
-dimension. No new named characters. Age 200, V4 gear (`ARS-348` locks V4 at ages 180-284, which age
+dimension. No new named characters. Age 200, V4 gear (`ARS-348` locks V4 at ages 180-313, which age
 200 falls within). Onyx of Oblivion
 correctly absent per its L9 seal throughout the Long Mask. First entry in the Scourge's twenty-ninth
 wave. Corrected Batch 321, 2026-10-02: relabeled gear generation V3 -> V4 to match `ARS-348`'s own

@@ -39,7 +39,7 @@ Answer" (`MCD-810`, where a gear failure forced a fallback) -- here nothing fail
 purely internal, the extended duel itself creating pressure toward unsealing Onyx of Oblivion, and
 the seal holds through choice rather than necessity, reaffirming the L9 seal's established discipline
 across the Long Mask. No new named characters -- the bodyguard and captain are unnamed. Age 215, V4
-gear (`ARS-348` locks V4 at ages 180-284, which age 215 falls within). Onyx of Oblivion correctly
+gear (`ARS-348` locks V4 at ages 180-313, which age 215 falls within). Onyx of Oblivion correctly
 remains sealed throughout, as it must for
 the entirety of the Long Mask. First entry in the Scourge's twenty-seventh wave. Corrected Batch
 321, 2026-10-02: removed a false claim that the galleon fight (`MCD-381`, ages 48-52) predated "any

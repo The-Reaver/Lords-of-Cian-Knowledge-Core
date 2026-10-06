@@ -53,7 +53,7 @@ a successor) and every prior surrender-honored entry (`MCD-447`, `MCD-492`), whi
 doctrine succeeding rather than nearly failing from inside his own ranks. Sena is a new, minor,
 one-scene named character (a current crew member, not a captive-of-the-week); checked against the
 full live ledger for collisions and confirmed clean. V4 gear era (`ARS-348` locks V4 at ages
-180-284, which age 190 falls within), Onyx of Oblivion
+180-313, which age 190 falls within), Onyx of Oblivion
 correctly absent per its L9 seal. Closes the Scourge's twentieth wave (with "The Three-Cornered
 Fight," `MCD-1041`, and "The Ones Too Young to Say Where From," `MCD-1042`). Corrected Batch 321,
 2026-10-02: relabeled gear generation V3 -> V4 to match `ARS-348`'s own locked ranges.*

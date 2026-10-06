@@ -48,11 +48,11 @@ skill or luck. Resolved without punishment of the informant, deliberately left o
 caught nor named), extending the sub-series' established preference for honest, unresolved ledger
 entries over tidy closure (`MCD-1231`, `MCD-1254`). Reuses Efa Gol's established unnamed successor
 (`MCD-904`/`1240`/`1254`) and Garren Hask (`CC-115`/`116`) in established roles. Age 205 places this
-within Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-284) and Ironhand Gauntlets
+within Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-313) and Ironhand Gauntlets
 V3
 (`ARS-352`, ages 180-260). Onyx of Oblivion, Mafesto, and Obsidian Malice correctly absent per the
 Trinity's age-30 surrender (`MCD-246`). No new named characters.
 Does not touch, restage, or contradict the already-locked final night of the persona (`MCD-1022`,
-age 314, and its immediate approach at `MCD-1406`-`1408`). Corrected Batch 321, 2026-10-02: removed
+age 313, and its immediate approach at `MCD-1406`-`1408`). Corrected Batch 321, 2026-10-02: removed
 an anachronistic Mafesto reference, swapped for the Forge-Coat's grounding weave; relabeled
 Forge-Coat/Sovereign Eyes gear generation V3 -> V4 to match `ARS-348`'s own locked ranges.*

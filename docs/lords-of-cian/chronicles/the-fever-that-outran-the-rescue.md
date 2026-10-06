@@ -38,7 +38,7 @@ threat at all and the failure is purely a limit of timing against disease, with 
 (`ARS-355`) explicitly and correctly unable to help, consistent with its established scope
 ("manages bleeding and structural damage only -- not pain, organ repair, or concussive injury," which
 this entry extends to exclude illness as well, a logical reading rather than a contradiction). No new
-named characters. Age 205, V4 gear (`ARS-348` locks V4 at ages 180-284, which age 205 falls within).
+named characters. Age 205, V4 gear (`ARS-348` locks V4 at ages 180-313, which age 205 falls within).
 Onyx of Oblivion correctly absent per
 its L9 seal throughout the Long Mask. Corrected Batch 321, 2026-10-02: relabeled gear generation
 V3 -> V4 to match `ARS-348`'s own locked ranges.*

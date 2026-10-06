@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 122, 2026-09-11 (`MCD-413`). The Scourge Alias Chronicle IV, first entry in
 the second wave. Long Mask era, the Golden Terror period (ages 80-180, `ARS-348`). A detailed
-showcase of the mature V3 loadout. Onyx remains sealed at L9 for the full 284-year Long Mask period
+showcase of the mature V3 loadout. Onyx remains sealed at L9 for the full Long Mask period of just over 283 years
 (`MCD-246`) and does not appear. Not a territory Annals entry. New standalone material.
 Narrated in neutral third-person prose. No new named characters. Corrected Batch 321, 2026-10-02:
 the Onyx-seal citation corrected from "MCD-267-area" to `MCD-246`.*

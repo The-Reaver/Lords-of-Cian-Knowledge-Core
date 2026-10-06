@@ -1,6 +1,6 @@
 # The Storm They Read Backward
 
-*Locked canon, Batch 285, 2026-09-11 (`MCD-1511`). Storm That Walks Alias Chronicle C, wave 34, first entry in the wave -- the alias's hundredth Chronicle. The doctrine is used forensically for the first time: reconstructing a storm that already happened, rather than predicting one that hasn't, to locate survivors of a vessel that never consulted the school before it sailed. Corrected Batch 321, 2026-10-02: an earlier draft staged the rescue using Trinity-era gear and powers, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit.*
+*Locked canon, Batch 285, 2026-09-11 (`MCD-1511`). Storm That Walks Alias Chronicle C, wave 34, first entry in the wave -- the alias's hundredth Chronicle. The doctrine is used forensically for the first time: reconstructing a storm that already happened, rather than predicting one that hasn't, to locate survivors of a vessel that never consulted the school before it sailed. Corrected Batch 321, 2026-10-02: an earlier draft staged the rescue using Trinity-era gear and powers, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The Order He Didn't Question
 
-*Locked canon, Batch 192, 2026-09-11 (`MCD-589`). The Storm That Walks Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (the seven-piece post-Mafesto gear system, `ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense).*
+*Locked canon, Batch 192, 2026-09-11 (`MCD-589`). The Storm That Walks Alias Chronicle XLIV, wave 15 of the ten-wave sixth-through-fifteenth run. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (the seven-piece post-Mafesto gear system, `ARS-344` through `ARS-356`, plus the Rexmar Machete and his own instinctive Rexmar-Mar tactical sense).*
 
 ---
 

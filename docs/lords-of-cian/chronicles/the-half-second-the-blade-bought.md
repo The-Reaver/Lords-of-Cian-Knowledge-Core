@@ -37,11 +37,11 @@ had answered when nothing else in the loadout could have.
 
 *Continuity notes (not narrative): the first detailed, in-action dramatization anywhere in the
 sub-series of the Ironfall Boots' retractable heel blade (`ARS-353`, "deployed eleven times across
-284 years, saving Kanja's life or freedom in nine of them"), framed here as the established eleventh
+the Long Mask of just over 283 years, saving Kanja's life or freedom in nine of them"), framed here as the established eleventh
 and final deployment and one of the nine life/freedom-saving uses, consistent with the existing count
 rather than contradicting it. A genuine near-miss/failure-averted register distinct from every prior combat
 showcase. No new named characters — the guards are unnamed. Age 238, V4 gear (`ARS-348` locks V4 at
-ages 180-284, which age 238 falls within). Onyx of Oblivion, Mafesto, and Obsidian Malice correctly
+ages 180-313, which age 238 falls within). Onyx of Oblivion, Mafesto, and Obsidian Malice correctly
 absent per the Trinity's age-30 surrender (`MCD-246`). First entry in the Scourge's twenty-fourth
 wave. Corrected Batch 321, 2026-10-02: fixed a self-contradicting deployment count ("eleven times...
 This became the tenth" -> the eleventh and final trigger); relabeled gear generation V3 -> V4

@@ -113,6 +113,7 @@ in context.)
   workers' testimony into a documented, deliberately unpayable debt structure.
 - `MCD-070` — Book 1, "The Deposed King": Ezio and Fermand investigate the Fulfillment Ceremony's
   double regicide, hired by Ozmund. Three acts: Investigation → 10-Day Interregnum → Karkosa Heist.
+  [Added Batch 378 (`MCD-070` amended): the Investigation opens at the murder and runs on through the Interregnum, which opens the next day (`MCD-1901`); the acts are narrative movements and overlap in time.]
 - `CULT-044` / `CULT-053` / `CULT-071` / `CULT-075` / `CULT-080` / `CULT-081` / `MCD-1853` — the
   Book 1 investigation's actual texture: an eleven-minute death-certificate filing anomaly he
   finds first; a dead Fraction analyst's buried evidence of SBD leadership's advance knowledge; a

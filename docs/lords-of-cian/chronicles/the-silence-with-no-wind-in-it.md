@@ -1,6 +1,6 @@
 # The Silence With No Wind In It
 
-*Locked canon, Batch 263, 2026-09-11 (`MCD-1338`). Storm That Walks Alias Chronicle LXV, wave 22. A detailed Long Mask-era gear combat showcase in total windless fog -- the smuggling faction from Chronicle LVIII (`MCD-1053`) returns, this time exploiting the one condition the storm-timing doctrine was never built to read. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete).*
+*Locked canon, Batch 263, 2026-09-11 (`MCD-1338`). Storm That Walks Alias Chronicle LXV, wave 22. A detailed Long Mask-era gear combat showcase in total windless fog -- the smuggling faction from Chronicle LVIII (`MCD-1053`) returns, this time exploiting the one condition the storm-timing doctrine was never built to read. Corrected Batch 321, 2026-10-02: an earlier draft staged this as a full-Trinity showcase, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete).*
 
 ---
 

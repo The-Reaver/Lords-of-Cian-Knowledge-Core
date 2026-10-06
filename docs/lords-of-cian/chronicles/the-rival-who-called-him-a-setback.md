@@ -41,7 +41,7 @@ reform) left honestly unresolved rather than one side proven right. Extends the 
 self-restraint already established in "The Contract He Wouldn't Sign" (`MCD-1017`) and "The
 Three-Cornered Fight" (`MCD-1041`) into a voluntary operational narrowing, not imposed by any
 authority. The three advocates are unnamed and one-scene. No new named characters. Age 190, V4 gear
-(`ARS-348` locks V4 at ages 180-284, which age 190 falls within). Onyx of Oblivion correctly absent
+(`ARS-348` locks V4 at ages 180-313, which age 190 falls within). Onyx of Oblivion correctly absent
 per its L9 seal throughout the Long
 Mask. Corrected Batch 321, 2026-10-02: relabeled gear generation V3 -> V4 to match `ARS-348`'s own
 locked ranges.*

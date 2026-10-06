@@ -14,23 +14,22 @@ from.
 
 ## Part 1 — Foundations. Rule these first, because other items depend on them.
 
-**1. Book 1's offset from the Sovereign Pier: 284 or 296 years?**
-- **Recommend 284, so Kanja is 314 at Book 1.** 296 is arithmetically impossible: it would put the
-  Fulfillment Ceremony after the Pi-Awakening, which `CC-006` sets at age 314 and `WC-022` places
-  inside Book 1.
-- Ten or more rules already assume 284: `CC-005`, `ARS-437` ("Onyx reads 284 years"), `MCD-269`,
-  `CC-110`, `MCD-214`, `MCD-226`, `MCD-305`, `MCD-260`, and Maw Era IV.
-- The Batch 56 ruling that `MCD-091` controls rested on a mistaken belief that the 284 years were a
-  different interval from the Long Mask. This item reverses that ruling.
-- Scope: `MCD-091`, `ARS-010`, and `CC-101` ("24-36" becomes "24"), plus seven docs.
-- Alternative: none that holds together.
+**1. Book 1's offset from the Sovereign Pier. RESOLVED, Batch 378 (`MCD-1901`).**
+- Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on the last day
+  of his age 313. The Pi-Awakening stays at age 314 (`CC-006`) and comes after his 314th birthday: "the
+  Long mask has to be after his 314th birthday." The Long Mask runs from the Sovereign Pier to the
+  pendant's severing at the Awakening: "The Long Mask lasts just over 283 years." The Accords are
+  broken by the murder, a week earlier.
+- This supersedes the Batch 56 ruling that `MCD-091`'s 296 controls. Every rule, entry and doc
+  that stated 284 or 296 is listed in Batch 378's note.
 
 **2. How long do ordinary humans live?** No rule ever says. That gap is why Garren Hask dies at
 Kanja age 50-55 on the Captain track and is alive at 313 on the Scourge and Lauris tracks.
 - **Recommend:** ordinary humans live about 300-400 years. They reach adulthood on a normal schedule,
   then decline slowly over centuries. This is already implied by `MCD-414`, `PH2-048`, and Tomas
   Grieve at 190 (`CC-124`).
-- **Hask's death moves to late in Kanja's 313th year.** The rules that move are `MCD-1422` (death),
+- **Hask's death moves to the last month of Kanja's age 313: after `MCD-1408`, where he is alive, and
+  before the Fulfillment Ceremony on the last day of that age (`MCD-1901`).** The rules that move are `MCD-1422` (death),
   `MCD-1423` (memorial), and `MCD-1486` (the Crow King echo). They become the Captain track's last
   beats in story order.
 - Knock-on changes:
@@ -41,8 +40,9 @@ Kanja age 50-55 on the Captain track and is alive at 313 on the Scourge and Laur
   - The Lauris dockside entries (LV-LIX, CII, CVIII, CIX) are then read as set between about Kanja 260
     and 313.
 - Scope: 2 new rules, about 16 rule statements, about 12 entries, 3 docs.
-- Alternative: he dies the morning after the last coat. That needs no Scourge edits, but it lands in
-  Book 1's own year.
+- Alternative: he dies the morning after the last coat (`MCD-1022`). That needs no Scourge edits. Under
+  Batch 378 the coat night falls in the same last month, before the Ceremony, so this too lands before
+  Book 1.
 
 ## Part 2 — Timeline
 
@@ -68,7 +68,8 @@ caldera settlement.
 
 **6. Ezio's true age.** `CC-028` says 75. `MCD-373`, manuscript Chronicle VIII, `MCD-194`, and
 `MCD-1661` all imply more.
-- **Recommend about 309, five years younger than Kanja.** This follows from item 1.
+- **Recommend about 308, five years younger than Kanja.** This follows from item 1: Kanja is 313 at
+  the Fulfillment Ceremony (`MCD-1901`).
 - Scope: `CC-028` and the Ezio profile.
 
 **7. Is Fermand a sixth person who knows Ezio's classified capability?**
@@ -265,7 +266,7 @@ track has Sephtis fake his death during the Long Mask and live on in disguise, b
 whole lineage and the fleet. But locked canon also has him openly with the crew from Lauris's arrival
 (about Kanja 114) through the present day: Lauris's "Sephtis on day one" (`MCD-195`), her closest
 alliance aboard (`MCD-206`), the joint archive (`MCD-212`), present-day scenes (`MCD-1565`), and
-24 years of knowing Pyro's father (`CC-110`).
+23 years of knowing Pyro's father (`CC-110`).
 - The locked Chronicle says it plainly: "What none of them — not she, not Kanja, not the fleet that
   mourned him at the rail — ever came to learn" (`the-sky-the-day-they-buried-him.md`).
 - **Recommend:** the withdrawal was from the forecasting lineage's public life only. Kanja and the

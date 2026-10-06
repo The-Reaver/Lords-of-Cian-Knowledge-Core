@@ -58,7 +58,7 @@ time within the Scourge sub-series specifically. A moral-complexity/craft entry 
 prior combat showcase: the tension is entirely technical and precision-based (a shared wall with an
 uninvolved nursery on the other side), not a fight. Includes a brief, unnamed apprentice as a light
 generational-transmission beat, deliberately left unnamed to avoid adding a new named character. Age
-235, Forge-Coat/gear generation V4 (`ARS-348` locks V4 at ages 180-284, which age 235 falls within)
+235, Forge-Coat/gear generation V4 (`ARS-348` locks V4 at ages 180-313, which age 235 falls within)
 -- placed before Efa Gol's later-established V4-era reduced role and consistent
 with Garren Hask's own established "elderly but still active" continuity. Onyx of Oblivion correctly
 absent per its L9 seal throughout the Long Mask. No new named characters. Closes the Scourge's

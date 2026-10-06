@@ -1,6 +1,6 @@
 # Batch 378 draft: the Long Mask, the Accords and Book 1 on one clock
 
-*UNLOCKED DRAFT, revision 16, for Abad's approval, 2026-10-06. Revision 2 was revised for Abad's ruling that
+*Locked, Batch 378, 2026-10-06. Abad: "lock it", in reply to the presentation of revision 16 that listed items (a) to (g) of "Covered only by the final approval" by name. Revision 16, for Abad's approval, 2026-10-06. Revision 2 was revised for Abad's ruling that
 the Long Mask ends after his 314th birthday. Revision 3 followed an independent review that came back not
 clean. Revision 4 carries Abad's later confirmations and keeps the rule statements free of status labels. Revision 5 follows a second independent review and carries
 Abad's confirmation of the Interregnum counting. Revision 6 carries Abad's answers on the murder's day, the Kanja VII cut, the

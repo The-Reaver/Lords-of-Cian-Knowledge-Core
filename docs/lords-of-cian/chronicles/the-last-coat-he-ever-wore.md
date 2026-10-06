@@ -22,8 +22,8 @@ do, that they were the last to see it happen.
 It was after, on the walk back to the boats, that the thought finally settled into something he could
 say out loud, to no one in particular, quiet enough that only the successor beside him caught it.
 
-"Two hundred and eighty-four years," he said. "That's how long the Long Mask has run, since a morning
-on a burned wharf set its shape — not planned, not chosen, just the thing it became."
+"Two hundred and eighty-three years," he said. "That's how long the mask has run since the Pier. A
+morning on a burned wharf set its shape."
 
 "You're saying it's done."
 
@@ -41,8 +41,8 @@ back on in the morning.
 alias's own arc — the first Chronicle to dramatize the actual final liberation mission and the literal
 moment the coat comes off, rather than reflecting on the end in the abstract as "What Ends When the
 Mask Comes Off" (MCD-493) and "The Weight the Mask Kept Count Of" (MCD-813) both already did.
-Deliberately states only that the 284-year span (MCD-246, ARS-310) has run its course and that Kanja
-chooses to end it consciously rather than let it drift into unexamined habit; deliberately does not
+Deliberately states only that the mask has run two hundred and eighty-three years since the Pier (MCD-246, ARS-310, MCD-1901) and that Kanja
+chooses to end the Scourge persona consciously rather than let it drift into unexamined habit; deliberately does not
 name what alias or era follows, leaving that open for whichever future material addresses it. Efa
 Gol's already-established, still-unnamed successor appears, aged accordingly. No new named
 characters. Closes the Scourge's nineteenth wave (with "The Family He Helped Her Find" and "The Night
@@ -52,4 +52,8 @@ itself rather than to Ash-Wharf (age 22) directly -- 314-22 is 292 years, not 28
 cannot share a single number; and softened the boarding-action physical beats per Abad's ruling on
 Kanja's locked late-Long-Mask physical decline (`MCD-271`'s "good days vs. bad days"), shifting the
 hands-on work to the successor while Kanja directs and assists, without changing the outcome (94
-freed, within the hour).*
+freed, within the hour). Corrected Batch 378, 2026-10-05: set at age 313, in the last month before
+the Fulfillment Ceremony (`MCD-1901`), so Kanja's spoken count moves from two hundred and
+eighty-four to two hundred and eighty-three years. The coat night ends the Scourge persona by his
+choice; the Long Mask itself ends later, at the pendant's severing on the sixth day after his 314th
+birthday (`CC-005`, `MCD-1901`).*

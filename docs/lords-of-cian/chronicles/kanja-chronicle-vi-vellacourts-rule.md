@@ -17,9 +17,9 @@ collision-checked clean against the full ledger and Chronicle corpus. No child-s
 
 ---
 
-Dark Ledger. 584,928,000 seconds.
+Dark Ledger. 555,984,000 seconds.
 
-Eighteen years of count stand behind it. The blade logged no kill jolt in all that count. It logged sleep, fevers, the strain of hauling and rowing, wounds that opened and closed. Nothing more.
+Seventeen years of count stand behind it. The blade logged no kill jolt in all that count. It logged sleep, fevers, the strain of hauling and rowing, wounds that opened and closed. Nothing more.
 
 Then the entry.
 
@@ -279,7 +279,7 @@ The cost to the Captain: a scar inside the left wrist. Thirty-two years on, the 
 
 The heart did not rise. The blade logged it as unmoved. Now the blade knows the season behind it. A whole season spent on hulls, valves, cold water, and the length of one breath. The work was finished before the deck. Nothing was left over to rise.
 
-Five hundred eighty-four million, nine hundred twenty-eight thousand seconds. One kill jolt. Cause entered.
+Five hundred fifty-five million, nine hundred eighty-four thousand seconds. One kill jolt. Cause entered.
 
 The blade records.
 
@@ -288,7 +288,7 @@ The blade records.
 *Continuity notes (not narrative): set at age 48, the opening act of the Pirate Dawn (ages 48-52),
 some weeks before the Night of Black Sails (`MCD-250`). Kanja's first kill since the Sovereign Pier
 (age 30, `MCD-1880`); ages 31-47 are kill-free by his own hand per `MCD-1882` as amended Batch 356,
-and the Dark Ledger opening states eighteen years of count with no kill jolt. The black
+and the Dark Ledger opening states seventeen years of count with no kill jolt. The black
 Dead-Drakma-thread sailcloth and the Gale Straits crescent formation are deliberately NOT shown --
 Kanja's ship flies plain canvas, and the black sails are referenced only afterward as arriving weeks
 later, their reason left untold ("The reason is his"), per `MCD-250` as amended Batch 321. Does not
@@ -299,7 +299,7 @@ is "the Captain" throughout narration; articles kept; the account is in present 
 past-tense Dark Ledger frame; Iron/Rust verdicts delivered by the blade; the maxim used once, as
 the blade's own; no equivocation, no narrator emotional display; the word "spike" is absent (the
 Heartline signal is a "kill jolt" per `ARS-437` as amended Batch 357). Dark Ledger count exact:
-584,928,000 seconds from the Sovereign Pier treaty on a 365-day year (`VB-063`). Onyx states it was
+555,984,000 seconds from the Sovereign Pier treaty on a 365-day year (`VB-063`). Onyx states it was
 sealed and not present; its knowledge comes from the restored Heartline once "his hand found the
 grip again" (`ARS-437`) and from Mordane's public account. The reunion and Book 1 are never
 dramatized. Killing per `CC-161` as amended Batches 355-356: the Captain states terms once ("Sit.
@@ -333,4 +333,6 @@ foreshadows the Fulfillment Ceremony, Maro Rexmar's death, the Pi-Awakening, or 
 named characters: Teshar Vellacourt, Mordane -- zero hits in canon-ledger.json or the Chronicle
 corpus; nearest neighbors Mordecai the Harvest and Tessin, judged distinct. All numbers (340 freed,
 612 drowned, 40 crew, nine copied levers, eleven/thirty years) are new to this entry and contradict
-no locked figure.*
+no locked figure. Corrected Batch 378, 2026-10-05: the Dark Ledger count and the years of count
+recomputed from the Pier's date, 30 days before Kanja's 31st birthday (`MCD-1901`); the age and the
+moment within it are unchanged.*

@@ -98,8 +98,8 @@ statement (the ledger is the source of truth for exact wording).
 | 296 | The Pyro Incident (Triad thermal management first seen) | `MCD-277` | ~6 |
 | 304 | The Final Forge (Kanja's last forging) | `MCD-277` | ~14 |
 | 308 | The Scourge's Heir (food healing proven) | `MCD-272` | ~18 |
-| 314 | The Last Breakfast; Long Mask ends; Pi-Awakening | `MCD-277`, `CC-005` | ~24 |
-| Book 1 opening | Fulfillment Ceremony | `MCD-091` | ~24 or ~36 (see below) |
+| 313 (last day) | Fulfillment Ceremony; Maro and Aethelgard murdered | `MCD-091`, `MCD-1901` | 23 (`CC-101`) |
+| 314 (sixth day after the birthday) | The Last Breakfast; Long Mask ends; Pi-Awakening | `MCD-277`, `CC-005`, `MCD-1901` | 23 (24 only if born on or within six days after Kanja's 290th birthday) |
 
 [Batch 378, MCD-1901: Kanja 313 at the Ceremony, Pyro 23; the options below are kept as the record of the choice.]
 
@@ -262,9 +262,18 @@ Book 1's offset from the Sovereign Pier (Kanja age 30, `MCD-246`) is an open que
 - His grandfather Maro dies at the opening (`MCD-025`/`091`).
 - `MCD-277` — The Last Breakfast (Kanja 314). It closes the Long Mask "as the Shimmer and the Gilded
   Lighthouse's pendant activate"; the pendant's severing triggers the Pi-Awakening (`CC-005`), which
-  `WC-022` places after the murder and the 10-Day Interregnum. Under A1 option 1 or 3, the meal is therefore a
+  falls inside the 10-Day Interregnum, on its seventh day, after the murder (`WC-022` as amended, `MCD-1901`). The meal is therefore a
   Book 1 beat after Maro's death under either B16 option, outside this series' window; no pre-Book-1 entry stages it or references
-  Kanja's grief at it (`CC-161`, `ARS-437`). It is his only locked Book 1 beat.
+  Kanja's grief at it (`CC-161`, `ARS-437`).
+- `MCD-1904` — The Pi-Awakening's trigger: the Last Breakfast is the ceremonial breakfast of Maro and Kanja, held on the day in the
+  upper room of the Gilded Lighthouse, with Pyro serving as the cook. The Three Ronin strike during the meal, and the surge that answers
+  the threat snaps the pendant.
+- `MCD-1905` — The Rexmar lineage honors the cook. Maro knows Pyro is his grandson, and Maro and Kanja both know why Pyro always joins the
+  breakfast and never tell him. Entries set before Book 1 may show Maro, Kanja and Pyro at their ceremonial breakfasts, without singling
+  out the fixed hour as a vulnerability (`MCD-1904`); the Last Breakfast and what happens there stay reserved (`MCD-1902`, `MCD-1904`).
+- `MCD-1907` — The second attempt, after the Karkosa Heist and before the Great Breach: the Quiet Hand with a savage team of animals under
+  one Beast Master. Kanja, Pyro and the Triad meet it unleashed, within every limit already locked for each of them (`MCD-223`).
+  These three are his locked Book 1 beats.
 
 **Book 3, "The Dark Monarch"**
 - `MCD-093` / `CC-123` / `CC-125` / `CC-126` — Nelle Adessi's clinic is his one room outside war; the
@@ -312,9 +321,9 @@ characterization, not a competing invention.
 - Silent overlap: several locked entries are set inside Pyro's lifetime (Kanja 290-314) and never
   mention him — among them `MCD-1246` and `MCD-814` (age 290), `MCD-1251` (292), `MCD-493`, `MCD-1243` and `MCD-815` (300),
   `MCD-1900` (an Anirak Collection, roughly 300), `MCD-813` (305), `MCD-1252` (308), `MCD-1253`
-  (310), `MCD-1254` (312), `MCD-1255`, `MCD-1406` and `MCD-1407` (313), `MCD-1408` (314), and
-  `MCD-1022` ("The Last Coat He Ever Wore," 314, the night
-  the Scourge coat comes off — the same year as the Last Breakfast, `MCD-277`). `MCD-1472` (age 275)
+  (310), `MCD-1254` and `MCD-1255` (312), `MCD-1406`, `MCD-1407` and `MCD-1408` (313), and
+  `MCD-1022` ("The Last Coat He Ever Wore," 313, the night
+  the Scourge coat comes off, in the last month before the Fulfillment Ceremony, `MCD-1901`; the Last Breakfast, `MCD-277`, follows the Ceremony by seven days). `MCD-1472` (age 275)
   and `MCD-1477` (age 258) fall before his birth.
 - One line in that corpus touches his parentage. In `MCD-813` (age 305), Kanja, alone, counts his
   years under the persona. The entry's count, "Two hundred and eighty-three years after a coat had
@@ -345,9 +354,13 @@ resolved here.
    it: `CC-005` "Long Mask persona lasted 284 years, ending when the Gravity-Fetter pendant was severed"
    + `MCD-277` "The Last Breakfast (314) closes the Long Mask on Pyro serving Kanja stew" + `WC-022`
    Book 1 includes the "Pi-Awakening" (Pyro ~24). `CC-101` hedges: "roughly 24-36 at Book 1."
+   [Resolved Batch 378: `MCD-091` now reads "just over 283 years"; Kanja is 313 at the Ceremony and Pyro is 23 (`MCD-1901`,
+   `CC-101` as amended). The figures above are the pre-Batch 378 record.]
 2. **When Sephtis learned.** `CC-110`: "He has known Kanja is Pyro's father for 24 years." On the
    284 reading that is since birth; on the 296 reading, since Pyro was ~12. Neither rule says how he
    learned (`CC-110`'s Chrono-Anchor bells only verify claims against his own memory).
+   [Resolved Batch 378: `CC-110` now reads "for 23 years", counted from the birth in Kanja's age 290 (`MCD-1901`). The quote
+   above is the pre-Batch 378 text, and the 296 reading is withdrawn.]
 3. **Who knows, versus what the records say.** `CC-047`: Pyro "does not know his own parentage";
    `CC-079`: Kanja "hides it from Pyro." But in-world records name the mother as Kanja's wife:
    `CC-046` "Kanja's first and only wife"; `SBD-041` "Kanja's wife killed by an anomaly-class
@@ -381,7 +394,7 @@ resolved here.
    physically in it, is not stated.
 8. **T.D.K. acting during dormancy.** `MCD-070`: the Great Breach (Book 1 epilogue) is when "T.D.K.'s
    5,000-year dormancy ends." Yet `CC-046`/`MCD-136` have T.D.K. install a curse in response to her
-   discovery about 24 years before Book 1. `CULT-008` (SBD built on his legacy architecture with
+   discovery about 23 years before Book 1. `CULT-008` (SBD built on his legacy architecture with
    backdoors) could bridge this, but no rule says the curse was automatic or legacy.
 9. **Kanja's distance and consent.** `MCD-270`: Kanja "required to stay 12km away" at the birth.
    `CC-045`: Stormbreaker fought the Demaron "with Kanja's consent." Compatible only if consent was
@@ -410,7 +423,7 @@ resolved here.
     an heir, and on what grounds.
 16. **The Rexmar name on him.** `ARS-190`/`ARS-421` give a boy who does not know he is a Rexmar an item
     called "the Rexmar Apron." Whether that name is in-world, who gave it, and why are unstated.
-17. **Maturation and child-safety.** He is roughly 0-24 across Kanja 290-314. `MCD-277`'s Pyro Incident
+17. **Maturation and child-safety.** He is roughly 0-23 across Kanja 290-313. `MCD-277`'s Pyro Incident
     puts him at ~6; `MCD-272` at ~18. No rule locks his maturation rate (his biology is part Karesian
     via `MCD-101`, Thermal Variant, and Dhar-Kael-bonded). `CC-101` calls Abyss "the crew's youngest
     adult recruit" and says Pyro "is younger," leaving open whether Pyro counts as an adult even at
@@ -421,22 +434,24 @@ resolved here.
     `ARS-437` (the Heartline) carries body signals only, and Onyx was sealed at L9 for Pyro's entire
     pre-Book-1 life. No rule says what, if anything, the Dark Ledger logged at Kanja 290, when Kanja
     was 12km away from his son's birth.
-19. **Book 1-4 placement.** Apart from the Last Breakfast (`MCD-277`), Book 3's Nelle beats
-    (`CC-123`/`126`), and Book 5 (`MCD-097`/`221`/`223`), no Book 1, 2, or 4 role for Pyro is locked.
-    The Triad have no locked book-level beat at all.
+19. **Book 1-4 placement.** Apart from the Last Breakfast (`MCD-277`, `MCD-1904`, `MCD-1905`), the second attempt (`MCD-1907`), Book 3's Nelle beats
+    (`CC-123`/`126`), and Book 5 (`MCD-097`/`221`/`223`), no other Book 1, 2, or 4 role for Pyro is locked.
+    The Triad's only locked book-level beat is the second attempt (`MCD-1907`).
 20. **Corpus silence.** Zero entries mention Pyro or the Triad, though locked entries cover Kanja
-    290-314 (`MCD-1246`, `MCD-814`, `MCD-1251`, `MCD-493`, `MCD-1243`, `MCD-815`, `MCD-1900`, `MCD-813`,
+    290-313 (`MCD-1246`, `MCD-814`, `MCD-1251`, `MCD-493`, `MCD-1243`, `MCD-815`, `MCD-1900`, `MCD-813`,
     `MCD-1252`, `MCD-1253`, `MCD-1254`, `MCD-1255`, `MCD-1406`, `MCD-1407`, `MCD-1408`, `MCD-1022`). Whether
     their silence means he was off the page or absent from the fleet is unstated; a two-ton courser
     and a raptor with a 27-foot wingspan living aboard would be hard to leave out of a scene.
-21. **How the Long Mask ends.** `MCD-1022`: at Kanja 314 the coat comes off for good, "ending the
-    span by conscious choice." Against it: `CC-005`, the Long Mask lasted 284 years, "ending when the
-    Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening";
+21. **How the Long Mask ends.** `MCD-1022`: at Kanja 313 the coat comes off for good, "ending the
+    span by conscious choice" (pre-Batch 378 text; `MCD-1022` now reads "ending the Scourge persona by conscious choice"). Against it: `CC-005`, the Long Mask lasted 284 years, "ending when the
+    Gravity-Fetter pendant was severed at the Gilded Lighthouse, triggering the Pi-Awakening" (pre-Batch 378 text; `CC-005` now reads "lasted just over 283 years, ending when the Gravity-Fetter pendant was severed at the Gilded Lighthouse on the sixth day after his 314th birthday, triggering the Pi-Awakening");
     `MCD-277`, "The Last Breakfast (314) closes the Long Mask on Pyro serving Kanja stew as the
     Shimmer and the Gilded Lighthouse's pendant activate." A chosen ending on the night of the last
     coat and an ending at the pendant's severing are not reconciled (B16). The Last Breakfast's place
     after the Fulfillment Ceremony (read from `CC-005` and `WC-022`) holds under either way of
     reconciling them, and the series window's end at the Ceremony stands either way.
+    [Resolved Batch 378: `MCD-1022` ends the Scourge persona on the coat night at Kanja 313; `CC-005`/`MCD-1901` end the Long Mask
+    at the pendant's severing on the sixth day after his 314th birthday (B16 option (a)).]
 
 ---
 
@@ -489,8 +504,8 @@ written under the recommended answer; where a facet rests on one, it says so.
   Approval-list item 2 recommends the same normal schedule to adulthood for ordinary humans. Under
   every A1 option (his pre-Book-1 ages run off Kanja's clock) this makes Pyro about six at the Pyro
   Incident (Kanja 296, `MCD-277`), about eighteen at the Scourge's Heir (Kanja 308, `MCD-272`), and
-  about 24 at the Last Breakfast (`MCD-277`; at 314 on every A1 option except option 2's
-  `CC-006` route). Cost: no locked rule goes stale.
+  23 (24 only if born on or within six days after Kanja's 290th birthday) at the Last Breakfast (`MCD-277`; at 314 on every
+  A1 option except option 2's `CC-006` route). Cost: no locked rule goes stale.
 - **Option 2, a new fact:** a slowed schedule from his Karesian line. Under A1 option 1 he would be
   a minor through Book 1, which puts the child-safety hard stop over every Book-1-era scene. Cost:
   how many books past Book 1 he stays a minor then depends on a slowing rate the new fact itself
@@ -521,7 +536,7 @@ center of the profile.
   the fleet reached them is a new fact (for instance, through her SBD handlers, `MCD-136`). Home:
   the same clauses on `CC-047` and `CC-079`. Cost: she sailed openly with the fleet from Kanja 96 (`MCD-277`), and the
   Captain stood 12 km off at the birth (`MCD-270`). The concealment from the wider crew therefore
-  covers the whole marriage, whose length depends on its unlocked date (B5), and then 24 more
+  covers the whole marriage, whose length depends on its unlocked date (B5), and then 23 more
   years in which the crew either does not know who fathered her child or knows and does not say.
   `MCD-813`'s line (Section 1, corpus) fits this option on its precedence reading. Proposed: the
   crew reads the pregnancy as her own business and does not ask, and the few who could guess keep
@@ -567,7 +582,7 @@ center of the profile.
 - **Under every option, the corpus check.** The locked entries set in Kanja 290-314 never mention
   him: `MCD-1246`, `MCD-814` (290), `MCD-1251` (292), `MCD-493`, `MCD-1243`, `MCD-815` (300),
   `MCD-1900` (about 300), `MCD-813` (305), `MCD-1252` (308), `MCD-1253` (310), `MCD-1254` (312), `MCD-1255`,
-  `MCD-1406`, `MCD-1407` (313), and `MCD-1408`, `MCD-1022` (314). Those set after he comes aboard
+  `MCD-1406`, `MCD-1407`, and `MCD-1408`, `MCD-1022` (313). Those set after he comes aboard
   are read as scenes he is off the page for: every one under option 1, those from 296 under
   option 3, and those from his joining under option 2; under all three that includes `MCD-1253`
   through `MCD-1022`. Before his first wave is drafted, each of those gets a line-by-line check for
@@ -669,7 +684,7 @@ Written under the recommended answer to A1-A4. Each facet is marked for confirma
     Ironbane is the first person his food is proven to heal (`MCD-272`). Proposed: his place aboard
     was earned at the table, one meal at a time.
   - **The ones who keep the secret.** Kanja (`CC-079`); Stormbreaker and Azar, who know or suspect
-    (`CC-079`; which of them knows is left open, an A3 option 1 cost); Sephtis for 24
+    (`CC-079`; which of them knows is left open, an A3 option 1 cost); Sephtis for 23
     years (`CC-110`; his place aboard across Kanja 290-314 depends on approval-list item 38,
     `MCD-982`), and possibly Sorya, whose knowledge of the father the Triad file leaves open under
     its TA3 (pending its ruling). He is surrounded by people who hold a truth about him, and he
@@ -781,7 +796,7 @@ ruling with no recommendation.
     `CC-006` route), `triad-guardians.md` TA1 option 2 (not recommended; Varruk seen at 248), and
     TA2 option 3 (not recommended; a different Oath-Raptor at the Dog Watch).
   - `CC-005`: `pyro.md` A1 option 2 (not recommended; the 284-year Long Mask, on its `CC-006`
-    route) and B16 option (a) (no recommendation; the persona ends by choice, the span at the
+    route) and B16 option (a) (adopted, Batch 378; the persona ends by choice, the span at the
     pendant's severing).
   - `ARS-437`: `pyro.md` A1 option 2 (not recommended; "reads 284 years," on either route) and B6
     (the Heartline's signal of the birth night).
@@ -817,9 +832,9 @@ ruling with no recommendation.
   - Every other rule an item in either file amends is amended by one item only, so it needs no
     merge: `MCD-091`, `ARS-010` (A1 option 1); `CC-101` (A1 options 1 and 2); `WC-022`, `CC-006`,
     `MCD-260` (A1 option 2, not recommended; `WC-022` on one route, `CC-006` and `MCD-260` on the
-    other); `CC-047`, `CC-079` (A3); `MCD-1022` (B16 options (a) and (b), no recommendation);
-    `MCD-1252`, `MCD-1255` (B16 option (a), no recommendation); `MCD-1408` (B16 option (b), no
-    recommendation); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
+    other); `CC-047`, `CC-079` (A3); `MCD-1022` (B16 option (a), adopted, Batch 378; option (b) not adopted);
+    `MCD-1252`, `MCD-1255` (B16 option (a), adopted, Batch 378); `MCD-1408` (B16 option (b) not
+    adopted; Batch 378 amends it under option (a)); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
     'psychology' means here"); `SBD-041` (TB2, no recommendation); `CC-099` (TB4); `SBD-022`
     (TB5); `CC-094` (TB6); `SBD-044` (TB7); `MCD-221` (TB9); `MCD-320`, `CC-100`, `ARS-431`
     (TB10); `MCD-270` (TB11); `CC-096` (TB12). TB12's category normalization is metadata and is
@@ -832,7 +847,7 @@ ruling with no recommendation.
   18-30, but its Long Mask track (ages 30-314, amendment of 2026-10-02) covers the birth year.
   Either option needs a line there, and the ruling binds any Kanja-version entry set at 290-314.
   - **Option (a): no human aboard knows, Kanja included.** He believes his wife died the night Pyro
-    was born, 24 years before Book 1 (under A1 option 1). Costs:
+    was born, 23 years before Book 1 (Batch 378, `MCD-1901`). Costs:
     - Abad's verbatim ranking makes Maro's death "the most devastating blow" of Kanja's life
       (`kanja-haku-rexmar.md`, lines 217 and 264). A believed death of his "first and only wife"
       (`CC-046`) competes with that ranking.
@@ -845,12 +860,12 @@ ruling with no recommendation.
     concealment beside `CC-079`, held from Pyro and from Stormbreaker; knowledge of the Gate that no
     rule gives him; and the same three entries then carry a living wife fused into the Gate, again
     in silence. Whether she can be reached stays reserved (Section 1, reserved threads). It removes
-    the competition of a grieved death. A living wife fused into the Gate for 24 years may still
+    the competition of a grieved death. A living wife fused into the Gate for 23 years may still
     compete with the ranking, and Abad must rule whether it does.
   - Under either option, if Kanja knows the curse is T.D.K.'s (`CC-046`, `MCD-136`; B4), `CC-161`
     is exposed: it bars anything before Book 1 from reading as the urge to destroy his enemies
     arriving early, and a wife lost or fused into the Gate by T.D.K.'s curse supplies exactly that
-    motive, 24 years before Maro dies.
+    motive, 23 years before Maro dies.
   - Under either option, the home of the ruling is a new `CC-` rule on who aboard knows she
     survived, with the matching line in `kanja-haku-rexmar.md`.
   - Under either option, proposed (a new fact, for Abad's ruling): the Heartline carries the night
@@ -907,7 +922,10 @@ ruling with no recommendation.
   without its ID. No fact changes. Recommended (mechanical): name the ruling by its ledger number,
   MCD 139, written without the hyphen, because `scripts/connective_tissue_check.py` fails any
   file that cites a superseded rule ID in its standard form.
-- **B16. How the Long Mask ends (finding 21).** For Abad's ruling, no recommendation. `MCD-1022`
+- **B16. How the Long Mask ends (finding 21).**
+  [Resolved Batch 378: `MCD-1022` ends the Scourge persona on the coat night at Kanja 313; `CC-005`/`MCD-1901` end the Long Mask
+  at the pendant's severing on the sixth day after his 314th birthday (B16 option (a)).]
+  The text below is the record of the choice before it. For Abad's ruling, no recommendation. `MCD-1022`
   ends the span "by conscious choice" the night the coat comes off at Kanja 314; `CC-005` ends it
   at the pendant's severing, which triggers the Pi-Awakening, and `MCD-277` closes it on the Last
   Breakfast as the pendant activates.
@@ -1024,7 +1042,7 @@ ruling with no recommendation.
   or queued before this gate clears.
 - **Pacing convention:** single continuous sequence, or multi-strand (and why — what about this
   character's life/role actually calls for a split)
-  Proposed: a single continuous sequence. His pre-Book-1 life (about 24 years under A1 option 1) is
+  Proposed: a single continuous sequence. His pre-Book-1 life (23 years, Batch 378, `MCD-1901`) is
   one run aboard one fleet under A4 option 1, with no separate eras or postings that would call for strands. Pending Abad's
   confirmation.
 - **Series window:** proposed in Section 2 (B13): Kanja 290 to the Fulfillment Ceremony, pending

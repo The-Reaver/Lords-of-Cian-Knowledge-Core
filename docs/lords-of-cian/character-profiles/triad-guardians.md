@@ -233,7 +233,11 @@ Varruk.
 - `MCD-221` — Book 5 Engine front: Kanja, Ozmund, Pyro, and Lauris. The Triad are not listed on any
   of the four fronts (the fourth, the Tide Line, added Batch 368, `MCD-1889`).
 - `MCD-097` / `MCD-223` — Book 5: "Pyro peaks"; his peak capability deliberately left unlocked.
-- No Book 1, Book 3, or Book 4 role is locked for any of the three.
+- `MCD-1904` — Book 1, the Last Breakfast strike: it names no Triad member at the meal, and whether any is present stays unlocked.
+- `MCD-1907` — Book 1, the second attempt after the Karkosa Heist: Kanja, Pyro and the Triad (Varkul, Varruk and Sorya) meet the Quiet Hand and its
+  beast team unleashed and defeat it. The Triad do not learn that the SBD sent it, so `SBD-044`'s arc of Varkul discovering the surveillance
+  apparatus stays intact, and Varkul stays below his maximum.
+- No other Book 1, Book 3, or Book 4 role is locked for any of the three.
 
 ### Reserved / unresolved threads
 
@@ -401,7 +405,7 @@ Listed for decision, not resolved. Each quotes both sides with rule IDs.
     him emotionally stable") has no mechanism in any Triad rule, and no rule says which Guardian
     does it or how.
 
-13. **No book role, and an age that inherits an open question.** No Book 1-5 role is locked for any
+13. **No book role, and an age that inherits an open question.** Apart from the second attempt (`MCD-1907`), no Book 1-5 role is locked for any
     Guardian. `MCD-221` puts Pyro on the Book 5 Engine front without them, while `CC-095` says
     separation from Pyro strains Varkul and `CC-099` says Varruk always knows the path to him.
     `CC-123` (Varkul at the clinic) is the only in-series appearance. No rule locks an age for any
@@ -778,7 +782,7 @@ ruling with no recommendation.
     `CC-006` route), `triad-guardians.md` TA1 option 2 (not recommended; Varruk seen at 248), and
     TA2 option 3 (not recommended; a different Oath-Raptor at the Dog Watch).
   - `CC-005`: `pyro.md` A1 option 2 (not recommended; the 284-year Long Mask, on its `CC-006`
-    route) and B16 option (a) (no recommendation; the persona ends by choice, the span at the
+    route) and B16 option (a) (adopted, Batch 378; the persona ends by choice, the span at the
     pendant's severing).
   - `ARS-437`: `pyro.md` A1 option 2 (not recommended; "reads 284 years," on either route) and B6
     (the Heartline's signal of the birth night).
@@ -814,9 +818,9 @@ ruling with no recommendation.
   - Every other rule an item in either file amends is amended by one item only, so it needs no
     merge: `MCD-091`, `ARS-010` (A1 option 1); `CC-101` (A1 options 1 and 2); `WC-022`, `CC-006`,
     `MCD-260` (A1 option 2, not recommended; `WC-022` on one route, `CC-006` and `MCD-260` on the
-    other); `CC-047`, `CC-079` (A3); `MCD-1022` (B16 options (a) and (b), no recommendation);
-    `MCD-1252`, `MCD-1255` (B16 option (a), no recommendation); `MCD-1408` (B16 option (b), no
-    recommendation); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
+    other); `CC-047`, `CC-079` (A3); `MCD-1022` (B16 option (a), adopted, Batch 378; option (b) not adopted);
+    `MCD-1252`, `MCD-1255` (B16 option (a), adopted, Batch 378); `MCD-1408` (B16 option (b) not
+    adopted; Batch 378 amends it under option (a)); `CC-097` (TA3, every option); `CC-048` (`triad-guardians.md`, "What
     'psychology' means here"); `SBD-041` (TB2, no recommendation); `CC-099` (TB4); `SBD-022`
     (TB5); `CC-094` (TB6); `SBD-044` (TB7); `MCD-221` (TB9); `MCD-320`, `CC-100`, `ARS-431`
     (TB10); `MCD-270` (TB11); `CC-096` (TB12). TB12's category normalization is metadata and is
@@ -905,7 +909,7 @@ ruling with no recommendation.
   - Under every option, the series needs its own Voice Bible ruling (a `VB-020` line) before any
     entry is drafted, as Anirak's Collections got through `VB-065`.
   - **Onyx is unavailable.** It is sealed at L9 for the whole Long Mask, Kanja 30-314 (`CC-012`,
-    `MCD-246`), which spans every locked Triad event before Book 1 (Kanja 248-314).
+    `MCD-246`), which spans every locked Triad event before Book 1 (Kanja 248-313).
 - **Kill register:** the Triad sit outside the marquee tier (`MCD-1881`). Varkul's true ceiling is
   never shown maxed on the page (`SBD-044`). Proposed, a new fact for Abad's ruling: a Guardian
   uses lethal force only against an active, immediate threat to the life of Pyro or to lives

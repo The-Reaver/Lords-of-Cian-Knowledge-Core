@@ -378,8 +378,8 @@ resolved.
     conditions." `MCD-1883`: forged from "Living Drakma from the fleet's stores" in a slave garrison's
     forge over seventy hours, no lunar condition shown. `ARS-411` gives the Morning Star only
     as "Drakma-alloy," Living or Dead unspecified.
-11. **The Ren timeline.** `CC-101`: Ren is "Age ~45 (the crew's youngest adult recruit; Pyro, roughly
-    24-36 at Book 1, is younger)," sent to the surface at 16, recruited by Sephtis. So Ren cannot have
+11. **The Ren timeline.** `CC-101`: Ren is "Age ~45 (the crew's youngest adult recruit; Pyro, 23 at the Fulfillment Ceremony
+    (`MCD-270`, `MCD-1901`), is younger)," sent to the surface at 16, recruited by Sephtis. So Ren cannot have
     joined earlier than roughly the Long Mask's last three decades, and `CC-114`'s pairing and her
     protector role must be recent relative to her ~250-plus years of service; no rule dates them.
 12. **Line-front roster gaps — resolved, Batch 368.** Anirak and Ren moved to the Tide Line,
@@ -608,9 +608,10 @@ match after three rounds of independent review.
     fails is redrafted.
 - **Era and kit gates for every pre-Book-1 entry (PROPOSED, all drawn from locked rules):**
   - **When.** No entry before the fleet's arrival at Chain Harbor (Kanja age 55, `MCD-251`,
-    `MCD-1883`). The launch wave ends with the Long Mask at Kanja 314 (`MCD-1022`), so the Scourge
-    persona governs every entry. Whether any gap lies between the Long Mask's end and the
-    Fulfillment Ceremony is the open 284-versus-296 question on the approval list. The launch wave stays strictly
+    `MCD-1883`). The launch wave ends before the Fulfillment Ceremony (the last day of Kanja's age
+    313, `MCD-1901`), so the Scourge persona governs every entry until the coat comes off (`MCD-1022`,
+    Kanja 313). The Long Mask itself ends seven days after the Ceremony, at the pendant's severing on the
+    sixth day after his 314th birthday (`CC-005`, `MCD-1901`). The launch wave stays strictly
     pre-Book-1, the same standing constraint Ozmund's and Ezio's launches carry.
   - **Fury state.** Warm only (`ARS-441`). Every fight ends or breaks off before her Stack carries her
     heart past Warm, and her Fangs work across only the low-to-middle range of their locked reach
@@ -663,7 +664,7 @@ match after three rounds of independent review.
      the one known exception (`CC-112`). She takes him as her charge unasked. This dramatizes the undated
      origin of their pairing (`CC-114`).
      - Register: notable, no kill.
-     - Era: late Long Mask, by Kanja 314, within the last ~29 years before Book 1. `CC-101` dates
+     - Era: late Long Mask, by Kanja 313, within the last ~29 years before Book 1. `CC-101` dates
        only his surfacing. His age when recruited is not locked and the pitch does not state it.
      - Guards: her three stay outside his radius, since that payoff is reserved. Neither of them
        asks about the other's origin, which keeps `CC-163`'s Vael Kem question open.

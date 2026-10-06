@@ -72,15 +72,16 @@ forward, starting from Chronicle I of this track.
   density-scaled physical power.
 - `MCD-246` — At age 30, Kanja surrenders the entire Trinity (Mafesto, Onyx, Obsidian Malice) to
   the vault at L9 in the Karkosa Complex under his father's peace deal with the Sovereign Trust,
-  retaining only the Talisman of Mao, the Aegis-Talisman, and the Rexmar Machete. The 284-year Long
-  Mask that follows comprises 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger
+  retaining only the Talisman of Mao, the Aegis-Talisman, and the Rexmar Machete. The Long Mask that
+  follows, lasting just over 283 years (`MCD-1901`), comprises 67 Tier-1 battles, 10 Tier-2 campaigns, and roughly 50 Tier-3 ledger
   entries (120+ operations total), tracked by Onyx as a running seconds-count from the Sovereign
   Pier treaty. The Talisman of Mao's Blueprint Eye lets him map financial/legal structures the way
   he once mapped physical ones, making "the man" rather than the Trinity the crew's core weapon for
   this whole era.
-- `CC-005` / `CC-006` — The Long Mask persona runs 284 years, ending when the Gravity-Fetter pendant
+- `CC-005` / `CC-006` — The Long Mask runs just over 283 years (`MCD-1901`), ending when the Gravity-Fetter pendant
   is severed at the Gilded Lighthouse, triggering the Pi-Awakening between his 314th and 315th
-  birthdays ("Day 0" = age 314).
+  birthdays ("Day 0" = age 314, the Pi-Awakening itself; it falls on the sixth day after his 314th
+  birthday, `MCD-1901`).
 - `WC-005` (amended) — The Pi-Awakening is a bloodline-wide biological threshold at exactly 314
   years, not unique to Kanja individually — a shift from passive to active biology, gaining remote
   Drakma communication and environmental tuning. Haku himself experienced it roughly 5,000 years ago,
@@ -147,8 +148,8 @@ forward, starting from Chronicle I of this track.
   Obsidian Malice (`ARS-030`, war club forged at the Mao Volcano, 3–5 second active recharge or a
   much slower two-year passive dormant-charge accumulation as an alternate discharge mode, plus a
   defensive "Last Ward" mode, `ARS-390`). First deployed together at the Black Trench (age 19);
-  surrendered as a complete system to the L9 vault at age 30 (`MCD-246`) for the entire 284-year Long
-  Mask that follows.
+  surrendered as a complete system to the L9 vault at age 30 (`MCD-246`) for the entire Long Mask
+  of just over 283 years that follows.
 - **Long-Mask-era kit**: the Talisman of Mao (Blueprint Eye — maps financial/legal structures),
   the Aegis-Talisman, and the Rexmar Machete (`MCD-246`) — the three pieces retained after the
   Trinity's surrender, the actual gear this new track's material (if set during the Long Mask) would
@@ -210,14 +211,15 @@ forward, starting from Chronicle I of this track.
 - **The Book 1 investigative-noir premise** (`MCD-070`) — two kings dead (Aethelgard Verehimu, Maro
   Rexmar), Ezio and Fermand investigate, hired by Ozmund; three acts (Investigation → 10-Day
   Interregnum → Karkosa Heist); epilogue is the Great Breach, the SBD uncovered, T.D.K.'s 5,000-year
-  dormancy ending. This is the hard chronological wall at the far end of anything this new track
-  could draft — everything in this walkthrough (ages 18–314) sits *before* it.
+  dormancy ending. [Added Batch 378 (`MCD-070` amended): the Investigation opens at the murder and runs on through the Interregnum, which opens the next day (`MCD-1901`); the acts are narrative movements and overlap in time.] This is the hard chronological wall at the far end of anything this new track
+  could draft — everything in this walkthrough (ages 18–313) sits *before* it, except the Eve of Awakening, the Last Breakfast and the Pi-Awakening (age 314), which fall inside Book 1's window (`MCD-1901`).
 - **Maro Rexmar's death as Kanja's true center, per Abad (2026-09-28) — reserved, not this track's
   material.** Per Section 2's Psychological Profile: his father's death at the Fulfillment Ceremony
   is "the most devastating blow" of Kanja's life and "awakens the urge to destroy his enemies" —
   bigger than, and a real turn away from, the measured/evidence-over-violence psychology this track
   documents for ages 18–30. Nothing in this track may foreshadow, soften, or otherwise anticipate this
-  turn; it is the seed of a future Book-1-era or post-Fulfillment-Ceremony psychological profile.
+  turn; it is the seed of a future Book-1-era or post-Fulfillment-Ceremony psychological profile. Its Book 1
+  consequence is locked at `MCD-1902`: the Accords broken, and the Trinity reclaimed at the Karkosa Heist.
 - **The eleven queued villain defeats** (see Already-locked plot beats above) — explicitly unwritten,
   and explicitly the kind of gap that prompted this whole gate-backfill project; worth naming directly
   when the Game Plan for this track is discussed, since several would fit either an Alias Chronicle
@@ -408,7 +410,8 @@ Abad's direction: "open the Long Mask wave with Dark Ledger openings. keep fable
   age (`ARS-344`–`356`), the Rexmar Machete, the Talisman of Mao, the Aegis-Talisman. No Trinity, no
   Onyx in any scene.
 - **Body:** Kanja's locked decline governs late entries — visibly slowed by ~205, "immobility as a
-  weapon" by 240, unable to stand unaided on bad days by 300 (`MCD-260`/`262`/`271`).
+  weapon" by 240, unable to stand unaided on bad days by 300 (`MCD-260`/`262`/`271`). The cause is the Governor's
+  Shackle, which Kanja and the crew read as age (`MCD-1903`); no entry confirms that he is aging out.
 - **Killing:** `CC-161` (costed default, cold, never rage) and `MCD-1881` (marquee kills named,
   fully dramatized). Never contradicts a locked bloodless outcome — most named Long Mask operations
   are explicitly non-lethal (the Unarmed Siege, the Coin-Weight Raid, the Meridian Crossing, the
@@ -416,8 +419,9 @@ Abad's direction: "open the Long Mask wave with Dark Ledger openings. keep fable
   undramatized engagements between them.
 - **Crew constraints:** avoid Garren Hask, Efa Gol, and Pell Ostra after roughly Kanja's age 50
   until the open cross-track mortality ruling lands. Respect recruitment dates (`MCD-247`–`261`).
-- **Reserved:** everything already reserved above, plus the Eve of Awakening/Pi-Awakening at 314
-  (`MCD-272`, `MCD-1022`), Maro's death through the Heartline (`ARS-437`), and the reunion scene.
+- **Reserved:** everything already reserved above, plus the coat night (age 313, `MCD-1022`), the Eve of
+  Awakening (age 314, after the murder, `MCD-272`) and the Pi-Awakening (age 314, the sixth day after his
+  birthday, `MCD-1901`), Maro's death through the Heartline (`ARS-437`), and the reunion scene.
 - **Fable oversight:** every drafted entry gets a Fable-model consistency review before it is
   presented for approval.
 - **Wave-one candidates (pick, redirect, or take all three):**

@@ -40,7 +40,7 @@ overlay (`ARS-350`, `MCD-289`) in a purely navigational, non-combat application 
 Introduces an unnamed local diver as a one-scene collaborator whose lived knowledge complements
 rather than is superseded by the gear, matching the established pattern of crediting ordinary
 competence alongside the Long Mask's own gear capability. No new named characters. Age 250, V4 gear
-(`ARS-348` locks V4 at ages 180-284, which age 250 falls within). Onyx of Oblivion, Mafesto, and
+(`ARS-348` locks V4 at ages 180-313, which age 250 falls within). Onyx of Oblivion, Mafesto, and
 Obsidian Malice correctly absent per the Trinity's age-30 surrender (`MCD-246`). First entry in the
 Scourge's twenty-third wave. Corrected Batch 321, 2026-10-02: reworded a soft "Trinity/gear
 capability" phrase to the Long Mask's own gear, and corrected the V4 debut citation from "age 241

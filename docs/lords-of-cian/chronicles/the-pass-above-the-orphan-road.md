@@ -1,6 +1,6 @@
 # The Pass Above the Orphan Road
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1367`). Captain Alias Chronicle LXVII, wave 23. A detailed Long-Mask-era gear showcase defending a war-orphan resettlement caravan on a mountain pass. Corrected Batch 314, 2026-09-28: an earlier draft of this entry mistakenly used Trinity-era gear (Mafesto, Obsidian Malice, and Onyx of Oblivion's Whisper of Shadows) despite this Chronicle's placement deep in the 284-year Long Mask, well after the Trinity's already-locked age-30 vault surrender (`MCD-246`) -- corrected below to the Forge-Coat/Ironfall Boots, Ironhand Gauntlets, Sovereign Eyes, Smoke System, and the Rexmar Machete, per `ARS-344` through `ARS-356`. Also corrected, Batch 320, 2026-10-01: Corren Halst reconciled to
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1367`). Captain Alias Chronicle LXVII, wave 23. A detailed Long-Mask-era gear showcase defending a war-orphan resettlement caravan on a mountain pass. Corrected Batch 314, 2026-09-28: an earlier draft of this entry mistakenly used Trinity-era gear (Mafesto, Obsidian Malice, and Onyx of Oblivion's Whisper of Shadows) despite this Chronicle's placement deep in the Long Mask of just over 283 years, well after the Trinity's already-locked age-30 vault surrender (`MCD-246`) -- corrected below to the Forge-Coat/Ironfall Boots, Ironhand Gauntlets, Sovereign Eyes, Smoke System, and the Rexmar Machete, per `ARS-344` through `ARS-356`. Also corrected, Batch 320, 2026-10-01: Corren Halst reconciled to
 he/him, matching `CC-158`.*
 
 ---

@@ -17,7 +17,7 @@ child-safety issues. Abad's approval: "go."*
 
 ---
 
-Dark Ledger. 791,942,400 seconds.
+Dark Ledger. 762,998,400 seconds.
 
 Heart at rest. Then a jolt. The kill jolt. The blade learned its shape in the Rebellion. It knew the shape in the dark.
 
@@ -335,7 +335,7 @@ Iron.
 
 • • •
 
-Dark Ledger. 791,942,400 seconds. Reconciled.
+Dark Ledger. 762,998,400 seconds. Reconciled.
 
 Forty-three jolts. Dunmore and eight at the west wheel. The ninth knelt and lived. Thirty-two in the yard, every one of them coming at him. Skarrow on the east stair, both hands on the bar. Grenmoor on the drowning steps, his sword drawn first.
 
@@ -384,7 +384,7 @@ book's keeper. `MCD-1882`: age 55 sits after the Pirate Dawn's opening at 48, ou
 Marquee kill per `MCD-1881`: named victim Edric Grenmoor plus named lieutenants Dunmore and Skarrow.
 Nothing reads as the "urge to destroy his enemies," reserved for Book 1. Voice per `VB-063`: Onyx as
 "the blade," never "I"; Kanja only "the Captain" in narration; present-tense account inside a past-tense
-Dark Ledger frame; exact seconds-count 791,942,400 (twenty-five years and forty-one days past the
+Dark Ledger frame; exact seconds-count 762,998,400 (twenty-four years and seventy-one days past the
 Sovereign Pier treaty on a 365-day year); "jolt" for the Heartline's kill signal (`ARS-437`, word
 "spike" banned); body signals only in the entry -- forty-three kill jolts in one hour with the heart at
 rest throughout but one sharp climb (the wound), 252,000 seconds without sleep, a forge rhythm in the
@@ -411,4 +411,6 @@ Southern Sweep era (ages 50-70, `MCD-255`) and black-sail crescent formation (`M
 period setting only. Haku's fate, the Fulfillment Ceremony, Maro Rexmar, and the Pi-Awakening are
 untouched. Naming: "Grenmoor" and "Mabry" replace the assigned pool names "Ostrand" and "Brecken," which
 near-collide with the already-locked crew names Pell Ostra and Callum Breck (the Yao/Yaw precedent,
-Batch 337); "Skarrow" is kept from the pool but sits near Ser Dravot Skarne and is flagged.*
+Batch 337); "Skarrow" is kept from the pool but sits near Ser Dravot Skarne and is flagged.
+Corrected Batch 378, 2026-10-05: the Dark Ledger count recomputed from the Pier's date, 30 days
+before Kanja's 31st birthday (`MCD-1901`); the age and the moment within it are unchanged.*

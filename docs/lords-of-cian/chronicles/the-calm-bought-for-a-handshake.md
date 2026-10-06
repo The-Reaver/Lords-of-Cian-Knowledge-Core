@@ -1,6 +1,6 @@
 # The Calm Bought for a Handshake
 
-*Locked canon, Batch 220, 2026-09-11 (`MCD-984`). The Storm That Walks Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft had the Trinity present as the visible deterrent, despite this Chronicle's placement well within the 284-year Long Mask era, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete).*
+*Locked canon, Batch 220, 2026-09-11 (`MCD-984`). The Storm That Walks Alias Chronicle LV, wave 19. Not a territory Annals entry. Narrated in neutral third-person prose. Corrected Batch 321, 2026-10-02: an earlier draft had the Trinity present as the visible deterrent, despite this Chronicle's placement well within the Long Mask era of just over 283 years, after Kanja's already-locked age-30 surrender of the Trinity to its sealed vault (`MCD-246`); replaced with his correct Long-Mask-era kit (`ARS-344` through `ARS-356`, plus the Rexmar Machete).*
 
 ---
 

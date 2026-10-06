@@ -43,7 +43,7 @@ entry extends that same independence principle into an accepted, time-limited co
 a flat refusal, deliberately declining to convert a single joint operation into a standing
 arrangement. A detailed full-gear combat showcase (Sovereign Eyes, Ironhand Gauntlets, the Rexmar
 Machete `ARS-260`) per this run's craft note. Age 195 places this within
-Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-284) and Ironhand Gauntlets V3
+Forge-Coat/Sovereign Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-313) and Ironhand Gauntlets V3
 (`ARS-352`, ages
 180-260); Mend-Line still V2 (`ARS-355`, ages 100-200, since age 195 is just short of the V3 threshold
 at 200). Onyx of Oblivion, Mafesto, and Obsidian Malice correctly absent per the Trinity's age-30

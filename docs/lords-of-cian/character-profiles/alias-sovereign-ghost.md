@@ -51,7 +51,7 @@ corpus) rather than inventing a separate one for this alias.
   Solid-Dense Terra); Book 1 baseline 6,000x resting / ~18,000x combat ceiling (`MCD-227`); Trinity
   (Mafesto, Onyx of Oblivion, Obsidian Malice) first went live together at the Black Trench, age 19
   (`MCD-232`), and was surrendered to the L9 vault at age 30 under Aethelgard/Maro's peace deal —
-  during the subsequent 284-year Long Mask, Kanja retains only the Talisman of Mao, the
+  during the subsequent Long Mask of just over 283 years, Kanja retains only the Talisman of Mao, the
   Aegis-Talisman, and the Rexmar Machete (`MCD-246`).
 - **Era anchoring — resolved, Batch 321, 2026-10-02:** this corpus is Rebellion-era throughout (age
   21, acquired at Ghost Harbor, `MCD-230`), running up to the Trinity's own age-30 surrender

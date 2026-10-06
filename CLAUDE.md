@@ -4437,6 +4437,163 @@ Ledger at `ledger_version` 37.8, 2,696 rules, 376 batches.
   Drive source document is Abad's to update.
 Ledger at `ledger_version` 37.9, 2,721 rules, 377 batches.
 
+**Batch 378: the Long Mask, the Accords and Book 1 on one clock (`MCD-1901`-`MCD-1907`).** Abad: "lock it"
+- **The ruling.** Abad, 2026-10-05: "Kanja is 313 years old when his father dies." The murder falls on
+  the last day of his age 313 (confirmed by Abad: "yes"). The Pi-Awakening stays at age 314, and "the Long mask has to be after
+  his 314th birthday": it falls on the sixth day after that birthday (confirmed by Abad: "yes Macana is
+  Obsidian Malice, six days works"). The 10-Day Interregnum opens on that birthday, which
+  makes the Awakening its seventh day (confirmed by Abad: "the interregnum day 1 counting works").
+  The Long Mask runs from the Sovereign Pier to the pendant's severing at the Awakening, "just over
+  283 years." The Accords end with the murder. This resolves approval-list item 1 and supersedes the
+  Batch 56 ruling that `MCD-091`'s 296 controls.
+- **The clock (`MCD-1901`).** The Pier falls 30 days before his 31st birthday (confirmed by Abad: "yes
+  the Pier is 30 days before his 31st birthday"). The Accords held 283
+  years and 29 days, the Long Mask 283 years and 36 days. The late-Scourge entries are placed on it:
+  "one more year" at 312, the coat night at 313 before the Ceremony, the Eve of Awakening at 314 on
+  the day before the Awakening. The Scourge persona ends at the coat night; the Long Mask ends at the
+  pendant.
+- **Book 1 (`MCD-1902`).** Kanja holds the murder as the Trust's breaking of the Accords. At thirty he
+  had brought the Sovereign Trust's whole operation (`MCD-004`, `MCD-1902`) to its knees, as Haku had, and had not finished it (Abad: "he
+  did bring it to his needs but didn't finish it", "needs" being dictation for "knees"). After the
+  Pi-Awakening he reclaims the Trinity at the Karkosa Heist to crush his enemies. Abad, 2026-10-05 ("power Awakening" reads "Pi-Awakening", "takd" reads "take"):
+  "he chose on the power Awakening that he was going to go get his armor and he was going to crush his enemy he was going to get his sword and he was going to slice his way to the truth he was going to takd Macana and crush his enemies, and finish off the decrepit system he has on the ropes as a young man"; and, on whom he blames, "regardless of what he was going to blame that on the institution that he was fighting". No entry set before
+  Book 1 may dramatize or foreshadow the murder, that reading, or the reclaiming. Retrospective tellers'
+  after-the-fact mentions already locked stay permitted. `MCD-070` is amended: the Investigation opens at
+  the murder and runs on through the Interregnum, which opens the next day.
+- **The aging misconception (`MCD-1903`).** Kanja reads the Governor's Shackle as age. After his
+  314th birthday the decline culminates in a deathbed state in which he believes he is dying; the
+  Pi-Awakening releases the Shackle and shows him the decline was not age. Sephtis puts together that
+  it is the Shackle and that its release is near; he wrote the Countdown Annotation (`MCD-277`, age
+  310) and stays silent (Abad: "yes"), keeping it from Kanja under `MCD-208`'s mandate and from Lauris.
+  He does not know the day or the trigger (covered only by the final approval). Kanja learns it from
+  Sephtis early in Book 4 (`MCD-216`), set off by the first visible Bastion revisit, with Book 3's near-death
+  (`MCD-218`) as the reason Sephtis can no longer stay silent; he never knew the trigger, so the truth
+  behind "one day too late" reaches the reader by another route. Lauris senses the density in Kanja and senses that he is kin; through
+  Sephtis she knows his mother is Val Saeryn Kareth, so she knows he carries Kareth density, and she
+  cannot put the rest together (Abad: "yes"). Kanja knows the Haku legend and does not know it applies
+  to him. The Talisman sentence is cut from Kanja VII (Abad: "yes"), and the two sentences that do not name it go with it as a mechanical consequence, so that Onyx does not confirm age as the cause (`MCD-1903`). Abad on Lauris: "Lauris should obviously be able to send his density or sense that he's
+  family somehow she is an extraordinary character so that is something that I think should be evident
+  to her but she can't put everything else together. if she knows who his mother is through Sephtis,
+  then she would obviously know that he could potentially be dense".
+- **The trigger (`MCD-1904`).** Abad: the Awakening falls on the sixth day after his birthday, and the trigger
+  is the danger. By his deathbed days the Shackle is at its limit and would have broken on its own about a
+  week later. What triggers it on the sixth day, at the Gilded Lighthouse, is a physical threat of deadly
+  force. Confirmed by Abad ("yes the surge snapping the pendant works"): his body's surge in answer to the
+  threat snaps the pendant. The attack comes during the Last Breakfast, while Pyro serves Kanja. Abad:
+  "Yes. this is also a ceremonial breakfast that he had with Kanja & Maro at the same time every time
+  they did have breakfast together." It is the first since Maro's murder, seven days before. The surge
+  that snaps the pendant carries him down several stories (see the next bullet). The strike never lands,
+  and a landed strike would have caused a world-scale event. The enemy behind the
+  murder and the strike, the four Sovereign Trust principals of `CC-082` and the SBD proxy's chain (`MCD-1906`), does not know of the 314 threshold or the Pi-Awakening (Abad: "the enemy does
+  not know they just want to eliminate him from the picture because they know he is next of kin and
+  would seek revenge"; "similar to Haku except he literally had the means to do it and the Weaponry to
+  do it"). They strike to remove Maro's next of kin, who brought the Sovereign Trust's whole operation (`MCD-004`, `MCD-1902`) to its knees and has
+  the means to finish it. T.D.K. is distinct: his containment was built to prevent the Awakening and he
+  stays dormant until Book 1's epilogue. "One day too late" is the enemy's belief: seeing him awaken,
+  they conclude it was coming anyway and that they missed by one day. It recurs through the books; the
+  truth is revealed to the reader only later. The Three Ronin make the attack and all three survive it;
+  how they escape the surge and where the reveal falls stay open. No entry set before Book 1 may state or hint at
+  the trigger or the belief.
+- **The Last Breakfast and the cook's honor (`MCD-1904`, `MCD-1905`).** Abad, on where it is held:
+  "the last breakfast can take place in the most logical place that makes sense for the story cuz it doesn't have to take place where it always takes place could be a reason any reason could be pyrule doesn't want to have breakfast there because of the memories it could be anything it could be because of the lack of movement that Kanja has"
+  Abad, on who shares it: "the breakfast is Father and Son and they do not tell pyro why he always joins we can make up some sort of excuse like the cook is very coveted in their culture so it's easy to make them to cook and it's easy for them to be so warm towards the cook and loving towards the cook and have to cook close at heart because they feed a nourish everyone so that's a good way for them to have an excuse to always eat with him it's too honor to cook and that's the excuse that you have to spend time with him."
+  The ceremonial breakfast is a father-and-son breakfast, Maro and Kanja, held at the same hour every
+  time they breakfast together. Pyro always joins as the cook, who is held in honor and kept close at
+  heart (`MCD-1905`); that honor is the reason Maro and Kanja give, and they never tell him why he always
+  joins (`CC-047` already locks that he does not know his parentage). On the day, Kanja on his deathbed
+  cannot be moved and Pyro cannot face the old table, so the breakfast is held at the Gilded Lighthouse,
+  in the upper room where Kanja lies, at the usual hour. The strike comes during the meal. The surge
+  carries him out of the upper room and down several stories, and he lands hard enough to crack the
+  Lighthouse's foundation (the 2026-08-13 staging, `master-to-do-list.md`). The strike never lands, so
+  the fall belongs to the surge. The Last Breakfast is the first since Maro's murder. Abad, 2026-10-06:
+  "The Rexmar Lineage honors the cook." and "Maro knows". Maro knows Pyro is his grandson and Kanja knows
+  Pyro is his son (`CC-079`); both know why Pyro always joins, and neither tells him (`CC-047`,
+  `ARS-414`). Entries set before Book 1 may show Maro, Kanja and Pyro at their ceremonial breakfasts, without singling out the fixed hour as a vulnerability (`MCD-1904`); the Last Breakfast and what happens
+  there stay reserved (`MCD-1902`, `MCD-1904`).
+- **The order chain and the second attempt (`MCD-1906`, `MCD-1907`).** Abad, 2026-10-06, verbatim (the
+  "I" in "I savage team" reads "a"):
+  > "option 1 proxy, the Three Ronin, Book 4 works.
+  >
+  > we need a second attempt
+  >
+  > The Quiet Hand (SBD-059). A standing SEALBLACK cell kept for politically sensitive individual targets.
+  >
+  > paired with
+  >
+  > I savage team of animals and 1 Brute Beast Master.
+  >
+  > Kanja, Pyro & The Triad UNLEASHED.
+  >
+  > The Rexmar Lineage honors the cook.
+  >
+  > Maro knows"
+
+  `CC-082`'s four Sovereign Trust principals, Duke Cassius Verehimu among them, order the regicide and the strike; the
+  other three stay unnamed. SBD leadership authorizes both at the SEALBLACK tier under `SBD-051`'s two-signature rule:
+  an unnamed leadership member signs as the Executive Director's named proxy and Grave-Analyst Abbott Gage gives the
+  technical clearance, with the Three Ronin as contracted hands. Whether Director Ilona Corrance knew of either operation in advance, and what the stripped after-action files (`SBD-052`) told her office, stays open. How the
+  principals connect to the proxy is a thread of the Book 1 investigation, and the proxy's identity and the other three
+  principals are reserved from pre-Book-1 entries (`MCD-1906`). `MCD-092` is amended: the wet-work team sanitizes after
+  the regicide and the Ronin's later operations and not after the Last Breakfast strike. `SBD-059` is amended to match: the Ceremony team works fixed,
+  pre-planned targets operation by operation (`MCD-092`, `MCD-1853`). After the Ronin fail, the Quiet Hand with a savage team of animals under
+  one Beast Master (unnamed) comes as a second attempt, authorized under `SBD-051`'s two-signature rule; who signs it and whether the four principals order it stay open. Abad, on when it comes: "the second attacks have come
+  at some point after the first not to long after the first as they think they regrouped and figured out how
+  to attack them which turns out disastrous for the attackers." Kanja, Pyro and the Triad meet it unleashed
+  and defeat it. Abad, on the placement: "after the Karkosa Heist, with the Trinity." The attempt comes
+  after the Heist and before the Great Breach of the epilogue (`MCD-070`), while the SBD is still
+  clandestine, and the attackers stay unidentified to the world. It comes not long after the first, and Kanja fights it with the Trinity reclaimed
+  (`MCD-1902`): Mafesto, Onyx of Oblivion and Obsidian Malice. The Quiet Hand normally works untraceable
+  removals of individuals who need no anomaly-handling expertise (`SBD-059`); leadership pairs it with the
+  Beast Master and his animals to supply what the cell lacks. Abad, 2026-10-06, accepting every
+  recommendation put to him on the second attempt and the strike: "all recommendations, run the census". Written into the rules:
+  `MCD-1907`, Kanja, Pyro and the Triad kill attackers (the fight comes after Maro's murder, when the turn
+  `CC-161` reserves for Book 1 may run); the Triad do not learn that the SBD sent it, so `SBD-044`'s arc of
+  Varkul discovering the SBD's surveillance apparatus stays intact; the fight is away from witnesses, with
+  Kanja inside his Book 1 ceiling (`MCD-227`), Varkul below his maximum (`SBD-044`) and `MCD-144`'s openly
+  seen register holding. `MCD-1904`, the SBD wet-work team does not sanitize after the breakfast strike
+  and what the world sees is the surge's aftermath; how the Ronin
+  escape the surge is left to the Book 1 scene and stays open. The
+  reveal's placement stays open. "Run the census" changes no rule in this batch. The stated reason put to him for the
+  sanitizing recommendation, that canon says the wet-work team operated once, was later found to conflict with `MCD-1853`; the recommendation
+  stands, and `MCD-092` and `SBD-059` are amended to match.
+- **Abad's answer of 2026-10-06 to six questions (`MCD-1906`, `MCD-070`, `MCD-1901`, `MCD-1903`, `MCD-1905`).** Abad, verbatim:
+  "all yes on yiu 6 questions" ("yiu" reads "you"). The six questions, each with its recommendation, as asked:
+  > 1. "**The chain of command.** Confirm it: Trust principals order it, the SBD proxy and Gage sign it off, the Ronin carry it out. *Recommend yes.*"
+  >
+  > 2. "**Book 1's acts overlap.** The investigation runs on through the Interregnum. *Recommend yes.*"
+  >
+  > 3. "**The late Scourge placements.** These are the entries pinned to the last weeks of ages 312 and 313. *Recommend yes.*"
+  >
+  > 4. "**The Haku legend.** Kanja knows the legend but not that it applies to him. *Recommend yes.*"
+  >
+  > 5. "**The ceremonial breakfast before Book 1.** Can entries set before Book 1 show Maro, Kanja and Pyro at their breakfasts? *Recommend yes.* Only the Last Breakfast and what happens there stay reserved."
+  >
+  > 6. "**Batch 379.** Should I draft the Trinity rule, the lock list and the two era fixes once 378 is locked?"
+
+  He confirms the order chain reconciled with `CC-082` (`MCD-1906`), the `MCD-070` act overlap (the Investigation opens at the murder and runs
+  on through the Interregnum), the placements of the entries pinned to the last weeks of ages 312 and 313 (`MCD-1255`, `MCD-1407`, `MCD-1408`, `MCD-1022`; `MCD-1901`) and Kanja's knowing the Haku legend without knowing it applies to him
+  (`MCD-1903`), and he allows entries set before Book 1 to show Maro, Kanja and Pyro at their ceremonial breakfasts (`MCD-1905`), with the
+  Last Breakfast and what happens there reserved (`MCD-1902`, `MCD-1904`). Question 6 needs no rule change: Batch 379 (the Trinity rule, the
+  lock list and the two era fixes) follows once this batch is locked.
+- **Covered only by Abad's final approval of this batch, which presented its seven items explicitly.** The placements of `MCD-1246`, `MCD-1252` and
+  `MCD-1253` in the last 30 days of ages 290, 308 and 310 (a mechanical placement that keeps the locked prose spans exact; the alternative was
+  prose spans of 259, 277 and 279). The fixed-hour access logic of `MCD-1904`: on that day the breakfast moves to the Lighthouse at its usual
+  hour, and the unchanged hour is how the enemy knows when to find him; it was put to Abad as a separate question that he had not answered
+  directly. The note appended to `MCD-260`: the naming and the countdown are the record's, and Kanja does not hold them (`MCD-1903`). `MCD-1406` in the first three
+  weeks of age 313, three weeks after `MCD-1255`: question 3 described the entries pinned to the last weeks of ages 312 and 313, which does not reach it. Sephtis does not
+  know the day or the trigger (`MCD-1903`), a drafted reading that was not put to Abad. The Eve of Awakening falls on the fifth day after his birthday, the day before the Awakening (`MCD-1901`), the plain reading of "Eve" inside `MCD-272`'s age 314; it puts the crew's action without him on Interregnum day 6. `MCD-1907`'s rationale for pairing the Quiet Hand with the Beast Master (to supply what the cell lacks) is drawn from `SBD-059`'s description of the cell.
+- **Propagation.** 56 rule statements amended; 60 entries and 14 docs carried,
+  including the three Onyx seconds-counts (Kanja V-VII), recomputed from the Pier's date, and a pointer note on `MCD-260`. The pitch
+  line keeps its source wording, with a bracketed note. Syncs owed (Batch 377 practice): the mirrored
+  Voice Progression Sheet under `docs/lords-of-cian/voice/` still reads 284 years (about line 145); the
+  mirrored Voice Bible reads "314 years of performing a role" (about line 205) and carries "8,517,120,000
+  seconds" at Pyro's birth (lines 107 and 109), which matches neither `MCD-270` nor the Pier's date. Neither
+  mirror is edited; the Drive source documents are Abad's to update. `research/atlas-rebuild/mainline-gazetteer.json`
+  carries 9 stale 284/296 strings, and its regeneration from the ledger is owed. The Pyro and Triad
+  profiles carry the Batch 378 figures in their rule quotes, the age-table and A1 notes, the Varruk
+  age line, their Book 1 walkthrough entries and the 313 and 23 figures; the rest of their review stays owed.
+Ledger at `ledger_version` 38.0, 2,728 rules, 378 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

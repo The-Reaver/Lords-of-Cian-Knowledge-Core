@@ -2,7 +2,7 @@
 
 *Locked canon, Batch 358, 2026-10-03 (`MCD-1885`). Seventh entry of the "Kanja version"
 Chronicle track, part of its Long Mask extension (Dark Ledger openings, retrospective Onyx account per
-`VB-062`/`ARS-437`). Age 240, two hundred and ten years past the Sovereign Pier. Dramatizes the
+`VB-062`/`ARS-437`). Age 240, two hundred and nine years past the Sovereign Pier. Dramatizes the
 Sleeping Giant (`MCD-262`) for the first time anywhere in the corpus: alone in a corridor against
 twelve Branded commandos, the Talisman's passive absorption and the tempered skeleton route every
 landed blow into the bedrock, doing the work of the mobile combat the Captain can no longer physically perform (he cannot dodge, turn fast, or run) --
@@ -17,7 +17,7 @@ gear only. Onyx sealed at L9 throughout, not present. No child-safety issues. Ab
 
 ---
 
-Dark Ledger. 6,632,323,200 seconds.
+Dark Ledger. 6,603,379,200 seconds.
 
 Strain down the long bones of both legs. Again. Again.
 
@@ -35,7 +35,7 @@ Signals against a count. No causes. The blade logged them and waited.
 
 • • •
 
-The blade was not there. Sealed at L9, the Silent Infinite, in a case lined with Dead Drakma. Two hundred and ten years of dark by then.
+The blade was not there. Sealed at L9, the Silent Infinite, in a case lined with Dead Drakma. Two hundred and nine years of dark by then.
 
 The rest came when his hand found the grip again. From his legs, which set themselves a certain way each time he rises. From a seam of healed tissue under the left ribs. From a copyist's sketch of a broken floor, kept folded in his ledger. From a contract roster Valen took off a dead fighter's coat. From the ledger itself, written that night, sitting down.
 
@@ -47,7 +47,7 @@ Two hundred and forty years. The Captain does not fight on his feet.
 
 Settled thirty-five years now, since the day Stormbreaker took the line in his place. The crew holds to it without saying it. The Avatars fight. The Captain directs.
 
-The weight grows in him a little more each year. The long Rexmar span spends slowly. The Talisman spends him another way and presses him down into his own bones. Year by year.
+The weight grows in him a little more each year.
 
 On a good day he walks the length of a deck. He cannot dodge. He cannot turn fast. He cannot run.
 
@@ -402,7 +402,7 @@ climbing for the copyists' door; when Garrick, last alive, asks whether the offe
 deterrence; the blade's reconciliation reads why the ledger entry was written, and the deterrent effect
 is a consequence the Circuit carries away. Nothing reads as the reserved Book 1 rage. Age 240 sits
 outside `MCD-1882`'s no-kill window (ages 31-47). Dark Ledger opening per `ARS-437`/`VB-062`/`VB-063`:
-exact count 6,632,323,200 seconds from the Sovereign Pier on a 365-day year, body signals only (strain,
+exact count 6,603,379,200 seconds from the Sovereign Pier on a 365-day year, body signals only (strain,
 twelve kill jolts, one wound, ache, unchanged heart), no causes, no hedges; the word "spike" is not used;
 Onyx refers to itself only as "the blade" and to Kanja only as "the Captain"; Phase 4 present tense for
 the account, past tense for the Dark Ledger frame; the reunion is a single clause. Sources of Onyx's
@@ -410,7 +410,7 @@ reconstruction: Kanja's body, his own ledger, a copyist's sketch of the floor, a
 The Branded = any Maw-system fighter (`MCD-080`), density band 2,200-4,900x (`WC-003`/`WC-024`); the
 twelve are free Choice-Branded mercenaries (`MAW-076`). The contract route around Standing Order 44-B
 (`MCD-247`) explains why the Trust risks Branded fighters at all; the commissioning officer stays
-unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-284; torso/flank seam read from its
+unnamed. Gear at age 240: Forge-Coat V4 (`ARS-348`, ages 180-313; torso/flank seam read from its
 graduated protection), Sovereign Eyes V4 (`ARS-350`, age 240+, Voidstone lenses new that year, amber),
 Ironhand Gauntlets V3 (`ARS-352`, age 180, convex knuckles; deliberately not V4's harmonic, 260+),
 Mend-Line V3 (`ARS-355`, age 200; compartment pressure, ~3-second flow, ~7-second set), Breath Collar
@@ -422,4 +422,10 @@ Spike (`VB-021`); the maxim is used once. Crew: Valen (Master-at-Arms since the 
 peripheral; Garren Hask, Efa Gol, and Pell Ostra are not used. The eleven copyists are an unnamed
 Ghost-Lattice cell, not tied to any locked operation (the Memory Keeper, age 225, untouched). The
 closing claim ("if anyone ever bought twelve Branded fighters again, his ledger does not record it") is
-deliberately hedged so no later entry is contradicted.*
+deliberately hedged so no later entry is contradicted. Corrected Batch 378, 2026-10-05: the Dark
+Ledger count and the years past the Pier recomputed from the Pier's date, 30 days before Kanja's
+31st birthday (`MCD-1901`); the age and the moment within it are unchanged. Three sentences giving
+the cause of the weight are cut from the narration: the sentence that named the Talisman (Abad,
+2026-10-05, 'yes') and, as a mechanical consequence, the two that did not name it (the Rexmar span
+and 'Year by year'), so that Onyx does not confirm age as the cause; the decline's cause stays out
+of pre-Book-1 material (`MCD-1903`).*

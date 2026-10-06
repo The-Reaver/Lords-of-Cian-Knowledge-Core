@@ -3,7 +3,7 @@
 *Locked canon, Batch 259, 2026-09-11 (`MCD-1247`). The Scourge Alias Chronicle LXXXII, wave 28,
 first entry. Age 180, V4 gear. Not a territory Annals entry. Narrated in neutral third-person prose.
 Corrected Batch 349, 2026-10-02: "V3" corrected to "V4" -- age 180 is the Forge-Coat's V3/V4
-boundary per `ARS-348`, read as V4 (ages 180-284); the footer's "ages 80-241" citation corrected to
+boundary per `ARS-348`, read as V4 (ages 180-313); the footer's "ages 80-241" citation corrected to
 "ages 80-180."*
 
 ---

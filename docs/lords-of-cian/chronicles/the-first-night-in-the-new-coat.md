@@ -46,6 +46,6 @@ unglamorous — a lens-glare overcorrection teething problem rather than a polis
 humanizing the gear-evolution process this alias's run has otherwise presented as seamless. No new
 named characters. Second entry in the Scourge's ninth wave. Corrected Batch 321, 2026-10-02:
 reframed from a new Forge-Coat version (which would contradict `ARS-348`'s lock that Forge-Coat V4
-runs ages 180-284, already well underway by age 241) to the Sovereign Eyes V4 refit, which `ARS-350`
+runs ages 180-313, already well underway by age 241) to the Sovereign Eyes V4 refit, which `ARS-350`
 correctly locks as starting at age 240+; dropped a shoulder-panel/grounding-weave teething beat that
 belonged to the Forge-Coat, not the Eyes, and kept the lens-glare beat, which fits the Eyes exactly.*

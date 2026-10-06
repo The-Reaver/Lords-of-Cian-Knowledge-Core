@@ -42,13 +42,13 @@ totaling at age 305, `MCD-830`'s and `MCD-1246`'s regret question) in that it re
 the place rather than only reflecting on the years. Confirms the site's rebuilding into ordinary
 civic life (market square over the former bombardment ground, a rebuilt seawall) without contradicting
 `MCD-235`'s account of the massacre itself. Age 258 places this within Forge-Coat/Sovereign Eyes V4
-(`ARS-347`/`348` locks V4 at ages 180-284) while Ironhand Gauntlets remain V3 (`ARS-352`, ages 180-260, just
+(`ARS-347`/`348` locks V4 at ages 180-313) while Ironhand Gauntlets remain V3 (`ARS-352`, ages 180-260, just
 short of the age-260 V4 threshold) and Mend-Line V3 (`ARS-355`, ages 200-270) -- a deliberate mixed-
 generation gear moment consistent with the established piecemeal evolution pattern (`MCD-1074`). No
 combat in this entry. Onyx of Oblivion, Mafesto, and Obsidian Malice correctly absent per the
 Trinity's age-30 surrender (`MCD-246`). No
 new named characters. Does not touch, restage, or contradict the already-locked final night of the
-persona (`MCD-1022`, age 314) or its immediate approach (`MCD-1406`-`1408`). Closes the Scourge's
+persona (`MCD-1022`, age 313) or its immediate approach (`MCD-1406`-`1408`). Closes the Scourge's
 thirty-fourth wave (with "The One Who Chose to Leave," `MCD-1475`, and "The Reef That Grew Back
 Wrong," `MCD-1476`) and, for this run, the Scourge's Alias Chronicle output at one hundred and two
 total entries across thirty-four complete waves. Corrected Batch 321, 2026-10-02: corrected the

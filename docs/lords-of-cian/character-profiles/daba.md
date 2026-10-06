@@ -39,8 +39,8 @@ any Roll is written or rewritten — not a summary produced after the fact.
   unresolved threads below).
 - No lifespan/species baseline is locked for Daba specifically. Rolls XLIV–XLV (`MCD-1614`/
   `1615`) show him personally training founding-era members and still reviewing dispatches
-  "centuries into" what the Directorate terms Kanja's Long Mask era (which itself spans 284 years
-  per `MCD-246`), consistent with the setting's own standing long-baseline-lifespan convention
+  "centuries into" what the Directorate terms Kanja's Long Mask era (which itself spans just over 283
+  years per `MCD-246`, `MCD-1901`), consistent with the setting's own standing long-baseline-lifespan convention
   (CLAUDE.md's standing note: "this world's baseline lifespans are long — hundreds to tens of
   thousands of years") but never stated as an explicit biological fact the way it is for, e.g., Val
   Mirel Kareth (89,003 years, `MCD-101`).

@@ -1,6 +1,6 @@
 # What They Wouldn't Let Him Take
 
-*Locked canon, Batch 264, 2026-09-11 (`MCD-1386`). Captain Alias Chronicle LXXXVI, wave 29. Set during the 284-year Long Mask era, using the Forge-Coat, Ironhand Gauntlets, and Rexmar Machete defends the charter's free-membership clause against a rival faction trying to coerce crew members away. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly described a full-Trinity combat showcase, gear Kanja surrendered to a sealed vault at age 30 (`MCD-246`) and does not carry during the Long Mask era; the text now uses his correct Long-Mask-era kit throughout. Also corrected Batch 321, 2026-10-02: Corren Halst's pronoun fixed to he/him throughout per `CC-158`.*
+*Locked canon, Batch 264, 2026-09-11 (`MCD-1386`). Captain Alias Chronicle LXXXVI, wave 29. Set during the Long Mask era of just over 283 years, using the Forge-Coat, Ironhand Gauntlets, and Rexmar Machete defends the charter's free-membership clause against a rival faction trying to coerce crew members away. Corrected, Batch 314, 2026-09-28: an earlier draft mistakenly described a full-Trinity combat showcase, gear Kanja surrendered to a sealed vault at age 30 (`MCD-246`) and does not carry during the Long Mask era; the text now uses his correct Long-Mask-era kit throughout. Also corrected Batch 321, 2026-10-02: Corren Halst's pronoun fixed to he/him throughout per `CC-158`.*
 
 ---
 

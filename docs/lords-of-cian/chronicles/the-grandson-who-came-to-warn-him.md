@@ -40,7 +40,7 @@ choosing loyalty to the crew unprompted -- distinct in register from every prior
 later. Also extends the established informal-alliance pattern (`MCD-382`) into a proactive warning
 rather than passive protection. Reuses Efa Gol's (`CC-130`/`131`) established contact network and
 Garren Hask (`CC-115`/`116`) in an established role. Age 230 places this within Forge-Coat/Sovereign
-Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-284) and Ironhand Gauntlets V3 (`ARS-352`, ages
+Eyes V4 (`ARS-347`/`348` locks V4 at ages 180-313) and Ironhand Gauntlets V3 (`ARS-352`, ages
 180-260); no combat
 occurs in this entry, the threat being avoided rather than fought. Onyx of Oblivion correctly absent
 per its L9 seal throughout the Long Mask. No new named characters (the grandson is deliberately

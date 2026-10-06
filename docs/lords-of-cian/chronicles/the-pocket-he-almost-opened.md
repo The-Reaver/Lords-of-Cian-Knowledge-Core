@@ -38,7 +38,7 @@ Captain's pocket,' which Kanja has never opened in front of anyone") without res
 its contents -- a deliberate near-miss preserving the mystery intact, matching the project's
 established practice of leaving genuine hooks open rather than paying them off prematurely. Garren
 Hask's advanced age and reduced but still-present field role (`CC-115`/`116`) are extended rather
-than contradicted. No new named characters. Age 300, V4 gear (`ARS-348` locks V4 at ages 180-284).
+than contradicted. No new named characters. Age 300, V4 gear (`ARS-348` locks V4 at ages 180-313).
 Onyx of
 Oblivion, Mafesto, and Obsidian Malice correctly absent per the Trinity's age-30 surrender
 (`MCD-246`). Closes the Scourge's twenty-sixth

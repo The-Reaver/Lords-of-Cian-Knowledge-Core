@@ -38,7 +38,7 @@ System's Signal mode (`ARS-354`, "one capsule through a directional nozzle, visi
 for crew communication") being used by a non-crew party, showing the signal has organically spread
 into allied folklore beyond the crew's own operational use — a world-texture register distinct from
 every prior combat or diplomatic entry. The watch-captain is unnamed and one-scene. No new named
-characters. Age 225, V4 gear (`ARS-348` locks V4 at ages 180-284, which age 225 falls within). Onyx
+characters. Age 225, V4 gear (`ARS-348` locks V4 at ages 180-313, which age 225 falls within). Onyx
 of Oblivion correctly absent per its L9
 seal throughout the Long Mask. Closes the Scourge's twenty-fourth wave (with "The Half-Second the
 Blade Bought," `MCD-1235`, and "What the Collar Filtered Out," `MCD-1236`). Corrected Batch 321,
