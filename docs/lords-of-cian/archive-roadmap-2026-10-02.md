@@ -40,6 +40,69 @@ The archive is a working, deployed, populated product today, not a backlog. In o
    specified (`1 completed read AND (1 share OR 1 request)`, with server-side-verified `completed`)
    is built: `f22b675`.
 
+## Readiness and the first upload, 2026-10-07
+
+Added after Batch 379 (ledger 38.1, 2,729 rules, 379 batches). Writing continues in the Knowledge
+Core; this section only tracks what the archive will take from it.
+
+### Is there enough material? Yes.
+
+| Series | Locked entries | Book 1 unlock tier (`VB-069`) |
+|---|---|---|
+| Kanja: Alias Chronicles (11 aliases x 102) | 1,122 | 172 |
+| Kanja: the Kanja-version track | 7 | 7 |
+| Kanja: manuscript Chronicles I-VIII | 8 | 8 |
+| Ozmund: the Testaments | 121 | 0 |
+| Lauris: the Records | 110 | 0 |
+| Daba: the Rolls | 59 | 0 |
+| Territory Annals (20 territories, plus Arturo) | 76 | 0 |
+| Anirak: the Collections | 3 | 0 |
+| Ezio: the Exhibits | 1 (3 more drafted, not locked) | 0 |
+
+About 1,507 locked entries and 1.1 million words. All 188 gated entries are Kanja's (172 alias
+entries showing the Trinity in use, plus the whole Kanja-version track and the manuscript, and the
+one undecidable entry, `MCD-729`, which counts among the 172).
+
+### Proposed upload plan (Abad, 2026-10-07; under discussion, not final)
+
+- **Kanja, Lauris and Ozmund: every entry uploaded.** For Kanja that means 949 open at launch and
+  188 uploaded into the vault, locked until Book 1 is published (`VB-069`).
+- **Everyone else: a selection** (Abad's "to Chronicles of everyone", read as two entries each;
+  to be confirmed). That covers Daba, Anirak, Ezio and the 20 territories plus Arturo.
+
+### What the live archive needs before that upload
+
+1. **The live database already holds the 188 gated entries.** The 2026-09-14 import loaded all
+   1,122 alias entries, before `VB-069` existed. They must be hidden or vaulted before the site is
+   unpaused for readers.
+2. **The live copies are stale.** They predate Batches 320-379: the fable-review corrections, the
+   Batch 375 series renames, and the Batch 378 timeline. Every uploaded entry is re-imported from
+   the current files, not patched.
+3. **The importer needs a release flag per entry** (open, vault, or not released), driven by the
+   manifest and the upload plan, so the selection is data and can change without code.
+4. **Approval-list items that touch released entries should be ruled first,** or the
+   contradiction goes public. Highest stakes: item 2 (Garren Hask dies at 50-55 on the Captain
+   track but lives to 313 on the Scourge and Lauris tracks), item 31 (three Lauris Records that
+   cannot be set before Book 1), item 21 ("the Karkosa" as the crew's ship in the Records), item 39
+   (Lauris Record VIII against `MCD-193`), and item 38 (Sephtis's staged death against his open
+   place in the crew).
+
+### How much more pre-Book-1 material can be written
+
+The story room is large; review bandwidth is the real limit. Open ground, roughly in order of value:
+
+- **Tier 1 launches never started:** Fermand, Valen, Sephtis, Anansi and Orlok have no series. Pyro
+  and the Triad gates are in progress. Ezio has three drafts awaiting review. A Red Beard series
+  would also unblock villain defeats already locked as rules (`MCD-1859`, `MCD-1862`).
+- **Account types barely used:** Comrade Accounts, Adversary Accounts, Dossiers and Hearsay
+  (`VB-067`, `VB-068`) are new formats. They are also the main way to tell the Trinity's
+  Rebellion legend in the open archive without breaking `VB-069`.
+- **Kanja's Long Mask (ages 30-313)** is open-eligible, since the Trinity is sealed. New
+  Kanja-version entries are always vault-only.
+- **Near saturation:** the Alias tracks (102 each) and Ozmund's pre-Ceremony window (121) show
+  repetition risk. Abad's standing pacing rule already says to hold the Alias waves until the
+  archive is loaded.
+
 ## What's actually still open, in order
 
 ### 1. The Supabase project is paused again — immediate, operational
