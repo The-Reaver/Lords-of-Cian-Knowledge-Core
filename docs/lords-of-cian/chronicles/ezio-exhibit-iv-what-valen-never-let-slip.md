@@ -3,7 +3,7 @@
 *UNLOCKED / PENDING APPROVAL. Draft, 2026-10-09. The Series: Ezio's Exhibits. Teller: Fermand
 Aurelias, per `CC-034` and `VB-024`. The fourth Exhibit. A quiet entry that shows Valen guarding
 Ezio's cover (`WC-016`) and the bond between the two cousins (`CC-026`, `CC-108`). Fermand learns
-that a cover exists and that Valen guards it, and does not learn what it hides; the capability
+that Valen guards Ezio's cover, and does not learn what it hides; the capability
 itself is held by the five of `CC-027` and stays beyond his knowledge (`VB-067`). Strictly
 pre-Book-1. No new named characters.*
 
@@ -103,7 +103,7 @@ have simply agreed, without discussing it, that the debt is carried unspoken."
 
 I wrote that down exactly as he said it, and I have come to think it is, in its own quiet way, the
 truest answer he has ever given me about what family made of him. It gave him the weight of a
-family's expectation and somewhere inside
+family's expectation, and somewhere inside
 the same inheritance, unasked for and never once claimed as a debt, it gave him this.
 
 ---
