@@ -68,7 +68,7 @@ one undecidable entry, `MCD-729`, which counts among the 172).
 - **Kanja, Lauris and Ozmund: every entry uploaded.** For Kanja that means 949 open at launch and
   188 uploaded into the vault, locked until Book 1 is published (`VB-069`).
 - **Everyone else, including Daba's 1804: five entries each at launch.** Abad, 2026-10-07: "Every
-  other entry for 1808 will have five entries" ("1808" read as 1804, to be confirmed).
+  other entry for 1808 will have five entries". Confirmed 2026-10-09: "yes 1804, per leader".
 - **Then release by demand.** Readers' requests show which characters and which parts of the world
   they want. The rest of the already-written backlog is released in answer to those requests. Abad:
   "I will upload those as if they are waiting for something to be written and they request it and
@@ -76,8 +76,10 @@ one undecidable entry, `MCD-729`, which counts among the 172).
   Request Fulfillment Loop the archive already ships (engagement ideas 1 and 2).
 - **Writing needed to reach five:** 17 territories hold three Annals each (+34). Anirak holds three
   Collections (+2). Ezio holds one locked Exhibit with three drafted (+1 if the drafts are approved).
-  Xaragua's six are Ogoun Xarey's one and Arturo's five (+4 if counted per leader). Kazi (13) and
-  Sankofa (6) already have five or more. Daba has 59.
+  Xaragua's six are Ogoun Xarey's one and Arturo's five (+4, since the count is per leader). Kazi's 13 are Irin's
+  three (+2), Tunji's five and Femi's five. Sankofa (6) already has five. Daba has 59.
+- **Order of writing (Abad, 2026-10-09):** Ezio's three drafts first, then Anirak's two, then the
+  Annals in batches. Drafting runs on Sonnet, review on Opus.
 
 ### What the live archive needs before that upload
 
