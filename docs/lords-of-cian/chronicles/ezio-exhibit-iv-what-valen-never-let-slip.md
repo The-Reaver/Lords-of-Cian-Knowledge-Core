@@ -2,7 +2,7 @@
 
 *UNLOCKED / PENDING APPROVAL. Draft, 2026-10-09. The Series: Ezio's Exhibits. Teller: Fermand
 Aurelias, per `CC-034` and `VB-024`. The fourth Exhibit. A quiet entry that shows Valen guarding
-Ezio's cover (`WC-016`) and the warmth between the two cousins (`CC-026`, `CC-108`). Fermand learns
+Ezio's cover (`WC-016`) and the bond between the two cousins (`CC-026`, `CC-108`). Fermand learns
 that a cover exists and that Valen guards it, and does not learn what it hides; the capability
 itself is held by the five of `CC-027` and stays beyond his knowledge (`VB-067`). Strictly
 pre-Book-1. No new named characters.*
@@ -47,15 +47,14 @@ a cousin enjoying his drink.
 
 I asked Ezio about it later, on the walk back, whether Valen had done that on purpose.
 
-"He has been doing it since we were boys," Ezio said. "I am not certain he thinks of it as doing
+"He has been doing it since I first put the face on," Ezio said. "I am not certain he thinks of it as doing
 anything at all anymore. I do not think he counts it. I think it has simply become a thing his body
 does when a room's attention drifts too close to me, the way another man's hand might catch a
 falling glass before the thought of catching it has fully formed."
 
 "That is a great deal of trust to place in a reflex."
 
-"It is not trust in the reflex," he said. "It is trust in a lifetime of the reflex never once
-having failed."
+"It is trust in a lifetime of the reflex never once having failed," he said.
 
 *
 
@@ -70,11 +69,10 @@ He was quiet long enough that I thought he might not answer at all.
 family -- that whatever we became, we would be useful for it, and that the usefulness was the whole
 of the point. I chose, eventually, to wear a face the family had not prepared for me. Valen kept the
 family's way entire, and he decided, on his own, without anyone asking him to, that he would spend a
-portion of it guarding the face I chose instead of resenting me for choosing it."
+portion of it guarding the face I chose."
 
 I did not ask what lay beneath that face. I understood from the way he said it that the question
-would be answered with a silence, and that I would be wrong to resent the silence. I record that I
-now know a cover exists and that Valen guards it. I do not know what it covers.
+would be answered with a silence, and that I would be wrong to resent the silence. I record that I now know Valen guards it. I do not know what it covers.
 
 "That sounds like a great deal to ask of a man, even a cousin."
 
@@ -92,22 +90,20 @@ present.
 
 I had assumed, without ever quite examining the assumption, that whatever bound Valen to Ezio's
 protection was duty inherited from the same tradition that raised them both within one family's
-expectations before either had any say in the matter. I no longer believe that. I believe the
-tradition supplied the habit of discipline. The protection itself Valen built entirely on his own,
+expectations before either had any say in the matter. I no longer believe that. The protection itself Valen built entirely on his own,
 out of nothing the family that raised them ever asked of him: the laugh placed at the exact
-half-second a stranger's curiosity drifts too close, for as long as Ezio can remember, never
+half-second a stranger's curiosity drifts too close, for as long as the face has existed, never
 acknowledged, never once failed.
 
 I asked Ezio, once more, before we parted for the evening, whether he had ever thanked him for it
 directly.
 
 "No," he said. "I do not think either of us would know what to do with the sentence. I think we
-have simply agreed, without discussing it, that the debt is better carried unspoken than settled
-aloud."
+have simply agreed, without discussing it, that the debt is carried unspoken."
 
 I wrote that down exactly as he said it, and I have come to think it is, in its own quiet way, the
 truest answer he has ever given me about what family made of him. It gave him the weight of a
-family's expectation, which I have recorded elsewhere and will not repeat here, and somewhere inside
+family's expectation and somewhere inside
 the same inheritance, unasked for and never once claimed as a debt, it gave him this.
 
 ---
