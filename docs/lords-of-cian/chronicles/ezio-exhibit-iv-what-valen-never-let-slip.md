@@ -1,34 +1,19 @@
 # Ezio Exhibit IV: What Valen Never Let Slip
 
-*UNLOCKED / PENDING APPROVAL. Drafted for Batch 319, 2026-09-30. Fourth Exhibit in Ezio Valcari's
-own Exhibits, closing wave 2. Narrated by Fermand Aurelias (`CC-034`/`VB-024`). A
-quiet, stakes-free Witness-register entry -- the first to dramatize Valen Sinisterblade's cover-
-protection role (`WC-016`: "Valen protects Ezio's cover") mechanically on the page, and the first to
-show the two cousins' bond (`CC-026`/`CC-108`, the shared Sinister Bloodline and War-Side tradition)
-as warmth rather than only inheritance. Deliberately humanizes the core-wound material -- being
-raised into a family trade of violence -- by showing what was also, genuinely, love. No new named
-characters. Strictly pre-Book-1, no combat. Still UNLOCKED/PENDING APPROVAL -- corrected (not
-locked) Batch 332, 2026-10-02, per a fable-review pass: two dangling numeric spans ("since we were
-boys" paired with "thirty years of the reflex"/"thirty years running," impossible together)
-reworded to non-numeric phrasing; "trained the same way, by the same people" softened to "trained
-toward the same expectation, by the same family" to avoid overstating this header's own `CC-108`
-citation (Valen, specifically, personally trained Ezio -- not an undifferentiated shared trainer).
-Flagged for Abad's attention rather than resolved here: this entry's prose (Ezio to Fermand, "He
-kept what we were trained to be") reads as effectively telling Fermand what Valen's training
-produced and why it's being protected, which sits in real tension with this file's own header claim
-that "Fermand stays outside the closed five-person list throughout" and with Exhibit III's
-matching claim -- needs one consistent ruling (is Fermand a sixth knower, matching the "she does
-know" precedent already set for Lauris at `CC-073`/`WC-016`? or should the dialogue be softened to
-stop short of that?) before either entry locks.*
+*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-09. The Series: Ezio's Exhibits. Teller: Fermand
+Aurelias, per `CC-034` and `VB-024`. The fourth Exhibit. A quiet entry that shows Valen guarding
+Ezio's cover (`WC-016`) and the warmth between the two cousins (`CC-026`, `CC-108`). Fermand learns
+that a cover exists and that Valen guards it, and does not learn what it hides; the capability
+itself is held by the five of `CC-027` and stays beyond his knowledge (`VB-067`). Strictly
+pre-Book-1. No new named characters.*
 
 ---
 
 I have known Valen Sinisterblade for a great many years, and I confess that for a long while I
 mistook his stillness for the same species of discipline everyone else in this crew mistakes it for
 -- the composure of a man who has simply trained himself past the need to react. It was Ezio,
-eventually, who corrected me, in the particular way he corrects a misunderstanding: not by
-contradicting it outright, but by letting me watch long enough that the correction arrived on its
-own.
+eventually, who corrected me, in the particular way he corrects a misunderstanding: by letting me
+watch long enough that the correction arrived on its own.
 
 We had gathered, the three of us, at a dockside house Valen keeps for reasons he has never
 explained and no one has ever pressed him to -- an evening with no operational purpose I was ever
@@ -55,8 +40,8 @@ It was not, on its own, a remarkable thing to do. But it was placed with a preci
 recognize as precision until I had watched it happen twice more that same evening -- loud enough to
 redirect the room's attention toward himself, timed to the exact instant a stranger's curiosity had
 begun to settle somewhere Ezio would rather it did not, and gone again so completely that no one in
-the room, myself included until I began to actually watch for it, would ever have thought to call it
-anything but a cousin enjoying his drink.
+the room, myself included until I began to watch for it, would have thought to call it anything but
+a cousin enjoying his drink.
 
 *
 
@@ -81,12 +66,15 @@ instinct.
 
 He was quiet long enough that I thought he might not answer at all.
 
-"We were raised the same way," he said finally. "Trained toward the same expectation, by the same family --
-that whatever we were, we would be useful for it, and that the usefulness
-was the whole of the point. I chose, eventually, not to let that be the whole of what I am. Valen
-chose something else. He kept what we were trained to be, and he simply decided, on his own, without
-anyone asking him to, that he would spend a portion of it protecting the choice I made instead of
-resenting me for making it."
+"We were raised in the same house," he said finally. "Toward the same expectation, by the same
+family -- that whatever we became, we would be useful for it, and that the usefulness was the whole
+of the point. I chose, eventually, to wear a face the family had not prepared for me. Valen kept the
+family's way entire, and he decided, on his own, without anyone asking him to, that he would spend a
+portion of it guarding the face I chose instead of resenting me for choosing it."
+
+I did not ask what lay beneath that face. I understood from the way he said it that the question
+would be answered with a silence, and that I would be wrong to resent the silence. I record that I
+now know a cover exists and that Valen guards it. I do not know what it covers.
 
 "That sounds like a great deal to ask of a man, even a cousin."
 
@@ -97,18 +85,18 @@ be owed."
 
 *
 
-I record this evening not because anything of operational consequence occurred within it -- nothing
-did, and I suspect that is precisely why Ezio permitted me to be present for it at all -- but because
-I believe it corrects something I had wrongly assumed about the two of them, and very likely about
-the whole of what the Sinister Bloodline made of both men.
+I record this evening because it corrects something I had wrongly assumed about the two of them,
+and very likely about the whole of what the Sinister Bloodline made of both men. Nothing of
+operational consequence occurred within it, and I suspect that is why Ezio permitted me to be
+present.
 
 I had assumed, without ever quite examining the assumption, that whatever bound Valen to Ezio's
-protection was duty inherited from the same tradition that trained them both into weapons before
-either had any say in the matter. I no longer believe that. I believe the tradition gave them the
-capability, and nothing more than the capability. What Valen does with it -- the laugh placed at the
-exact half-second a stranger's curiosity drifts too close, all our lives running, never once
-acknowledged, never once failed -- he built entirely on his own, out of nothing the family that
-raised them ever asked of him.
+protection was duty inherited from the same tradition that raised them both within one family's
+expectations before either had any say in the matter. I no longer believe that. I believe the
+tradition supplied the habit of discipline. The protection itself Valen built entirely on his own,
+out of nothing the family that raised them ever asked of him: the laugh placed at the exact
+half-second a stranger's curiosity drifts too close, for as long as Ezio can remember, never
+acknowledged, never once failed.
 
 I asked Ezio, once more, before we parted for the evening, whether he had ever thanked him for it
 directly.
@@ -118,16 +106,14 @@ have simply agreed, without discussing it, that the debt is better carried unspo
 aloud."
 
 I wrote that down exactly as he said it, and I have come to think it is, in its own quiet way, the
-truest answer he has ever given me about what family made of him: not only the wound of being
-raised to be a weapon, which I have recorded elsewhere and will not repeat here, but this --
-that somewhere inside the same inheritance, unasked for and never once claimed as a debt, there was
-also, genuinely, this.
+truest answer he has ever given me about what family made of him. It gave him the weight of a
+family's expectation, which I have recorded elsewhere and will not repeat here, and somewhere inside
+the same inheritance, unasked for and never once claimed as a debt, it gave him this.
 
 ---
 
-*Continuity notes (not narrative): the first entry to dramatize Valen's cover-protection role
-(`WC-016`) mechanically rather than as a stated fact, and the first to show the cousins' shared
-Sinister Bloodline origin (`CC-026`/`CC-108`) as a source of warmth alongside the burden already
-established in Ezio's core-wound reading. Deliberately pure Witness register -- no operational
-content, no threat, no reveal of Ezio's classified capability (Fermand stays outside the closed
-five-person list throughout). No new named characters. No combat, no Kanja, strictly pre-Book-1.*
+*Continuity notes (not narrative): shows Valen's cover-protection role (`WC-016`) as a reflex on the
+page, and the cousins' bond (`CC-026`, `CC-108`). The capability `CC-027` classifies is never named,
+described or implied as fact; Fermand states only what he saw and what Ezio told him, and says he
+does not know the rest. No operational content, no threat, no combat, no Kanja, strictly
+pre-Book-1.*

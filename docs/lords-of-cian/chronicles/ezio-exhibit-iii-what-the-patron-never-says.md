@@ -1,33 +1,22 @@
 # Ezio Exhibit III: What the Patron Never Says
 
-*UNLOCKED / PENDING APPROVAL. Drafted for Batch 319, 2026-09-30. Third Exhibit in Ezio Valcari's
-own Exhibits, wave 2. Narrated by Fermand Aurelias (`CC-034`/`VB-024`). Extends the
-pre-Book-1 groundwork of the Nadea Thren patron relationship (`MCD-021`/`CC-029`/`CC-073`, amended
-Batch 317) -- an ordinary operational exchange showing how the relationship actually runs day to
-day, deliberately stopping well short of the reserved `MCD-1875` reconciliation itself, which stays
-untouched and unforeshadowed. Fermand narrates with only partial knowledge -- he is not on the
-closed five-person list who know Ezio's classified capability (`WC-016`/`CC-111`), and this entry
-does not grant him privileged knowledge of Nadea's feelings either; he notices a tension he cannot
-fully account for and says so honestly, preserving the "carries deception" throughline even for the
-reader's closest window into Ezio. No new named characters. Strictly pre-Book-1, no combat. Still
-UNLOCKED/PENDING APPROVAL -- corrected (not locked) Batch 332, 2026-10-02, per a fable-review pass:
-a dangling numeric span ("three decades of keeping this man's account") contradicting the much
-longer association `MCD-194`/`MCD-1661` already lock, reworded to non-numeric phrasing. Flagged for
-Abad's attention rather than resolved here: this entry's own header claim that Fermand "is not on
-the closed five-person list" sits in tension with Exhibit IV's prose (see that file's own flag) --
-the two pending entries need one consistent ruling on Fermand's actual knowledge before either
-locks.*
+*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-09. The Series: Ezio's Exhibits. Teller: Fermand
+Aurelias, per `CC-034` and `VB-024`. The third Exhibit. An ordinary operational handoff from Lady
+Nadea Thren to Ezio (`MCD-021`, `CC-029`, `CC-073`), showing how the patron relationship runs day to
+day. Fermand notices a silence between them and says plainly that he does not know its content;
+`CC-073` holds what Ezio knows and has chosen, and the entry gives Fermand no knowledge of it
+(`VB-067`). Strictly pre-Book-1. No new named characters.*
 
 ---
 
 Lady Nadea Thren has never, in the whole of the time I have known Ezio Valcari to work for her,
 raised her voice in his presence. I want to record this plainly, because I think an untrained reader
-might mistake it for coldness, and it is not that. It is something closer to the opposite, though I
-confess I have spent years failing to find the exact word for it.
+might mistake it for coldness. It is closer to the opposite, though I confess I have spent years
+failing to find the exact word for it.
 
 She received us, on the occasion I am recording, in a study three floors above a trading house she
 does not own and has never been seen to enter by its front door -- the kind of arrangement that
-tells you everything about a woman's caution and nothing at all about her actual resources. She had
+tells you a great deal about a woman's caution. She had
 a case ready before Ezio had finished removing his coat: a Trust auditor in the Lawless Reaches whose
 reports had begun contradicting themselves in ways too small for anyone else to have noticed, too
 large, in her own private judgment, to be accidental.
@@ -53,17 +42,16 @@ I recorded that answer faithfully, and I confess I have turned it over more time
 itself would seem to warrant, because I do not think it is the whole of what passes between them,
 and because I am honest enough, in my own record-keeping, to say so.
 
-There is a particular stillness that enters a room when the two of them are together -- not
-tension, precisely, though it resembles tension to anyone watching who does not know either of them
-well. It is closer, I think, to the stillness of two people who have each decided, independently
-and for reasons neither has ever explained to me, that a great deal will remain unsaid between them,
-and that the unsaying itself is not a failure of the relationship but its actual foundation.
+A particular stillness enters a room when the two of them are together. It resembles tension to
+anyone watching who does not know either of them well. It is closer, I think, to the stillness of
+two people who have each decided, independently and for reasons neither has ever explained to me,
+that a great deal will remain unsaid between them, and that the unsaying is the foundation of the
+relationship.
 
 *
 
-On this particular evening, as we were leaving, she said one thing more -- not a continuation of the
-briefing, which had already closed, but something offered separately, the way a person offers a
-sentence they have been holding rather than one the conversation itself required.
+On this particular evening, as we were leaving, she said one thing more, offered apart from the
+briefing, which had already closed, the way a person offers a sentence they have been holding.
 
 "You look tired, Ezio."
 
@@ -77,12 +65,12 @@ informative than the ones he does, and I watched something pass across her face 
 followed -- brief, controlled, gone again before I could have sworn under oath that I had seen it at
 all.
 
-I do not know what it was. I want to be honest about that, in the record, rather than claim an
+I do not know what it was. I want to be honest about that in the record, and I claim no
 understanding I have not earned. I have spent years transcribing this man's life, and I have come to
 recognize when I am in the presence of something neither party intends for me to fully see, and I
 have learned, slowly and not without some private frustration, that the correct response to that
-recognition is not to invent an explanation that satisfies my own curiosity, but to record the
-moment honestly and let it remain exactly as unresolved as it plainly was intended to stay.
+recognition is to record the moment honestly and let it remain exactly as unresolved as it was
+intended to stay.
 
 *
 
@@ -98,21 +86,15 @@ actually occurred."
 
 I let the matter rest there, because I have learned, in all my years of keeping this man's account,
 that there are silences he permits and silences he closes, and that the difference between the two
-is not mine to decide. I record the stillness between them because it is true, and because I
-believe -- though I cannot prove it, and would not pretend to Ezio that I could -- that whatever sits
-unspoken in that study is carried by both of them, in roughly equal weight, and neither has yet found
--- or perhaps neither has yet chosen -- the occasion to set it down.
+is not mine to decide. I record the stillness between them because it is true. I believe
+-- though I cannot prove it, and would not pretend to Ezio that I could -- that whatever sits
+unspoken in that study is carried by both of them in roughly equal weight.
 
-I do not know, as I write this, whether that occasion will ever come. I only know that I have rarely
-seen a man carry a silence as carefully as Ezio Valcari carries this one, and that a man who carries
-something that carefully is, whatever else may be true of him, not carrying it carelessly.
+I have rarely seen a man carry a silence as carefully as Ezio Valcari carries this one.
 
 ---
 
-*Continuity notes (not narrative): extends the pre-Book-1 patron-dynamic groundwork for Nadea Thren
-without touching or foreshadowing the reserved `MCD-1875` reconciliation itself -- deliberately
-stays at "something unspoken sits between them" rather than revealing what either party knows or
-feels. Fermand's partial-knowledge narration is intentional: he is not on the closed list who know
-Ezio's classified capability, and this entry grants him no privileged insight into Nadea's feelings
-either, matching the project's discipline of respecting reserved threads even from the narrator's own
-vantage. No new named characters. No combat, no Kanja, strictly pre-Book-1.*
+*Continuity notes (not narrative): extends the patron relationship of `CC-073` without stating what
+either party knows or feels, and stops well short of the reserved `MCD-1875`, which it neither
+touches nor foreshadows. Fermand's account is bounded by what he saw (`VB-067`). No combat, no
+Kanja, strictly pre-Book-1.*
