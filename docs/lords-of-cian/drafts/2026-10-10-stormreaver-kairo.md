@@ -36,7 +36,7 @@ Reading: "storm River" is Stormreaver, "unable to protect" is read as unable to 
 
 ### POL-070 (append)
 
- Batch 383 note: The Shogunate's capital, Kairo, was built in part by a family that the current leadership drove out through treachery; the family's heir is Stormreaver (`POL-109`, `CC-166`).
+ Batch 383 note: The Shogunate's capital, Kairo, was built in part by a family that the corrupt current leadership drove out through treachery; the family's heir is Stormreaver (`POL-109`, `CC-166`).
 
 ## 4. Connective-tissue table
 
