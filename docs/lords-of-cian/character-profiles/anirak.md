@@ -1,6 +1,6 @@
 # Anirak (Blades Fury) — Profile & Game Plan
 
-**Status:** wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) -- Section 2 locked 2026-10-03 (Batch 371, `CC-163`/`CC-164`); Section 3 locked 2026-10-04 (Batch 372, `VB-065`)
+**Status:** wave 2 locked (Batch 382, `MCD-1911`-`MCD-1912`, 2026-10-10); wave 1 locked (Batch 373, `MCD-1898`-`MCD-1900`, 2026-10-04) -- Section 2 locked 2026-10-03 (Batch 371, `CC-163`/`CC-164`); Section 3 locked 2026-10-04 (Batch 372, `VB-065`)
 **Track:** Collections (Tier 1, Book-1 anchor hero per MCD-1881 as amended 2026-10-03)
 **Gate cleared:** YES, 2026-10-04 (Batch 372). Collection prose may be drafted, under Section 3's voice spec and gates.
 
@@ -711,7 +711,7 @@ match after three rounds of independent review.
   launch's five entries per leader. The two drafts serve as the wave's pitches and are presented whole
   for approval; every Game Plan constraint above still binds them. IV, "A Place to Stand" (about Kanja
   303, Ren's first use of his field against people, no kills); V, "What He Did in the Dark" (about
-  Kanja 304, a new hand tested on a night watch, no fight). Pending Abad's approval.
+  Kanja 304, a new hand tested on a night watch, no fight). Approved and locked, Batch 382: "Lock both".
 
 ---
 
@@ -731,3 +731,8 @@ batch number.
 - **III, "The Body the World Was Not Built For"** (`MCD-1900`, Batch 373). ~Kanja 300: Ren comes
   aboard, the one face that leaves her and comes back loose; she walks into his ring and takes him as
   her charge. No fight.
+- **IV, "A Place to Stand"** (`MCD-1911`, Batch 382). ~Kanja 303, Windbreak: a Trust landing party with a
+  ram-cart on the mole; Ren's first use of his field against people while her three hold back of his
+  ring. Terms once, six run, the captain sits. No kill.
+- **V, "What He Did in the Dark"** (`MCD-1912`, Batch 382). ~Kanja 304, at sea: Wystan of Windbreak
+  serves her unasked; his strap holds through a squall and she still cannot read why. No fight.

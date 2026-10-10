@@ -4700,6 +4700,12 @@ Ledger at `ledger_version` 38.2, 2,732 rules, 380 batches.
 - **Owed.** `research/atlas-rebuild/mainline-gazetteer.json` (its "Foreign Sea" entry) awaits the same regeneration from the ledger recorded at Batch 378. Still open for Abad: what counts as proven for the title, whether the crown knows the Iron Bastard and the Ghost are one man, and the Kairo name.
 Ledger at `ledger_version` 38.3, 2,740 rules, 381 batches.
 
+**Batch 382: Anirak's second wave (`MCD-1911`, `MCD-1912`).** Abad's direction: "go ahead with Anirak's two Collections"; approval: "Lock both". Drafted on Sonnet, reviewed on Opus, fixed, clean on re-check.
+- **IV, "A Place to Stand"** (~Kanja 303). A Trust landing party at Windbreak's mole; Ren's first use of his field against people. Her three hold back of his ring. No kill.
+- **V, "What He Did in the Dark"** (~Kanja 304). Wystan of Windbreak (new, adult) serves her unasked; his strap holds in a squall, and she still cannot read his motive. No fight.
+- Anirak now holds five Collections, her launch count under the archive upload plan.
+Ledger at `ledger_version` 38.4, 2,742 rules, 382 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

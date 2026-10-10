@@ -1,6 +1,6 @@
 {
   "project": "My Rival's Distance: The Lords of Cian",
-  "ledger_version": "38.3",
+  "ledger_version": "38.4",
   "last_updated": "2026-10-10",
   "authority_order": [
     "MASTER CANON DECISIONS.docx overrides all other documents on any conflict.",
@@ -2857,6 +2857,15 @@
         "VB-068"
       ],
       "note": "Mirza locked under the new MRZ- prefix: the state, its army the Axiom and its two schools, the earned title 'of Mirza', and the writing rule VB-070. Clean on independent review at revision 2. Abad's placement ruling, verbatim: 'Mirza's crown signs the pact while its science army tries to buy the doctrine. This is the richest option, and it gives Mirza an inner conflict from the start.'. Approval of the draft, verbatim: 'Approved'. Lock, verbatim: 'Lock both'."
+    },
+    {
+      "batch": 382,
+      "source": "Original invention, chat-drafted 2026-10-10, no source document; full texts at docs/lords-of-cian/chronicles/anirak-collection-iv-a-place-to-stand.md and docs/lords-of-cian/chronicles/anirak-collection-v-what-he-did-in-the-dark.md",
+      "rules_affected": [
+        "MCD-1911",
+        "MCD-1912"
+      ],
+      "note": "Anirak's second wave locked: Collection IV 'A Place to Stand' (MCD-1911, ~Kanja 303, Windbreak, Ren's first use of his field against people, no kill) and Collection V 'What He Did in the Dark' (MCD-1912, ~Kanja 304, Wystan of Windbreak, no fight). Drafted on Sonnet, reviewed on Opus, fixed, clean on re-check. Abad's direction, verbatim: 'go ahead with Anirak's two Collections'. Approval, verbatim: 'Lock both'."
     }
   ],
   "rules": [
@@ -22064,6 +22073,20 @@
       "id": "VB-070",
       "category": "voice-bible",
       "statement": "The name and the title of Mirza are never comic in prose. No narration, in any entry or track, uses the name \"Mirza\" or the personal title \"of Mirza\" (MRZ-005) for a joke, a pun or a laugh. This holds for Series narration, close-third narration, Onyx's narration (VB-063), and the voice of a teller in a Comrade Account, an Adversary Account or a Hearsay entry (VB-067). An enemy of Mirza may mock the name or the title in dialogue, as that character's own line and within the registers VB-004 as amended allows that scene, and the prose around the line stays level. The comic registers that VB-004 as amended allows in told accounts, and the registers VB-068 names, do not extend to the name or the title. In the Axiom's formal style, \"Axiom of Mirza\" follows MRZ-003. Qualifies VB-004 and VB-068.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-10-10, no source document"
+    },
+    {
+      "id": "MCD-1911",
+      "category": "anirak-collections",
+      "statement": "Anirak Collection IV, 'A Place to Stand' (full text at docs/lords-of-cian/chronicles/anirak-collection-iv-a-place-to-stand.md). Fourth entry of Anirak's Collections, opening her second wave, close-third per VB-065. Roughly Kanja 303, about three years after Ren comes aboard (MCD-1900): a Trust landing party comes for the harbor of Windbreak, a Southern Sweep settlement (MCD-255), with a ram-cart on the mole. The Captain's word reaches her by the bosun and he stays off the page. She commands her three (Edda, Hamund, Odile, MCD-1890) and Ren, and it is Ren's first use of his active field against people (CC-101, ARS-446). Her three hold back of his ring, so the reserved payoff of her three inside Ren's field is untouched. Her combinations are staged at Warm only (ARS-438 to ARS-447). Terms are given once; six run and are not struck, four sit, the landing captain is disarmed and sits, and two on the harbor wall are taken alive (CC-164). No kill, no marquee kill spent (MCD-1881). The mole's pad is cracked; the harbor-master's 'Cutters. Masons. By autumn.' and her 'By autumn.' commit the fleet's labor to its mending. New minor local geography: the mole, its elbow pad, the harbor gate. No new named characters. Clean on independent review.",
+      "status": "locked",
+      "source": "Original invention, chat-drafted 2026-10-10, no source document"
+    },
+    {
+      "id": "MCD-1912",
+      "category": "anirak-collections",
+      "statement": "Anirak Collection V, 'What He Did in the Dark' (full text at docs/lords-of-cian/chronicles/anirak-collection-v-what-he-did-in-the-dark.md). Fifth entry of Anirak's Collections, closing her second wave, close-third per VB-065. Roughly Kanja 304, some months after Windbreak (MCD-1911): Wystan of Windbreak, a new named character, adult (twenty-six), a harbor-watch hand who hauled stone on the mole under the fleet's masons and then signed aboard, serves her unasked. She sets him the night's work on the rudder tackle; a squall comes in the last watch and his pintle strap holds. She still cannot read why he serves her, since the Siren tells her nothing about motive (CC-112), and she tells him to keep her lamp. Her doubt stays open (anirak.md Section 2). No fight, no kill. Edda and Hamund appear; Odile and Ren do not; the Captain is off the page, and the ship and helmsman stay unnamed. Clean on independent review.",
       "status": "locked",
       "source": "Original invention, chat-drafted 2026-10-10, no source document"
     }

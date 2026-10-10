@@ -1,6 +1,6 @@
 # Anirak Collection IV: A Place to Stand
 
-*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-10. Wave 2, drafted on Abad's direction "go ahead with Anirak's two Collections" (2026-10-10). The Series: Anirak's Collections. Close-third on Anirak,
+*Locked canon, Batch 382, 2026-10-10 (`MCD-1911`). Clean on independent review. Abad's approval: "Lock both". Wave 2, drafted on Abad's direction "go ahead with Anirak's two Collections" (2026-10-10). The Series: Anirak's Collections. Close-third on Anirak,
 `VB-065`. Account type: the Series; teller: none. Fourth entry of Anirak's Collections, the first entry after the
 launch run (`MCD-1898` to `MCD-1900`). The Long Mask, roughly Kanja 303, about three years after Ren comes aboard
 (`MCD-1900`, `CC-114`). A Trust landing party comes for the harbor of Windbreak, a Southern Sweep settlement

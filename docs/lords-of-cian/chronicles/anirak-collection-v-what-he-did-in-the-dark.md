@@ -1,6 +1,6 @@
 # Anirak Collection V: What He Did in the Dark
 
-*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-10. Wave 2, drafted on Abad's direction "go ahead with Anirak's two Collections" (2026-10-10). The Series: Anirak's Collections. Close-third on Anirak,
+*Locked canon, Batch 382, 2026-10-10 (`MCD-1912`). Clean on independent review. Abad's approval: "Lock both". Wave 2, drafted on Abad's direction "go ahead with Anirak's two Collections" (2026-10-10). The Series: Anirak's Collections. Close-third on Anirak,
 `VB-065`. Account type: the Series; teller: none. Fifth entry of Anirak's Collections. The Long Mask, roughly
 Kanja 304, some months after Windbreak (Collection IV, `MCD-255`). A quiet night at sea. A new hand, Wystan of
 Windbreak, serves her unasked; she sets him a task in the dark and cannot learn from it what she wants to know

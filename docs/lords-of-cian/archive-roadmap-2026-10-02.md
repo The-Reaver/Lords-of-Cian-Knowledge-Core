@@ -56,8 +56,8 @@ Core; this section only tracks what the archive will take from it.
 | Lauris: the Records | 110 | 0 |
 | Daba: the Rolls | 59 | 0 |
 | Territory Annals (20 territories, plus Arturo) | 76 | 0 |
-| Anirak: the Collections | 3 | 0 |
-| Ezio: the Exhibits | 1 (3 more drafted, not locked) | 0 |
+| Anirak: the Collections | 5 | 0 |
+| Ezio: the Exhibits | 4 | 0 |
 
 About 1,507 locked entries and 1.1 million words. All 188 gated entries are Kanja's (172 alias
 entries showing the Trinity in use, plus the whole Kanja-version track and the manuscript, and the
@@ -74,8 +74,8 @@ one undecidable entry, `MCD-729`, which counts among the 172).
   "I will upload those as if they are waiting for something to be written and they request it and
   then I upload it but I've already written it". This runs on the Standing Requests Ledger and the
   Request Fulfillment Loop the archive already ships (engagement ideas 1 and 2).
-- **Writing needed to reach five:** 17 territories hold three Annals each (+34). Anirak holds three
-  Collections (+2). Ezio holds one locked Exhibit with three drafted (+1 if the drafts are approved).
+- **Writing needed to reach five:** 17 territories hold three Annals each (+34). Anirak holds five
+  Collections (done, Batch 382). Ezio holds four locked Exhibits (+1).
   Xaragua's six are Ogoun Xarey's one and Arturo's five (+4, since the count is per leader). Kazi's 13 are Irin's
   three (+2), Tunji's five and Femi's five. Sankofa (6) already has five. Daba has 59.
 - **Order of writing (Abad, 2026-10-09):** Ezio's three drafts first, then Anirak's two, then the
