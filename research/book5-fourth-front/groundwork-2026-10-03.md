@@ -77,7 +77,7 @@ Book 5's distance from Book 1 is **not locked**.
 | Orlok | Book 2, Moonvault journey (`CC-143`) | Book 2 | Enlightened; erosion cost (`CC-107`) | **Gate** (`MCD-098`, `MCD-221`); resolves Vakas there (`CC-106`) |
 | Anansi | Rebellion (Ghost-Lattice seeded age 21, `MCD-242`); first solo command age 44 (`MCD-248`) | Rebellion | alive | **Gate** |
 | Ezio Valcari | Rebellion, ~16 at the Furnace District Strike (`MCD-373`) | Rebellion | alive; "cover dies at the gate" (`MCD-098`) | **Gate** |
-| Fermand Aurelias | age 270, escape and recruitment (`MCD-268`) | Long Mask | alive | **Gate** |
+| Fermand Aurelias | Kanja age about 112, escape and recruitment (`MCD-268`, amended Batch 380) | Long Mask | alive | **Gate** |
 | Legbara Kalunga | Archipelago, not crew (`MCD-095`, `CC-128`) | — | alive | **Gate** (`MCD-220`) |
 | Valeria Korth | not dated; age ~210 at Book 1 (`CC-104`) | ? | "VALERIA MUST SURVIVE" (`CC-070`) | **Implicitly Gate.** The sibling reveal occurs "on-page during the Book 5 Gate Battle" (`MCD-220`, `MCD-224`), but she is not on `MCD-221`'s roster. |
 | Red Beard (Tarn Cestari) | not Kanja's crew; first contact age 285 (`MCD-269`); defects to Ozmund in Book 1 with ~150,000 Cestari (`CC-023`) | — | alive | **Line commander** (`MCD-221`); 40-minute engagement with Baryon (`MCD-225`); Book 4 Silence reckoning (`MCD-092`) |

@@ -1,6 +1,6 @@
 # Ezio Exhibit III: What the Patron Never Says
 
-*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-09. The Series: Ezio's Exhibits. Teller: Fermand
+*Locked canon, Batch 380, 2026-10-10 (`MCD-1909`). Clean on independent review. Abad's approval: "lock it". Teller and rulings: approval-list items 4, 6 and 7, "items 4, 6 and 7 "Yes" to all three". The Series: Ezio's Exhibits. Teller: Fermand
 Aurelias, per `CC-034` and `VB-024`. The third Exhibit. An ordinary operational handoff from Lady
 Nadea Thren to Ezio (`MCD-021`, `CC-029`, `CC-073`), showing how the patron relationship runs day to
 day. Fermand notices a silence between them and says plainly that he does not know its content;

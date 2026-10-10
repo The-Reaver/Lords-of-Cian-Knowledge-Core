@@ -4686,6 +4686,12 @@ Ledger at `ledger_version` 38.0, 2,728 rules, 378 batches.
   stay unedited; the archive repo's Phase 5 plan is owed an update to name the manifest.
 Ledger at `ledger_version` 38.1, 2,729 rules, 379 batches.
 
+**Batch 380: Ezio Exhibits II-IV (`MCD-1908`-`MCD-1910`) and approval-list items 4, 6 and 7.** Abad: "items 4, 6 and 7 "Yes" to all three"; approval of the Exhibits: "lock it". Drafted on Sonnet, reviewed on Opus (NOT CLEAN on all three, fixed, clean on re-check).
+- **Exhibit II** tells Lauris's recruitment from Ezio's side, after her own defection (`MCD-194`). **III** is a Nadea Thren handoff and stops short of `MCD-1875`. **IV** shows Valen guarding Ezio's cover.
+- **Rulings.** `CC-028`: Ezio is about 308 at the Ceremony, five years younger than Kanja. `CC-027`: Fermand knows a cover exists and that Valen guards it, not what it hides. `MCD-268`: Fermand escapes the Citadel at about Kanja 112, by a Ghost-Lattice courier, not Ghostwind.
+- Rests on approval-list item 2 (human lifespan), still open.
+Ledger at `ledger_version` 38.2, 2,732 rules, 380 batches.
+
 ## Separate, unrelated thread: the interactive archive app
 
 The Lords of Cian interactive archive (repo `The-Reaver/My-Rivals-Distance-Archive`) is a different project with its own reconciled game plan (`lords-of-cian-archive-game-plan.md`, also mirrored in the Claude Project). It is not blocked on canon work and canon work is not blocked on it. Updated 2026-09-03: the "zero commits" flag from 2026-08-23 is stale -- the repo now has one real commit ("Scaffold Next.js + Python canon-service + Supabase Knowledge Core"), a genuine Next.js App Router + Supabase build with a landing page and a character-index page. The RLS/email-confirmation flag looks resolved on inspection: both migrations (`0001_operational_schema.sql`, `0002_knowledge_core_schema.sql`) implement comprehensive RLS on every table, with the sensitive `knowledge_core` schema fully revoked (not just RLS-denied) from `anon`/`authenticated`, and `email_confirmed_at` synced from `auth.users` via trigger. Not independently verified live -- the Supabase project (`lords-of-cian-archive`, id `dghkxaclaeluheahdsne`) is currently paused/inactive, so nothing is publicly reachable right now regardless. Re-check with `mcp__Supabase__get_advisors` once the project is unpaused before fully closing this flag.

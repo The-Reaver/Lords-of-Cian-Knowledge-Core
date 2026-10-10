@@ -18,7 +18,7 @@ contradiction (the prose's own setup of three settlements/nine levies vs. later 
 "eleven settlements"/"eleven files"/"cheated for eleven years") reconciled to three throughout; a
 dangling numeric age claim ("seventy-five years of work," colliding with his age's own unresolved
 cross-track discrepancy, see `CC-028`'s open flag) reworded to non-numeric phrasing pending Abad's
-ruling on his true age; two cosmetic fixes (a run-on clause, a sealed-data-plate/local-copy
+ruling on his true age (resolved Batch 380, `CC-028`); two cosmetic fixes (a run-on clause, a sealed-data-plate/local-copy
 clarification).*
 
 ---

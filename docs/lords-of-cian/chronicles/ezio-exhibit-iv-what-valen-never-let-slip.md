@@ -1,6 +1,6 @@
 # Ezio Exhibit IV: What Valen Never Let Slip
 
-*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-09. The Series: Ezio's Exhibits. Teller: Fermand
+*Locked canon, Batch 380, 2026-10-10 (`MCD-1910`). Clean on independent review. Abad's approval: "lock it". Teller and rulings: approval-list items 4, 6 and 7, "items 4, 6 and 7 "Yes" to all three". The Series: Ezio's Exhibits. Teller: Fermand
 Aurelias, per `CC-034` and `VB-024`. The fourth Exhibit. A quiet entry that shows Valen guarding
 Ezio's cover (`WC-016`) and the bond between the two cousins (`CC-026`, `CC-108`). Fermand learns
 that Valen guards Ezio's cover, and does not learn what it hides; the capability

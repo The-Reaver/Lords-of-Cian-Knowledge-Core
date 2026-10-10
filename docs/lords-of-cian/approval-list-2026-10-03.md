@@ -54,7 +54,7 @@ another as well.
 - Scope: 5 rules and 4 files.
 - Alternative: the short scale with birth-cohort "generations," which breaks `MCD-150`.
 
-**4. When Fermand joined.** `MCD-268` has him escaping at Kanja 270, but `MCD-194` puts him at Lauris's
+**4. When Fermand joined. RESOLVED, Batch 380 (`MCD-268`): about Kanja 112.** `MCD-268` has him escaping at Kanja 270, but `MCD-194` puts him at Lauris's
 recruitment near Kanja 114.
 - **Recommend:** move his escape to about Kanja 112. A Ghost-Lattice courier replaces Ghostwind, who
   isn't recruited until Kanja 130.
@@ -66,13 +66,13 @@ caldera settlement.
 - **Recommend about 6,300 years old** ("six millennia"). Scope: `MCD-316`.
 - Alternative: keep 4,200 and make him a later arrival who inherited the refusal.
 
-**6. Ezio's true age.** `CC-028` says 75. `MCD-373`, manuscript Chronicle VIII, `MCD-194`, and
+**6. Ezio's true age. RESOLVED, Batch 380 (`CC-028`): about 308.** `CC-028` says 75. `MCD-373`, manuscript Chronicle VIII, `MCD-194`, and
 `MCD-1661` all imply more.
 - **Recommend about 308, five years younger than Kanja.** This follows from item 1: Kanja is 313 at
   the Fulfillment Ceremony (`MCD-1901`).
 - Scope: `CC-028` and the Ezio profile.
 
-**7. Is Fermand a sixth person who knows Ezio's classified capability?**
+**7. Is Fermand a sixth person who knows Ezio's classified capability? RESOLVED, Batch 380 (`CC-027`): no; Lauris Record IX stands, consistent.**
 - **Recommend no.** He knows a cover exists; he does not know the capability. Add one clause to
   `CC-027` making that distinction. The two unlocked Ezio drafts' headers are tidied to match.
 - Also held under this question: locked Lauris Record IX (`MCD-1626`), where Fermand narrates
@@ -286,8 +286,8 @@ her").
 - Recommended: (a). It matches how Fermand already transcribes her archive (`VB-064`) and changes
   one rule instead of several entries.
 - Found by the eighth review of `VB-066`/`VB-067`. Under `VB-067` a conflict with the teller bound is
-  always held for your ruling, never corrected directly. It sits beside item 7 (is Fermand a sixth
-  knower of Ezio's capability?), which has the same shape.
+  always held for your ruling, never corrected directly. It sits beside item 7 (resolved Batch 380:
+  Fermand is not a sixth knower, `CC-027`), which had the same shape.
 
 ---
 

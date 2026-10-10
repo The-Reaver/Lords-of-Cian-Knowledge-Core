@@ -1,6 +1,6 @@
 # Batch 380 draft: Ezio Exhibits II-IV and approval-list items 4, 6 and 7
 
-*For Abad's approval, 2026-10-10. Merge script: `merge_batch380_ezio_exhibits.py` (dry run clean).*
+*Locked, Batch 380. Abad: "lock it". For Abad's approval, 2026-10-10. Merge script: `merge_batch380_ezio_exhibits.py` (dry run clean).*
 
 Abad's rulings, 2026-10-10, verbatim: "items 4, 6 and 7 "Yes" to all three". The recommendations he
 accepted were set out in `docs/lords-of-cian/approval-list-2026-10-03.md` and restated in the

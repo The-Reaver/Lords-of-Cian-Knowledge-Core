@@ -1,10 +1,10 @@
 # Ezio Exhibit II: The Question He Waited Twenty Years to Ask
 
-*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-09. The Series: Ezio's Exhibits. Teller: Fermand
+*Locked canon, Batch 380, 2026-10-10 (`MCD-1908`). Clean on independent review. Abad's approval: "lock it". Teller and rulings: approval-list items 4, 6 and 7, "items 4, 6 and 7 "Yes" to all three". The Series: Ezio's Exhibits. Teller: Fermand
 Aurelias, per `CC-034` and `VB-024`. The second Exhibit. Dramatizes the recruitment of Lauris
 Letitia from Ezio's side (`MCD-194`, `MCD-195`, `MCD-1661`): the roughly two decades of observation before the
 meeting, Aerelin's mediation, the private coastal residence, Fermand withdrawing to a side room, the
-agreement to say nothing further on one subject, and the Attia role. Fermand knows Ezio keeps a cover and does not know what it hides (approval-list item 7, pending; `VB-067`). Strictly pre-Book-1. No new named characters.*
+agreement to say nothing further on one subject, and the Attia role. Fermand knows Ezio keeps a cover and does not know what it hides (`CC-027` as amended Batch 380; `VB-067`). Strictly pre-Book-1. No new named characters.*
 
 ---
 
@@ -103,4 +103,4 @@ could not fully document, and finding that he was right.
 ---
 
 *Continuity notes (not narrative): the meeting follows `MCD-194`; the agreement to say nothing further is reported only as an agreement, with its subject
-beyond Fermand's knowledge (approval-list item 7, pending; `VB-067`). The recruitment falls roughly two centuries before Book 1 (`MCD-195`, `MCD-1661`). No combat, no Kanja, strictly pre-Book-1.*
+beyond Fermand's knowledge (`CC-027` as amended Batch 380; `VB-067`). The recruitment falls roughly two centuries before Book 1 (`MCD-195`, `MCD-1661`). No combat, no Kanja, strictly pre-Book-1.*

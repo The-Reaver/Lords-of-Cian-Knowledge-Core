@@ -31,7 +31,7 @@ in context.)
 - `CC-026` / `WC-016` / `CC-108` — first cousin of Valen Sinisterblade, of House Valcari, sharing
   the "Sinister Bloodline" martial tradition; Valen personally and familially trained him in the
   Sinister Bloodline's War-Side tradition (extends `CC-035`), not merely a shared lineage.
-- `CC-028` — 75 years old (present-day/Book 1 timeline), with 750 years of wisdom-equivalence
+- `CC-028` — roughly 308 at the Fulfillment Ceremony, five years younger than Kanja (amended Batch 380 from 75), with 750 years of wisdom-equivalence
   gained through training under Sephtis.
 - `MCD-373` — roughly sixteen years old at the Furnace District Strike (Kanja's own age 21 at that
   battle, `MCD-244`) — his earliest demonstrated appearance in the corpus.
