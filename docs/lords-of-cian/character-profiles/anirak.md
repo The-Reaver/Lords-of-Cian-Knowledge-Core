@@ -707,6 +707,11 @@ match after three rounds of independent review.
 - **Abad's pick / direction:** "let's go with your recommendations." All three pitches, as one wave, in
   chronological order: 2 (What Maw-11 kept), then 3 (The second harness), then 1 (The body the world
   was not built for). Every other recommendation stands as written above.
+- **Wave 2 direction (2026-10-10):** "go ahead with Anirak's two Collections", given for the archive
+  launch's five entries per leader. The two drafts serve as the wave's pitches and are presented whole
+  for approval; every Game Plan constraint above still binds them. IV, "A Place to Stand" (about Kanja
+  303, Ren's first use of his field against people, no kills); V, "What He Did in the Dark" (about
+  Kanja 304, a new hand tested on a night watch, no fight). Pending Abad's approval.
 
 ---
 
