@@ -24,18 +24,18 @@ NEW = [
      "docs/lords-of-cian/chronicles/ezio-exhibit-ii-the-question-he-waited-twenty-years-to-ask.md). The Series: "
      "Ezio's Exhibits; teller Fermand Aurelias (CC-034, VB-024). Dramatizes Lauris Letitia's recruitment from "
      "Ezio's side (MCD-194): roughly two decades of reading her reports, three moments he judged acting would "
-     "cost her more than waiting, and a single after-action phrase that decided him. She leaves the Directorate "
+     "cost her more than waiting, and a single after-action phrase Fermand believes decided him. She leaves the Directorate "
      "on her own; some two months later, while she moves between Aerelin's safe-houses (MCD-193, MCD-267), he "
      "arranges the meeting at a private coastal residence through Aerelin's mediation. Fermand withdraws to a "
      "side room. Ezio reports afterward the Sephtis-archive briefing, the Attia role, her three conditions "
      "accepted without amendment, and one subject the two agreed to say nothing further on, which he does not "
-     "name. Fermand learns of the file only when asked to accompany him (CC-027 and MCD-268 as amended Batch "
-     "380). No new named characters. Strictly pre-Book-1."),
+     "name (CC-027 as amended Batch 380). Fermand learns of the file only when asked to accompany him "
+     "(MCD-268 as amended Batch 380). No new named characters. Strictly pre-Book-1."),
     ("MCD-1909", "Ezio Exhibit III, 'What the Patron Never Says' (full narrative text at "
      "docs/lords-of-cian/chronicles/ezio-exhibit-iii-what-the-patron-never-says.md). The Series: Ezio's "
      "Exhibits; teller Fermand Aurelias. An ordinary handoff from Lady Nadea Thren (MCD-021, CC-029, CC-073): a "
      "Trust auditor in the Lawless Reaches, a three-month window, a briefing of a few words. As they leave she "
-     "tells Ezio he looks tired; he does not answer. Fermand records a stillness between them whose content he "
+     "tells Ezio he looks tired; he answers that it suits the work, and does not answer her reply that it should not have to. Fermand records a stillness between them whose content he "
      "does not know and asks for no account of it. States nothing of what either knows or feels, and neither "
      "touches nor foreshadows MCD-1875. No new named characters. Strictly pre-Book-1."),
     ("MCD-1910", "Ezio Exhibit IV, 'What Valen Never Let Slip' (full narrative text at "
@@ -56,13 +56,14 @@ REPLACE_STATEMENT = {
 }
 APPEND = {
     "CC-027": (" Batch 380 note: Fermand Aurelias knows that Ezio keeps a cover and that Valen guards it, and does "
-               "not know what it hides; he is not a sixth knower (approval-list item 7)."),
+               "not know what it hides; he is not a sixth knower (approval-list item 7). He also knows that Lauris's Attia "
+               "bond helps keep the cover (CC-111; Lauris Record IX, MCD-1626, which stands as consistent)."),
     "MCD-268": " Amended Batch 380, per approval-list item 4.",
 }
 SUBS = {
     "MCD-268": [
         ("Fermand Aurelias's escape (age 270)",
-         "Fermand Aurelias's escape (Kanja age about 112, about two years before Lauris's recruitment, MCD-194)"),
+         "Fermand Aurelias's escape (Kanja age about 112, about two years before Lauris's recruitment, MCD-194, MCD-267)"),
         ("extraction coordinates delivered by Ghostwind",
          "extraction coordinates delivered by a Ghost-Lattice courier (Ghostwind is not recruited until Kanja "
          "age 130, MCD-258)"),
@@ -86,6 +87,14 @@ def file_edits(approval):
         (DOCS + "chronicle-tracks-status.md",
          "| wave 1 locked | 1 (own series, `MCD-1876`)",
          "| wave 2 locked | 4 (own series, `MCD-1876`, `MCD-1908`-`MCD-1910`)", 1),
+        (CH + "ezio-exhibit-i-the-frequency-that-never-failed.md",
+         "pending Abad's\nruling on his true age;", "pending Abad's\nruling on his true age (resolved Batch 380, `CC-028`);", 1),
+        ("research/book5-fourth-front/groundwork-2026-10-03.md",
+         "| Fermand Aurelias | age 270, escape and recruitment (`MCD-268`) |",
+         "| Fermand Aurelias | Kanja age about 112, escape and recruitment (`MCD-268`, amended Batch 380) |", 1),
+        (DOCS + "approval-list-2026-10-03.md",
+         "It sits beside item 7 (is Fermand a sixth\n  knower of Ezio's capability?), which has the same shape.",
+         "It sits beside item 7 (resolved Batch 380:\n  Fermand is not a sixth knower, `CC-027`), which had the same shape.", 1),
         (DOCS + "approval-list-2026-10-03.md", "**4. When Fermand joined.**",
          "**4. When Fermand joined. RESOLVED, Batch 380 (`MCD-268`): about Kanja 112.**", 1),
         (DOCS + "approval-list-2026-10-03.md", "**6. Ezio's true age.**",
@@ -93,7 +102,7 @@ def file_edits(approval):
         (DOCS + "approval-list-2026-10-03.md",
          "**7. Is Fermand a sixth person who knows Ezio's classified capability?**",
          "**7. Is Fermand a sixth person who knows Ezio's classified capability? RESOLVED, Batch 380 "
-         "(`CC-027`): no.**", 1),
+         "(`CC-027`): no; Lauris Record IX stands, consistent.**", 1),
     ]
 
 
