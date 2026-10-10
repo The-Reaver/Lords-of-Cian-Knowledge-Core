@@ -73,7 +73,7 @@ His three follow-up choices, as his answers: on the Sin-Eaters and the family's 
 
 Readings, each for Abad to confirm:
 
-1. **His age.** He is 789 at the Fulfillment Ceremony, Book 1's opening, when Kanja is 313 (`MCD-1901`), so he is 476 years older than Kanja and was about 631 at the Parley of the Raptor's Nest (Kanja 155, `MCD-259`). The coup came in his childhood. The coup came in his childhood, so no earlier than his birth, 476 years before Kanja's. How long his childhood ran is not set, so no later bound follows, and the year stays unset.
+1. **His age.** He is 789 at the Fulfillment Ceremony, Book 1's opening, when Kanja is 313 (`MCD-1901`), so he is 476 years older than Kanja and was about 631 at the Parley of the Raptor's Nest (Kanja 155, `MCD-259`). The coup came in his childhood, so no earlier than his birth, 476 years before Kanja's. How long his childhood ran is not set, so no later bound follows, and the year stays unset.
 2. **The whole Shogunate.** His family governed the whole Shogunate from Kairo, the capital it helped build. He is heir to the city and to the family's governance of the Shogunate.
 3. **The betrayer.** The betrayer is a powerful warrior turned warlord, still unnamed, still a major character, with the later death still reserved. Whether the family died in the flight or after it stays open.
 4. **Death.** Vile-Sire and Hollow-Dam die by the end of Book 3. By whose hand, and the Sin-Eaters' fate, stay open.
@@ -196,7 +196,7 @@ Era and gear check: no gear is placed. `ARS-410`'s Zephyr-Frame and Lenses are u
 6. **What specifically changes in his biology as it matures.** Nothing is set beyond the fact of it, from Book 3 to the end of Book 5. Recommend taking the specifics from the mining batch (question 9), and using "matures" language, never the Shogunate's augmentation terms.
 7. **Which Book 5 front the Shogunate's forces join.** `MCD-221` does not list them. Recommend deciding at the Book 5 outline, with Stormreaver's Tide Line place (`MCD-1890`) as the fixed point.
 8. **When the Long Mask is revealed to have been Kanja.** The reveal is locked nowhere, and it sets when the name King of Cian grows. Recommend leaving it open until the Book 1 outline places it, and keeping pre-Book-1 entries inside the bounds of reading 11.
-9. **Schedule the mining batch for both progression documents.** Mining the blueprint is approved as its own batch; confirm adding `16_Avatar_Two_Tier_Placements` to it. Recommend one batch, run through the gate, settling the known issues above for every profile at once.
+9. **Schedule the blueprint mining batch, and confirm whether to add the second document.** Mining the blueprint is approved as its own batch; confirm adding `16_Avatar_Two_Tier_Placements` to it. Recommend one batch, run through the gate, settling the known issues above for every profile at once.
 10. **Who counts as a crew member with powers (`MCD-1914`)?** The founding dock crew have no powers, and `16_Avatar_Two_Tier_Placements` treats Matar as standard biology. Recommend: the Avatars of `MCD-140` plus any crew member a locked rule gives variant biology.
 
 ## 6. Collision check
