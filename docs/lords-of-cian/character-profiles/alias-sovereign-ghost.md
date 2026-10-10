@@ -252,7 +252,8 @@ Psychological Profile:
   `MCD-1040`).
 - **First-contact and humanitarian registers pushing past the Trust conflict's own boundaries:** an
   unknown island people met past the edge of Danne Sok's charts (`MCD-1204`); a foreign nation's
-  formal, then sustained bilateral acknowledgment (`MCD-490`, `MCD-1040`); pure rescue/logistics
+  formal, then sustained bilateral acknowledgment (`MCD-490`, `MCD-1040`; the nation is Mirza,
+  `MRZ-001`, Batch 381); pure rescue/logistics
   entries with zero combat (`MCD-775`, `MCD-1208`, `MCD-1220`).
 - **A recurring closing-ensemble structure at wave boundaries** — waves consistently end on a
   reflective/synthesizing entry (e.g., `MCD-800`, `MCD-1040`, `MCD-1228`) rather than a climax,

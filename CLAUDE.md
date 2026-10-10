@@ -92,7 +92,7 @@ that needs a new fact is drafted and presented for approval. The gate step also 
 
 ## Rule-ID prefixes in use
 
-`MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`, `LEX`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.; `LEX-` was claimed 2026-10-04, Batch 377, for in-world common vocabulary and venue names, each locked as its own rule per `VB-068`). Check the ledger for the next unused ID in a prefix before drafting; never guess.
+`MCD`, `VB`, `ARS`, `SBD`, `HLD`, `MAW`, `GEO`, `WC`, `CC`, `POL`, `COS`, `CHAR`, `CULT`, `WGD`, `ASH`, `PH2`, `LEX`, `MRZ`. A new institution or system gets its own new prefix rather than overloading an existing one (`ASH-` was claimed this way for the Ashkeel institution; `PH2-` was claimed 2026-09-05, Batch 59, for the Phase 2 homage-era world -- its own separate World per `MCD-313`, distinct enough from mainline Cian material to warrant a dedicated prefix rather than folding into `MCD`/`CC`/etc.; `LEX-` was claimed 2026-10-04, Batch 377, for in-world common vocabulary and venue names, each locked as its own rule per `VB-068`; `MRZ-` was claimed 2026-10-10, Batch 381, for the state of Mirza and its army, the Axiom, a new institution kept apart from mainline Cian material). Check the ledger for the next unused ID in a prefix before drafting; never guess.
 
 ## Merge script pattern
 
@@ -4691,6 +4691,14 @@ Ledger at `ledger_version` 38.1, 2,729 rules, 379 batches.
 - **Rulings.** `CC-028`: Ezio is about 308 at the Ceremony, five years younger than Kanja. `CC-027`: Fermand knows a cover exists and that Valen guards it, not what it hides. `MCD-268`: Fermand escapes the Citadel at about Kanja 112, by a Ghost-Lattice courier, not Ghostwind.
 - Rests on approval-list item 2 (human lifespan), still open.
 Ledger at `ledger_version` 38.2, 2,732 rules, 380 batches.
+
+**Batch 381: Mirza, the Axiom and the writing rule (`MRZ-001`-`MRZ-007`, `VB-070`).** Abad's placement: "Mirza's crown signs the pact while its science army tries to buy the doctrine. This is the richest option, and it gives Mirza an inner conflict from the start."; approval of the draft: "Approved"; lock: "Lock both". New prefix `MRZ-`. Drafted, then clean on independent review at revision 2.
+- **The state.** Mirza is the unnamed foreign sea nation of `MCD-490` and `MCD-1040`, under a crown that is an office. It lies within ordinary sailing reach of Cian, off the Atlas grid, and is not the fourth continent; its geography stays open (`MRZ-001`, `MRZ-002`).
+- **The army.** The Axiom: Postulants, Theorem as a rank only, a campaign "a proof", a won war "proven" (unrelated to the Proven density tier). Two schools, the Fulcrum and the Prism. Its science stays inside this world's physics and tech level (`MRZ-003`, `MRZ-006`).
+- **The conflict.** The royal corps of `MCD-1414` is the Axiom's. That sovereign sent the envoy, and the offer runs against the crown's own course of `MCD-1040`. The depot mystery keeps its culprit unassigned (`MRZ-004`). Other foreign contacts stay unidentified (`MRZ-007`).
+- **The title.** "Of Mirza" is only an earned title for proven scholar-soldiers, and "Axiom of Mirza" appears only in formal documents. "Mirza is marching" is outsiders' dialogue only (`MRZ-005`). `VB-070`: the name and the title are never comic in prose; enemies may mock them in dialogue.
+- **Owed.** `research/atlas-rebuild/mainline-gazetteer.json` (its "Foreign Sea" entry) awaits the same regeneration from the ledger recorded at Batch 378. Still open for Abad: what counts as proven for the title, whether the crown knows the Iron Bastard and the Ghost are one man, and the Kairo name.
+Ledger at `ledger_version` 38.3, 2,740 rules, 381 batches.
 
 ## Separate, unrelated thread: the interactive archive app
 

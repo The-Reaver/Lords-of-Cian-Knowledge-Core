@@ -1,12 +1,11 @@
 # Draft: Mirza, the state, its army, and the writing rule
 
-*Draft for Abad's approval, revision 2, dated 2026-10-10. Nothing here is locked. Follows the planning notes
+*Locked, Batch 381, 2026-10-10. Abad's approval of the draft: "Approved"; lock: "Lock both". The reading of question 1 in section 6 is the text of `MRZ-004` as approved; questions 2 to 10 stay open. Revision 2, dated 2026-10-10. Follows the planning notes
 at `docs/lords-of-cian/drafts/2026-10-10-mirza.md`. Revision 2 follows the first independent review. The new
 prefix is `MRZ-` (a new institution gets its own prefix, as `ASH-` did for Ashkeel). The writing rule is
 `VB-070`, the next unused Voice Bible number (the ledger's highest is `VB-069`; there is no `MRZ-` rule yet).
 All rules below are written to lock with `"status": "locked"`, source `"Original invention, chat-drafted
-2026-10-10, no source document"`. The Connective-Tissue Gate still owes its independent review of this
-revision before it is presented as final.*
+2026-10-10, no source document"`. Clean on independent review of this revision.*
 
 ## 1. Abad's rulings this draft rests on
 
