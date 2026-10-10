@@ -242,4 +242,4 @@ combat (`CC-164` not engaged). No Onyx passage; the Trinity does not appear and 
 `MCD-246`). Reserved threads untouched: Hot and White and the synchronization, Flood State, active sonar,
 Sereth Vaul, Lady Vestige's turn, her three inside Ren's field, the loss of any of her three, her origin's
 open questions (the debt, her community, the brand), the undead, her age. Voice: close-third per `VB-065`,
-articles kept, "the Captain" not needed, no banned words.*
+articles kept, "the Captain" for the one mention, no banned words.*

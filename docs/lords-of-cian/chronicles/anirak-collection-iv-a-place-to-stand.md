@@ -331,8 +331,9 @@ ever to trust it in an engagement"). The Depth-Charge (the 1 m crush with six ho
 field is held eleven breaths. The pad's star-crack and the split crane footing are the field's load on stone
 under a loaded cart; the soldiers on the pad go to their knees under three times their weight and no one is
 crushed or trapped (the cart's pushers are behind it on poles, not under it). Anirak's three (`MCD-1890`,
-`ARS-447`'s Eastern Passage, here as a cask-line at her back) stay twenty-five paces from the pad's edge and
-therefore well beyond Ren's fifteen-meter active radius at every moment; they are never inside his field, so
+`ARS-447`'s Eastern Passage, here as a cask-line at her back) stay twenty-five paces from the pad's edge while
+the field is up, well beyond Ren's fifteen-meter active radius; afterward Hamund comes up the lane and Edda
+comes only to the crack's far rim, outside his ring; they are never inside his field, so
 the reserved payoff (her three inside Ren's field, stripped of the Siren and still hers, `anirak.md` Section 3)
 is untouched, and the passive ring is not entered by any of the three. Odile alone stands at the lane, and the
 arm across the gap is the only physical contact. Nobody gives Anirak a reason to learn what the field does to
