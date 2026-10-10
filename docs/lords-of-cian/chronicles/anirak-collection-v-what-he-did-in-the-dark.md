@@ -1,16 +1,14 @@
 # Anirak Collection V: What He Did in the Dark
 
-*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-10. The Series: Anirak's Collections. Close-third on Anirak,
+*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-10. Wave 2, drafted on Abad's direction "go ahead with Anirak's two Collections" (2026-10-10). The Series: Anirak's Collections. Close-third on Anirak,
 `VB-065`. Account type: the Series; teller: none. Fifth entry of Anirak's Collections. The Long Mask, roughly
-Kanja 304, some months after Windbreak (Collection IV, `MCD-255`). A quiet night at sea. A new hand, Lorcan of
+Kanja 304, some months after Windbreak (Collection IV, `MCD-255`). A quiet night at sea. A new hand, Wystan of
 Windbreak, serves her unasked; she sets him a task in the dark and cannot learn from it what she wants to know
 (`CC-112`, her doubt held open, `anirak.md` Section 2). Quieter and costlier register: a night of pacing, one
 squall, no fight, no Combination Codex staging beyond her biology taking a blow and returning it. Kill status:
 none, no kill spent (Gethin Tamber, `MCD-1898`, is the only marquee kill used so far, of at most three,
-`MCD-1881`). New named character: Lorcan, adult, a Windbreak harbor-watch hand; collision-checked against the
-full ledger and every file in `docs/lords-of-cian/` and `research/`: zero hits for Lorcan, and no name in
-the ledger or the entries within edit distance 2 (the first candidate, Dacre, was dropped for sitting two edits
-from Danne Sok). Anirak, Hamund, Edda reused (Odile and Ren do not appear); the Captain is not on the page. The
+`MCD-1881`). New named character: Wystan, adult, a Windbreak harbor-watch hand; collision-checked:
+Wystan: zero hits in the ledger, docs/ and research/ at edit distance two or less. Anirak, Hamund, Edda reused (Odile and Ren do not appear); the Captain is not on the page. The
 ship and its helmsman are unnamed. No child-safety issues.*
 
 ---
@@ -23,7 +21,7 @@ She stood at the rail with the evening sun low on her face and listened to the s
 
 Behind her, a lamp-wick scraped.
 
-The hand called Lorcan stood at the lantern locker with a rag, trimming the stern lantern she hung over her hammock. He was a harbor-watch man from Windbreak, twenty-six, rigger's hands, the left thumb crooked from a bad splice. He had hauled stone on the mole all that autumn under the fleet's masons, and the day the last cap-stone was seated he had asked the bosun whether the Captain's ship took hands. The bosun had said it did.
+The hand called Wystan stood at the lantern locker with a rag, trimming the stern lantern she hung over her hammock. He was a harbor-watch man from Windbreak, twenty-six, rigger's hands, the left thumb crooked from a bad splice. He had hauled stone on the mole all that autumn under the fleet's masons, and the day the last cap-stone was seated he had asked the bosun whether the Captain's ship took hands. The bosun had said it did.
 
 Three months aboard. Her lantern trimmed each dusk. Her water-skin full each dawn. A bowl set on the rail beside her at the evening meal. Nobody had told him to do any of it.
 
@@ -31,7 +29,7 @@ He felt her looking. His face came round to her and held.
 
 She knew the look. A good many harbors had given it to her.
 
-"Lorcan."
+"Wystan."
 
 "Yes."
 
@@ -107,7 +105,7 @@ The first of it struck the quarter with a noise like a wall falling.
 
 The ship heeled and came back, and the stern lifted on a black hill of water and slid off its back. The tiller bar slammed over in the helmsman's hands. He went with it, his feet leaving the planks, and the ship swung broadside to the sea with her rigging screaming.
 
-Below the deck, in the dark under the helm, a crack. Iron taking a load all at once. Then a sound she knew, the sound of a thing about to let go.
+Below the deck, in the dark under the helm, a bang. Iron taking a load all at once. Then a sound she knew, the sound of a thing about to let go.
 
 She had her hands on the bar before the next sea came.
 
@@ -133,7 +131,7 @@ The helmsman went forward to the benches, his hands shaking, and sat down.
 
 The hatch grating lifted.
 
-Lorcan came up the ladder on his hands and knees. He was black to the elbows. Tar in his hair, tar on his face where he had wiped it with the back of his wrist. A cut on the crooked thumb, bleeding into the tar. He knelt on the deck and breathed.
+Wystan came up the ladder on his hands and knees. He was black to the elbows. Tar in his hair, tar on his face where he had wiped it with the back of his wrist. A cut on the crooked thumb, bleeding into the tar. He knelt on the deck and breathed.
 
 His face came round to her and held.
 
@@ -157,9 +155,9 @@ The aft flat was four feet high. She went down the ladder and along a beam on he
 
 She could not walk in it.
 
-The weight went out of her arms and shoulders. Down. Out through her hands. She felt it go, a little at a time, the way heat goes out of iron left in the rain.
+She knelt at the strap and was still. The weight went out of her arms and shoulders. Down. Out through her hands. She felt it go, a little at a time, the way heat goes out of iron left in the rain.
 
-Lorcan knelt beside her and held the lamp up to the lower strap.
+Wystan knelt beside her and held the lamp up to the lower strap.
 
 The strap. The bolt. The nut run up hard, and a seizing of tarred twine wound round it, neat as a bandage. Beside it on the pintle, a bright scar in the old metal where the bolt had walked.
 
@@ -207,13 +205,13 @@ Then she turned and walked the deck again, mainmast to taffrail, the chains sway
 
 *Continuity notes (not narrative): a new event, not on the locked battle lists. The Long Mask, roughly Kanja 304,
 some months after Windbreak (Collection IV, roughly 303; Windbreak and Ashcoral are locked settlements,
-`MCD-255`), three months after Lorcan came aboard; the Proxy War (305, `MCD-271`) is neither shown nor hinted at.
-The Captain does not appear and is not mentioned; nothing in the entry reads or implies his condition, its
-cause, the Pi-Awakening, the murder or Book 1 (`MCD-1902`, `MCD-1903`, `MCD-1904`). Lorcan is a new minor
+`MCD-255`), three months after Wystan came aboard; the Proxy War (305, `MCD-271`) is neither shown nor hinted at.
+The Captain does not appear; he is mentioned once, in the new hand's question to the bosun; nothing in the entry reads or implies his condition, its
+cause, the Pi-Awakening, the murder or Book 1 (`MCD-1902`, `MCD-1903`, `MCD-1904`). Wystan is a new minor
 character, an adult (twenty-six), a Windbreak harbor-watch hand who hauled stone on the mole's repair under the
 fleet's masons (the repair promised in Collection IV, "Cutters. Masons. By autumn.") and signed on when the last
 cap-stone was seated; the bosun takes hands without any institutional rule stated. The Siren (`CC-112`) is
-shown as faces turning and holding: Lorcan's, the helmsman's, the harbor-watch's in memory; no face leaves and
+shown as faces turning and holding: Wystan's, the helmsman's, the harbor-watch's in memory; no face leaves and
 returns, so nothing here echoes or competes with the one exception that Collection III gives Ren
 (`CC-112`). Her doubt is held open and not answered: the task is real (the strap is working loose, heard by
 her through the hull as the limp), the deed is real and saves the rudder, the answer he gives is plausible, and
@@ -224,7 +222,7 @@ is one sentence (they turned their backs to her in the eastern passage at Chain 
 `MCD-1883`, `MCD-1890`) and states no conclusion about them; the doubt about them stays open and the reserved
 payoff, her three inside Ren's field, stripped of the Siren and still hers, is untouched (Ren does not appear,
 and no one enters any field). Nothing is tested on any of her three. Hamund and Edda each have a short
-moment: Hamund notes the tackle was served at Windbreak and then lets it lie, and later hands Lorcan a rag; Edda
+moment: Hamund notes the tackle was served at Windbreak and then lets it lie, and later hands Wystan a rag; Edda
 brings cheese. Odile does not appear; none of the three is hurt or lost. The task is not a trick: the strap
 bolt really was working, and her ear for the ship is ambient hydro-sensitivity applied to a hull and the
 weather (`ARS-367`, `ARS-371`, `ARS-373`): the limp, the swell, the backing wind and the squall line three

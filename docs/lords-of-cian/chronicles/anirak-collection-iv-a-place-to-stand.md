@@ -1,11 +1,11 @@
 # Anirak Collection IV: A Place to Stand
 
-*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-10. The Series: Anirak's Collections. Close-third on Anirak,
+*UNLOCKED / PENDING APPROVAL. Draft, 2026-10-10. Wave 2, drafted on Abad's direction "go ahead with Anirak's two Collections" (2026-10-10). The Series: Anirak's Collections. Close-third on Anirak,
 `VB-065`. Account type: the Series; teller: none. Fourth entry of Anirak's Collections, the first entry after the
-launch run (`MCD-1898` to `MCD-1900`). The Long Mask, roughly Kanja 303, a few months after Ren comes aboard
+launch run (`MCD-1898` to `MCD-1900`). The Long Mask, roughly Kanja 303, about three years after Ren comes aboard
 (`MCD-1900`, `CC-114`). A Trust landing party comes for the harbor of Windbreak, a Southern Sweep settlement
-(`MCD-255`), with a ram-cart on the mole. Anirak commands her three (Edda, Hamund, Odile, `MCD-1890`) and Ren
-(`CC-101`, `ARS-446`, `ARS-447`) with the Captain's word carried by the bosun. Ren's first use of the
+(`MCD-255`), with a ram-cart on the mole. Anirak commands her three (Edda, Hamund, Odile, `MCD-1890`, `ARS-447`) and Ren
+(`CC-101`, `ARS-446`) with the Captain's word carried by the bosun. Ren's first use of the
 active field in an engagement. Notable register. Kill status: none; the landing captain is disarmed and
 sits (`CC-164`), no marquee kill spent (Gethin Tamber, `MCD-1898`, is the only one used so far, of at most three, `MCD-1881`). New named
 characters: none. Places: Windbreak and Ashcoral are locked settlements (`MCD-255`), neither used before in
@@ -24,7 +24,7 @@ Windbreak sat under its hill with its roofs hunched to the wind. Grey slate. Tho
 
 Past the point, keels. Many. Laden low. Oars dipping in time, a beat no fisherman kept.
 
-Half the fleet was three days south at Ashcoral. The rest lay at anchor in the roads, and the Captain had said mole.
+Half the fleet was away at Ashcoral. The rest lay at anchor in the roads, and the Captain had said mole.
 
 "All of it?"
 
@@ -38,7 +38,7 @@ She went forward.
 
 The faces on the deck turned as she passed and stayed turned. She went through them to the bow.
 
-Ren sat on the anchor housing with his bowl on his knee. The ring lay around him as it had for months, but the ring had drawn in. A man could stand at the edge of it now without his knees bending. He wore the Captain's boots, and the planks under the housing groaned low. The vest the Captain had measured him for was still on the bench.
+Ren sat on the anchor housing with his bowl on his knee. The ring lay around him as it had for three years, but the ring had drawn in. A man could stand at the edge of it now without his knees bending. He wore the boots the Captain had built him, and the planks under the housing groaned low.
 
 She stepped inside. The weight came down on her shoulders, less than it had been. The chains hung heavy at her knees.
 
@@ -56,7 +56,7 @@ He set the bowl down.
 
 "And when I say, the other thing."
 
-He looked at his hands. He had worked the field up and down on a bare shelf of rock for months, in front of one person at a time, and never once with a line of men on the other side of it.
+He looked at his hands. He had worked the field up and down on a bare shelf of rock for three years, and never once with a line of men on the other side of it.
 
 "Where?"
 
@@ -82,7 +82,7 @@ Hamund went.
 
 Odile set her back to the first cask beside it and said nothing.
 
-Ren stood at the pad's middle, where she had put him. The stone under the Captain's boots lay quiet.
+Ren stood at the pad's middle, where she had put him. The stone under the boots the Captain had built him lay quiet.
 
 "They will come at me," he said.
 
@@ -148,15 +148,15 @@ A Fang left her hand and hooked the haft below the lead pikehead. She pulled. Th
 
 The links began to warm.
 
-She ran the Fangs in a figure-eight. Left, right, crossing before her. The air moaned through the chain. A cap spun away. Pikes left hands. A shield-rim opened a forearm to the bone, and the man stood holding the arm and staring at it. Each blow came back up her shoulders heavier than she had sent it, and the next went out faster.
+She ran the Fangs in a figure-eight. Left, right, crossing before her. The chains keened as they crossed. A cap spun away. Pikes left hands. A shield-rim opened a forearm to the bone, and the man stood holding the arm and staring at it. Each blow came back up her shoulders heavier than she had sent it, and the next went out faster.
 
 The soldiers held. A hundred and sixty boots set down together.
 
-She let her voice go.
+She opened her throat.
 
-Low in her throat. Under hearing. The crystal in the gorget took it up and laid it forward in a wedge.
+Under hearing. The gorget's crystal took the hum and threw it ahead of her in a wedge.
 
-The front rank felt it in their chests. Men who had kept their eyes on her boots found the boots swimming. Pikes swayed. A man stepped back to where he judged himself clear, one pace out of the Fangs' reach, and had judged wrong. The figure-eight found him. His shield went spinning across the stone.
+The front rank felt it in their chests. Men who had kept their eyes on her boots found the boots swimming. Pikes swayed. A man stepped back to where he judged himself clear, one pace out of the Fangs' reach, and had judged wrong. The next pass caught him square. His shield went spinning across the stone.
 
 The beat broke.
 
@@ -182,7 +182,7 @@ The cart did not bow. It had too much weight behind it. It rolled straight at hi
 
 She dropped the sergeant's shield. He stumbled and went to one knee. Both Fangs went out together.
 
-One hooked the cart's top rail. The other took the near wheel-pin. She set her feet and pulled, and the pull came back through her heavier than she had sent it, because forty men were pushing on the other end. She fed that into the next throw. The links ran warm across her fingers and the chain sang. She whipped a wrap round the axle, hauled, and the whole frame yawed and leaned. The lashings on the hide parted one after another with sounds like snapped bowstrings. The wheel-pin sheared. The cart lurched off its line and rolled slantwise onto the pad, into the middle of it, twelve paces from Ren.
+One hooked the cart's top rail. The other took the near wheel-pin. She set her feet and pulled, and the pull came back through her heavier than she had sent it, because forty men were pushing on the other end. She fed that into the next throw. The links ran warm across her fingers and the chain sang. She whipped a wrap round the axle, hauled, and the whole frame yawed and leaned. The lashings on the hide parted one after another with sounds like snapped bowstrings. The wheel-pin sheared. The cart lurched off its line and rolled slantwise onto the pad's seaward half, twelve paces from Ren.
 
 Ten.
 
@@ -226,7 +226,7 @@ The sound lifted off the stone like a lid.
 
 She went back out through the lane.
 
-The captain had not gone down. He stood at the far rim of the pad, outside the fifteen strides, with a dozen of the rear rank around him, pikes up. His better cap sat straight on his head.
+The captain had not gone down. He stood beyond the pad's seaward rim, outside the fifteen strides, with a dozen of the rear rank around him, pikes up. His better cap sat straight on his head.
 
 "Once," she said. "Sit, or go to the boats."
 
@@ -234,7 +234,7 @@ The rear rank had watched the pad go. Their pikes shook. A few came down. Four m
 
 The captain came on.
 
-The Fang went out and wrapped his shield's rim. She held it. The other chain took his sword arm at the wrist, and the Star came off her back in her free hand and closed its talons on the blade and wrenched. The sword left him. He stood in the middle of the pad, holding a shield he could not lift, with a hand he could not close.
+The Fang went out and wrapped his shield's rim. She held it. The other chain took his sword arm at the wrist, and the Star came off her back in her free hand and closed its talons on the blade and wrenched. The sword left him. He stood on the pad's seaward edge, clear of Ren's ring, holding a shield he could not lift, with a hand he could not close.
 
 She walked the line he was standing on. Round him. Round again.
 
@@ -290,7 +290,7 @@ Ren stood on the split paving, in the middle of what he had done. The stone bene
 
 She had no answer. She walked the rim of the crack.
 
-Edda came across the pad and put a heel of bread in her hand. She ate it on her feet.
+Edda came as far as the crack's far rim, outside Ren's ring, and held out a heel of bread. She went to Edda for it and ate it on her feet.
 
 "Tomorrow," Ren said. "If they send another."
 
@@ -309,25 +309,23 @@ He looked at the star of cracks, and at the cart in pieces. His mouth moved.
 ---
 
 *Continuity notes (not narrative): a new event, not on the locked battle lists. The Long Mask, roughly Kanja 303,
-a few months after Ren comes aboard (roughly Kanja 300, `MCD-1900`, `CC-101`) and before the Proxy War is
+about three years after Ren comes aboard (roughly Kanja 300, `MCD-1900`, `CC-101`) and before the Proxy War is
 discovered (305, `MCD-271`); the entry neither shows nor hints at it. The Captain does not appear. His order is
-carried by the bosun in two phrases ("Mole's yours." "And Ren. If Ren's willing."), consistent with `MCD-260`,
-`MCD-271` ("the Avatars fought, the Captain directed"; the crew handling a Trust probe on its own at 300) and
+carried by the bosun in two phrases ("Mole's yours." "And Ren. If Ren's willing."), consistent with `MCD-260`
+("the Avatars fought, the Captain directed") and `MCD-271` (the crew handling a Trust probe on its own at 300) and
 `MCD-253` (he directs and does not suppress, hence "if Ren's willing"). Nothing in the entry reads the Captain's
 condition at all, and nothing hints at its cause, the Pi-Awakening, the murder or Book 1 (`MCD-1902`,
 `MCD-1903`, `MCD-1904`). Windbreak and Ashcoral are named in `MCD-255` (the Southern Sweep, ages 50 to 70,
 Trust extraction undercut, infrastructure fixed, integrated into the Ghost-Lattice) and appear in no earlier
 entry or rule beyond that list; Windbreak's mole, elbow pad, neck and harbor gate are new minor geography
-(flagged); half the fleet three days south at Ashcoral is only a reason the rest of the fleet is absent from the
+(flagged); half the fleet away at Ashcoral is only a reason the rest of the fleet is absent from the
 mole. The landing party is a Trust force (the Trust's coastal probes continue after the Governor's truce of
 `MCD-260`): no rank, uniform, unit or doctrine is stated, and the captain's "Eyes down. Her boots." is one
 officer's improvisation against what rumor says of her eyes (the epithet's public legend, `CC-163` as amended
 Batch 372), not a standing practice of any institution (`VB-068`'s institution bar). The cart is a wheeled
 timber ram-frame with a hide face, pushed by forty on poles: pre-industrial, no engine. Ren (Abyss, Ren Oshaal,
 `CC-066`, `CC-101`): the passive field (+30% within about 5 m) is shown as the ring and the groaning planks and
-the column bowing away from the pad; the Kanja-built compensator boots are worn (`CC-101`) and the vest he was measured for on the ninth day of
-`MCD-1900` is "still on the bench" (a minor new fact, flagged: no rule dates its delivery, and `MCD-277` dates the
-last item the Captain forges to 304), so the active field (+200% load within about 15 m) runs with no vest; his months of practice on bare rock are mentioned without naming his practice partner
+the column bowing away from the pad; the Kanja-built compensator boots are worn (`CC-101`); his three years of practice on bare rock are mentioned without naming his practice partner
 (`MCD-1715`); this is his first use of the active field in an engagement, which `MCD-1715` leaves open ("if he is
 ever to trust it in an engagement"). The Depth-Charge (the 1 m crush with six hours' recovery) is not used. His
 field is held eleven breaths. The pad's star-crack and the split crane footing are the field's load on stone
