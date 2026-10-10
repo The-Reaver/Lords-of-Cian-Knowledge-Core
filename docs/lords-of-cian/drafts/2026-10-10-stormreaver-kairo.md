@@ -220,9 +220,9 @@ Era and gear check: no gear is placed. `ARS-410`'s Zephyr-Frame and Lenses are u
 9. **Mining batch.** Both progression documents in one batch, through the full gate, with the conditions in section 4.
 10. **Crew with powers.** The nineteen Avatars of `MCD-140`, Lauris, and any crew member a locked rule gives variant or other non-baseline biology. Standard-biology members, the founding dock crew and Onyx are outside it.
 
-### Still open for Abad
+### Confirmed by Abad (2026-10-10)
 
-Confirm the Brain Trust's narrowing of the hidden-program link. The option you chose, "Hidden program", named the faction as "the same powers the warlord's treachery later raised (Vile-Sire and Hollow-Dam)". The fifth ruling reads that as the faction as an institution and leaves unset whether those two led it when the program began (`POL-109`). Recommend confirming the narrowing, because it sets how much of the Sin-Eaters' history belongs to the two who rule at Book 1.
+The Brain Trust's narrowing of the hidden-program link is confirmed. Abad, verbatim: "Yes, confirm the narrowing." He then confirmed it again, choosing "Same power, leaders unset (Recommended)". The faction is the same power as Vile-Sire and Hollow-Dam, and whether those two personally led it from the program's start stays unset (`POL-109`). Nothing remains open in this draft.
 
 ## 6. Collision check
 
