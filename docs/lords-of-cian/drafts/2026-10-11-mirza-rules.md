@@ -204,7 +204,7 @@ case-insensitive searches for the common words.
 | `MCD-1040`, "The Pact Signed in Salt Water" | Sovereign Ghost of the Great Sea | 24, Rebellion | "Three years on" from `MCD-490`. The header states no age. The Sovereign Ghost corpus runs ages 21 to 30 (profile), so 24 fits. |
 | `MCD-1414`, "What He Would Not Teach a Crown" | Iron Bastard, wave 31 (XCIII) | Long Mask, age unpinned: at least 31, at most 313 | The entry states no age. Its wave-mates use the post-Mafesto kit (`MCD-1413`, and the Batch 326 corrections to `MCD-1290`, `MCD-1293`, `MCD-1296`, `MCD-1302`), and it follows `MCD-1307` (wave 30, the academy's charter) and `MCD-551`. No Iron Bastard profile file exists yet to pin it further. |
 
-- **One Mirza fits.** The state is one state and the Axiom stands behind both acts, but the entries are
+- **One Mirza fits.** The state is one state and the crown stands behind the pact, the Axiom behind the offer, but the entries are
   sequential, not simultaneous. The pact comes first, at 24, and the offer comes at least seven years later
   (Long Mask, after 30), and probably decades later, since the offer follows three generations of the
   doctrine's students (`MCD-499`, `MCD-719`, `MCD-967`) and the academy's rise (`MCD-551`, `MCD-1307`). The
